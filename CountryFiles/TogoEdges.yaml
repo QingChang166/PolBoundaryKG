@@ -1,1 +1,6 @@
-relations: (AfricaContinent, Togo)
+relations:
+    - (Togo, PlateauxRegion)
+    - (Togo, SavanesRegion)
+    - (Togo, KaraRegion)
+    - (Togo, CentraleRegion)
+    - (Togo, MaritimeRegion)

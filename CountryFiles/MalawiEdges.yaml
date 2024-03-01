@@ -1,1 +1,4 @@
-relations: (AfricaContinent, Malawi)
+relations:
+    - (Malawi, NorthernRegion)
+    - (Malawi, CentralRegion)
+    - (Malawi, SouthernRegion)

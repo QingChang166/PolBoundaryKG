@@ -1,1 +1,11 @@
-relations: (OceaniaContinent, SolomonIslands)
+relations:
+    - (SolomonIslands, Isabel)
+    - (SolomonIslands, Choiseul)
+    - (SolomonIslands, Makira)
+    - (SolomonIslands, Temotu)
+    - (SolomonIslands, Malaita)
+    - (SolomonIslands, RennellandBellona)
+    - (SolomonIslands, Guadalcanal)
+    - (SolomonIslands, Central)
+    - (SolomonIslands, Western)
+    - (SolomonIslands, CapitalTerritory(Honiara))

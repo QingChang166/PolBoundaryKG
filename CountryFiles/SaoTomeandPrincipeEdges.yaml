@@ -1,1 +1,3 @@
-relations: (AfricaContinent, SaoTomeandPrincipe)
+relations:
+    - (SaoTomeandPrincipe, PríncipeProvince)
+    - (SaoTomeandPrincipe, SãoToméProvince)
