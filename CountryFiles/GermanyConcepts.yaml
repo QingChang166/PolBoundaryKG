@@ -1,17 +1,217 @@
 concepts:
-    - Brandenburg
-    - Hessen
-    - Mecklenburg-Vorpommern
-    - Thüringen
-    - Schleswig-Holstein
-    - Bremen
-    - Hamburg
-    - Saarland
-    - Niedersachsen
-    - Berlin
-    - Rheinland-Pfalz
-    - Bayern
-    - Nordrhein-Westfalen
-    - Baden-Württemberg
-    - Sachsen-Anhalt
-    - Sachsen
+  ArnsbergAdm2DEU:
+    admin_name: Arnsberg
+    iso3c: DEU
+    shapeID: 9070358B40774776719210
+  Baden-WürttembergAdm1DEU:
+    admin_name: Baden-Württemberg
+    iso3c: DEU
+    shapeID: 10402087B60055985875400
+  BayernAdm1DEU:
+    admin_name: Bayern
+    iso3c: DEU
+    shapeID: 10402087B60477050509260
+  BerlinAdm1DEU:
+    admin_name: Berlin
+    iso3c: DEU
+    shapeID: 10402087B20892132820961
+  BerlinAdm2DEU:
+    admin_name: Berlin
+    iso3c: DEU
+    shapeID: 9070358B20892132820961
+  BrandenburgAdm1DEU:
+    admin_name: Brandenburg
+    iso3c: DEU
+    shapeID: 10402087B40185768535592
+  BrandenburgAdm2DEU:
+    admin_name: Brandenburg
+    iso3c: DEU
+    shapeID: 9070358B40185768535592
+  BraunschweigAdm2DEU:
+    admin_name: Braunschweig
+    iso3c: DEU
+    shapeID: 9070358B23702346475723
+  BremenAdm1DEU:
+    admin_name: Bremen
+    iso3c: DEU
+    shapeID: 10402087B44391416804171
+  BremenAdm2DEU:
+    admin_name: Bremen
+    iso3c: DEU
+    shapeID: 9070358B44391416804171
+  ChemnitzAdm2DEU:
+    admin_name: Chemnitz
+    iso3c: DEU
+    shapeID: 9070358B71894413182695
+  DarmstadtAdm2DEU:
+    admin_name: Darmstadt
+    iso3c: DEU
+    shapeID: 9070358B42560167255242
+  DetmoldAdm2DEU:
+    admin_name: Detmold
+    iso3c: DEU
+    shapeID: 9070358B64982818747725
+  DresdenAdm2DEU:
+    admin_name: Dresden
+    iso3c: DEU
+    shapeID: 9070358B71091673137763
+  DüsseldorfAdm2DEU:
+    admin_name: Düsseldorf
+    iso3c: DEU
+    shapeID: 9070358B16138204042833
+  FreiburgAdm2DEU:
+    admin_name: Freiburg
+    iso3c: DEU
+    shapeID: 9070358B61051204169762
+  GießenAdm2DEU:
+    admin_name: Gießen
+    iso3c: DEU
+    shapeID: 9070358B56635429978008
+  HamburgAdm1DEU:
+    admin_name: Hamburg
+    iso3c: DEU
+    shapeID: 10402087B45896528657515
+  HamburgAdm2DEU:
+    admin_name: Hamburg
+    iso3c: DEU
+    shapeID: 9070358B45896528657515
+  HannoverAdm2DEU:
+    admin_name: Hannover
+    iso3c: DEU
+    shapeID: 9070358B94432643063062
+  HessenAdm1DEU:
+    admin_name: Hessen
+    iso3c: DEU
+    shapeID: 10402087B85226028911536
+  KarlsruheAdm2DEU:
+    admin_name: Karlsruhe
+    iso3c: DEU
+    shapeID: 9070358B19876986675637
+  KasselAdm2DEU:
+    admin_name: Kassel
+    iso3c: DEU
+    shapeID: 9070358B5760978041875
+  KoblenzAdm2DEU:
+    admin_name: Koblenz
+    iso3c: DEU
+    shapeID: 9070358B14573642950642
+  KölnAdm2DEU:
+    admin_name: Köln
+    iso3c: DEU
+    shapeID: 9070358B57109950257038
+  LeipzigAdm2DEU:
+    admin_name: Leipzig
+    iso3c: DEU
+    shapeID: 9070358B77675294704498
+  LüneburgAdm2DEU:
+    admin_name: Lüneburg
+    iso3c: DEU
+    shapeID: 9070358B4064771181754
+  Mecklenburg-VorpommernAdm1DEU:
+    admin_name: Mecklenburg-Vorpommern
+    iso3c: DEU
+    shapeID: 10402087B60782008682549
+  Mecklenburg-VorpommernAdm2DEU:
+    admin_name: Mecklenburg-Vorpommern
+    iso3c: DEU
+    shapeID: 9070358B60782008682549
+  MittelfrankenAdm2DEU:
+    admin_name: Mittelfranken
+    iso3c: DEU
+    shapeID: 9070358B15061347548929
+  MünsterAdm2DEU:
+    admin_name: Münster
+    iso3c: DEU
+    shapeID: 9070358B93499833428165
+  NiederbayernAdm2DEU:
+    admin_name: Niederbayern
+    iso3c: DEU
+    shapeID: 9070358B22007842747726
+  NiedersachsenAdm1DEU:
+    admin_name: Niedersachsen
+    iso3c: DEU
+    shapeID: 10402087B38053019909436
+  Nordrhein-WestfalenAdm1DEU:
+    admin_name: Nordrhein-Westfalen
+    iso3c: DEU
+    shapeID: 10402087B86022102756745
+  OberbayernAdm2DEU:
+    admin_name: Oberbayern
+    iso3c: DEU
+    shapeID: 9070358B1315543690610
+  OberfrankenAdm2DEU:
+    admin_name: Oberfranken
+    iso3c: DEU
+    shapeID: 9070358B72727683862663
+  OberpfalzAdm2DEU:
+    admin_name: Oberpfalz
+    iso3c: DEU
+    shapeID: 9070358B44987229854715
+  Rheinhessen-PfalzAdm2DEU:
+    admin_name: Rheinhessen-Pfalz
+    iso3c: DEU
+    shapeID: 9070358B81909410124776
+  Rheinland-PfalzAdm1DEU:
+    admin_name: Rheinland-Pfalz
+    iso3c: DEU
+    shapeID: 10402087B42728698084544
+  SaarlandAdm1DEU:
+    admin_name: Saarland
+    iso3c: DEU
+    shapeID: 10402087B83775792336645
+  SaarlandAdm2DEU:
+    admin_name: Saarland
+    iso3c: DEU
+    shapeID: 9070358B83775792336645
+  Sachsen-AnhaltAdm1DEU:
+    admin_name: Sachsen-Anhalt
+    iso3c: DEU
+    shapeID: 10402087B23625801106445
+  Sachsen-AnhaltAdm2DEU:
+    admin_name: Sachsen-Anhalt
+    iso3c: DEU
+    shapeID: 9070358B23625801106445
+  SachsenAdm1DEU:
+    admin_name: Sachsen
+    iso3c: DEU
+    shapeID: 10402087B89016843004490
+  Schleswig-HolsteinAdm1DEU:
+    admin_name: Schleswig-Holstein
+    iso3c: DEU
+    shapeID: 10402087B46069870964378
+  Schleswig-HolsteinAdm2DEU:
+    admin_name: Schleswig-Holstein
+    iso3c: DEU
+    shapeID: 9070358B46069870964378
+  SchwabenAdm2DEU:
+    admin_name: Schwaben
+    iso3c: DEU
+    shapeID: 9070358B65596861168427
+  StuttgartAdm2DEU:
+    admin_name: Stuttgart
+    iso3c: DEU
+    shapeID: 9070358B86745718691241
+  ThüringenAdm1DEU:
+    admin_name: Thüringen
+    iso3c: DEU
+    shapeID: 10402087B67217417145666
+  ThüringenAdm2DEU:
+    admin_name: Thüringen
+    iso3c: DEU
+    shapeID: 9070358B67217417145666
+  TrierAdm2DEU:
+    admin_name: Trier
+    iso3c: DEU
+    shapeID: 9070358B88105018400154
+  TübingenAdm2DEU:
+    admin_name: Tübingen
+    iso3c: DEU
+    shapeID: 9070358B15022388296844
+  UnterfrankenAdm2DEU:
+    admin_name: Unterfranken
+    iso3c: DEU
+    shapeID: 9070358B89448690772082
+  Weser-EmsAdm2DEU:
+    admin_name: Weser-Ems
+    iso3c: DEU
+    shapeID: 9070358B2639969244614

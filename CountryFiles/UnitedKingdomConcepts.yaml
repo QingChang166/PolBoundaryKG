@@ -1,5 +1,881 @@
 concepts:
-    - Wales
-    - Scotland
-    - England
-    - NorthernIreland
+  AberdeenCityAdm2GBR:
+    admin_name: AberdeenCity
+    iso3c: GBR
+    shapeID: 9080712B69395336637105
+  AberdeenshireAdm2GBR:
+    admin_name: Aberdeenshire
+    iso3c: GBR
+    shapeID: 9080712B52971041074481
+  AngusAdm2GBR:
+    admin_name: Angus
+    iso3c: GBR
+    shapeID: 9080712B36084717029338
+  AntrimandNewtownabbeyAdm2GBR:
+    admin_name: AntrimandNewtownabbey
+    iso3c: GBR
+    shapeID: 9080712B89184827117381
+  ArdsandNorthDownAdm2GBR:
+    admin_name: ArdsandNorthDown
+    iso3c: GBR
+    shapeID: 9080712B7932686865756
+  ArgyllandButeAdm2GBR:
+    admin_name: ArgyllandBute
+    iso3c: GBR
+    shapeID: 9080712B25370122996382
+  ArmaghCity,BanbridgeandCraigavonAdm2GBR:
+    admin_name: ArmaghCity,BanbridgeandCraigavon
+    iso3c: GBR
+    shapeID: 9080712B2696242106213
+  BarkingandDagenhamAdm2GBR:
+    admin_name: BarkingandDagenham
+    iso3c: GBR
+    shapeID: 9080712B32800787628045
+  BarnetAdm2GBR:
+    admin_name: Barnet
+    iso3c: GBR
+    shapeID: 9080712B71536097625899
+  BarnsleyAdm2GBR:
+    admin_name: Barnsley
+    iso3c: GBR
+    shapeID: 9080712B3282712316304
+  BathandNorthEastSomersetAdm2GBR:
+    admin_name: BathandNorthEastSomerset
+    iso3c: GBR
+    shapeID: 9080712B9983033008018
+  BedfordAdm2GBR:
+    admin_name: Bedford
+    iso3c: GBR
+    shapeID: 9080712B13475745568199
+  BelfastAdm2GBR:
+    admin_name: Belfast
+    iso3c: GBR
+    shapeID: 9080712B3525939255113
+  BexleyAdm2GBR:
+    admin_name: Bexley
+    iso3c: GBR
+    shapeID: 9080712B42809460048540
+  BirminghamAdm2GBR:
+    admin_name: Birmingham
+    iso3c: GBR
+    shapeID: 9080712B21869275799194
+  BlackburnwithDarwenAdm2GBR:
+    admin_name: BlackburnwithDarwen
+    iso3c: GBR
+    shapeID: 9080712B32751289600863
+  BlackpoolAdm2GBR:
+    admin_name: Blackpool
+    iso3c: GBR
+    shapeID: 9080712B37944261721885
+  BlaenauGwentAdm2GBR:
+    admin_name: BlaenauGwent
+    iso3c: GBR
+    shapeID: 9080712B1934102491611
+  BoltonAdm2GBR:
+    admin_name: Bolton
+    iso3c: GBR
+    shapeID: 9080712B22531050101095
+  Bournemouth,ChristchurchandPooleAdm2GBR:
+    admin_name: Bournemouth,ChristchurchandPoole
+    iso3c: GBR
+    shapeID: 9080712B40703473834354
+  BracknellForestAdm2GBR:
+    admin_name: BracknellForest
+    iso3c: GBR
+    shapeID: 9080712B96176542594177
+  BradfordAdm2GBR:
+    admin_name: Bradford
+    iso3c: GBR
+    shapeID: 9080712B23771476284084
+  BrentAdm2GBR:
+    admin_name: Brent
+    iso3c: GBR
+    shapeID: 9080712B99403255709140
+  BridgendAdm2GBR:
+    admin_name: Bridgend
+    iso3c: GBR
+    shapeID: 9080712B76343097183385
+  BrightonandHoveAdm2GBR:
+    admin_name: BrightonandHove
+    iso3c: GBR
+    shapeID: 9080712B43205947123995
+  Bristol,CityofAdm2GBR:
+    admin_name: Bristol,Cityof
+    iso3c: GBR
+    shapeID: 9080712B10494943031822
+  BromleyAdm2GBR:
+    admin_name: Bromley
+    iso3c: GBR
+    shapeID: 9080712B62294642180343
+  BuckinghamshireAdm2GBR:
+    admin_name: Buckinghamshire
+    iso3c: GBR
+    shapeID: 9080712B36857766137746
+  BuryAdm2GBR:
+    admin_name: Bury
+    iso3c: GBR
+    shapeID: 9080712B83069320891793
+  CaerphillyAdm2GBR:
+    admin_name: Caerphilly
+    iso3c: GBR
+    shapeID: 9080712B28109040189769
+  CalderdaleAdm2GBR:
+    admin_name: Calderdale
+    iso3c: GBR
+    shapeID: 9080712B8704755387481
+  CambridgeshireAdm2GBR:
+    admin_name: Cambridgeshire
+    iso3c: GBR
+    shapeID: 9080712B4246065068944
+  CamdenAdm2GBR:
+    admin_name: Camden
+    iso3c: GBR
+    shapeID: 9080712B44623990435361
+  CardiffAdm2GBR:
+    admin_name: Cardiff
+    iso3c: GBR
+    shapeID: 9080712B81959387268883
+  CarmarthenshireAdm2GBR:
+    admin_name: Carmarthenshire
+    iso3c: GBR
+    shapeID: 9080712B87157839876770
+  CausewayCoastandGlensAdm2GBR:
+    admin_name: CausewayCoastandGlens
+    iso3c: GBR
+    shapeID: 9080712B10379595920788
+  CentralBedfordshireAdm2GBR:
+    admin_name: CentralBedfordshire
+    iso3c: GBR
+    shapeID: 9080712B60024212351077
+  CeredigionAdm2GBR:
+    admin_name: Ceredigion
+    iso3c: GBR
+    shapeID: 9080712B80842466042481
+  CheshireEastAdm2GBR:
+    admin_name: CheshireEast
+    iso3c: GBR
+    shapeID: 9080712B31316334032792
+  CheshireWestandChesterAdm2GBR:
+    admin_name: CheshireWestandChester
+    iso3c: GBR
+    shapeID: 9080712B12877752368476
+  CityofEdinburghAdm2GBR:
+    admin_name: CityofEdinburgh
+    iso3c: GBR
+    shapeID: 9080712B66869919487356
+  CityofLondonAdm2GBR:
+    admin_name: CityofLondon
+    iso3c: GBR
+    shapeID: 9080712B97999030763342
+  ClackmannanshireAdm2GBR:
+    admin_name: Clackmannanshire
+    iso3c: GBR
+    shapeID: 9080712B38440699506222
+  ConwyAdm2GBR:
+    admin_name: Conwy
+    iso3c: GBR
+    shapeID: 9080712B48550997087693
+  CornwallAdm2GBR:
+    admin_name: Cornwall
+    iso3c: GBR
+    shapeID: 9080712B98094820769769
+  CountyDurhamAdm2GBR:
+    admin_name: CountyDurham
+    iso3c: GBR
+    shapeID: 9080712B53048697166448
+  CoventryAdm2GBR:
+    admin_name: Coventry
+    iso3c: GBR
+    shapeID: 9080712B38310041330511
+  CroydonAdm2GBR:
+    admin_name: Croydon
+    iso3c: GBR
+    shapeID: 9080712B54972646687738
+  CumbriaAdm2GBR:
+    admin_name: Cumbria
+    iso3c: GBR
+    shapeID: 9080712B6175013023687
+  DarlingtonAdm2GBR:
+    admin_name: Darlington
+    iso3c: GBR
+    shapeID: 9080712B89266027185106
+  DenbighshireAdm2GBR:
+    admin_name: Denbighshire
+    iso3c: GBR
+    shapeID: 9080712B21023064751221
+  DerbyAdm2GBR:
+    admin_name: Derby
+    iso3c: GBR
+    shapeID: 9080712B32467801340280
+  DerbyshireAdm2GBR:
+    admin_name: Derbyshire
+    iso3c: GBR
+    shapeID: 9080712B74961375967872
+  DerryCityandStrabaneAdm2GBR:
+    admin_name: DerryCityandStrabane
+    iso3c: GBR
+    shapeID: 9080712B49734305235119
+  DevonAdm2GBR:
+    admin_name: Devon
+    iso3c: GBR
+    shapeID: 9080712B40461513313000
+  DoncasterAdm2GBR:
+    admin_name: Doncaster
+    iso3c: GBR
+    shapeID: 9080712B63045965946923
+  DorsetAdm2GBR:
+    admin_name: Dorset
+    iso3c: GBR
+    shapeID: 9080712B78235082436645
+  DudleyAdm2GBR:
+    admin_name: Dudley
+    iso3c: GBR
+    shapeID: 9080712B44533972228842
+  DumfriesandGallowayAdm2GBR:
+    admin_name: DumfriesandGalloway
+    iso3c: GBR
+    shapeID: 9080712B59577127146209
+  DundeeCityAdm2GBR:
+    admin_name: DundeeCity
+    iso3c: GBR
+    shapeID: 9080712B78429963709327
+  EalingAdm2GBR:
+    admin_name: Ealing
+    iso3c: GBR
+    shapeID: 9080712B48606994457952
+  EastAyrshireAdm2GBR:
+    admin_name: EastAyrshire
+    iso3c: GBR
+    shapeID: 9080712B42083415128674
+  EastDunbartonshireAdm2GBR:
+    admin_name: EastDunbartonshire
+    iso3c: GBR
+    shapeID: 9080712B91055386237905
+  EastLothianAdm2GBR:
+    admin_name: EastLothian
+    iso3c: GBR
+    shapeID: 9080712B46190908677710
+  EastRenfrewshireAdm2GBR:
+    admin_name: EastRenfrewshire
+    iso3c: GBR
+    shapeID: 9080712B79311717082917
+  EastRidingofYorkshireAdm2GBR:
+    admin_name: EastRidingofYorkshire
+    iso3c: GBR
+    shapeID: 9080712B28971928404108
+  EastSussexAdm2GBR:
+    admin_name: EastSussex
+    iso3c: GBR
+    shapeID: 9080712B49710830872213
+  EnfieldAdm2GBR:
+    admin_name: Enfield
+    iso3c: GBR
+    shapeID: 9080712B27244151555615
+  EnglandAdm1GBR:
+    admin_name: England
+    iso3c: GBR
+    shapeID: 14339913B95766344400054
+  EssexAdm2GBR:
+    admin_name: Essex
+    iso3c: GBR
+    shapeID: 9080712B25638337328506
+  FalkirkAdm2GBR:
+    admin_name: Falkirk
+    iso3c: GBR
+    shapeID: 9080712B52642862033865
+  FermanaghandOmaghAdm2GBR:
+    admin_name: FermanaghandOmagh
+    iso3c: GBR
+    shapeID: 9080712B62714260736365
+  FifeAdm2GBR:
+    admin_name: Fife
+    iso3c: GBR
+    shapeID: 9080712B66154945568348
+  FlintshireAdm2GBR:
+    admin_name: Flintshire
+    iso3c: GBR
+    shapeID: 9080712B22270450131797
+  GatesheadAdm2GBR:
+    admin_name: Gateshead
+    iso3c: GBR
+    shapeID: 9080712B2437499004309
+  GlasgowCityAdm2GBR:
+    admin_name: GlasgowCity
+    iso3c: GBR
+    shapeID: 9080712B55197068501600
+  GloucestershireAdm2GBR:
+    admin_name: Gloucestershire
+    iso3c: GBR
+    shapeID: 9080712B66020945008942
+  GreenwichAdm2GBR:
+    admin_name: Greenwich
+    iso3c: GBR
+    shapeID: 9080712B64588414247228
+  GwyneddAdm2GBR:
+    admin_name: Gwynedd
+    iso3c: GBR
+    shapeID: 9080712B16572211542142
+  HackneyAdm2GBR:
+    admin_name: Hackney
+    iso3c: GBR
+    shapeID: 9080712B81123650494794
+  HaltonAdm2GBR:
+    admin_name: Halton
+    iso3c: GBR
+    shapeID: 9080712B51460389892119
+  HammersmithandFulhamAdm2GBR:
+    admin_name: HammersmithandFulham
+    iso3c: GBR
+    shapeID: 9080712B6991151074246
+  HampshireAdm2GBR:
+    admin_name: Hampshire
+    iso3c: GBR
+    shapeID: 9080712B82982752923250
+  HaringeyAdm2GBR:
+    admin_name: Haringey
+    iso3c: GBR
+    shapeID: 9080712B98331752183955
+  HarrowAdm2GBR:
+    admin_name: Harrow
+    iso3c: GBR
+    shapeID: 9080712B85229688010924
+  HartlepoolAdm2GBR:
+    admin_name: Hartlepool
+    iso3c: GBR
+    shapeID: 9080712B85828081186623
+  HaveringAdm2GBR:
+    admin_name: Havering
+    iso3c: GBR
+    shapeID: 9080712B13607306368601
+  Herefordshire,CountyofAdm2GBR:
+    admin_name: Herefordshire,Countyof
+    iso3c: GBR
+    shapeID: 9080712B5594507413041
+  HertfordshireAdm2GBR:
+    admin_name: Hertfordshire
+    iso3c: GBR
+    shapeID: 9080712B77152843970873
+  HighlandAdm2GBR:
+    admin_name: Highland
+    iso3c: GBR
+    shapeID: 9080712B91815969558421
+  HillingdonAdm2GBR:
+    admin_name: Hillingdon
+    iso3c: GBR
+    shapeID: 9080712B45194275403121
+  HounslowAdm2GBR:
+    admin_name: Hounslow
+    iso3c: GBR
+    shapeID: 9080712B85959270461063
+  InverclydeAdm2GBR:
+    admin_name: Inverclyde
+    iso3c: GBR
+    shapeID: 9080712B15817911955776
+  IsleofAngleseyAdm2GBR:
+    admin_name: IsleofAnglesey
+    iso3c: GBR
+    shapeID: 9080712B15924150199921
+  IsleofWightAdm2GBR:
+    admin_name: IsleofWight
+    iso3c: GBR
+    shapeID: 9080712B78405188412125
+  IslesofScillyAdm2GBR:
+    admin_name: IslesofScilly
+    iso3c: GBR
+    shapeID: 9080712B23650621580823
+  IslingtonAdm2GBR:
+    admin_name: Islington
+    iso3c: GBR
+    shapeID: 9080712B49045247202114
+  KensingtonandChelseaAdm2GBR:
+    admin_name: KensingtonandChelsea
+    iso3c: GBR
+    shapeID: 9080712B39473788331099
+  KentAdm2GBR:
+    admin_name: Kent
+    iso3c: GBR
+    shapeID: 9080712B50502218108090
+  KingstonuponHull,CityofAdm2GBR:
+    admin_name: KingstonuponHull,Cityof
+    iso3c: GBR
+    shapeID: 9080712B56986734231358
+  KingstonuponThamesAdm2GBR:
+    admin_name: KingstonuponThames
+    iso3c: GBR
+    shapeID: 9080712B89177385119631
+  KirkleesAdm2GBR:
+    admin_name: Kirklees
+    iso3c: GBR
+    shapeID: 9080712B97607393689303
+  KnowsleyAdm2GBR:
+    admin_name: Knowsley
+    iso3c: GBR
+    shapeID: 9080712B12767275988339
+  LambethAdm2GBR:
+    admin_name: Lambeth
+    iso3c: GBR
+    shapeID: 9080712B40540283796062
+  LancashireAdm2GBR:
+    admin_name: Lancashire
+    iso3c: GBR
+    shapeID: 9080712B59490743406981
+  LeedsAdm2GBR:
+    admin_name: Leeds
+    iso3c: GBR
+    shapeID: 9080712B71751850087335
+  LeicesterAdm2GBR:
+    admin_name: Leicester
+    iso3c: GBR
+    shapeID: 9080712B47135883289090
+  LeicestershireAdm2GBR:
+    admin_name: Leicestershire
+    iso3c: GBR
+    shapeID: 9080712B79420428964989
+  LewishamAdm2GBR:
+    admin_name: Lewisham
+    iso3c: GBR
+    shapeID: 9080712B25883423000924
+  LincolnshireAdm2GBR:
+    admin_name: Lincolnshire
+    iso3c: GBR
+    shapeID: 9080712B90248628602253
+  LisburnandCastlereaghAdm2GBR:
+    admin_name: LisburnandCastlereagh
+    iso3c: GBR
+    shapeID: 9080712B9143936598786
+  LiverpoolAdm2GBR:
+    admin_name: Liverpool
+    iso3c: GBR
+    shapeID: 9080712B96150168023464
+  LutonAdm2GBR:
+    admin_name: Luton
+    iso3c: GBR
+    shapeID: 9080712B46742375662988
+  ManchesterAdm2GBR:
+    admin_name: Manchester
+    iso3c: GBR
+    shapeID: 9080712B20393636496486
+  MedwayAdm2GBR:
+    admin_name: Medway
+    iso3c: GBR
+    shapeID: 9080712B90512601892505
+  MerthyrTydfilAdm2GBR:
+    admin_name: MerthyrTydfil
+    iso3c: GBR
+    shapeID: 9080712B53025975773445
+  MertonAdm2GBR:
+    admin_name: Merton
+    iso3c: GBR
+    shapeID: 9080712B31505825113523
+  MidandEastAntrimAdm2GBR:
+    admin_name: MidandEastAntrim
+    iso3c: GBR
+    shapeID: 9080712B28598685825084
+  MiddlesbroughAdm2GBR:
+    admin_name: Middlesbrough
+    iso3c: GBR
+    shapeID: 9080712B54771853646183
+  MidlothianAdm2GBR:
+    admin_name: Midlothian
+    iso3c: GBR
+    shapeID: 9080712B81121647411187
+  MidUlsterAdm2GBR:
+    admin_name: MidUlster
+    iso3c: GBR
+    shapeID: 9080712B21956478421018
+  MiltonKeynesAdm2GBR:
+    admin_name: MiltonKeynes
+    iso3c: GBR
+    shapeID: 9080712B88448712790613
+  MonmouthshireAdm2GBR:
+    admin_name: Monmouthshire
+    iso3c: GBR
+    shapeID: 9080712B23643149504284
+  MorayAdm2GBR:
+    admin_name: Moray
+    iso3c: GBR
+    shapeID: 9080712B86559204581792
+  Nah-EileananSiarAdm2GBR:
+    admin_name: Nah-EileananSiar
+    iso3c: GBR
+    shapeID: 9080712B88283028070578
+  NeathPortTalbotAdm2GBR:
+    admin_name: NeathPortTalbot
+    iso3c: GBR
+    shapeID: 9080712B46320351698050
+  NewcastleuponTyneAdm2GBR:
+    admin_name: NewcastleuponTyne
+    iso3c: GBR
+    shapeID: 9080712B62740831619911
+  NewhamAdm2GBR:
+    admin_name: Newham
+    iso3c: GBR
+    shapeID: 9080712B98999290586969
+  NewportAdm2GBR:
+    admin_name: Newport
+    iso3c: GBR
+    shapeID: 9080712B95574283757937
+  Newry,MourneandDownAdm2GBR:
+    admin_name: Newry,MourneandDown
+    iso3c: GBR
+    shapeID: 9080712B31055162860413
+  NorfolkAdm2GBR:
+    admin_name: Norfolk
+    iso3c: GBR
+    shapeID: 9080712B83077014043228
+  NorthamptonshireAdm2GBR:
+    admin_name: Northamptonshire
+    iso3c: GBR
+    shapeID: 9080712B11141313508988
+  NorthAyrshireAdm2GBR:
+    admin_name: NorthAyrshire
+    iso3c: GBR
+    shapeID: 9080712B36728770903523
+  NorthEastLincolnshireAdm2GBR:
+    admin_name: NorthEastLincolnshire
+    iso3c: GBR
+    shapeID: 9080712B12342579002925
+  NorthernIrelandAdm1GBR:
+    admin_name: NorthernIreland
+    iso3c: GBR
+    shapeID: 14339913B6930312138089
+  NorthLanarkshireAdm2GBR:
+    admin_name: NorthLanarkshire
+    iso3c: GBR
+    shapeID: 9080712B69676153783016
+  NorthLincolnshireAdm2GBR:
+    admin_name: NorthLincolnshire
+    iso3c: GBR
+    shapeID: 9080712B98057919128788
+  NorthSomersetAdm2GBR:
+    admin_name: NorthSomerset
+    iso3c: GBR
+    shapeID: 9080712B76508115164917
+  NorthTynesideAdm2GBR:
+    admin_name: NorthTyneside
+    iso3c: GBR
+    shapeID: 9080712B17423214226317
+  NorthumberlandAdm2GBR:
+    admin_name: Northumberland
+    iso3c: GBR
+    shapeID: 9080712B7447903754756
+  NorthYorkshireAdm2GBR:
+    admin_name: NorthYorkshire
+    iso3c: GBR
+    shapeID: 9080712B35554323277661
+  NottinghamAdm2GBR:
+    admin_name: Nottingham
+    iso3c: GBR
+    shapeID: 9080712B68933313347611
+  NottinghamshireAdm2GBR:
+    admin_name: Nottinghamshire
+    iso3c: GBR
+    shapeID: 9080712B41579914196826
+  OldhamAdm2GBR:
+    admin_name: Oldham
+    iso3c: GBR
+    shapeID: 9080712B4133396952261
+  OrkneyIslandsAdm2GBR:
+    admin_name: OrkneyIslands
+    iso3c: GBR
+    shapeID: 9080712B10902750514558
+  OxfordshireAdm2GBR:
+    admin_name: Oxfordshire
+    iso3c: GBR
+    shapeID: 9080712B80551480535536
+  PembrokeshireAdm2GBR:
+    admin_name: Pembrokeshire
+    iso3c: GBR
+    shapeID: 9080712B36001150789343
+  PerthandKinrossAdm2GBR:
+    admin_name: PerthandKinross
+    iso3c: GBR
+    shapeID: 9080712B7748136752415
+  PeterboroughAdm2GBR:
+    admin_name: Peterborough
+    iso3c: GBR
+    shapeID: 9080712B4855529337749
+  PlymouthAdm2GBR:
+    admin_name: Plymouth
+    iso3c: GBR
+    shapeID: 9080712B87516054474396
+  PortsmouthAdm2GBR:
+    admin_name: Portsmouth
+    iso3c: GBR
+    shapeID: 9080712B92506212242541
+  PowysAdm2GBR:
+    admin_name: Powys
+    iso3c: GBR
+    shapeID: 9080712B19665394937089
+  ReadingAdm2GBR:
+    admin_name: Reading
+    iso3c: GBR
+    shapeID: 9080712B93971223877788
+  RedbridgeAdm2GBR:
+    admin_name: Redbridge
+    iso3c: GBR
+    shapeID: 9080712B26905607212870
+  RedcarandClevelandAdm2GBR:
+    admin_name: RedcarandCleveland
+    iso3c: GBR
+    shapeID: 9080712B22025454221821
+  RenfrewshireAdm2GBR:
+    admin_name: Renfrewshire
+    iso3c: GBR
+    shapeID: 9080712B56111689743265
+  RhonddaCynonTafAdm2GBR:
+    admin_name: RhonddaCynonTaf
+    iso3c: GBR
+    shapeID: 9080712B86479073269736
+  RichmonduponThamesAdm2GBR:
+    admin_name: RichmonduponThames
+    iso3c: GBR
+    shapeID: 9080712B29790766461311
+  RochdaleAdm2GBR:
+    admin_name: Rochdale
+    iso3c: GBR
+    shapeID: 9080712B16183166657262
+  RotherhamAdm2GBR:
+    admin_name: Rotherham
+    iso3c: GBR
+    shapeID: 9080712B32197267489799
+  RutlandAdm2GBR:
+    admin_name: Rutland
+    iso3c: GBR
+    shapeID: 9080712B73406686460432
+  SalfordAdm2GBR:
+    admin_name: Salford
+    iso3c: GBR
+    shapeID: 9080712B15005694696398
+  SandwellAdm2GBR:
+    admin_name: Sandwell
+    iso3c: GBR
+    shapeID: 9080712B47230865000916
+  ScotlandAdm1GBR:
+    admin_name: Scotland
+    iso3c: GBR
+    shapeID: 14339913B23556801435424
+  ScottishBordersAdm2GBR:
+    admin_name: ScottishBorders
+    iso3c: GBR
+    shapeID: 9080712B19053725173599
+  SeftonAdm2GBR:
+    admin_name: Sefton
+    iso3c: GBR
+    shapeID: 9080712B54053191384380
+  SheffieldAdm2GBR:
+    admin_name: Sheffield
+    iso3c: GBR
+    shapeID: 9080712B81701554326999
+  ShetlandIslandsAdm2GBR:
+    admin_name: ShetlandIslands
+    iso3c: GBR
+    shapeID: 9080712B55246028514226
+  ShropshireAdm2GBR:
+    admin_name: Shropshire
+    iso3c: GBR
+    shapeID: 9080712B55803343495584
+  SloughAdm2GBR:
+    admin_name: Slough
+    iso3c: GBR
+    shapeID: 9080712B22478548835512
+  SolihullAdm2GBR:
+    admin_name: Solihull
+    iso3c: GBR
+    shapeID: 9080712B1828811301066
+  SomersetAdm2GBR:
+    admin_name: Somerset
+    iso3c: GBR
+    shapeID: 9080712B37427777231285
+  SouthamptonAdm2GBR:
+    admin_name: Southampton
+    iso3c: GBR
+    shapeID: 9080712B73113130044871
+  SouthAyrshireAdm2GBR:
+    admin_name: SouthAyrshire
+    iso3c: GBR
+    shapeID: 9080712B98945924735770
+  Southend-on-SeaAdm2GBR:
+    admin_name: Southend-on-Sea
+    iso3c: GBR
+    shapeID: 9080712B47278631126332
+  SouthGloucestershireAdm2GBR:
+    admin_name: SouthGloucestershire
+    iso3c: GBR
+    shapeID: 9080712B15930172924849
+  SouthLanarkshireAdm2GBR:
+    admin_name: SouthLanarkshire
+    iso3c: GBR
+    shapeID: 9080712B16357572195959
+  SouthTynesideAdm2GBR:
+    admin_name: SouthTyneside
+    iso3c: GBR
+    shapeID: 9080712B62643231913665
+  SouthwarkAdm2GBR:
+    admin_name: Southwark
+    iso3c: GBR
+    shapeID: 9080712B52245663238426
+  St.HelensAdm2GBR:
+    admin_name: St.Helens
+    iso3c: GBR
+    shapeID: 9080712B4740307637574
+  StaffordshireAdm2GBR:
+    admin_name: Staffordshire
+    iso3c: GBR
+    shapeID: 9080712B65780734394683
+  StirlingAdm2GBR:
+    admin_name: Stirling
+    iso3c: GBR
+    shapeID: 9080712B54756394112344
+  StockportAdm2GBR:
+    admin_name: Stockport
+    iso3c: GBR
+    shapeID: 9080712B60430436170387
+  Stockton-on-TeesAdm2GBR:
+    admin_name: Stockton-on-Tees
+    iso3c: GBR
+    shapeID: 9080712B97653147824640
+  Stoke-on-TrentAdm2GBR:
+    admin_name: Stoke-on-Trent
+    iso3c: GBR
+    shapeID: 9080712B71816088812668
+  SuffolkAdm2GBR:
+    admin_name: Suffolk
+    iso3c: GBR
+    shapeID: 9080712B36657010499477
+  SunderlandAdm2GBR:
+    admin_name: Sunderland
+    iso3c: GBR
+    shapeID: 9080712B98965500414849
+  SurreyAdm2GBR:
+    admin_name: Surrey
+    iso3c: GBR
+    shapeID: 9080712B28065602717884
+  SuttonAdm2GBR:
+    admin_name: Sutton
+    iso3c: GBR
+    shapeID: 9080712B3334907750367
+  SwanseaAdm2GBR:
+    admin_name: Swansea
+    iso3c: GBR
+    shapeID: 9080712B37144090362745
+  SwindonAdm2GBR:
+    admin_name: Swindon
+    iso3c: GBR
+    shapeID: 9080712B7263019231598
+  TamesideAdm2GBR:
+    admin_name: Tameside
+    iso3c: GBR
+    shapeID: 9080712B12556953600805
+  TelfordandWrekinAdm2GBR:
+    admin_name: TelfordandWrekin
+    iso3c: GBR
+    shapeID: 9080712B62596959688734
+  ThurrockAdm2GBR:
+    admin_name: Thurrock
+    iso3c: GBR
+    shapeID: 9080712B87926195520176
+  TorbayAdm2GBR:
+    admin_name: Torbay
+    iso3c: GBR
+    shapeID: 9080712B51297890528855
+  TorfaenAdm2GBR:
+    admin_name: Torfaen
+    iso3c: GBR
+    shapeID: 9080712B72120355157145
+  TowerHamletsAdm2GBR:
+    admin_name: TowerHamlets
+    iso3c: GBR
+    shapeID: 9080712B53792364084436
+  TraffordAdm2GBR:
+    admin_name: Trafford
+    iso3c: GBR
+    shapeID: 9080712B55874049977973
+  ValeofGlamorganAdm2GBR:
+    admin_name: ValeofGlamorgan
+    iso3c: GBR
+    shapeID: 9080712B65892771938338
+  WakefieldAdm2GBR:
+    admin_name: Wakefield
+    iso3c: GBR
+    shapeID: 9080712B70108318673900
+  WalesAdm1GBR:
+    admin_name: Wales
+    iso3c: GBR
+    shapeID: 14339913B89763821047858
+  WalsallAdm2GBR:
+    admin_name: Walsall
+    iso3c: GBR
+    shapeID: 9080712B32663712859434
+  WalthamForestAdm2GBR:
+    admin_name: WalthamForest
+    iso3c: GBR
+    shapeID: 9080712B6382316371033
+  WandsworthAdm2GBR:
+    admin_name: Wandsworth
+    iso3c: GBR
+    shapeID: 9080712B56158297313901
+  WarringtonAdm2GBR:
+    admin_name: Warrington
+    iso3c: GBR
+    shapeID: 9080712B26308767875419
+  WarwickshireAdm2GBR:
+    admin_name: Warwickshire
+    iso3c: GBR
+    shapeID: 9080712B45484448191926
+  WestBerkshireAdm2GBR:
+    admin_name: WestBerkshire
+    iso3c: GBR
+    shapeID: 9080712B61960711063879
+  WestDunbartonshireAdm2GBR:
+    admin_name: WestDunbartonshire
+    iso3c: GBR
+    shapeID: 9080712B85348255985817
+  WestLothianAdm2GBR:
+    admin_name: WestLothian
+    iso3c: GBR
+    shapeID: 9080712B85446341431548
+  WestminsterAdm2GBR:
+    admin_name: Westminster
+    iso3c: GBR
+    shapeID: 9080712B54935279696040
+  WestSussexAdm2GBR:
+    admin_name: WestSussex
+    iso3c: GBR
+    shapeID: 9080712B8322367437762
+  WiganAdm2GBR:
+    admin_name: Wigan
+    iso3c: GBR
+    shapeID: 9080712B31567540756481
+  WiltshireAdm2GBR:
+    admin_name: Wiltshire
+    iso3c: GBR
+    shapeID: 9080712B26415072681887
+  WindsorandMaidenheadAdm2GBR:
+    admin_name: WindsorandMaidenhead
+    iso3c: GBR
+    shapeID: 9080712B6821814533908
+  WirralAdm2GBR:
+    admin_name: Wirral
+    iso3c: GBR
+    shapeID: 9080712B56467558784278
+  WokinghamAdm2GBR:
+    admin_name: Wokingham
+    iso3c: GBR
+    shapeID: 9080712B70395567962126
+  WolverhamptonAdm2GBR:
+    admin_name: Wolverhampton
+    iso3c: GBR
+    shapeID: 9080712B12207688808427
+  WorcestershireAdm2GBR:
+    admin_name: Worcestershire
+    iso3c: GBR
+    shapeID: 9080712B7142008744258
+  WrexhamAdm2GBR:
+    admin_name: Wrexham
+    iso3c: GBR
+    shapeID: 9080712B59470533264950
+  YorkAdm2GBR:
+    admin_name: York
+    iso3c: GBR
+    shapeID: 9080712B71139559915773

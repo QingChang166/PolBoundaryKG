@@ -1,20 +1,869 @@
 concepts:
-    - Hajdú-Bihar
-    - Borsod-Abaúj-Zemplén
-    - Nógrád
-    - Békés
-    - Somogy
-    - Tolna
-    - Heves
-    - Szabolcs-Szatmár-Bereg
-    - Pest
-    - Csongrád-Csanád
-    - Bács-Kiskun
-    - Fejér
-    - Jász-Nagykun-Szolnok
-    - Baranya
-    - Gy?r-Moson-Sopron
-    - Vas
-    - Zala
-    - Komárom-Esztergom
-    - Veszprém
+  AjkaAdm2HUN:
+    admin_name: Ajka
+    iso3c: HUN
+    shapeID: 29324351B10991297218940
+  AszódAdm2HUN:
+    admin_name: Aszód
+    iso3c: HUN
+    shapeID: 29324351B50382392927859
+  Bács-KiskunAdm1HUN:
+    admin_name: Bács-Kiskun
+    iso3c: HUN
+    shapeID: 22733592B34864686161966
+  BácsalmásAdm2HUN:
+    admin_name: Bácsalmás
+    iso3c: HUN
+    shapeID: 29324351B15780020768514
+  BajaAdm2HUN:
+    admin_name: Baja
+    iso3c: HUN
+    shapeID: 29324351B71835081693637
+  BaktalórántházaAdm2HUN:
+    admin_name: Baktalórántháza
+    iso3c: HUN
+    shapeID: 29324351B65977544049997
+  BalassagyarmatAdm2HUN:
+    admin_name: Balassagyarmat
+    iso3c: HUN
+    shapeID: 29324351B82944401951456
+  BalatonalmádiAdm2HUN:
+    admin_name: Balatonalmádi
+    iso3c: HUN
+    shapeID: 29324351B60941439582412
+  BalatonfüredAdm2HUN:
+    admin_name: Balatonfüred
+    iso3c: HUN
+    shapeID: 29324351B762959002670
+  BalmazújvárosAdm2HUN:
+    admin_name: Balmazújváros
+    iso3c: HUN
+    shapeID: 29324351B92428111819733
+  BaranyaAdm1HUN:
+    admin_name: Baranya
+    iso3c: HUN
+    shapeID: 22733592B86637050333024
+  BarcsAdm2HUN:
+    admin_name: Barcs
+    iso3c: HUN
+    shapeID: 29324351B18567734506452
+  BátonyterenyeAdm2HUN:
+    admin_name: Bátonyterenye
+    iso3c: HUN
+    shapeID: 29324351B56045578299852
+  BékésAdm1HUN:
+    admin_name: Békés
+    iso3c: HUN
+    shapeID: 22733592B23182986205710
+  BékésAdm2HUN:
+    admin_name: Békés
+    iso3c: HUN
+    shapeID: 29324351B26757746144974
+  BékéscsabaAdm2HUN:
+    admin_name: Békéscsaba
+    iso3c: HUN
+    shapeID: 29324351B28196379207641
+  BélapátfalvaAdm2HUN:
+    admin_name: Bélapátfalva
+    iso3c: HUN
+    shapeID: 29324351B23474669057686
+  BerettyóújfaluAdm2HUN:
+    admin_name: Berettyóújfalu
+    iso3c: HUN
+    shapeID: 29324351B12075266323762
+  BicskeAdm2HUN:
+    admin_name: Bicske
+    iso3c: HUN
+    shapeID: 29324351B82209146768719
+  BólyAdm2HUN:
+    admin_name: Bóly
+    iso3c: HUN
+    shapeID: 29324351B81922721379182
+  BonyhádAdm2HUN:
+    admin_name: Bonyhád
+    iso3c: HUN
+    shapeID: 29324351B63392680538044
+  Borsod-Abaúj-ZemplénAdm1HUN:
+    admin_name: Borsod-Abaúj-Zemplén
+    iso3c: HUN
+    shapeID: 22733592B38895068362950
+  BudakesziAdm2HUN:
+    admin_name: Budakeszi
+    iso3c: HUN
+    shapeID: 29324351B85218864120607
+  CeglédAdm2HUN:
+    admin_name: Cegléd
+    iso3c: HUN
+    shapeID: 29324351B16707660931954
+  CelldömölkAdm2HUN:
+    admin_name: Celldömölk
+    iso3c: HUN
+    shapeID: 29324351B90406004650576
+  CigándAdm2HUN:
+    admin_name: Cigánd
+    iso3c: HUN
+    shapeID: 29324351B98604369762267
+  CsengerAdm2HUN:
+    admin_name: Csenger
+    iso3c: HUN
+    shapeID: 29324351B8509855098374
+  Csongrád-CsanádAdm1HUN:
+    admin_name: Csongrád-Csanád
+    iso3c: HUN
+    shapeID: 22733592B44371380589399
+  CsongrádAdm2HUN:
+    admin_name: Csongrád
+    iso3c: HUN
+    shapeID: 29324351B6298673495678
+  CsornaAdm2HUN:
+    admin_name: Csorna
+    iso3c: HUN
+    shapeID: 29324351B91883286789266
+  CsurgóAdm2HUN:
+    admin_name: Csurgó
+    iso3c: HUN
+    shapeID: 29324351B86084178005111
+  DabasAdm2HUN:
+    admin_name: Dabas
+    iso3c: HUN
+    shapeID: 29324351B32288408300390
+  DebrecenAdm2HUN:
+    admin_name: Debrecen
+    iso3c: HUN
+    shapeID: 29324351B36822310035452
+  DerecskeAdm2HUN:
+    admin_name: Derecske
+    iso3c: HUN
+    shapeID: 29324351B20514212047002
+  DevecserAdm2HUN:
+    admin_name: Devecser
+    iso3c: HUN
+    shapeID: 29324351B7601741840852
+  DombóvárAdm2HUN:
+    admin_name: Dombóvár
+    iso3c: HUN
+    shapeID: 29324351B62221537449092
+  DunakesziAdm2HUN:
+    admin_name: Dunakeszi
+    iso3c: HUN
+    shapeID: 29324351B38430411140592
+  DunaújvárosAdm2HUN:
+    admin_name: Dunaújváros
+    iso3c: HUN
+    shapeID: 29324351B10993504419720
+  EdelényAdm2HUN:
+    admin_name: Edelény
+    iso3c: HUN
+    shapeID: 29324351B88366786631623
+  EgerAdm2HUN:
+    admin_name: Eger
+    iso3c: HUN
+    shapeID: 29324351B12199416185357
+  EncsAdm2HUN:
+    admin_name: Encs
+    iso3c: HUN
+    shapeID: 29324351B65612612808807
+  EnyingAdm2HUN:
+    admin_name: Enying
+    iso3c: HUN
+    shapeID: 29324351B88573603654075
+  ÉrdAdm2HUN:
+    admin_name: Érd
+    iso3c: HUN
+    shapeID: 29324351B80516590483657
+  EsztergomAdm2HUN:
+    admin_name: Esztergom
+    iso3c: HUN
+    shapeID: 29324351B57212670902783
+  FehérgyarmatAdm2HUN:
+    admin_name: Fehérgyarmat
+    iso3c: HUN
+    shapeID: 29324351B90195802177800
+  FejérAdm1HUN:
+    admin_name: Fejér
+    iso3c: HUN
+    shapeID: 22733592B12094485051524
+  FonyódAdm2HUN:
+    admin_name: Fonyód
+    iso3c: HUN
+    shapeID: 29324351B52017606538668
+  FüzesabonyAdm2HUN:
+    admin_name: Füzesabony
+    iso3c: HUN
+    shapeID: 29324351B52903326721080
+  GárdonyAdm2HUN:
+    admin_name: Gárdony
+    iso3c: HUN
+    shapeID: 29324351B61800013316430
+  GödöllőAdm2HUN:
+    admin_name: Gödöllő
+    iso3c: HUN
+    shapeID: 29324351B22411896375880
+  GöncAdm2HUN:
+    admin_name: Gönc
+    iso3c: HUN
+    shapeID: 29324351B6414083113465
+  GyálAdm2HUN:
+    admin_name: Gyál
+    iso3c: HUN
+    shapeID: 29324351B29430301576014
+  GyomaendrődAdm2HUN:
+    admin_name: Gyomaendrőd
+    iso3c: HUN
+    shapeID: 29324351B53714157489274
+  GyöngyösAdm2HUN:
+    admin_name: Gyöngyös
+    iso3c: HUN
+    shapeID: 29324351B27767094770808
+  Győr-Moson-SopronAdm1HUN:
+    admin_name: Győr-Moson-Sopron
+    iso3c: HUN
+    shapeID: 22733592B30896182433416
+  GyőrAdm2HUN:
+    admin_name: Győr
+    iso3c: HUN
+    shapeID: 29324351B37323443326794
+  GyulaAdm2HUN:
+    admin_name: Gyula
+    iso3c: HUN
+    shapeID: 29324351B34499791349229
+  Hajdú-BiharAdm1HUN:
+    admin_name: Hajdú-Bihar
+    iso3c: HUN
+    shapeID: 22733592B65065142275382
+  HajdúböszörményAdm2HUN:
+    admin_name: Hajdúböszörmény
+    iso3c: HUN
+    shapeID: 29324351B375953294593
+  HajdúhadházAdm2HUN:
+    admin_name: Hajdúhadház
+    iso3c: HUN
+    shapeID: 29324351B346435226136
+  HajdúnánásAdm2HUN:
+    admin_name: Hajdúnánás
+    iso3c: HUN
+    shapeID: 29324351B55863387889256
+  HajdúszoboszlóAdm2HUN:
+    admin_name: Hajdúszoboszló
+    iso3c: HUN
+    shapeID: 29324351B14267583856651
+  HatvanAdm2HUN:
+    admin_name: Hatvan
+    iso3c: HUN
+    shapeID: 29324351B59642904520588
+  HegyhátAdm2HUN:
+    admin_name: Hegyhát
+    iso3c: HUN
+    shapeID: 29324351B2428360507602
+  HevesAdm1HUN:
+    admin_name: Heves
+    iso3c: HUN
+    shapeID: 22733592B80362656403521
+  HevesAdm2HUN:
+    admin_name: Heves
+    iso3c: HUN
+    shapeID: 29324351B98570485543856
+  HódmezővásárhelyAdm2HUN:
+    admin_name: Hódmezővásárhely
+    iso3c: HUN
+    shapeID: 29324351B94287858849029
+  I.kerületAdm2HUN:
+    admin_name: I.kerület
+    iso3c: HUN
+    shapeID: 29324351B49195835467543
+  IbrányAdm2HUN:
+    admin_name: Ibrány
+    iso3c: HUN
+    shapeID: 29324351B2289536541114
+  II.kerületAdm2HUN:
+    admin_name: II.kerület
+    iso3c: HUN
+    shapeID: 29324351B17150670854059
+  III.kerületAdm2HUN:
+    admin_name: III.kerület
+    iso3c: HUN
+    shapeID: 29324351B70301622091711
+  IV.kerületAdm2HUN:
+    admin_name: IV.kerület
+    iso3c: HUN
+    shapeID: 29324351B90751662013836
+  IX.kerületAdm2HUN:
+    admin_name: IX.kerület
+    iso3c: HUN
+    shapeID: 29324351B72683693955281
+  JánoshalmaAdm2HUN:
+    admin_name: Jánoshalma
+    iso3c: HUN
+    shapeID: 29324351B70008004597559
+  Jász-Nagykun-SzolnokAdm1HUN:
+    admin_name: Jász-Nagykun-Szolnok
+    iso3c: HUN
+    shapeID: 22733592B98149210561707
+  JászapátiAdm2HUN:
+    admin_name: Jászapáti
+    iso3c: HUN
+    shapeID: 29324351B28105357471369
+  JászberényAdm2HUN:
+    admin_name: Jászberény
+    iso3c: HUN
+    shapeID: 29324351B49530192160695
+  KalocsaAdm2HUN:
+    admin_name: Kalocsa
+    iso3c: HUN
+    shapeID: 29324351B82416661125489
+  KaposvárAdm2HUN:
+    admin_name: Kaposvár
+    iso3c: HUN
+    shapeID: 29324351B82626826412739
+  KapuvárAdm2HUN:
+    admin_name: Kapuvár
+    iso3c: HUN
+    shapeID: 29324351B81254697002874
+  KarcagAdm2HUN:
+    admin_name: Karcag
+    iso3c: HUN
+    shapeID: 29324351B42719777436045
+  KazincbarcikaAdm2HUN:
+    admin_name: Kazincbarcika
+    iso3c: HUN
+    shapeID: 29324351B64142145633857
+  KecskemétAdm2HUN:
+    admin_name: Kecskemét
+    iso3c: HUN
+    shapeID: 29324351B56755021532346
+  KemecseAdm2HUN:
+    admin_name: Kemecse
+    iso3c: HUN
+    shapeID: 29324351B7310125525343
+  KeszthelyAdm2HUN:
+    admin_name: Keszthely
+    iso3c: HUN
+    shapeID: 29324351B25852095205111
+  KisbérAdm2HUN:
+    admin_name: Kisbér
+    iso3c: HUN
+    shapeID: 29324351B80690517159671
+  KiskőrösAdm2HUN:
+    admin_name: Kiskőrös
+    iso3c: HUN
+    shapeID: 29324351B26528580735255
+  KiskunfélegyházaAdm2HUN:
+    admin_name: Kiskunfélegyháza
+    iso3c: HUN
+    shapeID: 29324351B49950379779247
+  KiskunhalasAdm2HUN:
+    admin_name: Kiskunhalas
+    iso3c: HUN
+    shapeID: 29324351B28130767487114
+  KiskunmajsaAdm2HUN:
+    admin_name: Kiskunmajsa
+    iso3c: HUN
+    shapeID: 29324351B48480359091619
+  KistelekAdm2HUN:
+    admin_name: Kistelek
+    iso3c: HUN
+    shapeID: 29324351B3471751764707
+  KisvárdaAdm2HUN:
+    admin_name: Kisvárda
+    iso3c: HUN
+    shapeID: 29324351B52256945922375
+  Komárom-EsztergomAdm1HUN:
+    admin_name: Komárom-Esztergom
+    iso3c: HUN
+    shapeID: 22733592B67277482146773
+  KomáromAdm2HUN:
+    admin_name: Komárom
+    iso3c: HUN
+    shapeID: 29324351B3296553858406
+  KomlóAdm2HUN:
+    admin_name: Komló
+    iso3c: HUN
+    shapeID: 29324351B97776648624515
+  KörmendAdm2HUN:
+    admin_name: Körmend
+    iso3c: HUN
+    shapeID: 29324351B56704341196763
+  KőszegAdm2HUN:
+    admin_name: Kőszeg
+    iso3c: HUN
+    shapeID: 29324351B86194041607687
+  KunhegyesAdm2HUN:
+    admin_name: Kunhegyes
+    iso3c: HUN
+    shapeID: 29324351B47163605920247
+  KunszentmártonjAdm2HUN:
+    admin_name: Kunszentmártonj
+    iso3c: HUN
+    shapeID: 29324351B38101139987491
+  KunszentmiklósAdm2HUN:
+    admin_name: Kunszentmiklós
+    iso3c: HUN
+    shapeID: 29324351B60097132624631
+  LentiAdm2HUN:
+    admin_name: Lenti
+    iso3c: HUN
+    shapeID: 29324351B23394374057025
+  LetenyeAdm2HUN:
+    admin_name: Letenye
+    iso3c: HUN
+    shapeID: 29324351B15320966193473
+  MakóAdm2HUN:
+    admin_name: Makó
+    iso3c: HUN
+    shapeID: 29324351B26501552372540
+  MarcaliAdm2HUN:
+    admin_name: Marcali
+    iso3c: HUN
+    shapeID: 29324351B31245903819715
+  MartonvásárAdm2HUN:
+    admin_name: Martonvásár
+    iso3c: HUN
+    shapeID: 29324351B44624748469804
+  MátészalkaAdm2HUN:
+    admin_name: Mátészalka
+    iso3c: HUN
+    shapeID: 29324351B93942115981428
+  MezőcsátAdm2HUN:
+    admin_name: Mezőcsát
+    iso3c: HUN
+    shapeID: 29324351B96322389770450
+  MezőkovácsházaAdm2HUN:
+    admin_name: Mezőkovácsháza
+    iso3c: HUN
+    shapeID: 29324351B14570012774322
+  MezőkövesdAdm2HUN:
+    admin_name: Mezőkövesd
+    iso3c: HUN
+    shapeID: 29324351B70559376289678
+  MezőtúrAdm2HUN:
+    admin_name: Mezőtúr
+    iso3c: HUN
+    shapeID: 29324351B6602555861238
+  MiskolcAdm2HUN:
+    admin_name: Miskolc
+    iso3c: HUN
+    shapeID: 29324351B2105743973822
+  MohácsAdm2HUN:
+    admin_name: Mohács
+    iso3c: HUN
+    shapeID: 29324351B5938944599393
+  MonorAdm2HUN:
+    admin_name: Monor
+    iso3c: HUN
+    shapeID: 29324351B45686510905327
+  MórAdm2HUN:
+    admin_name: Mór
+    iso3c: HUN
+    shapeID: 29324351B71845769198435
+  MórahalomAdm2HUN:
+    admin_name: Mórahalom
+    iso3c: HUN
+    shapeID: 29324351B37865017200604
+  MosonmagyaróvárAdm2HUN:
+    admin_name: Mosonmagyaróvár
+    iso3c: HUN
+    shapeID: 29324351B65156765593768
+  NagyatádAdm2HUN:
+    admin_name: Nagyatád
+    iso3c: HUN
+    shapeID: 29324351B62546212183064
+  NagykállóAdm2HUN:
+    admin_name: Nagykálló
+    iso3c: HUN
+    shapeID: 29324351B47580367601115
+  NagykanizsaAdm2HUN:
+    admin_name: Nagykanizsa
+    iso3c: HUN
+    shapeID: 29324351B44894798006917
+  NagykátaAdm2HUN:
+    admin_name: Nagykáta
+    iso3c: HUN
+    shapeID: 29324351B84817632279640
+  NagykőrösAdm2HUN:
+    admin_name: Nagykőrös
+    iso3c: HUN
+    shapeID: 29324351B16802255569317
+  NógrádAdm1HUN:
+    admin_name: Nógrád
+    iso3c: HUN
+    shapeID: 22733592B56459880018469
+  NyíradonyAdm2HUN:
+    admin_name: Nyíradony
+    iso3c: HUN
+    shapeID: 29324351B60246761039815
+  NyírbátorAdm2HUN:
+    admin_name: Nyírbátor
+    iso3c: HUN
+    shapeID: 29324351B9388289209101
+  NyíregyházaAdm2HUN:
+    admin_name: Nyíregyháza
+    iso3c: HUN
+    shapeID: 29324351B74510162827668
+  OrosházaAdm2HUN:
+    admin_name: Orosháza
+    iso3c: HUN
+    shapeID: 29324351B79985231852373
+  OroszlányAdm2HUN:
+    admin_name: Oroszlány
+    iso3c: HUN
+    shapeID: 29324351B33736658736367
+  ÓzdAdm2HUN:
+    admin_name: Ózd
+    iso3c: HUN
+    shapeID: 29324351B25894397112826
+  PaksAdm2HUN:
+    admin_name: Paks
+    iso3c: HUN
+    shapeID: 29324351B45499936105232
+  PannonhalmAdm2HUN:
+    admin_name: Pannonhalm
+    iso3c: HUN
+    shapeID: 29324351B41780162645516
+  PápaAdm2HUN:
+    admin_name: Pápa
+    iso3c: HUN
+    shapeID: 29324351B4024749452002
+  PásztóAdm2HUN:
+    admin_name: Pásztó
+    iso3c: HUN
+    shapeID: 29324351B44952693130609
+  PécsAdm2HUN:
+    admin_name: Pécs
+    iso3c: HUN
+    shapeID: 29324351B95961956952287
+  PécsváradAdm2HUN:
+    admin_name: Pécsvárad
+    iso3c: HUN
+    shapeID: 29324351B92832324365663
+  PestAdm1HUN:
+    admin_name: Pest
+    iso3c: HUN
+    shapeID: 22733592B46801225244053
+  PétervásáraAdm2HUN:
+    admin_name: Pétervására
+    iso3c: HUN
+    shapeID: 29324351B8241153725683
+  PilisvörösvárAdm2HUN:
+    admin_name: Pilisvörösvár
+    iso3c: HUN
+    shapeID: 29324351B71959122219422
+  PolgardAdm2HUN:
+    admin_name: Polgard
+    iso3c: HUN
+    shapeID: 29324351B59079160651156
+  PüspökladányAdm2HUN:
+    admin_name: Püspökladány
+    iso3c: HUN
+    shapeID: 29324351B20248288620711
+  PutnokAdm2HUN:
+    admin_name: Putnok
+    iso3c: HUN
+    shapeID: 29324351B71271443735842
+  RáckeveAdm2HUN:
+    admin_name: Ráckeve
+    iso3c: HUN
+    shapeID: 29324351B59633169817803
+  RétságAdm2HUN:
+    admin_name: Rétság
+    iso3c: HUN
+    shapeID: 29324351B54713066302032
+  SalgótarjánAdm2HUN:
+    admin_name: Salgótarján
+    iso3c: HUN
+    shapeID: 29324351B19987675928963
+  SárbogárdAdm2HUN:
+    admin_name: Sárbogárd
+    iso3c: HUN
+    shapeID: 29324351B81744380630472
+  SarkadAdm2HUN:
+    admin_name: Sarkad
+    iso3c: HUN
+    shapeID: 29324351B46460738363669
+  SárospatakAdm2HUN:
+    admin_name: Sárospatak
+    iso3c: HUN
+    shapeID: 29324351B32360656212417
+  SárvárAdm2HUN:
+    admin_name: Sárvár
+    iso3c: HUN
+    shapeID: 29324351B17821424275868
+  SátoraljaújhelyAdm2HUN:
+    admin_name: Sátoraljaújhely
+    iso3c: HUN
+    shapeID: 29324351B51357784140589
+  SellyeAdm2HUN:
+    admin_name: Sellye
+    iso3c: HUN
+    shapeID: 29324351B92387442118012
+  SiklósAdm2HUN:
+    admin_name: Siklós
+    iso3c: HUN
+    shapeID: 29324351B38027122454499
+  SiófokAdm2HUN:
+    admin_name: Siófok
+    iso3c: HUN
+    shapeID: 29324351B56266536649384
+  SomogyAdm1HUN:
+    admin_name: Somogy
+    iso3c: HUN
+    shapeID: 22733592B29270060230612
+  SopronAdm2HUN:
+    admin_name: Sopron
+    iso3c: HUN
+    shapeID: 29324351B85982525713850
+  SümegAdm2HUN:
+    admin_name: Sümeg
+    iso3c: HUN
+    shapeID: 29324351B4969216555363
+  Szabolcs-Szatmár-BeregAdm1HUN:
+    admin_name: Szabolcs-Szatmár-Bereg
+    iso3c: HUN
+    shapeID: 22733592B55295508761572
+  SzarvasAdm2HUN:
+    admin_name: Szarvas
+    iso3c: HUN
+    shapeID: 29324351B92504671094262
+  SzécsényAdm2HUN:
+    admin_name: Szécsény
+    iso3c: HUN
+    shapeID: 29324351B44873754088648
+  SzegedAdm2HUN:
+    admin_name: Szeged
+    iso3c: HUN
+    shapeID: 29324351B33810227736043
+  SzeghalomAdm2HUN:
+    admin_name: Szeghalom
+    iso3c: HUN
+    shapeID: 29324351B34031761917535
+  SzékesfehérvárAdm2HUN:
+    admin_name: Székesfehérvár
+    iso3c: HUN
+    shapeID: 29324351B96157182813674
+  SzekszárdAdm2HUN:
+    admin_name: Szekszárd
+    iso3c: HUN
+    shapeID: 29324351B36920215007258
+  SzentendreAdm2HUN:
+    admin_name: Szentendre
+    iso3c: HUN
+    shapeID: 29324351B82201614095779
+  SzentesAdm2HUN:
+    admin_name: Szentes
+    iso3c: HUN
+    shapeID: 29324351B91250672158455
+  SzentgotthárdAdm2HUN:
+    admin_name: Szentgotthárd
+    iso3c: HUN
+    shapeID: 29324351B47242541624885
+  SzentlőrincAdm2HUN:
+    admin_name: Szentlőrinc
+    iso3c: HUN
+    shapeID: 29324351B33521587589128
+  SzerencsAdm2HUN:
+    admin_name: Szerencs
+    iso3c: HUN
+    shapeID: 29324351B12023756452525
+  SzigetszentmiklósAdm2HUN:
+    admin_name: Szigetszentmiklós
+    iso3c: HUN
+    shapeID: 29324351B42360255068226
+  SzigetvárAdm2HUN:
+    admin_name: Szigetvár
+    iso3c: HUN
+    shapeID: 29324351B5849000115608
+  SzikszóAdm2HUN:
+    admin_name: Szikszó
+    iso3c: HUN
+    shapeID: 29324351B88500438003093
+  SzobAdm2HUN:
+    admin_name: Szob
+    iso3c: HUN
+    shapeID: 29324351B39346756139539
+  SzolnokAdm2HUN:
+    admin_name: Szolnok
+    iso3c: HUN
+    shapeID: 29324351B36695048717168
+  SzombathelyAdm2HUN:
+    admin_name: Szombathely
+    iso3c: HUN
+    shapeID: 29324351B31582604816780
+  TabAdm2HUN:
+    admin_name: Tab
+    iso3c: HUN
+    shapeID: 29324351B68293982181796
+  TamásiAdm2HUN:
+    admin_name: Tamási
+    iso3c: HUN
+    shapeID: 29324351B11234369507480
+  TapolcaAdm2HUN:
+    admin_name: Tapolca
+    iso3c: HUN
+    shapeID: 29324351B69988788490557
+  TataAdm2HUN:
+    admin_name: Tata
+    iso3c: HUN
+    shapeID: 29324351B36990706596584
+  TatabányaAdm2HUN:
+    admin_name: Tatabánya
+    iso3c: HUN
+    shapeID: 29324351B60940205282542
+  TétAdm2HUN:
+    admin_name: Tét
+    iso3c: HUN
+    shapeID: 29324351B71084540007683
+  TiszafüredAdm2HUN:
+    admin_name: Tiszafüred
+    iso3c: HUN
+    shapeID: 29324351B74775449565597
+  TiszakécskeAdm2HUN:
+    admin_name: Tiszakécske
+    iso3c: HUN
+    shapeID: 29324351B48875596383374
+  TiszaújvárosAdm2HUN:
+    admin_name: Tiszaújváros
+    iso3c: HUN
+    shapeID: 29324351B58493934250758
+  TiszavasváriAdm2HUN:
+    admin_name: Tiszavasvári
+    iso3c: HUN
+    shapeID: 29324351B76632336582357
+  TokajAdm2HUN:
+    admin_name: Tokaj
+    iso3c: HUN
+    shapeID: 29324351B65584922091061
+  TolnaAdm1HUN:
+    admin_name: Tolna
+    iso3c: HUN
+    shapeID: 22733592B60351968143004
+  TolnaAdm2HUN:
+    admin_name: Tolna
+    iso3c: HUN
+    shapeID: 29324351B31831219474429
+  TörökszentmiklósAdm2HUN:
+    admin_name: Törökszentmiklós
+    iso3c: HUN
+    shapeID: 29324351B81740651412758
+  V.kerületAdm2HUN:
+    admin_name: V.kerület
+    iso3c: HUN
+    shapeID: 29324351B93178924956206
+  VácAdm2HUN:
+    admin_name: Vác
+    iso3c: HUN
+    shapeID: 29324351B8842106880418
+  VárpalotaAdm2HUN:
+    admin_name: Várpalota
+    iso3c: HUN
+    shapeID: 29324351B32851138825412
+  VasAdm1HUN:
+    admin_name: Vas
+    iso3c: HUN
+    shapeID: 22733592B45424907481292
+  VásárosnaményAdm2HUN:
+    admin_name: Vásárosnamény
+    iso3c: HUN
+    shapeID: 29324351B96705177831555
+  VasvárAdm2HUN:
+    admin_name: Vasvár
+    iso3c: HUN
+    shapeID: 29324351B2934014258986
+  VecsésAdm2HUN:
+    admin_name: Vecsés
+    iso3c: HUN
+    shapeID: 29324351B31254407940943
+  VeszprémAdm1HUN:
+    admin_name: Veszprém
+    iso3c: HUN
+    shapeID: 22733592B83106366455538
+  VeszprémAdm2HUN:
+    admin_name: Veszprém
+    iso3c: HUN
+    shapeID: 29324351B91686469071415
+  VI.kerületAdm2HUN:
+    admin_name: VI.kerület
+    iso3c: HUN
+    shapeID: 29324351B32930719561556
+  VII.kerületAdm2HUN:
+    admin_name: VII.kerület
+    iso3c: HUN
+    shapeID: 29324351B46589701897294
+  VIII.kerületAdm2HUN:
+    admin_name: VIII.kerület
+    iso3c: HUN
+    shapeID: 29324351B42592770581430
+  X.kerületAdm2HUN:
+    admin_name: X.kerület
+    iso3c: HUN
+    shapeID: 29324351B76726540638538
+  XI.kerületAdm2HUN:
+    admin_name: XI.kerület
+    iso3c: HUN
+    shapeID: 29324351B88959720520640
+  XII.kerületAdm2HUN:
+    admin_name: XII.kerület
+    iso3c: HUN
+    shapeID: 29324351B56337102468292
+  XIII.kerületAdm2HUN:
+    admin_name: XIII.kerület
+    iso3c: HUN
+    shapeID: 29324351B93598688028702
+  XIV.kerületAdm2HUN:
+    admin_name: XIV.kerület
+    iso3c: HUN
+    shapeID: 29324351B51282673519961
+  XIX.kerületAdm2HUN:
+    admin_name: XIX.kerület
+    iso3c: HUN
+    shapeID: 29324351B48271862705505
+  XV.kerületAdm2HUN:
+    admin_name: XV.kerület
+    iso3c: HUN
+    shapeID: 29324351B46168178712010
+  XVI.kerületAdm2HUN:
+    admin_name: XVI.kerület
+    iso3c: HUN
+    shapeID: 29324351B59775370395245
+  XVII.kerületAdm2HUN:
+    admin_name: XVII.kerület
+    iso3c: HUN
+    shapeID: 29324351B59518201572146
+  XVIII.kerületAdm2HUN:
+    admin_name: XVIII.kerület
+    iso3c: HUN
+    shapeID: 29324351B84372205461655
+  XX.kerületAdm2HUN:
+    admin_name: XX.kerület
+    iso3c: HUN
+    shapeID: 29324351B50865238374671
+  XXI.kerületAdm2HUN:
+    admin_name: XXI.kerület
+    iso3c: HUN
+    shapeID: 29324351B49822956208308
+  XXII.kerületAdm2HUN:
+    admin_name: XXII.kerület
+    iso3c: HUN
+    shapeID: 29324351B1807923514257
+  XXIII.kerületAdm2HUN:
+    admin_name: XXIII.kerület
+    iso3c: HUN
+    shapeID: 29324351B29165515553131
+  ZáhonyAdm2HUN:
+    admin_name: Záhony
+    iso3c: HUN
+    shapeID: 29324351B39716599464162
+  ZalaAdm1HUN:
+    admin_name: Zala
+    iso3c: HUN
+    shapeID: 22733592B73257172814754
+  ZalaegerszegAdm2HUN:
+    admin_name: Zalaegerszeg
+    iso3c: HUN
+    shapeID: 29324351B74224108665872
+  ZalaszentgrótAdm2HUN:
+    admin_name: Zalaszentgrót
+    iso3c: HUN
+    shapeID: 29324351B25528544946077
+  ZircAdm2HUN:
+    admin_name: Zirc
+    iso3c: HUN
+    shapeID: 29324351B58154128715610

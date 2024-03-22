@@ -1,20 +1,829 @@
 concepts:
-    - WestDarfur
-    - SouthDarfur
-    - SouthKordofan
-    - RedSea
-    - RiverNile
-    - Sennar
-    - AbyeiPCA
-    - Gezira
-    - BlueNile
-    - WestKordofan
-    - WhiteNile
-    - Gedaref
-    - Kassala
-    - Khartoum
-    - NorthDarfur
-    - NorthKordofan
-    - Northern
-    - CentralDarfur
-    - EastDarfur
+  AbassiyaAdm2SDN:
+    admin_name: Abassiya
+    iso3c: SDN
+    shapeID: 16777658B19857105557319
+  AbuHamadAdm2SDN:
+    admin_name: AbuHamad
+    iso3c: SDN
+    shapeID: 16777658B63373210852762
+  AbuHujarAdm2SDN:
+    admin_name: AbuHujar
+    iso3c: SDN
+    shapeID: 16777658B38113510529879
+  AbuJabrahAdm2SDN:
+    admin_name: AbuJabrah
+    iso3c: SDN
+    shapeID: 16777658B57508233382932
+  AbuJubayhahAdm2SDN:
+    admin_name: AbuJubayhah
+    iso3c: SDN
+    shapeID: 16777658B72808091845483
+  AbuKarinkaAdm2SDN:
+    admin_name: AbuKarinka
+    iso3c: SDN
+    shapeID: 16777658B5227660159889
+  AbuKersholaAdm2SDN:
+    admin_name: AbuKershola
+    iso3c: SDN
+    shapeID: 16777658B31438962952191
+  AbuZabadAdm2SDN:
+    admin_name: AbuZabad
+    iso3c: SDN
+    shapeID: 16777658B30413539722349
+  AbyeiAdm2SDN:
+    admin_name: Abyei
+    iso3c: SDN
+    shapeID: 16777658B55499418827559
+  AbyeiPCAAdm1SDN:
+    admin_name: AbyeiPCA
+    iso3c: SDN
+    shapeID: 86620642B69119058579524
+  AbyeiPCAareaAdm2SDN:
+    admin_name: AbyeiPCAarea
+    iso3c: SDN
+    shapeID: 16777658B69119058579524
+  AdDabbahAdm2SDN:
+    admin_name: AdDabbah
+    iso3c: SDN
+    shapeID: 16777658B45906237385518
+  AdDaliAdm2SDN:
+    admin_name: AdDali
+    iso3c: SDN
+    shapeID: 16777658B21682317034415
+  AdDamarAdm2SDN:
+    admin_name: AdDamar
+    iso3c: SDN
+    shapeID: 16777658B48152145505779
+  AdDinderAdm2SDN:
+    admin_name: AdDinder
+    iso3c: SDN
+    shapeID: 16777658B21408858343438
+  AdDiwaimAdm2SDN:
+    admin_name: AdDiwaim
+    iso3c: SDN
+    shapeID: 16777658B64603280901749
+  AdDu'aynAdm2SDN:
+    admin_name: AdDu'ayn
+    iso3c: SDN
+    shapeID: 16777658B96658977374271
+  AdilaAdm2SDN:
+    admin_name: Adila
+    iso3c: SDN
+    shapeID: 16777658B87348298332109
+  AgGeneinaAdm2SDN:
+    admin_name: AgGeneina
+    iso3c: SDN
+    shapeID: 16777658B14333470072302
+  AgigAdm2SDN:
+    admin_name: Agig
+    iso3c: SDN
+    shapeID: 16777658B73946128996237
+  AjJabalainAdm2SDN:
+    admin_name: AjJabalain
+    iso3c: SDN
+    shapeID: 16777658B9479825368273
+  AlBuhairaAdm2SDN:
+    admin_name: AlBuhaira
+    iso3c: SDN
+    shapeID: 16777658B74414599531320
+  AlBuramAdm2SDN:
+    admin_name: AlBuram
+    iso3c: SDN
+    shapeID: 16777658B98120028392417
+  AlBurgaigAdm2SDN:
+    admin_name: AlBurgaig
+    iso3c: SDN
+    shapeID: 16777658B75799368386758
+  AlButanahAdm2SDN:
+    admin_name: AlButanah
+    iso3c: SDN
+    shapeID: 16777658B92441932102927
+  AlDibabAdm2SDN:
+    admin_name: AlDibab
+    iso3c: SDN
+    shapeID: 16777658B84287593257313
+  AlFaoAdm2SDN:
+    admin_name: AlFao
+    iso3c: SDN
+    shapeID: 16777658B5270052963378
+  AlFashagaAdm2SDN:
+    admin_name: AlFashaga
+    iso3c: SDN
+    shapeID: 16777658B79230518314977
+  AlFasherAdm2SDN:
+    admin_name: AlFasher
+    iso3c: SDN
+    shapeID: 16777658B96521919713520
+  AlFirdousAdm2SDN:
+    admin_name: AlFirdous
+    iso3c: SDN
+    shapeID: 16777658B1174782743239
+  AlGalabatAlGharbyah-KassabAdm2SDN:
+    admin_name: AlGalabatAlGharbyah-Kassab
+    iso3c: SDN
+    shapeID: 16777658B97978388224054
+  AlGanabAdm2SDN:
+    admin_name: AlGanab
+    iso3c: SDN
+    shapeID: 16777658B97228063474151
+  AlGitainaAdm2SDN:
+    admin_name: AlGitaina
+    iso3c: SDN
+    shapeID: 16777658B71030870448904
+  AlGolidAdm2SDN:
+    admin_name: AlGolid
+    iso3c: SDN
+    shapeID: 16777658B20227076213030
+  AlHasahisaAdm2SDN:
+    admin_name: AlHasahisa
+    iso3c: SDN
+    shapeID: 16777658B35693507625874
+  AlIdiaAdm2SDN:
+    admin_name: AlIdia
+    iso3c: SDN
+    shapeID: 16777658B26107376384565
+  AlKamlinAdm2SDN:
+    admin_name: AlKamlin
+    iso3c: SDN
+    shapeID: 16777658B48918222085465
+  AlKhiwaiAdm2SDN:
+    admin_name: AlKhiwai
+    iso3c: SDN
+    shapeID: 16777658B22793638103757
+  AlKomaAdm2SDN:
+    admin_name: AlKoma
+    iso3c: SDN
+    shapeID: 16777658B3899711101955
+  AlKurmukAdm2SDN:
+    admin_name: AlKurmuk
+    iso3c: SDN
+    shapeID: 16777658B11118605799379
+  AlLagowaAdm2SDN:
+    admin_name: AlLagowa
+    iso3c: SDN
+    shapeID: 16777658B4481857181861
+  AlLaitAdm2SDN:
+    admin_name: AlLait
+    iso3c: SDN
+    shapeID: 16777658B5363831702357
+  AlLeriAdm2SDN:
+    admin_name: AlLeri
+    iso3c: SDN
+    shapeID: 16777658B28886602001992
+  AlMafazaAdm2SDN:
+    admin_name: AlMafaza
+    iso3c: SDN
+    shapeID: 16777658B27903182599838
+  AlMalhaAdm2SDN:
+    admin_name: AlMalha
+    iso3c: SDN
+    shapeID: 16777658B62126851922243
+  AlManaqilAdm2SDN:
+    admin_name: AlManaqil
+    iso3c: SDN
+    shapeID: 16777658B54371162299186
+  AlMatamaAdm2SDN:
+    admin_name: AlMatama
+    iso3c: SDN
+    shapeID: 16777658B39370875153470
+  AlMeiramAdm2SDN:
+    admin_name: AlMeiram
+    iso3c: SDN
+    shapeID: 16777658B70397884779871
+  AlQuozAdm2SDN:
+    admin_name: AlQuoz
+    iso3c: SDN
+    shapeID: 16777658B4110492233788
+  AlQurashiAdm2SDN:
+    admin_name: AlQurashi
+    iso3c: SDN
+    shapeID: 16777658B73110650377423
+  AlQureishaAdm2SDN:
+    admin_name: AlQureisha
+    iso3c: SDN
+    shapeID: 16777658B80860182226455
+  AlRadoumAdm2SDN:
+    admin_name: AlRadoum
+    iso3c: SDN
+    shapeID: 16777658B70477888733853
+  AlWihdaAdm2SDN:
+    admin_name: AlWihda
+    iso3c: SDN
+    shapeID: 16777658B17164908055521
+  AnNuhudAdm2SDN:
+    admin_name: AnNuhud
+    iso3c: SDN
+    shapeID: 16777658B62353241688309
+  ArRahadAdm2SDN:
+    admin_name: ArRahad
+    iso3c: SDN
+    shapeID: 16777658B55257137653826
+  ArRashadAdm2SDN:
+    admin_name: ArRashad
+    iso3c: SDN
+    shapeID: 16777658B6695424981162
+  ArReifAshShargiAdm2SDN:
+    admin_name: ArReifAshShargi
+    iso3c: SDN
+    shapeID: 16777658B25449953916595
+  ArRusayrisAdm2SDN:
+    admin_name: ArRusayris
+    iso3c: SDN
+    shapeID: 16777658B20285079264513
+  AsSalam-SDAdm2SDN:
+    admin_name: AsSalam-SD
+    iso3c: SDN
+    shapeID: 16777658B71256064026626
+  AsSalam-WKAdm2SDN:
+    admin_name: AsSalam-WK
+    iso3c: SDN
+    shapeID: 16777658B70273794752269
+  AsSalam/ArRawatAdm2SDN:
+    admin_name: AsSalam/ArRawat
+    iso3c: SDN
+    shapeID: 16777658B2941917788931
+  AssalayaAdm2SDN:
+    admin_name: Assalaya
+    iso3c: SDN
+    shapeID: 16777658B59060398252798
+  AsSeriefAdm2SDN:
+    admin_name: AsSerief
+    iso3c: SDN
+    shapeID: 16777658B191743768731
+  AsSukiAdm2SDN:
+    admin_name: AsSuki
+    iso3c: SDN
+    shapeID: 16777658B86319641369334
+  AsSuntaAdm2SDN:
+    admin_name: AsSunta
+    iso3c: SDN
+    shapeID: 16777658B61826891911039
+  AsSunutAdm2SDN:
+    admin_name: AsSunut
+    iso3c: SDN
+    shapeID: 16777658B48194454682254
+  AtbaraAdm2SDN:
+    admin_name: Atbara
+    iso3c: SDN
+    shapeID: 16777658B19107068109893
+  AtTadamon-BNAdm2SDN:
+    admin_name: AtTadamon-BN
+    iso3c: SDN
+    shapeID: 16777658B66976297159843
+  AtTadamon-SKAdm2SDN:
+    admin_name: AtTadamon-SK
+    iso3c: SDN
+    shapeID: 16777658B49478662281146
+  AtTawishaAdm2SDN:
+    admin_name: AtTawisha
+    iso3c: SDN
+    shapeID: 16777658B99134318369126
+  AtTinaAdm2SDN:
+    admin_name: AtTina
+    iso3c: SDN
+    shapeID: 16777658B29691256653968
+  AzumAdm2SDN:
+    admin_name: Azum
+    iso3c: SDN
+    shapeID: 16777658B93719594104494
+  BabanusaAdm2SDN:
+    admin_name: Babanusa
+    iso3c: SDN
+    shapeID: 16777658B12271079488091
+  BahrAlArabAdm2SDN:
+    admin_name: BahrAlArab
+    iso3c: SDN
+    shapeID: 16777658B76242579856769
+  BahriAdm2SDN:
+    admin_name: Bahri
+    iso3c: SDN
+    shapeID: 16777658B15021592307574
+  BaraAdm2SDN:
+    admin_name: Bara
+    iso3c: SDN
+    shapeID: 16777658B73241781951906
+  BarbarAdm2SDN:
+    admin_name: Barbar
+    iso3c: SDN
+    shapeID: 16777658B59808076214537
+  BasundahAdm2SDN:
+    admin_name: Basundah
+    iso3c: SDN
+    shapeID: 16777658B35788536409023
+  BawAdm2SDN:
+    admin_name: Baw
+    iso3c: SDN
+    shapeID: 16777658B5498813311295
+  BeidaAdm2SDN:
+    admin_name: Beida
+    iso3c: SDN
+    shapeID: 16777658B9931993566109
+  BelielAdm2SDN:
+    admin_name: Beliel
+    iso3c: SDN
+    shapeID: 16777658B54519575625723
+  BendasiAdm2SDN:
+    admin_name: Bendasi
+    iso3c: SDN
+    shapeID: 16777658B55033891828638
+  BlueNileAdm1SDN:
+    admin_name: BlueNile
+    iso3c: SDN
+    shapeID: 86620642B86272532082738
+  BuramAdm2SDN:
+    admin_name: Buram
+    iso3c: SDN
+    shapeID: 16777658B28433170293690
+  CentralDarfurAdm1SDN:
+    admin_name: CentralDarfur
+    iso3c: SDN
+    shapeID: 86620642B67241023181859
+  DamsoAdm2SDN:
+    admin_name: Damso
+    iso3c: SDN
+    shapeID: 16777658B98541328968966
+  DarAsSalamAdm2SDN:
+    admin_name: DarAsSalam
+    iso3c: SDN
+    shapeID: 16777658B35355118744985
+  DelamiAdm2SDN:
+    admin_name: Delami
+    iso3c: SDN
+    shapeID: 16777658B3840179969595
+  DelgoAdm2SDN:
+    admin_name: Delgo
+    iso3c: SDN
+    shapeID: 16777658B54397395103229
+  DillingAdm2SDN:
+    admin_name: Dilling
+    iso3c: SDN
+    shapeID: 16777658B83196806362289
+  DongolaAdm2SDN:
+    admin_name: Dongola
+    iso3c: SDN
+    shapeID: 16777658B3318260280309
+  DordiebAdm2SDN:
+    admin_name: Dordieb
+    iso3c: SDN
+    shapeID: 16777658B19100050508345
+  EastDarfurAdm1SDN:
+    admin_name: EastDarfur
+    iso3c: SDN
+    shapeID: 86620642B42892304507154
+  EdAlFursanAdm2SDN:
+    admin_name: EdAlFursan
+    iso3c: SDN
+    shapeID: 16777658B67455933132274
+  EdDamazineAdm2SDN:
+    admin_name: EdDamazine
+    iso3c: SDN
+    shapeID: 16777658B29603922889850
+  ForoBarangaAdm2SDN:
+    admin_name: ForoBaranga
+    iso3c: SDN
+    shapeID: 16777658B32386260809283
+  Gala'aAlNahalAdm2SDN:
+    admin_name: Gala'aAlNahal
+    iso3c: SDN
+    shapeID: 16777658B80324044236150
+  GalabatAsh-ShargiahAdm2SDN:
+    admin_name: GalabatAsh-Shargiah
+    iso3c: SDN
+    shapeID: 16777658B9065455828294
+  GebratAlSheikhAdm2SDN:
+    admin_name: GebratAlSheikh
+    iso3c: SDN
+    shapeID: 16777658B91752448930430
+  GedarefAdm1SDN:
+    admin_name: Gedaref
+    iso3c: SDN
+    shapeID: 86620642B51630913908628
+  GeisanAdm2SDN:
+    admin_name: Geisan
+    iso3c: SDN
+    shapeID: 16777658B89515248440242
+  GereidaAdm2SDN:
+    admin_name: Gereida
+    iso3c: SDN
+    shapeID: 16777658B8719376045507
+  GeziraAdm1SDN:
+    admin_name: Gezira
+    iso3c: SDN
+    shapeID: 86620642B80352504723135
+  GhadeerAdm2SDN:
+    admin_name: Ghadeer
+    iso3c: SDN
+    shapeID: 16777658B14153516268915
+  GharbBaraAdm2SDN:
+    admin_name: GharbBara
+    iso3c: SDN
+    shapeID: 16777658B80207598805247
+  GharbJabalMarrahAdm2SDN:
+    admin_name: GharbJabalMarrah
+    iso3c: SDN
+    shapeID: 16777658B15584581797424
+  GhubaishAdm2SDN:
+    admin_name: Ghubaish
+    iso3c: SDN
+    shapeID: 16777658B17931705563902
+  GuliAdm2SDN:
+    admin_name: Guli
+    iso3c: SDN
+    shapeID: 16777658B68520369405520
+  Habila-SKAdm2SDN:
+    admin_name: Habila-SK
+    iso3c: SDN
+    shapeID: 16777658B69543543335458
+  Habila-WDAdm2SDN:
+    admin_name: Habila-WD
+    iso3c: SDN
+    shapeID: 16777658B76489940696560
+  Hala'ibAdm2SDN:
+    admin_name: Hala'ib
+    iso3c: SDN
+    shapeID: 16777658B65142556264342
+  HalfaAdm2SDN:
+    admin_name: Halfa
+    iso3c: SDN
+    shapeID: 16777658B39778167930026
+  HalfaAjJadeedahAdm2SDN:
+    admin_name: HalfaAjJadeedah
+    iso3c: SDN
+    shapeID: 16777658B66580925278761
+  HayaAdm2SDN:
+    admin_name: Haya
+    iso3c: SDN
+    shapeID: 16777658B79531940846564
+  HeibanAdm2SDN:
+    admin_name: Heiban
+    iso3c: SDN
+    shapeID: 16777658B58356083218961
+  JanubAlJazirahAdm2SDN:
+    admin_name: JanubAlJazirah
+    iso3c: SDN
+    shapeID: 16777658B42826552417214
+  JebelAwliaAdm2SDN:
+    admin_name: JebelAwlia
+    iso3c: SDN
+    shapeID: 16777658B74371618965754
+  JebelMoonAdm2SDN:
+    admin_name: JebelMoon
+    iso3c: SDN
+    shapeID: 16777658B1532389349494
+  JubaytElma'aadinAdm2SDN:
+    admin_name: JubaytElma'aadin
+    iso3c: SDN
+    shapeID: 16777658B74984958768129
+  KadugliAdm2SDN:
+    admin_name: Kadugli
+    iso3c: SDN
+    shapeID: 16777658B74518908482161
+  KarrariAdm2SDN:
+    admin_name: Karrari
+    iso3c: SDN
+    shapeID: 16777658B93959590111568
+  KasAdm2SDN:
+    admin_name: Kas
+    iso3c: SDN
+    shapeID: 16777658B26815240232488
+  KassalaAdm1SDN:
+    admin_name: Kassala
+    iso3c: SDN
+    shapeID: 86620642B34113093603931
+  KateilaAdm2SDN:
+    admin_name: Kateila
+    iso3c: SDN
+    shapeID: 16777658B63879676437189
+  KebkabiyaAdm2SDN:
+    admin_name: Kebkabiya
+    iso3c: SDN
+    shapeID: 16777658B23897511285986
+  KeilakAdm2SDN:
+    admin_name: Keilak
+    iso3c: SDN
+    shapeID: 16777658B16982967361933
+  KelemandoAdm2SDN:
+    admin_name: Kelemando
+    iso3c: SDN
+    shapeID: 16777658B85451496706557
+  KereneikAdm2SDN:
+    admin_name: Kereneik
+    iso3c: SDN
+    shapeID: 16777658B41209809376669
+  KernoiAdm2SDN:
+    admin_name: Kernoi
+    iso3c: SDN
+    shapeID: 16777658B31925406348154
+  KhartoumAdm1SDN:
+    admin_name: Khartoum
+    iso3c: SDN
+    shapeID: 86620642B69351377969837
+  KhartoumAdm2SDN:
+    admin_name: Khartoum
+    iso3c: SDN
+    shapeID: 16777658B94119143973525
+  KostiAdm2SDN:
+    admin_name: Kosti
+    iso3c: SDN
+    shapeID: 16777658B3487648242534
+  KubumAdm2SDN:
+    admin_name: Kubum
+    iso3c: SDN
+    shapeID: 16777658B37095470254890
+  KulbusAdm2SDN:
+    admin_name: Kulbus
+    iso3c: SDN
+    shapeID: 16777658B88334295817955
+  KutumAdm2SDN:
+    admin_name: Kutum
+    iso3c: SDN
+    shapeID: 16777658B71410798895125
+  MadeinatAlGedarefAdm2SDN:
+    admin_name: MadeinatAlGedaref
+    iso3c: SDN
+    shapeID: 16777658B2948733564305
+  MadeinatKassalaAdm2SDN:
+    admin_name: MadeinatKassala
+    iso3c: SDN
+    shapeID: 16777658B62122659764533
+  MedaniAlKubraAdm2SDN:
+    admin_name: MedaniAlKubra
+    iso3c: SDN
+    shapeID: 16777658B51514444411297
+  MelitAdm2SDN:
+    admin_name: Melit
+    iso3c: SDN
+    shapeID: 16777658B8925741103615
+  MershingAdm2SDN:
+    admin_name: Mershing
+    iso3c: SDN
+    shapeID: 16777658B29151950465280
+  MerwoeAdm2SDN:
+    admin_name: Merwoe
+    iso3c: SDN
+    shapeID: 16777658B43097500879952
+  MukjarAdm2SDN:
+    admin_name: Mukjar
+    iso3c: SDN
+    shapeID: 16777658B99051784139015
+  NitegaAdm2SDN:
+    admin_name: Nitega
+    iso3c: SDN
+    shapeID: 16777658B78746843728772
+  NorthDarfurAdm1SDN:
+    admin_name: NorthDarfur
+    iso3c: SDN
+    shapeID: 86620642B32784125865646
+  NorthernAdm1SDN:
+    admin_name: Northern
+    iso3c: SDN
+    shapeID: 86620642B89646054714247
+  NorthKordofanAdm1SDN:
+    admin_name: NorthKordofan
+    iso3c: SDN
+    shapeID: 86620642B75144405979625
+  NyalaJanoubAdm2SDN:
+    admin_name: NyalaJanoub
+    iso3c: SDN
+    shapeID: 16777658B27261158380636
+  NyalaShimalAdm2SDN:
+    admin_name: NyalaShimal
+    iso3c: SDN
+    shapeID: 16777658B77538778882228
+  PortSudanAdm2SDN:
+    admin_name: PortSudan
+    iso3c: SDN
+    shapeID: 16777658B42019308608710
+  RabakAdm2SDN:
+    admin_name: Rabak
+    iso3c: SDN
+    shapeID: 16777658B74989991978894
+  RedSeaAdm1SDN:
+    admin_name: RedSea
+    iso3c: SDN
+    shapeID: 86620642B7664605185235
+  RehaidAlbirdiAdm2SDN:
+    admin_name: RehaidAlbirdi
+    iso3c: SDN
+    shapeID: 16777658B32181362177213
+  ReifiAromaAdm2SDN:
+    admin_name: ReifiAroma
+    iso3c: SDN
+    shapeID: 16777658B59678801632413
+  ReifiGharbKassalaAdm2SDN:
+    admin_name: ReifiGharbKassala
+    iso3c: SDN
+    shapeID: 16777658B99769220544106
+  ReifiHamashkureibAdm2SDN:
+    admin_name: ReifiHamashkureib
+    iso3c: SDN
+    shapeID: 16777658B48283750984727
+  ReifiKasslaAdm2SDN:
+    admin_name: ReifiKassla
+    iso3c: SDN
+    shapeID: 16777658B3769079063022
+  ReifiKhashmElgirbaAdm2SDN:
+    admin_name: ReifiKhashmElgirba
+    iso3c: SDN
+    shapeID: 16777658B57943425693206
+  ReifiNahrAtbaraAdm2SDN:
+    admin_name: ReifiNahrAtbara
+    iso3c: SDN
+    shapeID: 16777658B85894147141116
+  ReifiShamalAdDeltaAdm2SDN:
+    admin_name: ReifiShamalAdDelta
+    iso3c: SDN
+    shapeID: 16777658B72922457996803
+  ReifiTelkokAdm2SDN:
+    admin_name: ReifiTelkok
+    iso3c: SDN
+    shapeID: 16777658B60092664698782
+  ReifiWadElhilaiwAdm2SDN:
+    admin_name: ReifiWadElhilaiw
+    iso3c: SDN
+    shapeID: 16777658B67194501280165
+  RiverNileAdm1SDN:
+    admin_name: RiverNile
+    iso3c: SDN
+    shapeID: 86620642B58839150544065
+  SarafOmraAdm2SDN:
+    admin_name: SarafOmra
+    iso3c: SDN
+    shapeID: 16777658B82122608499404
+  SawakinAdm2SDN:
+    admin_name: Sawakin
+    iso3c: SDN
+    shapeID: 16777658B58699373531896
+  SennarAdm1SDN:
+    admin_name: Sennar
+    iso3c: SDN
+    shapeID: 86620642B212901614698
+  SennarAdm2SDN:
+    admin_name: Sennar
+    iso3c: SDN
+    shapeID: 16777658B61797456915649
+  ShamalJabalMarrahAdm2SDN:
+    admin_name: ShamalJabalMarrah
+    iso3c: SDN
+    shapeID: 16777658B34833163736503
+  ShargAjJabalAdm2SDN:
+    admin_name: ShargAjJabal
+    iso3c: SDN
+    shapeID: 16777658B39782725929705
+  ShargAlJazirahAdm2SDN:
+    admin_name: ShargAlJazirah
+    iso3c: SDN
+    shapeID: 16777658B60089924012173
+  ShargAnNeelAdm2SDN:
+    admin_name: ShargAnNeel
+    iso3c: SDN
+    shapeID: 16777658B39366456594232
+  ShargSennarAdm2SDN:
+    admin_name: ShargSennar
+    iso3c: SDN
+    shapeID: 16777658B19062452623819
+  ShattayaAdm2SDN:
+    admin_name: Shattaya
+    iso3c: SDN
+    shapeID: 16777658B37888835972570
+  SheikanAdm2SDN:
+    admin_name: Sheikan
+    iso3c: SDN
+    shapeID: 16777658B67659775145128
+  ShendiAdm2SDN:
+    admin_name: Shendi
+    iso3c: SDN
+    shapeID: 16777658B52401836398535
+  Shia'riaAdm2SDN:
+    admin_name: Shia'ria
+    iso3c: SDN
+    shapeID: 16777658B58097455185888
+  SinjaAdm2SDN:
+    admin_name: Sinja
+    iso3c: SDN
+    shapeID: 16777658B54691568406545
+  SinkatAdm2SDN:
+    admin_name: Sinkat
+    iso3c: SDN
+    shapeID: 16777658B46905215541980
+  SirbaAdm2SDN:
+    admin_name: Sirba
+    iso3c: SDN
+    shapeID: 16777658B17269795285399
+  SoudariAdm2SDN:
+    admin_name: Soudari
+    iso3c: SDN
+    shapeID: 16777658B52132204049815
+  SouthDarfurAdm1SDN:
+    admin_name: SouthDarfur
+    iso3c: SDN
+    shapeID: 86620642B33888251991816
+  SouthKordofanAdm1SDN:
+    admin_name: SouthKordofan
+    iso3c: SDN
+    shapeID: 86620642B95962932854573
+  TalawdiAdm2SDN:
+    admin_name: Talawdi
+    iso3c: SDN
+    shapeID: 16777658B54503315646042
+  TawilaAdm2SDN:
+    admin_name: Tawila
+    iso3c: SDN
+    shapeID: 16777658B31979964775583
+  TawkarAdm2SDN:
+    admin_name: Tawkar
+    iso3c: SDN
+    shapeID: 16777658B45805430370558
+  TendaltiAdm2SDN:
+    admin_name: Tendalti
+    iso3c: SDN
+    shapeID: 16777658B96741566185688
+  TulusAdm2SDN:
+    admin_name: Tulus
+    iso3c: SDN
+    shapeID: 16777658B64128341044045
+  UmAlguraAdm2SDN:
+    admin_name: UmAlgura
+    iso3c: SDN
+    shapeID: 16777658B57538989257512
+  UmBadaAdm2SDN:
+    admin_name: UmBada
+    iso3c: SDN
+    shapeID: 16777658B32712127220798
+  UmBaruAdm2SDN:
+    admin_name: UmBaru
+    iso3c: SDN
+    shapeID: 16777658B26622342825559
+  UmDafougAdm2SDN:
+    admin_name: UmDafoug
+    iso3c: SDN
+    shapeID: 16777658B44845642747034
+  UmDamHajAhmedAdm2SDN:
+    admin_name: UmDamHajAhmed
+    iso3c: SDN
+    shapeID: 16777658B82514176386469
+  UmDukhunAdm2SDN:
+    admin_name: UmDukhun
+    iso3c: SDN
+    shapeID: 16777658B96624341658613
+  UmDureinAdm2SDN:
+    admin_name: UmDurein
+    iso3c: SDN
+    shapeID: 16777658B25432504907328
+  UmDurmanAdm2SDN:
+    admin_name: UmDurman
+    iso3c: SDN
+    shapeID: 16777658B47170165092486
+  UmKadadahAdm2SDN:
+    admin_name: UmKadadah
+    iso3c: SDN
+    shapeID: 16777658B38169285241768
+  UmRawabaAdm2SDN:
+    admin_name: UmRawaba
+    iso3c: SDN
+    shapeID: 16777658B38678989817787
+  UmRimtaAdm2SDN:
+    admin_name: UmRimta
+    iso3c: SDN
+    shapeID: 16777658B63870425694852
+  WadAlMahiAdm2SDN:
+    admin_name: WadAlMahi
+    iso3c: SDN
+    shapeID: 16777658B66589666845183
+  WadBandahAdm2SDN:
+    admin_name: WadBandah
+    iso3c: SDN
+    shapeID: 16777658B16794991274557
+  WadiSalihAdm2SDN:
+    admin_name: WadiSalih
+    iso3c: SDN
+    shapeID: 16777658B39916742993759
+  WasatAlGedarefAdm2SDN:
+    admin_name: WasatAlGedaref
+    iso3c: SDN
+    shapeID: 16777658B33675422970031
+  WasatJabalMarrahAdm2SDN:
+    admin_name: WasatJabalMarrah
+    iso3c: SDN
+    shapeID: 16777658B31401746790002
+  WestDarfurAdm1SDN:
+    admin_name: WestDarfur
+    iso3c: SDN
+    shapeID: 86620642B73786067507541
+  WestKordofanAdm1SDN:
+    admin_name: WestKordofan
+    iso3c: SDN
+    shapeID: 86620642B26042209819562
+  WhiteNileAdm1SDN:
+    admin_name: WhiteNile
+    iso3c: SDN
+    shapeID: 86620642B32971775067484
+  YassinAdm2SDN:
+    admin_name: Yassin
+    iso3c: SDN
+    shapeID: 16777658B43092158713843
+  ZalingiAdm2SDN:
+    admin_name: Zalingi
+    iso3c: SDN
+    shapeID: 16777658B14482741827107

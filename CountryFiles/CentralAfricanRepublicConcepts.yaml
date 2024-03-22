@@ -1,18 +1,357 @@
 concepts:
-    - Nana-Grébizi
-    - Kémo
-    - Ouham-Pendé
-    - Ouham
-    - Lobaye
-    - Nana-Mambéré
-    - Ombella-M'Poko
-    - Vakaga
-    - Haute-Kotto
-    - Bamingui-Bangoran
-    - Ouaka
-    - Basse-Kotto
-    - Mbomou
-    - Sangha-Mbaéré
-    - Mambéré-Kadéï
-    - Haut-Mbomou
-    - Bangui
+  AbbaAdm2CAF:
+    admin_name: Abba
+    iso3c: CAF
+    shapeID: 33826404B97851482460311
+  AlindaoAdm2CAF:
+    admin_name: Alindao
+    iso3c: CAF
+    shapeID: 33826404B62938730808524
+  Amada-GazaAdm2CAF:
+    admin_name: Amada-Gaza
+    iso3c: CAF
+    shapeID: 33826404B6437617730206
+  BabouaAdm2CAF:
+    admin_name: Baboua
+    iso3c: CAF
+    shapeID: 33826404B17315710707848
+  BakalaAdm2CAF:
+    admin_name: Bakala
+    iso3c: CAF
+    shapeID: 33826404B96667764649230
+  BakoumaAdm2CAF:
+    admin_name: Bakouma
+    iso3c: CAF
+    shapeID: 33826404B59000496677715
+  BambariAdm2CAF:
+    admin_name: Bambari
+    iso3c: CAF
+    shapeID: 33826404B32260495393800
+  BambioAdm2CAF:
+    admin_name: Bambio
+    iso3c: CAF
+    shapeID: 33826404B86044426841106
+  BamboutiAdm2CAF:
+    admin_name: Bambouti
+    iso3c: CAF
+    shapeID: 33826404B2470815195032
+  Bamingui-BangoranAdm1CAF:
+    admin_name: Bamingui-Bangoran
+    iso3c: CAF
+    shapeID: 63714938B6521805151082
+  BaminguiAdm2CAF:
+    admin_name: Bamingui
+    iso3c: CAF
+    shapeID: 33826404B40726346610529
+  BangassouAdm2CAF:
+    admin_name: Bangassou
+    iso3c: CAF
+    shapeID: 33826404B81358030227477
+  BanguiAdm1CAF:
+    admin_name: Bangui
+    iso3c: CAF
+    shapeID: 63714938B39161688438046
+  BanguiAdm2CAF:
+    admin_name: Bangui
+    iso3c: CAF
+    shapeID: 33826404B58165985423079
+  BaoroAdm2CAF:
+    admin_name: Baoro
+    iso3c: CAF
+    shapeID: 33826404B60338684619617
+  Basse-KottoAdm1CAF:
+    admin_name: Basse-Kotto
+    iso3c: CAF
+    shapeID: 63714938B99123991024226
+  BatangafoAdm2CAF:
+    admin_name: Batangafo
+    iso3c: CAF
+    shapeID: 33826404B19230963390716
+  BayangaAdm2CAF:
+    admin_name: Bayanga
+    iso3c: CAF
+    shapeID: 33826404B5322507148284
+  BerbératiAdm2CAF:
+    admin_name: Berbérati
+    iso3c: CAF
+    shapeID: 33826404B29108379746580
+  BimboAdm2CAF:
+    admin_name: Bimbo
+    iso3c: CAF
+    shapeID: 33826404B89402945162763
+  BiraoAdm2CAF:
+    admin_name: Birao
+    iso3c: CAF
+    shapeID: 33826404B56670707739048
+  BoaliAdm2CAF:
+    admin_name: Boali
+    iso3c: CAF
+    shapeID: 33826404B11454155454969
+  BocarangaAdm2CAF:
+    admin_name: Bocaranga
+    iso3c: CAF
+    shapeID: 33826404B56355179164788
+  BodaAdm2CAF:
+    admin_name: Boda
+    iso3c: CAF
+    shapeID: 33826404B82101327169951
+  BoganangoneAdm2CAF:
+    admin_name: Boganangone
+    iso3c: CAF
+    shapeID: 33826404B50242901211322
+  BogandaAdm2CAF:
+    admin_name: Boganda
+    iso3c: CAF
+    shapeID: 33826404B33100016317003
+  BogangoloAdm2CAF:
+    admin_name: Bogangolo
+    iso3c: CAF
+    shapeID: 33826404B36599130273361
+  BossangoaAdm2CAF:
+    admin_name: Bossangoa
+    iso3c: CAF
+    shapeID: 33826404B90258922405871
+  BossembéléAdm2CAF:
+    admin_name: Bossembélé
+    iso3c: CAF
+    shapeID: 33826404B7214769303301
+  BossemtéléAdm2CAF:
+    admin_name: Bossemtélé
+    iso3c: CAF
+    shapeID: 33826404B76356244638876
+  BouarAdm2CAF:
+    admin_name: Bouar
+    iso3c: CAF
+    shapeID: 33826404B23664805641311
+  BoucaAdm2CAF:
+    admin_name: Bouca
+    iso3c: CAF
+    shapeID: 33826404B6253227494909
+  BozoumAdm2CAF:
+    admin_name: Bozoum
+    iso3c: CAF
+    shapeID: 33826404B23266852289650
+  BriaAdm2CAF:
+    admin_name: Bria
+    iso3c: CAF
+    shapeID: 33826404B18938631147464
+  CarnotAdm2CAF:
+    admin_name: Carnot
+    iso3c: CAF
+    shapeID: 33826404B21992681295318
+  DamaraAdm2CAF:
+    admin_name: Damara
+    iso3c: CAF
+    shapeID: 33826404B9315728863093
+  Dédé-MokoubaAdm2CAF:
+    admin_name: Dédé-Mokouba
+    iso3c: CAF
+    shapeID: 33826404B19731387545693
+  DékoaAdm2CAF:
+    admin_name: Dékoa
+    iso3c: CAF
+    shapeID: 33826404B62845091164313
+  DjémaAdm2CAF:
+    admin_name: Djéma
+    iso3c: CAF
+    shapeID: 33826404B9662788023259
+  DjoukouAdm2CAF:
+    admin_name: Djoukou
+    iso3c: CAF
+    shapeID: 33826404B12088014945622
+  GadziAdm2CAF:
+    admin_name: Gadzi
+    iso3c: CAF
+    shapeID: 33826404B47432472160828
+  GamboAdm2CAF:
+    admin_name: Gambo
+    iso3c: CAF
+    shapeID: 33826404B57857240211029
+  GamboulaAdm2CAF:
+    admin_name: Gamboula
+    iso3c: CAF
+    shapeID: 33826404B15620845480465
+  GrimariAdm2CAF:
+    admin_name: Grimari
+    iso3c: CAF
+    shapeID: 33826404B92675237545946
+  Haut-MbomouAdm1CAF:
+    admin_name: Haut-Mbomou
+    iso3c: CAF
+    shapeID: 63714938B95555008029378
+  Haute-KottoAdm1CAF:
+    admin_name: Haute-Kotto
+    iso3c: CAF
+    shapeID: 63714938B17486447780615
+  IppyAdm2CAF:
+    admin_name: Ippy
+    iso3c: CAF
+    shapeID: 33826404B55816089636663
+  KaboAdm2CAF:
+    admin_name: Kabo
+    iso3c: CAF
+    shapeID: 33826404B79989829713557
+  Kaga-BandoroAdm2CAF:
+    admin_name: Kaga-Bandoro
+    iso3c: CAF
+    shapeID: 33826404B9567885504809
+  KembéAdm2CAF:
+    admin_name: Kembé
+    iso3c: CAF
+    shapeID: 33826404B30338372331060
+  KémoAdm1CAF:
+    admin_name: Kémo
+    iso3c: CAF
+    shapeID: 63714938B4314817363012
+  KouangoAdm2CAF:
+    admin_name: Kouango
+    iso3c: CAF
+    shapeID: 33826404B56773227283390
+  KouiAdm2CAF:
+    admin_name: Koui
+    iso3c: CAF
+    shapeID: 33826404B71934397264584
+  LobayeAdm1CAF:
+    admin_name: Lobaye
+    iso3c: CAF
+    shapeID: 63714938B21760912511834
+  MalaAdm2CAF:
+    admin_name: Mala
+    iso3c: CAF
+    shapeID: 33826404B24746486434253
+  Mambéré-KadéïAdm1CAF:
+    admin_name: Mambéré-Kadéï
+    iso3c: CAF
+    shapeID: 63714938B93412376758102
+  MarkoundaAdm2CAF:
+    admin_name: Markounda
+    iso3c: CAF
+    shapeID: 33826404B52601033142025
+  MbaïkiAdm2CAF:
+    admin_name: Mbaïki
+    iso3c: CAF
+    shapeID: 33826404B24481683700723
+  MbomouAdm1CAF:
+    admin_name: Mbomou
+    iso3c: CAF
+    shapeID: 63714938B78522502559544
+  MbrèsAdm2CAF:
+    admin_name: Mbrès
+    iso3c: CAF
+    shapeID: 33826404B55944816658840
+  MingalaAdm2CAF:
+    admin_name: Mingala
+    iso3c: CAF
+    shapeID: 33826404B71517620333215
+  MobayeAdm2CAF:
+    admin_name: Mobaye
+    iso3c: CAF
+    shapeID: 33826404B98868976507956
+  MongoumbaAdm2CAF:
+    admin_name: Mongoumba
+    iso3c: CAF
+    shapeID: 33826404B21321520993489
+  NaghaBoguilaAdm2CAF:
+    admin_name: NaghaBoguila
+    iso3c: CAF
+    shapeID: 33826404B99967621035211
+  Nana-BakassaAdm2CAF:
+    admin_name: Nana-Bakassa
+    iso3c: CAF
+    shapeID: 33826404B64832249251388
+  Nana-GrébiziAdm1CAF:
+    admin_name: Nana-Grébizi
+    iso3c: CAF
+    shapeID: 63714938B97127275381956
+  Nana-MambéréAdm1CAF:
+    admin_name: Nana-Mambéré
+    iso3c: CAF
+    shapeID: 63714938B83899487779446
+  NdéléAdm2CAF:
+    admin_name: Ndélé
+    iso3c: CAF
+    shapeID: 33826404B83224337375675
+  NgaoundayeAdm2CAF:
+    admin_name: Ngaoundaye
+    iso3c: CAF
+    shapeID: 33826404B95792566341641
+  NolaAdm2CAF:
+    admin_name: Nola
+    iso3c: CAF
+    shapeID: 33826404B1885733015759
+  OboAdm2CAF:
+    admin_name: Obo
+    iso3c: CAF
+    shapeID: 33826404B40761150188578
+  Ombella-M'PokoAdm1CAF:
+    admin_name: Ombella-M'Poko
+    iso3c: CAF
+    shapeID: 63714938B70915793391768
+  OuaddaAdm2CAF:
+    admin_name: Ouadda
+    iso3c: CAF
+    shapeID: 33826404B85937091100445
+  OuakaAdm1CAF:
+    admin_name: Ouaka
+    iso3c: CAF
+    shapeID: 63714938B18739157330103
+  Ouanda-DjalléAdm2CAF:
+    admin_name: Ouanda-Djallé
+    iso3c: CAF
+    shapeID: 33826404B28698929649290
+  OuangoAdm2CAF:
+    admin_name: Ouango
+    iso3c: CAF
+    shapeID: 33826404B65142748169152
+  Ouham-PendéAdm1CAF:
+    admin_name: Ouham-Pendé
+    iso3c: CAF
+    shapeID: 63714938B19002536101711
+  OuhamAdm1CAF:
+    admin_name: Ouham
+    iso3c: CAF
+    shapeID: 63714938B89906779781300
+  PaouaAdm2CAF:
+    admin_name: Paoua
+    iso3c: CAF
+    shapeID: 33826404B93316862366408
+  RafaïAdm2CAF:
+    admin_name: Rafaï
+    iso3c: CAF
+    shapeID: 33826404B37622790924059
+  Sangha-MbaéréAdm1CAF:
+    admin_name: Sangha-Mbaéré
+    iso3c: CAF
+    shapeID: 63714938B76474956810594
+  SatémaAdm2CAF:
+    admin_name: Satéma
+    iso3c: CAF
+    shapeID: 33826404B54558554669564
+  SibutAdm2CAF:
+    admin_name: Sibut
+    iso3c: CAF
+    shapeID: 33826404B70800381391301
+  Sosso-NakomboAdm2CAF:
+    admin_name: Sosso-Nakombo
+    iso3c: CAF
+    shapeID: 33826404B83457658124611
+  VakagaAdm1CAF:
+    admin_name: Vakaga
+    iso3c: CAF
+    shapeID: 63714938B35477763827744
+  YalingaAdm2CAF:
+    admin_name: Yalinga
+    iso3c: CAF
+    shapeID: 33826404B77142922363915
+  YalokéAdm2CAF:
+    admin_name: Yaloké
+    iso3c: CAF
+    shapeID: 33826404B87944665241134
+  ZangbaAdm2CAF:
+    admin_name: Zangba
+    iso3c: CAF
+    shapeID: 33826404B2530322918847
+  ZémioAdm2CAF:
+    admin_name: Zémio
+    iso3c: CAF
+    shapeID: 33826404B4042011562142

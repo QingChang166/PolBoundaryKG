@@ -1,14 +1,461 @@
 concepts:
-    - Kunene
-    - Karas
-    - Oshana
-    - Ohangwena
-    - Kavango
-    - Caprivi
-    - Hardap
-    - Omusati
-    - Omaheke
-    - Erongo
-    - Khomas
-    - Otjozondjupa
-    - Oshikoto
+  AminiusAdm2NAM:
+    admin_name: Aminius
+    iso3c: NAM
+    shapeID: 8085530B86358564716630
+  AnamulengeAdm2NAM:
+    admin_name: Anamulenge
+    iso3c: NAM
+    shapeID: 8085530B45800656358719
+  ArandisAdm2NAM:
+    admin_name: Arandis
+    iso3c: NAM
+    shapeID: 8085530B20929283489058
+  BersebaAdm2NAM:
+    admin_name: Berseba
+    iso3c: NAM
+    shapeID: 8085530B25496891828693
+  CapriviAdm1NAM:
+    admin_name: Caprivi
+    iso3c: NAM
+    shapeID: 33880854B30097931647986
+  DauresAdm2NAM:
+    admin_name: Daures
+    iso3c: NAM
+    shapeID: 8085530B58432512744938
+  EenhanaAdm2NAM:
+    admin_name: Eenhana
+    iso3c: NAM
+    shapeID: 8085530B14647575927701
+  ElimAdm2NAM:
+    admin_name: Elim
+    iso3c: NAM
+    shapeID: 8085530B13053128018864
+  EndolaAdm2NAM:
+    admin_name: Endola
+    iso3c: NAM
+    shapeID: 8085530B13849316712555
+  EngelaAdm2NAM:
+    admin_name: Engela
+    iso3c: NAM
+    shapeID: 8085530B32038896261798
+  EngodiAdm2NAM:
+    admin_name: Engodi
+    iso3c: NAM
+    shapeID: 8085530B77393709642286
+  EpembeAdm2NAM:
+    admin_name: Epembe
+    iso3c: NAM
+    shapeID: 8085530B20756190714090
+  EpupaAdm2NAM:
+    admin_name: Epupa
+    iso3c: NAM
+    shapeID: 8085530B89449785800632
+  ErongoAdm1NAM:
+    admin_name: Erongo
+    iso3c: NAM
+    shapeID: 33880854B21847191895972
+  EtayiAdm2NAM:
+    admin_name: Etayi
+    iso3c: NAM
+    shapeID: 8085530B69657715980270
+  GibeonAdm2NAM:
+    admin_name: Gibeon
+    iso3c: NAM
+    shapeID: 8085530B99967459271040
+  GobabisAdm2NAM:
+    admin_name: Gobabis
+    iso3c: NAM
+    shapeID: 8085530B38613626402367
+  GrootfonteinAdm2NAM:
+    admin_name: Grootfontein
+    iso3c: NAM
+    shapeID: 8085530B15355770078360
+  GuinasAdm2NAM:
+    admin_name: Guinas
+    iso3c: NAM
+    shapeID: 8085530B99794486858257
+  HakahanaAdm2NAM:
+    admin_name: Hakahana
+    iso3c: NAM
+    shapeID: 8085530B14721673069070
+  HardapAdm1NAM:
+    admin_name: Hardap
+    iso3c: NAM
+    shapeID: 33880854B64734184432756
+  KabeAdm2NAM:
+    admin_name: Kabe
+    iso3c: NAM
+    shapeID: 8085530B93169958876618
+  KahengeAdm2NAM:
+    admin_name: Kahenge
+    iso3c: NAM
+    shapeID: 8085530B9471970817633
+  KalahariAdm2NAM:
+    admin_name: Kalahari
+    iso3c: NAM
+    shapeID: 8085530B41372422765993
+  KamanjabAdm2NAM:
+    admin_name: Kamanjab
+    iso3c: NAM
+    shapeID: 8085530B20678123815895
+  KapakoAdm2NAM:
+    admin_name: Kapako
+    iso3c: NAM
+    shapeID: 8085530B46481939824826
+  KarasAdm1NAM:
+    admin_name: Karas
+    iso3c: NAM
+    shapeID: 33880854B69863127771221
+  KarasAdm2NAM:
+    admin_name: Karas
+    iso3c: NAM
+    shapeID: 8085530B6769010306360
+  KaribibAdm2NAM:
+    admin_name: Karibib
+    iso3c: NAM
+    shapeID: 8085530B18943107869251
+  KatimaMuliroRuralAdm2NAM:
+    admin_name: KatimaMuliroRural
+    iso3c: NAM
+    shapeID: 8085530B36679342864884
+  KatimaMuliroUrbanAdm2NAM:
+    admin_name: KatimaMuliroUrban
+    iso3c: NAM
+    shapeID: 8085530B98362387915307
+  KatuturaCentralAdm2NAM:
+    admin_name: KatuturaCentral
+    iso3c: NAM
+    shapeID: 8085530B98511433768350
+  KatuturaEastAdm2NAM:
+    admin_name: KatuturaEast
+    iso3c: NAM
+    shapeID: 8085530B76307520684232
+  KavangoAdm1NAM:
+    admin_name: Kavango
+    iso3c: NAM
+    shapeID: 33880854B58776074421066
+  KeetmanshoopRuralAdm2NAM:
+    admin_name: KeetmanshoopRural
+    iso3c: NAM
+    shapeID: 8085530B69443629768018
+  KeetmanshoopUrbanAdm2NAM:
+    admin_name: KeetmanshoopUrban
+    iso3c: NAM
+    shapeID: 8085530B9685426403450
+  KhomasAdm1NAM:
+    admin_name: Khomas
+    iso3c: NAM
+    shapeID: 33880854B65893852220593
+  KhomasdalNorthAdm2NAM:
+    admin_name: KhomasdalNorth
+    iso3c: NAM
+    shapeID: 8085530B7908927649027
+  KhorixasAdm2NAM:
+    admin_name: Khorixas
+    iso3c: NAM
+    shapeID: 8085530B18133602337768
+  KongolaAdm2NAM:
+    admin_name: Kongola
+    iso3c: NAM
+    shapeID: 8085530B65752353592300
+  KuneneAdm1NAM:
+    admin_name: Kunene
+    iso3c: NAM
+    shapeID: 33880854B88093492826661
+  LinyandiAdm2NAM:
+    admin_name: Linyandi
+    iso3c: NAM
+    shapeID: 8085530B65700299516233
+  LuderitzAdm2NAM:
+    admin_name: Luderitz
+    iso3c: NAM
+    shapeID: 8085530B51298559628013
+  MarientalRuralAdm2NAM:
+    admin_name: MarientalRural
+    iso3c: NAM
+    shapeID: 8085530B53708494140188
+  MarientalUrbanAdm2NAM:
+    admin_name: MarientalUrban
+    iso3c: NAM
+    shapeID: 8085530B50701756116160
+  MashareAdm2NAM:
+    admin_name: Mashare
+    iso3c: NAM
+    shapeID: 8085530B46277296782618
+  MpunguAdm2NAM:
+    admin_name: Mpungu
+    iso3c: NAM
+    shapeID: 8085530B29258054008040
+  MukweAdm2NAM:
+    admin_name: Mukwe
+    iso3c: NAM
+    shapeID: 8085530B13094977387263
+  NdiyonaAdm2NAM:
+    admin_name: Ndiyona
+    iso3c: NAM
+    shapeID: 8085530B77479580509837
+  OgongoAdm2NAM:
+    admin_name: Ogongo
+    iso3c: NAM
+    shapeID: 8085530B82920492062814
+  OhangwenaAdm1NAM:
+    admin_name: Ohangwena
+    iso3c: NAM
+    shapeID: 33880854B57415159388793
+  OhangwenaAdm2NAM:
+    admin_name: Ohangwena
+    iso3c: NAM
+    shapeID: 8085530B80313006361884
+  OkahandjaAdm2NAM:
+    admin_name: Okahandja
+    iso3c: NAM
+    shapeID: 8085530B48440603046633
+  OkahaoAdm2NAM:
+    admin_name: Okahao
+    iso3c: NAM
+    shapeID: 8085530B69734466281128
+  OkakararaAdm2NAM:
+    admin_name: Okakarara
+    iso3c: NAM
+    shapeID: 8085530B21626666525774
+  OkakuAdm2NAM:
+    admin_name: Okaku
+    iso3c: NAM
+    shapeID: 8085530B80005725357017
+  OkalongoAdm2NAM:
+    admin_name: Okalongo
+    iso3c: NAM
+    shapeID: 8085530B99858468044406
+  OkankoloAdm2NAM:
+    admin_name: Okankolo
+    iso3c: NAM
+    shapeID: 8085530B52982627843588
+  OkatanaAdm2NAM:
+    admin_name: Okatana
+    iso3c: NAM
+    shapeID: 8085530B97832034591555
+  OkatyaliAdm2NAM:
+    admin_name: Okatyali
+    iso3c: NAM
+    shapeID: 8085530B1263829069027
+  OkongoAdm2NAM:
+    admin_name: Okongo
+    iso3c: NAM
+    shapeID: 8085530B29689182675065
+  OlukondaAdm2NAM:
+    admin_name: Olukonda
+    iso3c: NAM
+    shapeID: 8085530B22817076083997
+  OmahekeAdm1NAM:
+    admin_name: Omaheke
+    iso3c: NAM
+    shapeID: 33880854B27729008722613
+  OmaruruAdm2NAM:
+    admin_name: Omaruru
+    iso3c: NAM
+    shapeID: 8085530B21041761137658
+  OmatakoAdm2NAM:
+    admin_name: Omatako
+    iso3c: NAM
+    shapeID: 8085530B13904608140223
+  OmpundjaAdm2NAM:
+    admin_name: Ompundja
+    iso3c: NAM
+    shapeID: 8085530B69947068082144
+  OmundaungiloAdm2NAM:
+    admin_name: Omundaungilo
+    iso3c: NAM
+    shapeID: 8085530B50000229665639
+  OmunteleAdm2NAM:
+    admin_name: Omuntele
+    iso3c: NAM
+    shapeID: 8085530B60954299399074
+  OmusatiAdm1NAM:
+    admin_name: Omusati
+    iso3c: NAM
+    shapeID: 33880854B39435403846115
+  OmuthiyagwipundiAdm2NAM:
+    admin_name: Omuthiyagwipundi
+    iso3c: NAM
+    shapeID: 8085530B92949915012008
+  OnayenaAdm2NAM:
+    admin_name: Onayena
+    iso3c: NAM
+    shapeID: 8085530B72153402463843
+  OndangwaAdm2NAM:
+    admin_name: Ondangwa
+    iso3c: NAM
+    shapeID: 8085530B83100198337410
+  OndombeAdm2NAM:
+    admin_name: Ondombe
+    iso3c: NAM
+    shapeID: 8085530B61010853817860
+  OnesiAdm2NAM:
+    admin_name: Onesi
+    iso3c: NAM
+    shapeID: 8085530B33910100855161
+  OngengaAdm2NAM:
+    admin_name: Ongenga
+    iso3c: NAM
+    shapeID: 8085530B89628533476964
+  OngwedivaAdm2NAM:
+    admin_name: Ongwediva
+    iso3c: NAM
+    shapeID: 8085530B26266380145337
+  OniipaAdm2NAM:
+    admin_name: Oniipa
+    iso3c: NAM
+    shapeID: 8085530B6128873532004
+  OnyaanyaAdm2NAM:
+    admin_name: Onyaanya
+    iso3c: NAM
+    shapeID: 8085530B31527966584052
+  OpuwoAdm2NAM:
+    admin_name: Opuwo
+    iso3c: NAM
+    shapeID: 8085530B76862246243381
+  OranjemundAdm2NAM:
+    admin_name: Oranjemund
+    iso3c: NAM
+    shapeID: 8085530B82641869996514
+  OshakatiEastAdm2NAM:
+    admin_name: OshakatiEast
+    iso3c: NAM
+    shapeID: 8085530B70174010511027
+  OshakatiWestAdm2NAM:
+    admin_name: OshakatiWest
+    iso3c: NAM
+    shapeID: 8085530B84660138754380
+  OshanaAdm1NAM:
+    admin_name: Oshana
+    iso3c: NAM
+    shapeID: 33880854B34649017289630
+  OshikangoAdm2NAM:
+    admin_name: Oshikango
+    iso3c: NAM
+    shapeID: 8085530B71951838310116
+  OshikotoAdm1NAM:
+    admin_name: Oshikoto
+    iso3c: NAM
+    shapeID: 33880854B4413577706595
+  OshikukuAdm2NAM:
+    admin_name: Oshikuku
+    iso3c: NAM
+    shapeID: 8085530B9301537631137
+  OtaviAdm2NAM:
+    admin_name: Otavi
+    iso3c: NAM
+    shapeID: 8085530B68300623753750
+  OtjineneAdm2NAM:
+    admin_name: Otjinene
+    iso3c: NAM
+    shapeID: 8085530B97751142131458
+  OtjiwarongoAdm2NAM:
+    admin_name: Otjiwarongo
+    iso3c: NAM
+    shapeID: 8085530B62166928705780
+  OtjombindeAdm2NAM:
+    admin_name: Otjombinde
+    iso3c: NAM
+    shapeID: 8085530B72164373326164
+  OtjozondjupaAdm1NAM:
+    admin_name: Otjozondjupa
+    iso3c: NAM
+    shapeID: 33880854B88782591640533
+  OutapiAdm2NAM:
+    admin_name: Outapi
+    iso3c: NAM
+    shapeID: 8085530B22414954750771
+  OutjoAdm2NAM:
+    admin_name: Outjo
+    iso3c: NAM
+    shapeID: 8085530B66062382537531
+  RehobothEastAdm2NAM:
+    admin_name: RehobothEast
+    iso3c: NAM
+    shapeID: 8085530B39960137622469
+  RehobothRuralAdm2NAM:
+    admin_name: RehobothRural
+    iso3c: NAM
+    shapeID: 8085530B89384563717914
+  RehobothWestAdm2NAM:
+    admin_name: RehobothWest
+    iso3c: NAM
+    shapeID: 8085530B32015186497374
+  RuacanaAdm2NAM:
+    admin_name: Ruacana
+    iso3c: NAM
+    shapeID: 8085530B5370186300175
+  RunduRuralAdm2NAM:
+    admin_name: RunduRural
+    iso3c: NAM
+    shapeID: 8085530B24571468385380
+  RunduUrbanAdm2NAM:
+    admin_name: RunduUrban
+    iso3c: NAM
+    shapeID: 8085530B43563455443088
+  SesfonteinAdm2NAM:
+    admin_name: Sesfontein
+    iso3c: NAM
+    shapeID: 8085530B95120422656670
+  SibindaAdm2NAM:
+    admin_name: Sibinda
+    iso3c: NAM
+    shapeID: 8085530B55251971881937
+  SowetoAdm2NAM:
+    admin_name: Soweto
+    iso3c: NAM
+    shapeID: 8085530B4489269593609
+  SteinhausenAdm2NAM:
+    admin_name: Steinhausen
+    iso3c: NAM
+    shapeID: 8085530B50229132451549
+  SwakopmundAdm2NAM:
+    admin_name: Swakopmund
+    iso3c: NAM
+    shapeID: 8085530B5083436790376
+  TsandiAdm2NAM:
+    admin_name: Tsandi
+    iso3c: NAM
+    shapeID: 8085530B58206281674272
+  TsumebAdm2NAM:
+    admin_name: Tsumeb
+    iso3c: NAM
+    shapeID: 8085530B8620298556926
+  TsumkweAdm2NAM:
+    admin_name: Tsumkwe
+    iso3c: NAM
+    shapeID: 8085530B1397183935319
+  UukwiyuAdm2NAM:
+    admin_name: Uukwiyu
+    iso3c: NAM
+    shapeID: 8085530B69328589173574
+  UuvudhiyaAdm2NAM:
+    admin_name: Uuvudhiya
+    iso3c: NAM
+    shapeID: 8085530B45562109435559
+  WalvisbayRuralAdm2NAM:
+    admin_name: WalvisbayRural
+    iso3c: NAM
+    shapeID: 8085530B57229224453167
+  WalvisbayUrbanAdm2NAM:
+    admin_name: WalvisbayUrban
+    iso3c: NAM
+    shapeID: 8085530B98123468790734
+  WanahedaAdm2NAM:
+    admin_name: Wanaheda
+    iso3c: NAM
+    shapeID: 8085530B40831112301604
+  WindhoekEastAdm2NAM:
+    admin_name: WindhoekEast
+    iso3c: NAM
+    shapeID: 8085530B37284584644366
+  WindhoekRuralAdm2NAM:
+    admin_name: WindhoekRural
+    iso3c: NAM
+    shapeID: 8085530B21115279839445
+  WindhoekWestAdm2NAM:
+    admin_name: WindhoekWest
+    iso3c: NAM
+    shapeID: 8085530B89251485942037

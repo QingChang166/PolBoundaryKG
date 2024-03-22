@@ -1,18 +1,421 @@
 concepts:
-    - AucklandRegion
-    - NelsonRegion
-    - WaikatoRegion
-    - OtagoRegion
-    - SouthlandRegion
-    - TasmanRegion
-    - NorthlandRegion
-    - Hawke'sBayRegion
-    - MarlboroughRegion
-    - BayofPlentyRegion
-    - GisborneRegion
-    - CanterburyRegion
-    - TaranakiRegion
-    - Manawatu-WanganuiRegion
-    - WellingtonRegion
-    - WestCoastRegion
-    - ChathamIslandsTerritory
+  Albert-EdenLocalBoardAreaAdm2NZL:
+    admin_name: Albert-EdenLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B596097138687
+  Aotea/GreatBarrierLocalBoardAreaAdm2NZL:
+    admin_name: Aotea/GreatBarrierLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B55715625268474
+  "Å\x8CpÅ\x8DtikiDistrictAdm2NZL":
+    admin_name: "Å\x8CpÅ\x8DtikiDistrict"
+    iso3c: NZL
+    shapeID: 76426892B67902923412925
+  "Å\x8CrÄ\x81keiLocalBoardAreaAdm2NZL":
+    admin_name: "Å\x8CrÄ\x81keiLocalBoardArea"
+    iso3c: NZL
+    shapeID: 76426892B76499292811538
+  AreaOutsideTerritorialAuthorityAdm2NZL:
+    admin_name: AreaOutsideTerritorialAuthority
+    iso3c: NZL
+    shapeID: 76426892B9784131965054
+  AshburtonDistrictAdm2NZL:
+    admin_name: AshburtonDistrict
+    iso3c: NZL
+    shapeID: 76426892B67490392619743
+  "Å\x8Ctara-PapatoetoeLocalBoardAreaAdm2NZL":
+    admin_name: "Å\x8Ctara-PapatoetoeLocalBoardArea"
+    iso3c: NZL
+    shapeID: 76426892B8082635890344
+  "Å\x8CtorohangaDistrictAdm2NZL":
+    admin_name: "Å\x8CtorohangaDistrict"
+    iso3c: NZL
+    shapeID: 76426892B74267582170982
+  AucklandRegionAdm1NZL:
+    admin_name: AucklandRegion
+    iso3c: NZL
+    shapeID: 40311993B8827335688438
+  BayofPlentyRegionAdm1NZL:
+    admin_name: BayofPlentyRegion
+    iso3c: NZL
+    shapeID: 40311993B61794104142346
+  BullerDistrictAdm2NZL:
+    admin_name: BullerDistrict
+    iso3c: NZL
+    shapeID: 76426892B83106555775362
+  CanterburyRegionAdm1NZL:
+    admin_name: CanterburyRegion
+    iso3c: NZL
+    shapeID: 40311993B76352407092523
+  CartertonDistrictAdm2NZL:
+    admin_name: CartertonDistrict
+    iso3c: NZL
+    shapeID: 76426892B89020441057678
+  CentralHawke'sBayDistrictAdm2NZL:
+    admin_name: CentralHawke'sBayDistrict
+    iso3c: NZL
+    shapeID: 76426892B41441178851735
+  CentralOtagoDistrictAdm2NZL:
+    admin_name: CentralOtagoDistrict
+    iso3c: NZL
+    shapeID: 76426892B81213624592516
+  ChathamIslandsTerritoryAdm1NZL:
+    admin_name: ChathamIslandsTerritory
+    iso3c: NZL
+    shapeID: 40311993B35256795067825
+  ChathamIslandsTerritoryAdm2NZL:
+    admin_name: ChathamIslandsTerritory
+    iso3c: NZL
+    shapeID: 76426892B18906871273548
+  ChristchurchCityAdm2NZL:
+    admin_name: ChristchurchCity
+    iso3c: NZL
+    shapeID: 76426892B12142127553015
+  CluthaDistrictAdm2NZL:
+    admin_name: CluthaDistrict
+    iso3c: NZL
+    shapeID: 76426892B1616776897166
+  Devonport-TakapunaLocalBoardAreaAdm2NZL:
+    admin_name: Devonport-TakapunaLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B81581642165693
+  DunedinCityAdm2NZL:
+    admin_name: DunedinCity
+    iso3c: NZL
+    shapeID: 76426892B14381320629181
+  FarNorthDistrictAdm2NZL:
+    admin_name: FarNorthDistrict
+    iso3c: NZL
+    shapeID: 76426892B75799514296056
+  FranklinLocalBoardAreaAdm2NZL:
+    admin_name: FranklinLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B8837637515397
+  GisborneDistrictAdm2NZL:
+    admin_name: GisborneDistrict
+    iso3c: NZL
+    shapeID: 76426892B94592608071475
+  GisborneRegionAdm1NZL:
+    admin_name: GisborneRegion
+    iso3c: NZL
+    shapeID: 40311993B37770658240242
+  GoreDistrictAdm2NZL:
+    admin_name: GoreDistrict
+    iso3c: NZL
+    shapeID: 76426892B13163294507058
+  GreyDistrictAdm2NZL:
+    admin_name: GreyDistrict
+    iso3c: NZL
+    shapeID: 76426892B91014587529392
+  HamiltonCityAdm2NZL:
+    admin_name: HamiltonCity
+    iso3c: NZL
+    shapeID: 76426892B9049934298416
+  HastingsDistrictAdm2NZL:
+    admin_name: HastingsDistrict
+    iso3c: NZL
+    shapeID: 76426892B40769329119322
+  HaurakiDistrictAdm2NZL:
+    admin_name: HaurakiDistrict
+    iso3c: NZL
+    shapeID: 76426892B20926799897700
+  Hawke'sBayRegionAdm1NZL:
+    admin_name: Hawke'sBayRegion
+    iso3c: NZL
+    shapeID: 40311993B4436499338527
+  Henderson-MasseyLocalBoardAreaAdm2NZL:
+    admin_name: Henderson-MasseyLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B68430055344516
+  HibiscusandBaysLocalBoardAreaAdm2NZL:
+    admin_name: HibiscusandBaysLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B59525679970548
+  HorowhenuaDistrictAdm2NZL:
+    admin_name: HorowhenuaDistrict
+    iso3c: NZL
+    shapeID: 76426892B7250308358266
+  HowickLocalBoardAreaAdm2NZL:
+    admin_name: HowickLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B48866186202191
+  HurunuiDistrictAdm2NZL:
+    admin_name: HurunuiDistrict
+    iso3c: NZL
+    shapeID: 76426892B32484543258144
+  InvercargillCityAdm2NZL:
+    admin_name: InvercargillCity
+    iso3c: NZL
+    shapeID: 76426892B89444897674661
+  KaikouraDistrictAdm2NZL:
+    admin_name: KaikouraDistrict
+    iso3c: NZL
+    shapeID: 76426892B84594849147158
+  KaiparaDistrictAdm2NZL:
+    admin_name: KaiparaDistrict
+    iso3c: NZL
+    shapeID: 76426892B63494088345666
+  "KaipÄ\x81tikiLocalBoardAreaAdm2NZL":
+    admin_name: "KaipÄ\x81tikiLocalBoardArea"
+    iso3c: NZL
+    shapeID: 76426892B5692080734545
+  KapitiCoastDistrictAdm2NZL:
+    admin_name: KapitiCoastDistrict
+    iso3c: NZL
+    shapeID: 76426892B40296921759207
+  KawerauDistrictAdm2NZL:
+    admin_name: KawerauDistrict
+    iso3c: NZL
+    shapeID: 76426892B43791511168362
+  LowerHuttCityAdm2NZL:
+    admin_name: LowerHuttCity
+    iso3c: NZL
+    shapeID: 76426892B69033052068966
+  MackenzieDistrictAdm2NZL:
+    admin_name: MackenzieDistrict
+    iso3c: NZL
+    shapeID: 76426892B16622223508882
+  Manawatu-WanganuiRegionAdm1NZL:
+    admin_name: Manawatu-WanganuiRegion
+    iso3c: NZL
+    shapeID: 40311993B31372788647917
+  ManawatuDistrictAdm2NZL:
+    admin_name: ManawatuDistrict
+    iso3c: NZL
+    shapeID: 76426892B10896556014
+  "MÄ\x81ngere-Å\x8CtÄ\x81huhuLocalBoardAreaAdm2NZL":
+    admin_name: "MÄ\x81ngere-Å\x8CtÄ\x81huhuLocalBoardArea"
+    iso3c: NZL
+    shapeID: 76426892B61751173785029
+  ManurewaLocalBoardAreaAdm2NZL:
+    admin_name: ManurewaLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B47640846355576
+  MarlboroughDistrictAdm2NZL:
+    admin_name: MarlboroughDistrict
+    iso3c: NZL
+    shapeID: 76426892B14162355231744
+  MarlboroughRegionAdm1NZL:
+    admin_name: MarlboroughRegion
+    iso3c: NZL
+    shapeID: 40311993B74827549991310
+  MastertonDistrictAdm2NZL:
+    admin_name: MastertonDistrict
+    iso3c: NZL
+    shapeID: 76426892B14950908560920
+  Matamata-PiakoDistrictAdm2NZL:
+    admin_name: Matamata-PiakoDistrict
+    iso3c: NZL
+    shapeID: 76426892B60758051011646
+  "Maungakiekie-TÄ\x81makiLocalBoardAreaAdm2NZL":
+    admin_name: "Maungakiekie-TÄ\x81makiLocalBoardArea"
+    iso3c: NZL
+    shapeID: 76426892B3481372105760
+  NapierCityAdm2NZL:
+    admin_name: NapierCity
+    iso3c: NZL
+    shapeID: 76426892B22916001519888
+  NelsonCityAdm2NZL:
+    admin_name: NelsonCity
+    iso3c: NZL
+    shapeID: 76426892B89864020181471
+  NelsonRegionAdm1NZL:
+    admin_name: NelsonRegion
+    iso3c: NZL
+    shapeID: 40311993B93133537770676
+  NewPlymouthDistrictAdm2NZL:
+    admin_name: NewPlymouthDistrict
+    iso3c: NZL
+    shapeID: 76426892B38653513639865
+  NorthlandRegionAdm1NZL:
+    admin_name: NorthlandRegion
+    iso3c: NZL
+    shapeID: 40311993B95835387341305
+  OtagoRegionAdm1NZL:
+    admin_name: OtagoRegion
+    iso3c: NZL
+    shapeID: 40311993B75469314212010
+  PalmerstonNorthCityAdm2NZL:
+    admin_name: PalmerstonNorthCity
+    iso3c: NZL
+    shapeID: 76426892B89930780438599
+  PapakuraLocalBoardAreaAdm2NZL:
+    admin_name: PapakuraLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B98543988194896
+  PoriruaCityAdm2NZL:
+    admin_name: PoriruaCity
+    iso3c: NZL
+    shapeID: 76426892B55441287291699
+  "PuketÄ\x81papaLocalBoardAreaAdm2NZL":
+    admin_name: "PuketÄ\x81papaLocalBoardArea"
+    iso3c: NZL
+    shapeID: 76426892B65793329230414
+  Queenstown-LakesDistrictAdm2NZL:
+    admin_name: Queenstown-LakesDistrict
+    iso3c: NZL
+    shapeID: 76426892B58919482239418
+  RangitikeiDistrictAdm2NZL:
+    admin_name: RangitikeiDistrict
+    iso3c: NZL
+    shapeID: 76426892B73880124121288
+  RodneyLocalBoardAreaAdm2NZL:
+    admin_name: RodneyLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B62509674219060
+  RotoruaDistrictAdm2NZL:
+    admin_name: RotoruaDistrict
+    iso3c: NZL
+    shapeID: 76426892B632863576138
+  RuapehuDistrictAdm2NZL:
+    admin_name: RuapehuDistrict
+    iso3c: NZL
+    shapeID: 76426892B73257627899839
+  SelwynDistrictAdm2NZL:
+    admin_name: SelwynDistrict
+    iso3c: NZL
+    shapeID: 76426892B38400120345954
+  SouthlandDistrictAdm2NZL:
+    admin_name: SouthlandDistrict
+    iso3c: NZL
+    shapeID: 76426892B99609638104575
+  SouthlandRegionAdm1NZL:
+    admin_name: SouthlandRegion
+    iso3c: NZL
+    shapeID: 40311993B33496206587618
+  SouthTaranakiDistrictAdm2NZL:
+    admin_name: SouthTaranakiDistrict
+    iso3c: NZL
+    shapeID: 76426892B20989652719934
+  SouthWaikatoDistrictAdm2NZL:
+    admin_name: SouthWaikatoDistrict
+    iso3c: NZL
+    shapeID: 76426892B10420121574176
+  SouthWairarapaDistrictAdm2NZL:
+    admin_name: SouthWairarapaDistrict
+    iso3c: NZL
+    shapeID: 76426892B24718175617028
+  StratfordDistrictAdm2NZL:
+    admin_name: StratfordDistrict
+    iso3c: NZL
+    shapeID: 76426892B63659956028788
+  TaranakiRegionAdm1NZL:
+    admin_name: TaranakiRegion
+    iso3c: NZL
+    shapeID: 40311993B7212192632593
+  TararuaDistrictAdm2NZL:
+    admin_name: TararuaDistrict
+    iso3c: NZL
+    shapeID: 76426892B74237617683232
+  TasmanDistrictAdm2NZL:
+    admin_name: TasmanDistrict
+    iso3c: NZL
+    shapeID: 76426892B40420864534448
+  TasmanRegionAdm1NZL:
+    admin_name: TasmanRegion
+    iso3c: NZL
+    shapeID: 40311993B18940272977460
+  TaupoDistrictAdm2NZL:
+    admin_name: TaupoDistrict
+    iso3c: NZL
+    shapeID: 76426892B49452595685205
+  TaurangaCityAdm2NZL:
+    admin_name: TaurangaCity
+    iso3c: NZL
+    shapeID: 76426892B41625514987736
+  Thames-CoromandelDistrictAdm2NZL:
+    admin_name: Thames-CoromandelDistrict
+    iso3c: NZL
+    shapeID: 76426892B50034078290765
+  TimaruDistrictAdm2NZL:
+    admin_name: TimaruDistrict
+    iso3c: NZL
+    shapeID: 76426892B42496743885166
+  UpperHarbourLocalBoardAreaAdm2NZL:
+    admin_name: UpperHarbourLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B55565569034738
+  UpperHuttCityAdm2NZL:
+    admin_name: UpperHuttCity
+    iso3c: NZL
+    shapeID: 76426892B70069822471948
+  WaihekeLocalBoardAreaAdm2NZL:
+    admin_name: WaihekeLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B70848202071782
+  WaikatoDistrictAdm2NZL:
+    admin_name: WaikatoDistrict
+    iso3c: NZL
+    shapeID: 76426892B94157809900768
+  WaikatoRegionAdm1NZL:
+    admin_name: WaikatoRegion
+    iso3c: NZL
+    shapeID: 40311993B15069482995997
+  WaimakaririDistrictAdm2NZL:
+    admin_name: WaimakaririDistrict
+    iso3c: NZL
+    shapeID: 76426892B89827280876957
+  WaimateDistrictAdm2NZL:
+    admin_name: WaimateDistrict
+    iso3c: NZL
+    shapeID: 76426892B45923139634861
+  WaipaDistrictAdm2NZL:
+    admin_name: WaipaDistrict
+    iso3c: NZL
+    shapeID: 76426892B28277932455235
+  WairoaDistrictAdm2NZL:
+    admin_name: WairoaDistrict
+    iso3c: NZL
+    shapeID: 76426892B8336521277252
+  "WaitÄ\x81kereRangesLocalBoardAreaAdm2NZL":
+    admin_name: "WaitÄ\x81kereRangesLocalBoardArea"
+    iso3c: NZL
+    shapeID: 76426892B98769695069148
+  WaitakiDistrictAdm2NZL:
+    admin_name: WaitakiDistrict
+    iso3c: NZL
+    shapeID: 76426892B29825208127723
+  "WaitematÄ\x81LocalBoardAreaAdm2NZL":
+    admin_name: "WaitematÄ\x81LocalBoardArea"
+    iso3c: NZL
+    shapeID: 76426892B73686765097584
+  WaitomoDistrictAdm2NZL:
+    admin_name: WaitomoDistrict
+    iso3c: NZL
+    shapeID: 76426892B29950050378985
+  WellingtonCityAdm2NZL:
+    admin_name: WellingtonCity
+    iso3c: NZL
+    shapeID: 76426892B25406189221199
+  WellingtonRegionAdm1NZL:
+    admin_name: WellingtonRegion
+    iso3c: NZL
+    shapeID: 40311993B14632257030086
+  WestCoastRegionAdm1NZL:
+    admin_name: WestCoastRegion
+    iso3c: NZL
+    shapeID: 40311993B79805700367517
+  WesternBayofPlentyDistrictAdm2NZL:
+    admin_name: WesternBayofPlentyDistrict
+    iso3c: NZL
+    shapeID: 76426892B94819834972279
+  WestlandDistrictAdm2NZL:
+    admin_name: WestlandDistrict
+    iso3c: NZL
+    shapeID: 76426892B53697269366586
+  WhakataneDistrictAdm2NZL:
+    admin_name: WhakataneDistrict
+    iso3c: NZL
+    shapeID: 76426892B18513134445034
+  WhanganuiDistrictAdm2NZL:
+    admin_name: WhanganuiDistrict
+    iso3c: NZL
+    shapeID: 76426892B60533113586032
+  WhangareiDistrictAdm2NZL:
+    admin_name: WhangareiDistrict
+    iso3c: NZL
+    shapeID: 76426892B88537535922351
+  WhauLocalBoardAreaAdm2NZL:
+    admin_name: WhauLocalBoardArea
+    iso3c: NZL
+    shapeID: 76426892B68447981538079

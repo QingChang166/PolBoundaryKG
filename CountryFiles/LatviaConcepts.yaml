@@ -1,44 +1,2521 @@
 concepts:
-    - Al?ksnesnovads
-    - L?v?nunovads
-    - Gulbenesnovads
-    - Ventspilsnovads
-    - Dienvidkurzemesnovads
-    - Kuld?gasnovads
-    - Saldusnovads
-    - Talsunovads
-    - Tukumanovads
-    - Valkasnovads
-    - Salaspilsnovads
-    - Jelgavas
-    - R?zeknes
-    - J?rmalas
-    - Ventspils
-    - R?ga
-    - Liep?jas
-    - Olainesnovads
-    - Saulkrastunovads
-    - Limba?unovads
-    - Aug?daugavasnovads
-    - Varak??nunovads
-    - C?sunovads
-    - Dobelesnovads
-    - Jelgavasnovads
-    - M?rupesnovads
-    - Bauskasnovads
-    - Ogresnovads
-    - Aizkrauklesnovads
-    - J?kabpilsnovads
-    - Ludzasnovads
-    - R?zeknesnovads
-    - Balvunovads
-    - Madonasnovads
-    - Smiltenesnovads
-    - Siguldasnovads
-    - Valmierasnovads
-    - ?da?unovads
-    - Ropa?unovads
-    - Prei?unovads
-    - Kr?slavasnovads
-    - Daugavpils
-    - ?ekavasnovads
+  Abavaspag.Adm2LVA:
+    admin_name: Abavaspag.
+    iso3c: LVA
+    shapeID: 27541924B53865799489570
+  Ābeļupag.Adm2LVA:
+    admin_name: Ābeļupag.
+    iso3c: LVA
+    shapeID: 27541924B70311937188190
+  ĀdažunovadsAdm1LVA:
+    admin_name: Ādažunovads
+    iso3c: LVA
+    shapeID: 71098776B78485662562022
+  Ādažupag.Adm2LVA:
+    admin_name: Ādažupag.
+    iso3c: LVA
+    shapeID: 27541924B55238306547203
+  Aglonaspag.Adm2LVA:
+    admin_name: Aglonaspag.
+    iso3c: LVA
+    shapeID: 27541924B99650716324046
+  AinažiAdm2LVA:
+    admin_name: Ainaži
+    iso3c: LVA
+    shapeID: 27541924B80186779852289
+  Ainažupag.Adm2LVA:
+    admin_name: Ainažupag.
+    iso3c: LVA
+    shapeID: 27541924B96759845375201
+  Aiviekstespag.Adm2LVA:
+    admin_name: Aiviekstespag.
+    iso3c: LVA
+    shapeID: 27541924B44380284961438
+  Aizkalnespag.Adm2LVA:
+    admin_name: Aizkalnespag.
+    iso3c: LVA
+    shapeID: 27541924B10227546219094
+  AizkraukleAdm2LVA:
+    admin_name: Aizkraukle
+    iso3c: LVA
+    shapeID: 27541924B59656090985212
+  AizkrauklesnovadsAdm1LVA:
+    admin_name: Aizkrauklesnovads
+    iso3c: LVA
+    shapeID: 71098776B85643540098422
+  Aizkrauklespag.Adm2LVA:
+    admin_name: Aizkrauklespag.
+    iso3c: LVA
+    shapeID: 27541924B10517585408275
+  AizputeAdm2LVA:
+    admin_name: Aizpute
+    iso3c: LVA
+    shapeID: 27541924B45479434258967
+  Aizputespag.Adm2LVA:
+    admin_name: Aizputespag.
+    iso3c: LVA
+    shapeID: 27541924B9669965867606
+  AknīsteAdm2LVA:
+    admin_name: Aknīste
+    iso3c: LVA
+    shapeID: 27541924B22014355946126
+  Aknīstespag.Adm2LVA:
+    admin_name: Aknīstespag.
+    iso3c: LVA
+    shapeID: 27541924B26802914642093
+  Allažupag.Adm2LVA:
+    admin_name: Allažupag.
+    iso3c: LVA
+    shapeID: 27541924B773256443611
+  AlojaAdm2LVA:
+    admin_name: Aloja
+    iso3c: LVA
+    shapeID: 27541924B23831507803085
+  Alojaspag.Adm2LVA:
+    admin_name: Alojaspag.
+    iso3c: LVA
+    shapeID: 27541924B87659249854231
+  Alsungaspag.Adm2LVA:
+    admin_name: Alsungaspag.
+    iso3c: LVA
+    shapeID: 27541924B56000157761411
+  Alsviķupag.Adm2LVA:
+    admin_name: Alsviķupag.
+    iso3c: LVA
+    shapeID: 27541924B42168726179868
+  AlūksneAdm2LVA:
+    admin_name: Alūksne
+    iso3c: LVA
+    shapeID: 27541924B6275122362783
+  AlūksnesnovadsAdm1LVA:
+    admin_name: Alūksnesnovads
+    iso3c: LVA
+    shapeID: 71098776B79799475449991
+  Amataspag.Adm2LVA:
+    admin_name: Amataspag.
+    iso3c: LVA
+    shapeID: 27541924B93502282845700
+  Ambeļupag.Adm2LVA:
+    admin_name: Ambeļupag.
+    iso3c: LVA
+    shapeID: 27541924B25126117723417
+  Ancespag.Adm2LVA:
+    admin_name: Ancespag.
+    iso3c: LVA
+    shapeID: 27541924B94862337906440
+  Andrupenespag.Adm2LVA:
+    admin_name: Andrupenespag.
+    iso3c: LVA
+    shapeID: 27541924B25782397713734
+  Andzeļupag.Adm2LVA:
+    admin_name: Andzeļupag.
+    iso3c: LVA
+    shapeID: 27541924B17639902411602
+  Annaspag.Adm2LVA:
+    admin_name: Annaspag.
+    iso3c: LVA
+    shapeID: 27541924B70085660000419
+  Anneniekupag.Adm2LVA:
+    admin_name: Anneniekupag.
+    iso3c: LVA
+    shapeID: 27541924B50154726334308
+  ApeAdm2LVA:
+    admin_name: Ape
+    iso3c: LVA
+    shapeID: 27541924B31450842752545
+  Apespag.Adm2LVA:
+    admin_name: Apespag.
+    iso3c: LVA
+    shapeID: 27541924B88937634750122
+  Ārlavaspag.Adm2LVA:
+    admin_name: Ārlavaspag.
+    iso3c: LVA
+    shapeID: 27541924B95940565269220
+  Aronaspag.Adm2LVA:
+    admin_name: Aronaspag.
+    iso3c: LVA
+    shapeID: 27541924B19624181266417
+  Asarespag.Adm2LVA:
+    admin_name: Asarespag.
+    iso3c: LVA
+    shapeID: 27541924B18984780687847
+  Asūnespag.Adm2LVA:
+    admin_name: Asūnespag.
+    iso3c: LVA
+    shapeID: 27541924B76064426584582
+  Atašienespag.Adm2LVA:
+    admin_name: Atašienespag.
+    iso3c: LVA
+    shapeID: 27541924B82770097220603
+  AuceAdm2LVA:
+    admin_name: Auce
+    iso3c: LVA
+    shapeID: 27541924B35234927620739
+  Audriņupag.Adm2LVA:
+    admin_name: Audriņupag.
+    iso3c: LVA
+    shapeID: 27541924B86594333268472
+  AugšdaugavasnovadsAdm1LVA:
+    admin_name: Augšdaugavasnovads
+    iso3c: LVA
+    shapeID: 71098776B31603947980404
+  Augstkalnespag.Adm2LVA:
+    admin_name: Augstkalnespag.
+    iso3c: LVA
+    shapeID: 27541924B87750651157185
+  Aulejaspag.Adm2LVA:
+    admin_name: Aulejaspag.
+    iso3c: LVA
+    shapeID: 27541924B14903693215581
+  Aurupag.Adm2LVA:
+    admin_name: Aurupag.
+    iso3c: LVA
+    shapeID: 27541924B19502695969152
+  Babītespag.Adm2LVA:
+    admin_name: Babītespag.
+    iso3c: LVA
+    shapeID: 27541924B20304817585286
+  BaldoneAdm2LVA:
+    admin_name: Baldone
+    iso3c: LVA
+    shapeID: 27541924B69230564429845
+  Baldonespag.Adm2LVA:
+    admin_name: Baldonespag.
+    iso3c: LVA
+    shapeID: 27541924B60801434690140
+  Balgalespag.Adm2LVA:
+    admin_name: Balgalespag.
+    iso3c: LVA
+    shapeID: 27541924B95620316130536
+  BaložiAdm2LVA:
+    admin_name: Baloži
+    iso3c: LVA
+    shapeID: 27541924B31221481282292
+  Baltinavaspag.Adm2LVA:
+    admin_name: Baltinavaspag.
+    iso3c: LVA
+    shapeID: 27541924B38825642429303
+  BalviAdm2LVA:
+    admin_name: Balvi
+    iso3c: LVA
+    shapeID: 27541924B17148947944972
+  BalvunovadsAdm1LVA:
+    admin_name: Balvunovads
+    iso3c: LVA
+    shapeID: 71098776B22234049819432
+  Balvupag.Adm2LVA:
+    admin_name: Balvupag.
+    iso3c: LVA
+    shapeID: 27541924B22679886686853
+  Bārbelespag.Adm2LVA:
+    admin_name: Bārbelespag.
+    iso3c: LVA
+    shapeID: 27541924B85355894177971
+  Barkavaspag.Adm2LVA:
+    admin_name: Barkavaspag.
+    iso3c: LVA
+    shapeID: 27541924B85435526421867
+  Bārtaspag.Adm2LVA:
+    admin_name: Bārtaspag.
+    iso3c: LVA
+    shapeID: 27541924B34143831895881
+  BauskaAdm2LVA:
+    admin_name: Bauska
+    iso3c: LVA
+    shapeID: 27541924B8748628129152
+  BauskasnovadsAdm1LVA:
+    admin_name: Bauskasnovads
+    iso3c: LVA
+    shapeID: 71098776B97467876462064
+  Bebrenespag.Adm2LVA:
+    admin_name: Bebrenespag.
+    iso3c: LVA
+    shapeID: 27541924B36563614052180
+  Bebrupag.Adm2LVA:
+    admin_name: Bebrupag.
+    iso3c: LVA
+    shapeID: 27541924B18398292435736
+  Beļavaspag.Adm2LVA:
+    admin_name: Beļavaspag.
+    iso3c: LVA
+    shapeID: 27541924B57047213850381
+  Bēnespag.Adm2LVA:
+    admin_name: Bēnespag.
+    iso3c: LVA
+    shapeID: 27541924B36472446612292
+  Bērzainespag.Adm2LVA:
+    admin_name: Bērzainespag.
+    iso3c: LVA
+    shapeID: 27541924B68382909431902
+  Bērzaunespag.Adm2LVA:
+    admin_name: Bērzaunespag.
+    iso3c: LVA
+    shapeID: 27541924B65534695905374
+  Bērzespag.Adm2LVA:
+    admin_name: Bērzespag.
+    iso3c: LVA
+    shapeID: 27541924B54193972681718
+  Bērzgalespag.Adm2LVA:
+    admin_name: Bērzgalespag.
+    iso3c: LVA
+    shapeID: 27541924B18969922609426
+  Bērziņupag.Adm2LVA:
+    admin_name: Bērziņupag.
+    iso3c: LVA
+    shapeID: 27541924B7947560085495
+  Bērzkalnespag.Adm2LVA:
+    admin_name: Bērzkalnespag.
+    iso3c: LVA
+    shapeID: 27541924B58217597236828
+  Bērzpilspag.Adm2LVA:
+    admin_name: Bērzpilspag.
+    iso3c: LVA
+    shapeID: 27541924B21084254111268
+  Biķerniekupag.Adm2LVA:
+    admin_name: Biķerniekupag.
+    iso3c: LVA
+    shapeID: 27541924B40947468766186
+  Bikstupag.Adm2LVA:
+    admin_name: Bikstupag.
+    iso3c: LVA
+    shapeID: 27541924B53901275310050
+  Bilskaspag.Adm2LVA:
+    admin_name: Bilskaspag.
+    iso3c: LVA
+    shapeID: 27541924B86975259147781
+  Birzgalespag.Adm2LVA:
+    admin_name: Birzgalespag.
+    iso3c: LVA
+    shapeID: 27541924B47267130606950
+  Blīdenespag.Adm2LVA:
+    admin_name: Blīdenespag.
+    iso3c: LVA
+    shapeID: 27541924B82877034369883
+  Blomespag.Adm2LVA:
+    admin_name: Blomespag.
+    iso3c: LVA
+    shapeID: 27541924B40520684233184
+  Blontupag.Adm2LVA:
+    admin_name: Blontupag.
+    iso3c: LVA
+    shapeID: 27541924B11369023113792
+  Brantupag.Adm2LVA:
+    admin_name: Brantupag.
+    iso3c: LVA
+    shapeID: 27541924B83943898242437
+  Braslavaspag.Adm2LVA:
+    admin_name: Braslavaspag.
+    iso3c: LVA
+    shapeID: 27541924B13565408041411
+  Brenguļupag.Adm2LVA:
+    admin_name: Brenguļupag.
+    iso3c: LVA
+    shapeID: 27541924B16745328743360
+  Briežuciemapag.Adm2LVA:
+    admin_name: Briežuciemapag.
+    iso3c: LVA
+    shapeID: 27541924B17753887700390
+  Briģupag.Adm2LVA:
+    admin_name: Briģupag.
+    iso3c: LVA
+    shapeID: 27541924B47965156776634
+  Brīvzemniekupag.Adm2LVA:
+    admin_name: Brīvzemniekupag.
+    iso3c: LVA
+    shapeID: 27541924B63069620149492
+  BrocēniAdm2LVA:
+    admin_name: Brocēni
+    iso3c: LVA
+    shapeID: 27541924B69877910900849
+  Brunavaspag.Adm2LVA:
+    admin_name: Brunavaspag.
+    iso3c: LVA
+    shapeID: 27541924B75400178826619
+  Bukaišupag.Adm2LVA:
+    admin_name: Bukaišupag.
+    iso3c: LVA
+    shapeID: 27541924B52538484652189
+  Bunkaspag.Adm2LVA:
+    admin_name: Bunkaspag.
+    iso3c: LVA
+    shapeID: 27541924B56960431144298
+  Burtniekupag.Adm2LVA:
+    admin_name: Burtniekupag.
+    iso3c: LVA
+    shapeID: 27541924B29560801732467
+  Carnikavaspag.Adm2LVA:
+    admin_name: Carnikavaspag.
+    iso3c: LVA
+    shapeID: 27541924B94741323033452
+  Cenupag.Adm2LVA:
+    admin_name: Cenupag.
+    iso3c: LVA
+    shapeID: 27541924B81611305918956
+  Ceraukstespag.Adm2LVA:
+    admin_name: Ceraukstespag.
+    iso3c: LVA
+    shapeID: 27541924B26132540947548
+  Cērespag.Adm2LVA:
+    admin_name: Cērespag.
+    iso3c: LVA
+    shapeID: 27541924B40515635146837
+  CēsisAdm2LVA:
+    admin_name: Cēsis
+    iso3c: LVA
+    shapeID: 27541924B8130819472735
+  CēsunovadsAdm1LVA:
+    admin_name: Cēsunovads
+    iso3c: LVA
+    shapeID: 71098776B7317746382863
+  CesvaineAdm2LVA:
+    admin_name: Cesvaine
+    iso3c: LVA
+    shapeID: 27541924B54491837054784
+  Cesvainespag.Adm2LVA:
+    admin_name: Cesvainespag.
+    iso3c: LVA
+    shapeID: 27541924B84614371300280
+  Ciblaspag.Adm2LVA:
+    admin_name: Ciblaspag.
+    iso3c: LVA
+    shapeID: 27541924B77799225561415
+  Ciecerespag.Adm2LVA:
+    admin_name: Ciecerespag.
+    iso3c: LVA
+    shapeID: 27541924B20812887451136
+  Cīravaspag.Adm2LVA:
+    admin_name: Cīravaspag.
+    iso3c: LVA
+    shapeID: 27541924B26193226083198
+  Cirmaspag.Adm2LVA:
+    admin_name: Cirmaspag.
+    iso3c: LVA
+    shapeID: 27541924B88018197851327
+  Codespag.Adm2LVA:
+    admin_name: Codespag.
+    iso3c: LVA
+    shapeID: 27541924B25863088320510
+  Čornajaspag.Adm2LVA:
+    admin_name: Čornajaspag.
+    iso3c: LVA
+    shapeID: 27541924B53190553604888
+  DagdaAdm2LVA:
+    admin_name: Dagda
+    iso3c: LVA
+    shapeID: 27541924B81677666502993
+  Dagdaspag.Adm2LVA:
+    admin_name: Dagdaspag.
+    iso3c: LVA
+    shapeID: 27541924B87793076838019
+  Daudzesespag.Adm2LVA:
+    admin_name: Daudzesespag.
+    iso3c: LVA
+    shapeID: 27541924B85634825101780
+  DaugavpilsAdm1LVA:
+    admin_name: Daugavpils
+    iso3c: LVA
+    shapeID: 71098776B82164502050739
+  DaugavpilsAdm2LVA:
+    admin_name: Daugavpils
+    iso3c: LVA
+    shapeID: 27541924B86608938053042
+  Daugmalespag.Adm2LVA:
+    admin_name: Daugmalespag.
+    iso3c: LVA
+    shapeID: 27541924B86442944632001
+  Daukstupag.Adm2LVA:
+    admin_name: Daukstupag.
+    iso3c: LVA
+    shapeID: 27541924B23871708016043
+  Dāviņupag.Adm2LVA:
+    admin_name: Dāviņupag.
+    iso3c: LVA
+    shapeID: 27541924B37051208002630
+  Degolespag.Adm2LVA:
+    admin_name: Degolespag.
+    iso3c: LVA
+    shapeID: 27541924B73428476484731
+  Dekšārespag.Adm2LVA:
+    admin_name: Dekšārespag.
+    iso3c: LVA
+    shapeID: 27541924B87900075837764
+  Demenespag.Adm2LVA:
+    admin_name: Demenespag.
+    iso3c: LVA
+    shapeID: 27541924B73785369996962
+  DienvidkurzemesnovadsAdm1LVA:
+    admin_name: Dienvidkurzemesnovads
+    iso3c: LVA
+    shapeID: 71098776B71258051821866
+  Dignājaspag.Adm2LVA:
+    admin_name: Dignājaspag.
+    iso3c: LVA
+    shapeID: 27541924B5216902390969
+  Dikļupag.Adm2LVA:
+    admin_name: Dikļupag.
+    iso3c: LVA
+    shapeID: 27541924B58624620212136
+  DobeleAdm2LVA:
+    admin_name: Dobele
+    iso3c: LVA
+    shapeID: 27541924B14429265035734
+  DobelesnovadsAdm1LVA:
+    admin_name: Dobelesnovads
+    iso3c: LVA
+    shapeID: 71098776B58439830015402
+  Dobelespag.Adm2LVA:
+    admin_name: Dobelespag.
+    iso3c: LVA
+    shapeID: 27541924B40989782476416
+  Drabešupag.Adm2LVA:
+    admin_name: Drabešupag.
+    iso3c: LVA
+    shapeID: 27541924B30563541245328
+  Dricānupag.Adm2LVA:
+    admin_name: Dricānupag.
+    iso3c: LVA
+    shapeID: 27541924B14059531944666
+  Drustupag.Adm2LVA:
+    admin_name: Drustupag.
+    iso3c: LVA
+    shapeID: 27541924B75967933450312
+  Druvienaspag.Adm2LVA:
+    admin_name: Druvienaspag.
+    iso3c: LVA
+    shapeID: 27541924B4723463518460
+  Dubnaspag.Adm2LVA:
+    admin_name: Dubnaspag.
+    iso3c: LVA
+    shapeID: 27541924B73485467634467
+  Dunalkaspag.Adm2LVA:
+    admin_name: Dunalkaspag.
+    iso3c: LVA
+    shapeID: 27541924B30514454851640
+  Dunavaspag.Adm2LVA:
+    admin_name: Dunavaspag.
+    iso3c: LVA
+    shapeID: 27541924B9707023738482
+  Dundagaspag.Adm2LVA:
+    admin_name: Dundagaspag.
+    iso3c: LVA
+    shapeID: 27541924B42832973938104
+  Dunikaspag.Adm2LVA:
+    admin_name: Dunikaspag.
+    iso3c: LVA
+    shapeID: 27541924B90244884039067
+  DurbeAdm2LVA:
+    admin_name: Durbe
+    iso3c: LVA
+    shapeID: 27541924B82522110143581
+  Durbespag.Adm2LVA:
+    admin_name: Durbespag.
+    iso3c: LVA
+    shapeID: 27541924B87236777482694
+  Dvietespag.Adm2LVA:
+    admin_name: Dvietespag.
+    iso3c: LVA
+    shapeID: 27541924B45614258589543
+  Dzelzavaspag.Adm2LVA:
+    admin_name: Dzelzavaspag.
+    iso3c: LVA
+    shapeID: 27541924B55159579541929
+  Dzērbenespag.Adm2LVA:
+    admin_name: Dzērbenespag.
+    iso3c: LVA
+    shapeID: 27541924B98442671693527
+  Džūkstespag.Adm2LVA:
+    admin_name: Džūkstespag.
+    iso3c: LVA
+    shapeID: 27541924B93568350942485
+  Ēdolespag.Adm2LVA:
+    admin_name: Ēdolespag.
+    iso3c: LVA
+    shapeID: 27541924B33220352308634
+  Eglainespag.Adm2LVA:
+    admin_name: Eglainespag.
+    iso3c: LVA
+    shapeID: 27541924B72731391973761
+  Elejaspag.Adm2LVA:
+    admin_name: Elejaspag.
+    iso3c: LVA
+    shapeID: 27541924B1906845824135
+  Elkšņupag.Adm2LVA:
+    admin_name: Elkšņupag.
+    iso3c: LVA
+    shapeID: 27541924B76488433422396
+  Embūtespag.Adm2LVA:
+    admin_name: Embūtespag.
+    iso3c: LVA
+    shapeID: 27541924B50643512275860
+  Engurespag.Adm2LVA:
+    admin_name: Engurespag.
+    iso3c: LVA
+    shapeID: 27541924B28821818047362
+  Ērģemespag.Adm2LVA:
+    admin_name: Ērģemespag.
+    iso3c: LVA
+    shapeID: 27541924B65555347577628
+  Ērgļupag.Adm2LVA:
+    admin_name: Ērgļupag.
+    iso3c: LVA
+    shapeID: 27541924B50844448194211
+  Ēvelespag.Adm2LVA:
+    admin_name: Ēvelespag.
+    iso3c: LVA
+    shapeID: 27541924B74046079513035
+  Ezerespag.Adm2LVA:
+    admin_name: Ezerespag.
+    iso3c: LVA
+    shapeID: 27541924B94087058681493
+  Ezerniekupag.Adm2LVA:
+    admin_name: Ezerniekupag.
+    iso3c: LVA
+    shapeID: 27541924B52024011130433
+  Feimaņupag.Adm2LVA:
+    admin_name: Feimaņupag.
+    iso3c: LVA
+    shapeID: 27541924B82877950601433
+  Gaigalavaspag.Adm2LVA:
+    admin_name: Gaigalavaspag.
+    iso3c: LVA
+    shapeID: 27541924B98236726322583
+  Gaiķupag.Adm2LVA:
+    admin_name: Gaiķupag.
+    iso3c: LVA
+    shapeID: 27541924B40393158953955
+  Gailīšupag.Adm2LVA:
+    admin_name: Gailīšupag.
+    iso3c: LVA
+    shapeID: 27541924B16682413178254
+  Galēnupag.Adm2LVA:
+    admin_name: Galēnupag.
+    iso3c: LVA
+    shapeID: 27541924B64203251765316
+  Galgauskaspag.Adm2LVA:
+    admin_name: Galgauskaspag.
+    iso3c: LVA
+    shapeID: 27541924B87503038984023
+  Garkalnespag.Adm2LVA:
+    admin_name: Garkalnespag.
+    iso3c: LVA
+    shapeID: 27541924B31320948799196
+  Gārsenespag.Adm2LVA:
+    admin_name: Gārsenespag.
+    iso3c: LVA
+    shapeID: 27541924B32403888288894
+  Gaujienaspag.Adm2LVA:
+    admin_name: Gaujienaspag.
+    iso3c: LVA
+    shapeID: 27541924B78373668882921
+  Gaviezespag.Adm2LVA:
+    admin_name: Gaviezespag.
+    iso3c: LVA
+    shapeID: 27541924B56767178281632
+  Ģibuļupag.Adm2LVA:
+    admin_name: Ģibuļupag.
+    iso3c: LVA
+    shapeID: 27541924B60318700247351
+  Glūdaspag.Adm2LVA:
+    admin_name: Glūdaspag.
+    iso3c: LVA
+    shapeID: 27541924B80569241121500
+  Goliševaspag.Adm2LVA:
+    admin_name: Goliševaspag.
+    iso3c: LVA
+    shapeID: 27541924B2681708815128
+  Gramzdaspag.Adm2LVA:
+    admin_name: Gramzdaspag.
+    iso3c: LVA
+    shapeID: 27541924B36591248558487
+  Grāverupag.Adm2LVA:
+    admin_name: Grāverupag.
+    iso3c: LVA
+    shapeID: 27541924B82032985792031
+  Griškānupag.Adm2LVA:
+    admin_name: Griškānupag.
+    iso3c: LVA
+    shapeID: 27541924B86599221750304
+  GrobiņaAdm2LVA:
+    admin_name: Grobiņa
+    iso3c: LVA
+    shapeID: 27541924B27244919025150
+  Grobiņaspag.Adm2LVA:
+    admin_name: Grobiņaspag.
+    iso3c: LVA
+    shapeID: 27541924B17977825120630
+  Grundzālespag.Adm2LVA:
+    admin_name: Grundzālespag.
+    iso3c: LVA
+    shapeID: 27541924B22887271928522
+  Gudeniekupag.Adm2LVA:
+    admin_name: Gudeniekupag.
+    iso3c: LVA
+    shapeID: 27541924B44633167106619
+  GulbeneAdm2LVA:
+    admin_name: Gulbene
+    iso3c: LVA
+    shapeID: 27541924B45220335031479
+  GulbenesnovadsAdm1LVA:
+    admin_name: Gulbenesnovads
+    iso3c: LVA
+    shapeID: 71098776B5661553593199
+  IecavaAdm2LVA:
+    admin_name: Iecava
+    iso3c: LVA
+    shapeID: 27541924B74640120803462
+  Iecavaspag.Adm2LVA:
+    admin_name: Iecavaspag.
+    iso3c: LVA
+    shapeID: 27541924B36715332650417
+  IkšķileAdm2LVA:
+    admin_name: Ikšķile
+    iso3c: LVA
+    shapeID: 27541924B16568384003346
+  Īlespag.Adm2LVA:
+    admin_name: Īlespag.
+    iso3c: LVA
+    shapeID: 27541924B56863869221603
+  IlūksteAdm2LVA:
+    admin_name: Ilūkste
+    iso3c: LVA
+    shapeID: 27541924B8842177834168
+  Ilzenespag.Adm2LVA:
+    admin_name: Ilzenespag.
+    iso3c: LVA
+    shapeID: 27541924B97832131674611
+  Ilzeskalnapag.Adm2LVA:
+    admin_name: Ilzeskalnapag.
+    iso3c: LVA
+    shapeID: 27541924B19627708987282
+  Inčukalnapag.Adm2LVA:
+    admin_name: Inčukalnapag.
+    iso3c: LVA
+    shapeID: 27541924B15420953468382
+  Indrānupag.Adm2LVA:
+    admin_name: Indrānupag.
+    iso3c: LVA
+    shapeID: 27541924B85943558594873
+  Indraspag.Adm2LVA:
+    admin_name: Indraspag.
+    iso3c: LVA
+    shapeID: 27541924B79959881652965
+  Inešupag.Adm2LVA:
+    admin_name: Inešupag.
+    iso3c: LVA
+    shapeID: 27541924B64106347464123
+  Ipiķupag.Adm2LVA:
+    admin_name: Ipiķupag.
+    iso3c: LVA
+    shapeID: 27541924B90668433326116
+  Irlavaspag.Adm2LVA:
+    admin_name: Irlavaspag.
+    iso3c: LVA
+    shapeID: 27541924B56900525469147
+  Iršupag.Adm2LVA:
+    admin_name: Iršupag.
+    iso3c: LVA
+    shapeID: 27541924B71270592653243
+  Īslīcespag.Adm2LVA:
+    admin_name: Īslīcespag.
+    iso3c: LVA
+    shapeID: 27541924B75327905371768
+  Isnaudaspag.Adm2LVA:
+    admin_name: Isnaudaspag.
+    iso3c: LVA
+    shapeID: 27541924B87627734072498
+  Istraspag.Adm2LVA:
+    admin_name: Istraspag.
+    iso3c: LVA
+    shapeID: 27541924B50574350244581
+  Īvandespag.Adm2LVA:
+    admin_name: Īvandespag.
+    iso3c: LVA
+    shapeID: 27541924B58037297238145
+  Īvespag.Adm2LVA:
+    admin_name: Īvespag.
+    iso3c: LVA
+    shapeID: 27541924B94003939070520
+  Izvaltaspag.Adm2LVA:
+    admin_name: Izvaltaspag.
+    iso3c: LVA
+    shapeID: 27541924B67653564082262
+  Jaunalūksnespag.Adm2LVA:
+    admin_name: Jaunalūksnespag.
+    iso3c: LVA
+    shapeID: 27541924B87199859913454
+  Jaunannaspag.Adm2LVA:
+    admin_name: Jaunannaspag.
+    iso3c: LVA
+    shapeID: 27541924B81808948627950
+  Jaunaucespag.Adm2LVA:
+    admin_name: Jaunaucespag.
+    iso3c: LVA
+    shapeID: 27541924B95660010997208
+  Jaunbērzespag.Adm2LVA:
+    admin_name: Jaunbērzespag.
+    iso3c: LVA
+    shapeID: 27541924B28590745616042
+  Jaungulbenespag.Adm2LVA:
+    admin_name: Jaungulbenespag.
+    iso3c: LVA
+    shapeID: 27541924B98196696268447
+  JaunjelgavaAdm2LVA:
+    admin_name: Jaunjelgava
+    iso3c: LVA
+    shapeID: 27541924B26056136094226
+  Jaunjelgavaspag.Adm2LVA:
+    admin_name: Jaunjelgavaspag.
+    iso3c: LVA
+    shapeID: 27541924B6750181975211
+  Jaunlaicenespag.Adm2LVA:
+    admin_name: Jaunlaicenespag.
+    iso3c: LVA
+    shapeID: 27541924B93978153905592
+  Jaunlutriņupag.Adm2LVA:
+    admin_name: Jaunlutriņupag.
+    iso3c: LVA
+    shapeID: 27541924B81065833058095
+  Jaunpiebalgaspag.Adm2LVA:
+    admin_name: Jaunpiebalgaspag.
+    iso3c: LVA
+    shapeID: 27541924B32667886531157
+  Jaunpilspag.Adm2LVA:
+    admin_name: Jaunpilspag.
+    iso3c: LVA
+    shapeID: 27541924B39343861485038
+  Jaunsātupag.Adm2LVA:
+    admin_name: Jaunsātupag.
+    iso3c: LVA
+    shapeID: 27541924B49068002315301
+  Jaunsvirlaukaspag.Adm2LVA:
+    admin_name: Jaunsvirlaukaspag.
+    iso3c: LVA
+    shapeID: 27541924B87431187138979
+  JēkabpilsAdm2LVA:
+    admin_name: Jēkabpils
+    iso3c: LVA
+    shapeID: 27541924B6022937125095
+  JēkabpilsnovadsAdm1LVA:
+    admin_name: Jēkabpilsnovads
+    iso3c: LVA
+    shapeID: 71098776B48937535890319
+  JelgavaAdm2LVA:
+    admin_name: Jelgava
+    iso3c: LVA
+    shapeID: 27541924B72876713406332
+  JelgavasAdm1LVA:
+    admin_name: Jelgavas
+    iso3c: LVA
+    shapeID: 71098776B72876713406332
+  JelgavasnovadsAdm1LVA:
+    admin_name: Jelgavasnovads
+    iso3c: LVA
+    shapeID: 71098776B34309626401644
+  Jērcēnupag.Adm2LVA:
+    admin_name: Jērcēnupag.
+    iso3c: LVA
+    shapeID: 27541924B36272481510247
+  Jersikaspag.Adm2LVA:
+    admin_name: Jersikaspag.
+    iso3c: LVA
+    shapeID: 27541924B79082278774679
+  Jerupag.Adm2LVA:
+    admin_name: Jerupag.
+    iso3c: LVA
+    shapeID: 27541924B27109633258340
+  Jumpravaspag.Adm2LVA:
+    admin_name: Jumpravaspag.
+    iso3c: LVA
+    shapeID: 27541924B27221718879632
+  Jumurdaspag.Adm2LVA:
+    admin_name: Jumurdaspag.
+    iso3c: LVA
+    shapeID: 27541924B12132010316150
+  Jūrkalnespag.Adm2LVA:
+    admin_name: Jūrkalnespag.
+    iso3c: LVA
+    shapeID: 27541924B11800996662451
+  JūrmalaAdm2LVA:
+    admin_name: Jūrmala
+    iso3c: LVA
+    shapeID: 27541924B97650522889636
+  JūrmalasAdm1LVA:
+    admin_name: Jūrmalas
+    iso3c: LVA
+    shapeID: 71098776B69315771541786
+  Kabilespag.Adm2LVA:
+    admin_name: Kabilespag.
+    iso3c: LVA
+    shapeID: 27541924B2434505236079
+  Kaivespag.Adm2LVA:
+    admin_name: Kaivespag.
+    iso3c: LVA
+    shapeID: 27541924B86387846906817
+  Kalētupag.Adm2LVA:
+    admin_name: Kalētupag.
+    iso3c: LVA
+    shapeID: 27541924B96386637120748
+  Kalkūnespag.Adm2LVA:
+    admin_name: Kalkūnespag.
+    iso3c: LVA
+    shapeID: 27541924B79116977656137
+  Kalnapag.Adm2LVA:
+    admin_name: Kalnapag.
+    iso3c: LVA
+    shapeID: 27541924B87645063138183
+  Kalncempjupag.Adm2LVA:
+    admin_name: Kalncempjupag.
+    iso3c: LVA
+    shapeID: 27541924B44633250029767
+  Kalnciemapag.Adm2LVA:
+    admin_name: Kalnciemapag.
+    iso3c: LVA
+    shapeID: 27541924B33017162899558
+  Kalniešupag.Adm2LVA:
+    admin_name: Kalniešupag.
+    iso3c: LVA
+    shapeID: 27541924B55230125144242
+  Kalsnavaspag.Adm2LVA:
+    admin_name: Kalsnavaspag.
+    iso3c: LVA
+    shapeID: 27541924B10280579441217
+  Kalupespag.Adm2LVA:
+    admin_name: Kalupespag.
+    iso3c: LVA
+    shapeID: 27541924B69291798191186
+  Kalvenespag.Adm2LVA:
+    admin_name: Kalvenespag.
+    iso3c: LVA
+    shapeID: 27541924B69386749223105
+  KandavaAdm2LVA:
+    admin_name: Kandava
+    iso3c: LVA
+    shapeID: 27541924B48959095645396
+  Kandavaspag.Adm2LVA:
+    admin_name: Kandavaspag.
+    iso3c: LVA
+    shapeID: 27541924B18979846350071
+  Kantiniekupag.Adm2LVA:
+    admin_name: Kantiniekupag.
+    iso3c: LVA
+    shapeID: 27541924B86344078338923
+  Kaplavaspag.Adm2LVA:
+    admin_name: Kaplavaspag.
+    iso3c: LVA
+    shapeID: 27541924B33567363876406
+  Kārķupag.Adm2LVA:
+    admin_name: Kārķupag.
+    iso3c: LVA
+    shapeID: 27541924B33710891924664
+  KārsavaAdm2LVA:
+    admin_name: Kārsava
+    iso3c: LVA
+    shapeID: 27541924B33018865841873
+  Kastuļinaspag.Adm2LVA:
+    admin_name: Kastuļinaspag.
+    iso3c: LVA
+    shapeID: 27541924B97590463974978
+  Katvarupag.Adm2LVA:
+    admin_name: Katvarupag.
+    iso3c: LVA
+    shapeID: 27541924B50356966028149
+  Kaugurupag.Adm2LVA:
+    admin_name: Kaugurupag.
+    iso3c: LVA
+    shapeID: 27541924B64274415007914
+  Kaunataspag.Adm2LVA:
+    admin_name: Kaunataspag.
+    iso3c: LVA
+    shapeID: 27541924B36939981885438
+  Kazdangaspag.Adm2LVA:
+    admin_name: Kazdangaspag.
+    iso3c: LVA
+    shapeID: 27541924B75570009017892
+  ĶegumsAdm2LVA:
+    admin_name: Ķegums
+    iso3c: LVA
+    shapeID: 27541924B39135801304013
+  Ķeipenespag.Adm2LVA:
+    admin_name: Ķeipenespag.
+    iso3c: LVA
+    shapeID: 27541924B50281047357310
+  ĶekavasnovadsAdm1LVA:
+    admin_name: Ķekavasnovads
+    iso3c: LVA
+    shapeID: 71098776B65259108099076
+  Ķekavaspag.Adm2LVA:
+    admin_name: Ķekavaspag.
+    iso3c: LVA
+    shapeID: 27541924B56156234267129
+  Ķepovaspag.Adm2LVA:
+    admin_name: Ķepovaspag.
+    iso3c: LVA
+    shapeID: 27541924B57766741495860
+  Klintainespag.Adm2LVA:
+    admin_name: Klintainespag.
+    iso3c: LVA
+    shapeID: 27541924B20415877652953
+  Kocēnupag.Adm2LVA:
+    admin_name: Kocēnupag.
+    iso3c: LVA
+    shapeID: 27541924B79657792070029
+  KokneseAdm2LVA:
+    admin_name: Koknese
+    iso3c: LVA
+    shapeID: 27541924B15582250394198
+  Koknesespag.Adm2LVA:
+    admin_name: Koknesespag.
+    iso3c: LVA
+    shapeID: 27541924B28822994626214
+  Kolkaspag.Adm2LVA:
+    admin_name: Kolkaspag.
+    iso3c: LVA
+    shapeID: 27541924B54610499536765
+  Kombuļupag.Adm2LVA:
+    admin_name: Kombuļupag.
+    iso3c: LVA
+    shapeID: 27541924B40746189517992
+  Konstantinovaspag.Adm2LVA:
+    admin_name: Konstantinovaspag.
+    iso3c: LVA
+    shapeID: 27541924B71818546023925
+  Ķoņupag.Adm2LVA:
+    admin_name: Ķoņupag.
+    iso3c: LVA
+    shapeID: 27541924B96049400347386
+  Krapespag.Adm2LVA:
+    admin_name: Krapespag.
+    iso3c: LVA
+    shapeID: 27541924B6924780899124
+  KrāslavaAdm2LVA:
+    admin_name: Krāslava
+    iso3c: LVA
+    shapeID: 27541924B97112001727549
+  KrāslavasnovadsAdm1LVA:
+    admin_name: Krāslavasnovads
+    iso3c: LVA
+    shapeID: 71098776B38282481952649
+  Krāslavaspag.Adm2LVA:
+    admin_name: Krāslavaspag.
+    iso3c: LVA
+    shapeID: 27541924B24537729982131
+  Krimuldaspag.Adm2LVA:
+    admin_name: Krimuldaspag.
+    iso3c: LVA
+    shapeID: 27541924B6857171142021
+  Krimūnupag.Adm2LVA:
+    admin_name: Krimūnupag.
+    iso3c: LVA
+    shapeID: 27541924B60795581291869
+  Krišjāņupag.Adm2LVA:
+    admin_name: Krišjāņupag.
+    iso3c: LVA
+    shapeID: 27541924B18316673123467
+  Krustpilspag.Adm2LVA:
+    admin_name: Krustpilspag.
+    iso3c: LVA
+    shapeID: 27541924B89257742122528
+  Kubulupag.Adm2LVA:
+    admin_name: Kubulupag.
+    iso3c: LVA
+    shapeID: 27541924B35853557519757
+  Kūkupag.Adm2LVA:
+    admin_name: Kūkupag.
+    iso3c: LVA
+    shapeID: 27541924B42844241256431
+  Ķūļciemapag.Adm2LVA:
+    admin_name: Ķūļciemapag.
+    iso3c: LVA
+    shapeID: 27541924B13857395207606
+  KuldīgaAdm2LVA:
+    admin_name: Kuldīga
+    iso3c: LVA
+    shapeID: 27541924B54151317600079
+  KuldīgasnovadsAdm1LVA:
+    admin_name: Kuldīgasnovads
+    iso3c: LVA
+    shapeID: 71098776B9951399870342
+  Kupravaspag.Adm2LVA:
+    admin_name: Kupravaspag.
+    iso3c: LVA
+    shapeID: 27541924B19263065695150
+  Kurmālespag.Adm2LVA:
+    admin_name: Kurmālespag.
+    iso3c: LVA
+    shapeID: 27541924B2673216189448
+  Kurmenespag.Adm2LVA:
+    admin_name: Kurmenespag.
+    iso3c: LVA
+    shapeID: 27541924B36001401326835
+  Kursīšupag.Adm2LVA:
+    admin_name: Kursīšupag.
+    iso3c: LVA
+    shapeID: 27541924B12564645513148
+  Laidupag.Adm2LVA:
+    admin_name: Laidupag.
+    iso3c: LVA
+    shapeID: 27541924B42587812574717
+  Laidzespag.Adm2LVA:
+    admin_name: Laidzespag.
+    iso3c: LVA
+    shapeID: 27541924B38806240468878
+  Lapmežciemapag.Adm2LVA:
+    admin_name: Lapmežciemapag.
+    iso3c: LVA
+    shapeID: 27541924B41002773283615
+  Lauberespag.Adm2LVA:
+    admin_name: Lauberespag.
+    iso3c: LVA
+    shapeID: 27541924B63076675035337
+  Laucesaspag.Adm2LVA:
+    admin_name: Laucesaspag.
+    iso3c: LVA
+    shapeID: 27541924B83584172222196
+  Laucienespag.Adm2LVA:
+    admin_name: Laucienespag.
+    iso3c: LVA
+    shapeID: 27541924B31657223934984
+  Lauderupag.Adm2LVA:
+    admin_name: Lauderupag.
+    iso3c: LVA
+    shapeID: 27541924B59482299052757
+  Ļaudonaspag.Adm2LVA:
+    admin_name: Ļaudonaspag.
+    iso3c: LVA
+    shapeID: 27541924B83547465612872
+  Launkalnespag.Adm2LVA:
+    admin_name: Launkalnespag.
+    iso3c: LVA
+    shapeID: 27541924B40793985914328
+  Lažaspag.Adm2LVA:
+    admin_name: Lažaspag.
+    iso3c: LVA
+    shapeID: 27541924B50720776256607
+  Lazdonaspag.Adm2LVA:
+    admin_name: Lazdonaspag.
+    iso3c: LVA
+    shapeID: 27541924B23480282117113
+  Lazdukalnapag.Adm2LVA:
+    admin_name: Lazdukalnapag.
+    iso3c: LVA
+    shapeID: 27541924B17763592459662
+  Lazdulejaspag.Adm2LVA:
+    admin_name: Lazdulejaspag.
+    iso3c: LVA
+    shapeID: 27541924B29489313148082
+  Lēdmanespag.Adm2LVA:
+    admin_name: Lēdmanespag.
+    iso3c: LVA
+    shapeID: 27541924B44390413631037
+  Lēdurgaspag.Adm2LVA:
+    admin_name: Lēdurgaspag.
+    iso3c: LVA
+    shapeID: 27541924B26008576526358
+  Leimaņupag.Adm2LVA:
+    admin_name: Leimaņupag.
+    iso3c: LVA
+    shapeID: 27541924B9576970308212
+  Lejasciemapag.Adm2LVA:
+    admin_name: Lejasciemapag.
+    iso3c: LVA
+    shapeID: 27541924B69346884723043
+  Lendžupag.Adm2LVA:
+    admin_name: Lendžupag.
+    iso3c: LVA
+    shapeID: 27541924B30394779880329
+  Lestenespag.Adm2LVA:
+    admin_name: Lestenespag.
+    iso3c: LVA
+    shapeID: 27541924B48713884824227
+  Lībagupag.Adm2LVA:
+    admin_name: Lībagupag.
+    iso3c: LVA
+    shapeID: 27541924B65314964158479
+  Līdumniekupag.Adm2LVA:
+    admin_name: Līdumniekupag.
+    iso3c: LVA
+    shapeID: 27541924B2315462302714
+  Lielaucespag.Adm2LVA:
+    admin_name: Lielaucespag.
+    iso3c: LVA
+    shapeID: 27541924B7578032784001
+  Lielplatonespag.Adm2LVA:
+    admin_name: Lielplatonespag.
+    iso3c: LVA
+    shapeID: 27541924B38186203198692
+  LielvārdeAdm2LVA:
+    admin_name: Lielvārde
+    iso3c: LVA
+    shapeID: 27541924B73355249500157
+  Lielvārdespag.Adm2LVA:
+    admin_name: Lielvārdespag.
+    iso3c: LVA
+    shapeID: 27541924B7752725645610
+  LiepājaAdm2LVA:
+    admin_name: Liepāja
+    iso3c: LVA
+    shapeID: 27541924B54461346766762
+  LiepājasAdm1LVA:
+    admin_name: Liepājas
+    iso3c: LVA
+    shapeID: 71098776B36836907015105
+  Liepaspag.Adm2LVA:
+    admin_name: Liepaspag.
+    iso3c: LVA
+    shapeID: 27541924B93252859491406
+  Liepnaspag.Adm2LVA:
+    admin_name: Liepnaspag.
+    iso3c: LVA
+    shapeID: 27541924B54101653992285
+  Liepupespag.Adm2LVA:
+    admin_name: Liepupespag.
+    iso3c: LVA
+    shapeID: 27541924B57299636563148
+  Liezērespag.Adm2LVA:
+    admin_name: Liezērespag.
+    iso3c: LVA
+    shapeID: 27541924B78156453771197
+  LīgatneAdm2LVA:
+    admin_name: Līgatne
+    iso3c: LVA
+    shapeID: 27541924B25651481219831
+  Līgatnespag.Adm2LVA:
+    admin_name: Līgatnespag.
+    iso3c: LVA
+    shapeID: 27541924B81159973415171
+  Līgopag.Adm2LVA:
+    admin_name: Līgopag.
+    iso3c: LVA
+    shapeID: 27541924B95861088193965
+  Līksnaspag.Adm2LVA:
+    admin_name: Līksnaspag.
+    iso3c: LVA
+    shapeID: 27541924B33833880746459
+  LimbažiAdm2LVA:
+    admin_name: Limbaži
+    iso3c: LVA
+    shapeID: 27541924B93215456258482
+  LimbažunovadsAdm1LVA:
+    admin_name: Limbažunovads
+    iso3c: LVA
+    shapeID: 71098776B19754450586287
+  Limbažupag.Adm2LVA:
+    admin_name: Limbažupag.
+    iso3c: LVA
+    shapeID: 27541924B16495698294804
+  Litenespag.Adm2LVA:
+    admin_name: Litenespag.
+    iso3c: LVA
+    shapeID: 27541924B1049309214592
+  LīvāniAdm2LVA:
+    admin_name: Līvāni
+    iso3c: LVA
+    shapeID: 27541924B22543300679500
+  LīvānunovadsAdm1LVA:
+    admin_name: Līvānunovads
+    iso3c: LVA
+    shapeID: 71098776B86236730304515
+  Līvbērzespag.Adm2LVA:
+    admin_name: Līvbērzespag.
+    iso3c: LVA
+    shapeID: 27541924B18412094384348
+  Lizumapag.Adm2LVA:
+    admin_name: Lizumapag.
+    iso3c: LVA
+    shapeID: 27541924B17941209046703
+  Lodespag.Adm2LVA:
+    admin_name: Lodespag.
+    iso3c: LVA
+    shapeID: 27541924B78787433075156
+  LubānaAdm2LVA:
+    admin_name: Lubāna
+    iso3c: LVA
+    shapeID: 27541924B15535016955578
+  Lubespag.Adm2LVA:
+    admin_name: Lubespag.
+    iso3c: LVA
+    shapeID: 27541924B36241306566640
+  LudzaAdm2LVA:
+    admin_name: Ludza
+    iso3c: LVA
+    shapeID: 27541924B46448426617043
+  LudzasnovadsAdm1LVA:
+    admin_name: Ludzasnovads
+    iso3c: LVA
+    shapeID: 71098776B32517746264485
+  Lutriņupag.Adm2LVA:
+    admin_name: Lutriņupag.
+    iso3c: LVA
+    shapeID: 27541924B57809969281457
+  Lūznavaspag.Adm2LVA:
+    admin_name: Lūznavaspag.
+    iso3c: LVA
+    shapeID: 27541924B86453491485354
+  Madlienaspag.Adm2LVA:
+    admin_name: Madlienaspag.
+    iso3c: LVA
+    shapeID: 27541924B46168997034550
+  MadonaAdm2LVA:
+    admin_name: Madona
+    iso3c: LVA
+    shapeID: 27541924B48569978533002
+  MadonasnovadsAdm1LVA:
+    admin_name: Madonasnovads
+    iso3c: LVA
+    shapeID: 71098776B63357041229203
+  Mākoņkalnapag.Adm2LVA:
+    admin_name: Mākoņkalnapag.
+    iso3c: LVA
+    shapeID: 27541924B30700512911719
+  Malienaspag.Adm2LVA:
+    admin_name: Malienaspag.
+    iso3c: LVA
+    shapeID: 27541924B29031976448606
+  Maļinovaspag.Adm2LVA:
+    admin_name: Maļinovaspag.
+    iso3c: LVA
+    shapeID: 27541924B81356835284887
+  Malnavaspag.Adm2LVA:
+    admin_name: Malnavaspag.
+    iso3c: LVA
+    shapeID: 27541924B93954265476468
+  Mālpilspag.Adm2LVA:
+    admin_name: Mālpilspag.
+    iso3c: LVA
+    shapeID: 27541924B96733922651524
+  Maltaspag.Adm2LVA:
+    admin_name: Maltaspag.
+    iso3c: LVA
+    shapeID: 27541924B14465730605778
+  Mālupespag.Adm2LVA:
+    admin_name: Mālupespag.
+    iso3c: LVA
+    shapeID: 27541924B23418807061987
+  Mārcienaspag.Adm2LVA:
+    admin_name: Mārcienaspag.
+    iso3c: LVA
+    shapeID: 27541924B30682574084031
+  Mārkalnespag.Adm2LVA:
+    admin_name: Mārkalnespag.
+    iso3c: LVA
+    shapeID: 27541924B80787843923364
+  Mārsnēnupag.Adm2LVA:
+    admin_name: Mārsnēnupag.
+    iso3c: LVA
+    shapeID: 27541924B8577335378902
+  MārupesnovadsAdm1LVA:
+    admin_name: Mārupesnovads
+    iso3c: LVA
+    shapeID: 71098776B68624450600982
+  Mārupespag.Adm2LVA:
+    admin_name: Mārupespag.
+    iso3c: LVA
+    shapeID: 27541924B47115385848599
+  Matīšupag.Adm2LVA:
+    admin_name: Matīšupag.
+    iso3c: LVA
+    shapeID: 27541924B27185019990533
+  Matkulespag.Adm2LVA:
+    admin_name: Matkulespag.
+    iso3c: LVA
+    shapeID: 27541924B52205717280809
+  Mazozolupag.Adm2LVA:
+    admin_name: Mazozolupag.
+    iso3c: LVA
+    shapeID: 27541924B71176066479064
+  MazsalacaAdm2LVA:
+    admin_name: Mazsalaca
+    iso3c: LVA
+    shapeID: 27541924B66896474397363
+  Mazsalacaspag.Adm2LVA:
+    admin_name: Mazsalacaspag.
+    iso3c: LVA
+    shapeID: 27541924B83250469425555
+  Mazzalvespag.Adm2LVA:
+    admin_name: Mazzalvespag.
+    iso3c: LVA
+    shapeID: 27541924B89627851604183
+  Medņevaspag.Adm2LVA:
+    admin_name: Medņevaspag.
+    iso3c: LVA
+    shapeID: 27541924B53598667549693
+  Medumupag.Adm2LVA:
+    admin_name: Medumupag.
+    iso3c: LVA
+    shapeID: 27541924B97158301114039
+  Medzespag.Adm2LVA:
+    admin_name: Medzespag.
+    iso3c: LVA
+    shapeID: 27541924B37027523872355
+  Meņģelespag.Adm2LVA:
+    admin_name: Meņģelespag.
+    iso3c: LVA
+    shapeID: 27541924B62168176320322
+  Mērdzenespag.Adm2LVA:
+    admin_name: Mērdzenespag.
+    iso3c: LVA
+    shapeID: 27541924B39657659213866
+  Mērsragapag.Adm2LVA:
+    admin_name: Mērsragapag.
+    iso3c: LVA
+    shapeID: 27541924B11751458518811
+  Mētrienaspag.Adm2LVA:
+    admin_name: Mētrienaspag.
+    iso3c: LVA
+    shapeID: 27541924B91196671574766
+  Mežārespag.Adm2LVA:
+    admin_name: Mežārespag.
+    iso3c: LVA
+    shapeID: 27541924B81623033015716
+  Mežotnespag.Adm2LVA:
+    admin_name: Mežotnespag.
+    iso3c: LVA
+    shapeID: 27541924B31734985735044
+  Mežvidupag.Adm2LVA:
+    admin_name: Mežvidupag.
+    iso3c: LVA
+    shapeID: 27541924B97990803808017
+  Morespag.Adm2LVA:
+    admin_name: Morespag.
+    iso3c: LVA
+    shapeID: 27541924B85362854834044
+  Murmastienespag.Adm2LVA:
+    admin_name: Murmastienespag.
+    iso3c: LVA
+    shapeID: 27541924B78395496310678
+  Nagļupag.Adm2LVA:
+    admin_name: Nagļupag.
+    iso3c: LVA
+    shapeID: 27541924B68754646621039
+  Naudītespag.Adm2LVA:
+    admin_name: Naudītespag.
+    iso3c: LVA
+    shapeID: 27541924B70535382823435
+  Naujenespag.Adm2LVA:
+    admin_name: Naujenespag.
+    iso3c: LVA
+    shapeID: 27541924B441018999347
+  Naukšēnupag.Adm2LVA:
+    admin_name: Naukšēnupag.
+    iso3c: LVA
+    shapeID: 27541924B92408320132351
+  Nautrēnupag.Adm2LVA:
+    admin_name: Nautrēnupag.
+    iso3c: LVA
+    shapeID: 27541924B31179007795423
+  Neretaspag.Adm2LVA:
+    admin_name: Neretaspag.
+    iso3c: LVA
+    shapeID: 27541924B20446545182610
+  Nīcaspag.Adm2LVA:
+    admin_name: Nīcaspag.
+    iso3c: LVA
+    shapeID: 27541924B8450529664693
+  Nīcgalespag.Adm2LVA:
+    admin_name: Nīcgalespag.
+    iso3c: LVA
+    shapeID: 27541924B22704913663351
+  Nīgrandespag.Adm2LVA:
+    admin_name: Nīgrandespag.
+    iso3c: LVA
+    shapeID: 27541924B79639450642691
+  Nīkrācespag.Adm2LVA:
+    admin_name: Nīkrācespag.
+    iso3c: LVA
+    shapeID: 27541924B53930703162025
+  Nirzaspag.Adm2LVA:
+    admin_name: Nirzaspag.
+    iso3c: LVA
+    shapeID: 27541924B94409410618996
+  Nītaurespag.Adm2LVA:
+    admin_name: Nītaurespag.
+    iso3c: LVA
+    shapeID: 27541924B33705410668553
+  Novadniekupag.Adm2LVA:
+    admin_name: Novadniekupag.
+    iso3c: LVA
+    shapeID: 27541924B74609971281778
+  Ņukšupag.Adm2LVA:
+    admin_name: Ņukšupag.
+    iso3c: LVA
+    shapeID: 27541924B6946008427807
+  OgreAdm2LVA:
+    admin_name: Ogre
+    iso3c: LVA
+    shapeID: 27541924B85046161363388
+  Ogresgalapag.Adm2LVA:
+    admin_name: Ogresgalapag.
+    iso3c: LVA
+    shapeID: 27541924B67173140256681
+  OgresnovadsAdm1LVA:
+    admin_name: Ogresnovads
+    iso3c: LVA
+    shapeID: 71098776B85146594431848
+  OlaineAdm2LVA:
+    admin_name: Olaine
+    iso3c: LVA
+    shapeID: 27541924B43954126847535
+  OlainesnovadsAdm1LVA:
+    admin_name: Olainesnovads
+    iso3c: LVA
+    shapeID: 71098776B7518739434496
+  Olainespag.Adm2LVA:
+    admin_name: Olainespag.
+    iso3c: LVA
+    shapeID: 27541924B81919348432461
+  Ošupespag.Adm2LVA:
+    admin_name: Ošupespag.
+    iso3c: LVA
+    shapeID: 27541924B56619269975985
+  Otaņķupag.Adm2LVA:
+    admin_name: Otaņķupag.
+    iso3c: LVA
+    shapeID: 27541924B2147324015224
+  Ozolainespag.Adm2LVA:
+    admin_name: Ozolainespag.
+    iso3c: LVA
+    shapeID: 27541924B10395676921147
+  Ozolmuižaspag.Adm2LVA:
+    admin_name: Ozolmuižaspag.
+    iso3c: LVA
+    shapeID: 27541924B76614576139352
+  Ozolniekupag.Adm2LVA:
+    admin_name: Ozolniekupag.
+    iso3c: LVA
+    shapeID: 27541924B82010930676702
+  Padurespag.Adm2LVA:
+    admin_name: Padurespag.
+    iso3c: LVA
+    shapeID: 27541924B64598034075876
+  Pālespag.Adm2LVA:
+    admin_name: Pālespag.
+    iso3c: LVA
+    shapeID: 27541924B47846547362039
+  Palsmanespag.Adm2LVA:
+    admin_name: Palsmanespag.
+    iso3c: LVA
+    shapeID: 27541924B2832200646893
+  Pampāļupag.Adm2LVA:
+    admin_name: Pampāļupag.
+    iso3c: LVA
+    shapeID: 27541924B77529018431464
+  Pasienespag.Adm2LVA:
+    admin_name: Pasienespag.
+    iso3c: LVA
+    shapeID: 27541924B2510682390951
+  PāvilostaAdm2LVA:
+    admin_name: Pāvilosta
+    iso3c: LVA
+    shapeID: 27541924B98324195645894
+  Pededzespag.Adm2LVA:
+    admin_name: Pededzespag.
+    iso3c: LVA
+    shapeID: 27541924B28256334798833
+  Pelčupag.Adm2LVA:
+    admin_name: Pelčupag.
+    iso3c: LVA
+    shapeID: 27541924B78611617538916
+  Pelēčupag.Adm2LVA:
+    admin_name: Pelēčupag.
+    iso3c: LVA
+    shapeID: 27541924B42049645458782
+  Penkulespag.Adm2LVA:
+    admin_name: Penkulespag.
+    iso3c: LVA
+    shapeID: 27541924B17832608413476
+  Piedrujaspag.Adm2LVA:
+    admin_name: Piedrujaspag.
+    iso3c: LVA
+    shapeID: 27541924B60007072574234
+  Pildaspag.Adm2LVA:
+    admin_name: Pildaspag.
+    iso3c: LVA
+    shapeID: 27541924B23145226159643
+  Pilskalnespag.Adm2LVA:
+    admin_name: Pilskalnespag.
+    iso3c: LVA
+    shapeID: 27541924B3554610472983
+  PilteneAdm2LVA:
+    admin_name: Piltene
+    iso3c: LVA
+    shapeID: 27541924B10340241308043
+  Piltenespag.Adm2LVA:
+    admin_name: Piltenespag.
+    iso3c: LVA
+    shapeID: 27541924B30234976546427
+  Plāņupag.Adm2LVA:
+    admin_name: Plāņupag.
+    iso3c: LVA
+    shapeID: 27541924B27973755781373
+  Platonespag.Adm2LVA:
+    admin_name: Platonespag.
+    iso3c: LVA
+    shapeID: 27541924B52007351814960
+  PļaviņasAdm2LVA:
+    admin_name: Pļaviņas
+    iso3c: LVA
+    shapeID: 27541924B71178019196627
+  Popespag.Adm2LVA:
+    admin_name: Popespag.
+    iso3c: LVA
+    shapeID: 27541924B60510236800280
+  Praulienaspag.Adm2LVA:
+    admin_name: Praulienaspag.
+    iso3c: LVA
+    shapeID: 27541924B69241742641881
+  PreiļiAdm2LVA:
+    admin_name: Preiļi
+    iso3c: LVA
+    shapeID: 27541924B35723190780065
+  PreiļunovadsAdm1LVA:
+    admin_name: Preiļunovads
+    iso3c: LVA
+    shapeID: 71098776B20667457444759
+  Preiļupag.Adm2LVA:
+    admin_name: Preiļupag.
+    iso3c: LVA
+    shapeID: 27541924B82337484092202
+  PriekuleAdm2LVA:
+    admin_name: Priekule
+    iso3c: LVA
+    shapeID: 27541924B71923790852793
+  Priekulespag.Adm2LVA:
+    admin_name: Priekulespag.
+    iso3c: LVA
+    shapeID: 27541924B37893488453851
+  Priekuļupag.Adm2LVA:
+    admin_name: Priekuļupag.
+    iso3c: LVA
+    shapeID: 27541924B48534505716436
+  Prodespag.Adm2LVA:
+    admin_name: Prodespag.
+    iso3c: LVA
+    shapeID: 27541924B41146663771526
+  Pureņupag.Adm2LVA:
+    admin_name: Pureņupag.
+    iso3c: LVA
+    shapeID: 27541924B20679895578049
+  Pūrespag.Adm2LVA:
+    admin_name: Pūrespag.
+    iso3c: LVA
+    shapeID: 27541924B42244079207170
+  Pušaspag.Adm2LVA:
+    admin_name: Pušaspag.
+    iso3c: LVA
+    shapeID: 27541924B59366467531122
+  Pušmucovaspag.Adm2LVA:
+    admin_name: Pušmucovaspag.
+    iso3c: LVA
+    shapeID: 27541924B48710808686616
+  Puzespag.Adm2LVA:
+    admin_name: Puzespag.
+    iso3c: LVA
+    shapeID: 27541924B95248951242088
+  Raiskumapag.Adm2LVA:
+    admin_name: Raiskumapag.
+    iso3c: LVA
+    shapeID: 27541924B87883803055955
+  Ramataspag.Adm2LVA:
+    admin_name: Ramataspag.
+    iso3c: LVA
+    shapeID: 27541924B28390820320084
+  Rankaspag.Adm2LVA:
+    admin_name: Rankaspag.
+    iso3c: LVA
+    shapeID: 27541924B63900678349078
+  Raņķupag.Adm2LVA:
+    admin_name: Raņķupag.
+    iso3c: LVA
+    shapeID: 27541924B83019830898221
+  Raunaspag.Adm2LVA:
+    admin_name: Raunaspag.
+    iso3c: LVA
+    shapeID: 27541924B42175527165431
+  Rembatespag.Adm2LVA:
+    admin_name: Rembatespag.
+    iso3c: LVA
+    shapeID: 27541924B57720709752494
+  Remtespag.Adm2LVA:
+    admin_name: Remtespag.
+    iso3c: LVA
+    shapeID: 27541924B53192236746311
+  Rencēnupag.Adm2LVA:
+    admin_name: Rencēnupag.
+    iso3c: LVA
+    shapeID: 27541924B42196495357588
+  Rendaspag.Adm2LVA:
+    admin_name: Rendaspag.
+    iso3c: LVA
+    shapeID: 27541924B10762740243269
+  RēzekneAdm2LVA:
+    admin_name: Rēzekne
+    iso3c: LVA
+    shapeID: 27541924B24417466951729
+  RēzeknesAdm1LVA:
+    admin_name: Rēzeknes
+    iso3c: LVA
+    shapeID: 71098776B7836540053544
+  RēzeknesnovadsAdm1LVA:
+    admin_name: Rēzeknesnovads
+    iso3c: LVA
+    shapeID: 71098776B8434036234200
+  Riebiņupag.Adm2LVA:
+    admin_name: Riebiņupag.
+    iso3c: LVA
+    shapeID: 27541924B17369657995455
+  RīgaAdm1LVA:
+    admin_name: Rīga
+    iso3c: LVA
+    shapeID: 71098776B41268812817743
+  RīgaAdm2LVA:
+    admin_name: Rīga
+    iso3c: LVA
+    shapeID: 27541924B69950658551149
+  Rikavaspag.Adm2LVA:
+    admin_name: Rikavaspag.
+    iso3c: LVA
+    shapeID: 27541924B46765973494104
+  Ritespag.Adm2LVA:
+    admin_name: Ritespag.
+    iso3c: LVA
+    shapeID: 27541924B10670366304681
+  Robežniekupag.Adm2LVA:
+    admin_name: Robežniekupag.
+    iso3c: LVA
+    shapeID: 27541924B81744778922101
+  Rojaspag.Adm2LVA:
+    admin_name: Rojaspag.
+    iso3c: LVA
+    shapeID: 27541924B95337165312273
+  RopažunovadsAdm1LVA:
+    admin_name: Ropažunovads
+    iso3c: LVA
+    shapeID: 71098776B49730814014776
+  Ropažupag.Adm2LVA:
+    admin_name: Ropažupag.
+    iso3c: LVA
+    shapeID: 27541924B37788999890601
+  Rožkalnupag.Adm2LVA:
+    admin_name: Rožkalnupag.
+    iso3c: LVA
+    shapeID: 27541924B38458063228845
+  Rožupespag.Adm2LVA:
+    admin_name: Rožupespag.
+    iso3c: LVA
+    shapeID: 27541924B72516040317881
+  Rubaspag.Adm2LVA:
+    admin_name: Rubaspag.
+    iso3c: LVA
+    shapeID: 27541924B9858590897676
+  Rubenespag.Adm2LVA:
+    admin_name: Rubenespag.
+    iso3c: LVA
+    shapeID: 27541924B32922807778948
+  Rucavaspag.Adm2LVA:
+    admin_name: Rucavaspag.
+    iso3c: LVA
+    shapeID: 27541924B59290429759101
+  Rudbāržupag.Adm2LVA:
+    admin_name: Rudbāržupag.
+    iso3c: LVA
+    shapeID: 27541924B63960792537365
+  Rudzātupag.Adm2LVA:
+    admin_name: Rudzātupag.
+    iso3c: LVA
+    shapeID: 27541924B28170675749261
+  Rugājupag.Adm2LVA:
+    admin_name: Rugājupag.
+    iso3c: LVA
+    shapeID: 27541924B16016350792540
+  RūjienaAdm2LVA:
+    admin_name: Rūjiena
+    iso3c: LVA
+    shapeID: 27541924B56820774497213
+  Rumbaspag.Adm2LVA:
+    admin_name: Rumbaspag.
+    iso3c: LVA
+    shapeID: 27541924B49988054161114
+  Rundālespag.Adm2LVA:
+    admin_name: Rundālespag.
+    iso3c: LVA
+    shapeID: 27541924B12061124033846
+  Rundēnupag.Adm2LVA:
+    admin_name: Rundēnupag.
+    iso3c: LVA
+    shapeID: 27541924B20258321075970
+  Rušonaspag.Adm2LVA:
+    admin_name: Rušonaspag.
+    iso3c: LVA
+    shapeID: 27541924B29879991166878
+  SabileAdm2LVA:
+    admin_name: Sabile
+    iso3c: LVA
+    shapeID: 27541924B84757460487549
+  Sakaspag.Adm2LVA:
+    admin_name: Sakaspag.
+    iso3c: LVA
+    shapeID: 27541924B80625088425649
+  Sakstagalapag.Adm2LVA:
+    admin_name: Sakstagalapag.
+    iso3c: LVA
+    shapeID: 27541924B56476396164581
+  SalacgrīvaAdm2LVA:
+    admin_name: Salacgrīva
+    iso3c: LVA
+    shapeID: 27541924B36810764356206
+  Salacgrīvaspag.Adm2LVA:
+    admin_name: Salacgrīvaspag.
+    iso3c: LVA
+    shapeID: 27541924B75150818202783
+  Salaspag.Adm2LVA:
+    admin_name: Salaspag.
+    iso3c: LVA
+    shapeID: 27541924B71610578089497
+  SalaspilsAdm2LVA:
+    admin_name: Salaspils
+    iso3c: LVA
+    shapeID: 27541924B10713926826642
+  SalaspilsnovadsAdm1LVA:
+    admin_name: Salaspilsnovads
+    iso3c: LVA
+    shapeID: 71098776B26557032040822
+  Salaspilspag.Adm2LVA:
+    admin_name: Salaspilspag.
+    iso3c: LVA
+    shapeID: 27541924B60067262699330
+  SaldusAdm2LVA:
+    admin_name: Saldus
+    iso3c: LVA
+    shapeID: 27541924B14554073945522
+  SaldusnovadsAdm1LVA:
+    admin_name: Saldusnovads
+    iso3c: LVA
+    shapeID: 71098776B25519893452051
+  Salduspag.Adm2LVA:
+    admin_name: Salduspag.
+    iso3c: LVA
+    shapeID: 27541924B25012386790133
+  Salgalespag.Adm2LVA:
+    admin_name: Salgalespag.
+    iso3c: LVA
+    shapeID: 27541924B82271336791843
+  Salienaspag.Adm2LVA:
+    admin_name: Salienaspag.
+    iso3c: LVA
+    shapeID: 27541924B74308998614766
+  Salnavaspag.Adm2LVA:
+    admin_name: Salnavaspag.
+    iso3c: LVA
+    shapeID: 27541924B78663906556024
+  Sarkaņupag.Adm2LVA:
+    admin_name: Sarkaņupag.
+    iso3c: LVA
+    shapeID: 27541924B13907440389179
+  Saukaspag.Adm2LVA:
+    admin_name: Saukaspag.
+    iso3c: LVA
+    shapeID: 27541924B65638729779060
+  SaulkrastiAdm2LVA:
+    admin_name: Saulkrasti
+    iso3c: LVA
+    shapeID: 27541924B54567786635158
+  SaulkrastunovadsAdm1LVA:
+    admin_name: Saulkrastunovads
+    iso3c: LVA
+    shapeID: 71098776B45130970792207
+  Saulkrastupag.Adm2LVA:
+    admin_name: Saulkrastupag.
+    iso3c: LVA
+    shapeID: 27541924B726637782325
+  Saunaspag.Adm2LVA:
+    admin_name: Saunaspag.
+    iso3c: LVA
+    shapeID: 27541924B85547198118139
+  Sausnējaspag.Adm2LVA:
+    admin_name: Sausnējaspag.
+    iso3c: LVA
+    shapeID: 27541924B72961238006119
+  Secespag.Adm2LVA:
+    admin_name: Secespag.
+    iso3c: LVA
+    shapeID: 27541924B20656105866452
+  SedaAdm2LVA:
+    admin_name: Seda
+    iso3c: LVA
+    shapeID: 27541924B58603814408660
+  Šēderespag.Adm2LVA:
+    admin_name: Šēderespag.
+    iso3c: LVA
+    shapeID: 27541924B25331011014428
+  Sējaspag.Adm2LVA:
+    admin_name: Sējaspag.
+    iso3c: LVA
+    shapeID: 27541924B77555962795430
+  Sēlpilspag.Adm2LVA:
+    admin_name: Sēlpilspag.
+    iso3c: LVA
+    shapeID: 27541924B86071798141499
+  Sēļupag.Adm2LVA:
+    admin_name: Sēļupag.
+    iso3c: LVA
+    shapeID: 27541924B62426268885110
+  Sēmespag.Adm2LVA:
+    admin_name: Sēmespag.
+    iso3c: LVA
+    shapeID: 27541924B50458338547666
+  Sērenespag.Adm2LVA:
+    admin_name: Sērenespag.
+    iso3c: LVA
+    shapeID: 27541924B63753357027447
+  Sesavaspag.Adm2LVA:
+    admin_name: Sesavaspag.
+    iso3c: LVA
+    shapeID: 27541924B5814503616889
+  SiguldaAdm2LVA:
+    admin_name: Sigulda
+    iso3c: LVA
+    shapeID: 27541924B33898392287232
+  SiguldasnovadsAdm1LVA:
+    admin_name: Siguldasnovads
+    iso3c: LVA
+    shapeID: 71098776B50948551270506
+  Siguldaspag.Adm2LVA:
+    admin_name: Siguldaspag.
+    iso3c: LVA
+    shapeID: 27541924B22420925949574
+  Silajāņupag.Adm2LVA:
+    admin_name: Silajāņupag.
+    iso3c: LVA
+    shapeID: 27541924B19288129652023
+  Silmalaspag.Adm2LVA:
+    admin_name: Silmalaspag.
+    iso3c: LVA
+    shapeID: 27541924B39247356667850
+  Sīļukalnapag.Adm2LVA:
+    admin_name: Sīļukalnapag.
+    iso3c: LVA
+    shapeID: 27541924B52460704255524
+  Skaistaspag.Adm2LVA:
+    admin_name: Skaistaspag.
+    iso3c: LVA
+    shapeID: 27541924B50385925573472
+  Skaistkalnespag.Adm2LVA:
+    admin_name: Skaistkalnespag.
+    iso3c: LVA
+    shapeID: 27541924B21111495244089
+  Skaņkalnespag.Adm2LVA:
+    admin_name: Skaņkalnespag.
+    iso3c: LVA
+    shapeID: 27541924B43607455964711
+  Šķaunespag.Adm2LVA:
+    admin_name: Šķaunespag.
+    iso3c: LVA
+    shapeID: 27541924B39109314614012
+  Šķēdespag.Adm2LVA:
+    admin_name: Šķēdespag.
+    iso3c: LVA
+    shapeID: 27541924B42319814490373
+  Šķeltovaspag.Adm2LVA:
+    admin_name: Šķeltovaspag.
+    iso3c: LVA
+    shapeID: 27541924B92789434462497
+  Šķilbēnupag.Adm2LVA:
+    admin_name: Šķilbēnupag.
+    iso3c: LVA
+    shapeID: 27541924B83707221611867
+  Skrīverupag.Adm2LVA:
+    admin_name: Skrīverupag.
+    iso3c: LVA
+    shapeID: 27541924B66857212863076
+  Skrudalienaspag.Adm2LVA:
+    admin_name: Skrudalienaspag.
+    iso3c: LVA
+    shapeID: 27541924B90123945749328
+  SkrundaAdm2LVA:
+    admin_name: Skrunda
+    iso3c: LVA
+    shapeID: 27541924B8322531432805
+  Skrundaspag.Adm2LVA:
+    admin_name: Skrundaspag.
+    iso3c: LVA
+    shapeID: 27541924B9575577948476
+  Skujenespag.Adm2LVA:
+    admin_name: Skujenespag.
+    iso3c: LVA
+    shapeID: 27541924B80284932099647
+  Skultespag.Adm2LVA:
+    admin_name: Skultespag.
+    iso3c: LVA
+    shapeID: 27541924B61161973080375
+  Slampespag.Adm2LVA:
+    admin_name: Slampespag.
+    iso3c: LVA
+    shapeID: 27541924B56593653615616
+  Smārdespag.Adm2LVA:
+    admin_name: Smārdespag.
+    iso3c: LVA
+    shapeID: 27541924B30626092647888
+  SmilteneAdm2LVA:
+    admin_name: Smiltene
+    iso3c: LVA
+    shapeID: 27541924B48400059741255
+  SmiltenesnovadsAdm1LVA:
+    admin_name: Smiltenesnovads
+    iso3c: LVA
+    shapeID: 71098776B38544645515098
+  Smiltenespag.Adm2LVA:
+    admin_name: Smiltenespag.
+    iso3c: LVA
+    shapeID: 27541924B96099783973372
+  Snēpelespag.Adm2LVA:
+    admin_name: Snēpelespag.
+    iso3c: LVA
+    shapeID: 27541924B13518565761243
+  Sokolkupag.Adm2LVA:
+    admin_name: Sokolkupag.
+    iso3c: LVA
+    shapeID: 27541924B1096385045081
+  Stabulniekupag.Adm2LVA:
+    admin_name: Stabulniekupag.
+    iso3c: LVA
+    shapeID: 27541924B26776219587555
+  Staburagapag.Adm2LVA:
+    admin_name: Staburagapag.
+    iso3c: LVA
+    shapeID: 27541924B51848948627496
+  StaiceleAdm2LVA:
+    admin_name: Staicele
+    iso3c: LVA
+    shapeID: 27541924B49532030133644
+  Staicelespag.Adm2LVA:
+    admin_name: Staicelespag.
+    iso3c: LVA
+    shapeID: 27541924B5115242509873
+  Stalbespag.Adm2LVA:
+    admin_name: Stalbespag.
+    iso3c: LVA
+    shapeID: 27541924B34232814184003
+  Stāmerienaspag.Adm2LVA:
+    admin_name: Stāmerienaspag.
+    iso3c: LVA
+    shapeID: 27541924B77820831407347
+  Stelpespag.Adm2LVA:
+    admin_name: Stelpespag.
+    iso3c: LVA
+    shapeID: 27541924B70634924766209
+  StendeAdm2LVA:
+    admin_name: Stende
+    iso3c: LVA
+    shapeID: 27541924B78924471245845
+  Stoļerovaspag.Adm2LVA:
+    admin_name: Stoļerovaspag.
+    iso3c: LVA
+    shapeID: 27541924B84772624476590
+  Stopiņupag.Adm2LVA:
+    admin_name: Stopiņupag.
+    iso3c: LVA
+    shapeID: 27541924B13594344549497
+  Stradupag.Adm2LVA:
+    admin_name: Stradupag.
+    iso3c: LVA
+    shapeID: 27541924B17410548026039
+  Straupespag.Adm2LVA:
+    admin_name: Straupespag.
+    iso3c: LVA
+    shapeID: 27541924B928212469839
+  Strazdespag.Adm2LVA:
+    admin_name: Strazdespag.
+    iso3c: LVA
+    shapeID: 27541924B84613839028203
+  StrenčiAdm2LVA:
+    admin_name: Strenči
+    iso3c: LVA
+    shapeID: 27541924B77919484434433
+  Stružānupag.Adm2LVA:
+    admin_name: Stružānupag.
+    iso3c: LVA
+    shapeID: 27541924B41933638404830
+  SubateAdm2LVA:
+    admin_name: Subate
+    iso3c: LVA
+    shapeID: 27541924B14996624872646
+  Sunākstespag.Adm2LVA:
+    admin_name: Sunākstespag.
+    iso3c: LVA
+    shapeID: 27541924B12084410086310
+  Suntažupag.Adm2LVA:
+    admin_name: Suntažupag.
+    iso3c: LVA
+    shapeID: 27541924B15599164032444
+  Susājupag.Adm2LVA:
+    admin_name: Susājupag.
+    iso3c: LVA
+    shapeID: 27541924B7356494946618
+  Sutrupag.Adm2LVA:
+    admin_name: Sutrupag.
+    iso3c: LVA
+    shapeID: 27541924B27352214783038
+  Svariņupag.Adm2LVA:
+    admin_name: Svariņupag.
+    iso3c: LVA
+    shapeID: 27541924B20848799608576
+  Sventespag.Adm2LVA:
+    admin_name: Sventespag.
+    iso3c: LVA
+    shapeID: 27541924B80742795502066
+  Svētespag.Adm2LVA:
+    admin_name: Svētespag.
+    iso3c: LVA
+    shapeID: 27541924B49757256215349
+  Svitenespag.Adm2LVA:
+    admin_name: Svitenespag.
+    iso3c: LVA
+    shapeID: 27541924B70987770554483
+  Taborespag.Adm2LVA:
+    admin_name: Taborespag.
+    iso3c: LVA
+    shapeID: 27541924B89524282824071
+  Tadaiķupag.Adm2LVA:
+    admin_name: Tadaiķupag.
+    iso3c: LVA
+    shapeID: 27541924B16755301218302
+  TalsiAdm2LVA:
+    admin_name: Talsi
+    iso3c: LVA
+    shapeID: 27541924B77419719767083
+  TalsunovadsAdm1LVA:
+    admin_name: Talsunovads
+    iso3c: LVA
+    shapeID: 71098776B72530071307653
+  Tārgalespag.Adm2LVA:
+    admin_name: Tārgalespag.
+    iso3c: LVA
+    shapeID: 27541924B44897070784756
+  Taurenespag.Adm2LVA:
+    admin_name: Taurenespag.
+    iso3c: LVA
+    shapeID: 27541924B70861266122116
+  Taurupespag.Adm2LVA:
+    admin_name: Taurupespag.
+    iso3c: LVA
+    shapeID: 27541924B63996115519048
+  Tērvetespag.Adm2LVA:
+    admin_name: Tērvetespag.
+    iso3c: LVA
+    shapeID: 27541924B26561514973338
+  Tilžaspag.Adm2LVA:
+    admin_name: Tilžaspag.
+    iso3c: LVA
+    shapeID: 27541924B42747545330517
+  Tīnūžupag.Adm2LVA:
+    admin_name: Tīnūžupag.
+    iso3c: LVA
+    shapeID: 27541924B46293961253213
+  Tirzaspag.Adm2LVA:
+    admin_name: Tirzaspag.
+    iso3c: LVA
+    shapeID: 27541924B64079205421183
+  Tomespag.Adm2LVA:
+    admin_name: Tomespag.
+    iso3c: LVA
+    shapeID: 27541924B49923390023090
+  Trapenespag.Adm2LVA:
+    admin_name: Trapenespag.
+    iso3c: LVA
+    shapeID: 27541924B83311513911645
+  Trikātaspag.Adm2LVA:
+    admin_name: Trikātaspag.
+    iso3c: LVA
+    shapeID: 27541924B26543314591182
+  TukumanovadsAdm1LVA:
+    admin_name: Tukumanovads
+    iso3c: LVA
+    shapeID: 71098776B88120504169111
+  TukumsAdm2LVA:
+    admin_name: Tukums
+    iso3c: LVA
+    shapeID: 27541924B84924671818931
+  Tumespag.Adm2LVA:
+    admin_name: Tumespag.
+    iso3c: LVA
+    shapeID: 27541924B85005755814597
+  Turkupag.Adm2LVA:
+    admin_name: Turkupag.
+    iso3c: LVA
+    shapeID: 27541924B57048436459337
+  Turlavaspag.Adm2LVA:
+    admin_name: Turlavaspag.
+    iso3c: LVA
+    shapeID: 27541924B11045526003149
+  Ūdrīšupag.Adm2LVA:
+    admin_name: Ūdrīšupag.
+    iso3c: LVA
+    shapeID: 27541924B10135077648270
+  Ugālespag.Adm2LVA:
+    admin_name: Ugālespag.
+    iso3c: LVA
+    shapeID: 27541924B38189236696308
+  Ukrupag.Adm2LVA:
+    admin_name: Ukrupag.
+    iso3c: LVA
+    shapeID: 27541924B12844420955317
+  Umurgaspag.Adm2LVA:
+    admin_name: Umurgaspag.
+    iso3c: LVA
+    shapeID: 27541924B87093232945567
+  Upmalaspag.Adm2LVA:
+    admin_name: Upmalaspag.
+    iso3c: LVA
+    shapeID: 27541924B37499495130133
+  Usmaspag.Adm2LVA:
+    admin_name: Usmaspag.
+    iso3c: LVA
+    shapeID: 27541924B16194119386281
+  Užavaspag.Adm2LVA:
+    admin_name: Užavaspag.
+    iso3c: LVA
+    shapeID: 27541924B2507062447698
+  Vabolespag.Adm2LVA:
+    admin_name: Vabolespag.
+    iso3c: LVA
+    shapeID: 27541924B48238207872325
+  Vadakstespag.Adm2LVA:
+    admin_name: Vadakstespag.
+    iso3c: LVA
+    shapeID: 27541924B67343530122833
+  Vaidavaspag.Adm2LVA:
+    admin_name: Vaidavaspag.
+    iso3c: LVA
+    shapeID: 27541924B99767598145301
+  Vaiņodespag.Adm2LVA:
+    admin_name: Vaiņodespag.
+    iso3c: LVA
+    shapeID: 27541924B43996006611053
+  Vaivespag.Adm2LVA:
+    admin_name: Vaivespag.
+    iso3c: LVA
+    shapeID: 27541924B73856570603331
+  ValdemārpilsAdm2LVA:
+    admin_name: Valdemārpils
+    iso3c: LVA
+    shapeID: 27541924B46742916089705
+  Valdgalespag.Adm2LVA:
+    admin_name: Valdgalespag.
+    iso3c: LVA
+    shapeID: 27541924B70707230241398
+  Valgundespag.Adm2LVA:
+    admin_name: Valgundespag.
+    iso3c: LVA
+    shapeID: 27541924B46237996124836
+  ValkaAdm2LVA:
+    admin_name: Valka
+    iso3c: LVA
+    shapeID: 27541924B34676349154335
+  ValkasnovadsAdm1LVA:
+    admin_name: Valkasnovads
+    iso3c: LVA
+    shapeID: 71098776B61604579096819
+  Valkaspag.Adm2LVA:
+    admin_name: Valkaspag.
+    iso3c: LVA
+    shapeID: 27541924B2692398092929
+  Vallespag.Adm2LVA:
+    admin_name: Vallespag.
+    iso3c: LVA
+    shapeID: 27541924B9104709044918
+  ValmieraAdm2LVA:
+    admin_name: Valmiera
+    iso3c: LVA
+    shapeID: 27541924B28912918597311
+  ValmierasnovadsAdm1LVA:
+    admin_name: Valmierasnovads
+    iso3c: LVA
+    shapeID: 71098776B18023994711883
+  Valmieraspag.Adm2LVA:
+    admin_name: Valmieraspag.
+    iso3c: LVA
+    shapeID: 27541924B48848471739366
+  Vandzenespag.Adm2LVA:
+    admin_name: Vandzenespag.
+    iso3c: LVA
+    shapeID: 27541924B44124722370544
+  Vānespag.Adm2LVA:
+    admin_name: Vānespag.
+    iso3c: LVA
+    shapeID: 27541924B3957648915693
+  VangažiAdm2LVA:
+    admin_name: Vangaži
+    iso3c: LVA
+    shapeID: 27541924B71399173551608
+  VarakļāniAdm2LVA:
+    admin_name: Varakļāni
+    iso3c: LVA
+    shapeID: 27541924B76444733337107
+  VarakļānunovadsAdm1LVA:
+    admin_name: Varakļānunovads
+    iso3c: LVA
+    shapeID: 71098776B4894818931549
+  Varakļānupag.Adm2LVA:
+    admin_name: Varakļānupag.
+    iso3c: LVA
+    shapeID: 27541924B80476747550323
+  Variešupag.Adm2LVA:
+    admin_name: Variešupag.
+    iso3c: LVA
+    shapeID: 27541924B55912834696629
+  Variņupag.Adm2LVA:
+    admin_name: Variņupag.
+    iso3c: LVA
+    shapeID: 27541924B26763457463148
+  Vārkavaspag.Adm2LVA:
+    admin_name: Vārkavaspag.
+    iso3c: LVA
+    shapeID: 27541924B75786186829450
+  Vārmespag.Adm2LVA:
+    admin_name: Vārmespag.
+    iso3c: LVA
+    shapeID: 27541924B31224104965388
+  Vārvespag.Adm2LVA:
+    admin_name: Vārvespag.
+    iso3c: LVA
+    shapeID: 27541924B8081849043776
+  Vecatespag.Adm2LVA:
+    admin_name: Vecatespag.
+    iso3c: LVA
+    shapeID: 27541924B99627900345565
+  Vecaucespag.Adm2LVA:
+    admin_name: Vecaucespag.
+    iso3c: LVA
+    shapeID: 27541924B96386945855845
+  Veclaicenespag.Adm2LVA:
+    admin_name: Veclaicenespag.
+    iso3c: LVA
+    shapeID: 27541924B82346412171752
+  Vecpiebalgaspag.Adm2LVA:
+    admin_name: Vecpiebalgaspag.
+    iso3c: LVA
+    shapeID: 27541924B76706291100017
+  Vecpilspag.Adm2LVA:
+    admin_name: Vecpilspag.
+    iso3c: LVA
+    shapeID: 27541924B81448674487737
+  Vecsalienaspag.Adm2LVA:
+    admin_name: Vecsalienaspag.
+    iso3c: LVA
+    shapeID: 27541924B65627914021645
+  Vecsaulespag.Adm2LVA:
+    admin_name: Vecsaulespag.
+    iso3c: LVA
+    shapeID: 27541924B84653415581668
+  Vectilžaspag.Adm2LVA:
+    admin_name: Vectilžaspag.
+    iso3c: LVA
+    shapeID: 27541924B22199662205944
+  Vecumniekupag.Adm2LVA:
+    admin_name: Vecumniekupag.
+    iso3c: LVA
+    shapeID: 27541924B63296928652800
+  Vecumupag.Adm2LVA:
+    admin_name: Vecumupag.
+    iso3c: LVA
+    shapeID: 27541924B24216055125897
+  VentspilsAdm1LVA:
+    admin_name: Ventspils
+    iso3c: LVA
+    shapeID: 71098776B54416336216712
+  VentspilsAdm2LVA:
+    admin_name: Ventspils
+    iso3c: LVA
+    shapeID: 27541924B34686521440656
+  VentspilsnovadsAdm1LVA:
+    admin_name: Ventspilsnovads
+    iso3c: LVA
+    shapeID: 71098776B75589501739909
+  Vērēmupag.Adm2LVA:
+    admin_name: Vērēmupag.
+    iso3c: LVA
+    shapeID: 27541924B33063248942187
+  Vērgalespag.Adm2LVA:
+    admin_name: Vērgalespag.
+    iso3c: LVA
+    shapeID: 27541924B6474784348402
+  Veselavaspag.Adm2LVA:
+    admin_name: Veselavaspag.
+    iso3c: LVA
+    shapeID: 27541924B69418536197528
+  Vestienaspag.Adm2LVA:
+    admin_name: Vestienaspag.
+    iso3c: LVA
+    shapeID: 27541924B49336573653251
+  Vidrižupag.Adm2LVA:
+    admin_name: Vidrižupag.
+    iso3c: LVA
+    shapeID: 27541924B82277594032017
+  Viesatupag.Adm2LVA:
+    admin_name: Viesatupag.
+    iso3c: LVA
+    shapeID: 27541924B50646046706216
+  ViesīteAdm2LVA:
+    admin_name: Viesīte
+    iso3c: LVA
+    shapeID: 27541924B78000218360511
+  Viesītespag.Adm2LVA:
+    admin_name: Viesītespag.
+    iso3c: LVA
+    shapeID: 27541924B828825882748
+  Viesturupag.Adm2LVA:
+    admin_name: Viesturupag.
+    iso3c: LVA
+    shapeID: 27541924B49235557147399
+  Vietalvaspag.Adm2LVA:
+    admin_name: Vietalvaspag.
+    iso3c: LVA
+    shapeID: 27541924B27962464442280
+  Vijciemapag.Adm2LVA:
+    admin_name: Vijciemapag.
+    iso3c: LVA
+    shapeID: 27541924B32036118272462
+  Vīksnaspag.Adm2LVA:
+    admin_name: Vīksnaspag.
+    iso3c: LVA
+    shapeID: 27541924B75999158196044
+  ViļakaAdm2LVA:
+    admin_name: Viļaka
+    iso3c: LVA
+    shapeID: 27541924B91714701544893
+  ViļāniAdm2LVA:
+    admin_name: Viļāni
+    iso3c: LVA
+    shapeID: 27541924B14325871037870
+  Viļānupag.Adm2LVA:
+    admin_name: Viļānupag.
+    iso3c: LVA
+    shapeID: 27541924B60521943034244
+  Vilcespag.Adm2LVA:
+    admin_name: Vilcespag.
+    iso3c: LVA
+    shapeID: 27541924B72553882676759
+  Viļķenespag.Adm2LVA:
+    admin_name: Viļķenespag.
+    iso3c: LVA
+    shapeID: 27541924B29394265870822
+  Vilpulkaspag.Adm2LVA:
+    admin_name: Vilpulkaspag.
+    iso3c: LVA
+    shapeID: 27541924B31560097846351
+  Vīpespag.Adm2LVA:
+    admin_name: Vīpespag.
+    iso3c: LVA
+    shapeID: 27541924B97352892903431
+  Virbupag.Adm2LVA:
+    admin_name: Virbupag.
+    iso3c: LVA
+    shapeID: 27541924B43338172506229
+  Vircavaspag.Adm2LVA:
+    admin_name: Vircavaspag.
+    iso3c: LVA
+    shapeID: 27541924B57397362903980
+  Virešupag.Adm2LVA:
+    admin_name: Virešupag.
+    iso3c: LVA
+    shapeID: 27541924B12272202930489
+  Virgaspag.Adm2LVA:
+    admin_name: Virgaspag.
+    iso3c: LVA
+    shapeID: 27541924B44819307732268
+  Višķupag.Adm2LVA:
+    admin_name: Višķupag.
+    iso3c: LVA
+    shapeID: 27541924B4584699907336
+  Vītiņupag.Adm2LVA:
+    admin_name: Vītiņupag.
+    iso3c: LVA
+    shapeID: 27541924B21260207281398
+  Zaļeniekupag.Adm2LVA:
+    admin_name: Zaļeniekupag.
+    iso3c: LVA
+    shapeID: 27541924B28600018737203
+  Zaļesjespag.Adm2LVA:
+    admin_name: Zaļesjespag.
+    iso3c: LVA
+    shapeID: 27541924B33285860517164
+  Zalvespag.Adm2LVA:
+    admin_name: Zalvespag.
+    iso3c: LVA
+    shapeID: 27541924B93655267023488
+  Zaņaspag.Adm2LVA:
+    admin_name: Zaņaspag.
+    iso3c: LVA
+    shapeID: 27541924B45294265092973
+  Zantespag.Adm2LVA:
+    admin_name: Zantespag.
+    iso3c: LVA
+    shapeID: 27541924B93807548705439
+  Zasaspag.Adm2LVA:
+    admin_name: Zasaspag.
+    iso3c: LVA
+    shapeID: 27541924B5500268657762
+  Zaubespag.Adm2LVA:
+    admin_name: Zaubespag.
+    iso3c: LVA
+    shapeID: 27541924B54710700451151
+  Zebrenespag.Adm2LVA:
+    admin_name: Zebrenespag.
+    iso3c: LVA
+    shapeID: 27541924B8969780539300
+  Zeltiņupag.Adm2LVA:
+    admin_name: Zeltiņupag.
+    iso3c: LVA
+    shapeID: 27541924B11156685334807
+  Zemītespag.Adm2LVA:
+    admin_name: Zemītespag.
+    iso3c: LVA
+    shapeID: 27541924B24941792791033
+  Zentenespag.Adm2LVA:
+    admin_name: Zentenespag.
+    iso3c: LVA
+    shapeID: 27541924B96888241356563
+  Ziemerapag.Adm2LVA:
+    admin_name: Ziemerapag.
+    iso3c: LVA
+    shapeID: 27541924B47262508870968
+  Žīgurupag.Adm2LVA:
+    admin_name: Žīgurupag.
+    iso3c: LVA
+    shapeID: 27541924B94505112001659
+  Zilākalnapag.Adm2LVA:
+    admin_name: Zilākalnapag.
+    iso3c: LVA
+    shapeID: 27541924B75578071059761
+  ZilupeAdm2LVA:
+    admin_name: Zilupe
+    iso3c: LVA
+    shapeID: 27541924B3022786847050
+  Zirņupag.Adm2LVA:
+    admin_name: Zirņupag.
+    iso3c: LVA
+    shapeID: 27541924B62939624969676
+  Zirupag.Adm2LVA:
+    admin_name: Zirupag.
+    iso3c: LVA
+    shapeID: 27541924B88472203341854
+  Zlēkupag.Adm2LVA:
+    admin_name: Zlēkupag.
+    iso3c: LVA
+    shapeID: 27541924B50328122617974
+  Zosēnupag.Adm2LVA:
+    admin_name: Zosēnupag.
+    iso3c: LVA
+    shapeID: 27541924B99380513765752
+  Zvārdespag.Adm2LVA:
+    admin_name: Zvārdespag.
+    iso3c: LVA
+    shapeID: 27541924B82314272532739
+  Zvārtavaspag.Adm2LVA:
+    admin_name: Zvārtavaspag.
+    iso3c: LVA
+    shapeID: 27541924B49399924673855
+  Zvirgzdenespag.Adm2LVA:
+    admin_name: Zvirgzdenespag.
+    iso3c: LVA
+    shapeID: 27541924B83087939381555

@@ -1,22 +1,1245 @@
 concepts:
-    - Norrbottenslän
-    - Södermanlandslän
-    - VästraGötalandslän
-    - Gotlandslän
-    - Örebrolän
-    - Värmlandslän
-    - Västernorrlandslän
-    - Västerbottenslän
-    - Jämtlandslän
-    - Gävleborgslän
-    - Dalarnaslän
-    - Uppsalalän
-    - Västmanlandslän
-    - Skånelän
-    - Kronobergslän
-    - Blekingelän
-    - Hallandslän
-    - Jönköpingslän
-    - Stockholmslän
-    - Kalmarlän
-    - Östergötlandslän
+  AleAdm2SWE:
+    admin_name: Ale
+    iso3c: SWE
+    shapeID: 70781695B73988580655611
+  AlingsåsAdm2SWE:
+    admin_name: Alingsås
+    iso3c: SWE
+    shapeID: 70781695B65957957058719
+  ÄlmhultAdm2SWE:
+    admin_name: Älmhult
+    iso3c: SWE
+    shapeID: 70781695B11327054975431
+  ÄlvdalenAdm2SWE:
+    admin_name: Älvdalen
+    iso3c: SWE
+    shapeID: 70781695B70096269486185
+  AlvestaAdm2SWE:
+    admin_name: Alvesta
+    iso3c: SWE
+    shapeID: 70781695B73042132081687
+  ÄlvkarlebyAdm2SWE:
+    admin_name: Älvkarleby
+    iso3c: SWE
+    shapeID: 70781695B87799416140928
+  ÄlvsbynAdm2SWE:
+    admin_name: Älvsbyn
+    iso3c: SWE
+    shapeID: 70781695B9243274568958
+  ÅmålAdm2SWE:
+    admin_name: Åmål
+    iso3c: SWE
+    shapeID: 70781695B68260395604399
+  AnebyAdm2SWE:
+    admin_name: Aneby
+    iso3c: SWE
+    shapeID: 70781695B68897114765136
+  ÅngeAdm2SWE:
+    admin_name: Ånge
+    iso3c: SWE
+    shapeID: 70781695B50013402635272
+  ÄngelholmAdm2SWE:
+    admin_name: Ängelholm
+    iso3c: SWE
+    shapeID: 70781695B30639939072107
+  ArbogaAdm2SWE:
+    admin_name: Arboga
+    iso3c: SWE
+    shapeID: 70781695B70233385943782
+  ÅreAdm2SWE:
+    admin_name: Åre
+    iso3c: SWE
+    shapeID: 70781695B29171482831525
+  ÅrjängAdm2SWE:
+    admin_name: Årjäng
+    iso3c: SWE
+    shapeID: 70781695B60576309350500
+  ArjeplogAdm2SWE:
+    admin_name: Arjeplog
+    iso3c: SWE
+    shapeID: 70781695B22534233820232
+  ArvidsjaurAdm2SWE:
+    admin_name: Arvidsjaur
+    iso3c: SWE
+    shapeID: 70781695B53013800846692
+  ArvikaAdm2SWE:
+    admin_name: Arvika
+    iso3c: SWE
+    shapeID: 70781695B82025139549560
+  ÅseleAdm2SWE:
+    admin_name: Åsele
+    iso3c: SWE
+    shapeID: 70781695B85403631212767
+  AskersundAdm2SWE:
+    admin_name: Askersund
+    iso3c: SWE
+    shapeID: 70781695B5834456968412
+  ÅstorpAdm2SWE:
+    admin_name: Åstorp
+    iso3c: SWE
+    shapeID: 70781695B3781926649981
+  ÅtvidabergAdm2SWE:
+    admin_name: Åtvidaberg
+    iso3c: SWE
+    shapeID: 70781695B49758831077864
+  AvestaAdm2SWE:
+    admin_name: Avesta
+    iso3c: SWE
+    shapeID: 70781695B88125325572611
+  BåstadAdm2SWE:
+    admin_name: Båstad
+    iso3c: SWE
+    shapeID: 70781695B81213219414601
+  BengtsforsAdm2SWE:
+    admin_name: Bengtsfors
+    iso3c: SWE
+    shapeID: 70781695B25080467136500
+  BergAdm2SWE:
+    admin_name: Berg
+    iso3c: SWE
+    shapeID: 70781695B75500523526502
+  BjurholmAdm2SWE:
+    admin_name: Bjurholm
+    iso3c: SWE
+    shapeID: 70781695B45286900623809
+  BjuvAdm2SWE:
+    admin_name: Bjuv
+    iso3c: SWE
+    shapeID: 70781695B11789611241227
+  BlekingelänAdm1SWE:
+    admin_name: Blekingelän
+    iso3c: SWE
+    shapeID: 68755315B81473328083601
+  BodenAdm2SWE:
+    admin_name: Boden
+    iso3c: SWE
+    shapeID: 70781695B99694780009800
+  BollebygdAdm2SWE:
+    admin_name: Bollebygd
+    iso3c: SWE
+    shapeID: 70781695B31966174790968
+  BollnäsAdm2SWE:
+    admin_name: Bollnäs
+    iso3c: SWE
+    shapeID: 70781695B36702634985897
+  BoråsAdm2SWE:
+    admin_name: Borås
+    iso3c: SWE
+    shapeID: 70781695B44475344779169
+  BorgholmAdm2SWE:
+    admin_name: Borgholm
+    iso3c: SWE
+    shapeID: 70781695B15457803066593
+  BorlängeAdm2SWE:
+    admin_name: Borlänge
+    iso3c: SWE
+    shapeID: 70781695B12440080986596
+  BotkyrkaAdm2SWE:
+    admin_name: Botkyrka
+    iso3c: SWE
+    shapeID: 70781695B67027071836241
+  BoxholmAdm2SWE:
+    admin_name: Boxholm
+    iso3c: SWE
+    shapeID: 70781695B81557548138278
+  BräckeAdm2SWE:
+    admin_name: Bräcke
+    iso3c: SWE
+    shapeID: 70781695B53803129879670
+  BromöllaAdm2SWE:
+    admin_name: Bromölla
+    iso3c: SWE
+    shapeID: 70781695B19839460749296
+  BurlövAdm2SWE:
+    admin_name: Burlöv
+    iso3c: SWE
+    shapeID: 70781695B8533917899851
+  DalarnaslänAdm1SWE:
+    admin_name: Dalarnaslän
+    iso3c: SWE
+    shapeID: 68755315B20841454082156
+  Dals-EdAdm2SWE:
+    admin_name: Dals-Ed
+    iso3c: SWE
+    shapeID: 70781695B56175452529333
+  DanderydAdm2SWE:
+    admin_name: Danderyd
+    iso3c: SWE
+    shapeID: 70781695B902417386827
+  DegerforsAdm2SWE:
+    admin_name: Degerfors
+    iso3c: SWE
+    shapeID: 70781695B62731669961325
+  DoroteaAdm2SWE:
+    admin_name: Dorotea
+    iso3c: SWE
+    shapeID: 70781695B84383625110676
+  EdaAdm2SWE:
+    admin_name: Eda
+    iso3c: SWE
+    shapeID: 70781695B29968345732345
+  EkeröAdm2SWE:
+    admin_name: Ekerö
+    iso3c: SWE
+    shapeID: 70781695B4978180418475
+  EksjöAdm2SWE:
+    admin_name: Eksjö
+    iso3c: SWE
+    shapeID: 70781695B54746446562471
+  EmmabodaAdm2SWE:
+    admin_name: Emmaboda
+    iso3c: SWE
+    shapeID: 70781695B16590141300701
+  EnköpingAdm2SWE:
+    admin_name: Enköping
+    iso3c: SWE
+    shapeID: 70781695B25535474598498
+  EskilstunaAdm2SWE:
+    admin_name: Eskilstuna
+    iso3c: SWE
+    shapeID: 70781695B99698101105625
+  EslövAdm2SWE:
+    admin_name: Eslöv
+    iso3c: SWE
+    shapeID: 70781695B18480802794079
+  EssungaAdm2SWE:
+    admin_name: Essunga
+    iso3c: SWE
+    shapeID: 70781695B52360167495619
+  FagerstaAdm2SWE:
+    admin_name: Fagersta
+    iso3c: SWE
+    shapeID: 70781695B50955826038578
+  FalkenbergAdm2SWE:
+    admin_name: Falkenberg
+    iso3c: SWE
+    shapeID: 70781695B60260564619256
+  FalköpingAdm2SWE:
+    admin_name: Falköping
+    iso3c: SWE
+    shapeID: 70781695B60471396362754
+  FalunAdm2SWE:
+    admin_name: Falun
+    iso3c: SWE
+    shapeID: 70781695B54233926818688
+  FärgelandaAdm2SWE:
+    admin_name: Färgelanda
+    iso3c: SWE
+    shapeID: 70781695B86197919704884
+  FilipstadAdm2SWE:
+    admin_name: Filipstad
+    iso3c: SWE
+    shapeID: 70781695B88737594548437
+  FinspångAdm2SWE:
+    admin_name: Finspång
+    iso3c: SWE
+    shapeID: 70781695B24148973800204
+  FlenAdm2SWE:
+    admin_name: Flen
+    iso3c: SWE
+    shapeID: 70781695B18684833515036
+  ForshagaAdm2SWE:
+    admin_name: Forshaga
+    iso3c: SWE
+    shapeID: 70781695B94802593774032
+  GagnefAdm2SWE:
+    admin_name: Gagnef
+    iso3c: SWE
+    shapeID: 70781695B69393603078099
+  GällivareAdm2SWE:
+    admin_name: Gällivare
+    iso3c: SWE
+    shapeID: 70781695B62555588892194
+  GävleAdm2SWE:
+    admin_name: Gävle
+    iso3c: SWE
+    shapeID: 70781695B31368722399437
+  GävleborgslänAdm1SWE:
+    admin_name: Gävleborgslän
+    iso3c: SWE
+    shapeID: 68755315B40560830761561
+  GislavedAdm2SWE:
+    admin_name: Gislaved
+    iso3c: SWE
+    shapeID: 70781695B29714549657152
+  GnestaAdm2SWE:
+    admin_name: Gnesta
+    iso3c: SWE
+    shapeID: 70781695B66296838510215
+  GnosjöAdm2SWE:
+    admin_name: Gnosjö
+    iso3c: SWE
+    shapeID: 70781695B2934686109995
+  GöteneAdm2SWE:
+    admin_name: Götene
+    iso3c: SWE
+    shapeID: 70781695B15977475092104
+  GothenburgAdm2SWE:
+    admin_name: Gothenburg
+    iso3c: SWE
+    shapeID: 70781695B76264906816615
+  GotlandAdm2SWE:
+    admin_name: Gotland
+    iso3c: SWE
+    shapeID: 70781695B80690990768870
+  GotlandslänAdm1SWE:
+    admin_name: Gotlandslän
+    iso3c: SWE
+    shapeID: 68755315B38650871956455
+  GrästorpAdm2SWE:
+    admin_name: Grästorp
+    iso3c: SWE
+    shapeID: 70781695B12491812596610
+  GrumsAdm2SWE:
+    admin_name: Grums
+    iso3c: SWE
+    shapeID: 70781695B11595834980673
+  GullspångAdm2SWE:
+    admin_name: Gullspång
+    iso3c: SWE
+    shapeID: 70781695B77814656475649
+  HaboAdm2SWE:
+    admin_name: Habo
+    iso3c: SWE
+    shapeID: 70781695B50055255303815
+  HåboAdm2SWE:
+    admin_name: Håbo
+    iso3c: SWE
+    shapeID: 70781695B92179947733234
+  HagforsAdm2SWE:
+    admin_name: Hagfors
+    iso3c: SWE
+    shapeID: 70781695B31376401870693
+  HallandslänAdm1SWE:
+    admin_name: Hallandslän
+    iso3c: SWE
+    shapeID: 68755315B55596512557513
+  HälleforsAdm2SWE:
+    admin_name: Hällefors
+    iso3c: SWE
+    shapeID: 70781695B86731793095106
+  HallsbergAdm2SWE:
+    admin_name: Hallsberg
+    iso3c: SWE
+    shapeID: 70781695B5690265718253
+  HallstahammarAdm2SWE:
+    admin_name: Hallstahammar
+    iso3c: SWE
+    shapeID: 70781695B32403913124939
+  HalmstadAdm2SWE:
+    admin_name: Halmstad
+    iso3c: SWE
+    shapeID: 70781695B21714207094800
+  HammaröAdm2SWE:
+    admin_name: Hammarö
+    iso3c: SWE
+    shapeID: 70781695B82553413626675
+  HaningeAdm2SWE:
+    admin_name: Haninge
+    iso3c: SWE
+    shapeID: 70781695B75191882374760
+  HaparandaAdm2SWE:
+    admin_name: Haparanda
+    iso3c: SWE
+    shapeID: 70781695B66074520393344
+  HärjedalenAdm2SWE:
+    admin_name: Härjedalen
+    iso3c: SWE
+    shapeID: 70781695B83252740141506
+  HärnösandAdm2SWE:
+    admin_name: Härnösand
+    iso3c: SWE
+    shapeID: 70781695B20063345867362
+  HärrydaAdm2SWE:
+    admin_name: Härryda
+    iso3c: SWE
+    shapeID: 70781695B40038989009726
+  HässleholmAdm2SWE:
+    admin_name: Hässleholm
+    iso3c: SWE
+    shapeID: 70781695B37771083391359
+  HebyAdm2SWE:
+    admin_name: Heby
+    iso3c: SWE
+    shapeID: 70781695B62242352773373
+  HedemoraAdm2SWE:
+    admin_name: Hedemora
+    iso3c: SWE
+    shapeID: 70781695B75139337401174
+  HelsingborgAdm2SWE:
+    admin_name: Helsingborg
+    iso3c: SWE
+    shapeID: 70781695B77389935020700
+  HerrljungaAdm2SWE:
+    admin_name: Herrljunga
+    iso3c: SWE
+    shapeID: 70781695B89566338626874
+  HjoAdm2SWE:
+    admin_name: Hjo
+    iso3c: SWE
+    shapeID: 70781695B53745153341539
+  HoforsAdm2SWE:
+    admin_name: Hofors
+    iso3c: SWE
+    shapeID: 70781695B62100483486123
+  HöganäsAdm2SWE:
+    admin_name: Höganäs
+    iso3c: SWE
+    shapeID: 70781695B23199884308581
+  HögsbyAdm2SWE:
+    admin_name: Högsby
+    iso3c: SWE
+    shapeID: 70781695B22116404340246
+  HöörAdm2SWE:
+    admin_name: Höör
+    iso3c: SWE
+    shapeID: 70781695B95937301884210
+  HörbyAdm2SWE:
+    admin_name: Hörby
+    iso3c: SWE
+    shapeID: 70781695B77585109803763
+  HuddingeAdm2SWE:
+    admin_name: Huddinge
+    iso3c: SWE
+    shapeID: 70781695B98440364310876
+  HudiksvallAdm2SWE:
+    admin_name: Hudiksvall
+    iso3c: SWE
+    shapeID: 70781695B16992576360669
+  HultsfredAdm2SWE:
+    admin_name: Hultsfred
+    iso3c: SWE
+    shapeID: 70781695B5554293763510
+  HylteAdm2SWE:
+    admin_name: Hylte
+    iso3c: SWE
+    shapeID: 70781695B16577787693192
+  JämtlandslänAdm1SWE:
+    admin_name: Jämtlandslän
+    iso3c: SWE
+    shapeID: 68755315B77555777280839
+  JärfällaAdm2SWE:
+    admin_name: Järfälla
+    iso3c: SWE
+    shapeID: 70781695B58172703423372
+  JokkmokkAdm2SWE:
+    admin_name: Jokkmokk
+    iso3c: SWE
+    shapeID: 70781695B36834641182296
+  JönköpingAdm2SWE:
+    admin_name: Jönköping
+    iso3c: SWE
+    shapeID: 70781695B94890902843100
+  JönköpingslänAdm1SWE:
+    admin_name: Jönköpingslän
+    iso3c: SWE
+    shapeID: 68755315B59709318110176
+  KalixAdm2SWE:
+    admin_name: Kalix
+    iso3c: SWE
+    shapeID: 70781695B60696857291405
+  KalmarAdm2SWE:
+    admin_name: Kalmar
+    iso3c: SWE
+    shapeID: 70781695B81651026792808
+  KalmarlänAdm1SWE:
+    admin_name: Kalmarlän
+    iso3c: SWE
+    shapeID: 68755315B90115132982568
+  KarlsborgAdm2SWE:
+    admin_name: Karlsborg
+    iso3c: SWE
+    shapeID: 70781695B19460929055016
+  KarlshamnAdm2SWE:
+    admin_name: Karlshamn
+    iso3c: SWE
+    shapeID: 70781695B12582384293132
+  KarlskogaAdm2SWE:
+    admin_name: Karlskoga
+    iso3c: SWE
+    shapeID: 70781695B86171963253303
+  KarlskronaAdm2SWE:
+    admin_name: Karlskrona
+    iso3c: SWE
+    shapeID: 70781695B53871800350845
+  KarlstadAdm2SWE:
+    admin_name: Karlstad
+    iso3c: SWE
+    shapeID: 70781695B32698767031926
+  KatrineholmAdm2SWE:
+    admin_name: Katrineholm
+    iso3c: SWE
+    shapeID: 70781695B59557682139675
+  KävlingeAdm2SWE:
+    admin_name: Kävlinge
+    iso3c: SWE
+    shapeID: 70781695B14589656511888
+  KilAdm2SWE:
+    admin_name: Kil
+    iso3c: SWE
+    shapeID: 70781695B19557897917232
+  KindaAdm2SWE:
+    admin_name: Kinda
+    iso3c: SWE
+    shapeID: 70781695B68012298271842
+  KirunaAdm2SWE:
+    admin_name: Kiruna
+    iso3c: SWE
+    shapeID: 70781695B94600430897975
+  KlippanAdm2SWE:
+    admin_name: Klippan
+    iso3c: SWE
+    shapeID: 70781695B13105561347564
+  KnivstaAdm2SWE:
+    admin_name: Knivsta
+    iso3c: SWE
+    shapeID: 70781695B75791016824649
+  KöpingAdm2SWE:
+    admin_name: Köping
+    iso3c: SWE
+    shapeID: 70781695B79048986379567
+  KramforsAdm2SWE:
+    admin_name: Kramfors
+    iso3c: SWE
+    shapeID: 70781695B48901631872346
+  KristianstadAdm2SWE:
+    admin_name: Kristianstad
+    iso3c: SWE
+    shapeID: 70781695B54182185465620
+  KristinehamnAdm2SWE:
+    admin_name: Kristinehamn
+    iso3c: SWE
+    shapeID: 70781695B91017717929133
+  KrokomAdm2SWE:
+    admin_name: Krokom
+    iso3c: SWE
+    shapeID: 70781695B96181238671333
+  KronobergslänAdm1SWE:
+    admin_name: Kronobergslän
+    iso3c: SWE
+    shapeID: 68755315B33676065986160
+  KumlaAdm2SWE:
+    admin_name: Kumla
+    iso3c: SWE
+    shapeID: 70781695B57717414810507
+  KungälvAdm2SWE:
+    admin_name: Kungälv
+    iso3c: SWE
+    shapeID: 70781695B99737060400485
+  KungsbackaAdm2SWE:
+    admin_name: Kungsbacka
+    iso3c: SWE
+    shapeID: 70781695B93011743740918
+  KungsörAdm2SWE:
+    admin_name: Kungsör
+    iso3c: SWE
+    shapeID: 70781695B35489604221157
+  LaholmAdm2SWE:
+    admin_name: Laholm
+    iso3c: SWE
+    shapeID: 70781695B78273070971821
+  LandskronaAdm2SWE:
+    admin_name: Landskrona
+    iso3c: SWE
+    shapeID: 70781695B51244524104
+  LaxåAdm2SWE:
+    admin_name: Laxå
+    iso3c: SWE
+    shapeID: 70781695B77797038305071
+  LekebergAdm2SWE:
+    admin_name: Lekeberg
+    iso3c: SWE
+    shapeID: 70781695B87625473444636
+  LeksandAdm2SWE:
+    admin_name: Leksand
+    iso3c: SWE
+    shapeID: 70781695B69535190961561
+  LerumAdm2SWE:
+    admin_name: Lerum
+    iso3c: SWE
+    shapeID: 70781695B46333437136536
+  LesseboAdm2SWE:
+    admin_name: Lessebo
+    iso3c: SWE
+    shapeID: 70781695B14820024771032
+  LidingöAdm2SWE:
+    admin_name: Lidingö
+    iso3c: SWE
+    shapeID: 70781695B7495287433606
+  LidköpingAdm2SWE:
+    admin_name: Lidköping
+    iso3c: SWE
+    shapeID: 70781695B58829616428329
+  LillaEdetAdm2SWE:
+    admin_name: LillaEdet
+    iso3c: SWE
+    shapeID: 70781695B92226486656888
+  LindesbergAdm2SWE:
+    admin_name: Lindesberg
+    iso3c: SWE
+    shapeID: 70781695B98583425778893
+  LinköpingAdm2SWE:
+    admin_name: Linköping
+    iso3c: SWE
+    shapeID: 70781695B57213599568931
+  LjungbyAdm2SWE:
+    admin_name: Ljungby
+    iso3c: SWE
+    shapeID: 70781695B43314679953791
+  LjusdalAdm2SWE:
+    admin_name: Ljusdal
+    iso3c: SWE
+    shapeID: 70781695B40946253487831
+  LjusnarsbergAdm2SWE:
+    admin_name: Ljusnarsberg
+    iso3c: SWE
+    shapeID: 70781695B35702082689476
+  LommaAdm2SWE:
+    admin_name: Lomma
+    iso3c: SWE
+    shapeID: 70781695B45241162189836
+  LudvikaAdm2SWE:
+    admin_name: Ludvika
+    iso3c: SWE
+    shapeID: 70781695B24825049730842
+  LuleåAdm2SWE:
+    admin_name: Luleå
+    iso3c: SWE
+    shapeID: 70781695B74672839302489
+  LundAdm2SWE:
+    admin_name: Lund
+    iso3c: SWE
+    shapeID: 70781695B29606605667306
+  LyckseleAdm2SWE:
+    admin_name: Lycksele
+    iso3c: SWE
+    shapeID: 70781695B44534775351427
+  LysekilAdm2SWE:
+    admin_name: Lysekil
+    iso3c: SWE
+    shapeID: 70781695B61994796728943
+  MalåAdm2SWE:
+    admin_name: Malå
+    iso3c: SWE
+    shapeID: 70781695B10174824853138
+  MalmöAdm2SWE:
+    admin_name: Malmö
+    iso3c: SWE
+    shapeID: 70781695B15028769687560
+  Malung-SälenAdm2SWE:
+    admin_name: Malung-Sälen
+    iso3c: SWE
+    shapeID: 70781695B21384318328317
+  MariestadAdm2SWE:
+    admin_name: Mariestad
+    iso3c: SWE
+    shapeID: 70781695B85574102169861
+  MarkAdm2SWE:
+    admin_name: Mark
+    iso3c: SWE
+    shapeID: 70781695B92952656574297
+  MarkarydAdm2SWE:
+    admin_name: Markaryd
+    iso3c: SWE
+    shapeID: 70781695B56962203648696
+  MellerudAdm2SWE:
+    admin_name: Mellerud
+    iso3c: SWE
+    shapeID: 70781695B28344262532925
+  MjölbyAdm2SWE:
+    admin_name: Mjölby
+    iso3c: SWE
+    shapeID: 70781695B90308748952791
+  MölndalAdm2SWE:
+    admin_name: Mölndal
+    iso3c: SWE
+    shapeID: 70781695B68601782286735
+  MönsteråsAdm2SWE:
+    admin_name: Mönsterås
+    iso3c: SWE
+    shapeID: 70781695B14809952368056
+  MoraAdm2SWE:
+    admin_name: Mora
+    iso3c: SWE
+    shapeID: 70781695B88380498553182
+  MörbylångaAdm2SWE:
+    admin_name: Mörbylånga
+    iso3c: SWE
+    shapeID: 70781695B97428107441054
+  MotalaAdm2SWE:
+    admin_name: Motala
+    iso3c: SWE
+    shapeID: 70781695B67213820771723
+  MullsjöAdm2SWE:
+    admin_name: Mullsjö
+    iso3c: SWE
+    shapeID: 70781695B30148016618551
+  MunkedalAdm2SWE:
+    admin_name: Munkedal
+    iso3c: SWE
+    shapeID: 70781695B34337656625588
+  MunkforsAdm2SWE:
+    admin_name: Munkfors
+    iso3c: SWE
+    shapeID: 70781695B82922715808284
+  NackaAdm2SWE:
+    admin_name: Nacka
+    iso3c: SWE
+    shapeID: 70781695B29923564052107
+  NässjöAdm2SWE:
+    admin_name: Nässjö
+    iso3c: SWE
+    shapeID: 70781695B63607124803210
+  NoraAdm2SWE:
+    admin_name: Nora
+    iso3c: SWE
+    shapeID: 70781695B8757223654229
+  NorbergAdm2SWE:
+    admin_name: Norberg
+    iso3c: SWE
+    shapeID: 70781695B94571539406434
+  NordanstigAdm2SWE:
+    admin_name: Nordanstig
+    iso3c: SWE
+    shapeID: 70781695B45160094549088
+  NordmalingAdm2SWE:
+    admin_name: Nordmaling
+    iso3c: SWE
+    shapeID: 70781695B22798016989349
+  NorrbottenslänAdm1SWE:
+    admin_name: Norrbottenslän
+    iso3c: SWE
+    shapeID: 68755315B90281797632670
+  NorrköpingAdm2SWE:
+    admin_name: Norrköping
+    iso3c: SWE
+    shapeID: 70781695B31876776123918
+  NorrtäljeAdm2SWE:
+    admin_name: Norrtälje
+    iso3c: SWE
+    shapeID: 70781695B82449789410879
+  NorsjöAdm2SWE:
+    admin_name: Norsjö
+    iso3c: SWE
+    shapeID: 70781695B82980713589977
+  NybroAdm2SWE:
+    admin_name: Nybro
+    iso3c: SWE
+    shapeID: 70781695B56315309655935
+  NyköpingAdm2SWE:
+    admin_name: Nyköping
+    iso3c: SWE
+    shapeID: 70781695B52980930896753
+  NykvarnAdm2SWE:
+    admin_name: Nykvarn
+    iso3c: SWE
+    shapeID: 70781695B30902194250212
+  NynäshamnAdm2SWE:
+    admin_name: Nynäshamn
+    iso3c: SWE
+    shapeID: 70781695B48387323711272
+  OckelboAdm2SWE:
+    admin_name: Ockelbo
+    iso3c: SWE
+    shapeID: 70781695B90060355953602
+  ÖckeröAdm2SWE:
+    admin_name: Öckerö
+    iso3c: SWE
+    shapeID: 70781695B5566617801013
+  ÖdeshögAdm2SWE:
+    admin_name: Ödeshög
+    iso3c: SWE
+    shapeID: 70781695B38762641138003
+  OlofströmAdm2SWE:
+    admin_name: Olofström
+    iso3c: SWE
+    shapeID: 70781695B37822340313581
+  ÖrebroAdm2SWE:
+    admin_name: Örebro
+    iso3c: SWE
+    shapeID: 70781695B32779810801713
+  ÖrebrolänAdm1SWE:
+    admin_name: Örebrolän
+    iso3c: SWE
+    shapeID: 68755315B32575645025153
+  ÖrkelljungaAdm2SWE:
+    admin_name: Örkelljunga
+    iso3c: SWE
+    shapeID: 70781695B2310974409616
+  ÖrnsköldsvikAdm2SWE:
+    admin_name: Örnsköldsvik
+    iso3c: SWE
+    shapeID: 70781695B95877755672969
+  OrsaAdm2SWE:
+    admin_name: Orsa
+    iso3c: SWE
+    shapeID: 70781695B64555643883155
+  OrustAdm2SWE:
+    admin_name: Orust
+    iso3c: SWE
+    shapeID: 70781695B44388212160911
+  OsbyAdm2SWE:
+    admin_name: Osby
+    iso3c: SWE
+    shapeID: 70781695B63851832202754
+  OskarshamnAdm2SWE:
+    admin_name: Oskarshamn
+    iso3c: SWE
+    shapeID: 70781695B81120519064145
+  ÖsteråkerAdm2SWE:
+    admin_name: Österåker
+    iso3c: SWE
+    shapeID: 70781695B57297019096090
+  ÖstergötlandslänAdm1SWE:
+    admin_name: Östergötlandslän
+    iso3c: SWE
+    shapeID: 68755315B80953081303888
+  ÖstersundAdm2SWE:
+    admin_name: Östersund
+    iso3c: SWE
+    shapeID: 70781695B37612072070756
+  ÖsthammarAdm2SWE:
+    admin_name: Östhammar
+    iso3c: SWE
+    shapeID: 70781695B19211904151309
+  ÖstraGöingeAdm2SWE:
+    admin_name: ÖstraGöinge
+    iso3c: SWE
+    shapeID: 70781695B77141748378348
+  OvanåkerAdm2SWE:
+    admin_name: Ovanåker
+    iso3c: SWE
+    shapeID: 70781695B81949975609357
+  ÖverkalixAdm2SWE:
+    admin_name: Överkalix
+    iso3c: SWE
+    shapeID: 70781695B62511504929607
+  ÖvertorneåAdm2SWE:
+    admin_name: Övertorneå
+    iso3c: SWE
+    shapeID: 70781695B64947384355586
+  OxelösundAdm2SWE:
+    admin_name: Oxelösund
+    iso3c: SWE
+    shapeID: 70781695B16692343242132
+  PajalaAdm2SWE:
+    admin_name: Pajala
+    iso3c: SWE
+    shapeID: 70781695B61999332123961
+  PartilleAdm2SWE:
+    admin_name: Partille
+    iso3c: SWE
+    shapeID: 70781695B82968096890663
+  PerstorpAdm2SWE:
+    admin_name: Perstorp
+    iso3c: SWE
+    shapeID: 70781695B63196163664063
+  PiteåAdm2SWE:
+    admin_name: Piteå
+    iso3c: SWE
+    shapeID: 70781695B63326994968930
+  RagundaAdm2SWE:
+    admin_name: Ragunda
+    iso3c: SWE
+    shapeID: 70781695B27486788902069
+  RättvikAdm2SWE:
+    admin_name: Rättvik
+    iso3c: SWE
+    shapeID: 70781695B61189370844714
+  RobertsforsAdm2SWE:
+    admin_name: Robertsfors
+    iso3c: SWE
+    shapeID: 70781695B17714148738486
+  RonnebyAdm2SWE:
+    admin_name: Ronneby
+    iso3c: SWE
+    shapeID: 70781695B61980194146420
+  SäffleAdm2SWE:
+    admin_name: Säffle
+    iso3c: SWE
+    shapeID: 70781695B34912889430401
+  SalaAdm2SWE:
+    admin_name: Sala
+    iso3c: SWE
+    shapeID: 70781695B82098029436339
+  SalemAdm2SWE:
+    admin_name: Salem
+    iso3c: SWE
+    shapeID: 70781695B90671145668871
+  SandvikenAdm2SWE:
+    admin_name: Sandviken
+    iso3c: SWE
+    shapeID: 70781695B54333453376025
+  SäterAdm2SWE:
+    admin_name: Säter
+    iso3c: SWE
+    shapeID: 70781695B35872572180279
+  SävsjöAdm2SWE:
+    admin_name: Sävsjö
+    iso3c: SWE
+    shapeID: 70781695B29308499168486
+  SigtunaAdm2SWE:
+    admin_name: Sigtuna
+    iso3c: SWE
+    shapeID: 70781695B39328954210913
+  SimrishamnAdm2SWE:
+    admin_name: Simrishamn
+    iso3c: SWE
+    shapeID: 70781695B62390377140785
+  SjöboAdm2SWE:
+    admin_name: Sjöbo
+    iso3c: SWE
+    shapeID: 70781695B31496650101497
+  SkånelänAdm1SWE:
+    admin_name: Skånelän
+    iso3c: SWE
+    shapeID: 68755315B47966181547850
+  SkaraAdm2SWE:
+    admin_name: Skara
+    iso3c: SWE
+    shapeID: 70781695B33450377436150
+  SkellefteåAdm2SWE:
+    admin_name: Skellefteå
+    iso3c: SWE
+    shapeID: 70781695B28951573568604
+  SkinnskattebergAdm2SWE:
+    admin_name: Skinnskatteberg
+    iso3c: SWE
+    shapeID: 70781695B12351867111175
+  SkövdeAdm2SWE:
+    admin_name: Skövde
+    iso3c: SWE
+    shapeID: 70781695B28625719623637
+  SkurupAdm2SWE:
+    admin_name: Skurup
+    iso3c: SWE
+    shapeID: 70781695B43697052539522
+  SmedjebackenAdm2SWE:
+    admin_name: Smedjebacken
+    iso3c: SWE
+    shapeID: 70781695B69424081161255
+  SöderhamnAdm2SWE:
+    admin_name: Söderhamn
+    iso3c: SWE
+    shapeID: 70781695B37346954790486
+  SöderköpingAdm2SWE:
+    admin_name: Söderköping
+    iso3c: SWE
+    shapeID: 70781695B48628112229025
+  SödermanlandslänAdm1SWE:
+    admin_name: Södermanlandslän
+    iso3c: SWE
+    shapeID: 68755315B98869091115359
+  SödertäljeAdm2SWE:
+    admin_name: Södertälje
+    iso3c: SWE
+    shapeID: 70781695B28053547140840
+  SollefteåAdm2SWE:
+    admin_name: Sollefteå
+    iso3c: SWE
+    shapeID: 70781695B14713554089347
+  SollentunaAdm2SWE:
+    admin_name: Sollentuna
+    iso3c: SWE
+    shapeID: 70781695B54178975412741
+  SolnaAdm2SWE:
+    admin_name: Solna
+    iso3c: SWE
+    shapeID: 70781695B78362616734409
+  SölvesborgAdm2SWE:
+    admin_name: Sölvesborg
+    iso3c: SWE
+    shapeID: 70781695B90758337491220
+  SorseleAdm2SWE:
+    admin_name: Sorsele
+    iso3c: SWE
+    shapeID: 70781695B2170511041252
+  SotenäsAdm2SWE:
+    admin_name: Sotenäs
+    iso3c: SWE
+    shapeID: 70781695B30860810516281
+  StaffanstorpAdm2SWE:
+    admin_name: Staffanstorp
+    iso3c: SWE
+    shapeID: 70781695B74587424027080
+  StenungsundAdm2SWE:
+    admin_name: Stenungsund
+    iso3c: SWE
+    shapeID: 70781695B70291115197472
+  StockholmAdm2SWE:
+    admin_name: Stockholm
+    iso3c: SWE
+    shapeID: 70781695B5805413017960
+  StockholmslänAdm1SWE:
+    admin_name: Stockholmslän
+    iso3c: SWE
+    shapeID: 68755315B30510620730039
+  StorforsAdm2SWE:
+    admin_name: Storfors
+    iso3c: SWE
+    shapeID: 70781695B43025182622692
+  StorumanAdm2SWE:
+    admin_name: Storuman
+    iso3c: SWE
+    shapeID: 70781695B25837784643259
+  SträngnäsAdm2SWE:
+    admin_name: Strängnäs
+    iso3c: SWE
+    shapeID: 70781695B8890772854641
+  StrömstadAdm2SWE:
+    admin_name: Strömstad
+    iso3c: SWE
+    shapeID: 70781695B73142432831902
+  StrömsundAdm2SWE:
+    admin_name: Strömsund
+    iso3c: SWE
+    shapeID: 70781695B21663414086588
+  SundbybergAdm2SWE:
+    admin_name: Sundbyberg
+    iso3c: SWE
+    shapeID: 70781695B91357499899745
+  SundsvallAdm2SWE:
+    admin_name: Sundsvall
+    iso3c: SWE
+    shapeID: 70781695B99117995283452
+  SunneAdm2SWE:
+    admin_name: Sunne
+    iso3c: SWE
+    shapeID: 70781695B71435448631031
+  SurahammarAdm2SWE:
+    admin_name: Surahammar
+    iso3c: SWE
+    shapeID: 70781695B32854023437758
+  SvalövAdm2SWE:
+    admin_name: Svalöv
+    iso3c: SWE
+    shapeID: 70781695B22737117685830
+  SvedalaAdm2SWE:
+    admin_name: Svedala
+    iso3c: SWE
+    shapeID: 70781695B13433668994781
+  SvenljungaAdm2SWE:
+    admin_name: Svenljunga
+    iso3c: SWE
+    shapeID: 70781695B82404495889294
+  TäbyAdm2SWE:
+    admin_name: Täby
+    iso3c: SWE
+    shapeID: 70781695B44466819558577
+  TanumAdm2SWE:
+    admin_name: Tanum
+    iso3c: SWE
+    shapeID: 70781695B34611163933513
+  TibroAdm2SWE:
+    admin_name: Tibro
+    iso3c: SWE
+    shapeID: 70781695B34872352941630
+  TidaholmAdm2SWE:
+    admin_name: Tidaholm
+    iso3c: SWE
+    shapeID: 70781695B48750252514095
+  TierpAdm2SWE:
+    admin_name: Tierp
+    iso3c: SWE
+    shapeID: 70781695B92369389474001
+  TimråAdm2SWE:
+    admin_name: Timrå
+    iso3c: SWE
+    shapeID: 70781695B55487721764807
+  TingsrydAdm2SWE:
+    admin_name: Tingsryd
+    iso3c: SWE
+    shapeID: 70781695B44136897167596
+  TjörnAdm2SWE:
+    admin_name: Tjörn
+    iso3c: SWE
+    shapeID: 70781695B41142122613038
+  TomelillaAdm2SWE:
+    admin_name: Tomelilla
+    iso3c: SWE
+    shapeID: 70781695B70463852837114
+  TörebodaAdm2SWE:
+    admin_name: Töreboda
+    iso3c: SWE
+    shapeID: 70781695B31041938637991
+  TorsåsAdm2SWE:
+    admin_name: Torsås
+    iso3c: SWE
+    shapeID: 70781695B75785870323724
+  TorsbyAdm2SWE:
+    admin_name: Torsby
+    iso3c: SWE
+    shapeID: 70781695B46628667043921
+  TranåsAdm2SWE:
+    admin_name: Tranås
+    iso3c: SWE
+    shapeID: 70781695B97967886830889
+  TranemoAdm2SWE:
+    admin_name: Tranemo
+    iso3c: SWE
+    shapeID: 70781695B94862964500573
+  TrelleborgAdm2SWE:
+    admin_name: Trelleborg
+    iso3c: SWE
+    shapeID: 70781695B21975001691252
+  TrollhättanAdm2SWE:
+    admin_name: Trollhättan
+    iso3c: SWE
+    shapeID: 70781695B47342349503328
+  TrosaAdm2SWE:
+    admin_name: Trosa
+    iso3c: SWE
+    shapeID: 70781695B57968979850180
+  TyresöAdm2SWE:
+    admin_name: Tyresö
+    iso3c: SWE
+    shapeID: 70781695B80728861937235
+  UddevallaAdm2SWE:
+    admin_name: Uddevalla
+    iso3c: SWE
+    shapeID: 70781695B49447773116889
+  UlricehamnAdm2SWE:
+    admin_name: Ulricehamn
+    iso3c: SWE
+    shapeID: 70781695B39673713776629
+  UmeåAdm2SWE:
+    admin_name: Umeå
+    iso3c: SWE
+    shapeID: 70781695B42306672423643
+  Upplands-BroAdm2SWE:
+    admin_name: Upplands-Bro
+    iso3c: SWE
+    shapeID: 70781695B36454711221889
+  UpplandsVäsbyAdm2SWE:
+    admin_name: UpplandsVäsby
+    iso3c: SWE
+    shapeID: 70781695B23311697219676
+  UppsalaAdm2SWE:
+    admin_name: Uppsala
+    iso3c: SWE
+    shapeID: 70781695B50893548218993
+  UppsalalänAdm1SWE:
+    admin_name: Uppsalalän
+    iso3c: SWE
+    shapeID: 68755315B47712843770727
+  UppvidingeAdm2SWE:
+    admin_name: Uppvidinge
+    iso3c: SWE
+    shapeID: 70781695B81795147571937
+  VadstenaAdm2SWE:
+    admin_name: Vadstena
+    iso3c: SWE
+    shapeID: 70781695B1956121953089
+  VaggerydAdm2SWE:
+    admin_name: Vaggeryd
+    iso3c: SWE
+    shapeID: 70781695B19954774542686
+  ValdemarsvikAdm2SWE:
+    admin_name: Valdemarsvik
+    iso3c: SWE
+    shapeID: 70781695B36298278943399
+  VallentunaAdm2SWE:
+    admin_name: Vallentuna
+    iso3c: SWE
+    shapeID: 70781695B12821480851485
+  VänersborgAdm2SWE:
+    admin_name: Vänersborg
+    iso3c: SWE
+    shapeID: 70781695B41562985263566
+  VännäsAdm2SWE:
+    admin_name: Vännäs
+    iso3c: SWE
+    shapeID: 70781695B10556345050301
+  VansbroAdm2SWE:
+    admin_name: Vansbro
+    iso3c: SWE
+    shapeID: 70781695B18183991959246
+  VaraAdm2SWE:
+    admin_name: Vara
+    iso3c: SWE
+    shapeID: 70781695B49993264725167
+  VarbergAdm2SWE:
+    admin_name: Varberg
+    iso3c: SWE
+    shapeID: 70781695B45101098387914
+  VårgårdaAdm2SWE:
+    admin_name: Vårgårda
+    iso3c: SWE
+    shapeID: 70781695B65797043519152
+  VärmdöAdm2SWE:
+    admin_name: Värmdö
+    iso3c: SWE
+    shapeID: 70781695B62142289931887
+  VärmlandslänAdm1SWE:
+    admin_name: Värmlandslän
+    iso3c: SWE
+    shapeID: 68755315B56925388039616
+  VärnamoAdm2SWE:
+    admin_name: Värnamo
+    iso3c: SWE
+    shapeID: 70781695B84556885124155
+  VästeråsAdm2SWE:
+    admin_name: Västerås
+    iso3c: SWE
+    shapeID: 70781695B76106000376718
+  VästerbottenslänAdm1SWE:
+    admin_name: Västerbottenslän
+    iso3c: SWE
+    shapeID: 68755315B22015401421101
+  VästernorrlandslänAdm1SWE:
+    admin_name: Västernorrlandslän
+    iso3c: SWE
+    shapeID: 68755315B42087740049136
+  VästervikAdm2SWE:
+    admin_name: Västervik
+    iso3c: SWE
+    shapeID: 70781695B21983327863025
+  VästmanlandslänAdm1SWE:
+    admin_name: Västmanlandslän
+    iso3c: SWE
+    shapeID: 68755315B7109819079053
+  VästraGötalandslänAdm1SWE:
+    admin_name: VästraGötalandslän
+    iso3c: SWE
+    shapeID: 68755315B39536810599908
+  VaxholmAdm2SWE:
+    admin_name: Vaxholm
+    iso3c: SWE
+    shapeID: 70781695B74265456300359
+  VäxjöAdm2SWE:
+    admin_name: Växjö
+    iso3c: SWE
+    shapeID: 70781695B32930756633279
+  VellingeAdm2SWE:
+    admin_name: Vellinge
+    iso3c: SWE
+    shapeID: 70781695B48074135992982
+  VetlandaAdm2SWE:
+    admin_name: Vetlanda
+    iso3c: SWE
+    shapeID: 70781695B55162633112415
+  VilhelminaAdm2SWE:
+    admin_name: Vilhelmina
+    iso3c: SWE
+    shapeID: 70781695B71787766152021
+  VimmerbyAdm2SWE:
+    admin_name: Vimmerby
+    iso3c: SWE
+    shapeID: 70781695B52045533675939
+  VindelnAdm2SWE:
+    admin_name: Vindeln
+    iso3c: SWE
+    shapeID: 70781695B31589151940817
+  VingåkerAdm2SWE:
+    admin_name: Vingåker
+    iso3c: SWE
+    shapeID: 70781695B34612539381669
+  YdreAdm2SWE:
+    admin_name: Ydre
+    iso3c: SWE
+    shapeID: 70781695B77319052576645
+  YstadAdm2SWE:
+    admin_name: Ystad
+    iso3c: SWE
+    shapeID: 70781695B99189289928954

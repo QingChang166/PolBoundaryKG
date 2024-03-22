@@ -1,10 +1,2225 @@
 concepts:
-    - SouthAustralia
-    - WesternAustralia
-    - NewSouthWales
-    - Victoria
-    - Queensland
-    - Tasmania
-    - OtherTerritories
-    - NorthernTerritory
-    - AustralianCapitalTerritory
+  AdelaideAdm2AUS:
+    admin_name: Adelaide
+    iso3c: AUS
+    shapeID: 25037944B32453744991132
+  AdelaideHillsAdm2AUS:
+    admin_name: AdelaideHills
+    iso3c: AUS
+    shapeID: 25037944B81795940513405
+  AdelaidePlainsAdm2AUS:
+    admin_name: AdelaidePlains
+    iso3c: AUS
+    shapeID: 25037944B85276451636106
+  AlbanyAdm2AUS:
+    admin_name: Albany
+    iso3c: AUS
+    shapeID: 25037944B82098291834434
+  AlburyAdm2AUS:
+    admin_name: Albury
+    iso3c: AUS
+    shapeID: 25037944B24790092852260
+  AlexandrinaAdm2AUS:
+    admin_name: Alexandrina
+    iso3c: AUS
+    shapeID: 25037944B24690359827006
+  AliceSpringsAdm2AUS:
+    admin_name: AliceSprings
+    iso3c: AUS
+    shapeID: 25037944B49978280072491
+  AlpineAdm2AUS:
+    admin_name: Alpine
+    iso3c: AUS
+    shapeID: 25037944B21518620554178
+  AnanguPitjantjatjaraYunkunytjatjaraAdm2AUS:
+    admin_name: AnanguPitjantjatjaraYunkunytjatjara
+    iso3c: AUS
+    shapeID: 25037944B76937209298521
+  AraratAdm2AUS:
+    admin_name: Ararat
+    iso3c: AUS
+    shapeID: 25037944B36221284354416
+  ArmadaleAdm2AUS:
+    admin_name: Armadale
+    iso3c: AUS
+    shapeID: 25037944B45600387855719
+  ArmidaleAdm2AUS:
+    admin_name: Armidale
+    iso3c: AUS
+    shapeID: 25037944B44637712818530
+  AshburtonAdm2AUS:
+    admin_name: Ashburton
+    iso3c: AUS
+    shapeID: 25037944B95548638033328
+  AugustaMargaretRiverAdm2AUS:
+    admin_name: AugustaMargaretRiver
+    iso3c: AUS
+    shapeID: 25037944B11828737752872
+  AurukunAdm2AUS:
+    admin_name: Aurukun
+    iso3c: AUS
+    shapeID: 25037944B73642390976852
+  AustralianCapitalTerritoryAdm1AUS:
+    admin_name: AustralianCapitalTerritory
+    iso3c: AUS
+    shapeID: 82085004B40257551482390
+  BallaratAdm2AUS:
+    admin_name: Ballarat
+    iso3c: AUS
+    shapeID: 25037944B10145309156113
+  BallinaAdm2AUS:
+    admin_name: Ballina
+    iso3c: AUS
+    shapeID: 25037944B45717157651515
+  BalonneAdm2AUS:
+    admin_name: Balonne
+    iso3c: AUS
+    shapeID: 25037944B99375808826492
+  BalranaldAdm2AUS:
+    admin_name: Balranald
+    iso3c: AUS
+    shapeID: 25037944B43785864788030
+  BananaAdm2AUS:
+    admin_name: Banana
+    iso3c: AUS
+    shapeID: 25037944B6409140573096
+  BanyuleAdm2AUS:
+    admin_name: Banyule
+    iso3c: AUS
+    shapeID: 25037944B35750934340746
+  BarcaldineAdm2AUS:
+    admin_name: Barcaldine
+    iso3c: AUS
+    shapeID: 25037944B32668450975374
+  BarcooAdm2AUS:
+    admin_name: Barcoo
+    iso3c: AUS
+    shapeID: 25037944B38568063774568
+  BarklyAdm2AUS:
+    admin_name: Barkly
+    iso3c: AUS
+    shapeID: 25037944B87984246529450
+  BarossaAdm2AUS:
+    admin_name: Barossa
+    iso3c: AUS
+    shapeID: 25037944B31531764292735
+  BarungaWestAdm2AUS:
+    admin_name: BarungaWest
+    iso3c: AUS
+    shapeID: 25037944B23405884319913
+  BassCoastAdm2AUS:
+    admin_name: BassCoast
+    iso3c: AUS
+    shapeID: 25037944B92127790017854
+  BassendeanAdm2AUS:
+    admin_name: Bassendean
+    iso3c: AUS
+    shapeID: 25037944B70302192671386
+  BathurstAdm2AUS:
+    admin_name: Bathurst
+    iso3c: AUS
+    shapeID: 25037944B26387144583263
+  BawBawAdm2AUS:
+    admin_name: BawBaw
+    iso3c: AUS
+    shapeID: 25037944B5488167520198
+  Bayside(NSW)Adm2AUS:
+    admin_name: Bayside(NSW)
+    iso3c: AUS
+    shapeID: 25037944B57870334231273
+  Bayside(Vic.)Adm2AUS:
+    admin_name: Bayside(Vic.)
+    iso3c: AUS
+    shapeID: 25037944B24270951064752
+  BayswaterAdm2AUS:
+    admin_name: Bayswater
+    iso3c: AUS
+    shapeID: 25037944B12143686182506
+  BegaValleyAdm2AUS:
+    admin_name: BegaValley
+    iso3c: AUS
+    shapeID: 25037944B16891547173569
+  BellingenAdm2AUS:
+    admin_name: Bellingen
+    iso3c: AUS
+    shapeID: 25037944B1782787006296
+  BelmontAdm2AUS:
+    admin_name: Belmont
+    iso3c: AUS
+    shapeID: 25037944B8488281546819
+  BelyuenAdm2AUS:
+    admin_name: Belyuen
+    iso3c: AUS
+    shapeID: 25037944B37494903355321
+  BenallaAdm2AUS:
+    admin_name: Benalla
+    iso3c: AUS
+    shapeID: 25037944B90980309349747
+  BerriBarmeraAdm2AUS:
+    admin_name: BerriBarmera
+    iso3c: AUS
+    shapeID: 25037944B16571921668942
+  BerriganAdm2AUS:
+    admin_name: Berrigan
+    iso3c: AUS
+    shapeID: 25037944B79892386490083
+  BeverleyAdm2AUS:
+    admin_name: Beverley
+    iso3c: AUS
+    shapeID: 25037944B89171502248139
+  BlackallTamboAdm2AUS:
+    admin_name: BlackallTambo
+    iso3c: AUS
+    shapeID: 25037944B98295779161883
+  BlacktownAdm2AUS:
+    admin_name: Blacktown
+    iso3c: AUS
+    shapeID: 25037944B57460012888659
+  BlandAdm2AUS:
+    admin_name: Bland
+    iso3c: AUS
+    shapeID: 25037944B54195415642362
+  BlayneyAdm2AUS:
+    admin_name: Blayney
+    iso3c: AUS
+    shapeID: 25037944B69063028114827
+  BlueMountainsAdm2AUS:
+    admin_name: BlueMountains
+    iso3c: AUS
+    shapeID: 25037944B17662775697590
+  BoddingtonAdm2AUS:
+    admin_name: Boddington
+    iso3c: AUS
+    shapeID: 25037944B46034099777028
+  BoganAdm2AUS:
+    admin_name: Bogan
+    iso3c: AUS
+    shapeID: 25037944B35156214632360
+  BoroondaraAdm2AUS:
+    admin_name: Boroondara
+    iso3c: AUS
+    shapeID: 25037944B53457392645615
+  BouliaAdm2AUS:
+    admin_name: Boulia
+    iso3c: AUS
+    shapeID: 25037944B33105605540770
+  BourkeAdm2AUS:
+    admin_name: Bourke
+    iso3c: AUS
+    shapeID: 25037944B48990901921332
+  BoyupBrookAdm2AUS:
+    admin_name: BoyupBrook
+    iso3c: AUS
+    shapeID: 25037944B18504039205701
+  BreakO'DayAdm2AUS:
+    admin_name: BreakO'Day
+    iso3c: AUS
+    shapeID: 25037944B7589359748935
+  BrewarrinaAdm2AUS:
+    admin_name: Brewarrina
+    iso3c: AUS
+    shapeID: 25037944B28138275471855
+  Bridgetown-GreenbushesAdm2AUS:
+    admin_name: Bridgetown-Greenbushes
+    iso3c: AUS
+    shapeID: 25037944B12129239120455
+  BrightonAdm2AUS:
+    admin_name: Brighton
+    iso3c: AUS
+    shapeID: 25037944B48970679767962
+  BrimbankAdm2AUS:
+    admin_name: Brimbank
+    iso3c: AUS
+    shapeID: 25037944B23246777843178
+  BrisbaneAdm2AUS:
+    admin_name: Brisbane
+    iso3c: AUS
+    shapeID: 25037944B26487143019559
+  BrokenHillAdm2AUS:
+    admin_name: BrokenHill
+    iso3c: AUS
+    shapeID: 25037944B37547853464186
+  BrooktonAdm2AUS:
+    admin_name: Brookton
+    iso3c: AUS
+    shapeID: 25037944B61457505310320
+  BroomeAdm2AUS:
+    admin_name: Broome
+    iso3c: AUS
+    shapeID: 25037944B66848731281736
+  Broomehill-TambellupAdm2AUS:
+    admin_name: Broomehill-Tambellup
+    iso3c: AUS
+    shapeID: 25037944B2745809655475
+  BruceRockAdm2AUS:
+    admin_name: BruceRock
+    iso3c: AUS
+    shapeID: 25037944B90464299025642
+  BullooAdm2AUS:
+    admin_name: Bulloo
+    iso3c: AUS
+    shapeID: 25037944B79296808644120
+  BulokeAdm2AUS:
+    admin_name: Buloke
+    iso3c: AUS
+    shapeID: 25037944B21796127243371
+  BunburyAdm2AUS:
+    admin_name: Bunbury
+    iso3c: AUS
+    shapeID: 25037944B68706686187302
+  BundabergAdm2AUS:
+    admin_name: Bundaberg
+    iso3c: AUS
+    shapeID: 25037944B53664742087650
+  BurdekinAdm2AUS:
+    admin_name: Burdekin
+    iso3c: AUS
+    shapeID: 25037944B77283019061987
+  BurkeAdm2AUS:
+    admin_name: Burke
+    iso3c: AUS
+    shapeID: 25037944B14025919363288
+  BurnieAdm2AUS:
+    admin_name: Burnie
+    iso3c: AUS
+    shapeID: 25037944B77423054355343
+  BurnsideAdm2AUS:
+    admin_name: Burnside
+    iso3c: AUS
+    shapeID: 25037944B2025658304279
+  BurwoodAdm2AUS:
+    admin_name: Burwood
+    iso3c: AUS
+    shapeID: 25037944B28335850506337
+  BusseltonAdm2AUS:
+    admin_name: Busselton
+    iso3c: AUS
+    shapeID: 25037944B46798430259876
+  ByronAdm2AUS:
+    admin_name: Byron
+    iso3c: AUS
+    shapeID: 25037944B26997804636733
+  CabonneAdm2AUS:
+    admin_name: Cabonne
+    iso3c: AUS
+    shapeID: 25037944B28032354001178
+  CairnsAdm2AUS:
+    admin_name: Cairns
+    iso3c: AUS
+    shapeID: 25037944B34353436415485
+  CambridgeAdm2AUS:
+    admin_name: Cambridge
+    iso3c: AUS
+    shapeID: 25037944B66566842359979
+  CamdenAdm2AUS:
+    admin_name: Camden
+    iso3c: AUS
+    shapeID: 25037944B29927872698138
+  CampaspeAdm2AUS:
+    admin_name: Campaspe
+    iso3c: AUS
+    shapeID: 25037944B18187162419032
+  Campbelltown(NSW)Adm2AUS:
+    admin_name: Campbelltown(NSW)
+    iso3c: AUS
+    shapeID: 25037944B45643684874460
+  Campbelltown(SA)Adm2AUS:
+    admin_name: Campbelltown(SA)
+    iso3c: AUS
+    shapeID: 25037944B38277479897228
+  CanadaBayAdm2AUS:
+    admin_name: CanadaBay
+    iso3c: AUS
+    shapeID: 25037944B91720609998953
+  CanningAdm2AUS:
+    admin_name: Canning
+    iso3c: AUS
+    shapeID: 25037944B2496866637958
+  Canterbury-BankstownAdm2AUS:
+    admin_name: Canterbury-Bankstown
+    iso3c: AUS
+    shapeID: 25037944B74578967995842
+  CapelAdm2AUS:
+    admin_name: Capel
+    iso3c: AUS
+    shapeID: 25037944B63911738750692
+  CardiniaAdm2AUS:
+    admin_name: Cardinia
+    iso3c: AUS
+    shapeID: 25037944B56409622243598
+  CarnamahAdm2AUS:
+    admin_name: Carnamah
+    iso3c: AUS
+    shapeID: 25037944B79646276692029
+  CarnarvonAdm2AUS:
+    admin_name: Carnarvon
+    iso3c: AUS
+    shapeID: 25037944B73025640718230
+  CarpentariaAdm2AUS:
+    admin_name: Carpentaria
+    iso3c: AUS
+    shapeID: 25037944B42158127814454
+  CarrathoolAdm2AUS:
+    admin_name: Carrathool
+    iso3c: AUS
+    shapeID: 25037944B9270414762897
+  CaseyAdm2AUS:
+    admin_name: Casey
+    iso3c: AUS
+    shapeID: 25037944B44962811090312
+  CassowaryCoastAdm2AUS:
+    admin_name: CassowaryCoast
+    iso3c: AUS
+    shapeID: 25037944B15390433377666
+  CedunaAdm2AUS:
+    admin_name: Ceduna
+    iso3c: AUS
+    shapeID: 25037944B93610458864606
+  CentralCoast(NSW)Adm2AUS:
+    admin_name: CentralCoast(NSW)
+    iso3c: AUS
+    shapeID: 25037944B67888909972324
+  CentralCoast(Tas.)Adm2AUS:
+    admin_name: CentralCoast(Tas.)
+    iso3c: AUS
+    shapeID: 25037944B34694615904571
+  CentralDarlingAdm2AUS:
+    admin_name: CentralDarling
+    iso3c: AUS
+    shapeID: 25037944B50105666035452
+  CentralDesertAdm2AUS:
+    admin_name: CentralDesert
+    iso3c: AUS
+    shapeID: 25037944B81249572637263
+  CentralGoldfieldsAdm2AUS:
+    admin_name: CentralGoldfields
+    iso3c: AUS
+    shapeID: 25037944B6031326285684
+  CentralHighlands(Qld)Adm2AUS:
+    admin_name: CentralHighlands(Qld)
+    iso3c: AUS
+    shapeID: 25037944B88333903625107
+  CentralHighlands(Tas.)Adm2AUS:
+    admin_name: CentralHighlands(Tas.)
+    iso3c: AUS
+    shapeID: 25037944B68362175930798
+  CessnockAdm2AUS:
+    admin_name: Cessnock
+    iso3c: AUS
+    shapeID: 25037944B68071810644037
+  ChapmanValleyAdm2AUS:
+    admin_name: ChapmanValley
+    iso3c: AUS
+    shapeID: 25037944B4139819915576
+  CharlesSturtAdm2AUS:
+    admin_name: CharlesSturt
+    iso3c: AUS
+    shapeID: 25037944B64238988080325
+  ChartersTowersAdm2AUS:
+    admin_name: ChartersTowers
+    iso3c: AUS
+    shapeID: 25037944B10597176528862
+  CherbourgAdm2AUS:
+    admin_name: Cherbourg
+    iso3c: AUS
+    shapeID: 25037944B27259655099788
+  ChitteringAdm2AUS:
+    admin_name: Chittering
+    iso3c: AUS
+    shapeID: 25037944B8066772871928
+  ChristmasIslandAdm2AUS:
+    admin_name: ChristmasIsland
+    iso3c: AUS
+    shapeID: 25037944B52215188187413
+  CircularHeadAdm2AUS:
+    admin_name: CircularHead
+    iso3c: AUS
+    shapeID: 25037944B64479708811178
+  ClareandGilbertValleysAdm2AUS:
+    admin_name: ClareandGilbertValleys
+    iso3c: AUS
+    shapeID: 25037944B42711318671021
+  ClaremontAdm2AUS:
+    admin_name: Claremont
+    iso3c: AUS
+    shapeID: 25037944B95117000304737
+  ClarenceAdm2AUS:
+    admin_name: Clarence
+    iso3c: AUS
+    shapeID: 25037944B57151940201314
+  ClarenceValleyAdm2AUS:
+    admin_name: ClarenceValley
+    iso3c: AUS
+    shapeID: 25037944B11916296746250
+  CleveAdm2AUS:
+    admin_name: Cleve
+    iso3c: AUS
+    shapeID: 25037944B98257545318432
+  CloncurryAdm2AUS:
+    admin_name: Cloncurry
+    iso3c: AUS
+    shapeID: 25037944B6261933942264
+  CobarAdm2AUS:
+    admin_name: Cobar
+    iso3c: AUS
+    shapeID: 25037944B19938962930750
+  CockburnAdm2AUS:
+    admin_name: Cockburn
+    iso3c: AUS
+    shapeID: 25037944B92381930700505
+  CocosIslandsAdm2AUS:
+    admin_name: CocosIslands
+    iso3c: AUS
+    shapeID: 25037944B17338277063313
+  CoffsHarbourAdm2AUS:
+    admin_name: CoffsHarbour
+    iso3c: AUS
+    shapeID: 25037944B5888724581246
+  ColacOtwayAdm2AUS:
+    admin_name: ColacOtway
+    iso3c: AUS
+    shapeID: 25037944B58594911461534
+  CollieAdm2AUS:
+    admin_name: Collie
+    iso3c: AUS
+    shapeID: 25037944B67416490528235
+  CooberPedyAdm2AUS:
+    admin_name: CooberPedy
+    iso3c: AUS
+    shapeID: 25037944B54111637534658
+  CookAdm2AUS:
+    admin_name: Cook
+    iso3c: AUS
+    shapeID: 25037944B35622910690770
+  CoolamonAdm2AUS:
+    admin_name: Coolamon
+    iso3c: AUS
+    shapeID: 25037944B40233060499011
+  CoolgardieAdm2AUS:
+    admin_name: Coolgardie
+    iso3c: AUS
+    shapeID: 25037944B30748912552839
+  CoomalieAdm2AUS:
+    admin_name: Coomalie
+    iso3c: AUS
+    shapeID: 25037944B16759006021093
+  CoonambleAdm2AUS:
+    admin_name: Coonamble
+    iso3c: AUS
+    shapeID: 25037944B2591711256956
+  CoorongAdm2AUS:
+    admin_name: Coorong
+    iso3c: AUS
+    shapeID: 25037944B88075036338207
+  CoorowAdm2AUS:
+    admin_name: Coorow
+    iso3c: AUS
+    shapeID: 25037944B10831634124389
+  Cootamundra-GundagaiAdm2AUS:
+    admin_name: Cootamundra-Gundagai
+    iso3c: AUS
+    shapeID: 25037944B16131127641558
+  CopperCoastAdm2AUS:
+    admin_name: CopperCoast
+    iso3c: AUS
+    shapeID: 25037944B48925496758456
+  CorangamiteAdm2AUS:
+    admin_name: Corangamite
+    iso3c: AUS
+    shapeID: 25037944B62573329843514
+  CorriginAdm2AUS:
+    admin_name: Corrigin
+    iso3c: AUS
+    shapeID: 25037944B17845862979070
+  CottesloeAdm2AUS:
+    admin_name: Cottesloe
+    iso3c: AUS
+    shapeID: 25037944B28116798937362
+  CowraAdm2AUS:
+    admin_name: Cowra
+    iso3c: AUS
+    shapeID: 25037944B9471741195126
+  CranbrookAdm2AUS:
+    admin_name: Cranbrook
+    iso3c: AUS
+    shapeID: 25037944B20309273511019
+  CroydonAdm2AUS:
+    admin_name: Croydon
+    iso3c: AUS
+    shapeID: 25037944B33150906552836
+  CuballingAdm2AUS:
+    admin_name: Cuballing
+    iso3c: AUS
+    shapeID: 25037944B92991223821328
+  CueAdm2AUS:
+    admin_name: Cue
+    iso3c: AUS
+    shapeID: 25037944B79165272170091
+  CumberlandAdm2AUS:
+    admin_name: Cumberland
+    iso3c: AUS
+    shapeID: 25037944B74007778337807
+  CunderdinAdm2AUS:
+    admin_name: Cunderdin
+    iso3c: AUS
+    shapeID: 25037944B27165515239628
+  DalwallinuAdm2AUS:
+    admin_name: Dalwallinu
+    iso3c: AUS
+    shapeID: 25037944B57812572751517
+  DandaraganAdm2AUS:
+    admin_name: Dandaragan
+    iso3c: AUS
+    shapeID: 25037944B25957721357526
+  DardanupAdm2AUS:
+    admin_name: Dardanup
+    iso3c: AUS
+    shapeID: 25037944B56639802047851
+  DarebinAdm2AUS:
+    admin_name: Darebin
+    iso3c: AUS
+    shapeID: 25037944B70656955995006
+  DarwinAdm2AUS:
+    admin_name: Darwin
+    iso3c: AUS
+    shapeID: 25037944B80188408210929
+  DarwinWaterfrontPrecinctAdm2AUS:
+    admin_name: DarwinWaterfrontPrecinct
+    iso3c: AUS
+    shapeID: 25037944B77006542086789
+  DenmarkAdm2AUS:
+    admin_name: Denmark
+    iso3c: AUS
+    shapeID: 25037944B90574007914814
+  Derby-WestKimberleyAdm2AUS:
+    admin_name: Derby-WestKimberley
+    iso3c: AUS
+    shapeID: 25037944B76695994650709
+  DerwentValleyAdm2AUS:
+    admin_name: DerwentValley
+    iso3c: AUS
+    shapeID: 25037944B77062531378131
+  DevonportAdm2AUS:
+    admin_name: Devonport
+    iso3c: AUS
+    shapeID: 25037944B44278737612916
+  DiamantinaAdm2AUS:
+    admin_name: Diamantina
+    iso3c: AUS
+    shapeID: 25037944B3552129947749
+  Donnybrook-BalingupAdm2AUS:
+    admin_name: Donnybrook-Balingup
+    iso3c: AUS
+    shapeID: 25037944B94844051789605
+  DoomadgeeAdm2AUS:
+    admin_name: Doomadgee
+    iso3c: AUS
+    shapeID: 25037944B37268575436611
+  DorsetAdm2AUS:
+    admin_name: Dorset
+    iso3c: AUS
+    shapeID: 25037944B7753328322432
+  DouglasAdm2AUS:
+    admin_name: Douglas
+    iso3c: AUS
+    shapeID: 25037944B93362533996498
+  DowerinAdm2AUS:
+    admin_name: Dowerin
+    iso3c: AUS
+    shapeID: 25037944B58207809126055
+  DubboAdm2AUS:
+    admin_name: Dubbo
+    iso3c: AUS
+    shapeID: 25037944B69125352721348
+  DumbleyungAdm2AUS:
+    admin_name: Dumbleyung
+    iso3c: AUS
+    shapeID: 25037944B51137520992535
+  DundasAdm2AUS:
+    admin_name: Dundas
+    iso3c: AUS
+    shapeID: 25037944B97036074912579
+  DungogAdm2AUS:
+    admin_name: Dungog
+    iso3c: AUS
+    shapeID: 25037944B39236446518145
+  EastArnhemAdm2AUS:
+    admin_name: EastArnhem
+    iso3c: AUS
+    shapeID: 25037944B47305351718046
+  EastFremantleAdm2AUS:
+    admin_name: EastFremantle
+    iso3c: AUS
+    shapeID: 25037944B65528874584429
+  EastGippslandAdm2AUS:
+    admin_name: EastGippsland
+    iso3c: AUS
+    shapeID: 25037944B19226887893594
+  EastPilbaraAdm2AUS:
+    admin_name: EastPilbara
+    iso3c: AUS
+    shapeID: 25037944B14743311013482
+  EdwardRiverAdm2AUS:
+    admin_name: EdwardRiver
+    iso3c: AUS
+    shapeID: 25037944B16722839752740
+  EllistonAdm2AUS:
+    admin_name: Elliston
+    iso3c: AUS
+    shapeID: 25037944B88670568151833
+  EsperanceAdm2AUS:
+    admin_name: Esperance
+    iso3c: AUS
+    shapeID: 25037944B71614254655380
+  EtheridgeAdm2AUS:
+    admin_name: Etheridge
+    iso3c: AUS
+    shapeID: 25037944B75577230273205
+  EurobodallaAdm2AUS:
+    admin_name: Eurobodalla
+    iso3c: AUS
+    shapeID: 25037944B87455208948659
+  ExmouthAdm2AUS:
+    admin_name: Exmouth
+    iso3c: AUS
+    shapeID: 25037944B77099976714827
+  FairfieldAdm2AUS:
+    admin_name: Fairfield
+    iso3c: AUS
+    shapeID: 25037944B49484594449228
+  FederationAdm2AUS:
+    admin_name: Federation
+    iso3c: AUS
+    shapeID: 25037944B19057969948609
+  Flinders(Qld)Adm2AUS:
+    admin_name: Flinders(Qld)
+    iso3c: AUS
+    shapeID: 25037944B81088097646541
+  Flinders(Tas.)Adm2AUS:
+    admin_name: Flinders(Tas.)
+    iso3c: AUS
+    shapeID: 25037944B15550630319657
+  FlindersRangesAdm2AUS:
+    admin_name: FlindersRanges
+    iso3c: AUS
+    shapeID: 25037944B48952282466613
+  ForbesAdm2AUS:
+    admin_name: Forbes
+    iso3c: AUS
+    shapeID: 25037944B5205782179519
+  FranklinHarbourAdm2AUS:
+    admin_name: FranklinHarbour
+    iso3c: AUS
+    shapeID: 25037944B7803908509786
+  FrankstonAdm2AUS:
+    admin_name: Frankston
+    iso3c: AUS
+    shapeID: 25037944B48660808239770
+  FraserCoastAdm2AUS:
+    admin_name: FraserCoast
+    iso3c: AUS
+    shapeID: 25037944B97488266373518
+  FremantleAdm2AUS:
+    admin_name: Fremantle
+    iso3c: AUS
+    shapeID: 25037944B1530675969406
+  GannawarraAdm2AUS:
+    admin_name: Gannawarra
+    iso3c: AUS
+    shapeID: 25037944B50058704827939
+  GawlerAdm2AUS:
+    admin_name: Gawler
+    iso3c: AUS
+    shapeID: 25037944B32211395389119
+  GeorgesRiverAdm2AUS:
+    admin_name: GeorgesRiver
+    iso3c: AUS
+    shapeID: 25037944B98162521374910
+  GeorgeTownAdm2AUS:
+    admin_name: GeorgeTown
+    iso3c: AUS
+    shapeID: 25037944B54594589896924
+  GilgandraAdm2AUS:
+    admin_name: Gilgandra
+    iso3c: AUS
+    shapeID: 25037944B57868667695206
+  GinginAdm2AUS:
+    admin_name: Gingin
+    iso3c: AUS
+    shapeID: 25037944B53188273537939
+  GladstoneAdm2AUS:
+    admin_name: Gladstone
+    iso3c: AUS
+    shapeID: 25037944B21166714819483
+  Glamorgan-SpringBayAdm2AUS:
+    admin_name: Glamorgan-SpringBay
+    iso3c: AUS
+    shapeID: 25037944B36269977330964
+  GlenEiraAdm2AUS:
+    admin_name: GlenEira
+    iso3c: AUS
+    shapeID: 25037944B56718384218889
+  GlenelgAdm2AUS:
+    admin_name: Glenelg
+    iso3c: AUS
+    shapeID: 25037944B68247262621131
+  GlenInnesSevernAdm2AUS:
+    admin_name: GlenInnesSevern
+    iso3c: AUS
+    shapeID: 25037944B18987498065819
+  GlenorchyAdm2AUS:
+    admin_name: Glenorchy
+    iso3c: AUS
+    shapeID: 25037944B30082174620136
+  GnowangerupAdm2AUS:
+    admin_name: Gnowangerup
+    iso3c: AUS
+    shapeID: 25037944B50241547651602
+  GoldCoastAdm2AUS:
+    admin_name: GoldCoast
+    iso3c: AUS
+    shapeID: 25037944B76061046607907
+  GoldenPlainsAdm2AUS:
+    admin_name: GoldenPlains
+    iso3c: AUS
+    shapeID: 25037944B31372279830401
+  GoomallingAdm2AUS:
+    admin_name: Goomalling
+    iso3c: AUS
+    shapeID: 25037944B4799895230449
+  GoondiwindiAdm2AUS:
+    admin_name: Goondiwindi
+    iso3c: AUS
+    shapeID: 25037944B7624735907381
+  GosnellsAdm2AUS:
+    admin_name: Gosnells
+    iso3c: AUS
+    shapeID: 25037944B22326870513085
+  GoulburnMulwareeAdm2AUS:
+    admin_name: GoulburnMulwaree
+    iso3c: AUS
+    shapeID: 25037944B47240806764449
+  GoyderAdm2AUS:
+    admin_name: Goyder
+    iso3c: AUS
+    shapeID: 25037944B76718204715141
+  GrantAdm2AUS:
+    admin_name: Grant
+    iso3c: AUS
+    shapeID: 25037944B24842060506409
+  GreaterBendigoAdm2AUS:
+    admin_name: GreaterBendigo
+    iso3c: AUS
+    shapeID: 25037944B4073485904680
+  GreaterDandenongAdm2AUS:
+    admin_name: GreaterDandenong
+    iso3c: AUS
+    shapeID: 25037944B63075132073997
+  GreaterGeelongAdm2AUS:
+    admin_name: GreaterGeelong
+    iso3c: AUS
+    shapeID: 25037944B24812283687541
+  GreaterGeraldtonAdm2AUS:
+    admin_name: GreaterGeraldton
+    iso3c: AUS
+    shapeID: 25037944B20957215446412
+  GreaterHumeAdm2AUS:
+    admin_name: GreaterHume
+    iso3c: AUS
+    shapeID: 25037944B5872723036943
+  GreaterSheppartonAdm2AUS:
+    admin_name: GreaterShepparton
+    iso3c: AUS
+    shapeID: 25037944B15813892804113
+  GriffithAdm2AUS:
+    admin_name: Griffith
+    iso3c: AUS
+    shapeID: 25037944B92431338165184
+  GunnedahAdm2AUS:
+    admin_name: Gunnedah
+    iso3c: AUS
+    shapeID: 25037944B84147386402076
+  GwydirAdm2AUS:
+    admin_name: Gwydir
+    iso3c: AUS
+    shapeID: 25037944B33520850609711
+  GympieAdm2AUS:
+    admin_name: Gympie
+    iso3c: AUS
+    shapeID: 25037944B82919316631597
+  HallsCreekAdm2AUS:
+    admin_name: HallsCreek
+    iso3c: AUS
+    shapeID: 25037944B45139039746134
+  HarveyAdm2AUS:
+    admin_name: Harvey
+    iso3c: AUS
+    shapeID: 25037944B91209319772795
+  HawkesburyAdm2AUS:
+    admin_name: Hawkesbury
+    iso3c: AUS
+    shapeID: 25037944B69069268480762
+  HayAdm2AUS:
+    admin_name: Hay
+    iso3c: AUS
+    shapeID: 25037944B78300731498703
+  HepburnAdm2AUS:
+    admin_name: Hepburn
+    iso3c: AUS
+    shapeID: 25037944B22879671704108
+  HilltopsAdm2AUS:
+    admin_name: Hilltops
+    iso3c: AUS
+    shapeID: 25037944B92973083305975
+  HinchinbrookAdm2AUS:
+    admin_name: Hinchinbrook
+    iso3c: AUS
+    shapeID: 25037944B17459590153092
+  HindmarshAdm2AUS:
+    admin_name: Hindmarsh
+    iso3c: AUS
+    shapeID: 25037944B30828491037515
+  HobartAdm2AUS:
+    admin_name: Hobart
+    iso3c: AUS
+    shapeID: 25037944B41007206704884
+  HobsonsBayAdm2AUS:
+    admin_name: HobsonsBay
+    iso3c: AUS
+    shapeID: 25037944B90171787297249
+  HoldfastBayAdm2AUS:
+    admin_name: HoldfastBay
+    iso3c: AUS
+    shapeID: 25037944B39543590028882
+  HopeValeAdm2AUS:
+    admin_name: HopeVale
+    iso3c: AUS
+    shapeID: 25037944B25466476596436
+  HornsbyAdm2AUS:
+    admin_name: Hornsby
+    iso3c: AUS
+    shapeID: 25037944B15233431502175
+  HorshamAdm2AUS:
+    admin_name: Horsham
+    iso3c: AUS
+    shapeID: 25037944B92361056365890
+  HumeAdm2AUS:
+    admin_name: Hume
+    iso3c: AUS
+    shapeID: 25037944B10619545343998
+  HuntersHillAdm2AUS:
+    admin_name: HuntersHill
+    iso3c: AUS
+    shapeID: 25037944B34296859753223
+  HuonValleyAdm2AUS:
+    admin_name: HuonValley
+    iso3c: AUS
+    shapeID: 25037944B40163460524303
+  IndigoAdm2AUS:
+    admin_name: Indigo
+    iso3c: AUS
+    shapeID: 25037944B29539471298626
+  InnerWestAdm2AUS:
+    admin_name: InnerWest
+    iso3c: AUS
+    shapeID: 25037944B74627164094069
+  InverellAdm2AUS:
+    admin_name: Inverell
+    iso3c: AUS
+    shapeID: 25037944B83825062814696
+  IpswichAdm2AUS:
+    admin_name: Ipswich
+    iso3c: AUS
+    shapeID: 25037944B52648858671508
+  IrwinAdm2AUS:
+    admin_name: Irwin
+    iso3c: AUS
+    shapeID: 25037944B44454952814800
+  IsaacAdm2AUS:
+    admin_name: Isaac
+    iso3c: AUS
+    shapeID: 25037944B43894874276355
+  JerramungupAdm2AUS:
+    admin_name: Jerramungup
+    iso3c: AUS
+    shapeID: 25037944B23551861043119
+  JoondalupAdm2AUS:
+    admin_name: Joondalup
+    iso3c: AUS
+    shapeID: 25037944B62034941870385
+  JuneeAdm2AUS:
+    admin_name: Junee
+    iso3c: AUS
+    shapeID: 25037944B78152286064279
+  KalamundaAdm2AUS:
+    admin_name: Kalamunda
+    iso3c: AUS
+    shapeID: 25037944B74850979375149
+  Kalgoorlie-BoulderAdm2AUS:
+    admin_name: Kalgoorlie-Boulder
+    iso3c: AUS
+    shapeID: 25037944B94303413523862
+  KangarooIslandAdm2AUS:
+    admin_name: KangarooIsland
+    iso3c: AUS
+    shapeID: 25037944B21501160534360
+  KaroondaEastMurrayAdm2AUS:
+    admin_name: KaroondaEastMurray
+    iso3c: AUS
+    shapeID: 25037944B45596854652330
+  KarrathaAdm2AUS:
+    admin_name: Karratha
+    iso3c: AUS
+    shapeID: 25037944B65347816419811
+  KatanningAdm2AUS:
+    admin_name: Katanning
+    iso3c: AUS
+    shapeID: 25037944B94110641032660
+  KatherineAdm2AUS:
+    admin_name: Katherine
+    iso3c: AUS
+    shapeID: 25037944B85754900082747
+  KellerberrinAdm2AUS:
+    admin_name: Kellerberrin
+    iso3c: AUS
+    shapeID: 25037944B15582539719607
+  KempseyAdm2AUS:
+    admin_name: Kempsey
+    iso3c: AUS
+    shapeID: 25037944B28322742618410
+  KentAdm2AUS:
+    admin_name: Kent
+    iso3c: AUS
+    shapeID: 25037944B61750008694929
+  KentishAdm2AUS:
+    admin_name: Kentish
+    iso3c: AUS
+    shapeID: 25037944B6865905771327
+  KiamaAdm2AUS:
+    admin_name: Kiama
+    iso3c: AUS
+    shapeID: 25037944B41308394801248
+  KimbaAdm2AUS:
+    admin_name: Kimba
+    iso3c: AUS
+    shapeID: 25037944B98652038613248
+  KingboroughAdm2AUS:
+    admin_name: Kingborough
+    iso3c: AUS
+    shapeID: 25037944B97802920285494
+  KingIslandAdm2AUS:
+    admin_name: KingIsland
+    iso3c: AUS
+    shapeID: 25037944B96070195853153
+  Kingston(SA)Adm2AUS:
+    admin_name: Kingston(SA)
+    iso3c: AUS
+    shapeID: 25037944B29779306176871
+  Kingston(Vic.)Adm2AUS:
+    admin_name: Kingston(Vic.)
+    iso3c: AUS
+    shapeID: 25037944B58220940224419
+  KnoxAdm2AUS:
+    admin_name: Knox
+    iso3c: AUS
+    shapeID: 25037944B93608479315967
+  KojonupAdm2AUS:
+    admin_name: Kojonup
+    iso3c: AUS
+    shapeID: 25037944B18898865249121
+  KondininAdm2AUS:
+    admin_name: Kondinin
+    iso3c: AUS
+    shapeID: 25037944B57185706761007
+  KoordaAdm2AUS:
+    admin_name: Koorda
+    iso3c: AUS
+    shapeID: 25037944B75420720277181
+  KowanyamaAdm2AUS:
+    admin_name: Kowanyama
+    iso3c: AUS
+    shapeID: 25037944B1656499074776
+  Ku-ring-gaiAdm2AUS:
+    admin_name: Ku-ring-gai
+    iso3c: AUS
+    shapeID: 25037944B69948285060259
+  KulinAdm2AUS:
+    admin_name: Kulin
+    iso3c: AUS
+    shapeID: 25037944B90327134540623
+  KwinanaAdm2AUS:
+    admin_name: Kwinana
+    iso3c: AUS
+    shapeID: 25037944B63650800772080
+  KyogleAdm2AUS:
+    admin_name: Kyogle
+    iso3c: AUS
+    shapeID: 25037944B88748338867232
+  LachlanAdm2AUS:
+    admin_name: Lachlan
+    iso3c: AUS
+    shapeID: 25037944B93105500759341
+  LakeGraceAdm2AUS:
+    admin_name: LakeGrace
+    iso3c: AUS
+    shapeID: 25037944B30102722037957
+  LakeMacquarieAdm2AUS:
+    admin_name: LakeMacquarie
+    iso3c: AUS
+    shapeID: 25037944B40753124190116
+  LaneCoveAdm2AUS:
+    admin_name: LaneCove
+    iso3c: AUS
+    shapeID: 25037944B47816389357030
+  Latrobe(Tas.)Adm2AUS:
+    admin_name: Latrobe(Tas.)
+    iso3c: AUS
+    shapeID: 25037944B83996664476279
+  Latrobe(Vic.)Adm2AUS:
+    admin_name: Latrobe(Vic.)
+    iso3c: AUS
+    shapeID: 25037944B78078629114467
+  LauncestonAdm2AUS:
+    admin_name: Launceston
+    iso3c: AUS
+    shapeID: 25037944B58577428038391
+  LavertonAdm2AUS:
+    admin_name: Laverton
+    iso3c: AUS
+    shapeID: 25037944B80817080024086
+  LeetonAdm2AUS:
+    admin_name: Leeton
+    iso3c: AUS
+    shapeID: 25037944B57687505469181
+  LeonoraAdm2AUS:
+    admin_name: Leonora
+    iso3c: AUS
+    shapeID: 25037944B70988604830145
+  LightAdm2AUS:
+    admin_name: Light
+    iso3c: AUS
+    shapeID: 25037944B8971178176615
+  LismoreAdm2AUS:
+    admin_name: Lismore
+    iso3c: AUS
+    shapeID: 25037944B52457612567816
+  LitchfieldAdm2AUS:
+    admin_name: Litchfield
+    iso3c: AUS
+    shapeID: 25037944B87513158470011
+  LithgowAdm2AUS:
+    admin_name: Lithgow
+    iso3c: AUS
+    shapeID: 25037944B76556859341208
+  LiverpoolAdm2AUS:
+    admin_name: Liverpool
+    iso3c: AUS
+    shapeID: 25037944B81685478885528
+  LiverpoolPlainsAdm2AUS:
+    admin_name: LiverpoolPlains
+    iso3c: AUS
+    shapeID: 25037944B45289981242640
+  LivingstoneAdm2AUS:
+    admin_name: Livingstone
+    iso3c: AUS
+    shapeID: 25037944B91391383703186
+  LockhartAdm2AUS:
+    admin_name: Lockhart
+    iso3c: AUS
+    shapeID: 25037944B87274721652905
+  LockhartRiverAdm2AUS:
+    admin_name: LockhartRiver
+    iso3c: AUS
+    shapeID: 25037944B30530613092043
+  LockyerValleyAdm2AUS:
+    admin_name: LockyerValley
+    iso3c: AUS
+    shapeID: 25037944B69715811070998
+  LoddonAdm2AUS:
+    admin_name: Loddon
+    iso3c: AUS
+    shapeID: 25037944B85643834616367
+  LoganAdm2AUS:
+    admin_name: Logan
+    iso3c: AUS
+    shapeID: 25037944B44262560811074
+  LongreachAdm2AUS:
+    admin_name: Longreach
+    iso3c: AUS
+    shapeID: 25037944B74261156915694
+  LowerEyrePeninsulaAdm2AUS:
+    admin_name: LowerEyrePeninsula
+    iso3c: AUS
+    shapeID: 25037944B64122646541538
+  LoxtonWaikerieAdm2AUS:
+    admin_name: LoxtonWaikerie
+    iso3c: AUS
+    shapeID: 25037944B91781040485830
+  MacDonnellAdm2AUS:
+    admin_name: MacDonnell
+    iso3c: AUS
+    shapeID: 25037944B32264354424251
+  MacedonRangesAdm2AUS:
+    admin_name: MacedonRanges
+    iso3c: AUS
+    shapeID: 25037944B22463121274190
+  MackayAdm2AUS:
+    admin_name: Mackay
+    iso3c: AUS
+    shapeID: 25037944B90195923531970
+  MaitlandAdm2AUS:
+    admin_name: Maitland
+    iso3c: AUS
+    shapeID: 25037944B62637049608158
+  MandurahAdm2AUS:
+    admin_name: Mandurah
+    iso3c: AUS
+    shapeID: 25037944B7523913669113
+  ManjimupAdm2AUS:
+    admin_name: Manjimup
+    iso3c: AUS
+    shapeID: 25037944B58524535883846
+  ManninghamAdm2AUS:
+    admin_name: Manningham
+    iso3c: AUS
+    shapeID: 25037944B66764167138958
+  MansfieldAdm2AUS:
+    admin_name: Mansfield
+    iso3c: AUS
+    shapeID: 25037944B49622483033966
+  MapoonAdm2AUS:
+    admin_name: Mapoon
+    iso3c: AUS
+    shapeID: 25037944B16136262303417
+  MaralingaTjarutjaAdm2AUS:
+    admin_name: MaralingaTjarutja
+    iso3c: AUS
+    shapeID: 25037944B7661444660063
+  MaranoaAdm2AUS:
+    admin_name: Maranoa
+    iso3c: AUS
+    shapeID: 25037944B80919931419893
+  MareebaAdm2AUS:
+    admin_name: Mareeba
+    iso3c: AUS
+    shapeID: 25037944B55743987265110
+  MaribyrnongAdm2AUS:
+    admin_name: Maribyrnong
+    iso3c: AUS
+    shapeID: 25037944B56618295646151
+  MarionAdm2AUS:
+    admin_name: Marion
+    iso3c: AUS
+    shapeID: 25037944B19747941889194
+  MaroondahAdm2AUS:
+    admin_name: Maroondah
+    iso3c: AUS
+    shapeID: 25037944B31367314847764
+  McKinlayAdm2AUS:
+    admin_name: McKinlay
+    iso3c: AUS
+    shapeID: 25037944B31801469695154
+  MeanderValleyAdm2AUS:
+    admin_name: MeanderValley
+    iso3c: AUS
+    shapeID: 25037944B18161391001525
+  MeekatharraAdm2AUS:
+    admin_name: Meekatharra
+    iso3c: AUS
+    shapeID: 25037944B5193502600366
+  MelbourneAdm2AUS:
+    admin_name: Melbourne
+    iso3c: AUS
+    shapeID: 25037944B74771981745191
+  MeltonAdm2AUS:
+    admin_name: Melton
+    iso3c: AUS
+    shapeID: 25037944B20594454480773
+  MelvilleAdm2AUS:
+    admin_name: Melville
+    iso3c: AUS
+    shapeID: 25037944B89194743408802
+  MenziesAdm2AUS:
+    admin_name: Menzies
+    iso3c: AUS
+    shapeID: 25037944B67042441314136
+  MerredinAdm2AUS:
+    admin_name: Merredin
+    iso3c: AUS
+    shapeID: 25037944B40039133464345
+  Mid-CoastAdm2AUS:
+    admin_name: Mid-Coast
+    iso3c: AUS
+    shapeID: 25037944B78442704405462
+  Mid-WesternAdm2AUS:
+    admin_name: Mid-Western
+    iso3c: AUS
+    shapeID: 25037944B76580037794190
+  MidMurrayAdm2AUS:
+    admin_name: MidMurray
+    iso3c: AUS
+    shapeID: 25037944B98973302778113
+  MilduraAdm2AUS:
+    admin_name: Mildura
+    iso3c: AUS
+    shapeID: 25037944B71441363107667
+  MingenewAdm2AUS:
+    admin_name: Mingenew
+    iso3c: AUS
+    shapeID: 25037944B46578815208654
+  MitchamAdm2AUS:
+    admin_name: Mitcham
+    iso3c: AUS
+    shapeID: 25037944B96315201731576
+  MitchellAdm2AUS:
+    admin_name: Mitchell
+    iso3c: AUS
+    shapeID: 25037944B63787272509894
+  MoiraAdm2AUS:
+    admin_name: Moira
+    iso3c: AUS
+    shapeID: 25037944B99849949120083
+  MonashAdm2AUS:
+    admin_name: Monash
+    iso3c: AUS
+    shapeID: 25037944B65284638011134
+  MooneeValleyAdm2AUS:
+    admin_name: MooneeValley
+    iso3c: AUS
+    shapeID: 25037944B9436355571028
+  MooraAdm2AUS:
+    admin_name: Moora
+    iso3c: AUS
+    shapeID: 25037944B54845573421137
+  MooraboolAdm2AUS:
+    admin_name: Moorabool
+    iso3c: AUS
+    shapeID: 25037944B6902911043133
+  MorawaAdm2AUS:
+    admin_name: Morawa
+    iso3c: AUS
+    shapeID: 25037944B80693108839344
+  MoreePlainsAdm2AUS:
+    admin_name: MoreePlains
+    iso3c: AUS
+    shapeID: 25037944B16767086981220
+  MorelandAdm2AUS:
+    admin_name: Moreland
+    iso3c: AUS
+    shapeID: 25037944B23324068897437
+  MoretonBayAdm2AUS:
+    admin_name: MoretonBay
+    iso3c: AUS
+    shapeID: 25037944B19400187923346
+  MorningtonAdm2AUS:
+    admin_name: Mornington
+    iso3c: AUS
+    shapeID: 25037944B95382354250521
+  MorningtonPeninsulaAdm2AUS:
+    admin_name: MorningtonPeninsula
+    iso3c: AUS
+    shapeID: 25037944B38646980032426
+  MosmanAdm2AUS:
+    admin_name: Mosman
+    iso3c: AUS
+    shapeID: 25037944B9039648932577
+  MosmanParkAdm2AUS:
+    admin_name: MosmanPark
+    iso3c: AUS
+    shapeID: 25037944B67942507441975
+  MountAlexanderAdm2AUS:
+    admin_name: MountAlexander
+    iso3c: AUS
+    shapeID: 25037944B33361376852028
+  MountBarkerAdm2AUS:
+    admin_name: MountBarker
+    iso3c: AUS
+    shapeID: 25037944B83528217861906
+  MountGambierAdm2AUS:
+    admin_name: MountGambier
+    iso3c: AUS
+    shapeID: 25037944B55090185866802
+  MountIsaAdm2AUS:
+    admin_name: MountIsa
+    iso3c: AUS
+    shapeID: 25037944B13114344079677
+  MountMagnetAdm2AUS:
+    admin_name: MountMagnet
+    iso3c: AUS
+    shapeID: 25037944B8385607479474
+  MountMarshallAdm2AUS:
+    admin_name: MountMarshall
+    iso3c: AUS
+    shapeID: 25037944B9675874244357
+  MountRemarkableAdm2AUS:
+    admin_name: MountRemarkable
+    iso3c: AUS
+    shapeID: 25037944B97955965068321
+  MoyneAdm2AUS:
+    admin_name: Moyne
+    iso3c: AUS
+    shapeID: 25037944B46844675944162
+  MukinbudinAdm2AUS:
+    admin_name: Mukinbudin
+    iso3c: AUS
+    shapeID: 25037944B31087465274776
+  MundaringAdm2AUS:
+    admin_name: Mundaring
+    iso3c: AUS
+    shapeID: 25037944B64529810539086
+  MurchisonAdm2AUS:
+    admin_name: Murchison
+    iso3c: AUS
+    shapeID: 25037944B75354234976201
+  MurrayAdm2AUS:
+    admin_name: Murray
+    iso3c: AUS
+    shapeID: 25037944B25972327200509
+  MurrayBridgeAdm2AUS:
+    admin_name: MurrayBridge
+    iso3c: AUS
+    shapeID: 25037944B7394804053319
+  MurrayRiverAdm2AUS:
+    admin_name: MurrayRiver
+    iso3c: AUS
+    shapeID: 25037944B78114295205688
+  MurrindindiAdm2AUS:
+    admin_name: Murrindindi
+    iso3c: AUS
+    shapeID: 25037944B67422185849488
+  MurrumbidgeeAdm2AUS:
+    admin_name: Murrumbidgee
+    iso3c: AUS
+    shapeID: 25037944B53831779764710
+  MurwehAdm2AUS:
+    admin_name: Murweh
+    iso3c: AUS
+    shapeID: 25037944B20792422717007
+  MuswellbrookAdm2AUS:
+    admin_name: Muswellbrook
+    iso3c: AUS
+    shapeID: 25037944B88537048948574
+  NambuccaValleyAdm2AUS:
+    admin_name: NambuccaValley
+    iso3c: AUS
+    shapeID: 25037944B440592647056
+  NannupAdm2AUS:
+    admin_name: Nannup
+    iso3c: AUS
+    shapeID: 25037944B96867361654532
+  NapranumAdm2AUS:
+    admin_name: Napranum
+    iso3c: AUS
+    shapeID: 25037944B72297710108089
+  NaracoorteLucindaleAdm2AUS:
+    admin_name: NaracoorteLucindale
+    iso3c: AUS
+    shapeID: 25037944B94364154888431
+  NarembeenAdm2AUS:
+    admin_name: Narembeen
+    iso3c: AUS
+    shapeID: 25037944B21858000962433
+  NarrabriAdm2AUS:
+    admin_name: Narrabri
+    iso3c: AUS
+    shapeID: 25037944B38691483406712
+  NarranderaAdm2AUS:
+    admin_name: Narrandera
+    iso3c: AUS
+    shapeID: 25037944B16840847352668
+  NarroginAdm2AUS:
+    admin_name: Narrogin
+    iso3c: AUS
+    shapeID: 25037944B27145137337674
+  NarromineAdm2AUS:
+    admin_name: Narromine
+    iso3c: AUS
+    shapeID: 25037944B72215071742446
+  NedlandsAdm2AUS:
+    admin_name: Nedlands
+    iso3c: AUS
+    shapeID: 25037944B80247248268591
+  NewcastleAdm2AUS:
+    admin_name: Newcastle
+    iso3c: AUS
+    shapeID: 25037944B69528063359333
+  NewSouthWalesAdm1AUS:
+    admin_name: NewSouthWales
+    iso3c: AUS
+    shapeID: 82085004B21656044714531
+  NgaanyatjarrakuAdm2AUS:
+    admin_name: Ngaanyatjarraku
+    iso3c: AUS
+    shapeID: 25037944B86885707589826
+  NillumbikAdm2AUS:
+    admin_name: Nillumbik
+    iso3c: AUS
+    shapeID: 25037944B37493883083174
+  NoosaAdm2AUS:
+    admin_name: Noosa
+    iso3c: AUS
+    shapeID: 25037944B90533392045393
+  NorthamAdm2AUS:
+    admin_name: Northam
+    iso3c: AUS
+    shapeID: 25037944B49536287471778
+  NorthamptonAdm2AUS:
+    admin_name: Northampton
+    iso3c: AUS
+    shapeID: 25037944B43886071852017
+  NorthBurnettAdm2AUS:
+    admin_name: NorthBurnett
+    iso3c: AUS
+    shapeID: 25037944B97560087028013
+  NorthernAreasAdm2AUS:
+    admin_name: NorthernAreas
+    iso3c: AUS
+    shapeID: 25037944B38569575724277
+  NorthernBeachesAdm2AUS:
+    admin_name: NorthernBeaches
+    iso3c: AUS
+    shapeID: 25037944B81755283628627
+  NorthernGrampiansAdm2AUS:
+    admin_name: NorthernGrampians
+    iso3c: AUS
+    shapeID: 25037944B95428670663886
+  NorthernMidlandsAdm2AUS:
+    admin_name: NorthernMidlands
+    iso3c: AUS
+    shapeID: 25037944B94548184912338
+  NorthernPeninsulaAreaAdm2AUS:
+    admin_name: NorthernPeninsulaArea
+    iso3c: AUS
+    shapeID: 25037944B13244512579669
+  NorthernTerritoryAdm1AUS:
+    admin_name: NorthernTerritory
+    iso3c: AUS
+    shapeID: 82085004B70364588595557
+  NorthSydneyAdm2AUS:
+    admin_name: NorthSydney
+    iso3c: AUS
+    shapeID: 25037944B70017345976481
+  NorwoodPaynehamandStPetersAdm2AUS:
+    admin_name: NorwoodPaynehamandStPeters
+    iso3c: AUS
+    shapeID: 25037944B5908676794620
+  NungarinAdm2AUS:
+    admin_name: Nungarin
+    iso3c: AUS
+    shapeID: 25037944B34284730981486
+  OberonAdm2AUS:
+    admin_name: Oberon
+    iso3c: AUS
+    shapeID: 25037944B83786043255817
+  OnkaparingaAdm2AUS:
+    admin_name: Onkaparinga
+    iso3c: AUS
+    shapeID: 25037944B62747843124796
+  OrangeAdm2AUS:
+    admin_name: Orange
+    iso3c: AUS
+    shapeID: 25037944B16030223882467
+  OrrorooCarrietonAdm2AUS:
+    admin_name: OrrorooCarrieton
+    iso3c: AUS
+    shapeID: 25037944B41363903956940
+  OtherTerritoriesAdm1AUS:
+    admin_name: OtherTerritories
+    iso3c: AUS
+    shapeID: 82085004B12086860067424
+  PalmerstonAdm2AUS:
+    admin_name: Palmerston
+    iso3c: AUS
+    shapeID: 25037944B38638552543628
+  PalmIslandAdm2AUS:
+    admin_name: PalmIsland
+    iso3c: AUS
+    shapeID: 25037944B36323732446250
+  ParkesAdm2AUS:
+    admin_name: Parkes
+    iso3c: AUS
+    shapeID: 25037944B17305446148962
+  ParooAdm2AUS:
+    admin_name: Paroo
+    iso3c: AUS
+    shapeID: 25037944B13506382949724
+  ParramattaAdm2AUS:
+    admin_name: Parramatta
+    iso3c: AUS
+    shapeID: 25037944B24816754384688
+  PenrithAdm2AUS:
+    admin_name: Penrith
+    iso3c: AUS
+    shapeID: 25037944B77698637071191
+  PeppermintGroveAdm2AUS:
+    admin_name: PeppermintGrove
+    iso3c: AUS
+    shapeID: 25037944B88199537818715
+  PerenjoriAdm2AUS:
+    admin_name: Perenjori
+    iso3c: AUS
+    shapeID: 25037944B82153403198712
+  PerthAdm2AUS:
+    admin_name: Perth
+    iso3c: AUS
+    shapeID: 25037944B64781294564969
+  PeterboroughAdm2AUS:
+    admin_name: Peterborough
+    iso3c: AUS
+    shapeID: 25037944B63042885451223
+  PingellyAdm2AUS:
+    admin_name: Pingelly
+    iso3c: AUS
+    shapeID: 25037944B83412079426782
+  PlantagenetAdm2AUS:
+    admin_name: Plantagenet
+    iso3c: AUS
+    shapeID: 25037944B3535860838783
+  PlayfordAdm2AUS:
+    admin_name: Playford
+    iso3c: AUS
+    shapeID: 25037944B16955456805205
+  PormpuraawAdm2AUS:
+    admin_name: Pormpuraaw
+    iso3c: AUS
+    shapeID: 25037944B5517287997374
+  PortAdelaideEnfieldAdm2AUS:
+    admin_name: PortAdelaideEnfield
+    iso3c: AUS
+    shapeID: 25037944B47979939025085
+  PortAugustaAdm2AUS:
+    admin_name: PortAugusta
+    iso3c: AUS
+    shapeID: 25037944B82439387593982
+  PortHedlandAdm2AUS:
+    admin_name: PortHedland
+    iso3c: AUS
+    shapeID: 25037944B61185375235969
+  PortLincolnAdm2AUS:
+    admin_name: PortLincoln
+    iso3c: AUS
+    shapeID: 25037944B26241388024664
+  PortMacquarie-HastingsAdm2AUS:
+    admin_name: PortMacquarie-Hastings
+    iso3c: AUS
+    shapeID: 25037944B90970778714828
+  PortPhillipAdm2AUS:
+    admin_name: PortPhillip
+    iso3c: AUS
+    shapeID: 25037944B19605677345756
+  PortPirieAdm2AUS:
+    admin_name: PortPirie
+    iso3c: AUS
+    shapeID: 25037944B53650156153507
+  PortStephensAdm2AUS:
+    admin_name: PortStephens
+    iso3c: AUS
+    shapeID: 25037944B52772221720298
+  ProspectAdm2AUS:
+    admin_name: Prospect
+    iso3c: AUS
+    shapeID: 25037944B26135803940358
+  PyreneesAdm2AUS:
+    admin_name: Pyrenees
+    iso3c: AUS
+    shapeID: 25037944B34836506967909
+  QuairadingAdm2AUS:
+    admin_name: Quairading
+    iso3c: AUS
+    shapeID: 25037944B17943761568072
+  Queanbeyan-PalerangAdm2AUS:
+    admin_name: Queanbeyan-Palerang
+    iso3c: AUS
+    shapeID: 25037944B93129192801754
+  QueenscliffeAdm2AUS:
+    admin_name: Queenscliffe
+    iso3c: AUS
+    shapeID: 25037944B23801424172448
+  QueenslandAdm1AUS:
+    admin_name: Queensland
+    iso3c: AUS
+    shapeID: 82085004B13995298844162
+  QuilpieAdm2AUS:
+    admin_name: Quilpie
+    iso3c: AUS
+    shapeID: 25037944B55337411871300
+  RandwickAdm2AUS:
+    admin_name: Randwick
+    iso3c: AUS
+    shapeID: 25037944B39404082196295
+  RavensthorpeAdm2AUS:
+    admin_name: Ravensthorpe
+    iso3c: AUS
+    shapeID: 25037944B73720065991414
+  RedlandAdm2AUS:
+    admin_name: Redland
+    iso3c: AUS
+    shapeID: 25037944B35450059513963
+  RenmarkParingaAdm2AUS:
+    admin_name: RenmarkParinga
+    iso3c: AUS
+    shapeID: 25037944B48526955129661
+  RichmondAdm2AUS:
+    admin_name: Richmond
+    iso3c: AUS
+    shapeID: 25037944B62712341328684
+  RichmondValleyAdm2AUS:
+    admin_name: RichmondValley
+    iso3c: AUS
+    shapeID: 25037944B67552272844427
+  RobeAdm2AUS:
+    admin_name: Robe
+    iso3c: AUS
+    shapeID: 25037944B13028513234480
+  RockhamptonAdm2AUS:
+    admin_name: Rockhampton
+    iso3c: AUS
+    shapeID: 25037944B96392818490355
+  RockinghamAdm2AUS:
+    admin_name: Rockingham
+    iso3c: AUS
+    shapeID: 25037944B36908504302594
+  RoperGulfAdm2AUS:
+    admin_name: RoperGulf
+    iso3c: AUS
+    shapeID: 25037944B80645640934935
+  RoxbyDownsAdm2AUS:
+    admin_name: RoxbyDowns
+    iso3c: AUS
+    shapeID: 25037944B85106510810268
+  RydeAdm2AUS:
+    admin_name: Ryde
+    iso3c: AUS
+    shapeID: 25037944B17324059091414
+  SalisburyAdm2AUS:
+    admin_name: Salisbury
+    iso3c: AUS
+    shapeID: 25037944B95616539853674
+  SandstoneAdm2AUS:
+    admin_name: Sandstone
+    iso3c: AUS
+    shapeID: 25037944B59235958721533
+  ScenicRimAdm2AUS:
+    admin_name: ScenicRim
+    iso3c: AUS
+    shapeID: 25037944B99333709196563
+  Serpentine-JarrahdaleAdm2AUS:
+    admin_name: Serpentine-Jarrahdale
+    iso3c: AUS
+    shapeID: 25037944B73163589668910
+  SharkBayAdm2AUS:
+    admin_name: SharkBay
+    iso3c: AUS
+    shapeID: 25037944B60313460254351
+  ShellharbourAdm2AUS:
+    admin_name: Shellharbour
+    iso3c: AUS
+    shapeID: 25037944B55724853403969
+  ShoalhavenAdm2AUS:
+    admin_name: Shoalhaven
+    iso3c: AUS
+    shapeID: 25037944B24149747688554
+  SingletonAdm2AUS:
+    admin_name: Singleton
+    iso3c: AUS
+    shapeID: 25037944B56685676634678
+  SnowyMonaroAdm2AUS:
+    admin_name: SnowyMonaro
+    iso3c: AUS
+    shapeID: 25037944B85069153423068
+  SnowyValleysAdm2AUS:
+    admin_name: SnowyValleys
+    iso3c: AUS
+    shapeID: 25037944B29882714445476
+  SomersetAdm2AUS:
+    admin_name: Somerset
+    iso3c: AUS
+    shapeID: 25037944B77651628616749
+  SorellAdm2AUS:
+    admin_name: Sorell
+    iso3c: AUS
+    shapeID: 25037944B32706868282963
+  SouthAustraliaAdm1AUS:
+    admin_name: SouthAustralia
+    iso3c: AUS
+    shapeID: 82085004B14973555098025
+  SouthBurnettAdm2AUS:
+    admin_name: SouthBurnett
+    iso3c: AUS
+    shapeID: 25037944B91914901383533
+  SouthernDownsAdm2AUS:
+    admin_name: SouthernDowns
+    iso3c: AUS
+    shapeID: 25037944B10938266492584
+  SouthernGrampiansAdm2AUS:
+    admin_name: SouthernGrampians
+    iso3c: AUS
+    shapeID: 25037944B54836880156068
+  SouthernMalleeAdm2AUS:
+    admin_name: SouthernMallee
+    iso3c: AUS
+    shapeID: 25037944B47874528632088
+  SouthernMidlandsAdm2AUS:
+    admin_name: SouthernMidlands
+    iso3c: AUS
+    shapeID: 25037944B17356947881143
+  SouthGippslandAdm2AUS:
+    admin_name: SouthGippsland
+    iso3c: AUS
+    shapeID: 25037944B76361191538419
+  SouthPerthAdm2AUS:
+    admin_name: SouthPerth
+    iso3c: AUS
+    shapeID: 25037944B33468423524116
+  StirlingAdm2AUS:
+    admin_name: Stirling
+    iso3c: AUS
+    shapeID: 25037944B32793785148952
+  StonningtonAdm2AUS:
+    admin_name: Stonnington
+    iso3c: AUS
+    shapeID: 25037944B5658593283329
+  StrathbogieAdm2AUS:
+    admin_name: Strathbogie
+    iso3c: AUS
+    shapeID: 25037944B88873459559234
+  StrathfieldAdm2AUS:
+    admin_name: Strathfield
+    iso3c: AUS
+    shapeID: 25037944B1137671739470
+  StreakyBayAdm2AUS:
+    admin_name: StreakyBay
+    iso3c: AUS
+    shapeID: 25037944B67387382130548
+  SubiacoAdm2AUS:
+    admin_name: Subiaco
+    iso3c: AUS
+    shapeID: 25037944B24614013246759
+  SunshineCoastAdm2AUS:
+    admin_name: SunshineCoast
+    iso3c: AUS
+    shapeID: 25037944B96271376045080
+  SurfCoastAdm2AUS:
+    admin_name: SurfCoast
+    iso3c: AUS
+    shapeID: 25037944B61768543919434
+  SutherlandAdm2AUS:
+    admin_name: Sutherland
+    iso3c: AUS
+    shapeID: 25037944B61744382554137
+  SwanAdm2AUS:
+    admin_name: Swan
+    iso3c: AUS
+    shapeID: 25037944B80977400134390
+  SwanHillAdm2AUS:
+    admin_name: SwanHill
+    iso3c: AUS
+    shapeID: 25037944B58383707208646
+  SydneyAdm2AUS:
+    admin_name: Sydney
+    iso3c: AUS
+    shapeID: 25037944B98854570895907
+  TablelandsAdm2AUS:
+    admin_name: Tablelands
+    iso3c: AUS
+    shapeID: 25037944B5935933559707
+  TamminAdm2AUS:
+    admin_name: Tammin
+    iso3c: AUS
+    shapeID: 25037944B7078020583356
+  TamworthAdm2AUS:
+    admin_name: Tamworth
+    iso3c: AUS
+    shapeID: 25037944B76870107962046
+  TasmanAdm2AUS:
+    admin_name: Tasman
+    iso3c: AUS
+    shapeID: 25037944B3196758006224
+  TasmaniaAdm1AUS:
+    admin_name: Tasmania
+    iso3c: AUS
+    shapeID: 82085004B70793016411369
+  TatiaraAdm2AUS:
+    admin_name: Tatiara
+    iso3c: AUS
+    shapeID: 25037944B1672021896244
+  TeaTreeGullyAdm2AUS:
+    admin_name: TeaTreeGully
+    iso3c: AUS
+    shapeID: 25037944B97586454911655
+  TemoraAdm2AUS:
+    admin_name: Temora
+    iso3c: AUS
+    shapeID: 25037944B57482962875901
+  TenterfieldAdm2AUS:
+    admin_name: Tenterfield
+    iso3c: AUS
+    shapeID: 25037944B39208221478861
+  TheHillsAdm2AUS:
+    admin_name: TheHills
+    iso3c: AUS
+    shapeID: 25037944B61801605957585
+  ThreeSpringsAdm2AUS:
+    admin_name: ThreeSprings
+    iso3c: AUS
+    shapeID: 25037944B87416382826718
+  TiwiIslandsAdm2AUS:
+    admin_name: TiwiIslands
+    iso3c: AUS
+    shapeID: 25037944B62285809064209
+  ToodyayAdm2AUS:
+    admin_name: Toodyay
+    iso3c: AUS
+    shapeID: 25037944B97460463632510
+  ToowoombaAdm2AUS:
+    admin_name: Toowoomba
+    iso3c: AUS
+    shapeID: 25037944B99590448240631
+  TorresAdm2AUS:
+    admin_name: Torres
+    iso3c: AUS
+    shapeID: 25037944B43303794043608
+  TorresStraitIslandAdm2AUS:
+    admin_name: TorresStraitIsland
+    iso3c: AUS
+    shapeID: 25037944B93306496735140
+  TownsvilleAdm2AUS:
+    admin_name: Townsville
+    iso3c: AUS
+    shapeID: 25037944B93557893838922
+  TowongAdm2AUS:
+    admin_name: Towong
+    iso3c: AUS
+    shapeID: 25037944B17734063205402
+  TrayningAdm2AUS:
+    admin_name: Trayning
+    iso3c: AUS
+    shapeID: 25037944B98291984831496
+  TumbyBayAdm2AUS:
+    admin_name: TumbyBay
+    iso3c: AUS
+    shapeID: 25037944B80191544000233
+  TweedAdm2AUS:
+    admin_name: Tweed
+    iso3c: AUS
+    shapeID: 25037944B14398404968325
+  Unincorp.OtherTerritoriesAdm2AUS:
+    admin_name: Unincorp.OtherTerritories
+    iso3c: AUS
+    shapeID: 25037944B57060386363407
+  UnincorporatedACTAdm2AUS:
+    admin_name: UnincorporatedACT
+    iso3c: AUS
+    shapeID: 25037944B15172244637897
+  UnincorporatedNSWAdm2AUS:
+    admin_name: UnincorporatedNSW
+    iso3c: AUS
+    shapeID: 25037944B59579883363479
+  UnincorporatedNTAdm2AUS:
+    admin_name: UnincorporatedNT
+    iso3c: AUS
+    shapeID: 25037944B66789818675827
+  UnincorporatedSAAdm2AUS:
+    admin_name: UnincorporatedSA
+    iso3c: AUS
+    shapeID: 25037944B19571193858150
+  UnincorporatedVicAdm2AUS:
+    admin_name: UnincorporatedVic
+    iso3c: AUS
+    shapeID: 25037944B89965825243629
+  UnleyAdm2AUS:
+    admin_name: Unley
+    iso3c: AUS
+    shapeID: 25037944B81627065680382
+  UpperGascoyneAdm2AUS:
+    admin_name: UpperGascoyne
+    iso3c: AUS
+    shapeID: 25037944B28786779473224
+  UpperHunterAdm2AUS:
+    admin_name: UpperHunter
+    iso3c: AUS
+    shapeID: 25037944B30189264259012
+  UpperLachlanAdm2AUS:
+    admin_name: UpperLachlan
+    iso3c: AUS
+    shapeID: 25037944B54834386088268
+  UrallaAdm2AUS:
+    admin_name: Uralla
+    iso3c: AUS
+    shapeID: 25037944B63393422883772
+  VictorHarborAdm2AUS:
+    admin_name: VictorHarbor
+    iso3c: AUS
+    shapeID: 25037944B26153550017793
+  VictoriaAdm1AUS:
+    admin_name: Victoria
+    iso3c: AUS
+    shapeID: 82085004B60194602145168
+  VictoriaDalyAdm2AUS:
+    admin_name: VictoriaDaly
+    iso3c: AUS
+    shapeID: 25037944B16072859725230
+  VictoriaParkAdm2AUS:
+    admin_name: VictoriaPark
+    iso3c: AUS
+    shapeID: 25037944B59054376052464
+  VictoriaPlainsAdm2AUS:
+    admin_name: VictoriaPlains
+    iso3c: AUS
+    shapeID: 25037944B36470505967652
+  VincentAdm2AUS:
+    admin_name: Vincent
+    iso3c: AUS
+    shapeID: 25037944B82328591625586
+  WagaitAdm2AUS:
+    admin_name: Wagait
+    iso3c: AUS
+    shapeID: 25037944B50083435969321
+  WaggaWaggaAdm2AUS:
+    admin_name: WaggaWagga
+    iso3c: AUS
+    shapeID: 25037944B76630671058420
+  WaginAdm2AUS:
+    admin_name: Wagin
+    iso3c: AUS
+    shapeID: 25037944B63512656480867
+  WakefieldAdm2AUS:
+    admin_name: Wakefield
+    iso3c: AUS
+    shapeID: 25037944B28741170589797
+  WalchaAdm2AUS:
+    admin_name: Walcha
+    iso3c: AUS
+    shapeID: 25037944B3824833794033
+  WalgettAdm2AUS:
+    admin_name: Walgett
+    iso3c: AUS
+    shapeID: 25037944B85732743205299
+  WalkervilleAdm2AUS:
+    admin_name: Walkerville
+    iso3c: AUS
+    shapeID: 25037944B33474506304148
+  WanderingAdm2AUS:
+    admin_name: Wandering
+    iso3c: AUS
+    shapeID: 25037944B32288278809201
+  WangarattaAdm2AUS:
+    admin_name: Wangaratta
+    iso3c: AUS
+    shapeID: 25037944B46502413321481
+  WannerooAdm2AUS:
+    admin_name: Wanneroo
+    iso3c: AUS
+    shapeID: 25037944B9363307042095
+  Waratah-WynyardAdm2AUS:
+    admin_name: Waratah-Wynyard
+    iso3c: AUS
+    shapeID: 25037944B19706345556765
+  WaroonaAdm2AUS:
+    admin_name: Waroona
+    iso3c: AUS
+    shapeID: 25037944B30802850607008
+  WarrenAdm2AUS:
+    admin_name: Warren
+    iso3c: AUS
+    shapeID: 25037944B92926148840872
+  WarrnamboolAdm2AUS:
+    admin_name: Warrnambool
+    iso3c: AUS
+    shapeID: 25037944B46822546280655
+  WarrumbungleAdm2AUS:
+    admin_name: Warrumbungle
+    iso3c: AUS
+    shapeID: 25037944B19485668266020
+  WattleRangeAdm2AUS:
+    admin_name: WattleRange
+    iso3c: AUS
+    shapeID: 25037944B1081142143908
+  WaverleyAdm2AUS:
+    admin_name: Waverley
+    iso3c: AUS
+    shapeID: 25037944B61039645174942
+  WeddinAdm2AUS:
+    admin_name: Weddin
+    iso3c: AUS
+    shapeID: 25037944B42386149342522
+  WeipaAdm2AUS:
+    admin_name: Weipa
+    iso3c: AUS
+    shapeID: 25037944B24701814738895
+  WellingtonAdm2AUS:
+    admin_name: Wellington
+    iso3c: AUS
+    shapeID: 25037944B69891051906105
+  WentworthAdm2AUS:
+    admin_name: Wentworth
+    iso3c: AUS
+    shapeID: 25037944B48452017149194
+  WestArnhemAdm2AUS:
+    admin_name: WestArnhem
+    iso3c: AUS
+    shapeID: 25037944B28082311396997
+  WestArthurAdm2AUS:
+    admin_name: WestArthur
+    iso3c: AUS
+    shapeID: 25037944B89790845522775
+  WestCoastAdm2AUS:
+    admin_name: WestCoast
+    iso3c: AUS
+    shapeID: 25037944B97850876136128
+  WestDalyAdm2AUS:
+    admin_name: WestDaly
+    iso3c: AUS
+    shapeID: 25037944B73531494726593
+  WesternAustraliaAdm1AUS:
+    admin_name: WesternAustralia
+    iso3c: AUS
+    shapeID: 82085004B93533858076668
+  WesternDownsAdm2AUS:
+    admin_name: WesternDowns
+    iso3c: AUS
+    shapeID: 25037944B15079852191884
+  WestoniaAdm2AUS:
+    admin_name: Westonia
+    iso3c: AUS
+    shapeID: 25037944B31947016083721
+  WestTamarAdm2AUS:
+    admin_name: WestTamar
+    iso3c: AUS
+    shapeID: 25037944B75055977098300
+  WestTorrensAdm2AUS:
+    admin_name: WestTorrens
+    iso3c: AUS
+    shapeID: 25037944B76769094445269
+  WestWimmeraAdm2AUS:
+    admin_name: WestWimmera
+    iso3c: AUS
+    shapeID: 25037944B702157588032
+  WhitehorseAdm2AUS:
+    admin_name: Whitehorse
+    iso3c: AUS
+    shapeID: 25037944B93635537501367
+  WhitsundayAdm2AUS:
+    admin_name: Whitsunday
+    iso3c: AUS
+    shapeID: 25037944B87142005071762
+  WhittleseaAdm2AUS:
+    admin_name: Whittlesea
+    iso3c: AUS
+    shapeID: 25037944B28600424223398
+  WhyallaAdm2AUS:
+    admin_name: Whyalla
+    iso3c: AUS
+    shapeID: 25037944B64884179183706
+  WickepinAdm2AUS:
+    admin_name: Wickepin
+    iso3c: AUS
+    shapeID: 25037944B57924194295774
+  WilliamsAdm2AUS:
+    admin_name: Williams
+    iso3c: AUS
+    shapeID: 25037944B87064425958741
+  WilloughbyAdm2AUS:
+    admin_name: Willoughby
+    iso3c: AUS
+    shapeID: 25037944B78861208186776
+  WilunaAdm2AUS:
+    admin_name: Wiluna
+    iso3c: AUS
+    shapeID: 25037944B27628401872150
+  WingecarribeeAdm2AUS:
+    admin_name: Wingecarribee
+    iso3c: AUS
+    shapeID: 25037944B71438306812596
+  WintonAdm2AUS:
+    admin_name: Winton
+    iso3c: AUS
+    shapeID: 25037944B95324883935739
+  WodongaAdm2AUS:
+    admin_name: Wodonga
+    iso3c: AUS
+    shapeID: 25037944B99055337236234
+  WollondillyAdm2AUS:
+    admin_name: Wollondilly
+    iso3c: AUS
+    shapeID: 25037944B50548000085953
+  WollongongAdm2AUS:
+    admin_name: Wollongong
+    iso3c: AUS
+    shapeID: 25037944B78024073086928
+  Wongan-BalliduAdm2AUS:
+    admin_name: Wongan-Ballidu
+    iso3c: AUS
+    shapeID: 25037944B4040834169290
+  WoodanillingAdm2AUS:
+    admin_name: Woodanilling
+    iso3c: AUS
+    shapeID: 25037944B81892326519969
+  WoollahraAdm2AUS:
+    admin_name: Woollahra
+    iso3c: AUS
+    shapeID: 25037944B50824863548632
+  WoorabindaAdm2AUS:
+    admin_name: Woorabinda
+    iso3c: AUS
+    shapeID: 25037944B71447631493326
+  WudinnaAdm2AUS:
+    admin_name: Wudinna
+    iso3c: AUS
+    shapeID: 25037944B74799247287960
+  WujalWujalAdm2AUS:
+    admin_name: WujalWujal
+    iso3c: AUS
+    shapeID: 25037944B81164112312357
+  WyalkatchemAdm2AUS:
+    admin_name: Wyalkatchem
+    iso3c: AUS
+    shapeID: 25037944B8068903410129
+  Wyndham-EastKimberleyAdm2AUS:
+    admin_name: Wyndham-EastKimberley
+    iso3c: AUS
+    shapeID: 25037944B52727077839859
+  WyndhamAdm2AUS:
+    admin_name: Wyndham
+    iso3c: AUS
+    shapeID: 25037944B15313699759774
+  YalgooAdm2AUS:
+    admin_name: Yalgoo
+    iso3c: AUS
+    shapeID: 25037944B40013954886351
+  YankalillaAdm2AUS:
+    admin_name: Yankalilla
+    iso3c: AUS
+    shapeID: 25037944B56627334914518
+  YarraAdm2AUS:
+    admin_name: Yarra
+    iso3c: AUS
+    shapeID: 25037944B16645516556899
+  YarrabahAdm2AUS:
+    admin_name: Yarrabah
+    iso3c: AUS
+    shapeID: 25037944B68165922230856
+  YarraRangesAdm2AUS:
+    admin_name: YarraRanges
+    iso3c: AUS
+    shapeID: 25037944B70077936823133
+  YarriambiackAdm2AUS:
+    admin_name: Yarriambiack
+    iso3c: AUS
+    shapeID: 25037944B93002214322562
+  YassValleyAdm2AUS:
+    admin_name: YassValley
+    iso3c: AUS
+    shapeID: 25037944B7628366145494
+  YilgarnAdm2AUS:
+    admin_name: Yilgarn
+    iso3c: AUS
+    shapeID: 25037944B56581938984526
+  YorkAdm2AUS:
+    admin_name: York
+    iso3c: AUS
+    shapeID: 25037944B97234562917936
+  YorkePeninsulaAdm2AUS:
+    admin_name: YorkePeninsula
+    iso3c: AUS
+    shapeID: 25037944B39877699410120

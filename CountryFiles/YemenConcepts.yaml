@@ -1,23 +1,1425 @@
 concepts:
-    - Sa'dahGovernorate
-    - '''AmranGovernorate'
-    - AlMahrahGovernorate
-    - HajjahGovernorate
-    - DhamarGovernorate
-    - AdDali'Governorate
-    - AlMahwitGovernorate
-    - San?a?
-    - San?a?Governorate
-    - LahijGovernorate
-    - ?AdanGovernorate
-    - AlHudaydahGovernorate
-    - Ma'ribGovernorate
-    - RaymahGovernorate
-    - Socotra
-    - AbyanGovernorate
-    - AlJawfGovernorate
-    - IbbGovernorate
-    - AlBayda'Governorate
-    - Hadhramaut
-    - Ta'izzGovernorate
-    - ShabwahGovernorate
+  '''AmranGovernorateAdm1YEM':
+    admin_name: '''AmranGovernorate'
+    iso3c: YEM
+    shapeID: 18629408B98087459973468
+  ‘AdanGovernorateAdm1YEM:
+    admin_name: ‘AdanGovernorate
+    iso3c: YEM
+    shapeID: 18629408B11945654439238
+  AbsAdm2YEM:
+    admin_name: Abs
+    iso3c: YEM
+    shapeID: 15242507B78057914295959
+  AbyanGovernorateAdm1YEM:
+    admin_name: AbyanGovernorate
+    iso3c: YEM
+    shapeID: 18629408B92684990065302
+  AdDali'Adm2YEM:
+    admin_name: AdDali'
+    iso3c: YEM
+    shapeID: 15242507B7990209689369
+  AdDali'GovernorateAdm1YEM:
+    admin_name: AdDali'Governorate
+    iso3c: YEM
+    shapeID: 18629408B11680885550387
+  AdDisAdm2YEM:
+    admin_name: AdDis
+    iso3c: YEM
+    shapeID: 15242507B42761625616090
+  AdDohiAdm2YEM:
+    admin_name: AdDohi
+    iso3c: YEM
+    shapeID: 15242507B68430322217319
+  AdDulay'ahAdm2YEM:
+    admin_name: AdDulay'ah
+    iso3c: YEM
+    shapeID: 15242507B8260286715328
+  AdDurayhimiAdm2YEM:
+    admin_name: AdDurayhimi
+    iso3c: YEM
+    shapeID: 15242507B48909907999430
+  AdhDhahirAdm2YEM:
+    admin_name: AdhDhahir
+    iso3c: YEM
+    shapeID: 15242507B71517716844752
+  AdhDhiharAdm2YEM:
+    admin_name: AdhDhihar
+    iso3c: YEM
+    shapeID: 15242507B70746280021443
+  AflahAlYamanAdm2YEM:
+    admin_name: AflahAlYaman
+    iso3c: YEM
+    shapeID: 15242507B79499976279542
+  AflahAshShamAdm2YEM:
+    admin_name: AflahAshSham
+    iso3c: YEM
+    shapeID: 15242507B83432581375198
+  AhwarAdm2YEM:
+    admin_name: Ahwar
+    iso3c: YEM
+    shapeID: 15242507B84026195338374
+  AlAbdiyahAdm2YEM:
+    admin_name: AlAbdiyah
+    iso3c: YEM
+    shapeID: 15242507B67185133145675
+  AlAbrAdm2YEM:
+    admin_name: AlAbr
+    iso3c: YEM
+    shapeID: 15242507B3031648883440
+  AlArshAdm2YEM:
+    admin_name: AlArsh
+    iso3c: YEM
+    shapeID: 15242507B56607006437737
+  AlAshahAdm2YEM:
+    admin_name: AlAshah
+    iso3c: YEM
+    shapeID: 15242507B84634184088095
+  AlAzariqAdm2YEM:
+    admin_name: AlAzariq
+    iso3c: YEM
+    shapeID: 15242507B92892578873791
+  AlBayda'GovernorateAdm1YEM:
+    admin_name: AlBayda'Governorate
+    iso3c: YEM
+    shapeID: 18629408B74393010790481
+  AlBaydaAdm2YEM:
+    admin_name: AlBayda
+    iso3c: YEM
+    shapeID: 15242507B85556873908580
+  AlBaydaCityAdm2YEM:
+    admin_name: AlBaydaCity
+    iso3c: YEM
+    shapeID: 15242507B46514992266380
+  AlBurayqahAdm2YEM:
+    admin_name: AlBurayqah
+    iso3c: YEM
+    shapeID: 15242507B61395835555859
+  AlGhaydhahAdm2YEM:
+    admin_name: AlGhaydhah
+    iso3c: YEM
+    shapeID: 15242507B66245697923351
+  AlGhaylAdm2YEM:
+    admin_name: AlGhayl
+    iso3c: YEM
+    shapeID: 15242507B85587651128626
+  AlHadaAdm2YEM:
+    admin_name: AlHada
+    iso3c: YEM
+    shapeID: 15242507B58187831730199
+  AlHadAdm2YEM:
+    admin_name: AlHad
+    iso3c: YEM
+    shapeID: 15242507B34895471289505
+  AlHaliAdm2YEM:
+    admin_name: AlHali
+    iso3c: YEM
+    shapeID: 15242507B48725764908659
+  AlHasaynAdm2YEM:
+    admin_name: AlHasayn
+    iso3c: YEM
+    shapeID: 15242507B64520709980870
+  AlHashwahAdm2YEM:
+    admin_name: AlHashwah
+    iso3c: YEM
+    shapeID: 15242507B74180964049208
+  AlHawakAdm2YEM:
+    admin_name: AlHawak
+    iso3c: YEM
+    shapeID: 15242507B19229428361360
+  AlHawtahAdm2YEM:
+    admin_name: AlHawtah
+    iso3c: YEM
+    shapeID: 15242507B35163519047813
+  AlHaymahAdDakhiliyahAdm2YEM:
+    admin_name: AlHaymahAdDakhiliyah
+    iso3c: YEM
+    shapeID: 15242507B54725687699919
+  AlHaymahAlKharijiyahAdm2YEM:
+    admin_name: AlHaymahAlKharijiyah
+    iso3c: YEM
+    shapeID: 15242507B8947662040309
+  AlHazmAdm2YEM:
+    admin_name: AlHazm
+    iso3c: YEM
+    shapeID: 15242507B39444871450258
+  AlHissnAdm2YEM:
+    admin_name: AlHissn
+    iso3c: YEM
+    shapeID: 15242507B2313194184175
+  AlHudaydahGovernorateAdm1YEM:
+    admin_name: AlHudaydahGovernorate
+    iso3c: YEM
+    shapeID: 18629408B71394624267216
+  AlHujjaylahAdm2YEM:
+    admin_name: AlHujjaylah
+    iso3c: YEM
+    shapeID: 15242507B15912619562849
+  AlHumaydatAdm2YEM:
+    admin_name: AlHumaydat
+    iso3c: YEM
+    shapeID: 15242507B46663253000628
+  AlHushaAdm2YEM:
+    admin_name: AlHusha
+    iso3c: YEM
+    shapeID: 15242507B64675128593967
+  AlJa'fariyyahAdm2YEM:
+    admin_name: AlJa'fariyyah
+    iso3c: YEM
+    shapeID: 15242507B92628059498332
+  AlJabinAdm2YEM:
+    admin_name: AlJabin
+    iso3c: YEM
+    shapeID: 15242507B10739648902482
+  AlJamimahAdm2YEM:
+    admin_name: AlJamimah
+    iso3c: YEM
+    shapeID: 15242507B46371651071090
+  AlJarrahiAdm2YEM:
+    admin_name: AlJarrahi
+    iso3c: YEM
+    shapeID: 15242507B33824576617573
+  AlJawfGovernorateAdm1YEM:
+    admin_name: AlJawfGovernorate
+    iso3c: YEM
+    shapeID: 18629408B7407331306690
+  AlJubahAdm2YEM:
+    admin_name: AlJubah
+    iso3c: YEM
+    shapeID: 15242507B63276008506059
+  AlKhabtAdm2YEM:
+    admin_name: AlKhabt
+    iso3c: YEM
+    shapeID: 15242507B38979687993387
+  AlKhalaqAdm2YEM:
+    admin_name: AlKhalaq
+    iso3c: YEM
+    shapeID: 15242507B45819395653811
+  AlKhukhahAdm2YEM:
+    admin_name: AlKhukhah
+    iso3c: YEM
+    shapeID: 15242507B44327302396722
+  AlluhayahAdm2YEM:
+    admin_name: Alluhayah
+    iso3c: YEM
+    shapeID: 15242507B84016376764538
+  AlMa'aferAdm2YEM:
+    admin_name: AlMa'afer
+    iso3c: YEM
+    shapeID: 15242507B70536042027816
+  AlMadanAdm2YEM:
+    admin_name: AlMadan
+    iso3c: YEM
+    shapeID: 15242507B28898961635251
+  AlMadaribahWaAlAarahAdm2YEM:
+    admin_name: AlMadaribahWaAlAarah
+    iso3c: YEM
+    shapeID: 15242507B42929104515356
+  AlMaflahiAdm2YEM:
+    admin_name: AlMaflahi
+    iso3c: YEM
+    shapeID: 15242507B25338309738569
+  AlMaghrabahAdm2YEM:
+    admin_name: AlMaghrabah
+    iso3c: YEM
+    shapeID: 15242507B35266123167790
+  AlMahabishahAdm2YEM:
+    admin_name: AlMahabishah
+    iso3c: YEM
+    shapeID: 15242507B79718880947555
+  AlMahfadAdm2YEM:
+    admin_name: AlMahfad
+    iso3c: YEM
+    shapeID: 15242507B3305834191455
+  AlMahrahGovernorateAdm1YEM:
+    admin_name: AlMahrahGovernorate
+    iso3c: YEM
+    shapeID: 18629408B15889281866717
+  AlMahwitAdm2YEM:
+    admin_name: AlMahwit
+    iso3c: YEM
+    shapeID: 15242507B12276215757938
+  AlMahwitCityAdm2YEM:
+    admin_name: AlMahwitCity
+    iso3c: YEM
+    shapeID: 15242507B54301624222868
+  AlMahwitGovernorateAdm1YEM:
+    admin_name: AlMahwitGovernorate
+    iso3c: YEM
+    shapeID: 18629408B38984328739410
+  AlMakhaAdm2YEM:
+    admin_name: AlMakha
+    iso3c: YEM
+    shapeID: 15242507B68807574850563
+  AlMakhadirAdm2YEM:
+    admin_name: AlMakhadir
+    iso3c: YEM
+    shapeID: 15242507B59993848545507
+  AlMalahAdm2YEM:
+    admin_name: AlMalah
+    iso3c: YEM
+    shapeID: 15242507B86745983179930
+  AlMalajimAdm2YEM:
+    admin_name: AlMalajim
+    iso3c: YEM
+    shapeID: 15242507B64836061652766
+  AlManarAdm2YEM:
+    admin_name: AlManar
+    iso3c: YEM
+    shapeID: 15242507B33672169591195
+  AlMansurahAdm2YEM:
+    admin_name: AlMansurah
+    iso3c: YEM
+    shapeID: 15242507B60312566406637
+  AlMansuriyahAdm2YEM:
+    admin_name: AlMansuriyah
+    iso3c: YEM
+    shapeID: 15242507B31078710685035
+  AlMaqatirahAdm2YEM:
+    admin_name: AlMaqatirah
+    iso3c: YEM
+    shapeID: 15242507B89654999321580
+  AlMarawi'ahAdm2YEM:
+    admin_name: AlMarawi'ah
+    iso3c: YEM
+    shapeID: 15242507B52368246204480
+  AlMashannahAdm2YEM:
+    admin_name: AlMashannah
+    iso3c: YEM
+    shapeID: 15242507B63315911635783
+  AlMasilahAdm2YEM:
+    admin_name: AlMasilah
+    iso3c: YEM
+    shapeID: 15242507B86858383588753
+  AlMaslubAdm2YEM:
+    admin_name: AlMaslub
+    iso3c: YEM
+    shapeID: 15242507B10963365532335
+  AlMatammahAdm2YEM:
+    admin_name: AlMatammah
+    iso3c: YEM
+    shapeID: 15242507B78310888001164
+  AlMawasitAdm2YEM:
+    admin_name: AlMawasit
+    iso3c: YEM
+    shapeID: 15242507B76760734874211
+  AlMiftahAdm2YEM:
+    admin_name: AlMiftah
+    iso3c: YEM
+    shapeID: 15242507B45600422396945
+  AlMighlafAdm2YEM:
+    admin_name: AlMighlaf
+    iso3c: YEM
+    shapeID: 15242507B86244592928099
+  AlMinaAdm2YEM:
+    admin_name: AlMina
+    iso3c: YEM
+    shapeID: 15242507B27528285733897
+  AlMisrakhAdm2YEM:
+    admin_name: AlMisrakh
+    iso3c: YEM
+    shapeID: 15242507B98966668539827
+  AlMu'allaAdm2YEM:
+    admin_name: AlMu'alla
+    iso3c: YEM
+    shapeID: 15242507B93201212408360
+  AlMudhaffarAdm2YEM:
+    admin_name: AlMudhaffar
+    iso3c: YEM
+    shapeID: 15242507B33638153747528
+  AlMukallaAdm2YEM:
+    admin_name: AlMukalla
+    iso3c: YEM
+    shapeID: 15242507B18959101282675
+  AlMukallaCityAdm2YEM:
+    admin_name: AlMukallaCity
+    iso3c: YEM
+    shapeID: 15242507B50581943106199
+  AlMunirahAdm2YEM:
+    admin_name: AlMunirah
+    iso3c: YEM
+    shapeID: 15242507B73593637520404
+  AlMusaymirAdm2YEM:
+    admin_name: AlMusaymir
+    iso3c: YEM
+    shapeID: 15242507B89977564794878
+  AlMutunAdm2YEM:
+    admin_name: AlMutun
+    iso3c: YEM
+    shapeID: 15242507B16554732287122
+  AlOdaynAdm2YEM:
+    admin_name: AlOdayn
+    iso3c: YEM
+    shapeID: 15242507B10242503769306
+  AlQaffAdm2YEM:
+    admin_name: AlQaff
+    iso3c: YEM
+    shapeID: 15242507B27832262197062
+  AlQafrAdm2YEM:
+    admin_name: AlQafr
+    iso3c: YEM
+    shapeID: 15242507B91699093168039
+  AlQahirahAdm2YEM:
+    admin_name: AlQahirah
+    iso3c: YEM
+    shapeID: 15242507B25601217585155
+  AlQanawisAdm2YEM:
+    admin_name: AlQanawis
+    iso3c: YEM
+    shapeID: 15242507B48405542462206
+  AlQatnAdm2YEM:
+    admin_name: AlQatn
+    iso3c: YEM
+    shapeID: 15242507B78643865459873
+  AlQubaytahAdm2YEM:
+    admin_name: AlQubaytah
+    iso3c: YEM
+    shapeID: 15242507B21830684788724
+  AlQuraishyahAdm2YEM:
+    admin_name: AlQuraishyah
+    iso3c: YEM
+    shapeID: 15242507B46472407161282
+  AlWadi'Adm2YEM:
+    admin_name: AlWadi'
+    iso3c: YEM
+    shapeID: 15242507B19618049480108
+  AlWazi'yahAdm2YEM:
+    admin_name: AlWazi'yah
+    iso3c: YEM
+    shapeID: 15242507B35226342487044
+  AlWehdahAdm2YEM:
+    admin_name: AlWehdah
+    iso3c: YEM
+    shapeID: 15242507B40413338286185
+  AmdAdm2YEM:
+    admin_name: Amd
+    iso3c: YEM
+    shapeID: 15242507B45832769830873
+  AmranAdm2YEM:
+    admin_name: Amran
+    iso3c: YEM
+    shapeID: 15242507B71774555115176
+  AnNadirahAdm2YEM:
+    admin_name: AnNadirah
+    iso3c: YEM
+    shapeID: 15242507B41326170621958
+  AnsAdm2YEM:
+    admin_name: Ans
+    iso3c: YEM
+    shapeID: 15242507B14895692006944
+  ArhabAdm2YEM:
+    admin_name: Arhab
+    iso3c: YEM
+    shapeID: 15242507B7161166402599
+  Arma'aAdm2YEM:
+    admin_name: Arma'a
+    iso3c: YEM
+    shapeID: 15242507B99813098953418
+  ArRadmahAdm2YEM:
+    admin_name: ArRadmah
+    iso3c: YEM
+    shapeID: 15242507B58608751958716
+  ArRawdahAdm2YEM:
+    admin_name: ArRawdah
+    iso3c: YEM
+    shapeID: 15242507B21642495199859
+  ArRaydahwaQussay'arAdm2YEM:
+    admin_name: ArRaydahwaQussay'ar
+    iso3c: YEM
+    shapeID: 15242507B55233567675049
+  ArRujumAdm2YEM:
+    admin_name: ArRujum
+    iso3c: YEM
+    shapeID: 15242507B44353652125997
+  ArRyashyyahAdm2YEM:
+    admin_name: ArRyashyyah
+    iso3c: YEM
+    shapeID: 15242507B53614769353350
+  AshSha'irAdm2YEM:
+    admin_name: AshSha'ir
+    iso3c: YEM
+    shapeID: 15242507B78459135139999
+  AshshaghadirahAdm2YEM:
+    admin_name: Ashshaghadirah
+    iso3c: YEM
+    shapeID: 15242507B87053046853902
+  AshShahilAdm2YEM:
+    admin_name: AshShahil
+    iso3c: YEM
+    shapeID: 15242507B16315139957826
+  AshShamayataynAdm2YEM:
+    admin_name: AshShamayatayn
+    iso3c: YEM
+    shapeID: 15242507B595080071721
+  AshSharyahAdm2YEM:
+    admin_name: AshSharyah
+    iso3c: YEM
+    shapeID: 15242507B68116415632307
+  AshShaykhOthmanAdm2YEM:
+    admin_name: AshShaykhOthman
+    iso3c: YEM
+    shapeID: 15242507B79114247407724
+  AshShihrAdm2YEM:
+    admin_name: AshShihr
+    iso3c: YEM
+    shapeID: 15242507B43236633783940
+  AshShu'aybAdm2YEM:
+    admin_name: AshShu'ayb
+    iso3c: YEM
+    shapeID: 15242507B23193372099194
+  AslamAdm2YEM:
+    admin_name: Aslam
+    iso3c: YEM
+    shapeID: 15242507B36700459789736
+  AsSa'idAdm2YEM:
+    admin_name: AsSa'id
+    iso3c: YEM
+    shapeID: 15242507B10835252837826
+  AsSab'inAdm2YEM:
+    admin_name: AsSab'in
+    iso3c: YEM
+    shapeID: 15242507B25672196618476
+  AsSabrahAdm2YEM:
+    admin_name: AsSabrah
+    iso3c: YEM
+    shapeID: 15242507B42935945407521
+  AsSaddahAdm2YEM:
+    admin_name: AsSaddah
+    iso3c: YEM
+    shapeID: 15242507B85155495853150
+  AsSafiyahAdm2YEM:
+    admin_name: AsSafiyah
+    iso3c: YEM
+    shapeID: 15242507B54206098311522
+  AsSafraAdm2YEM:
+    admin_name: AsSafra
+    iso3c: YEM
+    shapeID: 15242507B71056496150063
+  AsSaiyaniAdm2YEM:
+    admin_name: AsSaiyani
+    iso3c: YEM
+    shapeID: 15242507B28390593826974
+  AsSalafiyyahAdm2YEM:
+    admin_name: AsSalafiyyah
+    iso3c: YEM
+    shapeID: 15242507B36893334490361
+  AsSalifAdm2YEM:
+    admin_name: AsSalif
+    iso3c: YEM
+    shapeID: 15242507B64792839712750
+  AsSawadiyahAdm2YEM:
+    admin_name: AsSawadiyah
+    iso3c: YEM
+    shapeID: 15242507B42548243953389
+  AsSawdAdm2YEM:
+    admin_name: AsSawd
+    iso3c: YEM
+    shapeID: 15242507B88487972581206
+  AsSawma'ahAdm2YEM:
+    admin_name: AsSawma'ah
+    iso3c: YEM
+    shapeID: 15242507B21871042325483
+  AsSawmAdm2YEM:
+    admin_name: AsSawm
+    iso3c: YEM
+    shapeID: 15242507B25439284744831
+  AsSilwAdm2YEM:
+    admin_name: AsSilw
+    iso3c: YEM
+    shapeID: 15242507B98641384705731
+  AsSudahAdm2YEM:
+    admin_name: AsSudah
+    iso3c: YEM
+    shapeID: 15242507B6956753308423
+  AsSukhnahAdm2YEM:
+    admin_name: AsSukhnah
+    iso3c: YEM
+    shapeID: 15242507B99708697665736
+  AtaqAdm2YEM:
+    admin_name: Ataq
+    iso3c: YEM
+    shapeID: 15242507B5283160302008
+  AthThawrahAdm2YEM:
+    admin_name: AthThawrah
+    iso3c: YEM
+    shapeID: 15242507B17333153268862
+  AtTa'iziyahAdm2YEM:
+    admin_name: AtTa'iziyah
+    iso3c: YEM
+    shapeID: 15242507B60919761418244
+  AtTaffahAdm2YEM:
+    admin_name: AtTaffah
+    iso3c: YEM
+    shapeID: 15242507B13083201582519
+  AtTahrirAdm2YEM:
+    admin_name: AtTahrir
+    iso3c: YEM
+    shapeID: 15242507B91083186243628
+  AtTalhAdm2YEM:
+    admin_name: AtTalh
+    iso3c: YEM
+    shapeID: 15242507B56657496284853
+  AtTawahiAdm2YEM:
+    admin_name: AtTawahi
+    iso3c: YEM
+    shapeID: 15242507B38750647773303
+  AtTawilahAdm2YEM:
+    admin_name: AtTawilah
+    iso3c: YEM
+    shapeID: 15242507B28032401565886
+  AtTuhaytaAdm2YEM:
+    admin_name: AtTuhayta
+    iso3c: YEM
+    shapeID: 15242507B5379899577344
+  AtTyalAdm2YEM:
+    admin_name: AtTyal
+    iso3c: YEM
+    shapeID: 15242507B91957266097282
+  AynAdm2YEM:
+    admin_name: Ayn
+    iso3c: YEM
+    shapeID: 15242507B91008874349012
+  AzaalAdm2YEM:
+    admin_name: Azaal
+    iso3c: YEM
+    shapeID: 15242507B23052795902995
+  AzZahirAdm2YEM:
+    admin_name: AzZahir
+    iso3c: YEM
+    shapeID: 15242507B38205653347436
+  AzZaydiahAdm2YEM:
+    admin_name: AzZaydiah
+    iso3c: YEM
+    shapeID: 15242507B8611350311836
+  AzZuhrahAdm2YEM:
+    admin_name: AzZuhrah
+    iso3c: YEM
+    shapeID: 15242507B61035382056720
+  Ba'danAdm2YEM:
+    admin_name: Ba'dan
+    iso3c: YEM
+    shapeID: 15242507B32892695664802
+  BajilAdm2YEM:
+    admin_name: Bajil
+    iso3c: YEM
+    shapeID: 15242507B92683143356250
+  BakilAlMirAdm2YEM:
+    admin_name: BakilAlMir
+    iso3c: YEM
+    shapeID: 15242507B36780035445887
+  BaniAlAwamAdm2YEM:
+    admin_name: BaniAlAwam
+    iso3c: YEM
+    shapeID: 15242507B30221832933741
+  BaniAlHarithAdm2YEM:
+    admin_name: BaniAlHarith
+    iso3c: YEM
+    shapeID: 15242507B44519416711128
+  BaniDabyanAdm2YEM:
+    admin_name: BaniDabyan
+    iso3c: YEM
+    shapeID: 15242507B92196142658872
+  BaniHushayshAdm2YEM:
+    admin_name: BaniHushaysh
+    iso3c: YEM
+    shapeID: 15242507B83283859623898
+  BaniMatarAdm2YEM:
+    admin_name: BaniMatar
+    iso3c: YEM
+    shapeID: 15242507B86732634383782
+  BaniQaysAdm2YEM:
+    admin_name: BaniQays
+    iso3c: YEM
+    shapeID: 15242507B13849727966000
+  BaniSa'dAdm2YEM:
+    admin_name: BaniSa'd
+    iso3c: YEM
+    shapeID: 15242507B10684657615911
+  BaniSurimAdm2YEM:
+    admin_name: BaniSurim
+    iso3c: YEM
+    shapeID: 15242507B49574817537392
+  BaqimAdm2YEM:
+    admin_name: Baqim
+    iso3c: YEM
+    shapeID: 15242507B7322189246473
+  BaratAlAnanAdm2YEM:
+    admin_name: BaratAlAnan
+    iso3c: YEM
+    shapeID: 15242507B41587860828990
+  BayhanAdm2YEM:
+    admin_name: Bayhan
+    iso3c: YEM
+    shapeID: 15242507B90213953607166
+  BaytAlFaqihAdm2YEM:
+    admin_name: BaytAlFaqih
+    iso3c: YEM
+    shapeID: 15242507B83737515314147
+  BidbadahAdm2YEM:
+    admin_name: Bidbadah
+    iso3c: YEM
+    shapeID: 15242507B34447312884568
+  BiladArRusAdm2YEM:
+    admin_name: BiladArRus
+    iso3c: YEM
+    shapeID: 15242507B85471999170194
+  BiladAtta'amAdm2YEM:
+    admin_name: BiladAtta'am
+    iso3c: YEM
+    shapeID: 15242507B17948555439182
+  BrumMayf'ahAdm2YEM:
+    admin_name: BrumMayf'ah
+    iso3c: YEM
+    shapeID: 15242507B1280575170074
+  Bura'Adm2YEM:
+    admin_name: Bura'
+    iso3c: YEM
+    shapeID: 15242507B60755531991601
+  DahrAdm2YEM:
+    admin_name: Dahr
+    iso3c: YEM
+    shapeID: 15242507B29053891717332
+  DamtAdm2YEM:
+    admin_name: Damt
+    iso3c: YEM
+    shapeID: 15242507B35659616326925
+  DarSa'dAdm2YEM:
+    admin_name: DarSa'd
+    iso3c: YEM
+    shapeID: 15242507B92713589855665
+  Daw'anAdm2YEM:
+    admin_name: Daw'an
+    iso3c: YEM
+    shapeID: 15242507B41313951038201
+  DawranAnisAdm2YEM:
+    admin_name: DawranAnis
+    iso3c: YEM
+    shapeID: 15242507B11667753358697
+  DhamarCityAdm2YEM:
+    admin_name: DhamarCity
+    iso3c: YEM
+    shapeID: 15242507B10067021496798
+  DhamarGovernorateAdm1YEM:
+    admin_name: DhamarGovernorate
+    iso3c: YEM
+    shapeID: 18629408B61413037281915
+  DhiAsSufalAdm2YEM:
+    admin_name: DhiAsSufal
+    iso3c: YEM
+    shapeID: 15242507B30509231446221
+  DhibainAdm2YEM:
+    admin_name: Dhibain
+    iso3c: YEM
+    shapeID: 15242507B1655282160159
+  DhiNa'imAdm2YEM:
+    admin_name: DhiNa'im
+    iso3c: YEM
+    shapeID: 15242507B90989220984962
+  DhubabAdm2YEM:
+    admin_name: Dhubab
+    iso3c: YEM
+    shapeID: 15242507B83156576087304
+  DhulaymatHaburAdm2YEM:
+    admin_name: DhulaymatHabur
+    iso3c: YEM
+    shapeID: 15242507B9657421257860
+  DimnatKhadirAdm2YEM:
+    admin_name: DimnatKhadir
+    iso3c: YEM
+    shapeID: 15242507B32780307406374
+  EyalSurayhAdm2YEM:
+    admin_name: EyalSurayh
+    iso3c: YEM
+    shapeID: 15242507B30874403797275
+  Far'AlOdaynAdm2YEM:
+    admin_name: Far'AlOdayn
+    iso3c: YEM
+    shapeID: 15242507B99801964698927
+  GhamrAdm2YEM:
+    admin_name: Ghamr
+    iso3c: YEM
+    shapeID: 15242507B39304781263457
+  GhaylBawazirAdm2YEM:
+    admin_name: GhaylBawazir
+    iso3c: YEM
+    shapeID: 15242507B58330676723626
+  GhaylbinYaminAdm2YEM:
+    admin_name: GhaylbinYamin
+    iso3c: YEM
+    shapeID: 15242507B14142255130537
+  HabbanAdm2YEM:
+    admin_name: Habban
+    iso3c: YEM
+    shapeID: 15242507B21238216413190
+  HabilJabrAdm2YEM:
+    admin_name: HabilJabr
+    iso3c: YEM
+    shapeID: 15242507B45495192341807
+  HadhramautAdm1YEM:
+    admin_name: Hadhramaut
+    iso3c: YEM
+    shapeID: 18629408B49078263925584
+  HadibuAdm2YEM:
+    admin_name: Hadibu
+    iso3c: YEM
+    shapeID: 15242507B399982580631
+  HajarAdm2YEM:
+    admin_name: Hajar
+    iso3c: YEM
+    shapeID: 15242507B42870689355247
+  HajarAsSay'arAdm2YEM:
+    admin_name: HajarAsSay'ar
+    iso3c: YEM
+    shapeID: 15242507B41377814655385
+  HajjahAdm2YEM:
+    admin_name: Hajjah
+    iso3c: YEM
+    shapeID: 15242507B46820158657484
+  HajjahCityAdm2YEM:
+    admin_name: HajjahCity
+    iso3c: YEM
+    shapeID: 15242507B42868066819458
+  HajjahGovernorateAdm1YEM:
+    admin_name: HajjahGovernorate
+    iso3c: YEM
+    shapeID: 18629408B8726373480353
+  HalminAdm2YEM:
+    admin_name: Halmin
+    iso3c: YEM
+    shapeID: 15242507B61781927650682
+  HamdanAdm2YEM:
+    admin_name: Hamdan
+    iso3c: YEM
+    shapeID: 15242507B55222910003716
+  HaradAdm2YEM:
+    admin_name: Harad
+    iso3c: YEM
+    shapeID: 15242507B65973742405389
+  HarfSufyanAdm2YEM:
+    admin_name: HarfSufyan
+    iso3c: YEM
+    shapeID: 15242507B58979028300057
+  HaribAdm2YEM:
+    admin_name: Harib
+    iso3c: YEM
+    shapeID: 15242507B38885789134427
+  HaribAlQaramishAdm2YEM:
+    admin_name: HaribAlQaramish
+    iso3c: YEM
+    shapeID: 15242507B30866630212876
+  HaridahAdm2YEM:
+    admin_name: Haridah
+    iso3c: YEM
+    shapeID: 15242507B86520144801681
+  HaswinAdm2YEM:
+    admin_name: Haswin
+    iso3c: YEM
+    shapeID: 15242507B7547411227389
+  HatAdm2YEM:
+    admin_name: Hat
+    iso3c: YEM
+    shapeID: 15242507B17941061209277
+  HatibAdm2YEM:
+    admin_name: Hatib
+    iso3c: YEM
+    shapeID: 15242507B74993503022427
+  HawfAdm2YEM:
+    admin_name: Hawf
+    iso3c: YEM
+    shapeID: 15242507B7565801089372
+  HaydanAdm2YEM:
+    admin_name: Haydan
+    iso3c: YEM
+    shapeID: 15242507B69358324937252
+  HayfanAdm2YEM:
+    admin_name: Hayfan
+    iso3c: YEM
+    shapeID: 15242507B40276066562734
+  HayranAdm2YEM:
+    admin_name: Hayran
+    iso3c: YEM
+    shapeID: 15242507B87254411475969
+  HaysAdm2YEM:
+    admin_name: Hays
+    iso3c: YEM
+    shapeID: 15242507B23661917867997
+  HazmAlOdaynAdm2YEM:
+    admin_name: HazmAlOdayn
+    iso3c: YEM
+    shapeID: 15242507B15559631909516
+  HobeishAdm2YEM:
+    admin_name: Hobeish
+    iso3c: YEM
+    shapeID: 15242507B62921910319151
+  HufashAdm2YEM:
+    admin_name: Hufash
+    iso3c: YEM
+    shapeID: 15242507B53182107073973
+  HuthAdm2YEM:
+    admin_name: Huth
+    iso3c: YEM
+    shapeID: 15242507B35105243625630
+  IbbAdm2YEM:
+    admin_name: Ibb
+    iso3c: YEM
+    shapeID: 15242507B92318090783838
+  IbbGovernorateAdm1YEM:
+    admin_name: IbbGovernorate
+    iso3c: YEM
+    shapeID: 18629408B5376796402494
+  JabalAshsharqAdm2YEM:
+    admin_name: JabalAshsharq
+    iso3c: YEM
+    shapeID: 15242507B95425982092930
+  JabalEyalYazidAdm2YEM:
+    admin_name: JabalEyalYazid
+    iso3c: YEM
+    shapeID: 15242507B22949154068881
+  JabalHabashiAdm2YEM:
+    admin_name: JabalHabashi
+    iso3c: YEM
+    shapeID: 15242507B58786860168028
+  JabalMuradAdm2YEM:
+    admin_name: JabalMurad
+    iso3c: YEM
+    shapeID: 15242507B48371186390559
+  JabalRasAdm2YEM:
+    admin_name: JabalRas
+    iso3c: YEM
+    shapeID: 15242507B55114277387494
+  JahafAdm2YEM:
+    admin_name: Jahaf
+    iso3c: YEM
+    shapeID: 15242507B12481598225051
+  JahranAdm2YEM:
+    admin_name: Jahran
+    iso3c: YEM
+    shapeID: 15242507B45956932951214
+  JardanAdm2YEM:
+    admin_name: Jardan
+    iso3c: YEM
+    shapeID: 15242507B34069744154073
+  JayshanAdm2YEM:
+    admin_name: Jayshan
+    iso3c: YEM
+    shapeID: 15242507B52959296866890
+  JiblahAdm2YEM:
+    admin_name: Jiblah
+    iso3c: YEM
+    shapeID: 15242507B54186769788160
+  JihanahAdm2YEM:
+    admin_name: Jihanah
+    iso3c: YEM
+    shapeID: 15242507B2838826249504
+  JubanAdm2YEM:
+    admin_name: Juban
+    iso3c: YEM
+    shapeID: 15242507B54497479807016
+  KamaranAdm2YEM:
+    admin_name: Kamaran
+    iso3c: YEM
+    shapeID: 15242507B40747525321849
+  KhabwaAshSha'fAdm2YEM:
+    admin_name: KhabwaAshSha'f
+    iso3c: YEM
+    shapeID: 15242507B11673803403546
+  KhamirAdm2YEM:
+    admin_name: Khamir
+    iso3c: YEM
+    shapeID: 15242507B91488978109149
+  KhanfarAdm2YEM:
+    admin_name: Khanfar
+    iso3c: YEM
+    shapeID: 15242507B88266569428979
+  KharabAlMarashiAdm2YEM:
+    admin_name: KharabAlMarashi
+    iso3c: YEM
+    shapeID: 15242507B69209447674236
+  KharifAdm2YEM:
+    admin_name: Kharif
+    iso3c: YEM
+    shapeID: 15242507B34039766657612
+  KhawlanAdm2YEM:
+    admin_name: Khawlan
+    iso3c: YEM
+    shapeID: 15242507B89574765646204
+  KhayranAlMuharraqAdm2YEM:
+    admin_name: KhayranAlMuharraq
+    iso3c: YEM
+    shapeID: 15242507B46627972024874
+  KhurMaksarAdm2YEM:
+    admin_name: KhurMaksar
+    iso3c: YEM
+    shapeID: 15242507B71955992885975
+  KitafwaAlBoqa'Adm2YEM:
+    admin_name: KitafwaAlBoqa'
+    iso3c: YEM
+    shapeID: 15242507B97020865976232
+  Kritar-SirahAdm2YEM:
+    admin_name: Kritar-Sirah
+    iso3c: YEM
+    shapeID: 15242507B68167315655913
+  Ku'aydinahAdm2YEM:
+    admin_name: Ku'aydinah
+    iso3c: YEM
+    shapeID: 15242507B26169260519546
+  KuhlanAfarAdm2YEM:
+    admin_name: KuhlanAfar
+    iso3c: YEM
+    shapeID: 15242507B42632084566957
+  KuhlanAshSharafAdm2YEM:
+    admin_name: KuhlanAshSharaf
+    iso3c: YEM
+    shapeID: 15242507B97358908792545
+  KusharAdm2YEM:
+    admin_name: Kushar
+    iso3c: YEM
+    shapeID: 15242507B36240154715338
+  KusmahAdm2YEM:
+    admin_name: Kusmah
+    iso3c: YEM
+    shapeID: 15242507B80532474119851
+  LahijGovernorateAdm1YEM:
+    admin_name: LahijGovernorate
+    iso3c: YEM
+    shapeID: 18629408B46389326189415
+  LawdarAdm2YEM:
+    admin_name: Lawdar
+    iso3c: YEM
+    shapeID: 15242507B88557001231936
+  Ma'inAdm2YEM:
+    admin_name: Ma'in
+    iso3c: YEM
+    shapeID: 15242507B87670464483241
+  Ma'ribAdm2YEM:
+    admin_name: Ma'rib
+    iso3c: YEM
+    shapeID: 15242507B71405176462371
+  Ma'ribCityAdm2YEM:
+    admin_name: Ma'ribCity
+    iso3c: YEM
+    shapeID: 15242507B93077253954645
+  Ma'ribGovernorateAdm1YEM:
+    admin_name: Ma'ribGovernorate
+    iso3c: YEM
+    shapeID: 18629408B1777518619063
+  MabyanAdm2YEM:
+    admin_name: Mabyan
+    iso3c: YEM
+    shapeID: 15242507B90557781353206
+  MadghalAlJid'anAdm2YEM:
+    admin_name: MadghalAlJid'an
+    iso3c: YEM
+    shapeID: 15242507B52101237320931
+  MaghribAnsAdm2YEM:
+    admin_name: MaghribAns
+    iso3c: YEM
+    shapeID: 15242507B95174628891381
+  MahliyahAdm2YEM:
+    admin_name: Mahliyah
+    iso3c: YEM
+    shapeID: 15242507B61225716368783
+  MajzAdm2YEM:
+    admin_name: Majz
+    iso3c: YEM
+    shapeID: 15242507B76983038584557
+  MajzarAdm2YEM:
+    admin_name: Majzar
+    iso3c: YEM
+    shapeID: 15242507B39058401263822
+  Man'arAdm2YEM:
+    admin_name: Man'ar
+    iso3c: YEM
+    shapeID: 15242507B25634508234618
+  ManakhahAdm2YEM:
+    admin_name: Manakhah
+    iso3c: YEM
+    shapeID: 15242507B46989260913803
+  MaqbanahAdm2YEM:
+    admin_name: Maqbanah
+    iso3c: YEM
+    shapeID: 15242507B87636717080649
+  MarkhahAlOlyaAdm2YEM:
+    admin_name: MarkhahAlOlya
+    iso3c: YEM
+    shapeID: 15242507B22375918016424
+  MarkhahAsSuflaAdm2YEM:
+    admin_name: MarkhahAsSufla
+    iso3c: YEM
+    shapeID: 15242507B42108001153056
+  Mashr'ahWaHadnanAdm2YEM:
+    admin_name: Mashr'ahWaHadnan
+    iso3c: YEM
+    shapeID: 15242507B63057438613217
+  MaswarAdm2YEM:
+    admin_name: Maswar
+    iso3c: YEM
+    shapeID: 15242507B94987708240624
+  MaswarahAdm2YEM:
+    admin_name: Maswarah
+    iso3c: YEM
+    shapeID: 15242507B74981338012196
+  MawiyahAdm2YEM:
+    admin_name: Mawiyah
+    iso3c: YEM
+    shapeID: 15242507B40784737599464
+  Mawza'Adm2YEM:
+    admin_name: Mawza'
+    iso3c: YEM
+    shapeID: 15242507B74407573652293
+  Mayfa'ahAdm2YEM:
+    admin_name: Mayfa'ah
+    iso3c: YEM
+    shapeID: 15242507B4449600495147
+  Mayfa'atAnsAdm2YEM:
+    admin_name: Mayfa'atAns
+    iso3c: YEM
+    shapeID: 15242507B32732575993939
+  MazharAdm2YEM:
+    admin_name: Mazhar
+    iso3c: YEM
+    shapeID: 15242507B74334805972717
+  MelhanAdm2YEM:
+    admin_name: Melhan
+    iso3c: YEM
+    shapeID: 15242507B19184333962868
+  MidiAdm2YEM:
+    admin_name: Midi
+    iso3c: YEM
+    shapeID: 15242507B83103205988735
+  MonabbihAdm2YEM:
+    admin_name: Monabbih
+    iso3c: YEM
+    shapeID: 15242507B74434260486712
+  MudhaykhirahAdm2YEM:
+    admin_name: Mudhaykhirah
+    iso3c: YEM
+    shapeID: 15242507B26133929095382
+  MudiyahAdm2YEM:
+    admin_name: Mudiyah
+    iso3c: YEM
+    shapeID: 15242507B27730634492451
+  MukayrasAdm2YEM:
+    admin_name: Mukayras
+    iso3c: YEM
+    shapeID: 15242507B36585433603827
+  MustabaAdm2YEM:
+    admin_name: Mustaba
+    iso3c: YEM
+    shapeID: 15242507B50063200488288
+  NajrahAdm2YEM:
+    admin_name: Najrah
+    iso3c: YEM
+    shapeID: 15242507B62258600143859
+  Nati'Adm2YEM:
+    admin_name: Nati'
+    iso3c: YEM
+    shapeID: 15242507B51557666361412
+  NihmAdm2YEM:
+    admin_name: Nihm
+    iso3c: YEM
+    shapeID: 15242507B22089768415727
+  NisabAdm2YEM:
+    admin_name: Nisab
+    iso3c: YEM
+    shapeID: 15242507B68873122709220
+  Nu'manAdm2YEM:
+    admin_name: Nu'man
+    iso3c: YEM
+    shapeID: 15242507B35371213994170
+  OldCityAdm2YEM:
+    admin_name: OldCity
+    iso3c: YEM
+    shapeID: 15242507B70812526039843
+  OsaylanAdm2YEM:
+    admin_name: Osaylan
+    iso3c: YEM
+    shapeID: 15242507B14507855055596
+  OtmahAdm2YEM:
+    admin_name: Otmah
+    iso3c: YEM
+    shapeID: 15242507B73585871072840
+  Qa'tabahAdm2YEM:
+    admin_name: Qa'tabah
+    iso3c: YEM
+    shapeID: 15242507B41801613427967
+  QaflatOdharAdm2YEM:
+    admin_name: QaflatOdhar
+    iso3c: YEM
+    shapeID: 15242507B49848325615271
+  QaflShammarAdm2YEM:
+    admin_name: QaflShammar
+    iso3c: YEM
+    shapeID: 15242507B49516524141793
+  QalansiyahwaAbdAlKuriAdm2YEM:
+    admin_name: QalansiyahwaAbdAlKuri
+    iso3c: YEM
+    shapeID: 15242507B10596271459975
+  QarahAdm2YEM:
+    admin_name: Qarah
+    iso3c: YEM
+    shapeID: 15242507B20225444371684
+  QatabirAdm2YEM:
+    admin_name: Qatabir
+    iso3c: YEM
+    shapeID: 15242507B9763756756493
+  QishnAdm2YEM:
+    admin_name: Qishn
+    iso3c: YEM
+    shapeID: 15242507B46563890594581
+  Rada'Adm2YEM:
+    admin_name: Rada'
+    iso3c: YEM
+    shapeID: 15242507B79074936513769
+  RadfanAdm2YEM:
+    admin_name: Radfan
+    iso3c: YEM
+    shapeID: 15242507B45884450184914
+  RadmanAdm2YEM:
+    admin_name: Radman
+    iso3c: YEM
+    shapeID: 15242507B86992417351201
+  RadumAdm2YEM:
+    admin_name: Radum
+    iso3c: YEM
+    shapeID: 15242507B54571430773522
+  RaghwanAdm2YEM:
+    admin_name: Raghwan
+    iso3c: YEM
+    shapeID: 15242507B55081881652905
+  RahabahAdm2YEM:
+    admin_name: Rahabah
+    iso3c: YEM
+    shapeID: 15242507B53834737304279
+  RajuzahAdm2YEM:
+    admin_name: Rajuzah
+    iso3c: YEM
+    shapeID: 15242507B9382148202065
+  RakhyahAdm2YEM:
+    admin_name: Rakhyah
+    iso3c: YEM
+    shapeID: 15242507B88244220380617
+  RassdAdm2YEM:
+    admin_name: Rassd
+    iso3c: YEM
+    shapeID: 15242507B3487968340126
+  RaydahAdm2YEM:
+    admin_name: Raydah
+    iso3c: YEM
+    shapeID: 15242507B40923002776942
+  RaymahGovernorateAdm1YEM:
+    admin_name: RaymahGovernorate
+    iso3c: YEM
+    shapeID: 18629408B80220723955267
+  RazihAdm2YEM:
+    admin_name: Razih
+    iso3c: YEM
+    shapeID: 15242507B22437016360372
+  RumahAdm2YEM:
+    admin_name: Rumah
+    iso3c: YEM
+    shapeID: 15242507B71600093935687
+  Sa'dahAdm2YEM:
+    admin_name: Sa'dah
+    iso3c: YEM
+    shapeID: 15242507B19986135931158
+  Sa'dahGovernorateAdm1YEM:
+    admin_name: Sa'dahGovernorate
+    iso3c: YEM
+    shapeID: 18629408B52441229698015
+  Sa'fanAdm2YEM:
+    admin_name: Sa'fan
+    iso3c: YEM
+    shapeID: 15242507B56189599867675
+  SabahAdm2YEM:
+    admin_name: Sabah
+    iso3c: YEM
+    shapeID: 15242507B50652394578350
+  SabirAlMawadimAdm2YEM:
+    admin_name: SabirAlMawadim
+    iso3c: YEM
+    shapeID: 15242507B26080958654520
+  SahAdm2YEM:
+    admin_name: Sah
+    iso3c: YEM
+    shapeID: 15242507B46813891716840
+  SaharAdm2YEM:
+    admin_name: Sahar
+    iso3c: YEM
+    shapeID: 15242507B10960751674051
+  SalahAdm2YEM:
+    admin_name: Salah
+    iso3c: YEM
+    shapeID: 15242507B73155733495218
+  Sami'Adm2YEM:
+    admin_name: Sami'
+    iso3c: YEM
+    shapeID: 15242507B43926728713037
+  Sana'aCityOutskirts-HamdanAdm2YEM:
+    admin_name: Sana'aCityOutskirts-Hamdan
+    iso3c: YEM
+    shapeID: 15242507B72853055261657
+  Sana'aCityOutskirts-SanhanwaBaniBahlulAdm2YEM:
+    admin_name: Sana'aCityOutskirts-SanhanwaBaniBahlul
+    iso3c: YEM
+    shapeID: 15242507B78273733164190
+  SanhanwaBaniBahlulAdm2YEM:
+    admin_name: SanhanwaBaniBahlul
+    iso3c: YEM
+    shapeID: 15242507B89205574884990
+  SanʿaʾAdm1YEM:
+    admin_name: Sanʿaʾ
+    iso3c: YEM
+    shapeID: 18629408B48104637123824
+  SanʿaʾGovernorateAdm1YEM:
+    admin_name: SanʿaʾGovernorate
+    iso3c: YEM
+    shapeID: 18629408B64822604790923
+  SaqinAdm2YEM:
+    admin_name: Saqin
+    iso3c: YEM
+    shapeID: 15242507B44237665414324
+  SararAdm2YEM:
+    admin_name: Sarar
+    iso3c: YEM
+    shapeID: 15242507B17231437712289
+  SayhutAdm2YEM:
+    admin_name: Sayhut
+    iso3c: YEM
+    shapeID: 15242507B57333459501301
+  SayunAdm2YEM:
+    admin_name: Sayun
+    iso3c: YEM
+    shapeID: 15242507B12607527739382
+  ShabwahGovernorateAdm1YEM:
+    admin_name: ShabwahGovernorate
+    iso3c: YEM
+    shapeID: 18629408B8528421017910
+  Shada'aAdm2YEM:
+    admin_name: Shada'a
+    iso3c: YEM
+    shapeID: 15242507B23625419846835
+  ShaharahAdm2YEM:
+    admin_name: Shaharah
+    iso3c: YEM
+    shapeID: 15242507B60781890450687
+  ShahinAdm2YEM:
+    admin_name: Shahin
+    iso3c: YEM
+    shapeID: 15242507B71328549079212
+  Shar'abArRawnahAdm2YEM:
+    admin_name: Shar'abArRawnah
+    iso3c: YEM
+    shapeID: 15242507B72961020505586
+  Shar'abAsSalamAdm2YEM:
+    admin_name: Shar'abAsSalam
+    iso3c: YEM
+    shapeID: 15242507B43426345122943
+  SharasAdm2YEM:
+    admin_name: Sharas
+    iso3c: YEM
+    shapeID: 15242507B8279696782405
+  ShibamAdm2YEM:
+    admin_name: Shibam
+    iso3c: YEM
+    shapeID: 15242507B68868493059781
+  ShibamKawkabanAdm2YEM:
+    admin_name: ShibamKawkaban
+    iso3c: YEM
+    shapeID: 15242507B12742486691999
+  Shu'ubAdm2YEM:
+    admin_name: Shu'ub
+    iso3c: YEM
+    shapeID: 15242507B29065009809939
+  SibahAdm2YEM:
+    admin_name: Sibah
+    iso3c: YEM
+    shapeID: 15242507B86075085818798
+  SirwahAdm2YEM:
+    admin_name: Sirwah
+    iso3c: YEM
+    shapeID: 15242507B46939016303647
+  SocotraAdm1YEM:
+    admin_name: Socotra
+    iso3c: YEM
+    shapeID: 18629408B57175931824869
+  SuwayrAdm2YEM:
+    admin_name: Suwayr
+    iso3c: YEM
+    shapeID: 15242507B55132122842526
+  Ta'izzGovernorateAdm1YEM:
+    admin_name: Ta'izzGovernorate
+    iso3c: YEM
+    shapeID: 18629408B66245584752084
+  TarimAdm2YEM:
+    admin_name: Tarim
+    iso3c: YEM
+    shapeID: 15242507B10935646704236
+  ThamudAdm2YEM:
+    admin_name: Thamud
+    iso3c: YEM
+    shapeID: 15242507B77315063878707
+  ThulaAdm2YEM:
+    admin_name: Thula
+    iso3c: YEM
+    shapeID: 15242507B3990952227589
+  TubanAdm2YEM:
+    admin_name: Tuban
+    iso3c: YEM
+    shapeID: 15242507B16919721159288
+  TurAlBahahAdm2YEM:
+    admin_name: TurAlBahah
+    iso3c: YEM
+    shapeID: 15242507B87552266659548
+  WadiAlAynAdm2YEM:
+    admin_name: WadiAlAyn
+    iso3c: YEM
+    shapeID: 15242507B59999910917568
+  WadrahAdm2YEM:
+    admin_name: Wadrah
+    iso3c: YEM
+    shapeID: 15242507B24431012567492
+  WaldRabi'Adm2YEM:
+    admin_name: WaldRabi'
+    iso3c: YEM
+    shapeID: 15242507B62394973607201
+  WashhahAdm2YEM:
+    admin_name: Washhah
+    iso3c: YEM
+    shapeID: 15242507B45949371630165
+  WusabAlAaliAdm2YEM:
+    admin_name: WusabAlAali
+    iso3c: YEM
+    shapeID: 15242507B81137292307075
+  WusabAsSafilAdm2YEM:
+    admin_name: WusabAsSafil
+    iso3c: YEM
+    shapeID: 15242507B36986908452393
+  Yab'uthAdm2YEM:
+    admin_name: Yab'uth
+    iso3c: YEM
+    shapeID: 15242507B24297046109512
+  Yafi'Adm2YEM:
+    admin_name: Yafi'
+    iso3c: YEM
+    shapeID: 15242507B78298704524990
+  YahrAdm2YEM:
+    admin_name: Yahr
+    iso3c: YEM
+    shapeID: 15242507B12651180402694
+  YarimAdm2YEM:
+    admin_name: Yarim
+    iso3c: YEM
+    shapeID: 15242507B58616339895534
+  ZabidAdm2YEM:
+    admin_name: Zabid
+    iso3c: YEM
+    shapeID: 15242507B385493666548
+  ZamakhwaManwokhAdm2YEM:
+    admin_name: ZamakhwaManwokh
+    iso3c: YEM
+    shapeID: 15242507B25520584620075
+  ZinjibarAdm2YEM:
+    admin_name: Zinjibar
+    iso3c: YEM
+    shapeID: 15242507B56433335269136

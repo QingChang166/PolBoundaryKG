@@ -1,13 +1,257 @@
 concepts:
-    - Ajloun
-    - Tafilah
-    - Aqaba
-    - Irbid
-    - Mafraq
-    - Amman
-    - Jerash
-    - Balqa
-    - Ma'an
-    - Karak
-    - Madaba
-    - Zarqa
+  AjlounAdm1JOR:
+    admin_name: Ajloun
+    iso3c: JOR
+    shapeID: 50493656B18053261503870
+  Al-AghwarShamaliyyehAdm2JOR:
+    admin_name: Al-AghwarShamaliyyeh
+    iso3c: JOR
+    shapeID: 86222999B11270423850308
+  Al-AqabaAdm2JOR:
+    admin_name: Al-Aqaba
+    iso3c: JOR
+    shapeID: 86222999B15878731234050
+  Al-AzraqAdm2JOR:
+    admin_name: Al-Azraq
+    iso3c: JOR
+    shapeID: 86222999B33973362353345
+  Al-BalqaAdm2JOR:
+    admin_name: Al-Balqa
+    iso3c: JOR
+    shapeID: 86222999B51380816957748
+  Al-HasaAdm2JOR:
+    admin_name: Al-Hasa
+    iso3c: JOR
+    shapeID: 86222999B58358481420186
+  Al-HusanyniyyaAdm2JOR:
+    admin_name: Al-Husanyniyya
+    iso3c: JOR
+    shapeID: 86222999B69136151762035
+  Al-JizahAdm2JOR:
+    admin_name: Al-Jizah
+    iso3c: JOR
+    shapeID: 86222999B81424774794690
+  Al-KarakAdm2JOR:
+    admin_name: Al-Karak
+    iso3c: JOR
+    shapeID: 86222999B29584929245749
+  Al-MafraqAdm2JOR:
+    admin_name: Al-Mafraq
+    iso3c: JOR
+    shapeID: 86222999B1125449299555
+  Al-Mazaral-JanubiyyaAdm2JOR:
+    admin_name: Al-Mazaral-Janubiyya
+    iso3c: JOR
+    shapeID: 86222999B37011435365148
+  Al-Mazra'aAdm2JOR:
+    admin_name: Al-Mazra'a
+    iso3c: JOR
+    shapeID: 86222999B56224922120093
+  Al-MuwaqqarAdm2JOR:
+    admin_name: Al-Muwaqqar
+    iso3c: JOR
+    shapeID: 86222999B58028934713712
+  Al-QasrAdm2JOR:
+    admin_name: Al-Qasr
+    iso3c: JOR
+    shapeID: 86222999B3327615489091
+  Al-QuwayraAdm2JOR:
+    admin_name: Al-Quwayra
+    iso3c: JOR
+    shapeID: 86222999B4308266651580
+  Al-SafiAdm2JOR:
+    admin_name: Al-Safi
+    iso3c: JOR
+    shapeID: 86222999B9102542539853
+  Al-TafilaAdm2JOR:
+    admin_name: Al-Tafila
+    iso3c: JOR
+    shapeID: 86222999B15546982005952
+  AljunAdm2JOR:
+    admin_name: Aljun
+    iso3c: JOR
+    shapeID: 86222999B36589903937176
+  AmmanAdm1JOR:
+    admin_name: Amman
+    iso3c: JOR
+    shapeID: 50493656B53844896346683
+  AmmanAdm2JOR:
+    admin_name: Amman
+    iso3c: JOR
+    shapeID: 86222999B98708860863844
+  AqabaAdm1JOR:
+    admin_name: Aqaba
+    iso3c: JOR
+    shapeID: 50493656B99764555865464
+  Ar-RuwayshidAdm2JOR:
+    admin_name: Ar-Ruwayshid
+    iso3c: JOR
+    shapeID: 86222999B57727576293089
+  ArdhahAdm2JOR:
+    admin_name: Ardhah
+    iso3c: JOR
+    shapeID: 86222999B80157070750914
+  ArRamthaAdm2JOR:
+    admin_name: ArRamtha
+    iso3c: JOR
+    shapeID: 86222999B40529855036644
+  As-SaltAdm2JOR:
+    admin_name: As-Salt
+    iso3c: JOR
+    shapeID: 86222999B64128102999374
+  Ash-ShibekAdm2JOR:
+    admin_name: Ash-Shibek
+    iso3c: JOR
+    shapeID: 86222999B65876825797942
+  AyiAdm2JOR:
+    admin_name: Ayi
+    iso3c: JOR
+    shapeID: 86222999B39141668555739
+  AyyAdm2JOR:
+    admin_name: Ayy
+    iso3c: JOR
+    shapeID: 86222999B32399668533563
+  Az-ZarqaAdm2JOR:
+    admin_name: Az-Zarqa
+    iso3c: JOR
+    shapeID: 86222999B39522483181416
+  Bal'amaAdm2JOR:
+    admin_name: Bal'ama
+    iso3c: JOR
+    shapeID: 86222999B41984369727866
+  BalqaAdm1JOR:
+    admin_name: Balqa
+    iso3c: JOR
+    shapeID: 50493656B62478729305943
+  BaniKnanaAdm2JOR:
+    admin_name: BaniKnana
+    iso3c: JOR
+    shapeID: 86222999B34085424448272
+  BirinAdm2JOR:
+    admin_name: Birin
+    iso3c: JOR
+    shapeID: 86222999B11966316103194
+  BirsayraAdm2JOR:
+    admin_name: Birsayra
+    iso3c: JOR
+    shapeID: 86222999B29585849598318
+  DairAllaAdm2JOR:
+    admin_name: DairAlla
+    iso3c: JOR
+    shapeID: 86222999B5587866835972
+  DhibanAdm2JOR:
+    admin_name: Dhiban
+    iso3c: JOR
+    shapeID: 86222999B77584192075792
+  FaqquAdm2JOR:
+    admin_name: Faqqu
+    iso3c: JOR
+    shapeID: 86222999B82988540247313
+  HariemaAdm2JOR:
+    admin_name: Hariema
+    iso3c: JOR
+    shapeID: 86222999B60325545530524
+  IrbidAdm1JOR:
+    admin_name: Irbid
+    iso3c: JOR
+    shapeID: 50493656B72492647240238
+  IrbidAdm2JOR:
+    admin_name: Irbid
+    iso3c: JOR
+    shapeID: 86222999B45500739099206
+  JerashAdm1JOR:
+    admin_name: Jerash
+    iso3c: JOR
+    shapeID: 50493656B9527447842434
+  JerashAdm2JOR:
+    admin_name: Jerash
+    iso3c: JOR
+    shapeID: 86222999B67539387689070
+  KarakAdm1JOR:
+    admin_name: Karak
+    iso3c: JOR
+    shapeID: 50493656B94904250637342
+  KofranjahAdm2JOR:
+    admin_name: Kofranjah
+    iso3c: JOR
+    shapeID: 86222999B89051160819958
+  KoraAdm2JOR:
+    admin_name: Kora
+    iso3c: JOR
+    shapeID: 86222999B87134792488183
+  Ma'anAdm1JOR:
+    admin_name: Ma'an
+    iso3c: JOR
+    shapeID: 50493656B90517147106903
+  Ma'anAdm2JOR:
+    admin_name: Ma'an
+    iso3c: JOR
+    shapeID: 86222999B61959892681036
+  MadabaAdm1JOR:
+    admin_name: Madaba
+    iso3c: JOR
+    shapeID: 50493656B40052368003294
+  MadabaAdm2JOR:
+    admin_name: Madaba
+    iso3c: JOR
+    shapeID: 86222999B63092752330130
+  MafraqAdm1JOR:
+    admin_name: Mafraq
+    iso3c: JOR
+    shapeID: 50493656B24919758862355
+  MazarShamaliyyehAdm2JOR:
+    admin_name: MazarShamaliyyeh
+    iso3c: JOR
+    shapeID: 86222999B75984396095942
+  Na'urAdm2JOR:
+    admin_name: Na'ur
+    iso3c: JOR
+    shapeID: 86222999B88668932349329
+  SabhaAdm2JOR:
+    admin_name: Sabha
+    iso3c: JOR
+    shapeID: 86222999B75802458029993
+  SahabAdm2JOR:
+    admin_name: Sahab
+    iso3c: JOR
+    shapeID: 86222999B50921182597038
+  Samaas-SarhanAdm2JOR:
+    admin_name: Samaas-Sarhan
+    iso3c: JOR
+    shapeID: 86222999B39795935139344
+  Shunaal-JabiniyyaAdm2JOR:
+    admin_name: Shunaal-Jabiniyya
+    iso3c: JOR
+    shapeID: 86222999B92273363321680
+  TafilahAdm1JOR:
+    admin_name: Tafilah
+    iso3c: JOR
+    shapeID: 50493656B42397385377058
+  TayybehAdm2JOR:
+    admin_name: Tayybeh
+    iso3c: JOR
+    shapeID: 86222999B7432817006575
+  Umal-BasatinAdm2JOR:
+    admin_name: Umal-Basatin
+    iso3c: JOR
+    shapeID: 86222999B75702263193476
+  Wadial-SayrAdm2JOR:
+    admin_name: Wadial-Sayr
+    iso3c: JOR
+    shapeID: 86222999B80282499365551
+  WadiArabaAdm2JOR:
+    admin_name: WadiAraba
+    iso3c: JOR
+    shapeID: 86222999B52255495566406
+  WadiMusaAdm2JOR:
+    admin_name: WadiMusa
+    iso3c: JOR
+    shapeID: 86222999B60982713729185
+  WastiyyehAdm2JOR:
+    admin_name: Wastiyyeh
+    iso3c: JOR
+    shapeID: 86222999B24356459584241
+  ZarqaAdm1JOR:
+    admin_name: Zarqa
+    iso3c: JOR
+    shapeID: 50493656B99152079712432

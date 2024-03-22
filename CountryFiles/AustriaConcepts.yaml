@@ -1,10 +1,413 @@
 concepts:
-    - Tirol
-    - Steiermark
-    - Burgenland
-    - Vorarlberg
-    - Wien
-    - Salzburg
-    - Oberösterreich
-    - Kärnten
-    - Niederösterreich
+  AmstettenAdm2AUT:
+    admin_name: Amstetten
+    iso3c: AUT
+    shapeID: 14549572B96499603225399
+  BadenAdm2AUT:
+    admin_name: Baden
+    iso3c: AUT
+    shapeID: 14549572B55208293376472
+  BludenzAdm2AUT:
+    admin_name: Bludenz
+    iso3c: AUT
+    shapeID: 14549572B41160672699042
+  BraunauamInnAdm2AUT:
+    admin_name: BraunauamInn
+    iso3c: AUT
+    shapeID: 14549572B55197725393171
+  BregenzAdm2AUT:
+    admin_name: Bregenz
+    iso3c: AUT
+    shapeID: 14549572B81751018593131
+  Bruck-MürzzuschlagAdm2AUT:
+    admin_name: Bruck-Mürzzuschlag
+    iso3c: AUT
+    shapeID: 14549572B94683998284044
+  BruckanderLeithaAdm2AUT:
+    admin_name: BruckanderLeitha
+    iso3c: AUT
+    shapeID: 14549572B44160776014902
+  BurgenlandAdm1AUT:
+    admin_name: Burgenland
+    iso3c: AUT
+    shapeID: 97560089B12055607938436
+  DeutschlandsbergAdm2AUT:
+    admin_name: Deutschlandsberg
+    iso3c: AUT
+    shapeID: 14549572B41302115637619
+  DornbirnAdm2AUT:
+    admin_name: Dornbirn
+    iso3c: AUT
+    shapeID: 14549572B2788459518344
+  EferdingAdm2AUT:
+    admin_name: Eferding
+    iso3c: AUT
+    shapeID: 14549572B58956451713860
+  Eisenstadt-UmgebungAdm2AUT:
+    admin_name: Eisenstadt-Umgebung
+    iso3c: AUT
+    shapeID: 14549572B42773382597279
+  Eisenstadt(Stadt)Adm2AUT:
+    admin_name: Eisenstadt(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B42934090716904
+  FeldkirchAdm2AUT:
+    admin_name: Feldkirch
+    iso3c: AUT
+    shapeID: 14549572B80242755253081
+  FeldkirchenAdm2AUT:
+    admin_name: Feldkirchen
+    iso3c: AUT
+    shapeID: 14549572B47665987386389
+  FreistadtAdm2AUT:
+    admin_name: Freistadt
+    iso3c: AUT
+    shapeID: 14549572B58764549276326
+  GänserndorfAdm2AUT:
+    admin_name: Gänserndorf
+    iso3c: AUT
+    shapeID: 14549572B11117294773802
+  GmündAdm2AUT:
+    admin_name: Gmünd
+    iso3c: AUT
+    shapeID: 14549572B74783988457601
+  GmundenAdm2AUT:
+    admin_name: Gmunden
+    iso3c: AUT
+    shapeID: 14549572B77434838752176
+  Graz-UmgebungAdm2AUT:
+    admin_name: Graz-Umgebung
+    iso3c: AUT
+    shapeID: 14549572B3684891259076
+  Graz(Stadt)Adm2AUT:
+    admin_name: Graz(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B62018826292176
+  GrieskirchenAdm2AUT:
+    admin_name: Grieskirchen
+    iso3c: AUT
+    shapeID: 14549572B9940951169199
+  GüssingAdm2AUT:
+    admin_name: Güssing
+    iso3c: AUT
+    shapeID: 14549572B95513222830775
+  HalleinAdm2AUT:
+    admin_name: Hallein
+    iso3c: AUT
+    shapeID: 14549572B58062952294319
+  Hartberg-FürstenfeldAdm2AUT:
+    admin_name: Hartberg-Fürstenfeld
+    iso3c: AUT
+    shapeID: 14549572B55609752698856
+  HermagorAdm2AUT:
+    admin_name: Hermagor
+    iso3c: AUT
+    shapeID: 14549572B75103702321427
+  HollabrunnAdm2AUT:
+    admin_name: Hollabrunn
+    iso3c: AUT
+    shapeID: 14549572B25663415293212
+  HornAdm2AUT:
+    admin_name: Horn
+    iso3c: AUT
+    shapeID: 14549572B37819300822483
+  ImstAdm2AUT:
+    admin_name: Imst
+    iso3c: AUT
+    shapeID: 14549572B38890589563780
+  Innsbruck-LandAdm2AUT:
+    admin_name: Innsbruck-Land
+    iso3c: AUT
+    shapeID: 14549572B66922118471265
+  Innsbruck-StadtAdm2AUT:
+    admin_name: Innsbruck-Stadt
+    iso3c: AUT
+    shapeID: 14549572B66440199286019
+  JennersdorfAdm2AUT:
+    admin_name: Jennersdorf
+    iso3c: AUT
+    shapeID: 14549572B56118074720485
+  KärntenAdm1AUT:
+    admin_name: Kärnten
+    iso3c: AUT
+    shapeID: 97560089B55365172259742
+  KirchdorfanderKremsAdm2AUT:
+    admin_name: KirchdorfanderKrems
+    iso3c: AUT
+    shapeID: 14549572B38894740445417
+  KitzbühelAdm2AUT:
+    admin_name: Kitzbühel
+    iso3c: AUT
+    shapeID: 14549572B44298066383841
+  Klagenfurt(Stadt)Adm2AUT:
+    admin_name: Klagenfurt(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B120046562569
+  KlagenfurtLandAdm2AUT:
+    admin_name: KlagenfurtLand
+    iso3c: AUT
+    shapeID: 14549572B38736902146486
+  KorneuburgAdm2AUT:
+    admin_name: Korneuburg
+    iso3c: AUT
+    shapeID: 14549572B4505835090563
+  Krems(Land)Adm2AUT:
+    admin_name: Krems(Land)
+    iso3c: AUT
+    shapeID: 14549572B17511586897466
+  KremsanderDonau(Stadt)Adm2AUT:
+    admin_name: KremsanderDonau(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B91135602876428
+  KufsteinAdm2AUT:
+    admin_name: Kufstein
+    iso3c: AUT
+    shapeID: 14549572B59844818715451
+  LandeckAdm2AUT:
+    admin_name: Landeck
+    iso3c: AUT
+    shapeID: 14549572B1495369757846
+  LeibnitzAdm2AUT:
+    admin_name: Leibnitz
+    iso3c: AUT
+    shapeID: 14549572B13674595787966
+  LeobenAdm2AUT:
+    admin_name: Leoben
+    iso3c: AUT
+    shapeID: 14549572B99745106362124
+  LienzAdm2AUT:
+    admin_name: Lienz
+    iso3c: AUT
+    shapeID: 14549572B80741192481461
+  LiezenAdm2AUT:
+    admin_name: Liezen
+    iso3c: AUT
+    shapeID: 14549572B47205834081822
+  LilienfeldAdm2AUT:
+    admin_name: Lilienfeld
+    iso3c: AUT
+    shapeID: 14549572B21749172067380
+  Linz-LandAdm2AUT:
+    admin_name: Linz-Land
+    iso3c: AUT
+    shapeID: 14549572B77519525915524
+  Linz(Stadt)Adm2AUT:
+    admin_name: Linz(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B96217640183416
+  MattersburgAdm2AUT:
+    admin_name: Mattersburg
+    iso3c: AUT
+    shapeID: 14549572B54924722393177
+  MelkAdm2AUT:
+    admin_name: Melk
+    iso3c: AUT
+    shapeID: 14549572B79532405595503
+  MistelbachAdm2AUT:
+    admin_name: Mistelbach
+    iso3c: AUT
+    shapeID: 14549572B80454690020215
+  MödlingAdm2AUT:
+    admin_name: Mödling
+    iso3c: AUT
+    shapeID: 14549572B30005967940450
+  MurauAdm2AUT:
+    admin_name: Murau
+    iso3c: AUT
+    shapeID: 14549572B5680127390919
+  MurtalAdm2AUT:
+    admin_name: Murtal
+    iso3c: AUT
+    shapeID: 14549572B5280501817334
+  NeunkirchenAdm2AUT:
+    admin_name: Neunkirchen
+    iso3c: AUT
+    shapeID: 14549572B78442529062401
+  NeusiedlamSeeAdm2AUT:
+    admin_name: NeusiedlamSee
+    iso3c: AUT
+    shapeID: 14549572B9829477646273
+  NiederösterreichAdm1AUT:
+    admin_name: Niederösterreich
+    iso3c: AUT
+    shapeID: 97560089B30234814950985
+  OberösterreichAdm1AUT:
+    admin_name: Oberösterreich
+    iso3c: AUT
+    shapeID: 97560089B86772589826985
+  OberpullendorfAdm2AUT:
+    admin_name: Oberpullendorf
+    iso3c: AUT
+    shapeID: 14549572B63430755874658
+  OberwartAdm2AUT:
+    admin_name: Oberwart
+    iso3c: AUT
+    shapeID: 14549572B34947061849091
+  PergAdm2AUT:
+    admin_name: Perg
+    iso3c: AUT
+    shapeID: 14549572B82951321979539
+  ReutteAdm2AUT:
+    admin_name: Reutte
+    iso3c: AUT
+    shapeID: 14549572B67671541166056
+  RiedimInnkreisAdm2AUT:
+    admin_name: RiedimInnkreis
+    iso3c: AUT
+    shapeID: 14549572B74865377205393
+  RohrbachAdm2AUT:
+    admin_name: Rohrbach
+    iso3c: AUT
+    shapeID: 14549572B3648245440037
+  Rust(Stadt)Adm2AUT:
+    admin_name: Rust(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B63332464794516
+  Salzburg-UmgebungAdm2AUT:
+    admin_name: Salzburg-Umgebung
+    iso3c: AUT
+    shapeID: 14549572B80883353663725
+  Salzburg(Stadt)Adm2AUT:
+    admin_name: Salzburg(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B48902523635521
+  SalzburgAdm1AUT:
+    admin_name: Salzburg
+    iso3c: AUT
+    shapeID: 97560089B65158936715310
+  SanktJohannimPongauAdm2AUT:
+    admin_name: SanktJohannimPongau
+    iso3c: AUT
+    shapeID: 14549572B81375384151440
+  SanktPölten(Land)Adm2AUT:
+    admin_name: SanktPölten(Land)
+    iso3c: AUT
+    shapeID: 14549572B36790044704136
+  SanktPölten(Stadt)Adm2AUT:
+    admin_name: SanktPölten(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B80710785745839
+  SanktVeitanderGlanAdm2AUT:
+    admin_name: SanktVeitanderGlan
+    iso3c: AUT
+    shapeID: 14549572B79241155070811
+  SchärdingAdm2AUT:
+    admin_name: Schärding
+    iso3c: AUT
+    shapeID: 14549572B77378087983833
+  ScheibbsAdm2AUT:
+    admin_name: Scheibbs
+    iso3c: AUT
+    shapeID: 14549572B41539684313682
+  SchwazAdm2AUT:
+    admin_name: Schwaz
+    iso3c: AUT
+    shapeID: 14549572B36703389506709
+  SpittalanderDrauAdm2AUT:
+    admin_name: SpittalanderDrau
+    iso3c: AUT
+    shapeID: 14549572B5563288813378
+  SteiermarkAdm1AUT:
+    admin_name: Steiermark
+    iso3c: AUT
+    shapeID: 97560089B87855108402029
+  Steyr-LandAdm2AUT:
+    admin_name: Steyr-Land
+    iso3c: AUT
+    shapeID: 14549572B95795857580368
+  Steyr(Stadt)Adm2AUT:
+    admin_name: Steyr(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B44973380908998
+  SüdoststeiermarkAdm2AUT:
+    admin_name: Südoststeiermark
+    iso3c: AUT
+    shapeID: 14549572B2105693319096
+  TamswegAdm2AUT:
+    admin_name: Tamsweg
+    iso3c: AUT
+    shapeID: 14549572B5163353655398
+  TirolAdm1AUT:
+    admin_name: Tirol
+    iso3c: AUT
+    shapeID: 97560089B46292059412713
+  TullnAdm2AUT:
+    admin_name: Tulln
+    iso3c: AUT
+    shapeID: 14549572B69834744400271
+  Urfahr-UmgebungAdm2AUT:
+    admin_name: Urfahr-Umgebung
+    iso3c: AUT
+    shapeID: 14549572B23101130248383
+  Villach(Stadt)Adm2AUT:
+    admin_name: Villach(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B91657793065449
+  VillachLandAdm2AUT:
+    admin_name: VillachLand
+    iso3c: AUT
+    shapeID: 14549572B90792399877062
+  VöcklabruckAdm2AUT:
+    admin_name: Vöcklabruck
+    iso3c: AUT
+    shapeID: 14549572B27080070946592
+  VoitsbergAdm2AUT:
+    admin_name: Voitsberg
+    iso3c: AUT
+    shapeID: 14549572B18383956859097
+  VölkermarktAdm2AUT:
+    admin_name: Völkermarkt
+    iso3c: AUT
+    shapeID: 14549572B94258611275926
+  VorarlbergAdm1AUT:
+    admin_name: Vorarlberg
+    iso3c: AUT
+    shapeID: 97560089B20931628540879
+  WaidhofenanderThayaAdm2AUT:
+    admin_name: WaidhofenanderThaya
+    iso3c: AUT
+    shapeID: 14549572B32658939517567
+  WaidhofenanderYbbs(Stadt)Adm2AUT:
+    admin_name: WaidhofenanderYbbs(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B22426676215566
+  WeizAdm2AUT:
+    admin_name: Weiz
+    iso3c: AUT
+    shapeID: 14549572B66706481000186
+  Wels-LandAdm2AUT:
+    admin_name: Wels-Land
+    iso3c: AUT
+    shapeID: 14549572B79017974410181
+  Wels(Stadt)Adm2AUT:
+    admin_name: Wels(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B59174273305720
+  Wien(Stadt)Adm2AUT:
+    admin_name: Wien(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B24691553772644
+  WienAdm1AUT:
+    admin_name: Wien
+    iso3c: AUT
+    shapeID: 97560089B24691553772644
+  WienerNeustadt(Land)Adm2AUT:
+    admin_name: WienerNeustadt(Land)
+    iso3c: AUT
+    shapeID: 14549572B56305741888940
+  WienerNeustadt(Stadt)Adm2AUT:
+    admin_name: WienerNeustadt(Stadt)
+    iso3c: AUT
+    shapeID: 14549572B50853821374645
+  WolfsbergAdm2AUT:
+    admin_name: Wolfsberg
+    iso3c: AUT
+    shapeID: 14549572B95590877678273
+  ZellamSeeAdm2AUT:
+    admin_name: ZellamSee
+    iso3c: AUT
+    shapeID: 14549572B17202762284767
+  ZwettlAdm2AUT:
+    admin_name: Zwettl
+    iso3c: AUT
+    shapeID: 14549572B69216186018190

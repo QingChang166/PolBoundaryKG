@@ -1,14 +1,353 @@
 concepts:
-    - NorthwestTerritories
-    - Alberta
-    - BritishColumbia
-    - Yukon
-    - Saskatchewan
-    - Nunavut
-    - NewfoundlandandLabrador
-    - PrinceEdwardIsland
-    - NovaScotia
-    - NewBrunswick
-    - Quebec
-    - Ontario
-    - Manitoba
+  Abitibi-TémiscamingueAdm2CAN:
+    admin_name: Abitibi-Témiscamingue
+    iso3c: CAN
+    shapeID: 811477B53502850558917
+  AlbertaAdm1CAN:
+    admin_name: Alberta
+    iso3c: CAN
+    shapeID: 82249235B5553315981608
+  AnnapolisValleyAdm2CAN:
+    admin_name: AnnapolisValley
+    iso3c: CAN
+    shapeID: 811477B46471323661826
+  Athabasca--GrandePrairie--Pe*Adm2CAN:
+    admin_name: Athabasca--GrandePrairie--Pe*
+    iso3c: CAN
+    shapeID: 811477B52238301703097
+  AvalonPeninsulaAdm2CAN:
+    admin_name: AvalonPeninsula
+    iso3c: CAN
+    shapeID: 811477B25825438233887
+  Banff--Jasper--RockyMountain*Adm2CAN:
+    admin_name: Banff--Jasper--RockyMountain*
+    iso3c: CAN
+    shapeID: 811477B6794370445536
+  Bas-Saint-LaurentAdm2CAN:
+    admin_name: Bas-Saint-Laurent
+    iso3c: CAN
+    shapeID: 811477B72713062491295
+  BritishColumbiaAdm1CAN:
+    admin_name: BritishColumbia
+    iso3c: CAN
+    shapeID: 82249235B24619009834807
+  CalgaryAdm2CAN:
+    admin_name: Calgary
+    iso3c: CAN
+    shapeID: 811477B63096276247091
+  Campbellton--MiramichiAdm2CAN:
+    admin_name: Campbellton--Miramichi
+    iso3c: CAN
+    shapeID: 811477B32681806603113
+  Camrose--DrumhellerAdm2CAN:
+    admin_name: Camrose--Drumheller
+    iso3c: CAN
+    shapeID: 811477B18963105531300
+  CapeBretonAdm2CAN:
+    admin_name: CapeBreton
+    iso3c: CAN
+    shapeID: 811477B34653806269140
+  Capitale-NationaleAdm2CAN:
+    admin_name: Capitale-Nationale
+    iso3c: CAN
+    shapeID: 811477B76079196680342
+  CaribooAdm2CAN:
+    admin_name: Cariboo
+    iso3c: CAN
+    shapeID: 811477B16322503842714
+  Centre-du-QuébecAdm2CAN:
+    admin_name: Centre-du-Québec
+    iso3c: CAN
+    shapeID: 811477B16566430177620
+  Chaudière-AppalachesAdm2CAN:
+    admin_name: Chaudière-Appalaches
+    iso3c: CAN
+    shapeID: 811477B14378531582745
+  Côte-NordAdm2CAN:
+    admin_name: Côte-Nord
+    iso3c: CAN
+    shapeID: 811477B28478756836533
+  EdmontonAdm2CAN:
+    admin_name: Edmonton
+    iso3c: CAN
+    shapeID: 811477B65555147330187
+  Edmundston--WoodstockAdm2CAN:
+    admin_name: Edmundston--Woodstock
+    iso3c: CAN
+    shapeID: 811477B2528613177772
+  EstrieAdm2CAN:
+    admin_name: Estrie
+    iso3c: CAN
+    shapeID: 811477B23883248376492
+  Fredericton--OromoctoAdm2CAN:
+    admin_name: Fredericton--Oromocto
+    iso3c: CAN
+    shapeID: 811477B77394279181451
+  Gaspésie--Îles-de-la-MadeleiAdm2CAN:
+    admin_name: Gaspésie--Îles-de-la-Madelei
+    iso3c: CAN
+    shapeID: 811477B83690670726478
+  HalifaxAdm2CAN:
+    admin_name: Halifax
+    iso3c: CAN
+    shapeID: 811477B772229677818
+  Hamilton--NiagaraPeninsulaAdm2CAN:
+    admin_name: Hamilton--NiagaraPeninsula
+    iso3c: CAN
+    shapeID: 811477B46333473777628
+  InterlakeAdm2CAN:
+    admin_name: Interlake
+    iso3c: CAN
+    shapeID: 811477B58370498971014
+  Kingston--PembrokeAdm2CAN:
+    admin_name: Kingston--Pembroke
+    iso3c: CAN
+    shapeID: 811477B62189271457838
+  Kitchener--Waterloo--BarrieAdm2CAN:
+    admin_name: Kitchener--Waterloo--Barrie
+    iso3c: CAN
+    shapeID: 811477B58259401373998
+  KootenayAdm2CAN:
+    admin_name: Kootenay
+    iso3c: CAN
+    shapeID: 811477B17102347998990
+  LanaudièreAdm2CAN:
+    admin_name: Lanaudière
+    iso3c: CAN
+    shapeID: 811477B25883499067211
+  LaurentidesAdm2CAN:
+    admin_name: Laurentides
+    iso3c: CAN
+    shapeID: 811477B98251236727118
+  LavalAdm2CAN:
+    admin_name: Laval
+    iso3c: CAN
+    shapeID: 811477B18310257364605
+  Lethbridge--MedicineHatAdm2CAN:
+    admin_name: Lethbridge--MedicineHat
+    iso3c: CAN
+    shapeID: 811477B22056200748647
+  LondonAdm2CAN:
+    admin_name: London
+    iso3c: CAN
+    shapeID: 811477B53026526686124
+  LowerMainland--Southwest/L*Adm2CAN:
+    admin_name: LowerMainland--Southwest/L*
+    iso3c: CAN
+    shapeID: 811477B92979298111038
+  ManitobaAdm1CAN:
+    admin_name: Manitoba
+    iso3c: CAN
+    shapeID: 82249235B50381585000441
+  MauricieAdm2CAN:
+    admin_name: Mauricie
+    iso3c: CAN
+    shapeID: 811477B9927765921058
+  Moncton--RichibuctoAdm2CAN:
+    admin_name: Moncton--Richibucto
+    iso3c: CAN
+    shapeID: 811477B10091051232665
+  MontérégieAdm2CAN:
+    admin_name: Montérégie
+    iso3c: CAN
+    shapeID: 811477B95270130907669
+  MontréalAdm2CAN:
+    admin_name: Montréal
+    iso3c: CAN
+    shapeID: 811477B39607873934599
+  Muskoka--KawarthasAdm2CAN:
+    admin_name: Muskoka--Kawarthas
+    iso3c: CAN
+    shapeID: 811477B35801915414510
+  NechakoAdm2CAN:
+    admin_name: Nechako
+    iso3c: CAN
+    shapeID: 811477B50846318398433
+  NewBrunswickAdm1CAN:
+    admin_name: NewBrunswick
+    iso3c: CAN
+    shapeID: 82249235B4167839012994
+  NewfoundlandandLabradorAdm1CAN:
+    admin_name: NewfoundlandandLabrador
+    iso3c: CAN
+    shapeID: 82249235B96958463903898
+  Nord-du-QuébecAdm2CAN:
+    admin_name: Nord-du-Québec
+    iso3c: CAN
+    shapeID: 811477B94098391205928
+  North/NordAdm2CAN:
+    admin_name: North/Nord
+    iso3c: CAN
+    shapeID: 811477B37780591803874
+  NorthCentral/CentrenordAdm2CAN:
+    admin_name: NorthCentral/Centrenord
+    iso3c: CAN
+    shapeID: 811477B41271029806166
+  NorthCoast/Côte-nordAdm2CAN:
+    admin_name: NorthCoast/Côte-nord
+    iso3c: CAN
+    shapeID: 811477B51248410947811
+  Northeast/Nord-estAdm2CAN:
+    admin_name: Northeast/Nord-est
+    iso3c: CAN
+    shapeID: 811477B61209589162148
+  Northern/NordAdm2CAN:
+    admin_name: Northern/Nord
+    iso3c: CAN
+    shapeID: 811477B84145681599203
+  NorthShore/Côte-nordAdm2CAN:
+    admin_name: NorthShore/Côte-nord
+    iso3c: CAN
+    shapeID: 811477B41230698537605
+  Northwest/Nord-ouestAdm2CAN:
+    admin_name: Northwest/Nord-ouest
+    iso3c: CAN
+    shapeID: 811477B31854329878233
+  NorthwestTerritories/Terri*Adm2CAN:
+    admin_name: NorthwestTerritories/Terri*
+    iso3c: CAN
+    shapeID: 811477B98274245708554
+  NorthwestTerritoriesAdm1CAN:
+    admin_name: NorthwestTerritories
+    iso3c: CAN
+    shapeID: 82249235B82395866892480
+  NotreDame--CentralBonavista*Adm2CAN:
+    admin_name: NotreDame--CentralBonavista*
+    iso3c: CAN
+    shapeID: 811477B90164277950663
+  NovaScotiaAdm1CAN:
+    admin_name: NovaScotia
+    iso3c: CAN
+    shapeID: 82249235B69645938038492
+  NunavutAdm1CAN:
+    admin_name: Nunavut
+    iso3c: CAN
+    shapeID: 82249235B23927232378620
+  NunavutAdm2CAN:
+    admin_name: Nunavut
+    iso3c: CAN
+    shapeID: 811477B26547766372806
+  OntarioAdm1CAN:
+    admin_name: Ontario
+    iso3c: CAN
+    shapeID: 82249235B66370767641120
+  OttawaAdm2CAN:
+    admin_name: Ottawa
+    iso3c: CAN
+    shapeID: 811477B85931941465938
+  OutaouaisAdm2CAN:
+    admin_name: Outaouais
+    iso3c: CAN
+    shapeID: 811477B56871273530804
+  ParklandsAdm2CAN:
+    admin_name: Parklands
+    iso3c: CAN
+    shapeID: 811477B68585470358091
+  PrinceAlbertAdm2CAN:
+    admin_name: PrinceAlbert
+    iso3c: CAN
+    shapeID: 811477B12991983427491
+  PrinceEdwardIsland/Île-duAdm2CAN:
+    admin_name: PrinceEdwardIsland/Île-du
+    iso3c: CAN
+    shapeID: 811477B18636492208722
+  PrinceEdwardIslandAdm1CAN:
+    admin_name: PrinceEdwardIsland
+    iso3c: CAN
+    shapeID: 82249235B3191732862561
+  QuebecAdm1CAN:
+    admin_name: Quebec
+    iso3c: CAN
+    shapeID: 82249235B52639524229375
+  RedDeerAdm2CAN:
+    admin_name: RedDeer
+    iso3c: CAN
+    shapeID: 811477B36928320026762
+  Regina--MooseMountainAdm2CAN:
+    admin_name: Regina--MooseMountain
+    iso3c: CAN
+    shapeID: 811477B97144147936178
+  Saguenay--Lac-Saint-JeanAdm2CAN:
+    admin_name: Saguenay--Lac-Saint-Jean
+    iso3c: CAN
+    shapeID: 811477B62930517088497
+  SaintJohn--St.StephenAdm2CAN:
+    admin_name: SaintJohn--St.Stephen
+    iso3c: CAN
+    shapeID: 811477B20578745802052
+  SaskatchewanAdm1CAN:
+    admin_name: Saskatchewan
+    iso3c: CAN
+    shapeID: 82249235B71336988791422
+  Saskatoon--BiggarAdm2CAN:
+    admin_name: Saskatoon--Biggar
+    iso3c: CAN
+    shapeID: 811477B54517357907665
+  SouthCentral/CentresudAdm2CAN:
+    admin_name: SouthCentral/Centresud
+    iso3c: CAN
+    shapeID: 811477B19193173809350
+  SouthCoast--BurinPeninsula*Adm2CAN:
+    admin_name: SouthCoast--BurinPeninsula*
+    iso3c: CAN
+    shapeID: 811477B14604882174662
+  Southeast/Sud-estAdm2CAN:
+    admin_name: Southeast/Sud-est
+    iso3c: CAN
+    shapeID: 811477B90779498920420
+  Southern/SudAdm2CAN:
+    admin_name: Southern/Sud
+    iso3c: CAN
+    shapeID: 811477B76043940988669
+  Southwest/Sud-ouestAdm2CAN:
+    admin_name: Southwest/Sud-ouest
+    iso3c: CAN
+    shapeID: 811477B58273447448360
+  Stratford--BrucePeninsulaAdm2CAN:
+    admin_name: Stratford--BrucePeninsula
+    iso3c: CAN
+    shapeID: 811477B72757593156703
+  SwiftCurrent--MooseJawAdm2CAN:
+    admin_name: SwiftCurrent--MooseJaw
+    iso3c: CAN
+    shapeID: 811477B43465870880660
+  Thompson--OkanaganAdm2CAN:
+    admin_name: Thompson--Okanagan
+    iso3c: CAN
+    shapeID: 811477B2093292378449
+  TorontoAdm2CAN:
+    admin_name: Toronto
+    iso3c: CAN
+    shapeID: 811477B53273056717807
+  VancouverIslandandCoast/*Adm2CAN:
+    admin_name: VancouverIslandandCoast/*
+    iso3c: CAN
+    shapeID: 811477B94175417420797
+  WestCoast--NorthernPeninsul*Adm2CAN:
+    admin_name: WestCoast--NorthernPeninsul*
+    iso3c: CAN
+    shapeID: 811477B46540851018078
+  Windsor--SarniaAdm2CAN:
+    admin_name: Windsor--Sarnia
+    iso3c: CAN
+    shapeID: 811477B8793422234582
+  WinnipegAdm2CAN:
+    admin_name: Winnipeg
+    iso3c: CAN
+    shapeID: 811477B32893838170945
+  WoodBuffalo--ColdLakeAdm2CAN:
+    admin_name: WoodBuffalo--ColdLake
+    iso3c: CAN
+    shapeID: 811477B63130221502848
+  Yorkton--MelvilleAdm2CAN:
+    admin_name: Yorkton--Melville
+    iso3c: CAN
+    shapeID: 811477B87665829892242
+  YukonAdm1CAN:
+    admin_name: Yukon
+    iso3c: CAN
+    shapeID: 82249235B9619254975586
+  YukonAdm2CAN:
+    admin_name: Yukon
+    iso3c: CAN
+    shapeID: 811477B48084920918321

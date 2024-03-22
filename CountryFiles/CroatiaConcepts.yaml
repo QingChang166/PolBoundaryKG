@@ -1,22 +1,2321 @@
 concepts:
-    - Vukovar-Syrmia
-    - Primorje-GorskiKotar
-    - Lika-Senj
-    - Virovitica-Podravina
-    - Po?ega-Slavonia
-    - Osijek-Baranja
-    - CityofZagreb
-    - Brod-Posavina
-    - Karlovac
-    - Istria
-    - Bjelovar-Bilogora
-    - Me?imurje
-    - ZadarCounty
-    - Sisak-Moslavina
-    - Krapina-Zagorje
-    - Split-Dalmatia
-    - Koprivnica-Kri?evci
-    - Vara?din
-    - ?ibenik-Knin
-    - ZagrebCounty
-    - Dubrovnik-Neretva
+  Bjelovar-BilogoraAdm1HRV:
+    admin_name: Bjelovar-Bilogora
+    iso3c: HRV
+    shapeID: 27960609B61435151319217
+  Brod-PosavinaAdm1HRV:
+    admin_name: Brod-Posavina
+    iso3c: HRV
+    shapeID: 27960609B28391940023517
+  CityofZagrebAdm1HRV:
+    admin_name: CityofZagreb
+    iso3c: HRV
+    shapeID: 27960609B76540875123137
+  Dubrovnik-NeretvaAdm1HRV:
+    admin_name: Dubrovnik-Neretva
+    iso3c: HRV
+    shapeID: 27960609B17332035414986
+  GradBakarAdm2HRV:
+    admin_name: GradBakar
+    iso3c: HRV
+    shapeID: 41942358B45908620030529
+  GradBeliManastirAdm2HRV:
+    admin_name: GradBeliManastir
+    iso3c: HRV
+    shapeID: 41942358B55009736004667
+  GradBelišćeAdm2HRV:
+    admin_name: GradBelišće
+    iso3c: HRV
+    shapeID: 41942358B83936306331720
+  GradBenkovacAdm2HRV:
+    admin_name: GradBenkovac
+    iso3c: HRV
+    shapeID: 41942358B86279798675617
+  GradBiogradnaMoruAdm2HRV:
+    admin_name: GradBiogradnaMoru
+    iso3c: HRV
+    shapeID: 41942358B6176778623677
+  GradBjelovarAdm2HRV:
+    admin_name: GradBjelovar
+    iso3c: HRV
+    shapeID: 41942358B55591310034328
+  GradBujeAdm2HRV:
+    admin_name: GradBuje
+    iso3c: HRV
+    shapeID: 41942358B27785188555823
+  GradBuzetAdm2HRV:
+    admin_name: GradBuzet
+    iso3c: HRV
+    shapeID: 41942358B64929327524461
+  GradČabarAdm2HRV:
+    admin_name: GradČabar
+    iso3c: HRV
+    shapeID: 41942358B74696294231319
+  GradČakovecAdm2HRV:
+    admin_name: GradČakovec
+    iso3c: HRV
+    shapeID: 41942358B93167508493012
+  GradČazmaAdm2HRV:
+    admin_name: GradČazma
+    iso3c: HRV
+    shapeID: 41942358B40512359926955
+  GradCrikvenicaAdm2HRV:
+    admin_name: GradCrikvenica
+    iso3c: HRV
+    shapeID: 41942358B8425747882948
+  GradĐakovoAdm2HRV:
+    admin_name: GradĐakovo
+    iso3c: HRV
+    shapeID: 41942358B74230403119288
+  GradDaruvarAdm2HRV:
+    admin_name: GradDaruvar
+    iso3c: HRV
+    shapeID: 41942358B55699892689153
+  GradDelniceAdm2HRV:
+    admin_name: GradDelnice
+    iso3c: HRV
+    shapeID: 41942358B66479585284218
+  GradDonjaStubicaAdm2HRV:
+    admin_name: GradDonjaStubica
+    iso3c: HRV
+    shapeID: 41942358B5873204091997
+  GradDonjiMiholjacAdm2HRV:
+    admin_name: GradDonjiMiholjac
+    iso3c: HRV
+    shapeID: 41942358B15513479001073
+  GradDrnišAdm2HRV:
+    admin_name: GradDrniš
+    iso3c: HRV
+    shapeID: 41942358B44165772001796
+  GradDubrovnikAdm2HRV:
+    admin_name: GradDubrovnik
+    iso3c: HRV
+    shapeID: 41942358B7271748669279
+  GradDugaResaAdm2HRV:
+    admin_name: GradDugaResa
+    iso3c: HRV
+    shapeID: 41942358B21153558344658
+  GradDugoSeloAdm2HRV:
+    admin_name: GradDugoSelo
+    iso3c: HRV
+    shapeID: 41942358B96150752107300
+  GradĐurđevacAdm2HRV:
+    admin_name: GradĐurđevac
+    iso3c: HRV
+    shapeID: 41942358B64447432667276
+  GradGarešnicaAdm2HRV:
+    admin_name: GradGarešnica
+    iso3c: HRV
+    shapeID: 41942358B15886751744680
+  GradGlinaAdm2HRV:
+    admin_name: GradGlina
+    iso3c: HRV
+    shapeID: 41942358B45590159504357
+  GradGospićAdm2HRV:
+    admin_name: GradGospić
+    iso3c: HRV
+    shapeID: 41942358B18437886938892
+  GradGrubišnoPoljeAdm2HRV:
+    admin_name: GradGrubišnoPolje
+    iso3c: HRV
+    shapeID: 41942358B13432222184873
+  GradHrvatskaKostajnicaAdm2HRV:
+    admin_name: GradHrvatskaKostajnica
+    iso3c: HRV
+    shapeID: 41942358B99189294915481
+  GradHvarAdm2HRV:
+    admin_name: GradHvar
+    iso3c: HRV
+    shapeID: 41942358B62948971523920
+  GradIlokAdm2HRV:
+    admin_name: GradIlok
+    iso3c: HRV
+    shapeID: 41942358B55665753142928
+  GradImotskiAdm2HRV:
+    admin_name: GradImotski
+    iso3c: HRV
+    shapeID: 41942358B54061913174641
+  GradIvanecAdm2HRV:
+    admin_name: GradIvanec
+    iso3c: HRV
+    shapeID: 41942358B25965451539763
+  GradIvanićGradAdm2HRV:
+    admin_name: GradIvanićGrad
+    iso3c: HRV
+    shapeID: 41942358B6406776425998
+  GradJastrebarskoAdm2HRV:
+    admin_name: GradJastrebarsko
+    iso3c: HRV
+    shapeID: 41942358B36762241378453
+  GradKarlovacAdm2HRV:
+    admin_name: GradKarlovac
+    iso3c: HRV
+    shapeID: 41942358B65976264535285
+  GradKastavAdm2HRV:
+    admin_name: GradKastav
+    iso3c: HRV
+    shapeID: 41942358B6089837574629
+  GradKaštelaAdm2HRV:
+    admin_name: GradKaštela
+    iso3c: HRV
+    shapeID: 41942358B24847699776979
+  GradKlanjecAdm2HRV:
+    admin_name: GradKlanjec
+    iso3c: HRV
+    shapeID: 41942358B11577968549196
+  GradKninAdm2HRV:
+    admin_name: GradKnin
+    iso3c: HRV
+    shapeID: 41942358B41124787035973
+  GradKomižaAdm2HRV:
+    admin_name: GradKomiža
+    iso3c: HRV
+    shapeID: 41942358B14610637892959
+  GradKoprivnicaAdm2HRV:
+    admin_name: GradKoprivnica
+    iso3c: HRV
+    shapeID: 41942358B2418052653219
+  GradKorčulaAdm2HRV:
+    admin_name: GradKorčula
+    iso3c: HRV
+    shapeID: 41942358B11408332242039
+  GradKraljevicaAdm2HRV:
+    admin_name: GradKraljevica
+    iso3c: HRV
+    shapeID: 41942358B65119240177861
+  GradKrapinaAdm2HRV:
+    admin_name: GradKrapina
+    iso3c: HRV
+    shapeID: 41942358B55122966384569
+  GradKriževciAdm2HRV:
+    admin_name: GradKriževci
+    iso3c: HRV
+    shapeID: 41942358B60411505919616
+  GradKutinaAdm2HRV:
+    admin_name: GradKutina
+    iso3c: HRV
+    shapeID: 41942358B13832524664544
+  GradKutjevoAdm2HRV:
+    admin_name: GradKutjevo
+    iso3c: HRV
+    shapeID: 41942358B94141520470755
+  GradLabinAdm2HRV:
+    admin_name: GradLabin
+    iso3c: HRV
+    shapeID: 41942358B89257435553809
+  GradLepoglavaAdm2HRV:
+    admin_name: GradLepoglava
+    iso3c: HRV
+    shapeID: 41942358B87260049315575
+  GradLipikAdm2HRV:
+    admin_name: GradLipik
+    iso3c: HRV
+    shapeID: 41942358B57122337341822
+  GradLoborAdm2HRV:
+    admin_name: GradLobor
+    iso3c: HRV
+    shapeID: 41942358B21672924283440
+  GradLudbregAdm2HRV:
+    admin_name: GradLudbreg
+    iso3c: HRV
+    shapeID: 41942358B56865136958043
+  GradMakarskaAdm2HRV:
+    admin_name: GradMakarska
+    iso3c: HRV
+    shapeID: 41942358B32082098314835
+  GradMetkovićAdm2HRV:
+    admin_name: GradMetković
+    iso3c: HRV
+    shapeID: 41942358B7490239387637
+  GradMurskoSredišćeAdm2HRV:
+    admin_name: GradMurskoSredišće
+    iso3c: HRV
+    shapeID: 41942358B5918306245963
+  GradNašiceAdm2HRV:
+    admin_name: GradNašice
+    iso3c: HRV
+    shapeID: 41942358B55937535966272
+  GradNinAdm2HRV:
+    admin_name: GradNin
+    iso3c: HRV
+    shapeID: 41942358B76735856838344
+  GradNovaGradiškaAdm2HRV:
+    admin_name: GradNovaGradiška
+    iso3c: HRV
+    shapeID: 41942358B80759559879279
+  GradNovaljaAdm2HRV:
+    admin_name: GradNovalja
+    iso3c: HRV
+    shapeID: 41942358B37663074839207
+  GradNovigradAdm2HRV:
+    admin_name: GradNovigrad
+    iso3c: HRV
+    shapeID: 41942358B11875886420831
+  GradNoviMarofAdm2HRV:
+    admin_name: GradNoviMarof
+    iso3c: HRV
+    shapeID: 41942358B14240258940853
+  GradNoviVinodolskiAdm2HRV:
+    admin_name: GradNoviVinodolski
+    iso3c: HRV
+    shapeID: 41942358B34203868969139
+  GradNovskaAdm2HRV:
+    admin_name: GradNovska
+    iso3c: HRV
+    shapeID: 41942358B46819111733019
+  GradObrovacAdm2HRV:
+    admin_name: GradObrovac
+    iso3c: HRV
+    shapeID: 41942358B23722142725163
+  GradOgulinAdm2HRV:
+    admin_name: GradOgulin
+    iso3c: HRV
+    shapeID: 41942358B88781090794064
+  GradOmišAdm2HRV:
+    admin_name: GradOmiš
+    iso3c: HRV
+    shapeID: 41942358B37333491936279
+  GradOpatijaAdm2HRV:
+    admin_name: GradOpatija
+    iso3c: HRV
+    shapeID: 41942358B35810574170279
+  GradOpuzenAdm2HRV:
+    admin_name: GradOpuzen
+    iso3c: HRV
+    shapeID: 41942358B99753269844482
+  GradOrahovicaAdm2HRV:
+    admin_name: GradOrahovica
+    iso3c: HRV
+    shapeID: 41942358B74644549803644
+  GradOroslavjeAdm2HRV:
+    admin_name: GradOroslavje
+    iso3c: HRV
+    shapeID: 41942358B87319392238871
+  GradOsijekAdm2HRV:
+    admin_name: GradOsijek
+    iso3c: HRV
+    shapeID: 41942358B76899821887034
+  GradOtočacAdm2HRV:
+    admin_name: GradOtočac
+    iso3c: HRV
+    shapeID: 41942358B23713088644074
+  GradOtokAdm2HRV:
+    admin_name: GradOtok
+    iso3c: HRV
+    shapeID: 41942358B15575297558867
+  GradOzaljAdm2HRV:
+    admin_name: GradOzalj
+    iso3c: HRV
+    shapeID: 41942358B32667290541658
+  GradPagAdm2HRV:
+    admin_name: GradPag
+    iso3c: HRV
+    shapeID: 41942358B17333803192546
+  GradPakracAdm2HRV:
+    admin_name: GradPakrac
+    iso3c: HRV
+    shapeID: 41942358B72735115431411
+  GradPazinAdm2HRV:
+    admin_name: GradPazin
+    iso3c: HRV
+    shapeID: 41942358B58381248159279
+  GradPetrinjaAdm2HRV:
+    admin_name: GradPetrinja
+    iso3c: HRV
+    shapeID: 41942358B37680111509626
+  GradPleternicaAdm2HRV:
+    admin_name: GradPleternica
+    iso3c: HRV
+    shapeID: 41942358B68731238698366
+  GradPločeAdm2HRV:
+    admin_name: GradPloče
+    iso3c: HRV
+    shapeID: 41942358B61718235725154
+  GradPopovačaAdm2HRV:
+    admin_name: GradPopovača
+    iso3c: HRV
+    shapeID: 41942358B81678189205745
+  GradPorečAdm2HRV:
+    admin_name: GradPoreč
+    iso3c: HRV
+    shapeID: 41942358B59928403334518
+  GradPožegaAdm2HRV:
+    admin_name: GradPožega
+    iso3c: HRV
+    shapeID: 41942358B62336327656145
+  GradPregradaAdm2HRV:
+    admin_name: GradPregrada
+    iso3c: HRV
+    shapeID: 41942358B83553979787526
+  GradPrelogAdm2HRV:
+    admin_name: GradPrelog
+    iso3c: HRV
+    shapeID: 41942358B40529434284591
+  GradPulaAdm2HRV:
+    admin_name: GradPula
+    iso3c: HRV
+    shapeID: 41942358B74429209593321
+  GradRabAdm2HRV:
+    admin_name: GradRab
+    iso3c: HRV
+    shapeID: 41942358B47782710704848
+  GradRijekaAdm2HRV:
+    admin_name: GradRijeka
+    iso3c: HRV
+    shapeID: 41942358B36932740896564
+  GradRovinjAdm2HRV:
+    admin_name: GradRovinj
+    iso3c: HRV
+    shapeID: 41942358B42627450656332
+  GradSamoborAdm2HRV:
+    admin_name: GradSamobor
+    iso3c: HRV
+    shapeID: 41942358B81263259444247
+  GradSenjAdm2HRV:
+    admin_name: GradSenj
+    iso3c: HRV
+    shapeID: 41942358B47625090696764
+  GradŠibenikAdm2HRV:
+    admin_name: GradŠibenik
+    iso3c: HRV
+    shapeID: 41942358B48584796905591
+  GradSinjAdm2HRV:
+    admin_name: GradSinj
+    iso3c: HRV
+    shapeID: 41942358B9990231481930
+  GradSisakAdm2HRV:
+    admin_name: GradSisak
+    iso3c: HRV
+    shapeID: 41942358B87600882063308
+  GradSkradinAdm2HRV:
+    admin_name: GradSkradin
+    iso3c: HRV
+    shapeID: 41942358B6783725556911
+  GradSlatinaAdm2HRV:
+    admin_name: GradSlatina
+    iso3c: HRV
+    shapeID: 41942358B16662645858011
+  GradSlavonskiBrodAdm2HRV:
+    admin_name: GradSlavonskiBrod
+    iso3c: HRV
+    shapeID: 41942358B70056994658196
+  GradSlunjAdm2HRV:
+    admin_name: GradSlunj
+    iso3c: HRV
+    shapeID: 41942358B69896257239961
+  GradSolinAdm2HRV:
+    admin_name: GradSolin
+    iso3c: HRV
+    shapeID: 41942358B27040282046651
+  GradSplitAdm2HRV:
+    admin_name: GradSplit
+    iso3c: HRV
+    shapeID: 41942358B40338487230246
+  GradStariGradAdm2HRV:
+    admin_name: GradStariGrad
+    iso3c: HRV
+    shapeID: 41942358B69309879064099
+  GradSupetarAdm2HRV:
+    admin_name: GradSupetar
+    iso3c: HRV
+    shapeID: 41942358B32539035720445
+  GradSvetaNedeljaAdm2HRV:
+    admin_name: GradSvetaNedelja
+    iso3c: HRV
+    shapeID: 41942358B99524639630173
+  GradSvetiIvanZelinaAdm2HRV:
+    admin_name: GradSvetiIvanZelina
+    iso3c: HRV
+    shapeID: 41942358B71630573204109
+  GradTriljAdm2HRV:
+    admin_name: GradTrilj
+    iso3c: HRV
+    shapeID: 41942358B37624902897340
+  GradTrogirAdm2HRV:
+    admin_name: GradTrogir
+    iso3c: HRV
+    shapeID: 41942358B61952995987887
+  GradUmagAdm2HRV:
+    admin_name: GradUmag
+    iso3c: HRV
+    shapeID: 41942358B32081341063434
+  GradValpovoAdm2HRV:
+    admin_name: GradValpovo
+    iso3c: HRV
+    shapeID: 41942358B14439003612860
+  GradVaraždinAdm2HRV:
+    admin_name: GradVaraždin
+    iso3c: HRV
+    shapeID: 41942358B39782614127677
+  GradVaraždinskeTopliceAdm2HRV:
+    admin_name: GradVaraždinskeToplice
+    iso3c: HRV
+    shapeID: 41942358B5698398635039
+  GradVelikaGoricaAdm2HRV:
+    admin_name: GradVelikaGorica
+    iso3c: HRV
+    shapeID: 41942358B42364716774689
+  GradVinkovciAdm2HRV:
+    admin_name: GradVinkovci
+    iso3c: HRV
+    shapeID: 41942358B73480888178056
+  GradViroviticaAdm2HRV:
+    admin_name: GradVirovitica
+    iso3c: HRV
+    shapeID: 41942358B86189890542862
+  GradVisAdm2HRV:
+    admin_name: GradVis
+    iso3c: HRV
+    shapeID: 41942358B19243079676848
+  GradVodiceAdm2HRV:
+    admin_name: GradVodice
+    iso3c: HRV
+    shapeID: 41942358B24722251168103
+  GradVodnjanAdm2HRV:
+    admin_name: GradVodnjan
+    iso3c: HRV
+    shapeID: 41942358B26972445831709
+  GradVrbovecAdm2HRV:
+    admin_name: GradVrbovec
+    iso3c: HRV
+    shapeID: 41942358B62283028492252
+  GradVrbovskoAdm2HRV:
+    admin_name: GradVrbovsko
+    iso3c: HRV
+    shapeID: 41942358B86558751833149
+  GradVrgoracAdm2HRV:
+    admin_name: GradVrgorac
+    iso3c: HRV
+    shapeID: 41942358B33340702216756
+  GradVrlikaAdm2HRV:
+    admin_name: GradVrlika
+    iso3c: HRV
+    shapeID: 41942358B99862173550734
+  GradVukovarAdm2HRV:
+    admin_name: GradVukovar
+    iso3c: HRV
+    shapeID: 41942358B99857264420093
+  GradZabokAdm2HRV:
+    admin_name: GradZabok
+    iso3c: HRV
+    shapeID: 41942358B75991316092026
+  GradZadarAdm2HRV:
+    admin_name: GradZadar
+    iso3c: HRV
+    shapeID: 41942358B91057379265139
+  GradZagrebAdm2HRV:
+    admin_name: GradZagreb
+    iso3c: HRV
+    shapeID: 41942358B62049760899595
+  GradZaprešićAdm2HRV:
+    admin_name: GradZaprešić
+    iso3c: HRV
+    shapeID: 41942358B84704726330345
+  GradZlatarAdm2HRV:
+    admin_name: GradZlatar
+    iso3c: HRV
+    shapeID: 41942358B34140987939107
+  GradŽupanjaAdm2HRV:
+    admin_name: GradŽupanja
+    iso3c: HRV
+    shapeID: 41942358B26041090574045
+  IstriaAdm1HRV:
+    admin_name: Istria
+    iso3c: HRV
+    shapeID: 27960609B78128465472925
+  KarlovacAdm1HRV:
+    admin_name: Karlovac
+    iso3c: HRV
+    shapeID: 27960609B19965518381645
+  Koprivnica-KriževciAdm1HRV:
+    admin_name: Koprivnica-Križevci
+    iso3c: HRV
+    shapeID: 27960609B42477591474793
+  Krapina-ZagorjeAdm1HRV:
+    admin_name: Krapina-Zagorje
+    iso3c: HRV
+    shapeID: 27960609B56351017883583
+  Lika-SenjAdm1HRV:
+    admin_name: Lika-Senj
+    iso3c: HRV
+    shapeID: 27960609B98529903349666
+  MeđimurjeAdm1HRV:
+    admin_name: Međimurje
+    iso3c: HRV
+    shapeID: 27960609B88841376316079
+  OpćinaAndrijaševciAdm2HRV:
+    admin_name: OpćinaAndrijaševci
+    iso3c: HRV
+    shapeID: 41942358B70626061375791
+  OpćinaAntunovacAdm2HRV:
+    admin_name: OpćinaAntunovac
+    iso3c: HRV
+    shapeID: 41942358B64631398606645
+  OpćinaBabinaGredaAdm2HRV:
+    admin_name: OpćinaBabinaGreda
+    iso3c: HRV
+    shapeID: 41942358B4506197395448
+  OpćinaBaleAdm2HRV:
+    admin_name: OpćinaBale
+    iso3c: HRV
+    shapeID: 41942358B40584791004020
+  OpćinaBarbanAdm2HRV:
+    admin_name: OpćinaBarban
+    iso3c: HRV
+    shapeID: 41942358B1083046839063
+  OpćinaBarilovićAdm2HRV:
+    admin_name: OpćinaBarilović
+    iso3c: HRV
+    shapeID: 41942358B47909655537025
+  OpćinaBaškaVodaAdm2HRV:
+    admin_name: OpćinaBaškaVoda
+    iso3c: HRV
+    shapeID: 41942358B62866677577766
+  OpćinaBebrinaAdm2HRV:
+    admin_name: OpćinaBebrina
+    iso3c: HRV
+    shapeID: 41942358B39404743089423
+  OpćinaBedekovčinaAdm2HRV:
+    admin_name: OpćinaBedekovčina
+    iso3c: HRV
+    shapeID: 41942358B37540360196284
+  OpćinaBedenicaAdm2HRV:
+    admin_name: OpćinaBedenica
+    iso3c: HRV
+    shapeID: 41942358B74774850995686
+  OpćinaBednjaAdm2HRV:
+    admin_name: OpćinaBednja
+    iso3c: HRV
+    shapeID: 41942358B79405714793984
+  OpćinaBelicaAdm2HRV:
+    admin_name: OpćinaBelica
+    iso3c: HRV
+    shapeID: 41942358B72448585049503
+  OpćinaBerekAdm2HRV:
+    admin_name: OpćinaBerek
+    iso3c: HRV
+    shapeID: 41942358B92225299849481
+  OpćinaBeretinecAdm2HRV:
+    admin_name: OpćinaBeretinec
+    iso3c: HRV
+    shapeID: 41942358B44612214737799
+  OpćinaBibinjeAdm2HRV:
+    admin_name: OpćinaBibinje
+    iso3c: HRV
+    shapeID: 41942358B68906359196574
+  OpćinaBiliceAdm2HRV:
+    admin_name: OpćinaBilice
+    iso3c: HRV
+    shapeID: 41942358B43892763772063
+  OpćinaBiljeAdm2HRV:
+    admin_name: OpćinaBilje
+    iso3c: HRV
+    shapeID: 41942358B29255129304529
+  OpćinaBiskupijaAdm2HRV:
+    admin_name: OpćinaBiskupija
+    iso3c: HRV
+    shapeID: 41942358B89352184046612
+  OpćinaBistraAdm2HRV:
+    admin_name: OpćinaBistra
+    iso3c: HRV
+    shapeID: 41942358B75757991070582
+  OpćinaBizovacAdm2HRV:
+    admin_name: OpćinaBizovac
+    iso3c: HRV
+    shapeID: 41942358B72049313505597
+  OpćinaBlatoAdm2HRV:
+    admin_name: OpćinaBlato
+    iso3c: HRV
+    shapeID: 41942358B65689335315967
+  OpćinaBogdanovciAdm2HRV:
+    admin_name: OpćinaBogdanovci
+    iso3c: HRV
+    shapeID: 41942358B15965971514853
+  OpćinaBolAdm2HRV:
+    admin_name: OpćinaBol
+    iso3c: HRV
+    shapeID: 41942358B81819772164255
+  OpćinaBorovoAdm2HRV:
+    admin_name: OpćinaBorovo
+    iso3c: HRV
+    shapeID: 41942358B93268034393591
+  OpćinaBosiljevoAdm2HRV:
+    admin_name: OpćinaBosiljevo
+    iso3c: HRV
+    shapeID: 41942358B68392687471832
+  OpćinaBošnjaciAdm2HRV:
+    admin_name: OpćinaBošnjaci
+    iso3c: HRV
+    shapeID: 41942358B58405997999475
+  OpćinaBrckovljaniAdm2HRV:
+    admin_name: OpćinaBrckovljani
+    iso3c: HRV
+    shapeID: 41942358B78830626604095
+  OpćinaBrdovecAdm2HRV:
+    admin_name: OpćinaBrdovec
+    iso3c: HRV
+    shapeID: 41942358B31180606920583
+  OpćinaBrelaAdm2HRV:
+    admin_name: OpćinaBrela
+    iso3c: HRV
+    shapeID: 41942358B57070467356768
+  OpćinaBrestovacAdm2HRV:
+    admin_name: OpćinaBrestovac
+    iso3c: HRV
+    shapeID: 41942358B39006440291220
+  OpćinaBreznicaAdm2HRV:
+    admin_name: OpćinaBreznica
+    iso3c: HRV
+    shapeID: 41942358B63351390978471
+  OpćinaBrezničkiHumAdm2HRV:
+    admin_name: OpćinaBrezničkiHum
+    iso3c: HRV
+    shapeID: 41942358B60869083390102
+  OpćinaBrinjeAdm2HRV:
+    admin_name: OpćinaBrinje
+    iso3c: HRV
+    shapeID: 41942358B83133172786331
+  OpćinaBrodMoraviceAdm2HRV:
+    admin_name: OpćinaBrodMoravice
+    iso3c: HRV
+    shapeID: 41942358B81198498025036
+  OpćinaBrodskiStupnikAdm2HRV:
+    admin_name: OpćinaBrodskiStupnik
+    iso3c: HRV
+    shapeID: 41942358B6465181675011
+  OpćinaBrtoniglaAdm2HRV:
+    admin_name: OpćinaBrtonigla
+    iso3c: HRV
+    shapeID: 41942358B57349305695919
+  OpćinaBudinšćinaAdm2HRV:
+    admin_name: OpćinaBudinšćina
+    iso3c: HRV
+    shapeID: 41942358B31177094298422
+  OpćinaBukovljeAdm2HRV:
+    admin_name: OpćinaBukovlje
+    iso3c: HRV
+    shapeID: 41942358B82415776508744
+  OpćinaČačinciAdm2HRV:
+    admin_name: OpćinaČačinci
+    iso3c: HRV
+    shapeID: 41942358B25260827937370
+  OpćinaČađavicaAdm2HRV:
+    admin_name: OpćinaČađavica
+    iso3c: HRV
+    shapeID: 41942358B43548041333920
+  OpćinaČaglinAdm2HRV:
+    admin_name: OpćinaČaglin
+    iso3c: HRV
+    shapeID: 41942358B98601476985561
+  OpćinaČavleAdm2HRV:
+    admin_name: OpćinaČavle
+    iso3c: HRV
+    shapeID: 41942358B97852125593877
+  OpćinaČeminacAdm2HRV:
+    admin_name: OpćinaČeminac
+    iso3c: HRV
+    shapeID: 41942358B22178609594619
+  OpćinaČepinAdm2HRV:
+    admin_name: OpćinaČepin
+    iso3c: HRV
+    shapeID: 41942358B11999988634347
+  OpćinaCernaAdm2HRV:
+    admin_name: OpćinaCerna
+    iso3c: HRV
+    shapeID: 41942358B34927547742350
+  OpćinaCernikAdm2HRV:
+    admin_name: OpćinaCernik
+    iso3c: HRV
+    shapeID: 41942358B24774966075284
+  OpćinaCerovljeAdm2HRV:
+    admin_name: OpćinaCerovlje
+    iso3c: HRV
+    shapeID: 41942358B4982254885732
+  OpćinaCesticaAdm2HRV:
+    admin_name: OpćinaCestica
+    iso3c: HRV
+    shapeID: 41942358B5058073366135
+  OpćinaCetingradAdm2HRV:
+    admin_name: OpćinaCetingrad
+    iso3c: HRV
+    shapeID: 41942358B33538839459147
+  OpćinaCistaProvoAdm2HRV:
+    admin_name: OpćinaCistaProvo
+    iso3c: HRV
+    shapeID: 41942358B50649855239129
+  OpćinaCivljaneAdm2HRV:
+    admin_name: OpćinaCivljane
+    iso3c: HRV
+    shapeID: 41942358B46644525673604
+  OpćinaCrnacAdm2HRV:
+    admin_name: OpćinaCrnac
+    iso3c: HRV
+    shapeID: 41942358B94093317954750
+  OpćinaDardaAdm2HRV:
+    admin_name: OpćinaDarda
+    iso3c: HRV
+    shapeID: 41942358B83840905876894
+  OpćinaDavorAdm2HRV:
+    admin_name: OpćinaDavor
+    iso3c: HRV
+    shapeID: 41942358B8432957809699
+  OpćinaDekanovecAdm2HRV:
+    admin_name: OpćinaDekanovec
+    iso3c: HRV
+    shapeID: 41942358B60776691719392
+  OpćinaĐelekovecAdm2HRV:
+    admin_name: OpćinaĐelekovec
+    iso3c: HRV
+    shapeID: 41942358B59276498124373
+  OpćinaDesinićAdm2HRV:
+    admin_name: OpćinaDesinić
+    iso3c: HRV
+    shapeID: 41942358B73267213731269
+  OpćinaDežanovacAdm2HRV:
+    admin_name: OpćinaDežanovac
+    iso3c: HRV
+    shapeID: 41942358B430428956442
+  OpćinaDicmoAdm2HRV:
+    admin_name: OpćinaDicmo
+    iso3c: HRV
+    shapeID: 41942358B7564696870619
+  OpćinaDomašinecAdm2HRV:
+    admin_name: OpćinaDomašinec
+    iso3c: HRV
+    shapeID: 41942358B17184307011848
+  OpćinaDonjaDubravaAdm2HRV:
+    admin_name: OpćinaDonjaDubrava
+    iso3c: HRV
+    shapeID: 41942358B16349558507884
+  OpćinaDonjaMotičinaAdm2HRV:
+    admin_name: OpćinaDonjaMotičina
+    iso3c: HRV
+    shapeID: 41942358B31858684565742
+  OpćinaDonjaVoćaAdm2HRV:
+    admin_name: OpćinaDonjaVoća
+    iso3c: HRV
+    shapeID: 41942358B37092031882174
+  OpćinaDonjiAndrijevciAdm2HRV:
+    admin_name: OpćinaDonjiAndrijevci
+    iso3c: HRV
+    shapeID: 41942358B91155858559517
+  OpćinaDonjiKraljevecAdm2HRV:
+    admin_name: OpćinaDonjiKraljevec
+    iso3c: HRV
+    shapeID: 41942358B16708212460166
+  OpćinaDonjiKukuzariAdm2HRV:
+    admin_name: OpćinaDonjiKukuzari
+    iso3c: HRV
+    shapeID: 41942358B35075150352147
+  OpćinaDonjiLapacAdm2HRV:
+    admin_name: OpćinaDonjiLapac
+    iso3c: HRV
+    shapeID: 41942358B19079753676718
+  OpćinaDonjiVidovecAdm2HRV:
+    admin_name: OpćinaDonjiVidovec
+    iso3c: HRV
+    shapeID: 41942358B11965275842876
+  OpćinaDragalićAdm2HRV:
+    admin_name: OpćinaDragalić
+    iso3c: HRV
+    shapeID: 41942358B65879216122628
+  OpćinaDraganićAdm2HRV:
+    admin_name: OpćinaDraganić
+    iso3c: HRV
+    shapeID: 41942358B73938341041035
+  OpćinaDražAdm2HRV:
+    admin_name: OpćinaDraž
+    iso3c: HRV
+    shapeID: 41942358B96352283273979
+  OpćinaDrenjeAdm2HRV:
+    admin_name: OpćinaDrenje
+    iso3c: HRV
+    shapeID: 41942358B38569390414051
+  OpćinaDrenovciAdm2HRV:
+    admin_name: OpćinaDrenovci
+    iso3c: HRV
+    shapeID: 41942358B49513223272085
+  OpćinaDrnjeAdm2HRV:
+    admin_name: OpćinaDrnje
+    iso3c: HRV
+    shapeID: 41942358B37637194079543
+  OpćinaDubravaAdm2HRV:
+    admin_name: OpćinaDubrava
+    iso3c: HRV
+    shapeID: 41942358B29602339177060
+  OpćinaDubravicaAdm2HRV:
+    admin_name: OpćinaDubravica
+    iso3c: HRV
+    shapeID: 41942358B62937262200482
+  OpćinaDubrovačkoprimorjeAdm2HRV:
+    admin_name: OpćinaDubrovačkoprimorje
+    iso3c: HRV
+    shapeID: 41942358B26597912264168
+  OpćinaDugiRatAdm2HRV:
+    admin_name: OpćinaDugiRat
+    iso3c: HRV
+    shapeID: 41942358B31355504326698
+  OpćinaDugopoljeAdm2HRV:
+    admin_name: OpćinaDugopolje
+    iso3c: HRV
+    shapeID: 41942358B64219746721264
+  OpćinaĐulovacAdm2HRV:
+    admin_name: OpćinaĐulovac
+    iso3c: HRV
+    shapeID: 41942358B92440588808964
+  OpćinaĐurđenovacAdm2HRV:
+    admin_name: OpćinaĐurđenovac
+    iso3c: HRV
+    shapeID: 41942358B61145138123050
+  OpćinaĐurmanecAdm2HRV:
+    admin_name: OpćinaĐurmanec
+    iso3c: HRV
+    shapeID: 41942358B17187424143828
+  OpćinaDvorAdm2HRV:
+    admin_name: OpćinaDvor
+    iso3c: HRV
+    shapeID: 41942358B46214263288807
+  OpćinaErdutAdm2HRV:
+    admin_name: OpćinaErdut
+    iso3c: HRV
+    shapeID: 41942358B76274053108570
+  OpćinaErnestinovoAdm2HRV:
+    admin_name: OpćinaErnestinovo
+    iso3c: HRV
+    shapeID: 41942358B64830075520803
+  OpćinaErvenikAdm2HRV:
+    admin_name: OpćinaErvenik
+    iso3c: HRV
+    shapeID: 41942358B70187141193283
+  OpćinaFarkaševacAdm2HRV:
+    admin_name: OpćinaFarkaševac
+    iso3c: HRV
+    shapeID: 41942358B86605086258278
+  OpćinaFažanaAdm2HRV:
+    admin_name: OpćinaFažana
+    iso3c: HRV
+    shapeID: 41942358B45168798602767
+  OpćinaFerdinandovacAdm2HRV:
+    admin_name: OpćinaFerdinandovac
+    iso3c: HRV
+    shapeID: 41942358B11337278078109
+  OpćinaFeričanciAdm2HRV:
+    admin_name: OpćinaFeričanci
+    iso3c: HRV
+    shapeID: 41942358B24260279509820
+  OpćinaFuntanaAdm2HRV:
+    admin_name: OpćinaFuntana
+    iso3c: HRV
+    shapeID: 41942358B4044939312269
+  OpćinaFužineAdm2HRV:
+    admin_name: OpćinaFužine
+    iso3c: HRV
+    shapeID: 41942358B85318372077998
+  OpćinaGalovacAdm2HRV:
+    admin_name: OpćinaGalovac
+    iso3c: HRV
+    shapeID: 41942358B48192613940111
+  OpćinaGarčinAdm2HRV:
+    admin_name: OpćinaGarčin
+    iso3c: HRV
+    shapeID: 41942358B89625197673395
+  OpćinaGeneralskiStolAdm2HRV:
+    admin_name: OpćinaGeneralskiStol
+    iso3c: HRV
+    shapeID: 41942358B85658124226290
+  OpćinaGolaAdm2HRV:
+    admin_name: OpćinaGola
+    iso3c: HRV
+    shapeID: 41942358B62120265702523
+  OpćinaGoričanAdm2HRV:
+    admin_name: OpćinaGoričan
+    iso3c: HRV
+    shapeID: 41942358B15833040511263
+  OpćinaGorjaniAdm2HRV:
+    admin_name: OpćinaGorjani
+    iso3c: HRV
+    shapeID: 41942358B42043584359745
+  OpćinaGornjaRijekaAdm2HRV:
+    admin_name: OpćinaGornjaRijeka
+    iso3c: HRV
+    shapeID: 41942358B53183839297552
+  OpćinaGornjaStubicaAdm2HRV:
+    admin_name: OpćinaGornjaStubica
+    iso3c: HRV
+    shapeID: 41942358B88270027549865
+  OpćinaGornjaVrbaAdm2HRV:
+    admin_name: OpćinaGornjaVrba
+    iso3c: HRV
+    shapeID: 41942358B43178780205592
+  OpćinaGornjiBogićevciAdm2HRV:
+    admin_name: OpćinaGornjiBogićevci
+    iso3c: HRV
+    shapeID: 41942358B4953229938014
+  OpćinaGornjiKneginecAdm2HRV:
+    admin_name: OpćinaGornjiKneginec
+    iso3c: HRV
+    shapeID: 41942358B85080629068617
+  OpćinaGornjiMihaljevecAdm2HRV:
+    admin_name: OpćinaGornjiMihaljevec
+    iso3c: HRV
+    shapeID: 41942358B93705888850267
+  OpćinaGračacAdm2HRV:
+    admin_name: OpćinaGračac
+    iso3c: HRV
+    shapeID: 41942358B27131449987537
+  OpćinaGračišćeAdm2HRV:
+    admin_name: OpćinaGračišće
+    iso3c: HRV
+    shapeID: 41942358B81809823510355
+  OpćinaGradacAdm2HRV:
+    admin_name: OpćinaGradac
+    iso3c: HRV
+    shapeID: 41942358B61257805943236
+  OpćinaGradecAdm2HRV:
+    admin_name: OpćinaGradec
+    iso3c: HRV
+    shapeID: 41942358B6560721693792
+  OpćinaGradinaAdm2HRV:
+    admin_name: OpćinaGradina
+    iso3c: HRV
+    shapeID: 41942358B49003275948554
+  OpćinaGradišteAdm2HRV:
+    admin_name: OpćinaGradište
+    iso3c: HRV
+    shapeID: 41942358B38008088244386
+  OpćinaGrožnjanAdm2HRV:
+    admin_name: OpćinaGrožnjan
+    iso3c: HRV
+    shapeID: 41942358B26721827783031
+  OpćinaGundinciAdm2HRV:
+    admin_name: OpćinaGundinci
+    iso3c: HRV
+    shapeID: 41942358B83402908252082
+  OpćinaGunjaAdm2HRV:
+    admin_name: OpćinaGunja
+    iso3c: HRV
+    shapeID: 41942358B31216963896423
+  OpćinaGvozdAdm2HRV:
+    admin_name: OpćinaGvozd
+    iso3c: HRV
+    shapeID: 41942358B22029023665965
+  OpćinaHercegovacAdm2HRV:
+    admin_name: OpćinaHercegovac
+    iso3c: HRV
+    shapeID: 41942358B56882345771400
+  OpćinaHlebineAdm2HRV:
+    admin_name: OpćinaHlebine
+    iso3c: HRV
+    shapeID: 41942358B64532067594520
+  OpćinaHraščinaAdm2HRV:
+    admin_name: OpćinaHraščina
+    iso3c: HRV
+    shapeID: 41942358B76805174440442
+  OpćinaHrvaceAdm2HRV:
+    admin_name: OpćinaHrvace
+    iso3c: HRV
+    shapeID: 41942358B46715016084825
+  OpćinaHumnaSutliAdm2HRV:
+    admin_name: OpćinaHumnaSutli
+    iso3c: HRV
+    shapeID: 41942358B72798442770714
+  OpćinaHvratskaDubicaAdm2HRV:
+    admin_name: OpćinaHvratskaDubica
+    iso3c: HRV
+    shapeID: 41942358B70634803465556
+  OpćinaIvankovoAdm2HRV:
+    admin_name: OpćinaIvankovo
+    iso3c: HRV
+    shapeID: 41942358B3136007807850
+  OpćinaJagodnjakAdm2HRV:
+    admin_name: OpćinaJagodnjak
+    iso3c: HRV
+    shapeID: 41942358B84675166182844
+  OpćinaJakovljeAdm2HRV:
+    admin_name: OpćinaJakovlje
+    iso3c: HRV
+    shapeID: 41942358B21205176996341
+  OpćinaJakšićAdm2HRV:
+    admin_name: OpćinaJakšić
+    iso3c: HRV
+    shapeID: 41942358B44648318365963
+  OpćinaJalžabetAdm2HRV:
+    admin_name: OpćinaJalžabet
+    iso3c: HRV
+    shapeID: 41942358B5538119360308
+  OpćinaJanjinaAdm2HRV:
+    admin_name: OpćinaJanjina
+    iso3c: HRV
+    shapeID: 41942358B70660483130226
+  OpćinaJarminaAdm2HRV:
+    admin_name: OpćinaJarmina
+    iso3c: HRV
+    shapeID: 41942358B26001092776755
+  OpćinaJaseniceAdm2HRV:
+    admin_name: OpćinaJasenice
+    iso3c: HRV
+    shapeID: 41942358B29212836137116
+  OpćinaJasenovacAdm2HRV:
+    admin_name: OpćinaJasenovac
+    iso3c: HRV
+    shapeID: 41942358B29011539679612
+  OpćinaJelenjeAdm2HRV:
+    admin_name: OpćinaJelenje
+    iso3c: HRV
+    shapeID: 41942358B7323629852254
+  OpćinaJelsaAdm2HRV:
+    admin_name: OpćinaJelsa
+    iso3c: HRV
+    shapeID: 41942358B58636386184746
+  OpćinaJesenjeAdm2HRV:
+    admin_name: OpćinaJesenje
+    iso3c: HRV
+    shapeID: 41942358B8809011880235
+  OpćinaJosipdolAdm2HRV:
+    admin_name: OpćinaJosipdol
+    iso3c: HRV
+    shapeID: 41942358B85532853756282
+  OpćinaKaliAdm2HRV:
+    admin_name: OpćinaKali
+    iso3c: HRV
+    shapeID: 41942358B8491979951643
+  OpćinaKalinovacAdm2HRV:
+    admin_name: OpćinaKalinovac
+    iso3c: HRV
+    shapeID: 41942358B63952753399274
+  OpćinaKalnikAdm2HRV:
+    admin_name: OpćinaKalnik
+    iso3c: HRV
+    shapeID: 41942358B68132263738750
+  OpćinaKamanjeAdm2HRV:
+    admin_name: OpćinaKamanje
+    iso3c: HRV
+    shapeID: 41942358B34627954975511
+  OpćinaKanfanarAdm2HRV:
+    admin_name: OpćinaKanfanar
+    iso3c: HRV
+    shapeID: 41942358B36014567941090
+  OpćinaKapelaAdm2HRV:
+    admin_name: OpćinaKapela
+    iso3c: HRV
+    shapeID: 41942358B1611585125577
+  OpćinaKaptolAdm2HRV:
+    admin_name: OpćinaKaptol
+    iso3c: HRV
+    shapeID: 41942358B76380389567485
+  OpćinaKarlobagAdm2HRV:
+    admin_name: OpćinaKarlobag
+    iso3c: HRV
+    shapeID: 41942358B43833873401555
+  OpćinaKarojbaAdm2HRV:
+    admin_name: OpćinaKarojba
+    iso3c: HRV
+    shapeID: 41942358B26362140952560
+  OpćinaKaštelir-LabinciAdm2HRV:
+    admin_name: OpćinaKaštelir-Labinci
+    iso3c: HRV
+    shapeID: 41942358B12961385975585
+  OpćinaKijevoAdm2HRV:
+    admin_name: OpćinaKijevo
+    iso3c: HRV
+    shapeID: 41942358B24073410923734
+  OpćinaKistanjeAdm2HRV:
+    admin_name: OpćinaKistanje
+    iso3c: HRV
+    shapeID: 41942358B76706993584634
+  OpćinaKlakarAdm2HRV:
+    admin_name: OpćinaKlakar
+    iso3c: HRV
+    shapeID: 41942358B5342757734737
+  OpćinaKlanaAdm2HRV:
+    admin_name: OpćinaKlana
+    iso3c: HRV
+    shapeID: 41942358B52907632095617
+  OpćinaKlenovnikAdm2HRV:
+    admin_name: OpćinaKlenovnik
+    iso3c: HRV
+    shapeID: 41942358B80150164579834
+  OpćinaKlinčaSelaAdm2HRV:
+    admin_name: OpćinaKlinčaSela
+    iso3c: HRV
+    shapeID: 41942358B78631541677282
+  OpćinaKlisAdm2HRV:
+    admin_name: OpćinaKlis
+    iso3c: HRV
+    shapeID: 41942358B97423203633318
+  OpćinaKloštarIvanićAdm2HRV:
+    admin_name: OpćinaKloštarIvanić
+    iso3c: HRV
+    shapeID: 41942358B73432321231896
+  OpćinaKloštarPodravskiAdm2HRV:
+    admin_name: OpćinaKloštarPodravski
+    iso3c: HRV
+    shapeID: 41942358B1609268830463
+  OpćinaKneževiVinogradiAdm2HRV:
+    admin_name: OpćinaKneževiVinogradi
+    iso3c: HRV
+    shapeID: 41942358B48067545354715
+  OpćinaKolanAdm2HRV:
+    admin_name: OpćinaKolan
+    iso3c: HRV
+    shapeID: 41942358B47856715850966
+  OpćinaKonavleAdm2HRV:
+    admin_name: OpćinaKonavle
+    iso3c: HRV
+    shapeID: 41942358B30982903361189
+  OpćinaKončanicaAdm2HRV:
+    admin_name: OpćinaKončanica
+    iso3c: HRV
+    shapeID: 41942358B82244434300629
+  OpćinaKonjščinaAdm2HRV:
+    admin_name: OpćinaKonjščina
+    iso3c: HRV
+    shapeID: 41942358B36331075965296
+  OpćinaKoprivničkiBregiAdm2HRV:
+    admin_name: OpćinaKoprivničkiBregi
+    iso3c: HRV
+    shapeID: 41942358B93948299255471
+  OpćinaKoprivničkiIvanecAdm2HRV:
+    admin_name: OpćinaKoprivničkiIvanec
+    iso3c: HRV
+    shapeID: 41942358B77992012766050
+  OpćinaKoškaAdm2HRV:
+    admin_name: OpćinaKoška
+    iso3c: HRV
+    shapeID: 41942358B88862880534747
+  OpćinaKostrenaAdm2HRV:
+    admin_name: OpćinaKostrena
+    iso3c: HRV
+    shapeID: 41942358B95509150368472
+  OpćinaKotoribaAdm2HRV:
+    admin_name: OpćinaKotoriba
+    iso3c: HRV
+    shapeID: 41942358B54667126156533
+  OpćinaKraljevecnaSutliAdm2HRV:
+    admin_name: OpćinaKraljevecnaSutli
+    iso3c: HRV
+    shapeID: 41942358B1484132319361
+  OpćinaKrapinskeTopliceAdm2HRV:
+    admin_name: OpćinaKrapinskeToplice
+    iso3c: HRV
+    shapeID: 41942358B80658296313095
+  OpćinaKrašićAdm2HRV:
+    admin_name: OpćinaKrašić
+    iso3c: HRV
+    shapeID: 41942358B26709106096571
+  OpćinaKravarskoAdm2HRV:
+    admin_name: OpćinaKravarsko
+    iso3c: HRV
+    shapeID: 41942358B52219867753366
+  OpćinaKrižAdm2HRV:
+    admin_name: OpćinaKriž
+    iso3c: HRV
+    shapeID: 41942358B65618644238266
+  OpćinaKrnjakAdm2HRV:
+    admin_name: OpćinaKrnjak
+    iso3c: HRV
+    shapeID: 41942358B89866323388486
+  OpćinaKršanAdm2HRV:
+    admin_name: OpćinaKršan
+    iso3c: HRV
+    shapeID: 41942358B91488879937129
+  OpćinaKukljicaAdm2HRV:
+    admin_name: OpćinaKukljica
+    iso3c: HRV
+    shapeID: 41942358B62293063163489
+  OpćinaKulaNorinskaAdm2HRV:
+    admin_name: OpćinaKulaNorinska
+    iso3c: HRV
+    shapeID: 41942358B32339090930363
+  OpćinaKumrovecAdm2HRV:
+    admin_name: OpćinaKumrovec
+    iso3c: HRV
+    shapeID: 41942358B12091913273541
+  OpćinaLanišćeAdm2HRV:
+    admin_name: OpćinaLanišće
+    iso3c: HRV
+    shapeID: 41942358B9507377140986
+  OpćinaLasinjaAdm2HRV:
+    admin_name: OpćinaLasinja
+    iso3c: HRV
+    shapeID: 41942358B28058180655743
+  OpćinaLastovoAdm2HRV:
+    admin_name: OpćinaLastovo
+    iso3c: HRV
+    shapeID: 41942358B76804398741212
+  OpćinaLećevicaAdm2HRV:
+    admin_name: OpćinaLećevica
+    iso3c: HRV
+    shapeID: 41942358B87063005870150
+  OpćinaLegradAdm2HRV:
+    admin_name: OpćinaLegrad
+    iso3c: HRV
+    shapeID: 41942358B19579748364970
+  OpćinaLekenikAdm2HRV:
+    admin_name: OpćinaLekenik
+    iso3c: HRV
+    shapeID: 41942358B62939793201908
+  OpćinaLevanjskaVarošAdm2HRV:
+    admin_name: OpćinaLevanjskaVaroš
+    iso3c: HRV
+    shapeID: 41942358B37019412799713
+  OpćinaLipovljaniAdm2HRV:
+    admin_name: OpćinaLipovljani
+    iso3c: HRV
+    shapeID: 41942358B89055815779805
+  OpćinaLižnjanAdm2HRV:
+    admin_name: OpćinaLižnjan
+    iso3c: HRV
+    shapeID: 41942358B96367063316445
+  OpćinaLokveAdm2HRV:
+    admin_name: OpćinaLokve
+    iso3c: HRV
+    shapeID: 41942358B22825608568168
+  OpćinaLokvičićiAdm2HRV:
+    admin_name: OpćinaLokvičići
+    iso3c: HRV
+    shapeID: 41942358B47266893011476
+  OpćinaLoparAdm2HRV:
+    admin_name: OpćinaLopar
+    iso3c: HRV
+    shapeID: 41942358B14914879185307
+  OpćinaLovasAdm2HRV:
+    admin_name: OpćinaLovas
+    iso3c: HRV
+    shapeID: 41942358B66523854826517
+  OpćinaLovinacAdm2HRV:
+    admin_name: OpćinaLovinac
+    iso3c: HRV
+    shapeID: 41942358B5140071635244
+  OpćinaLovranAdm2HRV:
+    admin_name: OpćinaLovran
+    iso3c: HRV
+    shapeID: 41942358B16590455349788
+  OpćinaLovrećAdm2HRV:
+    admin_name: OpćinaLovreć
+    iso3c: HRV
+    shapeID: 41942358B77185317172164
+  OpćinaLukaAdm2HRV:
+    admin_name: OpćinaLuka
+    iso3c: HRV
+    shapeID: 41942358B90795352030622
+  OpćinaLukačAdm2HRV:
+    admin_name: OpćinaLukač
+    iso3c: HRV
+    shapeID: 41942358B96153319262415
+  OpćinaLumbardaAdm2HRV:
+    admin_name: OpćinaLumbarda
+    iso3c: HRV
+    shapeID: 41942358B30078557493978
+  OpćinaLupoglavAdm2HRV:
+    admin_name: OpćinaLupoglav
+    iso3c: HRV
+    shapeID: 41942358B58981584171637
+  OpćinaMačeAdm2HRV:
+    admin_name: OpćinaMače
+    iso3c: HRV
+    shapeID: 41942358B22173332197812
+  OpćinaMagdenovacAdm2HRV:
+    admin_name: OpćinaMagdenovac
+    iso3c: HRV
+    shapeID: 41942358B16839252431518
+  OpćinaMajurAdm2HRV:
+    admin_name: OpćinaMajur
+    iso3c: HRV
+    shapeID: 41942358B98454411157961
+  OpćinaMalaSuboticaAdm2HRV:
+    admin_name: OpćinaMalaSubotica
+    iso3c: HRV
+    shapeID: 41942358B84272183032833
+  OpćinaMaliBukovecAdm2HRV:
+    admin_name: OpćinaMaliBukovec
+    iso3c: HRV
+    shapeID: 41942358B69612549435300
+  OpćinaMalinska-DubašnicaAdm2HRV:
+    admin_name: OpćinaMalinska-Dubašnica
+    iso3c: HRV
+    shapeID: 41942358B5836347330991
+  OpćinaMarčanaAdm2HRV:
+    admin_name: OpćinaMarčana
+    iso3c: HRV
+    shapeID: 41942358B37924728027747
+  OpćinaMarijaBistricaAdm2HRV:
+    admin_name: OpćinaMarijaBistrica
+    iso3c: HRV
+    shapeID: 41942358B46096847751345
+  OpćinaMarijaGoricaAdm2HRV:
+    admin_name: OpćinaMarijaGorica
+    iso3c: HRV
+    shapeID: 41942358B68392533115070
+  OpćinaMarijanciAdm2HRV:
+    admin_name: OpćinaMarijanci
+    iso3c: HRV
+    shapeID: 41942358B12927097418582
+  OpćinaMarinaAdm2HRV:
+    admin_name: OpćinaMarina
+    iso3c: HRV
+    shapeID: 41942358B84243302989703
+  OpćinaMarkušicaAdm2HRV:
+    admin_name: OpćinaMarkušica
+    iso3c: HRV
+    shapeID: 41942358B72862341717783
+  OpćinaMartijanecAdm2HRV:
+    admin_name: OpćinaMartijanec
+    iso3c: HRV
+    shapeID: 41942358B82710063041984
+  OpćinaMartinskaVesAdm2HRV:
+    admin_name: OpćinaMartinskaVes
+    iso3c: HRV
+    shapeID: 41942358B76785528726296
+  OpćinaMaruševecAdm2HRV:
+    admin_name: OpćinaMaruševec
+    iso3c: HRV
+    shapeID: 41942358B11370541277369
+  OpćinaMatuljiAdm2HRV:
+    admin_name: OpćinaMatulji
+    iso3c: HRV
+    shapeID: 41942358B91515281449110
+  OpćinaMedulinAdm2HRV:
+    admin_name: OpćinaMedulin
+    iso3c: HRV
+    shapeID: 41942358B35782586004968
+  OpćinaMihovljanAdm2HRV:
+    admin_name: OpćinaMihovljan
+    iso3c: HRV
+    shapeID: 41942358B18856261551372
+  OpćinaMikleušAdm2HRV:
+    admin_name: OpćinaMikleuš
+    iso3c: HRV
+    shapeID: 41942358B87886165170898
+  OpćinaMilnaAdm2HRV:
+    admin_name: OpćinaMilna
+    iso3c: HRV
+    shapeID: 41942358B41584880694978
+  OpćinaMljetAdm2HRV:
+    admin_name: OpćinaMljet
+    iso3c: HRV
+    shapeID: 41942358B51317462978185
+  OpćinaMolveAdm2HRV:
+    admin_name: OpćinaMolve
+    iso3c: HRV
+    shapeID: 41942358B82555501204175
+  OpćinaMošćeničkaDragaAdm2HRV:
+    admin_name: OpćinaMošćeničkaDraga
+    iso3c: HRV
+    shapeID: 41942358B17087088866920
+  OpćinaMotovunAdm2HRV:
+    admin_name: OpćinaMotovun
+    iso3c: HRV
+    shapeID: 41942358B38745704960780
+  OpćinaMrkopaljAdm2HRV:
+    admin_name: OpćinaMrkopalj
+    iso3c: HRV
+    shapeID: 41942358B87973836998774
+  OpćinaMućAdm2HRV:
+    admin_name: OpćinaMuć
+    iso3c: HRV
+    shapeID: 41942358B76897538444614
+  OpćinaNedelišćeAdm2HRV:
+    admin_name: OpćinaNedelišće
+    iso3c: HRV
+    shapeID: 41942358B9790195174178
+  OpćinaNegoslavciAdm2HRV:
+    admin_name: OpćinaNegoslavci
+    iso3c: HRV
+    shapeID: 41942358B57149227016444
+  OpćinaNerežišćaAdm2HRV:
+    admin_name: OpćinaNerežišća
+    iso3c: HRV
+    shapeID: 41942358B38899044180024
+  OpćinaNetretićAdm2HRV:
+    admin_name: OpćinaNetretić
+    iso3c: HRV
+    shapeID: 41942358B33816063922018
+  OpćinaNijemciAdm2HRV:
+    admin_name: OpćinaNijemci
+    iso3c: HRV
+    shapeID: 41942358B6051759172794
+  OpćinaNovaBukovicaAdm2HRV:
+    admin_name: OpćinaNovaBukovica
+    iso3c: HRV
+    shapeID: 41942358B59356492227203
+  OpćinaNovaKapelaAdm2HRV:
+    admin_name: OpćinaNovaKapela
+    iso3c: HRV
+    shapeID: 41942358B38954624880770
+  OpćinaNovaRačaAdm2HRV:
+    admin_name: OpćinaNovaRača
+    iso3c: HRV
+    shapeID: 41942358B85882041431459
+  OpćinaNoviGolubovecAdm2HRV:
+    admin_name: OpćinaNoviGolubovec
+    iso3c: HRV
+    shapeID: 41942358B70013854828466
+  OpćinaNovigradAdm2HRV:
+    admin_name: OpćinaNovigrad
+    iso3c: HRV
+    shapeID: 41942358B80674025677747
+  OpćinaNovigradPodravskiAdm2HRV:
+    admin_name: OpćinaNovigradPodravski
+    iso3c: HRV
+    shapeID: 41942358B94080481803210
+  OpćinaNovoVirjeAdm2HRV:
+    admin_name: OpćinaNovoVirje
+    iso3c: HRV
+    shapeID: 41942358B37178214757115
+  OpćinaNuštarAdm2HRV:
+    admin_name: OpćinaNuštar
+    iso3c: HRV
+    shapeID: 41942358B24975499368578
+  OpćinaOkrugAdm2HRV:
+    admin_name: OpćinaOkrug
+    iso3c: HRV
+    shapeID: 41942358B85370902157409
+  OpćinaOkućaniAdm2HRV:
+    admin_name: OpćinaOkućani
+    iso3c: HRV
+    shapeID: 41942358B63893464410920
+  OpćinaOmišaljAdm2HRV:
+    admin_name: OpćinaOmišalj
+    iso3c: HRV
+    shapeID: 41942358B49071142298261
+  OpćinaOprisavciAdm2HRV:
+    admin_name: OpćinaOprisavci
+    iso3c: HRV
+    shapeID: 41942358B61207176090747
+  OpćinaOprtaljAdm2HRV:
+    admin_name: OpćinaOprtalj
+    iso3c: HRV
+    shapeID: 41942358B81794964480735
+  OpćinaOrebićAdm2HRV:
+    admin_name: OpćinaOrebić
+    iso3c: HRV
+    shapeID: 41942358B23367184011785
+  OpćinaOrehovicaAdm2HRV:
+    admin_name: OpćinaOrehovica
+    iso3c: HRV
+    shapeID: 41942358B62485319232197
+  OpćinaOriovacAdm2HRV:
+    admin_name: OpćinaOriovac
+    iso3c: HRV
+    shapeID: 41942358B44898918819613
+  OpćinaOrleAdm2HRV:
+    admin_name: OpćinaOrle
+    iso3c: HRV
+    shapeID: 41942358B84953556314331
+  OpćinaOtokAdm2HRV:
+    admin_name: OpćinaOtok
+    iso3c: HRV
+    shapeID: 41942358B30950584266052
+  OpćinaPakoštaneAdm2HRV:
+    admin_name: OpćinaPakoštane
+    iso3c: HRV
+    shapeID: 41942358B50201848606001
+  OpćinaPašmanAdm2HRV:
+    admin_name: OpćinaPašman
+    iso3c: HRV
+    shapeID: 41942358B74400327987198
+  OpćinaPerušićAdm2HRV:
+    admin_name: OpćinaPerušić
+    iso3c: HRV
+    shapeID: 41942358B37400713872492
+  OpćinaPeteranecAdm2HRV:
+    admin_name: OpćinaPeteranec
+    iso3c: HRV
+    shapeID: 41942358B66440865242644
+  OpćinaPetlovacAdm2HRV:
+    admin_name: OpćinaPetlovac
+    iso3c: HRV
+    shapeID: 41942358B48811452522993
+  OpćinaPetrijanecAdm2HRV:
+    admin_name: OpćinaPetrijanec
+    iso3c: HRV
+    shapeID: 41942358B52023204988517
+  OpćinaPetrijevciAdm2HRV:
+    admin_name: OpćinaPetrijevci
+    iso3c: HRV
+    shapeID: 41942358B7992413155148
+  OpćinaPetrovskoAdm2HRV:
+    admin_name: OpćinaPetrovsko
+    iso3c: HRV
+    shapeID: 41942358B84832969321941
+  OpćinaPićanAdm2HRV:
+    admin_name: OpćinaPićan
+    iso3c: HRV
+    shapeID: 41942358B4835385905305
+  OpćinaPisarovinaAdm2HRV:
+    admin_name: OpćinaPisarovina
+    iso3c: HRV
+    shapeID: 41942358B50404874796697
+  OpćinaPitomačaAdm2HRV:
+    admin_name: OpćinaPitomača
+    iso3c: HRV
+    shapeID: 41942358B8503989103231
+  OpćinaPlaškiAdm2HRV:
+    admin_name: OpćinaPlaški
+    iso3c: HRV
+    shapeID: 41942358B38005833033203
+  OpćinaPlitvičkaJezeraAdm2HRV:
+    admin_name: OpćinaPlitvičkaJezera
+    iso3c: HRV
+    shapeID: 41942358B37329292620196
+  OpćinaPodbabljeAdm2HRV:
+    admin_name: OpćinaPodbablje
+    iso3c: HRV
+    shapeID: 41942358B91463548368023
+  OpćinaPodcrkavljeAdm2HRV:
+    admin_name: OpćinaPodcrkavlje
+    iso3c: HRV
+    shapeID: 41942358B91823539843565
+  OpćinaPodgoraAdm2HRV:
+    admin_name: OpćinaPodgora
+    iso3c: HRV
+    shapeID: 41942358B65793072334868
+  OpćinaPodgoračAdm2HRV:
+    admin_name: OpćinaPodgorač
+    iso3c: HRV
+    shapeID: 41942358B30030645114958
+  OpćinaPodravskaMoslavinaAdm2HRV:
+    admin_name: OpćinaPodravskaMoslavina
+    iso3c: HRV
+    shapeID: 41942358B9657091356146
+  OpćinaPodravskeSesveteAdm2HRV:
+    admin_name: OpćinaPodravskeSesvete
+    iso3c: HRV
+    shapeID: 41942358B39809076686132
+  OpćinaPodstranaAdm2HRV:
+    admin_name: OpćinaPodstrana
+    iso3c: HRV
+    shapeID: 41942358B84751729107979
+  OpćinaPodturenAdm2HRV:
+    admin_name: OpćinaPodturen
+    iso3c: HRV
+    shapeID: 41942358B67321750216915
+  OpćinaPojezerjeAdm2HRV:
+    admin_name: OpćinaPojezerje
+    iso3c: HRV
+    shapeID: 41942358B34157892911636
+  OpćinaPokupskoAdm2HRV:
+    admin_name: OpćinaPokupsko
+    iso3c: HRV
+    shapeID: 41942358B80983018464300
+  OpćinaPolačaAdm2HRV:
+    admin_name: OpćinaPolača
+    iso3c: HRV
+    shapeID: 41942358B48972691086636
+  OpćinaPoličnikAdm2HRV:
+    admin_name: OpćinaPoličnik
+    iso3c: HRV
+    shapeID: 41942358B11687207448714
+  OpćinaPopovacAdm2HRV:
+    admin_name: OpćinaPopovac
+    iso3c: HRV
+    shapeID: 41942358B65505055615012
+  OpćinaPosedarjeAdm2HRV:
+    admin_name: OpćinaPosedarje
+    iso3c: HRV
+    shapeID: 41942358B4499165766860
+  OpćinaPostiraAdm2HRV:
+    admin_name: OpćinaPostira
+    iso3c: HRV
+    shapeID: 41942358B73906003469030
+  OpćinaPovljanaAdm2HRV:
+    admin_name: OpćinaPovljana
+    iso3c: HRV
+    shapeID: 41942358B4088713136666
+  OpćinaPrekoAdm2HRV:
+    admin_name: OpćinaPreko
+    iso3c: HRV
+    shapeID: 41942358B28076069343861
+  OpćinaPresekaAdm2HRV:
+    admin_name: OpćinaPreseka
+    iso3c: HRV
+    shapeID: 41942358B26219558260549
+  OpćinaPrgometAdm2HRV:
+    admin_name: OpćinaPrgomet
+    iso3c: HRV
+    shapeID: 41942358B73654510513356
+  OpćinaPribislavecAdm2HRV:
+    admin_name: OpćinaPribislavec
+    iso3c: HRV
+    shapeID: 41942358B72101054621020
+  OpćinaPrimorskiDolacAdm2HRV:
+    admin_name: OpćinaPrimorskiDolac
+    iso3c: HRV
+    shapeID: 41942358B3086402539521
+  OpćinaPrimoštenAdm2HRV:
+    admin_name: OpćinaPrimošten
+    iso3c: HRV
+    shapeID: 41942358B78317909042404
+  OpćinaPrivlakaAdm2HRV:
+    admin_name: OpćinaPrivlaka
+    iso3c: HRV
+    shapeID: 41942358B7892972817029
+  OpćinaProložacAdm2HRV:
+    admin_name: OpćinaProložac
+    iso3c: HRV
+    shapeID: 41942358B19627945050716
+  OpćinaProminaAdm2HRV:
+    admin_name: OpćinaPromina
+    iso3c: HRV
+    shapeID: 41942358B37296056589464
+  OpćinaPučišćaAdm2HRV:
+    admin_name: OpćinaPučišća
+    iso3c: HRV
+    shapeID: 41942358B25193862971737
+  OpćinaPunitovciAdm2HRV:
+    admin_name: OpćinaPunitovci
+    iso3c: HRV
+    shapeID: 41942358B89475493983587
+  OpćinaPušćaAdm2HRV:
+    admin_name: OpćinaPušća
+    iso3c: HRV
+    shapeID: 41942358B13962342467842
+  OpćinaRadobojAdm2HRV:
+    admin_name: OpćinaRadoboj
+    iso3c: HRV
+    shapeID: 41942358B50291981536642
+  OpćinaRakovecAdm2HRV:
+    admin_name: OpćinaRakovec
+    iso3c: HRV
+    shapeID: 41942358B92876055827271
+  OpćinaRakovicaAdm2HRV:
+    admin_name: OpćinaRakovica
+    iso3c: HRV
+    shapeID: 41942358B35560680928281
+  OpćinaRašaAdm2HRV:
+    admin_name: OpćinaRaša
+    iso3c: HRV
+    shapeID: 41942358B58725433500450
+  OpćinaRasinjaAdm2HRV:
+    admin_name: OpćinaRasinja
+    iso3c: HRV
+    shapeID: 41942358B77437021683980
+  OpćinaRavnaGoraAdm2HRV:
+    admin_name: OpćinaRavnaGora
+    iso3c: HRV
+    shapeID: 41942358B96307253127715
+  OpćinaRažanacAdm2HRV:
+    admin_name: OpćinaRažanac
+    iso3c: HRV
+    shapeID: 41942358B16061485605575
+  OpćinaRešetariAdm2HRV:
+    admin_name: OpćinaRešetari
+    iso3c: HRV
+    shapeID: 41942358B36448464890668
+  OpćinaRibnikAdm2HRV:
+    admin_name: OpćinaRibnik
+    iso3c: HRV
+    shapeID: 41942358B7221791742916
+  OpćinaRogoznicaAdm2HRV:
+    admin_name: OpćinaRogoznica
+    iso3c: HRV
+    shapeID: 41942358B58556709967524
+  OpćinaRugvicaAdm2HRV:
+    admin_name: OpćinaRugvica
+    iso3c: HRV
+    shapeID: 41942358B19770836868193
+  OpćinaRunovićiAdm2HRV:
+    admin_name: OpćinaRunovići
+    iso3c: HRV
+    shapeID: 41942358B55109175702825
+  OpćinaRužićAdm2HRV:
+    admin_name: OpćinaRužić
+    iso3c: HRV
+    shapeID: 41942358B4975861556846
+  OpćinaSaborskoAdm2HRV:
+    admin_name: OpćinaSaborsko
+    iso3c: HRV
+    shapeID: 41942358B69700869537663
+  OpćinaSaliAdm2HRV:
+    admin_name: OpćinaSali
+    iso3c: HRV
+    shapeID: 41942358B70775371213679
+  OpćinaŠandrovacAdm2HRV:
+    admin_name: OpćinaŠandrovac
+    iso3c: HRV
+    shapeID: 41942358B10573009407478
+  OpćinaSatnicaĐakovačkaAdm2HRV:
+    admin_name: OpćinaSatnicaĐakovačka
+    iso3c: HRV
+    shapeID: 41942358B41964845768137
+  OpćinaSegetAdm2HRV:
+    admin_name: OpćinaSeget
+    iso3c: HRV
+    shapeID: 41942358B92131033251533
+  OpćinaSelcaAdm2HRV:
+    admin_name: OpćinaSelca
+    iso3c: HRV
+    shapeID: 41942358B5927757605636
+  OpćinaSelnicaAdm2HRV:
+    admin_name: OpćinaSelnica
+    iso3c: HRV
+    shapeID: 41942358B58087706082188
+  OpćinaSemeljciAdm2HRV:
+    admin_name: OpćinaSemeljci
+    iso3c: HRV
+    shapeID: 41942358B14451556641636
+  OpćinaŠenkovecAdm2HRV:
+    admin_name: OpćinaŠenkovec
+    iso3c: HRV
+    shapeID: 41942358B15837732806851
+  OpćinaŠestanovacAdm2HRV:
+    admin_name: OpćinaŠestanovac
+    iso3c: HRV
+    shapeID: 41942358B75304789353600
+  OpćinaSeverinAdm2HRV:
+    admin_name: OpćinaSeverin
+    iso3c: HRV
+    shapeID: 41942358B71283396308015
+  OpćinaSibinjAdm2HRV:
+    admin_name: OpćinaSibinj
+    iso3c: HRV
+    shapeID: 41942358B10389356844797
+  OpćinaSikirevciAdm2HRV:
+    admin_name: OpćinaSikirevci
+    iso3c: HRV
+    shapeID: 41942358B71738480637812
+  OpćinaSiračAdm2HRV:
+    admin_name: OpćinaSirač
+    iso3c: HRV
+    shapeID: 41942358B14387696785125
+  OpćinaŠkabrnjaAdm2HRV:
+    admin_name: OpćinaŠkabrnja
+    iso3c: HRV
+    shapeID: 41942358B26503200948525
+  OpćinaSkradAdm2HRV:
+    admin_name: OpćinaSkrad
+    iso3c: HRV
+    shapeID: 41942358B38972340019198
+  OpćinaSlavonskiŠamacAdm2HRV:
+    admin_name: OpćinaSlavonskiŠamac
+    iso3c: HRV
+    shapeID: 41942358B56245481834825
+  OpćinaSlivnoAdm2HRV:
+    admin_name: OpćinaSlivno
+    iso3c: HRV
+    shapeID: 41942358B49733107643194
+  OpćinaSmokvicaAdm2HRV:
+    admin_name: OpćinaSmokvica
+    iso3c: HRV
+    shapeID: 41942358B21746312732266
+  OpćinaŠodolovciAdm2HRV:
+    admin_name: OpćinaŠodolovci
+    iso3c: HRV
+    shapeID: 41942358B40031909993405
+  OpćinaSokolovacAdm2HRV:
+    admin_name: OpćinaSokolovac
+    iso3c: HRV
+    shapeID: 41942358B44405743339218
+  OpćinaŠoltaAdm2HRV:
+    admin_name: OpćinaŠolta
+    iso3c: HRV
+    shapeID: 41942358B3051457735690
+  OpćinaSopjeAdm2HRV:
+    admin_name: OpćinaSopje
+    iso3c: HRV
+    shapeID: 41942358B97822559400822
+  OpćinaŠpišićBukovicaAdm2HRV:
+    admin_name: OpćinaŠpišićBukovica
+    iso3c: HRV
+    shapeID: 41942358B24164746489600
+  OpćinaSračinecAdm2HRV:
+    admin_name: OpćinaSračinec
+    iso3c: HRV
+    shapeID: 41942358B65728796130854
+  OpćinaStaraGradiškaAdm2HRV:
+    admin_name: OpćinaStaraGradiška
+    iso3c: HRV
+    shapeID: 41942358B17483768714043
+  OpćinaStarigradAdm2HRV:
+    admin_name: OpćinaStarigrad
+    iso3c: HRV
+    shapeID: 41942358B99312599796624
+  OpćinaStariJankovciAdm2HRV:
+    admin_name: OpćinaStariJankovci
+    iso3c: HRV
+    shapeID: 41942358B3290816141888
+  OpćinaStariMikanovciAdm2HRV:
+    admin_name: OpćinaStariMikanovci
+    iso3c: HRV
+    shapeID: 41942358B32929341461785
+  OpćinaStaroPetrovoSeloAdm2HRV:
+    admin_name: OpćinaStaroPetrovoSelo
+    iso3c: HRV
+    shapeID: 41942358B57794033999299
+  OpćinaŠtefanjeAdm2HRV:
+    admin_name: OpćinaŠtefanje
+    iso3c: HRV
+    shapeID: 41942358B87077767438382
+  OpćinaŠtitarAdm2HRV:
+    admin_name: OpćinaŠtitar
+    iso3c: HRV
+    shapeID: 41942358B8759707529392
+  OpćinaStonAdm2HRV:
+    admin_name: OpćinaSton
+    iso3c: HRV
+    shapeID: 41942358B86086356417179
+  OpćinaStrahoninecAdm2HRV:
+    admin_name: OpćinaStrahoninec
+    iso3c: HRV
+    shapeID: 41942358B93206939231013
+  OpćinaŠtrigovaAdm2HRV:
+    admin_name: OpćinaŠtrigova
+    iso3c: HRV
+    shapeID: 41942358B97088486280159
+  OpćinaStrizivojnaAdm2HRV:
+    admin_name: OpćinaStrizivojna
+    iso3c: HRV
+    shapeID: 41942358B60516813250107
+  OpćinaStubičkeTopliceAdm2HRV:
+    admin_name: OpćinaStubičkeToplice
+    iso3c: HRV
+    shapeID: 41942358B3075374378428
+  OpćinaStupnikAdm2HRV:
+    admin_name: OpćinaStupnik
+    iso3c: HRV
+    shapeID: 41942358B39376409459817
+  OpćinaSućurajAdm2HRV:
+    admin_name: OpćinaSućuraj
+    iso3c: HRV
+    shapeID: 41942358B70473186758662
+  OpćinaSuhopoljeAdm2HRV:
+    admin_name: OpćinaSuhopolje
+    iso3c: HRV
+    shapeID: 41942358B41528643481489
+  OpćinaSukošanAdm2HRV:
+    admin_name: OpćinaSukošan
+    iso3c: HRV
+    shapeID: 41942358B67958087170818
+  OpćinaSunjaAdm2HRV:
+    admin_name: OpćinaSunja
+    iso3c: HRV
+    shapeID: 41942358B21588594102697
+  OpćinaSutivanAdm2HRV:
+    admin_name: OpćinaSutivan
+    iso3c: HRV
+    shapeID: 41942358B62838788989755
+  OpćinaSvetaMarijaAdm2HRV:
+    admin_name: OpćinaSvetaMarija
+    iso3c: HRV
+    shapeID: 41942358B55180713207397
+  OpćinaSvetaNedeljaAdm2HRV:
+    admin_name: OpćinaSvetaNedelja
+    iso3c: HRV
+    shapeID: 41942358B97525485535649
+  OpćinaSvetiĐurđAdm2HRV:
+    admin_name: OpćinaSvetiĐurđ
+    iso3c: HRV
+    shapeID: 41942358B33368752769838
+  OpćinaSvetiFilipiJakovAdm2HRV:
+    admin_name: OpćinaSvetiFilipiJakov
+    iso3c: HRV
+    shapeID: 41942358B79571007398516
+  OpćinaSvetiIlijaAdm2HRV:
+    admin_name: OpćinaSvetiIlija
+    iso3c: HRV
+    shapeID: 41942358B18432931227109
+  OpćinaSvetiIvanŽabnoAdm2HRV:
+    admin_name: OpćinaSvetiIvanŽabno
+    iso3c: HRV
+    shapeID: 41942358B48015914691685
+  OpćinaSvetiJurajnaBreguAdm2HRV:
+    admin_name: OpćinaSvetiJurajnaBregu
+    iso3c: HRV
+    shapeID: 41942358B70830817484591
+  OpćinaSvetiKrižZačretjeAdm2HRV:
+    admin_name: OpćinaSvetiKrižZačretje
+    iso3c: HRV
+    shapeID: 41942358B93187405092894
+  OpćinaSvetiLovrečAdm2HRV:
+    admin_name: OpćinaSvetiLovreč
+    iso3c: HRV
+    shapeID: 41942358B96072525636377
+  OpćinaSvetiMartinnaMuriAdm2HRV:
+    admin_name: OpćinaSvetiMartinnaMuri
+    iso3c: HRV
+    shapeID: 41942358B6726726376933
+  OpćinaSvetiPetarOrehovecAdm2HRV:
+    admin_name: OpćinaSvetiPetarOrehovec
+    iso3c: HRV
+    shapeID: 41942358B51730819474103
+  OpćinaSvetiPetaruŠumiAdm2HRV:
+    admin_name: OpćinaSvetiPetaruŠumi
+    iso3c: HRV
+    shapeID: 41942358B34182532474510
+  OpćinaSvetvinčenatAdm2HRV:
+    admin_name: OpćinaSvetvinčenat
+    iso3c: HRV
+    shapeID: 41942358B76587563718344
+  OpćinaTar-VabrigaAdm2HRV:
+    admin_name: OpćinaTar-Vabriga
+    iso3c: HRV
+    shapeID: 41942358B78751219662143
+  OpćinaTinjanAdm2HRV:
+    admin_name: OpćinaTinjan
+    iso3c: HRV
+    shapeID: 41942358B57078948587956
+  OpćinaTkonAdm2HRV:
+    admin_name: OpćinaTkon
+    iso3c: HRV
+    shapeID: 41942358B65936081062166
+  OpćinaTompojevciAdm2HRV:
+    admin_name: OpćinaTompojevci
+    iso3c: HRV
+    shapeID: 41942358B15048547422283
+  OpćinaTopuskoAdm2HRV:
+    admin_name: OpćinaTopusko
+    iso3c: HRV
+    shapeID: 41942358B17224032463848
+  OpćinaTordinciAdm2HRV:
+    admin_name: OpćinaTordinci
+    iso3c: HRV
+    shapeID: 41942358B69762243971062
+  OpćinaTounjAdm2HRV:
+    admin_name: OpćinaTounj
+    iso3c: HRV
+    shapeID: 41942358B46601787133135
+  OpćinaTovarnikAdm2HRV:
+    admin_name: OpćinaTovarnik
+    iso3c: HRV
+    shapeID: 41942358B52937699579834
+  OpćinaTrnavaAdm2HRV:
+    admin_name: OpćinaTrnava
+    iso3c: HRV
+    shapeID: 41942358B55576861905827
+  OpćinaTrnovecBartolovečkiAdm2HRV:
+    admin_name: OpćinaTrnovecBartolovečki
+    iso3c: HRV
+    shapeID: 41942358B66089922837763
+  OpćinaTrpanjAdm2HRV:
+    admin_name: OpćinaTrpanj
+    iso3c: HRV
+    shapeID: 41942358B63954772467188
+  OpćinaTrpinjaAdm2HRV:
+    admin_name: OpćinaTrpinja
+    iso3c: HRV
+    shapeID: 41942358B79245749905340
+  OpćinaTučepiAdm2HRV:
+    admin_name: OpćinaTučepi
+    iso3c: HRV
+    shapeID: 41942358B70116790987857
+  OpćinaTuheljAdm2HRV:
+    admin_name: OpćinaTuhelj
+    iso3c: HRV
+    shapeID: 41942358B56130242537338
+  OpćinaUdbinaAdm2HRV:
+    admin_name: OpćinaUdbina
+    iso3c: HRV
+    shapeID: 41942358B464961087858
+  OpćinaUnešićAdm2HRV:
+    admin_name: OpćinaUnešić
+    iso3c: HRV
+    shapeID: 41942358B90591399791280
+  OpćinaVelaLukaAdm2HRV:
+    admin_name: OpćinaVelaLuka
+    iso3c: HRV
+    shapeID: 41942358B90023423647319
+  OpćinaVelikaAdm2HRV:
+    admin_name: OpćinaVelika
+    iso3c: HRV
+    shapeID: 41942358B1743176018928
+  OpćinaVelikaKopanicaAdm2HRV:
+    admin_name: OpćinaVelikaKopanica
+    iso3c: HRV
+    shapeID: 41942358B43077810410693
+  OpćinaVelikaLudinaAdm2HRV:
+    admin_name: OpćinaVelikaLudina
+    iso3c: HRV
+    shapeID: 41942358B94174565911026
+  OpćinaVelikaTrnoviticaAdm2HRV:
+    admin_name: OpćinaVelikaTrnovitica
+    iso3c: HRV
+    shapeID: 41942358B52246209641187
+  OpćinaVelikiBukovecAdm2HRV:
+    admin_name: OpćinaVelikiBukovec
+    iso3c: HRV
+    shapeID: 41942358B53177152827993
+  OpćinaVelikiGrđevacAdm2HRV:
+    admin_name: OpćinaVelikiGrđevac
+    iso3c: HRV
+    shapeID: 41942358B40832061130519
+  OpćinaVelikiPisanicaAdm2HRV:
+    admin_name: OpćinaVelikiPisanica
+    iso3c: HRV
+    shapeID: 41942358B91711209403379
+  OpćinaVelikoTrgovišćeAdm2HRV:
+    admin_name: OpćinaVelikoTrgovišće
+    iso3c: HRV
+    shapeID: 41942358B66323588033278
+  OpćinaVelikoTrojstvoAdm2HRV:
+    admin_name: OpćinaVelikoTrojstvo
+    iso3c: HRV
+    shapeID: 41942358B13904930038305
+  OpćinaVidovecAdm2HRV:
+    admin_name: OpćinaVidovec
+    iso3c: HRV
+    shapeID: 41942358B68698174579367
+  OpćinaViljevoAdm2HRV:
+    admin_name: OpćinaViljevo
+    iso3c: HRV
+    shapeID: 41942358B36185360982273
+  OpćinaVinicaAdm2HRV:
+    admin_name: OpćinaVinica
+    iso3c: HRV
+    shapeID: 41942358B2077636467277
+  OpćinaVinodolskaopćinaAdm2HRV:
+    admin_name: OpćinaVinodolskaopćina
+    iso3c: HRV
+    shapeID: 41942358B43166278652034
+  OpćinaVirAdm2HRV:
+    admin_name: OpćinaVir
+    iso3c: HRV
+    shapeID: 41942358B51534731539958
+  OpćinaVirjeAdm2HRV:
+    admin_name: OpćinaVirje
+    iso3c: HRV
+    shapeID: 41942358B88972160294122
+  OpćinaViškovciAdm2HRV:
+    admin_name: OpćinaViškovci
+    iso3c: HRV
+    shapeID: 41942358B62489498403929
+  OpćinaViškovoAdm2HRV:
+    admin_name: OpćinaViškovo
+    iso3c: HRV
+    shapeID: 41942358B69296662731202
+  OpćinaVišnjanAdm2HRV:
+    admin_name: OpćinaVišnjan
+    iso3c: HRV
+    shapeID: 41942358B98625568219702
+  OpćinaVisokoAdm2HRV:
+    admin_name: OpćinaVisoko
+    iso3c: HRV
+    shapeID: 41942358B37615937628467
+  OpćinaVižinadaAdm2HRV:
+    admin_name: OpćinaVižinada
+    iso3c: HRV
+    shapeID: 41942358B53944082586664
+  OpćinaVladislavciAdm2HRV:
+    admin_name: OpćinaVladislavci
+    iso3c: HRV
+    shapeID: 41942358B44296742675796
+  OpćinaVoćinAdm2HRV:
+    admin_name: OpćinaVoćin
+    iso3c: HRV
+    shapeID: 41942358B54914345410648
+  OpćinaVođinciAdm2HRV:
+    admin_name: OpćinaVođinci
+    iso3c: HRV
+    shapeID: 41942358B32410067293519
+  OpćinaVojnićAdm2HRV:
+    admin_name: OpćinaVojnić
+    iso3c: HRV
+    shapeID: 41942358B36294050215639
+  OpćinaVratišinecAdm2HRV:
+    admin_name: OpćinaVratišinec
+    iso3c: HRV
+    shapeID: 41942358B27365842198437
+  OpćinaVrbanjaAdm2HRV:
+    admin_name: OpćinaVrbanja
+    iso3c: HRV
+    shapeID: 41942358B61227700521917
+  OpćinaVrbjeAdm2HRV:
+    admin_name: OpćinaVrbje
+    iso3c: HRV
+    shapeID: 41942358B97394950444246
+  OpćinaVrhovineAdm2HRV:
+    admin_name: OpćinaVrhovine
+    iso3c: HRV
+    shapeID: 41942358B28112698356135
+  OpćinaVrpoljeAdm2HRV:
+    admin_name: OpćinaVrpolje
+    iso3c: HRV
+    shapeID: 41942358B18726828740882
+  OpćinaVrsarAdm2HRV:
+    admin_name: OpćinaVrsar
+    iso3c: HRV
+    shapeID: 41942358B94439026462620
+  OpćinaVrsiAdm2HRV:
+    admin_name: OpćinaVrsi
+    iso3c: HRV
+    shapeID: 41942358B70320563062881
+  OpćinaVukaAdm2HRV:
+    admin_name: OpćinaVuka
+    iso3c: HRV
+    shapeID: 41942358B52972755512061
+  OpćinaZadvarjeAdm2HRV:
+    admin_name: OpćinaZadvarje
+    iso3c: HRV
+    shapeID: 41942358B83905043217188
+  OpćinaZagorskaselaAdm2HRV:
+    admin_name: OpćinaZagorskasela
+    iso3c: HRV
+    shapeID: 41942358B60551938195766
+  OpćinaZagvozdAdm2HRV:
+    admin_name: OpćinaZagvozd
+    iso3c: HRV
+    shapeID: 41942358B27406443785919
+  OpćinaŽakanjeAdm2HRV:
+    admin_name: OpćinaŽakanje
+    iso3c: HRV
+    shapeID: 41942358B25315941129808
+  OpćinaZažabljeAdm2HRV:
+    admin_name: OpćinaZažablje
+    iso3c: HRV
+    shapeID: 41942358B29732866084637
+  OpćinaZdenciAdm2HRV:
+    admin_name: OpćinaZdenci
+    iso3c: HRV
+    shapeID: 41942358B46895953999476
+  OpćinaZemunikDonjiAdm2HRV:
+    admin_name: OpćinaZemunikDonji
+    iso3c: HRV
+    shapeID: 41942358B47754940543673
+  OpćinaZlatarBistricaAdm2HRV:
+    admin_name: OpćinaZlatarBistrica
+    iso3c: HRV
+    shapeID: 41942358B40908600410241
+  OpćinaZmijavciAdm2HRV:
+    admin_name: OpćinaZmijavci
+    iso3c: HRV
+    shapeID: 41942358B17623158783730
+  OpćinaŽminjAdm2HRV:
+    admin_name: OpćinaŽminj
+    iso3c: HRV
+    shapeID: 41942358B3609022368687
+  OpćinaŽumberakAdm2HRV:
+    admin_name: OpćinaŽumberak
+    iso3c: HRV
+    shapeID: 41942358B71514889835827
+  OpćinaŽupadubrovačkaAdm2HRV:
+    admin_name: OpćinaŽupadubrovačka
+    iso3c: HRV
+    shapeID: 41942358B37675439121682
+  OpicinaMuter-KornatiAdm2HRV:
+    admin_name: OpicinaMuter-Kornati
+    iso3c: HRV
+    shapeID: 41942358B86068104638384
+  OpicinaPirovacAdm2HRV:
+    admin_name: OpicinaPirovac
+    iso3c: HRV
+    shapeID: 41942358B56064565121242
+  Osijek-BaranjaAdm1HRV:
+    admin_name: Osijek-Baranja
+    iso3c: HRV
+    shapeID: 27960609B96515887411853
+  OtokArtaVelaAdm2HRV:
+    admin_name: OtokArtaVela
+    iso3c: HRV
+    shapeID: 41942358B19390085170765
+  OtokCresAdm2HRV:
+    admin_name: OtokCres
+    iso3c: HRV
+    shapeID: 41942358B79231692090815
+  OtokIlovikAdm2HRV:
+    admin_name: OtokIlovik
+    iso3c: HRV
+    shapeID: 41942358B43003846347774
+  OtokKornatAdm2HRV:
+    admin_name: OtokKornat
+    iso3c: HRV
+    shapeID: 41942358B73644152682265
+  OtokKrkAdm2HRV:
+    admin_name: OtokKrk
+    iso3c: HRV
+    shapeID: 41942358B45790635822188
+  OtokKurbaVelaAdm2HRV:
+    admin_name: OtokKurbaVela
+    iso3c: HRV
+    shapeID: 41942358B7537413290566
+  OtokLavsaAdm2HRV:
+    admin_name: OtokLavsa
+    iso3c: HRV
+    shapeID: 41942358B35649310284257
+  OtokLeverakaAdm2HRV:
+    admin_name: OtokLeveraka
+    iso3c: HRV
+    shapeID: 41942358B80055452851488
+  OtokLosinjAdm2HRV:
+    admin_name: OtokLosinj
+    iso3c: HRV
+    shapeID: 41942358B56822315108776
+  OtokPiskeraAdm2HRV:
+    admin_name: OtokPiskera
+    iso3c: HRV
+    shapeID: 41942358B28219359193917
+  OtokPlavnikAdm2HRV:
+    admin_name: OtokPlavnik
+    iso3c: HRV
+    shapeID: 41942358B67510256757416
+  OtokSitAdm2HRV:
+    admin_name: OtokSit
+    iso3c: HRV
+    shapeID: 41942358B18509388785322
+  OtokSusakAdm2HRV:
+    admin_name: OtokSusak
+    iso3c: HRV
+    shapeID: 41942358B23081288637883
+  OtokUnijeAdm2HRV:
+    admin_name: OtokUnije
+    iso3c: HRV
+    shapeID: 41942358B37606323031941
+  OtokVelaSmokvicaAdm2HRV:
+    admin_name: OtokVelaSmokvica
+    iso3c: HRV
+    shapeID: 41942358B87051997362213
+  OtokVeleOrjuleAdm2HRV:
+    admin_name: OtokVeleOrjule
+    iso3c: HRV
+    shapeID: 41942358B97038735531165
+  OtokVeleSrakaneAdm2HRV:
+    admin_name: OtokVeleSrakane
+    iso3c: HRV
+    shapeID: 41942358B80526349762919
+  OtokZecaAdm2HRV:
+    admin_name: OtokZeca
+    iso3c: HRV
+    shapeID: 41942358B16456685047732
+  OtokZutAdm2HRV:
+    admin_name: OtokZut
+    iso3c: HRV
+    shapeID: 41942358B78092292850209
+  Požega-SlavoniaAdm1HRV:
+    admin_name: Požega-Slavonia
+    iso3c: HRV
+    shapeID: 27960609B23297644769428
+  Primorje-GorskiKotarAdm1HRV:
+    admin_name: Primorje-GorskiKotar
+    iso3c: HRV
+    shapeID: 27960609B11106490836175
+  Šibenik-KninAdm1HRV:
+    admin_name: Šibenik-Knin
+    iso3c: HRV
+    shapeID: 27960609B2739070191620
+  Sisak-MoslavinaAdm1HRV:
+    admin_name: Sisak-Moslavina
+    iso3c: HRV
+    shapeID: 27960609B22901197758589
+  Split-DalmatiaAdm1HRV:
+    admin_name: Split-Dalmatia
+    iso3c: HRV
+    shapeID: 27960609B66558805034122
+  VaraždinAdm1HRV:
+    admin_name: Varaždin
+    iso3c: HRV
+    shapeID: 27960609B77748153160451
+  Virovitica-PodravinaAdm1HRV:
+    admin_name: Virovitica-Podravina
+    iso3c: HRV
+    shapeID: 27960609B44621704912163
+  Vukovar-SyrmiaAdm1HRV:
+    admin_name: Vukovar-Syrmia
+    iso3c: HRV
+    shapeID: 27960609B91393345169260
+  ZadarCountyAdm1HRV:
+    admin_name: ZadarCounty
+    iso3c: HRV
+    shapeID: 27960609B22947218853156
+  ZagrebCountyAdm1HRV:
+    admin_name: ZagrebCounty
+    iso3c: HRV
+    shapeID: 27960609B38772394949462

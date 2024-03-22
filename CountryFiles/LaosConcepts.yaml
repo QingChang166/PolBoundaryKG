@@ -1,19 +1,653 @@
 concepts:
-    - Xekong
-    - Xiangkhouang
-    - Houaphan
-    - Khammouane
-    - LuangNamtha
-    - Champasak
-    - Xaignabouli
-    - Attapeu
-    - Bokeo
-    - Bolikhamsai
-    - LuangPrabang
-    - Oudomxay
-    - Phongsaly
-    - Salavan
-    - Savannakhet
-    - VientianeCapital
-    - Vientiane
-    - Xaisomboun
+  AddAdm2LAO:
+    admin_name: Add
+    iso3c: LAO
+    shapeID: 54806243B77566454903685
+  AnouvongAdm2LAO:
+    admin_name: Anouvong
+    iso3c: LAO
+    shapeID: 54806243B81229078685154
+  AtsaphangthongAdm2LAO:
+    admin_name: Atsaphangthong
+    iso3c: LAO
+    shapeID: 54806243B41596268770013
+  AtsaphoneAdm2LAO:
+    admin_name: Atsaphone
+    iso3c: LAO
+    shapeID: 54806243B37030800305867
+  AttapeuAdm1LAO:
+    admin_name: Attapeu
+    iso3c: LAO
+    shapeID: 31783359B8999899719232
+  BachiangchaleunsookAdm2LAO:
+    admin_name: Bachiangchaleunsook
+    iso3c: LAO
+    shapeID: 54806243B89644559951637
+  BengAdm2LAO:
+    admin_name: Beng
+    iso3c: LAO
+    shapeID: 54806243B47221121067222
+  BokeoAdm1LAO:
+    admin_name: Bokeo
+    iso3c: LAO
+    shapeID: 31783359B18099798035754
+  BolikhamsaiAdm1LAO:
+    admin_name: Bolikhamsai
+    iso3c: LAO
+    shapeID: 31783359B52686694059818
+  BolikhanhAdm2LAO:
+    admin_name: Bolikhanh
+    iso3c: LAO
+    shapeID: 54806243B38161899142036
+  BoonNeuaAdm2LAO:
+    admin_name: BoonNeua
+    iso3c: LAO
+    shapeID: 54806243B32733384276808
+  BoontayAdm2LAO:
+    admin_name: Boontay
+    iso3c: LAO
+    shapeID: 54806243B85580123027929
+  BoteneAdm2LAO:
+    admin_name: Botene
+    iso3c: LAO
+    shapeID: 54806243B51451438930517
+  BualaphaAdm2LAO:
+    admin_name: Bualapha
+    iso3c: LAO
+    shapeID: 54806243B82377713639337
+  ChampasackAdm2LAO:
+    admin_name: Champasack
+    iso3c: LAO
+    shapeID: 54806243B29706107619641
+  ChampasakAdm1LAO:
+    admin_name: Champasak
+    iso3c: LAO
+    shapeID: 31783359B26227132251916
+  ChamphoneAdm2LAO:
+    admin_name: Champhone
+    iso3c: LAO
+    shapeID: 54806243B27710680023105
+  ChanthabulyAdm2LAO:
+    admin_name: Chanthabuly
+    iso3c: LAO
+    shapeID: 54806243B69886470699230
+  ChomphetAdm2LAO:
+    admin_name: Chomphet
+    iso3c: LAO
+    shapeID: 54806243B51917372677648
+  DakcheungAdm2LAO:
+    admin_name: Dakcheung
+    iso3c: LAO
+    shapeID: 54806243B33031915083472
+  FeuangAdm2LAO:
+    admin_name: Feuang
+    iso3c: LAO
+    shapeID: 54806243B7670424419028
+  HadxaifongAdm2LAO:
+    admin_name: Hadxaifong
+    iso3c: LAO
+    shapeID: 54806243B62960887748037
+  HiemAdm2LAO:
+    admin_name: Hiem
+    iso3c: LAO
+    shapeID: 54806243B99881482516607
+  HinboonAdm2LAO:
+    admin_name: Hinboon
+    iso3c: LAO
+    shapeID: 54806243B38020110154971
+  HinherbAdm2LAO:
+    admin_name: Hinherb
+    iso3c: LAO
+    shapeID: 54806243B70207385851148
+  HomeAdm2LAO:
+    admin_name: Home
+    iso3c: LAO
+    shapeID: 54806243B40513758321567
+  HongsaAdm2LAO:
+    admin_name: Hongsa
+    iso3c: LAO
+    shapeID: 54806243B68130854025017
+  HoonAdm2LAO:
+    admin_name: Hoon
+    iso3c: LAO
+    shapeID: 54806243B15680017307326
+  HouaphanAdm1LAO:
+    admin_name: Houaphan
+    iso3c: LAO
+    shapeID: 31783359B1064119540000
+  HuameuangAdm2LAO:
+    admin_name: Huameuang
+    iso3c: LAO
+    shapeID: 54806243B56031864903402
+  HuoixaiAdm2LAO:
+    admin_name: Huoixai
+    iso3c: LAO
+    shapeID: 54806243B92190499984155
+  KaleumAdm2LAO:
+    admin_name: Kaleum
+    iso3c: LAO
+    shapeID: 54806243B53165803906009
+  KasyAdm2LAO:
+    admin_name: Kasy
+    iso3c: LAO
+    shapeID: 54806243B33776683357165
+  KaysonePhomvihaneAdm2LAO:
+    admin_name: KaysonePhomvihane
+    iso3c: LAO
+    shapeID: 54806243B84595841762541
+  KenethaoAdm2LAO:
+    admin_name: Kenethao
+    iso3c: LAO
+    shapeID: 54806243B29120113935386
+  KeoOudomAdm2LAO:
+    admin_name: KeoOudom
+    iso3c: LAO
+    shapeID: 54806243B75308999712701
+  KhamAdm2LAO:
+    admin_name: Kham
+    iso3c: LAO
+    shapeID: 54806243B15908522447592
+  KhamkeuthAdm2LAO:
+    admin_name: Khamkeuth
+    iso3c: LAO
+    shapeID: 54806243B83345748269493
+  KhammouaneAdm1LAO:
+    admin_name: Khammouane
+    iso3c: LAO
+    shapeID: 31783359B32687543126582
+  KhongAdm2LAO:
+    admin_name: Khong
+    iso3c: LAO
+    shapeID: 54806243B24917082255411
+  KhongxedoneAdm2LAO:
+    admin_name: Khongxedone
+    iso3c: LAO
+    shapeID: 54806243B74103700383879
+  KhopAdm2LAO:
+    admin_name: Khop
+    iso3c: LAO
+    shapeID: 54806243B3164582254678
+  KhouneAdm2LAO:
+    admin_name: Khoune
+    iso3c: LAO
+    shapeID: 54806243B13600000049447
+  KhounkhamAdm2LAO:
+    admin_name: Khounkham
+    iso3c: LAO
+    shapeID: 54806243B26229872021267
+  KhuaAdm2LAO:
+    admin_name: Khua
+    iso3c: LAO
+    shapeID: 54806243B94701864875759
+  KuanAdm2LAO:
+    admin_name: Kuan
+    iso3c: LAO
+    shapeID: 54806243B93999085545465
+  LaAdm2LAO:
+    admin_name: La
+    iso3c: LAO
+    shapeID: 54806243B9832797211716
+  LakhonephengAdm2LAO:
+    admin_name: Lakhonepheng
+    iso3c: LAO
+    shapeID: 54806243B33951699195054
+  LamarmAdm2LAO:
+    admin_name: Lamarm
+    iso3c: LAO
+    shapeID: 54806243B71027577228634
+  LaoNgarmAdm2LAO:
+    admin_name: LaoNgarm
+    iso3c: LAO
+    shapeID: 54806243B99533755262624
+  LongAdm2LAO:
+    admin_name: Long
+    iso3c: LAO
+    shapeID: 54806243B81400796532262
+  LongchengAdm2LAO:
+    admin_name: Longcheng
+    iso3c: LAO
+    shapeID: 54806243B40000805936315
+  LongsaneAdm2LAO:
+    admin_name: Longsane
+    iso3c: LAO
+    shapeID: 54806243B36605497856689
+  LuangNamthaAdm1LAO:
+    admin_name: LuangNamtha
+    iso3c: LAO
+    shapeID: 31783359B96178998933928
+  LuangPrabangAdm1LAO:
+    admin_name: LuangPrabang
+    iso3c: LAO
+    shapeID: 31783359B8337285946490
+  LuangprabangAdm2LAO:
+    admin_name: Luangprabang
+    iso3c: LAO
+    shapeID: 54806243B7800047317547
+  MadAdm2LAO:
+    admin_name: Mad
+    iso3c: LAO
+    shapeID: 54806243B62258390491570
+  MahaxayAdm2LAO:
+    admin_name: Mahaxay
+    iso3c: LAO
+    shapeID: 54806243B31598332414602
+  MayAdm2LAO:
+    admin_name: May
+    iso3c: LAO
+    shapeID: 54806243B58703699561211
+  MayparkngumAdm2LAO:
+    admin_name: Mayparkngum
+    iso3c: LAO
+    shapeID: 54806243B973390148812
+  MeunAdm2LAO:
+    admin_name: Meun
+    iso3c: LAO
+    shapeID: 54806243B19210763437500
+  MeungAdm2LAO:
+    admin_name: Meung
+    iso3c: LAO
+    shapeID: 54806243B45963768052626
+  MoonlapamokAdm2LAO:
+    admin_name: Moonlapamok
+    iso3c: LAO
+    shapeID: 54806243B88761903664020
+  MorkAdm2LAO:
+    admin_name: Mork
+    iso3c: LAO
+    shapeID: 54806243B65715905336268
+  NakayAdm2LAO:
+    admin_name: Nakay
+    iso3c: LAO
+    shapeID: 54806243B86213796006306
+  NalaeAdm2LAO:
+    admin_name: Nalae
+    iso3c: LAO
+    shapeID: 54806243B58985543260774
+  NambakAdm2LAO:
+    admin_name: Nambak
+    iso3c: LAO
+    shapeID: 54806243B57265531802207
+  NamorAdm2LAO:
+    admin_name: Namor
+    iso3c: LAO
+    shapeID: 54806243B14770946613819
+  NamthaAdm2LAO:
+    admin_name: Namtha
+    iso3c: LAO
+    shapeID: 54806243B37756606625280
+  NanAdm2LAO:
+    admin_name: Nan
+    iso3c: LAO
+    shapeID: 54806243B77151952253527
+  NaxaithongAdm2LAO:
+    admin_name: Naxaithong
+    iso3c: LAO
+    shapeID: 54806243B89658590845208
+  NgaAdm2LAO:
+    admin_name: Nga
+    iso3c: LAO
+    shapeID: 54806243B37529885966132
+  NgeunAdm2LAO:
+    admin_name: Ngeun
+    iso3c: LAO
+    shapeID: 54806243B6650440767024
+  NgoiAdm2LAO:
+    admin_name: Ngoi
+    iso3c: LAO
+    shapeID: 54806243B52412809783440
+  NhommalathAdm2LAO:
+    admin_name: Nhommalath
+    iso3c: LAO
+    shapeID: 54806243B45246983413139
+  NhotOuAdm2LAO:
+    admin_name: NhotOu
+    iso3c: LAO
+    shapeID: 54806243B80696563132814
+  NongAdm2LAO:
+    admin_name: Nong
+    iso3c: LAO
+    shapeID: 54806243B35182777115371
+  NongbokAdm2LAO:
+    admin_name: Nongbok
+    iso3c: LAO
+    shapeID: 54806243B28884115571756
+  NonghedAdm2LAO:
+    admin_name: Nonghed
+    iso3c: LAO
+    shapeID: 54806243B9713261683611
+  OudomxayAdm1LAO:
+    admin_name: Oudomxay
+    iso3c: LAO
+    shapeID: 31783359B43569910510083
+  OuthoomphoneAdm2LAO:
+    admin_name: Outhoomphone
+    iso3c: LAO
+    shapeID: 54806243B62661811968919
+  PakbengAdm2LAO:
+    admin_name: Pakbeng
+    iso3c: LAO
+    shapeID: 54806243B50081562386900
+  PakkadingAdm2LAO:
+    admin_name: Pakkading
+    iso3c: LAO
+    shapeID: 54806243B78730192124512
+  PakseAdm2LAO:
+    admin_name: Pakse
+    iso3c: LAO
+    shapeID: 54806243B60589909949594
+  PaksxongAdm2LAO:
+    admin_name: Paksxong
+    iso3c: LAO
+    shapeID: 54806243B99884801714166
+  PakthaAdm2LAO:
+    admin_name: Paktha
+    iso3c: LAO
+    shapeID: 54806243B15398508442736
+  PakxaneAdm2LAO:
+    admin_name: Pakxane
+    iso3c: LAO
+    shapeID: 54806243B37917799339304
+  PakXengAdm2LAO:
+    admin_name: PakXeng
+    iso3c: LAO
+    shapeID: 54806243B94581920301315
+  ParklaiAdm2LAO:
+    admin_name: Parklai
+    iso3c: LAO
+    shapeID: 54806243B45153092091690
+  ParkOuAdm2LAO:
+    admin_name: ParkOu
+    iso3c: LAO
+    shapeID: 54806243B64130062108645
+  PathoomphoneAdm2LAO:
+    admin_name: Pathoomphone
+    iso3c: LAO
+    shapeID: 54806243B32788033784925
+  PekAdm2LAO:
+    admin_name: Pek
+    iso3c: LAO
+    shapeID: 54806243B64426060368946
+  PhalanxayAdm2LAO:
+    admin_name: Phalanxay
+    iso3c: LAO
+    shapeID: 54806243B24177068581900
+  PhaOudomAdm2LAO:
+    admin_name: PhaOudom
+    iso3c: LAO
+    shapeID: 54806243B51169476275365
+  PhaxayAdm2LAO:
+    admin_name: Phaxay
+    iso3c: LAO
+    shapeID: 54806243B24491870004001
+  PhiangAdm2LAO:
+    admin_name: Phiang
+    iso3c: LAO
+    shapeID: 54806243B59484994865641
+  PhineAdm2LAO:
+    admin_name: Phine
+    iso3c: LAO
+    shapeID: 54806243B87203647312357
+  PhongsalyAdm1LAO:
+    admin_name: Phongsaly
+    iso3c: LAO
+    shapeID: 31783359B48269776417908
+  PhongsalyAdm2LAO:
+    admin_name: Phongsaly
+    iso3c: LAO
+    shapeID: 54806243B21239526980805
+  PhonhongAdm2LAO:
+    admin_name: Phonhong
+    iso3c: LAO
+    shapeID: 54806243B58411592743301
+  PhonthongAdm2LAO:
+    admin_name: Phonthong
+    iso3c: LAO
+    shapeID: 54806243B14812805317737
+  PhonxayAdm2LAO:
+    admin_name: Phonxay
+    iso3c: LAO
+    shapeID: 54806243B12835501655609
+  PhookoodAdm2LAO:
+    admin_name: Phookood
+    iso3c: LAO
+    shapeID: 54806243B98354561881715
+  PhoukhouneAdm2LAO:
+    admin_name: Phoukhoune
+    iso3c: LAO
+    shapeID: 54806243B44028844681141
+  PhouvongAdm2LAO:
+    admin_name: Phouvong
+    iso3c: LAO
+    shapeID: 54806243B34270486399712
+  SalavanAdm1LAO:
+    admin_name: Salavan
+    iso3c: LAO
+    shapeID: 31783359B10266600227606
+  SamakkhixayAdm2LAO:
+    admin_name: Samakkhixay
+    iso3c: LAO
+    shapeID: 54806243B43927962205569
+  SamphanhAdm2LAO:
+    admin_name: Samphanh
+    iso3c: LAO
+    shapeID: 54806243B8043974283076
+  SamuoiAdm2LAO:
+    admin_name: Samuoi
+    iso3c: LAO
+    shapeID: 54806243B94049695907039
+  SanamxayAdm2LAO:
+    admin_name: Sanamxay
+    iso3c: LAO
+    shapeID: 54806243B21104398525557
+  SanasomboonAdm2LAO:
+    admin_name: Sanasomboon
+    iso3c: LAO
+    shapeID: 54806243B13253322740036
+  SangthongAdm2LAO:
+    admin_name: Sangthong
+    iso3c: LAO
+    shapeID: 54806243B2404656271674
+  SanxayAdm2LAO:
+    admin_name: Sanxay
+    iso3c: LAO
+    shapeID: 54806243B69269956902772
+  SaravaneAdm2LAO:
+    admin_name: Saravane
+    iso3c: LAO
+    shapeID: 54806243B98474683656009
+  SavannakhetAdm1LAO:
+    admin_name: Savannakhet
+    iso3c: LAO
+    shapeID: 31783359B41032705110141
+  SeponeAdm2LAO:
+    admin_name: Sepone
+    iso3c: LAO
+    shapeID: 54806243B75063146976266
+  SikhottabongAdm2LAO:
+    admin_name: Sikhottabong
+    iso3c: LAO
+    shapeID: 54806243B78936618260326
+  SingAdm2LAO:
+    admin_name: Sing
+    iso3c: LAO
+    shapeID: 54806243B57426312908571
+  SisattanakAdm2LAO:
+    admin_name: Sisattanak
+    iso3c: LAO
+    shapeID: 54806243B63933200485588
+  SongkhoneAdm2LAO:
+    admin_name: Songkhone
+    iso3c: LAO
+    shapeID: 54806243B4433821192490
+  SopbaoAdm2LAO:
+    admin_name: Sopbao
+    iso3c: LAO
+    shapeID: 54806243B20736296010663
+  SukhumaAdm2LAO:
+    admin_name: Sukhuma
+    iso3c: LAO
+    shapeID: 54806243B81764189920693
+  TaOiAdm2LAO:
+    admin_name: TaOi
+    iso3c: LAO
+    shapeID: 54806243B63439547813391
+  ThakhekAdm2LAO:
+    admin_name: Thakhek
+    iso3c: LAO
+    shapeID: 54806243B53814291483739
+  ThapangthongAdm2LAO:
+    admin_name: Thapangthong
+    iso3c: LAO
+    shapeID: 54806243B5714719739337
+  ThaphabathAdm2LAO:
+    admin_name: Thaphabath
+    iso3c: LAO
+    shapeID: 54806243B39354451969384
+  ThatengAdm2LAO:
+    admin_name: Thateng
+    iso3c: LAO
+    shapeID: 54806243B20325716676417
+  ThathomAdm2LAO:
+    admin_name: Thathom
+    iso3c: LAO
+    shapeID: 54806243B97647332692488
+  ThongmyxayAdm2LAO:
+    admin_name: Thongmyxay
+    iso3c: LAO
+    shapeID: 54806243B9837596905038
+  ThoulakhomAdm2LAO:
+    admin_name: Thoulakhom
+    iso3c: LAO
+    shapeID: 54806243B19850954629179
+  TonpheungAdm2LAO:
+    admin_name: Tonpheung
+    iso3c: LAO
+    shapeID: 54806243B26720131925701
+  ToomlarnAdm2LAO:
+    admin_name: Toomlarn
+    iso3c: LAO
+    shapeID: 54806243B58304199894051
+  VangviengAdm2LAO:
+    admin_name: Vangvieng
+    iso3c: LAO
+    shapeID: 54806243B551923777603
+  VapyAdm2LAO:
+    admin_name: Vapy
+    iso3c: LAO
+    shapeID: 54806243B822466577686
+  ViengkhamAdm2LAO:
+    admin_name: Viengkham
+    iso3c: LAO
+    shapeID: 54806243B97421577673591
+  ViengphoukhaAdm2LAO:
+    admin_name: Viengphoukha
+    iso3c: LAO
+    shapeID: 54806243B46667129508347
+  ViengthongAdm2LAO:
+    admin_name: Viengthong
+    iso3c: LAO
+    shapeID: 54806243B87134843513913
+  ViengxayAdm2LAO:
+    admin_name: Viengxay
+    iso3c: LAO
+    shapeID: 54806243B54136616884271
+  VientianeAdm1LAO:
+    admin_name: Vientiane
+    iso3c: LAO
+    shapeID: 31783359B43191608929261
+  VientianeCapitalAdm1LAO:
+    admin_name: VientianeCapital
+    iso3c: LAO
+    shapeID: 31783359B97264007138888
+  VilabulyAdm2LAO:
+    admin_name: Vilabuly
+    iso3c: LAO
+    shapeID: 54806243B77256668678203
+  XaignabouliAdm1LAO:
+    admin_name: Xaignabouli
+    iso3c: LAO
+    shapeID: 31783359B80437097027275
+  XaisombounAdm1LAO:
+    admin_name: Xaisomboun
+    iso3c: LAO
+    shapeID: 31783359B37921942896223
+  XamneuaAdm2LAO:
+    admin_name: Xamneua
+    iso3c: LAO
+    shapeID: 54806243B30579322269888
+  XamtayAdm2LAO:
+    admin_name: Xamtay
+    iso3c: LAO
+    shapeID: 54806243B53408209397741
+  XanakharmAdm2LAO:
+    admin_name: Xanakharm
+    iso3c: LAO
+    shapeID: 54806243B76912612814401
+  XayaburyAdm2LAO:
+    admin_name: Xayabury
+    iso3c: LAO
+    shapeID: 54806243B33263536107657
+  XayAdm2LAO:
+    admin_name: Xay
+    iso3c: LAO
+    shapeID: 54806243B51334446972135
+  XaybuathongAdm2LAO:
+    admin_name: Xaybuathong
+    iso3c: LAO
+    shapeID: 54806243B39902865855878
+  XaybulyAdm2LAO:
+    admin_name: Xaybuly
+    iso3c: LAO
+    shapeID: 54806243B76472997498531
+  XaychamphoneAdm2LAO:
+    admin_name: Xaychamphone
+    iso3c: LAO
+    shapeID: 54806243B24736520064001
+  XayphoothongAdm2LAO:
+    admin_name: Xayphoothong
+    iso3c: LAO
+    shapeID: 54806243B80767168472934
+  XaysathanAdm2LAO:
+    admin_name: Xaysathan
+    iso3c: LAO
+    shapeID: 54806243B87801553975082
+  XaysethaAdm2LAO:
+    admin_name: Xaysetha
+    iso3c: LAO
+    shapeID: 54806243B76096525034044
+  XaythanyAdm2LAO:
+    admin_name: Xaythany
+    iso3c: LAO
+    shapeID: 54806243B16467343540184
+  XebangfayAdm2LAO:
+    admin_name: Xebangfay
+    iso3c: LAO
+    shapeID: 54806243B47827681100424
+  XekongAdm1LAO:
+    admin_name: Xekong
+    iso3c: LAO
+    shapeID: 31783359B64397225362620
+  XiangkhouangAdm1LAO:
+    admin_name: Xiangkhouang
+    iso3c: LAO
+    shapeID: 31783359B28405124024719
+  XienghoneAdm2LAO:
+    admin_name: Xienghone
+    iso3c: LAO
+    shapeID: 54806243B61496088664088
+  XiengkhorAdm2LAO:
+    admin_name: Xiengkhor
+    iso3c: LAO
+    shapeID: 54806243B48324758526346
+  XiengNgeunAdm2LAO:
+    admin_name: XiengNgeun
+    iso3c: LAO
+    shapeID: 54806243B25944960154772
+  XonAdm2LAO:
+    admin_name: Xon
+    iso3c: LAO
+    shapeID: 54806243B87375658661080
+  XonbulyAdm2LAO:
+    admin_name: Xonbuly
+    iso3c: LAO
+    shapeID: 54806243B48815004999342

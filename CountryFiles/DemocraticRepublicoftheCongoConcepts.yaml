@@ -1,27 +1,861 @@
 concepts:
-    - Sankuru
-    - Haut-Lomami
-    - Kongo-Central
-    - Kwango
-    - Kwilu
-    - Mai-Ndombe
-    - Sud-Ubangi
-    - UpperUele
-    - Ituri
-    - Tshopo
-    - LowerUele
-    - Mongala
-    - Équateur
-    - Haut-Katanga
-    - Lomami
-    - Lualaba
-    - Kinshasa
-    - Kasai
-    - Kasai-Oriental
-    - Maniema
-    - Tanganyika
-    - Nord-Ubangi
-    - Tshuapa
-    - CentralKasai
-    - NorthKivu
-    - SouthKivu
+  AbaAdm2COD:
+    admin_name: Aba
+    iso3c: COD
+    shapeID: 63176286B20411552692002
+  AketiAdm2COD:
+    admin_name: Aketi
+    iso3c: COD
+    shapeID: 63176286B77771623677962
+  AngoAdm2COD:
+    admin_name: Ango
+    iso3c: COD
+    shapeID: 63176286B24678106401017
+  AriwaraAdm2COD:
+    admin_name: Ariwara
+    iso3c: COD
+    shapeID: 63176286B55306571020797
+  AruAdm2COD:
+    admin_name: Aru
+    iso3c: COD
+    shapeID: 63176286B14719092717616
+  BafwasendeAdm2COD:
+    admin_name: Bafwasende
+    iso3c: COD
+    shapeID: 63176286B50174012793828
+  BagataAdm2COD:
+    admin_name: Bagata
+    iso3c: COD
+    shapeID: 63176286B20425932648522
+  BambesaAdm2COD:
+    admin_name: Bambesa
+    iso3c: COD
+    shapeID: 63176286B69142293994365
+  BanaliaAdm2COD:
+    admin_name: Banalia
+    iso3c: COD
+    shapeID: 63176286B83745324886444
+  BandunduAdm2COD:
+    admin_name: Bandundu
+    iso3c: COD
+    shapeID: 63176286B76945459106625
+  BanguAdm2COD:
+    admin_name: Bangu
+    iso3c: COD
+    shapeID: 63176286B31425721317411
+  BarakaAdm2COD:
+    admin_name: Baraka
+    iso3c: COD
+    shapeID: 63176286B52252759567832
+  BasankusuAdm2COD:
+    admin_name: Basankusu
+    iso3c: COD
+    shapeID: 63176286B59821830207387
+  BasokoAdm2COD:
+    admin_name: Basoko
+    iso3c: COD
+    shapeID: 63176286B83726148102259
+  BefaleAdm2COD:
+    admin_name: Befale
+    iso3c: COD
+    shapeID: 63176286B4133354906354
+  Bena-DibeleAdm2COD:
+    admin_name: Bena-Dibele
+    iso3c: COD
+    shapeID: 63176286B9358277012481
+  BeniAdm2COD:
+    admin_name: Beni
+    iso3c: COD
+    shapeID: 63176286B12710938610069
+  BikoroAdm2COD:
+    admin_name: Bikoro
+    iso3c: COD
+    shapeID: 63176286B68262610189121
+  BoendeAdm2COD:
+    admin_name: Boende
+    iso3c: COD
+    shapeID: 63176286B77918114228452
+  BokunguAdm2COD:
+    admin_name: Bokungu
+    iso3c: COD
+    shapeID: 63176286B49430673132917
+  BoloboAdm2COD:
+    admin_name: Bolobo
+    iso3c: COD
+    shapeID: 63176286B21856672762157
+  BolombaAdm2COD:
+    admin_name: Bolomba
+    iso3c: COD
+    shapeID: 63176286B53001735211155
+  BomaAdm2COD:
+    admin_name: Boma
+    iso3c: COD
+    shapeID: 63176286B538038850114
+  BomongoAdm2COD:
+    admin_name: Bomongo
+    iso3c: COD
+    shapeID: 63176286B36806520086654
+  BondoAdm2COD:
+    admin_name: Bondo
+    iso3c: COD
+    shapeID: 63176286B80368275017521
+  BongandangaAdm2COD:
+    admin_name: Bongandanga
+    iso3c: COD
+    shapeID: 63176286B86504731111535
+  BosoboloAdm2COD:
+    admin_name: Bosobolo
+    iso3c: COD
+    shapeID: 63176286B50098701443330
+  BudjalaAdm2COD:
+    admin_name: Budjala
+    iso3c: COD
+    shapeID: 63176286B30356596276779
+  BukamaAdm2COD:
+    admin_name: Bukama
+    iso3c: COD
+    shapeID: 63176286B12691977822681
+  BukavuAdm2COD:
+    admin_name: Bukavu
+    iso3c: COD
+    shapeID: 63176286B64827262038855
+  BulunguAdm2COD:
+    admin_name: Bulungu
+    iso3c: COD
+    shapeID: 63176286B11990771214401
+  BumbaAdm2COD:
+    admin_name: Bumba
+    iso3c: COD
+    shapeID: 63176286B7674321742221
+  BuniaAdm2COD:
+    admin_name: Bunia
+    iso3c: COD
+    shapeID: 63176286B65216379244562
+  BusingaAdm2COD:
+    admin_name: Businga
+    iso3c: COD
+    shapeID: 63176286B10859728267394
+  ButaAdm2COD:
+    admin_name: Buta
+    iso3c: COD
+    shapeID: 63176286B70684258400559
+  ButemboAdm2COD:
+    admin_name: Butembo
+    iso3c: COD
+    shapeID: 63176286B17770065929195
+  CentralKasaiAdm1COD:
+    admin_name: CentralKasai
+    iso3c: COD
+    shapeID: 28894549B61915221715888
+  DekeseAdm2COD:
+    admin_name: Dekese
+    iso3c: COD
+    shapeID: 63176286B23528212594514
+  DembaAdm2COD:
+    admin_name: Demba
+    iso3c: COD
+    shapeID: 63176286B65160793690884
+  Dibaya-LubweAdm2COD:
+    admin_name: Dibaya-Lubwe
+    iso3c: COD
+    shapeID: 63176286B25992661497472
+  DibayaAdm2COD:
+    admin_name: Dibaya
+    iso3c: COD
+    shapeID: 63176286B23998883625218
+  DiloloAdm2COD:
+    admin_name: Dilolo
+    iso3c: COD
+    shapeID: 63176286B33518015273847
+  DimbelengeAdm2COD:
+    admin_name: Dimbelenge
+    iso3c: COD
+    shapeID: 63176286B75664078742838
+  DingilaAdm2COD:
+    admin_name: Dingila
+    iso3c: COD
+    shapeID: 63176286B70830242214620
+  DjoluAdm2COD:
+    admin_name: Djolu
+    iso3c: COD
+    shapeID: 63176286B56364191841329
+  DjuguAdm2COD:
+    admin_name: Djugu
+    iso3c: COD
+    shapeID: 63176286B65133649587609
+  DunguAdm2COD:
+    admin_name: Dungu
+    iso3c: COD
+    shapeID: 63176286B6974395638231
+  ÉquateurAdm1COD:
+    admin_name: Équateur
+    iso3c: COD
+    shapeID: 28894549B37294008176905
+  FaradjeAdm2COD:
+    admin_name: Faradje
+    iso3c: COD
+    shapeID: 63176286B94121502354965
+  FeshiAdm2COD:
+    admin_name: Feshi
+    iso3c: COD
+    shapeID: 63176286B93121803325272
+  FiziAdm2COD:
+    admin_name: Fizi
+    iso3c: COD
+    shapeID: 63176286B21708239892428
+  GbadoliteAdm2COD:
+    admin_name: Gbadolite
+    iso3c: COD
+    shapeID: 63176286B98421000452360
+  GemenaAdm2COD:
+    admin_name: Gemena
+    iso3c: COD
+    shapeID: 63176286B43464771754704
+  GomaAdm2COD:
+    admin_name: Goma
+    iso3c: COD
+    shapeID: 63176286B45383896961526
+  GunguAdm2COD:
+    admin_name: Gungu
+    iso3c: COD
+    shapeID: 63176286B71176382547280
+  Haut-KatangaAdm1COD:
+    admin_name: Haut-Katanga
+    iso3c: COD
+    shapeID: 28894549B50925261891635
+  Haut-LomamiAdm1COD:
+    admin_name: Haut-Lomami
+    iso3c: COD
+    shapeID: 28894549B30623489313038
+  IdiofaAdm2COD:
+    admin_name: Idiofa
+    iso3c: COD
+    shapeID: 63176286B53815785774290
+  IdjwiAdm2COD:
+    admin_name: Idjwi
+    iso3c: COD
+    shapeID: 63176286B68411895895174
+  IkelaAdm2COD:
+    admin_name: Ikela
+    iso3c: COD
+    shapeID: 63176286B75913983063727
+  IleboAdm2COD:
+    admin_name: Ilebo
+    iso3c: COD
+    shapeID: 63176286B19501088760626
+  IngbokoloAdm2COD:
+    admin_name: Ingbokolo
+    iso3c: COD
+    shapeID: 63176286B90733061522477
+  IngendeAdm2COD:
+    admin_name: Ingende
+    iso3c: COD
+    shapeID: 63176286B3271137171664
+  InkisiAdm2COD:
+    admin_name: Inkisi
+    iso3c: COD
+    shapeID: 63176286B22382339186814
+  InongoAdm2COD:
+    admin_name: Inongo
+    iso3c: COD
+    shapeID: 63176286B68796769615290
+  IrumuAdm2COD:
+    admin_name: Irumu
+    iso3c: COD
+    shapeID: 63176286B75372177576839
+  IsangiAdm2COD:
+    admin_name: Isangi
+    iso3c: COD
+    shapeID: 63176286B30130216174864
+  IsiroAdm2COD:
+    admin_name: Isiro
+    iso3c: COD
+    shapeID: 63176286B55213243416233
+  IturiAdm1COD:
+    admin_name: Ituri
+    iso3c: COD
+    shapeID: 28894549B71118016098951
+  KabaloAdm2COD:
+    admin_name: Kabalo
+    iso3c: COD
+    shapeID: 63176286B58583497580401
+  KabambareAdm2COD:
+    admin_name: Kabambare
+    iso3c: COD
+    shapeID: 63176286B85957320837216
+  KabareAdm2COD:
+    admin_name: Kabare
+    iso3c: COD
+    shapeID: 63176286B3160723083670
+  Kabeya-KamwangaAdm2COD:
+    admin_name: Kabeya-Kamwanga
+    iso3c: COD
+    shapeID: 63176286B62322725812229
+  KabindaAdm2COD:
+    admin_name: Kabinda
+    iso3c: COD
+    shapeID: 63176286B78021290688444
+  KabongoAdm2COD:
+    admin_name: Kabongo
+    iso3c: COD
+    shapeID: 63176286B531915432051
+  KahembaAdm2COD:
+    admin_name: Kahemba
+    iso3c: COD
+    shapeID: 63176286B37251946319002
+  KailoAdm2COD:
+    admin_name: Kailo
+    iso3c: COD
+    shapeID: 63176286B17504702690240
+  KaleheAdm2COD:
+    admin_name: Kalehe
+    iso3c: COD
+    shapeID: 63176286B48907865482387
+  KalemieAdm2COD:
+    admin_name: Kalemie
+    iso3c: COD
+    shapeID: 63176286B6958016734749
+  KalimaAdm2COD:
+    admin_name: Kalima
+    iso3c: COD
+    shapeID: 63176286B20601319898864
+  KamboveAdm2COD:
+    admin_name: Kambove
+    iso3c: COD
+    shapeID: 63176286B84034630662614
+  KamijiAdm2COD:
+    admin_name: Kamiji
+    iso3c: COD
+    shapeID: 63176286B35852451405101
+  KaminaAdm2COD:
+    admin_name: Kamina
+    iso3c: COD
+    shapeID: 63176286B31000864957103
+  KamitugaAdm2COD:
+    admin_name: Kamituga
+    iso3c: COD
+    shapeID: 63176286B35677174574617
+  KamoniaAdm2COD:
+    admin_name: Kamonia
+    iso3c: COD
+    shapeID: 63176286B40120828568077
+  KanangaAdm2COD:
+    admin_name: Kananga
+    iso3c: COD
+    shapeID: 63176286B7058717383424
+  KaniamaAdm2COD:
+    admin_name: Kaniama
+    iso3c: COD
+    shapeID: 63176286B16885288794784
+  KaozeAdm2COD:
+    admin_name: Kaoze
+    iso3c: COD
+    shapeID: 63176286B47747519497786
+  KapangaAdm2COD:
+    admin_name: Kapanga
+    iso3c: COD
+    shapeID: 63176286B41140464701712
+  Kasai-OrientalAdm1COD:
+    admin_name: Kasai-Oriental
+    iso3c: COD
+    shapeID: 28894549B87743923989415
+  KasaiAdm1COD:
+    admin_name: Kasai
+    iso3c: COD
+    shapeID: 28894549B67590087528803
+  KasajiAdm2COD:
+    admin_name: Kasaji
+    iso3c: COD
+    shapeID: 63176286B96753486418064
+  KasanguluAdm2COD:
+    admin_name: Kasangulu
+    iso3c: COD
+    shapeID: 63176286B98008703469616
+  KasengaAdm2COD:
+    admin_name: Kasenga
+    iso3c: COD
+    shapeID: 63176286B77262619841164
+  Kasongo-LundaAdm2COD:
+    admin_name: Kasongo-Lunda
+    iso3c: COD
+    shapeID: 63176286B94968684087840
+  KasongoAdm2COD:
+    admin_name: Kasongo
+    iso3c: COD
+    shapeID: 63176286B88012685356826
+  Katako-KombeAdm2COD:
+    admin_name: Katako-Kombe
+    iso3c: COD
+    shapeID: 63176286B65571818133367
+  KatandaAdm2COD:
+    admin_name: Katanda
+    iso3c: COD
+    shapeID: 63176286B83227238071318
+  KazumbaAdm2COD:
+    admin_name: Kazumba
+    iso3c: COD
+    shapeID: 63176286B97272919542005
+  KengeAdm2COD:
+    admin_name: Kenge
+    iso3c: COD
+    shapeID: 63176286B18264844623742
+  KibomboAdm2COD:
+    admin_name: Kibombo
+    iso3c: COD
+    shapeID: 63176286B11141066261470
+  KikwitAdm2COD:
+    admin_name: Kikwit
+    iso3c: COD
+    shapeID: 63176286B32367911689095
+  KimvulaAdm2COD:
+    admin_name: Kimvula
+    iso3c: COD
+    shapeID: 63176286B83971453832478
+  KinduAdm2COD:
+    admin_name: Kindu
+    iso3c: COD
+    shapeID: 63176286B62585085359897
+  KinshasaAdm1COD:
+    admin_name: Kinshasa
+    iso3c: COD
+    shapeID: 28894549B68389240291046
+  KinshasaAdm2COD:
+    admin_name: Kinshasa
+    iso3c: COD
+    shapeID: 63176286B79360907689545
+  KipushiAdm2COD:
+    admin_name: Kipushi
+    iso3c: COD
+    shapeID: 63176286B75279003671986
+  KiriAdm2COD:
+    admin_name: Kiri
+    iso3c: COD
+    shapeID: 63176286B37259268611319
+  KisanganiAdm2COD:
+    admin_name: Kisangani
+    iso3c: COD
+    shapeID: 63176286B93910554563220
+  KoleAdm2COD:
+    admin_name: Kole
+    iso3c: COD
+    shapeID: 63176286B77592742780307
+  KolweziAdm2COD:
+    admin_name: Kolwezi
+    iso3c: COD
+    shapeID: 63176286B76187105234082
+  Kongo-CentralAdm1COD:
+    admin_name: Kongo-Central
+    iso3c: COD
+    shapeID: 28894549B38138050967839
+  KongoloAdm2COD:
+    admin_name: Kongolo
+    iso3c: COD
+    shapeID: 63176286B90330150002289
+  KunguAdm2COD:
+    admin_name: Kungu
+    iso3c: COD
+    shapeID: 63176286B55786633055845
+  KutuAdm2COD:
+    admin_name: Kutu
+    iso3c: COD
+    shapeID: 63176286B54443714119434
+  KwamouthAdm2COD:
+    admin_name: Kwamouth
+    iso3c: COD
+    shapeID: 63176286B12311619160810
+  KwangoAdm1COD:
+    admin_name: Kwango
+    iso3c: COD
+    shapeID: 28894549B46890622863620
+  KwiluAdm1COD:
+    admin_name: Kwilu
+    iso3c: COD
+    shapeID: 28894549B48772399836497
+  LibengeAdm2COD:
+    admin_name: Libenge
+    iso3c: COD
+    shapeID: 63176286B16720510237815
+  LikasiAdm2COD:
+    admin_name: Likasi
+    iso3c: COD
+    shapeID: 63176286B59059722008658
+  LisalaAdm2COD:
+    admin_name: Lisala
+    iso3c: COD
+    shapeID: 63176286B55618881730154
+  LodjaAdm2COD:
+    admin_name: Lodja
+    iso3c: COD
+    shapeID: 63176286B24830189223330
+  LomamiAdm1COD:
+    admin_name: Lomami
+    iso3c: COD
+    shapeID: 28894549B21546057795066
+  LomelaAdm2COD:
+    admin_name: Lomela
+    iso3c: COD
+    shapeID: 63176286B89784390033972
+  LowerUeleAdm1COD:
+    admin_name: LowerUele
+    iso3c: COD
+    shapeID: 28894549B47695765788779
+  LualabaAdm1COD:
+    admin_name: Lualaba
+    iso3c: COD
+    shapeID: 28894549B83017556697567
+  LubaoAdm2COD:
+    admin_name: Lubao
+    iso3c: COD
+    shapeID: 63176286B12881144084902
+  LubefuAdm2COD:
+    admin_name: Lubefu
+    iso3c: COD
+    shapeID: 63176286B49230128630829
+  LuberoAdm2COD:
+    admin_name: Lubero
+    iso3c: COD
+    shapeID: 63176286B45916106821058
+  LubudiAdm2COD:
+    admin_name: Lubudi
+    iso3c: COD
+    shapeID: 63176286B52782039621830
+  LubumbashiAdm2COD:
+    admin_name: Lubumbashi
+    iso3c: COD
+    shapeID: 63176286B7033307846906
+  LubutuAdm2COD:
+    admin_name: Lubutu
+    iso3c: COD
+    shapeID: 63176286B14336347527587
+  LueboAdm2COD:
+    admin_name: Luebo
+    iso3c: COD
+    shapeID: 63176286B69668932062204
+  LuiluAdm2COD:
+    admin_name: Luilu
+    iso3c: COD
+    shapeID: 63176286B70348427219396
+  LuizaAdm2COD:
+    admin_name: Luiza
+    iso3c: COD
+    shapeID: 63176286B81146580347594
+  LukalabaAdm2COD:
+    admin_name: Lukalaba
+    iso3c: COD
+    shapeID: 63176286B63969135863157
+  LukolelaAdm2COD:
+    admin_name: Lukolela
+    iso3c: COD
+    shapeID: 63176286B14204108243102
+  LukulaAdm2COD:
+    admin_name: Lukula
+    iso3c: COD
+    shapeID: 63176286B65126745094635
+  LuoziAdm2COD:
+    admin_name: Luozi
+    iso3c: COD
+    shapeID: 63176286B40063645047483
+  LupatapataAdm2COD:
+    admin_name: Lupatapata
+    iso3c: COD
+    shapeID: 63176286B66669834222633
+  LusamboAdm2COD:
+    admin_name: Lusambo
+    iso3c: COD
+    shapeID: 63176286B30844666641598
+  MadimbaAdm2COD:
+    admin_name: Madimba
+    iso3c: COD
+    shapeID: 63176286B8336769847246
+  MahagiAdm2COD:
+    admin_name: Mahagi
+    iso3c: COD
+    shapeID: 63176286B15680618396169
+  Mai-NdombeAdm1COD:
+    admin_name: Mai-Ndombe
+    iso3c: COD
+    shapeID: 28894549B55201873792787
+  MakanzaAdm2COD:
+    admin_name: Makanza
+    iso3c: COD
+    shapeID: 63176286B16264123188485
+  Malemba-NkuluAdm2COD:
+    admin_name: Malemba-Nkulu
+    iso3c: COD
+    shapeID: 63176286B11863220768150
+  MambasaAdm2COD:
+    admin_name: Mambasa
+    iso3c: COD
+    shapeID: 63176286B5401694360976
+  MangaiAdm2COD:
+    admin_name: Mangai
+    iso3c: COD
+    shapeID: 63176286B5937777491698
+  ManiemaAdm1COD:
+    admin_name: Maniema
+    iso3c: COD
+    shapeID: 28894549B38684068732321
+  ManonoAdm2COD:
+    admin_name: Manono
+    iso3c: COD
+    shapeID: 63176286B74212537268608
+  Masi-ManimbaAdm2COD:
+    admin_name: Masi-Manimba
+    iso3c: COD
+    shapeID: 63176286B37254158064276
+  MasisiAdm2COD:
+    admin_name: Masisi
+    iso3c: COD
+    shapeID: 63176286B62559292775761
+  MatadiAdm2COD:
+    admin_name: Matadi
+    iso3c: COD
+    shapeID: 63176286B7026545207042
+  MbandakaAdm2COD:
+    admin_name: Mbandaka
+    iso3c: COD
+    shapeID: 63176286B82661241826895
+  Mbanza-NgunguAdm2COD:
+    admin_name: Mbanza-Ngungu
+    iso3c: COD
+    shapeID: 63176286B82592558575614
+  Mbuji-MayiAdm2COD:
+    admin_name: Mbuji-Mayi
+    iso3c: COD
+    shapeID: 63176286B79011641071296
+  MiabiAdm2COD:
+    admin_name: Miabi
+    iso3c: COD
+    shapeID: 63176286B13611321695248
+  MitwabaAdm2COD:
+    admin_name: Mitwaba
+    iso3c: COD
+    shapeID: 63176286B64695958976401
+  MoandaAdm2COD:
+    admin_name: Moanda
+    iso3c: COD
+    shapeID: 63176286B88277060419996
+  MobaAdm2COD:
+    admin_name: Moba
+    iso3c: COD
+    shapeID: 63176286B25314267977171
+  Mobayi-MbongoAdm2COD:
+    admin_name: Mobayi-Mbongo
+    iso3c: COD
+    shapeID: 63176286B77587123851522
+  MongalaAdm1COD:
+    admin_name: Mongala
+    iso3c: COD
+    shapeID: 28894549B51646896581942
+  MongwaluAdm2COD:
+    admin_name: Mongwalu
+    iso3c: COD
+    shapeID: 63176286B9060730940258
+  MonkotoAdm2COD:
+    admin_name: Monkoto
+    iso3c: COD
+    shapeID: 63176286B4277783159614
+  MushieAdm2COD:
+    admin_name: Mushie
+    iso3c: COD
+    shapeID: 63176286B59505490488503
+  MutshatshaAdm2COD:
+    admin_name: Mutshatsha
+    iso3c: COD
+    shapeID: 63176286B57018267641486
+  MwekaAdm2COD:
+    admin_name: Mweka
+    iso3c: COD
+    shapeID: 63176286B85649689551019
+  Mwene-DituAdm2COD:
+    admin_name: Mwene-Ditu
+    iso3c: COD
+    shapeID: 63176286B28359889537852
+  MwengaAdm2COD:
+    admin_name: Mwenga
+    iso3c: COD
+    shapeID: 63176286B33283671139480
+  NamoyaAdm2COD:
+    admin_name: Namoya
+    iso3c: COD
+    shapeID: 63176286B36790783393673
+  NgandajikaAdm2COD:
+    admin_name: Ngandajika
+    iso3c: COD
+    shapeID: 63176286B5322857834849
+  NiangaraAdm2COD:
+    admin_name: Niangara
+    iso3c: COD
+    shapeID: 63176286B33291186627226
+  NiokiAdm2COD:
+    admin_name: Nioki
+    iso3c: COD
+    shapeID: 63176286B71096802464930
+  Nord-UbangiAdm1COD:
+    admin_name: Nord-Ubangi
+    iso3c: COD
+    shapeID: 28894549B30663222433478
+  NorthKivuAdm1COD:
+    admin_name: NorthKivu
+    iso3c: COD
+    shapeID: 28894549B19306184040235
+  NyiragongoAdm2COD:
+    admin_name: Nyiragongo
+    iso3c: COD
+    shapeID: 63176286B84996923503616
+  NyunzuAdm2COD:
+    admin_name: Nyunzu
+    iso3c: COD
+    shapeID: 63176286B34424841963647
+  OïchaAdm2COD:
+    admin_name: Oïcha
+    iso3c: COD
+    shapeID: 63176286B86170870415972
+  OpalaAdm2COD:
+    admin_name: Opala
+    iso3c: COD
+    shapeID: 63176286B48725841971461
+  OshweAdm2COD:
+    admin_name: Oshwe
+    iso3c: COD
+    shapeID: 63176286B4112889633509
+  PangiAdm2COD:
+    admin_name: Pangi
+    iso3c: COD
+    shapeID: 63176286B98681964412172
+  PokoAdm2COD:
+    admin_name: Poko
+    iso3c: COD
+    shapeID: 63176286B68044599971787
+  PopokabakaAdm2COD:
+    admin_name: Popokabaka
+    iso3c: COD
+    shapeID: 63176286B47421332346835
+  PuniaAdm2COD:
+    admin_name: Punia
+    iso3c: COD
+    shapeID: 63176286B1925057871065
+  PwetoAdm2COD:
+    admin_name: Pweto
+    iso3c: COD
+    shapeID: 63176286B50481715267247
+  RunguAdm2COD:
+    admin_name: Rungu
+    iso3c: COD
+    shapeID: 63176286B79209138861399
+  RutshuruAdm2COD:
+    admin_name: Rutshuru
+    iso3c: COD
+    shapeID: 63176286B25642850349509
+  SakaniaAdm2COD:
+    admin_name: Sakania
+    iso3c: COD
+    shapeID: 63176286B52056185132037
+  SandoaAdm2COD:
+    admin_name: Sandoa
+    iso3c: COD
+    shapeID: 63176286B26674316015082
+  SankuruAdm1COD:
+    admin_name: Sankuru
+    iso3c: COD
+    shapeID: 28894549B87845660721216
+  Seke-BanzaAdm2COD:
+    admin_name: Seke-Banza
+    iso3c: COD
+    shapeID: 63176286B69853523616594
+  ShabundaAdm2COD:
+    admin_name: Shabunda
+    iso3c: COD
+    shapeID: 63176286B28648737127916
+  SongololoAdm2COD:
+    admin_name: Songololo
+    iso3c: COD
+    shapeID: 63176286B29097498682851
+  SouthKivuAdm1COD:
+    admin_name: SouthKivu
+    iso3c: COD
+    shapeID: 28894549B54646848790483
+  Sud-UbangiAdm1COD:
+    admin_name: Sud-Ubangi
+    iso3c: COD
+    shapeID: 28894549B79448475719999
+  TanganyikaAdm1COD:
+    admin_name: Tanganyika
+    iso3c: COD
+    shapeID: 28894549B79924508589254
+  TshelaAdm2COD:
+    admin_name: Tshela
+    iso3c: COD
+    shapeID: 63176286B47015384768636
+  TshikapaAdm2COD:
+    admin_name: Tshikapa
+    iso3c: COD
+    shapeID: 63176286B37681851712476
+  TshilengeAdm2COD:
+    admin_name: Tshilenge
+    iso3c: COD
+    shapeID: 63176286B2433914913285
+  TshimbuluAdm2COD:
+    admin_name: Tshimbulu
+    iso3c: COD
+    shapeID: 63176286B74390580243640
+  TshopoAdm1COD:
+    admin_name: Tshopo
+    iso3c: COD
+    shapeID: 28894549B99726016901645
+  TshuapaAdm1COD:
+    admin_name: Tshuapa
+    iso3c: COD
+    shapeID: 28894549B79800095019512
+  TshumbeAdm2COD:
+    admin_name: Tshumbe
+    iso3c: COD
+    shapeID: 63176286B80144027802447
+  UbunduAdm2COD:
+    admin_name: Ubundu
+    iso3c: COD
+    shapeID: 63176286B77989779607321
+  UpperUeleAdm1COD:
+    admin_name: UpperUele
+    iso3c: COD
+    shapeID: 28894549B55881681467015
+  UviraAdm2COD:
+    admin_name: Uvira
+    iso3c: COD
+    shapeID: 63176286B42701779698156
+  WalikaleAdm2COD:
+    admin_name: Walikale
+    iso3c: COD
+    shapeID: 63176286B33968238717987
+  WalunguAdm2COD:
+    admin_name: Walungu
+    iso3c: COD
+    shapeID: 63176286B8564391110970
+  WambaAdm2COD:
+    admin_name: Wamba
+    iso3c: COD
+    shapeID: 63176286B98159467986291
+  WatsaAdm2COD:
+    admin_name: Watsa
+    iso3c: COD
+    shapeID: 63176286B47500153281287
+  YahumaAdm2COD:
+    admin_name: Yahuma
+    iso3c: COD
+    shapeID: 63176286B43218121140485
+  YakomaAdm2COD:
+    admin_name: Yakoma
+    iso3c: COD
+    shapeID: 63176286B72804638257173
+  YangambiAdm2COD:
+    admin_name: Yangambi
+    iso3c: COD
+    shapeID: 63176286B49026377824569
+  YumbiAdm2COD:
+    admin_name: Yumbi
+    iso3c: COD
+    shapeID: 63176286B53648445078824
+  ZongoAdm2COD:
+    admin_name: Zongo
+    iso3c: COD
+    shapeID: 63176286B53748739739840

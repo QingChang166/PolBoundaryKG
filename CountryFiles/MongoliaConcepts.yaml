@@ -1,23 +1,1197 @@
 concepts:
-    - Uvs
-    - Khovd
-    - Zavkhan
-    - Bulgan
-    - Dornogovi
-    - Dundgovi
-    - Ömnögovi
-    - Övörkhangai
-    - Töv
-    - Dornod
-    - Selenge
-    - Ulaanbaatar
-    - Govisumber
-    - Sükhbaatar
-    - Govi-Altai
-    - Orkhon
-    - Arkhangai
-    - Bayankhongor
-    - Darkhan-Uul
-    - Khentii
-    - Hovsgel
-    - Bayan-Ölgii
+  AdaacagAdm2MNG:
+    admin_name: Adaacag
+    iso3c: MNG
+    shapeID: 93677404B36872598386240
+  AiragAdm2MNG:
+    admin_name: Airag
+    iso3c: MNG
+    shapeID: 93677404B77823966409702
+  Alag-ErdeneAdm2MNG:
+    admin_name: Alag-Erdene
+    iso3c: MNG
+    shapeID: 93677404B90786292035657
+  AldarxaanAdm2MNG:
+    admin_name: Aldarxaan
+    iso3c: MNG
+    shapeID: 93677404B43820021416267
+  AltaiAdm2MNG:
+    admin_name: Altai
+    iso3c: MNG
+    shapeID: 93677404B43539602383293
+  AltanbulagAdm2MNG:
+    admin_name: Altanbulag
+    iso3c: MNG
+    shapeID: 93677404B27653771578089
+  Altanco'gcAdm2MNG:
+    admin_name: Altanco'gc
+    iso3c: MNG
+    shapeID: 93677404B16075742501612
+  AltanshireeAdm2MNG:
+    admin_name: Altanshiree
+    iso3c: MNG
+    shapeID: 93677404B41959814318318
+  ArbulagAdm2MNG:
+    admin_name: Arbulag
+    iso3c: MNG
+    shapeID: 93677404B38396259035136
+  ArgalantAdm2MNG:
+    admin_name: Argalant
+    iso3c: MNG
+    shapeID: 93677404B1457855182850
+  ArkhangaiAdm1MNG:
+    admin_name: Arkhangai
+    iso3c: MNG
+    shapeID: 14279143B49702315868913
+  ArvaixeerAdm2MNG:
+    admin_name: Arvaixeer
+    iso3c: MNG
+    shapeID: 93677404B27145008288474
+  ArxustAdm2MNG:
+    admin_name: Arxust
+    iso3c: MNG
+    shapeID: 93677404B33334690318277
+  AsgatAdm2MNG:
+    admin_name: Asgat
+    iso3c: MNG
+    shapeID: 93677404B69678463866737
+  BaacagaanAdm2MNG:
+    admin_name: Baacagaan
+    iso3c: MNG
+    shapeID: 93677404B78729167349448
+  BaganuurAdm2MNG:
+    admin_name: Baganuur
+    iso3c: MNG
+    shapeID: 93677404B2463849994891
+  BagaxangaiAdm2MNG:
+    admin_name: Bagaxangai
+    iso3c: MNG
+    shapeID: 93677404B94518670866672
+  Baruun-UrtAdm2MNG:
+    admin_name: Baruun-Urt
+    iso3c: MNG
+    shapeID: 93677404B37719399531213
+  Baruunbayan-UlaanAdm2MNG:
+    admin_name: Baruunbayan-Ulaan
+    iso3c: MNG
+    shapeID: 93677404B73529031931422
+  Baruunbu'renAdm2MNG:
+    admin_name: Baruunbu'ren
+    iso3c: MNG
+    shapeID: 93677404B37316028953404
+  BaruunturuunAdm2MNG:
+    admin_name: Baruunturuun
+    iso3c: MNG
+    shapeID: 93677404B97554473591332
+  Bat-O'lziiAdm2MNG:
+    admin_name: Bat-O'lzii
+    iso3c: MNG
+    shapeID: 93677404B73570111048283
+  BatcengelAdm2MNG:
+    admin_name: Batcengel
+    iso3c: MNG
+    shapeID: 93677404B51676367507043
+  BatnorovAdm2MNG:
+    admin_name: Batnorov
+    iso3c: MNG
+    shapeID: 93677404B39915453177701
+  BatshireetAdm2MNG:
+    admin_name: Batshireet
+    iso3c: MNG
+    shapeID: 93677404B78504825673469
+  Batsu'mberAdm2MNG:
+    admin_name: Batsu'mber
+    iso3c: MNG
+    shapeID: 93677404B9757531437385
+  Bayan-AdragaAdm2MNG:
+    admin_name: Bayan-Adraga
+    iso3c: MNG
+    shapeID: 93677404B94037066175058
+  Bayan-O'ndorAdm2MNG:
+    admin_name: Bayan-O'ndor
+    iso3c: MNG
+    shapeID: 93677404B54522359924126
+  Bayan-O'njuulAdm2MNG:
+    admin_name: Bayan-O'njuul
+    iso3c: MNG
+    shapeID: 93677404B80722080120320
+  Bayan-ÖlgiiAdm1MNG:
+    admin_name: Bayan-Ölgii
+    iso3c: MNG
+    shapeID: 14279143B7284431230829
+  Bayan-OvooAdm2MNG:
+    admin_name: Bayan-Ovoo
+    iso3c: MNG
+    shapeID: 93677404B57726852973522
+  Bayan-UulAdm2MNG:
+    admin_name: Bayan-Uul
+    iso3c: MNG
+    shapeID: 93677404B89192835653586
+  BayanAdm2MNG:
+    admin_name: Bayan
+    iso3c: MNG
+    shapeID: 93677404B58656077774503
+  BayanagtAdm2MNG:
+    admin_name: Bayanagt
+    iso3c: MNG
+    shapeID: 93677404B8492379559431
+  BayanbulagAdm2MNG:
+    admin_name: Bayanbulag
+    iso3c: MNG
+    shapeID: 93677404B76460222256412
+  BayancagaanAdm2MNG:
+    admin_name: Bayancagaan
+    iso3c: MNG
+    shapeID: 93677404B41930785944412
+  BayanchandmaniAdm2MNG:
+    admin_name: Bayanchandmani
+    iso3c: MNG
+    shapeID: 93677404B83020582148290
+  BayancogtAdm2MNG:
+    admin_name: Bayancogt
+    iso3c: MNG
+    shapeID: 93677404B67645027022148
+  BayandalaiAdm2MNG:
+    admin_name: Bayandalai
+    iso3c: MNG
+    shapeID: 93677404B14940221514499
+  BayandelgerAdm2MNG:
+    admin_name: Bayandelger
+    iso3c: MNG
+    shapeID: 93677404B18322501666911
+  BayandunAdm2MNG:
+    admin_name: Bayandun
+    iso3c: MNG
+    shapeID: 93677404B6552639401597
+  BayangolAdm2MNG:
+    admin_name: Bayangol
+    iso3c: MNG
+    shapeID: 93677404B56181077288727
+  BayangoviAdm2MNG:
+    admin_name: Bayangovi
+    iso3c: MNG
+    shapeID: 93677404B31691504211016
+  BayanjargalanAdm2MNG:
+    admin_name: Bayanjargalan
+    iso3c: MNG
+    shapeID: 93677404B91267927861385
+  BayankhongorAdm1MNG:
+    admin_name: Bayankhongor
+    iso3c: MNG
+    shapeID: 14279143B7576416025221
+  BayanligAdm2MNG:
+    admin_name: Bayanlig
+    iso3c: MNG
+    shapeID: 93677404B79696496210167
+  Bayanmo'nxAdm2MNG:
+    admin_name: Bayanmo'nx
+    iso3c: MNG
+    shapeID: 93677404B71590009597978
+  BayannuurAdm2MNG:
+    admin_name: Bayannuur
+    iso3c: MNG
+    shapeID: 93677404B15769150174360
+  BayantalAdm2MNG:
+    admin_name: Bayantal
+    iso3c: MNG
+    shapeID: 93677404B54852332365527
+  BayantesAdm2MNG:
+    admin_name: Bayantes
+    iso3c: MNG
+    shapeID: 93677404B69236363496487
+  Bayantu'menAdm2MNG:
+    admin_name: Bayantu'men
+    iso3c: MNG
+    shapeID: 93677404B39885701054599
+  BayanxairxanAdm2MNG:
+    admin_name: Bayanxairxan
+    iso3c: MNG
+    shapeID: 93677404B10694461963849
+  BayanxangaiAdm2MNG:
+    admin_name: Bayanxangai
+    iso3c: MNG
+    shapeID: 93677404B67738090510285
+  BayanxongorAdm2MNG:
+    admin_name: Bayanxongor
+    iso3c: MNG
+    shapeID: 93677404B23536914155847
+  BayanxutagAdm2MNG:
+    admin_name: Bayanxutag
+    iso3c: MNG
+    shapeID: 93677404B3637848484019
+  Bayanzu'rxAdm2MNG:
+    admin_name: Bayanzu'rx
+    iso3c: MNG
+    shapeID: 93677404B78572073396815
+  BigerAdm2MNG:
+    admin_name: Biger
+    iso3c: MNG
+    shapeID: 93677404B62512479236782
+  BinderAdm2MNG:
+    admin_name: Binder
+    iso3c: MNG
+    shapeID: 93677404B23670550125649
+  Bo'mbogorAdm2MNG:
+    admin_name: Bo'mbogor
+    iso3c: MNG
+    shapeID: 93677404B12243901398913
+  Bo'xmoronAdm2MNG:
+    admin_name: Bo'xmoron
+    iso3c: MNG
+    shapeID: 93677404B1133858650203
+  BogdAdm2MNG:
+    admin_name: Bogd
+    iso3c: MNG
+    shapeID: 93677404B40761087888007
+  Bor-OndorAdm2MNG:
+    admin_name: Bor-Ondor
+    iso3c: MNG
+    shapeID: 93677404B12023571186013
+  BornuurAdm2MNG:
+    admin_name: Bornuur
+    iso3c: MNG
+    shapeID: 93677404B81102829752528
+  Bu'rdAdm2MNG:
+    admin_name: Bu'rd
+    iso3c: MNG
+    shapeID: 93677404B24392895024696
+  Bu'regxangaiAdm2MNG:
+    admin_name: Bu'regxangai
+    iso3c: MNG
+    shapeID: 93677404B37856790157054
+  Bu'renAdm2MNG:
+    admin_name: Bu'ren
+    iso3c: MNG
+    shapeID: 93677404B69512651259917
+  Bu'rentogtoxAdm2MNG:
+    admin_name: Bu'rentogtox
+    iso3c: MNG
+    shapeID: 93677404B18763556334641
+  BugatAdm2MNG:
+    admin_name: Bugat
+    iso3c: MNG
+    shapeID: 93677404B59667733758052
+  BulganAdm1MNG:
+    admin_name: Bulgan
+    iso3c: MNG
+    shapeID: 14279143B49613281560709
+  BulganAdm2MNG:
+    admin_name: Bulgan
+    iso3c: MNG
+    shapeID: 93677404B34765270350686
+  BuucagaanAdm2MNG:
+    admin_name: Buucagaan
+    iso3c: MNG
+    shapeID: 93677404B41797209150510
+  BuyantAdm2MNG:
+    admin_name: Buyant
+    iso3c: MNG
+    shapeID: 93677404B33301384060955
+  Cagaan-OvooAdm2MNG:
+    admin_name: Cagaan-Ovoo
+    iso3c: MNG
+    shapeID: 93677404B5837746679690
+  Cagaan-U'urAdm2MNG:
+    admin_name: Cagaan-U'ur
+    iso3c: MNG
+    shapeID: 93677404B89482084042142
+  Cagaan-UulAdm2MNG:
+    admin_name: Cagaan-Uul
+    iso3c: MNG
+    shapeID: 93677404B10407015585804
+  CagaanchuluutAdm2MNG:
+    admin_name: Cagaanchuluut
+    iso3c: MNG
+    shapeID: 93677404B73387413800607
+  CagaandelgerAdm2MNG:
+    admin_name: Cagaandelger
+    iso3c: MNG
+    shapeID: 93677404B83577938576500
+  CagaannuurAdm2MNG:
+    admin_name: Cagaannuur
+    iso3c: MNG
+    shapeID: 93677404B10404624632937
+  CagaanxairxanAdm2MNG:
+    admin_name: Cagaanxairxan
+    iso3c: MNG
+    shapeID: 93677404B42555588614018
+  CaxirAdm2MNG:
+    admin_name: Caxir
+    iso3c: MNG
+    shapeID: 93677404B64236093980900
+  CecegAdm2MNG:
+    admin_name: Ceceg
+    iso3c: MNG
+    shapeID: 93677404B56822963744854
+  Cecen-UulAdm2MNG:
+    admin_name: Cecen-Uul
+    iso3c: MNG
+    shapeID: 93677404B97327496831925
+  CecerlegAdm2MNG:
+    admin_name: Cecerleg
+    iso3c: MNG
+    shapeID: 93677404B12707642123499
+  CeelAdm2MNG:
+    admin_name: Ceel
+    iso3c: MNG
+    shapeID: 93677404B76235859844194
+  CengelAdm2MNG:
+    admin_name: Cengel
+    iso3c: MNG
+    shapeID: 93677404B33913875876720
+  CenxerAdm2MNG:
+    admin_name: Cenxer
+    iso3c: MNG
+    shapeID: 93677404B83456486542542
+  CenxermandalAdm2MNG:
+    admin_name: Cenxermandal
+    iso3c: MNG
+    shapeID: 93677404B41440940318448
+  Chandmani-O'ndorAdm2MNG:
+    admin_name: Chandmani-O'ndor
+    iso3c: MNG
+    shapeID: 93677404B22883692380177
+  ChandmaniAdm2MNG:
+    admin_name: Chandmani
+    iso3c: MNG
+    shapeID: 93677404B36095264987417
+  ChingelteiAdm2MNG:
+    admin_name: Chingeltei
+    iso3c: MNG
+    shapeID: 93677404B82424679119266
+  ChoibalsanAdm2MNG:
+    admin_name: Choibalsan
+    iso3c: MNG
+    shapeID: 93677404B46281126061299
+  ChuluunxorootAdm2MNG:
+    admin_name: Chuluunxoroot
+    iso3c: MNG
+    shapeID: 93677404B3333909760593
+  ChuluutAdm2MNG:
+    admin_name: Chuluut
+    iso3c: MNG
+    shapeID: 93677404B8856161133659
+  Cogt-CeciiAdm2MNG:
+    admin_name: Cogt-Cecii
+    iso3c: MNG
+    shapeID: 93677404B54738305211912
+  Cogt-OvooAdm2MNG:
+    admin_name: Cogt-Ovoo
+    iso3c: MNG
+    shapeID: 93677404B91426853528809
+  CogtAdm2MNG:
+    admin_name: Cogt
+    iso3c: MNG
+    shapeID: 93677404B32157357652115
+  DadalAdm2MNG:
+    admin_name: Dadal
+    iso3c: MNG
+    shapeID: 93677404B34451829621413
+  DalanjargalanAdm2MNG:
+    admin_name: Dalanjargalan
+    iso3c: MNG
+    shapeID: 93677404B48840516654873
+  DalanzadgadAdm2MNG:
+    admin_name: Dalanzadgad
+    iso3c: MNG
+    shapeID: 93677404B10446794731607
+  DarigangaAdm2MNG:
+    admin_name: Dariganga
+    iso3c: MNG
+    shapeID: 93677404B32631495823652
+  Darkhan-UulAdm1MNG:
+    admin_name: Darkhan-Uul
+    iso3c: MNG
+    shapeID: 14279143B32551742065768
+  DarviAdm2MNG:
+    admin_name: Darvi
+    iso3c: MNG
+    shapeID: 93677404B97988329611123
+  DarxanAdm2MNG:
+    admin_name: Darxan
+    iso3c: MNG
+    shapeID: 93677404B15317120732328
+  DashbalbarAdm2MNG:
+    admin_name: Dashbalbar
+    iso3c: MNG
+    shapeID: 93677404B44284139751504
+  DashinchilenAdm2MNG:
+    admin_name: Dashinchilen
+    iso3c: MNG
+    shapeID: 93677404B19716621729133
+  DavstAdm2MNG:
+    admin_name: Davst
+    iso3c: MNG
+    shapeID: 93677404B415729533363
+  DelgerAdm2MNG:
+    admin_name: Delger
+    iso3c: MNG
+    shapeID: 93677404B14709319621932
+  DelgercogtAdm2MNG:
+    admin_name: Delgercogt
+    iso3c: MNG
+    shapeID: 93677404B64983706769392
+  DelgerexAdm2MNG:
+    admin_name: Delgerex
+    iso3c: MNG
+    shapeID: 93677404B19423988530826
+  DelgerxaanAdm2MNG:
+    admin_name: Delgerxaan
+    iso3c: MNG
+    shapeID: 93677404B99522763757972
+  DelgerxangaiAdm2MNG:
+    admin_name: Delgerxangai
+    iso3c: MNG
+    shapeID: 93677404B47502950424031
+  Delu'unAdm2MNG:
+    admin_name: Delu'un
+    iso3c: MNG
+    shapeID: 93677404B55197094733289
+  DerenAdm2MNG:
+    admin_name: Deren
+    iso3c: MNG
+    shapeID: 93677404B83823475122235
+  Do'rgonAdm2MNG:
+    admin_name: Do'rgon
+    iso3c: MNG
+    shapeID: 93677404B47825752069275
+  Do'rvoljinAdm2MNG:
+    admin_name: Do'rvoljin
+    iso3c: MNG
+    shapeID: 93677404B7521455207939
+  DornodAdm1MNG:
+    admin_name: Dornod
+    iso3c: MNG
+    shapeID: 14279143B35762276870520
+  DornogoviAdm1MNG:
+    admin_name: Dornogovi
+    iso3c: MNG
+    shapeID: 14279143B47638406449643
+  DundgoviAdm1MNG:
+    admin_name: Dundgovi
+    iso3c: MNG
+    shapeID: 14279143B59026071325992
+  DuutAdm2MNG:
+    admin_name: Duut
+    iso3c: MNG
+    shapeID: 93677404B66868147978654
+  ErdeneAdm2MNG:
+    admin_name: Erdene
+    iso3c: MNG
+    shapeID: 93677404B44653121732783
+  Erdenebu'renAdm2MNG:
+    admin_name: Erdenebu'ren
+    iso3c: MNG
+    shapeID: 93677404B52597383126449
+  ErdenebulganAdm2MNG:
+    admin_name: Erdenebulgan
+    iso3c: MNG
+    shapeID: 93677404B46470302769704
+  ErdenecagaanAdm2MNG:
+    admin_name: Erdenecagaan
+    iso3c: MNG
+    shapeID: 93677404B19681848213060
+  ErdenecogtAdm2MNG:
+    admin_name: Erdenecogt
+    iso3c: MNG
+    shapeID: 93677404B84319182599857
+  ErdenedalaiAdm2MNG:
+    admin_name: Erdenedalai
+    iso3c: MNG
+    shapeID: 93677404B12047368339882
+  ErdenemandalAdm2MNG:
+    admin_name: Erdenemandal
+    iso3c: MNG
+    shapeID: 93677404B38518016494864
+  ErdenesantAdm2MNG:
+    admin_name: Erdenesant
+    iso3c: MNG
+    shapeID: 93677404B9230847740032
+  ErdenexairxanAdm2MNG:
+    admin_name: Erdenexairxan
+    iso3c: MNG
+    shapeID: 93677404B28046331516605
+  GalshirAdm2MNG:
+    admin_name: Galshir
+    iso3c: MNG
+    shapeID: 93677404B72547167231090
+  GaltAdm2MNG:
+    admin_name: Galt
+    iso3c: MNG
+    shapeID: 93677404B44283034286627
+  GaluutAdm2MNG:
+    admin_name: Galuut
+    iso3c: MNG
+    shapeID: 93677404B91735821801074
+  Govi-AltaiAdm1MNG:
+    admin_name: Govi-Altai
+    iso3c: MNG
+    shapeID: 14279143B39885639062119
+  Govi-UgtaalAdm2MNG:
+    admin_name: Govi-Ugtaal
+    iso3c: MNG
+    shapeID: 93677404B40733241475211
+  GovisumberAdm1MNG:
+    admin_name: Govisumber
+    iso3c: MNG
+    shapeID: 14279143B31648094269757
+  Guchin-UsAdm2MNG:
+    admin_name: Guchin-Us
+    iso3c: MNG
+    shapeID: 93677404B94163946721302
+  GurvanbulagAdm2MNG:
+    admin_name: Gurvanbulag
+    iso3c: MNG
+    shapeID: 93677404B1659658679068
+  GurvansaixanAdm2MNG:
+    admin_name: Gurvansaixan
+    iso3c: MNG
+    shapeID: 93677404B69080811901950
+  GurvantesAdm2MNG:
+    admin_name: Gurvantes
+    iso3c: MNG
+    shapeID: 93677404B48845282063548
+  GurvanzagalAdm2MNG:
+    admin_name: Gurvanzagal
+    iso3c: MNG
+    shapeID: 93677404B26424401044934
+  HerlenAdm2MNG:
+    admin_name: Herlen
+    iso3c: MNG
+    shapeID: 93677404B55540968795469
+  HovsgelAdm1MNG:
+    admin_name: Hovsgel
+    iso3c: MNG
+    shapeID: 14279143B20985490361275
+  IderAdm2MNG:
+    admin_name: Ider
+    iso3c: MNG
+    shapeID: 93677404B17775092905458
+  Ix-UulAdm2MNG:
+    admin_name: Ix-Uul
+    iso3c: MNG
+    shapeID: 93677404B26219584096108
+  IxtamirAdm2MNG:
+    admin_name: Ixtamir
+    iso3c: MNG
+    shapeID: 93677404B6995675757319
+  IxxetAdm2MNG:
+    admin_name: Ixxet
+    iso3c: MNG
+    shapeID: 93677404B2530433176866
+  JargalanAdm2MNG:
+    admin_name: Jargalan
+    iso3c: MNG
+    shapeID: 93677404B58079754200585
+  JargalantAdm2MNG:
+    admin_name: Jargalant
+    iso3c: MNG
+    shapeID: 93677404B67634145299638
+  JargaltxaanAdm2MNG:
+    admin_name: Jargaltxaan
+    iso3c: MNG
+    shapeID: 93677404B12231868373169
+  JavxlantAdm2MNG:
+    admin_name: Javxlant
+    iso3c: MNG
+    shapeID: 93677404B94192220818262
+  JinstAdm2MNG:
+    admin_name: Jinst
+    iso3c: MNG
+    shapeID: 93677404B67702711432193
+  KhentiiAdm1MNG:
+    admin_name: Khentii
+    iso3c: MNG
+    shapeID: 14279143B70362797710090
+  KhovdAdm1MNG:
+    admin_name: Khovd
+    iso3c: MNG
+    shapeID: 14279143B22317554045022
+  Lu'nAdm2MNG:
+    admin_name: Lu'n
+    iso3c: MNG
+    shapeID: 93677404B53704877683410
+  LuusAdm2MNG:
+    admin_name: Luus
+    iso3c: MNG
+    shapeID: 93677404B30704814862785
+  MalchinAdm2MNG:
+    admin_name: Malchin
+    iso3c: MNG
+    shapeID: 93677404B34318857177168
+  Mandal-OvooAdm2MNG:
+    admin_name: Mandal-Ovoo
+    iso3c: MNG
+    shapeID: 93677404B34607971050655
+  MandalAdm2MNG:
+    admin_name: Mandal
+    iso3c: MNG
+    shapeID: 93677404B74033139803686
+  MandaxAdm2MNG:
+    admin_name: Mandax
+    iso3c: MNG
+    shapeID: 93677404B77969966506985
+  ManlaiAdm2MNG:
+    admin_name: Manlai
+    iso3c: MNG
+    shapeID: 93677404B4911354311054
+  ManxanAdm2MNG:
+    admin_name: Manxan
+    iso3c: MNG
+    shapeID: 93677404B19560479814297
+  MatadAdm2MNG:
+    admin_name: Matad
+    iso3c: MNG
+    shapeID: 93677404B45746313911559
+  Mo'ngonmoritAdm2MNG:
+    admin_name: Mo'ngonmorit
+    iso3c: MNG
+    shapeID: 93677404B10296672671184
+  Mo'nxxaanAdm2MNG:
+    admin_name: Mo'nxxaan
+    iso3c: MNG
+    shapeID: 93677404B72955600082369
+  Mo'nxxairxanAdm2MNG:
+    admin_name: Mo'nxxairxan
+    iso3c: MNG
+    shapeID: 93677404B78985711680855
+  Mo'ronAdm2MNG:
+    admin_name: Mo'ron
+    iso3c: MNG
+    shapeID: 93677404B68040826216120
+  Mo'stAdm2MNG:
+    admin_name: Mo'st
+    iso3c: MNG
+    shapeID: 93677404B12808755317760
+  MogodAdm2MNG:
+    admin_name: Mogod
+    iso3c: MNG
+    shapeID: 93677404B32006231606780
+  MyangadAdm2MNG:
+    admin_name: Myangad
+    iso3c: MNG
+    shapeID: 93677404B16337473232636
+  NalaixAdm2MNG:
+    admin_name: Nalaix
+    iso3c: MNG
+    shapeID: 93677404B72325521473587
+  NaranAdm2MNG:
+    admin_name: Naran
+    iso3c: MNG
+    shapeID: 93677404B66780869720119
+  NaranbulagAdm2MNG:
+    admin_name: Naranbulag
+    iso3c: MNG
+    shapeID: 93677404B35276853556349
+  NariinteelAdm2MNG:
+    admin_name: Nariinteel
+    iso3c: MNG
+    shapeID: 93677404B10303080752591
+  No'mrogAdm2MNG:
+    admin_name: No'mrog
+    iso3c: MNG
+    shapeID: 93677404B73621846071454
+  NogoonnuurAdm2MNG:
+    admin_name: Nogoonnuur
+    iso3c: MNG
+    shapeID: 93677404B33313948817102
+  NomgonAdm2MNG:
+    admin_name: Nomgon
+    iso3c: MNG
+    shapeID: 93677404B86751370010695
+  NorovlinAdm2MNG:
+    admin_name: Norovlin
+    iso3c: MNG
+    shapeID: 93677404B9718982388588
+  NoyonAdm2MNG:
+    admin_name: Noyon
+    iso3c: MNG
+    shapeID: 93677404B12923912473821
+  O'giinuurAdm2MNG:
+    admin_name: O'giinuur
+    iso3c: MNG
+    shapeID: 93677404B35332958759491
+  O'lgiiAdm2MNG:
+    admin_name: O'lgii
+    iso3c: MNG
+    shapeID: 93677404B46106272349801
+  O'lziitAdm2MNG:
+    admin_name: O'lziit
+    iso3c: MNG
+    shapeID: 93677404B68241634882173
+  O'mnodelgerAdm2MNG:
+    admin_name: O'mnodelger
+    iso3c: MNG
+    shapeID: 93677404B98015176307240
+  O'mnogoviAdm2MNG:
+    admin_name: O'mnogovi
+    iso3c: MNG
+    shapeID: 93677404B24799113543159
+  O'ndor-UlaanAdm2MNG:
+    admin_name: O'ndor-Ulaan
+    iso3c: MNG
+    shapeID: 93677404B74246674893710
+  O'ndorshilAdm2MNG:
+    admin_name: O'ndorshil
+    iso3c: MNG
+    shapeID: 93677404B66675280526983
+  O'ndorshireetAdm2MNG:
+    admin_name: O'ndorshireet
+    iso3c: MNG
+    shapeID: 93677404B29580172170474
+  O'ndorxangaiAdm2MNG:
+    admin_name: O'ndorxangai
+    iso3c: MNG
+    shapeID: 93677404B26996117801254
+  O'rgonAdm2MNG:
+    admin_name: O'rgon
+    iso3c: MNG
+    shapeID: 93677404B69643129623236
+  ÖmnögoviAdm1MNG:
+    admin_name: Ömnögovi
+    iso3c: MNG
+    shapeID: 14279143B52126529381065
+  OngonAdm2MNG:
+    admin_name: Ongon
+    iso3c: MNG
+    shapeID: 93677404B32966935897254
+  OrkhonAdm1MNG:
+    admin_name: Orkhon
+    iso3c: MNG
+    shapeID: 14279143B15424694570155
+  OrxonAdm2MNG:
+    admin_name: Orxon
+    iso3c: MNG
+    shapeID: 93677404B79520329035093
+  OrxontuulAdm2MNG:
+    admin_name: Orxontuul
+    iso3c: MNG
+    shapeID: 93677404B15519148095195
+  OtgonAdm2MNG:
+    admin_name: Otgon
+    iso3c: MNG
+    shapeID: 93677404B32198564408141
+  ÖvörkhangaiAdm1MNG:
+    admin_name: Övörkhangai
+    iso3c: MNG
+    shapeID: 14279143B32793669032275
+  RashaantAdm2MNG:
+    admin_name: Rashaant
+    iso3c: MNG
+    shapeID: 93677404B56820706932581
+  Renchinlxu'mbeAdm2MNG:
+    admin_name: Renchinlxu'mbe
+    iso3c: MNG
+    shapeID: 93677404B49169879261088
+  SagilAdm2MNG:
+    admin_name: Sagil
+    iso3c: MNG
+    shapeID: 93677404B63603373870282
+  SagsaiAdm2MNG:
+    admin_name: Sagsai
+    iso3c: MNG
+    shapeID: 93677404B38379350296710
+  SainshandAdm2MNG:
+    admin_name: Sainshand
+    iso3c: MNG
+    shapeID: 93677404B78585680282689
+  SaintsagaanAdm2MNG:
+    admin_name: Saintsagaan
+    iso3c: MNG
+    shapeID: 93677404B78970568694360
+  Saixan-OvooAdm2MNG:
+    admin_name: Saixan-Ovoo
+    iso3c: MNG
+    shapeID: 93677404B35030866925592
+  SaixanAdm2MNG:
+    admin_name: Saixan
+    iso3c: MNG
+    shapeID: 93677404B36550032188300
+  SaixandulaanAdm2MNG:
+    admin_name: Saixandulaan
+    iso3c: MNG
+    shapeID: 93677404B55726932158905
+  SantAdm2MNG:
+    admin_name: Sant
+    iso3c: MNG
+    shapeID: 93677404B33793870278074
+  SantmargacAdm2MNG:
+    admin_name: Santmargac
+    iso3c: MNG
+    shapeID: 93677404B94621448134169
+  SelengeAdm1MNG:
+    admin_name: Selenge
+    iso3c: MNG
+    shapeID: 14279143B84215380438566
+  SelengeAdm2MNG:
+    admin_name: Selenge
+    iso3c: MNG
+    shapeID: 93677404B49606497696804
+  SergelenAdm2MNG:
+    admin_name: Sergelen
+    iso3c: MNG
+    shapeID: 93677404B97981433567670
+  SevreiAdm2MNG:
+    admin_name: Sevrei
+    iso3c: MNG
+    shapeID: 93677404B27006203357134
+  ShaamarAdm2MNG:
+    admin_name: Shaamar
+    iso3c: MNG
+    shapeID: 93677404B82499437232686
+  ShargaAdm2MNG:
+    admin_name: Sharga
+    iso3c: MNG
+    shapeID: 93677404B51253080271810
+  SharyngolAdm2MNG:
+    admin_name: Sharyngol
+    iso3c: MNG
+    shapeID: 93677404B32233139158886
+  Shilu'usteiAdm2MNG:
+    admin_name: Shilu'ustei
+    iso3c: MNG
+    shapeID: 93677404B51379066868573
+  Shine-IderAdm2MNG:
+    admin_name: Shine-Ider
+    iso3c: MNG
+    shapeID: 93677404B2181699947628
+  ShinejinstAdm2MNG:
+    admin_name: Shinejinst
+    iso3c: MNG
+    shapeID: 93677404B41329539595641
+  ShiveegoviAdm2MNG:
+    admin_name: Shiveegovi
+    iso3c: MNG
+    shapeID: 93677404B28093616266746
+  SonginoAdm2MNG:
+    admin_name: Songino
+    iso3c: MNG
+    shapeID: 93677404B94463356212555
+  SonginoxairxanAdm2MNG:
+    admin_name: Songinoxairxan
+    iso3c: MNG
+    shapeID: 93677404B95437285917288
+  Su'mberAdm2MNG:
+    admin_name: Su'mber
+    iso3c: MNG
+    shapeID: 93677404B46846850249672
+  Su'xbaatarAdm2MNG:
+    admin_name: Su'xbaatar
+    iso3c: MNG
+    shapeID: 93677404B10423406698460
+  SükhbaatarAdm1MNG:
+    admin_name: Sükhbaatar
+    iso3c: MNG
+    shapeID: 14279143B54746499726346
+  TaishirAdm2MNG:
+    admin_name: Taishir
+    iso3c: MNG
+    shapeID: 93677404B52010246121737
+  TaragtAdm2MNG:
+    admin_name: Taragt
+    iso3c: MNG
+    shapeID: 93677404B58682850586725
+  TarialanAdm2MNG:
+    admin_name: Tarialan
+    iso3c: MNG
+    shapeID: 93677404B32165000008525
+  TariatAdm2MNG:
+    admin_name: Tariat
+    iso3c: MNG
+    shapeID: 93677404B47373317082591
+  TelmenAdm2MNG:
+    admin_name: Telmen
+    iso3c: MNG
+    shapeID: 93677404B12487525964315
+  TesAdm2MNG:
+    admin_name: Tes
+    iso3c: MNG
+    shapeID: 93677404B51014704481804
+  TeshigAdm2MNG:
+    admin_name: Teshig
+    iso3c: MNG
+    shapeID: 93677404B98816227720270
+  To'grogAdm2MNG:
+    admin_name: To'grog
+    iso3c: MNG
+    shapeID: 93677404B32305835855955
+  To'morbulagAdm2MNG:
+    admin_name: To'morbulag
+    iso3c: MNG
+    shapeID: 93677404B25273038411096
+  To'vshru'ulexAdm2MNG:
+    admin_name: To'vshru'ulex
+    iso3c: MNG
+    shapeID: 93677404B19526737982487
+  TolboAdm2MNG:
+    admin_name: Tolbo
+    iso3c: MNG
+    shapeID: 93677404B88503243621788
+  TonkhilAdm2MNG:
+    admin_name: Tonkhil
+    iso3c: MNG
+    shapeID: 93677404B45605151129701
+  TosoncengelAdm2MNG:
+    admin_name: Tosoncengel
+    iso3c: MNG
+    shapeID: 93677404B95621463819566
+  TövAdm1MNG:
+    admin_name: Töv
+    iso3c: MNG
+    shapeID: 14279143B76228648820573
+  Tu'devteiAdm2MNG:
+    admin_name: Tu'devtei
+    iso3c: MNG
+    shapeID: 93677404B13111069178449
+  Tu'mencogtAdm2MNG:
+    admin_name: Tu'mencogt
+    iso3c: MNG
+    shapeID: 93677404B61124840987439
+  Tu'nelAdm2MNG:
+    admin_name: Tu'nel
+    iso3c: MNG
+    shapeID: 93677404B36184620186836
+  Tu'rgenAdm2MNG:
+    admin_name: Tu'rgen
+    iso3c: MNG
+    shapeID: 93677404B55143611741372
+  Tu'shigAdm2MNG:
+    admin_name: Tu'shig
+    iso3c: MNG
+    shapeID: 93677404B59520474253920
+  Tu'vshinshireeAdm2MNG:
+    admin_name: Tu'vshinshiree
+    iso3c: MNG
+    shapeID: 93677404B92890816009325
+  U'yenchAdm2MNG:
+    admin_name: U'yench
+    iso3c: MNG
+    shapeID: 93677404B15711352976566
+  UgtaalcaidamAdm2MNG:
+    admin_name: Ugtaalcaidam
+    iso3c: MNG
+    shapeID: 93677404B35581268375845
+  UlaanbaatarAdm1MNG:
+    admin_name: Ulaanbaatar
+    iso3c: MNG
+    shapeID: 14279143B69842940795179
+  UlaanbadraxAdm2MNG:
+    admin_name: Ulaanbadrax
+    iso3c: MNG
+    shapeID: 93677404B39567597499991
+  UlaangomAdm2MNG:
+    admin_name: Ulaangom
+    iso3c: MNG
+    shapeID: 93677404B81994197463432
+  UlaanuulAdm2MNG:
+    admin_name: Ulaanuul
+    iso3c: MNG
+    shapeID: 93677404B26765322238100
+  UlaanxusAdm2MNG:
+    admin_name: Ulaanxus
+    iso3c: MNG
+    shapeID: 93677404B94457736933818
+  UliastaiAdm2MNG:
+    admin_name: Uliastai
+    iso3c: MNG
+    shapeID: 93677404B17043071055224
+  UrgamalAdm2MNG:
+    admin_name: Urgamal
+    iso3c: MNG
+    shapeID: 93677404B48055629710437
+  UulbayanAdm2MNG:
+    admin_name: Uulbayan
+    iso3c: MNG
+    shapeID: 93677404B28478416756495
+  UvsAdm1MNG:
+    admin_name: Uvs
+    iso3c: MNG
+    shapeID: 14279143B81467460095364
+  UyangaAdm2MNG:
+    admin_name: Uyanga
+    iso3c: MNG
+    shapeID: 93677404B10592046266618
+  XairxanAdm2MNG:
+    admin_name: Xairxan
+    iso3c: MNG
+    shapeID: 93677404B50954701545850
+  XairxandulaanAdm2MNG:
+    admin_name: Xairxandulaan
+    iso3c: MNG
+    shapeID: 93677404B8353110433001
+  XaliunAdm2MNG:
+    admin_name: Xaliun
+    iso3c: MNG
+    shapeID: 93677404B94337153520501
+  XalxgolAdm2MNG:
+    admin_name: Xalxgol
+    iso3c: MNG
+    shapeID: 93677404B3085807680593
+  XalzanAdm2MNG:
+    admin_name: Xalzan
+    iso3c: MNG
+    shapeID: 93677404B22998636655266
+  Xan-UulAdm2MNG:
+    admin_name: Xan-Uul
+    iso3c: MNG
+    shapeID: 93677404B94490169269592
+  XanbogdAdm2MNG:
+    admin_name: Xanbogd
+    iso3c: MNG
+    shapeID: 93677404B95802719700643
+  XangaiAdm2MNG:
+    admin_name: Xangai
+    iso3c: MNG
+    shapeID: 93677404B76368798827689
+  XangalAdm2MNG:
+    admin_name: Xangal
+    iso3c: MNG
+    shapeID: 93677404B82174237712715
+  XanxAdm2MNG:
+    admin_name: Xanx
+    iso3c: MNG
+    shapeID: 93677404B14141451758610
+  XanxongorAdm2MNG:
+    admin_name: Xanxongor
+    iso3c: MNG
+    shapeID: 93677404B48685910961776
+  XarxorinAdm2MNG:
+    admin_name: Xarxorin
+    iso3c: MNG
+    shapeID: 93677404B97821511595686
+  XashaatAdm2MNG:
+    admin_name: Xashaat
+    iso3c: MNG
+    shapeID: 93677404B90881349720721
+  XatanbulagAdm2MNG:
+    admin_name: Xatanbulag
+    iso3c: MNG
+    shapeID: 93677404B73496308227774
+  XerlenAdm2MNG:
+    admin_name: Xerlen
+    iso3c: MNG
+    shapeID: 93677404B8842524525431
+  Xishig-O'ndorAdm2MNG:
+    admin_name: Xishig-O'ndor
+    iso3c: MNG
+    shapeID: 93677404B24557728041379
+  Xo'lonbuirAdm2MNG:
+    admin_name: Xo'lonbuir
+    iso3c: MNG
+    shapeID: 93677404B94676742837543
+  Xo'vsgolAdm2MNG:
+    admin_name: Xo'vsgol
+    iso3c: MNG
+    shapeID: 93677404B21741172653366
+  Xo'xmoritAdm2MNG:
+    admin_name: Xo'xmorit
+    iso3c: MNG
+    shapeID: 93677404B45004975907355
+  XongorAdm2MNG:
+    admin_name: Xongor
+    iso3c: MNG
+    shapeID: 93677404B92664087509678
+  XotontAdm2MNG:
+    admin_name: Xotont
+    iso3c: MNG
+    shapeID: 93677404B64781784389022
+  XovdAdm2MNG:
+    admin_name: Xovd
+    iso3c: MNG
+    shapeID: 93677404B84217279169077
+  Xu'derAdm2MNG:
+    admin_name: Xu'der
+    iso3c: MNG
+    shapeID: 93677404B85360121708910
+  Xu'reemaralAdm2MNG:
+    admin_name: Xu'reemaral
+    iso3c: MNG
+    shapeID: 93677404B17106990406632
+  Xu'rmenAdm2MNG:
+    admin_name: Xu'rmen
+    iso3c: MNG
+    shapeID: 93677404B81423254419052
+  XujirtAdm2MNG:
+    admin_name: Xujirt
+    iso3c: MNG
+    shapeID: 93677404B44438011244010
+  XuldAdm2MNG:
+    admin_name: Xuld
+    iso3c: MNG
+    shapeID: 93677404B62484522824212
+  XushaatAdm2MNG:
+    admin_name: Xushaat
+    iso3c: MNG
+    shapeID: 93677404B66218634749011
+  Xutag-O'ndorAdm2MNG:
+    admin_name: Xutag-O'ndor
+    iso3c: MNG
+    shapeID: 93677404B82313328470965
+  XyargasAdm2MNG:
+    admin_name: Xyargas
+    iso3c: MNG
+    shapeID: 93677404B82072173731918
+  YaruuAdm2MNG:
+    admin_name: Yaruu
+    iso3c: MNG
+    shapeID: 93677404B11621304927066
+  Yero'oAdm2MNG:
+    admin_name: Yero'o
+    iso3c: MNG
+    shapeID: 93677404B71405298722065
+  Yeso'nbulagAdm2MNG:
+    admin_name: Yeso'nbulag
+    iso3c: MNG
+    shapeID: 93677404B66011642524046
+  Yeso'nzu'ilAdm2MNG:
+    admin_name: Yeso'nzu'il
+    iso3c: MNG
+    shapeID: 93677404B53674077501542
+  ZaamarAdm2MNG:
+    admin_name: Zaamar
+    iso3c: MNG
+    shapeID: 93677404B26609695466226
+  ZagAdm2MNG:
+    admin_name: Zag
+    iso3c: MNG
+    shapeID: 93677404B97926170794637
+  ZamynU'udAdm2MNG:
+    admin_name: ZamynU'ud
+    iso3c: MNG
+    shapeID: 93677404B96748397231812
+  ZavkhanAdm1MNG:
+    admin_name: Zavkhan
+    iso3c: MNG
+    shapeID: 14279143B63368554420497
+  ZavxanAdm2MNG:
+    admin_name: Zavxan
+    iso3c: MNG
+    shapeID: 93677404B25640564843773
+  ZavxanmandalAdm2MNG:
+    admin_name: Zavxanmandal
+    iso3c: MNG
+    shapeID: 93677404B82656754241249
+  ZeregAdm2MNG:
+    admin_name: Zereg
+    iso3c: MNG
+    shapeID: 93677404B75624012027982
+  Zu'unbayan-UlaanAdm2MNG:
+    admin_name: Zu'unbayan-Ulaan
+    iso3c: MNG
+    shapeID: 93677404B28761750991664
+  Zu'unburenAdm2MNG:
+    admin_name: Zu'unburen
+    iso3c: MNG
+    shapeID: 93677404B25826466624869
+  Zu'ungoviAdm2MNG:
+    admin_name: Zu'ungovi
+    iso3c: MNG
+    shapeID: 93677404B72222343372213
+  Zu'unxangaiAdm2MNG:
+    admin_name: Zu'unxangai
+    iso3c: MNG
+    shapeID: 93677404B68741941608611
+  ZuunmodAdm2MNG:
+    admin_name: Zuunmod
+    iso3c: MNG
+    shapeID: 93677404B29507747190159

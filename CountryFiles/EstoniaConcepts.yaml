@@ -1,16 +1,917 @@
 concepts:
-    - Valgamaakond
-    - Viljandimaakond
-    - Järvamaakond
-    - Saaremaakond
-    - Pärnumaakond
-    - Raplamaakond
-    - Põlvamaakond
-    - Lääne-Virumaakond
-    - Tartumaakond
-    - Hiiumaakond
-    - Läänemaakond
-    - Võrumaakond
-    - Jõgevamaakond
-    - Harjumaakond
-    - Ida-Virumaakond
+  AbjavaldAdm2EST:
+    admin_name: Abjavald
+    iso3c: EST
+    shapeID: 1311010B53005493831393
+  AegviiduvaldAdm2EST:
+    admin_name: Aegviiduvald
+    iso3c: EST
+    shapeID: 1311010B72994418002343
+  AhjavaldAdm2EST:
+    admin_name: Ahjavald
+    iso3c: EST
+    shapeID: 1311010B3337257835747
+  AlajAdm2EST:
+    admin_name: Alaj
+    iso3c: EST
+    shapeID: 1311010B31753692191013
+  AlatskivivaldAdm2EST:
+    admin_name: Alatskivivald
+    iso3c: EST
+    shapeID: 1311010B30309440304309
+  AlbuvaldAdm2EST:
+    admin_name: Albuvald
+    iso3c: EST
+    shapeID: 1311010B15313330943063
+  AmblavaldAdm2EST:
+    admin_name: Amblavald
+    iso3c: EST
+    shapeID: 1311010B27017575593512
+  AnijavaldAdm2EST:
+    admin_name: Anijavald
+    iso3c: EST
+    shapeID: 1311010B52285142273244
+  AntslavaldAdm2EST:
+    admin_name: Antslavald
+    iso3c: EST
+    shapeID: 1311010B82088696601517
+  ArevaldAdm2EST:
+    admin_name: Arevald
+    iso3c: EST
+    shapeID: 1311010B44723082448471
+  AserivaldAdm2EST:
+    admin_name: Aserivald
+    iso3c: EST
+    shapeID: 1311010B58121004819572
+  AudruvaldAdm2EST:
+    admin_name: Audruvald
+    iso3c: EST
+    shapeID: 1311010B10160124565821
+  AvinurmevaldAdm2EST:
+    admin_name: Avinurmevald
+    iso3c: EST
+    shapeID: 1311010B38398904353108
+  ElvalinnAdm2EST:
+    admin_name: Elvalinn
+    iso3c: EST
+    shapeID: 1311010B74987904561570
+  EmmastevaldAdm2EST:
+    admin_name: Emmastevald
+    iso3c: EST
+    shapeID: 1311010B48816549673714
+  HaademeesteAdm2EST:
+    admin_name: Haademeeste
+    iso3c: EST
+    shapeID: 1311010B60164476510639
+  HaanjavaldAdm2EST:
+    admin_name: Haanjavald
+    iso3c: EST
+    shapeID: 1311010B95567994255122
+  HaapsalulinnAdm2EST:
+    admin_name: Haapsalulinn
+    iso3c: EST
+    shapeID: 1311010B40779301106449
+  HaaslavavaldAdm2EST:
+    admin_name: Haaslavavald
+    iso3c: EST
+    shapeID: 1311010B8402168649238
+  HalingavaldAdm2EST:
+    admin_name: Halingavald
+    iso3c: EST
+    shapeID: 1311010B56635048856734
+  HaljalavaldAdm2EST:
+    admin_name: Haljalavald
+    iso3c: EST
+    shapeID: 1311010B16419858727128
+  HallistevaldAdm2EST:
+    admin_name: Hallistevald
+    iso3c: EST
+    shapeID: 1311010B78016922107611
+  HanilavaldAdm2EST:
+    admin_name: Hanilavald
+    iso3c: EST
+    shapeID: 1311010B30045468229038
+  HarjumaakondAdm1EST:
+    admin_name: Harjumaakond
+    iso3c: EST
+    shapeID: 21999144B19319879871883
+  HarkuvaldAdm2EST:
+    admin_name: Harkuvald
+    iso3c: EST
+    shapeID: 1311010B14283489081857
+  HelmevaldAdm2EST:
+    admin_name: Helmevald
+    iso3c: EST
+    shapeID: 1311010B52892677113970
+  HiiumaakondAdm1EST:
+    admin_name: Hiiumaakond
+    iso3c: EST
+    shapeID: 21999144B58024703537367
+  HiiuvaldAdm2EST:
+    admin_name: Hiiuvald
+    iso3c: EST
+    shapeID: 1311010B53491644956579
+  HummulivaldAdm2EST:
+    admin_name: Hummulivald
+    iso3c: EST
+    shapeID: 1311010B3547761909590
+  Ida-VirumaakondAdm1EST:
+    admin_name: Ida-Virumaakond
+    iso3c: EST
+    shapeID: 21999144B47767551937161
+  IisakuvaldAdm2EST:
+    admin_name: Iisakuvald
+    iso3c: EST
+    shapeID: 1311010B78545392718918
+  IllukavaldAdm2EST:
+    admin_name: Illukavald
+    iso3c: EST
+    shapeID: 1311010B83196805378318
+  ImaverevaldAdm2EST:
+    admin_name: Imaverevald
+    iso3c: EST
+    shapeID: 1311010B71183042875097
+  Jaarva-JaaniAdm2EST:
+    admin_name: Jaarva-Jaani
+    iso3c: EST
+    shapeID: 1311010B65050189927302
+  JärvamaakondAdm1EST:
+    admin_name: Järvamaakond
+    iso3c: EST
+    shapeID: 21999144B6110370050072
+  JoelahtmeAdm2EST:
+    admin_name: Joelahtme
+    iso3c: EST
+    shapeID: 1311010B83529915046256
+  JogevaAdm2EST:
+    admin_name: Jogeva
+    iso3c: EST
+    shapeID: 1311010B64312387575157
+  JõgevamaakondAdm1EST:
+    admin_name: Jõgevamaakond
+    iso3c: EST
+    shapeID: 21999144B65964655866417
+  JogevavaldAdm2EST:
+    admin_name: Jogevavald
+    iso3c: EST
+    shapeID: 1311010B53170565994329
+  JohviAdm2EST:
+    admin_name: Johvi
+    iso3c: EST
+    shapeID: 1311010B35935809878042
+  JuuruvaldAdm2EST:
+    admin_name: Juuruvald
+    iso3c: EST
+    shapeID: 1311010B43783148777275
+  KaarmavaldAdm2EST:
+    admin_name: Kaarmavald
+    iso3c: EST
+    shapeID: 1311010B58868630877292
+  KAdm2EST:
+    admin_name: K
+    iso3c: EST
+    shapeID: 1311010B78600175292414
+  KadrinavaldAdm2EST:
+    admin_name: Kadrinavald
+    iso3c: EST
+    shapeID: 1311010B38192461341302
+  KainaAdm2EST:
+    admin_name: Kaina
+    iso3c: EST
+    shapeID: 1311010B30795400698425
+  KaiuvaldAdm2EST:
+    admin_name: Kaiuvald
+    iso3c: EST
+    shapeID: 1311010B71604883594633
+  KallastelinnAdm2EST:
+    admin_name: Kallastelinn
+    iso3c: EST
+    shapeID: 1311010B84238750480708
+  KambjavaldAdm2EST:
+    admin_name: Kambjavald
+    iso3c: EST
+    shapeID: 1311010B66495880133962
+  KanepivaldAdm2EST:
+    admin_name: Kanepivald
+    iso3c: EST
+    shapeID: 1311010B53382744704387
+  KaredavaldAdm2EST:
+    admin_name: Karedavald
+    iso3c: EST
+    shapeID: 1311010B11874356942843
+  KarksivaldAdm2EST:
+    admin_name: Karksivald
+    iso3c: EST
+    shapeID: 1311010B41380693898443
+  KarulavaldAdm2EST:
+    admin_name: Karulavald
+    iso3c: EST
+    shapeID: 1311010B12366376901143
+  KaruvaldAdm2EST:
+    admin_name: Karuvald
+    iso3c: EST
+    shapeID: 1311010B76811669176095
+  KasepemvaldAdm2EST:
+    admin_name: Kasepemvald
+    iso3c: EST
+    shapeID: 1311010B91123492941222
+  KehtnavaldAdm2EST:
+    admin_name: Kehtnavald
+    iso3c: EST
+    shapeID: 1311010B77329633016321
+  KeilalinnAdm2EST:
+    admin_name: Keilalinn
+    iso3c: EST
+    shapeID: 1311010B140021748303
+  KeilavaldAdm2EST:
+    admin_name: Keilavald
+    iso3c: EST
+    shapeID: 1311010B70307753580653
+  KernuvaldAdm2EST:
+    admin_name: Kernuvald
+    iso3c: EST
+    shapeID: 1311010B69466415988966
+  KihelkonnavaldAdm2EST:
+    admin_name: Kihelkonnavald
+    iso3c: EST
+    shapeID: 1311010B25302488633840
+  KihnuvaldAdm2EST:
+    admin_name: Kihnuvald
+    iso3c: EST
+    shapeID: 1311010B67573695254555
+  KiilivaldAdm2EST:
+    admin_name: Kiilivald
+    iso3c: EST
+    shapeID: 1311010B35366892100791
+  KiviAdm2EST:
+    admin_name: Kivi
+    iso3c: EST
+    shapeID: 1311010B53698115213579
+  KoeruvaldAdm2EST:
+    admin_name: Koeruvald
+    iso3c: EST
+    shapeID: 1311010B42102623907701
+  KohilavaldAdm2EST:
+    admin_name: Kohilavald
+    iso3c: EST
+    shapeID: 1311010B705805300628
+  Kohtla-JlrvelinnAdm2EST:
+    admin_name: Kohtla-Jlrvelinn
+    iso3c: EST
+    shapeID: 1311010B61322847083180
+  Kohtla-NlmmevaldAdm2EST:
+    admin_name: Kohtla-Nlmmevald
+    iso3c: EST
+    shapeID: 1311010B98363675047029
+  KohtlavaldAdm2EST:
+    admin_name: Kohtlavald
+    iso3c: EST
+    shapeID: 1311010B94664056611530
+  KoigivaldAdm2EST:
+    admin_name: Koigivald
+    iso3c: EST
+    shapeID: 1311010B75285651945439
+  Kolga-JaanivaldAdm2EST:
+    admin_name: Kolga-Jaanivald
+    iso3c: EST
+    shapeID: 1311010B7195557091412
+  KollesteAdm2EST:
+    admin_name: Kolleste
+    iso3c: EST
+    shapeID: 1311010B66621087161443
+  KongutavaldAdm2EST:
+    admin_name: Kongutavald
+    iso3c: EST
+    shapeID: 1311010B16611681551532
+  KoongavaldAdm2EST:
+    admin_name: Koongavald
+    iso3c: EST
+    shapeID: 1311010B61996713319378
+  KoovaldAdm2EST:
+    admin_name: Koovald
+    iso3c: EST
+    shapeID: 1311010B9907706841540
+  KopuvaldAdm2EST:
+    admin_name: Kopuvald
+    iso3c: EST
+    shapeID: 1311010B56305681516395
+  KosevaldAdm2EST:
+    admin_name: Kosevald
+    iso3c: EST
+    shapeID: 1311010B47397496577888
+  KullamaavaldAdm2EST:
+    admin_name: Kullamaavald
+    iso3c: EST
+    shapeID: 1311010B11332888380883
+  KundalinnAdm2EST:
+    admin_name: Kundalinn
+    iso3c: EST
+    shapeID: 1311010B55106871441997
+  KuressaareAdm2EST:
+    admin_name: Kuressaare
+    iso3c: EST
+    shapeID: 1311010B85559275402695
+  KuusaluvaldAdm2EST:
+    admin_name: Kuusaluvald
+    iso3c: EST
+    shapeID: 1311010B21881699726273
+  Laane-NigulaAdm2EST:
+    admin_name: Laane-Nigula
+    iso3c: EST
+    shapeID: 1311010B53856095076368
+  Laane-SaareAdm2EST:
+    admin_name: Laane-Saare
+    iso3c: EST
+    shapeID: 1311010B45415706107546
+  Lääne-VirumaakondAdm1EST:
+    admin_name: Lääne-Virumaakond
+    iso3c: EST
+    shapeID: 21999144B8345617572164
+  LäänemaakondAdm1EST:
+    admin_name: Läänemaakond
+    iso3c: EST
+    shapeID: 21999144B44966158001622
+  LaekverevaldAdm2EST:
+    admin_name: Laekverevald
+    iso3c: EST
+    shapeID: 1311010B47859119941621
+  LaevavaldAdm2EST:
+    admin_name: Laevavald
+    iso3c: EST
+    shapeID: 1311010B98667517766516
+  LahedavaldAdm2EST:
+    admin_name: Lahedavald
+    iso3c: EST
+    shapeID: 1311010B97742737828455
+  LaimjalavaldAdm2EST:
+    admin_name: Laimjalavald
+    iso3c: EST
+    shapeID: 1311010B13562334950326
+  LasvavaldAdm2EST:
+    admin_name: Lasvavald
+    iso3c: EST
+    shapeID: 1311010B4850455565809
+  LeisivaldAdm2EST:
+    admin_name: Leisivald
+    iso3c: EST
+    shapeID: 1311010B51088125789266
+  LihulavaldAdm2EST:
+    admin_name: Lihulavald
+    iso3c: EST
+    shapeID: 1311010B95618748530073
+  LohusuuvaldAdm2EST:
+    admin_name: Lohusuuvald
+    iso3c: EST
+    shapeID: 1311010B45664282629319
+  LoksalinnAdm2EST:
+    admin_name: Loksalinn
+    iso3c: EST
+    shapeID: 1311010B38876062624246
+  LuunjavaldAdm2EST:
+    admin_name: Luunjavald
+    iso3c: EST
+    shapeID: 1311010B19032369928442
+  MaarduAdm2EST:
+    admin_name: Maardu
+    iso3c: EST
+    shapeID: 1311010B98989295601337
+  MAdm2EST:
+    admin_name: M
+    iso3c: EST
+    shapeID: 1311010B53393024733165
+  MaidlavaldAdm2EST:
+    admin_name: Maidlavald
+    iso3c: EST
+    shapeID: 1311010B12870424653907
+  MaksavaldAdm2EST:
+    admin_name: Maksavald
+    iso3c: EST
+    shapeID: 1311010B9607631296215
+  MarjamaavaldAdm2EST:
+    admin_name: Marjamaavald
+    iso3c: EST
+    shapeID: 1311010B31324210822214
+  MartnavaldAdm2EST:
+    admin_name: Martnavald
+    iso3c: EST
+    shapeID: 1311010B86493957605061
+  MeeksivaldAdm2EST:
+    admin_name: Meeksivald
+    iso3c: EST
+    shapeID: 1311010B77000992610869
+  MeremaevaldAdm2EST:
+    admin_name: Meremaevald
+    iso3c: EST
+    shapeID: 1311010B31513242597163
+  MikitamievaldAdm2EST:
+    admin_name: Mikitamievald
+    iso3c: EST
+    shapeID: 1311010B54186390739218
+  MissovaldAdm2EST:
+    admin_name: Missovald
+    iso3c: EST
+    shapeID: 1311010B94887399296524
+  MoisakulaAdm2EST:
+    admin_name: Moisakula
+    iso3c: EST
+    shapeID: 1311010B79164412201215
+  MonistevaldAdm2EST:
+    admin_name: Monistevald
+    iso3c: EST
+    shapeID: 1311010B21351499469005
+  MoostevaldAdm2EST:
+    admin_name: Moostevald
+    iso3c: EST
+    shapeID: 1311010B85635529745394
+  MuhuvaldAdm2EST:
+    admin_name: Muhuvald
+    iso3c: EST
+    shapeID: 1311010B20960178367150
+  MustjalavaldAdm2EST:
+    admin_name: Mustjalavald
+    iso3c: EST
+    shapeID: 1311010B95923468450834
+  MustveelinnAdm2EST:
+    admin_name: Mustveelinn
+    iso3c: EST
+    shapeID: 1311010B36450523479643
+  Narva-JvesuulinnAdm2EST:
+    admin_name: Narva-Jvesuulinn
+    iso3c: EST
+    shapeID: 1311010B69580576325907
+  NarvalinnAdm2EST:
+    admin_name: Narvalinn
+    iso3c: EST
+    shapeID: 1311010B42149159829057
+  NissivaldAdm2EST:
+    admin_name: Nissivald
+    iso3c: EST
+    shapeID: 1311010B45194860456478
+  NoarootsivaldAdm2EST:
+    admin_name: Noarootsivald
+    iso3c: EST
+    shapeID: 1311010B48358278046505
+  NoovaldAdm2EST:
+    admin_name: Noovald
+    iso3c: EST
+    shapeID: 1311010B48260480013334
+  NovavaldAdm2EST:
+    admin_name: Novavald
+    iso3c: EST
+    shapeID: 1311010B45189365118351
+  OravavaldAdm2EST:
+    admin_name: Oravavald
+    iso3c: EST
+    shapeID: 1311010B26129556816589
+  OrissaarevaldAdm2EST:
+    admin_name: Orissaarevald
+    iso3c: EST
+    shapeID: 1311010B17810364792691
+  OruvaldAdm2EST:
+    admin_name: Oruvald
+    iso3c: EST
+    shapeID: 1311010B40427434107256
+  OtepaavaldAdm2EST:
+    admin_name: Otepaavald
+    iso3c: EST
+    shapeID: 1311010B59805037386668
+  PadisevaldAdm2EST:
+    admin_name: Padisevald
+    iso3c: EST
+    shapeID: 1311010B52453290555795
+  PaidelinnAdm2EST:
+    admin_name: Paidelinn
+    iso3c: EST
+    shapeID: 1311010B86811921140774
+  PaidevaldAdm2EST:
+    admin_name: Paidevald
+    iso3c: EST
+    shapeID: 1311010B64202471316654
+  PaikusevaldAdm2EST:
+    admin_name: Paikusevald
+    iso3c: EST
+    shapeID: 1311010B47067404608196
+  PajusivaldAdm2EST:
+    admin_name: Pajusivald
+    iso3c: EST
+    shapeID: 1311010B60814833555163
+  PalamusevaldAdm2EST:
+    admin_name: Palamusevald
+    iso3c: EST
+    shapeID: 1311010B51002978770029
+  PalavaldAdm2EST:
+    admin_name: Palavald
+    iso3c: EST
+    shapeID: 1311010B88714475247520
+  PaldiskilinnAdm2EST:
+    admin_name: Paldiskilinn
+    iso3c: EST
+    shapeID: 1311010B6903470303041
+  PaluperavaldAdm2EST:
+    admin_name: Paluperavald
+    iso3c: EST
+    shapeID: 1311010B38420542420569
+  ParnuAdm2EST:
+    admin_name: Parnu
+    iso3c: EST
+    shapeID: 1311010B91568869544841
+  PärnumaakondAdm1EST:
+    admin_name: Pärnumaakond
+    iso3c: EST
+    shapeID: 21999144B29728943841955
+  PeipsinarevaldAdm2EST:
+    admin_name: Peipsinarevald
+    iso3c: EST
+    shapeID: 1311010B23772582989033
+  PihtlavaldAdm2EST:
+    admin_name: Pihtlavald
+    iso3c: EST
+    shapeID: 1311010B82256116755289
+  PiirissaarevaldAdm2EST:
+    admin_name: Piirissaarevald
+    iso3c: EST
+    shapeID: 1311010B96115389155974
+  PodralavaldAdm2EST:
+    admin_name: Podralavald
+    iso3c: EST
+    shapeID: 1311010B55295739846087
+  PoideAdm2EST:
+    admin_name: Poide
+    iso3c: EST
+    shapeID: 1311010B88167681268080
+  PoltsamaaAdm2EST:
+    admin_name: Poltsamaa
+    iso3c: EST
+    shapeID: 1311010B58480770812003
+  PoltsamaavaldAdm2EST:
+    admin_name: Poltsamaavald
+    iso3c: EST
+    shapeID: 1311010B37892416631750
+  PõlvamaakondAdm1EST:
+    admin_name: Põlvamaakond
+    iso3c: EST
+    shapeID: 21999144B96472367616426
+  PolvavaldAdm2EST:
+    admin_name: Polvavald
+    iso3c: EST
+    shapeID: 1311010B71644990225106
+  PuhalepaAdm2EST:
+    admin_name: Puhalepa
+    iso3c: EST
+    shapeID: 1311010B73290752251507
+  PuhjavaldAdm2EST:
+    admin_name: Puhjavald
+    iso3c: EST
+    shapeID: 1311010B57235016776847
+  PukavaldAdm2EST:
+    admin_name: Pukavald
+    iso3c: EST
+    shapeID: 1311010B99553131767817
+  PuurmanivaldAdm2EST:
+    admin_name: Puurmanivald
+    iso3c: EST
+    shapeID: 1311010B79943408539391
+  RaasikuvaldAdm2EST:
+    admin_name: Raasikuvald
+    iso3c: EST
+    shapeID: 1311010B52979520707817
+  RaevaldAdm2EST:
+    admin_name: Raevald
+    iso3c: EST
+    shapeID: 1311010B8638996222621
+  RagaverevaldAdm2EST:
+    admin_name: Ragaverevald
+    iso3c: EST
+    shapeID: 1311010B29233401042552
+  RaikkllavaldAdm2EST:
+    admin_name: Raikkllavald
+    iso3c: EST
+    shapeID: 1311010B81056878488721
+  RakkevaldAdm2EST:
+    admin_name: Rakkevald
+    iso3c: EST
+    shapeID: 1311010B92722428424593
+  RakverelinnAdm2EST:
+    admin_name: Rakverelinn
+    iso3c: EST
+    shapeID: 1311010B71569739295437
+  RakverevaldAdm2EST:
+    admin_name: Rakverevald
+    iso3c: EST
+    shapeID: 1311010B35543471542854
+  RannuvaldAdm2EST:
+    admin_name: Rannuvald
+    iso3c: EST
+    shapeID: 1311010B96161059283507
+  RapinaAdm2EST:
+    admin_name: Rapina
+    iso3c: EST
+    shapeID: 1311010B618324590524
+  RaplamaakondAdm1EST:
+    admin_name: Raplamaakond
+    iso3c: EST
+    shapeID: 21999144B63985624838258
+  RaplavaldAdm2EST:
+    admin_name: Raplavald
+    iso3c: EST
+    shapeID: 1311010B29085962523247
+  RidalavaldAdm2EST:
+    admin_name: Ridalavald
+    iso3c: EST
+    shapeID: 1311010B44477589542413
+  RonguvaldAdm2EST:
+    admin_name: Ronguvald
+    iso3c: EST
+    shapeID: 1311010B87033906049048
+  Roosna-AllikuvaldAdm2EST:
+    admin_name: Roosna-Allikuvald
+    iso3c: EST
+    shapeID: 1311010B60406908674203
+  RougevaldAdm2EST:
+    admin_name: Rougevald
+    iso3c: EST
+    shapeID: 1311010B49288180306995
+  RuhnuvaldAdm2EST:
+    admin_name: Ruhnuvald
+    iso3c: EST
+    shapeID: 1311010B2000322207453
+  SaardevaldAdm2EST:
+    admin_name: Saardevald
+    iso3c: EST
+    shapeID: 1311010B54123834804098
+  SaaremaakondAdm1EST:
+    admin_name: Saaremaakond
+    iso3c: EST
+    shapeID: 21999144B33684554983834
+  SaarevaldAdm2EST:
+    admin_name: Saarevald
+    iso3c: EST
+    shapeID: 1311010B48530541547286
+  SakuvaldAdm2EST:
+    admin_name: Sakuvald
+    iso3c: EST
+    shapeID: 1311010B88719194427594
+  SalmevaldAdm2EST:
+    admin_name: Salmevald
+    iso3c: EST
+    shapeID: 1311010B78278065776890
+  SangastevaldAdm2EST:
+    admin_name: Sangastevald
+    iso3c: EST
+    shapeID: 1311010B18031846736859
+  SauelinnAdm2EST:
+    admin_name: Sauelinn
+    iso3c: EST
+    shapeID: 1311010B87913631554910
+  SauevaldAdm2EST:
+    admin_name: Sauevald
+    iso3c: EST
+    shapeID: 1311010B47974718243747
+  SaugavaldAdm2EST:
+    admin_name: Saugavald
+    iso3c: EST
+    shapeID: 1311010B29096535937461
+  SillamaelinnAdm2EST:
+    admin_name: Sillamaelinn
+    iso3c: EST
+    shapeID: 1311010B28109082085448
+  SindilinnAdm2EST:
+    admin_name: Sindilinn
+    iso3c: EST
+    shapeID: 1311010B73343590761295
+  SomerpaluvaldAdm2EST:
+    admin_name: Somerpaluvald
+    iso3c: EST
+    shapeID: 1311010B47123420697709
+  SomeruvaldAdm2EST:
+    admin_name: Someruvald
+    iso3c: EST
+    shapeID: 1311010B20804046846224
+  SondavaldAdm2EST:
+    admin_name: Sondavald
+    iso3c: EST
+    shapeID: 1311010B79670406577873
+  SurjuvaldAdm2EST:
+    admin_name: Surjuvald
+    iso3c: EST
+    shapeID: 1311010B11631843097428
+  Suure-JaanivaldAdm2EST:
+    admin_name: Suure-Jaanivald
+    iso3c: EST
+    shapeID: 1311010B3836691763850
+  TabiverevaldAdm2EST:
+    admin_name: Tabiverevald
+    iso3c: EST
+    shapeID: 1311010B31317246084681
+  TahevavaldAdm2EST:
+    admin_name: Tahevavald
+    iso3c: EST
+    shapeID: 1311010B88570954181649
+  TahkurannavaldAdm2EST:
+    admin_name: Tahkurannavald
+    iso3c: EST
+    shapeID: 1311010B35506705685029
+  TahtverevaldAdm2EST:
+    admin_name: Tahtverevald
+    iso3c: EST
+    shapeID: 1311010B16667630982146
+  TallinnalinnAdm2EST:
+    admin_name: Tallinnalinn
+    iso3c: EST
+    shapeID: 1311010B8678160430492
+  TamsaluvaldAdm2EST:
+    admin_name: Tamsaluvald
+    iso3c: EST
+    shapeID: 1311010B29712431738212
+  TapavaldAdm2EST:
+    admin_name: Tapavald
+    iso3c: EST
+    shapeID: 1311010B22723955606381
+  TartulinnAdm2EST:
+    admin_name: Tartulinn
+    iso3c: EST
+    shapeID: 1311010B27828470617326
+  TartumaakondAdm1EST:
+    admin_name: Tartumaakond
+    iso3c: EST
+    shapeID: 21999144B18638129154840
+  TartuvaldAdm2EST:
+    admin_name: Tartuvald
+    iso3c: EST
+    shapeID: 1311010B16346599601288
+  TarvastuvaldAdm2EST:
+    admin_name: Tarvastuvald
+    iso3c: EST
+    shapeID: 1311010B986085306823
+  ToilavaldAdm2EST:
+    admin_name: Toilavald
+    iso3c: EST
+    shapeID: 1311010B33722502421814
+  TollistevaldAdm2EST:
+    admin_name: Tollistevald
+    iso3c: EST
+    shapeID: 1311010B83530134147894
+  TootsivaldAdm2EST:
+    admin_name: Tootsivald
+    iso3c: EST
+    shapeID: 1311010B17313629643664
+  TorguvaldAdm2EST:
+    admin_name: Torguvald
+    iso3c: EST
+    shapeID: 1311010B56317923053608
+  TorivaldAdm2EST:
+    admin_name: Torivald
+    iso3c: EST
+    shapeID: 1311010B70804595202339
+  TormavaldAdm2EST:
+    admin_name: Tormavald
+    iso3c: EST
+    shapeID: 1311010B61169285262023
+  TorvaAdm2EST:
+    admin_name: Torva
+    iso3c: EST
+    shapeID: 1311010B15820091199987
+  TostamaavaldAdm2EST:
+    admin_name: Tostamaavald
+    iso3c: EST
+    shapeID: 1311010B6224437320425
+  TudulinnavaldAdm2EST:
+    admin_name: Tudulinnavald
+    iso3c: EST
+    shapeID: 1311010B11583700541251
+  TurivaldAdm2EST:
+    admin_name: Turivald
+    iso3c: EST
+    shapeID: 1311010B52135075044132
+  UlenurmevaldAdm2EST:
+    admin_name: Ulenurmevald
+    iso3c: EST
+    shapeID: 1311010B23065748190049
+  UrvastevaldAdm2EST:
+    admin_name: Urvastevald
+    iso3c: EST
+    shapeID: 1311010B74211986671289
+  VaatsaAdm2EST:
+    admin_name: Vaatsa
+    iso3c: EST
+    shapeID: 1311010B94636180847931
+  Vaike-MaarjavaldAdm2EST:
+    admin_name: Vaike-Maarjavald
+    iso3c: EST
+    shapeID: 1311010B74271968542573
+  VaivaravaldAdm2EST:
+    admin_name: Vaivaravald
+    iso3c: EST
+    shapeID: 1311010B51134542025676
+  ValgalinnAdm2EST:
+    admin_name: Valgalinn
+    iso3c: EST
+    shapeID: 1311010B88626198871258
+  ValgamaakondAdm1EST:
+    admin_name: Valgamaakond
+    iso3c: EST
+    shapeID: 21999144B24079073744872
+  ValgjhrvevaldAdm2EST:
+    admin_name: Valgjhrvevald
+    iso3c: EST
+    shapeID: 1311010B50501050952798
+  ValjalavaldAdm2EST:
+    admin_name: Valjalavald
+    iso3c: EST
+    shapeID: 1311010B84667976024971
+  VandraAdm2EST:
+    admin_name: Vandra
+    iso3c: EST
+    shapeID: 1311010B5373461700535
+  VandraalevAdm2EST:
+    admin_name: Vandraalev
+    iso3c: EST
+    shapeID: 1311010B80552513154698
+  VaravaldAdm2EST:
+    admin_name: Varavald
+    iso3c: EST
+    shapeID: 1311010B91293140456750
+  VarblavaldAdm2EST:
+    admin_name: Varblavald
+    iso3c: EST
+    shapeID: 1311010B84453125464232
+  VarskavaldAdm2EST:
+    admin_name: Varskavald
+    iso3c: EST
+    shapeID: 1311010B28618707469906
+  VarstuvaldAdm2EST:
+    admin_name: Varstuvald
+    iso3c: EST
+    shapeID: 1311010B46440255172299
+  VasalemmavaldAdm2EST:
+    admin_name: Vasalemmavald
+    iso3c: EST
+    shapeID: 1311010B25054231269702
+  Vastse-KuustevaldAdm2EST:
+    admin_name: Vastse-Kuustevald
+    iso3c: EST
+    shapeID: 1311010B97602543926759
+  VastseliinavaldAdm2EST:
+    admin_name: Vastseliinavald
+    iso3c: EST
+    shapeID: 1311010B36634694075874
+  VerioravaldAdm2EST:
+    admin_name: Verioravald
+    iso3c: EST
+    shapeID: 1311010B54902840460043
+  VigalavaldAdm2EST:
+    admin_name: Vigalavald
+    iso3c: EST
+    shapeID: 1311010B49856223973903
+  VihulavaldAdm2EST:
+    admin_name: Vihulavald
+    iso3c: EST
+    shapeID: 1311010B83803499603716
+  ViimsivaldAdm2EST:
+    admin_name: Viimsivald
+    iso3c: EST
+    shapeID: 1311010B86749809773579
+  ViljandilinnAdm2EST:
+    admin_name: Viljandilinn
+    iso3c: EST
+    shapeID: 1311010B98573526217000
+  ViljandimaakondAdm1EST:
+    admin_name: Viljandimaakond
+    iso3c: EST
+    shapeID: 21999144B19644163170936
+  ViljandivaldAdm2EST:
+    admin_name: Viljandivald
+    iso3c: EST
+    shapeID: 1311010B80198421584817
+  VinnivaldAdm2EST:
+    admin_name: Vinnivald
+    iso3c: EST
+    shapeID: 1311010B28697548317815
+  Viru-NigulavaldAdm2EST:
+    admin_name: Viru-Nigulavald
+    iso3c: EST
+    shapeID: 1311010B30502718985029
+  VohmaAdm2EST:
+    admin_name: Vohma
+    iso3c: EST
+    shapeID: 1311010B91296459923825
+  VonnuvaldAdm2EST:
+    admin_name: Vonnuvald
+    iso3c: EST
+    shapeID: 1311010B48306272105770
+  VormsivaldAdm2EST:
+    admin_name: Vormsivald
+    iso3c: EST
+    shapeID: 1311010B71722109157093
+  VoruAdm2EST:
+    admin_name: Voru
+    iso3c: EST
+    shapeID: 1311010B59053529992042
+  VõrumaakondAdm1EST:
+    admin_name: Võrumaakond
+    iso3c: EST
+    shapeID: 21999144B65356680713058
+  VoruvaldAdm2EST:
+    admin_name: Voruvald
+    iso3c: EST
+    shapeID: 1311010B42202403752203

@@ -1,28 +1,1433 @@
 concepts:
-    - BeniSuefGovernorate
-    - QalyubiaGovernorate
-    - DamiettaGovernorate
-    - CairoGovernorate
-    - MinyaGovernate
-    - DakahliaGovernorate
-    - NorthSinaiGovernorate
-    - Kafrel-SheikhGovernorate
-    - AswanGovernorate
-    - RedSeaGovernorate
-    - MatrouhGovernorate
-    - SouthSinaiGovernorate
-    - AlexandriaGovernorate
-    - IsmailiaGovernorate
-    - SuezGovernorate
-    - GharbiyyaGovernorate
-    - FaiyumGovernorate
-    - QenaGovernorate
-    - LuxorGovernate
-    - AsyutGovernorate
-    - SohagGovernorate
-    - BeheiraGovernorate
-    - NewValleyGovernorate
-    - GizaGovernorate
-    - MonufiaGovernorate
-    - AlSharqiaGovernorate
-    - PortSaidGovernorate
+  10Ramadan1Adm2EGY:
+    admin_name: 10Ramadan1
+    iso3c: EGY
+    shapeID: 37247803B47496652532681
+  10Ramadan2Adm2EGY:
+    admin_name: 10Ramadan2
+    iso3c: EGY
+    shapeID: 37247803B93568001164514
+  15MayuAdm2EGY:
+    admin_name: 15Mayu
+    iso3c: EGY
+    shapeID: 37247803B58448533869188
+  6October-1Adm2EGY:
+    admin_name: 6October-1
+    iso3c: EGY
+    shapeID: 37247803B48784531357995
+  6October-2Adm2EGY:
+    admin_name: 6October-2
+    iso3c: EGY
+    shapeID: 37247803B57962000824705
+  A-DakhlaOasisAdm2EGY:
+    admin_name: A-DakhlaOasis
+    iso3c: EGY
+    shapeID: 37247803B63195966732086
+  AbdinAdm2EGY:
+    admin_name: Abdin
+    iso3c: EGY
+    shapeID: 37247803B10880133914548
+  AbnubAdm2EGY:
+    admin_name: Abnub
+    iso3c: EGY
+    shapeID: 37247803B63981628133809
+  AbourAdm2EGY:
+    admin_name: Abour
+    iso3c: EGY
+    shapeID: 37247803B53826434992934
+  AbshawayAdm2EGY:
+    admin_name: Abshaway
+    iso3c: EGY
+    shapeID: 37247803B9213477235230
+  Abu-l-MatamirAdm2EGY:
+    admin_name: Abu-l-Matamir
+    iso3c: EGY
+    shapeID: 37247803B42865985960585
+  AbuHammadAdm2EGY:
+    admin_name: AbuHammad
+    iso3c: EGY
+    shapeID: 37247803B30253280006981
+  AbuHummusAdm2EGY:
+    admin_name: AbuHummus
+    iso3c: EGY
+    shapeID: 37247803B15817250169024
+  AbuKabirAdm2EGY:
+    admin_name: AbuKabir
+    iso3c: EGY
+    shapeID: 37247803B57835659409223
+  AbuRadisAdm2EGY:
+    admin_name: AbuRadis
+    iso3c: EGY
+    shapeID: 37247803B44606701734202
+  AbuSimbelAdm2EGY:
+    admin_name: AbuSimbel
+    iso3c: EGY
+    shapeID: 37247803B4771380676281
+  AbuTigAdm2EGY:
+    admin_name: AbuTig
+    iso3c: EGY
+    shapeID: 37247803B24325700494067
+  AbuTishtAdm2EGY:
+    admin_name: AbuTisht
+    iso3c: EGY
+    shapeID: 37247803B97823956456767
+  AdfuAdm2EGY:
+    admin_name: Adfu
+    iso3c: EGY
+    shapeID: 37247803B96122561755956
+  AgaAdm2EGY:
+    admin_name: Aga
+    iso3c: EGY
+    shapeID: 37247803B31879405836913
+  AhnasyaAdm2EGY:
+    admin_name: Ahnasya
+    iso3c: EGY
+    shapeID: 37247803B37545732740300
+  AinShamsAdm2EGY:
+    admin_name: AinShams
+    iso3c: EGY
+    shapeID: 37247803B66210800118153
+  AkhmimAdm2EGY:
+    admin_name: Akhmim
+    iso3c: EGY
+    shapeID: 37247803B62515716527778
+  AkhmimCityAdm2EGY:
+    admin_name: AkhmimCity
+    iso3c: EGY
+    shapeID: 37247803B43234746614791
+  Al-AguzaAdm2EGY:
+    admin_name: Al-Aguza
+    iso3c: EGY
+    shapeID: 37247803B56780050438943
+  Al-AhramAdm2EGY:
+    admin_name: Al-Ahram
+    iso3c: EGY
+    shapeID: 37247803B9687639154335
+  Al-ArabAdm2EGY:
+    admin_name: Al-Arab
+    iso3c: EGY
+    shapeID: 37247803B56705679670206
+  Al-ArbiinAdm2EGY:
+    admin_name: Al-Arbiin
+    iso3c: EGY
+    shapeID: 37247803B66278795403604
+  Al-BadariAdm2EGY:
+    admin_name: Al-Badari
+    iso3c: EGY
+    shapeID: 37247803B32615858974663
+  Al-BagurAdm2EGY:
+    admin_name: Al-Bagur
+    iso3c: EGY
+    shapeID: 37247803B46685873859675
+  Al-BalyanaAdm2EGY:
+    admin_name: Al-Balyana
+    iso3c: EGY
+    shapeID: 37247803B40738105773266
+  Al-DawahyAdm2EGY:
+    admin_name: Al-Dawahy
+    iso3c: EGY
+    shapeID: 37247803B10876030245945
+  Al-DilingatAdm2EGY:
+    admin_name: Al-Dilingat
+    iso3c: EGY
+    shapeID: 37247803B72725893374762
+  Al-GanayinAdm2EGY:
+    admin_name: Al-Ganayin
+    iso3c: EGY
+    shapeID: 37247803B61862544009771
+  Al-Ganoub2Adm2EGY:
+    admin_name: Al-Ganoub2
+    iso3c: EGY
+    shapeID: 37247803B49247378717422
+  Al-GanoubAdm2EGY:
+    admin_name: Al-Ganoub
+    iso3c: EGY
+    shapeID: 37247803B91562573257971
+  Al-GhanayemAdm2EGY:
+    admin_name: Al-Ghanayem
+    iso3c: EGY
+    shapeID: 37247803B60942546572959
+  Al-HammamAdm2EGY:
+    admin_name: Al-Hammam
+    iso3c: EGY
+    shapeID: 37247803B30384422366927
+  Al-HasnaAdm2EGY:
+    admin_name: Al-Hasna
+    iso3c: EGY
+    shapeID: 37247803B43495383669597
+  Al-HusayniyaAdm2EGY:
+    admin_name: Al-Husayniya
+    iso3c: EGY
+    shapeID: 37247803B51599084555013
+  Al-KhargaOasisAdm2EGY:
+    admin_name: Al-KhargaOasis
+    iso3c: EGY
+    shapeID: 37247803B20145410144228
+  Al-MahmudiyyaAdm2EGY:
+    admin_name: Al-Mahmudiyya
+    iso3c: EGY
+    shapeID: 37247803B49167572517761
+  Al-ManasraAdm2EGY:
+    admin_name: Al-Manasra
+    iso3c: EGY
+    shapeID: 37247803B61040397145628
+  Al-MaraghaAdm2EGY:
+    admin_name: Al-Maragha
+    iso3c: EGY
+    shapeID: 37247803B96203293605859
+  Al-MinshatAdm2EGY:
+    admin_name: Al-Minshat
+    iso3c: EGY
+    shapeID: 37247803B33567976679520
+  Al-MunakhAdm2EGY:
+    admin_name: Al-Munakh
+    iso3c: EGY
+    shapeID: 37247803B61340660401138
+  Al-QanayatAdm2EGY:
+    admin_name: Al-Qanayat
+    iso3c: EGY
+    shapeID: 37247803B43840027244949
+  Al-QusiaAdm2EGY:
+    admin_name: Al-Qusia
+    iso3c: EGY
+    shapeID: 37247803B63984136807861
+  Al-RahmaniyyaAdm2EGY:
+    admin_name: Al-Rahmaniyya
+    iso3c: EGY
+    shapeID: 37247803B62002284809719
+  Al-SalhiyyaAdm2EGY:
+    admin_name: Al-Salhiyya
+    iso3c: EGY
+    shapeID: 37247803B28046922888397
+  Al-SharqAdm2EGY:
+    admin_name: Al-Sharq
+    iso3c: EGY
+    shapeID: 37247803B90790546702269
+  Al-ShuhadaAdm2EGY:
+    admin_name: Al-Shuhada
+    iso3c: EGY
+    shapeID: 37247803B57305898539534
+  Al-TurAdm2EGY:
+    admin_name: Al-Tur
+    iso3c: EGY
+    shapeID: 37247803B51826009871737
+  Al-ZohourAdm2EGY:
+    admin_name: Al-Zohour
+    iso3c: EGY
+    shapeID: 37247803B87412130883557
+  AlamnAdm2EGY:
+    admin_name: Alamn
+    iso3c: EGY
+    shapeID: 37247803B41250479572628
+  AlAmreiaAdm2EGY:
+    admin_name: AlAmreia
+    iso3c: EGY
+    shapeID: 37247803B92926604097979
+  AlAttarinAdm2EGY:
+    admin_name: AlAttarin
+    iso3c: EGY
+    shapeID: 37247803B2309887607754
+  AlAzbakiyyaAdm2EGY:
+    admin_name: AlAzbakiyya
+    iso3c: EGY
+    shapeID: 37247803B6267278220516
+  AlDarbal-AhmarAdm2EGY:
+    admin_name: AlDarbal-Ahmar
+    iso3c: EGY
+    shapeID: 37247803B66957331642315
+  AlDikhilaAdm2EGY:
+    admin_name: AlDikhila
+    iso3c: EGY
+    shapeID: 37247803B81947016112808
+  AlexandriaGovernorateAdm1EGY:
+    admin_name: AlexandriaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B99776351599397
+  AlFarafraOasisAdm2EGY:
+    admin_name: AlFarafraOasis
+    iso3c: EGY
+    shapeID: 37247803B67299056810507
+  AlFashnAdm2EGY:
+    admin_name: AlFashn
+    iso3c: EGY
+    shapeID: 37247803B34846492708063
+  AlfathAdm2EGY:
+    admin_name: Alfath
+    iso3c: EGY
+    shapeID: 37247803B50219622339720
+  AlGumrukAdm2EGY:
+    admin_name: AlGumruk
+    iso3c: EGY
+    shapeID: 37247803B59433804182787
+  AlHamulAdm2EGY:
+    admin_name: AlHamul
+    iso3c: EGY
+    shapeID: 37247803B81871138986317
+  AlKhalifaAdm2EGY:
+    admin_name: AlKhalifa
+    iso3c: EGY
+    shapeID: 37247803B15392203431980
+  AlKhankaAdm2EGY:
+    admin_name: AlKhanka
+    iso3c: EGY
+    shapeID: 37247803B26389200974070
+  ALLabbanAdm2EGY:
+    admin_name: ALLabban
+    iso3c: EGY
+    shapeID: 37247803B27556754464057
+  AlManshiyyaAdm2EGY:
+    admin_name: AlManshiyya
+    iso3c: EGY
+    shapeID: 37247803B47768996612794
+  AlMatariyyaAdm2EGY:
+    admin_name: AlMatariyya
+    iso3c: EGY
+    shapeID: 37247803B27962965783351
+  AlRamlAdm2EGY:
+    admin_name: AlRaml
+    iso3c: EGY
+    shapeID: 37247803B98787115048764
+  AlSahilAdm2EGY:
+    admin_name: AlSahil
+    iso3c: EGY
+    shapeID: 37247803B54164801772616
+  AlSalamAdm2EGY:
+    admin_name: AlSalam
+    iso3c: EGY
+    shapeID: 37247803B59541002076203
+  AlSharabiyyaAdm2EGY:
+    admin_name: AlSharabiyya
+    iso3c: EGY
+    shapeID: 37247803B22012205190656
+  AlSharqiaGovernorateAdm1EGY:
+    admin_name: AlSharqiaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B99510320348427
+  AlTibbinAdm2EGY:
+    admin_name: AlTibbin
+    iso3c: EGY
+    shapeID: 37247803B18410334160069
+  AlUsayratAdm2EGY:
+    admin_name: AlUsayrat
+    iso3c: EGY
+    shapeID: 37247803B53334820254906
+  AlWaqfAdm2EGY:
+    admin_name: AlWaqf
+    iso3c: EGY
+    shapeID: 37247803B80470796626605
+  AlWastaAdm2EGY:
+    admin_name: AlWasta
+    iso3c: EGY
+    shapeID: 37247803B53497462847633
+  AlWayliAdm2EGY:
+    admin_name: AlWayli
+    iso3c: EGY
+    shapeID: 37247803B46837021628067
+  AlZahirAdm2EGY:
+    admin_name: AlZahir
+    iso3c: EGY
+    shapeID: 37247803B28746183260819
+  AlZaytunAdm2EGY:
+    admin_name: AlZaytun
+    iso3c: EGY
+    shapeID: 37247803B62499095418831
+  ArmantAdm2EGY:
+    admin_name: Armant
+    iso3c: EGY
+    shapeID: 37247803B28192113145833
+  AshmunAdm2EGY:
+    admin_name: Ashmun
+    iso3c: EGY
+    shapeID: 37247803B18007255516355
+  AssuitAdm2EGY:
+    admin_name: Assuit
+    iso3c: EGY
+    shapeID: 37247803B81923803494172
+  AssuitCityAdm2EGY:
+    admin_name: AssuitCity
+    iso3c: EGY
+    shapeID: 37247803B89417957828076
+  AswanAdm2EGY:
+    admin_name: Aswan
+    iso3c: EGY
+    shapeID: 37247803B76296882951531
+  AswanCityAdm2EGY:
+    admin_name: AswanCity
+    iso3c: EGY
+    shapeID: 37247803B88895964793077
+  AswanGovernorateAdm1EGY:
+    admin_name: AswanGovernorate
+    iso3c: EGY
+    shapeID: 46179711B96058986091554
+  AsyutGovernorateAdm1EGY:
+    admin_name: AsyutGovernorate
+    iso3c: EGY
+    shapeID: 46179711B93993738941206
+  AtaqaAdm2EGY:
+    admin_name: Ataqa
+    iso3c: EGY
+    shapeID: 37247803B89602955599025
+  AtfehAdm2EGY:
+    admin_name: Atfeh
+    iso3c: EGY
+    shapeID: 37247803B7335021436895
+  AtsaAdm2EGY:
+    admin_name: Atsa
+    iso3c: EGY
+    shapeID: 37247803B59509070430414
+  AuseemAdm2EGY:
+    admin_name: Auseem
+    iso3c: EGY
+    shapeID: 37247803B16391777329697
+  AwladSaqrAdm2EGY:
+    admin_name: AwladSaqr
+    iso3c: EGY
+    shapeID: 37247803B9128423140503
+  AyatAdm2EGY:
+    admin_name: Ayat
+    iso3c: EGY
+    shapeID: 37247803B7250727301439
+  BabAl-ShariyyaAdm2EGY:
+    admin_name: BabAl-Shariyya
+    iso3c: EGY
+    shapeID: 37247803B36275264085145
+  BabSharqiAdm2EGY:
+    admin_name: BabSharqi
+    iso3c: EGY
+    shapeID: 37247803B50327552497363
+  BadrAdm2EGY:
+    admin_name: Badr
+    iso3c: EGY
+    shapeID: 37247803B98610862498628
+  BadrashainAdm2EGY:
+    admin_name: Badrashain
+    iso3c: EGY
+    shapeID: 37247803B45225516611894
+  BahariyaOasisAdm2EGY:
+    admin_name: BahariyaOasis
+    iso3c: EGY
+    shapeID: 37247803B96885043093668
+  BanhaAdm2EGY:
+    admin_name: Banha
+    iso3c: EGY
+    shapeID: 37247803B4989882956634
+  BaniSwayfAdm2EGY:
+    admin_name: BaniSwayf
+    iso3c: EGY
+    shapeID: 37247803B61298803193986
+  BaniSwayfCityAdm2EGY:
+    admin_name: BaniSwayfCity
+    iso3c: EGY
+    shapeID: 37247803B55078919918818
+  BanyAbeedAdm2EGY:
+    admin_name: BanyAbeed
+    iso3c: EGY
+    shapeID: 37247803B85878422276791
+  BasatinAdm2EGY:
+    admin_name: Basatin
+    iso3c: EGY
+    shapeID: 37247803B92056872151518
+  BasyunAdm2EGY:
+    admin_name: Basyun
+    iso3c: EGY
+    shapeID: 37247803B14729269607977
+  BeheiraGovernorateAdm1EGY:
+    admin_name: BeheiraGovernorate
+    iso3c: EGY
+    shapeID: 46179711B92366752825200
+  BeniSuefGovernorateAdm1EGY:
+    admin_name: BeniSuefGovernorate
+    iso3c: EGY
+    shapeID: 46179711B35449682454923
+  BibaAdm2EGY:
+    admin_name: Biba
+    iso3c: EGY
+    shapeID: 37247803B33717646792475
+  BilbisAdm2EGY:
+    admin_name: Bilbis
+    iso3c: EGY
+    shapeID: 37247803B42171035160974
+  BilqasAdm2EGY:
+    admin_name: Bilqas
+    iso3c: EGY
+    shapeID: 37247803B88078543557483
+  BirAl-AbdAdm2EGY:
+    admin_name: BirAl-Abd
+    iso3c: EGY
+    shapeID: 37247803B3069705007202
+  BirkatAl-SabAdm2EGY:
+    admin_name: BirkatAl-Sab
+    iso3c: EGY
+    shapeID: 37247803B30511282692114
+  BiyaluAdm2EGY:
+    admin_name: Biyalu
+    iso3c: EGY
+    shapeID: 37247803B81724678096325
+  BulaqAdm2EGY:
+    admin_name: Bulaq
+    iso3c: EGY
+    shapeID: 37247803B29547542469056
+  BulaqAl-DakrUrAdm2EGY:
+    admin_name: BulaqAl-DakrUr
+    iso3c: EGY
+    shapeID: 37247803B34210539192827
+  Burgal-ArabAdm2EGY:
+    admin_name: Burgal-Arab
+    iso3c: EGY
+    shapeID: 37247803B42052057109088
+  BurgAl-ArabCityAdm2EGY:
+    admin_name: BurgAl-ArabCity
+    iso3c: EGY
+    shapeID: 37247803B47778858868079
+  BurullusAdm2EGY:
+    admin_name: Burullus
+    iso3c: EGY
+    shapeID: 37247803B81519659380298
+  CairoGovernorateAdm1EGY:
+    admin_name: CairoGovernorate
+    iso3c: EGY
+    shapeID: 46179711B66630674459803
+  DabaAdm2EGY:
+    admin_name: Daba
+    iso3c: EGY
+    shapeID: 37247803B11415934472050
+  DahabAdm2EGY:
+    admin_name: Dahab
+    iso3c: EGY
+    shapeID: 37247803B99399074441335
+  DakahliaGovernorateAdm1EGY:
+    admin_name: DakahliaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B98212466425872
+  DamanhurAdm2EGY:
+    admin_name: Damanhur
+    iso3c: EGY
+    shapeID: 37247803B7643312094608
+  DamiettaGovernorateAdm1EGY:
+    admin_name: DamiettaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B66765744751824
+  Daral-SalamAdm2EGY:
+    admin_name: Daral-Salam
+    iso3c: EGY
+    shapeID: 37247803B4319107870519
+  DarawAdm2EGY:
+    admin_name: Daraw
+    iso3c: EGY
+    shapeID: 37247803B19070372883194
+  DayrutAdm2EGY:
+    admin_name: Dayrut
+    iso3c: EGY
+    shapeID: 37247803B43857760448777
+  DikirnisAdm2EGY:
+    admin_name: Dikirnis
+    iso3c: EGY
+    shapeID: 37247803B48136170412055
+  DishnaAdm2EGY:
+    admin_name: Dishna
+    iso3c: EGY
+    shapeID: 37247803B58798403168141
+  DisuqAdm2EGY:
+    admin_name: Disuq
+    iso3c: EGY
+    shapeID: 37247803B31091771651272
+  Dumyat1Adm2EGY:
+    admin_name: Dumyat1
+    iso3c: EGY
+    shapeID: 37247803B95914699067070
+  Dumyat2Adm2EGY:
+    admin_name: Dumyat2
+    iso3c: EGY
+    shapeID: 37247803B80860993707274
+  DumyatAdm2EGY:
+    admin_name: Dumyat
+    iso3c: EGY
+    shapeID: 37247803B80197492831052
+  DumyatAl-GadidaAdm2EGY:
+    admin_name: DumyatAl-Gadida
+    iso3c: EGY
+    shapeID: 37247803B6997097478011
+  DuqqIAdm2EGY:
+    admin_name: DuqqI
+    iso3c: EGY
+    shapeID: 37247803B46347292779018
+  DyarbNigmAdm2EGY:
+    admin_name: DyarbNigm
+    iso3c: EGY
+    shapeID: 37247803B60189516177334
+  El-IbrahimiyaAdm2EGY:
+    admin_name: El-Ibrahimiya
+    iso3c: EGY
+    shapeID: 37247803B97743479870089
+  ElArish1Adm2EGY:
+    admin_name: ElArish1
+    iso3c: EGY
+    shapeID: 37247803B82765364508611
+  ElArish2Adm2EGY:
+    admin_name: ElArish2
+    iso3c: EGY
+    shapeID: 37247803B92931346383246
+  ElArish3Adm2EGY:
+    admin_name: ElArish3
+    iso3c: EGY
+    shapeID: 37247803B18293726613988
+  ElArish4Adm2EGY:
+    admin_name: ElArish4
+    iso3c: EGY
+    shapeID: 37247803B14702199074319
+  ElMahallaElKobra1Adm2EGY:
+    admin_name: ElMahallaElKobra1
+    iso3c: EGY
+    shapeID: 37247803B33449651537702
+  ElMahallaElKobra2Adm2EGY:
+    admin_name: ElMahallaElKobra2
+    iso3c: EGY
+    shapeID: 37247803B13399468350664
+  ElMahallaElKobraAdm2EGY:
+    admin_name: ElMahallaElKobra
+    iso3c: EGY
+    shapeID: 37247803B79184551516010
+  ElMansora1Adm2EGY:
+    admin_name: ElMansora1
+    iso3c: EGY
+    shapeID: 37247803B85247487045844
+  ElMansoraAdm2EGY:
+    admin_name: ElMansora
+    iso3c: EGY
+    shapeID: 37247803B83073428854351
+  EMansora2Adm2EGY:
+    admin_name: EMansora2
+    iso3c: EGY
+    shapeID: 37247803B17472786437270
+  FaiyumGovernorateAdm1EGY:
+    admin_name: FaiyumGovernorate
+    iso3c: EGY
+    shapeID: 46179711B43356691250297
+  FaqusAdm2EGY:
+    admin_name: Faqus
+    iso3c: EGY
+    shapeID: 37247803B81892076694929
+  FariskurAdm2EGY:
+    admin_name: Fariskur
+    iso3c: EGY
+    shapeID: 37247803B71323814972136
+  FarshutAdm2EGY:
+    admin_name: Farshut
+    iso3c: EGY
+    shapeID: 37247803B34364320668484
+  FayidAdm2EGY:
+    admin_name: Fayid
+    iso3c: EGY
+    shapeID: 37247803B37861588601733
+  FaysalAdm2EGY:
+    admin_name: Faysal
+    iso3c: EGY
+    shapeID: 37247803B30609980444918
+  FayyumAdm2EGY:
+    admin_name: Fayyum
+    iso3c: EGY
+    shapeID: 37247803B19900063663669
+  FayyumCityAdm2EGY:
+    admin_name: FayyumCity
+    iso3c: EGY
+    shapeID: 37247803B49261326337106
+  FuwwaAdm2EGY:
+    admin_name: Fuwwa
+    iso3c: EGY
+    shapeID: 37247803B18830247212538
+  GamaliyyaAdm2EGY:
+    admin_name: Gamaliyya
+    iso3c: EGY
+    shapeID: 37247803B35159038955302
+  GamsaAdm2EGY:
+    admin_name: Gamsa
+    iso3c: EGY
+    shapeID: 37247803B6242604579963
+  GharbiyyaGovernorateAdm1EGY:
+    admin_name: GharbiyyaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B78983565091897
+  GirgaAdm2EGY:
+    admin_name: Girga
+    iso3c: EGY
+    shapeID: 37247803B10377703685184
+  GizaAdm2EGY:
+    admin_name: Giza
+    iso3c: EGY
+    shapeID: 37247803B55829024150134
+  GizaGovernorateAdm1EGY:
+    admin_name: GizaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B67626682469511
+  GuhaynaAl-GharbiyyaAdm2EGY:
+    admin_name: GuhaynaAl-Gharbiyya
+    iso3c: EGY
+    shapeID: 37247803B67659065091710
+  HadaiqAl-QubbaAdm2EGY:
+    admin_name: HadaiqAl-Qubba
+    iso3c: EGY
+    shapeID: 37247803B1921003738807
+  HalayibAdm2EGY:
+    admin_name: Halayib
+    iso3c: EGY
+    shapeID: 37247803B74067375685147
+  HihyaAdm2EGY:
+    admin_name: Hihya
+    iso3c: EGY
+    shapeID: 37247803B80618316463204
+  HilwanAdm2EGY:
+    admin_name: Hilwan
+    iso3c: EGY
+    shapeID: 37247803B18472339316050
+  Hurghada1Adm2EGY:
+    admin_name: Hurghada1
+    iso3c: EGY
+    shapeID: 37247803B61358518780197
+  Hurghada2Adm2EGY:
+    admin_name: Hurghada2
+    iso3c: EGY
+    shapeID: 37247803B98457599359411
+  HushIsaAdm2EGY:
+    admin_name: HushIsa
+    iso3c: EGY
+    shapeID: 37247803B77234514351972
+  HwamdeiaAdm2EGY:
+    admin_name: Hwamdeia
+    iso3c: EGY
+    shapeID: 37247803B31369022265166
+  IdkuAdm2EGY:
+    admin_name: Idku
+    iso3c: EGY
+    shapeID: 37247803B4110362295427
+  ImbabaAdm2EGY:
+    admin_name: Imbaba
+    iso3c: EGY
+    shapeID: 37247803B14597497558400
+  IsmailiaGovernorateAdm1EGY:
+    admin_name: IsmailiaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B4202910882635
+  Ismailiyya1Adm2EGY:
+    admin_name: Ismailiyya1
+    iso3c: EGY
+    shapeID: 37247803B86792300989473
+  Ismailiyya2Adm2EGY:
+    admin_name: Ismailiyya2
+    iso3c: EGY
+    shapeID: 37247803B84345161552096
+  Ismailiyya3Adm2EGY:
+    admin_name: Ismailiyya3
+    iso3c: EGY
+    shapeID: 37247803B16335235875864
+  IsmailiyyaAdm2EGY:
+    admin_name: Ismailiyya
+    iso3c: EGY
+    shapeID: 37247803B77757966140043
+  IsnaAdm2EGY:
+    admin_name: Isna
+    iso3c: EGY
+    shapeID: 37247803B29149830762978
+  ItayAl-BarudAdm2EGY:
+    admin_name: ItayAl-Barud
+    iso3c: EGY
+    shapeID: 37247803B96571076642873
+  KafrAl-DawwarAdm2EGY:
+    admin_name: KafrAl-Dawwar
+    iso3c: EGY
+    shapeID: 37247803B70717043240627
+  KafrAl-ShaykhAdm2EGY:
+    admin_name: KafrAl-Shaykh
+    iso3c: EGY
+    shapeID: 37247803B88656028982840
+  KafrAl-ZayyatAdm2EGY:
+    admin_name: KafrAl-Zayyat
+    iso3c: EGY
+    shapeID: 37247803B98548852573050
+  Kafrel-SheikhGovernorateAdm1EGY:
+    admin_name: Kafrel-SheikhGovernorate
+    iso3c: EGY
+    shapeID: 46179711B94393740490008
+  KafrSadAdm2EGY:
+    admin_name: KafrSad
+    iso3c: EGY
+    shapeID: 37247803B5447548481781
+  KafrSaqrAdm2EGY:
+    admin_name: KafrSaqr
+    iso3c: EGY
+    shapeID: 37247803B80912790531935
+  KafrShukrAdm2EGY:
+    admin_name: KafrShukr
+    iso3c: EGY
+    shapeID: 37247803B61393331220836
+  KardasaAdm2EGY:
+    admin_name: Kardasa
+    iso3c: EGY
+    shapeID: 37247803B74669546915316
+  KarmuzAdm2EGY:
+    admin_name: Karmuz
+    iso3c: EGY
+    shapeID: 37247803B60489712487225
+  KawtherAdm2EGY:
+    admin_name: Kawther
+    iso3c: EGY
+    shapeID: 37247803B38602183359422
+  KesmAl-minyaAdm2EGY:
+    admin_name: KesmAl-minya
+    iso3c: EGY
+    shapeID: 37247803B97028957261557
+  KesmAwalAssuitAdm2EGY:
+    admin_name: KesmAwalAssuit
+    iso3c: EGY
+    shapeID: 37247803B33059704038679
+  KesmMallawiAdm2EGY:
+    admin_name: KesmMallawi
+    iso3c: EGY
+    shapeID: 37247803B87955288089668
+  KesmTahtaAdm2EGY:
+    admin_name: KesmTahta
+    iso3c: EGY
+    shapeID: 37247803B59901173509251
+  KesmthanAlRamlAdm2EGY:
+    admin_name: KesmthanAlRaml
+    iso3c: EGY
+    shapeID: 37247803B61972877463363
+  KesmThanAssuitAdm2EGY:
+    admin_name: KesmThanAssuit
+    iso3c: EGY
+    shapeID: 37247803B53748377361433
+  KhsosAdm2EGY:
+    admin_name: Khsos
+    iso3c: EGY
+    shapeID: 37247803B74269871636707
+  KumHamadaAdm2EGY:
+    admin_name: KumHamada
+    iso3c: EGY
+    shapeID: 37247803B37481118609375
+  KumUmbuAdm2EGY:
+    admin_name: KumUmbu
+    iso3c: EGY
+    shapeID: 37247803B5042289926655
+  LuxorAdm2EGY:
+    admin_name: Luxor
+    iso3c: EGY
+    shapeID: 37247803B96963536963151
+  LuxorGovernateAdm1EGY:
+    admin_name: LuxorGovernate
+    iso3c: EGY
+    shapeID: 46179711B25362750888095
+  MaadiAdm2EGY:
+    admin_name: Maadi
+    iso3c: EGY
+    shapeID: 37247803B90563077233192
+  MadinatNasr-2Adm2EGY:
+    admin_name: MadinatNasr-2
+    iso3c: EGY
+    shapeID: 37247803B60267904610722
+  MahaletDemnaAdm2EGY:
+    admin_name: MahaletDemna
+    iso3c: EGY
+    shapeID: 37247803B51586038654960
+  ManfalutAdm2EGY:
+    admin_name: Manfalut
+    iso3c: EGY
+    shapeID: 37247803B38708414170128
+  ManzalaAdm2EGY:
+    admin_name: Manzala
+    iso3c: EGY
+    shapeID: 37247803B21688775597596
+  MargAdm2EGY:
+    admin_name: Marg
+    iso3c: EGY
+    shapeID: 37247803B51665438591487
+  MarkzAbuQurqasAdm2EGY:
+    admin_name: MarkzAbuQurqas
+    iso3c: EGY
+    shapeID: 37247803B9734537557155
+  MarkzAlIdwaAdm2EGY:
+    admin_name: MarkzAlIdwa
+    iso3c: EGY
+    shapeID: 37247803B26025252880900
+  MarkzAlMinyaAdm2EGY:
+    admin_name: MarkzAlMinya
+    iso3c: EGY
+    shapeID: 37247803B71676379887746
+  MarkzBaniMazarAdm2EGY:
+    admin_name: MarkzBaniMazar
+    iso3c: EGY
+    shapeID: 37247803B20583905741630
+  MarkzDirMawasAdm2EGY:
+    admin_name: MarkzDirMawas
+    iso3c: EGY
+    shapeID: 37247803B40134172984025
+  MarkzMaghaghaAdm2EGY:
+    admin_name: MarkzMaghagha
+    iso3c: EGY
+    shapeID: 37247803B21152276423955
+  MarkzMallawiAdm2EGY:
+    admin_name: MarkzMallawi
+    iso3c: EGY
+    shapeID: 37247803B90937698610862
+  MarkzMatayAdm2EGY:
+    admin_name: MarkzMatay
+    iso3c: EGY
+    shapeID: 37247803B33553459827704
+  MarkzSamalutAdm2EGY:
+    admin_name: MarkzSamalut
+    iso3c: EGY
+    shapeID: 37247803B46419468197970
+  MarsaAlamAdm2EGY:
+    admin_name: MarsaAlam
+    iso3c: EGY
+    shapeID: 37247803B19297711577028
+  MarsaMatruhAdm2EGY:
+    admin_name: MarsaMatruh
+    iso3c: EGY
+    shapeID: 37247803B7137912263252
+  MashtulAl-SuqAdm2EGY:
+    admin_name: MashtulAl-Suq
+    iso3c: EGY
+    shapeID: 37247803B39026546430649
+  MatariyyaAdm2EGY:
+    admin_name: Matariyya
+    iso3c: EGY
+    shapeID: 37247803B28167369066586
+  MatrouhGovernorateAdm1EGY:
+    admin_name: MatrouhGovernorate
+    iso3c: EGY
+    shapeID: 46179711B33216026370082
+  MinaAl-BasalAdm2EGY:
+    admin_name: MinaAl-Basal
+    iso3c: EGY
+    shapeID: 37247803B6072823038125
+  MinshatNasirAdm2EGY:
+    admin_name: MinshatNasir
+    iso3c: EGY
+    shapeID: 37247803B62139513677683
+  MinufAdm2EGY:
+    admin_name: Minuf
+    iso3c: EGY
+    shapeID: 37247803B35886288843325
+  MinufCityAdm2EGY:
+    admin_name: MinufCity
+    iso3c: EGY
+    shapeID: 37247803B55746965305944
+  MinyaAl-NasrAdm2EGY:
+    admin_name: MinyaAl-Nasr
+    iso3c: EGY
+    shapeID: 37247803B87041728070842
+  Minyaal-QamhAdm2EGY:
+    admin_name: Minyaal-Qamh
+    iso3c: EGY
+    shapeID: 37247803B22128077926758
+  MinyaGovernateAdm1EGY:
+    admin_name: MinyaGovernate
+    iso3c: EGY
+    shapeID: 46179711B7819508184782
+  Misral-GadidaAdm2EGY:
+    admin_name: Misral-Gadida
+    iso3c: EGY
+    shapeID: 37247803B70915432571750
+  MisrAl-QadimaAdm2EGY:
+    admin_name: MisrAl-Qadima
+    iso3c: EGY
+    shapeID: 37247803B34541492244214
+  MitGhamrAdm2EGY:
+    admin_name: MitGhamr
+    iso3c: EGY
+    shapeID: 37247803B10909701940084
+  MItSalsilAdm2EGY:
+    admin_name: MItSalsil
+    iso3c: EGY
+    shapeID: 37247803B51096510617520
+  MitubasAdm2EGY:
+    admin_name: Mitubas
+    iso3c: EGY
+    shapeID: 37247803B73956026156280
+  MonufiaGovernorateAdm1EGY:
+    admin_name: MonufiaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B49513585270152
+  Mubark-SharqTafreaAdm2EGY:
+    admin_name: Mubark-SharqTafrea
+    iso3c: EGY
+    shapeID: 37247803B27460825727162
+  MuharamBikAdm2EGY:
+    admin_name: MuharamBik
+    iso3c: EGY
+    shapeID: 37247803B18141858630320
+  MuntazahAdm2EGY:
+    admin_name: Muntazah
+    iso3c: EGY
+    shapeID: 37247803B90463856595624
+  MuskiAdm2EGY:
+    admin_name: Muski
+    iso3c: EGY
+    shapeID: 37247803B88500614059504
+  NagHammadiAdm2EGY:
+    admin_name: NagHammadi
+    iso3c: EGY
+    shapeID: 37247803B20461221508658
+  NakhlAdm2EGY:
+    admin_name: Nakhl
+    iso3c: EGY
+    shapeID: 37247803B50825531526089
+  NaqadaAdm2EGY:
+    admin_name: Naqada
+    iso3c: EGY
+    shapeID: 37247803B87719226438942
+  NasirAdm2EGY:
+    admin_name: Nasir
+    iso3c: EGY
+    shapeID: 37247803B95648929265509
+  NasrAdm2EGY:
+    admin_name: Nasr
+    iso3c: EGY
+    shapeID: 37247803B32135052764998
+  NasrCityAdm2EGY:
+    admin_name: NasrCity
+    iso3c: EGY
+    shapeID: 37247803B64528254011318
+  NebroAdm2EGY:
+    admin_name: Nebro
+    iso3c: EGY
+    shapeID: 37247803B57477737935705
+  NewCairo-1Adm2EGY:
+    admin_name: NewCairo-1
+    iso3c: EGY
+    shapeID: 37247803B99181648743437
+  NewCairo-2Adm2EGY:
+    admin_name: NewCairo-2
+    iso3c: EGY
+    shapeID: 37247803B58056872224952
+  NewCairo-3Adm2EGY:
+    admin_name: NewCairo-3
+    iso3c: EGY
+    shapeID: 37247803B49811870233448
+  NewMinyaAdm2EGY:
+    admin_name: NewMinya
+    iso3c: EGY
+    shapeID: 37247803B40620949995251
+  NewValleyGovernorateAdm1EGY:
+    admin_name: NewValleyGovernorate
+    iso3c: EGY
+    shapeID: 46179711B64218004276609
+  NorthCoastAdm2EGY:
+    admin_name: NorthCoast
+    iso3c: EGY
+    shapeID: 37247803B38142631960117
+  NorthSinaiGovernorateAdm1EGY:
+    admin_name: NorthSinaiGovernorate
+    iso3c: EGY
+    shapeID: 46179711B72666466596415
+  NubariyyaWestAdm2EGY:
+    admin_name: NubariyyaWest
+    iso3c: EGY
+    shapeID: 37247803B65833428461725
+  NuweibaAdm2EGY:
+    admin_name: Nuweiba
+    iso3c: EGY
+    shapeID: 37247803B27009685632556
+  NuzhaAdm2EGY:
+    admin_name: Nuzha
+    iso3c: EGY
+    shapeID: 37247803B21469576264473
+  ParisParisAdm2EGY:
+    admin_name: ParisParis
+    iso3c: EGY
+    shapeID: 37247803B13722182372819
+  PoliceDepartmentPortofDamiettaAdm2EGY:
+    admin_name: PoliceDepartmentPortofDamietta
+    iso3c: EGY
+    shapeID: 37247803B59643082406240
+  PoliceDepartmentPortSaidPortAdm2EGY:
+    admin_name: PoliceDepartmentPortSaidPort
+    iso3c: EGY
+    shapeID: 37247803B70757387881176
+  PortAlexandriaPoliceDepartmentAdm2EGY:
+    admin_name: PortAlexandriaPoliceDepartment
+    iso3c: EGY
+    shapeID: 37247803B3923529194747
+  PortFuad2Adm2EGY:
+    admin_name: PortFuad2
+    iso3c: EGY
+    shapeID: 37247803B45623855174262
+  PortFuadAdm2EGY:
+    admin_name: PortFuad
+    iso3c: EGY
+    shapeID: 37247803B75399963690534
+  PortSaidGovernorateAdm1EGY:
+    admin_name: PortSaidGovernorate
+    iso3c: EGY
+    shapeID: 46179711B71025405794943
+  PortSuezPoliceDepartmentAdm2EGY:
+    admin_name: PortSuezPoliceDepartment
+    iso3c: EGY
+    shapeID: 37247803B57319556498410
+  QahaAdm2EGY:
+    admin_name: Qaha
+    iso3c: EGY
+    shapeID: 37247803B19157845766633
+  QalyubAdm2EGY:
+    admin_name: Qalyub
+    iso3c: EGY
+    shapeID: 37247803B29662728717232
+  QalyubiaGovernorateAdm1EGY:
+    admin_name: QalyubiaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B47059775380229
+  QanatirAl-KhayriyyaAdm2EGY:
+    admin_name: QanatirAl-Khayriyya
+    iso3c: EGY
+    shapeID: 37247803B61234943331501
+  QantaraGharb,al-Adm2EGY:
+    admin_name: QantaraGharb,al-
+    iso3c: EGY
+    shapeID: 37247803B15873621471618
+  QantaraSharq,al-Adm2EGY:
+    admin_name: QantaraSharq,al-
+    iso3c: EGY
+    shapeID: 37247803B91574784842387
+  QasimaAdm2EGY:
+    admin_name: Qasima
+    iso3c: EGY
+    shapeID: 37247803B24800496222401
+  QasrAl-NileAdm2EGY:
+    admin_name: QasrAl-Nile
+    iso3c: EGY
+    shapeID: 37247803B52731964573716
+  QenaGovernorateAdm1EGY:
+    admin_name: QenaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B60822011452178
+  QiftAdm2EGY:
+    admin_name: Qift
+    iso3c: EGY
+    shapeID: 37247803B3351007317987
+  QillinAdm2EGY:
+    admin_name: Qillin
+    iso3c: EGY
+    shapeID: 37247803B73362886902816
+  QinaAdm2EGY:
+    admin_name: Qina
+    iso3c: EGY
+    shapeID: 37247803B63367317087021
+  QinaCityAdm2EGY:
+    admin_name: QinaCity
+    iso3c: EGY
+    shapeID: 37247803B94417968817411
+  QurinAdm2EGY:
+    admin_name: Qurin
+    iso3c: EGY
+    shapeID: 37247803B18399614023642
+  QusAdm2EGY:
+    admin_name: Qus
+    iso3c: EGY
+    shapeID: 37247803B95427647060127
+  QusirAdm2EGY:
+    admin_name: Qusir
+    iso3c: EGY
+    shapeID: 37247803B34734253794751
+  QuturAdm2EGY:
+    admin_name: Qutur
+    iso3c: EGY
+    shapeID: 37247803B52105005453844
+  QuwisnaAdm2EGY:
+    admin_name: Quwisna
+    iso3c: EGY
+    shapeID: 37247803B73326223517768
+  RafahAdm2EGY:
+    admin_name: Rafah
+    iso3c: EGY
+    shapeID: 37247803B35204215208430
+  Rasal-BarAdm2EGY:
+    admin_name: Rasal-Bar
+    iso3c: EGY
+    shapeID: 37247803B87284090425389
+  RasGharibAdm2EGY:
+    admin_name: RasGharib
+    iso3c: EGY
+    shapeID: 37247803B82534825994477
+  RashidAdm2EGY:
+    admin_name: Rashid
+    iso3c: EGY
+    shapeID: 37247803B15072818430421
+  RasSidrAdm2EGY:
+    admin_name: RasSidr
+    iso3c: EGY
+    shapeID: 37247803B11741715008069
+  RedSeaGovernorateAdm1EGY:
+    admin_name: RedSeaGovernorate
+    iso3c: EGY
+    shapeID: 46179711B94144647788557
+  RiyadAdm2EGY:
+    admin_name: Riyad
+    iso3c: EGY
+    shapeID: 37247803B2291437615199
+  RudAl-FaragAdm2EGY:
+    admin_name: RudAl-Farag
+    iso3c: EGY
+    shapeID: 37247803B92272311463105
+  RummanaAdm2EGY:
+    admin_name: Rummana
+    iso3c: EGY
+    shapeID: 37247803B2824633862511
+  SadatCityAdm2EGY:
+    admin_name: SadatCity
+    iso3c: EGY
+    shapeID: 37247803B47904528840221
+  SafAdm2EGY:
+    admin_name: Saf
+    iso3c: EGY
+    shapeID: 37247803B22185494316404
+  SafagaAdm2EGY:
+    admin_name: Safaga
+    iso3c: EGY
+    shapeID: 37247803B18851026884182
+  SahilSilimAdm2EGY:
+    admin_name: SahilSilim
+    iso3c: EGY
+    shapeID: 37247803B82943552263009
+  SalloumAdm2EGY:
+    admin_name: Salloum
+    iso3c: EGY
+    shapeID: 37247803B99889104547734
+  SamannudAdm2EGY:
+    admin_name: Samannud
+    iso3c: EGY
+    shapeID: 37247803B28688372464969
+  SantaAdm2EGY:
+    admin_name: Santa
+    iso3c: EGY
+    shapeID: 37247803B92664797200587
+  SantKatrinAdm2EGY:
+    admin_name: SantKatrin
+    iso3c: EGY
+    shapeID: 37247803B38427943153509
+  SaqultaAdm2EGY:
+    admin_name: Saqulta
+    iso3c: EGY
+    shapeID: 37247803B11540085647408
+  SayyidaZainabAdm2EGY:
+    admin_name: SayyidaZainab
+    iso3c: EGY
+    shapeID: 37247803B41278628102289
+  ShallatinAdm2EGY:
+    admin_name: Shallatin
+    iso3c: EGY
+    shapeID: 37247803B26246524516343
+  Sharmel-SheikhAdm2EGY:
+    admin_name: Sharmel-Sheikh
+    iso3c: EGY
+    shapeID: 37247803B39887765706268
+  ShaykhZayedAdm2EGY:
+    admin_name: ShaykhZayed
+    iso3c: EGY
+    shapeID: 37247803B86158206640686
+  ShaykhZuwaydAdm2EGY:
+    admin_name: ShaykhZuwayd
+    iso3c: EGY
+    shapeID: 37247803B84548629991625
+  Shibinal-KumAdm2EGY:
+    admin_name: Shibinal-Kum
+    iso3c: EGY
+    shapeID: 37247803B46387157880741
+  Shibinal-QanatirAdm2EGY:
+    admin_name: Shibinal-Qanatir
+    iso3c: EGY
+    shapeID: 37247803B12662956160688
+  ShirbinAdm2EGY:
+    admin_name: Shirbin
+    iso3c: EGY
+    shapeID: 37247803B76793683664752
+  ShroqAdm2EGY:
+    admin_name: Shroq
+    iso3c: EGY
+    shapeID: 37247803B54771343993886
+  ShubraAdm2EGY:
+    admin_name: Shubra
+    iso3c: EGY
+    shapeID: 37247803B2980274366801
+  ShubraAl-Khayma1Adm2EGY:
+    admin_name: ShubraAl-Khayma1
+    iso3c: EGY
+    shapeID: 37247803B87868406017087
+  ShubraAl-Khayma2Adm2EGY:
+    admin_name: ShubraAl-Khayma2
+    iso3c: EGY
+    shapeID: 37247803B84983151070332
+  ShubraKhîtAdm2EGY:
+    admin_name: ShubraKhît
+    iso3c: EGY
+    shapeID: 37247803B97013363059523
+  SidfaAdm2EGY:
+    admin_name: Sidfa
+    iso3c: EGY
+    shapeID: 37247803B72914028370389
+  SidiBaraniAdm2EGY:
+    admin_name: SidiBarani
+    iso3c: EGY
+    shapeID: 37247803B34514127980105
+  SidiGabirAdm2EGY:
+    admin_name: SidiGabir
+    iso3c: EGY
+    shapeID: 37247803B76316502393625
+  SidiSalimAdm2EGY:
+    admin_name: SidiSalim
+    iso3c: EGY
+    shapeID: 37247803B12762735296795
+  SinbillawinAdm2EGY:
+    admin_name: Sinbillawin
+    iso3c: EGY
+    shapeID: 37247803B43017025732324
+  SinurasAdm2EGY:
+    admin_name: Sinuras
+    iso3c: EGY
+    shapeID: 37247803B57049820860179
+  SirsAl-LayyanaCityAdm2EGY:
+    admin_name: SirsAl-LayyanaCity
+    iso3c: EGY
+    shapeID: 37247803B52946313788554
+  SiwaAdm2EGY:
+    admin_name: Siwa
+    iso3c: EGY
+    shapeID: 37247803B75450946768070
+  SohagGovernorateAdm1EGY:
+    admin_name: SohagGovernorate
+    iso3c: EGY
+    shapeID: 46179711B46271687964482
+  SouthSinaiGovernorateAdm1EGY:
+    admin_name: SouthSinaiGovernorate
+    iso3c: EGY
+    shapeID: 46179711B69358139854301
+  SuezAdm2EGY:
+    admin_name: Suez
+    iso3c: EGY
+    shapeID: 37247803B22529416419300
+  SuezGovernorateAdm1EGY:
+    admin_name: SuezGovernorate
+    iso3c: EGY
+    shapeID: 46179711B81451673929301
+  Suhag-2Adm2EGY:
+    admin_name: Suhag-2
+    iso3c: EGY
+    shapeID: 37247803B53988405424911
+  SuhagAdm2EGY:
+    admin_name: Suhag
+    iso3c: EGY
+    shapeID: 37247803B36599937729420
+  SuhagCityAdm2EGY:
+    admin_name: SuhagCity
+    iso3c: EGY
+    shapeID: 37247803B45887361748458
+  SumustaAdm2EGY:
+    admin_name: Sumusta
+    iso3c: EGY
+    shapeID: 37247803B50724482845491
+  TabaAdm2EGY:
+    admin_name: Taba
+    iso3c: EGY
+    shapeID: 37247803B8228928204650
+  TahtaAdm2EGY:
+    admin_name: Tahta
+    iso3c: EGY
+    shapeID: 37247803B8272861874741
+  TalaAdm2EGY:
+    admin_name: Tala
+    iso3c: EGY
+    shapeID: 37247803B52680576777799
+  Talal-Kabir,al-Adm2EGY:
+    admin_name: Talal-Kabir,al-
+    iso3c: EGY
+    shapeID: 37247803B71444962307175
+  TalkhaAdm2EGY:
+    admin_name: Talkha
+    iso3c: EGY
+    shapeID: 37247803B18011904824806
+  TamaAdm2EGY:
+    admin_name: Tama
+    iso3c: EGY
+    shapeID: 37247803B5321471482777
+  TamyaAdm2EGY:
+    admin_name: Tamya
+    iso3c: EGY
+    shapeID: 37247803B840289217117
+  TamyAl-AmdidAdm2EGY:
+    admin_name: TamyAl-Amdid
+    iso3c: EGY
+    shapeID: 37247803B352337860507
+  Tanta1Adm2EGY:
+    admin_name: Tanta1
+    iso3c: EGY
+    shapeID: 37247803B50363997957176
+  Tanta2Adm2EGY:
+    admin_name: Tanta2
+    iso3c: EGY
+    shapeID: 37247803B26296956455174
+  TantaAdm2EGY:
+    admin_name: Tanta
+    iso3c: EGY
+    shapeID: 37247803B22733539273982
+  TibapolicestationAdm2EGY:
+    admin_name: Tibapolicestation
+    iso3c: EGY
+    shapeID: 37247803B46763181924450
+  TukhAdm2EGY:
+    admin_name: Tukh
+    iso3c: EGY
+    shapeID: 37247803B54771061850383
+  TuraAdm2EGY:
+    admin_name: Tura
+    iso3c: EGY
+    shapeID: 37247803B1884066406604
+  TushakaAdm2EGY:
+    admin_name: Tushaka
+    iso3c: EGY
+    shapeID: 37247803B52387591644217
+  UmraniyyaAdm2EGY:
+    admin_name: Umraniyya
+    iso3c: EGY
+    shapeID: 37247803B30889137034133
+  WadiAl-NatrUnAdm2EGY:
+    admin_name: WadiAl-NatrUn
+    iso3c: EGY
+    shapeID: 37247803B8184364272320
+  WaraqAdm2EGY:
+    admin_name: Waraq
+    iso3c: EGY
+    shapeID: 37247803B78325352338503
+  YousefElsadeqAdm2EGY:
+    admin_name: YousefElsadeq
+    iso3c: EGY
+    shapeID: 37247803B96193438521946
+  ZamalikAdm2EGY:
+    admin_name: Zamalik
+    iso3c: EGY
+    shapeID: 37247803B72756565577460
+  Zaqaziq1Adm2EGY:
+    admin_name: Zaqaziq1
+    iso3c: EGY
+    shapeID: 37247803B90697971403179
+  Zaqaziq2Adm2EGY:
+    admin_name: Zaqaziq2
+    iso3c: EGY
+    shapeID: 37247803B33284186287576
+  ZaqaziqAdm2EGY:
+    admin_name: Zaqaziq
+    iso3c: EGY
+    shapeID: 37247803B86566880158535
+  ZarqaAdm2EGY:
+    admin_name: Zarqa
+    iso3c: EGY
+    shapeID: 37247803B96389835129643
+  ZawiyyaAl-HamraAdm2EGY:
+    admin_name: ZawiyyaAl-Hamra
+    iso3c: EGY
+    shapeID: 37247803B37865224267935
+  ZemamOutAdm2EGY:
+    admin_name: ZemamOut
+    iso3c: EGY
+    shapeID: 37247803B46264859714526
+  ZiftaAdm2EGY:
+    admin_name: Zifta
+    iso3c: EGY
+    shapeID: 37247803B22072181231059

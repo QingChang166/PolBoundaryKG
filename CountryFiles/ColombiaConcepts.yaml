@@ -1,34 +1,4321 @@
 concepts:
-    - Tolima
-    - Antioquia
-    - Atlántico
-    - Bolívar
-    - Risaralda
-    - Cesar
-    - Caldas
-    - Amazonas
-    - Cundinamarca
-    - Quindío
-    - Vichada
-    - Vaupés
-    - Santander
-    - Córdoba
-    - Putumayo
-    - Magdalena
-    - Sucre
-    - Meta
-    - LaGuajira
-    - Chocó
-    - ValledelCauca
-    - ArchipiélagodeSanAndrés,ProvidenciaySantaCatalina
-    - Cauca
-    - Caquetá
-    - Huila
-    - Guaviare
-    - Guainía
-    - BogotaCapitalDistrict
-    - Nariño
-    - Boyacá
-    - NortedeSantander
-    - Arauca
-    - Casanare
+  AbejorralAdm2COL:
+    admin_name: Abejorral
+    iso3c: COL
+    shapeID: 7082276B70847845969134
+  AbregoAdm2COL:
+    admin_name: Abrego
+    iso3c: COL
+    shapeID: 7082276B94860374492565
+  AbriaquíAdm2COL:
+    admin_name: Abriaquí
+    iso3c: COL
+    shapeID: 7082276B50161152068200
+  AcacíasAdm2COL:
+    admin_name: Acacías
+    iso3c: COL
+    shapeID: 7082276B9890611779462
+  AcandíAdm2COL:
+    admin_name: Acandí
+    iso3c: COL
+    shapeID: 7082276B91740979880715
+  AcevedoAdm2COL:
+    admin_name: Acevedo
+    iso3c: COL
+    shapeID: 7082276B6986127045268
+  AchíAdm2COL:
+    admin_name: Achí
+    iso3c: COL
+    shapeID: 7082276B83217917956191
+  AgradoAdm2COL:
+    admin_name: Agrado
+    iso3c: COL
+    shapeID: 7082276B63113141901274
+  AguachicaAdm2COL:
+    admin_name: Aguachica
+    iso3c: COL
+    shapeID: 7082276B33891550919089
+  AguadaAdm2COL:
+    admin_name: Aguada
+    iso3c: COL
+    shapeID: 7082276B46903478883308
+  AguadasAdm2COL:
+    admin_name: Aguadas
+    iso3c: COL
+    shapeID: 7082276B11413652619505
+  AguaDeDiosAdm2COL:
+    admin_name: AguaDeDios
+    iso3c: COL
+    shapeID: 7082276B68693842592572
+  AguazulAdm2COL:
+    admin_name: Aguazul
+    iso3c: COL
+    shapeID: 7082276B87495791799941
+  AgustínCodazziAdm2COL:
+    admin_name: AgustínCodazzi
+    iso3c: COL
+    shapeID: 7082276B21922340436225
+  AipeAdm2COL:
+    admin_name: Aipe
+    iso3c: COL
+    shapeID: 7082276B31723879079802
+  Albán(SanJosé)Adm2COL:
+    admin_name: Albán(SanJosé)
+    iso3c: COL
+    shapeID: 7082276B58803331462787
+  AlbánAdm2COL:
+    admin_name: Albán
+    iso3c: COL
+    shapeID: 7082276B79549864152225
+  AlbaniaAdm2COL:
+    admin_name: Albania
+    iso3c: COL
+    shapeID: 7082276B96859535254868
+  AlcaláAdm2COL:
+    admin_name: Alcalá
+    iso3c: COL
+    shapeID: 7082276B36252942932690
+  AldanaAdm2COL:
+    admin_name: Aldana
+    iso3c: COL
+    shapeID: 7082276B17700118356894
+  AlejandríaAdm2COL:
+    admin_name: Alejandría
+    iso3c: COL
+    shapeID: 7082276B80889552821395
+  AlgarroboAdm2COL:
+    admin_name: Algarrobo
+    iso3c: COL
+    shapeID: 7082276B14520345470413
+  AlgecirasAdm2COL:
+    admin_name: Algeciras
+    iso3c: COL
+    shapeID: 7082276B40300003971845
+  AlmaguerAdm2COL:
+    admin_name: Almaguer
+    iso3c: COL
+    shapeID: 7082276B90942286802218
+  AlmeidaAdm2COL:
+    admin_name: Almeida
+    iso3c: COL
+    shapeID: 7082276B20478677615744
+  AlpujarraAdm2COL:
+    admin_name: Alpujarra
+    iso3c: COL
+    shapeID: 7082276B44819240865688
+  AltamiraAdm2COL:
+    admin_name: Altamira
+    iso3c: COL
+    shapeID: 7082276B22050163903058
+  AltoBaudó(PieDePato)Adm2COL:
+    admin_name: AltoBaudó(PieDePato)
+    iso3c: COL
+    shapeID: 7082276B3053585301138
+  AltosDelRosarioAdm2COL:
+    admin_name: AltosDelRosario
+    iso3c: COL
+    shapeID: 7082276B5966279744772
+  AlvaradoAdm2COL:
+    admin_name: Alvarado
+    iso3c: COL
+    shapeID: 7082276B11869280897475
+  AmagáAdm2COL:
+    admin_name: Amagá
+    iso3c: COL
+    shapeID: 7082276B93936498493280
+  AmalfiAdm2COL:
+    admin_name: Amalfi
+    iso3c: COL
+    shapeID: 7082276B96310661388282
+  AmazonasAdm1COL:
+    admin_name: Amazonas
+    iso3c: COL
+    shapeID: 13589884B76063723503478
+  AmbalemaAdm2COL:
+    admin_name: Ambalema
+    iso3c: COL
+    shapeID: 7082276B77811687937909
+  AnapoimaAdm2COL:
+    admin_name: Anapoima
+    iso3c: COL
+    shapeID: 7082276B58765294535219
+  AncuyaAdm2COL:
+    admin_name: Ancuya
+    iso3c: COL
+    shapeID: 7082276B24246563186016
+  AndalucíaAdm2COL:
+    admin_name: Andalucía
+    iso3c: COL
+    shapeID: 7082276B16460113853729
+  AndesAdm2COL:
+    admin_name: Andes
+    iso3c: COL
+    shapeID: 7082276B30380127815857
+  AngelópolisAdm2COL:
+    admin_name: Angelópolis
+    iso3c: COL
+    shapeID: 7082276B44826680756830
+  AngosturaAdm2COL:
+    admin_name: Angostura
+    iso3c: COL
+    shapeID: 7082276B23180576044549
+  AnolaimaAdm2COL:
+    admin_name: Anolaima
+    iso3c: COL
+    shapeID: 7082276B71021669842786
+  AnoríAdm2COL:
+    admin_name: Anorí
+    iso3c: COL
+    shapeID: 7082276B24533406562220
+  AnsermaAdm2COL:
+    admin_name: Anserma
+    iso3c: COL
+    shapeID: 7082276B96193110917166
+  AnsermanuevoAdm2COL:
+    admin_name: Ansermanuevo
+    iso3c: COL
+    shapeID: 7082276B75435633270321
+  AntioquiaAdm1COL:
+    admin_name: Antioquia
+    iso3c: COL
+    shapeID: 13589884B3780741375954
+  AnzáAdm2COL:
+    admin_name: Anzá
+    iso3c: COL
+    shapeID: 7082276B98317886135707
+  AnzoáteguiAdm2COL:
+    admin_name: Anzoátegui
+    iso3c: COL
+    shapeID: 7082276B15169837386348
+  ApartadóAdm2COL:
+    admin_name: Apartadó
+    iso3c: COL
+    shapeID: 7082276B99397100908240
+  ApíaAdm2COL:
+    admin_name: Apía
+    iso3c: COL
+    shapeID: 7082276B94822224819710
+  ApuloAdm2COL:
+    admin_name: Apulo
+    iso3c: COL
+    shapeID: 7082276B77880035586372
+  AquitaniaAdm2COL:
+    admin_name: Aquitania
+    iso3c: COL
+    shapeID: 7082276B52968134659257
+  AracatacaAdm2COL:
+    admin_name: Aracataca
+    iso3c: COL
+    shapeID: 7082276B34642639591656
+  AranzazuAdm2COL:
+    admin_name: Aranzazu
+    iso3c: COL
+    shapeID: 7082276B40777763958503
+  AratocaAdm2COL:
+    admin_name: Aratoca
+    iso3c: COL
+    shapeID: 7082276B70288083001558
+  AraucaAdm1COL:
+    admin_name: Arauca
+    iso3c: COL
+    shapeID: 13589884B25788978851461
+  AraucaAdm2COL:
+    admin_name: Arauca
+    iso3c: COL
+    shapeID: 7082276B76814651219930
+  ArauquitaAdm2COL:
+    admin_name: Arauquita
+    iso3c: COL
+    shapeID: 7082276B94752560507760
+  ArbeláezAdm2COL:
+    admin_name: Arbeláez
+    iso3c: COL
+    shapeID: 7082276B25654639268061
+  ArboledaAdm2COL:
+    admin_name: Arboleda
+    iso3c: COL
+    shapeID: 7082276B56257511215317
+  ArboledasAdm2COL:
+    admin_name: Arboledas
+    iso3c: COL
+    shapeID: 7082276B9880094240393
+  ArboletesAdm2COL:
+    admin_name: Arboletes
+    iso3c: COL
+    shapeID: 7082276B51622711378413
+  ArcabucoAdm2COL:
+    admin_name: Arcabuco
+    iso3c: COL
+    shapeID: 7082276B22585888594081
+  ArchipiélagodeSanAndrés,ProvidenciaySantaCatalinaAdm1COL:
+    admin_name: ArchipiélagodeSanAndrés,ProvidenciaySantaCatalina
+    iso3c: COL
+    shapeID: 13589884B18807997781037
+  ArenalAdm2COL:
+    admin_name: Arenal
+    iso3c: COL
+    shapeID: 7082276B96052699629783
+  ArgeliaAdm2COL:
+    admin_name: Argelia
+    iso3c: COL
+    shapeID: 7082276B45254124580700
+  AriguaníAdm2COL:
+    admin_name: Ariguaní
+    iso3c: COL
+    shapeID: 7082276B61521113945652
+  ArjonaAdm2COL:
+    admin_name: Arjona
+    iso3c: COL
+    shapeID: 7082276B1318225451124
+  ArmeniaAdm2COL:
+    admin_name: Armenia
+    iso3c: COL
+    shapeID: 7082276B11935891102033
+  ArmeroAdm2COL:
+    admin_name: Armero
+    iso3c: COL
+    shapeID: 7082276B14946776938567
+  ArroyohondoAdm2COL:
+    admin_name: Arroyohondo
+    iso3c: COL
+    shapeID: 7082276B96996063551718
+  AstreaAdm2COL:
+    admin_name: Astrea
+    iso3c: COL
+    shapeID: 7082276B48671387332315
+  AtacoAdm2COL:
+    admin_name: Ataco
+    iso3c: COL
+    shapeID: 7082276B46910600615259
+  AtlánticoAdm1COL:
+    admin_name: Atlántico
+    iso3c: COL
+    shapeID: 13589884B77991835419453
+  Atrato(Yuto)Adm2COL:
+    admin_name: Atrato(Yuto)
+    iso3c: COL
+    shapeID: 7082276B67821658402915
+  AyapelAdm2COL:
+    admin_name: Ayapel
+    iso3c: COL
+    shapeID: 7082276B48600116890158
+  BagadóAdm2COL:
+    admin_name: Bagadó
+    iso3c: COL
+    shapeID: 7082276B12521758233842
+  BahíaSolano(Mutis)Adm2COL:
+    admin_name: BahíaSolano(Mutis)
+    iso3c: COL
+    shapeID: 7082276B67825714501436
+  BajoBaudó(Pizarro)Adm2COL:
+    admin_name: BajoBaudó(Pizarro)
+    iso3c: COL
+    shapeID: 7082276B26608751492830
+  BalboaAdm2COL:
+    admin_name: Balboa
+    iso3c: COL
+    shapeID: 7082276B98120491021397
+  BaranoaAdm2COL:
+    admin_name: Baranoa
+    iso3c: COL
+    shapeID: 7082276B40558284352114
+  BarayaAdm2COL:
+    admin_name: Baraya
+    iso3c: COL
+    shapeID: 7082276B91973001860083
+  BarbacoasAdm2COL:
+    admin_name: Barbacoas
+    iso3c: COL
+    shapeID: 7082276B69446102501587
+  BarbosaAdm2COL:
+    admin_name: Barbosa
+    iso3c: COL
+    shapeID: 7082276B35753389183496
+  BaricharaAdm2COL:
+    admin_name: Barichara
+    iso3c: COL
+    shapeID: 7082276B84209220800631
+  BarrancabermejaAdm2COL:
+    admin_name: Barrancabermeja
+    iso3c: COL
+    shapeID: 7082276B38592891469597
+  BarrancaDeUpiaAdm2COL:
+    admin_name: BarrancaDeUpia
+    iso3c: COL
+    shapeID: 7082276B26667075739233
+  BarrancasAdm2COL:
+    admin_name: Barrancas
+    iso3c: COL
+    shapeID: 7082276B63363201175642
+  BarrancoDeLobaAdm2COL:
+    admin_name: BarrancoDeLoba
+    iso3c: COL
+    shapeID: 7082276B19488322706290
+  BarrancoMinaAdm2COL:
+    admin_name: BarrancoMina
+    iso3c: COL
+    shapeID: 7082276B12505915261295
+  BecerrillAdm2COL:
+    admin_name: Becerrill
+    iso3c: COL
+    shapeID: 7082276B21429087141697
+  BelalcázarAdm2COL:
+    admin_name: Belalcázar
+    iso3c: COL
+    shapeID: 7082276B3626983095163
+  BelenAdm2COL:
+    admin_name: Belen
+    iso3c: COL
+    shapeID: 7082276B96726097904374
+  BelénAdm2COL:
+    admin_name: Belén
+    iso3c: COL
+    shapeID: 7082276B18043076208470
+  BelénDeLosAndaquíesAdm2COL:
+    admin_name: BelénDeLosAndaquíes
+    iso3c: COL
+    shapeID: 7082276B91002945363484
+  BelénDeUmbríaAdm2COL:
+    admin_name: BelénDeUmbría
+    iso3c: COL
+    shapeID: 7082276B92483962355634
+  BelloAdm2COL:
+    admin_name: Bello
+    iso3c: COL
+    shapeID: 7082276B79272217078231
+  BelmiraAdm2COL:
+    admin_name: Belmira
+    iso3c: COL
+    shapeID: 7082276B19513801384430
+  BeltránAdm2COL:
+    admin_name: Beltrán
+    iso3c: COL
+    shapeID: 7082276B10333710753159
+  BerbeoAdm2COL:
+    admin_name: Berbeo
+    iso3c: COL
+    shapeID: 7082276B20026203821701
+  BetaniaAdm2COL:
+    admin_name: Betania
+    iso3c: COL
+    shapeID: 7082276B53063145531643
+  BetéitivaAdm2COL:
+    admin_name: Betéitiva
+    iso3c: COL
+    shapeID: 7082276B99729391048733
+  BetuliaAdm2COL:
+    admin_name: Betulia
+    iso3c: COL
+    shapeID: 7082276B84924592103866
+  BituimaAdm2COL:
+    admin_name: Bituima
+    iso3c: COL
+    shapeID: 7082276B83623013495756
+  BoavitaAdm2COL:
+    admin_name: Boavita
+    iso3c: COL
+    shapeID: 7082276B25149264338042
+  BochalemaAdm2COL:
+    admin_name: Bochalema
+    iso3c: COL
+    shapeID: 7082276B10229211871917
+  Bogotá,D.c.Adm2COL:
+    admin_name: Bogotá,D.c.
+    iso3c: COL
+    shapeID: 7082276B37057214617227
+  BogotaCapitalDistrictAdm1COL:
+    admin_name: BogotaCapitalDistrict
+    iso3c: COL
+    shapeID: 13589884B40908771570386
+  BojacáAdm2COL:
+    admin_name: Bojacá
+    iso3c: COL
+    shapeID: 7082276B91905392471943
+  Bojayá(Bellavista)Adm2COL:
+    admin_name: Bojayá(Bellavista)
+    iso3c: COL
+    shapeID: 7082276B24330192528349
+  BolívarAdm1COL:
+    admin_name: Bolívar
+    iso3c: COL
+    shapeID: 13589884B96168520946689
+  BolivarAdm2COL:
+    admin_name: Bolivar
+    iso3c: COL
+    shapeID: 7082276B39966756415454
+  BolívarAdm2COL:
+    admin_name: Bolívar
+    iso3c: COL
+    shapeID: 7082276B53672126014760
+  BosconiaAdm2COL:
+    admin_name: Bosconia
+    iso3c: COL
+    shapeID: 7082276B36091945670485
+  BoyacáAdm1COL:
+    admin_name: Boyacá
+    iso3c: COL
+    shapeID: 13589884B62290921297491
+  BoyacáAdm2COL:
+    admin_name: Boyacá
+    iso3c: COL
+    shapeID: 7082276B78300809096113
+  BriceñoAdm2COL:
+    admin_name: Briceño
+    iso3c: COL
+    shapeID: 7082276B11306112242915
+  BucaramangaAdm2COL:
+    admin_name: Bucaramanga
+    iso3c: COL
+    shapeID: 7082276B15400349523065
+  BucarasicaAdm2COL:
+    admin_name: Bucarasica
+    iso3c: COL
+    shapeID: 7082276B82300032376123
+  BuenaventuraAdm2COL:
+    admin_name: Buenaventura
+    iso3c: COL
+    shapeID: 7082276B82326475607220
+  BuenavistaAdm2COL:
+    admin_name: Buenavista
+    iso3c: COL
+    shapeID: 7082276B74046727222387
+  BuenosAiresAdm2COL:
+    admin_name: BuenosAires
+    iso3c: COL
+    shapeID: 7082276B47892047719845
+  BuesacoAdm2COL:
+    admin_name: Buesaco
+    iso3c: COL
+    shapeID: 7082276B67005743436838
+  BugaAdm2COL:
+    admin_name: Buga
+    iso3c: COL
+    shapeID: 7082276B89105760254188
+  BugalagrandeAdm2COL:
+    admin_name: Bugalagrande
+    iso3c: COL
+    shapeID: 7082276B64894766259605
+  BuriticáAdm2COL:
+    admin_name: Buriticá
+    iso3c: COL
+    shapeID: 7082276B20190258274584
+  BusbanzáAdm2COL:
+    admin_name: Busbanzá
+    iso3c: COL
+    shapeID: 7082276B89812106574941
+  CabreraAdm2COL:
+    admin_name: Cabrera
+    iso3c: COL
+    shapeID: 7082276B86545792677469
+  CabuyaroAdm2COL:
+    admin_name: Cabuyaro
+    iso3c: COL
+    shapeID: 7082276B93566761030806
+  CacahualAdm2COL:
+    admin_name: Cacahual
+    iso3c: COL
+    shapeID: 7082276B48982003363918
+  CáceresAdm2COL:
+    admin_name: Cáceres
+    iso3c: COL
+    shapeID: 7082276B67484439924814
+  CachipayAdm2COL:
+    admin_name: Cachipay
+    iso3c: COL
+    shapeID: 7082276B14405151450824
+  CáchiraAdm2COL:
+    admin_name: Cáchira
+    iso3c: COL
+    shapeID: 7082276B44940516663125
+  CácotaAdm2COL:
+    admin_name: Cácota
+    iso3c: COL
+    shapeID: 7082276B39579248859745
+  CaicedoAdm2COL:
+    admin_name: Caicedo
+    iso3c: COL
+    shapeID: 7082276B63168909868721
+  CaicedoniaAdm2COL:
+    admin_name: Caicedonia
+    iso3c: COL
+    shapeID: 7082276B66968724645536
+  CaimitoAdm2COL:
+    admin_name: Caimito
+    iso3c: COL
+    shapeID: 7082276B33919985254113
+  CajamarcaAdm2COL:
+    admin_name: Cajamarca
+    iso3c: COL
+    shapeID: 7082276B39655849977507
+  CajibíoAdm2COL:
+    admin_name: Cajibío
+    iso3c: COL
+    shapeID: 7082276B54436910707179
+  CajicáAdm2COL:
+    admin_name: Cajicá
+    iso3c: COL
+    shapeID: 7082276B54625644795372
+  CalamarAdm2COL:
+    admin_name: Calamar
+    iso3c: COL
+    shapeID: 7082276B23618457670611
+  CalarcaAdm2COL:
+    admin_name: Calarca
+    iso3c: COL
+    shapeID: 7082276B90066028966732
+  CaldasAdm1COL:
+    admin_name: Caldas
+    iso3c: COL
+    shapeID: 13589884B36646919284035
+  CaldasAdm2COL:
+    admin_name: Caldas
+    iso3c: COL
+    shapeID: 7082276B54431316283540
+  CaldonoAdm2COL:
+    admin_name: Caldono
+    iso3c: COL
+    shapeID: 7082276B56423369756647
+  CaliAdm2COL:
+    admin_name: Cali
+    iso3c: COL
+    shapeID: 7082276B61798378462298
+  CaliforniaAdm2COL:
+    admin_name: California
+    iso3c: COL
+    shapeID: 7082276B83568043326279
+  CalimaAdm2COL:
+    admin_name: Calima
+    iso3c: COL
+    shapeID: 7082276B94395141643556
+  CalotoAdm2COL:
+    admin_name: Caloto
+    iso3c: COL
+    shapeID: 7082276B98035381809124
+  CampamentoAdm2COL:
+    admin_name: Campamento
+    iso3c: COL
+    shapeID: 7082276B86795157011208
+  CampoalegreAdm2COL:
+    admin_name: Campoalegre
+    iso3c: COL
+    shapeID: 7082276B79425124325602
+  CampoDeLaCruzAdm2COL:
+    admin_name: CampoDeLaCruz
+    iso3c: COL
+    shapeID: 7082276B53254947845178
+  CampohermosoAdm2COL:
+    admin_name: Campohermoso
+    iso3c: COL
+    shapeID: 7082276B14856553435658
+  CanaleteAdm2COL:
+    admin_name: Canalete
+    iso3c: COL
+    shapeID: 7082276B82675854286902
+  CañasgordasAdm2COL:
+    admin_name: Cañasgordas
+    iso3c: COL
+    shapeID: 7082276B88320735192302
+  CandelariaAdm2COL:
+    admin_name: Candelaria
+    iso3c: COL
+    shapeID: 7082276B28023975209321
+  CantagalloAdm2COL:
+    admin_name: Cantagallo
+    iso3c: COL
+    shapeID: 7082276B88554525849396
+  CaparrapiAdm2COL:
+    admin_name: Caparrapi
+    iso3c: COL
+    shapeID: 7082276B94520275581830
+  CapitanejoAdm2COL:
+    admin_name: Capitanejo
+    iso3c: COL
+    shapeID: 7082276B5259246085028
+  CaquetáAdm1COL:
+    admin_name: Caquetá
+    iso3c: COL
+    shapeID: 13589884B16144547040567
+  CáquezaAdm2COL:
+    admin_name: Cáqueza
+    iso3c: COL
+    shapeID: 7082276B82562471166978
+  CaracolíAdm2COL:
+    admin_name: Caracolí
+    iso3c: COL
+    shapeID: 7082276B21568084054771
+  CaramantaAdm2COL:
+    admin_name: Caramanta
+    iso3c: COL
+    shapeID: 7082276B65135534410958
+  CarcasíAdm2COL:
+    admin_name: Carcasí
+    iso3c: COL
+    shapeID: 7082276B77034388589017
+  CarepaAdm2COL:
+    admin_name: Carepa
+    iso3c: COL
+    shapeID: 7082276B33450375559430
+  CarmenDeApicalaAdm2COL:
+    admin_name: CarmenDeApicala
+    iso3c: COL
+    shapeID: 7082276B91357442595153
+  CarmenDeCarupaAdm2COL:
+    admin_name: CarmenDeCarupa
+    iso3c: COL
+    shapeID: 7082276B22824140960773
+  CarmenDelDarién(Curbaradó)Adm2COL:
+    admin_name: CarmenDelDarién(Curbaradó)
+    iso3c: COL
+    shapeID: 7082276B82467093202899
+  CarolinaAdm2COL:
+    admin_name: Carolina
+    iso3c: COL
+    shapeID: 7082276B54893921503227
+  CartagenaDeIndiasAdm2COL:
+    admin_name: CartagenaDeIndias
+    iso3c: COL
+    shapeID: 7082276B69747109400917
+  CartagenaDelChairáAdm2COL:
+    admin_name: CartagenaDelChairá
+    iso3c: COL
+    shapeID: 7082276B3129505860922
+  CartagoAdm2COL:
+    admin_name: Cartago
+    iso3c: COL
+    shapeID: 7082276B65356767722018
+  CarurúAdm2COL:
+    admin_name: Carurú
+    iso3c: COL
+    shapeID: 7082276B59007066817761
+  CasabiancaAdm2COL:
+    admin_name: Casabianca
+    iso3c: COL
+    shapeID: 7082276B30278837884902
+  CasanareAdm1COL:
+    admin_name: Casanare
+    iso3c: COL
+    shapeID: 13589884B21818736641406
+  CastillaLaNuevaAdm2COL:
+    admin_name: CastillaLaNueva
+    iso3c: COL
+    shapeID: 7082276B35606962606401
+  CaucaAdm1COL:
+    admin_name: Cauca
+    iso3c: COL
+    shapeID: 13589884B79790550435280
+  CaucasiaAdm2COL:
+    admin_name: Caucasia
+    iso3c: COL
+    shapeID: 7082276B49158804939428
+  CepitáAdm2COL:
+    admin_name: Cepitá
+    iso3c: COL
+    shapeID: 7082276B75602648241124
+  CeretéAdm2COL:
+    admin_name: Cereté
+    iso3c: COL
+    shapeID: 7082276B12261061715125
+  CerinzaAdm2COL:
+    admin_name: Cerinza
+    iso3c: COL
+    shapeID: 7082276B99434629826727
+  CerritoAdm2COL:
+    admin_name: Cerrito
+    iso3c: COL
+    shapeID: 7082276B90463552702782
+  CerroDeSanAntonioAdm2COL:
+    admin_name: CerroDeSanAntonio
+    iso3c: COL
+    shapeID: 7082276B80696597151796
+  CérteguiAdm2COL:
+    admin_name: Cértegui
+    iso3c: COL
+    shapeID: 7082276B47980594061529
+  CesarAdm1COL:
+    admin_name: Cesar
+    iso3c: COL
+    shapeID: 13589884B76435085510886
+  ChachagüíAdm2COL:
+    admin_name: Chachagüí
+    iso3c: COL
+    shapeID: 7082276B70460159125708
+  ChaguaníAdm2COL:
+    admin_name: Chaguaní
+    iso3c: COL
+    shapeID: 7082276B58224372670541
+  ChalánAdm2COL:
+    admin_name: Chalán
+    iso3c: COL
+    shapeID: 7082276B25475067985173
+  ChamezaAdm2COL:
+    admin_name: Chameza
+    iso3c: COL
+    shapeID: 7082276B78466873958700
+  ChaparralAdm2COL:
+    admin_name: Chaparral
+    iso3c: COL
+    shapeID: 7082276B10096367300511
+  CharalaAdm2COL:
+    admin_name: Charala
+    iso3c: COL
+    shapeID: 7082276B93438937234991
+  ChartaAdm2COL:
+    admin_name: Charta
+    iso3c: COL
+    shapeID: 7082276B80565100217249
+  ChiaAdm2COL:
+    admin_name: Chia
+    iso3c: COL
+    shapeID: 7082276B36074400968325
+  ChigorodóAdm2COL:
+    admin_name: Chigorodó
+    iso3c: COL
+    shapeID: 7082276B26986898364485
+  ChimaAdm2COL:
+    admin_name: Chima
+    iso3c: COL
+    shapeID: 7082276B29202754493362
+  ChimáAdm2COL:
+    admin_name: Chimá
+    iso3c: COL
+    shapeID: 7082276B67782051899776
+  ChimichaguaAdm2COL:
+    admin_name: Chimichagua
+    iso3c: COL
+    shapeID: 7082276B32164017339198
+  ChinácotaAdm2COL:
+    admin_name: Chinácota
+    iso3c: COL
+    shapeID: 7082276B37523182527057
+  ChinavitaAdm2COL:
+    admin_name: Chinavita
+    iso3c: COL
+    shapeID: 7082276B18189760139189
+  ChinchináAdm2COL:
+    admin_name: Chinchiná
+    iso3c: COL
+    shapeID: 7082276B13604936922856
+  ChinúAdm2COL:
+    admin_name: Chinú
+    iso3c: COL
+    shapeID: 7082276B5619967708975
+  ChipaqueAdm2COL:
+    admin_name: Chipaque
+    iso3c: COL
+    shapeID: 7082276B56609677726929
+  ChipatáAdm2COL:
+    admin_name: Chipatá
+    iso3c: COL
+    shapeID: 7082276B31557626540926
+  ChiquinquiráAdm2COL:
+    admin_name: Chiquinquirá
+    iso3c: COL
+    shapeID: 7082276B335573977446
+  ChíquizaAdm2COL:
+    admin_name: Chíquiza
+    iso3c: COL
+    shapeID: 7082276B19361123637584
+  ChiriguanáAdm2COL:
+    admin_name: Chiriguaná
+    iso3c: COL
+    shapeID: 7082276B64056915020692
+  ChiscasAdm2COL:
+    admin_name: Chiscas
+    iso3c: COL
+    shapeID: 7082276B27697411735501
+  ChitaAdm2COL:
+    admin_name: Chita
+    iso3c: COL
+    shapeID: 7082276B46406567595223
+  ChitagàAdm2COL:
+    admin_name: Chitagà
+    iso3c: COL
+    shapeID: 7082276B34318906622646
+  ChitaraqueAdm2COL:
+    admin_name: Chitaraque
+    iso3c: COL
+    shapeID: 7082276B54324378938324
+  ChivatáAdm2COL:
+    admin_name: Chivatá
+    iso3c: COL
+    shapeID: 7082276B72366635379650
+  ChivoloAdm2COL:
+    admin_name: Chivolo
+    iso3c: COL
+    shapeID: 7082276B43456063324941
+  ChivorAdm2COL:
+    admin_name: Chivor
+    iso3c: COL
+    shapeID: 7082276B38103327022456
+  ChoachíAdm2COL:
+    admin_name: Choachí
+    iso3c: COL
+    shapeID: 7082276B43680544899028
+  ChocóAdm1COL:
+    admin_name: Chocó
+    iso3c: COL
+    shapeID: 13589884B53668371411224
+  ChocontáAdm2COL:
+    admin_name: Chocontá
+    iso3c: COL
+    shapeID: 7082276B4059288280821
+  CicucoAdm2COL:
+    admin_name: Cicuco
+    iso3c: COL
+    shapeID: 7082276B7250300282061
+  CiénagaAdm2COL:
+    admin_name: Ciénaga
+    iso3c: COL
+    shapeID: 7082276B78010874315873
+  CienagaDeOroAdm2COL:
+    admin_name: CienagaDeOro
+    iso3c: COL
+    shapeID: 7082276B90107957997642
+  CiénegaAdm2COL:
+    admin_name: Ciénega
+    iso3c: COL
+    shapeID: 7082276B91225455065481
+  CimitarraAdm2COL:
+    admin_name: Cimitarra
+    iso3c: COL
+    shapeID: 7082276B77867476816808
+  CircasiaAdm2COL:
+    admin_name: Circasia
+    iso3c: COL
+    shapeID: 7082276B86132048215988
+  CisnerosAdm2COL:
+    admin_name: Cisneros
+    iso3c: COL
+    shapeID: 7082276B52790973649265
+  CiudadBolívarAdm2COL:
+    admin_name: CiudadBolívar
+    iso3c: COL
+    shapeID: 7082276B35389673608197
+  ClemenciaAdm2COL:
+    admin_name: Clemencia
+    iso3c: COL
+    shapeID: 7082276B89767866766347
+  CocornáAdm2COL:
+    admin_name: Cocorná
+    iso3c: COL
+    shapeID: 7082276B66928007387737
+  CoelloAdm2COL:
+    admin_name: Coello
+    iso3c: COL
+    shapeID: 7082276B29903133765391
+  CoguaAdm2COL:
+    admin_name: Cogua
+    iso3c: COL
+    shapeID: 7082276B60465848550372
+  ColombiaAdm2COL:
+    admin_name: Colombia
+    iso3c: COL
+    shapeID: 7082276B78082705771395
+  ColonAdm2COL:
+    admin_name: Colon
+    iso3c: COL
+    shapeID: 7082276B55719342922597
+  ColónAdm2COL:
+    admin_name: Colón
+    iso3c: COL
+    shapeID: 7082276B98098551259160
+  CombitaAdm2COL:
+    admin_name: Combita
+    iso3c: COL
+    shapeID: 7082276B12842426687560
+  ConcepciónAdm2COL:
+    admin_name: Concepción
+    iso3c: COL
+    shapeID: 7082276B2459455127895
+  ConcordiaAdm2COL:
+    admin_name: Concordia
+    iso3c: COL
+    shapeID: 7082276B53735822778308
+  CondotoAdm2COL:
+    admin_name: Condoto
+    iso3c: COL
+    shapeID: 7082276B80062952170187
+  ConfinesAdm2COL:
+    admin_name: Confines
+    iso3c: COL
+    shapeID: 7082276B80163304219298
+  ConsacáAdm2COL:
+    admin_name: Consacá
+    iso3c: COL
+    shapeID: 7082276B44735629456030
+  ContaderoAdm2COL:
+    admin_name: Contadero
+    iso3c: COL
+    shapeID: 7082276B82030364647033
+  ContrataciónAdm2COL:
+    admin_name: Contratación
+    iso3c: COL
+    shapeID: 7082276B96001848010118
+  ConvenciónAdm2COL:
+    admin_name: Convención
+    iso3c: COL
+    shapeID: 7082276B19250418981939
+  CopacabanaAdm2COL:
+    admin_name: Copacabana
+    iso3c: COL
+    shapeID: 7082276B76500841891057
+  CoperAdm2COL:
+    admin_name: Coper
+    iso3c: COL
+    shapeID: 7082276B34459820199268
+  CórdobaAdm1COL:
+    admin_name: Córdoba
+    iso3c: COL
+    shapeID: 13589884B54743798138783
+  CórdobaAdm2COL:
+    admin_name: Córdoba
+    iso3c: COL
+    shapeID: 7082276B35551918348685
+  CorintoAdm2COL:
+    admin_name: Corinto
+    iso3c: COL
+    shapeID: 7082276B3788770543565
+  CoromoroAdm2COL:
+    admin_name: Coromoro
+    iso3c: COL
+    shapeID: 7082276B92015443514121
+  CorozalAdm2COL:
+    admin_name: Corozal
+    iso3c: COL
+    shapeID: 7082276B16477741975828
+  CorralesAdm2COL:
+    admin_name: Corrales
+    iso3c: COL
+    shapeID: 7082276B21264434170875
+  CotaAdm2COL:
+    admin_name: Cota
+    iso3c: COL
+    shapeID: 7082276B44065985457815
+  CotorraAdm2COL:
+    admin_name: Cotorra
+    iso3c: COL
+    shapeID: 7082276B37197913893650
+  CovarachiaAdm2COL:
+    admin_name: Covarachia
+    iso3c: COL
+    shapeID: 7082276B26241752835550
+  CoveñasAdm2COL:
+    admin_name: Coveñas
+    iso3c: COL
+    shapeID: 7082276B10536000233920
+  CoyaimaAdm2COL:
+    admin_name: Coyaima
+    iso3c: COL
+    shapeID: 7082276B89434947154021
+  CravoNorteAdm2COL:
+    admin_name: CravoNorte
+    iso3c: COL
+    shapeID: 7082276B36906579253224
+  CuaspudAdm2COL:
+    admin_name: Cuaspud
+    iso3c: COL
+    shapeID: 7082276B48690619382287
+  CubaráAdm2COL:
+    admin_name: Cubará
+    iso3c: COL
+    shapeID: 7082276B20538039058858
+  CubarralAdm2COL:
+    admin_name: Cubarral
+    iso3c: COL
+    shapeID: 7082276B4656793666603
+  CucaitaAdm2COL:
+    admin_name: Cucaita
+    iso3c: COL
+    shapeID: 7082276B93594910606067
+  CucunubáAdm2COL:
+    admin_name: Cucunubá
+    iso3c: COL
+    shapeID: 7082276B75127006220699
+  CúcutaAdm2COL:
+    admin_name: Cúcuta
+    iso3c: COL
+    shapeID: 7082276B39779647098113
+  CucutillaAdm2COL:
+    admin_name: Cucutilla
+    iso3c: COL
+    shapeID: 7082276B94948721354660
+  CuìtivaAdm2COL:
+    admin_name: Cuìtiva
+    iso3c: COL
+    shapeID: 7082276B99852494117570
+  CumaralAdm2COL:
+    admin_name: Cumaral
+    iso3c: COL
+    shapeID: 7082276B27464538286793
+  CumariboAdm2COL:
+    admin_name: Cumaribo
+    iso3c: COL
+    shapeID: 7082276B31805828490385
+  CumbalAdm2COL:
+    admin_name: Cumbal
+    iso3c: COL
+    shapeID: 7082276B54446489784787
+  CumbitaraAdm2COL:
+    admin_name: Cumbitara
+    iso3c: COL
+    shapeID: 7082276B90386853477374
+  CundayAdm2COL:
+    admin_name: Cunday
+    iso3c: COL
+    shapeID: 7082276B4490552230449
+  CundinamarcaAdm1COL:
+    admin_name: Cundinamarca
+    iso3c: COL
+    shapeID: 13589884B23733272568917
+  CurilloAdm2COL:
+    admin_name: Curillo
+    iso3c: COL
+    shapeID: 7082276B48734623734684
+  CuritíAdm2COL:
+    admin_name: Curití
+    iso3c: COL
+    shapeID: 7082276B68920496479863
+  CurumaníAdm2COL:
+    admin_name: Curumaní
+    iso3c: COL
+    shapeID: 7082276B94072212482436
+  DabeibaAdm2COL:
+    admin_name: Dabeiba
+    iso3c: COL
+    shapeID: 7082276B69715084527622
+  DaguaAdm2COL:
+    admin_name: Dagua
+    iso3c: COL
+    shapeID: 7082276B1809548619611
+  DibullaAdm2COL:
+    admin_name: Dibulla
+    iso3c: COL
+    shapeID: 7082276B97252339631603
+  DistracciónAdm2COL:
+    admin_name: Distracción
+    iso3c: COL
+    shapeID: 7082276B35872323079688
+  DistritoEspecial,IndustrialYPortuarioDeBarr*Adm2COL:
+    admin_name: DistritoEspecial,IndustrialYPortuarioDeBarr*
+    iso3c: COL
+    shapeID: 7082276B33268622823443
+  DoloresAdm2COL:
+    admin_name: Dolores
+    iso3c: COL
+    shapeID: 7082276B30807690938488
+  DonMatíasAdm2COL:
+    admin_name: DonMatías
+    iso3c: COL
+    shapeID: 7082276B48814942020129
+  DosquebradasAdm2COL:
+    admin_name: Dosquebradas
+    iso3c: COL
+    shapeID: 7082276B1259376417396
+  DuitamaAdm2COL:
+    admin_name: Duitama
+    iso3c: COL
+    shapeID: 7082276B48386151421369
+  DuraniaAdm2COL:
+    admin_name: Durania
+    iso3c: COL
+    shapeID: 7082276B9527918417262
+  EbéjicoAdm2COL:
+    admin_name: Ebéjico
+    iso3c: COL
+    shapeID: 7082276B74110023604891
+  ElÁguilaAdm2COL:
+    admin_name: ElÁguila
+    iso3c: COL
+    shapeID: 7082276B1381167873192
+  ElBagreAdm2COL:
+    admin_name: ElBagre
+    iso3c: COL
+    shapeID: 7082276B39808247222267
+  ElBancoAdm2COL:
+    admin_name: ElBanco
+    iso3c: COL
+    shapeID: 7082276B17236838711216
+  ElCairoAdm2COL:
+    admin_name: ElCairo
+    iso3c: COL
+    shapeID: 7082276B90998600886333
+  ElCalvarioAdm2COL:
+    admin_name: ElCalvario
+    iso3c: COL
+    shapeID: 7082276B98966151255757
+  ElCantónDelSanPablo(Managrú)Adm2COL:
+    admin_name: ElCantónDelSanPablo(Managrú)
+    iso3c: COL
+    shapeID: 7082276B94568538347754
+  ElCarmenAdm2COL:
+    admin_name: ElCarmen
+    iso3c: COL
+    shapeID: 7082276B17655587109293
+  ElCarmenDeBolívarAdm2COL:
+    admin_name: ElCarmenDeBolívar
+    iso3c: COL
+    shapeID: 7082276B24819369766558
+  ElCarmenDeChucuriAdm2COL:
+    admin_name: ElCarmenDeChucuri
+    iso3c: COL
+    shapeID: 7082276B87147370357978
+  ElCarmenDeViboralAdm2COL:
+    admin_name: ElCarmenDeViboral
+    iso3c: COL
+    shapeID: 7082276B81226439433985
+  ElCastilloAdm2COL:
+    admin_name: ElCastillo
+    iso3c: COL
+    shapeID: 7082276B77029977474757
+  ElCerritoAdm2COL:
+    admin_name: ElCerrito
+    iso3c: COL
+    shapeID: 7082276B46612550724020
+  ElCharcoAdm2COL:
+    admin_name: ElCharco
+    iso3c: COL
+    shapeID: 7082276B87562004853041
+  ElCocuyAdm2COL:
+    admin_name: ElCocuy
+    iso3c: COL
+    shapeID: 7082276B29849615421719
+  ElColegioAdm2COL:
+    admin_name: ElColegio
+    iso3c: COL
+    shapeID: 7082276B60890282056473
+  ElCopeyAdm2COL:
+    admin_name: ElCopey
+    iso3c: COL
+    shapeID: 7082276B6565875231933
+  ElDoncelloAdm2COL:
+    admin_name: ElDoncello
+    iso3c: COL
+    shapeID: 7082276B94017431983929
+  ElDoradoAdm2COL:
+    admin_name: ElDorado
+    iso3c: COL
+    shapeID: 7082276B12851519392176
+  ElDovioAdm2COL:
+    admin_name: ElDovio
+    iso3c: COL
+    shapeID: 7082276B38814266492224
+  ElEncantoAdm2COL:
+    admin_name: ElEncanto
+    iso3c: COL
+    shapeID: 7082276B15462988930410
+  ElEspinoAdm2COL:
+    admin_name: ElEspino
+    iso3c: COL
+    shapeID: 7082276B84809079779557
+  ElGuacamayoAdm2COL:
+    admin_name: ElGuacamayo
+    iso3c: COL
+    shapeID: 7082276B46151472221862
+  ElGuamoAdm2COL:
+    admin_name: ElGuamo
+    iso3c: COL
+    shapeID: 7082276B46514766114019
+  ElíasAdm2COL:
+    admin_name: Elías
+    iso3c: COL
+    shapeID: 7082276B98315935443
+  ElLitoralDelSanJuán(Docordó)Adm2COL:
+    admin_name: ElLitoralDelSanJuán(Docordó)
+    iso3c: COL
+    shapeID: 7082276B60850908313742
+  ElMolinoAdm2COL:
+    admin_name: ElMolino
+    iso3c: COL
+    shapeID: 7082276B93784631738012
+  ElPasoAdm2COL:
+    admin_name: ElPaso
+    iso3c: COL
+    shapeID: 7082276B67195884922096
+  ElPaujilAdm2COL:
+    admin_name: ElPaujil
+    iso3c: COL
+    shapeID: 7082276B38512916070217
+  ElPeñolAdm2COL:
+    admin_name: ElPeñol
+    iso3c: COL
+    shapeID: 7082276B8054790353271
+  ElPeñonAdm2COL:
+    admin_name: ElPeñon
+    iso3c: COL
+    shapeID: 7082276B39093540987774
+  ElPeñónAdm2COL:
+    admin_name: ElPeñón
+    iso3c: COL
+    shapeID: 7082276B75718828984625
+  ElPiñónAdm2COL:
+    admin_name: ElPiñón
+    iso3c: COL
+    shapeID: 7082276B5529453016246
+  ElPlayónAdm2COL:
+    admin_name: ElPlayón
+    iso3c: COL
+    shapeID: 7082276B80237546514207
+  ElReténAdm2COL:
+    admin_name: ElRetén
+    iso3c: COL
+    shapeID: 7082276B19803419989566
+  ElRetornoAdm2COL:
+    admin_name: ElRetorno
+    iso3c: COL
+    shapeID: 7082276B7236070172680
+  ElRobleAdm2COL:
+    admin_name: ElRoble
+    iso3c: COL
+    shapeID: 7082276B3034597933819
+  ElRosalAdm2COL:
+    admin_name: ElRosal
+    iso3c: COL
+    shapeID: 7082276B35688334029965
+  ElRosarioAdm2COL:
+    admin_name: ElRosario
+    iso3c: COL
+    shapeID: 7082276B32433349406288
+  ElTablónDeGómezAdm2COL:
+    admin_name: ElTablónDeGómez
+    iso3c: COL
+    shapeID: 7082276B75736959401017
+  ElTamboAdm2COL:
+    admin_name: ElTambo
+    iso3c: COL
+    shapeID: 7082276B344609225912
+  ElTarraAdm2COL:
+    admin_name: ElTarra
+    iso3c: COL
+    shapeID: 7082276B68903742800707
+  ElZuliaAdm2COL:
+    admin_name: ElZulia
+    iso3c: COL
+    shapeID: 7082276B69134689190168
+  EncinoAdm2COL:
+    admin_name: Encino
+    iso3c: COL
+    shapeID: 7082276B76520199809623
+  EncisoAdm2COL:
+    admin_name: Enciso
+    iso3c: COL
+    shapeID: 7082276B96027613653317
+  EntrerriosAdm2COL:
+    admin_name: Entrerrios
+    iso3c: COL
+    shapeID: 7082276B40374879767570
+  EnvigadoAdm2COL:
+    admin_name: Envigado
+    iso3c: COL
+    shapeID: 7082276B11340902680280
+  EspinalAdm2COL:
+    admin_name: Espinal
+    iso3c: COL
+    shapeID: 7082276B91766477501685
+  FacatativáAdm2COL:
+    admin_name: Facatativá
+    iso3c: COL
+    shapeID: 7082276B42545892213611
+  FalanAdm2COL:
+    admin_name: Falan
+    iso3c: COL
+    shapeID: 7082276B64304249880485
+  FiladelfiaAdm2COL:
+    admin_name: Filadelfia
+    iso3c: COL
+    shapeID: 7082276B92854280853001
+  FilandiaAdm2COL:
+    admin_name: Filandia
+    iso3c: COL
+    shapeID: 7082276B59907465773306
+  FiravitobaAdm2COL:
+    admin_name: Firavitoba
+    iso3c: COL
+    shapeID: 7082276B66462160006857
+  FlandesAdm2COL:
+    admin_name: Flandes
+    iso3c: COL
+    shapeID: 7082276B85738842293141
+  FlorenciaAdm2COL:
+    admin_name: Florencia
+    iso3c: COL
+    shapeID: 7082276B38105968828187
+  FlorestaAdm2COL:
+    admin_name: Floresta
+    iso3c: COL
+    shapeID: 7082276B22631995474400
+  FloriánAdm2COL:
+    admin_name: Florián
+    iso3c: COL
+    shapeID: 7082276B44314781423547
+  FloridaAdm2COL:
+    admin_name: Florida
+    iso3c: COL
+    shapeID: 7082276B72857503251060
+  FloridablancaAdm2COL:
+    admin_name: Floridablanca
+    iso3c: COL
+    shapeID: 7082276B34435529925249
+  FómequeAdm2COL:
+    admin_name: Fómeque
+    iso3c: COL
+    shapeID: 7082276B76169675802972
+  FonsecaAdm2COL:
+    admin_name: Fonseca
+    iso3c: COL
+    shapeID: 7082276B74477010851757
+  FortulAdm2COL:
+    admin_name: Fortul
+    iso3c: COL
+    shapeID: 7082276B84202288192164
+  FoscaAdm2COL:
+    admin_name: Fosca
+    iso3c: COL
+    shapeID: 7082276B26264709784086
+  FranciscoPizarro(Salahonda)Adm2COL:
+    admin_name: FranciscoPizarro(Salahonda)
+    iso3c: COL
+    shapeID: 7082276B21872376500424
+  FredoniaAdm2COL:
+    admin_name: Fredonia
+    iso3c: COL
+    shapeID: 7082276B62659196933194
+  FresnoAdm2COL:
+    admin_name: Fresno
+    iso3c: COL
+    shapeID: 7082276B32656810983952
+  FrontinoAdm2COL:
+    admin_name: Frontino
+    iso3c: COL
+    shapeID: 7082276B55933197621379
+  FuenteDeOroAdm2COL:
+    admin_name: FuenteDeOro
+    iso3c: COL
+    shapeID: 7082276B73436966556792
+  FundaciónAdm2COL:
+    admin_name: Fundación
+    iso3c: COL
+    shapeID: 7082276B77818351082127
+  FunesAdm2COL:
+    admin_name: Funes
+    iso3c: COL
+    shapeID: 7082276B86870454083257
+  FunzaAdm2COL:
+    admin_name: Funza
+    iso3c: COL
+    shapeID: 7082276B8627668413751
+  FuqueneAdm2COL:
+    admin_name: Fuquene
+    iso3c: COL
+    shapeID: 7082276B76797712336992
+  FusagasugáAdm2COL:
+    admin_name: Fusagasugá
+    iso3c: COL
+    shapeID: 7082276B51871988442122
+  GachaláAdm2COL:
+    admin_name: Gachalá
+    iso3c: COL
+    shapeID: 7082276B64906175699520
+  GachancipáAdm2COL:
+    admin_name: Gachancipá
+    iso3c: COL
+    shapeID: 7082276B66532340203009
+  GachantiváAdm2COL:
+    admin_name: Gachantivá
+    iso3c: COL
+    shapeID: 7082276B31278736164572
+  GachetáAdm2COL:
+    admin_name: Gachetá
+    iso3c: COL
+    shapeID: 7082276B90187187212426
+  GalánAdm2COL:
+    admin_name: Galán
+    iso3c: COL
+    shapeID: 7082276B89750880052970
+  GalapaAdm2COL:
+    admin_name: Galapa
+    iso3c: COL
+    shapeID: 7082276B48939635057029
+  GalerasAdm2COL:
+    admin_name: Galeras
+    iso3c: COL
+    shapeID: 7082276B66426156140474
+  GamaAdm2COL:
+    admin_name: Gama
+    iso3c: COL
+    shapeID: 7082276B33620598114960
+  GamarraAdm2COL:
+    admin_name: Gamarra
+    iso3c: COL
+    shapeID: 7082276B88005930101798
+  GámbitaAdm2COL:
+    admin_name: Gámbita
+    iso3c: COL
+    shapeID: 7082276B40597769905914
+  GamezaAdm2COL:
+    admin_name: Gameza
+    iso3c: COL
+    shapeID: 7082276B32812076646031
+  GaragoaAdm2COL:
+    admin_name: Garagoa
+    iso3c: COL
+    shapeID: 7082276B73861688893485
+  GarzónAdm2COL:
+    admin_name: Garzón
+    iso3c: COL
+    shapeID: 7082276B84511387855625
+  GénovaAdm2COL:
+    admin_name: Génova
+    iso3c: COL
+    shapeID: 7082276B54028982815343
+  GiganteAdm2COL:
+    admin_name: Gigante
+    iso3c: COL
+    shapeID: 7082276B55620946871412
+  GinebraAdm2COL:
+    admin_name: Ginebra
+    iso3c: COL
+    shapeID: 7082276B86237155674580
+  GiraldoAdm2COL:
+    admin_name: Giraldo
+    iso3c: COL
+    shapeID: 7082276B20831515538679
+  GirardotaAdm2COL:
+    admin_name: Girardota
+    iso3c: COL
+    shapeID: 7082276B6763900439395
+  GirardotAdm2COL:
+    admin_name: Girardot
+    iso3c: COL
+    shapeID: 7082276B44734955645531
+  GirónAdm2COL:
+    admin_name: Girón
+    iso3c: COL
+    shapeID: 7082276B75603088073292
+  GómezPlataAdm2COL:
+    admin_name: GómezPlata
+    iso3c: COL
+    shapeID: 7082276B25593969980338
+  GonzalezAdm2COL:
+    admin_name: Gonzalez
+    iso3c: COL
+    shapeID: 7082276B53963329065475
+  GramaloteAdm2COL:
+    admin_name: Gramalote
+    iso3c: COL
+    shapeID: 7082276B79759351892692
+  GranadaAdm2COL:
+    admin_name: Granada
+    iso3c: COL
+    shapeID: 7082276B66868517078286
+  GuacaAdm2COL:
+    admin_name: Guaca
+    iso3c: COL
+    shapeID: 7082276B96447826186422
+  GuacamayasAdm2COL:
+    admin_name: Guacamayas
+    iso3c: COL
+    shapeID: 7082276B5758535109940
+  GuacaríAdm2COL:
+    admin_name: Guacarí
+    iso3c: COL
+    shapeID: 7082276B91777379467178
+  GuachenéAdm2COL:
+    admin_name: Guachené
+    iso3c: COL
+    shapeID: 7082276B47374862925181
+  GuachetáAdm2COL:
+    admin_name: Guachetá
+    iso3c: COL
+    shapeID: 7082276B56443228880790
+  GuachucalAdm2COL:
+    admin_name: Guachucal
+    iso3c: COL
+    shapeID: 7082276B62012861578772
+  GuadalupeAdm2COL:
+    admin_name: Guadalupe
+    iso3c: COL
+    shapeID: 7082276B74381710029853
+  GuaduasAdm2COL:
+    admin_name: Guaduas
+    iso3c: COL
+    shapeID: 7082276B20706046366755
+  GuainíaAdm1COL:
+    admin_name: Guainía
+    iso3c: COL
+    shapeID: 13589884B67034552102836
+  GuaitarillaAdm2COL:
+    admin_name: Guaitarilla
+    iso3c: COL
+    shapeID: 7082276B31690225930459
+  GualmatánAdm2COL:
+    admin_name: Gualmatán
+    iso3c: COL
+    shapeID: 7082276B40313955384200
+  GuamalAdm2COL:
+    admin_name: Guamal
+    iso3c: COL
+    shapeID: 7082276B25614510642734
+  GuamoAdm2COL:
+    admin_name: Guamo
+    iso3c: COL
+    shapeID: 7082276B63665332142634
+  GuapiAdm2COL:
+    admin_name: Guapi
+    iso3c: COL
+    shapeID: 7082276B333930671770
+  GuapotáAdm2COL:
+    admin_name: Guapotá
+    iso3c: COL
+    shapeID: 7082276B45314174051982
+  GuarandaAdm2COL:
+    admin_name: Guaranda
+    iso3c: COL
+    shapeID: 7082276B46316322938304
+  GuarneAdm2COL:
+    admin_name: Guarne
+    iso3c: COL
+    shapeID: 7082276B92581613564352
+  GuascaAdm2COL:
+    admin_name: Guasca
+    iso3c: COL
+    shapeID: 7082276B88398605204412
+  GuatapéAdm2COL:
+    admin_name: Guatapé
+    iso3c: COL
+    shapeID: 7082276B10877531566234
+  GuataquíAdm2COL:
+    admin_name: Guataquí
+    iso3c: COL
+    shapeID: 7082276B38387467100099
+  GuatavitaAdm2COL:
+    admin_name: Guatavita
+    iso3c: COL
+    shapeID: 7082276B39206984179134
+  GuatequeAdm2COL:
+    admin_name: Guateque
+    iso3c: COL
+    shapeID: 7082276B31731759367156
+  GuáticaAdm2COL:
+    admin_name: Guática
+    iso3c: COL
+    shapeID: 7082276B7280150646528
+  GuavatáAdm2COL:
+    admin_name: Guavatá
+    iso3c: COL
+    shapeID: 7082276B43213471639741
+  GuaviareAdm1COL:
+    admin_name: Guaviare
+    iso3c: COL
+    shapeID: 13589884B51885004571697
+  GuayabalDeSíquimaAdm2COL:
+    admin_name: GuayabalDeSíquima
+    iso3c: COL
+    shapeID: 7082276B27763820431967
+  GuayabetalAdm2COL:
+    admin_name: Guayabetal
+    iso3c: COL
+    shapeID: 7082276B39742975331466
+  GuayatáAdm2COL:
+    admin_name: Guayatá
+    iso3c: COL
+    shapeID: 7082276B57012919996167
+  GüepsaAdm2COL:
+    admin_name: Güepsa
+    iso3c: COL
+    shapeID: 7082276B24684560150215
+  GüicánAdm2COL:
+    admin_name: Güicán
+    iso3c: COL
+    shapeID: 7082276B71833607735517
+  GutierrezAdm2COL:
+    admin_name: Gutierrez
+    iso3c: COL
+    shapeID: 7082276B81607820591888
+  HacaríAdm2COL:
+    admin_name: Hacarí
+    iso3c: COL
+    shapeID: 7082276B96739100690345
+  HatilloDeLobaAdm2COL:
+    admin_name: HatilloDeLoba
+    iso3c: COL
+    shapeID: 7082276B61387460600045
+  HatoAdm2COL:
+    admin_name: Hato
+    iso3c: COL
+    shapeID: 7082276B99136019050465
+  HatoCorozalAdm2COL:
+    admin_name: HatoCorozal
+    iso3c: COL
+    shapeID: 7082276B62736204649279
+  HatonuevoAdm2COL:
+    admin_name: Hatonuevo
+    iso3c: COL
+    shapeID: 7082276B24784892913162
+  HeliconiaAdm2COL:
+    admin_name: Heliconia
+    iso3c: COL
+    shapeID: 7082276B97169896974876
+  HerránAdm2COL:
+    admin_name: Herrán
+    iso3c: COL
+    shapeID: 7082276B14743342405836
+  HerveoAdm2COL:
+    admin_name: Herveo
+    iso3c: COL
+    shapeID: 7082276B3940342655765
+  HispaniaAdm2COL:
+    admin_name: Hispania
+    iso3c: COL
+    shapeID: 7082276B53614858189093
+  HoboAdm2COL:
+    admin_name: Hobo
+    iso3c: COL
+    shapeID: 7082276B60614758896668
+  HondaAdm2COL:
+    admin_name: Honda
+    iso3c: COL
+    shapeID: 7082276B8188549982747
+  HuilaAdm1COL:
+    admin_name: Huila
+    iso3c: COL
+    shapeID: 13589884B32024052187233
+  IbaguéAdm2COL:
+    admin_name: Ibagué
+    iso3c: COL
+    shapeID: 7082276B61216577882817
+  IcononzoAdm2COL:
+    admin_name: Icononzo
+    iso3c: COL
+    shapeID: 7082276B29994839767067
+  IlesAdm2COL:
+    admin_name: Iles
+    iso3c: COL
+    shapeID: 7082276B76262709729970
+  ImuesAdm2COL:
+    admin_name: Imues
+    iso3c: COL
+    shapeID: 7082276B38506776880205
+  IníridaAdm2COL:
+    admin_name: Inírida
+    iso3c: COL
+    shapeID: 7082276B88046455152973
+  InzaAdm2COL:
+    admin_name: Inza
+    iso3c: COL
+    shapeID: 7082276B42793488331490
+  IpialesAdm2COL:
+    admin_name: Ipiales
+    iso3c: COL
+    shapeID: 7082276B52108893597118
+  ÍquiraAdm2COL:
+    admin_name: Íquira
+    iso3c: COL
+    shapeID: 7082276B93831290188836
+  IsnosAdm2COL:
+    admin_name: Isnos
+    iso3c: COL
+    shapeID: 7082276B76225783159695
+  IstminaAdm2COL:
+    admin_name: Istmina
+    iso3c: COL
+    shapeID: 7082276B37005238590154
+  ItagüíAdm2COL:
+    admin_name: Itagüí
+    iso3c: COL
+    shapeID: 7082276B40156907925674
+  ItuangoAdm2COL:
+    admin_name: Ituango
+    iso3c: COL
+    shapeID: 7082276B28262525732127
+  IzaAdm2COL:
+    admin_name: Iza
+    iso3c: COL
+    shapeID: 7082276B4524421647435
+  JambalóAdm2COL:
+    admin_name: Jambaló
+    iso3c: COL
+    shapeID: 7082276B84035448775523
+  JamundíAdm2COL:
+    admin_name: Jamundí
+    iso3c: COL
+    shapeID: 7082276B34643153596427
+  JardínAdm2COL:
+    admin_name: Jardín
+    iso3c: COL
+    shapeID: 7082276B57305283238211
+  JenesanoAdm2COL:
+    admin_name: Jenesano
+    iso3c: COL
+    shapeID: 7082276B5512700200640
+  JericóAdm2COL:
+    admin_name: Jericó
+    iso3c: COL
+    shapeID: 7082276B82066081329321
+  JerusalénAdm2COL:
+    admin_name: Jerusalén
+    iso3c: COL
+    shapeID: 7082276B72958571486276
+  JesúsMaríaAdm2COL:
+    admin_name: JesúsMaría
+    iso3c: COL
+    shapeID: 7082276B47652322340451
+  JordánSubeAdm2COL:
+    admin_name: JordánSube
+    iso3c: COL
+    shapeID: 7082276B50890297817335
+  JuanDeAcostaAdm2COL:
+    admin_name: JuanDeAcosta
+    iso3c: COL
+    shapeID: 7082276B48285719364233
+  JunínAdm2COL:
+    admin_name: Junín
+    iso3c: COL
+    shapeID: 7082276B29638649258837
+  JuradóAdm2COL:
+    admin_name: Juradó
+    iso3c: COL
+    shapeID: 7082276B94755540005328
+  LaApartadaAdm2COL:
+    admin_name: LaApartada
+    iso3c: COL
+    shapeID: 7082276B84090204325710
+  LaArgentinaAdm2COL:
+    admin_name: LaArgentina
+    iso3c: COL
+    shapeID: 7082276B50002192579952
+  LabatecaAdm2COL:
+    admin_name: Labateca
+    iso3c: COL
+    shapeID: 7082276B68163491076409
+  LaBellezaAdm2COL:
+    admin_name: LaBelleza
+    iso3c: COL
+    shapeID: 7082276B28404230547509
+  LabranzaGrandeAdm2COL:
+    admin_name: LabranzaGrande
+    iso3c: COL
+    shapeID: 7082276B6465404619249
+  LaCaleraAdm2COL:
+    admin_name: LaCalera
+    iso3c: COL
+    shapeID: 7082276B16624881870265
+  LaCapillaAdm2COL:
+    admin_name: LaCapilla
+    iso3c: COL
+    shapeID: 7082276B90092604037174
+  LaCejaAdm2COL:
+    admin_name: LaCeja
+    iso3c: COL
+    shapeID: 7082276B13386245967874
+  LaCeliaAdm2COL:
+    admin_name: LaCelia
+    iso3c: COL
+    shapeID: 7082276B6796098252529
+  LaChorreraAdm2COL:
+    admin_name: LaChorrera
+    iso3c: COL
+    shapeID: 7082276B17181319735962
+  LaCruzAdm2COL:
+    admin_name: LaCruz
+    iso3c: COL
+    shapeID: 7082276B65589798073625
+  LaCumbreAdm2COL:
+    admin_name: LaCumbre
+    iso3c: COL
+    shapeID: 7082276B32711967571175
+  LaDoradaAdm2COL:
+    admin_name: LaDorada
+    iso3c: COL
+    shapeID: 7082276B85380105057389
+  LaEsperanzaAdm2COL:
+    admin_name: LaEsperanza
+    iso3c: COL
+    shapeID: 7082276B65622442021238
+  LaEstrellaAdm2COL:
+    admin_name: LaEstrella
+    iso3c: COL
+    shapeID: 7082276B46086591209782
+  LaFloridaAdm2COL:
+    admin_name: LaFlorida
+    iso3c: COL
+    shapeID: 7082276B51356117311945
+  LaGloriaAdm2COL:
+    admin_name: LaGloria
+    iso3c: COL
+    shapeID: 7082276B41841222112107
+  LaGuadalupeAdm2COL:
+    admin_name: LaGuadalupe
+    iso3c: COL
+    shapeID: 7082276B7133073110314
+  LaGuajiraAdm1COL:
+    admin_name: LaGuajira
+    iso3c: COL
+    shapeID: 13589884B66570655136682
+  LaJaguaDeIbiricoAdm2COL:
+    admin_name: LaJaguaDeIbirico
+    iso3c: COL
+    shapeID: 7082276B29749803006962
+  LaJaguaDelPilarAdm2COL:
+    admin_name: LaJaguaDelPilar
+    iso3c: COL
+    shapeID: 7082276B91699112359201
+  LaLlanadaAdm2COL:
+    admin_name: LaLlanada
+    iso3c: COL
+    shapeID: 7082276B57596135767585
+  LaMacarenaAdm2COL:
+    admin_name: LaMacarena
+    iso3c: COL
+    shapeID: 7082276B91744588018589
+  LaMercedAdm2COL:
+    admin_name: LaMerced
+    iso3c: COL
+    shapeID: 7082276B22025402112041
+  LaMesaAdm2COL:
+    admin_name: LaMesa
+    iso3c: COL
+    shapeID: 7082276B41572660322682
+  LaMontañitaAdm2COL:
+    admin_name: LaMontañita
+    iso3c: COL
+    shapeID: 7082276B18236401251587
+  LandázuriAdm2COL:
+    admin_name: Landázuri
+    iso3c: COL
+    shapeID: 7082276B67983395238238
+  LaPalmaAdm2COL:
+    admin_name: LaPalma
+    iso3c: COL
+    shapeID: 7082276B19897165223150
+  LaPazAdm2COL:
+    admin_name: LaPaz
+    iso3c: COL
+    shapeID: 7082276B68584023442252
+  LaPedreraAdm2COL:
+    admin_name: LaPedrera
+    iso3c: COL
+    shapeID: 7082276B17674180496874
+  LaPeñaAdm2COL:
+    admin_name: LaPeña
+    iso3c: COL
+    shapeID: 7082276B76802469415044
+  LaPintadaAdm2COL:
+    admin_name: LaPintada
+    iso3c: COL
+    shapeID: 7082276B54917779252174
+  LaPlataAdm2COL:
+    admin_name: LaPlata
+    iso3c: COL
+    shapeID: 7082276B59987699383018
+  LaPlayaAdm2COL:
+    admin_name: LaPlaya
+    iso3c: COL
+    shapeID: 7082276B99344339057912
+  LaPrimaveraAdm2COL:
+    admin_name: LaPrimavera
+    iso3c: COL
+    shapeID: 7082276B79369128068178
+  LaSalinaAdm2COL:
+    admin_name: LaSalina
+    iso3c: COL
+    shapeID: 7082276B42027668960316
+  LaSierraAdm2COL:
+    admin_name: LaSierra
+    iso3c: COL
+    shapeID: 7082276B53441696517759
+  LaTebaidaAdm2COL:
+    admin_name: LaTebaida
+    iso3c: COL
+    shapeID: 7082276B51797720548410
+  LaTolaAdm2COL:
+    admin_name: LaTola
+    iso3c: COL
+    shapeID: 7082276B35669712343607
+  LaUniónAdm2COL:
+    admin_name: LaUnión
+    iso3c: COL
+    shapeID: 7082276B25571506538926
+  LaUvitaAdm2COL:
+    admin_name: LaUvita
+    iso3c: COL
+    shapeID: 7082276B58471710913685
+  LaVegaAdm2COL:
+    admin_name: LaVega
+    iso3c: COL
+    shapeID: 7082276B26976888039358
+  LaVictoria(Pacoa)Adm2COL:
+    admin_name: LaVictoria(Pacoa)
+    iso3c: COL
+    shapeID: 7082276B65279517003270
+  LaVictoriaAdm2COL:
+    admin_name: LaVictoria
+    iso3c: COL
+    shapeID: 7082276B50936254037238
+  LaVirginiaAdm2COL:
+    admin_name: LaVirginia
+    iso3c: COL
+    shapeID: 7082276B71281345129005
+  LebríjaAdm2COL:
+    admin_name: Lebríja
+    iso3c: COL
+    shapeID: 7082276B58843088778995
+  LeivaAdm2COL:
+    admin_name: Leiva
+    iso3c: COL
+    shapeID: 7082276B29262956514041
+  LejaníasAdm2COL:
+    admin_name: Lejanías
+    iso3c: COL
+    shapeID: 7082276B92663278655025
+  LenguazaqueAdm2COL:
+    admin_name: Lenguazaque
+    iso3c: COL
+    shapeID: 7082276B28495435415002
+  LéridaAdm2COL:
+    admin_name: Lérida
+    iso3c: COL
+    shapeID: 7082276B47821274124979
+  LeticiaAdm2COL:
+    admin_name: Leticia
+    iso3c: COL
+    shapeID: 7082276B43275073099169
+  LibanoAdm2COL:
+    admin_name: Libano
+    iso3c: COL
+    shapeID: 7082276B41774659854292
+  LiborinaAdm2COL:
+    admin_name: Liborina
+    iso3c: COL
+    shapeID: 7082276B40306940233950
+  LinaresAdm2COL:
+    admin_name: Linares
+    iso3c: COL
+    shapeID: 7082276B86818396743416
+  LloróAdm2COL:
+    admin_name: Lloró
+    iso3c: COL
+    shapeID: 7082276B18686190591622
+  LópezAdm2COL:
+    admin_name: López
+    iso3c: COL
+    shapeID: 7082276B33539636068872
+  LoricaAdm2COL:
+    admin_name: Lorica
+    iso3c: COL
+    shapeID: 7082276B90578297769705
+  LosAndesAdm2COL:
+    admin_name: LosAndes
+    iso3c: COL
+    shapeID: 7082276B65989383346082
+  LosCórdobasAdm2COL:
+    admin_name: LosCórdobas
+    iso3c: COL
+    shapeID: 7082276B12628358742837
+  LosPalmitosAdm2COL:
+    admin_name: LosPalmitos
+    iso3c: COL
+    shapeID: 7082276B95159519870564
+  LosPatiosAdm2COL:
+    admin_name: LosPatios
+    iso3c: COL
+    shapeID: 7082276B52790830611795
+  LosSantosAdm2COL:
+    admin_name: LosSantos
+    iso3c: COL
+    shapeID: 7082276B92176503195473
+  LourdesAdm2COL:
+    admin_name: Lourdes
+    iso3c: COL
+    shapeID: 7082276B15228121162034
+  LuruacoAdm2COL:
+    admin_name: Luruaco
+    iso3c: COL
+    shapeID: 7082276B62382925413250
+  MacanalAdm2COL:
+    admin_name: Macanal
+    iso3c: COL
+    shapeID: 7082276B95267343444415
+  MacaravitaAdm2COL:
+    admin_name: Macaravita
+    iso3c: COL
+    shapeID: 7082276B90851021474579
+  MaceoAdm2COL:
+    admin_name: Maceo
+    iso3c: COL
+    shapeID: 7082276B28427937115124
+  MachetáAdm2COL:
+    admin_name: Machetá
+    iso3c: COL
+    shapeID: 7082276B57289019060192
+  MadridAdm2COL:
+    admin_name: Madrid
+    iso3c: COL
+    shapeID: 7082276B83937578345103
+  MaganguéAdm2COL:
+    admin_name: Magangué
+    iso3c: COL
+    shapeID: 7082276B80599061362425
+  MagdalenaAdm1COL:
+    admin_name: Magdalena
+    iso3c: COL
+    shapeID: 13589884B85940101840667
+  Magüí(Payán)Adm2COL:
+    admin_name: Magüí(Payán)
+    iso3c: COL
+    shapeID: 7082276B14140540221362
+  MahatesAdm2COL:
+    admin_name: Mahates
+    iso3c: COL
+    shapeID: 7082276B15071329852388
+  MaicaoAdm2COL:
+    admin_name: Maicao
+    iso3c: COL
+    shapeID: 7082276B98586800286799
+  MajagualAdm2COL:
+    admin_name: Majagual
+    iso3c: COL
+    shapeID: 7082276B64459562998455
+  MálagaAdm2COL:
+    admin_name: Málaga
+    iso3c: COL
+    shapeID: 7082276B1273171600443
+  MalamboAdm2COL:
+    admin_name: Malambo
+    iso3c: COL
+    shapeID: 7082276B4213676035156
+  Mallama(Piedrancha)Adm2COL:
+    admin_name: Mallama(Piedrancha)
+    iso3c: COL
+    shapeID: 7082276B67820358645790
+  ManatíAdm2COL:
+    admin_name: Manatí
+    iso3c: COL
+    shapeID: 7082276B98170860675351
+  ManaureAdm2COL:
+    admin_name: Manaure
+    iso3c: COL
+    shapeID: 7082276B63219167188036
+  ManaureBalcónDelCesarAdm2COL:
+    admin_name: ManaureBalcónDelCesar
+    iso3c: COL
+    shapeID: 7082276B80880832321074
+  ManíAdm2COL:
+    admin_name: Maní
+    iso3c: COL
+    shapeID: 7082276B29021161154313
+  ManizalesAdm2COL:
+    admin_name: Manizales
+    iso3c: COL
+    shapeID: 7082276B74376648695935
+  MantaAdm2COL:
+    admin_name: Manta
+    iso3c: COL
+    shapeID: 7082276B33353054610225
+  ManzanaresAdm2COL:
+    admin_name: Manzanares
+    iso3c: COL
+    shapeID: 7082276B1219739961370
+  MapiripanaAdm2COL:
+    admin_name: Mapiripana
+    iso3c: COL
+    shapeID: 7082276B54584642345614
+  MapiripánAdm2COL:
+    admin_name: Mapiripán
+    iso3c: COL
+    shapeID: 7082276B47302113121733
+  MargaritaAdm2COL:
+    admin_name: Margarita
+    iso3c: COL
+    shapeID: 7082276B40110107140606
+  MariaLaBajaAdm2COL:
+    admin_name: MariaLaBaja
+    iso3c: COL
+    shapeID: 7082276B12407148553897
+  MarinillaAdm2COL:
+    admin_name: Marinilla
+    iso3c: COL
+    shapeID: 7082276B39269491534376
+  MaripíAdm2COL:
+    admin_name: Maripí
+    iso3c: COL
+    shapeID: 7082276B23920706141939
+  MarmatoAdm2COL:
+    admin_name: Marmato
+    iso3c: COL
+    shapeID: 7082276B17776075078711
+  MarquetaliaAdm2COL:
+    admin_name: Marquetalia
+    iso3c: COL
+    shapeID: 7082276B4972068249253
+  MarsellaAdm2COL:
+    admin_name: Marsella
+    iso3c: COL
+    shapeID: 7082276B48757885087630
+  MarulandaAdm2COL:
+    admin_name: Marulanda
+    iso3c: COL
+    shapeID: 7082276B71497908860024
+  MatanzaAdm2COL:
+    admin_name: Matanza
+    iso3c: COL
+    shapeID: 7082276B77365397936379
+  MedellínAdm2COL:
+    admin_name: Medellín
+    iso3c: COL
+    shapeID: 7082276B76690106408580
+  MedinaAdm2COL:
+    admin_name: Medina
+    iso3c: COL
+    shapeID: 7082276B34951383474081
+  MedioAtrato(Beté)Adm2COL:
+    admin_name: MedioAtrato(Beté)
+    iso3c: COL
+    shapeID: 7082276B17013880517014
+  MedioBaudó(bocaDePepé)Adm2COL:
+    admin_name: MedioBaudó(bocaDePepé)
+    iso3c: COL
+    shapeID: 7082276B42421945632945
+  MedioSanJuan(Andagoya)Adm2COL:
+    admin_name: MedioSanJuan(Andagoya)
+    iso3c: COL
+    shapeID: 7082276B61520359869131
+  MelgarAdm2COL:
+    admin_name: Melgar
+    iso3c: COL
+    shapeID: 7082276B7628947847785
+  MercaderesAdm2COL:
+    admin_name: Mercaderes
+    iso3c: COL
+    shapeID: 7082276B43653558961889
+  MesetasAdm2COL:
+    admin_name: Mesetas
+    iso3c: COL
+    shapeID: 7082276B5195747171528
+  MetaAdm1COL:
+    admin_name: Meta
+    iso3c: COL
+    shapeID: 13589884B75246552958907
+  MilánAdm2COL:
+    admin_name: Milán
+    iso3c: COL
+    shapeID: 7082276B138661064638
+  MirafloresAdm2COL:
+    admin_name: Miraflores
+    iso3c: COL
+    shapeID: 7082276B88451081868443
+  MirandaAdm2COL:
+    admin_name: Miranda
+    iso3c: COL
+    shapeID: 7082276B64224569928745
+  Mirití-paraná(Campoamor)Adm2COL:
+    admin_name: Mirití-paraná(Campoamor)
+    iso3c: COL
+    shapeID: 7082276B32823628766031
+  MistratóAdm2COL:
+    admin_name: Mistrató
+    iso3c: COL
+    shapeID: 7082276B87448620862857
+  MitúAdm2COL:
+    admin_name: Mitú
+    iso3c: COL
+    shapeID: 7082276B74847859536954
+  MocoaAdm2COL:
+    admin_name: Mocoa
+    iso3c: COL
+    shapeID: 7082276B56868740164332
+  MogotesAdm2COL:
+    admin_name: Mogotes
+    iso3c: COL
+    shapeID: 7082276B70179238188683
+  MolagavitaAdm2COL:
+    admin_name: Molagavita
+    iso3c: COL
+    shapeID: 7082276B9574899495584
+  MomilAdm2COL:
+    admin_name: Momil
+    iso3c: COL
+    shapeID: 7082276B97277797661378
+  MompósAdm2COL:
+    admin_name: Mompós
+    iso3c: COL
+    shapeID: 7082276B99347605500180
+  MonguaAdm2COL:
+    admin_name: Mongua
+    iso3c: COL
+    shapeID: 7082276B23995314387888
+  MonguìAdm2COL:
+    admin_name: Monguì
+    iso3c: COL
+    shapeID: 7082276B75915800684319
+  MoniquiraAdm2COL:
+    admin_name: Moniquira
+    iso3c: COL
+    shapeID: 7082276B18145411913981
+  MoñitosAdm2COL:
+    admin_name: Moñitos
+    iso3c: COL
+    shapeID: 7082276B84273930819596
+  MontebelloAdm2COL:
+    admin_name: Montebello
+    iso3c: COL
+    shapeID: 7082276B54049955625365
+  MontecristoAdm2COL:
+    admin_name: Montecristo
+    iso3c: COL
+    shapeID: 7082276B84262983016086
+  MontelíbanoAdm2COL:
+    admin_name: Montelíbano
+    iso3c: COL
+    shapeID: 7082276B48843599795866
+  MontenegroAdm2COL:
+    admin_name: Montenegro
+    iso3c: COL
+    shapeID: 7082276B37489805673697
+  MonteríaAdm2COL:
+    admin_name: Montería
+    iso3c: COL
+    shapeID: 7082276B30491480162439
+  MonterreyAdm2COL:
+    admin_name: Monterrey
+    iso3c: COL
+    shapeID: 7082276B81333825674137
+  MoralesAdm2COL:
+    admin_name: Morales
+    iso3c: COL
+    shapeID: 7082276B13474155488733
+  MoreliaAdm2COL:
+    admin_name: Morelia
+    iso3c: COL
+    shapeID: 7082276B57536514364172
+  Morichal(MorichalNuevo)Adm2COL:
+    admin_name: Morichal(MorichalNuevo)
+    iso3c: COL
+    shapeID: 7082276B96401380433737
+  MorroaAdm2COL:
+    admin_name: Morroa
+    iso3c: COL
+    shapeID: 7082276B21586467517782
+  MosqueraAdm2COL:
+    admin_name: Mosquera
+    iso3c: COL
+    shapeID: 7082276B63365049346428
+  MotavitaAdm2COL:
+    admin_name: Motavita
+    iso3c: COL
+    shapeID: 7082276B58425641654458
+  MurilloAdm2COL:
+    admin_name: Murillo
+    iso3c: COL
+    shapeID: 7082276B68710011188416
+  MurindóAdm2COL:
+    admin_name: Murindó
+    iso3c: COL
+    shapeID: 7082276B39517489210154
+  MutatáAdm2COL:
+    admin_name: Mutatá
+    iso3c: COL
+    shapeID: 7082276B10402397965480
+  MutiscuaAdm2COL:
+    admin_name: Mutiscua
+    iso3c: COL
+    shapeID: 7082276B67639044969087
+  MuzoAdm2COL:
+    admin_name: Muzo
+    iso3c: COL
+    shapeID: 7082276B18925314356411
+  NariñoAdm1COL:
+    admin_name: Nariño
+    iso3c: COL
+    shapeID: 13589884B81785725414319
+  NariñoAdm2COL:
+    admin_name: Nariño
+    iso3c: COL
+    shapeID: 7082276B90486615303500
+  NátagaAdm2COL:
+    admin_name: Nátaga
+    iso3c: COL
+    shapeID: 7082276B27593936754080
+  NatagaimaAdm2COL:
+    admin_name: Natagaima
+    iso3c: COL
+    shapeID: 7082276B16857235626689
+  NechíAdm2COL:
+    admin_name: Nechí
+    iso3c: COL
+    shapeID: 7082276B35655798439233
+  NecoclíAdm2COL:
+    admin_name: Necoclí
+    iso3c: COL
+    shapeID: 7082276B32018425198797
+  NeiraAdm2COL:
+    admin_name: Neira
+    iso3c: COL
+    shapeID: 7082276B80634315286729
+  NeivaAdm2COL:
+    admin_name: Neiva
+    iso3c: COL
+    shapeID: 7082276B10918286355
+  NemocónAdm2COL:
+    admin_name: Nemocón
+    iso3c: COL
+    shapeID: 7082276B92321812623642
+  NiloAdm2COL:
+    admin_name: Nilo
+    iso3c: COL
+    shapeID: 7082276B27819593361412
+  NimaimaAdm2COL:
+    admin_name: Nimaima
+    iso3c: COL
+    shapeID: 7082276B59131277031860
+  NobsaAdm2COL:
+    admin_name: Nobsa
+    iso3c: COL
+    shapeID: 7082276B57023336405526
+  NocaimaAdm2COL:
+    admin_name: Nocaima
+    iso3c: COL
+    shapeID: 7082276B65094191435566
+  NorcasiaAdm2COL:
+    admin_name: Norcasia
+    iso3c: COL
+    shapeID: 7082276B5285222782638
+  NorosiAdm2COL:
+    admin_name: Norosi
+    iso3c: COL
+    shapeID: 7082276B10852217630154
+  NortedeSantanderAdm1COL:
+    admin_name: NortedeSantander
+    iso3c: COL
+    shapeID: 13589884B27060143959141
+  NóvitaAdm2COL:
+    admin_name: Nóvita
+    iso3c: COL
+    shapeID: 7082276B8825594364674
+  NuevaGranadaAdm2COL:
+    admin_name: NuevaGranada
+    iso3c: COL
+    shapeID: 7082276B5814206039603
+  NuevoColónAdm2COL:
+    admin_name: NuevoColón
+    iso3c: COL
+    shapeID: 7082276B31852180812042
+  NunchiaAdm2COL:
+    admin_name: Nunchia
+    iso3c: COL
+    shapeID: 7082276B17958852620007
+  NuquíAdm2COL:
+    admin_name: Nuquí
+    iso3c: COL
+    shapeID: 7082276B77502299141728
+  ObandoAdm2COL:
+    admin_name: Obando
+    iso3c: COL
+    shapeID: 7082276B70785210683383
+  OcamonteAdm2COL:
+    admin_name: Ocamonte
+    iso3c: COL
+    shapeID: 7082276B93797030728524
+  OcañaAdm2COL:
+    admin_name: Ocaña
+    iso3c: COL
+    shapeID: 7082276B12484805764820
+  OibaAdm2COL:
+    admin_name: Oiba
+    iso3c: COL
+    shapeID: 7082276B26370830430673
+  OicataAdm2COL:
+    admin_name: Oicata
+    iso3c: COL
+    shapeID: 7082276B7935915117339
+  OlayaAdm2COL:
+    admin_name: Olaya
+    iso3c: COL
+    shapeID: 7082276B51610426990427
+  OlayaHerrera(BocasDeSatinga)Adm2COL:
+    admin_name: OlayaHerrera(BocasDeSatinga)
+    iso3c: COL
+    shapeID: 7082276B29400931083820
+  OnzagaAdm2COL:
+    admin_name: Onzaga
+    iso3c: COL
+    shapeID: 7082276B75716633993754
+  OporapaAdm2COL:
+    admin_name: Oporapa
+    iso3c: COL
+    shapeID: 7082276B53955243236004
+  OritoAdm2COL:
+    admin_name: Orito
+    iso3c: COL
+    shapeID: 7082276B12408702465478
+  OrocuéAdm2COL:
+    admin_name: Orocué
+    iso3c: COL
+    shapeID: 7082276B28249229297744
+  OrtegaAdm2COL:
+    admin_name: Ortega
+    iso3c: COL
+    shapeID: 7082276B4553188795212
+  OspinaAdm2COL:
+    admin_name: Ospina
+    iso3c: COL
+    shapeID: 7082276B72595090323112
+  OtancheAdm2COL:
+    admin_name: Otanche
+    iso3c: COL
+    shapeID: 7082276B30571260064971
+  OvejasAdm2COL:
+    admin_name: Ovejas
+    iso3c: COL
+    shapeID: 7082276B76166761689689
+  PachavitaAdm2COL:
+    admin_name: Pachavita
+    iso3c: COL
+    shapeID: 7082276B87179033828230
+  PachoAdm2COL:
+    admin_name: Pacho
+    iso3c: COL
+    shapeID: 7082276B92865884587662
+  Pacoa(Cor.Departamental)Adm2COL:
+    admin_name: Pacoa(Cor.Departamental)
+    iso3c: COL
+    shapeID: 7082276B7457968430038
+  PácoraAdm2COL:
+    admin_name: Pácora
+    iso3c: COL
+    shapeID: 7082276B78665343411960
+  PadillaAdm2COL:
+    admin_name: Padilla
+    iso3c: COL
+    shapeID: 7082276B60306197316687
+  PáezAdm2COL:
+    admin_name: Páez
+    iso3c: COL
+    shapeID: 7082276B49287929101879
+  PaicolAdm2COL:
+    admin_name: Paicol
+    iso3c: COL
+    shapeID: 7082276B2042357516453
+  PailitasAdm2COL:
+    admin_name: Pailitas
+    iso3c: COL
+    shapeID: 7082276B45441685254380
+  PaimeAdm2COL:
+    admin_name: Paime
+    iso3c: COL
+    shapeID: 7082276B96064980503158
+  PaipaAdm2COL:
+    admin_name: Paipa
+    iso3c: COL
+    shapeID: 7082276B8321957646426
+  PajaritoAdm2COL:
+    admin_name: Pajarito
+    iso3c: COL
+    shapeID: 7082276B9160277643653
+  PalermoAdm2COL:
+    admin_name: Palermo
+    iso3c: COL
+    shapeID: 7082276B31327332190978
+  PalestinaAdm2COL:
+    admin_name: Palestina
+    iso3c: COL
+    shapeID: 7082276B25073710076057
+  PalmarAdm2COL:
+    admin_name: Palmar
+    iso3c: COL
+    shapeID: 7082276B88834330178766
+  PalmarDeVarelaAdm2COL:
+    admin_name: PalmarDeVarela
+    iso3c: COL
+    shapeID: 7082276B56269884010814
+  PalmasDelSocorroAdm2COL:
+    admin_name: PalmasDelSocorro
+    iso3c: COL
+    shapeID: 7082276B11851573676927
+  PalmiraAdm2COL:
+    admin_name: Palmira
+    iso3c: COL
+    shapeID: 7082276B49686436836196
+  PalmitoAdm2COL:
+    admin_name: Palmito
+    iso3c: COL
+    shapeID: 7082276B68418970079428
+  PalocabildoAdm2COL:
+    admin_name: Palocabildo
+    iso3c: COL
+    shapeID: 7082276B76880403363751
+  PamplonaAdm2COL:
+    admin_name: Pamplona
+    iso3c: COL
+    shapeID: 7082276B8319460942471
+  PamplonitaAdm2COL:
+    admin_name: Pamplonita
+    iso3c: COL
+    shapeID: 7082276B88663315175961
+  Paná-paná(CampoAlegre)Adm2COL:
+    admin_name: Paná-paná(CampoAlegre)
+    iso3c: COL
+    shapeID: 7082276B62655490891692
+  PandiAdm2COL:
+    admin_name: Pandi
+    iso3c: COL
+    shapeID: 7082276B83110653557136
+  PanquebaAdm2COL:
+    admin_name: Panqueba
+    iso3c: COL
+    shapeID: 7082276B16553832193382
+  Papunaua(cor.Departamental)Adm2COL:
+    admin_name: Papunaua(cor.Departamental)
+    iso3c: COL
+    shapeID: 7082276B69012408325747
+  PáramoAdm2COL:
+    admin_name: Páramo
+    iso3c: COL
+    shapeID: 7082276B4805358914632
+  ParatebuenoAdm2COL:
+    admin_name: Paratebueno
+    iso3c: COL
+    shapeID: 7082276B37141282912901
+  PascaAdm2COL:
+    admin_name: Pasca
+    iso3c: COL
+    shapeID: 7082276B89051465067513
+  PastoAdm2COL:
+    admin_name: Pasto
+    iso3c: COL
+    shapeID: 7082276B828212266438
+  PatíaAdm2COL:
+    admin_name: Patía
+    iso3c: COL
+    shapeID: 7082276B46133695651434
+  PaunaAdm2COL:
+    admin_name: Pauna
+    iso3c: COL
+    shapeID: 7082276B32688879052620
+  PayaAdm2COL:
+    admin_name: Paya
+    iso3c: COL
+    shapeID: 7082276B35897669822382
+  PazDeAriporoAdm2COL:
+    admin_name: PazDeAriporo
+    iso3c: COL
+    shapeID: 7082276B32488030547396
+  PazDeRíoAdm2COL:
+    admin_name: PazDeRío
+    iso3c: COL
+    shapeID: 7082276B10900430130409
+  PedrazaAdm2COL:
+    admin_name: Pedraza
+    iso3c: COL
+    shapeID: 7082276B4621695095776
+  PelayaAdm2COL:
+    admin_name: Pelaya
+    iso3c: COL
+    shapeID: 7082276B17184612487952
+  PeñolAdm2COL:
+    admin_name: Peñol
+    iso3c: COL
+    shapeID: 7082276B19280887364863
+  PensilvaniaAdm2COL:
+    admin_name: Pensilvania
+    iso3c: COL
+    shapeID: 7082276B91355004650478
+  PequeAdm2COL:
+    admin_name: Peque
+    iso3c: COL
+    shapeID: 7082276B42388352682684
+  PereiraAdm2COL:
+    admin_name: Pereira
+    iso3c: COL
+    shapeID: 7082276B56557214099866
+  PescaAdm2COL:
+    admin_name: Pesca
+    iso3c: COL
+    shapeID: 7082276B29348566531971
+  PiamonteAdm2COL:
+    admin_name: Piamonte
+    iso3c: COL
+    shapeID: 7082276B2298083414171
+  PiedecuestaAdm2COL:
+    admin_name: Piedecuesta
+    iso3c: COL
+    shapeID: 7082276B40020724861964
+  PiedrasAdm2COL:
+    admin_name: Piedras
+    iso3c: COL
+    shapeID: 7082276B38653982306093
+  PiendamóAdm2COL:
+    admin_name: Piendamó
+    iso3c: COL
+    shapeID: 7082276B51071963604741
+  PijaoAdm2COL:
+    admin_name: Pijao
+    iso3c: COL
+    shapeID: 7082276B22277763183107
+  PijiñoDelCarmenAdm2COL:
+    admin_name: PijiñoDelCarmen
+    iso3c: COL
+    shapeID: 7082276B92401866793230
+  PinchoteAdm2COL:
+    admin_name: Pinchote
+    iso3c: COL
+    shapeID: 7082276B63332644683042
+  PinillosAdm2COL:
+    admin_name: Pinillos
+    iso3c: COL
+    shapeID: 7082276B11088178486316
+  PiojóAdm2COL:
+    admin_name: Piojó
+    iso3c: COL
+    shapeID: 7082276B86748293561123
+  PisbaAdm2COL:
+    admin_name: Pisba
+    iso3c: COL
+    shapeID: 7082276B47787329077767
+  PitalAdm2COL:
+    admin_name: Pital
+    iso3c: COL
+    shapeID: 7082276B7472768394533
+  PitalitoAdm2COL:
+    admin_name: Pitalito
+    iso3c: COL
+    shapeID: 7082276B60713931967074
+  PivijayAdm2COL:
+    admin_name: Pivijay
+    iso3c: COL
+    shapeID: 7082276B47489948463492
+  PlanadasAdm2COL:
+    admin_name: Planadas
+    iso3c: COL
+    shapeID: 7082276B16084639884321
+  PlanetaRicaAdm2COL:
+    admin_name: PlanetaRica
+    iso3c: COL
+    shapeID: 7082276B80590541322952
+  PlatoAdm2COL:
+    admin_name: Plato
+    iso3c: COL
+    shapeID: 7082276B24438345554060
+  PolicarpaAdm2COL:
+    admin_name: Policarpa
+    iso3c: COL
+    shapeID: 7082276B31672425369097
+  PolonuevoAdm2COL:
+    admin_name: Polonuevo
+    iso3c: COL
+    shapeID: 7082276B89878493029367
+  PonederaAdm2COL:
+    admin_name: Ponedera
+    iso3c: COL
+    shapeID: 7082276B66723119854889
+  PopayánAdm2COL:
+    admin_name: Popayán
+    iso3c: COL
+    shapeID: 7082276B86437588749871
+  PoreAdm2COL:
+    admin_name: Pore
+    iso3c: COL
+    shapeID: 7082276B49773009508333
+  PotosíAdm2COL:
+    admin_name: Potosí
+    iso3c: COL
+    shapeID: 7082276B28332930136844
+  PraderaAdm2COL:
+    admin_name: Pradera
+    iso3c: COL
+    shapeID: 7082276B33285563238152
+  PradoAdm2COL:
+    admin_name: Prado
+    iso3c: COL
+    shapeID: 7082276B50154878845236
+  Providencia(SantaIsabel)Adm2COL:
+    admin_name: Providencia(SantaIsabel)
+    iso3c: COL
+    shapeID: 7082276B29529138088476
+  ProvidenciaAdm2COL:
+    admin_name: Providencia
+    iso3c: COL
+    shapeID: 7082276B88389252568355
+  PuebloBelloAdm2COL:
+    admin_name: PuebloBello
+    iso3c: COL
+    shapeID: 7082276B89066354157949
+  PuebloNuevoAdm2COL:
+    admin_name: PuebloNuevo
+    iso3c: COL
+    shapeID: 7082276B76767712756641
+  PuebloRicoAdm2COL:
+    admin_name: PuebloRico
+    iso3c: COL
+    shapeID: 7082276B22807037286061
+  PueblorricoAdm2COL:
+    admin_name: Pueblorrico
+    iso3c: COL
+    shapeID: 7082276B28437214544786
+  PuebloViejoAdm2COL:
+    admin_name: PuebloViejo
+    iso3c: COL
+    shapeID: 7082276B85256872918621
+  PuenteNacionalAdm2COL:
+    admin_name: PuenteNacional
+    iso3c: COL
+    shapeID: 7082276B3826053378979
+  PuerresAdm2COL:
+    admin_name: Puerres
+    iso3c: COL
+    shapeID: 7082276B46740439042483
+  PuertoAlegríaAdm2COL:
+    admin_name: PuertoAlegría
+    iso3c: COL
+    shapeID: 7082276B15256258741932
+  PuertoAricaAdm2COL:
+    admin_name: PuertoArica
+    iso3c: COL
+    shapeID: 7082276B12752174373355
+  PuertoAsísAdm2COL:
+    admin_name: PuertoAsís
+    iso3c: COL
+    shapeID: 7082276B42533804398270
+  PuertoBerríoAdm2COL:
+    admin_name: PuertoBerrío
+    iso3c: COL
+    shapeID: 7082276B36153632793263
+  PuertoBoyacáAdm2COL:
+    admin_name: PuertoBoyacá
+    iso3c: COL
+    shapeID: 7082276B10585708061512
+  PuertoCaicedoAdm2COL:
+    admin_name: PuertoCaicedo
+    iso3c: COL
+    shapeID: 7082276B64544196905368
+  PuertoCarreñoAdm2COL:
+    admin_name: PuertoCarreño
+    iso3c: COL
+    shapeID: 7082276B50420641639319
+  PuertoColombiaAdm2COL:
+    admin_name: PuertoColombia
+    iso3c: COL
+    shapeID: 7082276B53697702098906
+  PuertoConcordiaAdm2COL:
+    admin_name: PuertoConcordia
+    iso3c: COL
+    shapeID: 7082276B49783171180305
+  PuertoEscondidoAdm2COL:
+    admin_name: PuertoEscondido
+    iso3c: COL
+    shapeID: 7082276B3276683190429
+  PuertoGaitánAdm2COL:
+    admin_name: PuertoGaitán
+    iso3c: COL
+    shapeID: 7082276B98813411003149
+  PuertoGuzmánAdm2COL:
+    admin_name: PuertoGuzmán
+    iso3c: COL
+    shapeID: 7082276B85477944676343
+  PuertoLeguízamoAdm2COL:
+    admin_name: PuertoLeguízamo
+    iso3c: COL
+    shapeID: 7082276B4639527364844
+  PuertoLibertadorAdm2COL:
+    admin_name: PuertoLibertador
+    iso3c: COL
+    shapeID: 7082276B17720170478465
+  PuertoLlerasAdm2COL:
+    admin_name: PuertoLleras
+    iso3c: COL
+    shapeID: 7082276B33547604414651
+  PuertoLópezAdm2COL:
+    admin_name: PuertoLópez
+    iso3c: COL
+    shapeID: 7082276B57935964838020
+  PuertoNareAdm2COL:
+    admin_name: PuertoNare
+    iso3c: COL
+    shapeID: 7082276B40653631008406
+  PuertoNariñoAdm2COL:
+    admin_name: PuertoNariño
+    iso3c: COL
+    shapeID: 7082276B14998951172946
+  PuertoParraAdm2COL:
+    admin_name: PuertoParra
+    iso3c: COL
+    shapeID: 7082276B16167878822858
+  PuertoRicoAdm2COL:
+    admin_name: PuertoRico
+    iso3c: COL
+    shapeID: 7082276B35792863392111
+  PuertoRondónAdm2COL:
+    admin_name: PuertoRondón
+    iso3c: COL
+    shapeID: 7082276B48605985455717
+  PuertoSalgarAdm2COL:
+    admin_name: PuertoSalgar
+    iso3c: COL
+    shapeID: 7082276B40281843469492
+  PuertoSantanderAdm2COL:
+    admin_name: PuertoSantander
+    iso3c: COL
+    shapeID: 7082276B36155963658062
+  PuertoTejadaAdm2COL:
+    admin_name: PuertoTejada
+    iso3c: COL
+    shapeID: 7082276B86469624898936
+  PuertoTriunfoAdm2COL:
+    admin_name: PuertoTriunfo
+    iso3c: COL
+    shapeID: 7082276B75593797021396
+  PuertoWilchesAdm2COL:
+    admin_name: PuertoWilches
+    iso3c: COL
+    shapeID: 7082276B91247844433249
+  PulíAdm2COL:
+    admin_name: Pulí
+    iso3c: COL
+    shapeID: 7082276B22739644455083
+  PupialesAdm2COL:
+    admin_name: Pupiales
+    iso3c: COL
+    shapeID: 7082276B22938058716201
+  Puracé(Coconuco)Adm2COL:
+    admin_name: Puracé(Coconuco)
+    iso3c: COL
+    shapeID: 7082276B15347498266609
+  PurificaciónAdm2COL:
+    admin_name: Purificación
+    iso3c: COL
+    shapeID: 7082276B94400039413071
+  PurísimaAdm2COL:
+    admin_name: Purísima
+    iso3c: COL
+    shapeID: 7082276B35662466924312
+  PutumayoAdm1COL:
+    admin_name: Putumayo
+    iso3c: COL
+    shapeID: 13589884B42325644495938
+  QuebradanegraAdm2COL:
+    admin_name: Quebradanegra
+    iso3c: COL
+    shapeID: 7082276B19995053800747
+  QuetameAdm2COL:
+    admin_name: Quetame
+    iso3c: COL
+    shapeID: 7082276B8666631490654
+  QuibdóAdm2COL:
+    admin_name: Quibdó
+    iso3c: COL
+    shapeID: 7082276B88455186246146
+  QuimbayaAdm2COL:
+    admin_name: Quimbaya
+    iso3c: COL
+    shapeID: 7082276B28031700236172
+  QuinchiaAdm2COL:
+    admin_name: Quinchia
+    iso3c: COL
+    shapeID: 7082276B81179954496146
+  QuindíoAdm1COL:
+    admin_name: Quindío
+    iso3c: COL
+    shapeID: 13589884B61455559641217
+  QuípamaAdm2COL:
+    admin_name: Quípama
+    iso3c: COL
+    shapeID: 7082276B17110786625118
+  QuipileAdm2COL:
+    admin_name: Quipile
+    iso3c: COL
+    shapeID: 7082276B57635529739763
+  RagonvaliaAdm2COL:
+    admin_name: Ragonvalia
+    iso3c: COL
+    shapeID: 7082276B67756005712401
+  RamiriquíAdm2COL:
+    admin_name: Ramiriquí
+    iso3c: COL
+    shapeID: 7082276B59732311285528
+  RáquiraAdm2COL:
+    admin_name: Ráquira
+    iso3c: COL
+    shapeID: 7082276B68805939866723
+  RecetorAdm2COL:
+    admin_name: Recetor
+    iso3c: COL
+    shapeID: 7082276B50018547886325
+  RegidorAdm2COL:
+    admin_name: Regidor
+    iso3c: COL
+    shapeID: 7082276B31703360799100
+  RemediosAdm2COL:
+    admin_name: Remedios
+    iso3c: COL
+    shapeID: 7082276B29490927626625
+  RemolinoAdm2COL:
+    admin_name: Remolino
+    iso3c: COL
+    shapeID: 7082276B2618998543770
+  RepelónAdm2COL:
+    admin_name: Repelón
+    iso3c: COL
+    shapeID: 7082276B99103444770776
+  RestrepoAdm2COL:
+    admin_name: Restrepo
+    iso3c: COL
+    shapeID: 7082276B24108875707183
+  RetiroAdm2COL:
+    admin_name: Retiro
+    iso3c: COL
+    shapeID: 7082276B46774973153529
+  Ricaurte(Coloso)Adm2COL:
+    admin_name: Ricaurte(Coloso)
+    iso3c: COL
+    shapeID: 7082276B22161740589779
+  RicaurteAdm2COL:
+    admin_name: Ricaurte
+    iso3c: COL
+    shapeID: 7082276B32773092643387
+  RioblancoAdm2COL:
+    admin_name: Rioblanco
+    iso3c: COL
+    shapeID: 7082276B59142300136045
+  RíoDeOroAdm2COL:
+    admin_name: RíoDeOro
+    iso3c: COL
+    shapeID: 7082276B35556421377361
+  RiofríoAdm2COL:
+    admin_name: Riofrío
+    iso3c: COL
+    shapeID: 7082276B33798425293322
+  RiohachaAdm2COL:
+    admin_name: Riohacha
+    iso3c: COL
+    shapeID: 7082276B41074866331491
+  RioIró(SantaRita)Adm2COL:
+    admin_name: RioIró(SantaRita)
+    iso3c: COL
+    shapeID: 7082276B57881293772314
+  RionegroAdm2COL:
+    admin_name: Rionegro
+    iso3c: COL
+    shapeID: 7082276B88836733063931
+  RioQuito(Paimadó)Adm2COL:
+    admin_name: RioQuito(Paimadó)
+    iso3c: COL
+    shapeID: 7082276B43042384629965
+  RiosucioAdm2COL:
+    admin_name: Riosucio
+    iso3c: COL
+    shapeID: 7082276B83687707691324
+  RioviejoAdm2COL:
+    admin_name: Rioviejo
+    iso3c: COL
+    shapeID: 7082276B23720566287861
+  RisaraldaAdm1COL:
+    admin_name: Risaralda
+    iso3c: COL
+    shapeID: 13589884B85526028135750
+  RisaraldaAdm2COL:
+    admin_name: Risaralda
+    iso3c: COL
+    shapeID: 7082276B60229328321476
+  RiveraAdm2COL:
+    admin_name: Rivera
+    iso3c: COL
+    shapeID: 7082276B82824229693572
+  RobertoPayán(SanJosé)Adm2COL:
+    admin_name: RobertoPayán(SanJosé)
+    iso3c: COL
+    shapeID: 7082276B42923877059842
+  RoldanilloAdm2COL:
+    admin_name: Roldanillo
+    iso3c: COL
+    shapeID: 7082276B62857285064431
+  RoncesvallesAdm2COL:
+    admin_name: Roncesvalles
+    iso3c: COL
+    shapeID: 7082276B73571332128099
+  RondónAdm2COL:
+    admin_name: Rondón
+    iso3c: COL
+    shapeID: 7082276B99047670325633
+  RosasAdm2COL:
+    admin_name: Rosas
+    iso3c: COL
+    shapeID: 7082276B70920947673933
+  RoviraAdm2COL:
+    admin_name: Rovira
+    iso3c: COL
+    shapeID: 7082276B59916866307322
+  SabanaDeTorresAdm2COL:
+    admin_name: SabanaDeTorres
+    iso3c: COL
+    shapeID: 7082276B5396414457031
+  SabanagrandeAdm2COL:
+    admin_name: Sabanagrande
+    iso3c: COL
+    shapeID: 7082276B21965352685989
+  SabanalargaAdm2COL:
+    admin_name: Sabanalarga
+    iso3c: COL
+    shapeID: 7082276B39650690530717
+  SabanasDeSanAngelAdm2COL:
+    admin_name: SabanasDeSanAngel
+    iso3c: COL
+    shapeID: 7082276B63741356680153
+  SabanetaAdm2COL:
+    admin_name: Sabaneta
+    iso3c: COL
+    shapeID: 7082276B45005796223132
+  SaboyáAdm2COL:
+    admin_name: Saboyá
+    iso3c: COL
+    shapeID: 7082276B63710886771215
+  SacamaAdm2COL:
+    admin_name: Sacama
+    iso3c: COL
+    shapeID: 7082276B28125615795996
+  SáchicaAdm2COL:
+    admin_name: Sáchica
+    iso3c: COL
+    shapeID: 7082276B53225686763348
+  SahagúnAdm2COL:
+    admin_name: Sahagún
+    iso3c: COL
+    shapeID: 7082276B34877429512170
+  SaladoblancoAdm2COL:
+    admin_name: Saladoblanco
+    iso3c: COL
+    shapeID: 7082276B71793235558462
+  SalaminaAdm2COL:
+    admin_name: Salamina
+    iso3c: COL
+    shapeID: 7082276B24883943395769
+  SalazarAdm2COL:
+    admin_name: Salazar
+    iso3c: COL
+    shapeID: 7082276B2065946999861
+  SaldañaAdm2COL:
+    admin_name: Saldaña
+    iso3c: COL
+    shapeID: 7082276B58225097542438
+  SalentoAdm2COL:
+    admin_name: Salento
+    iso3c: COL
+    shapeID: 7082276B37195114642514
+  SalgarAdm2COL:
+    admin_name: Salgar
+    iso3c: COL
+    shapeID: 7082276B68857935293525
+  SamacáAdm2COL:
+    admin_name: Samacá
+    iso3c: COL
+    shapeID: 7082276B67984483460404
+  SamanaAdm2COL:
+    admin_name: Samana
+    iso3c: COL
+    shapeID: 7082276B26137922991346
+  SamaniegoAdm2COL:
+    admin_name: Samaniego
+    iso3c: COL
+    shapeID: 7082276B98763994729952
+  SampuésAdm2COL:
+    admin_name: Sampués
+    iso3c: COL
+    shapeID: 7082276B86835655718123
+  SanAgustínAdm2COL:
+    admin_name: SanAgustín
+    iso3c: COL
+    shapeID: 7082276B97741553625130
+  SanAlbertoAdm2COL:
+    admin_name: SanAlberto
+    iso3c: COL
+    shapeID: 7082276B88825999787077
+  SanAndresAdm2COL:
+    admin_name: SanAndres
+    iso3c: COL
+    shapeID: 7082276B75559195453078
+  SanAndrésAdm2COL:
+    admin_name: SanAndrés
+    iso3c: COL
+    shapeID: 7082276B48431057450442
+  SanAndrèsAdm2COL:
+    admin_name: SanAndrès
+    iso3c: COL
+    shapeID: 7082276B55021826585662
+  SanAndresDeSotaventoAdm2COL:
+    admin_name: SanAndresDeSotavento
+    iso3c: COL
+    shapeID: 7082276B77383139939829
+  SanAnteroAdm2COL:
+    admin_name: SanAntero
+    iso3c: COL
+    shapeID: 7082276B13648445071260
+  SanAntonioAdm2COL:
+    admin_name: SanAntonio
+    iso3c: COL
+    shapeID: 7082276B18845441418980
+  SanAntonioDelTequendamaAdm2COL:
+    admin_name: SanAntonioDelTequendama
+    iso3c: COL
+    shapeID: 7082276B32328696535418
+  SanBenitoAbadAdm2COL:
+    admin_name: SanBenitoAbad
+    iso3c: COL
+    shapeID: 7082276B25365830428844
+  SanBenitoAdm2COL:
+    admin_name: SanBenito
+    iso3c: COL
+    shapeID: 7082276B8887229584213
+  SanBernardoAdm2COL:
+    admin_name: SanBernardo
+    iso3c: COL
+    shapeID: 7082276B63706767253124
+  SanBernardoDelVientoAdm2COL:
+    admin_name: SanBernardoDelViento
+    iso3c: COL
+    shapeID: 7082276B36183297139579
+  SanCalixtoAdm2COL:
+    admin_name: SanCalixto
+    iso3c: COL
+    shapeID: 7082276B87116730162989
+  SanCarlosAdm2COL:
+    admin_name: SanCarlos
+    iso3c: COL
+    shapeID: 7082276B57278693475313
+  SanCarlosDeGuaroaAdm2COL:
+    admin_name: SanCarlosDeGuaroa
+    iso3c: COL
+    shapeID: 7082276B46301528303112
+  SanCayetanoAdm2COL:
+    admin_name: SanCayetano
+    iso3c: COL
+    shapeID: 7082276B62446373339700
+  SanCristóbalAdm2COL:
+    admin_name: SanCristóbal
+    iso3c: COL
+    shapeID: 7082276B17272227994526
+  SanDiegoAdm2COL:
+    admin_name: SanDiego
+    iso3c: COL
+    shapeID: 7082276B78047797507683
+  SandonáAdm2COL:
+    admin_name: Sandoná
+    iso3c: COL
+    shapeID: 7082276B52993229250097
+  SanEduardoAdm2COL:
+    admin_name: SanEduardo
+    iso3c: COL
+    shapeID: 7082276B69252308572734
+  SanEstanislaoAdm2COL:
+    admin_name: SanEstanislao
+    iso3c: COL
+    shapeID: 7082276B79132540776800
+  SanFelipeAdm2COL:
+    admin_name: SanFelipe
+    iso3c: COL
+    shapeID: 7082276B30016646196042
+  SanFernandoAdm2COL:
+    admin_name: SanFernando
+    iso3c: COL
+    shapeID: 7082276B31468008536836
+  SanFranciscoAdm2COL:
+    admin_name: SanFrancisco
+    iso3c: COL
+    shapeID: 7082276B5434508812128
+  SanGilAdm2COL:
+    admin_name: SanGil
+    iso3c: COL
+    shapeID: 7082276B87231818219004
+  SanJacintoAdm2COL:
+    admin_name: SanJacinto
+    iso3c: COL
+    shapeID: 7082276B39027064553052
+  SanJacintoDelCaucaAdm2COL:
+    admin_name: SanJacintoDelCauca
+    iso3c: COL
+    shapeID: 7082276B25893403851567
+  SanJerónimoAdm2COL:
+    admin_name: SanJerónimo
+    iso3c: COL
+    shapeID: 7082276B34132684574045
+  SanJoaquínAdm2COL:
+    admin_name: SanJoaquín
+    iso3c: COL
+    shapeID: 7082276B31143382537536
+  SanJoséAdm2COL:
+    admin_name: SanJosé
+    iso3c: COL
+    shapeID: 7082276B53371478501914
+  SanJoséDeLaMontañaAdm2COL:
+    admin_name: SanJoséDeLaMontaña
+    iso3c: COL
+    shapeID: 7082276B28312020323085
+  SanJoséDelFraguaAdm2COL:
+    admin_name: SanJoséDelFragua
+    iso3c: COL
+    shapeID: 7082276B10460666438069
+  SanJoséDelGuaviareAdm2COL:
+    admin_name: SanJoséDelGuaviare
+    iso3c: COL
+    shapeID: 7082276B34884302801431
+  SanJoséDelPalmarAdm2COL:
+    admin_name: SanJoséDelPalmar
+    iso3c: COL
+    shapeID: 7082276B34896182965166
+  SanJoséDeMirandaAdm2COL:
+    admin_name: SanJoséDeMiranda
+    iso3c: COL
+    shapeID: 7082276B56254263811403
+  SanJoséDePareAdm2COL:
+    admin_name: SanJoséDePare
+    iso3c: COL
+    shapeID: 7082276B89227279129415
+  SanJoséDeUréAdm2COL:
+    admin_name: SanJoséDeUré
+    iso3c: COL
+    shapeID: 7082276B89146120642235
+  SanJuanDeAramaAdm2COL:
+    admin_name: SanJuanDeArama
+    iso3c: COL
+    shapeID: 7082276B21683535266968
+  SanJuanDeBetuliaAdm2COL:
+    admin_name: SanJuanDeBetulia
+    iso3c: COL
+    shapeID: 7082276B36673753762663
+  SanJuanDelCesarAdm2COL:
+    admin_name: SanJuanDelCesar
+    iso3c: COL
+    shapeID: 7082276B71643992336561
+  SanJuanDeRioSecoAdm2COL:
+    admin_name: SanJuanDeRioSeco
+    iso3c: COL
+    shapeID: 7082276B56983029747572
+  SanJuanDeUrabáAdm2COL:
+    admin_name: SanJuanDeUrabá
+    iso3c: COL
+    shapeID: 7082276B41471862384078
+  SanJuanitoAdm2COL:
+    admin_name: SanJuanito
+    iso3c: COL
+    shapeID: 7082276B64905433101217
+  SanJuanNepomucenoAdm2COL:
+    admin_name: SanJuanNepomuceno
+    iso3c: COL
+    shapeID: 7082276B34881548257448
+  SanLorenzoAdm2COL:
+    admin_name: SanLorenzo
+    iso3c: COL
+    shapeID: 7082276B92699344699207
+  SanLuisAdm2COL:
+    admin_name: SanLuis
+    iso3c: COL
+    shapeID: 7082276B26769987150825
+  SanLuisDeGacenoAdm2COL:
+    admin_name: SanLuisDeGaceno
+    iso3c: COL
+    shapeID: 7082276B35644119435262
+  SanLuisDePalenqueAdm2COL:
+    admin_name: SanLuisDePalenque
+    iso3c: COL
+    shapeID: 7082276B9336355262277
+  SanLuisDeSincéAdm2COL:
+    admin_name: SanLuisDeSincé
+    iso3c: COL
+    shapeID: 7082276B69814222913428
+  SanMarcosAdm2COL:
+    admin_name: SanMarcos
+    iso3c: COL
+    shapeID: 7082276B33104783866993
+  SanMartínAdm2COL:
+    admin_name: SanMartín
+    iso3c: COL
+    shapeID: 7082276B46554882467898
+  SanMartínDeLobaAdm2COL:
+    admin_name: SanMartínDeLoba
+    iso3c: COL
+    shapeID: 7082276B59511587690039
+  SanMateoAdm2COL:
+    admin_name: SanMateo
+    iso3c: COL
+    shapeID: 7082276B31973577978453
+  SanMiguel(LaDorada)Adm2COL:
+    admin_name: SanMiguel(LaDorada)
+    iso3c: COL
+    shapeID: 7082276B25468013916959
+  SanMiguelAdm2COL:
+    admin_name: SanMiguel
+    iso3c: COL
+    shapeID: 7082276B16360663879170
+  SanMiguelDeSemaAdm2COL:
+    admin_name: SanMiguelDeSema
+    iso3c: COL
+    shapeID: 7082276B37024957383314
+  SanOnofreAdm2COL:
+    admin_name: SanOnofre
+    iso3c: COL
+    shapeID: 7082276B86693666640795
+  SanPabloAdm2COL:
+    admin_name: SanPablo
+    iso3c: COL
+    shapeID: 7082276B74291160895840
+  SanPabloDeBorburAdm2COL:
+    admin_name: SanPabloDeBorbur
+    iso3c: COL
+    shapeID: 7082276B11762089183397
+  SanPedroAdm2COL:
+    admin_name: SanPedro
+    iso3c: COL
+    shapeID: 7082276B41914425714462
+  SanPedroDeCartagoAdm2COL:
+    admin_name: SanPedroDeCartago
+    iso3c: COL
+    shapeID: 7082276B73573713575428
+  SanPedroDeUrabaAdm2COL:
+    admin_name: SanPedroDeUraba
+    iso3c: COL
+    shapeID: 7082276B58704209579915
+  SanPelayoAdm2COL:
+    admin_name: SanPelayo
+    iso3c: COL
+    shapeID: 7082276B81203589950086
+  SanRafaelAdm2COL:
+    admin_name: SanRafael
+    iso3c: COL
+    shapeID: 7082276B22021388124839
+  SanRoqueAdm2COL:
+    admin_name: SanRoque
+    iso3c: COL
+    shapeID: 7082276B69506367450690
+  SanSebastianAdm2COL:
+    admin_name: SanSebastian
+    iso3c: COL
+    shapeID: 7082276B83850714200687
+  SanSebastianDeBuenavistaAdm2COL:
+    admin_name: SanSebastianDeBuenavista
+    iso3c: COL
+    shapeID: 7082276B86885648349086
+  SanSebastiánDeMariquitaAdm2COL:
+    admin_name: SanSebastiánDeMariquita
+    iso3c: COL
+    shapeID: 7082276B37284243870531
+  SantaAnaAdm2COL:
+    admin_name: SantaAna
+    iso3c: COL
+    shapeID: 7082276B74348291748480
+  SantaBárbara(Iscuandé)Adm2COL:
+    admin_name: SantaBárbara(Iscuandé)
+    iso3c: COL
+    shapeID: 7082276B99136561352014
+  SantaBarbaraAdm2COL:
+    admin_name: SantaBarbara
+    iso3c: COL
+    shapeID: 7082276B97300956542202
+  SantaBárbaraAdm2COL:
+    admin_name: SantaBárbara
+    iso3c: COL
+    shapeID: 7082276B96866833393824
+  SantaBárbaraDePintoAdm2COL:
+    admin_name: SantaBárbaraDePinto
+    iso3c: COL
+    shapeID: 7082276B88676638164963
+  SantaCatalinaAdm2COL:
+    admin_name: SantaCatalina
+    iso3c: COL
+    shapeID: 7082276B95820075707853
+  SantaCruz(Guachavés)Adm2COL:
+    admin_name: SantaCruz(Guachavés)
+    iso3c: COL
+    shapeID: 7082276B62156244785095
+  SantaFeDeAntioquiaAdm2COL:
+    admin_name: SantaFeDeAntioquia
+    iso3c: COL
+    shapeID: 7082276B62917896081340
+  SantaHelenaDelOpónAdm2COL:
+    admin_name: SantaHelenaDelOpón
+    iso3c: COL
+    shapeID: 7082276B2871746800234
+  SantaIsabelAdm2COL:
+    admin_name: SantaIsabel
+    iso3c: COL
+    shapeID: 7082276B22900870629792
+  SantaLucíaAdm2COL:
+    admin_name: SantaLucía
+    iso3c: COL
+    shapeID: 7082276B3816592638323
+  SantaMaríaAdm2COL:
+    admin_name: SantaMaría
+    iso3c: COL
+    shapeID: 7082276B96191946256227
+  SantaMartaAdm2COL:
+    admin_name: SantaMarta
+    iso3c: COL
+    shapeID: 7082276B2481053474358
+  SantanaAdm2COL:
+    admin_name: Santana
+    iso3c: COL
+    shapeID: 7082276B99555261939009
+  Santander(Araracuara)Adm2COL:
+    admin_name: Santander(Araracuara)
+    iso3c: COL
+    shapeID: 7082276B22108715685729
+  SantanderAdm1COL:
+    admin_name: Santander
+    iso3c: COL
+    shapeID: 13589884B55612798068582
+  SantanderDeQuilichaoAdm2COL:
+    admin_name: SantanderDeQuilichao
+    iso3c: COL
+    shapeID: 7082276B54402931041417
+  SantaRosaAdm2COL:
+    admin_name: SantaRosa
+    iso3c: COL
+    shapeID: 7082276B66298058490333
+  SantaRosaDeCabalAdm2COL:
+    admin_name: SantaRosaDeCabal
+    iso3c: COL
+    shapeID: 7082276B83235998403741
+  SantaRosaDelSurAdm2COL:
+    admin_name: SantaRosaDelSur
+    iso3c: COL
+    shapeID: 7082276B21319796766403
+  SantaRosaDeOsosAdm2COL:
+    admin_name: SantaRosaDeOsos
+    iso3c: COL
+    shapeID: 7082276B84745263365816
+  SantaRosaDeViterboAdm2COL:
+    admin_name: SantaRosaDeViterbo
+    iso3c: COL
+    shapeID: 7082276B66726044645643
+  SantaRosalíaAdm2COL:
+    admin_name: SantaRosalía
+    iso3c: COL
+    shapeID: 7082276B93791485890149
+  SantaSofíaAdm2COL:
+    admin_name: SantaSofía
+    iso3c: COL
+    shapeID: 7082276B71220292123998
+  SantiagoAdm2COL:
+    admin_name: Santiago
+    iso3c: COL
+    shapeID: 7082276B46652813216763
+  SantiagoDeTolúAdm2COL:
+    admin_name: SantiagoDeTolú
+    iso3c: COL
+    shapeID: 7082276B38303278930766
+  SantoDomingoAdm2COL:
+    admin_name: SantoDomingo
+    iso3c: COL
+    shapeID: 7082276B22533299830679
+  SantoTomásAdm2COL:
+    admin_name: SantoTomás
+    iso3c: COL
+    shapeID: 7082276B26662960638408
+  SantuarioAdm2COL:
+    admin_name: Santuario
+    iso3c: COL
+    shapeID: 7082276B94557832813539
+  SanVicenteAdm2COL:
+    admin_name: SanVicente
+    iso3c: COL
+    shapeID: 7082276B36807549160801
+  SanVicenteDeChucuriAdm2COL:
+    admin_name: SanVicenteDeChucuri
+    iso3c: COL
+    shapeID: 7082276B82845110848853
+  SanVicenteDelCaguánAdm2COL:
+    admin_name: SanVicenteDelCaguán
+    iso3c: COL
+    shapeID: 7082276B18611822799653
+  SanZenónAdm2COL:
+    admin_name: SanZenón
+    iso3c: COL
+    shapeID: 7082276B67233849099961
+  SapuyesAdm2COL:
+    admin_name: Sapuyes
+    iso3c: COL
+    shapeID: 7082276B44566424011980
+  SaravenaAdm2COL:
+    admin_name: Saravena
+    iso3c: COL
+    shapeID: 7082276B82092326116351
+  SardinataAdm2COL:
+    admin_name: Sardinata
+    iso3c: COL
+    shapeID: 7082276B13040058955326
+  SasaimaAdm2COL:
+    admin_name: Sasaima
+    iso3c: COL
+    shapeID: 7082276B5066904917882
+  SativanorteAdm2COL:
+    admin_name: Sativanorte
+    iso3c: COL
+    shapeID: 7082276B25925183447781
+  SativasurAdm2COL:
+    admin_name: Sativasur
+    iso3c: COL
+    shapeID: 7082276B82501132437521
+  SegoviaAdm2COL:
+    admin_name: Segovia
+    iso3c: COL
+    shapeID: 7082276B19668764793541
+  SesquiléAdm2COL:
+    admin_name: Sesquilé
+    iso3c: COL
+    shapeID: 7082276B63627699058168
+  SevillaAdm2COL:
+    admin_name: Sevilla
+    iso3c: COL
+    shapeID: 7082276B53054479905694
+  SiachoqueAdm2COL:
+    admin_name: Siachoque
+    iso3c: COL
+    shapeID: 7082276B99091285549459
+  SibatéAdm2COL:
+    admin_name: Sibaté
+    iso3c: COL
+    shapeID: 7082276B14129572791047
+  SibundoyAdm2COL:
+    admin_name: Sibundoy
+    iso3c: COL
+    shapeID: 7082276B87047054998240
+  SilosAdm2COL:
+    admin_name: Silos
+    iso3c: COL
+    shapeID: 7082276B89069958186341
+  SilvaniaAdm2COL:
+    admin_name: Silvania
+    iso3c: COL
+    shapeID: 7082276B74452941535479
+  SilviaAdm2COL:
+    admin_name: Silvia
+    iso3c: COL
+    shapeID: 7082276B59383263331081
+  SimacotaAdm2COL:
+    admin_name: Simacota
+    iso3c: COL
+    shapeID: 7082276B23546148362682
+  SimijacaAdm2COL:
+    admin_name: Simijaca
+    iso3c: COL
+    shapeID: 7082276B8472731390370
+  SimitíAdm2COL:
+    admin_name: Simití
+    iso3c: COL
+    shapeID: 7082276B2772828416009
+  SincelejoAdm2COL:
+    admin_name: Sincelejo
+    iso3c: COL
+    shapeID: 7082276B68142499203248
+  SipíAdm2COL:
+    admin_name: Sipí
+    iso3c: COL
+    shapeID: 7082276B50547805834837
+  SitionuevoAdm2COL:
+    admin_name: Sitionuevo
+    iso3c: COL
+    shapeID: 7082276B53559247838582
+  SoachaAdm2COL:
+    admin_name: Soacha
+    iso3c: COL
+    shapeID: 7082276B50901736205159
+  SoatáAdm2COL:
+    admin_name: Soatá
+    iso3c: COL
+    shapeID: 7082276B16806691942886
+  SochaAdm2COL:
+    admin_name: Socha
+    iso3c: COL
+    shapeID: 7082276B6203898628626
+  SocorroAdm2COL:
+    admin_name: Socorro
+    iso3c: COL
+    shapeID: 7082276B29346978372960
+  SocotáAdm2COL:
+    admin_name: Socotá
+    iso3c: COL
+    shapeID: 7082276B38564050638849
+  SogamosoAdm2COL:
+    admin_name: Sogamoso
+    iso3c: COL
+    shapeID: 7082276B30941570566225
+  SolanoAdm2COL:
+    admin_name: Solano
+    iso3c: COL
+    shapeID: 7082276B1556586451217
+  SoledadAdm2COL:
+    admin_name: Soledad
+    iso3c: COL
+    shapeID: 7082276B16795204487945
+  SolitaAdm2COL:
+    admin_name: Solita
+    iso3c: COL
+    shapeID: 7082276B92515443610451
+  SomondocoAdm2COL:
+    admin_name: Somondoco
+    iso3c: COL
+    shapeID: 7082276B21743509672590
+  SonsónAdm2COL:
+    admin_name: Sonsón
+    iso3c: COL
+    shapeID: 7082276B57084429833663
+  SopetránAdm2COL:
+    admin_name: Sopetrán
+    iso3c: COL
+    shapeID: 7082276B56880997527404
+  SoplavientoAdm2COL:
+    admin_name: Soplaviento
+    iso3c: COL
+    shapeID: 7082276B6546865194855
+  SopoAdm2COL:
+    admin_name: Sopo
+    iso3c: COL
+    shapeID: 7082276B26138055431911
+  SoraAdm2COL:
+    admin_name: Sora
+    iso3c: COL
+    shapeID: 7082276B62780892273101
+  SoracáAdm2COL:
+    admin_name: Soracá
+    iso3c: COL
+    shapeID: 7082276B41688311282936
+  SotaquiráAdm2COL:
+    admin_name: Sotaquirá
+    iso3c: COL
+    shapeID: 7082276B24848534982684
+  Sotará(Paispamba)Adm2COL:
+    admin_name: Sotará(Paispamba)
+    iso3c: COL
+    shapeID: 7082276B86170920101397
+  SuaitaAdm2COL:
+    admin_name: Suaita
+    iso3c: COL
+    shapeID: 7082276B85655990008010
+  SuanAdm2COL:
+    admin_name: Suan
+    iso3c: COL
+    shapeID: 7082276B14596703895103
+  SuarézAdm2COL:
+    admin_name: Suaréz
+    iso3c: COL
+    shapeID: 7082276B98647828485623
+  SuárezAdm2COL:
+    admin_name: Suárez
+    iso3c: COL
+    shapeID: 7082276B17294841242383
+  SuazaAdm2COL:
+    admin_name: Suaza
+    iso3c: COL
+    shapeID: 7082276B29582947964512
+  SubachoqueAdm2COL:
+    admin_name: Subachoque
+    iso3c: COL
+    shapeID: 7082276B58958206907814
+  SucreAdm1COL:
+    admin_name: Sucre
+    iso3c: COL
+    shapeID: 13589884B67390718500375
+  SucreAdm2COL:
+    admin_name: Sucre
+    iso3c: COL
+    shapeID: 7082276B47769001538338
+  SuescaAdm2COL:
+    admin_name: Suesca
+    iso3c: COL
+    shapeID: 7082276B94455974719005
+  SupatáAdm2COL:
+    admin_name: Supatá
+    iso3c: COL
+    shapeID: 7082276B73232979228436
+  SupiaAdm2COL:
+    admin_name: Supia
+    iso3c: COL
+    shapeID: 7082276B1777819545568
+  SuratáAdm2COL:
+    admin_name: Suratá
+    iso3c: COL
+    shapeID: 7082276B18867308996303
+  SusaAdm2COL:
+    admin_name: Susa
+    iso3c: COL
+    shapeID: 7082276B26676280145187
+  SusacónAdm2COL:
+    admin_name: Susacón
+    iso3c: COL
+    shapeID: 7082276B12166433159462
+  SutamarchànAdm2COL:
+    admin_name: Sutamarchàn
+    iso3c: COL
+    shapeID: 7082276B91786525694715
+  SutatausaAdm2COL:
+    admin_name: Sutatausa
+    iso3c: COL
+    shapeID: 7082276B12130404370303
+  SutatenzaAdm2COL:
+    admin_name: Sutatenza
+    iso3c: COL
+    shapeID: 7082276B29304036127209
+  TabioAdm2COL:
+    admin_name: Tabio
+    iso3c: COL
+    shapeID: 7082276B43625125336018
+  TadóAdm2COL:
+    admin_name: Tadó
+    iso3c: COL
+    shapeID: 7082276B86904559809659
+  TalaiguaNuevoAdm2COL:
+    admin_name: TalaiguaNuevo
+    iso3c: COL
+    shapeID: 7082276B83153593074070
+  TamalamequeAdm2COL:
+    admin_name: Tamalameque
+    iso3c: COL
+    shapeID: 7082276B88899531515533
+  TamaraAdm2COL:
+    admin_name: Tamara
+    iso3c: COL
+    shapeID: 7082276B51929752700594
+  TameAdm2COL:
+    admin_name: Tame
+    iso3c: COL
+    shapeID: 7082276B91596510708856
+  TámesisAdm2COL:
+    admin_name: Támesis
+    iso3c: COL
+    shapeID: 7082276B51026070835233
+  TaminangoAdm2COL:
+    admin_name: Taminango
+    iso3c: COL
+    shapeID: 7082276B60716782034360
+  TanguaAdm2COL:
+    admin_name: Tangua
+    iso3c: COL
+    shapeID: 7082276B88194767649924
+  TarairaAdm2COL:
+    admin_name: Taraira
+    iso3c: COL
+    shapeID: 7082276B12935674193542
+  TarapacáAdm2COL:
+    admin_name: Tarapacá
+    iso3c: COL
+    shapeID: 7082276B95886697546678
+  TarazáAdm2COL:
+    admin_name: Tarazá
+    iso3c: COL
+    shapeID: 7082276B33754043012345
+  TarquiAdm2COL:
+    admin_name: Tarqui
+    iso3c: COL
+    shapeID: 7082276B81769369413646
+  TarsoAdm2COL:
+    admin_name: Tarso
+    iso3c: COL
+    shapeID: 7082276B41921271459281
+  TascoAdm2COL:
+    admin_name: Tasco
+    iso3c: COL
+    shapeID: 7082276B19242876050337
+  TauramenaAdm2COL:
+    admin_name: Tauramena
+    iso3c: COL
+    shapeID: 7082276B3556955758097
+  TausaAdm2COL:
+    admin_name: Tausa
+    iso3c: COL
+    shapeID: 7082276B61281192439607
+  TelloAdm2COL:
+    admin_name: Tello
+    iso3c: COL
+    shapeID: 7082276B21026196123050
+  TenaAdm2COL:
+    admin_name: Tena
+    iso3c: COL
+    shapeID: 7082276B40758433755427
+  TenerifeAdm2COL:
+    admin_name: Tenerife
+    iso3c: COL
+    shapeID: 7082276B5843074032940
+  TenjoAdm2COL:
+    admin_name: Tenjo
+    iso3c: COL
+    shapeID: 7082276B86152202895144
+  TenzaAdm2COL:
+    admin_name: Tenza
+    iso3c: COL
+    shapeID: 7082276B18084184900557
+  TeoramaAdm2COL:
+    admin_name: Teorama
+    iso3c: COL
+    shapeID: 7082276B38424478664085
+  TeruelAdm2COL:
+    admin_name: Teruel
+    iso3c: COL
+    shapeID: 7082276B17617494286143
+  TesaliaAdm2COL:
+    admin_name: Tesalia
+    iso3c: COL
+    shapeID: 7082276B61077651934720
+  TibacuyAdm2COL:
+    admin_name: Tibacuy
+    iso3c: COL
+    shapeID: 7082276B3061851186589
+  TibanaAdm2COL:
+    admin_name: Tibana
+    iso3c: COL
+    shapeID: 7082276B18442466536693
+  TibasosaAdm2COL:
+    admin_name: Tibasosa
+    iso3c: COL
+    shapeID: 7082276B75151573988065
+  TibiritaAdm2COL:
+    admin_name: Tibirita
+    iso3c: COL
+    shapeID: 7082276B65306384541735
+  TibúAdm2COL:
+    admin_name: Tibú
+    iso3c: COL
+    shapeID: 7082276B23933062741111
+  TierraltaAdm2COL:
+    admin_name: Tierralta
+    iso3c: COL
+    shapeID: 7082276B15762794727081
+  TimanáAdm2COL:
+    admin_name: Timaná
+    iso3c: COL
+    shapeID: 7082276B8755035279913
+  TimbíoAdm2COL:
+    admin_name: Timbío
+    iso3c: COL
+    shapeID: 7082276B22377249652696
+  TimbiquíAdm2COL:
+    admin_name: Timbiquí
+    iso3c: COL
+    shapeID: 7082276B54920381077672
+  TinjacáAdm2COL:
+    admin_name: Tinjacá
+    iso3c: COL
+    shapeID: 7082276B8672665666879
+  TipacoqueAdm2COL:
+    admin_name: Tipacoque
+    iso3c: COL
+    shapeID: 7082276B13744677473315
+  TiquisoAdm2COL:
+    admin_name: Tiquiso
+    iso3c: COL
+    shapeID: 7082276B69446027092984
+  TitiribíAdm2COL:
+    admin_name: Titiribí
+    iso3c: COL
+    shapeID: 7082276B91110424420481
+  TocaAdm2COL:
+    admin_name: Toca
+    iso3c: COL
+    shapeID: 7082276B782512497823
+  TocaimaAdm2COL:
+    admin_name: Tocaima
+    iso3c: COL
+    shapeID: 7082276B61124512176506
+  TocancipáAdm2COL:
+    admin_name: Tocancipá
+    iso3c: COL
+    shapeID: 7082276B10728251723000
+  TogüíAdm2COL:
+    admin_name: Togüí
+    iso3c: COL
+    shapeID: 7082276B31863850614699
+  ToledoAdm2COL:
+    admin_name: Toledo
+    iso3c: COL
+    shapeID: 7082276B75943482080922
+  TolimaAdm1COL:
+    admin_name: Tolima
+    iso3c: COL
+    shapeID: 13589884B56780975975491
+  TolúViejoAdm2COL:
+    admin_name: TolúViejo
+    iso3c: COL
+    shapeID: 7082276B69726867253152
+  TonaAdm2COL:
+    admin_name: Tona
+    iso3c: COL
+    shapeID: 7082276B13563988320283
+  TópagaAdm2COL:
+    admin_name: Tópaga
+    iso3c: COL
+    shapeID: 7082276B68599110832879
+  TopaipíAdm2COL:
+    admin_name: Topaipí
+    iso3c: COL
+    shapeID: 7082276B13508800069021
+  ToribíoAdm2COL:
+    admin_name: Toribío
+    iso3c: COL
+    shapeID: 7082276B98056345530252
+  ToroAdm2COL:
+    admin_name: Toro
+    iso3c: COL
+    shapeID: 7082276B37830397780712
+  TotaAdm2COL:
+    admin_name: Tota
+    iso3c: COL
+    shapeID: 7082276B21893770290746
+  TotoróAdm2COL:
+    admin_name: Totoró
+    iso3c: COL
+    shapeID: 7082276B94855321058702
+  TrinidadAdm2COL:
+    admin_name: Trinidad
+    iso3c: COL
+    shapeID: 7082276B41149975588614
+  TrujilloAdm2COL:
+    admin_name: Trujillo
+    iso3c: COL
+    shapeID: 7082276B51151260265899
+  TubaráAdm2COL:
+    admin_name: Tubará
+    iso3c: COL
+    shapeID: 7082276B89966786375861
+  TuchinAdm2COL:
+    admin_name: Tuchin
+    iso3c: COL
+    shapeID: 7082276B64022238164064
+  TuluáAdm2COL:
+    admin_name: Tuluá
+    iso3c: COL
+    shapeID: 7082276B54316712133185
+  TumacoAdm2COL:
+    admin_name: Tumaco
+    iso3c: COL
+    shapeID: 7082276B11470740818947
+  TunjaAdm2COL:
+    admin_name: Tunja
+    iso3c: COL
+    shapeID: 7082276B30096704247804
+  TununguáAdm2COL:
+    admin_name: Tununguá
+    iso3c: COL
+    shapeID: 7082276B59200745530827
+  TuquerresAdm2COL:
+    admin_name: Tuquerres
+    iso3c: COL
+    shapeID: 7082276B96517824635471
+  TurbacoAdm2COL:
+    admin_name: Turbaco
+    iso3c: COL
+    shapeID: 7082276B46963019811413
+  TurbanaAdm2COL:
+    admin_name: Turbana
+    iso3c: COL
+    shapeID: 7082276B59918479254924
+  TurboAdm2COL:
+    admin_name: Turbo
+    iso3c: COL
+    shapeID: 7082276B90132082814174
+  TurmequéAdm2COL:
+    admin_name: Turmequé
+    iso3c: COL
+    shapeID: 7082276B20080835702605
+  TutaAdm2COL:
+    admin_name: Tuta
+    iso3c: COL
+    shapeID: 7082276B48364833791796
+  TutazáAdm2COL:
+    admin_name: Tutazá
+    iso3c: COL
+    shapeID: 7082276B26518640564592
+  UbaláAdm2COL:
+    admin_name: Ubalá
+    iso3c: COL
+    shapeID: 7082276B3208116605104
+  UbaqueAdm2COL:
+    admin_name: Ubaque
+    iso3c: COL
+    shapeID: 7082276B28126583048920
+  UbateAdm2COL:
+    admin_name: Ubate
+    iso3c: COL
+    shapeID: 7082276B92428342220208
+  UlloaAdm2COL:
+    admin_name: Ulloa
+    iso3c: COL
+    shapeID: 7082276B37156056726077
+  UmbitaAdm2COL:
+    admin_name: Umbita
+    iso3c: COL
+    shapeID: 7082276B74523863570735
+  UneAdm2COL:
+    admin_name: Une
+    iso3c: COL
+    shapeID: 7082276B23040184298460
+  UnguíaAdm2COL:
+    admin_name: Unguía
+    iso3c: COL
+    shapeID: 7082276B20687876454915
+  UniónPanamericana(Animas)Adm2COL:
+    admin_name: UniónPanamericana(Animas)
+    iso3c: COL
+    shapeID: 7082276B59837369743013
+  UramitaAdm2COL:
+    admin_name: Uramita
+    iso3c: COL
+    shapeID: 7082276B6364248933950
+  UribeAdm2COL:
+    admin_name: Uribe
+    iso3c: COL
+    shapeID: 7082276B13422583014597
+  UribiaAdm2COL:
+    admin_name: Uribia
+    iso3c: COL
+    shapeID: 7082276B96062501211498
+  UrraoAdm2COL:
+    admin_name: Urrao
+    iso3c: COL
+    shapeID: 7082276B47907246338324
+  UrumitaAdm2COL:
+    admin_name: Urumita
+    iso3c: COL
+    shapeID: 7082276B37330638753990
+  UsiacuríAdm2COL:
+    admin_name: Usiacurí
+    iso3c: COL
+    shapeID: 7082276B65299122871620
+  ÚticaAdm2COL:
+    admin_name: Útica
+    iso3c: COL
+    shapeID: 7082276B79579066733187
+  ValdiviaAdm2COL:
+    admin_name: Valdivia
+    iso3c: COL
+    shapeID: 7082276B28088679265990
+  ValenciaAdm2COL:
+    admin_name: Valencia
+    iso3c: COL
+    shapeID: 7082276B67113151062555
+  ValledelCaucaAdm1COL:
+    admin_name: ValledelCauca
+    iso3c: COL
+    shapeID: 13589884B83777567082486
+  ValleDelGuamuezAdm2COL:
+    admin_name: ValleDelGuamuez
+    iso3c: COL
+    shapeID: 7082276B97476971281230
+  ValleDeSanJoseAdm2COL:
+    admin_name: ValleDeSanJose
+    iso3c: COL
+    shapeID: 7082276B63653740618542
+  ValleDeSanJuanAdm2COL:
+    admin_name: ValleDeSanJuan
+    iso3c: COL
+    shapeID: 7082276B19583414449803
+  ValleduparAdm2COL:
+    admin_name: Valledupar
+    iso3c: COL
+    shapeID: 7082276B67264617376503
+  ValparaísoAdm2COL:
+    admin_name: Valparaíso
+    iso3c: COL
+    shapeID: 7082276B83090451858896
+  VaupésAdm1COL:
+    admin_name: Vaupés
+    iso3c: COL
+    shapeID: 13589884B22408468869829
+  VegachíAdm2COL:
+    admin_name: Vegachí
+    iso3c: COL
+    shapeID: 7082276B51792749942649
+  VélezAdm2COL:
+    admin_name: Vélez
+    iso3c: COL
+    shapeID: 7082276B66951297608622
+  VenadilloAdm2COL:
+    admin_name: Venadillo
+    iso3c: COL
+    shapeID: 7082276B11434754616335
+  VeneciaAdm2COL:
+    admin_name: Venecia
+    iso3c: COL
+    shapeID: 7082276B7520303523515
+  VentaquemadaAdm2COL:
+    admin_name: Ventaquemada
+    iso3c: COL
+    shapeID: 7082276B51013712707361
+  VergaraAdm2COL:
+    admin_name: Vergara
+    iso3c: COL
+    shapeID: 7082276B80485055582459
+  VersallesAdm2COL:
+    admin_name: Versalles
+    iso3c: COL
+    shapeID: 7082276B43348198009946
+  VetasAdm2COL:
+    admin_name: Vetas
+    iso3c: COL
+    shapeID: 7082276B44126561494717
+  VianíAdm2COL:
+    admin_name: Vianí
+    iso3c: COL
+    shapeID: 7082276B21790258987214
+  VichadaAdm1COL:
+    admin_name: Vichada
+    iso3c: COL
+    shapeID: 13589884B14692588923622
+  VictoriaAdm2COL:
+    admin_name: Victoria
+    iso3c: COL
+    shapeID: 7082276B78337286382012
+  VigiaDelFuerteAdm2COL:
+    admin_name: VigiaDelFuerte
+    iso3c: COL
+    shapeID: 7082276B16172876286455
+  VijesAdm2COL:
+    admin_name: Vijes
+    iso3c: COL
+    shapeID: 7082276B51677864129735
+  VillaCaroAdm2COL:
+    admin_name: VillaCaro
+    iso3c: COL
+    shapeID: 7082276B29990655239758
+  VillaDeLeyvaAdm2COL:
+    admin_name: VillaDeLeyva
+    iso3c: COL
+    shapeID: 7082276B92158404530910
+  VillaDelRosarioAdm2COL:
+    admin_name: VillaDelRosario
+    iso3c: COL
+    shapeID: 7082276B64319066043835
+  VillagarzónAdm2COL:
+    admin_name: Villagarzón
+    iso3c: COL
+    shapeID: 7082276B38703124782657
+  VillaGómezAdm2COL:
+    admin_name: VillaGómez
+    iso3c: COL
+    shapeID: 7082276B48238544943063
+  VillahermosaAdm2COL:
+    admin_name: Villahermosa
+    iso3c: COL
+    shapeID: 7082276B2838596576058
+  VillamariaAdm2COL:
+    admin_name: Villamaria
+    iso3c: COL
+    shapeID: 7082276B7776836926778
+  VillanuevaAdm2COL:
+    admin_name: Villanueva
+    iso3c: COL
+    shapeID: 7082276B78136311282892
+  VillapinzónAdm2COL:
+    admin_name: Villapinzón
+    iso3c: COL
+    shapeID: 7082276B98180996541689
+  VillaRicaAdm2COL:
+    admin_name: VillaRica
+    iso3c: COL
+    shapeID: 7082276B61573549340712
+  VillarricaAdm2COL:
+    admin_name: Villarrica
+    iso3c: COL
+    shapeID: 7082276B66227152382506
+  VillavicencioAdm2COL:
+    admin_name: Villavicencio
+    iso3c: COL
+    shapeID: 7082276B6983949832660
+  VillaviejaAdm2COL:
+    admin_name: Villavieja
+    iso3c: COL
+    shapeID: 7082276B65922719732159
+  VilletaAdm2COL:
+    admin_name: Villeta
+    iso3c: COL
+    shapeID: 7082276B61730001772347
+  ViotáAdm2COL:
+    admin_name: Viotá
+    iso3c: COL
+    shapeID: 7082276B31089834197292
+  ViracacháAdm2COL:
+    admin_name: Viracachá
+    iso3c: COL
+    shapeID: 7082276B30713394717050
+  VistahermosaAdm2COL:
+    admin_name: Vistahermosa
+    iso3c: COL
+    shapeID: 7082276B61594004967505
+  ViterboAdm2COL:
+    admin_name: Viterbo
+    iso3c: COL
+    shapeID: 7082276B24939675265994
+  YacopíAdm2COL:
+    admin_name: Yacopí
+    iso3c: COL
+    shapeID: 7082276B73695765304920
+  YacuanquerAdm2COL:
+    admin_name: Yacuanquer
+    iso3c: COL
+    shapeID: 7082276B68439482186320
+  YaguaráAdm2COL:
+    admin_name: Yaguará
+    iso3c: COL
+    shapeID: 7082276B512677824118
+  YaliAdm2COL:
+    admin_name: Yali
+    iso3c: COL
+    shapeID: 7082276B99209439763300
+  YarumalAdm2COL:
+    admin_name: Yarumal
+    iso3c: COL
+    shapeID: 7082276B85908118350563
+  Yavaraté(Cor.Departamental)Adm2COL:
+    admin_name: Yavaraté(Cor.Departamental)
+    iso3c: COL
+    shapeID: 7082276B57930571389360
+  YolombóAdm2COL:
+    admin_name: Yolombó
+    iso3c: COL
+    shapeID: 7082276B53118394931
+  Yondó(Casabe)Adm2COL:
+    admin_name: Yondó(Casabe)
+    iso3c: COL
+    shapeID: 7082276B5745739675661
+  YopalAdm2COL:
+    admin_name: Yopal
+    iso3c: COL
+    shapeID: 7082276B99207474078135
+  YotocoAdm2COL:
+    admin_name: Yotoco
+    iso3c: COL
+    shapeID: 7082276B27401481263527
+  YumboAdm2COL:
+    admin_name: Yumbo
+    iso3c: COL
+    shapeID: 7082276B37421860048311
+  ZambranoAdm2COL:
+    admin_name: Zambrano
+    iso3c: COL
+    shapeID: 7082276B24623397402700
+  ZapatocaAdm2COL:
+    admin_name: Zapatoca
+    iso3c: COL
+    shapeID: 7082276B90716501324077
+  ZapayánAdm2COL:
+    admin_name: Zapayán
+    iso3c: COL
+    shapeID: 7082276B87422252526741
+  ZaragozaAdm2COL:
+    admin_name: Zaragoza
+    iso3c: COL
+    shapeID: 7082276B32326905944373
+  ZarzalAdm2COL:
+    admin_name: Zarzal
+    iso3c: COL
+    shapeID: 7082276B55716898367144
+  ZetaquiráAdm2COL:
+    admin_name: Zetaquirá
+    iso3c: COL
+    shapeID: 7082276B35977519917705
+  ZipacónAdm2COL:
+    admin_name: Zipacón
+    iso3c: COL
+    shapeID: 7082276B87825426201074
+  ZipaquiraAdm2COL:
+    admin_name: Zipaquira
+    iso3c: COL
+    shapeID: 7082276B49275138212053
+  ZonaBananeraAdm2COL:
+    admin_name: ZonaBananera
+    iso3c: COL
+    shapeID: 7082276B35550035706451

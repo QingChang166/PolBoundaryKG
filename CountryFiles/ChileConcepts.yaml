@@ -1,17 +1,289 @@
 concepts:
-    - RegiÃ³ndeLosLagos
-    - RegiÃ³ndeLosRÃ­os
-    - RegiÃ³ndeAntofagasta
-    - RegiÃ³ndeTarapacÃ¡
-    - RegiÃ³ndeMagallanesyAntÃ¡rticaChilena
-    - "RegiÃ³ndeÃ\x91uble"
-    - RegiÃ³ndeLaAraucanÃ­a
-    - RegiÃ³ndeAricayParinacota
-    - RegiÃ³ndeAtacama
-    - RegiÃ³ndeAysÃ©ndelGral.IbaÃ±ezdelCampo
-    - RegiÃ³ndelBÃ­o-BÃ­o
-    - RegiÃ³ndelLibertadorBernardoO'Higgins
-    - RegiÃ³ndelMaule
-    - RegiÃ³ndeValparaÃ­so
-    - RegiÃ³ndeCoquimbo
-    - RegiÃ³nMetropolitanadeSantiago
+  EasterIslandProvinceAdm2CHL:
+    admin_name: EasterIslandProvince
+    iso3c: CHL
+    shapeID: 35621905B97856951192074
+  ProvinciadeAntofagastaAdm2CHL:
+    admin_name: ProvinciadeAntofagasta
+    iso3c: CHL
+    shapeID: 35621905B24129816104354
+  ProvinciadeAraucoAdm2CHL:
+    admin_name: ProvinciadeArauco
+    iso3c: CHL
+    shapeID: 35621905B91352660535180
+  ProvinciadeAricaAdm2CHL:
+    admin_name: ProvinciadeArica
+    iso3c: CHL
+    shapeID: 35621905B41577371393094
+  ProvinciadeAysénAdm2CHL:
+    admin_name: ProvinciadeAysén
+    iso3c: CHL
+    shapeID: 35621905B46415718633787
+  ProvinciadeBío-BíoAdm2CHL:
+    admin_name: ProvinciadeBío-Bío
+    iso3c: CHL
+    shapeID: 35621905B79516009598817
+  ProvinciadeCachapoalAdm2CHL:
+    admin_name: ProvinciadeCachapoal
+    iso3c: CHL
+    shapeID: 35621905B52882763777162
+  ProvinciadeCapitánPratAdm2CHL:
+    admin_name: ProvinciadeCapitánPrat
+    iso3c: CHL
+    shapeID: 35621905B45426402805309
+  ProvinciadeCardenalCaroAdm2CHL:
+    admin_name: ProvinciadeCardenalCaro
+    iso3c: CHL
+    shapeID: 35621905B64846670058045
+  ProvinciadeCauquenesAdm2CHL:
+    admin_name: ProvinciadeCauquenes
+    iso3c: CHL
+    shapeID: 35621905B53578331936540
+  ProvinciadeCautínAdm2CHL:
+    admin_name: ProvinciadeCautín
+    iso3c: CHL
+    shapeID: 35621905B87685875499612
+  ProvinciadeChacabucoAdm2CHL:
+    admin_name: ProvinciadeChacabuco
+    iso3c: CHL
+    shapeID: 35621905B69911988677413
+  ProvinciadeChañaralAdm2CHL:
+    admin_name: ProvinciadeChañaral
+    iso3c: CHL
+    shapeID: 35621905B61526082701789
+  ProvinciadeChiloéAdm2CHL:
+    admin_name: ProvinciadeChiloé
+    iso3c: CHL
+    shapeID: 35621905B87066313055146
+  ProvinciadeChoapaAdm2CHL:
+    admin_name: ProvinciadeChoapa
+    iso3c: CHL
+    shapeID: 35621905B39230313652586
+  ProvinciadeColchaguaAdm2CHL:
+    admin_name: ProvinciadeColchagua
+    iso3c: CHL
+    shapeID: 35621905B46250847002361
+  ProvinciadeConcepciónAdm2CHL:
+    admin_name: ProvinciadeConcepción
+    iso3c: CHL
+    shapeID: 35621905B43056410448706
+  ProvinciadeCopiapóAdm2CHL:
+    admin_name: ProvinciadeCopiapó
+    iso3c: CHL
+    shapeID: 35621905B86755428058022
+  ProvinciadeCordilleraAdm2CHL:
+    admin_name: ProvinciadeCordillera
+    iso3c: CHL
+    shapeID: 35621905B82315933237127
+  ProvinciadeCoyhaiqueAdm2CHL:
+    admin_name: ProvinciadeCoyhaique
+    iso3c: CHL
+    shapeID: 35621905B25714599850320
+  ProvinciadeCuricóAdm2CHL:
+    admin_name: ProvinciadeCuricó
+    iso3c: CHL
+    shapeID: 35621905B74667101171824
+  ProvinciadeDiguillínAdm2CHL:
+    admin_name: ProvinciadeDiguillín
+    iso3c: CHL
+    shapeID: 35621905B35210166447690
+  ProvinciadeElLoaAdm2CHL:
+    admin_name: ProvinciadeElLoa
+    iso3c: CHL
+    shapeID: 35621905B10676957230539
+  ProvinciadeElquiAdm2CHL:
+    admin_name: ProvinciadeElqui
+    iso3c: CHL
+    shapeID: 35621905B31470436966302
+  ProvinciadeGeneralCarreraAdm2CHL:
+    admin_name: ProvinciadeGeneralCarrera
+    iso3c: CHL
+    shapeID: 35621905B31052825522981
+  ProvinciadeHuascoAdm2CHL:
+    admin_name: ProvinciadeHuasco
+    iso3c: CHL
+    shapeID: 35621905B85037055360014
+  ProvinciadeIquiqueAdm2CHL:
+    admin_name: ProvinciadeIquique
+    iso3c: CHL
+    shapeID: 35621905B72121559591635
+  ProvinciadeItataAdm2CHL:
+    admin_name: ProvinciadeItata
+    iso3c: CHL
+    shapeID: 35621905B49352786980378
+  ProvinciadelaAntárticaChilenaAdm2CHL:
+    admin_name: ProvinciadelaAntárticaChilena
+    iso3c: CHL
+    shapeID: 35621905B56365456167590
+  ProvinciadeLimaríAdm2CHL:
+    admin_name: ProvinciadeLimarí
+    iso3c: CHL
+    shapeID: 35621905B45927311243575
+  ProvinciadeLinaresAdm2CHL:
+    admin_name: ProvinciadeLinares
+    iso3c: CHL
+    shapeID: 35621905B75989439327033
+  ProvinciadeLlanquihueAdm2CHL:
+    admin_name: ProvinciadeLlanquihue
+    iso3c: CHL
+    shapeID: 35621905B10064123163472
+  ProvinciadeLosAndesAdm2CHL:
+    admin_name: ProvinciadeLosAndes
+    iso3c: CHL
+    shapeID: 35621905B76141516841600
+  ProvinciadelTamarugalAdm2CHL:
+    admin_name: ProvinciadelTamarugal
+    iso3c: CHL
+    shapeID: 35621905B64865881779948
+  ProvinciadeMagallanesAdm2CHL:
+    admin_name: ProvinciadeMagallanes
+    iso3c: CHL
+    shapeID: 35621905B91700332136127
+  ProvinciadeMaipoAdm2CHL:
+    admin_name: ProvinciadeMaipo
+    iso3c: CHL
+    shapeID: 35621905B21076246142661
+  ProvinciadeMallecoAdm2CHL:
+    admin_name: ProvinciadeMalleco
+    iso3c: CHL
+    shapeID: 35621905B63371592014618
+  ProvinciadeMargaMargaAdm2CHL:
+    admin_name: ProvinciadeMargaMarga
+    iso3c: CHL
+    shapeID: 35621905B51569937504403
+  ProvinciadeMelipillaAdm2CHL:
+    admin_name: ProvinciadeMelipilla
+    iso3c: CHL
+    shapeID: 35621905B19154610531332
+  ProvinciadeOsornoAdm2CHL:
+    admin_name: ProvinciadeOsorno
+    iso3c: CHL
+    shapeID: 35621905B6510329026979
+  ProvinciadePalenaAdm2CHL:
+    admin_name: ProvinciadePalena
+    iso3c: CHL
+    shapeID: 35621905B48895974696155
+  ProvinciadeParinacotaAdm2CHL:
+    admin_name: ProvinciadeParinacota
+    iso3c: CHL
+    shapeID: 35621905B17287365784279
+  ProvinciadePetorcaAdm2CHL:
+    admin_name: ProvinciadePetorca
+    iso3c: CHL
+    shapeID: 35621905B4833324878410
+  ProvinciadePunillaAdm2CHL:
+    admin_name: ProvinciadePunilla
+    iso3c: CHL
+    shapeID: 35621905B85647108366923
+  ProvinciadeQuillotaAdm2CHL:
+    admin_name: ProvinciadeQuillota
+    iso3c: CHL
+    shapeID: 35621905B18400210851819
+  ProvinciadeRancoAdm2CHL:
+    admin_name: ProvinciadeRanco
+    iso3c: CHL
+    shapeID: 35621905B43257693151755
+  ProvinciadeSanAntonioAdm2CHL:
+    admin_name: ProvinciadeSanAntonio
+    iso3c: CHL
+    shapeID: 35621905B1970061995855
+  ProvinciadeSanFelipedeAconcaguaAdm2CHL:
+    admin_name: ProvinciadeSanFelipedeAconcagua
+    iso3c: CHL
+    shapeID: 35621905B22816407454389
+  ProvinciadeSantiagoAdm2CHL:
+    admin_name: ProvinciadeSantiago
+    iso3c: CHL
+    shapeID: 35621905B33580392019013
+  ProvinciadeTalaganteAdm2CHL:
+    admin_name: ProvinciadeTalagante
+    iso3c: CHL
+    shapeID: 35621905B53699851443859
+  ProvinciadeTalcaAdm2CHL:
+    admin_name: ProvinciadeTalca
+    iso3c: CHL
+    shapeID: 35621905B83002152347823
+  ProvinciadeTierradelFuegoAdm2CHL:
+    admin_name: ProvinciadeTierradelFuego
+    iso3c: CHL
+    shapeID: 35621905B61380177042787
+  ProvinciadeTocopillaAdm2CHL:
+    admin_name: ProvinciadeTocopilla
+    iso3c: CHL
+    shapeID: 35621905B29007263035743
+  ProvinciadeÚltimaEsperanzaAdm2CHL:
+    admin_name: ProvinciadeÚltimaEsperanza
+    iso3c: CHL
+    shapeID: 35621905B35311902237668
+  ProvinciadeValdiviaAdm2CHL:
+    admin_name: ProvinciadeValdivia
+    iso3c: CHL
+    shapeID: 35621905B24032839769840
+  ProvinciadeValparaísoAdm2CHL:
+    admin_name: ProvinciadeValparaíso
+    iso3c: CHL
+    shapeID: 35621905B72474249584634
+  RegiÃ³ndeAntofagastaAdm1CHL:
+    admin_name: RegiÃ³ndeAntofagasta
+    iso3c: CHL
+    shapeID: 47653553B40993810137393
+  RegiÃ³ndeAricayParinacotaAdm1CHL:
+    admin_name: RegiÃ³ndeAricayParinacota
+    iso3c: CHL
+    shapeID: 47653553B1207481020383
+  RegiÃ³ndeAtacamaAdm1CHL:
+    admin_name: RegiÃ³ndeAtacama
+    iso3c: CHL
+    shapeID: 47653553B71653813080592
+  "RegiÃ³ndeÃ\x91ubleAdm1CHL":
+    admin_name: "RegiÃ³ndeÃ\x91uble"
+    iso3c: CHL
+    shapeID: 47653553B32293817275864
+  RegiÃ³ndeAysÃ©ndelGral.IbaÃ±ezdelCampoAdm1CHL:
+    admin_name: RegiÃ³ndeAysÃ©ndelGral.IbaÃ±ezdelCampo
+    iso3c: CHL
+    shapeID: 47653553B77266651052380
+  RegiÃ³ndeCoquimboAdm1CHL:
+    admin_name: RegiÃ³ndeCoquimbo
+    iso3c: CHL
+    shapeID: 47653553B91907313612474
+  RegiÃ³ndeLaAraucanÃ­aAdm1CHL:
+    admin_name: RegiÃ³ndeLaAraucanÃ­a
+    iso3c: CHL
+    shapeID: 47653553B84299910343297
+  RegiÃ³ndelBÃ­o-BÃ­oAdm1CHL:
+    admin_name: RegiÃ³ndelBÃ­o-BÃ­o
+    iso3c: CHL
+    shapeID: 47653553B66835736668351
+  RegiÃ³ndelLibertadorBernardoO'HigginsAdm1CHL:
+    admin_name: RegiÃ³ndelLibertadorBernardoO'Higgins
+    iso3c: CHL
+    shapeID: 47653553B66141875659978
+  RegiÃ³ndelMauleAdm1CHL:
+    admin_name: RegiÃ³ndelMaule
+    iso3c: CHL
+    shapeID: 47653553B65340542415201
+  RegiÃ³ndeLosLagosAdm1CHL:
+    admin_name: RegiÃ³ndeLosLagos
+    iso3c: CHL
+    shapeID: 47653553B69224850096491
+  RegiÃ³ndeLosRÃ­osAdm1CHL:
+    admin_name: RegiÃ³ndeLosRÃ­os
+    iso3c: CHL
+    shapeID: 47653553B67595840047202
+  RegiÃ³ndeMagallanesyAntÃ¡rticaChilenaAdm1CHL:
+    admin_name: RegiÃ³ndeMagallanesyAntÃ¡rticaChilena
+    iso3c: CHL
+    shapeID: 47653553B86325292267162
+  RegiÃ³ndeTarapacÃ¡Adm1CHL:
+    admin_name: RegiÃ³ndeTarapacÃ¡
+    iso3c: CHL
+    shapeID: 47653553B97418467345315
+  RegiÃ³ndeValparaÃ­soAdm1CHL:
+    admin_name: RegiÃ³ndeValparaÃ­so
+    iso3c: CHL
+    shapeID: 47653553B5611469222723
+  RegiÃ³nMetropolitanadeSantiagoAdm1CHL:
+    admin_name: RegiÃ³nMetropolitanadeSantiago
+    iso3c: CHL
+    shapeID: 47653553B78904739401519

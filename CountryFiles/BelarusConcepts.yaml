@@ -1,8 +1,501 @@
 concepts:
-    - MinskCity
-    - Vitebsk
-    - Brest
-    - Minsk
-    - Gomel
-    - Grodno
-    - Mogilev
+  AkciabrskiAdm2BLR:
+    admin_name: Akciabrski
+    iso3c: BLR
+    shapeID: 67162791B76840313346110
+  AshmyanyAdm2BLR:
+    admin_name: Ashmyany
+    iso3c: BLR
+    shapeID: 67162791B18933715013959
+  AsipovichyAdm2BLR:
+    admin_name: Asipovichy
+    iso3c: BLR
+    shapeID: 67162791B915008440335
+  AstravyetsAdm2BLR:
+    admin_name: Astravyets
+    iso3c: BLR
+    shapeID: 67162791B54270193950847
+  BabruyskAdm2BLR:
+    admin_name: Babruysk
+    iso3c: BLR
+    shapeID: 67162791B49466941565536
+  BaranovichyAdm2BLR:
+    admin_name: Baranovichy
+    iso3c: BLR
+    shapeID: 67162791B97838850570601
+  BarysawAdm2BLR:
+    admin_name: Barysaw
+    iso3c: BLR
+    shapeID: 67162791B39606099444015
+  BeshankovichyAdm2BLR:
+    admin_name: Beshankovichy
+    iso3c: BLR
+    shapeID: 67162791B20127655381780
+  BrahinAdm2BLR:
+    admin_name: Brahin
+    iso3c: BLR
+    shapeID: 67162791B77344314095023
+  BraslawAdm2BLR:
+    admin_name: Braslaw
+    iso3c: BLR
+    shapeID: 67162791B18102707107362
+  BrestAdm1BLR:
+    admin_name: Brest
+    iso3c: BLR
+    shapeID: 45462678B29468378769629
+  BrestAdm2BLR:
+    admin_name: Brest
+    iso3c: BLR
+    shapeID: 67162791B30498032594927
+  Buda-KashalyovaAdm2BLR:
+    admin_name: Buda-Kashalyova
+    iso3c: BLR
+    shapeID: 67162791B74774527984565
+  ByalynichyAdm2BLR:
+    admin_name: Byalynichy
+    iso3c: BLR
+    shapeID: 67162791B99339401725810
+  ByarozaAdm2BLR:
+    admin_name: Byaroza
+    iso3c: BLR
+    shapeID: 67162791B6222300561744
+  ByerastavitsaAdm2BLR:
+    admin_name: Byerastavitsa
+    iso3c: BLR
+    shapeID: 67162791B90230438084188
+  ByerazinoAdm2BLR:
+    admin_name: Byerazino
+    iso3c: BLR
+    shapeID: 67162791B55727051267470
+  BykhawAdm2BLR:
+    admin_name: Bykhaw
+    iso3c: BLR
+    shapeID: 67162791B64614066939299
+  ChacherskAdm2BLR:
+    admin_name: Chachersk
+    iso3c: BLR
+    shapeID: 67162791B26710857863794
+  ChashnikiAdm2BLR:
+    admin_name: Chashniki
+    iso3c: BLR
+    shapeID: 67162791B63587233546026
+  ChavusyAdm2BLR:
+    admin_name: Chavusy
+    iso3c: BLR
+    shapeID: 67162791B68481301764251
+  ChervyenAdm2BLR:
+    admin_name: Chervyen
+    iso3c: BLR
+    shapeID: 67162791B52884935059856
+  CherykawAdm2BLR:
+    admin_name: Cherykaw
+    iso3c: BLR
+    shapeID: 67162791B83279044546130
+  DobrushAdm2BLR:
+    admin_name: Dobrush
+    iso3c: BLR
+    shapeID: 67162791B17030122378697
+  DokshytsyAdm2BLR:
+    admin_name: Dokshytsy
+    iso3c: BLR
+    shapeID: 67162791B61932293276792
+  DrahichynAdm2BLR:
+    admin_name: Drahichyn
+    iso3c: BLR
+    shapeID: 67162791B13228782215285
+  DubrownaAdm2BLR:
+    admin_name: Dubrowna
+    iso3c: BLR
+    shapeID: 67162791B1773631612848
+  DzyarzhynskAdm2BLR:
+    admin_name: Dzyarzhynsk
+    iso3c: BLR
+    shapeID: 67162791B81421428715601
+  DzyatlavaAdm2BLR:
+    admin_name: Dzyatlava
+    iso3c: BLR
+    shapeID: 67162791B37208014069458
+  GomelAdm1BLR:
+    admin_name: Gomel
+    iso3c: BLR
+    shapeID: 45462678B94500211462696
+  GomelAdm2BLR:
+    admin_name: Gomel
+    iso3c: BLR
+    shapeID: 67162791B13261784360532
+  GrodnoAdm1BLR:
+    admin_name: Grodno
+    iso3c: BLR
+    shapeID: 45462678B41589714648574
+  GrodnoAdm2BLR:
+    admin_name: Grodno
+    iso3c: BLR
+    shapeID: 67162791B13547290723272
+  HantsavichyAdm2BLR:
+    admin_name: Hantsavichy
+    iso3c: BLR
+    shapeID: 67162791B6713137002494
+  HaradokAdm2BLR:
+    admin_name: Haradok
+    iso3c: BLR
+    shapeID: 67162791B30546828632542
+  HluskAdm2BLR:
+    admin_name: Hlusk
+    iso3c: BLR
+    shapeID: 67162791B26256964844328
+  HlybokayeAdm2BLR:
+    admin_name: Hlybokaye
+    iso3c: BLR
+    shapeID: 67162791B12228546801080
+  HorkiAdm2BLR:
+    admin_name: Horki
+    iso3c: BLR
+    shapeID: 67162791B10713618148259
+  IvanavaAdm2BLR:
+    admin_name: Ivanava
+    iso3c: BLR
+    shapeID: 67162791B27498157405440
+  IvatsevichyAdm2BLR:
+    admin_name: Ivatsevichy
+    iso3c: BLR
+    shapeID: 67162791B15775504283911
+  IwyeAdm2BLR:
+    admin_name: Iwye
+    iso3c: BLR
+    shapeID: 67162791B89656925241953
+  KalinkavichyAdm2BLR:
+    admin_name: Kalinkavichy
+    iso3c: BLR
+    shapeID: 67162791B95934163913722
+  KamenetsAdm2BLR:
+    admin_name: Kamenets
+    iso3c: BLR
+    shapeID: 67162791B59963656038120
+  KapylAdm2BLR:
+    admin_name: Kapyl
+    iso3c: BLR
+    shapeID: 67162791B49789732024983
+  KarelichyAdm2BLR:
+    admin_name: Karelichy
+    iso3c: BLR
+    shapeID: 67162791B39609385147896
+  KarmaAdm2BLR:
+    admin_name: Karma
+    iso3c: BLR
+    shapeID: 67162791B17316516711258
+  KastsyukovichyAdm2BLR:
+    admin_name: Kastsyukovichy
+    iso3c: BLR
+    shapeID: 67162791B14569635979911
+  KhoinikiAdm2BLR:
+    admin_name: Khoiniki
+    iso3c: BLR
+    shapeID: 67162791B63950130624576
+  KhotsimskAdm2BLR:
+    admin_name: Khotsimsk
+    iso3c: BLR
+    shapeID: 67162791B11584975294724
+  KirawskAdm2BLR:
+    admin_name: Kirawsk
+    iso3c: BLR
+    shapeID: 67162791B61593564131840
+  KletskAdm2BLR:
+    admin_name: Kletsk
+    iso3c: BLR
+    shapeID: 67162791B94687657655016
+  KlichawAdm2BLR:
+    admin_name: Klichaw
+    iso3c: BLR
+    shapeID: 67162791B97539600295477
+  KlimavichyAdm2BLR:
+    admin_name: Klimavichy
+    iso3c: BLR
+    shapeID: 67162791B58533541453403
+  KobrynAdm2BLR:
+    admin_name: Kobryn
+    iso3c: BLR
+    shapeID: 67162791B1192676397695
+  KrasnapolleAdm2BLR:
+    admin_name: Krasnapolle
+    iso3c: BLR
+    shapeID: 67162791B52564132020414
+  KruhlayeAdm2BLR:
+    admin_name: Kruhlaye
+    iso3c: BLR
+    shapeID: 67162791B94243355622129
+  KrupkiAdm2BLR:
+    admin_name: Krupki
+    iso3c: BLR
+    shapeID: 67162791B85718992399445
+  KrychawAdm2BLR:
+    admin_name: Krychaw
+    iso3c: BLR
+    shapeID: 67162791B56678014739115
+  LahoyskAdm2BLR:
+    admin_name: Lahoysk
+    iso3c: BLR
+    shapeID: 67162791B73059269727639
+  LidaAdm2BLR:
+    admin_name: Lida
+    iso3c: BLR
+    shapeID: 67162791B46145411949360
+  LioznaAdm2BLR:
+    admin_name: Liozna
+    iso3c: BLR
+    shapeID: 67162791B19917337499758
+  LoyewAdm2BLR:
+    admin_name: Loyew
+    iso3c: BLR
+    shapeID: 67162791B2494752626310
+  LuninetsAdm2BLR:
+    admin_name: Luninets
+    iso3c: BLR
+    shapeID: 67162791B41216407156673
+  LyakhavichyAdm2BLR:
+    admin_name: Lyakhavichy
+    iso3c: BLR
+    shapeID: 67162791B80813457147779
+  LyelchytsyAdm2BLR:
+    admin_name: Lyelchytsy
+    iso3c: BLR
+    shapeID: 67162791B62905803070856
+  LyepyelAdm2BLR:
+    admin_name: Lyepyel
+    iso3c: BLR
+    shapeID: 67162791B29799454608156
+  LyubanAdm2BLR:
+    admin_name: Lyuban
+    iso3c: BLR
+    shapeID: 67162791B60458568388386
+  MaladzyechnaAdm2BLR:
+    admin_name: Maladzyechna
+    iso3c: BLR
+    shapeID: 67162791B22380901430791
+  MalarytaAdm2BLR:
+    admin_name: Malaryta
+    iso3c: BLR
+    shapeID: 67162791B17752609820062
+  MastyAdm2BLR:
+    admin_name: Masty
+    iso3c: BLR
+    shapeID: 67162791B96733958179229
+  MazyrAdm2BLR:
+    admin_name: Mazyr
+    iso3c: BLR
+    shapeID: 67162791B88851399193905
+  MinskAdm1BLR:
+    admin_name: Minsk
+    iso3c: BLR
+    shapeID: 45462678B52111461583443
+  MinskAdm2BLR:
+    admin_name: Minsk
+    iso3c: BLR
+    shapeID: 67162791B84471344127718
+  MinskCityAdm1BLR:
+    admin_name: MinskCity
+    iso3c: BLR
+    shapeID: 45462678B57724394311820
+  MinskCityAdm2BLR:
+    admin_name: MinskCity
+    iso3c: BLR
+    shapeID: 67162791B57724394311820
+  MioryAdm2BLR:
+    admin_name: Miory
+    iso3c: BLR
+    shapeID: 67162791B84307245476990
+  MogilevAdm1BLR:
+    admin_name: Mogilev
+    iso3c: BLR
+    shapeID: 45462678B58682879627750
+  MogilevAdm2BLR:
+    admin_name: Mogilev
+    iso3c: BLR
+    shapeID: 67162791B13586571917215
+  MstsislawAdm2BLR:
+    admin_name: Mstsislaw
+    iso3c: BLR
+    shapeID: 67162791B4778855273895
+  MyadzyelAdm2BLR:
+    admin_name: Myadzyel
+    iso3c: BLR
+    shapeID: 67162791B89573771278316
+  NarouliaAdm2BLR:
+    admin_name: Naroulia
+    iso3c: BLR
+    shapeID: 67162791B29889808776469
+  NovogrudokAdm2BLR:
+    admin_name: Novogrudok
+    iso3c: BLR
+    shapeID: 67162791B21439902878143
+  NyasvizhAdm2BLR:
+    admin_name: Nyasvizh
+    iso3c: BLR
+    shapeID: 67162791B10653728732828
+  OrshaAdm2BLR:
+    admin_name: Orsha
+    iso3c: BLR
+    shapeID: 67162791B52368794321360
+  PastavyAdm2BLR:
+    admin_name: Pastavy
+    iso3c: BLR
+    shapeID: 67162791B41761210959552
+  PinskAdm2BLR:
+    admin_name: Pinsk
+    iso3c: BLR
+    shapeID: 67162791B61405599198646
+  PolotskAdm2BLR:
+    admin_name: Polotsk
+    iso3c: BLR
+    shapeID: 67162791B45929653886900
+  PruzhanyAdm2BLR:
+    admin_name: Pruzhany
+    iso3c: BLR
+    shapeID: 67162791B13478011403583
+  PuchavičyAdm2BLR:
+    admin_name: Puchavičy
+    iso3c: BLR
+    shapeID: 67162791B58974730621112
+  PyetrykawAdm2BLR:
+    admin_name: Pyetrykaw
+    iso3c: BLR
+    shapeID: 67162791B78152292733501
+  RahachowAdm2BLR:
+    admin_name: Rahachow
+    iso3c: BLR
+    shapeID: 67162791B93010244041694
+  RasonyAdm2BLR:
+    admin_name: Rasony
+    iso3c: BLR
+    shapeID: 67162791B65560195088656
+  RechytsaAdm2BLR:
+    admin_name: Rechytsa
+    iso3c: BLR
+    shapeID: 67162791B36955231142498
+  SalihorskAdm2BLR:
+    admin_name: Salihorsk
+    iso3c: BLR
+    shapeID: 67162791B12460087089540
+  SharkawshchynaAdm2BLR:
+    admin_name: Sharkawshchyna
+    iso3c: BLR
+    shapeID: 67162791B8322834804347
+  ShchuchynAdm2BLR:
+    admin_name: Shchuchyn
+    iso3c: BLR
+    shapeID: 67162791B66420794580046
+  ShklowAdm2BLR:
+    admin_name: Shklow
+    iso3c: BLR
+    shapeID: 67162791B50878075194487
+  ShumilinaAdm2BLR:
+    admin_name: Shumilina
+    iso3c: BLR
+    shapeID: 67162791B70451788382486
+  SlawharadAdm2BLR:
+    admin_name: Slawharad
+    iso3c: BLR
+    shapeID: 67162791B95045439516357
+  SlonimAdm2BLR:
+    admin_name: Slonim
+    iso3c: BLR
+    shapeID: 67162791B56929358145249
+  SlutskAdm2BLR:
+    admin_name: Slutsk
+    iso3c: BLR
+    shapeID: 67162791B93573624741448
+  SmalyavichyAdm2BLR:
+    admin_name: Smalyavichy
+    iso3c: BLR
+    shapeID: 67162791B46914171064537
+  SmarhonAdm2BLR:
+    admin_name: Smarhon
+    iso3c: BLR
+    shapeID: 67162791B9257777977100
+  StaryyaDarohiAdm2BLR:
+    admin_name: StaryyaDarohi
+    iso3c: BLR
+    shapeID: 67162791B98065545782790
+  StolinAdm2BLR:
+    admin_name: Stolin
+    iso3c: BLR
+    shapeID: 67162791B20391469538668
+  StowbtsyAdm2BLR:
+    admin_name: Stowbtsy
+    iso3c: BLR
+    shapeID: 67162791B19818766020383
+  SvietlahorskAdm2BLR:
+    admin_name: Svietlahorsk
+    iso3c: BLR
+    shapeID: 67162791B63369954237676
+  SvislachAdm2BLR:
+    admin_name: Svislach
+    iso3c: BLR
+    shapeID: 67162791B1668576645583
+  SyannoAdm2BLR:
+    admin_name: Syanno
+    iso3c: BLR
+    shapeID: 67162791B30203465956125
+  TalachynAdm2BLR:
+    admin_name: Talachyn
+    iso3c: BLR
+    shapeID: 67162791B51675752120435
+  UshachyAdm2BLR:
+    admin_name: Ushachy
+    iso3c: BLR
+    shapeID: 67162791B55947192119521
+  UzdaAdm2BLR:
+    admin_name: Uzda
+    iso3c: BLR
+    shapeID: 67162791B57084664446232
+  ValozhynAdm2BLR:
+    admin_name: Valozhyn
+    iso3c: BLR
+    shapeID: 67162791B19881563690612
+  VawkavyskAdm2BLR:
+    admin_name: Vawkavysk
+    iso3c: BLR
+    shapeID: 67162791B87198261111694
+  VerkhnyadzvinskAdm2BLR:
+    admin_name: Verkhnyadzvinsk
+    iso3c: BLR
+    shapeID: 67162791B82603429459213
+  VietkaAdm2BLR:
+    admin_name: Vietka
+    iso3c: BLR
+    shapeID: 67162791B72598168140482
+  VileykaAdm2BLR:
+    admin_name: Vileyka
+    iso3c: BLR
+    shapeID: 67162791B71807573158689
+  VitebskAdm1BLR:
+    admin_name: Vitebsk
+    iso3c: BLR
+    shapeID: 45462678B24636394065255
+  VitebskAdm2BLR:
+    admin_name: Vitebsk
+    iso3c: BLR
+    shapeID: 67162791B85815486219336
+  VoranavaAdm2BLR:
+    admin_name: Voranava
+    iso3c: BLR
+    shapeID: 67162791B43104058935452
+  YelʹskAdm2BLR:
+    admin_name: Yelʹsk
+    iso3c: BLR
+    shapeID: 67162791B11100068414031
+  Zel'vaAdm2BLR:
+    admin_name: Zel'va
+    iso3c: BLR
+    shapeID: 67162791B91505134452571
+  ZhabinkaAdm2BLR:
+    admin_name: Zhabinka
+    iso3c: BLR
+    shapeID: 67162791B54933494059720
+  ZhlobinAdm2BLR:
+    admin_name: Zhlobin
+    iso3c: BLR
+    shapeID: 67162791B87321103764300
+  ZhytkavichyAdm2BLR:
+    admin_name: Zhytkavichy
+    iso3c: BLR
+    shapeID: 67162791B281573745440

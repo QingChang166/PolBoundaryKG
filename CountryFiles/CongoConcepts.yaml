@@ -1,13 +1,233 @@
 concepts:
-    - Pointe-Noire
-    - Bouenza
-    - Pool
-    - Sangha
-    - Brazzaville
-    - Plateaux
-    - Likouala
-    - Cuvette
-    - Cuvette-Ouest
-    - Kouilou
-    - Niari
-    - Lékoumou
+  AbalaAdm2COG:
+    admin_name: Abala
+    iso3c: COG
+    shapeID: 1427508B96787194302936
+  BambamaAdm2COG:
+    admin_name: Bambama
+    iso3c: COG
+    shapeID: 1427508B17240885664000
+  Boko-SonghoAdm2COG:
+    admin_name: Boko-Songho
+    iso3c: COG
+    shapeID: 1427508B92601755498307
+  BokoAdm2COG:
+    admin_name: Boko
+    iso3c: COG
+    shapeID: 1427508B75307715996039
+  BouenzaAdm1COG:
+    admin_name: Bouenza
+    iso3c: COG
+    shapeID: 67827341B31154795269334
+  BoundjiAdm2COG:
+    admin_name: Boundji
+    iso3c: COG
+    shapeID: 1427508B27104831936236
+  BrazzavilleAdm1COG:
+    admin_name: Brazzaville
+    iso3c: COG
+    shapeID: 67827341B64489104323901
+  Cuvette-OuestAdm1COG:
+    admin_name: Cuvette-Ouest
+    iso3c: COG
+    shapeID: 67827341B34965463898016
+  CuvetteAdm1COG:
+    admin_name: Cuvette
+    iso3c: COG
+    shapeID: 67827341B35635210457277
+  DivenieAdm2COG:
+    admin_name: Divenie
+    iso3c: COG
+    shapeID: 1427508B11102510825408
+  DjambalaAdm2COG:
+    admin_name: Djambala
+    iso3c: COG
+    shapeID: 1427508B96128266527522
+  DongouAdm2COG:
+    admin_name: Dongou
+    iso3c: COG
+    shapeID: 1427508B98957874622899
+  EpenaAdm2COG:
+    admin_name: Epena
+    iso3c: COG
+    shapeID: 1427508B94586768331104
+  EwoAdm2COG:
+    admin_name: Ewo
+    iso3c: COG
+    shapeID: 1427508B71494423838128
+  GambomaAdm2COG:
+    admin_name: Gamboma
+    iso3c: COG
+    shapeID: 1427508B88245699970735
+  ImpfondoAdm2COG:
+    admin_name: Impfondo
+    iso3c: COG
+    shapeID: 1427508B40681064196886
+  KakamoekaAdm2COG:
+    admin_name: Kakamoeka
+    iso3c: COG
+    shapeID: 1427508B78448203427797
+  KelleAdm2COG:
+    admin_name: Kelle
+    iso3c: COG
+    shapeID: 1427508B49132157501482
+  KibangouAdm2COG:
+    admin_name: Kibangou
+    iso3c: COG
+    shapeID: 1427508B61088264973461
+  KimongoAdm2COG:
+    admin_name: Kimongo
+    iso3c: COG
+    shapeID: 1427508B96831343191841
+  KindambaAdm2COG:
+    admin_name: Kindamba
+    iso3c: COG
+    shapeID: 1427508B11009078407103
+  KinkalaAdm2COG:
+    admin_name: Kinkala
+    iso3c: COG
+    shapeID: 1427508B20778125990981
+  KomonoAdm2COG:
+    admin_name: Komono
+    iso3c: COG
+    shapeID: 1427508B55030741074917
+  KouilouAdm1COG:
+    admin_name: Kouilou
+    iso3c: COG
+    shapeID: 67827341B19376310286278
+  LekanaAdm2COG:
+    admin_name: Lekana
+    iso3c: COG
+    shapeID: 1427508B16336577504654
+  LékoumouAdm1COG:
+    admin_name: Lékoumou
+    iso3c: COG
+    shapeID: 67827341B50868074767684
+  LikoualaAdm1COG:
+    admin_name: Likouala
+    iso3c: COG
+    shapeID: 67827341B88704799146201
+  Loandjili(PointeNoire)Adm2COG:
+    admin_name: Loandjili(PointeNoire)
+    iso3c: COG
+    shapeID: 1427508B18064452172812
+  LoudimaAdm2COG:
+    admin_name: Loudima
+    iso3c: COG
+    shapeID: 1427508B48531502218736
+  LoukelaAdm2COG:
+    admin_name: Loukela
+    iso3c: COG
+    shapeID: 1427508B73097317113528
+  Louvakou(Loubomo)Adm2COG:
+    admin_name: Louvakou(Loubomo)
+    iso3c: COG
+    shapeID: 1427508B57341338749174
+  Madingo-KayesAdm2COG:
+    admin_name: Madingo-Kayes
+    iso3c: COG
+    shapeID: 1427508B65324977052506
+  MadingouAdm2COG:
+    admin_name: Madingou
+    iso3c: COG
+    shapeID: 1427508B79538566138262
+  MakouaAdm2COG:
+    admin_name: Makoua
+    iso3c: COG
+    shapeID: 1427508B79819029922134
+  MayamaAdm2COG:
+    admin_name: Mayama
+    iso3c: COG
+    shapeID: 1427508B81001765289527
+  MayokoAdm2COG:
+    admin_name: Mayoko
+    iso3c: COG
+    shapeID: 1427508B56162922568882
+  MbomoAdm2COG:
+    admin_name: Mbomo
+    iso3c: COG
+    shapeID: 1427508B97285860455499
+  MfouatiAdm2COG:
+    admin_name: Mfouati
+    iso3c: COG
+    shapeID: 1427508B75141491859674
+  MindouliAdm2COG:
+    admin_name: Mindouli
+    iso3c: COG
+    shapeID: 1427508B59827830762916
+  MossakaAdm2COG:
+    admin_name: Mossaka
+    iso3c: COG
+    shapeID: 1427508B15105578077856
+  MossendjoAdm2COG:
+    admin_name: Mossendjo
+    iso3c: COG
+    shapeID: 1427508B80480986798258
+  MouyondziAdm2COG:
+    admin_name: Mouyondzi
+    iso3c: COG
+    shapeID: 1427508B15475197726652
+  MvoutiAdm2COG:
+    admin_name: Mvouti
+    iso3c: COG
+    shapeID: 1427508B61990320035466
+  NgabeAdm2COG:
+    admin_name: Ngabe
+    iso3c: COG
+    shapeID: 1427508B65710782923529
+  Ngamaba(Brazzaville)Adm2COG:
+    admin_name: Ngamaba(Brazzaville)
+    iso3c: COG
+    shapeID: 1427508B77398983922778
+  NiariAdm1COG:
+    admin_name: Niari
+    iso3c: COG
+    shapeID: 67827341B58284401685335
+  NkayiDistrictAdm2COG:
+    admin_name: NkayiDistrict
+    iso3c: COG
+    shapeID: 1427508B61361969612670
+  OkoyoAdm2COG:
+    admin_name: Okoyo
+    iso3c: COG
+    shapeID: 1427508B68234406405678
+  OuessoAdm2COG:
+    admin_name: Ouesso
+    iso3c: COG
+    shapeID: 1427508B53261587685070
+  OwandoAdm2COG:
+    admin_name: Owando
+    iso3c: COG
+    shapeID: 1427508B2711916711363
+  PlateauxAdm1COG:
+    admin_name: Plateaux
+    iso3c: COG
+    shapeID: 67827341B85700324143443
+  Pointe-NoireAdm1COG:
+    admin_name: Pointe-Noire
+    iso3c: COG
+    shapeID: 67827341B24651927925898
+  PoolAdm1COG:
+    admin_name: Pool
+    iso3c: COG
+    shapeID: 67827341B26824927831038
+  SanghaAdm1COG:
+    admin_name: Sangha
+    iso3c: COG
+    shapeID: 67827341B91073241467510
+  SembeAdm2COG:
+    admin_name: Sembe
+    iso3c: COG
+    shapeID: 1427508B36736410961843
+  SibitiAdm2COG:
+    admin_name: Sibiti
+    iso3c: COG
+    shapeID: 1427508B97911920098137
+  SouankeAdm2COG:
+    admin_name: Souanke
+    iso3c: COG
+    shapeID: 1427508B74488627772391
+  ZanagaAdm2COG:
+    admin_name: Zanaga
+    iso3c: COG
+    shapeID: 1427508B80151114352270

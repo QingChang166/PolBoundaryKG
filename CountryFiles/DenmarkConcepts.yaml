@@ -1,6 +1,413 @@
 concepts:
-    - Midtjylland
-    - Hovedstaden
-    - Nordjylland
-    - Syddanmark
-    - Sjælland
+  AabenraaAdm2DNK:
+    admin_name: Aabenraa
+    iso3c: DNK
+    shapeID: 71786716B46678336638205
+  AalborgAdm2DNK:
+    admin_name: Aalborg
+    iso3c: DNK
+    shapeID: 71786716B34564018913551
+  AarhusAdm2DNK:
+    admin_name: Aarhus
+    iso3c: DNK
+    shapeID: 71786716B54938770362357
+  ÆrøAdm2DNK:
+    admin_name: Ærø
+    iso3c: DNK
+    shapeID: 71786716B90858178482348
+  AlbertslundAdm2DNK:
+    admin_name: Albertslund
+    iso3c: DNK
+    shapeID: 71786716B52259600676323
+  AllerødAdm2DNK:
+    admin_name: Allerød
+    iso3c: DNK
+    shapeID: 71786716B69351216790603
+  AssensAdm2DNK:
+    admin_name: Assens
+    iso3c: DNK
+    shapeID: 71786716B65540528804322
+  BallerupAdm2DNK:
+    admin_name: Ballerup
+    iso3c: DNK
+    shapeID: 71786716B39657663077774
+  BillundAdm2DNK:
+    admin_name: Billund
+    iso3c: DNK
+    shapeID: 71786716B53245715843786
+  BornholmAdm2DNK:
+    admin_name: Bornholm
+    iso3c: DNK
+    shapeID: 71786716B33031054619724
+  BrøndbyAdm2DNK:
+    admin_name: Brøndby
+    iso3c: DNK
+    shapeID: 71786716B57593819644291
+  BrønderslevAdm2DNK:
+    admin_name: Brønderslev
+    iso3c: DNK
+    shapeID: 71786716B79370302577150
+  CopenhagenAdm2DNK:
+    admin_name: Copenhagen
+    iso3c: DNK
+    shapeID: 71786716B81020738772022
+  DragørAdm2DNK:
+    admin_name: Dragør
+    iso3c: DNK
+    shapeID: 71786716B8451397458066
+  EgedalAdm2DNK:
+    admin_name: Egedal
+    iso3c: DNK
+    shapeID: 71786716B46121035431506
+  EsbjergAdm2DNK:
+    admin_name: Esbjerg
+    iso3c: DNK
+    shapeID: 71786716B6967543231569
+  Faaborg-MidtfynAdm2DNK:
+    admin_name: Faaborg-Midtfyn
+    iso3c: DNK
+    shapeID: 71786716B25765023105800
+  FanøAdm2DNK:
+    admin_name: Fanø
+    iso3c: DNK
+    shapeID: 71786716B51826106160484
+  FavrskovAdm2DNK:
+    admin_name: Favrskov
+    iso3c: DNK
+    shapeID: 71786716B27809903235433
+  FaxeAdm2DNK:
+    admin_name: Faxe
+    iso3c: DNK
+    shapeID: 71786716B45041800869669
+  FredensborgAdm2DNK:
+    admin_name: Fredensborg
+    iso3c: DNK
+    shapeID: 71786716B33394291945176
+  FredericiaAdm2DNK:
+    admin_name: Fredericia
+    iso3c: DNK
+    shapeID: 71786716B82112898444320
+  FrederiksbergAdm2DNK:
+    admin_name: Frederiksberg
+    iso3c: DNK
+    shapeID: 71786716B96110524527409
+  FrederikshavnAdm2DNK:
+    admin_name: Frederikshavn
+    iso3c: DNK
+    shapeID: 71786716B75417410603706
+  FrederikssundAdm2DNK:
+    admin_name: Frederikssund
+    iso3c: DNK
+    shapeID: 71786716B23852349760420
+  FuresøAdm2DNK:
+    admin_name: Furesø
+    iso3c: DNK
+    shapeID: 71786716B96319125747184
+  GentofteAdm2DNK:
+    admin_name: Gentofte
+    iso3c: DNK
+    shapeID: 71786716B53270433009438
+  GladsaxeAdm2DNK:
+    admin_name: Gladsaxe
+    iso3c: DNK
+    shapeID: 71786716B38121687618802
+  GlostrupAdm2DNK:
+    admin_name: Glostrup
+    iso3c: DNK
+    shapeID: 71786716B94689568032643
+  GreveAdm2DNK:
+    admin_name: Greve
+    iso3c: DNK
+    shapeID: 71786716B88423540640223
+  GribskovAdm2DNK:
+    admin_name: Gribskov
+    iso3c: DNK
+    shapeID: 71786716B26630627548335
+  GuldborgsundAdm2DNK:
+    admin_name: Guldborgsund
+    iso3c: DNK
+    shapeID: 71786716B32401712412850
+  HaderslevAdm2DNK:
+    admin_name: Haderslev
+    iso3c: DNK
+    shapeID: 71786716B2638221370026
+  HalsnæsAdm2DNK:
+    admin_name: Halsnæs
+    iso3c: DNK
+    shapeID: 71786716B96997928459710
+  HedenstedAdm2DNK:
+    admin_name: Hedensted
+    iso3c: DNK
+    shapeID: 71786716B62179325616663
+  HelsingørAdm2DNK:
+    admin_name: Helsingør
+    iso3c: DNK
+    shapeID: 71786716B97058706593659
+  HerlevAdm2DNK:
+    admin_name: Herlev
+    iso3c: DNK
+    shapeID: 71786716B11041135225736
+  HerningAdm2DNK:
+    admin_name: Herning
+    iso3c: DNK
+    shapeID: 71786716B23663037575971
+  HillerødAdm2DNK:
+    admin_name: Hillerød
+    iso3c: DNK
+    shapeID: 71786716B87133991415535
+  HjørringAdm2DNK:
+    admin_name: Hjørring
+    iso3c: DNK
+    shapeID: 71786716B422224300956
+  Høje-TaastrupAdm2DNK:
+    admin_name: Høje-Taastrup
+    iso3c: DNK
+    shapeID: 71786716B42272868765696
+  HolbækAdm2DNK:
+    admin_name: Holbæk
+    iso3c: DNK
+    shapeID: 71786716B65993177657172
+  HolstebroAdm2DNK:
+    admin_name: Holstebro
+    iso3c: DNK
+    shapeID: 71786716B58016217336700
+  HorsensAdm2DNK:
+    admin_name: Horsens
+    iso3c: DNK
+    shapeID: 71786716B65113762150251
+  HørsholmAdm2DNK:
+    admin_name: Hørsholm
+    iso3c: DNK
+    shapeID: 71786716B49302352621351
+  HovedstadenAdm1DNK:
+    admin_name: Hovedstaden
+    iso3c: DNK
+    shapeID: 84455774B63592985071065
+  HvidovreAdm2DNK:
+    admin_name: Hvidovre
+    iso3c: DNK
+    shapeID: 71786716B96315335718138
+  Ikast-BrandeAdm2DNK:
+    admin_name: Ikast-Brande
+    iso3c: DNK
+    shapeID: 71786716B46362927982111
+  IshøjAdm2DNK:
+    admin_name: Ishøj
+    iso3c: DNK
+    shapeID: 71786716B54697214973088
+  JammerbugtAdm2DNK:
+    admin_name: Jammerbugt
+    iso3c: DNK
+    shapeID: 71786716B51925893320851
+  KalundborgAdm2DNK:
+    admin_name: Kalundborg
+    iso3c: DNK
+    shapeID: 71786716B42683939496467
+  KertemindeAdm2DNK:
+    admin_name: Kerteminde
+    iso3c: DNK
+    shapeID: 71786716B45706286685972
+  KøgeAdm2DNK:
+    admin_name: Køge
+    iso3c: DNK
+    shapeID: 71786716B2511855224045
+  KoldingAdm2DNK:
+    admin_name: Kolding
+    iso3c: DNK
+    shapeID: 71786716B1982958908427
+  LæsøAdm2DNK:
+    admin_name: Læsø
+    iso3c: DNK
+    shapeID: 71786716B75086220402227
+  LangelandAdm2DNK:
+    admin_name: Langeland
+    iso3c: DNK
+    shapeID: 71786716B45944384032152
+  LejreAdm2DNK:
+    admin_name: Lejre
+    iso3c: DNK
+    shapeID: 71786716B9584980796535
+  LemvigAdm2DNK:
+    admin_name: Lemvig
+    iso3c: DNK
+    shapeID: 71786716B9806363865609
+  LollandAdm2DNK:
+    admin_name: Lolland
+    iso3c: DNK
+    shapeID: 71786716B63500106048247
+  Lyngby-TaarbækAdm2DNK:
+    admin_name: Lyngby-Taarbæk
+    iso3c: DNK
+    shapeID: 71786716B60882746740321
+  MariagerfjordAdm2DNK:
+    admin_name: Mariagerfjord
+    iso3c: DNK
+    shapeID: 71786716B20459048637380
+  MiddelfartAdm2DNK:
+    admin_name: Middelfart
+    iso3c: DNK
+    shapeID: 71786716B86094483146336
+  MidtjyllandAdm1DNK:
+    admin_name: Midtjylland
+    iso3c: DNK
+    shapeID: 84455774B58555105451238
+  MorsøAdm2DNK:
+    admin_name: Morsø
+    iso3c: DNK
+    shapeID: 71786716B69774565938083
+  NæstvedAdm2DNK:
+    admin_name: Næstved
+    iso3c: DNK
+    shapeID: 71786716B67811636615197
+  NorddjursAdm2DNK:
+    admin_name: Norddjurs
+    iso3c: DNK
+    shapeID: 71786716B68566026973001
+  NordfynAdm2DNK:
+    admin_name: Nordfyn
+    iso3c: DNK
+    shapeID: 71786716B94140568065229
+  NordjyllandAdm1DNK:
+    admin_name: Nordjylland
+    iso3c: DNK
+    shapeID: 84455774B84842167963849
+  NyborgAdm2DNK:
+    admin_name: Nyborg
+    iso3c: DNK
+    shapeID: 71786716B14316823735839
+  OdderAdm2DNK:
+    admin_name: Odder
+    iso3c: DNK
+    shapeID: 71786716B43620076453863
+  OdenseAdm2DNK:
+    admin_name: Odense
+    iso3c: DNK
+    shapeID: 71786716B91062148245888
+  OdsherredAdm2DNK:
+    admin_name: Odsherred
+    iso3c: DNK
+    shapeID: 71786716B40980494570781
+  RandersAdm2DNK:
+    admin_name: Randers
+    iso3c: DNK
+    shapeID: 71786716B48627086580811
+  RebildAdm2DNK:
+    admin_name: Rebild
+    iso3c: DNK
+    shapeID: 71786716B49847933148159
+  Ringkøbing-SkjernAdm2DNK:
+    admin_name: Ringkøbing-Skjern
+    iso3c: DNK
+    shapeID: 71786716B34761600297143
+  RingstedAdm2DNK:
+    admin_name: Ringsted
+    iso3c: DNK
+    shapeID: 71786716B98057254885273
+  RødovreAdm2DNK:
+    admin_name: Rødovre
+    iso3c: DNK
+    shapeID: 71786716B94034131707530
+  RoskildeAdm2DNK:
+    admin_name: Roskilde
+    iso3c: DNK
+    shapeID: 71786716B8217347854635
+  RudersdalAdm2DNK:
+    admin_name: Rudersdal
+    iso3c: DNK
+    shapeID: 71786716B12088833667766
+  SamsøAdm2DNK:
+    admin_name: Samsø
+    iso3c: DNK
+    shapeID: 71786716B53109750697969
+  SilkeborgAdm2DNK:
+    admin_name: Silkeborg
+    iso3c: DNK
+    shapeID: 71786716B56541521256220
+  SjællandAdm1DNK:
+    admin_name: Sjælland
+    iso3c: DNK
+    shapeID: 84455774B92412385890269
+  SkanderborgAdm2DNK:
+    admin_name: Skanderborg
+    iso3c: DNK
+    shapeID: 71786716B49765526069388
+  SkiveAdm2DNK:
+    admin_name: Skive
+    iso3c: DNK
+    shapeID: 71786716B69433812533005
+  SlagelseAdm2DNK:
+    admin_name: Slagelse
+    iso3c: DNK
+    shapeID: 71786716B32972196165212
+  SolrødAdm2DNK:
+    admin_name: Solrød
+    iso3c: DNK
+    shapeID: 71786716B40153436417240
+  SønderborgAdm2DNK:
+    admin_name: Sønderborg
+    iso3c: DNK
+    shapeID: 71786716B72299351601619
+  SorøAdm2DNK:
+    admin_name: Sorø
+    iso3c: DNK
+    shapeID: 71786716B94282367677525
+  StevnsAdm2DNK:
+    admin_name: Stevns
+    iso3c: DNK
+    shapeID: 71786716B98245585766658
+  StruerAdm2DNK:
+    admin_name: Struer
+    iso3c: DNK
+    shapeID: 71786716B94194061920718
+  SvendborgAdm2DNK:
+    admin_name: Svendborg
+    iso3c: DNK
+    shapeID: 71786716B34966856505407
+  SyddanmarkAdm1DNK:
+    admin_name: Syddanmark
+    iso3c: DNK
+    shapeID: 84455774B68755790009873
+  SyddjursAdm2DNK:
+    admin_name: Syddjurs
+    iso3c: DNK
+    shapeID: 71786716B20787037821184
+  TårnbyAdm2DNK:
+    admin_name: Tårnby
+    iso3c: DNK
+    shapeID: 71786716B34155480621965
+  ThistedAdm2DNK:
+    admin_name: Thisted
+    iso3c: DNK
+    shapeID: 71786716B56383958265758
+  TønderAdm2DNK:
+    admin_name: Tønder
+    iso3c: DNK
+    shapeID: 71786716B76174594185827
+  VallensbækAdm2DNK:
+    admin_name: Vallensbæk
+    iso3c: DNK
+    shapeID: 71786716B41815139440907
+  VardeAdm2DNK:
+    admin_name: Varde
+    iso3c: DNK
+    shapeID: 71786716B29460567915272
+  VejenAdm2DNK:
+    admin_name: Vejen
+    iso3c: DNK
+    shapeID: 71786716B99436986743793
+  VejleAdm2DNK:
+    admin_name: Vejle
+    iso3c: DNK
+    shapeID: 71786716B25626345005287
+  VesthimmerlandAdm2DNK:
+    admin_name: Vesthimmerland
+    iso3c: DNK
+    shapeID: 71786716B16948230614219
+  ViborgAdm2DNK:
+    admin_name: Viborg
+    iso3c: DNK
+    shapeID: 71786716B21087296928926
+  VordingborgAdm2DNK:
+    admin_name: Vordingborg
+    iso3c: DNK
+    shapeID: 71786716B59118439676977

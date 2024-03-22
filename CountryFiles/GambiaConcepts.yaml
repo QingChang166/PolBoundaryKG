@@ -1,9 +1,225 @@
 concepts:
-    - Kuntaur
-    - Janjanbureh
-    - Kerewan
-    - Brikama
-    - Mansakonko
-    - Kanifing
-    - Banjul
-    - Basse
+  BakauAdm2GMB:
+    admin_name: Bakau
+    iso3c: GMB
+    shapeID: 56634734B97208940932189
+  BanjulAdm1GMB:
+    admin_name: Banjul
+    iso3c: GMB
+    shapeID: 31243875B86288540800273
+  BanjulCentralAdm2GMB:
+    admin_name: BanjulCentral
+    iso3c: GMB
+    shapeID: 56634734B44527271765824
+  BanjulNorthAdm2GMB:
+    admin_name: BanjulNorth
+    iso3c: GMB
+    shapeID: 56634734B93236052329958
+  BanjulSouthAdm2GMB:
+    admin_name: BanjulSouth
+    iso3c: GMB
+    shapeID: 56634734B29168541437208
+  BasseAdm1GMB:
+    admin_name: Basse
+    iso3c: GMB
+    shapeID: 31243875B74768451122912
+  BasseAdm2GMB:
+    admin_name: Basse
+    iso3c: GMB
+    shapeID: 56634734B15786085247071
+  BrikamaAdm1GMB:
+    admin_name: Brikama
+    iso3c: GMB
+    shapeID: 31243875B88426941804625
+  CentralBadibuAdm2GMB:
+    admin_name: CentralBadibu
+    iso3c: GMB
+    shapeID: 56634734B73613655778936
+  FoniBintangKaranaiAdm2GMB:
+    admin_name: FoniBintangKaranai
+    iso3c: GMB
+    shapeID: 56634734B67575656085362
+  FoniBondaliAdm2GMB:
+    admin_name: FoniBondali
+    iso3c: GMB
+    shapeID: 56634734B65915930660736
+  FoniBrefetAdm2GMB:
+    admin_name: FoniBrefet
+    iso3c: GMB
+    shapeID: 56634734B27150312185582
+  FoniJarrolAdm2GMB:
+    admin_name: FoniJarrol
+    iso3c: GMB
+    shapeID: 56634734B7386392108855
+  FoniKansalaAdm2GMB:
+    admin_name: FoniKansala
+    iso3c: GMB
+    shapeID: 56634734B42615963496738
+  IlliasaAdm2GMB:
+    admin_name: Illiasa
+    iso3c: GMB
+    shapeID: 56634734B27555440336226
+  JanjanburehAdm1GMB:
+    admin_name: Janjanbureh
+    iso3c: GMB
+    shapeID: 31243875B72482523363184
+  JanjanburehAdm2GMB:
+    admin_name: Janjanbureh
+    iso3c: GMB
+    shapeID: 56634734B22755125769096
+  JarracentralAdm2GMB:
+    admin_name: Jarracentral
+    iso3c: GMB
+    shapeID: 56634734B6993374345684
+  JarraEastAdm2GMB:
+    admin_name: JarraEast
+    iso3c: GMB
+    shapeID: 56634734B99377934241318
+  JarraWestAdm2GMB:
+    admin_name: JarraWest
+    iso3c: GMB
+    shapeID: 56634734B83949040016571
+  JeshwangAdm2GMB:
+    admin_name: Jeshwang
+    iso3c: GMB
+    shapeID: 56634734B33214654746760
+  JimaraAdm2GMB:
+    admin_name: Jimara
+    iso3c: GMB
+    shapeID: 56634734B42913132832661
+  JokaduAdm2GMB:
+    admin_name: Jokadu
+    iso3c: GMB
+    shapeID: 56634734B78170872061000
+  KanifingAdm1GMB:
+    admin_name: Kanifing
+    iso3c: GMB
+    shapeID: 31243875B42421745591684
+  KantoraAdm2GMB:
+    admin_name: Kantora
+    iso3c: GMB
+    shapeID: 56634734B33233148834926
+  KerewanAdm1GMB:
+    admin_name: Kerewan
+    iso3c: GMB
+    shapeID: 31243875B21899311231896
+  KiangCentralAdm2GMB:
+    admin_name: KiangCentral
+    iso3c: GMB
+    shapeID: 56634734B95834842597723
+  KiangEastAdm2GMB:
+    admin_name: KiangEast
+    iso3c: GMB
+    shapeID: 56634734B11412565261125
+  KiangWestAdm2GMB:
+    admin_name: KiangWest
+    iso3c: GMB
+    shapeID: 56634734B57370738255875
+  KomboCentralAdm2GMB:
+    admin_name: KomboCentral
+    iso3c: GMB
+    shapeID: 56634734B211008456047
+  KomboEastAdm2GMB:
+    admin_name: KomboEast
+    iso3c: GMB
+    shapeID: 56634734B25207283407562
+  KomboNorthAdm2GMB:
+    admin_name: KomboNorth
+    iso3c: GMB
+    shapeID: 56634734B65078205245432
+  KomboSouthAdm2GMB:
+    admin_name: KomboSouth
+    iso3c: GMB
+    shapeID: 56634734B1390118495461
+  KuntaurAdm1GMB:
+    admin_name: Kuntaur
+    iso3c: GMB
+    shapeID: 31243875B86283726287100
+  LowerBadibuAdm2GMB:
+    admin_name: LowerBadibu
+    iso3c: GMB
+    shapeID: 56634734B14945153011857
+  LowerFuladuWestAdm2GMB:
+    admin_name: LowerFuladuWest
+    iso3c: GMB
+    shapeID: 56634734B90495316975710
+  LowerNiumiAdm2GMB:
+    admin_name: LowerNiumi
+    iso3c: GMB
+    shapeID: 56634734B30137768679203
+  LowerSaloumAdm2GMB:
+    admin_name: LowerSaloum
+    iso3c: GMB
+    shapeID: 56634734B70409077095290
+  MansakonkoAdm1GMB:
+    admin_name: Mansakonko
+    iso3c: GMB
+    shapeID: 31243875B75097494588605
+  NiaminaDankunkuAdm2GMB:
+    admin_name: NiaminaDankunku
+    iso3c: GMB
+    shapeID: 56634734B21442074713298
+  NiaminaEastAdm2GMB:
+    admin_name: NiaminaEast
+    iso3c: GMB
+    shapeID: 56634734B42374489083147
+  NiaminaWestAdm2GMB:
+    admin_name: NiaminaWest
+    iso3c: GMB
+    shapeID: 56634734B81557661921178
+  NianiAdm2GMB:
+    admin_name: Niani
+    iso3c: GMB
+    shapeID: 56634734B41420439456091
+  NianijaAdm2GMB:
+    admin_name: Nianija
+    iso3c: GMB
+    shapeID: 56634734B85088174381509
+  SabachSanjarAdm2GMB:
+    admin_name: SabachSanjar
+    iso3c: GMB
+    shapeID: 56634734B86795933582352
+  SamiAdm2GMB:
+    admin_name: Sami
+    iso3c: GMB
+    shapeID: 56634734B54242206420565
+  SanduAdm2GMB:
+    admin_name: Sandu
+    iso3c: GMB
+    shapeID: 56634734B93657392024497
+  SerrekundaCentralAdm2GMB:
+    admin_name: SerrekundaCentral
+    iso3c: GMB
+    shapeID: 56634734B31410801409584
+  SerrekundaEastAdm2GMB:
+    admin_name: SerrekundaEast
+    iso3c: GMB
+    shapeID: 56634734B18055278254530
+  SerrekundaWestAdm2GMB:
+    admin_name: SerrekundaWest
+    iso3c: GMB
+    shapeID: 56634734B71497134195207
+  TumanaAdm2GMB:
+    admin_name: Tumana
+    iso3c: GMB
+    shapeID: 56634734B54781332377439
+  UpperFuladuWestAdm2GMB:
+    admin_name: UpperFuladuWest
+    iso3c: GMB
+    shapeID: 56634734B91081024976770
+  UpperNiumiAdm2GMB:
+    admin_name: UpperNiumi
+    iso3c: GMB
+    shapeID: 56634734B28238259284132
+  UpperSaloumAdm2GMB:
+    admin_name: UpperSaloum
+    iso3c: GMB
+    shapeID: 56634734B57962636272806
+  WuliEastAdm2GMB:
+    admin_name: WuliEast
+    iso3c: GMB
+    shapeID: 56634734B89687119950058
+  WuliWestAdm2GMB:
+    admin_name: WuliWest
+    iso3c: GMB
+    shapeID: 56634734B48610519572764

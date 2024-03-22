@@ -1,14 +1,357 @@
 concepts:
-    - ProvinciadeBocasdelToro
-    - ColónProvince
-    - ProvinciadeDarién
-    - ComarcaEmberá-Wounaan
-    - ComarcaGunaYala
-    - ProvinciadePanamáOeste
-    - ProvinciadeHerrera
-    - ProvinciadeLosSantos
-    - ComarcaNgäbe-Buglé
-    - ProvinciadeCoclé
-    - ProvinciadePanamá
-    - ProvinciadeVeraguas
-    - ProvinciadeChiriquí
+  AguadulceAdm2PAN:
+    admin_name: Aguadulce
+    iso3c: PAN
+    shapeID: 35544464B59836826406650
+  AlanjeAdm2PAN:
+    admin_name: Alanje
+    iso3c: PAN
+    shapeID: 35544464B2044400904902
+  AntónAdm2PAN:
+    admin_name: Antón
+    iso3c: PAN
+    shapeID: 35544464B51577894822537
+  ArraijánAdm2PAN:
+    admin_name: Arraiján
+    iso3c: PAN
+    shapeID: 35544464B31550191226189
+  AtalayaAdm2PAN:
+    admin_name: Atalaya
+    iso3c: PAN
+    shapeID: 35544464B38923835463224
+  BalboaAdm2PAN:
+    admin_name: Balboa
+    iso3c: PAN
+    shapeID: 35544464B8680648562753
+  BarúAdm2PAN:
+    admin_name: Barú
+    iso3c: PAN
+    shapeID: 35544464B97118695767804
+  BesikoAdm2PAN:
+    admin_name: Besiko
+    iso3c: PAN
+    shapeID: 35544464B66777465067959
+  BocasdelToroAdm2PAN:
+    admin_name: BocasdelToro
+    iso3c: PAN
+    shapeID: 35544464B73365109430870
+  BoquerónAdm2PAN:
+    admin_name: Boquerón
+    iso3c: PAN
+    shapeID: 35544464B36404447942008
+  BoqueteAdm2PAN:
+    admin_name: Boquete
+    iso3c: PAN
+    shapeID: 35544464B71515803064888
+  BugabaAdm2PAN:
+    admin_name: Bugaba
+    iso3c: PAN
+    shapeID: 35544464B94237037415944
+  CalobreAdm2PAN:
+    admin_name: Calobre
+    iso3c: PAN
+    shapeID: 35544464B72055613867107
+  CañazasAdm2PAN:
+    admin_name: Cañazas
+    iso3c: PAN
+    shapeID: 35544464B38467816512648
+  CapiraAdm2PAN:
+    admin_name: Capira
+    iso3c: PAN
+    shapeID: 35544464B53871457264549
+  CémacoAdm2PAN:
+    admin_name: Cémaco
+    iso3c: PAN
+    shapeID: 35544464B97787935745550
+  ChagresAdm2PAN:
+    admin_name: Chagres
+    iso3c: PAN
+    shapeID: 35544464B20659112060965
+  ChameAdm2PAN:
+    admin_name: Chame
+    iso3c: PAN
+    shapeID: 35544464B5601098588879
+  ChanguinolaAdm2PAN:
+    admin_name: Changuinola
+    iso3c: PAN
+    shapeID: 35544464B1778139424471
+  ChepiganaAdm2PAN:
+    admin_name: Chepigana
+    iso3c: PAN
+    shapeID: 35544464B97743116241572
+  ChepoAdm2PAN:
+    admin_name: Chepo
+    iso3c: PAN
+    shapeID: 35544464B69999703107277
+  ChimánAdm2PAN:
+    admin_name: Chimán
+    iso3c: PAN
+    shapeID: 35544464B77080496682008
+  ChiriquíGrandeAdm2PAN:
+    admin_name: ChiriquíGrande
+    iso3c: PAN
+    shapeID: 35544464B7059792376072
+  ChitréAdm2PAN:
+    admin_name: Chitré
+    iso3c: PAN
+    shapeID: 35544464B26445161390898
+  ColónAdm2PAN:
+    admin_name: Colón
+    iso3c: PAN
+    shapeID: 35544464B72276923440034
+  ColónProvinceAdm1PAN:
+    admin_name: ColónProvince
+    iso3c: PAN
+    shapeID: 82927092B18334008327541
+  ComarcaEmberá-WounaanAdm1PAN:
+    admin_name: ComarcaEmberá-Wounaan
+    iso3c: PAN
+    shapeID: 82927092B81098200763462
+  ComarcaGunaYalaAdm1PAN:
+    admin_name: ComarcaGunaYala
+    iso3c: PAN
+    shapeID: 82927092B30537193423783
+  ComarcaKunaYalaAdm2PAN:
+    admin_name: ComarcaKunaYala
+    iso3c: PAN
+    shapeID: 35544464B26872392116911
+  ComarcaNgäbe-BugléAdm1PAN:
+    admin_name: ComarcaNgäbe-Buglé
+    iso3c: PAN
+    shapeID: 82927092B82997509005914
+  DavidAdm2PAN:
+    admin_name: David
+    iso3c: PAN
+    shapeID: 35544464B4717226524239
+  DolegaAdm2PAN:
+    admin_name: Dolega
+    iso3c: PAN
+    shapeID: 35544464B94814953668785
+  DonosoAdm2PAN:
+    admin_name: Donoso
+    iso3c: PAN
+    shapeID: 35544464B61389009226289
+  GualacaAdm2PAN:
+    admin_name: Gualaca
+    iso3c: PAN
+    shapeID: 35544464B22441081783437
+  GuararéAdm2PAN:
+    admin_name: Guararé
+    iso3c: PAN
+    shapeID: 35544464B687818134367
+  KankintúAdm2PAN:
+    admin_name: Kankintú
+    iso3c: PAN
+    shapeID: 35544464B2015792153620
+  KusapínAdm2PAN:
+    admin_name: Kusapín
+    iso3c: PAN
+    shapeID: 35544464B37118693502086
+  LaChorreraAdm2PAN:
+    admin_name: LaChorrera
+    iso3c: PAN
+    shapeID: 35544464B93152851867893
+  LaMesaAdm2PAN:
+    admin_name: LaMesa
+    iso3c: PAN
+    shapeID: 35544464B90522605165163
+  LaPintadaAdm2PAN:
+    admin_name: LaPintada
+    iso3c: PAN
+    shapeID: 35544464B73573459744927
+  LasMinasAdm2PAN:
+    admin_name: LasMinas
+    iso3c: PAN
+    shapeID: 35544464B70726679944443
+  LasPalmasAdm2PAN:
+    admin_name: LasPalmas
+    iso3c: PAN
+    shapeID: 35544464B23901142884801
+  LasTablasAdm2PAN:
+    admin_name: LasTablas
+    iso3c: PAN
+    shapeID: 35544464B24860146435947
+  LosPozosAdm2PAN:
+    admin_name: LosPozos
+    iso3c: PAN
+    shapeID: 35544464B7631989916693
+  LosSantosAdm2PAN:
+    admin_name: LosSantos
+    iso3c: PAN
+    shapeID: 35544464B37461869790758
+  MacaracasAdm2PAN:
+    admin_name: Macaracas
+    iso3c: PAN
+    shapeID: 35544464B79147268573624
+  MariatoAdm2PAN:
+    admin_name: Mariato
+    iso3c: PAN
+    shapeID: 35544464B44926155348372
+  MironóAdm2PAN:
+    admin_name: Mironó
+    iso3c: PAN
+    shapeID: 35544464B14615778162617
+  MontijoAdm2PAN:
+    admin_name: Montijo
+    iso3c: PAN
+    shapeID: 35544464B52455238358598
+  MünaAdm2PAN:
+    admin_name: Müna
+    iso3c: PAN
+    shapeID: 35544464B46003057824195
+  NatáAdm2PAN:
+    admin_name: Natá
+    iso3c: PAN
+    shapeID: 35544464B34779473724765
+  NoleDuimaAdm2PAN:
+    admin_name: NoleDuima
+    iso3c: PAN
+    shapeID: 35544464B88224664972653
+  ÑürümAdm2PAN:
+    admin_name: Ñürüm
+    iso3c: PAN
+    shapeID: 35544464B55183613769543
+  OcúAdm2PAN:
+    admin_name: Ocú
+    iso3c: PAN
+    shapeID: 35544464B32201522330751
+  OláAdm2PAN:
+    admin_name: Olá
+    iso3c: PAN
+    shapeID: 35544464B52438824154031
+  PanamáAdm2PAN:
+    admin_name: Panamá
+    iso3c: PAN
+    shapeID: 35544464B75623018343213
+  ParitaAdm2PAN:
+    admin_name: Parita
+    iso3c: PAN
+    shapeID: 35544464B83627234663474
+  PedasíAdm2PAN:
+    admin_name: Pedasí
+    iso3c: PAN
+    shapeID: 35544464B62202964850227
+  PenonoméAdm2PAN:
+    admin_name: Penonomé
+    iso3c: PAN
+    shapeID: 35544464B54827397349612
+  PeséAdm2PAN:
+    admin_name: Pesé
+    iso3c: PAN
+    shapeID: 35544464B3990390948119
+  PinoganaAdm2PAN:
+    admin_name: Pinogana
+    iso3c: PAN
+    shapeID: 35544464B85836861885504
+  PocríAdm2PAN:
+    admin_name: Pocrí
+    iso3c: PAN
+    shapeID: 35544464B40624021846566
+  PortobeloAdm2PAN:
+    admin_name: Portobelo
+    iso3c: PAN
+    shapeID: 35544464B89301673090177
+  ProvinciadeBocasdelToroAdm1PAN:
+    admin_name: ProvinciadeBocasdelToro
+    iso3c: PAN
+    shapeID: 82927092B39502170322116
+  ProvinciadeChiriquíAdm1PAN:
+    admin_name: ProvinciadeChiriquí
+    iso3c: PAN
+    shapeID: 82927092B1094181974383
+  ProvinciadeCocléAdm1PAN:
+    admin_name: ProvinciadeCoclé
+    iso3c: PAN
+    shapeID: 82927092B90628020941788
+  ProvinciadeDariénAdm1PAN:
+    admin_name: ProvinciadeDarién
+    iso3c: PAN
+    shapeID: 82927092B49726656591260
+  ProvinciadeHerreraAdm1PAN:
+    admin_name: ProvinciadeHerrera
+    iso3c: PAN
+    shapeID: 82927092B31072992504870
+  ProvinciadeLosSantosAdm1PAN:
+    admin_name: ProvinciadeLosSantos
+    iso3c: PAN
+    shapeID: 82927092B53100215554732
+  ProvinciadePanamáAdm1PAN:
+    admin_name: ProvinciadePanamá
+    iso3c: PAN
+    shapeID: 82927092B1953206585656
+  ProvinciadePanamáOesteAdm1PAN:
+    admin_name: ProvinciadePanamáOeste
+    iso3c: PAN
+    shapeID: 82927092B58639026682610
+  ProvinciadeVeraguasAdm1PAN:
+    admin_name: ProvinciadeVeraguas
+    iso3c: PAN
+    shapeID: 82927092B39170055747381
+  RemediosAdm2PAN:
+    admin_name: Remedios
+    iso3c: PAN
+    shapeID: 35544464B82986872921628
+  RenacimientoAdm2PAN:
+    admin_name: Renacimiento
+    iso3c: PAN
+    shapeID: 35544464B69135506248692
+  RíodeJesúsAdm2PAN:
+    admin_name: RíodeJesús
+    iso3c: PAN
+    shapeID: 35544464B55951329462625
+  SambúAdm2PAN:
+    admin_name: Sambú
+    iso3c: PAN
+    shapeID: 35544464B41200753641773
+  SanCarlosAdm2PAN:
+    admin_name: SanCarlos
+    iso3c: PAN
+    shapeID: 35544464B52564118130817
+  SanFélixAdm2PAN:
+    admin_name: SanFélix
+    iso3c: PAN
+    shapeID: 35544464B1884855613124
+  SanFranciscoAdm2PAN:
+    admin_name: SanFrancisco
+    iso3c: PAN
+    shapeID: 35544464B34923513195419
+  SanLorenzoAdm2PAN:
+    admin_name: SanLorenzo
+    iso3c: PAN
+    shapeID: 35544464B69995284434654
+  SanMiguelitoAdm2PAN:
+    admin_name: SanMiguelito
+    iso3c: PAN
+    shapeID: 35544464B70550696695084
+  SantaFéAdm2PAN:
+    admin_name: SantaFé
+    iso3c: PAN
+    shapeID: 35544464B37320508305878
+  SantaIsabelAdm2PAN:
+    admin_name: SantaIsabel
+    iso3c: PAN
+    shapeID: 35544464B42608984184173
+  SantaMaríaAdm2PAN:
+    admin_name: SantaMaría
+    iso3c: PAN
+    shapeID: 35544464B33325407624230
+  SantiagoAdm2PAN:
+    admin_name: Santiago
+    iso3c: PAN
+    shapeID: 35544464B94939099957222
+  SonáAdm2PAN:
+    admin_name: Soná
+    iso3c: PAN
+    shapeID: 35544464B54310039107980
+  TabogaAdm2PAN:
+    admin_name: Taboga
+    iso3c: PAN
+    shapeID: 35544464B74789014027071
+  ToléAdm2PAN:
+    admin_name: Tolé
+    iso3c: PAN
+    shapeID: 35544464B42415898156118
+  TonosíAdm2PAN:
+    admin_name: Tonosí
+    iso3c: PAN
+    shapeID: 35544464B87180550672206

@@ -1,7 +1,293 @@
 concepts:
-    - Niamey
-    - Tahoua/Agadez
-    - Dossa
-    - Maradi
-    - Zinder/Diffa
-    - Tillaberi
+  AbalaAdm2NER:
+    admin_name: Abala
+    iso3c: NER
+    shapeID: 23599985B96366222257755
+  AbalakAdm2NER:
+    admin_name: Abalak
+    iso3c: NER
+    shapeID: 23599985B73397103622086
+  AderbissinatAdm2NER:
+    admin_name: Aderbissinat
+    iso3c: NER
+    shapeID: 23599985B52241460380538
+  AguiéAdm2NER:
+    admin_name: Aguié
+    iso3c: NER
+    shapeID: 23599985B59469969297601
+  ArlitAdm2NER:
+    admin_name: Arlit
+    iso3c: NER
+    shapeID: 23599985B35740417673211
+  AyérouAdm2NER:
+    admin_name: Ayérou
+    iso3c: NER
+    shapeID: 23599985B66518443893936
+  BagarouaAdm2NER:
+    admin_name: Bagaroua
+    iso3c: NER
+    shapeID: 23599985B53990886897515
+  BalléyaraAdm2NER:
+    admin_name: Balléyara
+    iso3c: NER
+    shapeID: 23599985B53989443832132
+  BanibangouAdm2NER:
+    admin_name: Banibangou
+    iso3c: NER
+    shapeID: 23599985B31350615327928
+  BankilaréAdm2NER:
+    admin_name: Bankilaré
+    iso3c: NER
+    shapeID: 23599985B18164013569517
+  BelbédjiAdm2NER:
+    admin_name: Belbédji
+    iso3c: NER
+    shapeID: 23599985B37162587774633
+  BérmoAdm2NER:
+    admin_name: Bérmo
+    iso3c: NER
+    shapeID: 23599985B15241034776795
+  BilmaAdm2NER:
+    admin_name: Bilma
+    iso3c: NER
+    shapeID: 23599985B30294266740058
+  Birni-N'KonniAdm2NER:
+    admin_name: Birni-N'Konni
+    iso3c: NER
+    shapeID: 23599985B12101722290167
+  BoboyeAdm2NER:
+    admin_name: Boboye
+    iso3c: NER
+    shapeID: 23599985B30838539224942
+  BossoAdm2NER:
+    admin_name: Bosso
+    iso3c: NER
+    shapeID: 23599985B85188331861732
+  BouzaAdm2NER:
+    admin_name: Bouza
+    iso3c: NER
+    shapeID: 23599985B24942158565256
+  DakoroAdm2NER:
+    admin_name: Dakoro
+    iso3c: NER
+    shapeID: 23599985B7432037800977
+  DamagaramTakayaAdm2NER:
+    admin_name: DamagaramTakaya
+    iso3c: NER
+    shapeID: 23599985B91194911882215
+  DiffaAdm2NER:
+    admin_name: Diffa
+    iso3c: NER
+    shapeID: 23599985B49279802347692
+  DioundiouAdm2NER:
+    admin_name: Dioundiou
+    iso3c: NER
+    shapeID: 23599985B87103937584190
+  DogondoutchiAdm2NER:
+    admin_name: Dogondoutchi
+    iso3c: NER
+    shapeID: 23599985B71800364259973
+  DossaAdm1NER:
+    admin_name: Dossa
+    iso3c: NER
+    shapeID: 87150794B47488127174201
+  DossoAdm2NER:
+    admin_name: Dosso
+    iso3c: NER
+    shapeID: 23599985B13950466033624
+  DungassAdm2NER:
+    admin_name: Dungass
+    iso3c: NER
+    shapeID: 23599985B10149369238340
+  FalmèyAdm2NER:
+    admin_name: Falmèy
+    iso3c: NER
+    shapeID: 23599985B42967903288320
+  FilinguéAdm2NER:
+    admin_name: Filingué
+    iso3c: NER
+    shapeID: 23599985B22646074094064
+  GayaAdm2NER:
+    admin_name: Gaya
+    iso3c: NER
+    shapeID: 23599985B94426243670688
+  GazaouaAdm2NER:
+    admin_name: Gazaoua
+    iso3c: NER
+    shapeID: 23599985B75774451533542
+  GothèyeAdm2NER:
+    admin_name: Gothèye
+    iso3c: NER
+    shapeID: 23599985B45142923275636
+  GoudoumariaAdm2NER:
+    admin_name: Goudoumaria
+    iso3c: NER
+    shapeID: 23599985B75635581877036
+  GouréAdm2NER:
+    admin_name: Gouré
+    iso3c: NER
+    shapeID: 23599985B20082731758941
+  Guidan-RoumdjiAdm2NER:
+    admin_name: Guidan-Roumdji
+    iso3c: NER
+    shapeID: 23599985B37435064601183
+  IférouaneAdm2NER:
+    admin_name: Iférouane
+    iso3c: NER
+    shapeID: 23599985B42361363165505
+  IllélaAdm2NER:
+    admin_name: Illéla
+    iso3c: NER
+    shapeID: 23599985B93785804329420
+  IngallAdm2NER:
+    admin_name: Ingall
+    iso3c: NER
+    shapeID: 23599985B91742674817727
+  KantchéAdm2NER:
+    admin_name: Kantché
+    iso3c: NER
+    shapeID: 23599985B81952569357883
+  KeitaAdm2NER:
+    admin_name: Keita
+    iso3c: NER
+    shapeID: 23599985B44584919101761
+  KolloAdm2NER:
+    admin_name: Kollo
+    iso3c: NER
+    shapeID: 23599985B29201413246391
+  LogaAdm2NER:
+    admin_name: Loga
+    iso3c: NER
+    shapeID: 23599985B16490635358595
+  MadaouaAdm2NER:
+    admin_name: Madaoua
+    iso3c: NER
+    shapeID: 23599985B88186704259068
+  MadarounfaAdm2NER:
+    admin_name: Madarounfa
+    iso3c: NER
+    shapeID: 23599985B10786712449018
+  MagariaAdm2NER:
+    admin_name: Magaria
+    iso3c: NER
+    shapeID: 23599985B72934105448405
+  Maïné-SoroaAdm2NER:
+    admin_name: Maïné-Soroa
+    iso3c: NER
+    shapeID: 23599985B74336618625682
+  MalbazaAdm2NER:
+    admin_name: Malbaza
+    iso3c: NER
+    shapeID: 23599985B4654450212041
+  MaradiAdm1NER:
+    admin_name: Maradi
+    iso3c: NER
+    shapeID: 87150794B5839560144768
+  MaradiAdm2NER:
+    admin_name: Maradi
+    iso3c: NER
+    shapeID: 23599985B96333695472040
+  MayahiAdm2NER:
+    admin_name: Mayahi
+    iso3c: NER
+    shapeID: 23599985B12759501052009
+  MirriahAdm2NER:
+    admin_name: Mirriah
+    iso3c: NER
+    shapeID: 23599985B93207740600063
+  N'GourtiAdm2NER:
+    admin_name: N'Gourti
+    iso3c: NER
+    shapeID: 23599985B32057380818540
+  N'GuigmiAdm2NER:
+    admin_name: N'Guigmi
+    iso3c: NER
+    shapeID: 23599985B27242520162456
+  NiameyAdm1NER:
+    admin_name: Niamey
+    iso3c: NER
+    shapeID: 87150794B29979307394387
+  NiameyAdm2NER:
+    admin_name: Niamey
+    iso3c: NER
+    shapeID: 23599985B37846693808008
+  OuallamAdm2NER:
+    admin_name: Ouallam
+    iso3c: NER
+    shapeID: 23599985B18642698649368
+  SayAdm2NER:
+    admin_name: Say
+    iso3c: NER
+    shapeID: 23599985B83200163093073
+  Tahoua/AgadezAdm1NER:
+    admin_name: Tahoua/Agadez
+    iso3c: NER
+    shapeID: 87150794B58281898249288
+  TahouaAdm2NER:
+    admin_name: Tahoua
+    iso3c: NER
+    shapeID: 23599985B71026362524800
+  TahouaVilleAdm2NER:
+    admin_name: TahouaVille
+    iso3c: NER
+    shapeID: 23599985B25077979802367
+  TakeitaAdm2NER:
+    admin_name: Takeita
+    iso3c: NER
+    shapeID: 23599985B25575457251727
+  TanoutAdm2NER:
+    admin_name: Tanout
+    iso3c: NER
+    shapeID: 23599985B69081741011402
+  TassaraAdm2NER:
+    admin_name: Tassara
+    iso3c: NER
+    shapeID: 23599985B43997741220428
+  TchintabaradenAdm2NER:
+    admin_name: Tchintabaraden
+    iso3c: NER
+    shapeID: 23599985B37880443282078
+  TchirozérineAdm2NER:
+    admin_name: Tchirozérine
+    iso3c: NER
+    shapeID: 23599985B66307714151869
+  TéraAdm2NER:
+    admin_name: Téra
+    iso3c: NER
+    shapeID: 23599985B14211003047249
+  TeskerAdm2NER:
+    admin_name: Tesker
+    iso3c: NER
+    shapeID: 23599985B16015640173227
+  TessaouaAdm2NER:
+    admin_name: Tessaoua
+    iso3c: NER
+    shapeID: 23599985B9962986153255
+  TibiriAdm2NER:
+    admin_name: Tibiri
+    iso3c: NER
+    shapeID: 23599985B22885280076406
+  TillaberiAdm1NER:
+    admin_name: Tillaberi
+    iso3c: NER
+    shapeID: 87150794B24708462658640
+  TillabériAdm2NER:
+    admin_name: Tillabéri
+    iso3c: NER
+    shapeID: 23599985B45975933186230
+  TilliaAdm2NER:
+    admin_name: Tillia
+    iso3c: NER
+    shapeID: 23599985B40327375212482
+  TorodiAdm2NER:
+    admin_name: Torodi
+    iso3c: NER
+    shapeID: 23599985B58853598919637
+  Zinder/DiffaAdm1NER:
+    admin_name: Zinder/Diffa
+    iso3c: NER
+    shapeID: 87150794B17606801029036
+  ZinderAdm2NER:
+    admin_name: Zinder
+    iso3c: NER
+    shapeID: 23599985B17840081467963

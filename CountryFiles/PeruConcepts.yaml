@@ -1,27 +1,889 @@
 concepts:
-    - Puno
-    - Cajamarca
-    - Piura
-    - Lambayeque
-    - Loreto
-    - Tacna
-    - Tumbes
-    - ElCallao
-    - MunicipalidadMetropolitanadeLima
-    - Ucayali
-    - Junín
-    - Ica
-    - Huancavelica
-    - Amazonas
-    - LaLibertad
-    - Ancash
-    - SanMartín
-    - Huánuco
-    - Pasco
-    - Lima
-    - Apurímac
-    - Ayacucho
-    - MadredeDios
-    - Cusco
-    - Arequipa
-    - Moquegua
+  AbancayAdm2PER:
+    admin_name: Abancay
+    iso3c: PER
+    shapeID: 86281439B95631648955536
+  AcobambaAdm2PER:
+    admin_name: Acobamba
+    iso3c: PER
+    shapeID: 86281439B92156205332271
+  AcomayoAdm2PER:
+    admin_name: Acomayo
+    iso3c: PER
+    shapeID: 86281439B20943617264122
+  AijaAdm2PER:
+    admin_name: Aija
+    iso3c: PER
+    shapeID: 86281439B16913171463289
+  AltoAmazonasAdm2PER:
+    admin_name: AltoAmazonas
+    iso3c: PER
+    shapeID: 86281439B99905701957938
+  AmazonasAdm1PER:
+    admin_name: Amazonas
+    iso3c: PER
+    shapeID: 1875124B1797874831789
+  AmboAdm2PER:
+    admin_name: Ambo
+    iso3c: PER
+    shapeID: 86281439B62958263432420
+  AncashAdm1PER:
+    admin_name: Ancash
+    iso3c: PER
+    shapeID: 1875124B15182629165166
+  AndahuaylasAdm2PER:
+    admin_name: Andahuaylas
+    iso3c: PER
+    shapeID: 86281439B76349531023919
+  AngaraesAdm2PER:
+    admin_name: Angaraes
+    iso3c: PER
+    shapeID: 86281439B42850233114855
+  AntaAdm2PER:
+    admin_name: Anta
+    iso3c: PER
+    shapeID: 86281439B22932308486268
+  AntabambaAdm2PER:
+    admin_name: Antabamba
+    iso3c: PER
+    shapeID: 86281439B67377486852449
+  AntonioRaymondiAdm2PER:
+    admin_name: AntonioRaymondi
+    iso3c: PER
+    shapeID: 86281439B42747407392018
+  ApurímacAdm1PER:
+    admin_name: Apurímac
+    iso3c: PER
+    shapeID: 1875124B63771233756824
+  ArequipaAdm1PER:
+    admin_name: Arequipa
+    iso3c: PER
+    shapeID: 1875124B34173194899706
+  ArequipaAdm2PER:
+    admin_name: Arequipa
+    iso3c: PER
+    shapeID: 86281439B2261503093987
+  AscopeAdm2PER:
+    admin_name: Ascope
+    iso3c: PER
+    shapeID: 86281439B48399127015258
+  AsuncionAdm2PER:
+    admin_name: Asuncion
+    iso3c: PER
+    shapeID: 86281439B44243657118562
+  AtalayaAdm2PER:
+    admin_name: Atalaya
+    iso3c: PER
+    shapeID: 86281439B8185732836313
+  AyabacaAdm2PER:
+    admin_name: Ayabaca
+    iso3c: PER
+    shapeID: 86281439B3265311261772
+  AyacuchoAdm1PER:
+    admin_name: Ayacucho
+    iso3c: PER
+    shapeID: 1875124B76579830071892
+  AymaraesAdm2PER:
+    admin_name: Aymaraes
+    iso3c: PER
+    shapeID: 86281439B92095517476211
+  AzangaroAdm2PER:
+    admin_name: Azangaro
+    iso3c: PER
+    shapeID: 86281439B39141147012266
+  BaguaAdm2PER:
+    admin_name: Bagua
+    iso3c: PER
+    shapeID: 86281439B42703841252030
+  BarrancaAdm2PER:
+    admin_name: Barranca
+    iso3c: PER
+    shapeID: 86281439B29685222960103
+  BellavistaAdm2PER:
+    admin_name: Bellavista
+    iso3c: PER
+    shapeID: 86281439B21945192230195
+  BolivarAdm2PER:
+    admin_name: Bolivar
+    iso3c: PER
+    shapeID: 86281439B86357323386245
+  BolognesiAdm2PER:
+    admin_name: Bolognesi
+    iso3c: PER
+    shapeID: 86281439B24717538266370
+  BongaraAdm2PER:
+    admin_name: Bongara
+    iso3c: PER
+    shapeID: 86281439B83606143553342
+  CaÃ±eteAdm2PER:
+    admin_name: CaÃ±ete
+    iso3c: PER
+    shapeID: 86281439B38197042578648
+  CajabambaAdm2PER:
+    admin_name: Cajabamba
+    iso3c: PER
+    shapeID: 86281439B2923505587581
+  CajamarcaAdm1PER:
+    admin_name: Cajamarca
+    iso3c: PER
+    shapeID: 1875124B51528250409360
+  CajamarcaAdm2PER:
+    admin_name: Cajamarca
+    iso3c: PER
+    shapeID: 86281439B40930956450013
+  CajatamboAdm2PER:
+    admin_name: Cajatambo
+    iso3c: PER
+    shapeID: 86281439B2149944224824
+  CalcaAdm2PER:
+    admin_name: Calca
+    iso3c: PER
+    shapeID: 86281439B75585445771905
+  CallaoAdm2PER:
+    admin_name: Callao
+    iso3c: PER
+    shapeID: 86281439B21009248898999
+  CamanaAdm2PER:
+    admin_name: Camana
+    iso3c: PER
+    shapeID: 86281439B8928059178056
+  CanasAdm2PER:
+    admin_name: Canas
+    iso3c: PER
+    shapeID: 86281439B51394298933174
+  CanchisAdm2PER:
+    admin_name: Canchis
+    iso3c: PER
+    shapeID: 86281439B44648487270271
+  CandaraveAdm2PER:
+    admin_name: Candarave
+    iso3c: PER
+    shapeID: 86281439B21973804686801
+  CangalloAdm2PER:
+    admin_name: Cangallo
+    iso3c: PER
+    shapeID: 86281439B34026517933599
+  CantaAdm2PER:
+    admin_name: Canta
+    iso3c: PER
+    shapeID: 86281439B11462215509346
+  CarabayaAdm2PER:
+    admin_name: Carabaya
+    iso3c: PER
+    shapeID: 86281439B63963563505699
+  CaraveliAdm2PER:
+    admin_name: Caraveli
+    iso3c: PER
+    shapeID: 86281439B24627039816812
+  CarhuazAdm2PER:
+    admin_name: Carhuaz
+    iso3c: PER
+    shapeID: 86281439B67590334790867
+  CarlosFerminFitzcarraldAdm2PER:
+    admin_name: CarlosFerminFitzcarrald
+    iso3c: PER
+    shapeID: 86281439B49389172682123
+  CasmaAdm2PER:
+    admin_name: Casma
+    iso3c: PER
+    shapeID: 86281439B42439705570298
+  CastillaAdm2PER:
+    admin_name: Castilla
+    iso3c: PER
+    shapeID: 86281439B71643834845538
+  CastrovirreynaAdm2PER:
+    admin_name: Castrovirreyna
+    iso3c: PER
+    shapeID: 86281439B87306376910485
+  CayllomaAdm2PER:
+    admin_name: Caylloma
+    iso3c: PER
+    shapeID: 86281439B30825453994343
+  CelendinAdm2PER:
+    admin_name: Celendin
+    iso3c: PER
+    shapeID: 86281439B17410503992322
+  ChachapoyasAdm2PER:
+    admin_name: Chachapoyas
+    iso3c: PER
+    shapeID: 86281439B12993203122991
+  ChanchamayoAdm2PER:
+    admin_name: Chanchamayo
+    iso3c: PER
+    shapeID: 86281439B40126444259692
+  ChepenAdm2PER:
+    admin_name: Chepen
+    iso3c: PER
+    shapeID: 86281439B86274987783552
+  ChiclayoAdm2PER:
+    admin_name: Chiclayo
+    iso3c: PER
+    shapeID: 86281439B7276941823371
+  ChinchaAdm2PER:
+    admin_name: Chincha
+    iso3c: PER
+    shapeID: 86281439B74998142298356
+  ChincherosAdm2PER:
+    admin_name: Chincheros
+    iso3c: PER
+    shapeID: 86281439B64035093047752
+  ChotaAdm2PER:
+    admin_name: Chota
+    iso3c: PER
+    shapeID: 86281439B88377451939403
+  ChucuitoAdm2PER:
+    admin_name: Chucuito
+    iso3c: PER
+    shapeID: 86281439B79480017417132
+  ChumbivilcasAdm2PER:
+    admin_name: Chumbivilcas
+    iso3c: PER
+    shapeID: 86281439B72283889769086
+  ChupacaAdm2PER:
+    admin_name: Chupaca
+    iso3c: PER
+    shapeID: 86281439B55611133848114
+  ChurcampaAdm2PER:
+    admin_name: Churcampa
+    iso3c: PER
+    shapeID: 86281439B50085873664209
+  ConcepcionAdm2PER:
+    admin_name: Concepcion
+    iso3c: PER
+    shapeID: 86281439B60815042130101
+  CondesuyosAdm2PER:
+    admin_name: Condesuyos
+    iso3c: PER
+    shapeID: 86281439B62702709218494
+  CondorcanquiAdm2PER:
+    admin_name: Condorcanqui
+    iso3c: PER
+    shapeID: 86281439B49364565182822
+  ContralmiranteVillarAdm2PER:
+    admin_name: ContralmiranteVillar
+    iso3c: PER
+    shapeID: 86281439B49517942967283
+  ContumazaAdm2PER:
+    admin_name: Contumaza
+    iso3c: PER
+    shapeID: 86281439B42243270473185
+  CoronelPortilloAdm2PER:
+    admin_name: CoronelPortillo
+    iso3c: PER
+    shapeID: 86281439B8316055413936
+  CorongoAdm2PER:
+    admin_name: Corongo
+    iso3c: PER
+    shapeID: 86281439B61855714757276
+  CotabambasAdm2PER:
+    admin_name: Cotabambas
+    iso3c: PER
+    shapeID: 86281439B97750669772673
+  CuscoAdm1PER:
+    admin_name: Cusco
+    iso3c: PER
+    shapeID: 1875124B5984096006894
+  CuscoAdm2PER:
+    admin_name: Cusco
+    iso3c: PER
+    shapeID: 86281439B18210308777345
+  CutervoAdm2PER:
+    admin_name: Cutervo
+    iso3c: PER
+    shapeID: 86281439B9641917532645
+  DanielAlcidesCarrionAdm2PER:
+    admin_name: DanielAlcidesCarrion
+    iso3c: PER
+    shapeID: 86281439B88138122201247
+  DatemdelMaraÃ±onAdm2PER:
+    admin_name: DatemdelMaraÃ±on
+    iso3c: PER
+    shapeID: 86281439B19525046252167
+  DosdeMayoAdm2PER:
+    admin_name: DosdeMayo
+    iso3c: PER
+    shapeID: 86281439B79101978264301
+  ElCallaoAdm1PER:
+    admin_name: ElCallao
+    iso3c: PER
+    shapeID: 1875124B73300566086976
+  ElCollaoAdm2PER:
+    admin_name: ElCollao
+    iso3c: PER
+    shapeID: 86281439B70453073553936
+  ElDoradoAdm2PER:
+    admin_name: ElDorado
+    iso3c: PER
+    shapeID: 86281439B18288209632206
+  EspinarAdm2PER:
+    admin_name: Espinar
+    iso3c: PER
+    shapeID: 86281439B7669862240315
+  FerreÃ±afeAdm2PER:
+    admin_name: FerreÃ±afe
+    iso3c: PER
+    shapeID: 86281439B15952287038744
+  GeneralSanchezCerroAdm2PER:
+    admin_name: GeneralSanchezCerro
+    iso3c: PER
+    shapeID: 86281439B84975100544654
+  GranChimuAdm2PER:
+    admin_name: GranChimu
+    iso3c: PER
+    shapeID: 86281439B8302617209197
+  GrauAdm2PER:
+    admin_name: Grau
+    iso3c: PER
+    shapeID: 86281439B32616400473033
+  HuacaybambaAdm2PER:
+    admin_name: Huacaybamba
+    iso3c: PER
+    shapeID: 86281439B62210146896152
+  HualgayocAdm2PER:
+    admin_name: Hualgayoc
+    iso3c: PER
+    shapeID: 86281439B40192866337915
+  HuallagaAdm2PER:
+    admin_name: Huallaga
+    iso3c: PER
+    shapeID: 86281439B12799779720524
+  HuamaliesAdm2PER:
+    admin_name: Huamalies
+    iso3c: PER
+    shapeID: 86281439B96398327811884
+  HuamangaAdm2PER:
+    admin_name: Huamanga
+    iso3c: PER
+    shapeID: 86281439B20433553011992
+  HuancabambaAdm2PER:
+    admin_name: Huancabamba
+    iso3c: PER
+    shapeID: 86281439B18343164378490
+  HuancaneAdm2PER:
+    admin_name: Huancane
+    iso3c: PER
+    shapeID: 86281439B8131486322955
+  HuancaSancosAdm2PER:
+    admin_name: HuancaSancos
+    iso3c: PER
+    shapeID: 86281439B89216609450497
+  HuancavelicaAdm1PER:
+    admin_name: Huancavelica
+    iso3c: PER
+    shapeID: 1875124B3070334250121
+  HuancavelicaAdm2PER:
+    admin_name: Huancavelica
+    iso3c: PER
+    shapeID: 86281439B45357472529308
+  HuancayoAdm2PER:
+    admin_name: Huancayo
+    iso3c: PER
+    shapeID: 86281439B94179749418482
+  HuantaAdm2PER:
+    admin_name: Huanta
+    iso3c: PER
+    shapeID: 86281439B1534497598484
+  HuánucoAdm1PER:
+    admin_name: Huánuco
+    iso3c: PER
+    shapeID: 1875124B5969368354394
+  HuanucoAdm2PER:
+    admin_name: Huanuco
+    iso3c: PER
+    shapeID: 86281439B77325652799034
+  HuaralAdm2PER:
+    admin_name: Huaral
+    iso3c: PER
+    shapeID: 86281439B90412746256760
+  HuarazAdm2PER:
+    admin_name: Huaraz
+    iso3c: PER
+    shapeID: 86281439B31428964114351
+  HuariAdm2PER:
+    admin_name: Huari
+    iso3c: PER
+    shapeID: 86281439B67928144642776
+  HuarmeyAdm2PER:
+    admin_name: Huarmey
+    iso3c: PER
+    shapeID: 86281439B24455260096548
+  HuarochiriAdm2PER:
+    admin_name: Huarochiri
+    iso3c: PER
+    shapeID: 86281439B90649514172231
+  HuauraAdm2PER:
+    admin_name: Huaura
+    iso3c: PER
+    shapeID: 86281439B29242066404010
+  HuaylasAdm2PER:
+    admin_name: Huaylas
+    iso3c: PER
+    shapeID: 86281439B81908215942962
+  HuaytaraAdm2PER:
+    admin_name: Huaytara
+    iso3c: PER
+    shapeID: 86281439B71606603555549
+  IcaAdm1PER:
+    admin_name: Ica
+    iso3c: PER
+    shapeID: 1875124B25343038633883
+  IcaAdm2PER:
+    admin_name: Ica
+    iso3c: PER
+    shapeID: 86281439B40725623046053
+  IloAdm2PER:
+    admin_name: Ilo
+    iso3c: PER
+    shapeID: 86281439B75431659471329
+  IslayAdm2PER:
+    admin_name: Islay
+    iso3c: PER
+    shapeID: 86281439B92685441035465
+  JaenAdm2PER:
+    admin_name: Jaen
+    iso3c: PER
+    shapeID: 86281439B77742651017236
+  JaujaAdm2PER:
+    admin_name: Jauja
+    iso3c: PER
+    shapeID: 86281439B89843532498987
+  JorgeBasadreAdm2PER:
+    admin_name: JorgeBasadre
+    iso3c: PER
+    shapeID: 86281439B54708928525670
+  JulcanAdm2PER:
+    admin_name: Julcan
+    iso3c: PER
+    shapeID: 86281439B76947314697902
+  JunínAdm1PER:
+    admin_name: Junín
+    iso3c: PER
+    shapeID: 1875124B61678101818850
+  JuninAdm2PER:
+    admin_name: Junin
+    iso3c: PER
+    shapeID: 86281439B69891072008043
+  LaConvencionAdm2PER:
+    admin_name: LaConvencion
+    iso3c: PER
+    shapeID: 86281439B48996208982152
+  LaLibertadAdm1PER:
+    admin_name: LaLibertad
+    iso3c: PER
+    shapeID: 1875124B91024374055933
+  LaMarAdm2PER:
+    admin_name: LaMar
+    iso3c: PER
+    shapeID: 86281439B39408402026891
+  LamasAdm2PER:
+    admin_name: Lamas
+    iso3c: PER
+    shapeID: 86281439B97947490233761
+  LambayequeAdm1PER:
+    admin_name: Lambayeque
+    iso3c: PER
+    shapeID: 1875124B61751373376494
+  LambayequeAdm2PER:
+    admin_name: Lambayeque
+    iso3c: PER
+    shapeID: 86281439B97940066257739
+  LampaAdm2PER:
+    admin_name: Lampa
+    iso3c: PER
+    shapeID: 86281439B39417167218696
+  LaUnionAdm2PER:
+    admin_name: LaUnion
+    iso3c: PER
+    shapeID: 86281439B24532133151812
+  LauricochaAdm2PER:
+    admin_name: Lauricocha
+    iso3c: PER
+    shapeID: 86281439B71968127202284
+  LeoncioPradoAdm2PER:
+    admin_name: LeoncioPrado
+    iso3c: PER
+    shapeID: 86281439B17589046188801
+  LimaAdm1PER:
+    admin_name: Lima
+    iso3c: PER
+    shapeID: 1875124B65618634887963
+  LimaAdm2PER:
+    admin_name: Lima
+    iso3c: PER
+    shapeID: 86281439B5897753899369
+  LoretoAdm1PER:
+    admin_name: Loreto
+    iso3c: PER
+    shapeID: 1875124B3524833739478
+  LoretoAdm2PER:
+    admin_name: Loreto
+    iso3c: PER
+    shapeID: 86281439B27227740990867
+  LucanasAdm2PER:
+    admin_name: Lucanas
+    iso3c: PER
+    shapeID: 86281439B5175485015663
+  LuyaAdm2PER:
+    admin_name: Luya
+    iso3c: PER
+    shapeID: 86281439B36739212274860
+  MadredeDiosAdm1PER:
+    admin_name: MadredeDios
+    iso3c: PER
+    shapeID: 1875124B2667580847298
+  ManuAdm2PER:
+    admin_name: Manu
+    iso3c: PER
+    shapeID: 86281439B65493313696262
+  MaraÃ±onAdm2PER:
+    admin_name: MaraÃ±on
+    iso3c: PER
+    shapeID: 86281439B56657051022034
+  MariscalCaceresAdm2PER:
+    admin_name: MariscalCaceres
+    iso3c: PER
+    shapeID: 86281439B62722708065748
+  MariscalLuzuriagaAdm2PER:
+    admin_name: MariscalLuzuriaga
+    iso3c: PER
+    shapeID: 86281439B99207527213324
+  MariscalNietoAdm2PER:
+    admin_name: MariscalNieto
+    iso3c: PER
+    shapeID: 86281439B75994563843922
+  MariscalRamonCastillaAdm2PER:
+    admin_name: MariscalRamonCastilla
+    iso3c: PER
+    shapeID: 86281439B43857057528938
+  MaynasAdm2PER:
+    admin_name: Maynas
+    iso3c: PER
+    shapeID: 86281439B40534422566691
+  MelgarAdm2PER:
+    admin_name: Melgar
+    iso3c: PER
+    shapeID: 86281439B3458988471442
+  MohoAdm2PER:
+    admin_name: Moho
+    iso3c: PER
+    shapeID: 86281439B65851578200644
+  MoqueguaAdm1PER:
+    admin_name: Moquegua
+    iso3c: PER
+    shapeID: 1875124B48847835594727
+  MorroponAdm2PER:
+    admin_name: Morropon
+    iso3c: PER
+    shapeID: 86281439B77649611838615
+  MoyobambaAdm2PER:
+    admin_name: Moyobamba
+    iso3c: PER
+    shapeID: 86281439B55224927366475
+  MunicipalidadMetropolitanadeLimaAdm1PER:
+    admin_name: MunicipalidadMetropolitanadeLima
+    iso3c: PER
+    shapeID: 1875124B43998217738279
+  NascaAdm2PER:
+    admin_name: Nasca
+    iso3c: PER
+    shapeID: 86281439B61745843991716
+  OcrosAdm2PER:
+    admin_name: Ocros
+    iso3c: PER
+    shapeID: 86281439B72862072024164
+  OtuzcoAdm2PER:
+    admin_name: Otuzco
+    iso3c: PER
+    shapeID: 86281439B7526528114387
+  OxapampaAdm2PER:
+    admin_name: Oxapampa
+    iso3c: PER
+    shapeID: 86281439B19526712257024
+  OyonAdm2PER:
+    admin_name: Oyon
+    iso3c: PER
+    shapeID: 86281439B90179461715440
+  PacasmayoAdm2PER:
+    admin_name: Pacasmayo
+    iso3c: PER
+    shapeID: 86281439B1064179091614
+  PachiteaAdm2PER:
+    admin_name: Pachitea
+    iso3c: PER
+    shapeID: 86281439B39001468378373
+  PadreAbadAdm2PER:
+    admin_name: PadreAbad
+    iso3c: PER
+    shapeID: 86281439B41758290509877
+  PaitaAdm2PER:
+    admin_name: Paita
+    iso3c: PER
+    shapeID: 86281439B31634859634019
+  PallascaAdm2PER:
+    admin_name: Pallasca
+    iso3c: PER
+    shapeID: 86281439B95280421583989
+  PalpaAdm2PER:
+    admin_name: Palpa
+    iso3c: PER
+    shapeID: 86281439B29793620655674
+  ParinacochasAdm2PER:
+    admin_name: Parinacochas
+    iso3c: PER
+    shapeID: 86281439B29784244980740
+  ParuroAdm2PER:
+    admin_name: Paruro
+    iso3c: PER
+    shapeID: 86281439B31235431009642
+  PascoAdm1PER:
+    admin_name: Pasco
+    iso3c: PER
+    shapeID: 1875124B19837374654956
+  PascoAdm2PER:
+    admin_name: Pasco
+    iso3c: PER
+    shapeID: 86281439B9789876914090
+  PatazAdm2PER:
+    admin_name: Pataz
+    iso3c: PER
+    shapeID: 86281439B60553408093746
+  PaucardelSaraSaraAdm2PER:
+    admin_name: PaucardelSaraSara
+    iso3c: PER
+    shapeID: 86281439B2335634793113
+  PaucartamboAdm2PER:
+    admin_name: Paucartambo
+    iso3c: PER
+    shapeID: 86281439B72784044291382
+  PicotaAdm2PER:
+    admin_name: Picota
+    iso3c: PER
+    shapeID: 86281439B32206092239911
+  PiscoAdm2PER:
+    admin_name: Pisco
+    iso3c: PER
+    shapeID: 86281439B1957856782963
+  PiuraAdm1PER:
+    admin_name: Piura
+    iso3c: PER
+    shapeID: 1875124B64829338827261
+  PiuraAdm2PER:
+    admin_name: Piura
+    iso3c: PER
+    shapeID: 86281439B64681536728505
+  PomabambaAdm2PER:
+    admin_name: Pomabamba
+    iso3c: PER
+    shapeID: 86281439B64426099138433
+  PuertoIncaAdm2PER:
+    admin_name: PuertoInca
+    iso3c: PER
+    shapeID: 86281439B96842651539960
+  PunoAdm1PER:
+    admin_name: Puno
+    iso3c: PER
+    shapeID: 1875124B3772980127380
+  PunoAdm2PER:
+    admin_name: Puno
+    iso3c: PER
+    shapeID: 86281439B67596976235519
+  PurusAdm2PER:
+    admin_name: Purus
+    iso3c: PER
+    shapeID: 86281439B73301228794049
+  PutumayoAdm2PER:
+    admin_name: Putumayo
+    iso3c: PER
+    shapeID: 86281439B99020092108711
+  QuispicanchiAdm2PER:
+    admin_name: Quispicanchi
+    iso3c: PER
+    shapeID: 86281439B28575146552042
+  RecuayAdm2PER:
+    admin_name: Recuay
+    iso3c: PER
+    shapeID: 86281439B88732567790180
+  RequenaAdm2PER:
+    admin_name: Requena
+    iso3c: PER
+    shapeID: 86281439B4409689759703
+  RiojaAdm2PER:
+    admin_name: Rioja
+    iso3c: PER
+    shapeID: 86281439B49407103225288
+  RodriguezdeMendozaAdm2PER:
+    admin_name: RodriguezdeMendoza
+    iso3c: PER
+    shapeID: 86281439B72683184025265
+  SanAntoniodePutinaAdm2PER:
+    admin_name: SanAntoniodePutina
+    iso3c: PER
+    shapeID: 86281439B17280612130391
+  SanchezCarrionAdm2PER:
+    admin_name: SanchezCarrion
+    iso3c: PER
+    shapeID: 86281439B60476418673944
+  SandiaAdm2PER:
+    admin_name: Sandia
+    iso3c: PER
+    shapeID: 86281439B32032082656225
+  SanIgnacioAdm2PER:
+    admin_name: SanIgnacio
+    iso3c: PER
+    shapeID: 86281439B246740541536
+  SanMarcosAdm2PER:
+    admin_name: SanMarcos
+    iso3c: PER
+    shapeID: 86281439B35879365662070
+  SanMartínAdm1PER:
+    admin_name: SanMartín
+    iso3c: PER
+    shapeID: 1875124B60950944289640
+  SanMartinAdm2PER:
+    admin_name: SanMartin
+    iso3c: PER
+    shapeID: 86281439B4761836687342
+  SanMiguelAdm2PER:
+    admin_name: SanMiguel
+    iso3c: PER
+    shapeID: 86281439B14604088738254
+  SanPabloAdm2PER:
+    admin_name: SanPablo
+    iso3c: PER
+    shapeID: 86281439B29133878873300
+  SanRomanAdm2PER:
+    admin_name: SanRoman
+    iso3c: PER
+    shapeID: 86281439B54364439373802
+  SantaAdm2PER:
+    admin_name: Santa
+    iso3c: PER
+    shapeID: 86281439B85206486043179
+  SantaCruzAdm2PER:
+    admin_name: SantaCruz
+    iso3c: PER
+    shapeID: 86281439B67227592108094
+  SantiagodeChucoAdm2PER:
+    admin_name: SantiagodeChuco
+    iso3c: PER
+    shapeID: 86281439B3188642373758
+  SatipoAdm2PER:
+    admin_name: Satipo
+    iso3c: PER
+    shapeID: 86281439B96037862179795
+  SechuraAdm2PER:
+    admin_name: Sechura
+    iso3c: PER
+    shapeID: 86281439B13089313750619
+  SihuasAdm2PER:
+    admin_name: Sihuas
+    iso3c: PER
+    shapeID: 86281439B22456830614745
+  SucreAdm2PER:
+    admin_name: Sucre
+    iso3c: PER
+    shapeID: 86281439B85523088523316
+  SullanaAdm2PER:
+    admin_name: Sullana
+    iso3c: PER
+    shapeID: 86281439B8738296483293
+  TacnaAdm1PER:
+    admin_name: Tacna
+    iso3c: PER
+    shapeID: 1875124B58976419670313
+  TacnaAdm2PER:
+    admin_name: Tacna
+    iso3c: PER
+    shapeID: 86281439B72337675709954
+  TahuamanuAdm2PER:
+    admin_name: Tahuamanu
+    iso3c: PER
+    shapeID: 86281439B15199345066694
+  TalaraAdm2PER:
+    admin_name: Talara
+    iso3c: PER
+    shapeID: 86281439B38323615258078
+  TambopataAdm2PER:
+    admin_name: Tambopata
+    iso3c: PER
+    shapeID: 86281439B97572959999904
+  TarataAdm2PER:
+    admin_name: Tarata
+    iso3c: PER
+    shapeID: 86281439B57455266090466
+  TarmaAdm2PER:
+    admin_name: Tarma
+    iso3c: PER
+    shapeID: 86281439B39213190692953
+  TayacajaAdm2PER:
+    admin_name: Tayacaja
+    iso3c: PER
+    shapeID: 86281439B91012352076021
+  TocacheAdm2PER:
+    admin_name: Tocache
+    iso3c: PER
+    shapeID: 86281439B42687599219853
+  TrujilloAdm2PER:
+    admin_name: Trujillo
+    iso3c: PER
+    shapeID: 86281439B80561874516771
+  TumbesAdm1PER:
+    admin_name: Tumbes
+    iso3c: PER
+    shapeID: 1875124B82769317880582
+  TumbesAdm2PER:
+    admin_name: Tumbes
+    iso3c: PER
+    shapeID: 86281439B11077659062931
+  UcayaliAdm1PER:
+    admin_name: Ucayali
+    iso3c: PER
+    shapeID: 1875124B80189625477090
+  UcayaliAdm2PER:
+    admin_name: Ucayali
+    iso3c: PER
+    shapeID: 86281439B24501043658018
+  UrubambaAdm2PER:
+    admin_name: Urubamba
+    iso3c: PER
+    shapeID: 86281439B1367773994122
+  UtcubambaAdm2PER:
+    admin_name: Utcubamba
+    iso3c: PER
+    shapeID: 86281439B73315101481334
+  VictorFajardoAdm2PER:
+    admin_name: VictorFajardo
+    iso3c: PER
+    shapeID: 86281439B25183638653455
+  VilcasHuamanAdm2PER:
+    admin_name: VilcasHuaman
+    iso3c: PER
+    shapeID: 86281439B2883679079046
+  ViruAdm2PER:
+    admin_name: Viru
+    iso3c: PER
+    shapeID: 86281439B2009584770590
+  YarowilcaAdm2PER:
+    admin_name: Yarowilca
+    iso3c: PER
+    shapeID: 86281439B41621224509593
+  YauliAdm2PER:
+    admin_name: Yauli
+    iso3c: PER
+    shapeID: 86281439B56200314379174
+  YauyosAdm2PER:
+    admin_name: Yauyos
+    iso3c: PER
+    shapeID: 86281439B83806750890504
+  YungayAdm2PER:
+    admin_name: Yungay
+    iso3c: PER
+    shapeID: 86281439B99310220517112
+  YunguyoAdm2PER:
+    admin_name: Yunguyo
+    iso3c: PER
+    shapeID: 86281439B12853794750589
+  ZarumillaAdm2PER:
+    admin_name: Zarumilla
+    iso3c: PER
+    shapeID: 86281439B62474480123859

@@ -1,8 +1,361 @@
 concepts:
-    - ProvinciaGuanacaste
-    - ProvinciaSanJosé
-    - ProvinciaHeredia
-    - ProvinciaCartago
-    - ProvinciaLimón
-    - ProvinciaPuntarenas
-    - ProvinciaAlajuela
+  AbangaresAdm2CRI:
+    admin_name: Abangares
+    iso3c: CRI
+    shapeID: 36466004B17800837418236
+  AcostaAdm2CRI:
+    admin_name: Acosta
+    iso3c: CRI
+    shapeID: 36466004B86670924775866
+  AlajuelaAdm2CRI:
+    admin_name: Alajuela
+    iso3c: CRI
+    shapeID: 36466004B67061549070759
+  AlajuelitaAdm2CRI:
+    admin_name: Alajuelita
+    iso3c: CRI
+    shapeID: 36466004B46063821008241
+  AlvaradoAdm2CRI:
+    admin_name: Alvarado
+    iso3c: CRI
+    shapeID: 36466004B14644895644866
+  AserriAdm2CRI:
+    admin_name: Aserri
+    iso3c: CRI
+    shapeID: 36466004B1589353169511
+  AtenasAdm2CRI:
+    admin_name: Atenas
+    iso3c: CRI
+    shapeID: 36466004B19113363200971
+  BagacesAdm2CRI:
+    admin_name: Bagaces
+    iso3c: CRI
+    shapeID: 36466004B76041075166072
+  BarvaAdm2CRI:
+    admin_name: Barva
+    iso3c: CRI
+    shapeID: 36466004B93518789602304
+  BelenAdm2CRI:
+    admin_name: Belen
+    iso3c: CRI
+    shapeID: 36466004B97828735780055
+  BuenosAiresAdm2CRI:
+    admin_name: BuenosAires
+    iso3c: CRI
+    shapeID: 36466004B75428693831232
+  CanasAdm2CRI:
+    admin_name: Canas
+    iso3c: CRI
+    shapeID: 36466004B65281330352027
+  CarrilloAdm2CRI:
+    admin_name: Carrillo
+    iso3c: CRI
+    shapeID: 36466004B81157491697278
+  CartagoAdm2CRI:
+    admin_name: Cartago
+    iso3c: CRI
+    shapeID: 36466004B19971785414820
+  CorredoresAdm2CRI:
+    admin_name: Corredores
+    iso3c: CRI
+    shapeID: 36466004B38265631296352
+  CotoBrusAdm2CRI:
+    admin_name: CotoBrus
+    iso3c: CRI
+    shapeID: 36466004B67962139153797
+  CurridabatAdm2CRI:
+    admin_name: Curridabat
+    iso3c: CRI
+    shapeID: 36466004B71445254022700
+  DesamparadosAdm2CRI:
+    admin_name: Desamparados
+    iso3c: CRI
+    shapeID: 36466004B53955295164101
+  DotaAdm2CRI:
+    admin_name: Dota
+    iso3c: CRI
+    shapeID: 36466004B86060640293430
+  ElGuarcoAdm2CRI:
+    admin_name: ElGuarco
+    iso3c: CRI
+    shapeID: 36466004B87567829139505
+  EscazuAdm2CRI:
+    admin_name: Escazu
+    iso3c: CRI
+    shapeID: 36466004B13672837232461
+  EsparzaAdm2CRI:
+    admin_name: Esparza
+    iso3c: CRI
+    shapeID: 36466004B94446731774240
+  FloresAdm2CRI:
+    admin_name: Flores
+    iso3c: CRI
+    shapeID: 36466004B75019906256139
+  GarabitoAdm2CRI:
+    admin_name: Garabito
+    iso3c: CRI
+    shapeID: 36466004B76673798564195
+  GoicoecheaAdm2CRI:
+    admin_name: Goicoechea
+    iso3c: CRI
+    shapeID: 36466004B79132997728490
+  GolfitoAdm2CRI:
+    admin_name: Golfito
+    iso3c: CRI
+    shapeID: 36466004B12763689767454
+  GreciaAdm2CRI:
+    admin_name: Grecia
+    iso3c: CRI
+    shapeID: 36466004B60213245209904
+  GuacimoAdm2CRI:
+    admin_name: Guacimo
+    iso3c: CRI
+    shapeID: 36466004B32500402146996
+  GuatusoAdm2CRI:
+    admin_name: Guatuso
+    iso3c: CRI
+    shapeID: 36466004B87915732060573
+  HerediaAdm2CRI:
+    admin_name: Heredia
+    iso3c: CRI
+    shapeID: 36466004B27145305633617
+  HojanchaAdm2CRI:
+    admin_name: Hojancha
+    iso3c: CRI
+    shapeID: 36466004B12403637236294
+  JimenezAdm2CRI:
+    admin_name: Jimenez
+    iso3c: CRI
+    shapeID: 36466004B31180817365439
+  LaCruzAdm2CRI:
+    admin_name: LaCruz
+    iso3c: CRI
+    shapeID: 36466004B52146458356886
+  LaUnionAdm2CRI:
+    admin_name: LaUnion
+    iso3c: CRI
+    shapeID: 36466004B23984119166299
+  LeonCortesCastroAdm2CRI:
+    admin_name: LeonCortesCastro
+    iso3c: CRI
+    shapeID: 36466004B70383874576114
+  LiberiaAdm2CRI:
+    admin_name: Liberia
+    iso3c: CRI
+    shapeID: 36466004B57161008538161
+  LimonAdm2CRI:
+    admin_name: Limon
+    iso3c: CRI
+    shapeID: 36466004B50274844038256
+  LosChilesAdm2CRI:
+    admin_name: LosChiles
+    iso3c: CRI
+    shapeID: 36466004B82753262426654
+  MatinaAdm2CRI:
+    admin_name: Matina
+    iso3c: CRI
+    shapeID: 36466004B83376986375247
+  MontesdeOcaAdm2CRI:
+    admin_name: MontesdeOca
+    iso3c: CRI
+    shapeID: 36466004B49166054866519
+  MontesdeOroAdm2CRI:
+    admin_name: MontesdeOro
+    iso3c: CRI
+    shapeID: 36466004B99490544719136
+  MoraAdm2CRI:
+    admin_name: Mora
+    iso3c: CRI
+    shapeID: 36466004B40218222859815
+  MoraviaAdm2CRI:
+    admin_name: Moravia
+    iso3c: CRI
+    shapeID: 36466004B8745227271040
+  NandayureAdm2CRI:
+    admin_name: Nandayure
+    iso3c: CRI
+    shapeID: 36466004B45904534583509
+  NaranjoAdm2CRI:
+    admin_name: Naranjo
+    iso3c: CRI
+    shapeID: 36466004B12549595917957
+  NicoyaAdm2CRI:
+    admin_name: Nicoya
+    iso3c: CRI
+    shapeID: 36466004B54508558874137
+  OreamunoAdm2CRI:
+    admin_name: Oreamuno
+    iso3c: CRI
+    shapeID: 36466004B47119988095233
+  OrotinaAdm2CRI:
+    admin_name: Orotina
+    iso3c: CRI
+    shapeID: 36466004B51019647816434
+  OsaAdm2CRI:
+    admin_name: Osa
+    iso3c: CRI
+    shapeID: 36466004B23652443238408
+  PalmerasAdm2CRI:
+    admin_name: Palmeras
+    iso3c: CRI
+    shapeID: 36466004B65263454965640
+  ParaisoAdm2CRI:
+    admin_name: Paraiso
+    iso3c: CRI
+    shapeID: 36466004B34064705280782
+  ParritaAdm2CRI:
+    admin_name: Parrita
+    iso3c: CRI
+    shapeID: 36466004B95019586049956
+  PerezZeledonAdm2CRI:
+    admin_name: PerezZeledon
+    iso3c: CRI
+    shapeID: 36466004B81779324435882
+  PoasAdm2CRI:
+    admin_name: Poas
+    iso3c: CRI
+    shapeID: 36466004B26047404335903
+  PocociAdm2CRI:
+    admin_name: Pococi
+    iso3c: CRI
+    shapeID: 36466004B96368575688704
+  ProvinciaAlajuelaAdm1CRI:
+    admin_name: ProvinciaAlajuela
+    iso3c: CRI
+    shapeID: 80129987B16009817839121
+  ProvinciaCartagoAdm1CRI:
+    admin_name: ProvinciaCartago
+    iso3c: CRI
+    shapeID: 80129987B41200343148036
+  ProvinciaGuanacasteAdm1CRI:
+    admin_name: ProvinciaGuanacaste
+    iso3c: CRI
+    shapeID: 80129987B99098477815223
+  ProvinciaHerediaAdm1CRI:
+    admin_name: ProvinciaHeredia
+    iso3c: CRI
+    shapeID: 80129987B30917059240714
+  ProvinciaLimónAdm1CRI:
+    admin_name: ProvinciaLimón
+    iso3c: CRI
+    shapeID: 80129987B40271573243189
+  ProvinciaPuntarenasAdm1CRI:
+    admin_name: ProvinciaPuntarenas
+    iso3c: CRI
+    shapeID: 80129987B82779638600484
+  ProvinciaSanJoséAdm1CRI:
+    admin_name: ProvinciaSanJosé
+    iso3c: CRI
+    shapeID: 80129987B28144345958142
+  PuertoJimenezAdm2CRI:
+    admin_name: PuertoJimenez
+    iso3c: CRI
+    shapeID: 36466004B12090025276311
+  PuntarenasAdm2CRI:
+    admin_name: Puntarenas
+    iso3c: CRI
+    shapeID: 36466004B9758970649099
+  PuriscalAdm2CRI:
+    admin_name: Puriscal
+    iso3c: CRI
+    shapeID: 36466004B36005628367911
+  QueposAdm2CRI:
+    admin_name: Quepos
+    iso3c: CRI
+    shapeID: 36466004B16992586441876
+  RioCuartoAdm2CRI:
+    admin_name: RioCuarto
+    iso3c: CRI
+    shapeID: 36466004B916692676755
+  SanCarlosAdm2CRI:
+    admin_name: SanCarlos
+    iso3c: CRI
+    shapeID: 36466004B93009353653886
+  SanIsidroAdm2CRI:
+    admin_name: SanIsidro
+    iso3c: CRI
+    shapeID: 36466004B23001731443143
+  SanJoseAdm2CRI:
+    admin_name: SanJose
+    iso3c: CRI
+    shapeID: 36466004B17043328523941
+  SanMateoAdm2CRI:
+    admin_name: SanMateo
+    iso3c: CRI
+    shapeID: 36466004B56019207244783
+  SanPabloAdm2CRI:
+    admin_name: SanPablo
+    iso3c: CRI
+    shapeID: 36466004B49814687345557
+  SanRafaelAdm2CRI:
+    admin_name: SanRafael
+    iso3c: CRI
+    shapeID: 36466004B33619943127012
+  SanRamonAdm2CRI:
+    admin_name: SanRamon
+    iso3c: CRI
+    shapeID: 36466004B75539048151546
+  SantaAnaAdm2CRI:
+    admin_name: SantaAna
+    iso3c: CRI
+    shapeID: 36466004B14800778897380
+  SantaBarbaraAdm2CRI:
+    admin_name: SantaBarbara
+    iso3c: CRI
+    shapeID: 36466004B69757092766150
+  SantaCruzAdm2CRI:
+    admin_name: SantaCruz
+    iso3c: CRI
+    shapeID: 36466004B7119067190129
+  SantoDomingoAdm2CRI:
+    admin_name: SantoDomingo
+    iso3c: CRI
+    shapeID: 36466004B42528660936066
+  SarapiquiAdm2CRI:
+    admin_name: Sarapiqui
+    iso3c: CRI
+    shapeID: 36466004B54791236061025
+  SarchiAdm2CRI:
+    admin_name: Sarchi
+    iso3c: CRI
+    shapeID: 36466004B48608079710211
+  SiquirresAdm2CRI:
+    admin_name: Siquirres
+    iso3c: CRI
+    shapeID: 36466004B47231661736374
+  TalamancaAdm2CRI:
+    admin_name: Talamanca
+    iso3c: CRI
+    shapeID: 36466004B17277375937001
+  TarrazuAdm2CRI:
+    admin_name: Tarrazu
+    iso3c: CRI
+    shapeID: 36466004B83189782085425
+  TibasAdm2CRI:
+    admin_name: Tibas
+    iso3c: CRI
+    shapeID: 36466004B13959019821859
+  TilaranAdm2CRI:
+    admin_name: Tilaran
+    iso3c: CRI
+    shapeID: 36466004B12916636175246
+  TurrialbaAdm2CRI:
+    admin_name: Turrialba
+    iso3c: CRI
+    shapeID: 36466004B38119903555726
+  TurrubaresAdm2CRI:
+    admin_name: Turrubares
+    iso3c: CRI
+    shapeID: 36466004B44597277334716
+  UpalaAdm2CRI:
+    admin_name: Upala
+    iso3c: CRI
+    shapeID: 36466004B97209373697434
+  VazquezdeCoronadoAdm2CRI:
+    admin_name: VazquezdeCoronado
+    iso3c: CRI
+    shapeID: 36466004B47934258203273
+  ZarceroAdm2CRI:
+    admin_name: Zarcero
+    iso3c: CRI
+    shapeID: 36466004B69998662066275

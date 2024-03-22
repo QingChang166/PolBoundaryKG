@@ -1,17 +1,737 @@
 concepts:
-    - AtyrauRegion
-    - NorthKazakhstanRegion
-    - SouthKazakhstanRegion
-    - AkmolaRegion
-    - AlmatyRegion
-    - AktobeRegion
-    - KostanayRegion
-    - Almaty
-    - PavlodarRegion
-    - JambylRegion
-    - EastKazakhstanRegion
-    - MangystauRegion
-    - KaragandaRegion
-    - KyzylordaRegion
-    - WestKazakhstanRegion
-    - Astana
+  AbayskiyAdm2KAZ:
+    admin_name: Abayskiy
+    iso3c: KAZ
+    shapeID: 9891525B60983742718144
+  Akkol`skiyAdm2KAZ:
+    admin_name: Akkol`skiy
+    iso3c: KAZ
+    shapeID: 9891525B99671027453568
+  AkmolaRegionAdm1KAZ:
+    admin_name: AkmolaRegion
+    iso3c: KAZ
+    shapeID: 16772668B69662276924495
+  AksuskiyAdm2KAZ:
+    admin_name: Aksuskiy
+    iso3c: KAZ
+    shapeID: 9891525B33487357631204
+  AktobeRegionAdm1KAZ:
+    admin_name: AktobeRegion
+    iso3c: KAZ
+    shapeID: 16772668B11242448457004
+  AktogayskiyAdm2KAZ:
+    admin_name: Aktogayskiy
+    iso3c: KAZ
+    shapeID: 9891525B3395793098905
+  AkzhaikskiyAdm2KAZ:
+    admin_name: Akzhaikskiy
+    iso3c: KAZ
+    shapeID: 9891525B29412221680291
+  AkzharskiyAdm2KAZ:
+    admin_name: Akzharskiy
+    iso3c: KAZ
+    shapeID: 9891525B68466162825805
+  AlakolskiyAdm2KAZ:
+    admin_name: Alakolskiy
+    iso3c: KAZ
+    shapeID: 9891525B43212403616795
+  AlginskiyAdm2KAZ:
+    admin_name: Alginskiy
+    iso3c: KAZ
+    shapeID: 9891525B5390352263066
+  Almaty(Alma-Ata)Adm2KAZ:
+    admin_name: Almaty(Alma-Ata)
+    iso3c: KAZ
+    shapeID: 9891525B73689436723461
+  AlmatyAdm1KAZ:
+    admin_name: Almaty
+    iso3c: KAZ
+    shapeID: 16772668B7707561767580
+  AlmatyRegionAdm1KAZ:
+    admin_name: AlmatyRegion
+    iso3c: KAZ
+    shapeID: 16772668B60014547909303
+  AltynsarinskiyAdm2KAZ:
+    admin_name: Altynsarinskiy
+    iso3c: KAZ
+    shapeID: 9891525B60251523265063
+  Amangel`dinskiyAdm2KAZ:
+    admin_name: Amangel`dinskiy
+    iso3c: KAZ
+    shapeID: 9891525B58466533960922
+  AqtauAdm2KAZ:
+    admin_name: Aqtau
+    iso3c: KAZ
+    shapeID: 9891525B90361051378327
+  AqtobeAdm2KAZ:
+    admin_name: Aqtobe
+    iso3c: KAZ
+    shapeID: 9891525B31042919552642
+  Aral`skiyAdm2KAZ:
+    admin_name: Aral`skiy
+    iso3c: KAZ
+    shapeID: 9891525B20568160586477
+  ArkalykAdm2KAZ:
+    admin_name: Arkalyk
+    iso3c: KAZ
+    shapeID: 9891525B26543365108500
+  ArshalynskiyAdm2KAZ:
+    admin_name: Arshalynskiy
+    iso3c: KAZ
+    shapeID: 9891525B90656598279735
+  ArysskiyAdm2KAZ:
+    admin_name: Arysskiy
+    iso3c: KAZ
+    shapeID: 9891525B91568049754123
+  AstanaAdm1KAZ:
+    admin_name: Astana
+    iso3c: KAZ
+    shapeID: 16772668B6136604360804
+  AstrakhansiyAdm2KAZ:
+    admin_name: Astrakhansiy
+    iso3c: KAZ
+    shapeID: 9891525B36473427600822
+  AtbasarskiyAdm2KAZ:
+    admin_name: Atbasarskiy
+    iso3c: KAZ
+    shapeID: 9891525B2325773906172
+  AtyrauAdm2KAZ:
+    admin_name: Atyrau
+    iso3c: KAZ
+    shapeID: 9891525B74968886197951
+  AtyrauRegionAdm1KAZ:
+    admin_name: AtyrauRegion
+    iso3c: KAZ
+    shapeID: 16772668B56351958182156
+  Auliekol`skiyAdm2KAZ:
+    admin_name: Auliekol`skiy
+    iso3c: KAZ
+    shapeID: 9891525B64074841904953
+  AyagozskiyAdm2KAZ:
+    admin_name: Ayagozskiy
+    iso3c: KAZ
+    shapeID: 9891525B20116602637665
+  AytekebiyskiyAdm2KAZ:
+    admin_name: Aytekebiyskiy
+    iso3c: KAZ
+    shapeID: 9891525B40089471305572
+  AyyrtauskiyAdm2KAZ:
+    admin_name: Ayyrtauskiy
+    iso3c: KAZ
+    shapeID: 9891525B62975532975937
+  BalkhashskiyAdm2KAZ:
+    admin_name: Balkhashskiy
+    iso3c: KAZ
+    shapeID: 9891525B86925875973875
+  Bayanaul`skiyAdm2KAZ:
+    admin_name: Bayanaul`skiy
+    iso3c: KAZ
+    shapeID: 9891525B7015158273764
+  BaydibekskiyAdm2KAZ:
+    admin_name: Baydibekskiy
+    iso3c: KAZ
+    shapeID: 9891525B44210110580275
+  BayganinskiyAdm2KAZ:
+    admin_name: Bayganinskiy
+    iso3c: KAZ
+    shapeID: 9891525B11861912196309
+  BayzakskiyAdm2KAZ:
+    admin_name: Bayzakskiy
+    iso3c: KAZ
+    shapeID: 9891525B60736101778825
+  BeskaragayskiyAdm2KAZ:
+    admin_name: Beskaragayskiy
+    iso3c: KAZ
+    shapeID: 9891525B20148854849737
+  BeyneuskiyAdm2KAZ:
+    admin_name: Beyneuskiy
+    iso3c: KAZ
+    shapeID: 9891525B2667021511617
+  BorodulikhinskiyAdm2KAZ:
+    admin_name: Borodulikhinskiy
+    iso3c: KAZ
+    shapeID: 9891525B58334758086532
+  Bukhar-ZhyrauskiyAdm2KAZ:
+    admin_name: Bukhar-Zhyrauskiy
+    iso3c: KAZ
+    shapeID: 9891525B60028498041579
+  BulaevskiyAdm2KAZ:
+    admin_name: Bulaevskiy
+    iso3c: KAZ
+    shapeID: 9891525B12497549856029
+  BulandynskiyAdm2KAZ:
+    admin_name: Bulandynskiy
+    iso3c: KAZ
+    shapeID: 9891525B83013347039658
+  BurlinskiyAdm2KAZ:
+    admin_name: Burlinskiy
+    iso3c: KAZ
+    shapeID: 9891525B48409861981673
+  ChardarinskiyAdm2KAZ:
+    admin_name: Chardarinskiy
+    iso3c: KAZ
+    shapeID: 9891525B62106585181407
+  ChingirlauskiyAdm2KAZ:
+    admin_name: Chingirlauskiy
+    iso3c: KAZ
+    shapeID: 9891525B81394773974850
+  DenisovskiyAdm2KAZ:
+    admin_name: Denisovskiy
+    iso3c: KAZ
+    shapeID: 9891525B14893672514077
+  DzhangalinskiyAdm2KAZ:
+    admin_name: Dzhangalinskiy
+    iso3c: KAZ
+    shapeID: 9891525B46477269808436
+  Dzhangil`dinskiyAdm2KAZ:
+    admin_name: Dzhangil`dinskiy
+    iso3c: KAZ
+    shapeID: 9891525B54734218930608
+  DzhanybekskiyAdm2KAZ:
+    admin_name: Dzhanybekskiy
+    iso3c: KAZ
+    shapeID: 9891525B44961106732022
+  EastKazakhstanRegionAdm1KAZ:
+    admin_name: EastKazakhstanRegion
+    iso3c: KAZ
+    shapeID: 16772668B44102628557874
+  Egindykol`skiyAdm2KAZ:
+    admin_name: Egindykol`skiy
+    iso3c: KAZ
+    shapeID: 9891525B43673993839483
+  EkibastuzAdm2KAZ:
+    admin_name: Ekibastuz
+    iso3c: KAZ
+    shapeID: 9891525B30775471295398
+  EnbekshikazakhskiyAdm2KAZ:
+    admin_name: Enbekshikazakhskiy
+    iso3c: KAZ
+    shapeID: 9891525B8054752834340
+  Enbekshil`derskiyAdm2KAZ:
+    admin_name: Enbekshil`derskiy
+    iso3c: KAZ
+    shapeID: 9891525B49691587242628
+  EreymengauskiyAdm2KAZ:
+    admin_name: Ereymengauskiy
+    iso3c: KAZ
+    shapeID: 9891525B32188509788858
+  Esil`skiyAdm2KAZ:
+    admin_name: Esil`skiy
+    iso3c: KAZ
+    shapeID: 9891525B4135647276886
+  FyodorovskiyAdm2KAZ:
+    admin_name: Fyodorovskiy
+    iso3c: KAZ
+    shapeID: 9891525B55696019577443
+  GlubokovskiyAdm2KAZ:
+    admin_name: Glubokovskiy
+    iso3c: KAZ
+    shapeID: 9891525B63367051987895
+  IliyskiyAdm2KAZ:
+    admin_name: Iliyskiy
+    iso3c: KAZ
+    shapeID: 9891525B73915717472079
+  InderskiyAdm2KAZ:
+    admin_name: Inderskiy
+    iso3c: KAZ
+    shapeID: 9891525B88921479030871
+  IrgizskiyAdm2KAZ:
+    admin_name: Irgizskiy
+    iso3c: KAZ
+    shapeID: 9891525B30451835729317
+  IrtyshskiyAdm2KAZ:
+    admin_name: Irtyshskiy
+    iso3c: KAZ
+    shapeID: 9891525B65214582738908
+  IsatayskiyAdm2KAZ:
+    admin_name: Isatayskiy
+    iso3c: KAZ
+    shapeID: 9891525B83767949590461
+  JambylRegionAdm1KAZ:
+    admin_name: JambylRegion
+    iso3c: KAZ
+    shapeID: 16772668B72218078944844
+  KachirskiyAdm2KAZ:
+    admin_name: Kachirskiy
+    iso3c: KAZ
+    shapeID: 9891525B72314075363925
+  KamystinskiyAdm2KAZ:
+    admin_name: Kamystinskiy
+    iso3c: KAZ
+    shapeID: 9891525B13144525550794
+  KarabalykskiyAdm2KAZ:
+    admin_name: Karabalykskiy
+    iso3c: KAZ
+    shapeID: 9891525B27039214711297
+  KaragandaRegionAdm1KAZ:
+    admin_name: KaragandaRegion
+    iso3c: KAZ
+    shapeID: 16772668B31479154893463
+  KarakiyanskiyAdm2KAZ:
+    admin_name: Karakiyanskiy
+    iso3c: KAZ
+    shapeID: 9891525B69533138221842
+  KarasayskiyAdm2KAZ:
+    admin_name: Karasayskiy
+    iso3c: KAZ
+    shapeID: 9891525B84255385948646
+  KarasuskiyAdm2KAZ:
+    admin_name: Karasuskiy
+    iso3c: KAZ
+    shapeID: 9891525B26270475466361
+  Karatal`skiyAdm2KAZ:
+    admin_name: Karatal`skiy
+    iso3c: KAZ
+    shapeID: 9891525B31721358968315
+  KaratobinskiyAdm2KAZ:
+    admin_name: Karatobinskiy
+    iso3c: KAZ
+    shapeID: 9891525B14229558856766
+  KargalinskiyAdm2KAZ:
+    admin_name: Kargalinskiy
+    iso3c: KAZ
+    shapeID: 9891525B49643131796470
+  KarkaralinskiyAdm2KAZ:
+    admin_name: Karkaralinskiy
+    iso3c: KAZ
+    shapeID: 9891525B17920128744537
+  KarmakchinskiyAdm2KAZ:
+    admin_name: Karmakchinskiy
+    iso3c: KAZ
+    shapeID: 9891525B2172576540475
+  Katon-KaragayskiyAdm2KAZ:
+    admin_name: Katon-Karagayskiy
+    iso3c: KAZ
+    shapeID: 9891525B43029270255856
+  KazalinskiyAdm2KAZ:
+    admin_name: Kazalinskiy
+    iso3c: KAZ
+    shapeID: 9891525B16415280148457
+  KaztalovskiyAdm2KAZ:
+    admin_name: Kaztalovskiy
+    iso3c: KAZ
+    shapeID: 9891525B6552459074784
+  KazygurtskiyAdm2KAZ:
+    admin_name: Kazygurtskiy
+    iso3c: KAZ
+    shapeID: 9891525B88642868140489
+  KerbulakskiyAdm2KAZ:
+    admin_name: Kerbulakskiy
+    iso3c: KAZ
+    shapeID: 9891525B94411602981391
+  KhobdinskiyAdm2KAZ:
+    admin_name: Khobdinskiy
+    iso3c: KAZ
+    shapeID: 9891525B9195242261928
+  KhromtauskiyAdm2KAZ:
+    admin_name: Khromtauskiy
+    iso3c: KAZ
+    shapeID: 9891525B75364407860375
+  KokpektinskiyAdm2KAZ:
+    admin_name: Kokpektinskiy
+    iso3c: KAZ
+    shapeID: 9891525B71087532878019
+  KoksuskiyAdm2KAZ:
+    admin_name: Koksuskiy
+    iso3c: KAZ
+    shapeID: 9891525B70442580955905
+  KordayskiyAdm2KAZ:
+    admin_name: Kordayskiy
+    iso3c: KAZ
+    shapeID: 9891525B97715510859109
+  KorgalzhynskiyAdm2KAZ:
+    admin_name: Korgalzhynskiy
+    iso3c: KAZ
+    shapeID: 9891525B30379541145757
+  KostanayRegionAdm1KAZ:
+    admin_name: KostanayRegion
+    iso3c: KAZ
+    shapeID: 16772668B76678136902236
+  KurchumskiyAdm2KAZ:
+    admin_name: Kurchumskiy
+    iso3c: KAZ
+    shapeID: 9891525B49183104731371
+  KurmangazinskiyAdm2KAZ:
+    admin_name: Kurmangazinskiy
+    iso3c: KAZ
+    shapeID: 9891525B35609562121842
+  KyzylordaRegionAdm1KAZ:
+    admin_name: KyzylordaRegion
+    iso3c: KAZ
+    shapeID: 16772668B75519035879642
+  KyzylzharskiyAdm2KAZ:
+    admin_name: Kyzylzharskiy
+    iso3c: KAZ
+    shapeID: 9891525B4175044781460
+  KzylkoginskiyAdm2KAZ:
+    admin_name: Kzylkoginskiy
+    iso3c: KAZ
+    shapeID: 9891525B2129007545371
+  LebyazhinskiyAdm2KAZ:
+    admin_name: Lebyazhinskiy
+    iso3c: KAZ
+    shapeID: 9891525B2073414560970
+  LeninogorskAdm2KAZ:
+    admin_name: Leninogorsk
+    iso3c: KAZ
+    shapeID: 9891525B64741474874739
+  LugovskoyAdm2KAZ:
+    admin_name: Lugovskoy
+    iso3c: KAZ
+    shapeID: 9891525B38388460911892
+  MakatskiyAdm2KAZ:
+    admin_name: Makatskiy
+    iso3c: KAZ
+    shapeID: 9891525B40189279728767
+  MakhambetskiyAdm2KAZ:
+    admin_name: Makhambetskiy
+    iso3c: KAZ
+    shapeID: 9891525B53075937326736
+  Maktaaral`skiyAdm2KAZ:
+    admin_name: Maktaaral`skiy
+    iso3c: KAZ
+    shapeID: 9891525B45749482281835
+  MamlyutskiyAdm2KAZ:
+    admin_name: Mamlyutskiy
+    iso3c: KAZ
+    shapeID: 9891525B23450940169479
+  ManghystauskiyAdm2KAZ:
+    admin_name: Manghystauskiy
+    iso3c: KAZ
+    shapeID: 9891525B61118581798100
+  MangystauRegionAdm1KAZ:
+    admin_name: MangystauRegion
+    iso3c: KAZ
+    shapeID: 16772668B64618180863447
+  MartukskiyAdm2KAZ:
+    admin_name: Martukskiy
+    iso3c: KAZ
+    shapeID: 9891525B45366613377645
+  MayskiyAdm2KAZ:
+    admin_name: Mayskiy
+    iso3c: KAZ
+    shapeID: 9891525B72174949992008
+  MendykarinskiyAdm2KAZ:
+    admin_name: Mendykarinskiy
+    iso3c: KAZ
+    shapeID: 9891525B51280099986304
+  MerkenskiyAdm2KAZ:
+    admin_name: Merkenskiy
+    iso3c: KAZ
+    shapeID: 9891525B1707645989139
+  MoyynkumskiyAdm2KAZ:
+    admin_name: Moyynkumskiy
+    iso3c: KAZ
+    shapeID: 9891525B77452281688660
+  MugalzharskiyAdm2KAZ:
+    admin_name: Mugalzharskiy
+    iso3c: KAZ
+    shapeID: 9891525B77019336651831
+  NaurzumskiyAdm2KAZ:
+    admin_name: Naurzumskiy
+    iso3c: KAZ
+    shapeID: 9891525B36650340400030
+  NorthKazakhstanRegionAdm1KAZ:
+    admin_name: NorthKazakhstanRegion
+    iso3c: KAZ
+    shapeID: 16772668B79240574567699
+  NurinskiyAdm2KAZ:
+    admin_name: Nurinskiy
+    iso3c: KAZ
+    shapeID: 9891525B24166085071276
+  OrdabasynskiyAdm2KAZ:
+    admin_name: Ordabasynskiy
+    iso3c: KAZ
+    shapeID: 9891525B23047987928012
+  OsakarovskiyAdm2KAZ:
+    admin_name: Osakarovskiy
+    iso3c: KAZ
+    shapeID: 9891525B82202485563630
+  OtrarskiyAdm2KAZ:
+    admin_name: Otrarskiy
+    iso3c: KAZ
+    shapeID: 9891525B1387468369569
+  PanfilovskiyAdm2KAZ:
+    admin_name: Panfilovskiy
+    iso3c: KAZ
+    shapeID: 9891525B22712804397208
+  PavlodarRegionAdm1KAZ:
+    admin_name: PavlodarRegion
+    iso3c: KAZ
+    shapeID: 16772668B56556955248260
+  PavlodarskiyAdm2KAZ:
+    admin_name: Pavlodarskiy
+    iso3c: KAZ
+    shapeID: 9891525B36736073999325
+  QostanayAdm2KAZ:
+    admin_name: Qostanay
+    iso3c: KAZ
+    shapeID: 9891525B22727597704873
+  QyzylordaAdm2KAZ:
+    admin_name: Qyzylorda
+    iso3c: KAZ
+    shapeID: 9891525B77589368790240
+  RaiymbekskiyAdm2KAZ:
+    admin_name: Raiymbekskiy
+    iso3c: KAZ
+    shapeID: 9891525B83641090822540
+  SandyktauskiyAdm2KAZ:
+    admin_name: Sandyktauskiy
+    iso3c: KAZ
+    shapeID: 9891525B43905311141395
+  SarkandskiyAdm2KAZ:
+    admin_name: Sarkandskiy
+    iso3c: KAZ
+    shapeID: 9891525B34969446984364
+  SaryagashskiyAdm2KAZ:
+    admin_name: Saryagashskiy
+    iso3c: KAZ
+    shapeID: 9891525B88228936088900
+  Sarykol`skiyAdm2KAZ:
+    admin_name: Sarykol`skiy
+    iso3c: KAZ
+    shapeID: 9891525B50577405469950
+  SarysuskiyAdm2KAZ:
+    admin_name: Sarysuskiy
+    iso3c: KAZ
+    shapeID: 9891525B89439479753564
+  SayramskiyAdm2KAZ:
+    admin_name: Sayramskiy
+    iso3c: KAZ
+    shapeID: 9891525B8049816971735
+  SemipalatinskiyAdm2KAZ:
+    admin_name: Semipalatinskiy
+    iso3c: KAZ
+    shapeID: 9891525B31322588303916
+  ShalAkynaAdm2KAZ:
+    admin_name: ShalAkyna
+    iso3c: KAZ
+    shapeID: 9891525B79097177662278
+  ShalkarskiyAdm2KAZ:
+    admin_name: Shalkarskiy
+    iso3c: KAZ
+    shapeID: 9891525B29473032189270
+  ShemonaikhinskiyAdm2KAZ:
+    admin_name: Shemonaikhinskiy
+    iso3c: KAZ
+    shapeID: 9891525B3296579749596
+  SherbaktinskiyAdm2KAZ:
+    admin_name: Sherbaktinskiy
+    iso3c: KAZ
+    shapeID: 9891525B27254512620607
+  ShetskiyAdm2KAZ:
+    admin_name: Shetskiy
+    iso3c: KAZ
+    shapeID: 9891525B92074395824295
+  ShieliyskiyAdm2KAZ:
+    admin_name: Shieliyskiy
+    iso3c: KAZ
+    shapeID: 9891525B74676052305742
+  ShortandinskiyAdm2KAZ:
+    admin_name: Shortandinskiy
+    iso3c: KAZ
+    shapeID: 9891525B24357337483480
+  ShuchinskiyAdm2KAZ:
+    admin_name: Shuchinskiy
+    iso3c: KAZ
+    shapeID: 9891525B48756499720859
+  ShuskiyAdm2KAZ:
+    admin_name: Shuskiy
+    iso3c: KAZ
+    shapeID: 9891525B54238400016653
+  ShymkentAdm2KAZ:
+    admin_name: Shymkent
+    iso3c: KAZ
+    shapeID: 9891525B68436750823948
+  SouthKazakhstanRegionAdm1KAZ:
+    admin_name: SouthKazakhstanRegion
+    iso3c: KAZ
+    shapeID: 16772668B94173460365652
+  SovetskiyAdm2KAZ:
+    admin_name: Sovetskiy
+    iso3c: KAZ
+    shapeID: 9891525B95333336171773
+  SuzakskiyAdm2KAZ:
+    admin_name: Suzakskiy
+    iso3c: KAZ
+    shapeID: 9891525B85859186368254
+  SyrymskiyAdm2KAZ:
+    admin_name: Syrymskiy
+    iso3c: KAZ
+    shapeID: 9891525B55146365406928
+  TaiynshinskiyAdm2KAZ:
+    admin_name: Taiynshinskiy
+    iso3c: KAZ
+    shapeID: 9891525B85189731955038
+  TalasskiyAdm2KAZ:
+    admin_name: Talasskiy
+    iso3c: KAZ
+    shapeID: 9891525B28377598632345
+  TaldyqorghanAdm2KAZ:
+    admin_name: Taldyqorghan
+    iso3c: KAZ
+    shapeID: 9891525B8942428750447
+  TalgarskiyAdm2KAZ:
+    admin_name: Talgarskiy
+    iso3c: KAZ
+    shapeID: 9891525B95340364678526
+  TaranovskiyAdm2KAZ:
+    admin_name: Taranovskiy
+    iso3c: KAZ
+    shapeID: 9891525B78781143088389
+  TarbagatayskiyAdm2KAZ:
+    admin_name: Tarbagatayskiy
+    iso3c: KAZ
+    shapeID: 9891525B39771874668253
+  TaskalinskiyAdm2KAZ:
+    admin_name: Taskalinskiy
+    iso3c: KAZ
+    shapeID: 9891525B23938329626938
+  TemirskiyAdm2KAZ:
+    admin_name: Temirskiy
+    iso3c: KAZ
+    shapeID: 9891525B37446052654763
+  TerektinskiyAdm2KAZ:
+    admin_name: Terektinskiy
+    iso3c: KAZ
+    shapeID: 9891525B86846607343045
+  TerenozekskiyAdm2KAZ:
+    admin_name: Terenozekskiy
+    iso3c: KAZ
+    shapeID: 9891525B78511175106534
+  TimiryazevskiyAdm2KAZ:
+    admin_name: Timiryazevskiy
+    iso3c: KAZ
+    shapeID: 9891525B71815302785603
+  TolebiyskiyAdm2KAZ:
+    admin_name: Tolebiyskiy
+    iso3c: KAZ
+    shapeID: 9891525B55423514815526
+  TselinniyAdm2KAZ:
+    admin_name: Tselinniy
+    iso3c: KAZ
+    shapeID: 9891525B47834251469299
+  TselinogradskiyAdm2KAZ:
+    admin_name: Tselinogradskiy
+    iso3c: KAZ
+    shapeID: 9891525B15592648176932
+  TupkaraganskiyAdm2KAZ:
+    admin_name: Tupkaraganskiy
+    iso3c: KAZ
+    shapeID: 9891525B91607639772284
+  TurkestanAdm2KAZ:
+    admin_name: Turkestan
+    iso3c: KAZ
+    shapeID: 9891525B79835173187971
+  Tyul`kubaskiyAdm2KAZ:
+    admin_name: Tyul`kubaskiy
+    iso3c: KAZ
+    shapeID: 9891525B34991844410441
+  UalikhanovskiyAdm2KAZ:
+    admin_name: Ualikhanovskiy
+    iso3c: KAZ
+    shapeID: 9891525B73231455923468
+  UilskiyAdm2KAZ:
+    admin_name: Uilskiy
+    iso3c: KAZ
+    shapeID: 9891525B3029562563142
+  UlanskiyAdm2KAZ:
+    admin_name: Ulanskiy
+    iso3c: KAZ
+    shapeID: 9891525B91590173027779
+  UlytauskiyAdm2KAZ:
+    admin_name: Ulytauskiy
+    iso3c: KAZ
+    shapeID: 9891525B78336617309794
+  UrdinskiyAdm2KAZ:
+    admin_name: Urdinskiy
+    iso3c: KAZ
+    shapeID: 9891525B13412806462035
+  UrdzharskiyAdm2KAZ:
+    admin_name: Urdzharskiy
+    iso3c: KAZ
+    shapeID: 9891525B87505611212602
+  UspenskiyAdm2KAZ:
+    admin_name: Uspenskiy
+    iso3c: KAZ
+    shapeID: 9891525B27284335503251
+  UygurskiyAdm2KAZ:
+    admin_name: Uygurskiy
+    iso3c: KAZ
+    shapeID: 9891525B30190790757225
+  Uzunkol`skiyAdm2KAZ:
+    admin_name: Uzunkol`skiy
+    iso3c: KAZ
+    shapeID: 9891525B88932935012165
+  WestKazakhstanRegionAdm1KAZ:
+    admin_name: WestKazakhstanRegion
+    iso3c: KAZ
+    shapeID: 16772668B81356436661636
+  ZaysanskiyAdm2KAZ:
+    admin_name: Zaysanskiy
+    iso3c: KAZ
+    shapeID: 9891525B85756403891366
+  ZelenovskiyAdm2KAZ:
+    admin_name: Zelenovskiy
+    iso3c: KAZ
+    shapeID: 9891525B90796593834175
+  ZerendinskiyAdm2KAZ:
+    admin_name: Zerendinskiy
+    iso3c: KAZ
+    shapeID: 9891525B55992449235040
+  ZhaksynskiyAdm2KAZ:
+    admin_name: Zhaksynskiy
+    iso3c: KAZ
+    shapeID: 9891525B71406304713623
+  ZhalagashskiyAdm2KAZ:
+    admin_name: Zhalagashskiy
+    iso3c: KAZ
+    shapeID: 9891525B29819169613225
+  Zhamb.Adm2KAZ:
+    admin_name: Zhamb.
+    iso3c: KAZ
+    shapeID: 9891525B49011564087565
+  ZhambylskiyAdm2KAZ:
+    admin_name: Zhambylskiy
+    iso3c: KAZ
+    shapeID: 9891525B44828116774713
+  ZhanaarkinskiyAdm2KAZ:
+    admin_name: Zhanaarkinskiy
+    iso3c: KAZ
+    shapeID: 9891525B79475728088691
+  ZhanakorganskiyAdm2KAZ:
+    admin_name: Zhanakorganskiy
+    iso3c: KAZ
+    shapeID: 9891525B84924581617307
+  ZharkainskiyAdm2KAZ:
+    admin_name: Zharkainskiy
+    iso3c: KAZ
+    shapeID: 9891525B7918129248045
+  ZharminskiyAdm2KAZ:
+    admin_name: Zharminskiy
+    iso3c: KAZ
+    shapeID: 9891525B33209790854073
+  ZhelezinskiyAdm2KAZ:
+    admin_name: Zhelezinskiy
+    iso3c: KAZ
+    shapeID: 9891525B98229517012899
+  ZhitikarinskiyAdm2KAZ:
+    admin_name: Zhitikarinskiy
+    iso3c: KAZ
+    shapeID: 9891525B29142320833271
+  ZhualyAdm2KAZ:
+    admin_name: Zhualy
+    iso3c: KAZ
+    shapeID: 9891525B50399930684689
+  ZhualynskiyAdm2KAZ:
+    admin_name: Zhualynskiy
+    iso3c: KAZ
+    shapeID: 9891525B13705604007606
+  ZhylyoyskiyAdm2KAZ:
+    admin_name: Zhylyoyskiy
+    iso3c: KAZ
+    shapeID: 9891525B14689860230406
+  ZyryanovskAdm2KAZ:
+    admin_name: Zyryanovsk
+    iso3c: KAZ
+    shapeID: 9891525B3707090472903

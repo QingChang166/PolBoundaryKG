@@ -1,25 +1,1149 @@
 concepts:
-    - Zaghouan
-    - Médenine
-    - Tozeur
-    - Manouba
-    - SidiBouzid
-    - Kébili
-    - Béja
-    - Tunis
-    - BenArous
-    - ElKef
-    - Sousse
-    - Sfax
-    - Jendouba
-    - Kairouan
-    - Kasserine
-    - Mahdia
-    - Tataouine
-    - Gabès
-    - Bizerte
-    - Ariana
-    - Nabeul
-    - Monastir
-    - Siliana
-    - Gafsa
+  ArianaAdm1TUN:
+    admin_name: Ariana
+    iso3c: TUN
+    shapeID: 13205935B58390004509121
+  BaltaBouaweneAdm2TUN:
+    admin_name: BaltaBouawene
+    iso3c: TUN
+    shapeID: 11933810B50492442899568
+  BéjaAdm1TUN:
+    admin_name: Béja
+    iso3c: TUN
+    shapeID: 13205935B67114336122672
+  BenArousAdm1TUN:
+    admin_name: BenArous
+    iso3c: TUN
+    shapeID: 13205935B75715054307065
+  BizerteAdm1TUN:
+    admin_name: Bizerte
+    iso3c: TUN
+    shapeID: 13205935B29646166511918
+  BouSalemAdm2TUN:
+    admin_name: BouSalem
+    iso3c: TUN
+    shapeID: 11933810B27500273818749
+  CarthageAdm2TUN:
+    admin_name: Carthage
+    iso3c: TUN
+    shapeID: 11933810B39381734454792
+  ElHenchaAdm2TUN:
+    admin_name: ElHencha
+    iso3c: TUN
+    shapeID: 11933810B64295465131340
+  ElKefAdm1TUN:
+    admin_name: ElKef
+    iso3c: TUN
+    shapeID: 13205935B49538157477352
+  GabèsAdm1TUN:
+    admin_name: Gabès
+    iso3c: TUN
+    shapeID: 13205935B69181748376292
+  GafsaAdm1TUN:
+    admin_name: Gafsa
+    iso3c: TUN
+    shapeID: 13205935B54080015312342
+  JendoubaAdm1TUN:
+    admin_name: Jendouba
+    iso3c: TUN
+    shapeID: 13205935B57742642676849
+  JendoubaNordAdm2TUN:
+    admin_name: JendoubaNord
+    iso3c: TUN
+    shapeID: 11933810B63769477321457
+  JendoubaSudAdm2TUN:
+    admin_name: JendoubaSud
+    iso3c: TUN
+    shapeID: 11933810B5291941008457
+  KairouanAdm1TUN:
+    admin_name: Kairouan
+    iso3c: TUN
+    shapeID: 13205935B9888826763551
+  KasserineAdm1TUN:
+    admin_name: Kasserine
+    iso3c: TUN
+    shapeID: 13205935B52637504718586
+  KébiliAdm1TUN:
+    admin_name: Kébili
+    iso3c: TUN
+    shapeID: 13205935B11721331776240
+  KerkennahAdm2TUN:
+    admin_name: Kerkennah
+    iso3c: TUN
+    shapeID: 11933810B48763821279010
+  MahdiaAdm1TUN:
+    admin_name: Mahdia
+    iso3c: TUN
+    shapeID: 13205935B953488337212
+  ManoubaAdm1TUN:
+    admin_name: Manouba
+    iso3c: TUN
+    shapeID: 13205935B47286197858453
+  MédenineAdm1TUN:
+    admin_name: Médenine
+    iso3c: TUN
+    shapeID: 13205935B11392830158982
+  MenzelChakerAdm2TUN:
+    admin_name: MenzelChaker
+    iso3c: TUN
+    shapeID: 11933810B91048903383845
+  MonastirAdm1TUN:
+    admin_name: Monastir
+    iso3c: TUN
+    shapeID: 13205935B50453639335401
+  NabeulAdm1TUN:
+    admin_name: Nabeul
+    iso3c: TUN
+    shapeID: 13205935B21712567795690
+  SfaxAdm1TUN:
+    admin_name: Sfax
+    iso3c: TUN
+    shapeID: 13205935B27259873852948
+  SidiBouzidAdm1TUN:
+    admin_name: SidiBouzid
+    iso3c: TUN
+    shapeID: 13205935B988461082754
+  SilianaAdm1TUN:
+    admin_name: Siliana
+    iso3c: TUN
+    shapeID: 13205935B74205220895681
+  SousseAdm1TUN:
+    admin_name: Sousse
+    iso3c: TUN
+    shapeID: 13205935B49970022939178
+  TataouineAdm1TUN:
+    admin_name: Tataouine
+    iso3c: TUN
+    shapeID: 13205935B85172640982228
+  TozeurAdm1TUN:
+    admin_name: Tozeur
+    iso3c: TUN
+    shapeID: 13205935B95771050896452
+  TunisAdm1TUN:
+    admin_name: Tunis
+    iso3c: TUN
+    shapeID: 13205935B88806172084765
+  ZaghouanAdm1TUN:
+    admin_name: Zaghouan
+    iso3c: TUN
+    shapeID: 13205935B3129194497982
+  أريانةالمدينةAdm2TUN:
+    admin_name: أريانةالمدينة
+    iso3c: TUN
+    shapeID: 11933810B85991761590163
+  أكودةAdm2TUN:
+    admin_name: أكودة
+    iso3c: TUN
+    shapeID: 11933810B52939615202666
+  أمالعرائسAdm2TUN:
+    admin_name: أمالعرائس
+    iso3c: TUN
+    shapeID: 11933810B49393262252767
+  أوتيكAdm2TUN:
+    admin_name: أوتيك
+    iso3c: TUN
+    shapeID: 11933810B87788045325558
+  أولادحفوزAdm2TUN:
+    admin_name: أولادحفوز
+    iso3c: TUN
+    shapeID: 11933810B93669853270617
+  البطانAdm2TUN:
+    admin_name: البطان
+    iso3c: TUN
+    shapeID: 11933810B2611958153952
+  البقالطةAdm2TUN:
+    admin_name: البقالطة
+    iso3c: TUN
+    shapeID: 11933810B19311233217993
+  التحريرAdm2TUN:
+    admin_name: التحرير
+    iso3c: TUN
+    shapeID: 11933810B45442684753250
+  الجديدةAdm2TUN:
+    admin_name: الجديدة
+    iso3c: TUN
+    shapeID: 11933810B41984965215358
+  الجريصةAdm2TUN:
+    admin_name: الجريصة
+    iso3c: TUN
+    shapeID: 11933810B26016099352541
+  الجمAdm2TUN:
+    admin_name: الجم
+    iso3c: TUN
+    shapeID: 11933810B43888701821775
+  الحامةAdm2TUN:
+    admin_name: الحامة
+    iso3c: TUN
+    shapeID: 11933810B10318624738248
+  الحرائريةAdm2TUN:
+    admin_name: الحرائرية
+    iso3c: TUN
+    shapeID: 11933810B93810808295366
+  الحماماتAdm2TUN:
+    admin_name: الحمامات
+    iso3c: TUN
+    shapeID: 11933810B25147295271575
+  الدهمانيAdm2TUN:
+    admin_name: الدهماني
+    iso3c: TUN
+    shapeID: 11933810B82782291879884
+  الرديفAdm2TUN:
+    admin_name: الرديف
+    iso3c: TUN
+    shapeID: 11933810B54153099076840
+  الرقابAdm2TUN:
+    admin_name: الرقاب
+    iso3c: TUN
+    shapeID: 11933810B48053950180724
+  الروحيةAdm2TUN:
+    admin_name: الروحية
+    iso3c: TUN
+    shapeID: 11933810B23318166280957
+  الزاويةقصيبةالثرياتAdm2TUN:
+    admin_name: الزاويةقصيبةالثريات
+    iso3c: TUN
+    shapeID: 11933810B76195291286542
+  الزريبةAdm2TUN:
+    admin_name: الزريبة
+    iso3c: TUN
+    shapeID: 11933810B49530197885075
+  الزهراءAdm2TUN:
+    admin_name: الزهراء
+    iso3c: TUN
+    shapeID: 11933810B4327996675990
+  الزهورAdm2TUN:
+    admin_name: الزهور
+    iso3c: TUN
+    shapeID: 11933810B27074780106305
+  الساحلينAdm2TUN:
+    admin_name: الساحلين
+    iso3c: TUN
+    shapeID: 11933810B1906058680343
+  السبيخةAdm2TUN:
+    admin_name: السبيخة
+    iso3c: TUN
+    shapeID: 11933810B5953362566301
+  السرسAdm2TUN:
+    admin_name: السرس
+    iso3c: TUN
+    shapeID: 11933810B34035527934296
+  السندAdm2TUN:
+    admin_name: السند
+    iso3c: TUN
+    shapeID: 11933810B24565531401721
+  السواسيAdm2TUN:
+    admin_name: السواسي
+    iso3c: TUN
+    shapeID: 11933810B55082969984596
+  السيجوميAdm2TUN:
+    admin_name: السيجومي
+    iso3c: TUN
+    shapeID: 11933810B792600527731
+  الشابةAdm2TUN:
+    admin_name: الشابة
+    iso3c: TUN
+    shapeID: 11933810B64556610249653
+  الشبيكةAdm2TUN:
+    admin_name: الشبيكة
+    iso3c: TUN
+    shapeID: 11933810B46466927285708
+  الشراردةAdm2TUN:
+    admin_name: الشراردة
+    iso3c: TUN
+    shapeID: 11933810B20445335117262
+  ‫الصخیرة‬Adm2TUN:
+    admin_name: ‫الصخیرة‬
+    iso3c: TUN
+    shapeID: 11933810B97114621769355
+  الصمارAdm2TUN:
+    admin_name: الصمار
+    iso3c: TUN
+    shapeID: 11933810B83498935151337
+  العاليةAdm2TUN:
+    admin_name: العالية
+    iso3c: TUN
+    shapeID: 11933810B90101987139089
+  العامرةAdm2TUN:
+    admin_name: العامرة
+    iso3c: TUN
+    shapeID: 11933810B27365957956997
+  العروسةAdm2TUN:
+    admin_name: العروسة
+    iso3c: TUN
+    shapeID: 11933810B82124432646139
+  العلاءAdm2TUN:
+    admin_name: العلاء
+    iso3c: TUN
+    shapeID: 11933810B9843874857613
+  العمرانAdm2TUN:
+    admin_name: العمران
+    iso3c: TUN
+    shapeID: 11933810B23225476199680
+  العمرانالأعلىAdm2TUN:
+    admin_name: العمرانالأعلى
+    iso3c: TUN
+    shapeID: 11933810B96784549406628
+  العيونAdm2TUN:
+    admin_name: العيون
+    iso3c: TUN
+    shapeID: 11933810B58410238411456
+  الغريبةAdm2TUN:
+    admin_name: الغريبة
+    iso3c: TUN
+    shapeID: 11933810B8760132099835
+  الفحصAdm2TUN:
+    admin_name: الفحص
+    iso3c: TUN
+    shapeID: 11933810B99487931603822
+  الفوار‬Adm2TUN:
+    admin_name: الفوار‬
+    iso3c: TUN
+    shapeID: 11933810B67570722535168
+  القصرAdm2TUN:
+    admin_name: القصر
+    iso3c: TUN
+    shapeID: 11933810B93906060339366
+  القصرينالجنوبيةAdm2TUN:
+    admin_name: القصرينالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B14631424416912
+  القصرينالشماليةAdm2TUN:
+    admin_name: القصرينالشمالية
+    iso3c: TUN
+    shapeID: 11933810B6535547360334
+  القصورAdm2TUN:
+    admin_name: القصور
+    iso3c: TUN
+    shapeID: 11933810B37215570160824
+  القطارAdm2TUN:
+    admin_name: القطار
+    iso3c: TUN
+    shapeID: 11933810B11969920480260
+  القلعةالخصباءAdm2TUN:
+    admin_name: القلعةالخصباء
+    iso3c: TUN
+    shapeID: 11933810B49043051728800
+  القلعةالصغرىAdm2TUN:
+    admin_name: القلعةالصغرى
+    iso3c: TUN
+    shapeID: 11933810B31167158349382
+  القلعةالكبرىAdm2TUN:
+    admin_name: القلعةالكبرى
+    iso3c: TUN
+    shapeID: 11933810B46924105449942
+  القيروانالجنوبيةAdm2TUN:
+    admin_name: القيروانالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B51337682918507
+  القيروانالشماليةAdm2TUN:
+    admin_name: القيروانالشمالية
+    iso3c: TUN
+    shapeID: 11933810B14836095916482
+  الكافالشرقيةAdm2TUN:
+    admin_name: الكافالشرقية
+    iso3c: TUN
+    shapeID: 11933810B59009288682307
+  الكافالغربيةAdm2TUN:
+    admin_name: الكافالغربية
+    iso3c: TUN
+    shapeID: 11933810B63421014427866
+  الكباريةAdm2TUN:
+    admin_name: الكبارية
+    iso3c: TUN
+    shapeID: 11933810B56753019610878
+  الكرمAdm2TUN:
+    admin_name: الكرم
+    iso3c: TUN
+    shapeID: 11933810B15261795399084
+  الكريبAdm2TUN:
+    admin_name: الكريب
+    iso3c: TUN
+    shapeID: 11933810B63201722786618
+  المتلويAdm2TUN:
+    admin_name: المتلوي
+    iso3c: TUN
+    shapeID: 11933810B54708226655560
+  ‫المحرس‬Adm2TUN:
+    admin_name: ‫المحرس‬
+    iso3c: TUN
+    shapeID: 11933810B93719080710322
+  المحمديةAdm2TUN:
+    admin_name: المحمدية
+    iso3c: TUN
+    shapeID: 11933810B94695140482222
+  المدينةAdm2TUN:
+    admin_name: المدينة
+    iso3c: TUN
+    shapeID: 11933810B18230049002493
+  المدينةالجديدةAdm2TUN:
+    admin_name: المدينةالجديدة
+    iso3c: TUN
+    shapeID: 11933810B97530891468779
+  المرسىAdm2TUN:
+    admin_name: المرسى
+    iso3c: TUN
+    shapeID: 11933810B89916598335200
+  المرناقيةAdm2TUN:
+    admin_name: المرناقية
+    iso3c: TUN
+    shapeID: 11933810B30705450500253
+  المروجAdm2TUN:
+    admin_name: المروج
+    iso3c: TUN
+    shapeID: 11933810B70692418830632
+  المزونةAdm2TUN:
+    admin_name: المزونة
+    iso3c: TUN
+    shapeID: 11933810B66585629816917
+  المضيلةAdm2TUN:
+    admin_name: المضيلة
+    iso3c: TUN
+    shapeID: 11933810B38388231155929
+  المطويةAdm2TUN:
+    admin_name: المطوية
+    iso3c: TUN
+    shapeID: 11933810B30611491582390
+  المكناسيAdm2TUN:
+    admin_name: المكناسي
+    iso3c: TUN
+    shapeID: 11933810B37574036497971
+  المكنينAdm2TUN:
+    admin_name: المكنين
+    iso3c: TUN
+    shapeID: 11933810B23550451682072
+  المنزهAdm2TUN:
+    admin_name: المنزه
+    iso3c: TUN
+    shapeID: 11933810B72032041676540
+  المنستيرAdm2TUN:
+    admin_name: المنستير
+    iso3c: TUN
+    shapeID: 11933810B26778140305408
+  المهديةAdm2TUN:
+    admin_name: المهدية
+    iso3c: TUN
+    shapeID: 11933810B58495148677727
+  الميدةAdm2TUN:
+    admin_name: الميدة
+    iso3c: TUN
+    shapeID: 11933810B5544515796376
+  الناظورAdm2TUN:
+    admin_name: الناظور
+    iso3c: TUN
+    shapeID: 11933810B17149479798456
+  النفيضةAdm2TUN:
+    admin_name: النفيضة
+    iso3c: TUN
+    shapeID: 11933810B70158392681362
+  الهواريةAdm2TUN:
+    admin_name: الهوارية
+    iso3c: TUN
+    shapeID: 11933810B94035776455507
+  الوردانينAdm2TUN:
+    admin_name: الوردانين
+    iso3c: TUN
+    shapeID: 11933810B40616905411348
+  الورديةAdm2TUN:
+    admin_name: الوردية
+    iso3c: TUN
+    shapeID: 11933810B61318752024090
+  الوسلاتيةAdm2TUN:
+    admin_name: الوسلاتية
+    iso3c: TUN
+    shapeID: 11933810B83603965964672
+  بئرالأحمرAdm2TUN:
+    admin_name: بئرالأحمر
+    iso3c: TUN
+    shapeID: 11933810B19780106503049
+  بئرالحفيAdm2TUN:
+    admin_name: بئرالحفي
+    iso3c: TUN
+    shapeID: 11933810B73279713716236
+  بئرعليبنخليفةAdm2TUN:
+    admin_name: بئرعليبنخليفة
+    iso3c: TUN
+    shapeID: 11933810B84931460768485
+  بئرمشارقةAdm2TUN:
+    admin_name: بئرمشارقة
+    iso3c: TUN
+    shapeID: 11933810B29864184441707
+  باببحرAdm2TUN:
+    admin_name: باببحر
+    iso3c: TUN
+    shapeID: 11933810B80970548575435
+  بابسويقةAdm2TUN:
+    admin_name: بابسويقة
+    iso3c: TUN
+    shapeID: 11933810B78138707020335
+  باجةالجنوبيةAdm2TUN:
+    admin_name: باجةالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B29604582719412
+  باجةالشماليةAdm2TUN:
+    admin_name: باجةالشمالية
+    iso3c: TUN
+    shapeID: 11933810B12415666618118
+  باردوAdm2TUN:
+    admin_name: باردو
+    iso3c: TUN
+    shapeID: 11933810B95103152566623
+  برجالعامريAdm2TUN:
+    admin_name: برجالعامري
+    iso3c: TUN
+    shapeID: 11933810B17084695603021
+  برقوAdm2TUN:
+    admin_name: برقو
+    iso3c: TUN
+    shapeID: 11933810B3817841111611
+  بلخيرAdm2TUN:
+    admin_name: بلخير
+    iso3c: TUN
+    shapeID: 11933810B77110081230007
+  بنبلةAdm2TUN:
+    admin_name: بنبلة
+    iso3c: TUN
+    shapeID: 11933810B74832609224245
+  بنزرتالجنوبيةAdm2TUN:
+    admin_name: بنزرتالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B10637834163678
+  بنزرتالشماليةAdm2TUN:
+    admin_name: بنزرتالشمالية
+    iso3c: TUN
+    shapeID: 11933810B79340019170790
+  بنعروسAdm2TUN:
+    admin_name: بنعروس
+    iso3c: TUN
+    shapeID: 11933810B81248278761241
+  بنقردانAdm2TUN:
+    admin_name: بنقردان
+    iso3c: TUN
+    shapeID: 11933810B18047024672055
+  بنيحسانAdm2TUN:
+    admin_name: بنيحسان
+    iso3c: TUN
+    shapeID: 11933810B8202711908587
+  بنيخداشAdm2TUN:
+    admin_name: بنيخداش
+    iso3c: TUN
+    shapeID: 11933810B7896937975348
+  بنيخلادAdm2TUN:
+    admin_name: بنيخلاد
+    iso3c: TUN
+    shapeID: 11933810B39767465855300
+  بنيخيارAdm2TUN:
+    admin_name: بنيخيار
+    iso3c: TUN
+    shapeID: 11933810B855044538504
+  بوحجلةAdm2TUN:
+    admin_name: بوحجلة
+    iso3c: TUN
+    shapeID: 11933810B10530629108425
+  بورويسAdm2TUN:
+    admin_name: بورويس
+    iso3c: TUN
+    shapeID: 11933810B4781158018226
+  بوعرادةAdm2TUN:
+    admin_name: بوعرادة
+    iso3c: TUN
+    shapeID: 11933810B81652618880798
+  بوعرقوبAdm2TUN:
+    admin_name: بوعرقوب
+    iso3c: TUN
+    shapeID: 11933810B70885239011208
+  بوفيشةAdm2TUN:
+    admin_name: بوفيشة
+    iso3c: TUN
+    shapeID: 11933810B69037134075078
+  بومرداسAdm2TUN:
+    admin_name: بومرداس
+    iso3c: TUN
+    shapeID: 11933810B14634667217503
+  بومهلالبساتينAdm2TUN:
+    admin_name: بومهلالبساتين
+    iso3c: TUN
+    shapeID: 11933810B99011573109347
+  تاجروينAdm2TUN:
+    admin_name: تاجروين
+    iso3c: TUN
+    shapeID: 11933810B76558874378908
+  تاكلسةAdm2TUN:
+    admin_name: تاكلسة
+    iso3c: TUN
+    shapeID: 11933810B56579355102022
+  تالةAdm2TUN:
+    admin_name: تالة
+    iso3c: TUN
+    shapeID: 11933810B61814585339016
+  تبرسقAdm2TUN:
+    admin_name: تبرسق
+    iso3c: TUN
+    shapeID: 11933810B80105937964230
+  تستورAdm2TUN:
+    admin_name: تستور
+    iso3c: TUN
+    shapeID: 11933810B3034727793195
+  تطاوينالجنوبيةAdm2TUN:
+    admin_name: تطاوينالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B41543815367913
+  تطاوينالشماليةAdm2TUN:
+    admin_name: تطاوينالشمالية
+    iso3c: TUN
+    shapeID: 11933810B49203985770178
+  تمغزةAdm2TUN:
+    admin_name: تمغزة
+    iso3c: TUN
+    shapeID: 11933810B67504768334789
+  توزرAdm2TUN:
+    admin_name: توزر
+    iso3c: TUN
+    shapeID: 11933810B62164441904454
+  تيبارAdm2TUN:
+    admin_name: تيبار
+    iso3c: TUN
+    shapeID: 11933810B69090870616601
+  تينجةAdm2TUN:
+    admin_name: تينجة
+    iso3c: TUN
+    shapeID: 11933810B92881576006474
+  جبلالجلودAdm2TUN:
+    admin_name: جبلالجلود
+    iso3c: TUN
+    shapeID: 11933810B63287447977470
+  جبنيانةAdm2TUN:
+    admin_name: جبنيانة
+    iso3c: TUN
+    shapeID: 11933810B77828978418448
+  جدليانAdm2TUN:
+    admin_name: جدليان
+    iso3c: TUN
+    shapeID: 11933810B38507486646045
+  جربةاجيمAdm2TUN:
+    admin_name: جربةاجيم
+    iso3c: TUN
+    shapeID: 11933810B71937428341343
+  جربةحومةالسوقAdm2TUN:
+    admin_name: جربةحومةالسوق
+    iso3c: TUN
+    shapeID: 11933810B22764087432985
+  جربةميدونAdm2TUN:
+    admin_name: جربةميدون
+    iso3c: TUN
+    shapeID: 11933810B49298312402477
+  جرجيسAdm2TUN:
+    admin_name: جرجيس
+    iso3c: TUN
+    shapeID: 11933810B85460766663298
+  جرزونةAdm2TUN:
+    admin_name: جرزونة
+    iso3c: TUN
+    shapeID: 11933810B70107776875396
+  جلمةAdm2TUN:
+    admin_name: جلمة
+    iso3c: TUN
+    shapeID: 11933810B21943551709100
+  جمالAdm2TUN:
+    admin_name: جمال
+    iso3c: TUN
+    shapeID: 11933810B99005067592963
+  جومينAdm2TUN:
+    admin_name: جومين
+    iso3c: TUN
+    shapeID: 11933810B45404698681959
+  حاجبالعيونAdm2TUN:
+    admin_name: حاجبالعيون
+    iso3c: TUN
+    shapeID: 11933810B37862088791511
+  حاسيالفريدAdm2TUN:
+    admin_name: حاسيالفريد
+    iso3c: TUN
+    shapeID: 11933810B10014638911734
+  حزوةAdm2TUN:
+    admin_name: حزوة
+    iso3c: TUN
+    shapeID: 11933810B67956509398297
+  حفوزAdm2TUN:
+    admin_name: حفوز
+    iso3c: TUN
+    shapeID: 11933810B20435458440644
+  حلقالواديAdm2TUN:
+    admin_name: حلقالوادي
+    iso3c: TUN
+    shapeID: 11933810B65786338139889
+  حمامالأنفAdm2TUN:
+    admin_name: حمامالأنف
+    iso3c: TUN
+    shapeID: 11933810B17375886890417
+  حمامالشطAdm2TUN:
+    admin_name: حمامالشط
+    iso3c: TUN
+    shapeID: 11933810B77374835127738
+  حمامالغزازAdm2TUN:
+    admin_name: حمامالغزاز
+    iso3c: TUN
+    shapeID: 11933810B57309520880620
+  حمامسوسةAdm2TUN:
+    admin_name: حمامسوسة
+    iso3c: TUN
+    shapeID: 11933810B92430147648185
+  حيالتضامنAdm2TUN:
+    admin_name: حيالتضامن
+    iso3c: TUN
+    shapeID: 11933810B96031064721664
+  حيالخضراءAdm2TUN:
+    admin_name: حيالخضراء
+    iso3c: TUN
+    shapeID: 11933810B14386581864910
+  حيدرةAdm2TUN:
+    admin_name: حيدرة
+    iso3c: TUN
+    shapeID: 11933810B6714146070039
+  دارشعبانالفهريAdm2TUN:
+    admin_name: دارشعبانالفهري
+    iso3c: TUN
+    shapeID: 11933810B9429743875970
+  دقاشAdm2TUN:
+    admin_name: دقاش
+    iso3c: TUN
+    shapeID: 11933810B76554962247664
+  دوارهيشرAdm2TUN:
+    admin_name: دوارهيشر
+    iso3c: TUN
+    shapeID: 11933810B69098282317118
+  دوزالجنوبيةAdm2TUN:
+    admin_name: دوزالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B49944749177942
+  دوزالشماليةAdm2TUN:
+    admin_name: دوزالشمالية
+    iso3c: TUN
+    shapeID: 11933810B4282823233173
+  ذهيبةAdm2TUN:
+    admin_name: ذهيبة
+    iso3c: TUN
+    shapeID: 11933810B38672190318546
+  رأسالجبلAdm2TUN:
+    admin_name: رأسالجبل
+    iso3c: TUN
+    shapeID: 11933810B21860369421282
+  رادسAdm2TUN:
+    admin_name: رادس
+    iso3c: TUN
+    shapeID: 11933810B70866189338214
+  رمادةAdm2TUN:
+    admin_name: رمادة
+    iso3c: TUN
+    shapeID: 11933810B42878076535883
+  روادAdm2TUN:
+    admin_name: رواد
+    iso3c: TUN
+    shapeID: 11933810B90990960542190
+  زرمدينAdm2TUN:
+    admin_name: زرمدين
+    iso3c: TUN
+    shapeID: 11933810B3957312331643
+  زغوانAdm2TUN:
+    admin_name: زغوان
+    iso3c: TUN
+    shapeID: 11933810B81607479948477
+  ساقيةالدائرAdm2TUN:
+    admin_name: ساقيةالدائر
+    iso3c: TUN
+    shapeID: 11933810B13645243771423
+  ساقيةالزيتAdm2TUN:
+    admin_name: ساقيةالزيت
+    iso3c: TUN
+    shapeID: 11933810B89439185484115
+  ساقيةسيدييوسفAdm2TUN:
+    admin_name: ساقيةسيدييوسف
+    iso3c: TUN
+    shapeID: 11933810B55515778364888
+  سبالةأوالدعسكرAdm2TUN:
+    admin_name: سبالةأوالدعسكر
+    iso3c: TUN
+    shapeID: 11933810B91924190982808
+  سبيبةAdm2TUN:
+    admin_name: سبيبة
+    iso3c: TUN
+    shapeID: 11933810B81805450499121
+  سبيطلةAdm2TUN:
+    admin_name: سبيطلة
+    iso3c: TUN
+    shapeID: 11933810B7200177865373
+  سجنانAdm2TUN:
+    admin_name: سجنان
+    iso3c: TUN
+    shapeID: 11933810B88650874660140
+  سكرةAdm2TUN:
+    admin_name: سكرة
+    iso3c: TUN
+    shapeID: 11933810B69163376090757
+  سليانةالجنوبيةAdm2TUN:
+    admin_name: سليانةالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B21220731511134
+  سليانةالشماليةAdm2TUN:
+    admin_name: سليانةالشمالية
+    iso3c: TUN
+    shapeID: 11933810B59766353296810
+  سليمانAdm2TUN:
+    admin_name: سليمان
+    iso3c: TUN
+    shapeID: 11933810B11827339972029
+  سوسةالرياضAdm2TUN:
+    admin_name: سوسةالرياض
+    iso3c: TUN
+    shapeID: 11933810B40013450318318
+  سوسةالمدينةAdm2TUN:
+    admin_name: سوسةالمدينة
+    iso3c: TUN
+    shapeID: 11933810B4615556416921
+  سوسةجوهرةAdm2TUN:
+    admin_name: سوسةجوهرة
+    iso3c: TUN
+    shapeID: 11933810B93819416666054
+  سوسةسيديعبدالحميدAdm2TUN:
+    admin_name: سوسةسيديعبدالحميد
+    iso3c: TUN
+    shapeID: 11933810B8352609818393
+  سوقالأحدAdm2TUN:
+    admin_name: سوقالأحد
+    iso3c: TUN
+    shapeID: 11933810B8106113048091
+  سوقالجديدAdm2TUN:
+    admin_name: سوقالجديد
+    iso3c: TUN
+    shapeID: 11933810B30023985357701
+  سيديالبشيرAdm2TUN:
+    admin_name: سيديالبشير
+    iso3c: TUN
+    shapeID: 11933810B13786823130754
+  سيديالهانيAdm2TUN:
+    admin_name: سيديالهاني
+    iso3c: TUN
+    shapeID: 11933810B19204281524577
+  سيديبوزيدالشرقيةAdm2TUN:
+    admin_name: سيديبوزيدالشرقية
+    iso3c: TUN
+    shapeID: 11933810B54416453623
+  سيديبوزيدالغربيةAdm2TUN:
+    admin_name: سيديبوزيدالغربية
+    iso3c: TUN
+    shapeID: 11933810B70280449703815
+  سيديبوعليAdm2TUN:
+    admin_name: سيديبوعلي
+    iso3c: TUN
+    shapeID: 11933810B45632571730396
+  سيديثابتAdm2TUN:
+    admin_name: سيديثابت
+    iso3c: TUN
+    shapeID: 11933810B98016623241881
+  سيديحسينAdm2TUN:
+    admin_name: سيديحسين
+    iso3c: TUN
+    shapeID: 11933810B21257507323383
+  سيديعلوانAdm2TUN:
+    admin_name: سيديعلوان
+    iso3c: TUN
+    shapeID: 11933810B57085806890021
+  سيديعليبنعونAdm2TUN:
+    admin_name: سيديعليبنعون
+    iso3c: TUN
+    shapeID: 11933810B84544107883303
+  سيديعيشAdm2TUN:
+    admin_name: سيديعيش
+    iso3c: TUN
+    shapeID: 11933810B38600373367169
+  سيديمخلوفAdm2TUN:
+    admin_name: سيديمخلوف
+    iso3c: TUN
+    shapeID: 11933810B95745204086870
+  شربانAdm2TUN:
+    admin_name: شربان
+    iso3c: TUN
+    shapeID: 11933810B76458029989338
+  صفاقسالجنوبيةAdm2TUN:
+    admin_name: صفاقسالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B57127812574337
+  صفاقسالغربيةAdm2TUN:
+    admin_name: صفاقسالغربية
+    iso3c: TUN
+    shapeID: 11933810B55404586431180
+  صفاقسالمدينةAdm2TUN:
+    admin_name: صفاقسالمدينة
+    iso3c: TUN
+    shapeID: 11933810B61776975949609
+  صوافAdm2TUN:
+    admin_name: صواف
+    iso3c: TUN
+    shapeID: 11933810B85459320583034
+  صيادة-لمطة-بوحجرAdm2TUN:
+    admin_name: صيادة-لمطة-بوحجر
+    iso3c: TUN
+    shapeID: 11933810B10641809578431
+  طبربةAdm2TUN:
+    admin_name: طبربة
+    iso3c: TUN
+    shapeID: 11933810B30823561868472
+  طبرقة‎Adm2TUN:
+    admin_name: طبرقة‎
+    iso3c: TUN
+    shapeID: 11933810B13305423353951
+  طبلبةAdm2TUN:
+    admin_name: طبلبة
+    iso3c: TUN
+    shapeID: 11933810B49609226357839
+  طينةAdm2TUN:
+    admin_name: طينة
+    iso3c: TUN
+    shapeID: 11933810B89464736925123
+  ‫عقارب‬Adm2TUN:
+    admin_name: ‫عقارب‬
+    iso3c: TUN
+    shapeID: 11933810B65727884052892
+  عمدونAdm2TUN:
+    admin_name: عمدون
+    iso3c: TUN
+    shapeID: 11933810B43224810674441
+  عيندراهمAdm2TUN:
+    admin_name: عيندراهم
+    iso3c: TUN
+    shapeID: 11933810B84977870340871
+  غارالدماءAdm2TUN:
+    admin_name: غارالدماء
+    iso3c: TUN
+    shapeID: 11933810B72846800304376
+  غارالملحAdm2TUN:
+    admin_name: غارالملح
+    iso3c: TUN
+    shapeID: 11933810B69695767821716
+  غزالةAdm2TUN:
+    admin_name: غزالة
+    iso3c: TUN
+    shapeID: 11933810B10905453653895
+  غمراسنAdm2TUN:
+    admin_name: غمراسن
+    iso3c: TUN
+    shapeID: 11933810B49417994468433
+  غنوشAdm2TUN:
+    admin_name: غنوش
+    iso3c: TUN
+    shapeID: 11933810B83790658636329
+  فرنانةAdm2TUN:
+    admin_name: فرنانة
+    iso3c: TUN
+    shapeID: 11933810B98066234289129
+  فريانةAdm2TUN:
+    admin_name: فريانة
+    iso3c: TUN
+    shapeID: 11933810B52074179872789
+  فوسانةAdm2TUN:
+    admin_name: فوسانة
+    iso3c: TUN
+    shapeID: 11933810B87757841010951
+  فوشانةAdm2TUN:
+    admin_name: فوشانة
+    iso3c: TUN
+    shapeID: 11933810B3203162636288
+  قابسالجنوبيةAdm2TUN:
+    admin_name: قابسالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B60005514770048
+  قابسالغربيةAdm2TUN:
+    admin_name: قابسالغربية
+    iso3c: TUN
+    shapeID: 11933810B93089307586019
+  قابسالمدينةAdm2TUN:
+    admin_name: قابسالمدينة
+    iso3c: TUN
+    shapeID: 11933810B10126944429848
+  قبلاطAdm2TUN:
+    admin_name: قبلاط
+    iso3c: TUN
+    shapeID: 11933810B38819723902176
+  قبليالجنوبيةAdm2TUN:
+    admin_name: قبليالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B33023449768384
+  قبليالشماليةAdm2TUN:
+    admin_name: قبليالشمالية
+    iso3c: TUN
+    shapeID: 11933810B88432623246130
+  قربةAdm2TUN:
+    admin_name: قربة
+    iso3c: TUN
+    shapeID: 11933810B16609511598620
+  قرمباليةAdm2TUN:
+    admin_name: قرمبالية
+    iso3c: TUN
+    shapeID: 11933810B27831601054676
+  قصرهلالAdm2TUN:
+    admin_name: قصرهلال
+    iso3c: TUN
+    shapeID: 11933810B35489062673947
+  قصورالسافAdm2TUN:
+    admin_name: قصورالساف
+    iso3c: TUN
+    shapeID: 11933810B33888578945237
+  قصيبةالمديونيAdm2TUN:
+    admin_name: قصيبةالمديوني
+    iso3c: TUN
+    shapeID: 11933810B91827641175132
+  قعفورAdm2TUN:
+    admin_name: قعفور
+    iso3c: TUN
+    shapeID: 11933810B21725458188720
+  قفصةالجنوبيةAdm2TUN:
+    admin_name: قفصةالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B66279865706920
+  قفصةالشماليةAdm2TUN:
+    admin_name: قفصةالشمالية
+    iso3c: TUN
+    shapeID: 11933810B50994391352057
+  قلعةالأندلسAdm2TUN:
+    admin_name: قلعةالأندلس
+    iso3c: TUN
+    shapeID: 11933810B62465925468138
+  قلعةسنانAdm2TUN:
+    admin_name: قلعةسنان
+    iso3c: TUN
+    shapeID: 11933810B44054307576941
+  قليبيةAdm2TUN:
+    admin_name: قليبية
+    iso3c: TUN
+    shapeID: 11933810B17792419290785
+  كسرىAdm2TUN:
+    admin_name: كسرى
+    iso3c: TUN
+    shapeID: 11933810B54717657919008
+  كندارAdm2TUN:
+    admin_name: كندار
+    iso3c: TUN
+    shapeID: 11933810B95892911712161
+  ماجلبالعباسAdm2TUN:
+    admin_name: ماجلبالعباس
+    iso3c: TUN
+    shapeID: 11933810B37259719331002
+  مارثAdm2TUN:
+    admin_name: مارث
+    iso3c: TUN
+    shapeID: 11933810B61155262377860
+  ماطرAdm2TUN:
+    admin_name: ماطر
+    iso3c: TUN
+    shapeID: 11933810B80183977842330
+  مجازالبابAdm2TUN:
+    admin_name: مجازالباب
+    iso3c: TUN
+    shapeID: 11933810B75310279086219
+  مدنيناالجنوبيةAdm2TUN:
+    admin_name: مدنيناالجنوبية
+    iso3c: TUN
+    shapeID: 11933810B5079624698745
+  مدنينالشماليةAdm2TUN:
+    admin_name: مدنينالشمالية
+    iso3c: TUN
+    shapeID: 11933810B36279508615628
+  مرناقAdm2TUN:
+    admin_name: مرناق
+    iso3c: TUN
+    shapeID: 11933810B2824472069390
+  مساكنAdm2TUN:
+    admin_name: مساكن
+    iso3c: TUN
+    shapeID: 11933810B84840502063502
+  مطماطةAdm2TUN:
+    admin_name: مطماطة
+    iso3c: TUN
+    shapeID: 11933810B21643194978673
+  مطماطةالجديدةAdm2TUN:
+    admin_name: مطماطةالجديدة
+    iso3c: TUN
+    shapeID: 11933810B2147309578114
+  مقرينAdm2TUN:
+    admin_name: مقرين
+    iso3c: TUN
+    shapeID: 11933810B16314159892818
+  مكثرAdm2TUN:
+    admin_name: مكثر
+    iso3c: TUN
+    shapeID: 11933810B30403367882459
+  ملولشAdm2TUN:
+    admin_name: ملولش
+    iso3c: TUN
+    shapeID: 11933810B14406608577982
+  منزلالحبيبAdm2TUN:
+    admin_name: منزلالحبيب
+    iso3c: TUN
+    shapeID: 11933810B71477976393658
+  منزلبورقيبةAdm2TUN:
+    admin_name: منزلبورقيبة
+    iso3c: TUN
+    shapeID: 11933810B6690726234201
+  منزلبوزلفةAdm2TUN:
+    admin_name: منزلبوزلفة
+    iso3c: TUN
+    shapeID: 11933810B54928628318578
+  منزلبوزيانAdm2TUN:
+    admin_name: منزلبوزيان
+    iso3c: TUN
+    shapeID: 11933810B90184807818123
+  منزلتميمAdm2TUN:
+    admin_name: منزلتميم
+    iso3c: TUN
+    shapeID: 11933810B45961681846987
+  منزلجميلAdm2TUN:
+    admin_name: منزلجميل
+    iso3c: TUN
+    shapeID: 11933810B33126972723663
+  منوبة‬Adm2TUN:
+    admin_name: منوبة‬
+    iso3c: TUN
+    shapeID: 11933810B74384837832426
+  منيهلةAdm2TUN:
+    admin_name: منيهلة
+    iso3c: TUN
+    shapeID: 11933810B24040773299461
+  نابلAdm2TUN:
+    admin_name: نابل
+    iso3c: TUN
+    shapeID: 11933810B33504132443060
+  نبرAdm2TUN:
+    admin_name: نبر
+    iso3c: TUN
+    shapeID: 11933810B49902378284824
+  نصراللهAdm2TUN:
+    admin_name: نصرالله
+    iso3c: TUN
+    shapeID: 11933810B10041539297974
+  نفزةAdm2TUN:
+    admin_name: نفزة
+    iso3c: TUN
+    shapeID: 11933810B22312000664115
+  نفطةAdm2TUN:
+    admin_name: نفطة
+    iso3c: TUN
+    shapeID: 11933810B9968739853543
+  هبيرةAdm2TUN:
+    admin_name: هبيرة
+    iso3c: TUN
+    shapeID: 11933810B18034425554259
+  هرقلةAdm2TUN:
+    admin_name: هرقلة
+    iso3c: TUN
+    shapeID: 11933810B20916595248179
+  وادمليزAdm2TUN:
+    admin_name: وادمليز
+    iso3c: TUN
+    shapeID: 11933810B94389885221206
+  وادياللیل‬Adm2TUN:
+    admin_name: وادياللیل‬
+    iso3c: TUN
+    shapeID: 11933810B79768086949873
+  والدشامخAdm2TUN:
+    admin_name: والدشامخ
+    iso3c: TUN
+    shapeID: 11933810B93469460723803

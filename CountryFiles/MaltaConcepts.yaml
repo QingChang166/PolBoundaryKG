@@ -1,69 +1,273 @@
 concepts:
-    - Ker?em
-    - RabatGozo
-    - Xg?ajra
-    - Munxar
-    - Fontana
-    - Ghajnsielem
-    - Qala
-    - SaintLawerence
-    - Gharb
-    - Ghasri
-    - ?ebbu?Gozo
-    - ?amrun
-    - SantaVenera
-    - Birkirkara
-    - Balzan
-    - Lija
-    - Mosta
-    - Mdina
-    - Mtarfa
-    - RabatMalta
-    - Dingli
-    - Attard
-    - Xag?ra
-    - Kalkara
-    - Birgu
-    - ?ebbu?Malta
-    - Qormi
-    - Isla
-    - Si??iewi
-    - Luqa
-    - Sannat
-    - Xewkija
-    - Nadur
-    - Marsaskala
-    - Mellie?a
-    - G?ira
-    - M?arr
-    - SaintPaul'sBay
-    - Naxxar
-    - G?arg?ur
-    - Pembroke
-    - SaintJulian's
-    - Sliema
-    - Swieqi
-    - SaintJohn
-    - Iklin
-    - Valletta
-    - Ta'Xbiex
-    - Floriana
-    - Pietà
-    - ?urrieq
-    - Msida
-    - Bormla
-    - Tarxien
-    - Fgura
-    - SaintLucia's
-    - Gudja
-    - G?axaq
-    - Marsa
-    - Qrendi
-    - Mqabba
-    - Kirkop
-    - Safi
-    - Bir?ebbu?a
-    - Paola
-    - ?abbar
-    - Marsaxlokk
-    - ?ejtun
+  AttardAdm1MLT:
+    admin_name: Attard
+    iso3c: MLT
+    shapeID: 83640313B93037213409403
+  BalzanAdm1MLT:
+    admin_name: Balzan
+    iso3c: MLT
+    shapeID: 83640313B20822579723452
+  BirguAdm1MLT:
+    admin_name: Birgu
+    iso3c: MLT
+    shapeID: 83640313B14397888835877
+  BirkirkaraAdm1MLT:
+    admin_name: Birkirkara
+    iso3c: MLT
+    shapeID: 83640313B10359673671978
+  BirżebbuġaAdm1MLT:
+    admin_name: Birżebbuġa
+    iso3c: MLT
+    shapeID: 83640313B26944319289369
+  BormlaAdm1MLT:
+    admin_name: Bormla
+    iso3c: MLT
+    shapeID: 83640313B42587750659802
+  DingliAdm1MLT:
+    admin_name: Dingli
+    iso3c: MLT
+    shapeID: 83640313B57354980514439
+  FguraAdm1MLT:
+    admin_name: Fgura
+    iso3c: MLT
+    shapeID: 83640313B47184915596760
+  FlorianaAdm1MLT:
+    admin_name: Floriana
+    iso3c: MLT
+    shapeID: 83640313B52026072381253
+  FontanaAdm1MLT:
+    admin_name: Fontana
+    iso3c: MLT
+    shapeID: 83640313B21560607994139
+  GhajnsielemAdm1MLT:
+    admin_name: Ghajnsielem
+    iso3c: MLT
+    shapeID: 83640313B32595760925513
+  GharbAdm1MLT:
+    admin_name: Gharb
+    iso3c: MLT
+    shapeID: 83640313B59834490853323
+  GħargħurAdm1MLT:
+    admin_name: Għargħur
+    iso3c: MLT
+    shapeID: 83640313B82456448658391
+  GhasriAdm1MLT:
+    admin_name: Ghasri
+    iso3c: MLT
+    shapeID: 83640313B97822985297737
+  GħaxaqAdm1MLT:
+    admin_name: Għaxaq
+    iso3c: MLT
+    shapeID: 83640313B8600633511290
+  GudjaAdm1MLT:
+    admin_name: Gudja
+    iso3c: MLT
+    shapeID: 83640313B29565670809924
+  GżiraAdm1MLT:
+    admin_name: Gżira
+    iso3c: MLT
+    shapeID: 83640313B93972734358441
+  ĦamrunAdm1MLT:
+    admin_name: Ħamrun
+    iso3c: MLT
+    shapeID: 83640313B26643895520377
+  IklinAdm1MLT:
+    admin_name: Iklin
+    iso3c: MLT
+    shapeID: 83640313B63748346307845
+  IslaAdm1MLT:
+    admin_name: Isla
+    iso3c: MLT
+    shapeID: 83640313B28463401337071
+  KalkaraAdm1MLT:
+    admin_name: Kalkara
+    iso3c: MLT
+    shapeID: 83640313B96832712848193
+  KerċemAdm1MLT:
+    admin_name: Kerċem
+    iso3c: MLT
+    shapeID: 83640313B82150771484023
+  KirkopAdm1MLT:
+    admin_name: Kirkop
+    iso3c: MLT
+    shapeID: 83640313B10698043212678
+  LijaAdm1MLT:
+    admin_name: Lija
+    iso3c: MLT
+    shapeID: 83640313B61939962177338
+  LuqaAdm1MLT:
+    admin_name: Luqa
+    iso3c: MLT
+    shapeID: 83640313B32902396036385
+  MarsaAdm1MLT:
+    admin_name: Marsa
+    iso3c: MLT
+    shapeID: 83640313B71214708633944
+  MarsaskalaAdm1MLT:
+    admin_name: Marsaskala
+    iso3c: MLT
+    shapeID: 83640313B46811785336007
+  MarsaxlokkAdm1MLT:
+    admin_name: Marsaxlokk
+    iso3c: MLT
+    shapeID: 83640313B51941763183850
+  MdinaAdm1MLT:
+    admin_name: Mdina
+    iso3c: MLT
+    shapeID: 83640313B18835650997044
+  MellieħaAdm1MLT:
+    admin_name: Mellieħa
+    iso3c: MLT
+    shapeID: 83640313B7434934757616
+  MġarrAdm1MLT:
+    admin_name: Mġarr
+    iso3c: MLT
+    shapeID: 83640313B45218014578174
+  MostaAdm1MLT:
+    admin_name: Mosta
+    iso3c: MLT
+    shapeID: 83640313B63712418645070
+  MqabbaAdm1MLT:
+    admin_name: Mqabba
+    iso3c: MLT
+    shapeID: 83640313B29119193634160
+  MsidaAdm1MLT:
+    admin_name: Msida
+    iso3c: MLT
+    shapeID: 83640313B22513233777013
+  MtarfaAdm1MLT:
+    admin_name: Mtarfa
+    iso3c: MLT
+    shapeID: 83640313B16233505494965
+  MunxarAdm1MLT:
+    admin_name: Munxar
+    iso3c: MLT
+    shapeID: 83640313B34539485231325
+  NadurAdm1MLT:
+    admin_name: Nadur
+    iso3c: MLT
+    shapeID: 83640313B83418789682728
+  NaxxarAdm1MLT:
+    admin_name: Naxxar
+    iso3c: MLT
+    shapeID: 83640313B55702430610648
+  PaolaAdm1MLT:
+    admin_name: Paola
+    iso3c: MLT
+    shapeID: 83640313B27023824805393
+  PembrokeAdm1MLT:
+    admin_name: Pembroke
+    iso3c: MLT
+    shapeID: 83640313B96609834677200
+  PietàAdm1MLT:
+    admin_name: Pietà
+    iso3c: MLT
+    shapeID: 83640313B3347274833420
+  QalaAdm1MLT:
+    admin_name: Qala
+    iso3c: MLT
+    shapeID: 83640313B18243789580420
+  QormiAdm1MLT:
+    admin_name: Qormi
+    iso3c: MLT
+    shapeID: 83640313B1314618030603
+  QrendiAdm1MLT:
+    admin_name: Qrendi
+    iso3c: MLT
+    shapeID: 83640313B82959541944820
+  RabatGozoAdm1MLT:
+    admin_name: RabatGozo
+    iso3c: MLT
+    shapeID: 83640313B22954982351017
+  RabatMaltaAdm1MLT:
+    admin_name: RabatMalta
+    iso3c: MLT
+    shapeID: 83640313B41251532632205
+  SafiAdm1MLT:
+    admin_name: Safi
+    iso3c: MLT
+    shapeID: 83640313B72392664646104
+  SaintJohnAdm1MLT:
+    admin_name: SaintJohn
+    iso3c: MLT
+    shapeID: 83640313B38008564196191
+  SaintJulian'sAdm1MLT:
+    admin_name: SaintJulian's
+    iso3c: MLT
+    shapeID: 83640313B85420480605860
+  SaintLawerenceAdm1MLT:
+    admin_name: SaintLawerence
+    iso3c: MLT
+    shapeID: 83640313B37542325651352
+  SaintLucia'sAdm1MLT:
+    admin_name: SaintLucia's
+    iso3c: MLT
+    shapeID: 83640313B77690414343492
+  SaintPaul'sBayAdm1MLT:
+    admin_name: SaintPaul'sBay
+    iso3c: MLT
+    shapeID: 83640313B70016887726547
+  SannatAdm1MLT:
+    admin_name: Sannat
+    iso3c: MLT
+    shapeID: 83640313B46213837211089
+  SantaVeneraAdm1MLT:
+    admin_name: SantaVenera
+    iso3c: MLT
+    shapeID: 83640313B42870636526721
+  SiġġiewiAdm1MLT:
+    admin_name: Siġġiewi
+    iso3c: MLT
+    shapeID: 83640313B83137316861428
+  SliemaAdm1MLT:
+    admin_name: Sliema
+    iso3c: MLT
+    shapeID: 83640313B14575143196718
+  SwieqiAdm1MLT:
+    admin_name: Swieqi
+    iso3c: MLT
+    shapeID: 83640313B16668515866528
+  Ta'XbiexAdm1MLT:
+    admin_name: Ta'Xbiex
+    iso3c: MLT
+    shapeID: 83640313B6781586030718
+  TarxienAdm1MLT:
+    admin_name: Tarxien
+    iso3c: MLT
+    shapeID: 83640313B59486877017515
+  VallettaAdm1MLT:
+    admin_name: Valletta
+    iso3c: MLT
+    shapeID: 83640313B86571698528234
+  XagħraAdm1MLT:
+    admin_name: Xagħra
+    iso3c: MLT
+    shapeID: 83640313B83261609786955
+  XewkijaAdm1MLT:
+    admin_name: Xewkija
+    iso3c: MLT
+    shapeID: 83640313B46186135646579
+  XgħajraAdm1MLT:
+    admin_name: Xgħajra
+    iso3c: MLT
+    shapeID: 83640313B35952736247105
+  ŻabbarAdm1MLT:
+    admin_name: Żabbar
+    iso3c: MLT
+    shapeID: 83640313B20015641298084
+  ŻebbuġGozoAdm1MLT:
+    admin_name: ŻebbuġGozo
+    iso3c: MLT
+    shapeID: 83640313B66469281314411
+  ŻebbuġMaltaAdm1MLT:
+    admin_name: ŻebbuġMalta
+    iso3c: MLT
+    shapeID: 83640313B87582987818287
+  ŻejtunAdm1MLT:
+    admin_name: Żejtun
+    iso3c: MLT
+    shapeID: 83640313B88881158567089
+  ŻurrieqAdm1MLT:
+    admin_name: Żurrieq
+    iso3c: MLT
+    shapeID: 83640313B26470162845875

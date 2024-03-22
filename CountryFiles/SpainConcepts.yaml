@@ -1,20 +1,285 @@
 concepts:
-    - CiudadAutónomadeMelilla
-    - Canarias
-    - ComunidadForaldeNavarra
-    - LaRioja
-    - PaísVasco/Euskadi
-    - ComunitatValenciana
-    - Cataluña/Catalunya
-    - CiudadAutónomadeCeuta
-    - CastillayLeón
-    - Cantabria
-    - IllesBalears
-    - PrincipadodeAsturias
-    - Aragón
-    - Andalucía
-    - RegióndeMurcia
-    - ComunidaddeMadrid
-    - Galicia
-    - Extremadura
-    - Castilla-LaMancha
+  AlavaAdm2ESP:
+    admin_name: Alava
+    iso3c: ESP
+    shapeID: 93216281B53177073729370
+  AlbaceteAdm2ESP:
+    admin_name: Albacete
+    iso3c: ESP
+    shapeID: 93216281B92677822901232
+  AlicanteAdm2ESP:
+    admin_name: Alicante
+    iso3c: ESP
+    shapeID: 93216281B51510323833102
+  AlmeriaAdm2ESP:
+    admin_name: Almeria
+    iso3c: ESP
+    shapeID: 93216281B39621848146831
+  AndalucíaAdm1ESP:
+    admin_name: Andalucía
+    iso3c: ESP
+    shapeID: 25490228B88831207743232
+  AragónAdm1ESP:
+    admin_name: Aragón
+    iso3c: ESP
+    shapeID: 25490228B61325010384209
+  AsturiasAdm2ESP:
+    admin_name: Asturias
+    iso3c: ESP
+    shapeID: 93216281B3621351927787
+  AvilaAdm2ESP:
+    admin_name: Avila
+    iso3c: ESP
+    shapeID: 93216281B93286542911772
+  BadajozAdm2ESP:
+    admin_name: Badajoz
+    iso3c: ESP
+    shapeID: 93216281B51523306154914
+  Balears,IllesAdm2ESP:
+    admin_name: Balears,Illes
+    iso3c: ESP
+    shapeID: 93216281B25565777220884
+  BarcelonaAdm2ESP:
+    admin_name: Barcelona
+    iso3c: ESP
+    shapeID: 93216281B38817874256440
+  BizkaiaAdm2ESP:
+    admin_name: Bizkaia
+    iso3c: ESP
+    shapeID: 93216281B43945081388394
+  BurgosAdm2ESP:
+    admin_name: Burgos
+    iso3c: ESP
+    shapeID: 93216281B87022961233437
+  CaceresAdm2ESP:
+    admin_name: Caceres
+    iso3c: ESP
+    shapeID: 93216281B7928865067192
+  CadizAdm2ESP:
+    admin_name: Cadiz
+    iso3c: ESP
+    shapeID: 93216281B35096300622019
+  CanariasAdm1ESP:
+    admin_name: Canarias
+    iso3c: ESP
+    shapeID: 25490228B84620027724461
+  CantabriaAdm1ESP:
+    admin_name: Cantabria
+    iso3c: ESP
+    shapeID: 25490228B37069901476290
+  CantabriaAdm2ESP:
+    admin_name: Cantabria
+    iso3c: ESP
+    shapeID: 93216281B67737622455841
+  CastellonAdm2ESP:
+    admin_name: Castellon
+    iso3c: ESP
+    shapeID: 93216281B3412943625053
+  Castilla-LaManchaAdm1ESP:
+    admin_name: Castilla-LaMancha
+    iso3c: ESP
+    shapeID: 25490228B94630301010512
+  CastillayLeónAdm1ESP:
+    admin_name: CastillayLeón
+    iso3c: ESP
+    shapeID: 25490228B8471183517505
+  Cataluña/CatalunyaAdm1ESP:
+    admin_name: Cataluña/Catalunya
+    iso3c: ESP
+    shapeID: 25490228B80227492032103
+  CeutaAdm2ESP:
+    admin_name: Ceuta
+    iso3c: ESP
+    shapeID: 93216281B56288010526092
+  CiudadAutónomadeCeutaAdm1ESP:
+    admin_name: CiudadAutónomadeCeuta
+    iso3c: ESP
+    shapeID: 25490228B48808997991554
+  CiudadAutónomadeMelillaAdm1ESP:
+    admin_name: CiudadAutónomadeMelilla
+    iso3c: ESP
+    shapeID: 25490228B18225280299410
+  CiudadRealAdm2ESP:
+    admin_name: CiudadReal
+    iso3c: ESP
+    shapeID: 93216281B65036692111554
+  ComunidaddeMadridAdm1ESP:
+    admin_name: ComunidaddeMadrid
+    iso3c: ESP
+    shapeID: 25490228B43154843394848
+  ComunidadForaldeNavarraAdm1ESP:
+    admin_name: ComunidadForaldeNavarra
+    iso3c: ESP
+    shapeID: 25490228B33348776534112
+  ComunitatValencianaAdm1ESP:
+    admin_name: ComunitatValenciana
+    iso3c: ESP
+    shapeID: 25490228B14384488423733
+  CordobaAdm2ESP:
+    admin_name: Cordoba
+    iso3c: ESP
+    shapeID: 93216281B12389879423062
+  CorunaAdm2ESP:
+    admin_name: Coruna
+    iso3c: ESP
+    shapeID: 93216281B51396366921995
+  CuencaAdm2ESP:
+    admin_name: Cuenca
+    iso3c: ESP
+    shapeID: 93216281B51090048381722
+  ExtremaduraAdm1ESP:
+    admin_name: Extremadura
+    iso3c: ESP
+    shapeID: 25490228B86140490400531
+  GaliciaAdm1ESP:
+    admin_name: Galicia
+    iso3c: ESP
+    shapeID: 25490228B94236519555378
+  GipuzkoaAdm2ESP:
+    admin_name: Gipuzkoa
+    iso3c: ESP
+    shapeID: 93216281B76527566643208
+  GironaAdm2ESP:
+    admin_name: Girona
+    iso3c: ESP
+    shapeID: 93216281B12743856325627
+  GranadaAdm2ESP:
+    admin_name: Granada
+    iso3c: ESP
+    shapeID: 93216281B95730866813440
+  GuadalajaraAdm2ESP:
+    admin_name: Guadalajara
+    iso3c: ESP
+    shapeID: 93216281B1735947308012
+  HuelvaAdm2ESP:
+    admin_name: Huelva
+    iso3c: ESP
+    shapeID: 93216281B63381236244230
+  HuescaAdm2ESP:
+    admin_name: Huesca
+    iso3c: ESP
+    shapeID: 93216281B88766590901676
+  IllesBalearsAdm1ESP:
+    admin_name: IllesBalears
+    iso3c: ESP
+    shapeID: 25490228B26609846683583
+  JaenAdm2ESP:
+    admin_name: Jaen
+    iso3c: ESP
+    shapeID: 93216281B69719065969001
+  LaRiojaAdm1ESP:
+    admin_name: LaRioja
+    iso3c: ESP
+    shapeID: 25490228B81978515469630
+  LeonAdm2ESP:
+    admin_name: Leon
+    iso3c: ESP
+    shapeID: 93216281B52060503612479
+  LleidaAdm2ESP:
+    admin_name: Lleida
+    iso3c: ESP
+    shapeID: 93216281B77878961012946
+  LugoAdm2ESP:
+    admin_name: Lugo
+    iso3c: ESP
+    shapeID: 93216281B81853390501709
+  MadridAdm2ESP:
+    admin_name: Madrid
+    iso3c: ESP
+    shapeID: 93216281B77569616952792
+  MalagaAdm2ESP:
+    admin_name: Malaga
+    iso3c: ESP
+    shapeID: 93216281B36696750331962
+  MelillaAdm2ESP:
+    admin_name: Melilla
+    iso3c: ESP
+    shapeID: 93216281B716335689712
+  MurciaAdm2ESP:
+    admin_name: Murcia
+    iso3c: ESP
+    shapeID: 93216281B8477859939200
+  NavarraAdm2ESP:
+    admin_name: Navarra
+    iso3c: ESP
+    shapeID: 93216281B65631550750635
+  OurenseAdm2ESP:
+    admin_name: Ourense
+    iso3c: ESP
+    shapeID: 93216281B32314821802104
+  PaísVasco/EuskadiAdm1ESP:
+    admin_name: PaísVasco/Euskadi
+    iso3c: ESP
+    shapeID: 25490228B56567998760255
+  PalenciaAdm2ESP:
+    admin_name: Palencia
+    iso3c: ESP
+    shapeID: 93216281B23466456183864
+  Palmas,LasAdm2ESP:
+    admin_name: Palmas,Las
+    iso3c: ESP
+    shapeID: 93216281B54089872197538
+  PontevedraAdm2ESP:
+    admin_name: Pontevedra
+    iso3c: ESP
+    shapeID: 93216281B43695015348250
+  PrincipadodeAsturiasAdm1ESP:
+    admin_name: PrincipadodeAsturias
+    iso3c: ESP
+    shapeID: 25490228B24314700704920
+  RegióndeMurciaAdm1ESP:
+    admin_name: RegióndeMurcia
+    iso3c: ESP
+    shapeID: 25490228B27950689864224
+  Rioja,LaAdm2ESP:
+    admin_name: Rioja,La
+    iso3c: ESP
+    shapeID: 93216281B63633419505726
+  SalamancaAdm2ESP:
+    admin_name: Salamanca
+    iso3c: ESP
+    shapeID: 93216281B37232824113658
+  SantaCruzdeTenerifeAdm2ESP:
+    admin_name: SantaCruzdeTenerife
+    iso3c: ESP
+    shapeID: 93216281B89945777125881
+  SegoviaAdm2ESP:
+    admin_name: Segovia
+    iso3c: ESP
+    shapeID: 93216281B42344641928582
+  SevillaAdm2ESP:
+    admin_name: Sevilla
+    iso3c: ESP
+    shapeID: 93216281B72129419312860
+  SoriaAdm2ESP:
+    admin_name: Soria
+    iso3c: ESP
+    shapeID: 93216281B61104224606423
+  TarragonaAdm2ESP:
+    admin_name: Tarragona
+    iso3c: ESP
+    shapeID: 93216281B93269883088590
+  TeruelAdm2ESP:
+    admin_name: Teruel
+    iso3c: ESP
+    shapeID: 93216281B52305087283901
+  ToledoAdm2ESP:
+    admin_name: Toledo
+    iso3c: ESP
+    shapeID: 93216281B48824658388314
+  ValenciaAdm2ESP:
+    admin_name: Valencia
+    iso3c: ESP
+    shapeID: 93216281B60002663510944
+  ValladolidAdm2ESP:
+    admin_name: Valladolid
+    iso3c: ESP
+    shapeID: 93216281B16607484586717
+  ZamoraAdm2ESP:
+    admin_name: Zamora
+    iso3c: ESP
+    shapeID: 93216281B64882863235857
+  ZaragozaAdm2ESP:
+    admin_name: Zaragoza
+    iso3c: ESP
+    shapeID: 93216281B58713858274405

@@ -1,14 +1,641 @@
 concepts:
-    - '''AsirRegion'
-    - Al-QassimRegion
-    - MakkahRegion
-    - TabukRegion
-    - AlMadinahRegion
-    - EasternRegion
-    - NajranRegion
-    - NorthernBordersRegion
-    - HayelRegion
-    - RiyadhRegion
-    - AlJawfRegion
-    - AlBahahRegion
-    - JazanRegion
+  '''AsirRegionAdm1SAU':
+    admin_name: '''AsirRegion'
+    iso3c: SAU
+    shapeID: 25081817B79414847265706
+  AbhaAdm2SAU:
+    admin_name: Abha
+    iso3c: SAU
+    shapeID: 3984122B51804876701649
+  AbqaiqGovernorateAdm2SAU:
+    admin_name: AbqaiqGovernorate
+    iso3c: SAU
+    shapeID: 3984122B4619800555153
+  AbuArishAdm2SAU:
+    admin_name: AbuArish
+    iso3c: SAU
+    shapeID: 3984122B22724727158318
+  AdamAdm2SAU:
+    admin_name: Adam
+    iso3c: SAU
+    shapeID: 3984122B570005006642
+  AdDairAdm2SAU:
+    admin_name: AdDair
+    iso3c: SAU
+    shapeID: 3984122B7497647941468
+  AdDarbAdm2SAU:
+    admin_name: AdDarb
+    iso3c: SAU
+    shapeID: 3984122B93330555014597
+  AdDilamAdm2SAU:
+    admin_name: AdDilam
+    iso3c: SAU
+    shapeID: 3984122B16100468455266
+  AdDiriyahAdm2SAU:
+    admin_name: AdDiriyah
+    iso3c: SAU
+    shapeID: 3984122B48280976482389
+  AdDuwadimiAdm2SAU:
+    admin_name: AdDuwadimi
+    iso3c: SAU
+    shapeID: 3984122B96211478214569
+  AfifAdm2SAU:
+    admin_name: Afif
+    iso3c: SAU
+    shapeID: 3984122B48946169239231
+  AhadAlMasarihahAdm2SAU:
+    admin_name: AhadAlMasarihah
+    iso3c: SAU
+    shapeID: 3984122B45033572727411
+  AhadRufaydahAdm2SAU:
+    admin_name: AhadRufaydah
+    iso3c: SAU
+    shapeID: 3984122B9965074397294
+  Al-QassimRegionAdm1SAU:
+    admin_name: Al-QassimRegion
+    iso3c: SAU
+    shapeID: 25081817B98761102949945
+  AlAflajAdm2SAU:
+    admin_name: AlAflaj
+    iso3c: SAU
+    shapeID: 3984122B44248707539988
+  AlAhsaGovernorateAdm2SAU:
+    admin_name: AlAhsaGovernorate
+    iso3c: SAU
+    shapeID: 3984122B69484211656738
+  AlAqiqAdm2SAU:
+    admin_name: AlAqiq
+    iso3c: SAU
+    shapeID: 3984122B31362289860365
+  AlArdiyatAdm2SAU:
+    admin_name: AlArdiyat
+    iso3c: SAU
+    shapeID: 3984122B30168930492514
+  AlAridahAdm2SAU:
+    admin_name: AlAridah
+    iso3c: SAU
+    shapeID: 3984122B90529489036183
+  AlAsyahAdm2SAU:
+    admin_name: AlAsyah
+    iso3c: SAU
+    shapeID: 3984122B64115635366838
+  AlAydabiAdm2SAU:
+    admin_name: AlAydabi
+    iso3c: SAU
+    shapeID: 3984122B69248928493715
+  AlBadAdm2SAU:
+    admin_name: AlBad
+    iso3c: SAU
+    shapeID: 3984122B3708851156849
+  AlBadaiAdm2SAU:
+    admin_name: AlBadai
+    iso3c: SAU
+    shapeID: 3984122B27492717876987
+  AlBahahAdm2SAU:
+    admin_name: AlBahah
+    iso3c: SAU
+    shapeID: 3984122B68383495668590
+  AlBahahRegionAdm1SAU:
+    admin_name: AlBahahRegion
+    iso3c: SAU
+    shapeID: 25081817B90917209203250
+  AlBirkAdm2SAU:
+    admin_name: AlBirk
+    iso3c: SAU
+    shapeID: 3984122B83893098076336
+  AlBukayriyahAdm2SAU:
+    admin_name: AlBukayriyah
+    iso3c: SAU
+    shapeID: 3984122B33387122902294
+  AlGhatAdm2SAU:
+    admin_name: AlGhat
+    iso3c: SAU
+    shapeID: 3984122B63908068371379
+  AlGhazalahAdm2SAU:
+    admin_name: AlGhazalah
+    iso3c: SAU
+    shapeID: 3984122B36085012469316
+  AlHaitAdm2SAU:
+    admin_name: AlHait
+    iso3c: SAU
+    shapeID: 3984122B12009021139817
+  AlHajrahAdm2SAU:
+    admin_name: AlHajrah
+    iso3c: SAU
+    shapeID: 3984122B69466254648027
+  AlHariqAdm2SAU:
+    admin_name: AlHariq
+    iso3c: SAU
+    shapeID: 3984122B43345093389775
+  AlHarjahAdm2SAU:
+    admin_name: AlHarjah
+    iso3c: SAU
+    shapeID: 3984122B81076833717863
+  AlHarthAdm2SAU:
+    admin_name: AlHarth
+    iso3c: SAU
+    shapeID: 3984122B55876340381489
+  AlHinakiyahAdm2SAU:
+    admin_name: AlHinakiyah
+    iso3c: SAU
+    shapeID: 3984122B35742954150102
+  AlIsAdm2SAU:
+    admin_name: AlIs
+    iso3c: SAU
+    shapeID: 3984122B67468002617128
+  AlJawfRegionAdm1SAU:
+    admin_name: AlJawfRegion
+    iso3c: SAU
+    shapeID: 25081817B5742042673291
+  AlJubaylGovernorateAdm2SAU:
+    admin_name: AlJubaylGovernorate
+    iso3c: SAU
+    shapeID: 3984122B84471186351671
+  AlJumumAdm2SAU:
+    admin_name: AlJumum
+    iso3c: SAU
+    shapeID: 3984122B50722062290492
+  AlKamilAdm2SAU:
+    admin_name: AlKamil
+    iso3c: SAU
+    shapeID: 3984122B69121504461453
+  AlKhafjiGovernorateAdm2SAU:
+    admin_name: AlKhafjiGovernorate
+    iso3c: SAU
+    shapeID: 3984122B26220942918379
+  AlKharjAdm2SAU:
+    admin_name: AlKharj
+    iso3c: SAU
+    shapeID: 3984122B32860253667060
+  AlKhubarGovernorateAdm2SAU:
+    admin_name: AlKhubarGovernorate
+    iso3c: SAU
+    shapeID: 3984122B30508649206602
+  AlKhurmahAdm2SAU:
+    admin_name: AlKhurmah
+    iso3c: SAU
+    shapeID: 3984122B24686766089891
+  AlLithAdm2SAU:
+    admin_name: AlLith
+    iso3c: SAU
+    shapeID: 3984122B45351244346346
+  AlMadinahAlMunawwarahAdm2SAU:
+    admin_name: AlMadinahAlMunawwarah
+    iso3c: SAU
+    shapeID: 3984122B50313348444377
+  AlMadinahRegionAdm1SAU:
+    admin_name: AlMadinahRegion
+    iso3c: SAU
+    shapeID: 25081817B5326875801694
+  AlMahdAdm2SAU:
+    admin_name: AlMahd
+    iso3c: SAU
+    shapeID: 3984122B26990711780324
+  AlMajardahAdm2SAU:
+    admin_name: AlMajardah
+    iso3c: SAU
+    shapeID: 3984122B45681957662034
+  AlMajmaahAdm2SAU:
+    admin_name: AlMajmaah
+    iso3c: SAU
+    shapeID: 3984122B56533090756858
+  AlMandaqAdm2SAU:
+    admin_name: AlMandaq
+    iso3c: SAU
+    shapeID: 3984122B96488484620871
+  AlMidhnabAdm2SAU:
+    admin_name: AlMidhnab
+    iso3c: SAU
+    shapeID: 3984122B36507370505821
+  AlMukhwahAdm2SAU:
+    admin_name: AlMukhwah
+    iso3c: SAU
+    shapeID: 3984122B12423677305762
+  AlMuzahimiyahAdm2SAU:
+    admin_name: AlMuzahimiyah
+    iso3c: SAU
+    shapeID: 3984122B11069871020476
+  AlNuayriyahGovernorateAdm2SAU:
+    admin_name: AlNuayriyahGovernorate
+    iso3c: SAU
+    shapeID: 3984122B22034942489238
+  AlQaraAdm2SAU:
+    admin_name: AlQara
+    iso3c: SAU
+    shapeID: 3984122B30402684707510
+  AlQatifGovernorateAdm2SAU:
+    admin_name: AlQatifGovernorate
+    iso3c: SAU
+    shapeID: 3984122B40060340495100
+  AlQunfudhahAdm2SAU:
+    admin_name: AlQunfudhah
+    iso3c: SAU
+    shapeID: 3984122B72809386874180
+  AlQurayyatAdm2SAU:
+    admin_name: AlQurayyat
+    iso3c: SAU
+    shapeID: 3984122B80532318679279
+  AlQuwayiyahAdm2SAU:
+    admin_name: AlQuwayiyah
+    iso3c: SAU
+    shapeID: 3984122B98096827354438
+  AlTaifAdm2SAU:
+    admin_name: AlTaif
+    iso3c: SAU
+    shapeID: 3984122B19781727618423
+  AlUdaydGovernorateAdm2SAU:
+    admin_name: AlUdaydGovernorate
+    iso3c: SAU
+    shapeID: 3984122B39367206521153
+  AlUlaAdm2SAU:
+    admin_name: AlUla
+    iso3c: SAU
+    shapeID: 3984122B50216061485501
+  AlUwayqilahAdm2SAU:
+    admin_name: AlUwayqilah
+    iso3c: SAU
+    shapeID: 3984122B18333295493073
+  AlWajhAdm2SAU:
+    admin_name: AlWajh
+    iso3c: SAU
+    shapeID: 3984122B68053650100350
+  AnNabhaniyahAdm2SAU:
+    admin_name: AnNabhaniyah
+    iso3c: SAU
+    shapeID: 3984122B39265866339380
+  AnNamasAdm2SAU:
+    admin_name: AnNamas
+    iso3c: SAU
+    shapeID: 3984122B52293424846574
+  ArarAdm2SAU:
+    admin_name: Arar
+    iso3c: SAU
+    shapeID: 3984122B40044275926571
+  ArRassAdm2SAU:
+    admin_name: ArRass
+    iso3c: SAU
+    shapeID: 3984122B15700727279445
+  ArRaynAdm2SAU:
+    admin_name: ArRayn
+    iso3c: SAU
+    shapeID: 3984122B64306207967491
+  ArRaythAdm2SAU:
+    admin_name: ArRayth
+    iso3c: SAU
+    shapeID: 3984122B90940708913135
+  AshShamliAdm2SAU:
+    admin_name: AshShamli
+    iso3c: SAU
+    shapeID: 3984122B13662372448842
+  AshShimasiyahAdm2SAU:
+    admin_name: AshShimasiyah
+    iso3c: SAU
+    shapeID: 3984122B87362373452737
+  AshShinanAdm2SAU:
+    admin_name: AshShinan
+    iso3c: SAU
+    shapeID: 3984122B89530353024742
+  AsSulaymiAdm2SAU:
+    admin_name: AsSulaymi
+    iso3c: SAU
+    shapeID: 3984122B6814692020878
+  AsSulayyilAdm2SAU:
+    admin_name: AsSulayyil
+    iso3c: SAU
+    shapeID: 3984122B94186760530457
+  AtTuwalAdm2SAU:
+    admin_name: AtTuwal
+    iso3c: SAU
+    shapeID: 3984122B6871077007483
+  AzZulfiAdm2SAU:
+    admin_name: AzZulfi
+    iso3c: SAU
+    shapeID: 3984122B20567039661840
+  BadrAdm2SAU:
+    admin_name: Badr
+    iso3c: SAU
+    shapeID: 3984122B72489083236979
+  BadrAlJanubAdm2SAU:
+    admin_name: BadrAlJanub
+    iso3c: SAU
+    shapeID: 3984122B4067687799537
+  BahrahAdm2SAU:
+    admin_name: Bahrah
+    iso3c: SAU
+    shapeID: 3984122B81051210981737
+  BalqarnAdm2SAU:
+    admin_name: Balqarn
+    iso3c: SAU
+    shapeID: 3984122B28930414143563
+  BaniHasanAdm2SAU:
+    admin_name: BaniHasan
+    iso3c: SAU
+    shapeID: 3984122B97825072008534
+  BaqaAdm2SAU:
+    admin_name: Baqa
+    iso3c: SAU
+    shapeID: 3984122B33643384104424
+  BariqAdm2SAU:
+    admin_name: Bariq
+    iso3c: SAU
+    shapeID: 3984122B41076127569614
+  BayshAdm2SAU:
+    admin_name: Baysh
+    iso3c: SAU
+    shapeID: 3984122B34457102514074
+  BiljurashiAdm2SAU:
+    admin_name: Biljurashi
+    iso3c: SAU
+    shapeID: 3984122B86528100329194
+  BishahAdm2SAU:
+    admin_name: Bishah
+    iso3c: SAU
+    shapeID: 3984122B19652940197421
+  BuraydahAdm2SAU:
+    admin_name: Buraydah
+    iso3c: SAU
+    shapeID: 3984122B17448631655978
+  DamadAdm2SAU:
+    admin_name: Damad
+    iso3c: SAU
+    shapeID: 3984122B72811799674202
+  DariyahAdm2SAU:
+    admin_name: Dariyah
+    iso3c: SAU
+    shapeID: 3984122B92001523391587
+  DawamatAlJandalAdm2SAU:
+    admin_name: DawamatAlJandal
+    iso3c: SAU
+    shapeID: 3984122B72402855979310
+  DubaAdm2SAU:
+    admin_name: Duba
+    iso3c: SAU
+    shapeID: 3984122B34924504957971
+  DurumaAdm2SAU:
+    admin_name: Duruma
+    iso3c: SAU
+    shapeID: 3984122B68613467322132
+  EasternRegionAdm1SAU:
+    admin_name: EasternRegion
+    iso3c: SAU
+    shapeID: 25081817B34473806557189
+  FarasanAdm2SAU:
+    admin_name: Farasan
+    iso3c: SAU
+    shapeID: 3984122B10336140698777
+  FaratGhamidAzZinadAdm2SAU:
+    admin_name: FaratGhamidAzZinad
+    iso3c: SAU
+    shapeID: 3984122B52962082234192
+  FayfaAdm2SAU:
+    admin_name: Fayfa
+    iso3c: SAU
+    shapeID: 3984122B64053799275284
+  HafarAlBatinGovernorateAdm2SAU:
+    admin_name: HafarAlBatinGovernorate
+    iso3c: SAU
+    shapeID: 3984122B16255149512867
+  HailAdm2SAU:
+    admin_name: Hail
+    iso3c: SAU
+    shapeID: 3984122B95191279844265
+  HaqilAdm2SAU:
+    admin_name: Haqil
+    iso3c: SAU
+    shapeID: 3984122B35604631232449
+  HarubAdm2SAU:
+    admin_name: Harub
+    iso3c: SAU
+    shapeID: 3984122B26008207419026
+  HawtatBaniTamimAdm2SAU:
+    admin_name: HawtatBaniTamim
+    iso3c: SAU
+    shapeID: 3984122B7481963684562
+  HayelRegionAdm1SAU:
+    admin_name: HayelRegion
+    iso3c: SAU
+    shapeID: 25081817B30843703179747
+  HubunaAdm2SAU:
+    admin_name: Hubuna
+    iso3c: SAU
+    shapeID: 3984122B48714984453886
+  HuraymilaAdm2SAU:
+    admin_name: Huraymila
+    iso3c: SAU
+    shapeID: 3984122B33827806998616
+  JazanAdm2SAU:
+    admin_name: Jazan
+    iso3c: SAU
+    shapeID: 3984122B61358763727991
+  JazanRegionAdm1SAU:
+    admin_name: JazanRegion
+    iso3c: SAU
+    shapeID: 25081817B72054791986965
+  JiddahAdm2SAU:
+    admin_name: Jiddah
+    iso3c: SAU
+    shapeID: 3984122B38761650215427
+  KhamisMushaytAdm2SAU:
+    admin_name: KhamisMushayt
+    iso3c: SAU
+    shapeID: 3984122B46908914217356
+  KhaybarAdm2SAU:
+    admin_name: Khaybar
+    iso3c: SAU
+    shapeID: 3984122B6641435026118
+  KhubashAdm2SAU:
+    admin_name: Khubash
+    iso3c: SAU
+    shapeID: 3984122B20572203792735
+  KhulaysAdm2SAU:
+    admin_name: Khulays
+    iso3c: SAU
+    shapeID: 3984122B86686016734091
+  MakkahAlMukarramahAdm2SAU:
+    admin_name: MakkahAlMukarramah
+    iso3c: SAU
+    shapeID: 3984122B19556133357457
+  MakkahRegionAdm1SAU:
+    admin_name: MakkahRegion
+    iso3c: SAU
+    shapeID: 25081817B13159281784364
+  MaratAdm2SAU:
+    admin_name: Marat
+    iso3c: SAU
+    shapeID: 3984122B65092650994448
+  MawqaqAdm2SAU:
+    admin_name: Mawqaq
+    iso3c: SAU
+    shapeID: 3984122B480049909683
+  MaysanAdm2SAU:
+    admin_name: Maysan
+    iso3c: SAU
+    shapeID: 3984122B44354089369392
+  MuhayilAdm2SAU:
+    admin_name: Muhayil
+    iso3c: SAU
+    shapeID: 3984122B440816765120
+  NajranAdm2SAU:
+    admin_name: Najran
+    iso3c: SAU
+    shapeID: 3984122B82591755430407
+  NajranRegionAdm1SAU:
+    admin_name: NajranRegion
+    iso3c: SAU
+    shapeID: 25081817B54479367627811
+  NorthernBordersRegionAdm1SAU:
+    admin_name: NorthernBordersRegion
+    iso3c: SAU
+    shapeID: 25081817B61333239611232
+  QaryahAlUlyaGovernorateAdm2SAU:
+    admin_name: QaryahAlUlyaGovernorate
+    iso3c: SAU
+    shapeID: 3984122B62688507112454
+  QilwahAdm2SAU:
+    admin_name: Qilwah
+    iso3c: SAU
+    shapeID: 3984122B13944600420145
+  RabighAdm2SAU:
+    admin_name: Rabigh
+    iso3c: SAU
+    shapeID: 3984122B58101820729277
+  RafhaAdm2SAU:
+    admin_name: Rafha
+    iso3c: SAU
+    shapeID: 3984122B93334986111826
+  RanyahAdm2SAU:
+    admin_name: Ranyah
+    iso3c: SAU
+    shapeID: 3984122B59353039891704
+  RasTannurahGovernorateAdm2SAU:
+    admin_name: RasTannurahGovernorate
+    iso3c: SAU
+    shapeID: 3984122B61840424602376
+  RijalAlMaAdm2SAU:
+    admin_name: RijalAlMa
+    iso3c: SAU
+    shapeID: 3984122B12678922883619
+  RiyadhAdm2SAU:
+    admin_name: Riyadh
+    iso3c: SAU
+    shapeID: 3984122B77020451037372
+  RiyadhAlKhabraAdm2SAU:
+    admin_name: RiyadhAlKhabra
+    iso3c: SAU
+    shapeID: 3984122B54540270490359
+  RiyadhRegionAdm1SAU:
+    admin_name: RiyadhRegion
+    iso3c: SAU
+    shapeID: 25081817B56088895138556
+  RumahAdm2SAU:
+    admin_name: Rumah
+    iso3c: SAU
+    shapeID: 3984122B77323630629341
+  SabyaAdm2SAU:
+    admin_name: Sabya
+    iso3c: SAU
+    shapeID: 3984122B63754303430795
+  SakakaAdm2SAU:
+    admin_name: Sakaka
+    iso3c: SAU
+    shapeID: 3984122B95279819102585
+  SamtahAdm2SAU:
+    admin_name: Samtah
+    iso3c: SAU
+    shapeID: 3984122B51728476853107
+  SaratAbidahAdm2SAU:
+    admin_name: SaratAbidah
+    iso3c: SAU
+    shapeID: 3984122B75809876949302
+  ShaqraAdm2SAU:
+    admin_name: Shaqra
+    iso3c: SAU
+    shapeID: 3984122B74365690787554
+  SharurahAdm2SAU:
+    admin_name: Sharurah
+    iso3c: SAU
+    shapeID: 3984122B36425593132698
+  SimiraAdm2SAU:
+    admin_name: Simira
+    iso3c: SAU
+    shapeID: 3984122B23018380260764
+  TabukAdm2SAU:
+    admin_name: Tabuk
+    iso3c: SAU
+    shapeID: 3984122B79783370872517
+  TabukRegionAdm1SAU:
+    admin_name: TabukRegion
+    iso3c: SAU
+    shapeID: 25081817B21311317754967
+  TanumahAdm2SAU:
+    admin_name: Tanumah
+    iso3c: SAU
+    shapeID: 3984122B49746807963444
+  TaribAdm2SAU:
+    admin_name: Tarib
+    iso3c: SAU
+    shapeID: 3984122B40135172930299
+  TathlithAdm2SAU:
+    admin_name: Tathlith
+    iso3c: SAU
+    shapeID: 3984122B92065083933541
+  TaymaAdm2SAU:
+    admin_name: Tayma
+    iso3c: SAU
+    shapeID: 3984122B14648526267703
+  ThadiqAdm2SAU:
+    admin_name: Thadiq
+    iso3c: SAU
+    shapeID: 3984122B50313179672016
+  TharAdm2SAU:
+    admin_name: Thar
+    iso3c: SAU
+    shapeID: 3984122B2939613330368
+  TubarjalAdm2SAU:
+    admin_name: Tubarjal
+    iso3c: SAU
+    shapeID: 3984122B14172463980981
+  TurayfAdm2SAU:
+    admin_name: Turayf
+    iso3c: SAU
+    shapeID: 3984122B56317831263034
+  TurubahAdm2SAU:
+    admin_name: Turubah
+    iso3c: SAU
+    shapeID: 3984122B29968432383437
+  UmlujAdm2SAU:
+    admin_name: Umluj
+    iso3c: SAU
+    shapeID: 3984122B90318481266976
+  UnayzahAdm2SAU:
+    admin_name: Unayzah
+    iso3c: SAU
+    shapeID: 3984122B25563935437347
+  UqlatAsSuqurAdm2SAU:
+    admin_name: UqlatAsSuqur
+    iso3c: SAU
+    shapeID: 3984122B57867781654923
+  UyunAlJiwaAdm2SAU:
+    admin_name: UyunAlJiwa
+    iso3c: SAU
+    shapeID: 3984122B68275600935451
+  WadiAdDawasirAdm2SAU:
+    admin_name: WadiAdDawasir
+    iso3c: SAU
+    shapeID: 3984122B65404118142218
+  WadiAlFaraAdm2SAU:
+    admin_name: WadiAlFara
+    iso3c: SAU
+    shapeID: 3984122B69585061714649
+  YadamahAdm2SAU:
+    admin_name: Yadamah
+    iso3c: SAU
+    shapeID: 3984122B76833096678906
+  YanbuAdm2SAU:
+    admin_name: Yanbu
+    iso3c: SAU
+    shapeID: 3984122B20787567293330
+  ZahranAlJanubAdm2SAU:
+    admin_name: ZahranAlJanub
+    iso3c: SAU
+    shapeID: 3984122B54727437999248

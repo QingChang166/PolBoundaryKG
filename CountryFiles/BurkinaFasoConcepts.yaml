@@ -1,14 +1,233 @@
 concepts:
-    - Centre-Est
-    - BoucleduMouhoun
-    - Centre
-    - Cascades
-    - Centre-Nord
-    - Centre-Ouest
-    - Est
-    - Hauts-Bassins
-    - Nord
-    - Centre-Sud
-    - Sahel
-    - Sud-Ouest
-    - PlateauCentral
+  BaleAdm2BFA:
+    admin_name: Bale
+    iso3c: BFA
+    shapeID: 67063806B68807156447803
+  BamAdm2BFA:
+    admin_name: Bam
+    iso3c: BFA
+    shapeID: 67063806B14953893434288
+  BanwaAdm2BFA:
+    admin_name: Banwa
+    iso3c: BFA
+    shapeID: 67063806B90065327421296
+  BazegaAdm2BFA:
+    admin_name: Bazega
+    iso3c: BFA
+    shapeID: 67063806B75312427459337
+  BoucleduMouhounAdm1BFA:
+    admin_name: BoucleduMouhoun
+    iso3c: BFA
+    shapeID: 92566538B5930876876994
+  BougouribaAdm2BFA:
+    admin_name: Bougouriba
+    iso3c: BFA
+    shapeID: 67063806B9563364372336
+  BoulgouAdm2BFA:
+    admin_name: Boulgou
+    iso3c: BFA
+    shapeID: 67063806B79770817740465
+  BoulkiemdeAdm2BFA:
+    admin_name: Boulkiemde
+    iso3c: BFA
+    shapeID: 67063806B25202403935187
+  CascadesAdm1BFA:
+    admin_name: Cascades
+    iso3c: BFA
+    shapeID: 92566538B65696039363280
+  Centre-EstAdm1BFA:
+    admin_name: Centre-Est
+    iso3c: BFA
+    shapeID: 92566538B37033565003987
+  Centre-NordAdm1BFA:
+    admin_name: Centre-Nord
+    iso3c: BFA
+    shapeID: 92566538B59117792838125
+  Centre-OuestAdm1BFA:
+    admin_name: Centre-Ouest
+    iso3c: BFA
+    shapeID: 92566538B57875752774417
+  Centre-SudAdm1BFA:
+    admin_name: Centre-Sud
+    iso3c: BFA
+    shapeID: 92566538B49759193106183
+  CentreAdm1BFA:
+    admin_name: Centre
+    iso3c: BFA
+    shapeID: 92566538B14190085014946
+  ComoeAdm2BFA:
+    admin_name: Comoe
+    iso3c: BFA
+    shapeID: 67063806B6461887322435
+  EstAdm1BFA:
+    admin_name: Est
+    iso3c: BFA
+    shapeID: 92566538B57532963969301
+  GanzourgouAdm2BFA:
+    admin_name: Ganzourgou
+    iso3c: BFA
+    shapeID: 67063806B50041184778807
+  GnagnaAdm2BFA:
+    admin_name: Gnagna
+    iso3c: BFA
+    shapeID: 67063806B53557788130503
+  GourmaAdm2BFA:
+    admin_name: Gourma
+    iso3c: BFA
+    shapeID: 67063806B98154706729521
+  Hauts-BassinsAdm1BFA:
+    admin_name: Hauts-Bassins
+    iso3c: BFA
+    shapeID: 92566538B19127906733451
+  HouetAdm2BFA:
+    admin_name: Houet
+    iso3c: BFA
+    shapeID: 67063806B93880456931202
+  IobaAdm2BFA:
+    admin_name: Ioba
+    iso3c: BFA
+    shapeID: 67063806B47797635439115
+  KadiogoAdm2BFA:
+    admin_name: Kadiogo
+    iso3c: BFA
+    shapeID: 67063806B99988316808523
+  KenedougouAdm2BFA:
+    admin_name: Kenedougou
+    iso3c: BFA
+    shapeID: 67063806B9375485614542
+  KomonjdjariAdm2BFA:
+    admin_name: Komonjdjari
+    iso3c: BFA
+    shapeID: 67063806B37049013397139
+  KompiengaAdm2BFA:
+    admin_name: Kompienga
+    iso3c: BFA
+    shapeID: 67063806B63358793036390
+  KossiAdm2BFA:
+    admin_name: Kossi
+    iso3c: BFA
+    shapeID: 67063806B77397496256894
+  KoulpelogoAdm2BFA:
+    admin_name: Koulpelogo
+    iso3c: BFA
+    shapeID: 67063806B92956545078683
+  KouritengaAdm2BFA:
+    admin_name: Kouritenga
+    iso3c: BFA
+    shapeID: 67063806B40595440400203
+  KourweogoAdm2BFA:
+    admin_name: Kourweogo
+    iso3c: BFA
+    shapeID: 67063806B35388046796178
+  LerabaAdm2BFA:
+    admin_name: Leraba
+    iso3c: BFA
+    shapeID: 67063806B8254339248909
+  LoroumAdm2BFA:
+    admin_name: Loroum
+    iso3c: BFA
+    shapeID: 67063806B11896750408185
+  MouhounAdm2BFA:
+    admin_name: Mouhoun
+    iso3c: BFA
+    shapeID: 67063806B95698273817509
+  NahouriAdm2BFA:
+    admin_name: Nahouri
+    iso3c: BFA
+    shapeID: 67063806B90465948144495
+  NamentengaAdm2BFA:
+    admin_name: Namentenga
+    iso3c: BFA
+    shapeID: 67063806B10845212636131
+  NayalaAdm2BFA:
+    admin_name: Nayala
+    iso3c: BFA
+    shapeID: 67063806B13297228427715
+  NordAdm1BFA:
+    admin_name: Nord
+    iso3c: BFA
+    shapeID: 92566538B60283727543208
+  NoumbielAdm2BFA:
+    admin_name: Noumbiel
+    iso3c: BFA
+    shapeID: 67063806B78350075830190
+  OubritengaAdm2BFA:
+    admin_name: Oubritenga
+    iso3c: BFA
+    shapeID: 67063806B42476727458569
+  OudalanAdm2BFA:
+    admin_name: Oudalan
+    iso3c: BFA
+    shapeID: 67063806B71789570765121
+  PassoreAdm2BFA:
+    admin_name: Passore
+    iso3c: BFA
+    shapeID: 67063806B82563699600395
+  PlateauCentralAdm1BFA:
+    admin_name: PlateauCentral
+    iso3c: BFA
+    shapeID: 92566538B74906977122081
+  PoniAdm2BFA:
+    admin_name: Poni
+    iso3c: BFA
+    shapeID: 67063806B8041269423759
+  SahelAdm1BFA:
+    admin_name: Sahel
+    iso3c: BFA
+    shapeID: 92566538B81581720767285
+  SanguieAdm2BFA:
+    admin_name: Sanguie
+    iso3c: BFA
+    shapeID: 67063806B51289395143870
+  SanmatengaAdm2BFA:
+    admin_name: Sanmatenga
+    iso3c: BFA
+    shapeID: 67063806B54692073140068
+  SenoAdm2BFA:
+    admin_name: Seno
+    iso3c: BFA
+    shapeID: 67063806B86156352342594
+  SissiliAdm2BFA:
+    admin_name: Sissili
+    iso3c: BFA
+    shapeID: 67063806B75900195473972
+  SoumAdm2BFA:
+    admin_name: Soum
+    iso3c: BFA
+    shapeID: 67063806B70466570504467
+  SourouAdm2BFA:
+    admin_name: Sourou
+    iso3c: BFA
+    shapeID: 67063806B20155029653315
+  Sud-OuestAdm1BFA:
+    admin_name: Sud-Ouest
+    iso3c: BFA
+    shapeID: 92566538B26761698110708
+  TapoaAdm2BFA:
+    admin_name: Tapoa
+    iso3c: BFA
+    shapeID: 67063806B60723724569169
+  TuyAdm2BFA:
+    admin_name: Tuy
+    iso3c: BFA
+    shapeID: 67063806B52798800731394
+  YaghaAdm2BFA:
+    admin_name: Yagha
+    iso3c: BFA
+    shapeID: 67063806B32901667163906
+  YatengaAdm2BFA:
+    admin_name: Yatenga
+    iso3c: BFA
+    shapeID: 67063806B65280418727437
+  ZiroAdm2BFA:
+    admin_name: Ziro
+    iso3c: BFA
+    shapeID: 67063806B63771125198412
+  ZondomaAdm2BFA:
+    admin_name: Zondoma
+    iso3c: BFA
+    shapeID: 67063806B77925181323544
+  ZoundweogoAdm2BFA:
+    admin_name: Zoundweogo
+    iso3c: BFA
+    shapeID: 67063806B75605811528327

@@ -1,26 +1,885 @@
 concepts:
-    - PhnomPenh
-    - PreyVeng
-    - KampongSpeu
-    - KampongThom
-    - SvayRieng
-    - KohKong
-    - Kep
-    - Kampot
-    - SiemReap
-    - OddarMeanchey
-    - KampongCham
-    - Mondulkiri
-    - Kratie
-    - Takeo
-    - Kandal
-    - Pursat
-    - RatanakiriProvince
-    - KampongChhnang
-    - Pailin
-    - StungTreng
-    - PreahVihear
-    - BanteyMeanchey
-    - Battambang
-    - PreahSihanouk
-    - TbongKhmum
+  AekPhnumAdm2KHM:
+    admin_name: AekPhnum
+    iso3c: KHM
+    shapeID: 14789045B18738075075755
+  AndoungMeasAdm2KHM:
+    admin_name: AndoungMeas
+    iso3c: KHM
+    shapeID: 14789045B1558360713921
+  AngkorBoreiAdm2KHM:
+    admin_name: AngkorBorei
+    iso3c: KHM
+    shapeID: 14789045B52246577333094
+  AngkorCheyAdm2KHM:
+    admin_name: AngkorChey
+    iso3c: KHM
+    shapeID: 14789045B76666331169485
+  AngkorChumAdm2KHM:
+    admin_name: AngkorChum
+    iso3c: KHM
+    shapeID: 14789045B56044752523155
+  AngkorThumAdm2KHM:
+    admin_name: AngkorThum
+    iso3c: KHM
+    shapeID: 14789045B45657319092410
+  AngkSnuolAdm2KHM:
+    admin_name: AngkSnuol
+    iso3c: KHM
+    shapeID: 14789045B83714084538428
+  AnlongVeaengAdm2KHM:
+    admin_name: AnlongVeaeng
+    iso3c: KHM
+    shapeID: 14789045B31734581894199
+  AoralAdm2KHM:
+    admin_name: Aoral
+    iso3c: KHM
+    shapeID: 14789045B24826472833777
+  BakanAdm2KHM:
+    admin_name: Bakan
+    iso3c: KHM
+    shapeID: 14789045B65386681247425
+  BananAdm2KHM:
+    admin_name: Banan
+    iso3c: KHM
+    shapeID: 14789045B38082760726943
+  BanLungAdm2KHM:
+    admin_name: BanLung
+    iso3c: KHM
+    shapeID: 14789045B59370140697229
+  BanteayAmpilAdm2KHM:
+    admin_name: BanteayAmpil
+    iso3c: KHM
+    shapeID: 14789045B51919019110008
+  BanteayMeasAdm2KHM:
+    admin_name: BanteayMeas
+    iso3c: KHM
+    shapeID: 14789045B96186957930453
+  BanteaySreiAdm2KHM:
+    admin_name: BanteaySrei
+    iso3c: KHM
+    shapeID: 14789045B44101089408344
+  BanteyMeancheyAdm1KHM:
+    admin_name: BanteyMeanchey
+    iso3c: KHM
+    shapeID: 37992800B60639331187871
+  BaPhnumAdm2KHM:
+    admin_name: BaPhnum
+    iso3c: KHM
+    shapeID: 14789045B90581067324200
+  BarayAdm2KHM:
+    admin_name: Baray
+    iso3c: KHM
+    shapeID: 14789045B44673491264626
+  BaribourAdm2KHM:
+    admin_name: Baribour
+    iso3c: KHM
+    shapeID: 14789045B88819802206613
+  BarKaevAdm2KHM:
+    admin_name: BarKaev
+    iso3c: KHM
+    shapeID: 14789045B1081275636897
+  BasedthAdm2KHM:
+    admin_name: Basedth
+    iso3c: KHM
+    shapeID: 14789045B19080448821327
+  BatheayAdm2KHM:
+    admin_name: Batheay
+    iso3c: KHM
+    shapeID: 14789045B52363017269131
+  BatiAdm2KHM:
+    admin_name: Bati
+    iso3c: KHM
+    shapeID: 14789045B57652846304947
+  BattambangAdm1KHM:
+    admin_name: Battambang
+    iso3c: KHM
+    shapeID: 37992800B82526494497621
+  BattambangAdm2KHM:
+    admin_name: Battambang
+    iso3c: KHM
+    shapeID: 14789045B54080121728178
+  BavelAdm2KHM:
+    admin_name: Bavel
+    iso3c: KHM
+    shapeID: 14789045B6741933347766
+  BavetAdm2KHM:
+    admin_name: Bavet
+    iso3c: KHM
+    shapeID: 14789045B60097519425510
+  BoreiCholsarAdm2KHM:
+    admin_name: BoreiCholsar
+    iso3c: KHM
+    shapeID: 14789045B63484458501082
+  BotumSakorAdm2KHM:
+    admin_name: BotumSakor
+    iso3c: KHM
+    shapeID: 14789045B91136996845349
+  ChamkarLeuAdm2KHM:
+    admin_name: ChamkarLeu
+    iso3c: KHM
+    shapeID: 14789045B22200339041976
+  ChamkarMonAdm2KHM:
+    admin_name: ChamkarMon
+    iso3c: KHM
+    shapeID: 14789045B33698683582262
+  ChantreaAdm2KHM:
+    admin_name: Chantrea
+    iso3c: KHM
+    shapeID: 14789045B26681024602209
+  ChbarAmpovAdm2KHM:
+    admin_name: ChbarAmpov
+    iso3c: KHM
+    shapeID: 14789045B58474594002009
+  ChbarMonAdm2KHM:
+    admin_name: ChbarMon
+    iso3c: KHM
+    shapeID: 14789045B86938515353279
+  ChetrBoreiAdm2KHM:
+    admin_name: ChetrBorei
+    iso3c: KHM
+    shapeID: 14789045B88905029320909
+  CheungPreyAdm2KHM:
+    admin_name: CheungPrey
+    iso3c: KHM
+    shapeID: 14789045B53354113316917
+  CheySaenAdm2KHM:
+    admin_name: CheySaen
+    iso3c: KHM
+    shapeID: 14789045B76871664968100
+  ChhaebAdm2KHM:
+    admin_name: Chhaeb
+    iso3c: KHM
+    shapeID: 14789045B96642670477146
+  ChhloungAdm2KHM:
+    admin_name: Chhloung
+    iso3c: KHM
+    shapeID: 14789045B96545795392219
+  ChhukAdm2KHM:
+    admin_name: Chhuk
+    iso3c: KHM
+    shapeID: 14789045B28419059899901
+  ChiKraengAdm2KHM:
+    admin_name: ChiKraeng
+    iso3c: KHM
+    shapeID: 14789045B44896386917879
+  ChoamKsantAdm2KHM:
+    admin_name: ChoamKsant
+    iso3c: KHM
+    shapeID: 14789045B63447960105110
+  CholKiriAdm2KHM:
+    admin_name: CholKiri
+    iso3c: KHM
+    shapeID: 14789045B95522882738357
+  ChongKalAdm2KHM:
+    admin_name: ChongKal
+    iso3c: KHM
+    shapeID: 14789045B71050789066686
+  ChraoyChongvarAdm2KHM:
+    admin_name: ChraoyChongvar
+    iso3c: KHM
+    shapeID: 14789045B54201472344592
+  ChumKiriAdm2KHM:
+    admin_name: ChumKiri
+    iso3c: KHM
+    shapeID: 14789045B68575836208797
+  DambaeAdm2KHM:
+    admin_name: Dambae
+    iso3c: KHM
+    shapeID: 14789045B62933038539463
+  DamnakChang'aeurAdm2KHM:
+    admin_name: DamnakChang'aeur
+    iso3c: KHM
+    shapeID: 14789045B40625138600094
+  DangkaoAdm2KHM:
+    admin_name: Dangkao
+    iso3c: KHM
+    shapeID: 14789045B25120607736063
+  DangTongAdm2KHM:
+    admin_name: DangTong
+    iso3c: KHM
+    shapeID: 14789045B85539457385801
+  DounKaevAdm2KHM:
+    admin_name: DounKaev
+    iso3c: KHM
+    shapeID: 14789045B36227834850403
+  DounPenhAdm2KHM:
+    admin_name: DounPenh
+    iso3c: KHM
+    shapeID: 14789045B63307875451806
+  KaebAdm2KHM:
+    admin_name: Kaeb
+    iso3c: KHM
+    shapeID: 14789045B37370397224280
+  KaevSeimaAdm2KHM:
+    admin_name: KaevSeima
+    iso3c: KHM
+    shapeID: 14789045B63599255468551
+  KamchayMearAdm2KHM:
+    admin_name: KamchayMear
+    iso3c: KHM
+    shapeID: 14789045B61124482761817
+  KampongChamAdm1KHM:
+    admin_name: KampongCham
+    iso3c: KHM
+    shapeID: 37992800B62393256715912
+  KampongChamAdm2KHM:
+    admin_name: KampongCham
+    iso3c: KHM
+    shapeID: 14789045B1741124947579
+  KampongChhnangAdm1KHM:
+    admin_name: KampongChhnang
+    iso3c: KHM
+    shapeID: 37992800B66153290508063
+  KampongChhnangAdm2KHM:
+    admin_name: KampongChhnang
+    iso3c: KHM
+    shapeID: 14789045B67282211739519
+  KampongLeaengAdm2KHM:
+    admin_name: KampongLeaeng
+    iso3c: KHM
+    shapeID: 14789045B82078343775741
+  KampongRouAdm2KHM:
+    admin_name: KampongRou
+    iso3c: KHM
+    shapeID: 14789045B79980971591511
+  KampongSeilaAdm2KHM:
+    admin_name: KampongSeila
+    iso3c: KHM
+    shapeID: 14789045B74772931755748
+  KampongSiemAdm2KHM:
+    admin_name: KampongSiem
+    iso3c: KHM
+    shapeID: 14789045B55326274387171
+  KampongSpeuAdm1KHM:
+    admin_name: KampongSpeu
+    iso3c: KHM
+    shapeID: 37992800B46036584412355
+  KampongSvayAdm2KHM:
+    admin_name: KampongSvay
+    iso3c: KHM
+    shapeID: 14789045B4566000056462
+  KampongThomAdm1KHM:
+    admin_name: KampongThom
+    iso3c: KHM
+    shapeID: 37992800B59838984331544
+  KampongTrabaekAdm2KHM:
+    admin_name: KampongTrabaek
+    iso3c: KHM
+    shapeID: 14789045B10100754303768
+  KampongTrachAdm2KHM:
+    admin_name: KampongTrach
+    iso3c: KHM
+    shapeID: 14789045B82018402727436
+  KampongTralachAdm2KHM:
+    admin_name: KampongTralach
+    iso3c: KHM
+    shapeID: 14789045B48550542527991
+  KampotAdm1KHM:
+    admin_name: Kampot
+    iso3c: KHM
+    shapeID: 37992800B68844415613683
+  KampotAdm2KHM:
+    admin_name: Kampot
+    iso3c: KHM
+    shapeID: 14789045B30101496421605
+  KamriengAdm2KHM:
+    admin_name: Kamrieng
+    iso3c: KHM
+    shapeID: 14789045B46526313837061
+  KandalAdm1KHM:
+    admin_name: Kandal
+    iso3c: KHM
+    shapeID: 37992800B57023840568534
+  KandalStuengAdm2KHM:
+    admin_name: KandalStueng
+    iso3c: KHM
+    shapeID: 14789045B57201426085250
+  KandiengAdm2KHM:
+    admin_name: Kandieng
+    iso3c: KHM
+    shapeID: 14789045B76302811248791
+  KangMeasAdm2KHM:
+    admin_name: KangMeas
+    iso3c: KHM
+    shapeID: 14789045B63152664596772
+  KanhchriechAdm2KHM:
+    admin_name: Kanhchriech
+    iso3c: KHM
+    shapeID: 14789045B7646940366874
+  KaohAndaetAdm2KHM:
+    admin_name: KaohAndaet
+    iso3c: KHM
+    shapeID: 14789045B5776655612798
+  KaohKongAdm2KHM:
+    admin_name: KaohKong
+    iso3c: KHM
+    shapeID: 14789045B37744308574617
+  KaohNheaekAdm2KHM:
+    admin_name: KaohNheaek
+    iso3c: KHM
+    shapeID: 14789045B36010441751176
+  KaohSoutinAdm2KHM:
+    admin_name: KaohSoutin
+    iso3c: KHM
+    shapeID: 14789045B43431030516804
+  KaohThumAdm2KHM:
+    admin_name: KaohThum
+    iso3c: KHM
+    shapeID: 14789045B38672734120910
+  KepAdm1KHM:
+    admin_name: Kep
+    iso3c: KHM
+    shapeID: 37992800B18832544789315
+  KhemaraPhouminAdm2KHM:
+    admin_name: KhemaraPhoumin
+    iso3c: KHM
+    shapeID: 14789045B84923983917004
+  KhsachKandalAdm2KHM:
+    admin_name: KhsachKandal
+    iso3c: KHM
+    shapeID: 14789045B32248598745823
+  KienSvayAdm2KHM:
+    admin_name: KienSvay
+    iso3c: KHM
+    shapeID: 14789045B56719191672618
+  KiriSakorAdm2KHM:
+    admin_name: KiriSakor
+    iso3c: KHM
+    shapeID: 14789045B21288093424690
+  KiriVongAdm2KHM:
+    admin_name: KiriVong
+    iso3c: KHM
+    shapeID: 14789045B7964460179399
+  KoasKralaAdm2KHM:
+    admin_name: KoasKrala
+    iso3c: KHM
+    shapeID: 14789045B77023093134849
+  KohKongAdm1KHM:
+    admin_name: KohKong
+    iso3c: KHM
+    shapeID: 37992800B81044157598883
+  KongPiseiAdm2KHM:
+    admin_name: KongPisei
+    iso3c: KHM
+    shapeID: 14789045B51909303537300
+  KounMomAdm2KHM:
+    admin_name: KounMom
+    iso3c: KHM
+    shapeID: 14789045B34257820589195
+  KrachehAdm2KHM:
+    admin_name: Kracheh
+    iso3c: KHM
+    shapeID: 14789045B39299844966320
+  KrakorAdm2KHM:
+    admin_name: Krakor
+    iso3c: KHM
+    shapeID: 14789045B13270514327943
+  KralanhAdm2KHM:
+    admin_name: Kralanh
+    iso3c: KHM
+    shapeID: 14789045B14092242539630
+  KratieAdm1KHM:
+    admin_name: Kratie
+    iso3c: KHM
+    shapeID: 37992800B82444097829687
+  KrouchChhmarAdm2KHM:
+    admin_name: KrouchChhmar
+    iso3c: KHM
+    shapeID: 14789045B551080395236
+  KuleaenAdm2KHM:
+    admin_name: Kuleaen
+    iso3c: KHM
+    shapeID: 14789045B31291956543174
+  LeukDaekAdm2KHM:
+    admin_name: LeukDaek
+    iso3c: KHM
+    shapeID: 14789045B16500497794809
+  LumphatAdm2KHM:
+    admin_name: Lumphat
+    iso3c: KHM
+    shapeID: 14789045B80217512950075
+  LveaAemAdm2KHM:
+    admin_name: LveaAem
+    iso3c: KHM
+    shapeID: 14789045B58645721856410
+  MalaiAdm2KHM:
+    admin_name: Malai
+    iso3c: KHM
+    shapeID: 14789045B32583136425943
+  MeanCheyAdm2KHM:
+    admin_name: MeanChey
+    iso3c: KHM
+    shapeID: 14789045B35009780503232
+  MemotAdm2KHM:
+    admin_name: Memot
+    iso3c: KHM
+    shapeID: 14789045B36806562781005
+  MeSangAdm2KHM:
+    admin_name: MeSang
+    iso3c: KHM
+    shapeID: 14789045B72609055314510
+  MondolSeimaAdm2KHM:
+    admin_name: MondolSeima
+    iso3c: KHM
+    shapeID: 14789045B23229264663112
+  MondulkiriAdm1KHM:
+    admin_name: Mondulkiri
+    iso3c: KHM
+    shapeID: 37992800B84760754839946
+  MongkolBoreiAdm2KHM:
+    admin_name: MongkolBorei
+    iso3c: KHM
+    shapeID: 14789045B79139506572883
+  MoungRuesseiAdm2KHM:
+    admin_name: MoungRuessei
+    iso3c: KHM
+    shapeID: 14789045B86476324450115
+  MukhKampulAdm2KHM:
+    admin_name: MukhKampul
+    iso3c: KHM
+    shapeID: 14789045B82229492070205
+  OddarMeancheyAdm1KHM:
+    admin_name: OddarMeanchey
+    iso3c: KHM
+    shapeID: 37992800B73119019658513
+  OdongkAdm2KHM:
+    admin_name: Odongk
+    iso3c: KHM
+    shapeID: 14789045B64989528784016
+  OuChrovAdm2KHM:
+    admin_name: OuChrov
+    iso3c: KHM
+    shapeID: 14789045B98105174754814
+  OuChumAdm2KHM:
+    admin_name: OuChum
+    iso3c: KHM
+    shapeID: 14789045B56033797709996
+  OuReangAdm2KHM:
+    admin_name: OuReang
+    iso3c: KHM
+    shapeID: 14789045B75407950785126
+  OuReangOvAdm2KHM:
+    admin_name: OuReangOv
+    iso3c: KHM
+    shapeID: 14789045B44533012408415
+  OuYaDavAdm2KHM:
+    admin_name: OuYaDav
+    iso3c: KHM
+    shapeID: 14789045B92198168751109
+  PailinAdm1KHM:
+    admin_name: Pailin
+    iso3c: KHM
+    shapeID: 37992800B9891185734672
+  PailinAdm2KHM:
+    admin_name: Pailin
+    iso3c: KHM
+    shapeID: 14789045B44552774517246
+  PaoyPaetAdm2KHM:
+    admin_name: PaoyPaet
+    iso3c: KHM
+    shapeID: 14789045B48513904069909
+  PeamChorAdm2KHM:
+    admin_name: PeamChor
+    iso3c: KHM
+    shapeID: 14789045B80161198747042
+  PeamRoAdm2KHM:
+    admin_name: PeamRo
+    iso3c: KHM
+    shapeID: 14789045B10752799877994
+  PeaReangAdm2KHM:
+    admin_name: PeaReang
+    iso3c: KHM
+    shapeID: 14789045B14089291645285
+  PechChreadaAdm2KHM:
+    admin_name: PechChreada
+    iso3c: KHM
+    shapeID: 14789045B57856207537526
+  PhnomPenhAdm1KHM:
+    admin_name: PhnomPenh
+    iso3c: KHM
+    shapeID: 37992800B83627159640807
+  PhnumKravanhAdm2KHM:
+    admin_name: PhnumKravanh
+    iso3c: KHM
+    shapeID: 14789045B35445184191564
+  PhnumProekAdm2KHM:
+    admin_name: PhnumProek
+    iso3c: KHM
+    shapeID: 14789045B85132506712609
+  PhnumSrokAdm2KHM:
+    admin_name: PhnumSrok
+    iso3c: KHM
+    shapeID: 14789045B65441880035509
+  PhnumSruochAdm2KHM:
+    admin_name: PhnumSruoch
+    iso3c: KHM
+    shapeID: 14789045B53817088331996
+  PonheaKraekAdm2KHM:
+    admin_name: PonheaKraek
+    iso3c: KHM
+    shapeID: 14789045B85253678396589
+  PonheaLueuAdm2KHM:
+    admin_name: PonheaLueu
+    iso3c: KHM
+    shapeID: 14789045B73499055416904
+  PraekPnovAdm2KHM:
+    admin_name: PraekPnov
+    iso3c: KHM
+    shapeID: 14789045B33152667021058
+  PrampirMeakkakraAdm2KHM:
+    admin_name: PrampirMeakkakra
+    iso3c: KHM
+    shapeID: 14789045B12201712082665
+  PrasatBakongAdm2KHM:
+    admin_name: PrasatBakong
+    iso3c: KHM
+    shapeID: 14789045B83000183450022
+  PrasatBallangkAdm2KHM:
+    admin_name: PrasatBallangk
+    iso3c: KHM
+    shapeID: 14789045B6687253744380
+  PrasatSambourAdm2KHM:
+    admin_name: PrasatSambour
+    iso3c: KHM
+    shapeID: 14789045B86193170261556
+  PreahNetrPreahAdm2KHM:
+    admin_name: PreahNetrPreah
+    iso3c: KHM
+    shapeID: 14789045B34870424787449
+  PreahSdachAdm2KHM:
+    admin_name: PreahSdach
+    iso3c: KHM
+    shapeID: 14789045B92288300467982
+  PreahSihanoukAdm1KHM:
+    admin_name: PreahSihanouk
+    iso3c: KHM
+    shapeID: 37992800B48601233133149
+  PreahSihanoukAdm2KHM:
+    admin_name: PreahSihanouk
+    iso3c: KHM
+    shapeID: 14789045B14640150427480
+  PreahVihearAdm1KHM:
+    admin_name: PreahVihear
+    iso3c: KHM
+    shapeID: 37992800B94509217911919
+  PreahVihearAdm2KHM:
+    admin_name: PreahVihear
+    iso3c: KHM
+    shapeID: 14789045B58116618058730
+  PrekPrasabAdm2KHM:
+    admin_name: PrekPrasab
+    iso3c: KHM
+    shapeID: 14789045B57642852254246
+  PreyChhorAdm2KHM:
+    admin_name: PreyChhor
+    iso3c: KHM
+    shapeID: 14789045B91228863328058
+  PreyKabbasAdm2KHM:
+    admin_name: PreyKabbas
+    iso3c: KHM
+    shapeID: 14789045B29637734688493
+  PreyNobAdm2KHM:
+    admin_name: PreyNob
+    iso3c: KHM
+    shapeID: 14789045B88399484092706
+  PreyVengAdm1KHM:
+    admin_name: PreyVeng
+    iso3c: KHM
+    shapeID: 37992800B42158555562772
+  PreyVengAdm2KHM:
+    admin_name: PreyVeng
+    iso3c: KHM
+    shapeID: 14789045B86524925966817
+  PuokAdm2KHM:
+    admin_name: Puok
+    iso3c: KHM
+    shapeID: 14789045B68660120235745
+  PurRiengAdm2KHM:
+    admin_name: PurRieng
+    iso3c: KHM
+    shapeID: 14789045B26766216675918
+  PursatAdm1KHM:
+    admin_name: Pursat
+    iso3c: KHM
+    shapeID: 37992800B18682012537966
+  PursatAdm2KHM:
+    admin_name: Pursat
+    iso3c: KHM
+    shapeID: 14789045B81185563432345
+  PurSenCheyAdm2KHM:
+    admin_name: PurSenChey
+    iso3c: KHM
+    shapeID: 14789045B97702071431855
+  RatanakiriProvinceAdm1KHM:
+    admin_name: RatanakiriProvince
+    iso3c: KHM
+    shapeID: 37992800B4485162085463
+  RoleaB'ierAdm2KHM:
+    admin_name: RoleaB'ier
+    iso3c: KHM
+    shapeID: 14789045B85845272815349
+  RomeasHaekAdm2KHM:
+    admin_name: RomeasHaek
+    iso3c: KHM
+    shapeID: 14789045B82732978056422
+  RotonakMondolAdm2KHM:
+    admin_name: RotonakMondol
+    iso3c: KHM
+    shapeID: 14789045B15195219920111
+  RoviengAdm2KHM:
+    admin_name: Rovieng
+    iso3c: KHM
+    shapeID: 14789045B51869022105306
+  RukhKiriAdm2KHM:
+    admin_name: RukhKiri
+    iso3c: KHM
+    shapeID: 14789045B86646715992197
+  RumduolAdm2KHM:
+    admin_name: Rumduol
+    iso3c: KHM
+    shapeID: 14789045B51142255514393
+  RusseyKeoAdm2KHM:
+    admin_name: RusseyKeo
+    iso3c: KHM
+    shapeID: 14789045B60405895501285
+  S'angAdm2KHM:
+    admin_name: S'ang
+    iso3c: KHM
+    shapeID: 14789045B53905428212695
+  SaenMonouromAdm2KHM:
+    admin_name: SaenMonourom
+    iso3c: KHM
+    shapeID: 14789045B8861726414707
+  SaensokhAdm2KHM:
+    admin_name: Saensokh
+    iso3c: KHM
+    shapeID: 14789045B60283384180487
+  SalaKrauAdm2KHM:
+    admin_name: SalaKrau
+    iso3c: KHM
+    shapeID: 14789045B37468243401885
+  SambourAdm2KHM:
+    admin_name: Sambour
+    iso3c: KHM
+    shapeID: 14789045B56748216757277
+  SameakkiMeanCheyAdm2KHM:
+    admin_name: SameakkiMeanChey
+    iso3c: KHM
+    shapeID: 14789045B48917657678011
+  SamloutAdm2KHM:
+    admin_name: Samlout
+    iso3c: KHM
+    shapeID: 14789045B92123585900172
+  SampovLunAdm2KHM:
+    admin_name: SampovLun
+    iso3c: KHM
+    shapeID: 14789045B67419263387290
+  SamraongAdm2KHM:
+    admin_name: Samraong
+    iso3c: KHM
+    shapeID: 14789045B98729141665077
+  SamraongTongAdm2KHM:
+    admin_name: SamraongTong
+    iso3c: KHM
+    shapeID: 14789045B32587408754767
+  SandanAdm2KHM:
+    admin_name: Sandan
+    iso3c: KHM
+    shapeID: 14789045B38871502259240
+  SangkaeAdm2KHM:
+    admin_name: Sangkae
+    iso3c: KHM
+    shapeID: 14789045B70272828773622
+  SangkumThmeiAdm2KHM:
+    admin_name: SangkumThmei
+    iso3c: KHM
+    shapeID: 14789045B6075848816012
+  SantukAdm2KHM:
+    admin_name: Santuk
+    iso3c: KHM
+    shapeID: 14789045B50738302536957
+  SereiSaophoanAdm2KHM:
+    admin_name: SereiSaophoan
+    iso3c: KHM
+    shapeID: 14789045B91793328513154
+  SesanAdm2KHM:
+    admin_name: Sesan
+    iso3c: KHM
+    shapeID: 14789045B73389269548404
+  SiemBoukAdm2KHM:
+    admin_name: SiemBouk
+    iso3c: KHM
+    shapeID: 14789045B16861695729461
+  SiemPangAdm2KHM:
+    admin_name: SiemPang
+    iso3c: KHM
+    shapeID: 14789045B29647510840066
+  SiemReapAdm1KHM:
+    admin_name: SiemReap
+    iso3c: KHM
+    shapeID: 37992800B4812755629120
+  SiemReapAdm2KHM:
+    admin_name: SiemReap
+    iso3c: KHM
+    shapeID: 14789045B16739970374251
+  SithorKandalAdm2KHM:
+    admin_name: SithorKandal
+    iso3c: KHM
+    shapeID: 14789045B29604176056880
+  SnuolAdm2KHM:
+    admin_name: Snuol
+    iso3c: KHM
+    shapeID: 14789045B73173825322549
+  SoutrNikomAdm2KHM:
+    admin_name: SoutrNikom
+    iso3c: KHM
+    shapeID: 14789045B2635302859589
+  SraeAmbelAdm2KHM:
+    admin_name: SraeAmbel
+    iso3c: KHM
+    shapeID: 14789045B17636878370616
+  SreiSanthorAdm2KHM:
+    admin_name: SreiSanthor
+    iso3c: KHM
+    shapeID: 14789045B31299536957784
+  SreiSnamAdm2KHM:
+    admin_name: SreiSnam
+    iso3c: KHM
+    shapeID: 14789045B20836207890742
+  StoungAdm2KHM:
+    admin_name: Stoung
+    iso3c: KHM
+    shapeID: 14789045B61102121423301
+  StuengHavAdm2KHM:
+    admin_name: StuengHav
+    iso3c: KHM
+    shapeID: 14789045B13599773349639
+  StuengSaenAdm2KHM:
+    admin_name: StuengSaen
+    iso3c: KHM
+    shapeID: 14789045B79526031906839
+  StuengTraengAdm2KHM:
+    admin_name: StuengTraeng
+    iso3c: KHM
+    shapeID: 14789045B25849746907404
+  StuengTrangAdm2KHM:
+    admin_name: StuengTrang
+    iso3c: KHM
+    shapeID: 14789045B55361225706218
+  StungTrengAdm1KHM:
+    admin_name: StungTreng
+    iso3c: KHM
+    shapeID: 37992800B90729700897308
+  SuongAdm2KHM:
+    admin_name: Suong
+    iso3c: KHM
+    shapeID: 14789045B38579043699955
+  SvayAntorAdm2KHM:
+    admin_name: SvayAntor
+    iso3c: KHM
+    shapeID: 14789045B38642504760800
+  SvayChekAdm2KHM:
+    admin_name: SvayChek
+    iso3c: KHM
+    shapeID: 14789045B19114929433175
+  SvayChrumAdm2KHM:
+    admin_name: SvayChrum
+    iso3c: KHM
+    shapeID: 14789045B97733863188211
+  SvayLeuAdm2KHM:
+    admin_name: SvayLeu
+    iso3c: KHM
+    shapeID: 14789045B56730119052608
+  SvayRiengAdm1KHM:
+    admin_name: SvayRieng
+    iso3c: KHM
+    shapeID: 37992800B528078583451
+  SvayRiengAdm2KHM:
+    admin_name: SvayRieng
+    iso3c: KHM
+    shapeID: 14789045B88579584003183
+  SvayTeabAdm2KHM:
+    admin_name: SvayTeab
+    iso3c: KHM
+    shapeID: 14789045B97672337588040
+  TakeoAdm1KHM:
+    admin_name: Takeo
+    iso3c: KHM
+    shapeID: 37992800B77204168518017
+  TaKhmauAdm2KHM:
+    admin_name: TaKhmau
+    iso3c: KHM
+    shapeID: 14789045B91886008467417
+  TaVeaengAdm2KHM:
+    admin_name: TaVeaeng
+    iso3c: KHM
+    shapeID: 14789045B64125639781639
+  TbaengMeanCheyAdm2KHM:
+    admin_name: TbaengMeanChey
+    iso3c: KHM
+    shapeID: 14789045B76520670537336
+  TbongKhmumAdm1KHM:
+    admin_name: TbongKhmum
+    iso3c: KHM
+    shapeID: 37992800B90014860566901
+  TboungKhmumAdm2KHM:
+    admin_name: TboungKhmum
+    iso3c: KHM
+    shapeID: 14789045B3565316338498
+  ThalaBarivatAdm2KHM:
+    admin_name: ThalaBarivat
+    iso3c: KHM
+    shapeID: 14789045B9277653142269
+  ThmaBangAdm2KHM:
+    admin_name: ThmaBang
+    iso3c: KHM
+    shapeID: 14789045B69195148792463
+  ThmaKoulAdm2KHM:
+    admin_name: ThmaKoul
+    iso3c: KHM
+    shapeID: 14789045B92416650165307
+  ThmaPuokAdm2KHM:
+    admin_name: ThmaPuok
+    iso3c: KHM
+    shapeID: 14789045B61404286718051
+  ThpongAdm2KHM:
+    admin_name: Thpong
+    iso3c: KHM
+    shapeID: 14789045B91455576318571
+  TramKakAdm2KHM:
+    admin_name: TramKak
+    iso3c: KHM
+    shapeID: 14789045B29748003627155
+  TrapeangPrasatAdm2KHM:
+    admin_name: TrapeangPrasat
+    iso3c: KHM
+    shapeID: 14789045B58524041159765
+  TreangAdm2KHM:
+    admin_name: Treang
+    iso3c: KHM
+    shapeID: 14789045B64200778269013
+  TuekChhouAdm2KHM:
+    admin_name: TuekChhou
+    iso3c: KHM
+    shapeID: 14789045B84051189014149
+  TuekPhosAdm2KHM:
+    admin_name: TuekPhos
+    iso3c: KHM
+    shapeID: 14789045B78465140350357
+  TuolKoukAdm2KHM:
+    admin_name: TuolKouk
+    iso3c: KHM
+    shapeID: 14789045B87565610199894
+  VarinAdm2KHM:
+    admin_name: Varin
+    iso3c: KHM
+    shapeID: 14789045B34127084332177
+  VealVeaengAdm2KHM:
+    admin_name: VealVeaeng
+    iso3c: KHM
+    shapeID: 14789045B9222272664434
+  VeunSaiAdm2KHM:
+    admin_name: VeunSai
+    iso3c: KHM
+    shapeID: 14789045B84584240899175

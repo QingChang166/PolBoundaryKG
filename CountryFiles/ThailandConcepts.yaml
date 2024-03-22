@@ -1,78 +1,3981 @@
 concepts:
-    - PhitsanulokProvince
-    - RanongProvince
-    - UdonThaniProvince
-    - SakonNakhonProvince
-    - ChiangRaiProvince
-    - TakProvince
-    - NakhonPathomProvince
-    - LamphunProvince
-    - TratProvince
-    - RatchaburiProvince
-    - YasothonProvince
-    - PhraeProvince
-    - YalaProvince
-    - UttaraditProvince
-    - BuriRamProvince
-    - KamphaengPhetProvince
-    - LampangProvince
-    - NonthaburiProvince
-    - BuengKanProvince
-    - RoiEtProvince
-    - PhayaoProvince
-    - NakhonSawanProvince
-    - NongBuaLamPhuProvince
-    - ChachoengsaoProvince
-    - SurinProvince
-    - NakhonRatchasimaProvince
-    - SukhothaiProvince
-    - PhetchaburiProvince
-    - ChaiyaphumProvince
-    - PhetchabunProvince
-    - SuratThaniProvince
-    - SiSaKetProvince
-    - NongKhaiProvince
-    - Bangkok
-    - KhonKaenProvince
-    - LoeiProvince
-    - SaraburiProvince
-    - UthaiThaniProvince
-    - ChumphonProvince
-    - NakhonNayokProvince
-    - MukdahanProvince
-    - LopburiProvince
-    - KrabiProvince
-    - ChonBuriProvince
-    - ChiangMaiProvince
-    - ChaiNatProvince
-    - AmnatCharoenProvince
-    - SamutSakhonProvince
-    - SamutPrakanProvince
-    - NanProvince
-    - ChanthaburiProvince
-    - NakhonPhanomProvince
-    - KanchanaburiProvince
-    - MaeHongSonProvince
-    - SaKaeoProvince
-    - SatunProvince
-    - SingBuriProvince
-    - SamutSongkhramProvince
-    - RayongProvince
-    - PrachinBuriProvince
-    - NarathiwatProvince
-    - UbonRatchathaniProvince
-    - PrachuapKhiriKhanProvince
-    - SongkhlaProvince
-    - PhuketProvince
-    - AngThongProvince
-    - MahaSarakhamProvince
-    - TrangProvince
-    - SuphanBuriProvince
-    - PhraNakhonSiAyutthayaProvince
-    - PhichitProvince
-    - PhatthalungProvince
-    - PhangngaProvince
-    - PattaniProvince
-    - PathumThaniProvince
-    - NakhonSiThammaratProvince
-    - Kalasin
+  AkatAmnuaiAdm2THA:
+    admin_name: AkatAmnuai
+    iso3c: THA
+    shapeID: 78962969B83463915016953
+  AmnatCharoenProvinceAdm1THA:
+    admin_name: AmnatCharoenProvince
+    iso3c: THA
+    shapeID: 36821470B2573550131326
+  AmphawaAdm2THA:
+    admin_name: Amphawa
+    iso3c: THA
+    shapeID: 78962969B68169586280131
+  AngThongProvinceAdm1THA:
+    admin_name: AngThongProvince
+    iso3c: THA
+    shapeID: 36821470B13392591504269
+  AoLuekAdm2THA:
+    admin_name: AoLuek
+    iso3c: THA
+    shapeID: 78962969B54777225393770
+  AranyaprathetAdm2THA:
+    admin_name: Aranyaprathet
+    iso3c: THA
+    shapeID: 78962969B18658138340114
+  AtSamatAdm2THA:
+    admin_name: AtSamat
+    iso3c: THA
+    shapeID: 78962969B71289419444255
+  BachoAdm2THA:
+    admin_name: Bacho
+    iso3c: THA
+    shapeID: 78962969B22586560209583
+  BamnetNarongAdm2THA:
+    admin_name: BamnetNarong
+    iso3c: THA
+    shapeID: 78962969B89125519314325
+  BanBuengAdm2THA:
+    admin_name: BanBueng
+    iso3c: THA
+    shapeID: 78962969B10446742029293
+  BanChangAdm2THA:
+    admin_name: BanChang
+    iso3c: THA
+    shapeID: 78962969B38445835691017
+  BanDanAdm2THA:
+    admin_name: BanDan
+    iso3c: THA
+    shapeID: 78962969B34946496747939
+  BanDanLanHoiAdm2THA:
+    admin_name: BanDanLanHoi
+    iso3c: THA
+    shapeID: 78962969B72722062907305
+  BanDungAdm2THA:
+    admin_name: BanDung
+    iso3c: THA
+    shapeID: 78962969B17101559907344
+  BanFangAdm2THA:
+    admin_name: BanFang
+    iso3c: THA
+    shapeID: 78962969B10387092558373
+  BangBanAdm2THA:
+    admin_name: BangBan
+    iso3c: THA
+    shapeID: 78962969B93937525115566
+  BangBoAdm2THA:
+    admin_name: BangBo
+    iso3c: THA
+    shapeID: 78962969B88692242384139
+  BangBonAdm2THA:
+    admin_name: BangBon
+    iso3c: THA
+    shapeID: 78962969B77948152062617
+  BangBuaThongAdm2THA:
+    admin_name: BangBuaThong
+    iso3c: THA
+    shapeID: 78962969B62915491742663
+  BangKaeoAdm2THA:
+    admin_name: BangKaeo
+    iso3c: THA
+    shapeID: 78962969B48542053253102
+  BangKapiAdm2THA:
+    admin_name: BangKapi
+    iso3c: THA
+    shapeID: 78962969B79450703987233
+  BangKhaeAdm2THA:
+    admin_name: BangKhae
+    iso3c: THA
+    shapeID: 78962969B64329347166789
+  BangKhanAdm2THA:
+    admin_name: BangKhan
+    iso3c: THA
+    shapeID: 78962969B90673540736584
+  BangKhenAdm2THA:
+    admin_name: BangKhen
+    iso3c: THA
+    shapeID: 78962969B44452950449651
+  BangKhlaAdm2THA:
+    admin_name: BangKhla
+    iso3c: THA
+    shapeID: 78962969B14238280937071
+  BangKhoLaemAdm2THA:
+    admin_name: BangKhoLaem
+    iso3c: THA
+    shapeID: 78962969B71944934513319
+  BangKhonthiAdm2THA:
+    admin_name: BangKhonthi
+    iso3c: THA
+    shapeID: 78962969B68026694261665
+  BangKhunThianAdm2THA:
+    admin_name: BangKhunThian
+    iso3c: THA
+    shapeID: 78962969B82551730136395
+  BangKlamAdm2THA:
+    admin_name: BangKlam
+    iso3c: THA
+    shapeID: 78962969B50484514346142
+  BangkokAdm1THA:
+    admin_name: Bangkok
+    iso3c: THA
+    shapeID: 36821470B28205534186964
+  BangkokNoiAdm2THA:
+    admin_name: BangkokNoi
+    iso3c: THA
+    shapeID: 78962969B69407198721734
+  BangkokYaiAdm2THA:
+    admin_name: BangkokYai
+    iso3c: THA
+    shapeID: 78962969B71650774119704
+  BangKrathumAdm2THA:
+    admin_name: BangKrathum
+    iso3c: THA
+    shapeID: 78962969B64278922015209
+  BangKruaiAdm2THA:
+    admin_name: BangKruai
+    iso3c: THA
+    shapeID: 78962969B85979697822456
+  BangLamungAdm2THA:
+    admin_name: BangLamung
+    iso3c: THA
+    shapeID: 78962969B66600196547968
+  BangLenAdm2THA:
+    admin_name: BangLen
+    iso3c: THA
+    shapeID: 78962969B43519510241877
+  BangMunNakAdm2THA:
+    admin_name: BangMunNak
+    iso3c: THA
+    shapeID: 78962969B44850282674557
+  BangNaAdm2THA:
+    admin_name: BangNa
+    iso3c: THA
+    shapeID: 78962969B90575155663708
+  BangNamPriaoAdm2THA:
+    admin_name: BangNamPriao
+    iso3c: THA
+    shapeID: 78962969B57123874810326
+  BangPa-InAdm2THA:
+    admin_name: BangPa-In
+    iso3c: THA
+    shapeID: 78962969B94424905183361
+  BangPahanAdm2THA:
+    admin_name: BangPahan
+    iso3c: THA
+    shapeID: 78962969B12192393501307
+  BangPakongAdm2THA:
+    admin_name: BangPakong
+    iso3c: THA
+    shapeID: 78962969B35774632549792
+  BangPhaeAdm2THA:
+    admin_name: BangPhae
+    iso3c: THA
+    shapeID: 78962969B38783163957938
+  BangPhlatAdm2THA:
+    admin_name: BangPhlat
+    iso3c: THA
+    shapeID: 78962969B20944383607062
+  BangPhliAdm2THA:
+    admin_name: BangPhli
+    iso3c: THA
+    shapeID: 78962969B84891399333376
+  BangPlaMaAdm2THA:
+    admin_name: BangPlaMa
+    iso3c: THA
+    shapeID: 78962969B17811208429126
+  BangRachanAdm2THA:
+    admin_name: BangRachan
+    iso3c: THA
+    shapeID: 78962969B85882398949234
+  BangRakAdm2THA:
+    admin_name: BangRak
+    iso3c: THA
+    shapeID: 78962969B21666986895715
+  BangRakamAdm2THA:
+    admin_name: BangRakam
+    iso3c: THA
+    shapeID: 78962969B65860849823906
+  BangSaiAdm2THA:
+    admin_name: BangSai
+    iso3c: THA
+    shapeID: 78962969B26505935473539
+  BangSaoThongAdm2THA:
+    admin_name: BangSaoThong
+    iso3c: THA
+    shapeID: 78962969B16455268499709
+  BangSaphanAdm2THA:
+    admin_name: BangSaphan
+    iso3c: THA
+    shapeID: 78962969B53971782347722
+  BangSaphanNoiAdm2THA:
+    admin_name: BangSaphanNoi
+    iso3c: THA
+    shapeID: 78962969B56778840281183
+  BangSueAdm2THA:
+    admin_name: BangSue
+    iso3c: THA
+    shapeID: 78962969B39307621639221
+  BangYaiAdm2THA:
+    admin_name: BangYai
+    iso3c: THA
+    shapeID: 78962969B13602434515216
+  BanHaetAdm2THA:
+    admin_name: BanHaet
+    iso3c: THA
+    shapeID: 78962969B76194280377642
+  BanHongAdm2THA:
+    admin_name: BanHong
+    iso3c: THA
+    shapeID: 78962969B26085596744311
+  BanKhaAdm2THA:
+    admin_name: BanKha
+    iso3c: THA
+    shapeID: 78962969B84740319728586
+  BanKhaiAdm2THA:
+    admin_name: BanKhai
+    iso3c: THA
+    shapeID: 78962969B77323566799689
+  BanKhokAdm2THA:
+    admin_name: BanKhok
+    iso3c: THA
+    shapeID: 78962969B52849562974755
+  BanKhwaoAdm2THA:
+    admin_name: BanKhwao
+    iso3c: THA
+    shapeID: 78962969B12995220204726
+  BanKruatAdm2THA:
+    admin_name: BanKruat
+    iso3c: THA
+    shapeID: 78962969B45886211066420
+  BanLaemAdm2THA:
+    admin_name: BanLaem
+    iso3c: THA
+    shapeID: 78962969B10571681273524
+  BanLatAdm2THA:
+    admin_name: BanLat
+    iso3c: THA
+    shapeID: 78962969B76401698966785
+  BanLuangAdm2THA:
+    admin_name: BanLuang
+    iso3c: THA
+    shapeID: 78962969B2609342993216
+  BanLueamAdm2THA:
+    admin_name: BanLueam
+    iso3c: THA
+    shapeID: 78962969B51286671896071
+  BanMaiChaiyaphotAdm2THA:
+    admin_name: BanMaiChaiyaphot
+    iso3c: THA
+    shapeID: 78962969B40296665264995
+  BanMiAdm2THA:
+    admin_name: BanMi
+    iso3c: THA
+    shapeID: 78962969B12311956961781
+  BanMoAdm2THA:
+    admin_name: BanMo
+    iso3c: THA
+    shapeID: 78962969B66109940408415
+  BanMuangAdm2THA:
+    admin_name: BanMuang
+    iso3c: THA
+    shapeID: 78962969B64071020381099
+  BanNaAdm2THA:
+    admin_name: BanNa
+    iso3c: THA
+    shapeID: 78962969B12368211729718
+  BanNaDoemAdm2THA:
+    admin_name: BanNaDoem
+    iso3c: THA
+    shapeID: 78962969B23472682189323
+  BannangSataAdm2THA:
+    admin_name: BannangSata
+    iso3c: THA
+    shapeID: 78962969B58904714104170
+  BanNaSanAdm2THA:
+    admin_name: BanNaSan
+    iso3c: THA
+    shapeID: 78962969B68387758575746
+  BanPhaengAdm2THA:
+    admin_name: BanPhaeng
+    iso3c: THA
+    shapeID: 78962969B32872774308874
+  BanPhaeoAdm2THA:
+    admin_name: BanPhaeo
+    iso3c: THA
+    shapeID: 78962969B41699219692517
+  BanPhaiAdm2THA:
+    admin_name: BanPhai
+    iso3c: THA
+    shapeID: 78962969B94804173540962
+  BanPhoAdm2THA:
+    admin_name: BanPho
+    iso3c: THA
+    shapeID: 78962969B2229675386212
+  BanphotPhisaiAdm2THA:
+    admin_name: BanphotPhisai
+    iso3c: THA
+    shapeID: 78962969B36758461093431
+  BanPhraekAdm2THA:
+    admin_name: BanPhraek
+    iso3c: THA
+    shapeID: 78962969B33149444798126
+  BanPhueAdm2THA:
+    admin_name: BanPhue
+    iso3c: THA
+    shapeID: 78962969B51412577639732
+  BanPongAdm2THA:
+    admin_name: BanPong
+    iso3c: THA
+    shapeID: 78962969B74786164204095
+  BanRaiAdm2THA:
+    admin_name: BanRai
+    iso3c: THA
+    shapeID: 78962969B36547770218976
+  BanSangAdm2THA:
+    admin_name: BanSang
+    iso3c: THA
+    shapeID: 78962969B49210978895600
+  BanTakAdm2THA:
+    admin_name: BanTak
+    iso3c: THA
+    shapeID: 78962969B53904723449117
+  BanTaKhunAdm2THA:
+    admin_name: BanTaKhun
+    iso3c: THA
+    shapeID: 78962969B58743174421215
+  BanThaenAdm2THA:
+    admin_name: BanThaen
+    iso3c: THA
+    shapeID: 78962969B48831916769837
+  BanThiAdm2THA:
+    admin_name: BanThi
+    iso3c: THA
+    shapeID: 78962969B75208473855809
+  BenchalakAdm2THA:
+    admin_name: Benchalak
+    iso3c: THA
+    shapeID: 78962969B60458593570570
+  BetongAdm2THA:
+    admin_name: Betong
+    iso3c: THA
+    shapeID: 78962969B29440700427684
+  BoKlueaAdm2THA:
+    admin_name: BoKluea
+    iso3c: THA
+    shapeID: 78962969B52276482887751
+  BoPhloiAdm2THA:
+    admin_name: BoPhloi
+    iso3c: THA
+    shapeID: 78962969B59995610664778
+  BorabueAdm2THA:
+    admin_name: Borabue
+    iso3c: THA
+    shapeID: 78962969B23742076953899
+  BoRaiAdm2THA:
+    admin_name: BoRai
+    iso3c: THA
+    shapeID: 78962969B7506973022897
+  BoThongAdm2THA:
+    admin_name: BoThong
+    iso3c: THA
+    shapeID: 78962969B86980308454796
+  BuachetAdm2THA:
+    admin_name: Buachet
+    iso3c: THA
+    shapeID: 78962969B96676572304128
+  BuaLaiAdm2THA:
+    admin_name: BuaLai
+    iso3c: THA
+    shapeID: 78962969B37861648754674
+  BuaYaiAdm2THA:
+    admin_name: BuaYai
+    iso3c: THA
+    shapeID: 78962969B3783479012099
+  BuengBunAdm2THA:
+    admin_name: BuengBun
+    iso3c: THA
+    shapeID: 78962969B82208254096141
+  BuengKanProvinceAdm1THA:
+    admin_name: BuengKanProvince
+    iso3c: THA
+    shapeID: 36821470B57809552794573
+  BuengKhongLongAdm2THA:
+    admin_name: BuengKhongLong
+    iso3c: THA
+    shapeID: 78962969B81717267751176
+  BuengKumAdm2THA:
+    admin_name: BuengKum
+    iso3c: THA
+    shapeID: 78962969B8359958585386
+  BuengNaRangAdm2THA:
+    admin_name: BuengNaRang
+    iso3c: THA
+    shapeID: 78962969B60737271692218
+  BuengSamakkhiAdm2THA:
+    admin_name: BuengSamakkhi
+    iso3c: THA
+    shapeID: 78962969B88959964927567
+  BuengSamPhanAdm2THA:
+    admin_name: BuengSamPhan
+    iso3c: THA
+    shapeID: 78962969B41287674230376
+  BungKhlaAdm2THA:
+    admin_name: BungKhla
+    iso3c: THA
+    shapeID: 78962969B45700319590301
+  BuntharikAdm2THA:
+    admin_name: Buntharik
+    iso3c: THA
+    shapeID: 78962969B96035855988054
+  BuriRamProvinceAdm1THA:
+    admin_name: BuriRamProvince
+    iso3c: THA
+    shapeID: 36821470B4901960309299
+  Cha-AmAdm2THA:
+    admin_name: Cha-Am
+    iso3c: THA
+    shapeID: 78962969B57649176029209
+  Cha-UatAdm2THA:
+    admin_name: Cha-Uat
+    iso3c: THA
+    shapeID: 78962969B24594080556588
+  ChachoengsaoProvinceAdm1THA:
+    admin_name: ChachoengsaoProvince
+    iso3c: THA
+    shapeID: 36821470B91271468807469
+  ChaeHomAdm2THA:
+    admin_name: ChaeHom
+    iso3c: THA
+    shapeID: 78962969B2527199912665
+  ChaiBadanAdm2THA:
+    admin_name: ChaiBadan
+    iso3c: THA
+    shapeID: 78962969B13001003054051
+  ChaiBuriAdm2THA:
+    admin_name: ChaiBuri
+    iso3c: THA
+    shapeID: 78962969B57683949209589
+  ChaiNatProvinceAdm1THA:
+    admin_name: ChaiNatProvince
+    iso3c: THA
+    shapeID: 36821470B25586803673597
+  ChaiPrakanAdm2THA:
+    admin_name: ChaiPrakan
+    iso3c: THA
+    shapeID: 78962969B89522640668309
+  ChaiWanAdm2THA:
+    admin_name: ChaiWan
+    iso3c: THA
+    shapeID: 78962969B11605835659379
+  ChaiyaAdm2THA:
+    admin_name: Chaiya
+    iso3c: THA
+    shapeID: 78962969B84478768396054
+  ChaiyaphumProvinceAdm1THA:
+    admin_name: ChaiyaphumProvince
+    iso3c: THA
+    shapeID: 36821470B61102131347890
+  ChaiyoAdm2THA:
+    admin_name: Chaiyo
+    iso3c: THA
+    shapeID: 78962969B91278990376837
+  ChakkaratAdm2THA:
+    admin_name: Chakkarat
+    iso3c: THA
+    shapeID: 78962969B888378696775
+  ChaloemPhraKiatAdm2THA:
+    admin_name: ChaloemPhraKiat
+    iso3c: THA
+    shapeID: 78962969B71448871190318
+  ChamniAdm2THA:
+    admin_name: Chamni
+    iso3c: THA
+    shapeID: 78962969B38996553014175
+  ChanaAdm2THA:
+    admin_name: Chana
+    iso3c: THA
+    shapeID: 78962969B24308804777552
+  ChanaeAdm2THA:
+    admin_name: Chanae
+    iso3c: THA
+    shapeID: 78962969B14228474631985
+  ChanghanAdm2THA:
+    admin_name: Changhan
+    iso3c: THA
+    shapeID: 78962969B4502955936571
+  ChangKlangAdm2THA:
+    admin_name: ChangKlang
+    iso3c: THA
+    shapeID: 78962969B43171444996165
+  ChanthaburiProvinceAdm1THA:
+    admin_name: ChanthaburiProvince
+    iso3c: THA
+    shapeID: 36821470B14101604973013
+  ChanumanAdm2THA:
+    admin_name: Chanuman
+    iso3c: THA
+    shapeID: 78962969B71336956115942
+  CharoenSinAdm2THA:
+    admin_name: CharoenSin
+    iso3c: THA
+    shapeID: 78962969B64295862325828
+  ChatTrakanAdm2THA:
+    admin_name: ChatTrakan
+    iso3c: THA
+    shapeID: 78962969B67438013372379
+  ChatturatAdm2THA:
+    admin_name: Chatturat
+    iso3c: THA
+    shapeID: 78962969B33448846047594
+  ChatuchakAdm2THA:
+    admin_name: Chatuchak
+    iso3c: THA
+    shapeID: 78962969B62274513828859
+  ChaturaphakPhimanAdm2THA:
+    admin_name: ChaturaphakPhiman
+    iso3c: THA
+    shapeID: 78962969B73854210082339
+  ChawangAdm2THA:
+    admin_name: Chawang
+    iso3c: THA
+    shapeID: 78962969B73992602803930
+  ChiangDaoAdm2THA:
+    admin_name: ChiangDao
+    iso3c: THA
+    shapeID: 78962969B42466635698108
+  ChiangKhamAdm2THA:
+    admin_name: ChiangKham
+    iso3c: THA
+    shapeID: 78962969B51854654401236
+  ChiangKhanAdm2THA:
+    admin_name: ChiangKhan
+    iso3c: THA
+    shapeID: 78962969B15954858222696
+  ChiangKhongAdm2THA:
+    admin_name: ChiangKhong
+    iso3c: THA
+    shapeID: 78962969B70832563966269
+  ChiangKhwanAdm2THA:
+    admin_name: ChiangKhwan
+    iso3c: THA
+    shapeID: 78962969B97176317903626
+  ChiangKlangAdm2THA:
+    admin_name: ChiangKlang
+    iso3c: THA
+    shapeID: 78962969B24859706501425
+  ChiangMaiProvinceAdm1THA:
+    admin_name: ChiangMaiProvince
+    iso3c: THA
+    shapeID: 36821470B31171150995182
+  ChiangMuanAdm2THA:
+    admin_name: ChiangMuan
+    iso3c: THA
+    shapeID: 78962969B85526805551383
+  ChiangRaiProvinceAdm1THA:
+    admin_name: ChiangRaiProvince
+    iso3c: THA
+    shapeID: 36821470B41943429581493
+  ChiangSaenAdm2THA:
+    admin_name: ChiangSaen
+    iso3c: THA
+    shapeID: 78962969B57964456122026
+  ChiangYuenAdm2THA:
+    admin_name: ChiangYuen
+    iso3c: THA
+    shapeID: 78962969B29991085586419
+  ChianYaiAdm2THA:
+    admin_name: ChianYai
+    iso3c: THA
+    shapeID: 78962969B18712329384624
+  Cho-AirongAdm2THA:
+    admin_name: Cho-Airong
+    iso3c: THA
+    shapeID: 78962969B3053888418312
+  ChokChaiAdm2THA:
+    admin_name: ChokChai
+    iso3c: THA
+    shapeID: 78962969B33343210665646
+  ChomBuengAdm2THA:
+    admin_name: ChomBueng
+    iso3c: THA
+    shapeID: 78962969B91114195507687
+  ChomPhraAdm2THA:
+    admin_name: ChomPhra
+    iso3c: THA
+    shapeID: 78962969B42359071454830
+  ChomThongAdm2THA:
+    admin_name: ChomThong
+    iso3c: THA
+    shapeID: 78962969B14183764465064
+  ChonBuriProvinceAdm1THA:
+    admin_name: ChonBuriProvince
+    iso3c: THA
+    shapeID: 36821470B74825096412992
+  ChonDaenAdm2THA:
+    admin_name: ChonDaen
+    iso3c: THA
+    shapeID: 78962969B86434442004691
+  ChonnabotAdm2THA:
+    admin_name: Chonnabot
+    iso3c: THA
+    shapeID: 78962969B78938265467215
+  ChuenChomAdm2THA:
+    admin_name: ChuenChom
+    iso3c: THA
+    shapeID: 78962969B88411393036982
+  ChulabhornAdm2THA:
+    admin_name: Chulabhorn
+    iso3c: THA
+    shapeID: 78962969B60161161731937
+  ChumPhaeAdm2THA:
+    admin_name: ChumPhae
+    iso3c: THA
+    shapeID: 78962969B27805721585516
+  ChumphonBuriAdm2THA:
+    admin_name: ChumphonBuri
+    iso3c: THA
+    shapeID: 78962969B67487530152126
+  ChumphonProvinceAdm1THA:
+    admin_name: ChumphonProvince
+    iso3c: THA
+    shapeID: 36821470B15538290209832
+  ChumPhuangAdm2THA:
+    admin_name: ChumPhuang
+    iso3c: THA
+    shapeID: 78962969B76863241399521
+  ChumSaengAdm2THA:
+    admin_name: ChumSaeng
+    iso3c: THA
+    shapeID: 78962969B30138061095359
+  ChumTaBongAdm2THA:
+    admin_name: ChumTaBong
+    iso3c: THA
+    shapeID: 78962969B50351990269412
+  ChunAdm2THA:
+    admin_name: Chun
+    iso3c: THA
+    shapeID: 78962969B62058634056036
+  DamnoenSaduakAdm2THA:
+    admin_name: DamnoenSaduak
+    iso3c: THA
+    shapeID: 78962969B9936317507075
+  DanChangAdm2THA:
+    admin_name: DanChang
+    iso3c: THA
+    shapeID: 78962969B17842271183719
+  DanKhunThotAdm2THA:
+    admin_name: DanKhunThot
+    iso3c: THA
+    shapeID: 78962969B23608126314551
+  DanMakhamTiaAdm2THA:
+    admin_name: DanMakhamTia
+    iso3c: THA
+    shapeID: 78962969B50658242834592
+  DanSaiAdm2THA:
+    admin_name: DanSai
+    iso3c: THA
+    shapeID: 78962969B41697678812601
+  DenChaiAdm2THA:
+    admin_name: DenChai
+    iso3c: THA
+    shapeID: 78962969B35884662782680
+  DetUdomAdm2THA:
+    admin_name: DetUdom
+    iso3c: THA
+    shapeID: 78962969B44207183673479
+  DinDaengAdm2THA:
+    admin_name: DinDaeng
+    iso3c: THA
+    shapeID: 78962969B98953458091915
+  DoemBangNangBuatAdm2THA:
+    admin_name: DoemBangNangBuat
+    iso3c: THA
+    shapeID: 78962969B7020307767392
+  DoiLoAdm2THA:
+    admin_name: DoiLo
+    iso3c: THA
+    shapeID: 78962969B26500920183466
+  DoiLuangAdm2THA:
+    admin_name: DoiLuang
+    iso3c: THA
+    shapeID: 78962969B15237736289159
+  DoiSaketAdm2THA:
+    admin_name: DoiSaket
+    iso3c: THA
+    shapeID: 78962969B32024280119192
+  DoiTaoAdm2THA:
+    admin_name: DoiTao
+    iso3c: THA
+    shapeID: 78962969B78761446480435
+  DokKhamtaiAdm2THA:
+    admin_name: DokKhamtai
+    iso3c: THA
+    shapeID: 78962969B85814528086479
+  DonChanAdm2THA:
+    admin_name: DonChan
+    iso3c: THA
+    shapeID: 78962969B80521164752578
+  DonChediAdm2THA:
+    admin_name: DonChedi
+    iso3c: THA
+    shapeID: 78962969B69423303850724
+  DongCharoenAdm2THA:
+    admin_name: DongCharoen
+    iso3c: THA
+    shapeID: 78962969B92900042333886
+  DongLuangAdm2THA:
+    admin_name: DongLuang
+    iso3c: THA
+    shapeID: 78962969B66357052438621
+  DonMotDaengAdm2THA:
+    admin_name: DonMotDaeng
+    iso3c: THA
+    shapeID: 78962969B4168813310505
+  DonMueangAdm2THA:
+    admin_name: DonMueang
+    iso3c: THA
+    shapeID: 78962969B41051617960371
+  DonPhutAdm2THA:
+    admin_name: DonPhut
+    iso3c: THA
+    shapeID: 78962969B98799129016302
+  DonSakAdm2THA:
+    admin_name: DonSak
+    iso3c: THA
+    shapeID: 78962969B55330970869967
+  DonTanAdm2THA:
+    admin_name: DonTan
+    iso3c: THA
+    shapeID: 78962969B20953711752663
+  DonTumAdm2THA:
+    admin_name: DonTum
+    iso3c: THA
+    shapeID: 78962969B74953703233818
+  DusitAdm2THA:
+    admin_name: Dusit
+    iso3c: THA
+    shapeID: 78962969B42559616125747
+  ErawanAdm2THA:
+    admin_name: Erawan
+    iso3c: THA
+    shapeID: 78962969B28697465385872
+  FakThaAdm2THA:
+    admin_name: FakTha
+    iso3c: THA
+    shapeID: 78962969B71814319942483
+  FangAdm2THA:
+    admin_name: Fang
+    iso3c: THA
+    shapeID: 78962969B22433102808870
+  FaoRaiAdm2THA:
+    admin_name: FaoRai
+    iso3c: THA
+    shapeID: 78962969B41477512763413
+  GalyaniVadhanaAdm2THA:
+    admin_name: GalyaniVadhana
+    iso3c: THA
+    shapeID: 78962969B83448610007189
+  HangChatAdm2THA:
+    admin_name: HangChat
+    iso3c: THA
+    shapeID: 78962969B1257188222382
+  HangDongAdm2THA:
+    admin_name: HangDong
+    iso3c: THA
+    shapeID: 78962969B1723139594347
+  HankhaAdm2THA:
+    admin_name: Hankha
+    iso3c: THA
+    shapeID: 78962969B11374583847622
+  HatSamranAdm2THA:
+    admin_name: HatSamran
+    iso3c: THA
+    shapeID: 78962969B83331029808127
+  HatYaiAdm2THA:
+    admin_name: HatYai
+    iso3c: THA
+    shapeID: 78962969B23143470212652
+  HotAdm2THA:
+    admin_name: Hot
+    iso3c: THA
+    shapeID: 78962969B71895248722422
+  HuaHinAdm2THA:
+    admin_name: HuaHin
+    iso3c: THA
+    shapeID: 78962969B56213444646576
+  HuaiKhotAdm2THA:
+    admin_name: HuaiKhot
+    iso3c: THA
+    shapeID: 78962969B62353479912268
+  HuaiKhwangAdm2THA:
+    admin_name: HuaiKhwang
+    iso3c: THA
+    shapeID: 78962969B70795195201443
+  HuaiKrachaoAdm2THA:
+    admin_name: HuaiKrachao
+    iso3c: THA
+    shapeID: 78962969B62176303506546
+  HuaiMekAdm2THA:
+    admin_name: HuaiMek
+    iso3c: THA
+    shapeID: 78962969B62836080496995
+  HuaiPhuengAdm2THA:
+    admin_name: HuaiPhueng
+    iso3c: THA
+    shapeID: 78962969B68960900903795
+  HuaiRatAdm2THA:
+    admin_name: HuaiRat
+    iso3c: THA
+    shapeID: 78962969B72247490671236
+  HuaiThalaengAdm2THA:
+    admin_name: HuaiThalaeng
+    iso3c: THA
+    shapeID: 78962969B28729751620750
+  HuaiThapThanAdm2THA:
+    admin_name: HuaiThapThan
+    iso3c: THA
+    shapeID: 78962969B1477833386417
+  HuaiYotAdm2THA:
+    admin_name: HuaiYot
+    iso3c: THA
+    shapeID: 78962969B54488452023810
+  HuaSaiAdm2THA:
+    admin_name: HuaSai
+    iso3c: THA
+    shapeID: 78962969B3746185944744
+  HuaTaphanAdm2THA:
+    admin_name: HuaTaphan
+    iso3c: THA
+    shapeID: 78962969B24763205139340
+  InBuriAdm2THA:
+    admin_name: InBuri
+    iso3c: THA
+    shapeID: 78962969B87157930386242
+  KabangAdm2THA:
+    admin_name: Kabang
+    iso3c: THA
+    shapeID: 78962969B19846711934015
+  KabinBuriAdm2THA:
+    admin_name: KabinBuri
+    iso3c: THA
+    shapeID: 78962969B13244714899487
+  KaeDamAdm2THA:
+    admin_name: KaeDam
+    iso3c: THA
+    shapeID: 78962969B5401688500865
+  KaengHangMaeoAdm2THA:
+    admin_name: KaengHangMaeo
+    iso3c: THA
+    shapeID: 78962969B93590289625121
+  KaengKhoiAdm2THA:
+    admin_name: KaengKhoi
+    iso3c: THA
+    shapeID: 78962969B58188508241949
+  KaengKhroAdm2THA:
+    admin_name: KaengKhro
+    iso3c: THA
+    shapeID: 78962969B55308089725045
+  KaengKrachanAdm2THA:
+    admin_name: KaengKrachan
+    iso3c: THA
+    shapeID: 78962969B83426526195600
+  KaengSanamNangAdm2THA:
+    admin_name: KaengSanamNang
+    iso3c: THA
+    shapeID: 78962969B3158146073423
+  KalasinAdm1THA:
+    admin_name: Kalasin
+    iso3c: THA
+    shapeID: 36821470B98454587472110
+  KamalasaiAdm2THA:
+    admin_name: Kamalasai
+    iso3c: THA
+    shapeID: 78962969B55465518750669
+  KamphaengPhetProvinceAdm1THA:
+    admin_name: KamphaengPhetProvince
+    iso3c: THA
+    shapeID: 36821470B22142474761729
+  KamphaengSaenAdm2THA:
+    admin_name: KamphaengSaen
+    iso3c: THA
+    shapeID: 78962969B43600693402373
+  KanchanaburiProvinceAdm1THA:
+    admin_name: KanchanaburiProvince
+    iso3c: THA
+    shapeID: 36821470B15979952926255
+  KanchanaditAdm2THA:
+    admin_name: Kanchanadit
+    iso3c: THA
+    shapeID: 78962969B17156499788774
+  KantangAdm2THA:
+    admin_name: Kantang
+    iso3c: THA
+    shapeID: 78962969B56840813019063
+  KantharalakAdm2THA:
+    admin_name: Kantharalak
+    iso3c: THA
+    shapeID: 78962969B93646658502298
+  KanthararomAdm2THA:
+    admin_name: Kanthararom
+    iso3c: THA
+    shapeID: 78962969B19002153549753
+  KantharawichaiAdm2THA:
+    admin_name: Kantharawichai
+    iso3c: THA
+    shapeID: 78962969B87727781395141
+  KaoLiaoAdm2THA:
+    admin_name: KaoLiao
+    iso3c: THA
+    shapeID: 78962969B93579167004560
+  KapChoengAdm2THA:
+    admin_name: KapChoeng
+    iso3c: THA
+    shapeID: 78962969B82717955014572
+  KaphoAdm2THA:
+    admin_name: Kapho
+    iso3c: THA
+    shapeID: 78962969B23188971822264
+  KapoeAdm2THA:
+    admin_name: Kapoe
+    iso3c: THA
+    shapeID: 78962969B6628282712550
+  KapongAdm2THA:
+    admin_name: Kapong
+    iso3c: THA
+    shapeID: 78962969B49834487361674
+  KasetSombunAdm2THA:
+    admin_name: KasetSombun
+    iso3c: THA
+    shapeID: 78962969B30311975782623
+  KasetWisaiAdm2THA:
+    admin_name: KasetWisai
+    iso3c: THA
+    shapeID: 78962969B16569105271651
+  KathuAdm2THA:
+    admin_name: Kathu
+    iso3c: THA
+    shapeID: 78962969B91269894651951
+  KhaenDongAdm2THA:
+    admin_name: KhaenDong
+    iso3c: THA
+    shapeID: 78962969B83318821115464
+  KhaiBangRachanAdm2THA:
+    admin_name: KhaiBangRachan
+    iso3c: THA
+    shapeID: 78962969B1658466470104
+  Khamcha-IAdm2THA:
+    admin_name: Khamcha-I
+    iso3c: THA
+    shapeID: 78962969B9288623965853
+  KhamKhueanKaeoAdm2THA:
+    admin_name: KhamKhueanKaeo
+    iso3c: THA
+    shapeID: 78962969B10753248313683
+  KhamMuangAdm2THA:
+    admin_name: KhamMuang
+    iso3c: THA
+    shapeID: 78962969B13207688711695
+  KhamSakaesaengAdm2THA:
+    admin_name: KhamSakaesaeng
+    iso3c: THA
+    shapeID: 78962969B43347234276039
+  KhamTaKlaAdm2THA:
+    admin_name: KhamTaKla
+    iso3c: THA
+    shapeID: 78962969B89858575119676
+  KhamThaleSoAdm2THA:
+    admin_name: KhamThaleSo
+    iso3c: THA
+    shapeID: 78962969B48242512834839
+  KhanNaYaoAdm2THA:
+    admin_name: KhanNaYao
+    iso3c: THA
+    shapeID: 78962969B51351558142585
+  KhanomAdm2THA:
+    admin_name: Khanom
+    iso3c: THA
+    shapeID: 78962969B77889758580625
+  KhanuWoralaksaburiAdm2THA:
+    admin_name: KhanuWoralaksaburi
+    iso3c: THA
+    shapeID: 78962969B71867994659832
+  KhaoChaisonAdm2THA:
+    admin_name: KhaoChaison
+    iso3c: THA
+    shapeID: 78962969B96011402806004
+  KhaoChakanAdm2THA:
+    admin_name: KhaoChakan
+    iso3c: THA
+    shapeID: 78962969B13741578736552
+  KhaoChamaoAdm2THA:
+    admin_name: KhaoChamao
+    iso3c: THA
+    shapeID: 78962969B50425492619761
+  KhaoKhitchakutAdm2THA:
+    admin_name: KhaoKhitchakut
+    iso3c: THA
+    shapeID: 78962969B7346978747814
+  KhaoKhoAdm2THA:
+    admin_name: KhaoKho
+    iso3c: THA
+    shapeID: 78962969B71120844941830
+  KhaoPhanomAdm2THA:
+    admin_name: KhaoPhanom
+    iso3c: THA
+    shapeID: 78962969B52375509392370
+  KhaoSamingAdm2THA:
+    admin_name: KhaoSaming
+    iso3c: THA
+    shapeID: 78962969B42542221471350
+  KhaoSuanKwangAdm2THA:
+    admin_name: KhaoSuanKwang
+    iso3c: THA
+    shapeID: 78962969B79183208514946
+  KhaoWongAdm2THA:
+    admin_name: KhaoWong
+    iso3c: THA
+    shapeID: 78962969B54306826324199
+  KhaoYoiAdm2THA:
+    admin_name: KhaoYoi
+    iso3c: THA
+    shapeID: 78962969B82781798168468
+  KhemaratAdm2THA:
+    admin_name: Khemarat
+    iso3c: THA
+    shapeID: 78962969B49998456253138
+  KhianSaAdm2THA:
+    admin_name: KhianSa
+    iso3c: THA
+    shapeID: 78962969B19485368092411
+  KhiriMatAdm2THA:
+    admin_name: KhiriMat
+    iso3c: THA
+    shapeID: 78962969B829046276221
+  KhiriRatNikhomAdm2THA:
+    admin_name: KhiriRatNikhom
+    iso3c: THA
+    shapeID: 78962969B17621560211426
+  KhlongHatAdm2THA:
+    admin_name: KhlongHat
+    iso3c: THA
+    shapeID: 78962969B65728256000348
+  KhlongHoiKhongAdm2THA:
+    admin_name: KhlongHoiKhong
+    iso3c: THA
+    shapeID: 78962969B91518300065155
+  KhlongKhlungAdm2THA:
+    admin_name: KhlongKhlung
+    iso3c: THA
+    shapeID: 78962969B33766889028899
+  KhlongKhueanAdm2THA:
+    admin_name: KhlongKhuean
+    iso3c: THA
+    shapeID: 78962969B67235524404605
+  KhlongLanAdm2THA:
+    admin_name: KhlongLan
+    iso3c: THA
+    shapeID: 78962969B45862873771637
+  KhlongLuangAdm2THA:
+    admin_name: KhlongLuang
+    iso3c: THA
+    shapeID: 78962969B47132537574289
+  KhlongSamWaAdm2THA:
+    admin_name: KhlongSamWa
+    iso3c: THA
+    shapeID: 78962969B63741991281097
+  KhlongSanAdm2THA:
+    admin_name: KhlongSan
+    iso3c: THA
+    shapeID: 78962969B86497108686026
+  KhlongThomAdm2THA:
+    admin_name: KhlongThom
+    iso3c: THA
+    shapeID: 78962969B45717742719747
+  KhlongToeiAdm2THA:
+    admin_name: KhlongToei
+    iso3c: THA
+    shapeID: 78962969B43095754832061
+  KhlongYaiAdm2THA:
+    admin_name: KhlongYai
+    iso3c: THA
+    shapeID: 78962969B6088358830933
+  KhlungAdm2THA:
+    admin_name: Khlung
+    iso3c: THA
+    shapeID: 78962969B14085180257363
+  KhokCharoenAdm2THA:
+    admin_name: KhokCharoen
+    iso3c: THA
+    shapeID: 78962969B49481349278352
+  KhokPhoAdm2THA:
+    admin_name: KhokPho
+    iso3c: THA
+    shapeID: 78962969B27197840775021
+  KhokPhoChaiAdm2THA:
+    admin_name: KhokPhoChai
+    iso3c: THA
+    shapeID: 78962969B36064569577825
+  KhokSamrongAdm2THA:
+    admin_name: KhokSamrong
+    iso3c: THA
+    shapeID: 78962969B63435084868089
+  KhokSiSuphanAdm2THA:
+    admin_name: KhokSiSuphan
+    iso3c: THA
+    shapeID: 78962969B94983517253563
+  KhokSungAdm2THA:
+    admin_name: KhokSung
+    iso3c: THA
+    shapeID: 78962969B84057693525228
+  KhonBuriAdm2THA:
+    admin_name: KhonBuri
+    iso3c: THA
+    shapeID: 78962969B59767339718712
+  KhongAdm2THA:
+    admin_name: Khong
+    iso3c: THA
+    shapeID: 78962969B53698738904765
+  KhongChaiAdm2THA:
+    admin_name: KhongChai
+    iso3c: THA
+    shapeID: 78962969B1811381389630
+  KhongChiamAdm2THA:
+    admin_name: KhongChiam
+    iso3c: THA
+    shapeID: 78962969B36497134874209
+  KhonKaenProvinceAdm1THA:
+    admin_name: KhonKaenProvince
+    iso3c: THA
+    shapeID: 36821470B82174860486434
+  KhonSanAdm2THA:
+    admin_name: KhonSan
+    iso3c: THA
+    shapeID: 78962969B85168062919429
+  KhonSawanAdm2THA:
+    admin_name: KhonSawan
+    iso3c: THA
+    shapeID: 78962969B35763800993101
+  KhoWangAdm2THA:
+    admin_name: KhoWang
+    iso3c: THA
+    shapeID: 78962969B41182893355114
+  KhuanDonAdm2THA:
+    admin_name: KhuanDon
+    iso3c: THA
+    shapeID: 78962969B23587469316424
+  KhuanKalongAdm2THA:
+    admin_name: KhuanKalong
+    iso3c: THA
+    shapeID: 78962969B58328685973452
+  KhuanKhanunAdm2THA:
+    admin_name: KhuanKhanun
+    iso3c: THA
+    shapeID: 78962969B61181446150659
+  KhuanNiangAdm2THA:
+    admin_name: KhuanNiang
+    iso3c: THA
+    shapeID: 78962969B48341531753784
+  KhueangNaiAdm2THA:
+    admin_name: KhueangNai
+    iso3c: THA
+    shapeID: 78962969B53843894675562
+  KhukhanAdm2THA:
+    admin_name: Khukhan
+    iso3c: THA
+    shapeID: 78962969B84940154161268
+  KhuMueangAdm2THA:
+    admin_name: KhuMueang
+    iso3c: THA
+    shapeID: 78962969B7360435516944
+  KhunHanAdm2THA:
+    admin_name: KhunHan
+    iso3c: THA
+    shapeID: 78962969B74120262263658
+  KhunTanAdm2THA:
+    admin_name: KhunTan
+    iso3c: THA
+    shapeID: 78962969B25374198487057
+  KhunYuamAdm2THA:
+    admin_name: KhunYuam
+    iso3c: THA
+    shapeID: 78962969B960185402947
+  KhuraBuriAdm2THA:
+    admin_name: KhuraBuri
+    iso3c: THA
+    shapeID: 78962969B83869415857059
+  KhwaoSinRinAdm2THA:
+    admin_name: KhwaoSinRin
+    iso3c: THA
+    shapeID: 78962969B63758563457918
+  KlaengAdm2THA:
+    admin_name: Klaeng
+    iso3c: THA
+    shapeID: 78962969B40888142267385
+  KoChanAdm2THA:
+    admin_name: KoChan
+    iso3c: THA
+    shapeID: 78962969B17576291228929
+  KoChangAdm2THA:
+    admin_name: KoChang
+    iso3c: THA
+    shapeID: 78962969B80719111705399
+  KoKhaAdm2THA:
+    admin_name: KoKha
+    iso3c: THA
+    shapeID: 78962969B17989923372642
+  KoKutAdm2THA:
+    admin_name: KoKut
+    iso3c: THA
+    shapeID: 78962969B85434613183217
+  KoLantaAdm2THA:
+    admin_name: KoLanta
+    iso3c: THA
+    shapeID: 78962969B16427813486063
+  KongKrailatAdm2THA:
+    admin_name: KongKrailat
+    iso3c: THA
+    shapeID: 78962969B68558189238203
+  KongRaAdm2THA:
+    admin_name: KongRa
+    iso3c: THA
+    shapeID: 78962969B88814874297751
+  KoPha-NganAdm2THA:
+    admin_name: KoPha-Ngan
+    iso3c: THA
+    shapeID: 78962969B87501565170923
+  KosamphiNakhonAdm2THA:
+    admin_name: KosamphiNakhon
+    iso3c: THA
+    shapeID: 78962969B49200867447191
+  KoSamuiAdm2THA:
+    admin_name: KoSamui
+    iso3c: THA
+    shapeID: 78962969B93430934816346
+  KoSiChangAdm2THA:
+    admin_name: KoSiChang
+    iso3c: THA
+    shapeID: 78962969B51013887966956
+  KosumPhisaiAdm2THA:
+    admin_name: KosumPhisai
+    iso3c: THA
+    shapeID: 78962969B36169565655926
+  KoYaoAdm2THA:
+    admin_name: KoYao
+    iso3c: THA
+    shapeID: 78962969B39979274143767
+  KrabiProvinceAdm1THA:
+    admin_name: KrabiProvince
+    iso3c: THA
+    shapeID: 36821470B15753947122052
+  KraBuriAdm2THA:
+    admin_name: KraBuri
+    iso3c: THA
+    shapeID: 78962969B7513532237897
+  KranuanAdm2THA:
+    admin_name: Kranuan
+    iso3c: THA
+    shapeID: 78962969B2173089266466
+  KrasaeSinAdm2THA:
+    admin_name: KrasaeSin
+    iso3c: THA
+    shapeID: 78962969B29220890850544
+  KrasangAdm2THA:
+    admin_name: Krasang
+    iso3c: THA
+    shapeID: 78962969B46029670313066
+  KrathumBaenAdm2THA:
+    admin_name: KrathumBaen
+    iso3c: THA
+    shapeID: 78962969B60884985036965
+  KrokPhraAdm2THA:
+    admin_name: KrokPhra
+    iso3c: THA
+    shapeID: 78962969B8513684834011
+  KrongPinangAdm2THA:
+    admin_name: KrongPinang
+    iso3c: THA
+    shapeID: 78962969B4997487485742
+  KuchinaraiAdm2THA:
+    admin_name: Kuchinarai
+    iso3c: THA
+    shapeID: 78962969B96720731529484
+  KuiBuriAdm2THA:
+    admin_name: KuiBuri
+    iso3c: THA
+    shapeID: 78962969B26279095645158
+  KuKaeoAdm2THA:
+    admin_name: KuKaeo
+    iso3c: THA
+    shapeID: 78962969B3377071632893
+  KumphawapiAdm2THA:
+    admin_name: Kumphawapi
+    iso3c: THA
+    shapeID: 78962969B78626790944286
+  KusumanAdm2THA:
+    admin_name: Kusuman
+    iso3c: THA
+    shapeID: 78962969B62467270664056
+  KutBakAdm2THA:
+    admin_name: KutBak
+    iso3c: THA
+    shapeID: 78962969B73602858262126
+  KutChapAdm2THA:
+    admin_name: KutChap
+    iso3c: THA
+    shapeID: 78962969B39562479301608
+  KutChumAdm2THA:
+    admin_name: KutChum
+    iso3c: THA
+    shapeID: 78962969B41263158681984
+  KutKhaopunAdm2THA:
+    admin_name: KutKhaopun
+    iso3c: THA
+    shapeID: 78962969B96705611164937
+  KutRangAdm2THA:
+    admin_name: KutRang
+    iso3c: THA
+    shapeID: 78962969B2747980424565
+  La-NguAdm2THA:
+    admin_name: La-Ngu
+    iso3c: THA
+    shapeID: 78962969B4904051654531
+  La-UnAdm2THA:
+    admin_name: La-Un
+    iso3c: THA
+    shapeID: 78962969B34632522094222
+  LaemNgopAdm2THA:
+    admin_name: LaemNgop
+    iso3c: THA
+    shapeID: 78962969B48901516523989
+  LaemSingAdm2THA:
+    admin_name: LaemSing
+    iso3c: THA
+    shapeID: 78962969B29743694445242
+  LahanSaiAdm2THA:
+    admin_name: LahanSai
+    iso3c: THA
+    shapeID: 78962969B50384711100883
+  LakSiAdm2THA:
+    admin_name: LakSi
+    iso3c: THA
+    shapeID: 78962969B56226274044395
+  LamaeAdm2THA:
+    admin_name: Lamae
+    iso3c: THA
+    shapeID: 78962969B32380434667170
+  LamduanAdm2THA:
+    admin_name: Lamduan
+    iso3c: THA
+    shapeID: 78962969B18818398645173
+  LamLukKaAdm2THA:
+    admin_name: LamLukKa
+    iso3c: THA
+    shapeID: 78962969B96049441570436
+  LampangProvinceAdm1THA:
+    admin_name: LampangProvince
+    iso3c: THA
+    shapeID: 36821470B50506304331769
+  LamphunProvinceAdm1THA:
+    admin_name: LamphunProvince
+    iso3c: THA
+    shapeID: 36821470B42817227172980
+  LamPlaiMatAdm2THA:
+    admin_name: LamPlaiMat
+    iso3c: THA
+    shapeID: 78962969B20413411154684
+  LamSonthiAdm2THA:
+    admin_name: LamSonthi
+    iso3c: THA
+    shapeID: 78962969B31401226545695
+  LamThamenchaiAdm2THA:
+    admin_name: LamThamenchai
+    iso3c: THA
+    shapeID: 78962969B38997993614203
+  LamThapAdm2THA:
+    admin_name: LamThap
+    iso3c: THA
+    shapeID: 78962969B74032961244175
+  LangSuanAdm2THA:
+    admin_name: LangSuan
+    iso3c: THA
+    shapeID: 78962969B12315134210543
+  LanKrabueAdm2THA:
+    admin_name: LanKrabue
+    iso3c: THA
+    shapeID: 78962969B67051098696053
+  LanSakaAdm2THA:
+    admin_name: LanSaka
+    iso3c: THA
+    shapeID: 78962969B56259094306641
+  LanSakAdm2THA:
+    admin_name: LanSak
+    iso3c: THA
+    shapeID: 78962969B44597518735554
+  LaoKhwanAdm2THA:
+    admin_name: LaoKhwan
+    iso3c: THA
+    shapeID: 78962969B77063732556274
+  LaoSueaKokAdm2THA:
+    admin_name: LaoSueaKok
+    iso3c: THA
+    shapeID: 78962969B14407217279101
+  LaplaeAdm2THA:
+    admin_name: Laplae
+    iso3c: THA
+    shapeID: 78962969B92512161501034
+  LatBuaLuangAdm2THA:
+    admin_name: LatBuaLuang
+    iso3c: THA
+    shapeID: 78962969B9054765011768
+  LatKrabangAdm2THA:
+    admin_name: LatKrabang
+    iso3c: THA
+    shapeID: 78962969B46231034587858
+  LatLumKaeoAdm2THA:
+    admin_name: LatLumKaeo
+    iso3c: THA
+    shapeID: 78962969B45209726561008
+  LatPhraoAdm2THA:
+    admin_name: LatPhrao
+    iso3c: THA
+    shapeID: 78962969B95574148528109
+  LatYaoAdm2THA:
+    admin_name: LatYao
+    iso3c: THA
+    shapeID: 78962969B94323331085906
+  LiAdm2THA:
+    admin_name: Li
+    iso3c: THA
+    shapeID: 78962969B62404267117906
+  LoeiProvinceAdm1THA:
+    admin_name: LoeiProvince
+    iso3c: THA
+    shapeID: 36821470B29302790580634
+  LoengNokThaAdm2THA:
+    admin_name: LoengNokTha
+    iso3c: THA
+    shapeID: 78962969B75091114631629
+  LomKaoAdm2THA:
+    admin_name: LomKao
+    iso3c: THA
+    shapeID: 78962969B1272323537796
+  LomSakAdm2THA:
+    admin_name: LomSak
+    iso3c: THA
+    shapeID: 78962969B94734864821350
+  LongAdm2THA:
+    admin_name: Long
+    iso3c: THA
+    shapeID: 78962969B48493646022270
+  LopburiProvinceAdm1THA:
+    admin_name: LopburiProvince
+    iso3c: THA
+    shapeID: 36821470B25269958791686
+  LueAmnatAdm2THA:
+    admin_name: LueAmnat
+    iso3c: THA
+    shapeID: 78962969B36104557802135
+  MaeAiAdm2THA:
+    admin_name: MaeAi
+    iso3c: THA
+    shapeID: 78962969B45040254304156
+  MaeChaemAdm2THA:
+    admin_name: MaeChaem
+    iso3c: THA
+    shapeID: 78962969B34643742441867
+  MaeChaiAdm2THA:
+    admin_name: MaeChai
+    iso3c: THA
+    shapeID: 78962969B98243253898824
+  MaeChanAdm2THA:
+    admin_name: MaeChan
+    iso3c: THA
+    shapeID: 78962969B91989740231276
+  MaeCharimAdm2THA:
+    admin_name: MaeCharim
+    iso3c: THA
+    shapeID: 78962969B26100393225543
+  MaeFaLuangAdm2THA:
+    admin_name: MaeFaLuang
+    iso3c: THA
+    shapeID: 78962969B57610066237696
+  MaeHongSonProvinceAdm1THA:
+    admin_name: MaeHongSonProvince
+    iso3c: THA
+    shapeID: 36821470B62325531860543
+  MaeLanAdm2THA:
+    admin_name: MaeLan
+    iso3c: THA
+    shapeID: 78962969B32664708228231
+  MaeLaNoiAdm2THA:
+    admin_name: MaeLaNoi
+    iso3c: THA
+    shapeID: 78962969B46384371201306
+  MaeLaoAdm2THA:
+    admin_name: MaeLao
+    iso3c: THA
+    shapeID: 78962969B15222639850860
+  MaeMoAdm2THA:
+    admin_name: MaeMo
+    iso3c: THA
+    shapeID: 78962969B1681063104850
+  MaeOnAdm2THA:
+    admin_name: MaeOn
+    iso3c: THA
+    shapeID: 78962969B29655257456650
+  MaePhrikAdm2THA:
+    admin_name: MaePhrik
+    iso3c: THA
+    shapeID: 78962969B83063608577185
+  MaePoenAdm2THA:
+    admin_name: MaePoen
+    iso3c: THA
+    shapeID: 78962969B91694017140585
+  MaeRamatAdm2THA:
+    admin_name: MaeRamat
+    iso3c: THA
+    shapeID: 78962969B69259908761909
+  MaeRimAdm2THA:
+    admin_name: MaeRim
+    iso3c: THA
+    shapeID: 78962969B91444782882973
+  MaeSaiAdm2THA:
+    admin_name: MaeSai
+    iso3c: THA
+    shapeID: 78962969B11376495373152
+  MaeSariangAdm2THA:
+    admin_name: MaeSariang
+    iso3c: THA
+    shapeID: 78962969B31524896745165
+  MaeSotAdm2THA:
+    admin_name: MaeSot
+    iso3c: THA
+    shapeID: 78962969B92609473950758
+  MaeSuaiAdm2THA:
+    admin_name: MaeSuai
+    iso3c: THA
+    shapeID: 78962969B62426032624456
+  MaeTaengAdm2THA:
+    admin_name: MaeTaeng
+    iso3c: THA
+    shapeID: 78962969B22934256607694
+  MaeThaAdm2THA:
+    admin_name: MaeTha
+    iso3c: THA
+    shapeID: 78962969B93030636788506
+  MaeWangAdm2THA:
+    admin_name: MaeWang
+    iso3c: THA
+    shapeID: 78962969B90127177876527
+  MaeWongAdm2THA:
+    admin_name: MaeWong
+    iso3c: THA
+    shapeID: 78962969B87976118596438
+  MahaChanaChaiAdm2THA:
+    admin_name: MahaChanaChai
+    iso3c: THA
+    shapeID: 78962969B6297471410312
+  MahaRatAdm2THA:
+    admin_name: MahaRat
+    iso3c: THA
+    shapeID: 78962969B63768229045772
+  MahaSarakhamProvinceAdm1THA:
+    admin_name: MahaSarakhamProvince
+    iso3c: THA
+    shapeID: 36821470B32359336681268
+  MaiKaenAdm2THA:
+    admin_name: MaiKaen
+    iso3c: THA
+    shapeID: 78962969B69481933598717
+  MakhamAdm2THA:
+    admin_name: Makham
+    iso3c: THA
+    shapeID: 78962969B16379000118179
+  ManangAdm2THA:
+    admin_name: Manang
+    iso3c: THA
+    shapeID: 78962969B42923555842961
+  ManchaKhiriAdm2THA:
+    admin_name: ManchaKhiri
+    iso3c: THA
+    shapeID: 78962969B48602997867294
+  ManoromAdm2THA:
+    admin_name: Manorom
+    iso3c: THA
+    shapeID: 78962969B59709031749795
+  MayoAdm2THA:
+    admin_name: Mayo
+    iso3c: THA
+    shapeID: 78962969B89271538016717
+  MinBuriAdm2THA:
+    admin_name: MinBuri
+    iso3c: THA
+    shapeID: 78962969B59018064980934
+  MoeiWadiAdm2THA:
+    admin_name: MoeiWadi
+    iso3c: THA
+    shapeID: 78962969B61419736796761
+  MuakLekAdm2THA:
+    admin_name: MuakLek
+    iso3c: THA
+    shapeID: 78962969B19510908422026
+  MuangSamSipAdm2THA:
+    admin_name: MuangSamSip
+    iso3c: THA
+    shapeID: 78962969B95982372306195
+  MueangAmnatCharoenAdm2THA:
+    admin_name: MueangAmnatCharoen
+    iso3c: THA
+    shapeID: 78962969B23558627244082
+  MueangAngThongAdm2THA:
+    admin_name: MueangAngThong
+    iso3c: THA
+    shapeID: 78962969B37597222908086
+  MueangBuengKanAdm2THA:
+    admin_name: MueangBuengKan
+    iso3c: THA
+    shapeID: 78962969B58196939194054
+  MueangBuriRamAdm2THA:
+    admin_name: MueangBuriRam
+    iso3c: THA
+    shapeID: 78962969B95913891709338
+  MueangChachoengsaoAdm2THA:
+    admin_name: MueangChachoengsao
+    iso3c: THA
+    shapeID: 78962969B6762325431778
+  MueangChaiNatAdm2THA:
+    admin_name: MueangChaiNat
+    iso3c: THA
+    shapeID: 78962969B26983912705039
+  MueangChaiyaphumAdm2THA:
+    admin_name: MueangChaiyaphum
+    iso3c: THA
+    shapeID: 78962969B81450935958728
+  MueangChanAdm2THA:
+    admin_name: MueangChan
+    iso3c: THA
+    shapeID: 78962969B71866574458891
+  MueangChanthaburiAdm2THA:
+    admin_name: MueangChanthaburi
+    iso3c: THA
+    shapeID: 78962969B33919440626179
+  MueangChiangMaiAdm2THA:
+    admin_name: MueangChiangMai
+    iso3c: THA
+    shapeID: 78962969B21056677706601
+  MueangChiangRaiAdm2THA:
+    admin_name: MueangChiangRai
+    iso3c: THA
+    shapeID: 78962969B25429486303013
+  MueangChonBuriAdm2THA:
+    admin_name: MueangChonBuri
+    iso3c: THA
+    shapeID: 78962969B92456210505100
+  MueangChumphonAdm2THA:
+    admin_name: MueangChumphon
+    iso3c: THA
+    shapeID: 78962969B98513792826345
+  MueangKalasinAdm2THA:
+    admin_name: MueangKalasin
+    iso3c: THA
+    shapeID: 78962969B94633890836153
+  MueangKamphaengPhetAdm2THA:
+    admin_name: MueangKamphaengPhet
+    iso3c: THA
+    shapeID: 78962969B14076406619672
+  MueangKanchanaburiAdm2THA:
+    admin_name: MueangKanchanaburi
+    iso3c: THA
+    shapeID: 78962969B12534371599047
+  MueangKhonKaenAdm2THA:
+    admin_name: MueangKhonKaen
+    iso3c: THA
+    shapeID: 78962969B54788642666507
+  MueangKrabiAdm2THA:
+    admin_name: MueangKrabi
+    iso3c: THA
+    shapeID: 78962969B35489784077256
+  MueangLampangAdm2THA:
+    admin_name: MueangLampang
+    iso3c: THA
+    shapeID: 78962969B84818875496031
+  MueangLamphunAdm2THA:
+    admin_name: MueangLamphun
+    iso3c: THA
+    shapeID: 78962969B31473304215935
+  MueangLoeiAdm2THA:
+    admin_name: MueangLoei
+    iso3c: THA
+    shapeID: 78962969B17428732488190
+  MueangLopBuriAdm2THA:
+    admin_name: MueangLopBuri
+    iso3c: THA
+    shapeID: 78962969B19058811012170
+  MueangMaeHongSonAdm2THA:
+    admin_name: MueangMaeHongSon
+    iso3c: THA
+    shapeID: 78962969B54063413445494
+  MueangMahaSarakhamAdm2THA:
+    admin_name: MueangMahaSarakham
+    iso3c: THA
+    shapeID: 78962969B99626144769270
+  MueangMukdahanAdm2THA:
+    admin_name: MueangMukdahan
+    iso3c: THA
+    shapeID: 78962969B66704164084877
+  MueangNakhonNayokAdm2THA:
+    admin_name: MueangNakhonNayok
+    iso3c: THA
+    shapeID: 78962969B8624849534674
+  MueangNakhonPathomAdm2THA:
+    admin_name: MueangNakhonPathom
+    iso3c: THA
+    shapeID: 78962969B95320028173020
+  MueangNakhonPhanomAdm2THA:
+    admin_name: MueangNakhonPhanom
+    iso3c: THA
+    shapeID: 78962969B91655555555249
+  MueangNakhonRatchasimaAdm2THA:
+    admin_name: MueangNakhonRatchasima
+    iso3c: THA
+    shapeID: 78962969B83988834469907
+  MueangNakhonSawanAdm2THA:
+    admin_name: MueangNakhonSawan
+    iso3c: THA
+    shapeID: 78962969B39799880183753
+  MueangNakhonSiThammaratAdm2THA:
+    admin_name: MueangNakhonSiThammarat
+    iso3c: THA
+    shapeID: 78962969B67558639110399
+  MueangNanAdm2THA:
+    admin_name: MueangNan
+    iso3c: THA
+    shapeID: 78962969B90844485924404
+  MueangNarathiwatAdm2THA:
+    admin_name: MueangNarathiwat
+    iso3c: THA
+    shapeID: 78962969B31308774945788
+  MueangNongBuaLamPhuAdm2THA:
+    admin_name: MueangNongBuaLamPhu
+    iso3c: THA
+    shapeID: 78962969B75435650034529
+  MueangNongKhaiAdm2THA:
+    admin_name: MueangNongKhai
+    iso3c: THA
+    shapeID: 78962969B49336844859905
+  MueangNonthaburiAdm2THA:
+    admin_name: MueangNonthaburi
+    iso3c: THA
+    shapeID: 78962969B57513030361621
+  MueangPanAdm2THA:
+    admin_name: MueangPan
+    iso3c: THA
+    shapeID: 78962969B66536016204177
+  MueangPathumThaniAdm2THA:
+    admin_name: MueangPathumThani
+    iso3c: THA
+    shapeID: 78962969B64886483161753
+  MueangPattaniAdm2THA:
+    admin_name: MueangPattani
+    iso3c: THA
+    shapeID: 78962969B73457350824483
+  MueangPhangngaAdm2THA:
+    admin_name: MueangPhangnga
+    iso3c: THA
+    shapeID: 78962969B58835722808395
+  MueangPhatthalungAdm2THA:
+    admin_name: MueangPhatthalung
+    iso3c: THA
+    shapeID: 78962969B3121314060328
+  MueangPhayaoAdm2THA:
+    admin_name: MueangPhayao
+    iso3c: THA
+    shapeID: 78962969B45148719558135
+  MueangPhetchabunAdm2THA:
+    admin_name: MueangPhetchabun
+    iso3c: THA
+    shapeID: 78962969B97134381081584
+  MueangPhetchaburiAdm2THA:
+    admin_name: MueangPhetchaburi
+    iso3c: THA
+    shapeID: 78962969B35998281204361
+  MueangPhichitAdm2THA:
+    admin_name: MueangPhichit
+    iso3c: THA
+    shapeID: 78962969B35136792725938
+  MueangPhitsanulokAdm2THA:
+    admin_name: MueangPhitsanulok
+    iso3c: THA
+    shapeID: 78962969B1264982226283
+  MueangPhraeAdm2THA:
+    admin_name: MueangPhrae
+    iso3c: THA
+    shapeID: 78962969B59947573587879
+  MueangPhuketAdm2THA:
+    admin_name: MueangPhuket
+    iso3c: THA
+    shapeID: 78962969B33531913696438
+  MueangPrachinBuriAdm2THA:
+    admin_name: MueangPrachinBuri
+    iso3c: THA
+    shapeID: 78962969B52304698369920
+  MueangPrachuapKhiriKhanAdm2THA:
+    admin_name: MueangPrachuapKhiriKhan
+    iso3c: THA
+    shapeID: 78962969B124127950109
+  MueangRanongAdm2THA:
+    admin_name: MueangRanong
+    iso3c: THA
+    shapeID: 78962969B42401089458559
+  MueangRatchaburiAdm2THA:
+    admin_name: MueangRatchaburi
+    iso3c: THA
+    shapeID: 78962969B80351946153843
+  MueangRayongAdm2THA:
+    admin_name: MueangRayong
+    iso3c: THA
+    shapeID: 78962969B69039752575534
+  MueangRoiEtAdm2THA:
+    admin_name: MueangRoiEt
+    iso3c: THA
+    shapeID: 78962969B98295189925556
+  MueangSaKaeoAdm2THA:
+    admin_name: MueangSaKaeo
+    iso3c: THA
+    shapeID: 78962969B70177105143831
+  MueangSakonNakhonAdm2THA:
+    admin_name: MueangSakonNakhon
+    iso3c: THA
+    shapeID: 78962969B18932454885431
+  MueangSamutPrakanAdm2THA:
+    admin_name: MueangSamutPrakan
+    iso3c: THA
+    shapeID: 78962969B45511956766283
+  MueangSamutSakhonAdm2THA:
+    admin_name: MueangSamutSakhon
+    iso3c: THA
+    shapeID: 78962969B74449724715778
+  MueangSamutSongkhramAdm2THA:
+    admin_name: MueangSamutSongkhram
+    iso3c: THA
+    shapeID: 78962969B53970702814040
+  MueangSaraburiAdm2THA:
+    admin_name: MueangSaraburi
+    iso3c: THA
+    shapeID: 78962969B17861572852327
+  MueangSatunAdm2THA:
+    admin_name: MueangSatun
+    iso3c: THA
+    shapeID: 78962969B14471868666252
+  MueangSingBuriAdm2THA:
+    admin_name: MueangSingBuri
+    iso3c: THA
+    shapeID: 78962969B52977923658609
+  MueangSiSaKetAdm2THA:
+    admin_name: MueangSiSaKet
+    iso3c: THA
+    shapeID: 78962969B95258731786412
+  MueangSongkhlaAdm2THA:
+    admin_name: MueangSongkhla
+    iso3c: THA
+    shapeID: 78962969B11995131192654
+  MueangSuangAdm2THA:
+    admin_name: MueangSuang
+    iso3c: THA
+    shapeID: 78962969B6279300393113
+  MueangSukhothaiAdm2THA:
+    admin_name: MueangSukhothai
+    iso3c: THA
+    shapeID: 78962969B37959209018419
+  MueangSuphanBuriAdm2THA:
+    admin_name: MueangSuphanBuri
+    iso3c: THA
+    shapeID: 78962969B42801469218282
+  MueangSuratThaniAdm2THA:
+    admin_name: MueangSuratThani
+    iso3c: THA
+    shapeID: 78962969B86261158660404
+  MueangSurinAdm2THA:
+    admin_name: MueangSurin
+    iso3c: THA
+    shapeID: 78962969B42978200343828
+  MueangTakAdm2THA:
+    admin_name: MueangTak
+    iso3c: THA
+    shapeID: 78962969B62571443706919
+  MueangTrangAdm2THA:
+    admin_name: MueangTrang
+    iso3c: THA
+    shapeID: 78962969B27556566790630
+  MueangTratAdm2THA:
+    admin_name: MueangTrat
+    iso3c: THA
+    shapeID: 78962969B49294102146766
+  MueangUbonRatchathaniAdm2THA:
+    admin_name: MueangUbonRatchathani
+    iso3c: THA
+    shapeID: 78962969B98641080977503
+  MueangUdonThaniAdm2THA:
+    admin_name: MueangUdonThani
+    iso3c: THA
+    shapeID: 78962969B37195167988634
+  MueangUthaiThaniAdm2THA:
+    admin_name: MueangUthaiThani
+    iso3c: THA
+    shapeID: 78962969B55424079588300
+  MueangUttaraditAdm2THA:
+    admin_name: MueangUttaradit
+    iso3c: THA
+    shapeID: 78962969B38692905391521
+  MueangYalaAdm2THA:
+    admin_name: MueangYala
+    iso3c: THA
+    shapeID: 78962969B27848698436248
+  MueangYangAdm2THA:
+    admin_name: MueangYang
+    iso3c: THA
+    shapeID: 78962969B16605171909127
+  MueangYasothonAdm2THA:
+    admin_name: MueangYasothon
+    iso3c: THA
+    shapeID: 78962969B68944208488638
+  MukdahanProvinceAdm1THA:
+    admin_name: MukdahanProvince
+    iso3c: THA
+    shapeID: 36821470B23119655123949
+  NaBonAdm2THA:
+    admin_name: NaBon
+    iso3c: THA
+    shapeID: 78962969B4441489097555
+  NaChaluaiAdm2THA:
+    admin_name: NaChaluai
+    iso3c: THA
+    shapeID: 78962969B92270071826227
+  NaChueakAdm2THA:
+    admin_name: NaChueak
+    iso3c: THA
+    shapeID: 78962969B25056088384612
+  NaDiAdm2THA:
+    admin_name: NaDi
+    iso3c: THA
+    shapeID: 78962969B93124351741283
+  NaDuangAdm2THA:
+    admin_name: NaDuang
+    iso3c: THA
+    shapeID: 78962969B28379819304677
+  NaDunAdm2THA:
+    admin_name: NaDun
+    iso3c: THA
+    shapeID: 78962969B11651744755844
+  NaHaeoAdm2THA:
+    admin_name: NaHaeo
+    iso3c: THA
+    shapeID: 78962969B63665191802101
+  NaKaeAdm2THA:
+    admin_name: NaKae
+    iso3c: THA
+    shapeID: 78962969B53080362722064
+  NakhonChaiSiAdm2THA:
+    admin_name: NakhonChaiSi
+    iso3c: THA
+    shapeID: 78962969B40906880836111
+  NakhonLuangAdm2THA:
+    admin_name: NakhonLuang
+    iso3c: THA
+    shapeID: 78962969B25127824305120
+  NakhonNayokProvinceAdm1THA:
+    admin_name: NakhonNayokProvince
+    iso3c: THA
+    shapeID: 36821470B61535785460971
+  NakhonPathomProvinceAdm1THA:
+    admin_name: NakhonPathomProvince
+    iso3c: THA
+    shapeID: 36821470B57969901614599
+  NakhonPhanomProvinceAdm1THA:
+    admin_name: NakhonPhanomProvince
+    iso3c: THA
+    shapeID: 36821470B33387239802611
+  NakhonRatchasimaProvinceAdm1THA:
+    admin_name: NakhonRatchasimaProvince
+    iso3c: THA
+    shapeID: 36821470B25997690360286
+  NakhonSawanProvinceAdm1THA:
+    admin_name: NakhonSawanProvince
+    iso3c: THA
+    shapeID: 36821470B58837026258254
+  NakhonSiThammaratProvinceAdm1THA:
+    admin_name: NakhonSiThammaratProvince
+    iso3c: THA
+    shapeID: 36821470B62527593836558
+  NakhonThaiAdm2THA:
+    admin_name: NakhonThai
+    iso3c: THA
+    shapeID: 78962969B15017109153074
+  NaKhuAdm2THA:
+    admin_name: NaKhu
+    iso3c: THA
+    shapeID: 78962969B7237235401003
+  NaKlangAdm2THA:
+    admin_name: NaKlang
+    iso3c: THA
+    shapeID: 78962969B44929961465938
+  NamKhunAdm2THA:
+    admin_name: NamKhun
+    iso3c: THA
+    shapeID: 78962969B96008774598843
+  NamKliangAdm2THA:
+    admin_name: NamKliang
+    iso3c: THA
+    shapeID: 78962969B29534928610541
+  NamNaoAdm2THA:
+    admin_name: NamNao
+    iso3c: THA
+    shapeID: 78962969B52588762248299
+  NaMomAdm2THA:
+    admin_name: NaMom
+    iso3c: THA
+    shapeID: 78962969B5243255389589
+  NaMonAdm2THA:
+    admin_name: NaMon
+    iso3c: THA
+    shapeID: 78962969B62182146168517
+  NamPatAdm2THA:
+    admin_name: NamPat
+    iso3c: THA
+    shapeID: 78962969B51395146999096
+  NamPhongAdm2THA:
+    admin_name: NamPhong
+    iso3c: THA
+    shapeID: 78962969B93047350456374
+  NamSomAdm2THA:
+    admin_name: NamSom
+    iso3c: THA
+    shapeID: 78962969B77162965817779
+  NaMuenAdm2THA:
+    admin_name: NaMuen
+    iso3c: THA
+    shapeID: 78962969B50477560257037
+  NamYuenAdm2THA:
+    admin_name: NamYuen
+    iso3c: THA
+    shapeID: 78962969B1624057872614
+  NangRongAdm2THA:
+    admin_name: NangRong
+    iso3c: THA
+    shapeID: 78962969B52670203653904
+  NaNoiAdm2THA:
+    admin_name: NaNoi
+    iso3c: THA
+    shapeID: 78962969B88234986590432
+  NanProvinceAdm1THA:
+    admin_name: NanProvince
+    iso3c: THA
+    shapeID: 36821470B5914712447243
+  NaPhoAdm2THA:
+    admin_name: NaPho
+    iso3c: THA
+    shapeID: 78962969B90341089131136
+  NarathiwatProvinceAdm1THA:
+    admin_name: NarathiwatProvince
+    iso3c: THA
+    shapeID: 36821470B28924551841133
+  NaTanAdm2THA:
+    admin_name: NaTan
+    iso3c: THA
+    shapeID: 78962969B76550243021032
+  NaThawiAdm2THA:
+    admin_name: NaThawi
+    iso3c: THA
+    shapeID: 78962969B50866975427255
+  NaThomAdm2THA:
+    admin_name: NaThom
+    iso3c: THA
+    shapeID: 78962969B75558951633427
+  NaWaAdm2THA:
+    admin_name: NaWa
+    iso3c: THA
+    shapeID: 78962969B93773491047037
+  NaWangAdm2THA:
+    admin_name: NaWang
+    iso3c: THA
+    shapeID: 78962969B46616505195468
+  NaYaiAmAdm2THA:
+    admin_name: NaYaiAm
+    iso3c: THA
+    shapeID: 78962969B31255089270993
+  NaYiaAdm2THA:
+    admin_name: NaYia
+    iso3c: THA
+    shapeID: 78962969B61476236421292
+  NaYongAdm2THA:
+    admin_name: NaYong
+    iso3c: THA
+    shapeID: 78962969B91154230125686
+  NaYungAdm2THA:
+    admin_name: NaYung
+    iso3c: THA
+    shapeID: 78962969B67652065328847
+  NgaoAdm2THA:
+    admin_name: Ngao
+    iso3c: THA
+    shapeID: 78962969B20841547873304
+  NikhomKhamSoiAdm2THA:
+    admin_name: NikhomKhamSoi
+    iso3c: THA
+    shapeID: 78962969B97747212455543
+  NikhomNamUnAdm2THA:
+    admin_name: NikhomNamUn
+    iso3c: THA
+    shapeID: 78962969B87350252424765
+  NikhomPhatthanaAdm2THA:
+    admin_name: NikhomPhatthana
+    iso3c: THA
+    shapeID: 78962969B93638644331760
+  NoenKhamAdm2THA:
+    admin_name: NoenKham
+    iso3c: THA
+    shapeID: 78962969B80984630851813
+  NoenMaprangAdm2THA:
+    admin_name: NoenMaprang
+    iso3c: THA
+    shapeID: 78962969B82229803115956
+  NoenSa-NgaAdm2THA:
+    admin_name: NoenSa-Nga
+    iso3c: THA
+    shapeID: 78962969B30671617507476
+  NonDaengAdm2THA:
+    admin_name: NonDaeng
+    iso3c: THA
+    shapeID: 78962969B77255700381962
+  NonDinDaengAdm2THA:
+    admin_name: NonDinDaeng
+    iso3c: THA
+    shapeID: 78962969B2279704281351
+  NongBuaAdm2THA:
+    admin_name: NongBua
+    iso3c: THA
+    shapeID: 78962969B24099106411844
+  NongBuaDaengAdm2THA:
+    admin_name: NongBuaDaeng
+    iso3c: THA
+    shapeID: 78962969B31038405940383
+  NongBuaLamPhuProvinceAdm1THA:
+    admin_name: NongBuaLamPhuProvince
+    iso3c: THA
+    shapeID: 36821470B48254980905782
+  NongBuaRaweAdm2THA:
+    admin_name: NongBuaRawe
+    iso3c: THA
+    shapeID: 78962969B25031101148047
+  NongBunMakAdm2THA:
+    admin_name: NongBunMak
+    iso3c: THA
+    shapeID: 78962969B63002295822353
+  NongChangAdm2THA:
+    admin_name: NongChang
+    iso3c: THA
+    shapeID: 78962969B70686602107551
+  NongChikAdm2THA:
+    admin_name: NongChik
+    iso3c: THA
+    shapeID: 78962969B59272581561490
+  NongChokAdm2THA:
+    admin_name: NongChok
+    iso3c: THA
+    shapeID: 78962969B63126335713570
+  NongDonAdm2THA:
+    admin_name: NongDon
+    iso3c: THA
+    shapeID: 78962969B30488240486428
+  NongHanAdm2THA:
+    admin_name: NongHan
+    iso3c: THA
+    shapeID: 78962969B68603960000153
+  NongHiAdm2THA:
+    admin_name: NongHi
+    iso3c: THA
+    shapeID: 78962969B92909232830049
+  NongHinAdm2THA:
+    admin_name: NongHin
+    iso3c: THA
+    shapeID: 78962969B75467334486203
+  NongHongAdm2THA:
+    admin_name: NongHong
+    iso3c: THA
+    shapeID: 78962969B41390045790021
+  NongKhaeAdm2THA:
+    admin_name: NongKhae
+    iso3c: THA
+    shapeID: 78962969B39575483913595
+  NongKhaemAdm2THA:
+    admin_name: NongKhaem
+    iso3c: THA
+    shapeID: 78962969B88059812817322
+  NongKhaiProvinceAdm1THA:
+    admin_name: NongKhaiProvince
+    iso3c: THA
+    shapeID: 36821470B10823236588148
+  NongKhayangAdm2THA:
+    admin_name: NongKhayang
+    iso3c: THA
+    shapeID: 78962969B47867684933269
+  NongKiAdm2THA:
+    admin_name: NongKi
+    iso3c: THA
+    shapeID: 78962969B963450613013
+  NongKungSiAdm2THA:
+    admin_name: NongKungSi
+    iso3c: THA
+    shapeID: 78962969B61513284826640
+  NongMamongAdm2THA:
+    admin_name: NongMamong
+    iso3c: THA
+    shapeID: 78962969B54386166532086
+  NongMuangAdm2THA:
+    admin_name: NongMuang
+    iso3c: THA
+    shapeID: 78962969B8499402752452
+  NongMuangKhaiAdm2THA:
+    admin_name: NongMuangKhai
+    iso3c: THA
+    shapeID: 78962969B85613240213831
+  NongNaKhamAdm2THA:
+    admin_name: NongNaKham
+    iso3c: THA
+    shapeID: 78962969B54012072717809
+  NongPhaiAdm2THA:
+    admin_name: NongPhai
+    iso3c: THA
+    shapeID: 78962969B28403157938028
+  NongPhokAdm2THA:
+    admin_name: NongPhok
+    iso3c: THA
+    shapeID: 78962969B43863364704456
+  NongPrueAdm2THA:
+    admin_name: NongPrue
+    iso3c: THA
+    shapeID: 78962969B48992578424572
+  NongRueaAdm2THA:
+    admin_name: NongRuea
+    iso3c: THA
+    shapeID: 78962969B72555915440890
+  NongSaengAdm2THA:
+    admin_name: NongSaeng
+    iso3c: THA
+    shapeID: 78962969B44780208263164
+  NongSongHongAdm2THA:
+    admin_name: NongSongHong
+    iso3c: THA
+    shapeID: 78962969B38017205810186
+  NongSueaAdm2THA:
+    admin_name: NongSuea
+    iso3c: THA
+    shapeID: 78962969B25224314923642
+  NongSungAdm2THA:
+    admin_name: NongSung
+    iso3c: THA
+    shapeID: 78962969B14563868158116
+  NongWuaSoAdm2THA:
+    admin_name: NongWuaSo
+    iso3c: THA
+    shapeID: 78962969B8714303156846
+  NongYaiAdm2THA:
+    admin_name: NongYai
+    iso3c: THA
+    shapeID: 78962969B4010364825513
+  NongYaPlongAdm2THA:
+    admin_name: NongYaPlong
+    iso3c: THA
+    shapeID: 78962969B63755110473004
+  NongYaSaiAdm2THA:
+    admin_name: NongYaSai
+    iso3c: THA
+    shapeID: 78962969B37617655473411
+  NonKhunAdm2THA:
+    admin_name: NonKhun
+    iso3c: THA
+    shapeID: 78962969B12242919423404
+  NonNaraiAdm2THA:
+    admin_name: NonNarai
+    iso3c: THA
+    shapeID: 78962969B93743145259282
+  NonSa-AtAdm2THA:
+    admin_name: NonSa-At
+    iso3c: THA
+    shapeID: 78962969B30121377049744
+  NonSangAdm2THA:
+    admin_name: NonSang
+    iso3c: THA
+    shapeID: 78962969B40369427634380
+  NonSilaAdm2THA:
+    admin_name: NonSila
+    iso3c: THA
+    shapeID: 78962969B89179811023698
+  NonSungAdm2THA:
+    admin_name: NonSung
+    iso3c: THA
+    shapeID: 78962969B78904215170305
+  NonSuwanAdm2THA:
+    admin_name: NonSuwan
+    iso3c: THA
+    shapeID: 78962969B59814899315802
+  NonthaburiProvinceAdm1THA:
+    admin_name: NonthaburiProvince
+    iso3c: THA
+    shapeID: 36821470B99224408335371
+  NonThaiAdm2THA:
+    admin_name: NonThai
+    iso3c: THA
+    shapeID: 78962969B14753651258608
+  NopphitamAdm2THA:
+    admin_name: Nopphitam
+    iso3c: THA
+    shapeID: 78962969B39887393521722
+  NueaKhlongAdm2THA:
+    admin_name: NueaKhlong
+    iso3c: THA
+    shapeID: 78962969B85849913295543
+  OmkoiAdm2THA:
+    admin_name: Omkoi
+    iso3c: THA
+    shapeID: 78962969B68352553726787
+  OngkharakAdm2THA:
+    admin_name: Ongkharak
+    iso3c: THA
+    shapeID: 78962969B80179535824157
+  PaBonAdm2THA:
+    admin_name: PaBon
+    iso3c: THA
+    shapeID: 78962969B61161891494947
+  PaDaetAdm2THA:
+    admin_name: PaDaet
+    iso3c: THA
+    shapeID: 78962969B68909645293993
+  PaiAdm2THA:
+    admin_name: Pai
+    iso3c: THA
+    shapeID: 78962969B97978229640938
+  PakChomAdm2THA:
+    admin_name: PakChom
+    iso3c: THA
+    shapeID: 78962969B8993470391858
+  PakChongAdm2THA:
+    admin_name: PakChong
+    iso3c: THA
+    shapeID: 78962969B19960010769064
+  PakhamAdm2THA:
+    admin_name: Pakham
+    iso3c: THA
+    shapeID: 78962969B25022287440202
+  PakKhatAdm2THA:
+    admin_name: PakKhat
+    iso3c: THA
+    shapeID: 78962969B17401881155721
+  PakKretAdm2THA:
+    admin_name: PakKret
+    iso3c: THA
+    shapeID: 78962969B33148689371757
+  PakPhanangAdm2THA:
+    admin_name: PakPhanang
+    iso3c: THA
+    shapeID: 78962969B48668485292625
+  PakPhayunAdm2THA:
+    admin_name: PakPhayun
+    iso3c: THA
+    shapeID: 78962969B11812729202220
+  PakPhliAdm2THA:
+    admin_name: PakPhli
+    iso3c: THA
+    shapeID: 78962969B43215001089078
+  PakThoAdm2THA:
+    admin_name: PakTho
+    iso3c: THA
+    shapeID: 78962969B58694700043787
+  PakThongChaiAdm2THA:
+    admin_name: PakThongChai
+    iso3c: THA
+    shapeID: 78962969B86038514919301
+  PalianAdm2THA:
+    admin_name: Palian
+    iso3c: THA
+    shapeID: 78962969B78626078629427
+  PaMokAdm2THA:
+    admin_name: PaMok
+    iso3c: THA
+    shapeID: 78962969B20777837687039
+  PanareAdm2THA:
+    admin_name: Panare
+    iso3c: THA
+    shapeID: 78962969B4451238967182
+  PangMaphaAdm2THA:
+    admin_name: PangMapha
+    iso3c: THA
+    shapeID: 78962969B96104759744449
+  PangSilaThongAdm2THA:
+    admin_name: PangSilaThong
+    iso3c: THA
+    shapeID: 78962969B12930513121480
+  PaPhayomAdm2THA:
+    admin_name: PaPhayom
+    iso3c: THA
+    shapeID: 78962969B75084248147684
+  PaSangAdm2THA:
+    admin_name: PaSang
+    iso3c: THA
+    shapeID: 78962969B79756650149930
+  PathioAdm2THA:
+    admin_name: Pathio
+    iso3c: THA
+    shapeID: 78962969B3300924250293
+  PathumRatAdm2THA:
+    admin_name: PathumRat
+    iso3c: THA
+    shapeID: 78962969B53925020566398
+  PathumRatchawongsaAdm2THA:
+    admin_name: PathumRatchawongsa
+    iso3c: THA
+    shapeID: 78962969B30801427896168
+  PathumThaniProvinceAdm1THA:
+    admin_name: PathumThaniProvince
+    iso3c: THA
+    shapeID: 36821470B26201996409674
+  PathumWanAdm2THA:
+    admin_name: PathumWan
+    iso3c: THA
+    shapeID: 78962969B24986508007859
+  PaTioAdm2THA:
+    admin_name: PaTio
+    iso3c: THA
+    shapeID: 78962969B66944967065262
+  PattaniProvinceAdm1THA:
+    admin_name: PattaniProvince
+    iso3c: THA
+    shapeID: 36821470B57629606152034
+  PhachiAdm2THA:
+    admin_name: Phachi
+    iso3c: THA
+    shapeID: 78962969B2031869857401
+  PhaisaliAdm2THA:
+    admin_name: Phaisali
+    iso3c: THA
+    shapeID: 78962969B15796464090467
+  PhakdiChumphonAdm2THA:
+    admin_name: PhakdiChumphon
+    iso3c: THA
+    shapeID: 78962969B21349454569090
+  PhakHaiAdm2THA:
+    admin_name: PhakHai
+    iso3c: THA
+    shapeID: 78962969B77944548728252
+  PhaKhaoAdm2THA:
+    admin_name: PhaKhao
+    iso3c: THA
+    shapeID: 78962969B60178316826194
+  PhanaAdm2THA:
+    admin_name: Phana
+    iso3c: THA
+    shapeID: 78962969B53965297473531
+  PhanAdm2THA:
+    admin_name: Phan
+    iso3c: THA
+    shapeID: 78962969B39225899035049
+  PhanatNikhomAdm2THA:
+    admin_name: PhanatNikhom
+    iso3c: THA
+    shapeID: 78962969B17993818596580
+  PhangKhonAdm2THA:
+    admin_name: PhangKhon
+    iso3c: THA
+    shapeID: 78962969B14140185659984
+  PhangngaProvinceAdm1THA:
+    admin_name: PhangngaProvince
+    iso3c: THA
+    shapeID: 36821470B99917015254292
+  PhannaNikhomAdm2THA:
+    admin_name: PhannaNikhom
+    iso3c: THA
+    shapeID: 78962969B32881438495472
+  PhanomAdm2THA:
+    admin_name: Phanom
+    iso3c: THA
+    shapeID: 78962969B14493078239270
+  PhanomDongRakAdm2THA:
+    admin_name: PhanomDongRak
+    iso3c: THA
+    shapeID: 78962969B88095074466781
+  PhanomPhraiAdm2THA:
+    admin_name: PhanomPhrai
+    iso3c: THA
+    shapeID: 78962969B84484798937019
+  PhanomSarakhamAdm2THA:
+    admin_name: PhanomSarakham
+    iso3c: THA
+    shapeID: 78962969B65089616698234
+  PhanomThuanAdm2THA:
+    admin_name: PhanomThuan
+    iso3c: THA
+    shapeID: 78962969B66646972334810
+  PhanThongAdm2THA:
+    admin_name: PhanThong
+    iso3c: THA
+    shapeID: 78962969B10956756267411
+  PhasiCharoenAdm2THA:
+    admin_name: PhasiCharoen
+    iso3c: THA
+    shapeID: 78962969B24631471480950
+  PhatoAdm2THA:
+    admin_name: Phato
+    iso3c: THA
+    shapeID: 78962969B64090503691360
+  PhatthalungProvinceAdm1THA:
+    admin_name: PhatthalungProvince
+    iso3c: THA
+    shapeID: 36821470B28496430357074
+  PhatthanaNikhomAdm2THA:
+    admin_name: PhatthanaNikhom
+    iso3c: THA
+    shapeID: 78962969B79336823400406
+  PhayakkhaphumPhisaiAdm2THA:
+    admin_name: PhayakkhaphumPhisai
+    iso3c: THA
+    shapeID: 78962969B19409562021129
+  PhayaMengraiAdm2THA:
+    admin_name: PhayaMengrai
+    iso3c: THA
+    shapeID: 78962969B59548210806286
+  PhayaoProvinceAdm1THA:
+    admin_name: PhayaoProvince
+    iso3c: THA
+    shapeID: 36821470B12194119812739
+  PhayaThaiAdm2THA:
+    admin_name: PhayaThai
+    iso3c: THA
+    shapeID: 78962969B58585163382090
+  PhayuAdm2THA:
+    admin_name: Phayu
+    iso3c: THA
+    shapeID: 78962969B85522874194306
+  PhayuhaKhiriAdm2THA:
+    admin_name: PhayuhaKhiri
+    iso3c: THA
+    shapeID: 78962969B23283283328110
+  PhenAdm2THA:
+    admin_name: Phen
+    iso3c: THA
+    shapeID: 78962969B52951901004479
+  PhetchabunProvinceAdm1THA:
+    admin_name: PhetchabunProvince
+    iso3c: THA
+    shapeID: 36821470B55463016005684
+  PhetchaburiProvinceAdm1THA:
+    admin_name: PhetchaburiProvince
+    iso3c: THA
+    shapeID: 36821470B90667358259218
+  PhibunMangsahanAdm2THA:
+    admin_name: PhibunMangsahan
+    iso3c: THA
+    shapeID: 78962969B76459956154531
+  PhibunRakAdm2THA:
+    admin_name: PhibunRak
+    iso3c: THA
+    shapeID: 78962969B22410583469431
+  PhichaiAdm2THA:
+    admin_name: Phichai
+    iso3c: THA
+    shapeID: 78962969B15647652968597
+  PhichitProvinceAdm1THA:
+    admin_name: PhichitProvince
+    iso3c: THA
+    shapeID: 36821470B91401445526671
+  PhimaiAdm2THA:
+    admin_name: Phimai
+    iso3c: THA
+    shapeID: 78962969B83847555024390
+  PhipunAdm2THA:
+    admin_name: Phipun
+    iso3c: THA
+    shapeID: 78962969B61248323272668
+  PhitsanulokProvinceAdm1THA:
+    admin_name: PhitsanulokProvince
+    iso3c: THA
+    shapeID: 36821470B89877881758540
+  PhlapphlaChaiAdm2THA:
+    admin_name: PhlapphlaChai
+    iso3c: THA
+    shapeID: 78962969B51110363980363
+  PhoChaiAdm2THA:
+    admin_name: PhoChai
+    iso3c: THA
+    shapeID: 78962969B887090741861
+  PhonAdm2THA:
+    admin_name: Phon
+    iso3c: THA
+    shapeID: 78962969B25961051879193
+  PhonCharoenAdm2THA:
+    admin_name: PhonCharoen
+    iso3c: THA
+    shapeID: 78962969B2501060362083
+  PhonNaKaeoAdm2THA:
+    admin_name: PhonNaKaeo
+    iso3c: THA
+    shapeID: 78962969B15613866978457
+  PhonPhisaiAdm2THA:
+    admin_name: PhonPhisai
+    iso3c: THA
+    shapeID: 78962969B13361717862760
+  PhonSaiAdm2THA:
+    admin_name: PhonSai
+    iso3c: THA
+    shapeID: 78962969B54867067631635
+  PhonSawanAdm2THA:
+    admin_name: PhonSawan
+    iso3c: THA
+    shapeID: 78962969B77230188112326
+  PhonThongAdm2THA:
+    admin_name: PhonThong
+    iso3c: THA
+    shapeID: 78962969B17722386681463
+  PhopPhraAdm2THA:
+    admin_name: PhopPhra
+    iso3c: THA
+    shapeID: 78962969B25324759841331
+  PhoPrathapChangAdm2THA:
+    admin_name: PhoPrathapChang
+    iso3c: THA
+    shapeID: 78962969B76859973780400
+  PhoSaiAdm2THA:
+    admin_name: PhoSai
+    iso3c: THA
+    shapeID: 78962969B51244182519846
+  PhoSiSuwanAdm2THA:
+    admin_name: PhoSiSuwan
+    iso3c: THA
+    shapeID: 78962969B41493060584817
+  PhoTakAdm2THA:
+    admin_name: PhoTak
+    iso3c: THA
+    shapeID: 78962969B47302686470604
+  PhoThaleAdm2THA:
+    admin_name: PhoThale
+    iso3c: THA
+    shapeID: 78962969B47406793118742
+  PhotharamAdm2THA:
+    admin_name: Photharam
+    iso3c: THA
+    shapeID: 78962969B60761780399877
+  PhoThongAdm2THA:
+    admin_name: PhoThong
+    iso3c: THA
+    shapeID: 78962969B68312342882015
+  PhraeProvinceAdm1THA:
+    admin_name: PhraeProvince
+    iso3c: THA
+    shapeID: 36821470B82770800477257
+  PhraiBuengAdm2THA:
+    admin_name: PhraiBueng
+    iso3c: THA
+    shapeID: 78962969B56904168691236
+  PhraKhanongAdm2THA:
+    admin_name: PhraKhanong
+    iso3c: THA
+    shapeID: 78962969B55596072077458
+  PhraNakhonAdm2THA:
+    admin_name: PhraNakhon
+    iso3c: THA
+    shapeID: 78962969B48360013024769
+  PhraNakhonSiAyutthayaAdm2THA:
+    admin_name: PhraNakhonSiAyutthaya
+    iso3c: THA
+    shapeID: 78962969B15942215938926
+  PhraNakhonSiAyutthayaProvinceAdm1THA:
+    admin_name: PhraNakhonSiAyutthayaProvince
+    iso3c: THA
+    shapeID: 36821470B14521381139968
+  PhranKrataiAdm2THA:
+    admin_name: PhranKratai
+    iso3c: THA
+    shapeID: 78962969B94050076713993
+  PhraoAdm2THA:
+    admin_name: Phrao
+    iso3c: THA
+    shapeID: 78962969B69125034410503
+  PhraPhromAdm2THA:
+    admin_name: PhraPhrom
+    iso3c: THA
+    shapeID: 78962969B31932959470033
+  PhraPhutthabatAdm2THA:
+    admin_name: PhraPhutthabat
+    iso3c: THA
+    shapeID: 78962969B27342930325122
+  PhraPradaengAdm2THA:
+    admin_name: PhraPradaeng
+    iso3c: THA
+    shapeID: 78962969B48513607541542
+  PhrasaengAdm2THA:
+    admin_name: Phrasaeng
+    iso3c: THA
+    shapeID: 78962969B2036250841951
+  PhraSamutChediAdm2THA:
+    admin_name: PhraSamutChedi
+    iso3c: THA
+    shapeID: 78962969B59575898831596
+  PhraThongKhamAdm2THA:
+    admin_name: PhraThongKham
+    iso3c: THA
+    shapeID: 78962969B71557232877153
+  PhraYuenAdm2THA:
+    admin_name: PhraYuen
+    iso3c: THA
+    shapeID: 78962969B90027256555500
+  PhromBuriAdm2THA:
+    admin_name: PhromBuri
+    iso3c: THA
+    shapeID: 78962969B89393291205833
+  PhromKhiriAdm2THA:
+    admin_name: PhromKhiri
+    iso3c: THA
+    shapeID: 78962969B66960801991597
+  PhromPhiramAdm2THA:
+    admin_name: PhromPhiram
+    iso3c: THA
+    shapeID: 78962969B88241581512503
+  PhuKamyaoAdm2THA:
+    admin_name: PhuKamyao
+    iso3c: THA
+    shapeID: 78962969B43873675128191
+  PhuketProvinceAdm1THA:
+    admin_name: PhuketProvince
+    iso3c: THA
+    shapeID: 36821470B89498504013794
+  PhuKhiaoAdm2THA:
+    admin_name: PhuKhiao
+    iso3c: THA
+    shapeID: 78962969B29534138617955
+  PhuKraduengAdm2THA:
+    admin_name: PhuKradueng
+    iso3c: THA
+    shapeID: 78962969B77049388444937
+  PhuLuangAdm2THA:
+    admin_name: PhuLuang
+    iso3c: THA
+    shapeID: 78962969B80258711240190
+  PhunphinAdm2THA:
+    admin_name: Phunphin
+    iso3c: THA
+    shapeID: 78962969B67039244737250
+  PhuPhaManAdm2THA:
+    admin_name: PhuPhaMan
+    iso3c: THA
+    shapeID: 78962969B79810553491951
+  PhuPhanAdm2THA:
+    admin_name: PhuPhan
+    iso3c: THA
+    shapeID: 78962969B29129628084941
+  PhuPhiangAdm2THA:
+    admin_name: PhuPhiang
+    iso3c: THA
+    shapeID: 78962969B69096812257828
+  PhuRueaAdm2THA:
+    admin_name: PhuRuea
+    iso3c: THA
+    shapeID: 78962969B51593367753685
+  PhuSangAdm2THA:
+    admin_name: PhuSang
+    iso3c: THA
+    shapeID: 78962969B43087545511477
+  PhuSingAdm2THA:
+    admin_name: PhuSing
+    iso3c: THA
+    shapeID: 78962969B17972305807054
+  PhutthaisongAdm2THA:
+    admin_name: Phutthaisong
+    iso3c: THA
+    shapeID: 78962969B74701516685822
+  PhutthamonthonAdm2THA:
+    admin_name: Phutthamonthon
+    iso3c: THA
+    shapeID: 78962969B43033268258309
+  PhuWiangAdm2THA:
+    admin_name: PhuWiang
+    iso3c: THA
+    shapeID: 78962969B4805162341011
+  PlaengYaoAdm2THA:
+    admin_name: PlaengYao
+    iso3c: THA
+    shapeID: 78962969B34139607112253
+  PlaiPhrayaAdm2THA:
+    admin_name: PlaiPhraya
+    iso3c: THA
+    shapeID: 78962969B62820682032584
+  PlaPakAdm2THA:
+    admin_name: PlaPak
+    iso3c: THA
+    shapeID: 78962969B9845696572141
+  PluakDaengAdm2THA:
+    admin_name: PluakDaeng
+    iso3c: THA
+    shapeID: 78962969B8046097083868
+  PomPrapSattruPhaiAdm2THA:
+    admin_name: PomPrapSattruPhai
+    iso3c: THA
+    shapeID: 78962969B85320273123577
+  PongAdm2THA:
+    admin_name: Pong
+    iso3c: THA
+    shapeID: 78962969B4700239694547
+  PongNamRonAdm2THA:
+    admin_name: PongNamRon
+    iso3c: THA
+    shapeID: 78962969B84278316034538
+  PrachaksinlapakhomAdm2THA:
+    admin_name: Prachaksinlapakhom
+    iso3c: THA
+    shapeID: 78962969B6434448964303
+  PrachantakhamAdm2THA:
+    admin_name: Prachantakham
+    iso3c: THA
+    shapeID: 78962969B79436242048830
+  PrachinBuriProvinceAdm1THA:
+    admin_name: PrachinBuriProvince
+    iso3c: THA
+    shapeID: 36821470B81436549800024
+  PrachuapKhiriKhanProvinceAdm1THA:
+    admin_name: PrachuapKhiriKhanProvince
+    iso3c: THA
+    shapeID: 36821470B69255687394343
+  PrakhonChaiAdm2THA:
+    admin_name: PrakhonChai
+    iso3c: THA
+    shapeID: 78962969B33368538988624
+  PranBuriAdm2THA:
+    admin_name: PranBuri
+    iso3c: THA
+    shapeID: 78962969B16792077167163
+  PrangKuAdm2THA:
+    admin_name: PrangKu
+    iso3c: THA
+    shapeID: 78962969B23076564972122
+  PrasatAdm2THA:
+    admin_name: Prasat
+    iso3c: THA
+    shapeID: 78962969B37601114893019
+  PrathaiAdm2THA:
+    admin_name: Prathai
+    iso3c: THA
+    shapeID: 78962969B10005729924667
+  PrawetAdm2THA:
+    admin_name: Prawet
+    iso3c: THA
+    shapeID: 78962969B62937206462024
+  PuaAdm2THA:
+    admin_name: Pua
+    iso3c: THA
+    shapeID: 78962969B90193228805954
+  PueaiNoiAdm2THA:
+    admin_name: PueaiNoi
+    iso3c: THA
+    shapeID: 78962969B8052228194876
+  Ra-NgaeAdm2THA:
+    admin_name: Ra-Ngae
+    iso3c: THA
+    shapeID: 78962969B92165576967396
+  RamanAdm2THA:
+    admin_name: Raman
+    iso3c: THA
+    shapeID: 78962969B66156572835957
+  RanongProvinceAdm1THA:
+    admin_name: RanongProvince
+    iso3c: THA
+    shapeID: 36821470B8565245416798
+  RanotAdm2THA:
+    admin_name: Ranot
+    iso3c: THA
+    shapeID: 78962969B50456220611467
+  RasiSalaiAdm2THA:
+    admin_name: RasiSalai
+    iso3c: THA
+    shapeID: 78962969B91531031914262
+  RatBuranaAdm2THA:
+    admin_name: RatBurana
+    iso3c: THA
+    shapeID: 78962969B18943250736788
+  RatchaburiProvinceAdm1THA:
+    admin_name: RatchaburiProvince
+    iso3c: THA
+    shapeID: 36821470B93544771177010
+  RatchasanAdm2THA:
+    admin_name: Ratchasan
+    iso3c: THA
+    shapeID: 78962969B64139480936177
+  RatchathewiAdm2THA:
+    admin_name: Ratchathewi
+    iso3c: THA
+    shapeID: 78962969B82033887386179
+  RatsadaAdm2THA:
+    admin_name: Ratsada
+    iso3c: THA
+    shapeID: 78962969B5329491691086
+  RattanaburiAdm2THA:
+    admin_name: Rattanaburi
+    iso3c: THA
+    shapeID: 78962969B68568199624354
+  RattanawapiAdm2THA:
+    admin_name: Rattanawapi
+    iso3c: THA
+    shapeID: 78962969B97368388626717
+  RattaphumAdm2THA:
+    admin_name: Rattaphum
+    iso3c: THA
+    shapeID: 78962969B64238633533340
+  RayongProvinceAdm1THA:
+    admin_name: RayongProvince
+    iso3c: THA
+    shapeID: 36821470B65269516307076
+  RenuNakhonAdm2THA:
+    admin_name: RenuNakhon
+    iso3c: THA
+    shapeID: 78962969B93131496494320
+  RoiEtProvinceAdm1THA:
+    admin_name: RoiEtProvince
+    iso3c: THA
+    shapeID: 36821470B96343765829948
+  RongKhamAdm2THA:
+    admin_name: RongKham
+    iso3c: THA
+    shapeID: 78962969B70209465678714
+  RongKwangAdm2THA:
+    admin_name: RongKwang
+    iso3c: THA
+    shapeID: 78962969B55827771181130
+  RonPhibunAdm2THA:
+    admin_name: RonPhibun
+    iso3c: THA
+    shapeID: 78962969B70310108322662
+  RuesoAdm2THA:
+    admin_name: Rueso
+    iso3c: THA
+    shapeID: 78962969B48534780184393
+  SabaYoiAdm2THA:
+    admin_name: SabaYoi
+    iso3c: THA
+    shapeID: 78962969B77762889714040
+  SaBotAdm2THA:
+    admin_name: SaBot
+    iso3c: THA
+    shapeID: 78962969B19541644764840
+  SadaoAdm2THA:
+    admin_name: Sadao
+    iso3c: THA
+    shapeID: 78962969B3904218037840
+  SahatsakhanAdm2THA:
+    admin_name: Sahatsakhan
+    iso3c: THA
+    shapeID: 78962969B18941921206705
+  SaiBuriAdm2THA:
+    admin_name: SaiBuri
+    iso3c: THA
+    shapeID: 78962969B50948303321552
+  SaiMaiAdm2THA:
+    admin_name: SaiMai
+    iso3c: THA
+    shapeID: 78962969B64116960890602
+  SaiMunAdm2THA:
+    admin_name: SaiMun
+    iso3c: THA
+    shapeID: 78962969B82059554981356
+  SaiNgamAdm2THA:
+    admin_name: SaiNgam
+    iso3c: THA
+    shapeID: 78962969B50416991150341
+  SaiNoiAdm2THA:
+    admin_name: SaiNoi
+    iso3c: THA
+    shapeID: 78962969B41113912709899
+  SaiThongWatthanaAdm2THA:
+    admin_name: SaiThongWatthana
+    iso3c: THA
+    shapeID: 78962969B33037447710265
+  SaiYokAdm2THA:
+    admin_name: SaiYok
+    iso3c: THA
+    shapeID: 78962969B26028425570589
+  SaKaeoProvinceAdm1THA:
+    admin_name: SaKaeoProvince
+    iso3c: THA
+    shapeID: 36821470B21581797364135
+  SakhraiAdm2THA:
+    admin_name: Sakhrai
+    iso3c: THA
+    shapeID: 78962969B97466858782755
+  SakLekAdm2THA:
+    admin_name: SakLek
+    iso3c: THA
+    shapeID: 78962969B74597047667398
+  SakonNakhonProvinceAdm1THA:
+    admin_name: SakonNakhonProvince
+    iso3c: THA
+    shapeID: 36821470B62746704581928
+  SamChaiAdm2THA:
+    admin_name: SamChai
+    iso3c: THA
+    shapeID: 78962969B80615329073531
+  SamChukAdm2THA:
+    admin_name: SamChuk
+    iso3c: THA
+    shapeID: 78962969B87742796188893
+  SamKhokAdm2THA:
+    admin_name: SamKhok
+    iso3c: THA
+    shapeID: 78962969B46863562743869
+  SamkoAdm2THA:
+    admin_name: Samko
+    iso3c: THA
+    shapeID: 78962969B27943810698325
+  SamNgamAdm2THA:
+    admin_name: SamNgam
+    iso3c: THA
+    shapeID: 78962969B83024489424242
+  SamNgaoAdm2THA:
+    admin_name: SamNgao
+    iso3c: THA
+    shapeID: 78962969B22995817485860
+  SamoengAdm2THA:
+    admin_name: Samoeng
+    iso3c: THA
+    shapeID: 78962969B23255460238511
+  SamphanthawongAdm2THA:
+    admin_name: Samphanthawong
+    iso3c: THA
+    shapeID: 78962969B78328018981933
+  SamPhranAdm2THA:
+    admin_name: SamPhran
+    iso3c: THA
+    shapeID: 78962969B70843901453071
+  SamRoiYotAdm2THA:
+    admin_name: SamRoiYot
+    iso3c: THA
+    shapeID: 78962969B49973516992329
+  SamrongAdm2THA:
+    admin_name: Samrong
+    iso3c: THA
+    shapeID: 78962969B51055039755646
+  SamrongThapAdm2THA:
+    admin_name: SamrongThap
+    iso3c: THA
+    shapeID: 78962969B97732928781759
+  SamSungAdm2THA:
+    admin_name: SamSung
+    iso3c: THA
+    shapeID: 78962969B89494926735962
+  SamutPrakanProvinceAdm1THA:
+    admin_name: SamutPrakanProvince
+    iso3c: THA
+    shapeID: 36821470B35369831436030
+  SamutSakhonProvinceAdm1THA:
+    admin_name: SamutSakhonProvince
+    iso3c: THA
+    shapeID: 36821470B38183153164097
+  SamutSongkhramProvinceAdm1THA:
+    admin_name: SamutSongkhramProvince
+    iso3c: THA
+    shapeID: 36821470B82153023326894
+  SanamChaiKhetAdm2THA:
+    admin_name: SanamChaiKhet
+    iso3c: THA
+    shapeID: 78962969B69796195925566
+  SangkhaAdm2THA:
+    admin_name: Sangkha
+    iso3c: THA
+    shapeID: 78962969B46327860609250
+  SangkhlaBuriAdm2THA:
+    admin_name: SangkhlaBuri
+    iso3c: THA
+    shapeID: 78962969B87118801609333
+  SangkhomAdm2THA:
+    admin_name: Sangkhom
+    iso3c: THA
+    shapeID: 78962969B79910801110812
+  SangKhomAdm2THA:
+    admin_name: SangKhom
+    iso3c: THA
+    shapeID: 78962969B36388809671077
+  SanKamphaengAdm2THA:
+    admin_name: SanKamphaeng
+    iso3c: THA
+    shapeID: 78962969B510948306110
+  SankhaburiAdm2THA:
+    admin_name: Sankhaburi
+    iso3c: THA
+    shapeID: 78962969B50930938834164
+  SanomAdm2THA:
+    admin_name: Sanom
+    iso3c: THA
+    shapeID: 78962969B59792797819888
+  SanPaTongAdm2THA:
+    admin_name: SanPaTong
+    iso3c: THA
+    shapeID: 78962969B57097295633579
+  SanSaiAdm2THA:
+    admin_name: SanSai
+    iso3c: THA
+    shapeID: 78962969B96065605471256
+  SantiSukAdm2THA:
+    admin_name: SantiSuk
+    iso3c: THA
+    shapeID: 78962969B68845226908078
+  SaoHaiAdm2THA:
+    admin_name: SaoHai
+    iso3c: THA
+    shapeID: 78962969B47603899438932
+  SaphanSungAdm2THA:
+    admin_name: SaphanSung
+    iso3c: THA
+    shapeID: 78962969B37896231251268
+  SapphayaAdm2THA:
+    admin_name: Sapphaya
+    iso3c: THA
+    shapeID: 78962969B57770947463323
+  SapYaiAdm2THA:
+    admin_name: SapYai
+    iso3c: THA
+    shapeID: 78962969B56602789101546
+  SaraburiProvinceAdm1THA:
+    admin_name: SaraburiProvince
+    iso3c: THA
+    shapeID: 36821470B39713231642809
+  SaraphiAdm2THA:
+    admin_name: Saraphi
+    iso3c: THA
+    shapeID: 78962969B91762901064506
+  SathingPhraAdm2THA:
+    admin_name: SathingPhra
+    iso3c: THA
+    shapeID: 78962969B2429736291194
+  SathonAdm2THA:
+    admin_name: Sathon
+    iso3c: THA
+    shapeID: 78962969B57919474821024
+  SattahipAdm2THA:
+    admin_name: Sattahip
+    iso3c: THA
+    shapeID: 78962969B45333129363776
+  SatuekAdm2THA:
+    admin_name: Satuek
+    iso3c: THA
+    shapeID: 78962969B95819884850859
+  SatunProvinceAdm1THA:
+    admin_name: SatunProvince
+    iso3c: THA
+    shapeID: 36821470B18098062997541
+  SawaengHaAdm2THA:
+    admin_name: SawaengHa
+    iso3c: THA
+    shapeID: 78962969B63789793815437
+  SawangAromAdm2THA:
+    admin_name: SawangArom
+    iso3c: THA
+    shapeID: 78962969B79661322600034
+  SawangDaenDinAdm2THA:
+    admin_name: SawangDaenDin
+    iso3c: THA
+    shapeID: 78962969B25029845772948
+  SawangWirawongAdm2THA:
+    admin_name: SawangWirawong
+    iso3c: THA
+    shapeID: 78962969B62238671099261
+  SawankhalokAdm2THA:
+    admin_name: Sawankhalok
+    iso3c: THA
+    shapeID: 78962969B82720870655259
+  SawiAdm2THA:
+    admin_name: Sawi
+    iso3c: THA
+    shapeID: 78962969B1514020296761
+  SekaAdm2THA:
+    admin_name: Seka
+    iso3c: THA
+    shapeID: 78962969B66355346971085
+  SelaphumAdm2THA:
+    admin_name: Selaphum
+    iso3c: THA
+    shapeID: 78962969B97010447332872
+  SenaAdm2THA:
+    admin_name: Sena
+    iso3c: THA
+    shapeID: 78962969B95009717183464
+  SenangkhanikhomAdm2THA:
+    admin_name: Senangkhanikhom
+    iso3c: THA
+    shapeID: 78962969B182385267454
+  SiBanphotAdm2THA:
+    admin_name: SiBanphot
+    iso3c: THA
+    shapeID: 78962969B76143579725906
+  SiBunRueangAdm2THA:
+    admin_name: SiBunRueang
+    iso3c: THA
+    shapeID: 78962969B72189645888200
+  SiChiangMaiAdm2THA:
+    admin_name: SiChiangMai
+    iso3c: THA
+    shapeID: 78962969B28674959070038
+  SiChomphuAdm2THA:
+    admin_name: SiChomphu
+    iso3c: THA
+    shapeID: 78962969B87234528247492
+  SichonAdm2THA:
+    admin_name: Sichon
+    iso3c: THA
+    shapeID: 78962969B22761856957978
+  SidaAdm2THA:
+    admin_name: Sida
+    iso3c: THA
+    shapeID: 78962969B50986245619578
+  SikaoAdm2THA:
+    admin_name: Sikao
+    iso3c: THA
+    shapeID: 78962969B32337273254454
+  SikhioAdm2THA:
+    admin_name: Sikhio
+    iso3c: THA
+    shapeID: 78962969B49546338706429
+  SikhoraphumAdm2THA:
+    admin_name: Sikhoraphum
+    iso3c: THA
+    shapeID: 78962969B98513612105596
+  SilaLatAdm2THA:
+    admin_name: SilaLat
+    iso3c: THA
+    shapeID: 78962969B41735347341952
+  SiMahaPhotAdm2THA:
+    admin_name: SiMahaPhot
+    iso3c: THA
+    shapeID: 78962969B29475179093535
+  SiMahosotAdm2THA:
+    admin_name: SiMahosot
+    iso3c: THA
+    shapeID: 78962969B41561963673691
+  SiMueangMaiAdm2THA:
+    admin_name: SiMueangMai
+    iso3c: THA
+    shapeID: 78962969B56370266169267
+  SiNakhonAdm2THA:
+    admin_name: SiNakhon
+    iso3c: THA
+    shapeID: 78962969B98677957537558
+  SiNarongAdm2THA:
+    admin_name: SiNarong
+    iso3c: THA
+    shapeID: 78962969B85026049699572
+  SingBuriProvinceAdm1THA:
+    admin_name: SingBuriProvince
+    iso3c: THA
+    shapeID: 36821470B69138836783186
+  SinghanakhonAdm2THA:
+    admin_name: Singhanakhon
+    iso3c: THA
+    shapeID: 78962969B74412362981694
+  SiPrachanAdm2THA:
+    admin_name: SiPrachan
+    iso3c: THA
+    shapeID: 78962969B29748545186398
+  SiRachaAdm2THA:
+    admin_name: SiRacha
+    iso3c: THA
+    shapeID: 78962969B58781089685129
+  SiRattanaAdm2THA:
+    admin_name: SiRattana
+    iso3c: THA
+    shapeID: 78962969B55540018650075
+  SirindhornAdm2THA:
+    admin_name: Sirindhorn
+    iso3c: THA
+    shapeID: 78962969B9944592698324
+  SiSaKetProvinceAdm1THA:
+    admin_name: SiSaKetProvince
+    iso3c: THA
+    shapeID: 36821470B45378358106724
+  SiSakhonAdm2THA:
+    admin_name: SiSakhon
+    iso3c: THA
+    shapeID: 78962969B93940138269619
+  SiSamrongAdm2THA:
+    admin_name: SiSamrong
+    iso3c: THA
+    shapeID: 78962969B21904854514402
+  SiSatchanalaiAdm2THA:
+    admin_name: SiSatchanalai
+    iso3c: THA
+    shapeID: 78962969B22677252120762
+  SiSawatAdm2THA:
+    admin_name: SiSawat
+    iso3c: THA
+    shapeID: 78962969B73671934150573
+  SiSomdetAdm2THA:
+    admin_name: SiSomdet
+    iso3c: THA
+    shapeID: 78962969B7638603864190
+  SiSongkhramAdm2THA:
+    admin_name: SiSongkhram
+    iso3c: THA
+    shapeID: 78962969B490988164886
+  SiThatAdm2THA:
+    admin_name: SiThat
+    iso3c: THA
+    shapeID: 78962969B71441288528708
+  SiThepAdm2THA:
+    admin_name: SiThep
+    iso3c: THA
+    shapeID: 78962969B52356787217870
+  SiWilaiAdm2THA:
+    admin_name: SiWilai
+    iso3c: THA
+    shapeID: 78962969B38072300244645
+  SoemNgamAdm2THA:
+    admin_name: SoemNgam
+    iso3c: THA
+    shapeID: 78962969B38792830177275
+  SoengSangAdm2THA:
+    admin_name: SoengSang
+    iso3c: THA
+    shapeID: 78962969B32036693641657
+  SoiDaoAdm2THA:
+    admin_name: SoiDao
+    iso3c: THA
+    shapeID: 78962969B71557227555667
+  SomdetAdm2THA:
+    admin_name: Somdet
+    iso3c: THA
+    shapeID: 78962969B31755539935973
+  SongAdm2THA:
+    admin_name: Song
+    iso3c: THA
+    shapeID: 78962969B64048827158998
+  SongDaoAdm2THA:
+    admin_name: SongDao
+    iso3c: THA
+    shapeID: 78962969B97836103025475
+  SongkhlaProvinceAdm1THA:
+    admin_name: SongkhlaProvince
+    iso3c: THA
+    shapeID: 36821470B65611179255944
+  SongKhwaeAdm2THA:
+    admin_name: SongKhwae
+    iso3c: THA
+    shapeID: 78962969B31957869244810
+  SongPhiNongAdm2THA:
+    admin_name: SongPhiNong
+    iso3c: THA
+    shapeID: 78962969B33377664551397
+  SoPhisaiAdm2THA:
+    admin_name: SoPhisai
+    iso3c: THA
+    shapeID: 78962969B4789393991708
+  SopMoeiAdm2THA:
+    admin_name: SopMoei
+    iso3c: THA
+    shapeID: 78962969B61327440501471
+  SopPrapAdm2THA:
+    admin_name: SopPrap
+    iso3c: THA
+    shapeID: 78962969B39670710087023
+  SrinagarindraAdm2THA:
+    admin_name: Srinagarindra
+    iso3c: THA
+    shapeID: 78962969B8078558348171
+  Su-NgaiKolokAdm2THA:
+    admin_name: Su-NgaiKolok
+    iso3c: THA
+    shapeID: 78962969B19527388455587
+  Su-NgaiPadiAdm2THA:
+    admin_name: Su-NgaiPadi
+    iso3c: THA
+    shapeID: 78962969B52628429870613
+  SuanLuangAdm2THA:
+    admin_name: SuanLuang
+    iso3c: THA
+    shapeID: 78962969B46335103611248
+  SuanPhuengAdm2THA:
+    admin_name: SuanPhueng
+    iso3c: THA
+    shapeID: 78962969B47422412766823
+  SukhirinAdm2THA:
+    admin_name: Sukhirin
+    iso3c: THA
+    shapeID: 78962969B83718835474136
+  SukhothaiProvinceAdm1THA:
+    admin_name: SukhothaiProvince
+    iso3c: THA
+    shapeID: 36821470B85895478064474
+  SukSamranAdm2THA:
+    admin_name: SukSamran
+    iso3c: THA
+    shapeID: 78962969B98614322504757
+  SungMenAdm2THA:
+    admin_name: SungMen
+    iso3c: THA
+    shapeID: 78962969B92353428607909
+  SungNoenAdm2THA:
+    admin_name: SungNoen
+    iso3c: THA
+    shapeID: 78962969B32197143294697
+  SuphanBuriProvinceAdm1THA:
+    admin_name: SuphanBuriProvince
+    iso3c: THA
+    shapeID: 36821470B33883534921707
+  SuratThaniProvinceAdm1THA:
+    admin_name: SuratThaniProvince
+    iso3c: THA
+    shapeID: 36821470B94320894939793
+  SurinProvinceAdm1THA:
+    admin_name: SurinProvince
+    iso3c: THA
+    shapeID: 36821470B33660676013176
+  SuwannakhuhaAdm2THA:
+    admin_name: Suwannakhuha
+    iso3c: THA
+    shapeID: 78962969B89578186205363
+  SuwannaphumAdm2THA:
+    admin_name: Suwannaphum
+    iso3c: THA
+    shapeID: 78962969B41807577344670
+  TakBaiAdm2THA:
+    admin_name: TakBai
+    iso3c: THA
+    shapeID: 78962969B25686112002312
+  TakFaAdm2THA:
+    admin_name: TakFa
+    iso3c: THA
+    shapeID: 78962969B50011174142217
+  TakhliAdm2THA:
+    admin_name: Takhli
+    iso3c: THA
+    shapeID: 78962969B90565511373435
+  TakProvinceAdm1THA:
+    admin_name: TakProvince
+    iso3c: THA
+    shapeID: 36821470B1341269906223
+  TakuaPaAdm2THA:
+    admin_name: TakuaPa
+    iso3c: THA
+    shapeID: 78962969B86019353442573
+  TakuaThungAdm2THA:
+    admin_name: TakuaThung
+    iso3c: THA
+    shapeID: 78962969B58097970477976
+  TalingChanAdm2THA:
+    admin_name: TalingChan
+    iso3c: THA
+    shapeID: 78962969B19319663226998
+  TamotAdm2THA:
+    admin_name: Tamot
+    iso3c: THA
+    shapeID: 78962969B20479375564270
+  TanSumAdm2THA:
+    admin_name: TanSum
+    iso3c: THA
+    shapeID: 78962969B64880163608761
+  TaoNgoiAdm2THA:
+    admin_name: TaoNgoi
+    iso3c: THA
+    shapeID: 78962969B89728183001998
+  TaphanHinAdm2THA:
+    admin_name: TaphanHin
+    iso3c: THA
+    shapeID: 78962969B26930516350058
+  TaPhrayaAdm2THA:
+    admin_name: TaPhraya
+    iso3c: THA
+    shapeID: 78962969B35717105956499
+  TapKhloAdm2THA:
+    admin_name: TapKhlo
+    iso3c: THA
+    shapeID: 78962969B53438077198492
+  ThaBoAdm2THA:
+    admin_name: ThaBo
+    iso3c: THA
+    shapeID: 78962969B97829088345215
+  ThaChanaAdm2THA:
+    admin_name: ThaChana
+    iso3c: THA
+    shapeID: 78962969B77729617047894
+  ThaChangAdm2THA:
+    admin_name: ThaChang
+    iso3c: THA
+    shapeID: 78962969B72176569689824
+  ThaiCharoenAdm2THA:
+    admin_name: ThaiCharoen
+    iso3c: THA
+    shapeID: 78962969B95205724329229
+  ThaiMueangAdm2THA:
+    admin_name: ThaiMueang
+    iso3c: THA
+    shapeID: 78962969B58912985430788
+  ThaKhanthoAdm2THA:
+    admin_name: ThaKhantho
+    iso3c: THA
+    shapeID: 78962969B25988571892080
+  ThalangAdm2THA:
+    admin_name: Thalang
+    iso3c: THA
+    shapeID: 78962969B19426862373274
+  ThaLiAdm2THA:
+    admin_name: ThaLi
+    iso3c: THA
+    shapeID: 78962969B23200832152912
+  ThaLuangAdm2THA:
+    admin_name: ThaLuang
+    iso3c: THA
+    shapeID: 78962969B70525804812595
+  ThaMaiAdm2THA:
+    admin_name: ThaMai
+    iso3c: THA
+    shapeID: 78962969B20525991474584
+  ThaMakaAdm2THA:
+    admin_name: ThaMaka
+    iso3c: THA
+    shapeID: 78962969B86191185108320
+  ThamPhannaraAdm2THA:
+    admin_name: ThamPhannara
+    iso3c: THA
+    shapeID: 78962969B12652914635488
+  ThaMuangAdm2THA:
+    admin_name: ThaMuang
+    iso3c: THA
+    shapeID: 78962969B17416379558143
+  ThanToAdm2THA:
+    admin_name: ThanTo
+    iso3c: THA
+    shapeID: 78962969B74905002065974
+  ThanyaburiAdm2THA:
+    admin_name: Thanyaburi
+    iso3c: THA
+    shapeID: 78962969B80991163845890
+  ThaPhaeAdm2THA:
+    admin_name: ThaPhae
+    iso3c: THA
+    shapeID: 78962969B83222523917082
+  ThaPlaAdm2THA:
+    admin_name: ThaPla
+    iso3c: THA
+    shapeID: 78962969B89891348758584
+  ThapPutAdm2THA:
+    admin_name: ThapPut
+    iso3c: THA
+    shapeID: 78962969B9320754412882
+  ThapSakaeAdm2THA:
+    admin_name: ThapSakae
+    iso3c: THA
+    shapeID: 78962969B3750900919123
+  ThapThanAdm2THA:
+    admin_name: ThapThan
+    iso3c: THA
+    shapeID: 78962969B50893667221892
+  ThaRueaAdm2THA:
+    admin_name: ThaRuea
+    iso3c: THA
+    shapeID: 78962969B60015542915267
+  ThaSaeAdm2THA:
+    admin_name: ThaSae
+    iso3c: THA
+    shapeID: 78962969B56380938562562
+  ThaSalaAdm2THA:
+    admin_name: ThaSala
+    iso3c: THA
+    shapeID: 78962969B88164862603856
+  ThaSongYangAdm2THA:
+    admin_name: ThaSongYang
+    iso3c: THA
+    shapeID: 78962969B58793256407954
+  ThaTakiapAdm2THA:
+    admin_name: ThaTakiap
+    iso3c: THA
+    shapeID: 78962969B88145432659836
+  ThaTakoAdm2THA:
+    admin_name: ThaTako
+    iso3c: THA
+    shapeID: 78962969B77286306001926
+  ThatPhanomAdm2THA:
+    admin_name: ThatPhanom
+    iso3c: THA
+    shapeID: 78962969B35250175896926
+  ThaTumAdm2THA:
+    admin_name: ThaTum
+    iso3c: THA
+    shapeID: 78962969B22875255730199
+  ThaUthenAdm2THA:
+    admin_name: ThaUthen
+    iso3c: THA
+    shapeID: 78962969B23223373784889
+  ThaWangPhaAdm2THA:
+    admin_name: ThaWangPha
+    iso3c: THA
+    shapeID: 78962969B57935377717299
+  ThawatBuriAdm2THA:
+    admin_name: ThawatBuri
+    iso3c: THA
+    shapeID: 78962969B6809780389556
+  ThawiWatthanaAdm2THA:
+    admin_name: ThawiWatthana
+    iso3c: THA
+    shapeID: 78962969B31670435766777
+  ThaWungAdm2THA:
+    admin_name: ThaWung
+    iso3c: THA
+    shapeID: 78962969B60837596961225
+  ThaYangAdm2THA:
+    admin_name: ThaYang
+    iso3c: THA
+    shapeID: 78962969B57494861124372
+  ThephaAdm2THA:
+    admin_name: Thepha
+    iso3c: THA
+    shapeID: 78962969B41607332504146
+  ThepharakAdm2THA:
+    admin_name: Thepharak
+    iso3c: THA
+    shapeID: 78962969B2077127014439
+  ThepSathitAdm2THA:
+    admin_name: ThepSathit
+    iso3c: THA
+    shapeID: 78962969B6140233535847
+  ThoenAdm2THA:
+    admin_name: Thoen
+    iso3c: THA
+    shapeID: 78962969B16981445591053
+  ThoengAdm2THA:
+    admin_name: Thoeng
+    iso3c: THA
+    shapeID: 78962969B30724272776962
+  ThonBuriAdm2THA:
+    admin_name: ThonBuri
+    iso3c: THA
+    shapeID: 78962969B37359876414663
+  ThongPhaPhumAdm2THA:
+    admin_name: ThongPhaPhum
+    iso3c: THA
+    shapeID: 78962969B24065395096407
+  ThongSaenKhanAdm2THA:
+    admin_name: ThongSaenKhan
+    iso3c: THA
+    shapeID: 78962969B33216342014207
+  ThungChangAdm2THA:
+    admin_name: ThungChang
+    iso3c: THA
+    shapeID: 78962969B15263035639364
+  ThungFonAdm2THA:
+    admin_name: ThungFon
+    iso3c: THA
+    shapeID: 78962969B54010161704756
+  ThungHuaChangAdm2THA:
+    admin_name: ThungHuaChang
+    iso3c: THA
+    shapeID: 78962969B85097268198325
+  ThungKhaoLuangAdm2THA:
+    admin_name: ThungKhaoLuang
+    iso3c: THA
+    shapeID: 78962969B71401871010357
+  ThungKhruAdm2THA:
+    admin_name: ThungKhru
+    iso3c: THA
+    shapeID: 78962969B48707733075976
+  ThungSaliamAdm2THA:
+    admin_name: ThungSaliam
+    iso3c: THA
+    shapeID: 78962969B26447913933028
+  ThungSiUdomAdm2THA:
+    admin_name: ThungSiUdom
+    iso3c: THA
+    shapeID: 78962969B14967279450618
+  ThungSongAdm2THA:
+    admin_name: ThungSong
+    iso3c: THA
+    shapeID: 78962969B2531694567463
+  ThungTakoAdm2THA:
+    admin_name: ThungTako
+    iso3c: THA
+    shapeID: 78962969B56019548429008
+  ThungWaAdm2THA:
+    admin_name: ThungWa
+    iso3c: THA
+    shapeID: 78962969B89746829348507
+  ThungYaiAdm2THA:
+    admin_name: ThungYai
+    iso3c: THA
+    shapeID: 78962969B32450695169109
+  ThungYangDaengAdm2THA:
+    admin_name: ThungYangDaeng
+    iso3c: THA
+    shapeID: 78962969B39593186090950
+  TrakanPhuetPhonAdm2THA:
+    admin_name: TrakanPhuetPhon
+    iso3c: THA
+    shapeID: 78962969B42152310983042
+  TrangProvinceAdm1THA:
+    admin_name: TrangProvince
+    iso3c: THA
+    shapeID: 36821470B70022128015779
+  TratProvinceAdm1THA:
+    admin_name: TratProvince
+    iso3c: THA
+    shapeID: 36821470B56570402043943
+  TronAdm2THA:
+    admin_name: Tron
+    iso3c: THA
+    shapeID: 78962969B58085194309258
+  UbolratanaAdm2THA:
+    admin_name: Ubolratana
+    iso3c: THA
+    shapeID: 78962969B29703528432140
+  UbonRatchathaniProvinceAdm1THA:
+    admin_name: UbonRatchathaniProvince
+    iso3c: THA
+    shapeID: 36821470B8778739097958
+  UdonThaniProvinceAdm1THA:
+    admin_name: UdonThaniProvince
+    iso3c: THA
+    shapeID: 36821470B31576844110237
+  UmphangAdm2THA:
+    admin_name: Umphang
+    iso3c: THA
+    shapeID: 78962969B38032656496356
+  UthaiAdm2THA:
+    admin_name: Uthai
+    iso3c: THA
+    shapeID: 78962969B29377906715784
+  UthaiThaniProvinceAdm1THA:
+    admin_name: UthaiThaniProvince
+    iso3c: THA
+    shapeID: 36821470B292137368164
+  UThongAdm2THA:
+    admin_name: UThong
+    iso3c: THA
+    shapeID: 78962969B35479109951050
+  UthumphonPhisaiAdm2THA:
+    admin_name: UthumphonPhisai
+    iso3c: THA
+    shapeID: 78962969B73253531385029
+  UttaraditProvinceAdm1THA:
+    admin_name: UttaraditProvince
+    iso3c: THA
+    shapeID: 36821470B55067065784454
+  VadhanaAdm2THA:
+    admin_name: Vadhana
+    iso3c: THA
+    shapeID: 78962969B23901249409330
+  VibhavadiAdm2THA:
+    admin_name: Vibhavadi
+    iso3c: THA
+    shapeID: 78962969B95788991871797
+  WachirabaramiAdm2THA:
+    admin_name: Wachirabarami
+    iso3c: THA
+    shapeID: 78962969B59938100637315
+  WaengAdm2THA:
+    admin_name: Waeng
+    iso3c: THA
+    shapeID: 78962969B84911065588507
+  WaengNoiAdm2THA:
+    admin_name: WaengNoi
+    iso3c: THA
+    shapeID: 78962969B33774110374884
+  WaengYaiAdm2THA:
+    admin_name: WaengYai
+    iso3c: THA
+    shapeID: 78962969B82836358248418
+  WangChanAdm2THA:
+    admin_name: WangChan
+    iso3c: THA
+    shapeID: 78962969B3621953586830
+  WangChaoAdm2THA:
+    admin_name: WangChao
+    iso3c: THA
+    shapeID: 78962969B10518066707852
+  WangChinAdm2THA:
+    admin_name: WangChin
+    iso3c: THA
+    shapeID: 78962969B75821341388789
+  WangHinAdm2THA:
+    admin_name: WangHin
+    iso3c: THA
+    shapeID: 78962969B5946354478732
+  WangMuangAdm2THA:
+    admin_name: WangMuang
+    iso3c: THA
+    shapeID: 78962969B15444617755923
+  WangNamKhiaoAdm2THA:
+    admin_name: WangNamKhiao
+    iso3c: THA
+    shapeID: 78962969B7842006163468
+  WangNamYenAdm2THA:
+    admin_name: WangNamYen
+    iso3c: THA
+    shapeID: 78962969B24395616266318
+  WangNoiAdm2THA:
+    admin_name: WangNoi
+    iso3c: THA
+    shapeID: 78962969B3503763709973
+  WangNueaAdm2THA:
+    admin_name: WangNuea
+    iso3c: THA
+    shapeID: 78962969B31160624426446
+  WangPongAdm2THA:
+    admin_name: WangPong
+    iso3c: THA
+    shapeID: 78962969B14448677761720
+  WangSaiPhunAdm2THA:
+    admin_name: WangSaiPhun
+    iso3c: THA
+    shapeID: 78962969B2905707745355
+  WangSamMoAdm2THA:
+    admin_name: WangSamMo
+    iso3c: THA
+    shapeID: 78962969B45411926077812
+  WangSaphungAdm2THA:
+    admin_name: WangSaphung
+    iso3c: THA
+    shapeID: 78962969B13913499788092
+  WangSombunAdm2THA:
+    admin_name: WangSombun
+    iso3c: THA
+    shapeID: 78962969B89607017524872
+  WangThongAdm2THA:
+    admin_name: WangThong
+    iso3c: THA
+    shapeID: 78962969B63856806538884
+  WangThonglangAdm2THA:
+    admin_name: WangThonglang
+    iso3c: THA
+    shapeID: 78962969B59221573730573
+  WangWisetAdm2THA:
+    admin_name: WangWiset
+    iso3c: THA
+    shapeID: 78962969B96586587830005
+  WangYangAdm2THA:
+    admin_name: WangYang
+    iso3c: THA
+    shapeID: 78962969B31746602904448
+  WanonNiwatAdm2THA:
+    admin_name: WanonNiwat
+    iso3c: THA
+    shapeID: 78962969B40575496973623
+  WanYaiAdm2THA:
+    admin_name: WanYai
+    iso3c: THA
+    shapeID: 78962969B15109036384984
+  WapiPathumAdm2THA:
+    admin_name: WapiPathum
+    iso3c: THA
+    shapeID: 78962969B74809477200097
+  WarinChamrapAdm2THA:
+    admin_name: WarinChamrap
+    iso3c: THA
+    shapeID: 78962969B43112408779315
+  WaritchaphumAdm2THA:
+    admin_name: Waritchaphum
+    iso3c: THA
+    shapeID: 78962969B22667703415616
+  WatBotAdm2THA:
+    admin_name: WatBot
+    iso3c: THA
+    shapeID: 78962969B51687316789717
+  WatPhlengAdm2THA:
+    admin_name: WatPhleng
+    iso3c: THA
+    shapeID: 78962969B25106488333665
+  WatSingAdm2THA:
+    admin_name: WatSing
+    iso3c: THA
+    shapeID: 78962969B4118502895229
+  WatthanaNakhonAdm2THA:
+    admin_name: WatthanaNakhon
+    iso3c: THA
+    shapeID: 78962969B91417690270455
+  WiangChaiAdm2THA:
+    admin_name: WiangChai
+    iso3c: THA
+    shapeID: 78962969B32400228790118
+  WiangChiangRungAdm2THA:
+    admin_name: WiangChiangRung
+    iso3c: THA
+    shapeID: 78962969B94176504634652
+  WiangHaengAdm2THA:
+    admin_name: WiangHaeng
+    iso3c: THA
+    shapeID: 78962969B7919443073528
+  WiangKaenAdm2THA:
+    admin_name: WiangKaen
+    iso3c: THA
+    shapeID: 78962969B86753630377250
+  WiangKaoAdm2THA:
+    admin_name: WiangKao
+    iso3c: THA
+    shapeID: 78962969B82148856985692
+  WiangNongLongAdm2THA:
+    admin_name: WiangNongLong
+    iso3c: THA
+    shapeID: 78962969B5977206597344
+  WiangPaPaoAdm2THA:
+    admin_name: WiangPaPao
+    iso3c: THA
+    shapeID: 78962969B36758186979365
+  WiangSaAdm2THA:
+    admin_name: WiangSa
+    iso3c: THA
+    shapeID: 78962969B32749980960035
+  WichianBuriAdm2THA:
+    admin_name: WichianBuri
+    iso3c: THA
+    shapeID: 78962969B64397388555750
+  WihanDaengAdm2THA:
+    admin_name: WihanDaeng
+    iso3c: THA
+    shapeID: 78962969B45095827197319
+  WisetChaiChanAdm2THA:
+    admin_name: WisetChaiChan
+    iso3c: THA
+    shapeID: 78962969B38552954370862
+  YahaAdm2THA:
+    admin_name: Yaha
+    iso3c: THA
+    shapeID: 78962969B93960715397909
+  YalaProvinceAdm1THA:
+    admin_name: YalaProvince
+    iso3c: THA
+    shapeID: 36821470B19626602766038
+  YangChumNoiAdm2THA:
+    admin_name: YangChumNoi
+    iso3c: THA
+    shapeID: 78962969B51834817118015
+  YangSisuratAdm2THA:
+    admin_name: YangSisurat
+    iso3c: THA
+    shapeID: 78962969B22746873787701
+  YangTalatAdm2THA:
+    admin_name: YangTalat
+    iso3c: THA
+    shapeID: 78962969B97820746751247
+  YanNawaAdm2THA:
+    admin_name: YanNawa
+    iso3c: THA
+    shapeID: 78962969B14857806522936
+  YanTaKhaoAdm2THA:
+    admin_name: YanTaKhao
+    iso3c: THA
+    shapeID: 78962969B81181946303710
+  YarangAdm2THA:
+    admin_name: Yarang
+    iso3c: THA
+    shapeID: 78962969B64545925987472
+  YaringAdm2THA:
+    admin_name: Yaring
+    iso3c: THA
+    shapeID: 78962969B69014167770577
+  YasothonProvinceAdm1THA:
+    admin_name: YasothonProvince
+    iso3c: THA
+    shapeID: 36821470B86493246441872
+  Yi-NgoAdm2THA:
+    admin_name: Yi-Ngo
+    iso3c: THA
+    shapeID: 78962969B66673313723424

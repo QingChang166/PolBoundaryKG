@@ -1,20 +1,357 @@
 concepts:
-    - SouthOstrobothnia
-    - ÅlandIslands
-    - TavastiaProper
-    - Keski-Pohjanmaa
-    - Kymenlaakso
-    - Päijät-Häme
-    - Uusimaa
-    - CentralFinland
-    - Pirkanmaa
-    - SouthernSavonia
-    - NorthernSavonia
-    - NorthKarelia
-    - Lapland
-    - NorthernOstrobothnia
-    - Kainuu
-    - FinlandProper
-    - Ostrobothnia
-    - Satakunta
-    - SouthKarelia
+  ÄänekoskiAdm2FIN:
+    admin_name: Äänekoski
+    iso3c: FIN
+    shapeID: 99834313B31857926953076
+  ÅlandIslandsAdm1FIN:
+    admin_name: ÅlandIslands
+    iso3c: FIN
+    shapeID: 49019192B86083853836544
+  ÅlandslandsbygdAdm2FIN:
+    admin_name: Ålandslandsbygd
+    iso3c: FIN
+    shapeID: 99834313B56833404014918
+  ÅlandsskärgårdAdm2FIN:
+    admin_name: Ålandsskärgård
+    iso3c: FIN
+    shapeID: 99834313B64974646699034
+  CentralFinlandAdm1FIN:
+    admin_name: CentralFinland
+    iso3c: FIN
+    shapeID: 49019192B78555514573464
+  Etelä-PirkanmaanseutukuntaAdm2FIN:
+    admin_name: Etelä-Pirkanmaanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B97563947227078
+  FinlandProperAdm1FIN:
+    admin_name: FinlandProper
+    iso3c: FIN
+    shapeID: 49019192B17994066114322
+  ForssanseutukuntaAdm2FIN:
+    admin_name: Forssanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B39064453221260
+  Haapaveden-SiikalatvanseutukuntaAdm2FIN:
+    admin_name: Haapaveden-Siikalatvanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B95988432486988
+  HämeenlinnanseutukuntaAdm2FIN:
+    admin_name: Hämeenlinnanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B86982860182614
+  Helsinkisub-regionAdm2FIN:
+    admin_name: Helsinkisub-region
+    iso3c: FIN
+    shapeID: 99834313B2729332484501
+  ImatranseutukuntaAdm2FIN:
+    admin_name: Imatranseutukunta
+    iso3c: FIN
+    shapeID: 99834313B10114646203371
+  Itä-LapinseutukuntaAdm2FIN:
+    admin_name: Itä-Lapinseutukunta
+    iso3c: FIN
+    shapeID: 99834313B80407887759912
+  JämsäAdm2FIN:
+    admin_name: Jämsä
+    iso3c: FIN
+    shapeID: 99834313B52013237465934
+  JärviseudunseutukuntaAdm2FIN:
+    admin_name: Järviseudunseutukunta
+    iso3c: FIN
+    shapeID: 99834313B69470054580860
+  JoensuunseutukuntaAdm2FIN:
+    admin_name: Joensuunseutukunta
+    iso3c: FIN
+    shapeID: 99834313B42008255547317
+  JoutsaAdm2FIN:
+    admin_name: Joutsa
+    iso3c: FIN
+    shapeID: 99834313B4190910658448
+  JyväskyläAdm2FIN:
+    admin_name: Jyväskylä
+    iso3c: FIN
+    shapeID: 99834313B68196328156609
+  KainuuAdm1FIN:
+    admin_name: Kainuu
+    iso3c: FIN
+    shapeID: 49019192B44835655910893
+  KajaaninseutukuntaAdm2FIN:
+    admin_name: Kajaaninseutukunta
+    iso3c: FIN
+    shapeID: 99834313B34228835316735
+  KaustisenseutukuntaAdm2FIN:
+    admin_name: Kaustisenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B11286182074882
+  Kehys-KainuunseutukuntaAdm2FIN:
+    admin_name: Kehys-Kainuunseutukunta
+    iso3c: FIN
+    shapeID: 99834313B1118672371099
+  Kemi-TornionseutukuntaAdm2FIN:
+    admin_name: Kemi-Tornionseutukunta
+    iso3c: FIN
+    shapeID: 99834313B21205932148697
+  Keski-KarjalanseutukuntaAdm2FIN:
+    admin_name: Keski-Karjalanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B71088523733667
+  Keski-PohjanmaaAdm1FIN:
+    admin_name: Keski-Pohjanmaa
+    iso3c: FIN
+    shapeID: 49019192B58135301868459
+  KeuruunseutukuntaAdm2FIN:
+    admin_name: Keuruunseutukunta
+    iso3c: FIN
+    shapeID: 99834313B76395207187272
+  KoillismaanseutukuntaAdm2FIN:
+    admin_name: Koillismaanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B5241681163375
+  KokkolanseutukuntaAdm2FIN:
+    admin_name: Kokkolanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B46170589366893
+  Kotkan–HaminanseutukuntaAdm2FIN:
+    admin_name: Kotkan–Haminanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B15111682114562
+  KouvolanseutukuntaAdm2FIN:
+    admin_name: Kouvolanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B91116893143553
+  Kuopiosub-regionAdm2FIN:
+    admin_name: Kuopiosub-region
+    iso3c: FIN
+    shapeID: 99834313B12969213634500
+  KuusiokuntienseutukuntaAdm2FIN:
+    admin_name: Kuusiokuntienseutukunta
+    iso3c: FIN
+    shapeID: 99834313B69409045455460
+  KymenlaaksoAdm1FIN:
+    admin_name: Kymenlaakso
+    iso3c: FIN
+    shapeID: 49019192B6444665230203
+  KyrönmaanseutukuntaAdm2FIN:
+    admin_name: Kyrönmaanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B18989390996325
+  LahdenseutukuntaAdm2FIN:
+    admin_name: Lahdenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B35398573425491
+  LaplandAdm1FIN:
+    admin_name: Lapland
+    iso3c: FIN
+    shapeID: 49019192B9539567772054
+  LappeenrannanseutukuntaAdm2FIN:
+    admin_name: Lappeenrannanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B13276826205168
+  LoimaanseutukuntaAdm2FIN:
+    admin_name: Loimaanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B19323382833176
+  Lounais-PirkanmaanseutukuntaAdm2FIN:
+    admin_name: Lounais-Pirkanmaanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B91801844521638
+  LoviisanseutukuntaAdm2FIN:
+    admin_name: Loviisanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B70623139609167
+  Luoteis-PirkanmaanseutukuntaAdm2FIN:
+    admin_name: Luoteis-Pirkanmaanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B25893245899525
+  MariehamnsstadAdm2FIN:
+    admin_name: Mariehamnsstad
+    iso3c: FIN
+    shapeID: 99834313B61307263332273
+  MikkelinseutukuntaAdm2FIN:
+    admin_name: Mikkelinseutukunta
+    iso3c: FIN
+    shapeID: 99834313B97183733699800
+  Nivala–HaapajärvenseutukuntaAdm2FIN:
+    admin_name: Nivala–Haapajärvenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B80613352646594
+  NorthEasternSavoniaAdm2FIN:
+    admin_name: NorthEasternSavonia
+    iso3c: FIN
+    shapeID: 99834313B52678497750034
+  NorthernOstrobothniaAdm1FIN:
+    admin_name: NorthernOstrobothnia
+    iso3c: FIN
+    shapeID: 49019192B87432053307570
+  NorthernSavoniaAdm1FIN:
+    admin_name: NorthernSavonia
+    iso3c: FIN
+    shapeID: 49019192B62635796201807
+  NorthKareliaAdm1FIN:
+    admin_name: NorthKarelia
+    iso3c: FIN
+    shapeID: 49019192B73736336897537
+  OstrobothniaAdm1FIN:
+    admin_name: Ostrobothnia
+    iso3c: FIN
+    shapeID: 49019192B22299411224621
+  OulunkaarenseutukuntaAdm2FIN:
+    admin_name: Oulunkaarenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B80590527373832
+  OulunseutukuntaAdm2FIN:
+    admin_name: Oulunseutukunta
+    iso3c: FIN
+    shapeID: 99834313B2719384875221
+  Päijät-HämeAdm1FIN:
+    admin_name: Päijät-Häme
+    iso3c: FIN
+    shapeID: 49019192B62240171763951
+  PieksämäenseutukuntaAdm2FIN:
+    admin_name: Pieksämäenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B67691821257329
+  PielisenKarjalanseutukuntaAdm2FIN:
+    admin_name: PielisenKarjalanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B59577437721968
+  PietarsaarenseutukuntaAdm2FIN:
+    admin_name: Pietarsaarenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B51229606636123
+  PirkanmaaAdm1FIN:
+    admin_name: Pirkanmaa
+    iso3c: FIN
+    shapeID: 49019192B21119876657643
+  Pohjois-LapinseutukuntaAdm2FIN:
+    admin_name: Pohjois-Lapinseutukunta
+    iso3c: FIN
+    shapeID: 99834313B46427630736233
+  Pohjois-SatakunnanseutukuntaAdm2FIN:
+    admin_name: Pohjois-Satakunnanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B38333832424157
+  PorinseutukuntaAdm2FIN:
+    admin_name: Porinseutukunta
+    iso3c: FIN
+    shapeID: 99834313B74129982264724
+  PorvoonseutukuntaAdm2FIN:
+    admin_name: Porvoonseutukunta
+    iso3c: FIN
+    shapeID: 99834313B59227145640681
+  RaahenseutukuntaAdm2FIN:
+    admin_name: Raahenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B27099967151118
+  RaseborgsekonomiskaregionAdm2FIN:
+    admin_name: Raseborgsekonomiskaregion
+    iso3c: FIN
+    shapeID: 99834313B70758838948048
+  RaumanseutukuntaAdm2FIN:
+    admin_name: Raumanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B10245104491983
+  RiihimäenseutukuntaAdm2FIN:
+    admin_name: Riihimäenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B69205639048275
+  RovaniemenseutukuntaAdm2FIN:
+    admin_name: Rovaniemenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B73202397650649
+  Saarijärvi-ViitasaariAdm2FIN:
+    admin_name: Saarijärvi-Viitasaari
+    iso3c: FIN
+    shapeID: 99834313B20103157502159
+  SalonseutukuntaAdm2FIN:
+    admin_name: Salonseutukunta
+    iso3c: FIN
+    shapeID: 99834313B98132290777584
+  SatakuntaAdm1FIN:
+    admin_name: Satakunta
+    iso3c: FIN
+    shapeID: 49019192B88711432523249
+  SavonlinnanseutukuntaAdm2FIN:
+    admin_name: Savonlinnanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B85894782163941
+  SeinäjoenseutukuntaAdm2FIN:
+    admin_name: Seinäjoenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B16764168806796
+  Sisä-SavonseutukuntaAdm2FIN:
+    admin_name: Sisä-Savonseutukunta
+    iso3c: FIN
+    shapeID: 99834313B23920198469988
+  SouthernSavoniaAdm1FIN:
+    admin_name: SouthernSavonia
+    iso3c: FIN
+    shapeID: 49019192B95561484044627
+  SouthKareliaAdm1FIN:
+    admin_name: SouthKarelia
+    iso3c: FIN
+    shapeID: 49019192B76795664887161
+  SouthOstrobothniaAdm1FIN:
+    admin_name: SouthOstrobothnia
+    iso3c: FIN
+    shapeID: 49019192B43233145825563
+  SuupohjanseutukuntaAdm2FIN:
+    admin_name: Suupohjanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B91857021057630
+  SydösterbottenAdm2FIN:
+    admin_name: Sydösterbotten
+    iso3c: FIN
+    shapeID: 99834313B34451169677148
+  TampereenseutukuntaAdm2FIN:
+    admin_name: Tampereenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B65020692408515
+  TavastiaProperAdm1FIN:
+    admin_name: TavastiaProper
+    iso3c: FIN
+    shapeID: 49019192B65986062820565
+  TorniolaaksonseutukuntaAdm2FIN:
+    admin_name: Torniolaaksonseutukunta
+    iso3c: FIN
+    shapeID: 99834313B93769578085294
+  Tunturi-LapinseutukuntaAdm2FIN:
+    admin_name: Tunturi-Lapinseutukunta
+    iso3c: FIN
+    shapeID: 99834313B18646495937292
+  TurunmaanseutukuntaAdm2FIN:
+    admin_name: Turunmaanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B42243647465574
+  TurunseutukuntaAdm2FIN:
+    admin_name: Turunseutukunta
+    iso3c: FIN
+    shapeID: 99834313B82994994813077
+  UusimaaAdm1FIN:
+    admin_name: Uusimaa
+    iso3c: FIN
+    shapeID: 49019192B30960840619879
+  Vaasasub-regionAdm2FIN:
+    admin_name: Vaasasub-region
+    iso3c: FIN
+    shapeID: 99834313B55406767623014
+  Vakka-SuomenseutukuntaAdm2FIN:
+    admin_name: Vakka-Suomenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B37123833543858
+  VarkaudenseutukuntaAdm2FIN:
+    admin_name: Varkaudenseutukunta
+    iso3c: FIN
+    shapeID: 99834313B4711920994227
+  Ylä-PirkanmaanseutukuntaAdm2FIN:
+    admin_name: Ylä-Pirkanmaanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B94525016023700
+  Ylä-SavonseutukuntaAdm2FIN:
+    admin_name: Ylä-Savonseutukunta
+    iso3c: FIN
+    shapeID: 99834313B33272156270107
+  YlivieskanseutukuntaAdm2FIN:
+    admin_name: Ylivieskanseutukunta
+    iso3c: FIN
+    shapeID: 99834313B400896450396

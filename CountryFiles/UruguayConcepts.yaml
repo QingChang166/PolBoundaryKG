@@ -1,20 +1,561 @@
 concepts:
-    - Artigas
-    - Maldonado
-    - Canelones
-    - Rivera
-    - Montevideo
-    - Salto
-    - Rocha
-    - CerroLargo
-    - Tacuarembó
-    - Paysandú
-    - RíoNegro
-    - Lavalleja
-    - Florida
-    - SanJosé
-    - TreintayTres
-    - Flores
-    - Durazno
-    - Soriano
-    - Colonia
+  18deMayoAdm2URY:
+    admin_name: 18deMayo
+    iso3c: URY
+    shapeID: 84410073B56582914281791
+  AceguáAdm2URY:
+    admin_name: Aceguá
+    iso3c: URY
+    shapeID: 84410073B6991751353050
+  AguasCorrientesAdm2URY:
+    admin_name: AguasCorrientes
+    iso3c: URY
+    shapeID: 84410073B95258076060136
+  AiguáAdm2URY:
+    admin_name: Aiguá
+    iso3c: URY
+    shapeID: 84410073B87742847582616
+  AnsinaAdm2URY:
+    admin_name: Ansina
+    iso3c: URY
+    shapeID: 84410073B28214065612775
+  ArbolitoAdm2URY:
+    admin_name: Arbolito
+    iso3c: URY
+    shapeID: 84410073B155313044366
+  ArévaloAdm2URY:
+    admin_name: Arévalo
+    iso3c: URY
+    shapeID: 84410073B27325052760321
+  ArtigasAdm1URY:
+    admin_name: Artigas
+    iso3c: URY
+    shapeID: 27058087B22084813565519
+  AtlántidaAdm2URY:
+    admin_name: Atlántida
+    iso3c: URY
+    shapeID: 84410073B77727536029585
+  BaltasarBrumAdm2URY:
+    admin_name: BaltasarBrum
+    iso3c: URY
+    shapeID: 84410073B74350998718142
+  BañadodeMedinaAdm2URY:
+    admin_name: BañadodeMedina
+    iso3c: URY
+    shapeID: 84410073B9174181273623
+  BarrosBlancosAdm2URY:
+    admin_name: BarrosBlancos
+    iso3c: URY
+    shapeID: 84410073B87283476662632
+  BelénAdm2URY:
+    admin_name: Belén
+    iso3c: URY
+    shapeID: 84410073B21577121406098
+  BellaUniónAdm2URY:
+    admin_name: BellaUnión
+    iso3c: URY
+    shapeID: 84410073B35452988121510
+  CanelonesAdm1URY:
+    admin_name: Canelones
+    iso3c: URY
+    shapeID: 27058087B19329078127106
+  CanelonesAdm2URY:
+    admin_name: Canelones
+    iso3c: URY
+    shapeID: 84410073B2081197170213
+  CardonaAdm2URY:
+    admin_name: Cardona
+    iso3c: URY
+    shapeID: 84410073B72451431142399
+  CarmeloAdm2URY:
+    admin_name: Carmelo
+    iso3c: URY
+    shapeID: 84410073B48030888344446
+  CastillosAdm2URY:
+    admin_name: Castillos
+    iso3c: URY
+    shapeID: 84410073B93691162353295
+  CasupáAdm2URY:
+    admin_name: Casupá
+    iso3c: URY
+    shapeID: 84410073B34818578837799
+  CenturiónAdm2URY:
+    admin_name: Centurión
+    iso3c: URY
+    shapeID: 84410073B80643779971885
+  CerroChatoAdm2URY:
+    admin_name: CerroChato
+    iso3c: URY
+    shapeID: 84410073B20203965418101
+  CerrodelasCuentasAdm2URY:
+    admin_name: CerrodelasCuentas
+    iso3c: URY
+    shapeID: 84410073B63196441313182
+  CerroLargoAdm1URY:
+    admin_name: CerroLargo
+    iso3c: URY
+    shapeID: 27058087B72518212949854
+  ChapicuyAdm2URY:
+    admin_name: Chapicuy
+    iso3c: URY
+    shapeID: 84410073B18564201435230
+  ChuyAdm2URY:
+    admin_name: Chuy
+    iso3c: URY
+    shapeID: 84410073B59552855660776
+  CiudaddelaCostaAdm2URY:
+    admin_name: CiudaddelaCosta
+    iso3c: URY
+    shapeID: 84410073B39793834808870
+  CiudaddelPlataAdm2URY:
+    admin_name: CiudaddelPlata
+    iso3c: URY
+    shapeID: 84410073B44355686376037
+  ColoniaAdm1URY:
+    admin_name: Colonia
+    iso3c: URY
+    shapeID: 27058087B79494286721501
+  ColoniaLavallejaAdm2URY:
+    admin_name: ColoniaLavalleja
+    iso3c: URY
+    shapeID: 84410073B14700525843011
+  ColoniaValdenseAdm2URY:
+    admin_name: ColoniaValdense
+    iso3c: URY
+    shapeID: 84410073B47178985540084
+  DoloresAdm2URY:
+    admin_name: Dolores
+    iso3c: URY
+    shapeID: 84410073B84851743743013
+  DuraznoAdm1URY:
+    admin_name: Durazno
+    iso3c: URY
+    shapeID: 27058087B99783771080652
+  EcildaPaullierAdm2URY:
+    admin_name: EcildaPaullier
+    iso3c: URY
+    shapeID: 84410073B50941503213986
+  EmpalmeOlmosAdm2URY:
+    admin_name: EmpalmeOlmos
+    iso3c: URY
+    shapeID: 84410073B65254992067922
+  EnriqueMartínezAdm2URY:
+    admin_name: EnriqueMartínez
+    iso3c: URY
+    shapeID: 84410073B18985772517104
+  FlorencioSánchezAdm2URY:
+    admin_name: FlorencioSánchez
+    iso3c: URY
+    shapeID: 84410073B84166210474683
+  FloresAdm1URY:
+    admin_name: Flores
+    iso3c: URY
+    shapeID: 27058087B64628270573025
+  FloridaAdm1URY:
+    admin_name: Florida
+    iso3c: URY
+    shapeID: 27058087B4606463382645
+  FraileMuertoAdm2URY:
+    admin_name: FraileMuerto
+    iso3c: URY
+    shapeID: 84410073B83250552762977
+  FrayMarcosAdm2URY:
+    admin_name: FrayMarcos
+    iso3c: URY
+    shapeID: 84410073B87921913847121
+  GarzonAdm2URY:
+    admin_name: Garzon
+    iso3c: URY
+    shapeID: 84410073B70697898104121
+  GuichónAdm2URY:
+    admin_name: Guichón
+    iso3c: URY
+    shapeID: 84410073B13799426117968
+  IsidoroNoblíaAdm2URY:
+    admin_name: IsidoroNoblía
+    iso3c: URY
+    shapeID: 84410073B42305174604514
+  JoséBatlleyOrdóñezAdm2URY:
+    admin_name: JoséBatlleyOrdóñez
+    iso3c: URY
+    shapeID: 84410073B85755445847609
+  JoséEnriqueRodóAdm2URY:
+    admin_name: JoséEnriqueRodó
+    iso3c: URY
+    shapeID: 84410073B24833615442203
+  JoséPedroVarelaAdm2URY:
+    admin_name: JoséPedroVarela
+    iso3c: URY
+    shapeID: 84410073B20043717754830
+  JuanL.LacazeAdm2URY:
+    admin_name: JuanL.Lacaze
+    iso3c: URY
+    shapeID: 84410073B83500791837545
+  LaFlorestaAdm2URY:
+    admin_name: LaFloresta
+    iso3c: URY
+    shapeID: 84410073B52381986459854
+  LaPalomaAdm2URY:
+    admin_name: LaPaloma
+    iso3c: URY
+    shapeID: 84410073B66166810311387
+  LaPazAdm2URY:
+    admin_name: LaPaz
+    iso3c: URY
+    shapeID: 84410073B15963405844434
+  LasCañasAdm2URY:
+    admin_name: LasCañas
+    iso3c: URY
+    shapeID: 84410073B95825273384383
+  LascanoAdm2URY:
+    admin_name: Lascano
+    iso3c: URY
+    shapeID: 84410073B78033052347779
+  LasPiedrasAdm2URY:
+    admin_name: LasPiedras
+    iso3c: URY
+    shapeID: 84410073B22027512889632
+  LavallejaAdm1URY:
+    admin_name: Lavalleja
+    iso3c: URY
+    shapeID: 27058087B10223787783888
+  LibertadAdm2URY:
+    admin_name: Libertad
+    iso3c: URY
+    shapeID: 84410073B36458141806664
+  LorenzoGeyresAdm2URY:
+    admin_name: LorenzoGeyres
+    iso3c: URY
+    shapeID: 84410073B97656346640878
+  LosCerrillosAdm2URY:
+    admin_name: LosCerrillos
+    iso3c: URY
+    shapeID: 84410073B16408849158575
+  MaldonadoAdm1URY:
+    admin_name: Maldonado
+    iso3c: URY
+    shapeID: 27058087B438131503863
+  MaldonadoAdm2URY:
+    admin_name: Maldonado
+    iso3c: URY
+    shapeID: 84410073B43409820231729
+  MariscalaAdm2URY:
+    admin_name: Mariscala
+    iso3c: URY
+    shapeID: 84410073B78906146937991
+  MataojoAdm2URY:
+    admin_name: Mataojo
+    iso3c: URY
+    shapeID: 84410073B62667740173321
+  MigueleteAdm2URY:
+    admin_name: Miguelete
+    iso3c: URY
+    shapeID: 84410073B28336448089611
+  MiguesAdm2URY:
+    admin_name: Migues
+    iso3c: URY
+    shapeID: 84410073B2992667902544
+  MinasdeCorralesAdm2URY:
+    admin_name: MinasdeCorrales
+    iso3c: URY
+    shapeID: 84410073B24709911994057
+  MontesAdm2URY:
+    admin_name: Montes
+    iso3c: URY
+    shapeID: 84410073B70597198531673
+  MontevideoAdm1URY:
+    admin_name: Montevideo
+    iso3c: URY
+    shapeID: 27058087B97113143242340
+  MunicipalityAAdm2URY:
+    admin_name: MunicipalityA
+    iso3c: URY
+    shapeID: 84410073B77317438071438
+  MunicipalityBAdm2URY:
+    admin_name: MunicipalityB
+    iso3c: URY
+    shapeID: 84410073B6453147989031
+  MunicipalityCAdm2URY:
+    admin_name: MunicipalityC
+    iso3c: URY
+    shapeID: 84410073B88392224216277
+  MunicipalityCHAdm2URY:
+    admin_name: MunicipalityCH
+    iso3c: URY
+    shapeID: 84410073B90107892201288
+  MunicipalityDAdm2URY:
+    admin_name: MunicipalityD
+    iso3c: URY
+    shapeID: 84410073B61220439559316
+  MunicipalityEAdm2URY:
+    admin_name: MunicipalityE
+    iso3c: URY
+    shapeID: 84410073B72296027070885
+  MunicipalityFAdm2URY:
+    admin_name: MunicipalityF
+    iso3c: URY
+    shapeID: 84410073B77217372217582
+  MunicipalityGAdm2URY:
+    admin_name: MunicipalityG
+    iso3c: URY
+    shapeID: 84410073B78060489397838
+  NicolichAdm2URY:
+    admin_name: Nicolich
+    iso3c: URY
+    shapeID: 84410073B10990004247606
+  NuevaHelveciaAdm2URY:
+    admin_name: NuevaHelvecia
+    iso3c: URY
+    shapeID: 84410073B82760199523865
+  NuevaPalmiraAdm2URY:
+    admin_name: NuevaPalmira
+    iso3c: URY
+    shapeID: 84410073B44651459787154
+  NuevoBerlínAdm2URY:
+    admin_name: NuevoBerlín
+    iso3c: URY
+    shapeID: 84410073B28261927215245
+  OmbúesdeLavalleAdm2URY:
+    admin_name: OmbúesdeLavalle
+    iso3c: URY
+    shapeID: 84410073B82922235042085
+  PalmitasAdm2URY:
+    admin_name: Palmitas
+    iso3c: URY
+    shapeID: 84410073B71248424630997
+  PandeAzúcarAdm2URY:
+    admin_name: PandeAzúcar
+    iso3c: URY
+    shapeID: 84410073B72110220919520
+  PandoAdm2URY:
+    admin_name: Pando
+    iso3c: URY
+    shapeID: 84410073B3129113216755
+  ParquedelPlataAdm2URY:
+    admin_name: ParquedelPlata
+    iso3c: URY
+    shapeID: 84410073B26612112301697
+  PasoCarrascoAdm2URY:
+    admin_name: PasoCarrasco
+    iso3c: URY
+    shapeID: 84410073B40215071116328
+  PasodelosTorosAdm2URY:
+    admin_name: PasodelosToros
+    iso3c: URY
+    shapeID: 84410073B41725704042311
+  PaysandúAdm1URY:
+    admin_name: Paysandú
+    iso3c: URY
+    shapeID: 27058087B55907822213987
+  PiedrasColoradasAdm2URY:
+    admin_name: PiedrasColoradas
+    iso3c: URY
+    shapeID: 84410073B64308105297913
+  PiriápolisAdm2URY:
+    admin_name: Piriápolis
+    iso3c: URY
+    shapeID: 84410073B95190776679231
+  PlácidoRosasAdm2URY:
+    admin_name: PlácidoRosas
+    iso3c: URY
+    shapeID: 84410073B56637249080242
+  PorvenirAdm2URY:
+    admin_name: Porvenir
+    iso3c: URY
+    shapeID: 84410073B33376625249315
+  ProgresoAdm2URY:
+    admin_name: Progreso
+    iso3c: URY
+    shapeID: 84410073B80692498878624
+  PuntadelEsteAdm2URY:
+    admin_name: PuntadelEste
+    iso3c: URY
+    shapeID: 84410073B81249884827447
+  QuebrachoAdm2URY:
+    admin_name: Quebracho
+    iso3c: URY
+    shapeID: 84410073B4065456644538
+  RamónTrigoAdm2URY:
+    admin_name: RamónTrigo
+    iso3c: URY
+    shapeID: 84410073B37357941018969
+  RincónAdm2URY:
+    admin_name: Rincón
+    iso3c: URY
+    shapeID: 84410073B13933274344370
+  RíoBrancoAdm2URY:
+    admin_name: RíoBranco
+    iso3c: URY
+    shapeID: 84410073B34971931236421
+  RíoNegroAdm1URY:
+    admin_name: RíoNegro
+    iso3c: URY
+    shapeID: 27058087B51576366641273
+  RiveraAdm1URY:
+    admin_name: Rivera
+    iso3c: URY
+    shapeID: 27058087B52084370772895
+  RochaAdm1URY:
+    admin_name: Rocha
+    iso3c: URY
+    shapeID: 27058087B55390925666910
+  RodríguezAdm2URY:
+    admin_name: Rodríguez
+    iso3c: URY
+    shapeID: 84410073B80691141354915
+  RosarioAdm2URY:
+    admin_name: Rosario
+    iso3c: URY
+    shapeID: 84410073B61411405637376
+  SalinasAdm2URY:
+    admin_name: Salinas
+    iso3c: URY
+    shapeID: 84410073B77165260459869
+  SaltoAdm1URY:
+    admin_name: Salto
+    iso3c: URY
+    shapeID: 27058087B51474914010310
+  SanAntonioAdm2URY:
+    admin_name: SanAntonio
+    iso3c: URY
+    shapeID: 84410073B59518744288297
+  SanBautistaAdm2URY:
+    admin_name: SanBautista
+    iso3c: URY
+    shapeID: 84410073B38212099909840
+  SanCarlosAdm2URY:
+    admin_name: SanCarlos
+    iso3c: URY
+    shapeID: 84410073B16503485399058
+  SanGregoriodePolancoAdm2URY:
+    admin_name: SanGregoriodePolanco
+    iso3c: URY
+    shapeID: 84410073B83102109001145
+  SanJacintoAdm2URY:
+    admin_name: SanJacinto
+    iso3c: URY
+    shapeID: 84410073B72021861156852
+  SanJavierAdm2URY:
+    admin_name: SanJavier
+    iso3c: URY
+    shapeID: 84410073B27439401381300
+  SanJoséAdm1URY:
+    admin_name: SanJosé
+    iso3c: URY
+    shapeID: 27058087B9919519605551
+  SanRamonAdm2URY:
+    admin_name: SanRamon
+    iso3c: URY
+    shapeID: 84410073B4284999044109
+  SantaClaradeOlimarAdm2URY:
+    admin_name: SantaClaradeOlimar
+    iso3c: URY
+    shapeID: 84410073B4771641932521
+  SantaLucíaAdm2URY:
+    admin_name: SantaLucía
+    iso3c: URY
+    shapeID: 84410073B26807855042192
+  SantaRosaAdm2URY:
+    admin_name: SantaRosa
+    iso3c: URY
+    shapeID: 84410073B29555831228815
+  SarandídelYíAdm2URY:
+    admin_name: SarandídelYí
+    iso3c: URY
+    shapeID: 84410073B30511027712587
+  SarandíGrandeAdm2URY:
+    admin_name: SarandíGrande
+    iso3c: URY
+    shapeID: 84410073B88525432493969
+  SauceAdm2URY:
+    admin_name: Sauce
+    iso3c: URY
+    shapeID: 84410073B43433365311667
+  SocaAdm2URY:
+    admin_name: Soca
+    iso3c: URY
+    shapeID: 84410073B54882123998895
+  SolísdeMataojoAdm2URY:
+    admin_name: SolísdeMataojo
+    iso3c: URY
+    shapeID: 84410073B13887066663224
+  SolísGrandeAdm2URY:
+    admin_name: SolísGrande
+    iso3c: URY
+    shapeID: 84410073B83556498803865
+  SorianoAdm1URY:
+    admin_name: Soriano
+    iso3c: URY
+    shapeID: 27058087B69444591785940
+  SuárezAdm2URY:
+    admin_name: Suárez
+    iso3c: URY
+    shapeID: 84410073B82028195358702
+  TacuarembóAdm1URY:
+    admin_name: Tacuarembó
+    iso3c: URY
+    shapeID: 27058087B78128732832923
+  TalaAdm2URY:
+    admin_name: Tala
+    iso3c: URY
+    shapeID: 84410073B98318272763816
+  TamboresAdm2URY:
+    admin_name: Tambores
+    iso3c: URY
+    shapeID: 84410073B26117167453327
+  TararirasAdm2URY:
+    admin_name: Tarariras
+    iso3c: URY
+    shapeID: 84410073B21543220364464
+  ToledoAdm2URY:
+    admin_name: Toledo
+    iso3c: URY
+    shapeID: 84410073B33780551405566
+  TomásGomensoroAdm2URY:
+    admin_name: TomásGomensoro
+    iso3c: URY
+    shapeID: 84410073B21516970861413
+  TranquerasAdm2URY:
+    admin_name: Tranqueras
+    iso3c: URY
+    shapeID: 84410073B22832940663467
+  TreintayTresAdm1URY:
+    admin_name: TreintayTres
+    iso3c: URY
+    shapeID: 27058087B85503990233673
+  TresIslasAdm2URY:
+    admin_name: TresIslas
+    iso3c: URY
+    shapeID: 84410073B15604045088045
+  TupambaéAdm2URY:
+    admin_name: Tupambaé
+    iso3c: URY
+    shapeID: 84410073B70761357527
+  ValentínAdm2URY:
+    admin_name: Valentín
+    iso3c: URY
+    shapeID: 84410073B27014613956982
+  VergaraAdm2URY:
+    admin_name: Vergara
+    iso3c: URY
+    shapeID: 84410073B11484829939635
+  VichaderoAdm2URY:
+    admin_name: Vichadero
+    iso3c: URY
+    shapeID: 84410073B89841560148342
+  VillaConstituciónAdm2URY:
+    admin_name: VillaConstitución
+    iso3c: URY
+    shapeID: 84410073B3070112347268
+  VilladelCarmenAdm2URY:
+    admin_name: VilladelCarmen
+    iso3c: URY
+    shapeID: 84410073B65013252614734
+  VillaSaraAdm2URY:
+    admin_name: VillaSara
+    iso3c: URY
+    shapeID: 84410073B51130607975683
+  YoungAdm2URY:
+    admin_name: Young
+    iso3c: URY
+    shapeID: 84410073B75635115155614

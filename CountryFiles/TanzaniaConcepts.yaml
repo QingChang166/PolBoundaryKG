@@ -1,31 +1,801 @@
 concepts:
-    - Kigoma
-    - Morogoro
-    - Rukwa
-    - Tabora
-    - Pwani
-    - Ruvuma
-    - Simiyu
-    - Mwanza
-    - Shinyanga
-    - Tanga
-    - Dodoma
-    - ZanzibarSouth&Central
-    - NorthPemba
-    - ZanzibarNorth
-    - ZanzibarUrban/West
-    - SouthPemba
-    - Katavi
-    - Njombe
-    - Geita
-    - Kilimanjaro
-    - Mara
-    - Manyara
-    - Arusha
-    - Kagera
-    - Mbeya
-    - Singida
-    - Mtwara
-    - Iringa
-    - DaresSalaam
-    - Lindi
+  ArushaAdm1TZA:
+    admin_name: Arusha
+    iso3c: TZA
+    shapeID: 36957248B12876867554617
+  ArushaAdm2TZA:
+    admin_name: Arusha
+    iso3c: TZA
+    shapeID: 72390352B32479700182608
+  ArushaUrbanAdm2TZA:
+    admin_name: ArushaUrban
+    iso3c: TZA
+    shapeID: 72390352B90906351205470
+  BabatiAdm2TZA:
+    admin_name: Babati
+    iso3c: TZA
+    shapeID: 72390352B12207219772126
+  BabatiUrbanBabatiUrbanAdm2TZA:
+    admin_name: BabatiUrbanBabatiUrban
+    iso3c: TZA
+    shapeID: 72390352B90089128995390
+  BagamoyoAdm2TZA:
+    admin_name: Bagamoyo
+    iso3c: TZA
+    shapeID: 72390352B29680200356010
+  BahiAdm2TZA:
+    admin_name: Bahi
+    iso3c: TZA
+    shapeID: 72390352B69303654086019
+  BariadiAdm2TZA:
+    admin_name: Bariadi
+    iso3c: TZA
+    shapeID: 72390352B92057106188413
+  BiharamuloAdm2TZA:
+    admin_name: Biharamulo
+    iso3c: TZA
+    shapeID: 72390352B49618457772181
+  BuhigweAdm2TZA:
+    admin_name: Buhigwe
+    iso3c: TZA
+    shapeID: 72390352B43433883631580
+  BukobaAdm2TZA:
+    admin_name: Bukoba
+    iso3c: TZA
+    shapeID: 72390352B68293795880239
+  BukobaUrbanAdm2TZA:
+    admin_name: BukobaUrban
+    iso3c: TZA
+    shapeID: 72390352B77165247512892
+  BukombeAdm2TZA:
+    admin_name: Bukombe
+    iso3c: TZA
+    shapeID: 72390352B18842274411831
+  BundaAdm2TZA:
+    admin_name: Bunda
+    iso3c: TZA
+    shapeID: 72390352B35806479810351
+  BusegaAdm2TZA:
+    admin_name: Busega
+    iso3c: TZA
+    shapeID: 72390352B70559618037175
+  ButiamAdm2TZA:
+    admin_name: Butiam
+    iso3c: TZA
+    shapeID: 72390352B35299561044003
+  ChakeChakeAdm2TZA:
+    admin_name: ChakeChake
+    iso3c: TZA
+    shapeID: 72390352B74660811526984
+  ChamwinoAdm2TZA:
+    admin_name: Chamwino
+    iso3c: TZA
+    shapeID: 72390352B28140161055022
+  ChatoAdm2TZA:
+    admin_name: Chato
+    iso3c: TZA
+    shapeID: 72390352B63706364179884
+  ChembaAdm2TZA:
+    admin_name: Chemba
+    iso3c: TZA
+    shapeID: 72390352B30961702846084
+  ChunyaAdm2TZA:
+    admin_name: Chunya
+    iso3c: TZA
+    shapeID: 72390352B92011686492741
+  DaresSalaamAdm1TZA:
+    admin_name: DaresSalaam
+    iso3c: TZA
+    shapeID: 36957248B2633782293100
+  DodomaAdm1TZA:
+    admin_name: Dodoma
+    iso3c: TZA
+    shapeID: 36957248B94171853380228
+  DodomaUrbanAdm2TZA:
+    admin_name: DodomaUrban
+    iso3c: TZA
+    shapeID: 72390352B24669678050336
+  GairoAdm2TZA:
+    admin_name: Gairo
+    iso3c: TZA
+    shapeID: 72390352B71030681800047
+  GeitaAdm1TZA:
+    admin_name: Geita
+    iso3c: TZA
+    shapeID: 36957248B67527021942185
+  GeitaAdm2TZA:
+    admin_name: Geita
+    iso3c: TZA
+    shapeID: 72390352B97667671873629
+  HaiAdm2TZA:
+    admin_name: Hai
+    iso3c: TZA
+    shapeID: 72390352B77483544974211
+  HanangAdm2TZA:
+    admin_name: Hanang
+    iso3c: TZA
+    shapeID: 72390352B73734578830609
+  HandeniAdm2TZA:
+    admin_name: Handeni
+    iso3c: TZA
+    shapeID: 72390352B54290670955979
+  HandeniMjiAdm2TZA:
+    admin_name: HandeniMji
+    iso3c: TZA
+    shapeID: 72390352B73978463558570
+  IgungaAdm2TZA:
+    admin_name: Igunga
+    iso3c: TZA
+    shapeID: 72390352B54001884070734
+  IkungiAdm2TZA:
+    admin_name: Ikungi
+    iso3c: TZA
+    shapeID: 72390352B5494870713744
+  IlalaAdm2TZA:
+    admin_name: Ilala
+    iso3c: TZA
+    shapeID: 72390352B40584164885098
+  IlejeAdm2TZA:
+    admin_name: Ileje
+    iso3c: TZA
+    shapeID: 72390352B17520994539919
+  IlemelaAdm2TZA:
+    admin_name: Ilemela
+    iso3c: TZA
+    shapeID: 72390352B90588253427027
+  IrambaAdm2TZA:
+    admin_name: Iramba
+    iso3c: TZA
+    shapeID: 72390352B66961871173396
+  IringaAdm1TZA:
+    admin_name: Iringa
+    iso3c: TZA
+    shapeID: 36957248B77241623821364
+  IringaAdm2TZA:
+    admin_name: Iringa
+    iso3c: TZA
+    shapeID: 72390352B92646008536074
+  IringaUrbanAdm2TZA:
+    admin_name: IringaUrban
+    iso3c: TZA
+    shapeID: 72390352B98765493528957
+  ItilimaAdm2TZA:
+    admin_name: Itilima
+    iso3c: TZA
+    shapeID: 72390352B56378812232391
+  KageraAdm1TZA:
+    admin_name: Kagera
+    iso3c: TZA
+    shapeID: 36957248B48065738140082
+  KahamaAdm2TZA:
+    admin_name: Kahama
+    iso3c: TZA
+    shapeID: 72390352B22692962057204
+  KahamaTownshipAuthorityAdm2TZA:
+    admin_name: KahamaTownshipAuthority
+    iso3c: TZA
+    shapeID: 72390352B16659808480234
+  KakonkoAdm2TZA:
+    admin_name: Kakonko
+    iso3c: TZA
+    shapeID: 72390352B1364689767312
+  KalamboAdm2TZA:
+    admin_name: Kalambo
+    iso3c: TZA
+    shapeID: 72390352B91916326383066
+  KaliuaAdm2TZA:
+    admin_name: Kaliua
+    iso3c: TZA
+    shapeID: 72390352B29601163251764
+  KaragweAdm2TZA:
+    admin_name: Karagwe
+    iso3c: TZA
+    shapeID: 72390352B65686612592635
+  KaratuAdm2TZA:
+    admin_name: Karatu
+    iso3c: TZA
+    shapeID: 72390352B22674606658861
+  KaskaziniAAdm2TZA:
+    admin_name: KaskaziniA
+    iso3c: TZA
+    shapeID: 72390352B77186952625716
+  KaskaziniBAdm2TZA:
+    admin_name: KaskaziniB
+    iso3c: TZA
+    shapeID: 72390352B15073652071238
+  KasuluAdm2TZA:
+    admin_name: Kasulu
+    iso3c: TZA
+    shapeID: 72390352B21750015500578
+  KasuluTownshipAuthorityAdm2TZA:
+    admin_name: KasuluTownshipAuthority
+    iso3c: TZA
+    shapeID: 72390352B60593007856017
+  KataviAdm1TZA:
+    admin_name: Katavi
+    iso3c: TZA
+    shapeID: 36957248B34051677343112
+  KatiAdm2TZA:
+    admin_name: Kati
+    iso3c: TZA
+    shapeID: 72390352B68738670078554
+  KibahaAdm2TZA:
+    admin_name: Kibaha
+    iso3c: TZA
+    shapeID: 72390352B76192804660906
+  KibahaUrbanAdm2TZA:
+    admin_name: KibahaUrban
+    iso3c: TZA
+    shapeID: 72390352B56720706839933
+  KibondoAdm2TZA:
+    admin_name: Kibondo
+    iso3c: TZA
+    shapeID: 72390352B58332556482444
+  KigomaAdm1TZA:
+    admin_name: Kigoma
+    iso3c: TZA
+    shapeID: 36957248B11692782910073
+  KigomaAdm2TZA:
+    admin_name: Kigoma
+    iso3c: TZA
+    shapeID: 72390352B30674118715659
+  KigomaUrbanAdm2TZA:
+    admin_name: KigomaUrban
+    iso3c: TZA
+    shapeID: 72390352B17759889395693
+  KilimanjaroAdm1TZA:
+    admin_name: Kilimanjaro
+    iso3c: TZA
+    shapeID: 36957248B55328686942733
+  KilindiAdm2TZA:
+    admin_name: Kilindi
+    iso3c: TZA
+    shapeID: 72390352B98761165374808
+  KiloloAdm2TZA:
+    admin_name: Kilolo
+    iso3c: TZA
+    shapeID: 72390352B38467377597679
+  KilomberoAdm2TZA:
+    admin_name: Kilombero
+    iso3c: TZA
+    shapeID: 72390352B25590445201102
+  KilosaAdm2TZA:
+    admin_name: Kilosa
+    iso3c: TZA
+    shapeID: 72390352B53131574128845
+  KilwaAdm2TZA:
+    admin_name: Kilwa
+    iso3c: TZA
+    shapeID: 72390352B7880721655308
+  KinondoniAdm2TZA:
+    admin_name: Kinondoni
+    iso3c: TZA
+    shapeID: 72390352B66429416458525
+  KisaraweAdm2TZA:
+    admin_name: Kisarawe
+    iso3c: TZA
+    shapeID: 72390352B52983476562666
+  KishapuAdm2TZA:
+    admin_name: Kishapu
+    iso3c: TZA
+    shapeID: 72390352B32869277898143
+  KitetoAdm2TZA:
+    admin_name: Kiteto
+    iso3c: TZA
+    shapeID: 72390352B80776151350042
+  KondoaAdm2TZA:
+    admin_name: Kondoa
+    iso3c: TZA
+    shapeID: 72390352B62044183520375
+  KongwaAdm2TZA:
+    admin_name: Kongwa
+    iso3c: TZA
+    shapeID: 72390352B66245716936383
+  KorogweAdm2TZA:
+    admin_name: Korogwe
+    iso3c: TZA
+    shapeID: 72390352B3133588656991
+  KorogweTownshipAuthorityAdm2TZA:
+    admin_name: KorogweTownshipAuthority
+    iso3c: TZA
+    shapeID: 72390352B41893572728253
+  KusiniAdm2TZA:
+    admin_name: Kusini
+    iso3c: TZA
+    shapeID: 72390352B36829534131483
+  KwimbaAdm2TZA:
+    admin_name: Kwimba
+    iso3c: TZA
+    shapeID: 72390352B45509194301574
+  KyelaAdm2TZA:
+    admin_name: Kyela
+    iso3c: TZA
+    shapeID: 72390352B41643980878870
+  KyerwaAdm2TZA:
+    admin_name: Kyerwa
+    iso3c: TZA
+    shapeID: 72390352B12398012816015
+  LindiAdm1TZA:
+    admin_name: Lindi
+    iso3c: TZA
+    shapeID: 36957248B69769580879919
+  LindiAdm2TZA:
+    admin_name: Lindi
+    iso3c: TZA
+    shapeID: 72390352B7713188541433
+  LindiUrbanAdm2TZA:
+    admin_name: LindiUrban
+    iso3c: TZA
+    shapeID: 72390352B58883595926721
+  LiwaleAdm2TZA:
+    admin_name: Liwale
+    iso3c: TZA
+    shapeID: 72390352B80391364217442
+  LongidoAdm2TZA:
+    admin_name: Longido
+    iso3c: TZA
+    shapeID: 72390352B95731720096997
+  LudewaAdm2TZA:
+    admin_name: Ludewa
+    iso3c: TZA
+    shapeID: 72390352B43391507115191
+  LushotoAdm2TZA:
+    admin_name: Lushoto
+    iso3c: TZA
+    shapeID: 72390352B30242417713864
+  MafiaAdm2TZA:
+    admin_name: Mafia
+    iso3c: TZA
+    shapeID: 72390352B74532147136856
+  MafingaTownshipAuthorityAdm2TZA:
+    admin_name: MafingaTownshipAuthority
+    iso3c: TZA
+    shapeID: 72390352B55502751216619
+  MagharibiAdm2TZA:
+    admin_name: Magharibi
+    iso3c: TZA
+    shapeID: 72390352B70436774950451
+  MaguAdm2TZA:
+    admin_name: Magu
+    iso3c: TZA
+    shapeID: 72390352B80484439449184
+  MakambakoTownshipAuthorityAdm2TZA:
+    admin_name: MakambakoTownshipAuthority
+    iso3c: TZA
+    shapeID: 72390352B34261430797900
+  MaketeAdm2TZA:
+    admin_name: Makete
+    iso3c: TZA
+    shapeID: 72390352B51873582002434
+  ManyaraAdm1TZA:
+    admin_name: Manyara
+    iso3c: TZA
+    shapeID: 36957248B99133684808243
+  ManyoniAdm2TZA:
+    admin_name: Manyoni
+    iso3c: TZA
+    shapeID: 72390352B73180368039512
+  MaraAdm1TZA:
+    admin_name: Mara
+    iso3c: TZA
+    shapeID: 36957248B94562559517692
+  MasasiAdm2TZA:
+    admin_name: Masasi
+    iso3c: TZA
+    shapeID: 72390352B56058142056871
+  MasasiTownshipAuthorityAdm2TZA:
+    admin_name: MasasiTownshipAuthority
+    iso3c: TZA
+    shapeID: 72390352B27431607141265
+  MaswaAdm2TZA:
+    admin_name: Maswa
+    iso3c: TZA
+    shapeID: 72390352B27931879401730
+  MbaraliAdm2TZA:
+    admin_name: Mbarali
+    iso3c: TZA
+    shapeID: 72390352B36245556910711
+  MbeyaAdm1TZA:
+    admin_name: Mbeya
+    iso3c: TZA
+    shapeID: 36957248B75876472342648
+  MbeyaAdm2TZA:
+    admin_name: Mbeya
+    iso3c: TZA
+    shapeID: 72390352B82808491826054
+  MbeyaUrbanAdm2TZA:
+    admin_name: MbeyaUrban
+    iso3c: TZA
+    shapeID: 72390352B25057310038558
+  MbingaAdm2TZA:
+    admin_name: Mbinga
+    iso3c: TZA
+    shapeID: 72390352B96762734199587
+  MbogweAdm2TZA:
+    admin_name: Mbogwe
+    iso3c: TZA
+    shapeID: 72390352B61326482335333
+  MboziAdm2TZA:
+    admin_name: Mbozi
+    iso3c: TZA
+    shapeID: 72390352B44769786141856
+  MbuluAdm2TZA:
+    admin_name: Mbulu
+    iso3c: TZA
+    shapeID: 72390352B2366371930573
+  MeatuAdm2TZA:
+    admin_name: Meatu
+    iso3c: TZA
+    shapeID: 72390352B64411652351957
+  MeruAdm2TZA:
+    admin_name: Meru
+    iso3c: TZA
+    shapeID: 72390352B99598192663387
+  MicheweniAdm2TZA:
+    admin_name: Micheweni
+    iso3c: TZA
+    shapeID: 72390352B10041948883658
+  MissenyiAdm2TZA:
+    admin_name: Missenyi
+    iso3c: TZA
+    shapeID: 72390352B46245922571369
+  MisungwiAdm2TZA:
+    admin_name: Misungwi
+    iso3c: TZA
+    shapeID: 72390352B3687042598615
+  MjiniAdm2TZA:
+    admin_name: Mjini
+    iso3c: TZA
+    shapeID: 72390352B88201413510937
+  MkalamaAdm2TZA:
+    admin_name: Mkalama
+    iso3c: TZA
+    shapeID: 72390352B53166842903656
+  MkingaAdm2TZA:
+    admin_name: Mkinga
+    iso3c: TZA
+    shapeID: 72390352B38372573514065
+  MkoaniAdm2TZA:
+    admin_name: Mkoani
+    iso3c: TZA
+    shapeID: 72390352B13842693360807
+  MkurangaAdm2TZA:
+    admin_name: Mkuranga
+    iso3c: TZA
+    shapeID: 72390352B89793068246762
+  MleleAdm2TZA:
+    admin_name: Mlele
+    iso3c: TZA
+    shapeID: 72390352B12905062635487
+  MombaAdm2TZA:
+    admin_name: Momba
+    iso3c: TZA
+    shapeID: 72390352B95240342657452
+  MonduliAdm2TZA:
+    admin_name: Monduli
+    iso3c: TZA
+    shapeID: 72390352B11439822404473
+  MorogoroAdm1TZA:
+    admin_name: Morogoro
+    iso3c: TZA
+    shapeID: 36957248B51202481578817
+  MorogoroAdm2TZA:
+    admin_name: Morogoro
+    iso3c: TZA
+    shapeID: 72390352B24110633153516
+  MorogoroUrbanAdm2TZA:
+    admin_name: MorogoroUrban
+    iso3c: TZA
+    shapeID: 72390352B88942039906388
+  MoshiAdm2TZA:
+    admin_name: Moshi
+    iso3c: TZA
+    shapeID: 72390352B4446234130359
+  MoshiUrbanAdm2TZA:
+    admin_name: MoshiUrban
+    iso3c: TZA
+    shapeID: 72390352B76512132105243
+  MpandaAdm2TZA:
+    admin_name: Mpanda
+    iso3c: TZA
+    shapeID: 72390352B28587760392267
+  MpandaUrbanAdm2TZA:
+    admin_name: MpandaUrban
+    iso3c: TZA
+    shapeID: 72390352B31642859672055
+  MpwapwaAdm2TZA:
+    admin_name: Mpwapwa
+    iso3c: TZA
+    shapeID: 72390352B74757309381442
+  MtwaraAdm1TZA:
+    admin_name: Mtwara
+    iso3c: TZA
+    shapeID: 36957248B12364491601158
+  MtwaraAdm2TZA:
+    admin_name: Mtwara
+    iso3c: TZA
+    shapeID: 72390352B92435052932896
+  MtwaraUrbanAdm2TZA:
+    admin_name: MtwaraUrban
+    iso3c: TZA
+    shapeID: 72390352B87015028421250
+  MufindiAdm2TZA:
+    admin_name: Mufindi
+    iso3c: TZA
+    shapeID: 72390352B52349151211707
+  MuhezaAdm2TZA:
+    admin_name: Muheza
+    iso3c: TZA
+    shapeID: 72390352B38576032693201
+  MulebaAdm2TZA:
+    admin_name: Muleba
+    iso3c: TZA
+    shapeID: 72390352B90711717616381
+  MusomaAdm2TZA:
+    admin_name: Musoma
+    iso3c: TZA
+    shapeID: 72390352B7456768278221
+  MusomaUrbanAdm2TZA:
+    admin_name: MusomaUrban
+    iso3c: TZA
+    shapeID: 72390352B68648514157418
+  MvomeroAdm2TZA:
+    admin_name: Mvomero
+    iso3c: TZA
+    shapeID: 72390352B62121337619186
+  MwangaAdm2TZA:
+    admin_name: Mwanga
+    iso3c: TZA
+    shapeID: 72390352B15719315121224
+  MwanzaAdm1TZA:
+    admin_name: Mwanza
+    iso3c: TZA
+    shapeID: 36957248B97200142584881
+  NachingweaAdm2TZA:
+    admin_name: Nachingwea
+    iso3c: TZA
+    shapeID: 72390352B76457855664867
+  NamtumboAdm2TZA:
+    admin_name: Namtumbo
+    iso3c: TZA
+    shapeID: 72390352B4837835329020
+  NanyumbuAdm2TZA:
+    admin_name: Nanyumbu
+    iso3c: TZA
+    shapeID: 72390352B85678020314776
+  NewalaAdm2TZA:
+    admin_name: Newala
+    iso3c: TZA
+    shapeID: 72390352B96178710336492
+  NgaraAdm2TZA:
+    admin_name: Ngara
+    iso3c: TZA
+    shapeID: 72390352B68533256720623
+  NgorongoroAdm2TZA:
+    admin_name: Ngorongoro
+    iso3c: TZA
+    shapeID: 72390352B42279830137418
+  NjombeAdm1TZA:
+    admin_name: Njombe
+    iso3c: TZA
+    shapeID: 36957248B16645806994912
+  NjombeAdm2TZA:
+    admin_name: Njombe
+    iso3c: TZA
+    shapeID: 72390352B62498272724852
+  NjombeUrbanAdm2TZA:
+    admin_name: NjombeUrban
+    iso3c: TZA
+    shapeID: 72390352B92677179016540
+  NkasiAdm2TZA:
+    admin_name: Nkasi
+    iso3c: TZA
+    shapeID: 72390352B34861075189695
+  NorthPembaAdm1TZA:
+    admin_name: NorthPemba
+    iso3c: TZA
+    shapeID: 36957248B13188202009922
+  NyamaganaAdm2TZA:
+    admin_name: Nyamagana
+    iso3c: TZA
+    shapeID: 72390352B17873975087440
+  Nyang'hwaleAdm2TZA:
+    admin_name: Nyang'hwale
+    iso3c: TZA
+    shapeID: 72390352B96686223722654
+  NyasaAdm2TZA:
+    admin_name: Nyasa
+    iso3c: TZA
+    shapeID: 72390352B51604936414420
+  NzegaAdm2TZA:
+    admin_name: Nzega
+    iso3c: TZA
+    shapeID: 72390352B4567455644907
+  PanganiAdm2TZA:
+    admin_name: Pangani
+    iso3c: TZA
+    shapeID: 72390352B29030119078393
+  PwaniAdm1TZA:
+    admin_name: Pwani
+    iso3c: TZA
+    shapeID: 36957248B83801093286412
+  RomboAdm2TZA:
+    admin_name: Rombo
+    iso3c: TZA
+    shapeID: 72390352B49231532539034
+  RoryaAdm2TZA:
+    admin_name: Rorya
+    iso3c: TZA
+    shapeID: 72390352B17164070988815
+  RuangwaAdm2TZA:
+    admin_name: Ruangwa
+    iso3c: TZA
+    shapeID: 72390352B35310074637090
+  RufijiAdm2TZA:
+    admin_name: Rufiji
+    iso3c: TZA
+    shapeID: 72390352B25336426084217
+  RukwaAdm1TZA:
+    admin_name: Rukwa
+    iso3c: TZA
+    shapeID: 36957248B68200678446738
+  RungweAdm2TZA:
+    admin_name: Rungwe
+    iso3c: TZA
+    shapeID: 72390352B86695961679763
+  RuvumaAdm1TZA:
+    admin_name: Ruvuma
+    iso3c: TZA
+    shapeID: 36957248B86098654739756
+  SameAdm2TZA:
+    admin_name: Same
+    iso3c: TZA
+    shapeID: 72390352B83063272545753
+  SengeremaAdm2TZA:
+    admin_name: Sengerema
+    iso3c: TZA
+    shapeID: 72390352B95612948822264
+  SerengetiAdm2TZA:
+    admin_name: Serengeti
+    iso3c: TZA
+    shapeID: 72390352B48676394939092
+  ShinyangaAdm1TZA:
+    admin_name: Shinyanga
+    iso3c: TZA
+    shapeID: 36957248B79115240070229
+  ShinyangaAdm2TZA:
+    admin_name: Shinyanga
+    iso3c: TZA
+    shapeID: 72390352B3732768371218
+  ShinyangaUrbanAdm2TZA:
+    admin_name: ShinyangaUrban
+    iso3c: TZA
+    shapeID: 72390352B93356288072561
+  SihaAdm2TZA:
+    admin_name: Siha
+    iso3c: TZA
+    shapeID: 72390352B52159147893976
+  SikongeAdm2TZA:
+    admin_name: Sikonge
+    iso3c: TZA
+    shapeID: 72390352B96655451787370
+  SimanjiroAdm2TZA:
+    admin_name: Simanjiro
+    iso3c: TZA
+    shapeID: 72390352B2790991966076
+  SimiyuAdm1TZA:
+    admin_name: Simiyu
+    iso3c: TZA
+    shapeID: 36957248B66492463379082
+  SingidaAdm1TZA:
+    admin_name: Singida
+    iso3c: TZA
+    shapeID: 36957248B4897898165843
+  SingidaAdm2TZA:
+    admin_name: Singida
+    iso3c: TZA
+    shapeID: 72390352B6504298719524
+  SingidaUrbanAdm2TZA:
+    admin_name: SingidaUrban
+    iso3c: TZA
+    shapeID: 72390352B67063144918279
+  SongeaAdm2TZA:
+    admin_name: Songea
+    iso3c: TZA
+    shapeID: 72390352B68324313293973
+  SongeaUrbanAdm2TZA:
+    admin_name: SongeaUrban
+    iso3c: TZA
+    shapeID: 72390352B83796809810419
+  SongweAdm2TZA:
+    admin_name: Songwe
+    iso3c: TZA
+    shapeID: 72390352B69788666323478
+  SouthPembaAdm1TZA:
+    admin_name: SouthPemba
+    iso3c: TZA
+    shapeID: 36957248B25003810903493
+  SumbawangaAdm2TZA:
+    admin_name: Sumbawanga
+    iso3c: TZA
+    shapeID: 72390352B27717411944051
+  SumbawangaUrbanAdm2TZA:
+    admin_name: SumbawangaUrban
+    iso3c: TZA
+    shapeID: 72390352B60773938386935
+  TaboraAdm1TZA:
+    admin_name: Tabora
+    iso3c: TZA
+    shapeID: 36957248B64143865471040
+  TaboraUrbanAdm2TZA:
+    admin_name: TaboraUrban
+    iso3c: TZA
+    shapeID: 72390352B61754038708822
+  TandahimbaAdm2TZA:
+    admin_name: Tandahimba
+    iso3c: TZA
+    shapeID: 72390352B76468761426294
+  TangaAdm1TZA:
+    admin_name: Tanga
+    iso3c: TZA
+    shapeID: 36957248B96174950507772
+  TangaUrbanAdm2TZA:
+    admin_name: TangaUrban
+    iso3c: TZA
+    shapeID: 72390352B10610893489740
+  TarimeAdm2TZA:
+    admin_name: Tarime
+    iso3c: TZA
+    shapeID: 72390352B9041864776563
+  TemekeAdm2TZA:
+    admin_name: Temeke
+    iso3c: TZA
+    shapeID: 72390352B94835751472469
+  TundumaAdm2TZA:
+    admin_name: Tunduma
+    iso3c: TZA
+    shapeID: 72390352B1593050996578
+  TunduruAdm2TZA:
+    admin_name: Tunduru
+    iso3c: TZA
+    shapeID: 72390352B58168894275482
+  UkereweAdm2TZA:
+    admin_name: Ukerewe
+    iso3c: TZA
+    shapeID: 72390352B65036310172855
+  UlangaAdm2TZA:
+    admin_name: Ulanga
+    iso3c: TZA
+    shapeID: 72390352B93515871634078
+  UramboAdm2TZA:
+    admin_name: Urambo
+    iso3c: TZA
+    shapeID: 72390352B58709749757029
+  UvinzaAdm2TZA:
+    admin_name: Uvinza
+    iso3c: TZA
+    shapeID: 72390352B15676475935925
+  UyuiAdm2TZA:
+    admin_name: Uyui
+    iso3c: TZA
+    shapeID: 72390352B28683809474818
+  Wanging'ombeAdm2TZA:
+    admin_name: Wanging'ombe
+    iso3c: TZA
+    shapeID: 72390352B33528420406675
+  WeteAdm2TZA:
+    admin_name: Wete
+    iso3c: TZA
+    shapeID: 72390352B34611789685005
+  ZanzibarNorthAdm1TZA:
+    admin_name: ZanzibarNorth
+    iso3c: TZA
+    shapeID: 36957248B81638677744414
+  ZanzibarSouth&CentralAdm1TZA:
+    admin_name: ZanzibarSouth&Central
+    iso3c: TZA
+    shapeID: 36957248B39816127207897
+  ZanzibarUrban/WestAdm1TZA:
+    admin_name: ZanzibarUrban/West
+    iso3c: TZA
+    shapeID: 36957248B66874645654546

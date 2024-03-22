@@ -1,1 +1,10 @@
-relations: (Monaco, Monaco)
+relations:
+    - (Monaco, MonacoAdm1MCO)
+    - (MonacoAdm1MCO, FontvieilleAdm2MCO)
+    - (MonacoAdm1MCO, Monaco-VilleAdm2MCO)
+    - (MonacoAdm1MCO, LaCondamineAdm2MCO)
+    - (MonacoAdm1MCO, LaRousseAdm2MCO)
+    - (MonacoAdm1MCO, Monte-CarloAdm2MCO)
+    - (MonacoAdm1MCO, JardinExotiqueAdm2MCO)
+    - (MonacoAdm1MCO, LesMonegettiAdm2MCO)
+    - (MonacoAdm1MCO, Sainte-DévoteAdm2MCO)

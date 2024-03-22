@@ -1,26 +1,1189 @@
 concepts:
-    - Anzoátegui
-    - Amazonas
-    - Bolívar
-    - Apure
-    - Aragua
-    - Barinas
-    - Lara
-    - Mérida
-    - Miranda
-    - Monagas
-    - NuevaEsparta
-    - Portuguesa
-    - Carabobo
-    - Cojedes
-    - DeltaAmacuro
-    - DistritoCapital
-    - Falcón
-    - Guárico
-    - LaGuaira
-    - Zulia
-    - DependenciasFederales
-    - Táchira
-    - Trujillo
-    - Yaracuy
-    - Sucre
+  AcevedoAdm2VEN:
+    admin_name: Acevedo
+    iso3c: VEN
+    shapeID: 92452058B38977236110472
+  AchaguasAdm2VEN:
+    admin_name: Achaguas
+    iso3c: VEN
+    shapeID: 92452058B57596479619194
+  AcostaAdm2VEN:
+    admin_name: Acosta
+    iso3c: VEN
+    shapeID: 92452058B66612082158993
+  AguaBlancaAdm2VEN:
+    admin_name: AguaBlanca
+    iso3c: VEN
+    shapeID: 92452058B11954780234519
+  AguasayAdm2VEN:
+    admin_name: Aguasay
+    iso3c: VEN
+    shapeID: 92452058B20734367983151
+  AlbertoAdrianiAdm2VEN:
+    admin_name: AlbertoAdriani
+    iso3c: VEN
+    shapeID: 92452058B83946856745535
+  AlbertoArveloTorrealbaAdm2VEN:
+    admin_name: AlbertoArveloTorrealba
+    iso3c: VEN
+    shapeID: 92452058B22632362075175
+  AlmirantePadillaAdm2VEN:
+    admin_name: AlmirantePadilla
+    iso3c: VEN
+    shapeID: 92452058B26241339003056
+  AmazonasAdm1VEN:
+    admin_name: Amazonas
+    iso3c: VEN
+    shapeID: 42786344B3576998924110
+  AnacoAdm2VEN:
+    admin_name: Anaco
+    iso3c: VEN
+    shapeID: 92452058B38768688631563
+  AndrésBelloAdm2VEN:
+    admin_name: AndrésBello
+    iso3c: VEN
+    shapeID: 92452058B60175540924522
+  AndrésEloyBlancoAdm2VEN:
+    admin_name: AndrésEloyBlanco
+    iso3c: VEN
+    shapeID: 92452058B83235361555221
+  AndrésMataAdm2VEN:
+    admin_name: AndrésMata
+    iso3c: VEN
+    shapeID: 92452058B98875483329913
+  AntolíndelCampoAdm2VEN:
+    admin_name: AntolíndelCampo
+    iso3c: VEN
+    shapeID: 92452058B1998456811231
+  AntonioDíazAdm2VEN:
+    admin_name: AntonioDíaz
+    iso3c: VEN
+    shapeID: 92452058B74293045430698
+  AntonioJosédeSucreAdm2VEN:
+    admin_name: AntonioJosédeSucre
+    iso3c: VEN
+    shapeID: 92452058B75275574170386
+  AntonioPintoSalinasAdm2VEN:
+    admin_name: AntonioPintoSalinas
+    iso3c: VEN
+    shapeID: 92452058B76772094645860
+  AntonioRómuloCostaAdm2VEN:
+    admin_name: AntonioRómuloCosta
+    iso3c: VEN
+    shapeID: 92452058B88247068668405
+  AnzoáteguiAdm1VEN:
+    admin_name: Anzoátegui
+    iso3c: VEN
+    shapeID: 42786344B73501178505024
+  AnzoáteguiAdm2VEN:
+    admin_name: Anzoátegui
+    iso3c: VEN
+    shapeID: 92452058B2608246233639
+  ApureAdm1VEN:
+    admin_name: Apure
+    iso3c: VEN
+    shapeID: 42786344B62999479728563
+  AraguaAdm1VEN:
+    admin_name: Aragua
+    iso3c: VEN
+    shapeID: 42786344B2655295482970
+  AraguaAdm2VEN:
+    admin_name: Aragua
+    iso3c: VEN
+    shapeID: 92452058B83392643498369
+  AraureAdm2VEN:
+    admin_name: Araure
+    iso3c: VEN
+    shapeID: 92452058B8973005468773
+  AricaguaAdm2VEN:
+    admin_name: Aricagua
+    iso3c: VEN
+    shapeID: 92452058B92699654861711
+  ArismendiAdm2VEN:
+    admin_name: Arismendi
+    iso3c: VEN
+    shapeID: 92452058B15677212765732
+  ArístidesBastidasAdm2VEN:
+    admin_name: ArístidesBastidas
+    iso3c: VEN
+    shapeID: 92452058B45353491303676
+  ArzobispoChacónAdm2VEN:
+    admin_name: ArzobispoChacón
+    iso3c: VEN
+    shapeID: 92452058B11237040354260
+  AutónomoAltoOrinocoAdm2VEN:
+    admin_name: AutónomoAltoOrinoco
+    iso3c: VEN
+    shapeID: 92452058B65922817978550
+  AutónomoAtabapoAdm2VEN:
+    admin_name: AutónomoAtabapo
+    iso3c: VEN
+    shapeID: 92452058B96252003881726
+  AutónomoAturesAdm2VEN:
+    admin_name: AutónomoAtures
+    iso3c: VEN
+    shapeID: 92452058B12581966052082
+  AutónomoAutanaAdm2VEN:
+    admin_name: AutónomoAutana
+    iso3c: VEN
+    shapeID: 92452058B84571882758287
+  AutónomoManapiareAdm2VEN:
+    admin_name: AutónomoManapiare
+    iso3c: VEN
+    shapeID: 92452058B42172892239758
+  AutónomoMaroaAdm2VEN:
+    admin_name: AutónomoMaroa
+    iso3c: VEN
+    shapeID: 92452058B1963066211404
+  AutónomoRíoNegroAdm2VEN:
+    admin_name: AutónomoRíoNegro
+    iso3c: VEN
+    shapeID: 92452058B35318903418648
+  AyacuchoAdm2VEN:
+    admin_name: Ayacucho
+    iso3c: VEN
+    shapeID: 92452058B12744919392555
+  BaraltAdm2VEN:
+    admin_name: Baralt
+    iso3c: VEN
+    shapeID: 92452058B6439374620840
+  BarinasAdm1VEN:
+    admin_name: Barinas
+    iso3c: VEN
+    shapeID: 42786344B61768817645443
+  BarinasAdm2VEN:
+    admin_name: Barinas
+    iso3c: VEN
+    shapeID: 92452058B44291856842988
+  BarutaAdm2VEN:
+    admin_name: Baruta
+    iso3c: VEN
+    shapeID: 92452058B98941669377363
+  BejumaAdm2VEN:
+    admin_name: Bejuma
+    iso3c: VEN
+    shapeID: 92452058B13726471401889
+  BenítezAdm2VEN:
+    admin_name: Benítez
+    iso3c: VEN
+    shapeID: 92452058B36691786068251
+  BermúdezAdm2VEN:
+    admin_name: Bermúdez
+    iso3c: VEN
+    shapeID: 92452058B25789635219154
+  BiruacaAdm2VEN:
+    admin_name: Biruaca
+    iso3c: VEN
+    shapeID: 92452058B20804490373380
+  BoconóAdm2VEN:
+    admin_name: Boconó
+    iso3c: VEN
+    shapeID: 92452058B89474674930128
+  BolívarAdm1VEN:
+    admin_name: Bolívar
+    iso3c: VEN
+    shapeID: 42786344B61423155075663
+  BolívarAdm2VEN:
+    admin_name: Bolívar
+    iso3c: VEN
+    shapeID: 92452058B10882972052933
+  BriónAdm2VEN:
+    admin_name: Brión
+    iso3c: VEN
+    shapeID: 92452058B25759098564616
+  BruzualAdm2VEN:
+    admin_name: Bruzual
+    iso3c: VEN
+    shapeID: 92452058B76566791733610
+  BuchivacoaAdm2VEN:
+    admin_name: Buchivacoa
+    iso3c: VEN
+    shapeID: 92452058B24669849330150
+  BurozAdm2VEN:
+    admin_name: Buroz
+    iso3c: VEN
+    shapeID: 92452058B89590794968656
+  CabimasAdm2VEN:
+    admin_name: Cabimas
+    iso3c: VEN
+    shapeID: 92452058B12886197889450
+  CaciqueManaureAdm2VEN:
+    admin_name: CaciqueManaure
+    iso3c: VEN
+    shapeID: 92452058B31160427054809
+  CajigalAdm2VEN:
+    admin_name: Cajigal
+    iso3c: VEN
+    shapeID: 92452058B36515365287716
+  CamaguánAdm2VEN:
+    admin_name: Camaguán
+    iso3c: VEN
+    shapeID: 92452058B96430954073814
+  CamataguaAdm2VEN:
+    admin_name: Camatagua
+    iso3c: VEN
+    shapeID: 92452058B18446749128605
+  CampoElíasAdm2VEN:
+    admin_name: CampoElías
+    iso3c: VEN
+    shapeID: 92452058B73225783388147
+  CandelariaAdm2VEN:
+    admin_name: Candelaria
+    iso3c: VEN
+    shapeID: 92452058B32887557209533
+  CaraboboAdm1VEN:
+    admin_name: Carabobo
+    iso3c: VEN
+    shapeID: 42786344B39547000593274
+  CaraccioloParraOlmedoAdm2VEN:
+    admin_name: CaraccioloParraOlmedo
+    iso3c: VEN
+    shapeID: 92452058B9406045296169
+  CaracheAdm2VEN:
+    admin_name: Carache
+    iso3c: VEN
+    shapeID: 92452058B98251546128304
+  CardenalQuinteroAdm2VEN:
+    admin_name: CardenalQuintero
+    iso3c: VEN
+    shapeID: 92452058B92131040648268
+  CárdenasAdm2VEN:
+    admin_name: Cárdenas
+    iso3c: VEN
+    shapeID: 92452058B54071015831659
+  CaripeAdm2VEN:
+    admin_name: Caripe
+    iso3c: VEN
+    shapeID: 92452058B25550874950140
+  CarirubanaAdm2VEN:
+    admin_name: Carirubana
+    iso3c: VEN
+    shapeID: 92452058B62251986707273
+  CarlosArveloAdm2VEN:
+    admin_name: CarlosArvelo
+    iso3c: VEN
+    shapeID: 92452058B40300597364264
+  CaroníAdm2VEN:
+    admin_name: Caroní
+    iso3c: VEN
+    shapeID: 92452058B19178625121823
+  CarrizalAdm2VEN:
+    admin_name: Carrizal
+    iso3c: VEN
+    shapeID: 92452058B35839392546530
+  CasacoimaAdm2VEN:
+    admin_name: Casacoima
+    iso3c: VEN
+    shapeID: 92452058B8554820713404
+  CatatumboAdm2VEN:
+    admin_name: Catatumbo
+    iso3c: VEN
+    shapeID: 92452058B12262203467904
+  CedeñoAdm2VEN:
+    admin_name: Cedeño
+    iso3c: VEN
+    shapeID: 92452058B49980742384962
+  ChacaoAdm2VEN:
+    admin_name: Chacao
+    iso3c: VEN
+    shapeID: 92452058B92934117405956
+  ChaguaramasAdm2VEN:
+    admin_name: Chaguaramas
+    iso3c: VEN
+    shapeID: 92452058B96684435366560
+  CocoroteAdm2VEN:
+    admin_name: Cocorote
+    iso3c: VEN
+    shapeID: 92452058B26692301480200
+  CojedesAdm1VEN:
+    admin_name: Cojedes
+    iso3c: VEN
+    shapeID: 42786344B77282727010945
+  ColinaAdm2VEN:
+    admin_name: Colina
+    iso3c: VEN
+    shapeID: 92452058B212448851474
+  ColónAdm2VEN:
+    admin_name: Colón
+    iso3c: VEN
+    shapeID: 92452058B89776134514459
+  CórdobaAdm2VEN:
+    admin_name: Córdoba
+    iso3c: VEN
+    shapeID: 92452058B51720127769836
+  CrespoAdm2VEN:
+    admin_name: Crespo
+    iso3c: VEN
+    shapeID: 92452058B43990033715561
+  CristóbalRojasAdm2VEN:
+    admin_name: CristóbalRojas
+    iso3c: VEN
+    shapeID: 92452058B19007337502862
+  CruzParedesAdm2VEN:
+    admin_name: CruzParedes
+    iso3c: VEN
+    shapeID: 92452058B3115924902263
+  CruzSalmerónAcostaAdm2VEN:
+    admin_name: CruzSalmerónAcosta
+    iso3c: VEN
+    shapeID: 92452058B32391304036894
+  DabajuroAdm2VEN:
+    admin_name: Dabajuro
+    iso3c: VEN
+    shapeID: 92452058B15505529275902
+  DeltaAmacuroAdm1VEN:
+    admin_name: DeltaAmacuro
+    iso3c: VEN
+    shapeID: 42786344B20573203446638
+  DemocraciaAdm2VEN:
+    admin_name: Democracia
+    iso3c: VEN
+    shapeID: 92452058B27987332660152
+  DependenciasFederalesAdm1VEN:
+    admin_name: DependenciasFederales
+    iso3c: VEN
+    shapeID: 42786344B77541452473448
+  DíazAdm2VEN:
+    admin_name: Díaz
+    iso3c: VEN
+    shapeID: 92452058B72966397381157
+  DiegoBautistaUrbanejoAdm2VEN:
+    admin_name: DiegoBautistaUrbanejo
+    iso3c: VEN
+    shapeID: 92452058B21405103946028
+  DiegoIbarraAdm2VEN:
+    admin_name: DiegoIbarra
+    iso3c: VEN
+    shapeID: 92452058B45156381863749
+  DistritoCapitalAdm1VEN:
+    admin_name: DistritoCapital
+    iso3c: VEN
+    shapeID: 42786344B65702840901799
+  ElCallaoAdm2VEN:
+    admin_name: ElCallao
+    iso3c: VEN
+    shapeID: 92452058B65625562328801
+  ELHatilloAdm2VEN:
+    admin_name: ELHatillo
+    iso3c: VEN
+    shapeID: 92452058B59483171465423
+  ElSocorroAdm2VEN:
+    admin_name: ElSocorro
+    iso3c: VEN
+    shapeID: 92452058B23928909517794
+  EscuqueAdm2VEN:
+    admin_name: Escuque
+    iso3c: VEN
+    shapeID: 92452058B55958295548986
+  EstellerAdm2VEN:
+    admin_name: Esteller
+    iso3c: VEN
+    shapeID: 92452058B46678467131598
+  EzequielZamoraAdm2VEN:
+    admin_name: EzequielZamora
+    iso3c: VEN
+    shapeID: 92452058B88295948802008
+  FalcónAdm1VEN:
+    admin_name: Falcón
+    iso3c: VEN
+    shapeID: 42786344B50141382807972
+  FalcónAdm2VEN:
+    admin_name: Falcón
+    iso3c: VEN
+    shapeID: 92452058B50868019184012
+  FederaciónAdm2VEN:
+    admin_name: Federación
+    iso3c: VEN
+    shapeID: 92452058B41516758992982
+  FernándezFeoAdm2VEN:
+    admin_name: FernándezFeo
+    iso3c: VEN
+    shapeID: 92452058B4465653427750
+  FernandodePeñalverAdm2VEN:
+    admin_name: FernandodePeñalver
+    iso3c: VEN
+    shapeID: 92452058B76868797395121
+  FranciscodelCarmenCarvajalAdm2VEN:
+    admin_name: FranciscodelCarmenCarvajal
+    iso3c: VEN
+    shapeID: 92452058B62931079063514
+  FranciscodeMirandaAdm2VEN:
+    admin_name: FranciscodeMiranda
+    iso3c: VEN
+    shapeID: 92452058B17363739467274
+  FranciscoJavierPulgarAdm2VEN:
+    admin_name: FranciscoJavierPulgar
+    iso3c: VEN
+    shapeID: 92452058B43821030143886
+  FranciscoLinaresAlcántaraAdm2VEN:
+    admin_name: FranciscoLinaresAlcántara
+    iso3c: VEN
+    shapeID: 92452058B79162136428337
+  GarcíaAdm2VEN:
+    admin_name: García
+    iso3c: VEN
+    shapeID: 92452058B94720386415889
+  GarcíadeHeviaAdm2VEN:
+    admin_name: GarcíadeHevia
+    iso3c: VEN
+    shapeID: 92452058B38365579478512
+  GirardotAdm2VEN:
+    admin_name: Girardot
+    iso3c: VEN
+    shapeID: 92452058B30205634756293
+  GómezAdm2VEN:
+    admin_name: Gómez
+    iso3c: VEN
+    shapeID: 92452058B72866558471416
+  GranSabanaAdm2VEN:
+    admin_name: GranSabana
+    iso3c: VEN
+    shapeID: 92452058B73629823948973
+  GuacaraAdm2VEN:
+    admin_name: Guacara
+    iso3c: VEN
+    shapeID: 92452058B76847227335777
+  GuaicaipuroAdm2VEN:
+    admin_name: Guaicaipuro
+    iso3c: VEN
+    shapeID: 92452058B8376465303279
+  GuanareAdm2VEN:
+    admin_name: Guanare
+    iso3c: VEN
+    shapeID: 92452058B33473960581249
+  GuanaritoAdm2VEN:
+    admin_name: Guanarito
+    iso3c: VEN
+    shapeID: 92452058B74462864631262
+  GuantaAdm2VEN:
+    admin_name: Guanta
+    iso3c: VEN
+    shapeID: 92452058B94128330205113
+  GuaraqueAdm2VEN:
+    admin_name: Guaraque
+    iso3c: VEN
+    shapeID: 92452058B8560426021820
+  GuáricoAdm1VEN:
+    admin_name: Guárico
+    iso3c: VEN
+    shapeID: 42786344B64923890567976
+  GuasimosAdm2VEN:
+    admin_name: Guasimos
+    iso3c: VEN
+    shapeID: 92452058B12619730938493
+  HeresAdm2VEN:
+    admin_name: Heres
+    iso3c: VEN
+    shapeID: 92452058B41510746407735
+  IndependenciaAdm2VEN:
+    admin_name: Independencia
+    iso3c: VEN
+    shapeID: 92452058B82042298353727
+  IribarrenAdm2VEN:
+    admin_name: Iribarren
+    iso3c: VEN
+    shapeID: 92452058B63992196257399
+  JacuraAdm2VEN:
+    admin_name: Jacura
+    iso3c: VEN
+    shapeID: 92452058B13526806799320
+  JáureguiAdm2VEN:
+    admin_name: Jáuregui
+    iso3c: VEN
+    shapeID: 92452058B82426430242133
+  JesúsEnriqueLossadaAdm2VEN:
+    admin_name: JesúsEnriqueLossada
+    iso3c: VEN
+    shapeID: 92452058B2023603244390
+  JesúsMaríaSemprumAdm2VEN:
+    admin_name: JesúsMaríaSemprum
+    iso3c: VEN
+    shapeID: 92452058B27709882446555
+  JimenezAdm2VEN:
+    admin_name: Jimenez
+    iso3c: VEN
+    shapeID: 92452058B9761229691883
+  JoséÁngelLamasAdm2VEN:
+    admin_name: JoséÁngelLamas
+    iso3c: VEN
+    shapeID: 92452058B12753025075780
+  JoséAntonioPáezAdm2VEN:
+    admin_name: JoséAntonioPáez
+    iso3c: VEN
+    shapeID: 92452058B17559996625330
+  JoséFelipeMárquezCañizalesAdm2VEN:
+    admin_name: JoséFelipeMárquezCañizales
+    iso3c: VEN
+    shapeID: 92452058B50490503212565
+  JoséFélixRibasAdm2VEN:
+    admin_name: JoséFélixRibas
+    iso3c: VEN
+    shapeID: 92452058B25382681816620
+  JoséGregorioMonagasAdm2VEN:
+    admin_name: JoséGregorioMonagas
+    iso3c: VEN
+    shapeID: 92452058B4239970506529
+  JoséMaríaVargasAdm2VEN:
+    admin_name: JoséMaríaVargas
+    iso3c: VEN
+    shapeID: 92452058B29935113777127
+  JoséRafaelRevengaAdm2VEN:
+    admin_name: JoséRafaelRevenga
+    iso3c: VEN
+    shapeID: 92452058B98714042459160
+  JoséTadeoMonagasAdm2VEN:
+    admin_name: JoséTadeoMonagas
+    iso3c: VEN
+    shapeID: 92452058B4495474982112
+  JuanAntonioSotilloAdm2VEN:
+    admin_name: JuanAntonioSotillo
+    iso3c: VEN
+    shapeID: 92452058B55780217800828
+  JuanGermánRoscioAdm2VEN:
+    admin_name: JuanGermánRoscio
+    iso3c: VEN
+    shapeID: 92452058B78447057272703
+  JuanJoséMoraAdm2VEN:
+    admin_name: JuanJoséMora
+    iso3c: VEN
+    shapeID: 92452058B38139614361819
+  JuanManuelCajigalAdm2VEN:
+    admin_name: JuanManuelCajigal
+    iso3c: VEN
+    shapeID: 92452058B8931930020089
+  JuanVicenteCampoElíasAdm2VEN:
+    admin_name: JuanVicenteCampoElías
+    iso3c: VEN
+    shapeID: 92452058B66607033591065
+  JuliánMelladoAdm2VEN:
+    admin_name: JuliánMellado
+    iso3c: VEN
+    shapeID: 92452058B78980927741565
+  JulioCésarSalasAdm2VEN:
+    admin_name: JulioCésarSalas
+    iso3c: VEN
+    shapeID: 92452058B92522690941110
+  JunínAdm2VEN:
+    admin_name: Junín
+    iso3c: VEN
+    shapeID: 92452058B9885086190441
+  JustoBriceñoAdm2VEN:
+    admin_name: JustoBriceño
+    iso3c: VEN
+    shapeID: 92452058B97313175950957
+  LaCañadadeUrdanetaAdm2VEN:
+    admin_name: LaCañadadeUrdaneta
+    iso3c: VEN
+    shapeID: 92452058B23774185756617
+  LaCeibaAdm2VEN:
+    admin_name: LaCeiba
+    iso3c: VEN
+    shapeID: 92452058B17411594659204
+  LaGuairaAdm1VEN:
+    admin_name: LaGuaira
+    iso3c: VEN
+    shapeID: 42786344B94533756407676
+  LagunillasAdm2VEN:
+    admin_name: Lagunillas
+    iso3c: VEN
+    shapeID: 92452058B81914214166984
+  LanderAdm2VEN:
+    admin_name: Lander
+    iso3c: VEN
+    shapeID: 92452058B34599827545063
+  LaraAdm1VEN:
+    admin_name: Lara
+    iso3c: VEN
+    shapeID: 42786344B49156049988670
+  LasMercedesAdm2VEN:
+    admin_name: LasMercedes
+    iso3c: VEN
+    shapeID: 92452058B67436429291477
+  LaTrinidadAdm2VEN:
+    admin_name: LaTrinidad
+    iso3c: VEN
+    shapeID: 92452058B64371118688426
+  LeonardoInfanteAdm2VEN:
+    admin_name: LeonardoInfante
+    iso3c: VEN
+    shapeID: 92452058B88324768545293
+  LibertadAdm2VEN:
+    admin_name: Libertad
+    iso3c: VEN
+    shapeID: 92452058B50204709100098
+  LibertadorAdm2VEN:
+    admin_name: Libertador
+    iso3c: VEN
+    shapeID: 92452058B71261275194510
+  LimaBlancoAdm2VEN:
+    admin_name: LimaBlanco
+    iso3c: VEN
+    shapeID: 92452058B80910187087135
+  LobateraAdm2VEN:
+    admin_name: Lobatera
+    iso3c: VEN
+    shapeID: 92452058B92766796026281
+  LosGuayosAdm2VEN:
+    admin_name: LosGuayos
+    iso3c: VEN
+    shapeID: 92452058B64111630674136
+  LosSaliasAdm2VEN:
+    admin_name: LosSalias
+    iso3c: VEN
+    shapeID: 92452058B35086054619694
+  LosTaquesAdm2VEN:
+    admin_name: LosTaques
+    iso3c: VEN
+    shapeID: 92452058B87386897899112
+  MachiquesdePerijáAdm2VEN:
+    admin_name: MachiquesdePerijá
+    iso3c: VEN
+    shapeID: 92452058B61168539952553
+  ManeiroAdm2VEN:
+    admin_name: Maneiro
+    iso3c: VEN
+    shapeID: 92452058B84467790604965
+  ManuelEzequielBruzualAdm2VEN:
+    admin_name: ManuelEzequielBruzual
+    iso3c: VEN
+    shapeID: 92452058B81602658617496
+  ManuelMongeAdm2VEN:
+    admin_name: ManuelMonge
+    iso3c: VEN
+    shapeID: 92452058B96786834235834
+  MaraAdm2VEN:
+    admin_name: Mara
+    iso3c: VEN
+    shapeID: 92452058B70966506034681
+  MaracaiboAdm2VEN:
+    admin_name: Maracaibo
+    iso3c: VEN
+    shapeID: 92452058B74108168136268
+  MarcanoAdm2VEN:
+    admin_name: Marcano
+    iso3c: VEN
+    shapeID: 92452058B26998381958141
+  MariñoAdm2VEN:
+    admin_name: Mariño
+    iso3c: VEN
+    shapeID: 92452058B95168979191
+  MarioBriceñoIragorryAdm2VEN:
+    admin_name: MarioBriceñoIragorry
+    iso3c: VEN
+    shapeID: 92452058B60789568646042
+  MaturínAdm2VEN:
+    admin_name: Maturín
+    iso3c: VEN
+    shapeID: 92452058B57031672069031
+  MauroaAdm2VEN:
+    admin_name: Mauroa
+    iso3c: VEN
+    shapeID: 92452058B8049854825221
+  MejíaAdm2VEN:
+    admin_name: Mejía
+    iso3c: VEN
+    shapeID: 92452058B9202349267506
+  MéridaAdm1VEN:
+    admin_name: Mérida
+    iso3c: VEN
+    shapeID: 42786344B40280485548078
+  MichelenaAdm2VEN:
+    admin_name: Michelena
+    iso3c: VEN
+    shapeID: 92452058B68094075186803
+  MirandaAdm1VEN:
+    admin_name: Miranda
+    iso3c: VEN
+    shapeID: 42786344B65180575927800
+  MirandaAdm2VEN:
+    admin_name: Miranda
+    iso3c: VEN
+    shapeID: 92452058B11824178609180
+  MonagasAdm1VEN:
+    admin_name: Monagas
+    iso3c: VEN
+    shapeID: 42786344B38668383698960
+  MonseñorIturrizaAdm2VEN:
+    admin_name: MonseñorIturriza
+    iso3c: VEN
+    shapeID: 92452058B75092813359951
+  MonseñorJoséVicentedeUndaAdm2VEN:
+    admin_name: MonseñorJoséVicentedeUnda
+    iso3c: VEN
+    shapeID: 92452058B41252647262147
+  MontalbánAdm2VEN:
+    admin_name: Montalbán
+    iso3c: VEN
+    shapeID: 92452058B69792739078610
+  MonteCarmeloAdm2VEN:
+    admin_name: MonteCarmelo
+    iso3c: VEN
+    shapeID: 92452058B96264628893767
+  MontesAdm2VEN:
+    admin_name: Montes
+    iso3c: VEN
+    shapeID: 92452058B41395444182143
+  MoránAdm2VEN:
+    admin_name: Morán
+    iso3c: VEN
+    shapeID: 92452058B54957724737366
+  MotatánAdm2VEN:
+    admin_name: Motatán
+    iso3c: VEN
+    shapeID: 92452058B76648483747073
+  MuñozAdm2VEN:
+    admin_name: Muñoz
+    iso3c: VEN
+    shapeID: 92452058B76694277740413
+  NaguanaguaAdm2VEN:
+    admin_name: Naguanagua
+    iso3c: VEN
+    shapeID: 92452058B81521575667263
+  NirguaAdm2VEN:
+    admin_name: Nirgua
+    iso3c: VEN
+    shapeID: 92452058B44788675020047
+  NuevaEspartaAdm1VEN:
+    admin_name: NuevaEsparta
+    iso3c: VEN
+    shapeID: 42786344B5537637438530
+  ObispoRamosdeLoraAdm2VEN:
+    admin_name: ObispoRamosdeLora
+    iso3c: VEN
+    shapeID: 92452058B83653348343735
+  ObisposAdm2VEN:
+    admin_name: Obispos
+    iso3c: VEN
+    shapeID: 92452058B50645357968703
+  OrtízAdm2VEN:
+    admin_name: Ortíz
+    iso3c: VEN
+    shapeID: 92452058B86432153938912
+  OspinoAdm2VEN:
+    admin_name: Ospino
+    iso3c: VEN
+    shapeID: 92452058B37394705502377
+  PadreNogueraAdm2VEN:
+    admin_name: PadreNoguera
+    iso3c: VEN
+    shapeID: 92452058B20589241231515
+  PadrePedroChienAdm2VEN:
+    admin_name: PadrePedroChien
+    iso3c: VEN
+    shapeID: 92452058B54674524555313
+  PáezAdm2VEN:
+    admin_name: Páez
+    iso3c: VEN
+    shapeID: 92452058B50002149731912
+  PalavecinoAdm2VEN:
+    admin_name: Palavecino
+    iso3c: VEN
+    shapeID: 92452058B2415433423645
+  PalmasolaAdm2VEN:
+    admin_name: Palmasola
+    iso3c: VEN
+    shapeID: 92452058B80542411245757
+  PampánAdm2VEN:
+    admin_name: Pampán
+    iso3c: VEN
+    shapeID: 92452058B93497297495940
+  PampanitoAdm2VEN:
+    admin_name: Pampanito
+    iso3c: VEN
+    shapeID: 92452058B5298065984570
+  PanamericanpAdm2VEN:
+    admin_name: Panamericanp
+    iso3c: VEN
+    shapeID: 92452058B52691376316443
+  PaodeSanJuanBautistaAdm2VEN:
+    admin_name: PaodeSanJuanBautista
+    iso3c: VEN
+    shapeID: 92452058B64948290230997
+  PapelónAdm2VEN:
+    admin_name: Papelón
+    iso3c: VEN
+    shapeID: 92452058B42383806432363
+  PazCastilloAdm2VEN:
+    admin_name: PazCastillo
+    iso3c: VEN
+    shapeID: 92452058B74472117393048
+  PedernalesAdm2VEN:
+    admin_name: Pedernales
+    iso3c: VEN
+    shapeID: 92452058B28830683582357
+  PedrazaAdm2VEN:
+    admin_name: Pedraza
+    iso3c: VEN
+    shapeID: 92452058B9002130030249
+  PedroCamejoAdm2VEN:
+    admin_name: PedroCamejo
+    iso3c: VEN
+    shapeID: 92452058B33564894721572
+  PedroGualAdm2VEN:
+    admin_name: PedroGual
+    iso3c: VEN
+    shapeID: 92452058B80975086584779
+  PedroMaríaFreitesAdm2VEN:
+    admin_name: PedroMaríaFreites
+    iso3c: VEN
+    shapeID: 92452058B2929237041778
+  PedroMaríaUreñaAdm2VEN:
+    admin_name: PedroMaríaUreña
+    iso3c: VEN
+    shapeID: 92452058B18404635880934
+  PeñaAdm2VEN:
+    admin_name: Peña
+    iso3c: VEN
+    shapeID: 92452058B84020445528897
+  PenínsuladeMacanaoAdm2VEN:
+    admin_name: PenínsuladeMacanao
+    iso3c: VEN
+    shapeID: 92452058B42535057202540
+  PetitAdm2VEN:
+    admin_name: Petit
+    iso3c: VEN
+    shapeID: 92452058B76742860274923
+  PiarAdm2VEN:
+    admin_name: Piar
+    iso3c: VEN
+    shapeID: 92452058B74978111878407
+  PírituAdm2VEN:
+    admin_name: Píritu
+    iso3c: VEN
+    shapeID: 92452058B36429563491132
+  PlazaAdm2VEN:
+    admin_name: Plaza
+    iso3c: VEN
+    shapeID: 92452058B28042998253075
+  PortuguesaAdm1VEN:
+    admin_name: Portuguesa
+    iso3c: VEN
+    shapeID: 42786344B52185535187745
+  PuebloLlanoAdm2VEN:
+    admin_name: PuebloLlano
+    iso3c: VEN
+    shapeID: 92452058B87022428114391
+  PuertoCabelloAdm2VEN:
+    admin_name: PuertoCabello
+    iso3c: VEN
+    shapeID: 92452058B49984819466798
+  PunceresAdm2VEN:
+    admin_name: Punceres
+    iso3c: VEN
+    shapeID: 92452058B62434885375481
+  RafaelRangelAdm2VEN:
+    admin_name: RafaelRangel
+    iso3c: VEN
+    shapeID: 92452058B22086674211008
+  RafaelUrdanetaAdm2VEN:
+    admin_name: RafaelUrdaneta
+    iso3c: VEN
+    shapeID: 92452058B16072820149055
+  RangelAdm2VEN:
+    admin_name: Rangel
+    iso3c: VEN
+    shapeID: 92452058B37520710637751
+  RaúlLeoniAdm2VEN:
+    admin_name: RaúlLeoni
+    iso3c: VEN
+    shapeID: 92452058B20928146308063
+  RiberoAdm2VEN:
+    admin_name: Ribero
+    iso3c: VEN
+    shapeID: 92452058B50148622636911
+  RicaurteAdm2VEN:
+    admin_name: Ricaurte
+    iso3c: VEN
+    shapeID: 92452058B80982982494496
+  RivasDávilaAdm2VEN:
+    admin_name: RivasDávila
+    iso3c: VEN
+    shapeID: 92452058B96512574408350
+  RojasAdm2VEN:
+    admin_name: Rojas
+    iso3c: VEN
+    shapeID: 92452058B50017946052118
+  RómuloGallegosAdm2VEN:
+    admin_name: RómuloGallegos
+    iso3c: VEN
+    shapeID: 92452058B21426676418020
+  RosariodePerijáAdm2VEN:
+    admin_name: RosariodePerijá
+    iso3c: VEN
+    shapeID: 92452058B8421162175114
+  RoscioAdm2VEN:
+    admin_name: Roscio
+    iso3c: VEN
+    shapeID: 92452058B73572326911249
+  SamuelDaríoMaldonadoAdm2VEN:
+    admin_name: SamuelDaríoMaldonado
+    iso3c: VEN
+    shapeID: 92452058B70531962129306
+  SanCarlosAdm2VEN:
+    admin_name: SanCarlos
+    iso3c: VEN
+    shapeID: 92452058B56896825974617
+  SanCasimiroAdm2VEN:
+    admin_name: SanCasimiro
+    iso3c: VEN
+    shapeID: 92452058B7770981704076
+  SanCristóbalAdm2VEN:
+    admin_name: SanCristóbal
+    iso3c: VEN
+    shapeID: 92452058B43927171867078
+  SanDiegoAdm2VEN:
+    admin_name: SanDiego
+    iso3c: VEN
+    shapeID: 92452058B11643433355356
+  SanFelipeAdm2VEN:
+    admin_name: SanFelipe
+    iso3c: VEN
+    shapeID: 92452058B12167323137967
+  SanFernandoAdm2VEN:
+    admin_name: SanFernando
+    iso3c: VEN
+    shapeID: 92452058B92725802185650
+  SanFranciscoAdm2VEN:
+    admin_name: SanFrancisco
+    iso3c: VEN
+    shapeID: 92452058B3899539267655
+  SanGenarodeBoconoitoAdm2VEN:
+    admin_name: SanGenarodeBoconoito
+    iso3c: VEN
+    shapeID: 92452058B46833609539382
+  SanGerónimodeGuayabalAdm2VEN:
+    admin_name: SanGerónimodeGuayabal
+    iso3c: VEN
+    shapeID: 92452058B34439964520942
+  SanJoaquínAdm2VEN:
+    admin_name: SanJoaquín
+    iso3c: VEN
+    shapeID: 92452058B30911467500490
+  SanJosédeGuanipaAdm2VEN:
+    admin_name: SanJosédeGuanipa
+    iso3c: VEN
+    shapeID: 92452058B39139174954008
+  SanJosédeGuaribeAdm2VEN:
+    admin_name: SanJosédeGuaribe
+    iso3c: VEN
+    shapeID: 92452058B33294183212252
+  SanJuandeCapistranoAdm2VEN:
+    admin_name: SanJuandeCapistrano
+    iso3c: VEN
+    shapeID: 92452058B1316533147896
+  SanJudasTadeoAdm2VEN:
+    admin_name: SanJudasTadeo
+    iso3c: VEN
+    shapeID: 92452058B86499403972529
+  SanRafaeldeCarvajalAdm2VEN:
+    admin_name: SanRafaeldeCarvajal
+    iso3c: VEN
+    shapeID: 92452058B93532552722104
+  SanRafaeldeOnotoAdm2VEN:
+    admin_name: SanRafaeldeOnoto
+    iso3c: VEN
+    shapeID: 92452058B4017095457162
+  SanSebastiánAdm2VEN:
+    admin_name: SanSebastián
+    iso3c: VEN
+    shapeID: 92452058B52538048181152
+  SantaAnaAdm2VEN:
+    admin_name: SantaAna
+    iso3c: VEN
+    shapeID: 92452058B10612874136761
+  SantaBárbaraAdm2VEN:
+    admin_name: SantaBárbara
+    iso3c: VEN
+    shapeID: 92452058B64727210967891
+  SantaMaríadeIpireAdm2VEN:
+    admin_name: SantaMaríadeIpire
+    iso3c: VEN
+    shapeID: 92452058B50688374743402
+  SantaRitaAdm2VEN:
+    admin_name: SantaRita
+    iso3c: VEN
+    shapeID: 92452058B66316473888275
+  SantaRosalíaAdm2VEN:
+    admin_name: SantaRosalía
+    iso3c: VEN
+    shapeID: 92452058B3851867727254
+  SantiagoMariñoAdm2VEN:
+    admin_name: SantiagoMariño
+    iso3c: VEN
+    shapeID: 92452058B98840878188065
+  SantosMarquinaAdm2VEN:
+    admin_name: SantosMarquina
+    iso3c: VEN
+    shapeID: 92452058B16352791962773
+  SantosMichelenaAdm2VEN:
+    admin_name: SantosMichelena
+    iso3c: VEN
+    shapeID: 92452058B40538109508806
+  SeborucoAdm2VEN:
+    admin_name: Seboruco
+    iso3c: VEN
+    shapeID: 92452058B21195677528356
+  SifontesAdm2VEN:
+    admin_name: Sifontes
+    iso3c: VEN
+    shapeID: 92452058B7239791888120
+  SilvaAdm2VEN:
+    admin_name: Silva
+    iso3c: VEN
+    shapeID: 92452058B11105078455090
+  SimónBolívarAdm2VEN:
+    admin_name: SimónBolívar
+    iso3c: VEN
+    shapeID: 92452058B7204279738521
+  SimónPlanasAdm2VEN:
+    admin_name: SimónPlanas
+    iso3c: VEN
+    shapeID: 92452058B90039962099382
+  SimónRodríguezAdm2VEN:
+    admin_name: SimónRodríguez
+    iso3c: VEN
+    shapeID: 92452058B83373837217774
+  SirArthurMacGregorAdm2VEN:
+    admin_name: SirArthurMacGregor
+    iso3c: VEN
+    shapeID: 92452058B50271348468988
+  SosaAdm2VEN:
+    admin_name: Sosa
+    iso3c: VEN
+    shapeID: 92452058B73243248124437
+  SotilloAdm2VEN:
+    admin_name: Sotillo
+    iso3c: VEN
+    shapeID: 92452058B70146576395550
+  SucreAdm1VEN:
+    admin_name: Sucre
+    iso3c: VEN
+    shapeID: 42786344B70556453045523
+  SucreAdm2VEN:
+    admin_name: Sucre
+    iso3c: VEN
+    shapeID: 92452058B18295884568936
+  TáchiraAdm1VEN:
+    admin_name: Táchira
+    iso3c: VEN
+    shapeID: 42786344B49171663325386
+  TinacoAdm2VEN:
+    admin_name: Tinaco
+    iso3c: VEN
+    shapeID: 92452058B53950788580310
+  TocoperoAdm2VEN:
+    admin_name: Tocopero
+    iso3c: VEN
+    shapeID: 92452058B57428725290546
+  TorbesAdm2VEN:
+    admin_name: Torbes
+    iso3c: VEN
+    shapeID: 92452058B65560769402967
+  TorresAdm2VEN:
+    admin_name: Torres
+    iso3c: VEN
+    shapeID: 92452058B22596665360768
+  TovarAdm2VEN:
+    admin_name: Tovar
+    iso3c: VEN
+    shapeID: 92452058B74873434476019
+  TrujilloAdm1VEN:
+    admin_name: Trujillo
+    iso3c: VEN
+    shapeID: 42786344B81831268549679
+  TrujilloAdm2VEN:
+    admin_name: Trujillo
+    iso3c: VEN
+    shapeID: 92452058B29326197328098
+  TuboresAdm2VEN:
+    admin_name: Tubores
+    iso3c: VEN
+    shapeID: 92452058B74295605734614
+  TucupitaAdm2VEN:
+    admin_name: Tucupita
+    iso3c: VEN
+    shapeID: 92452058B80404447780707
+  TulioFebresCorderoAdm2VEN:
+    admin_name: TulioFebresCordero
+    iso3c: VEN
+    shapeID: 92452058B48736670242482
+  TurénAdm2VEN:
+    admin_name: Turén
+    iso3c: VEN
+    shapeID: 92452058B99464633299903
+  UniónAdm2VEN:
+    admin_name: Unión
+    iso3c: VEN
+    shapeID: 92452058B14300572902451
+  UrachicheAdm2VEN:
+    admin_name: Urachiche
+    iso3c: VEN
+    shapeID: 92452058B63771518802825
+  UracoaAdm2VEN:
+    admin_name: Uracoa
+    iso3c: VEN
+    shapeID: 92452058B26508954861758
+  UrdanetaAdm2VEN:
+    admin_name: Urdaneta
+    iso3c: VEN
+    shapeID: 92452058B98233245594574
+  UribanteAdm2VEN:
+    admin_name: Uribante
+    iso3c: VEN
+    shapeID: 92452058B24105899820975
+  UrumacoAdm2VEN:
+    admin_name: Urumaco
+    iso3c: VEN
+    shapeID: 92452058B99499694826809
+  ValdezAdm2VEN:
+    admin_name: Valdez
+    iso3c: VEN
+    shapeID: 92452058B13672560993609
+  ValenciaAdm2VEN:
+    admin_name: Valencia
+    iso3c: VEN
+    shapeID: 92452058B422414995593
+  ValeraAdm2VEN:
+    admin_name: Valera
+    iso3c: VEN
+    shapeID: 92452058B50396237528900
+  ValmoreRodríguezAdm2VEN:
+    admin_name: ValmoreRodríguez
+    iso3c: VEN
+    shapeID: 92452058B93255664897858
+  VargasAdm2VEN:
+    admin_name: Vargas
+    iso3c: VEN
+    shapeID: 92452058B48463153943022
+  VeroesAdm2VEN:
+    admin_name: Veroes
+    iso3c: VEN
+    shapeID: 92452058B35881959392947
+  VillalbaAdm2VEN:
+    admin_name: Villalba
+    iso3c: VEN
+    shapeID: 92452058B87556418523140
+  YaracuyAdm1VEN:
+    admin_name: Yaracuy
+    iso3c: VEN
+    shapeID: 42786344B9474541360511
+  ZamoraAdm2VEN:
+    admin_name: Zamora
+    iso3c: VEN
+    shapeID: 92452058B44429853731382
+  ZarazaAdm2VEN:
+    admin_name: Zaraza
+    iso3c: VEN
+    shapeID: 92452058B83118913216781
+  ZeaAdm2VEN:
+    admin_name: Zea
+    iso3c: VEN
+    shapeID: 92452058B34699715340940
+  ZonaenReclamaciónAdm2VEN:
+    admin_name: ZonaenReclamación
+    iso3c: VEN
+    shapeID: 92452058B25675040918260
+  ZuliaAdm1VEN:
+    admin_name: Zulia
+    iso3c: VEN
+    shapeID: 42786344B42509353156725

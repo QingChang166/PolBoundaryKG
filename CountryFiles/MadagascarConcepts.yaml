@@ -1,23 +1,565 @@
 concepts:
-    - Itasy
-    - Atsimo-Andrefana
-    - Androy
-    - MatsiatraAmbony
-    - Boeny
-    - Betsiboka
-    - Atsimo-Atsinanana
-    - Bongolava
-    - Diana
-    - Sava
-    - Analanjirofo
-    - Amoron'iMania
-    - Ihorombe
-    - Vatovavy-Fitovinany
-    - Menabe
-    - Vakinankaratra
-    - Atsinanana
-    - Alaotra-Mangoro
-    - Sofia
-    - Anosy
-    - Analamanga
-    - Melaky
+  1erArrondissementAdm2MDG:
+    admin_name: 1erArrondissement
+    iso3c: MDG
+    shapeID: 10022922B83786714905046
+  2eArrondissementAdm2MDG:
+    admin_name: 2eArrondissement
+    iso3c: MDG
+    shapeID: 10022922B64856352127888
+  3eArrondissementAdm2MDG:
+    admin_name: 3eArrondissement
+    iso3c: MDG
+    shapeID: 10022922B59270450060951
+  4eArrondissementAdm2MDG:
+    admin_name: 4eArrondissement
+    iso3c: MDG
+    shapeID: 10022922B42847936410668
+  5eArrondissementAdm2MDG:
+    admin_name: 5eArrondissement
+    iso3c: MDG
+    shapeID: 10022922B36895306051586
+  6eArrondissementAdm2MDG:
+    admin_name: 6eArrondissement
+    iso3c: MDG
+    shapeID: 10022922B53755400100934
+  Alaotra-MangoroAdm1MDG:
+    admin_name: Alaotra-Mangoro
+    iso3c: MDG
+    shapeID: 27540722B20631024421355
+  AmbalavaoAdm2MDG:
+    admin_name: Ambalavao
+    iso3c: MDG
+    shapeID: 10022922B7475622417535
+  AmbanjaAdm2MDG:
+    admin_name: Ambanja
+    iso3c: MDG
+    shapeID: 10022922B10293113814705
+  AmbatoBoeniAdm2MDG:
+    admin_name: AmbatoBoeni
+    iso3c: MDG
+    shapeID: 10022922B29824664852903
+  AmbatofinandrahanaAdm2MDG:
+    admin_name: Ambatofinandrahana
+    iso3c: MDG
+    shapeID: 10022922B11162683268422
+  AmbatolampyAdm2MDG:
+    admin_name: Ambatolampy
+    iso3c: MDG
+    shapeID: 10022922B90393204210047
+  AmbatomaintyAdm2MDG:
+    admin_name: Ambatomainty
+    iso3c: MDG
+    shapeID: 10022922B59098628147577
+  AmbatondrazakaAdm2MDG:
+    admin_name: Ambatondrazaka
+    iso3c: MDG
+    shapeID: 10022922B15285270155057
+  AmbilobeAdm2MDG:
+    admin_name: Ambilobe
+    iso3c: MDG
+    shapeID: 10022922B52521872200932
+  Amboasary-AtsimoAdm2MDG:
+    admin_name: Amboasary-Atsimo
+    iso3c: MDG
+    shapeID: 10022922B61088153240222
+  AmbohidratrimoAdm2MDG:
+    admin_name: Ambohidratrimo
+    iso3c: MDG
+    shapeID: 10022922B52736847594449
+  AmbohimahasoaAdm2MDG:
+    admin_name: Ambohimahasoa
+    iso3c: MDG
+    shapeID: 10022922B34392392155891
+  AmbositraAdm2MDG:
+    admin_name: Ambositra
+    iso3c: MDG
+    shapeID: 10022922B13687813160362
+  Ambovombe-AndroyAdm2MDG:
+    admin_name: Ambovombe-Androy
+    iso3c: MDG
+    shapeID: 10022922B3330352702203
+  Amoron'iManiaAdm1MDG:
+    admin_name: Amoron'iMania
+    iso3c: MDG
+    shapeID: 27540722B26835460634378
+  AmpanihyOuestAdm2MDG:
+    admin_name: AmpanihyOuest
+    iso3c: MDG
+    shapeID: 10022922B9355726550011
+  AmparafaravolaAdm2MDG:
+    admin_name: Amparafaravola
+    iso3c: MDG
+    shapeID: 10022922B80147144228565
+  AnalalavaAdm2MDG:
+    admin_name: Analalava
+    iso3c: MDG
+    shapeID: 10022922B21608854890468
+  AnalamangaAdm1MDG:
+    admin_name: Analamanga
+    iso3c: MDG
+    shapeID: 27540722B10144800929043
+  AnalanjirofoAdm1MDG:
+    admin_name: Analanjirofo
+    iso3c: MDG
+    shapeID: 27540722B29762949035073
+  AndapaAdm2MDG:
+    admin_name: Andapa
+    iso3c: MDG
+    shapeID: 10022922B40357207342555
+  AndilamenaAdm2MDG:
+    admin_name: Andilamena
+    iso3c: MDG
+    shapeID: 10022922B97539486376385
+  AndramasinaAdm2MDG:
+    admin_name: Andramasina
+    iso3c: MDG
+    shapeID: 10022922B11040894453097
+  AndroyAdm1MDG:
+    admin_name: Androy
+    iso3c: MDG
+    shapeID: 27540722B38453733722382
+  AnjozorobeAdm2MDG:
+    admin_name: Anjozorobe
+    iso3c: MDG
+    shapeID: 10022922B1306198900476
+  AnkazoaboAdm2MDG:
+    admin_name: Ankazoabo
+    iso3c: MDG
+    shapeID: 10022922B67140219559440
+  AnkazobeAdm2MDG:
+    admin_name: Ankazobe
+    iso3c: MDG
+    shapeID: 10022922B97289291498871
+  Anosibe-An'alaAdm2MDG:
+    admin_name: Anosibe-An'ala
+    iso3c: MDG
+    shapeID: 10022922B56031688474611
+  AnosyAdm1MDG:
+    admin_name: Anosy
+    iso3c: MDG
+    shapeID: 27540722B69979521515872
+  AntalahaAdm2MDG:
+    admin_name: Antalaha
+    iso3c: MDG
+    shapeID: 10022922B15279482214677
+  AntanambaoManampontsyAdm2MDG:
+    admin_name: AntanambaoManampontsy
+    iso3c: MDG
+    shapeID: 10022922B63046975451138
+  AntananarivoAtsimondranoAdm2MDG:
+    admin_name: AntananarivoAtsimondrano
+    iso3c: MDG
+    shapeID: 10022922B82805843876956
+  AntananarivoAvaradranoAdm2MDG:
+    admin_name: AntananarivoAvaradrano
+    iso3c: MDG
+    shapeID: 10022922B99940912082943
+  AntanifotsyAdm2MDG:
+    admin_name: Antanifotsy
+    iso3c: MDG
+    shapeID: 10022922B69082959012584
+  AntsalovaAdm2MDG:
+    admin_name: Antsalova
+    iso3c: MDG
+    shapeID: 10022922B48021466276127
+  AntsirabeIAdm2MDG:
+    admin_name: AntsirabeI
+    iso3c: MDG
+    shapeID: 10022922B38771191417556
+  AntsirabeIIAdm2MDG:
+    admin_name: AntsirabeII
+    iso3c: MDG
+    shapeID: 10022922B65379850816186
+  AntsirananaIAdm2MDG:
+    admin_name: AntsirananaI
+    iso3c: MDG
+    shapeID: 10022922B77517626674469
+  AntsirananaIIAdm2MDG:
+    admin_name: AntsirananaII
+    iso3c: MDG
+    shapeID: 10022922B22775533170221
+  AntsohihyAdm2MDG:
+    admin_name: Antsohihy
+    iso3c: MDG
+    shapeID: 10022922B54557741887580
+  ArivonimamoAdm2MDG:
+    admin_name: Arivonimamo
+    iso3c: MDG
+    shapeID: 10022922B99194691228489
+  Atsimo-AndrefanaAdm1MDG:
+    admin_name: Atsimo-Andrefana
+    iso3c: MDG
+    shapeID: 27540722B7206368911185
+  Atsimo-AtsinananaAdm1MDG:
+    admin_name: Atsimo-Atsinanana
+    iso3c: MDG
+    shapeID: 27540722B82031840289091
+  AtsinananaAdm1MDG:
+    admin_name: Atsinanana
+    iso3c: MDG
+    shapeID: 27540722B68428456346892
+  BealananaAdm2MDG:
+    admin_name: Bealanana
+    iso3c: MDG
+    shapeID: 10022922B56468572037030
+  BefandrianaNordAdm2MDG:
+    admin_name: BefandrianaNord
+    iso3c: MDG
+    shapeID: 10022922B32579750162608
+  BefotakaAdm2MDG:
+    admin_name: Befotaka
+    iso3c: MDG
+    shapeID: 10022922B11101019287712
+  BekilyAdm2MDG:
+    admin_name: Bekily
+    iso3c: MDG
+    shapeID: 10022922B6580820782603
+  BelohaAdm2MDG:
+    admin_name: Beloha
+    iso3c: MDG
+    shapeID: 10022922B63714971659336
+  BeloSurTsiribihinaAdm2MDG:
+    admin_name: BeloSurTsiribihina
+    iso3c: MDG
+    shapeID: 10022922B50417492685621
+  BenenitraAdm2MDG:
+    admin_name: Benenitra
+    iso3c: MDG
+    shapeID: 10022922B93003724204974
+  BerorohaAdm2MDG:
+    admin_name: Beroroha
+    iso3c: MDG
+    shapeID: 10022922B39697778193382
+  BesalampyAdm2MDG:
+    admin_name: Besalampy
+    iso3c: MDG
+    shapeID: 10022922B83460232588272
+  BetafoAdm2MDG:
+    admin_name: Betafo
+    iso3c: MDG
+    shapeID: 10022922B74688195218658
+  BetiokyAtsimoAdm2MDG:
+    admin_name: BetiokyAtsimo
+    iso3c: MDG
+    shapeID: 10022922B63491232053463
+  BetrokaAdm2MDG:
+    admin_name: Betroka
+    iso3c: MDG
+    shapeID: 10022922B59412081262724
+  BetsibokaAdm1MDG:
+    admin_name: Betsiboka
+    iso3c: MDG
+    shapeID: 27540722B63964985004787
+  BoenyAdm1MDG:
+    admin_name: Boeny
+    iso3c: MDG
+    shapeID: 27540722B20664439648320
+  BongolavaAdm1MDG:
+    admin_name: Bongolava
+    iso3c: MDG
+    shapeID: 27540722B68546220644411
+  BrickavilleAdm2MDG:
+    admin_name: Brickaville
+    iso3c: MDG
+    shapeID: 10022922B71585303896889
+  DianaAdm1MDG:
+    admin_name: Diana
+    iso3c: MDG
+    shapeID: 27540722B39676432794686
+  FandrianaAdm2MDG:
+    admin_name: Fandriana
+    iso3c: MDG
+    shapeID: 10022922B23434626058692
+  FarafanganaAdm2MDG:
+    admin_name: Farafangana
+    iso3c: MDG
+    shapeID: 10022922B75046296685916
+  FaratsihoAdm2MDG:
+    admin_name: Faratsiho
+    iso3c: MDG
+    shapeID: 10022922B80317071360034
+  FeneriveEstAdm2MDG:
+    admin_name: FeneriveEst
+    iso3c: MDG
+    shapeID: 10022922B92224420422748
+  FenoarivobeAdm2MDG:
+    admin_name: Fenoarivobe
+    iso3c: MDG
+    shapeID: 10022922B23923498940873
+  FianarantsoaIAdm2MDG:
+    admin_name: FianarantsoaI
+    iso3c: MDG
+    shapeID: 10022922B21478747844721
+  IakoraAdm2MDG:
+    admin_name: Iakora
+    iso3c: MDG
+    shapeID: 10022922B30377745880071
+  IfanadianaAdm2MDG:
+    admin_name: Ifanadiana
+    iso3c: MDG
+    shapeID: 10022922B31790128040616
+  IhorombeAdm1MDG:
+    admin_name: Ihorombe
+    iso3c: MDG
+    shapeID: 27540722B59079602855311
+  IhosyAdm2MDG:
+    admin_name: Ihosy
+    iso3c: MDG
+    shapeID: 10022922B7074189327891
+  IkalamavonyAdm2MDG:
+    admin_name: Ikalamavony
+    iso3c: MDG
+    shapeID: 10022922B85703559853082
+  IkongoAdm2MDG:
+    admin_name: Ikongo
+    iso3c: MDG
+    shapeID: 10022922B6018255004858
+  IsandraAdm2MDG:
+    admin_name: Isandra
+    iso3c: MDG
+    shapeID: 10022922B29889196912325
+  ItasyAdm1MDG:
+    admin_name: Itasy
+    iso3c: MDG
+    shapeID: 27540722B8147071737362
+  IvohibeAdm2MDG:
+    admin_name: Ivohibe
+    iso3c: MDG
+    shapeID: 10022922B57896428715958
+  KandrehoAdm2MDG:
+    admin_name: Kandreho
+    iso3c: MDG
+    shapeID: 10022922B38821373259374
+  LalanginaAdm2MDG:
+    admin_name: Lalangina
+    iso3c: MDG
+    shapeID: 10022922B72540367204165
+  MaevatananaAdm2MDG:
+    admin_name: Maevatanana
+    iso3c: MDG
+    shapeID: 10022922B61824869015313
+  MahaboAdm2MDG:
+    admin_name: Mahabo
+    iso3c: MDG
+    shapeID: 10022922B70120442307447
+  MahajangaIAdm2MDG:
+    admin_name: MahajangaI
+    iso3c: MDG
+    shapeID: 10022922B60996293868186
+  MahajangaIIAdm2MDG:
+    admin_name: MahajangaII
+    iso3c: MDG
+    shapeID: 10022922B51504984909978
+  MahanoroAdm2MDG:
+    admin_name: Mahanoro
+    iso3c: MDG
+    shapeID: 10022922B42807663031303
+  MaintiranoAdm2MDG:
+    admin_name: Maintirano
+    iso3c: MDG
+    shapeID: 10022922B40533998311047
+  MampikonyAdm2MDG:
+    admin_name: Mampikony
+    iso3c: MDG
+    shapeID: 10022922B54995100782210
+  ManakaraAtsimoAdm2MDG:
+    admin_name: ManakaraAtsimo
+    iso3c: MDG
+    shapeID: 10022922B29911348985828
+  Mananara-AvaratraAdm2MDG:
+    admin_name: Mananara-Avaratra
+    iso3c: MDG
+    shapeID: 10022922B77596397547877
+  ManandrianaAdm2MDG:
+    admin_name: Manandriana
+    iso3c: MDG
+    shapeID: 10022922B47245353926014
+  MananjaryAdm2MDG:
+    admin_name: Mananjary
+    iso3c: MDG
+    shapeID: 10022922B52512193010711
+  MandotoAdm2MDG:
+    admin_name: Mandoto
+    iso3c: MDG
+    shapeID: 10022922B69129581267436
+  MandritsaraAdm2MDG:
+    admin_name: Mandritsara
+    iso3c: MDG
+    shapeID: 10022922B13687974105922
+  ManjaAdm2MDG:
+    admin_name: Manja
+    iso3c: MDG
+    shapeID: 10022922B70385192089273
+  ManjakandrianaAdm2MDG:
+    admin_name: Manjakandriana
+    iso3c: MDG
+    shapeID: 10022922B50774823120221
+  MaroantsetraAdm2MDG:
+    admin_name: Maroantsetra
+    iso3c: MDG
+    shapeID: 10022922B79548799707119
+  MarolamboAdm2MDG:
+    admin_name: Marolambo
+    iso3c: MDG
+    shapeID: 10022922B10629043557873
+  MarovoayAdm2MDG:
+    admin_name: Marovoay
+    iso3c: MDG
+    shapeID: 10022922B7387017022835
+  MatsiatraAmbonyAdm1MDG:
+    admin_name: MatsiatraAmbony
+    iso3c: MDG
+    shapeID: 27540722B35082115892485
+  MelakyAdm1MDG:
+    admin_name: Melaky
+    iso3c: MDG
+    shapeID: 27540722B85261442939952
+  MenabeAdm1MDG:
+    admin_name: Menabe
+    iso3c: MDG
+    shapeID: 27540722B66660932242608
+  MiandrivazoAdm2MDG:
+    admin_name: Miandrivazo
+    iso3c: MDG
+    shapeID: 10022922B2580716977723
+  MiarinarivoAdm2MDG:
+    admin_name: Miarinarivo
+    iso3c: MDG
+    shapeID: 10022922B79563685419763
+  Midongy-AtsimoAdm2MDG:
+    admin_name: Midongy-Atsimo
+    iso3c: MDG
+    shapeID: 10022922B72475763343132
+  MitsinjoAdm2MDG:
+    admin_name: Mitsinjo
+    iso3c: MDG
+    shapeID: 10022922B34339999190032
+  MorafenobeAdm2MDG:
+    admin_name: Morafenobe
+    iso3c: MDG
+    shapeID: 10022922B27026898293410
+  MoramangaAdm2MDG:
+    admin_name: Moramanga
+    iso3c: MDG
+    shapeID: 10022922B82658288648411
+  MorombeAdm2MDG:
+    admin_name: Morombe
+    iso3c: MDG
+    shapeID: 10022922B72547257848133
+  MorondavaAdm2MDG:
+    admin_name: Morondava
+    iso3c: MDG
+    shapeID: 10022922B91714644312966
+  Nosy-BeAdm2MDG:
+    admin_name: Nosy-Be
+    iso3c: MDG
+    shapeID: 10022922B66036521727834
+  Nosy-VarikaAdm2MDG:
+    admin_name: Nosy-Varika
+    iso3c: MDG
+    shapeID: 10022922B12403701465046
+  Port-Berge(Boriziny-Vaovao)Adm2MDG:
+    admin_name: Port-Berge(Boriziny-Vaovao)
+    iso3c: MDG
+    shapeID: 10022922B55197674782137
+  SainteMarieAdm2MDG:
+    admin_name: SainteMarie
+    iso3c: MDG
+    shapeID: 10022922B25342620887316
+  SakarahaAdm2MDG:
+    admin_name: Sakaraha
+    iso3c: MDG
+    shapeID: 10022922B49716742274905
+  SambavaAdm2MDG:
+    admin_name: Sambava
+    iso3c: MDG
+    shapeID: 10022922B78580830473532
+  SavaAdm1MDG:
+    admin_name: Sava
+    iso3c: MDG
+    shapeID: 27540722B96967449701393
+  SoalalaAdm2MDG:
+    admin_name: Soalala
+    iso3c: MDG
+    shapeID: 10022922B91378939255033
+  SoanieranaIvongoAdm2MDG:
+    admin_name: SoanieranaIvongo
+    iso3c: MDG
+    shapeID: 10022922B56427545477040
+  SoavinandrianaAdm2MDG:
+    admin_name: Soavinandriana
+    iso3c: MDG
+    shapeID: 10022922B59328070281510
+  SofiaAdm1MDG:
+    admin_name: Sofia
+    iso3c: MDG
+    shapeID: 27540722B38694577181717
+  TaolagnaroAdm2MDG:
+    admin_name: Taolagnaro
+    iso3c: MDG
+    shapeID: 10022922B85658862424992
+  ToamasinaIAdm2MDG:
+    admin_name: ToamasinaI
+    iso3c: MDG
+    shapeID: 10022922B32937301443957
+  ToamasinaIIAdm2MDG:
+    admin_name: ToamasinaII
+    iso3c: MDG
+    shapeID: 10022922B55539380638871
+  Toliary-IAdm2MDG:
+    admin_name: Toliary-I
+    iso3c: MDG
+    shapeID: 10022922B36331574429859
+  Toliary-IIAdm2MDG:
+    admin_name: Toliary-II
+    iso3c: MDG
+    shapeID: 10022922B75767771564463
+  TsaratananaAdm2MDG:
+    admin_name: Tsaratanana
+    iso3c: MDG
+    shapeID: 10022922B96360954496738
+  TsihombeAdm2MDG:
+    admin_name: Tsihombe
+    iso3c: MDG
+    shapeID: 10022922B95964642483948
+  TsiroanomandidyAdm2MDG:
+    admin_name: Tsiroanomandidy
+    iso3c: MDG
+    shapeID: 10022922B70813515121555
+  VakinankaratraAdm1MDG:
+    admin_name: Vakinankaratra
+    iso3c: MDG
+    shapeID: 27540722B16458597550107
+  VangaindranoAdm2MDG:
+    admin_name: Vangaindrano
+    iso3c: MDG
+    shapeID: 10022922B74242760889111
+  VatomandryAdm2MDG:
+    admin_name: Vatomandry
+    iso3c: MDG
+    shapeID: 10022922B31178585124685
+  Vatovavy-FitovinanyAdm1MDG:
+    admin_name: Vatovavy-Fitovinany
+    iso3c: MDG
+    shapeID: 27540722B59950383788875
+  VavateninaAdm2MDG:
+    admin_name: Vavatenina
+    iso3c: MDG
+    shapeID: 10022922B54073545298219
+  VohemarAdm2MDG:
+    admin_name: Vohemar
+    iso3c: MDG
+    shapeID: 10022922B16213196407560
+  VohibatoAdm2MDG:
+    admin_name: Vohibato
+    iso3c: MDG
+    shapeID: 10022922B39439372576611
+  VohipenoAdm2MDG:
+    admin_name: Vohipeno
+    iso3c: MDG
+    shapeID: 10022922B81120329184352
+  VondrozoAdm2MDG:
+    admin_name: Vondrozo
+    iso3c: MDG
+    shapeID: 10022922B86038713071830

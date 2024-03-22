@@ -1,25 +1,981 @@
 concepts:
-    - Imbabura
-    - Esmeraldas
-    - SantoDomingodelosTsáchilas
-    - Sucumbios
-    - SantaElena
-    - Napo
-    - Pastaza
-    - Carchi
-    - Loja
-    - ElOro
-    - Bolívar
-    - Tungurahua
-    - Chimborazo
-    - MoronaSantiago
-    - Azuay
-    - Orellana
-    - Pichincha
-    - Manabi
-    - ZamoraChinchipe
-    - Cañar
-    - Guayas
-    - LosRíos
-    - Cotopaxi
-    - Galápagos
+  24deMayoAdm2ECU:
+    admin_name: 24deMayo
+    iso3c: ECU
+    shapeID: 8360857B81048544444838
+  AguaricoAdm2ECU:
+    admin_name: Aguarico
+    iso3c: ECU
+    shapeID: 8360857B665042104792
+  AlausiAdm2ECU:
+    admin_name: Alausi
+    iso3c: ECU
+    shapeID: 8360857B82258447900817
+  AlfredoBaquerizoMorenoAdm2ECU:
+    admin_name: AlfredoBaquerizoMoreno
+    iso3c: ECU
+    shapeID: 8360857B37279599451859
+  AmbatoAdm2ECU:
+    admin_name: Ambato
+    iso3c: ECU
+    shapeID: 8360857B61692882319499
+  AntonioAnteAdm2ECU:
+    admin_name: AntonioAnte
+    iso3c: ECU
+    shapeID: 8360857B41675882344987
+  ArajunoAdm2ECU:
+    admin_name: Arajuno
+    iso3c: ECU
+    shapeID: 8360857B99947477251050
+  ArchidonaAdm2ECU:
+    admin_name: Archidona
+    iso3c: ECU
+    shapeID: 8360857B80114747144377
+  ArenillasAdm2ECU:
+    admin_name: Arenillas
+    iso3c: ECU
+    shapeID: 8360857B40714321113119
+  AtacamesAdm2ECU:
+    admin_name: Atacames
+    iso3c: ECU
+    shapeID: 8360857B71031597583616
+  AtahualpaAdm2ECU:
+    admin_name: Atahualpa
+    iso3c: ECU
+    shapeID: 8360857B45777368126824
+  AzoguesAdm2ECU:
+    admin_name: Azogues
+    iso3c: ECU
+    shapeID: 8360857B88575915979484
+  AzuayAdm1ECU:
+    admin_name: Azuay
+    iso3c: ECU
+    shapeID: 780006B24339224838979
+  BabaAdm2ECU:
+    admin_name: Baba
+    iso3c: ECU
+    shapeID: 8360857B87551033662534
+  BabahoyoAdm2ECU:
+    admin_name: Babahoyo
+    iso3c: ECU
+    shapeID: 8360857B44096543508351
+  BalaoAdm2ECU:
+    admin_name: Balao
+    iso3c: ECU
+    shapeID: 8360857B63754497407840
+  BalsasAdm2ECU:
+    admin_name: Balsas
+    iso3c: ECU
+    shapeID: 8360857B29129198314993
+  BalzarAdm2ECU:
+    admin_name: Balzar
+    iso3c: ECU
+    shapeID: 8360857B55301947791088
+  BañosdeAguaSantaAdm2ECU:
+    admin_name: BañosdeAguaSanta
+    iso3c: ECU
+    shapeID: 8360857B58135855754809
+  BiblianAdm2ECU:
+    admin_name: Biblian
+    iso3c: ECU
+    shapeID: 8360857B93443037342113
+  BolívarAdm1ECU:
+    admin_name: Bolívar
+    iso3c: ECU
+    shapeID: 780006B72413159872158
+  BolivarAdm2ECU:
+    admin_name: Bolivar
+    iso3c: ECU
+    shapeID: 8360857B4480682421183
+  BuenaFeAdm2ECU:
+    admin_name: BuenaFe
+    iso3c: ECU
+    shapeID: 8360857B33101813988560
+  CalumaAdm2ECU:
+    admin_name: Caluma
+    iso3c: ECU
+    shapeID: 8360857B21807845085638
+  CalvasAdm2ECU:
+    admin_name: Calvas
+    iso3c: ECU
+    shapeID: 8360857B77805583896778
+  CamiloPonceEnriquezAdm2ECU:
+    admin_name: CamiloPonceEnriquez
+    iso3c: ECU
+    shapeID: 8360857B38047305818625
+  CañarAdm1ECU:
+    admin_name: Cañar
+    iso3c: ECU
+    shapeID: 780006B5869423141371
+  CañarAdm2ECU:
+    admin_name: Cañar
+    iso3c: ECU
+    shapeID: 8360857B37850433241159
+  CarchiAdm1ECU:
+    admin_name: Carchi
+    iso3c: ECU
+    shapeID: 780006B30899548387252
+  CarlosJulioArosemenaTolaAdm2ECU:
+    admin_name: CarlosJulioArosemenaTola
+    iso3c: ECU
+    shapeID: 8360857B58627909026885
+  CascalesAdm2ECU:
+    admin_name: Cascales
+    iso3c: ECU
+    shapeID: 8360857B63398910527025
+  CatamayoAdm2ECU:
+    admin_name: Catamayo
+    iso3c: ECU
+    shapeID: 8360857B67514259930674
+  CayambeAdm2ECU:
+    admin_name: Cayambe
+    iso3c: ECU
+    shapeID: 8360857B65214647181775
+  CelicaAdm2ECU:
+    admin_name: Celica
+    iso3c: ECU
+    shapeID: 8360857B35359374832073
+  CentineladelCondorAdm2ECU:
+    admin_name: CentineladelCondor
+    iso3c: ECU
+    shapeID: 8360857B40845623315832
+  CevallosAdm2ECU:
+    admin_name: Cevallos
+    iso3c: ECU
+    shapeID: 8360857B65795256666582
+  ChaguarpambaAdm2ECU:
+    admin_name: Chaguarpamba
+    iso3c: ECU
+    shapeID: 8360857B56169079883124
+  ChamboAdm2ECU:
+    admin_name: Chambo
+    iso3c: ECU
+    shapeID: 8360857B64832470835751
+  ChillaAdm2ECU:
+    admin_name: Chilla
+    iso3c: ECU
+    shapeID: 8360857B68230797378495
+  ChillanesAdm2ECU:
+    admin_name: Chillanes
+    iso3c: ECU
+    shapeID: 8360857B60313806039355
+  ChimboAdm2ECU:
+    admin_name: Chimbo
+    iso3c: ECU
+    shapeID: 8360857B60997464812695
+  ChimborazoAdm1ECU:
+    admin_name: Chimborazo
+    iso3c: ECU
+    shapeID: 780006B46353723731382
+  ChinchipeAdm2ECU:
+    admin_name: Chinchipe
+    iso3c: ECU
+    shapeID: 8360857B7366793693817
+  ChoneAdm2ECU:
+    admin_name: Chone
+    iso3c: ECU
+    shapeID: 8360857B73185000874563
+  ChordelegAdm2ECU:
+    admin_name: Chordeleg
+    iso3c: ECU
+    shapeID: 8360857B12860339410526
+  ChunchiAdm2ECU:
+    admin_name: Chunchi
+    iso3c: ECU
+    shapeID: 8360857B64943669996857
+  ColimesAdm2ECU:
+    admin_name: Colimes
+    iso3c: ECU
+    shapeID: 8360857B84939424323345
+  ColtaAdm2ECU:
+    admin_name: Colta
+    iso3c: ECU
+    shapeID: 8360857B90964740580974
+  CotacachiAdm2ECU:
+    admin_name: Cotacachi
+    iso3c: ECU
+    shapeID: 8360857B15521483188159
+  CotopaxiAdm1ECU:
+    admin_name: Cotopaxi
+    iso3c: ECU
+    shapeID: 780006B34708550650195
+  Crnel.MarcelinoMaridueñaAdm2ECU:
+    admin_name: Crnel.MarcelinoMaridueña
+    iso3c: ECU
+    shapeID: 8360857B68184402536651
+  CuencaAdm2ECU:
+    admin_name: Cuenca
+    iso3c: ECU
+    shapeID: 8360857B44277665484155
+  CumandaAdm2ECU:
+    admin_name: Cumanda
+    iso3c: ECU
+    shapeID: 8360857B2358017472723
+  CuyabenoAdm2ECU:
+    admin_name: Cuyabeno
+    iso3c: ECU
+    shapeID: 8360857B98272453986256
+  DauleAdm2ECU:
+    admin_name: Daule
+    iso3c: ECU
+    shapeID: 8360857B15995512724159
+  DelegAdm2ECU:
+    admin_name: Deleg
+    iso3c: ECU
+    shapeID: 8360857B48088232281675
+  DuranAdm2ECU:
+    admin_name: Duran
+    iso3c: ECU
+    shapeID: 8360857B97967949149299
+  EcheandiaAdm2ECU:
+    admin_name: Echeandia
+    iso3c: ECU
+    shapeID: 8360857B61359836335380
+  ElCarmenAdm2ECU:
+    admin_name: ElCarmen
+    iso3c: ECU
+    shapeID: 8360857B97185681080722
+  ElChacoAdm2ECU:
+    admin_name: ElChaco
+    iso3c: ECU
+    shapeID: 8360857B77920880428732
+  ElGuaboAdm2ECU:
+    admin_name: ElGuabo
+    iso3c: ECU
+    shapeID: 8360857B6127992117214
+  ElOroAdm1ECU:
+    admin_name: ElOro
+    iso3c: ECU
+    shapeID: 780006B8093408258889
+  EloyAlfaroAdm2ECU:
+    admin_name: EloyAlfaro
+    iso3c: ECU
+    shapeID: 8360857B46981965589636
+  ElPanAdm2ECU:
+    admin_name: ElPan
+    iso3c: ECU
+    shapeID: 8360857B8773690858711
+  ElPanguiAdm2ECU:
+    admin_name: ElPangui
+    iso3c: ECU
+    shapeID: 8360857B57489769890627
+  ElPiedreroAdm2ECU:
+    admin_name: ElPiedrero
+    iso3c: ECU
+    shapeID: 8360857B56552951365472
+  ElTamboAdm2ECU:
+    admin_name: ElTambo
+    iso3c: ECU
+    shapeID: 8360857B65217893137982
+  ElTriunfoAdm2ECU:
+    admin_name: ElTriunfo
+    iso3c: ECU
+    shapeID: 8360857B22416675182339
+  EmpalmeAdm2ECU:
+    admin_name: Empalme
+    iso3c: ECU
+    shapeID: 8360857B95089772616558
+  EsmeraldasAdm1ECU:
+    admin_name: Esmeraldas
+    iso3c: ECU
+    shapeID: 780006B31400562589266
+  EsmeraldasAdm2ECU:
+    admin_name: Esmeraldas
+    iso3c: ECU
+    shapeID: 8360857B50260374474946
+  EspejoAdm2ECU:
+    admin_name: Espejo
+    iso3c: ECU
+    shapeID: 8360857B16708852637049
+  EspindolaAdm2ECU:
+    admin_name: Espindola
+    iso3c: ECU
+    shapeID: 8360857B90110286076801
+  FlavioAlfaroAdm2ECU:
+    admin_name: FlavioAlfaro
+    iso3c: ECU
+    shapeID: 8360857B52288748558736
+  GalápagosAdm1ECU:
+    admin_name: Galápagos
+    iso3c: ECU
+    shapeID: 780006B54205469685650
+  GironAdm2ECU:
+    admin_name: Giron
+    iso3c: ECU
+    shapeID: 8360857B7998826994941
+  Gnral.AntonioElizaldeAdm2ECU:
+    admin_name: Gnral.AntonioElizalde
+    iso3c: ECU
+    shapeID: 8360857B53481091829171
+  GonzaloPizarroAdm2ECU:
+    admin_name: GonzaloPizarro
+    iso3c: ECU
+    shapeID: 8360857B84387334952145
+  GonzanamaAdm2ECU:
+    admin_name: Gonzanama
+    iso3c: ECU
+    shapeID: 8360857B83721057206969
+  GuachapalaAdm2ECU:
+    admin_name: Guachapala
+    iso3c: ECU
+    shapeID: 8360857B86752754342516
+  GualaceoAdm2ECU:
+    admin_name: Gualaceo
+    iso3c: ECU
+    shapeID: 8360857B64865140859495
+  GualaquizaAdm2ECU:
+    admin_name: Gualaquiza
+    iso3c: ECU
+    shapeID: 8360857B90160317571497
+  GuamoteAdm2ECU:
+    admin_name: Guamote
+    iso3c: ECU
+    shapeID: 8360857B94409334599022
+  GuanoAdm2ECU:
+    admin_name: Guano
+    iso3c: ECU
+    shapeID: 8360857B97791335649951
+  GuarandaAdm2ECU:
+    admin_name: Guaranda
+    iso3c: ECU
+    shapeID: 8360857B44914689230683
+  GuayaquilAdm2ECU:
+    admin_name: Guayaquil
+    iso3c: ECU
+    shapeID: 8360857B75288721097085
+  GuayasAdm1ECU:
+    admin_name: Guayas
+    iso3c: ECU
+    shapeID: 780006B56468316684184
+  HuamboyaAdm2ECU:
+    admin_name: Huamboya
+    iso3c: ECU
+    shapeID: 8360857B57232990650034
+  HuaquillasAdm2ECU:
+    admin_name: Huaquillas
+    iso3c: ECU
+    shapeID: 8360857B41959203551937
+  IbarraAdm2ECU:
+    admin_name: Ibarra
+    iso3c: ECU
+    shapeID: 8360857B37631210722611
+  ImbaburaAdm1ECU:
+    admin_name: Imbabura
+    iso3c: ECU
+    shapeID: 780006B18414364413556
+  IsabelaAdm2ECU:
+    admin_name: Isabela
+    iso3c: ECU
+    shapeID: 8360857B49822942031092
+  IsidroAyoraAdm2ECU:
+    admin_name: IsidroAyora
+    iso3c: ECU
+    shapeID: 8360857B10119074569782
+  JamaAdm2ECU:
+    admin_name: Jama
+    iso3c: ECU
+    shapeID: 8360857B32343432212573
+  JaramijoAdm2ECU:
+    admin_name: Jaramijo
+    iso3c: ECU
+    shapeID: 8360857B39254193540064
+  JipijapaAdm2ECU:
+    admin_name: Jipijapa
+    iso3c: ECU
+    shapeID: 8360857B19905531919728
+  JuninAdm2ECU:
+    admin_name: Junin
+    iso3c: ECU
+    shapeID: 8360857B31956195822204
+  LaConcordiaAdm2ECU:
+    admin_name: LaConcordia
+    iso3c: ECU
+    shapeID: 8360857B34762572283066
+  LagoAgrioAdm2ECU:
+    admin_name: LagoAgrio
+    iso3c: ECU
+    shapeID: 8360857B32687179357863
+  LaJoyadelosSachasAdm2ECU:
+    admin_name: LaJoyadelosSachas
+    iso3c: ECU
+    shapeID: 8360857B49386620675514
+  LaLibertadAdm2ECU:
+    admin_name: LaLibertad
+    iso3c: ECU
+    shapeID: 8360857B88993978002865
+  LaManaAdm2ECU:
+    admin_name: LaMana
+    iso3c: ECU
+    shapeID: 8360857B47745613666531
+  LasGolondrinasAdm2ECU:
+    admin_name: LasGolondrinas
+    iso3c: ECU
+    shapeID: 8360857B1829680752404
+  LasLajasAdm2ECU:
+    admin_name: LasLajas
+    iso3c: ECU
+    shapeID: 8360857B7040191128771
+  LasNavesAdm2ECU:
+    admin_name: LasNaves
+    iso3c: ECU
+    shapeID: 8360857B91548183775904
+  LatacungaAdm2ECU:
+    admin_name: Latacunga
+    iso3c: ECU
+    shapeID: 8360857B97397633199247
+  LaTroncalAdm2ECU:
+    admin_name: LaTroncal
+    iso3c: ECU
+    shapeID: 8360857B94153717881636
+  LimonIndanzaAdm2ECU:
+    admin_name: LimonIndanza
+    iso3c: ECU
+    shapeID: 8360857B43814367991628
+  LogroñoAdm2ECU:
+    admin_name: Logroño
+    iso3c: ECU
+    shapeID: 8360857B64842407463110
+  LojaAdm1ECU:
+    admin_name: Loja
+    iso3c: ECU
+    shapeID: 780006B83348252159319
+  LojaAdm2ECU:
+    admin_name: Loja
+    iso3c: ECU
+    shapeID: 8360857B45302823884127
+  LomasdeSargentilloAdm2ECU:
+    admin_name: LomasdeSargentillo
+    iso3c: ECU
+    shapeID: 8360857B38256129042157
+  LoretoAdm2ECU:
+    admin_name: Loreto
+    iso3c: ECU
+    shapeID: 8360857B25470470808554
+  LosRíosAdm1ECU:
+    admin_name: LosRíos
+    iso3c: ECU
+    shapeID: 780006B68361660427036
+  MacaraAdm2ECU:
+    admin_name: Macara
+    iso3c: ECU
+    shapeID: 8360857B58604759333218
+  MachalaAdm2ECU:
+    admin_name: Machala
+    iso3c: ECU
+    shapeID: 8360857B54520179219696
+  ManabiAdm1ECU:
+    admin_name: Manabi
+    iso3c: ECU
+    shapeID: 780006B63949328087962
+  MantaAdm2ECU:
+    admin_name: Manta
+    iso3c: ECU
+    shapeID: 8360857B72136829689010
+  MarcabeliAdm2ECU:
+    admin_name: Marcabeli
+    iso3c: ECU
+    shapeID: 8360857B87513516698723
+  MejiaAdm2ECU:
+    admin_name: Mejia
+    iso3c: ECU
+    shapeID: 8360857B86630198193549
+  MeraAdm2ECU:
+    admin_name: Mera
+    iso3c: ECU
+    shapeID: 8360857B12620262069407
+  MilagroAdm2ECU:
+    admin_name: Milagro
+    iso3c: ECU
+    shapeID: 8360857B82263990527647
+  MiraAdm2ECU:
+    admin_name: Mira
+    iso3c: ECU
+    shapeID: 8360857B23467138047954
+  MocacheAdm2ECU:
+    admin_name: Mocache
+    iso3c: ECU
+    shapeID: 8360857B55649152040637
+  MochaAdm2ECU:
+    admin_name: Mocha
+    iso3c: ECU
+    shapeID: 8360857B45602957344517
+  MontalvoAdm2ECU:
+    admin_name: Montalvo
+    iso3c: ECU
+    shapeID: 8360857B47637388687848
+  MontecristiAdm2ECU:
+    admin_name: Montecristi
+    iso3c: ECU
+    shapeID: 8360857B99830619134812
+  MontufarAdm2ECU:
+    admin_name: Montufar
+    iso3c: ECU
+    shapeID: 8360857B57734122630891
+  MoronaAdm2ECU:
+    admin_name: Morona
+    iso3c: ECU
+    shapeID: 8360857B55598712606622
+  MoronaSantiagoAdm1ECU:
+    admin_name: MoronaSantiago
+    iso3c: ECU
+    shapeID: 780006B74004453472975
+  MuisneAdm2ECU:
+    admin_name: Muisne
+    iso3c: ECU
+    shapeID: 8360857B78809265584676
+  NabonAdm2ECU:
+    admin_name: Nabon
+    iso3c: ECU
+    shapeID: 8360857B24818019376312
+  NangaritzaAdm2ECU:
+    admin_name: Nangaritza
+    iso3c: ECU
+    shapeID: 8360857B36504899110850
+  NapoAdm1ECU:
+    admin_name: Napo
+    iso3c: ECU
+    shapeID: 780006B95371609522575
+  NaranjalAdm2ECU:
+    admin_name: Naranjal
+    iso3c: ECU
+    shapeID: 8360857B52535355247444
+  NaranjitoAdm2ECU:
+    admin_name: Naranjito
+    iso3c: ECU
+    shapeID: 8360857B54885584710427
+  NobolAdm2ECU:
+    admin_name: Nobol
+    iso3c: ECU
+    shapeID: 8360857B45537729635416
+  OlmedoAdm2ECU:
+    admin_name: Olmedo
+    iso3c: ECU
+    shapeID: 8360857B52842084274578
+  OñaAdm2ECU:
+    admin_name: Oña
+    iso3c: ECU
+    shapeID: 8360857B30899779173578
+  OrellanaAdm1ECU:
+    admin_name: Orellana
+    iso3c: ECU
+    shapeID: 780006B54205869319714
+  OrellanaAdm2ECU:
+    admin_name: Orellana
+    iso3c: ECU
+    shapeID: 8360857B2632512841058
+  OtavaloAdm2ECU:
+    admin_name: Otavalo
+    iso3c: ECU
+    shapeID: 8360857B9675012556832
+  PabloSextoAdm2ECU:
+    admin_name: PabloSexto
+    iso3c: ECU
+    shapeID: 8360857B79368212574342
+  PajanAdm2ECU:
+    admin_name: Pajan
+    iso3c: ECU
+    shapeID: 8360857B88388288506249
+  PalandaAdm2ECU:
+    admin_name: Palanda
+    iso3c: ECU
+    shapeID: 8360857B40737212656211
+  PalenqueAdm2ECU:
+    admin_name: Palenque
+    iso3c: ECU
+    shapeID: 8360857B53847682680021
+  PalestinaAdm2ECU:
+    admin_name: Palestina
+    iso3c: ECU
+    shapeID: 8360857B38620743711757
+  PallatangaAdm2ECU:
+    admin_name: Pallatanga
+    iso3c: ECU
+    shapeID: 8360857B6755122070607
+  PaloraAdm2ECU:
+    admin_name: Palora
+    iso3c: ECU
+    shapeID: 8360857B98088290450398
+  PaltasAdm2ECU:
+    admin_name: Paltas
+    iso3c: ECU
+    shapeID: 8360857B19688519580687
+  PanguaAdm2ECU:
+    admin_name: Pangua
+    iso3c: ECU
+    shapeID: 8360857B45229230453028
+  PaquishaAdm2ECU:
+    admin_name: Paquisha
+    iso3c: ECU
+    shapeID: 8360857B20282725655414
+  PasajeAdm2ECU:
+    admin_name: Pasaje
+    iso3c: ECU
+    shapeID: 8360857B52243980096662
+  PastazaAdm1ECU:
+    admin_name: Pastaza
+    iso3c: ECU
+    shapeID: 780006B84481112392323
+  PastazaAdm2ECU:
+    admin_name: Pastaza
+    iso3c: ECU
+    shapeID: 8360857B89599541187452
+  PatateAdm2ECU:
+    admin_name: Patate
+    iso3c: ECU
+    shapeID: 8360857B3185299233317
+  PauteAdm2ECU:
+    admin_name: Paute
+    iso3c: ECU
+    shapeID: 8360857B51005001809557
+  PedernalesAdm2ECU:
+    admin_name: Pedernales
+    iso3c: ECU
+    shapeID: 8360857B91942112022560
+  PedroCarboAdm2ECU:
+    admin_name: PedroCarbo
+    iso3c: ECU
+    shapeID: 8360857B48061354733305
+  PedroMoncayoAdm2ECU:
+    admin_name: PedroMoncayo
+    iso3c: ECU
+    shapeID: 8360857B86285248238237
+  PedroVicenteMaldonadoAdm2ECU:
+    admin_name: PedroVicenteMaldonado
+    iso3c: ECU
+    shapeID: 8360857B92001887030544
+  PenipeAdm2ECU:
+    admin_name: Penipe
+    iso3c: ECU
+    shapeID: 8360857B23969397471508
+  PichinchaAdm1ECU:
+    admin_name: Pichincha
+    iso3c: ECU
+    shapeID: 780006B44300629339188
+  PichinchaAdm2ECU:
+    admin_name: Pichincha
+    iso3c: ECU
+    shapeID: 8360857B60959111227770
+  PimampiroAdm2ECU:
+    admin_name: Pimampiro
+    iso3c: ECU
+    shapeID: 8360857B7887344691779
+  PiñasAdm2ECU:
+    admin_name: Piñas
+    iso3c: ECU
+    shapeID: 8360857B66952763601704
+  PindalAdm2ECU:
+    admin_name: Pindal
+    iso3c: ECU
+    shapeID: 8360857B50209341108464
+  PlayasAdm2ECU:
+    admin_name: Playas
+    iso3c: ECU
+    shapeID: 8360857B78942405683114
+  PortoveloAdm2ECU:
+    admin_name: Portovelo
+    iso3c: ECU
+    shapeID: 8360857B9604201024636
+  PortoviejoAdm2ECU:
+    admin_name: Portoviejo
+    iso3c: ECU
+    shapeID: 8360857B28339541752257
+  PucaraAdm2ECU:
+    admin_name: Pucara
+    iso3c: ECU
+    shapeID: 8360857B91188181337605
+  PuebloviejoAdm2ECU:
+    admin_name: Puebloviejo
+    iso3c: ECU
+    shapeID: 8360857B21283646614979
+  PuertoLopezAdm2ECU:
+    admin_name: PuertoLopez
+    iso3c: ECU
+    shapeID: 8360857B39062181944850
+  PuertoQuitoAdm2ECU:
+    admin_name: PuertoQuito
+    iso3c: ECU
+    shapeID: 8360857B71791990485840
+  PujiliAdm2ECU:
+    admin_name: Pujili
+    iso3c: ECU
+    shapeID: 8360857B69808227880519
+  PutumayoAdm2ECU:
+    admin_name: Putumayo
+    iso3c: ECU
+    shapeID: 8360857B86865530067586
+  PuyangoAdm2ECU:
+    admin_name: Puyango
+    iso3c: ECU
+    shapeID: 8360857B44801921966022
+  QueroAdm2ECU:
+    admin_name: Quero
+    iso3c: ECU
+    shapeID: 8360857B96078226152486
+  QuevedoAdm2ECU:
+    admin_name: Quevedo
+    iso3c: ECU
+    shapeID: 8360857B67101317912818
+  QuijosAdm2ECU:
+    admin_name: Quijos
+    iso3c: ECU
+    shapeID: 8360857B2766573114879
+  QuilangaAdm2ECU:
+    admin_name: Quilanga
+    iso3c: ECU
+    shapeID: 8360857B88871237564279
+  QuinindeAdm2ECU:
+    admin_name: Quininde
+    iso3c: ECU
+    shapeID: 8360857B19300187334866
+  QuinsalomaAdm2ECU:
+    admin_name: Quinsaloma
+    iso3c: ECU
+    shapeID: 8360857B59163426869713
+  QuitoAdm2ECU:
+    admin_name: Quito
+    iso3c: ECU
+    shapeID: 8360857B23484517950931
+  RiobambaAdm2ECU:
+    admin_name: Riobamba
+    iso3c: ECU
+    shapeID: 8360857B36561787951803
+  RioverdeAdm2ECU:
+    admin_name: Rioverde
+    iso3c: ECU
+    shapeID: 8360857B16857875434642
+  RocafuerteAdm2ECU:
+    admin_name: Rocafuerte
+    iso3c: ECU
+    shapeID: 8360857B52091379979635
+  RumiñahuiAdm2ECU:
+    admin_name: Rumiñahui
+    iso3c: ECU
+    shapeID: 8360857B83560565245065
+  SalcedoAdm2ECU:
+    admin_name: Salcedo
+    iso3c: ECU
+    shapeID: 8360857B66602561776891
+  SalinasAdm2ECU:
+    admin_name: Salinas
+    iso3c: ECU
+    shapeID: 8360857B49766571468879
+  SalitreAdm2ECU:
+    admin_name: Salitre
+    iso3c: ECU
+    shapeID: 8360857B73646233564804
+  SamborondonAdm2ECU:
+    admin_name: Samborondon
+    iso3c: ECU
+    shapeID: 8360857B50799900166454
+  SanCristobalAdm2ECU:
+    admin_name: SanCristobal
+    iso3c: ECU
+    shapeID: 8360857B96374734157472
+  SanFernandoAdm2ECU:
+    admin_name: SanFernando
+    iso3c: ECU
+    shapeID: 8360857B77074182584191
+  SanJacintodeYaguachiAdm2ECU:
+    admin_name: SanJacintodeYaguachi
+    iso3c: ECU
+    shapeID: 8360857B83271763782433
+  SanJuanBoscoAdm2ECU:
+    admin_name: SanJuanBosco
+    iso3c: ECU
+    shapeID: 8360857B91956383415021
+  SanLorenzoAdm2ECU:
+    admin_name: SanLorenzo
+    iso3c: ECU
+    shapeID: 8360857B36933905288912
+  SanMiguelAdm2ECU:
+    admin_name: SanMiguel
+    iso3c: ECU
+    shapeID: 8360857B61039226108204
+  SanMigueldeLosBancosAdm2ECU:
+    admin_name: SanMigueldeLosBancos
+    iso3c: ECU
+    shapeID: 8360857B83571898768339
+  SanMigueldeUrcuquiAdm2ECU:
+    admin_name: SanMigueldeUrcuqui
+    iso3c: ECU
+    shapeID: 8360857B34555635043771
+  SanPedrodeHuacaAdm2ECU:
+    admin_name: SanPedrodeHuaca
+    iso3c: ECU
+    shapeID: 8360857B26572966022177
+  SanPedrodePelileoAdm2ECU:
+    admin_name: SanPedrodePelileo
+    iso3c: ECU
+    shapeID: 8360857B2847558667695
+  SantaAnaAdm2ECU:
+    admin_name: SantaAna
+    iso3c: ECU
+    shapeID: 8360857B69594621756810
+  SantaClaraAdm2ECU:
+    admin_name: SantaClara
+    iso3c: ECU
+    shapeID: 8360857B98127475553098
+  SantaCruzAdm2ECU:
+    admin_name: SantaCruz
+    iso3c: ECU
+    shapeID: 8360857B73941749048341
+  SantaElenaAdm1ECU:
+    admin_name: SantaElena
+    iso3c: ECU
+    shapeID: 780006B15798287521285
+  SantaElenaAdm2ECU:
+    admin_name: SantaElena
+    iso3c: ECU
+    shapeID: 8360857B94997360470933
+  SantaIsabelAdm2ECU:
+    admin_name: SantaIsabel
+    iso3c: ECU
+    shapeID: 8360857B32737896699989
+  SantaLuciaAdm2ECU:
+    admin_name: SantaLucia
+    iso3c: ECU
+    shapeID: 8360857B32465002428557
+  SantaRosaAdm2ECU:
+    admin_name: SantaRosa
+    iso3c: ECU
+    shapeID: 8360857B25401291560682
+  SantiagoAdm2ECU:
+    admin_name: Santiago
+    iso3c: ECU
+    shapeID: 8360857B27745190393271
+  SantiagodePillaroAdm2ECU:
+    admin_name: SantiagodePillaro
+    iso3c: ECU
+    shapeID: 8360857B6057709742750
+  SantoDomingoAdm2ECU:
+    admin_name: SantoDomingo
+    iso3c: ECU
+    shapeID: 8360857B50709521665039
+  SantoDomingodelosTsáchilasAdm1ECU:
+    admin_name: SantoDomingodelosTsáchilas
+    iso3c: ECU
+    shapeID: 780006B2576853520044
+  SanVicenteAdm2ECU:
+    admin_name: SanVicente
+    iso3c: ECU
+    shapeID: 8360857B32619791172197
+  SaquisiliAdm2ECU:
+    admin_name: Saquisili
+    iso3c: ECU
+    shapeID: 8360857B28418888111721
+  SaraguroAdm2ECU:
+    admin_name: Saraguro
+    iso3c: ECU
+    shapeID: 8360857B4776298104783
+  SevilladeOroAdm2ECU:
+    admin_name: SevilladeOro
+    iso3c: ECU
+    shapeID: 8360857B69749435538117
+  ShushufindiAdm2ECU:
+    admin_name: Shushufindi
+    iso3c: ECU
+    shapeID: 8360857B16712310561849
+  SigchosAdm2ECU:
+    admin_name: Sigchos
+    iso3c: ECU
+    shapeID: 8360857B12215357040494
+  SigsigAdm2ECU:
+    admin_name: Sigsig
+    iso3c: ECU
+    shapeID: 8360857B4650736479610
+  SimonBolivarAdm2ECU:
+    admin_name: SimonBolivar
+    iso3c: ECU
+    shapeID: 8360857B9786839624042
+  SozorangaAdm2ECU:
+    admin_name: Sozoranga
+    iso3c: ECU
+    shapeID: 8360857B65989855164186
+  SucreAdm2ECU:
+    admin_name: Sucre
+    iso3c: ECU
+    shapeID: 8360857B16036105102773
+  SucuaAdm2ECU:
+    admin_name: Sucua
+    iso3c: ECU
+    shapeID: 8360857B23495862214977
+  SucumbiosAdm1ECU:
+    admin_name: Sucumbios
+    iso3c: ECU
+    shapeID: 780006B2045588347602
+  SucumbiosAdm2ECU:
+    admin_name: Sucumbios
+    iso3c: ECU
+    shapeID: 8360857B67239224798881
+  SuscalAdm2ECU:
+    admin_name: Suscal
+    iso3c: ECU
+    shapeID: 8360857B89634065401442
+  TaishaAdm2ECU:
+    admin_name: Taisha
+    iso3c: ECU
+    shapeID: 8360857B62075287883124
+  TenaAdm2ECU:
+    admin_name: Tena
+    iso3c: ECU
+    shapeID: 8360857B35780226802256
+  TisaleoAdm2ECU:
+    admin_name: Tisaleo
+    iso3c: ECU
+    shapeID: 8360857B823186733653
+  TiwintzaAdm2ECU:
+    admin_name: Tiwintza
+    iso3c: ECU
+    shapeID: 8360857B5800321951611
+  TosaguaAdm2ECU:
+    admin_name: Tosagua
+    iso3c: ECU
+    shapeID: 8360857B34654590669506
+  TulcanAdm2ECU:
+    admin_name: Tulcan
+    iso3c: ECU
+    shapeID: 8360857B85617002422218
+  TungurahuaAdm1ECU:
+    admin_name: Tungurahua
+    iso3c: ECU
+    shapeID: 780006B23430196387963
+  UrdanetaAdm2ECU:
+    admin_name: Urdaneta
+    iso3c: ECU
+    shapeID: 8360857B13036239300316
+  ValenciaAdm2ECU:
+    admin_name: Valencia
+    iso3c: ECU
+    shapeID: 8360857B40545077285302
+  VentanasAdm2ECU:
+    admin_name: Ventanas
+    iso3c: ECU
+    shapeID: 8360857B83829792617197
+  VincesAdm2ECU:
+    admin_name: Vinces
+    iso3c: ECU
+    shapeID: 8360857B65824722348178
+  YacuambiAdm2ECU:
+    admin_name: Yacuambi
+    iso3c: ECU
+    shapeID: 8360857B31068945551304
+  YantzazaAdm2ECU:
+    admin_name: Yantzaza
+    iso3c: ECU
+    shapeID: 8360857B42265273644391
+  ZamoraAdm2ECU:
+    admin_name: Zamora
+    iso3c: ECU
+    shapeID: 8360857B6169045226043
+  ZamoraChinchipeAdm1ECU:
+    admin_name: ZamoraChinchipe
+    iso3c: ECU
+    shapeID: 780006B32277993251715
+  ZapotilloAdm2ECU:
+    admin_name: Zapotillo
+    iso3c: ECU
+    shapeID: 8360857B34607676191169
+  ZarumaAdm2ECU:
+    admin_name: Zaruma
+    iso3c: ECU
+    shapeID: 8360857B11168395923367

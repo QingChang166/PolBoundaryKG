@@ -1,33 +1,749 @@
 concepts:
-    - MonteCristi
-    - Bahoruco
-    - MonseñorNouel
-    - Espaillat
-    - PuertoPlata
-    - SanJuan
-    - MaríaTrinidadSánchez
-    - Dajabón
-    - LaEstrelleta
-    - Barahona
-    - Azua
-    - LaAltagracia
-    - ElSeybo
-    - Independencia
-    - Pedernales
-    - SantiagoRodríguez
-    - LaVega
-    - Hermanas
-    - Duarte
-    - Santiago
-    - Peravia
-    - SanCristóbal
-    - SantoDomingo
-    - DistritoNacional
-    - SanPedrodeMacorís
-    - LaRomana
-    - HatoMayor
-    - Samaná
-    - Valverde
-    - MontePlata
-    - SánchezRamírez
-    - SanJosédeOcoa
+  AltamiraAdm2DOM:
+    admin_name: Altamira
+    iso3c: DOM
+    shapeID: 3306468B71353623072064
+  ArenosoAdm2DOM:
+    admin_name: Arenoso
+    iso3c: DOM
+    shapeID: 3306468B79017025460716
+  AzuaAdm1DOM:
+    admin_name: Azua
+    iso3c: DOM
+    shapeID: 93820187B58475630368990
+  AzuadeCompostelaAdm2DOM:
+    admin_name: AzuadeCompostela
+    iso3c: DOM
+    shapeID: 3306468B66909438647260
+  BahorucoAdm1DOM:
+    admin_name: Bahoruco
+    iso3c: DOM
+    shapeID: 93820187B31673622475180
+  BajosdeHainaAdm2DOM:
+    admin_name: BajosdeHaina
+    iso3c: DOM
+    shapeID: 3306468B44390196227357
+  BaníAdm2DOM:
+    admin_name: Baní
+    iso3c: DOM
+    shapeID: 3306468B54911085338541
+  BanicaAdm2DOM:
+    admin_name: Banica
+    iso3c: DOM
+    shapeID: 3306468B73916150464178
+  BarahonaAdm1DOM:
+    admin_name: Barahona
+    iso3c: DOM
+    shapeID: 93820187B41996677752574
+  BayaguanaAdm2DOM:
+    admin_name: Bayaguana
+    iso3c: DOM
+    shapeID: 3306468B72895662483472
+  BocaChicaAdm2DOM:
+    admin_name: BocaChica
+    iso3c: DOM
+    shapeID: 3306468B37182555728177
+  BohechioAdm2DOM:
+    admin_name: Bohechio
+    iso3c: DOM
+    shapeID: 3306468B96171292047706
+  BonaoAdm2DOM:
+    admin_name: Bonao
+    iso3c: DOM
+    shapeID: 3306468B55753848240652
+  CabralAdm2DOM:
+    admin_name: Cabral
+    iso3c: DOM
+    shapeID: 3306468B71944669665179
+  CabreraAdm2DOM:
+    admin_name: Cabrera
+    iso3c: DOM
+    shapeID: 3306468B70752003572919
+  CambitaGarabitoAdm2DOM:
+    admin_name: CambitaGarabito
+    iso3c: DOM
+    shapeID: 3306468B64395738690475
+  CastañuelaAdm2DOM:
+    admin_name: Castañuela
+    iso3c: DOM
+    shapeID: 3306468B38935954737927
+  CastilloAdm2DOM:
+    admin_name: Castillo
+    iso3c: DOM
+    shapeID: 3306468B31891639272972
+  CayetanoGermosénAdm2DOM:
+    admin_name: CayetanoGermosén
+    iso3c: DOM
+    shapeID: 3306468B9406738878397
+  CevicosAdm2DOM:
+    admin_name: Cevicos
+    iso3c: DOM
+    shapeID: 3306468B8786854663218
+  ComendadorAdm2DOM:
+    admin_name: Comendador
+    iso3c: DOM
+    shapeID: 3306468B70878351440693
+  ConcepcióndelaVegaAdm2DOM:
+    admin_name: ConcepcióndelaVega
+    iso3c: DOM
+    shapeID: 3306468B4333912279461
+  ConstanzaAdm2DOM:
+    admin_name: Constanza
+    iso3c: DOM
+    shapeID: 3306468B51834332245466
+  ConsueloAdm2DOM:
+    admin_name: Consuelo
+    iso3c: DOM
+    shapeID: 3306468B14471946980605
+  CotuíAdm2DOM:
+    admin_name: Cotuí
+    iso3c: DOM
+    shapeID: 3306468B72281596552802
+  CristobalAdm2DOM:
+    admin_name: Cristobal
+    iso3c: DOM
+    shapeID: 3306468B18266835565764
+  DajabónAdm1DOM:
+    admin_name: Dajabón
+    iso3c: DOM
+    shapeID: 93820187B37734861430686
+  DajabónAdm2DOM:
+    admin_name: Dajabón
+    iso3c: DOM
+    shapeID: 3306468B69873779257439
+  DistritoNacionalAdm1DOM:
+    admin_name: DistritoNacional
+    iso3c: DOM
+    shapeID: 93820187B18367237384541
+  DistritoNacionalAdm2DOM:
+    admin_name: DistritoNacional
+    iso3c: DOM
+    shapeID: 3306468B63097535879723
+  DuarteAdm1DOM:
+    admin_name: Duarte
+    iso3c: DOM
+    shapeID: 93820187B82172394786860
+  DuvergéAdm2DOM:
+    admin_name: Duvergé
+    iso3c: DOM
+    shapeID: 3306468B24836928118485
+  ElCercadoAdm2DOM:
+    admin_name: ElCercado
+    iso3c: DOM
+    shapeID: 3306468B41168482841480
+  ElFactorAdm2DOM:
+    admin_name: ElFactor
+    iso3c: DOM
+    shapeID: 3306468B48172399013768
+  ElLlanoAdm2DOM:
+    admin_name: ElLlano
+    iso3c: DOM
+    shapeID: 3306468B67891946517614
+  ElPeñónAdm2DOM:
+    admin_name: ElPeñón
+    iso3c: DOM
+    shapeID: 3306468B33115506281893
+  ElPinoAdm2DOM:
+    admin_name: ElPino
+    iso3c: DOM
+    shapeID: 3306468B80571164490310
+  ElSeyboAdm1DOM:
+    admin_name: ElSeybo
+    iso3c: DOM
+    shapeID: 93820187B40453874964938
+  ElValleAdm2DOM:
+    admin_name: ElValle
+    iso3c: DOM
+    shapeID: 3306468B49446780717545
+  EnriquilloAdm2DOM:
+    admin_name: Enriquillo
+    iso3c: DOM
+    shapeID: 3306468B23311881925490
+  EspaillatAdm1DOM:
+    admin_name: Espaillat
+    iso3c: DOM
+    shapeID: 93820187B79517068656032
+  EsperalvilloAdm2DOM:
+    admin_name: Esperalvillo
+    iso3c: DOM
+    shapeID: 3306468B42523335746622
+  EsperanzaAdm2DOM:
+    admin_name: Esperanza
+    iso3c: DOM
+    shapeID: 3306468B62426802090355
+  EstebaniaAdm2DOM:
+    admin_name: Estebania
+    iso3c: DOM
+    shapeID: 3306468B97025454858192
+  FantinoAdm2DOM:
+    admin_name: Fantino
+    iso3c: DOM
+    shapeID: 3306468B63590922856333
+  FundaciónAdm2DOM:
+    admin_name: Fundación
+    iso3c: DOM
+    shapeID: 3306468B48518895695140
+  GalvanAdm2DOM:
+    admin_name: Galvan
+    iso3c: DOM
+    shapeID: 3306468B84487207746542
+  GasparHernándezAdm2DOM:
+    admin_name: GasparHernández
+    iso3c: DOM
+    shapeID: 3306468B76468188202077
+  GuananicoAdm2DOM:
+    admin_name: Guananico
+    iso3c: DOM
+    shapeID: 3306468B53789709824921
+  GuayabalAdm2DOM:
+    admin_name: Guayabal
+    iso3c: DOM
+    shapeID: 3306468B24687357743066
+  GuayacanesAdm2DOM:
+    admin_name: Guayacanes
+    iso3c: DOM
+    shapeID: 3306468B17793693444976
+  GuaymateAdm2DOM:
+    admin_name: Guaymate
+    iso3c: DOM
+    shapeID: 3306468B11940370524112
+  GuayubínAdm2DOM:
+    admin_name: Guayubín
+    iso3c: DOM
+    shapeID: 3306468B33320306044259
+  GuerraAdm2DOM:
+    admin_name: Guerra
+    iso3c: DOM
+    shapeID: 3306468B94493131963400
+  HatoMayorAdm1DOM:
+    admin_name: HatoMayor
+    iso3c: DOM
+    shapeID: 93820187B87609756624505
+  HatoMayordelReyAdm2DOM:
+    admin_name: HatoMayordelRey
+    iso3c: DOM
+    shapeID: 3306468B72856581619047
+  HermanasAdm1DOM:
+    admin_name: Hermanas
+    iso3c: DOM
+    shapeID: 93820187B43347843561572
+  HondoValleAdm2DOM:
+    admin_name: HondoValle
+    iso3c: DOM
+    shapeID: 3306468B67030502759571
+  HostosAdm2DOM:
+    admin_name: Hostos
+    iso3c: DOM
+    shapeID: 3306468B93342772649109
+  ImbertAdm2DOM:
+    admin_name: Imbert
+    iso3c: DOM
+    shapeID: 3306468B41298949605028
+  IndependenciaAdm1DOM:
+    admin_name: Independencia
+    iso3c: DOM
+    shapeID: 93820187B47565163984981
+  JamaoalNorteAdm2DOM:
+    admin_name: JamaoalNorte
+    iso3c: DOM
+    shapeID: 3306468B95520457943603
+  JanicoAdm2DOM:
+    admin_name: Janico
+    iso3c: DOM
+    shapeID: 3306468B30631228592753
+  JaquimeyesAdm2DOM:
+    admin_name: Jaquimeyes
+    iso3c: DOM
+    shapeID: 3306468B18666570412255
+  JarabacoaAdm2DOM:
+    admin_name: Jarabacoa
+    iso3c: DOM
+    shapeID: 3306468B89107795210133
+  JimaAbajoAdm2DOM:
+    admin_name: JimaAbajo
+    iso3c: DOM
+    shapeID: 3306468B99813204721250
+  JimaníAdm2DOM:
+    admin_name: Jimaní
+    iso3c: DOM
+    shapeID: 3306468B8700472779567
+  JuandeHerreraAdm2DOM:
+    admin_name: JuandeHerrera
+    iso3c: DOM
+    shapeID: 3306468B17512962237330
+  JuanSantiagoAdm2DOM:
+    admin_name: JuanSantiago
+    iso3c: DOM
+    shapeID: 3306468B19325324705004
+  LaAltagraciaAdm1DOM:
+    admin_name: LaAltagracia
+    iso3c: DOM
+    shapeID: 93820187B39859379805868
+  LaCienagaAdm2DOM:
+    admin_name: LaCienaga
+    iso3c: DOM
+    shapeID: 3306468B5550416760665
+  LaDescubiertaAdm2DOM:
+    admin_name: LaDescubierta
+    iso3c: DOM
+    shapeID: 3306468B88446063992156
+  LaEstrelletaAdm1DOM:
+    admin_name: LaEstrelleta
+    iso3c: DOM
+    shapeID: 93820187B70498401931302
+  LagunaSaladaAdm2DOM:
+    admin_name: LagunaSalada
+    iso3c: DOM
+    shapeID: 3306468B11652899938830
+  LaIsabelaAdm2DOM:
+    admin_name: LaIsabela
+    iso3c: DOM
+    shapeID: 3306468B2817273614412
+  LaLagunadeNisibónAdm2DOM:
+    admin_name: LaLagunadeNisibón
+    iso3c: DOM
+    shapeID: 3306468B28180088914928
+  LaMataAdm2DOM:
+    admin_name: LaMata
+    iso3c: DOM
+    shapeID: 3306468B26306333639139
+  LaRomanaAdm1DOM:
+    admin_name: LaRomana
+    iso3c: DOM
+    shapeID: 93820187B35454462701697
+  LaRomanaAdm2DOM:
+    admin_name: LaRomana
+    iso3c: DOM
+    shapeID: 3306468B23578023399759
+  LasCharcasAdm2DOM:
+    admin_name: LasCharcas
+    iso3c: DOM
+    shapeID: 3306468B70810914734022
+  LasGuaranasAdm2DOM:
+    admin_name: LasGuaranas
+    iso3c: DOM
+    shapeID: 3306468B34554561821271
+  LasMatasdeFarfanAdm2DOM:
+    admin_name: LasMatasdeFarfan
+    iso3c: DOM
+    shapeID: 3306468B58611223630856
+  LasMatasdeSantaCruzAdm2DOM:
+    admin_name: LasMatasdeSantaCruz
+    iso3c: DOM
+    shapeID: 3306468B23054065948148
+  LasSalinasAdm2DOM:
+    admin_name: LasSalinas
+    iso3c: DOM
+    shapeID: 3306468B53490324555446
+  LasTerrenasAdm2DOM:
+    admin_name: LasTerrenas
+    iso3c: DOM
+    shapeID: 3306468B40985088538713
+  LasYayasdeViajamaAdm2DOM:
+    admin_name: LasYayasdeViajama
+    iso3c: DOM
+    shapeID: 3306468B57328361484840
+  LaVegaAdm1DOM:
+    admin_name: LaVega
+    iso3c: DOM
+    shapeID: 93820187B24191920077808
+  LiceyalMedioAdm2DOM:
+    admin_name: LiceyalMedio
+    iso3c: DOM
+    shapeID: 3306468B91186516288237
+  LomadeCabreraAdm2DOM:
+    admin_name: LomadeCabrera
+    iso3c: DOM
+    shapeID: 3306468B30549660873689
+  LosAlcarrizosAdm2DOM:
+    admin_name: LosAlcarrizos
+    iso3c: DOM
+    shapeID: 3306468B82844411676159
+  LosAlmácigosAdm2DOM:
+    admin_name: LosAlmácigos
+    iso3c: DOM
+    shapeID: 3306468B75896846080251
+  LosCacaosAdm2DOM:
+    admin_name: LosCacaos
+    iso3c: DOM
+    shapeID: 3306468B25553756069478
+  LosHidalgosAdm2DOM:
+    admin_name: LosHidalgos
+    iso3c: DOM
+    shapeID: 3306468B64768612261884
+  LosLlanosAdm2DOM:
+    admin_name: LosLlanos
+    iso3c: DOM
+    shapeID: 3306468B56210487942158
+  LosRiosAdm2DOM:
+    admin_name: LosRios
+    iso3c: DOM
+    shapeID: 3306468B61523317388818
+  LuperonAdm2DOM:
+    admin_name: Luperon
+    iso3c: DOM
+    shapeID: 3306468B16106454484671
+  MaimónAdm2DOM:
+    admin_name: Maimón
+    iso3c: DOM
+    shapeID: 3306468B25789433891427
+  MaoAdm2DOM:
+    admin_name: Mao
+    iso3c: DOM
+    shapeID: 3306468B69236034460520
+  MaríaTrinidadSánchezAdm1DOM:
+    admin_name: MaríaTrinidadSánchez
+    iso3c: DOM
+    shapeID: 93820187B48662055256445
+  MellaAdm2DOM:
+    admin_name: Mella
+    iso3c: DOM
+    shapeID: 3306468B62036034532374
+  MichesAdm2DOM:
+    admin_name: Miches
+    iso3c: DOM
+    shapeID: 3306468B50398630049357
+  MocaAdm2DOM:
+    admin_name: Moca
+    iso3c: DOM
+    shapeID: 3306468B60047889099268
+  MonciónAdm2DOM:
+    admin_name: Monción
+    iso3c: DOM
+    shapeID: 3306468B58364807671066
+  MonseñorNouelAdm1DOM:
+    admin_name: MonseñorNouel
+    iso3c: DOM
+    shapeID: 93820187B51010772405256
+  MonteCristiAdm1DOM:
+    admin_name: MonteCristi
+    iso3c: DOM
+    shapeID: 93820187B76809517426648
+  MontellanoAdm2DOM:
+    admin_name: Montellano
+    iso3c: DOM
+    shapeID: 3306468B77556762591061
+  MontePlataAdm1DOM:
+    admin_name: MontePlata
+    iso3c: DOM
+    shapeID: 93820187B14699878889154
+  MontePlataAdm2DOM:
+    admin_name: MontePlata
+    iso3c: DOM
+    shapeID: 3306468B2740041336238
+  NaguaAdm2DOM:
+    admin_name: Nagua
+    iso3c: DOM
+    shapeID: 3306468B71596371711370
+  NeybaAdm2DOM:
+    admin_name: Neyba
+    iso3c: DOM
+    shapeID: 3306468B5748672743725
+  NiguaAdm2DOM:
+    admin_name: Nigua
+    iso3c: DOM
+    shapeID: 3306468B31162099816687
+  NizaoAdm2DOM:
+    admin_name: Nizao
+    iso3c: DOM
+    shapeID: 3306468B29569237091860
+  PadreLasCasasAdm2DOM:
+    admin_name: PadreLasCasas
+    iso3c: DOM
+    shapeID: 3306468B62510937127431
+  ParaisoAdm2DOM:
+    admin_name: Paraiso
+    iso3c: DOM
+    shapeID: 3306468B48518984773258
+  PartidoAdm2DOM:
+    admin_name: Partido
+    iso3c: DOM
+    shapeID: 3306468B74633928052065
+  PedernalesAdm1DOM:
+    admin_name: Pedernales
+    iso3c: DOM
+    shapeID: 93820187B45129006484644
+  PedernalesAdm2DOM:
+    admin_name: Pedernales
+    iso3c: DOM
+    shapeID: 3306468B80072272336201
+  PedroBrandAdm2DOM:
+    admin_name: PedroBrand
+    iso3c: DOM
+    shapeID: 3306468B67900396339745
+  PedroSantanaAdm2DOM:
+    admin_name: PedroSantana
+    iso3c: DOM
+    shapeID: 3306468B44690790041357
+  PepilloSalcedoAdm2DOM:
+    admin_name: PepilloSalcedo
+    iso3c: DOM
+    shapeID: 3306468B50273300961313
+  PeraltaAdm2DOM:
+    admin_name: Peralta
+    iso3c: DOM
+    shapeID: 3306468B32455006078349
+  PeraviaAdm1DOM:
+    admin_name: Peravia
+    iso3c: DOM
+    shapeID: 93820187B81904580242426
+  PiedraBlancaAdm2DOM:
+    admin_name: PiedraBlanca
+    iso3c: DOM
+    shapeID: 3306468B87386677214515
+  PimentelAdm2DOM:
+    admin_name: Pimentel
+    iso3c: DOM
+    shapeID: 3306468B52155686963809
+  PoloAdm2DOM:
+    admin_name: Polo
+    iso3c: DOM
+    shapeID: 3306468B683162392169
+  PostrerRioAdm2DOM:
+    admin_name: PostrerRio
+    iso3c: DOM
+    shapeID: 3306468B53759087220335
+  PuebloViejoAdm2DOM:
+    admin_name: PuebloViejo
+    iso3c: DOM
+    shapeID: 3306468B59626233413170
+  PuertoPlataAdm1DOM:
+    admin_name: PuertoPlata
+    iso3c: DOM
+    shapeID: 93820187B75937606305335
+  PuñalAdm2DOM:
+    admin_name: Puñal
+    iso3c: DOM
+    shapeID: 3306468B15896052245603
+  QuisquellaAdm2DOM:
+    admin_name: Quisquella
+    iso3c: DOM
+    shapeID: 3306468B80132338687245
+  RamónSantanaAdm2DOM:
+    admin_name: RamónSantana
+    iso3c: DOM
+    shapeID: 3306468B54245916691578
+  RanchoArribaAdm2DOM:
+    admin_name: RanchoArriba
+    iso3c: DOM
+    shapeID: 3306468B42519572872146
+  RestauraciónAdm2DOM:
+    admin_name: Restauración
+    iso3c: DOM
+    shapeID: 3306468B11586418732368
+  RioSanJuanAdm2DOM:
+    admin_name: RioSanJuan
+    iso3c: DOM
+    shapeID: 3306468B8616193891808
+  SabanadelaMarAdm2DOM:
+    admin_name: SabanadelaMar
+    iso3c: DOM
+    shapeID: 3306468B29734552826956
+  SabanaGrandedeBoyáAdm2DOM:
+    admin_name: SabanaGrandedeBoyá
+    iso3c: DOM
+    shapeID: 3306468B74800067614401
+  SabanaGrandedePalenqueAdm2DOM:
+    admin_name: SabanaGrandedePalenque
+    iso3c: DOM
+    shapeID: 3306468B45575096497084
+  SabanaIglesiaAdm2DOM:
+    admin_name: SabanaIglesia
+    iso3c: DOM
+    shapeID: 3306468B1703224271200
+  SabanaLargaAdm2DOM:
+    admin_name: SabanaLarga
+    iso3c: DOM
+    shapeID: 3306468B82901312279704
+  SabanaYeguaAdm2DOM:
+    admin_name: SabanaYegua
+    iso3c: DOM
+    shapeID: 3306468B31402927654959
+  SalcedoAdm2DOM:
+    admin_name: Salcedo
+    iso3c: DOM
+    shapeID: 3306468B93547885769442
+  SalvaleóndeHigüeyAdm2DOM:
+    admin_name: SalvaleóndeHigüey
+    iso3c: DOM
+    shapeID: 3306468B87904766376188
+  SamanáAdm1DOM:
+    admin_name: Samaná
+    iso3c: DOM
+    shapeID: 93820187B74439223598542
+  SánchezAdm2DOM:
+    admin_name: Sánchez
+    iso3c: DOM
+    shapeID: 3306468B64693584443826
+  SánchezRamírezAdm1DOM:
+    admin_name: SánchezRamírez
+    iso3c: DOM
+    shapeID: 93820187B68802260093843
+  SanCristóbalAdm1DOM:
+    admin_name: SanCristóbal
+    iso3c: DOM
+    shapeID: 93820187B84794649626527
+  SanCristóbalAdm2DOM:
+    admin_name: SanCristóbal
+    iso3c: DOM
+    shapeID: 3306468B49798152350174
+  SanFelipedePuertoPlataAdm2DOM:
+    admin_name: SanFelipedePuertoPlata
+    iso3c: DOM
+    shapeID: 3306468B57439307714728
+  SanFernandodeMonteCristiAdm2DOM:
+    admin_name: SanFernandodeMonteCristi
+    iso3c: DOM
+    shapeID: 3306468B8968248816263
+  SanFranciscodeMacorísAdm2DOM:
+    admin_name: SanFranciscodeMacorís
+    iso3c: DOM
+    shapeID: 3306468B54253052941239
+  SanGregoriodeYaguateAdm2DOM:
+    admin_name: SanGregoriodeYaguate
+    iso3c: DOM
+    shapeID: 3306468B54711183761237
+  SanIgnaciodeSabanetaAdm2DOM:
+    admin_name: SanIgnaciodeSabaneta
+    iso3c: DOM
+    shapeID: 3306468B60341362842796
+  SanJosédeLasMatasAdm2DOM:
+    admin_name: SanJosédeLasMatas
+    iso3c: DOM
+    shapeID: 3306468B48570951315042
+  SanJosédeOcoaAdm1DOM:
+    admin_name: SanJosédeOcoa
+    iso3c: DOM
+    shapeID: 93820187B68705582614236
+  SanJosédeOcoaAdm2DOM:
+    admin_name: SanJosédeOcoa
+    iso3c: DOM
+    shapeID: 3306468B57713364990292
+  SanJuanAdm1DOM:
+    admin_name: SanJuan
+    iso3c: DOM
+    shapeID: 93820187B64803831351041
+  SanJuandelaMaguanaAdm2DOM:
+    admin_name: SanJuandelaMaguana
+    iso3c: DOM
+    shapeID: 3306468B55528819950271
+  SanPedrodeMacorísAdm1DOM:
+    admin_name: SanPedrodeMacorís
+    iso3c: DOM
+    shapeID: 93820187B62210066790918
+  SanPedrodeMacorísAdm2DOM:
+    admin_name: SanPedrodeMacorís
+    iso3c: DOM
+    shapeID: 3306468B30679779198976
+  SanRafaeldelYumaAdm2DOM:
+    admin_name: SanRafaeldelYuma
+    iso3c: DOM
+    shapeID: 3306468B72129908795789
+  SantaBárbaradeSamanáAdm2DOM:
+    admin_name: SantaBárbaradeSamaná
+    iso3c: DOM
+    shapeID: 3306468B43421780768425
+  SantaCruzdeBarahonaAdm2DOM:
+    admin_name: SantaCruzdeBarahona
+    iso3c: DOM
+    shapeID: 3306468B33433581758578
+  SantaCruzdelSeyboAdm2DOM:
+    admin_name: SantaCruzdelSeybo
+    iso3c: DOM
+    shapeID: 3306468B51823501845904
+  SantiagoAdm1DOM:
+    admin_name: Santiago
+    iso3c: DOM
+    shapeID: 93820187B32752500382745
+  SantiagodelosCaballerosAdm2DOM:
+    admin_name: SantiagodelosCaballeros
+    iso3c: DOM
+    shapeID: 3306468B7799388924344
+  SantiagoRodríguezAdm1DOM:
+    admin_name: SantiagoRodríguez
+    iso3c: DOM
+    shapeID: 93820187B63902544885096
+  SantoDomingoAdm1DOM:
+    admin_name: SantoDomingo
+    iso3c: DOM
+    shapeID: 93820187B48877163432622
+  SantoDomingoEsteAdm2DOM:
+    admin_name: SantoDomingoEste
+    iso3c: DOM
+    shapeID: 3306468B99956465733744
+  SantoDomingoNorteAdm2DOM:
+    admin_name: SantoDomingoNorte
+    iso3c: DOM
+    shapeID: 3306468B69906942456290
+  SantoDomingoOesteAdm2DOM:
+    admin_name: SantoDomingoOeste
+    iso3c: DOM
+    shapeID: 3306468B81365020570437
+  SosuaAdm2DOM:
+    admin_name: Sosua
+    iso3c: DOM
+    shapeID: 3306468B55760825381670
+  TamayoAdm2DOM:
+    admin_name: Tamayo
+    iso3c: DOM
+    shapeID: 3306468B80057745223349
+  TamborilAdm2DOM:
+    admin_name: Tamboril
+    iso3c: DOM
+    shapeID: 3306468B8987969858006
+  TenaresAdm2DOM:
+    admin_name: Tenares
+    iso3c: DOM
+    shapeID: 3306468B80209753736626
+  VallejueloAdm2DOM:
+    admin_name: Vallejuelo
+    iso3c: DOM
+    shapeID: 3306468B66406658248209
+  ValverdeAdm1DOM:
+    admin_name: Valverde
+    iso3c: DOM
+    shapeID: 93820187B40154216120461
+  VicenteNobleAdm2DOM:
+    admin_name: VicenteNoble
+    iso3c: DOM
+    shapeID: 3306468B17851422898431
+  VillaAltagraciaAdm2DOM:
+    admin_name: VillaAltagracia
+    iso3c: DOM
+    shapeID: 3306468B65787617435828
+  VillaBisonóAdm2DOM:
+    admin_name: VillaBisonó
+    iso3c: DOM
+    shapeID: 3306468B37188297910356
+  VillaGonzalezAdm2DOM:
+    admin_name: VillaGonzalez
+    iso3c: DOM
+    shapeID: 3306468B91060644356542
+  VillaHermosaAdm2DOM:
+    admin_name: VillaHermosa
+    iso3c: DOM
+    shapeID: 3306468B24610118168871
+  VillaJaraguaAdm2DOM:
+    admin_name: VillaJaragua
+    iso3c: DOM
+    shapeID: 3306468B1836648434057
+  VillaRivasAdm2DOM:
+    admin_name: VillaRivas
+    iso3c: DOM
+    shapeID: 3306468B95722442714869
+  VillaTabaraArribaAdm2DOM:
+    admin_name: VillaTabaraArriba
+    iso3c: DOM
+    shapeID: 3306468B57701305571020
+  VillaTapiaAdm2DOM:
+    admin_name: VillaTapia
+    iso3c: DOM
+    shapeID: 3306468B10183104109049
+  VillaVázquezAdm2DOM:
+    admin_name: VillaVázquez
+    iso3c: DOM
+    shapeID: 3306468B4250882356752
+  YamasáAdm2DOM:
+    admin_name: Yamasá
+    iso3c: DOM
+    shapeID: 3306468B37411515289314

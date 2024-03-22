@@ -1,16 +1,605 @@
 concepts:
-    - Gbarpolu
-    - GrandBassa
-    - Sinoe
-    - GrandGedeh
-    - GrandKru
-    - Lofa
-    - GrandCapeMount
-    - Bomi
-    - Bong
-    - Montserrado
-    - Nimba
-    - Margibi
-    - Maryland
-    - RiverGee
-    - Rivercess
+  B'haiAdm2LBR:
+    admin_name: B'hai
+    iso3c: LBR
+    shapeID: 62588387B62156042060365
+  BarclayvilleAdm2LBR:
+    admin_name: Barclayville
+    iso3c: LBR
+    shapeID: 62588387B34130334496008
+  BeaworAdm2LBR:
+    admin_name: Beawor
+    iso3c: LBR
+    shapeID: 62588387B88645489379872
+  BellehAdm2LBR:
+    admin_name: Belleh
+    iso3c: LBR
+    shapeID: 62588387B94232483093280
+  BleeboAdm2LBR:
+    admin_name: Bleebo
+    iso3c: LBR
+    shapeID: 62588387B93469506869608
+  BodaeAdm2LBR:
+    admin_name: Bodae
+    iso3c: LBR
+    shapeID: 62588387B10493983903288
+  Boe&QuillaAdm2LBR:
+    admin_name: Boe&Quilla
+    iso3c: LBR
+    shapeID: 62588387B21067170743113
+  BoinsenAdm2LBR:
+    admin_name: Boinsen
+    iso3c: LBR
+    shapeID: 62588387B25170598917016
+  BokomuAdm2LBR:
+    admin_name: Bokomu
+    iso3c: LBR
+    shapeID: 62588387B58325877345443
+  BokonAdm2LBR:
+    admin_name: Bokon
+    iso3c: LBR
+    shapeID: 62588387B4912984440097
+  BollohAdm2LBR:
+    admin_name: Bolloh
+    iso3c: LBR
+    shapeID: 62588387B86571798658395
+  BomiAdm1LBR:
+    admin_name: Bomi
+    iso3c: LBR
+    shapeID: 1627179B80972729563959
+  BongAdm1LBR:
+    admin_name: Bong
+    iso3c: LBR
+    shapeID: 1627179B61083292869492
+  BopoluAdm2LBR:
+    admin_name: Bopolu
+    iso3c: LBR
+    shapeID: 62588387B82153656109433
+  BuahAdm2LBR:
+    admin_name: Buah
+    iso3c: LBR
+    shapeID: 62588387B84481919127843
+  ButawAdm2LBR:
+    admin_name: Butaw
+    iso3c: LBR
+    shapeID: 62588387B58471335034652
+  Buu-YaoAdm2LBR:
+    admin_name: Buu-Yao
+    iso3c: LBR
+    shapeID: 62588387B45934307689461
+  CareysburgAdm2LBR:
+    admin_name: Careysburg
+    iso3c: LBR
+    shapeID: 62588387B2159992345918
+  CavalaAdm2LBR:
+    admin_name: Cavala
+    iso3c: LBR
+    shapeID: 62588387B63271162227743
+  CentralRivercessAdm2LBR:
+    admin_name: CentralRivercess
+    iso3c: LBR
+    shapeID: 62588387B65596489935901
+  ChedepoAdm2LBR:
+    admin_name: Chedepo
+    iso3c: LBR
+    shapeID: 62588387B99879349198662
+  Commonwealth1Adm2LBR:
+    admin_name: Commonwealth1
+    iso3c: LBR
+    shapeID: 62588387B86192689871255
+  Commonwealth2Adm2LBR:
+    admin_name: Commonwealth2
+    iso3c: LBR
+    shapeID: 62588387B22492671376188
+  CommonwealthAdm2LBR:
+    admin_name: Commonwealth
+    iso3c: LBR
+    shapeID: 62588387B80584494728088
+  District#1Adm2LBR:
+    admin_name: District#1
+    iso3c: LBR
+    shapeID: 62588387B32884824633153
+  District#2Adm2LBR:
+    admin_name: District#2
+    iso3c: LBR
+    shapeID: 62588387B28377115536759
+  District#3Adm2LBR:
+    admin_name: District#3
+    iso3c: LBR
+    shapeID: 62588387B53220692513074
+  District#4Adm2LBR:
+    admin_name: District#4
+    iso3c: LBR
+    shapeID: 62588387B61310853787803
+  DoeAdm2LBR:
+    admin_name: Doe
+    iso3c: LBR
+    shapeID: 62588387B53345215693508
+  DoedainAdm2LBR:
+    admin_name: Doedain
+    iso3c: LBR
+    shapeID: 62588387B34334652858528
+  DorborAdm2LBR:
+    admin_name: Dorbor
+    iso3c: LBR
+    shapeID: 62588387B97917112158690
+  DoweinAdm2LBR:
+    admin_name: Dowein
+    iso3c: LBR
+    shapeID: 62588387B7448810269647
+  DugbeRiverAdm2LBR:
+    admin_name: DugbeRiver
+    iso3c: LBR
+    shapeID: 62588387B59492535947478
+  DwehAdm2LBR:
+    admin_name: Dweh
+    iso3c: LBR
+    shapeID: 62588387B41100614633328
+  Felo-JekwiAdm2LBR:
+    admin_name: Felo-Jekwi
+    iso3c: LBR
+    shapeID: 62588387B92809240343923
+  FenetoeAdm2LBR:
+    admin_name: Fenetoe
+    iso3c: LBR
+    shapeID: 62588387B87662048762198
+  FenRiverAdm2LBR:
+    admin_name: FenRiver
+    iso3c: LBR
+    shapeID: 62588387B6652087258063
+  FirestoneAdm2LBR:
+    admin_name: Firestone
+    iso3c: LBR
+    shapeID: 62588387B74380915330894
+  ForpohAdm2LBR:
+    admin_name: Forpoh
+    iso3c: LBR
+    shapeID: 62588387B83711466952292
+  FoyaAdm2LBR:
+    admin_name: Foya
+    iso3c: LBR
+    shapeID: 62588387B94896309973685
+  FuamahAdm2LBR:
+    admin_name: Fuamah
+    iso3c: LBR
+    shapeID: 62588387B99058243343156
+  Garr-BainAdm2LBR:
+    admin_name: Garr-Bain
+    iso3c: LBR
+    shapeID: 62588387B82144239475407
+  GarrawayAdm2LBR:
+    admin_name: Garraway
+    iso3c: LBR
+    shapeID: 62588387B63754413826366
+  GarwulaAdm2LBR:
+    admin_name: Garwula
+    iso3c: LBR
+    shapeID: 62588387B58887581868104
+  GbaoAdm2LBR:
+    admin_name: Gbao
+    iso3c: LBR
+    shapeID: 62588387B49218131763508
+  GbarmaAdm2LBR:
+    admin_name: Gbarma
+    iso3c: LBR
+    shapeID: 62588387B9251982733395
+  GbarpoluAdm1LBR:
+    admin_name: Gbarpolu
+    iso3c: LBR
+    shapeID: 1627179B68944354302681
+  GbeapoAdm2LBR:
+    admin_name: Gbeapo
+    iso3c: LBR
+    shapeID: 62588387B88320605520745
+  Gbehlay-GehAdm2LBR:
+    admin_name: Gbehlay-Geh
+    iso3c: LBR
+    shapeID: 62588387B4114270001160
+  Gbi&DoruAdm2LBR:
+    admin_name: Gbi&Doru
+    iso3c: LBR
+    shapeID: 62588387B4230579459991
+  Gboe-PloeAdm2LBR:
+    admin_name: Gboe-Ploe
+    iso3c: LBR
+    shapeID: 62588387B47381315935072
+  GborAdm2LBR:
+    admin_name: Gbor
+    iso3c: LBR
+    shapeID: 62588387B71745180805277
+  GeeAdm2LBR:
+    admin_name: Gee
+    iso3c: LBR
+    shapeID: 62588387B93003043713282
+  GibiAdm2LBR:
+    admin_name: Gibi
+    iso3c: LBR
+    shapeID: 62588387B31480436327445
+  GlaroAdm2LBR:
+    admin_name: Glaro
+    iso3c: LBR
+    shapeID: 62588387B27164468507335
+  Glio-TwarboAdm2LBR:
+    admin_name: Glio-Twarbo
+    iso3c: LBR
+    shapeID: 62588387B48887094579275
+  GolakonnehAdm2LBR:
+    admin_name: Golakonneh
+    iso3c: LBR
+    shapeID: 62588387B70898832426748
+  GounwolailaAdm2LBR:
+    admin_name: Gounwolaila
+    iso3c: LBR
+    shapeID: 62588387B55137864763124
+  GrandBassaAdm1LBR:
+    admin_name: GrandBassa
+    iso3c: LBR
+    shapeID: 1627179B88241484252267
+  GrandCapeMountAdm1LBR:
+    admin_name: GrandCapeMount
+    iso3c: LBR
+    shapeID: 1627179B74258959251724
+  GrandCessWedaboAdm2LBR:
+    admin_name: GrandCessWedabo
+    iso3c: LBR
+    shapeID: 62588387B28167569470031
+  GrandGedehAdm1LBR:
+    admin_name: GrandGedeh
+    iso3c: LBR
+    shapeID: 1627179B37296174914995
+  GrandKruAdm1LBR:
+    admin_name: GrandKru
+    iso3c: LBR
+    shapeID: 1627179B73218899246114
+  GreaterMonroviaAdm2LBR:
+    admin_name: GreaterMonrovia
+    iso3c: LBR
+    shapeID: 62588387B62702599090886
+  GreenvilleAdm2LBR:
+    admin_name: Greenville
+    iso3c: LBR
+    shapeID: 62588387B68895676065239
+  GwelekpokenAdm2LBR:
+    admin_name: Gwelekpoken
+    iso3c: LBR
+    shapeID: 62588387B88590052314441
+  HarperAdm2LBR:
+    admin_name: Harper
+    iso3c: LBR
+    shapeID: 62588387B65193305891299
+  JaedaeAdm2LBR:
+    admin_name: Jaedae
+    iso3c: LBR
+    shapeID: 62588387B27805419534049
+  JeadepoAdm2LBR:
+    admin_name: Jeadepo
+    iso3c: LBR
+    shapeID: 62588387B74933582499482
+  JoRiverAdm2LBR:
+    admin_name: JoRiver
+    iso3c: LBR
+    shapeID: 62588387B78382325144882
+  JorquellehAdm2LBR:
+    admin_name: Jorquelleh
+    iso3c: LBR
+    shapeID: 62588387B10332133917800
+  JuarzonAdm2LBR:
+    admin_name: Juarzon
+    iso3c: LBR
+    shapeID: 62588387B89490647958390
+  KakataAdm2LBR:
+    admin_name: Kakata
+    iso3c: LBR
+    shapeID: 62588387B63407074353739
+  KarforhAdm2LBR:
+    admin_name: Karforh
+    iso3c: LBR
+    shapeID: 62588387B52645090696794
+  Karluway#1Adm2LBR:
+    admin_name: Karluway#1
+    iso3c: LBR
+    shapeID: 62588387B21181915979204
+  Karluway#2Adm2LBR:
+    admin_name: Karluway#2
+    iso3c: LBR
+    shapeID: 62588387B3504103493017
+  KlayAdm2LBR:
+    admin_name: Klay
+    iso3c: LBR
+    shapeID: 62588387B44236806524966
+  KokoyahAdm2LBR:
+    admin_name: Kokoyah
+    iso3c: LBR
+    shapeID: 62588387B51807838510700
+  KolahunAdm2LBR:
+    admin_name: Kolahun
+    iso3c: LBR
+    shapeID: 62588387B25205457381815
+  KongbaAdm2LBR:
+    admin_name: Kongba
+    iso3c: LBR
+    shapeID: 62588387B18809430914172
+  KonoboAdm2LBR:
+    admin_name: Konobo
+    iso3c: LBR
+    shapeID: 62588387B20671280647544
+  KpaaiAdm2LBR:
+    admin_name: Kpaai
+    iso3c: LBR
+    shapeID: 62588387B85752437288892
+  KparbleeAdm2LBR:
+    admin_name: Kparblee
+    iso3c: LBR
+    shapeID: 62588387B31416079447902
+  KpayanAdm2LBR:
+    admin_name: Kpayan
+    iso3c: LBR
+    shapeID: 62588387B5166019461138
+  KpiAdm2LBR:
+    admin_name: Kpi
+    iso3c: LBR
+    shapeID: 62588387B64851496201268
+  KuluShawBoeAdm2LBR:
+    admin_name: KuluShawBoe
+    iso3c: LBR
+    shapeID: 62588387B37465422358714
+  Leewehpea-MahnAdm2LBR:
+    admin_name: Leewehpea-Mahn
+    iso3c: LBR
+    shapeID: 62588387B51124182778876
+  LofaAdm1LBR:
+    admin_name: Lofa
+    iso3c: LBR
+    shapeID: 1627179B56799731812869
+  LowerJlohAdm2LBR:
+    admin_name: LowerJloh
+    iso3c: LBR
+    shapeID: 62588387B79313023095428
+  MambahKabaAdm2LBR:
+    admin_name: MambahKaba
+    iso3c: LBR
+    shapeID: 62588387B59975354142856
+  MargibiAdm1LBR:
+    admin_name: Margibi
+    iso3c: LBR
+    shapeID: 1627179B42027709959095
+  MarylandAdm1LBR:
+    admin_name: Maryland
+    iso3c: LBR
+    shapeID: 1627179B42926997018975
+  Meinpea-MahnAdm2LBR:
+    admin_name: Meinpea-Mahn
+    iso3c: LBR
+    shapeID: 62588387B99870761463073
+  MontserradoAdm1LBR:
+    admin_name: Montserrado
+    iso3c: LBR
+    shapeID: 1627179B44982627598129
+  NaneeAdm2LBR:
+    admin_name: Nanee
+    iso3c: LBR
+    shapeID: 62588387B68127744098501
+  NeekreenAdm2LBR:
+    admin_name: Neekreen
+    iso3c: LBR
+    shapeID: 62588387B67611028502926
+  NimbaAdm1LBR:
+    admin_name: Nimba
+    iso3c: LBR
+    shapeID: 1627179B84371361469065
+  NorweinAdm2LBR:
+    admin_name: Norwein
+    iso3c: LBR
+    shapeID: 62588387B87205642323712
+  Nrokwia-WesldowAdm2LBR:
+    admin_name: Nrokwia-Wesldow
+    iso3c: LBR
+    shapeID: 62588387B98873845016712
+  NyenawlikenAdm2LBR:
+    admin_name: Nyenawliken
+    iso3c: LBR
+    shapeID: 62588387B90652682225930
+  NyeneboAdm2LBR:
+    admin_name: Nyenebo
+    iso3c: LBR
+    shapeID: 62588387B68728641169413
+  NyorkenAdm2LBR:
+    admin_name: Nyorken
+    iso3c: LBR
+    shapeID: 62588387B79277340487156
+  OwensgroveAdm2LBR:
+    admin_name: Owensgrove
+    iso3c: LBR
+    shapeID: 62588387B80284911734552
+  PantaAdm2LBR:
+    admin_name: Panta
+    iso3c: LBR
+    shapeID: 62588387B50517390877930
+  PlahnNyarnAdm2LBR:
+    admin_name: PlahnNyarn
+    iso3c: LBR
+    shapeID: 62588387B77612051850083
+  Pleebo/SodokenAdm2LBR:
+    admin_name: Pleebo/Sodoken
+    iso3c: LBR
+    shapeID: 62588387B59551016114373
+  PorkpaAdm2LBR:
+    admin_name: Porkpa
+    iso3c: LBR
+    shapeID: 62588387B76680524179510
+  PotupoAdm2LBR:
+    admin_name: Potupo
+    iso3c: LBR
+    shapeID: 62588387B58359330496040
+  PutuAdm2LBR:
+    admin_name: Putu
+    iso3c: LBR
+    shapeID: 62588387B18265546179194
+  PynesTownAdm2LBR:
+    admin_name: PynesTown
+    iso3c: LBR
+    shapeID: 62588387B44747363578735
+  QuarduBoundiAdm2LBR:
+    admin_name: QuarduBoundi
+    iso3c: LBR
+    shapeID: 62588387B13670701840793
+  RivercessAdm1LBR:
+    admin_name: Rivercess
+    iso3c: LBR
+    shapeID: 1627179B71095179953326
+  RiverGeeAdm1LBR:
+    admin_name: RiverGee
+    iso3c: LBR
+    shapeID: 1627179B79218106656993
+  SalalaAdm2LBR:
+    admin_name: Salala
+    iso3c: LBR
+    shapeID: 62588387B82841165757499
+  SalayeaAdm2LBR:
+    admin_name: Salayea
+    iso3c: LBR
+    shapeID: 62588387B29328841835384
+  SamGbalorAdm2LBR:
+    admin_name: SamGbalor
+    iso3c: LBR
+    shapeID: 62588387B40614732140726
+  SanniquellieMahnAdm2LBR:
+    admin_name: SanniquellieMahn
+    iso3c: LBR
+    shapeID: 62588387B26498986950089
+  SanoyeahAdm2LBR:
+    admin_name: Sanoyeah
+    iso3c: LBR
+    shapeID: 62588387B99544432637290
+  SanquinDist#1Adm2LBR:
+    admin_name: SanquinDist#1
+    iso3c: LBR
+    shapeID: 62588387B9002390323622
+  SanquinDist#2Adm2LBR:
+    admin_name: SanquinDist#2
+    iso3c: LBR
+    shapeID: 62588387B29712288551419
+  SanquinDist#3Adm2LBR:
+    admin_name: SanquinDist#3
+    iso3c: LBR
+    shapeID: 62588387B80156561530658
+  SarboAdm2LBR:
+    admin_name: Sarbo
+    iso3c: LBR
+    shapeID: 62588387B52564280766994
+  SeekonAdm2LBR:
+    admin_name: Seekon
+    iso3c: LBR
+    shapeID: 62588387B87591253137556
+  SenjehAdm2LBR:
+    admin_name: Senjeh
+    iso3c: LBR
+    shapeID: 62588387B88523823709040
+  SinoeAdm1LBR:
+    admin_name: Sinoe
+    iso3c: LBR
+    shapeID: 1627179B77023488056889
+  St.JohnRiverCityAdm2LBR:
+    admin_name: St.JohnRiverCity
+    iso3c: LBR
+    shapeID: 62588387B7916938294123
+  St.PaulRiverAdm2LBR:
+    admin_name: St.PaulRiver
+    iso3c: LBR
+    shapeID: 62588387B63326242332262
+  SuakokoAdm2LBR:
+    admin_name: Suakoko
+    iso3c: LBR
+    shapeID: 62588387B13478865264863
+  SuehnMeccaAdm2LBR:
+    admin_name: SuehnMecca
+    iso3c: LBR
+    shapeID: 62588387B34365926899718
+  TchienAdm2LBR:
+    admin_name: Tchien
+    iso3c: LBR
+    shapeID: 62588387B79134287051190
+  TeworAdm2LBR:
+    admin_name: Tewor
+    iso3c: LBR
+    shapeID: 62588387B21593373041420
+  TodeeAdm2LBR:
+    admin_name: Todee
+    iso3c: LBR
+    shapeID: 62588387B18343621802172
+  TrenboAdm2LBR:
+    admin_name: Trenbo
+    iso3c: LBR
+    shapeID: 62588387B53229219679368
+  TukpahbleeAdm2LBR:
+    admin_name: Tukpahblee
+    iso3c: LBR
+    shapeID: 62588387B55119976119769
+  TuoboAdm2LBR:
+    admin_name: Tuobo
+    iso3c: LBR
+    shapeID: 62588387B28588993408977
+  TwanRiverAdm2LBR:
+    admin_name: TwanRiver
+    iso3c: LBR
+    shapeID: 62588387B61657259363442
+  UpperJlohAdm2LBR:
+    admin_name: UpperJloh
+    iso3c: LBR
+    shapeID: 62588387B65725534392235
+  VahunAdm2LBR:
+    admin_name: Vahun
+    iso3c: LBR
+    shapeID: 62588387B17909685690178
+  VoinjamaAdm2LBR:
+    admin_name: Voinjama
+    iso3c: LBR
+    shapeID: 62588387B81783560061544
+  WedjahAdm2LBR:
+    admin_name: Wedjah
+    iso3c: LBR
+    shapeID: 62588387B38040387852125
+  Wee-Gbehyi-MahnAdm2LBR:
+    admin_name: Wee-Gbehyi-Mahn
+    iso3c: LBR
+    shapeID: 62588387B71258849496296
+  WhojahAdm2LBR:
+    admin_name: Whojah
+    iso3c: LBR
+    shapeID: 62588387B36010153941862
+  WlogbaAdm2LBR:
+    admin_name: Wlogba
+    iso3c: LBR
+    shapeID: 62588387B63880548555579
+  YarmeinAdm2LBR:
+    admin_name: Yarmein
+    iso3c: LBR
+    shapeID: 62588387B94510923567486
+  YarpeaMahnAdm2LBR:
+    admin_name: YarpeaMahn
+    iso3c: LBR
+    shapeID: 62588387B64952289701703
+  YarweinMehnsonnohAdm2LBR:
+    admin_name: YarweinMehnsonnoh
+    iso3c: LBR
+    shapeID: 62588387B90260404265556
+  YeallequellehAdm2LBR:
+    admin_name: Yeallequelleh
+    iso3c: LBR
+    shapeID: 62588387B10021882083615
+  ZarflahnAdm2LBR:
+    admin_name: Zarflahn
+    iso3c: LBR
+    shapeID: 62588387B27438362743371
+  Zoe-GbaoAdm2LBR:
+    admin_name: Zoe-Gbao
+    iso3c: LBR
+    shapeID: 62588387B27641742881305
+  ZorzorAdm2LBR:
+    admin_name: Zorzor
+    iso3c: LBR
+    shapeID: 62588387B39118473724395
+  ZotaAdm2LBR:
+    admin_name: Zota
+    iso3c: LBR
+    shapeID: 62588387B17056544161092

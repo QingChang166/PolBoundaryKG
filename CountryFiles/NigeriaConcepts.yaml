@@ -1,38 +1,3225 @@
 concepts:
-    - Jigawa
-    - Plateau
-    - Edo
-    - Kebbi
-    - Anambra
-    - Kano
-    - Nasarawa
-    - Yobe
-    - Abia
-    - Ekiti
-    - Osun
-    - Bauchi
-    - Niger
-    - Kaduna
-    - Enugu
-    - Taraba
-    - Ebonyi
-    - Imo
-    - Gombe
-    - Adamawa
-    - CrossRiver
-    - AbujaFederalCapitalTerritory
-    - Ogun
-    - Oyo
-    - Sokoto
-    - Zamfara
-    - Lagos
-    - AkwaIbom
-    - Bayelsa
-    - Ondo
-    - Delta
-    - Rivers
-    - Kwara
-    - Kogi
-    - Benue
-    - Borno
-    - Katsina
+  AbadamAdm2NGA:
+    admin_name: Abadam
+    iso3c: NGA
+    shapeID: 59680162B89355923746110
+  AbajiAdm2NGA:
+    admin_name: Abaji
+    iso3c: NGA
+    shapeID: 59680162B29524904273451
+  AbakAdm2NGA:
+    admin_name: Abak
+    iso3c: NGA
+    shapeID: 59680162B70631413452384
+  AbakalikiAdm2NGA:
+    admin_name: Abakaliki
+    iso3c: NGA
+    shapeID: 59680162B3222658090770
+  AbaNorthAdm2NGA:
+    admin_name: AbaNorth
+    iso3c: NGA
+    shapeID: 59680162B53329994117155
+  AbaSouthAdm2NGA:
+    admin_name: AbaSouth
+    iso3c: NGA
+    shapeID: 59680162B9128777704300
+  AbeokutaNorthAdm2NGA:
+    admin_name: AbeokutaNorth
+    iso3c: NGA
+    shapeID: 59680162B29721937623471
+  AbeokutaSouthAdm2NGA:
+    admin_name: AbeokutaSouth
+    iso3c: NGA
+    shapeID: 59680162B79825109156569
+  AbiaAdm1NGA:
+    admin_name: Abia
+    iso3c: NGA
+    shapeID: 27671186B83117616801018
+  AbiAdm2NGA:
+    admin_name: Abi
+    iso3c: NGA
+    shapeID: 59680162B64112154685735
+  Aboh-MbaiseAdm2NGA:
+    admin_name: Aboh-Mbaise
+    iso3c: NGA
+    shapeID: 59680162B96723309662383
+  Abua/OdualAdm2NGA:
+    admin_name: Abua/Odual
+    iso3c: NGA
+    shapeID: 59680162B70529740290920
+  AbujaFederalCapitalTerritoryAdm1NGA:
+    admin_name: AbujaFederalCapitalTerritory
+    iso3c: NGA
+    shapeID: 27671186B76269877687363
+  AdamawaAdm1NGA:
+    admin_name: Adamawa
+    iso3c: NGA
+    shapeID: 27671186B49737451005073
+  AdaviAdm2NGA:
+    admin_name: Adavi
+    iso3c: NGA
+    shapeID: 59680162B7261312330016
+  Ado-EkitiAdm2NGA:
+    admin_name: Ado-Ekiti
+    iso3c: NGA
+    shapeID: 59680162B25214275797379
+  AdoAdm2NGA:
+    admin_name: Ado
+    iso3c: NGA
+    shapeID: 59680162B34366982763718
+  AdoOdo/OtaAdm2NGA:
+    admin_name: AdoOdo/Ota
+    iso3c: NGA
+    shapeID: 59680162B74094197759690
+  AfijioAdm2NGA:
+    admin_name: Afijio
+    iso3c: NGA
+    shapeID: 59680162B11241948791785
+  AfikpoNorthAdm2NGA:
+    admin_name: AfikpoNorth
+    iso3c: NGA
+    shapeID: 59680162B68024378624756
+  AfikpoSouthAdm2NGA:
+    admin_name: AfikpoSouth
+    iso3c: NGA
+    shapeID: 59680162B28595276838631
+  AgaieAdm2NGA:
+    admin_name: Agaie
+    iso3c: NGA
+    shapeID: 59680162B6425058524044
+  AgatuAdm2NGA:
+    admin_name: Agatu
+    iso3c: NGA
+    shapeID: 59680162B61995403132351
+  AgegeAdm2NGA:
+    admin_name: Agege
+    iso3c: NGA
+    shapeID: 59680162B37327775180775
+  AguataAdm2NGA:
+    admin_name: Aguata
+    iso3c: NGA
+    shapeID: 59680162B7486965108625
+  AgwaraAdm2NGA:
+    admin_name: Agwara
+    iso3c: NGA
+    shapeID: 59680162B64027612781435
+  Ahiazu-MbaiseAdm2NGA:
+    admin_name: Ahiazu-Mbaise
+    iso3c: NGA
+    shapeID: 59680162B56887411771488
+  AhoadaEastAdm2NGA:
+    admin_name: AhoadaEast
+    iso3c: NGA
+    shapeID: 59680162B72068294191364
+  AhoadaWestAdm2NGA:
+    admin_name: AhoadaWest
+    iso3c: NGA
+    shapeID: 59680162B31457176745984
+  AjaokutaAdm2NGA:
+    admin_name: Ajaokuta
+    iso3c: NGA
+    shapeID: 59680162B23949108035203
+  Ajeromi/IfelodunAdm2NGA:
+    admin_name: Ajeromi/Ifelodun
+    iso3c: NGA
+    shapeID: 59680162B51331479839153
+  AjingiAdm2NGA:
+    admin_name: Ajingi
+    iso3c: NGA
+    shapeID: 59680162B27639129809368
+  AkamkpaAdm2NGA:
+    admin_name: Akamkpa
+    iso3c: NGA
+    shapeID: 59680162B55799213409467
+  AkinyeleAdm2NGA:
+    admin_name: Akinyele
+    iso3c: NGA
+    shapeID: 59680162B96934818178887
+  AkkoAdm2NGA:
+    admin_name: Akko
+    iso3c: NGA
+    shapeID: 59680162B95139171035149
+  Akoko-EdoAdm2NGA:
+    admin_name: Akoko-Edo
+    iso3c: NGA
+    shapeID: 59680162B54275853767873
+  AkokoNorthEastAdm2NGA:
+    admin_name: AkokoNorthEast
+    iso3c: NGA
+    shapeID: 59680162B30693560799830
+  AkokoNorthWestAdm2NGA:
+    admin_name: AkokoNorthWest
+    iso3c: NGA
+    shapeID: 59680162B56866992006033
+  AkokoSouthEastAdm2NGA:
+    admin_name: AkokoSouthEast
+    iso3c: NGA
+    shapeID: 59680162B2512996274201
+  AkokoSouthWestAdm2NGA:
+    admin_name: AkokoSouthWest
+    iso3c: NGA
+    shapeID: 59680162B66461609617276
+  AkpabuyoAdm2NGA:
+    admin_name: Akpabuyo
+    iso3c: NGA
+    shapeID: 59680162B58958286313368
+  AkukuToruAdm2NGA:
+    admin_name: AkukuToru
+    iso3c: NGA
+    shapeID: 59680162B59329233871626
+  AkureNorthAdm2NGA:
+    admin_name: AkureNorth
+    iso3c: NGA
+    shapeID: 59680162B82334724733824
+  AkureSouthAdm2NGA:
+    admin_name: AkureSouth
+    iso3c: NGA
+    shapeID: 59680162B21108805782195
+  AkwaIbomAdm1NGA:
+    admin_name: AkwaIbom
+    iso3c: NGA
+    shapeID: 27671186B25346211366833
+  AkwangaAdm2NGA:
+    admin_name: Akwanga
+    iso3c: NGA
+    shapeID: 59680162B44141715713069
+  AlbasuAdm2NGA:
+    admin_name: Albasu
+    iso3c: NGA
+    shapeID: 59680162B46612932493253
+  AleiroAdm2NGA:
+    admin_name: Aleiro
+    iso3c: NGA
+    shapeID: 59680162B45442733436767
+  AlimoshoAdm2NGA:
+    admin_name: Alimosho
+    iso3c: NGA
+    shapeID: 59680162B54313559089261
+  AlkaleriAdm2NGA:
+    admin_name: Alkaleri
+    iso3c: NGA
+    shapeID: 59680162B61092998371306
+  AmuwoOdofinAdm2NGA:
+    admin_name: AmuwoOdofin
+    iso3c: NGA
+    shapeID: 59680162B96890005302109
+  AnambraAdm1NGA:
+    admin_name: Anambra
+    iso3c: NGA
+    shapeID: 27671186B76680224160916
+  AnambraEastAdm2NGA:
+    admin_name: AnambraEast
+    iso3c: NGA
+    shapeID: 59680162B18196869714953
+  AnambraWestAdm2NGA:
+    admin_name: AnambraWest
+    iso3c: NGA
+    shapeID: 59680162B97377368460903
+  AnaochaAdm2NGA:
+    admin_name: Anaocha
+    iso3c: NGA
+    shapeID: 59680162B92640548002056
+  AndoniAdm2NGA:
+    admin_name: Andoni
+    iso3c: NGA
+    shapeID: 59680162B90577513466378
+  AninriAdm2NGA:
+    admin_name: Aninri
+    iso3c: NGA
+    shapeID: 59680162B49286325204061
+  AniochaNorthAdm2NGA:
+    admin_name: AniochaNorth
+    iso3c: NGA
+    shapeID: 59680162B16701148271715
+  AniochaSouthAdm2NGA:
+    admin_name: AniochaSouth
+    iso3c: NGA
+    shapeID: 59680162B29589714384573
+  AnkaAdm2NGA:
+    admin_name: Anka
+    iso3c: NGA
+    shapeID: 59680162B63960569375521
+  AnkpaAdm2NGA:
+    admin_name: Ankpa
+    iso3c: NGA
+    shapeID: 59680162B11863934245151
+  ApaAdm2NGA:
+    admin_name: Apa
+    iso3c: NGA
+    shapeID: 59680162B6932812925911
+  ApapaAdm2NGA:
+    admin_name: Apapa
+    iso3c: NGA
+    shapeID: 59680162B5781056238943
+  Ardo-KolaAdm2NGA:
+    admin_name: Ardo-Kola
+    iso3c: NGA
+    shapeID: 59680162B5954014037791
+  ArewaDandiAdm2NGA:
+    admin_name: ArewaDandi
+    iso3c: NGA
+    shapeID: 59680162B65662189989638
+  ArgunguAdm2NGA:
+    admin_name: Argungu
+    iso3c: NGA
+    shapeID: 59680162B80605638185127
+  ArochukwuAdm2NGA:
+    admin_name: Arochukwu
+    iso3c: NGA
+    shapeID: 59680162B7938799528038
+  AsaAdm2NGA:
+    admin_name: Asa
+    iso3c: NGA
+    shapeID: 59680162B59525703418999
+  Asari-ToruAdm2NGA:
+    admin_name: Asari-Toru
+    iso3c: NGA
+    shapeID: 59680162B173222965225
+  AskiraUbaAdm2NGA:
+    admin_name: AskiraUba
+    iso3c: NGA
+    shapeID: 59680162B18672795330723
+  AtakunmosaEastAdm2NGA:
+    admin_name: AtakunmosaEast
+    iso3c: NGA
+    shapeID: 59680162B38390932765307
+  AtakunmosaWestAdm2NGA:
+    admin_name: AtakunmosaWest
+    iso3c: NGA
+    shapeID: 59680162B20429116941940
+  AtibaAdm2NGA:
+    admin_name: Atiba
+    iso3c: NGA
+    shapeID: 59680162B537197556674
+  AtisboAdm2NGA:
+    admin_name: Atisbo
+    iso3c: NGA
+    shapeID: 59680162B75725109309044
+  AugieAdm2NGA:
+    admin_name: Augie
+    iso3c: NGA
+    shapeID: 59680162B78681214723365
+  AuyoAdm2NGA:
+    admin_name: Auyo
+    iso3c: NGA
+    shapeID: 59680162B19523503473687
+  AweAdm2NGA:
+    admin_name: Awe
+    iso3c: NGA
+    shapeID: 59680162B80791368745463
+  AwguAdm2NGA:
+    admin_name: Awgu
+    iso3c: NGA
+    shapeID: 59680162B11400589438827
+  AwkaNorthAdm2NGA:
+    admin_name: AwkaNorth
+    iso3c: NGA
+    shapeID: 59680162B18488232241930
+  AwkaSouthAdm2NGA:
+    admin_name: AwkaSouth
+    iso3c: NGA
+    shapeID: 59680162B42338651294858
+  AyamelumAdm2NGA:
+    admin_name: Ayamelum
+    iso3c: NGA
+    shapeID: 59680162B31003411858547
+  AyedadeAdm2NGA:
+    admin_name: Ayedade
+    iso3c: NGA
+    shapeID: 59680162B94327255764727
+  AyedireAdm2NGA:
+    admin_name: Ayedire
+    iso3c: NGA
+    shapeID: 59680162B61434523060701
+  BaburaAdm2NGA:
+    admin_name: Babura
+    iso3c: NGA
+    shapeID: 59680162B12953009585437
+  BadagryAdm2NGA:
+    admin_name: Badagry
+    iso3c: NGA
+    shapeID: 59680162B33139344805421
+  BadeAdm2NGA:
+    admin_name: Bade
+    iso3c: NGA
+    shapeID: 59680162B86291828303656
+  BaguduAdm2NGA:
+    admin_name: Bagudu
+    iso3c: NGA
+    shapeID: 59680162B25890229119009
+  BagwaiAdm2NGA:
+    admin_name: Bagwai
+    iso3c: NGA
+    shapeID: 59680162B58679994750141
+  BakassiAdm2NGA:
+    admin_name: Bakassi
+    iso3c: NGA
+    shapeID: 59680162B77398299052023
+  BakoriAdm2NGA:
+    admin_name: Bakori
+    iso3c: NGA
+    shapeID: 59680162B75348496545912
+  BakuraAdm2NGA:
+    admin_name: Bakura
+    iso3c: NGA
+    shapeID: 59680162B24502748844916
+  BalangaAdm2NGA:
+    admin_name: Balanga
+    iso3c: NGA
+    shapeID: 59680162B30817931145163
+  BaliAdm2NGA:
+    admin_name: Bali
+    iso3c: NGA
+    shapeID: 59680162B98222207712503
+  BamaAdm2NGA:
+    admin_name: Bama
+    iso3c: NGA
+    shapeID: 59680162B41357004175190
+  BarkinLadiAdm2NGA:
+    admin_name: BarkinLadi
+    iso3c: NGA
+    shapeID: 59680162B6096372749080
+  BarutenAdm2NGA:
+    admin_name: Baruten
+    iso3c: NGA
+    shapeID: 59680162B46396512293260
+  BassaAdm2NGA:
+    admin_name: Bassa
+    iso3c: NGA
+    shapeID: 59680162B66680936539808
+  BatagarawaAdm2NGA:
+    admin_name: Batagarawa
+    iso3c: NGA
+    shapeID: 59680162B37340403082689
+  BatsariAdm2NGA:
+    admin_name: Batsari
+    iso3c: NGA
+    shapeID: 59680162B85415328791745
+  BauchiAdm1NGA:
+    admin_name: Bauchi
+    iso3c: NGA
+    shapeID: 27671186B7584771598694
+  BauchiAdm2NGA:
+    admin_name: Bauchi
+    iso3c: NGA
+    shapeID: 59680162B24167581171767
+  BaureAdm2NGA:
+    admin_name: Baure
+    iso3c: NGA
+    shapeID: 59680162B19484855656708
+  BayelsaAdm1NGA:
+    admin_name: Bayelsa
+    iso3c: NGA
+    shapeID: 27671186B47021609715037
+  BayoAdm2NGA:
+    admin_name: Bayo
+    iso3c: NGA
+    shapeID: 59680162B41297071563530
+  BebejiAdm2NGA:
+    admin_name: Bebeji
+    iso3c: NGA
+    shapeID: 59680162B69796164397605
+  BekwarraAdm2NGA:
+    admin_name: Bekwarra
+    iso3c: NGA
+    shapeID: 59680162B86980115162892
+  BendeAdm2NGA:
+    admin_name: Bende
+    iso3c: NGA
+    shapeID: 59680162B50576086706147
+  BenueAdm1NGA:
+    admin_name: Benue
+    iso3c: NGA
+    shapeID: 27671186B36221103315467
+  BiaseAdm2NGA:
+    admin_name: Biase
+    iso3c: NGA
+    shapeID: 59680162B11436342937739
+  BichiAdm2NGA:
+    admin_name: Bichi
+    iso3c: NGA
+    shapeID: 59680162B73114171000075
+  BidaAdm2NGA:
+    admin_name: Bida
+    iso3c: NGA
+    shapeID: 59680162B96484505623852
+  BilliriAdm2NGA:
+    admin_name: Billiri
+    iso3c: NGA
+    shapeID: 59680162B8070211954831
+  BindawaAdm2NGA:
+    admin_name: Bindawa
+    iso3c: NGA
+    shapeID: 59680162B3936014826761
+  BinjiAdm2NGA:
+    admin_name: Binji
+    iso3c: NGA
+    shapeID: 59680162B68799842423101
+  BiriniwaAdm2NGA:
+    admin_name: Biriniwa
+    iso3c: NGA
+    shapeID: 59680162B74336355497846
+  BirninGwariAdm2NGA:
+    admin_name: BirninGwari
+    iso3c: NGA
+    shapeID: 59680162B79463473975333
+  BirninKebbiAdm2NGA:
+    admin_name: BirninKebbi
+    iso3c: NGA
+    shapeID: 59680162B77130024076735
+  BirninKuduAdm2NGA:
+    admin_name: BirninKudu
+    iso3c: NGA
+    shapeID: 59680162B7272699675434
+  BirninMagaji-KiyawAdm2NGA:
+    admin_name: BirninMagaji-Kiyaw
+    iso3c: NGA
+    shapeID: 59680162B42162352171568
+  BiuAdm2NGA:
+    admin_name: Biu
+    iso3c: NGA
+    shapeID: 59680162B23952502219543
+  BodingaAdm2NGA:
+    admin_name: Bodinga
+    iso3c: NGA
+    shapeID: 59680162B56562801938729
+  BogoroAdm2NGA:
+    admin_name: Bogoro
+    iso3c: NGA
+    shapeID: 59680162B11671066128606
+  BokiAdm2NGA:
+    admin_name: Boki
+    iso3c: NGA
+    shapeID: 59680162B37931278966472
+  BokkosAdm2NGA:
+    admin_name: Bokkos
+    iso3c: NGA
+    shapeID: 59680162B1032840889978
+  BoluwaduroAdm2NGA:
+    admin_name: Boluwaduro
+    iso3c: NGA
+    shapeID: 59680162B7029176012538
+  BomadiAdm2NGA:
+    admin_name: Bomadi
+    iso3c: NGA
+    shapeID: 59680162B43870676483034
+  BonnyAdm2NGA:
+    admin_name: Bonny
+    iso3c: NGA
+    shapeID: 59680162B83694422254145
+  BorguAdm2NGA:
+    admin_name: Borgu
+    iso3c: NGA
+    shapeID: 59680162B99837769325291
+  BoripeAdm2NGA:
+    admin_name: Boripe
+    iso3c: NGA
+    shapeID: 59680162B47985033068277
+  BornoAdm1NGA:
+    admin_name: Borno
+    iso3c: NGA
+    shapeID: 27671186B753479316714
+  BossoAdm2NGA:
+    admin_name: Bosso
+    iso3c: NGA
+    shapeID: 59680162B93998087230069
+  BrassAdm2NGA:
+    admin_name: Brass
+    iso3c: NGA
+    shapeID: 59680162B87797979497124
+  BujiAdm2NGA:
+    admin_name: Buji
+    iso3c: NGA
+    shapeID: 59680162B86414227144381
+  BukkuyumAdm2NGA:
+    admin_name: Bukkuyum
+    iso3c: NGA
+    shapeID: 59680162B43558777101724
+  BunguduAdm2NGA:
+    admin_name: Bungudu
+    iso3c: NGA
+    shapeID: 59680162B44112457363104
+  BunkureAdm2NGA:
+    admin_name: Bunkure
+    iso3c: NGA
+    shapeID: 59680162B46455483877403
+  BunzaAdm2NGA:
+    admin_name: Bunza
+    iso3c: NGA
+    shapeID: 59680162B46976557303871
+  BursariAdm2NGA:
+    admin_name: Bursari
+    iso3c: NGA
+    shapeID: 59680162B10627743467335
+  BurukuAdm2NGA:
+    admin_name: Buruku
+    iso3c: NGA
+    shapeID: 59680162B99039921741080
+  BurutuAdm2NGA:
+    admin_name: Burutu
+    iso3c: NGA
+    shapeID: 59680162B9558481059390
+  BwariAdm2NGA:
+    admin_name: Bwari
+    iso3c: NGA
+    shapeID: 59680162B85175001165051
+  CalabarMunicipalAdm2NGA:
+    admin_name: CalabarMunicipal
+    iso3c: NGA
+    shapeID: 59680162B59054541310664
+  CalabarSouthAdm2NGA:
+    admin_name: CalabarSouth
+    iso3c: NGA
+    shapeID: 59680162B50827827535662
+  ChanchagaAdm2NGA:
+    admin_name: Chanchaga
+    iso3c: NGA
+    shapeID: 59680162B49614598703533
+  CharanchiAdm2NGA:
+    admin_name: Charanchi
+    iso3c: NGA
+    shapeID: 59680162B50452180674611
+  ChibokAdm2NGA:
+    admin_name: Chibok
+    iso3c: NGA
+    shapeID: 59680162B32856652540007
+  ChikunAdm2NGA:
+    admin_name: Chikun
+    iso3c: NGA
+    shapeID: 59680162B24550873512487
+  CrossRiverAdm1NGA:
+    admin_name: CrossRiver
+    iso3c: NGA
+    shapeID: 27671186B81745654473385
+  DalaAdm2NGA:
+    admin_name: Dala
+    iso3c: NGA
+    shapeID: 59680162B56865757670534
+  DamaturuAdm2NGA:
+    admin_name: Damaturu
+    iso3c: NGA
+    shapeID: 59680162B76704120420691
+  DambamAdm2NGA:
+    admin_name: Dambam
+    iso3c: NGA
+    shapeID: 59680162B91029831757376
+  DambattaAdm2NGA:
+    admin_name: Dambatta
+    iso3c: NGA
+    shapeID: 59680162B98747212970025
+  DamboaAdm2NGA:
+    admin_name: Damboa
+    iso3c: NGA
+    shapeID: 59680162B27422550871896
+  DandiAdm2NGA:
+    admin_name: Dandi
+    iso3c: NGA
+    shapeID: 59680162B35628626888177
+  DandumeAdm2NGA:
+    admin_name: Dandume
+    iso3c: NGA
+    shapeID: 59680162B23965546094498
+  DangeShuniAdm2NGA:
+    admin_name: DangeShuni
+    iso3c: NGA
+    shapeID: 59680162B96995039930644
+  DanjaAdm2NGA:
+    admin_name: Danja
+    iso3c: NGA
+    shapeID: 59680162B42687104490462
+  DanMusaAdm2NGA:
+    admin_name: DanMusa
+    iso3c: NGA
+    shapeID: 59680162B93375949891062
+  DarazoAdm2NGA:
+    admin_name: Darazo
+    iso3c: NGA
+    shapeID: 59680162B8258215962885
+  DassAdm2NGA:
+    admin_name: Dass
+    iso3c: NGA
+    shapeID: 59680162B55124041708975
+  DauraAdm2NGA:
+    admin_name: Daura
+    iso3c: NGA
+    shapeID: 59680162B94433697734962
+  DawakinKuduAdm2NGA:
+    admin_name: DawakinKudu
+    iso3c: NGA
+    shapeID: 59680162B24430291126178
+  DawakinTofaAdm2NGA:
+    admin_name: DawakinTofa
+    iso3c: NGA
+    shapeID: 59680162B97642938083661
+  DegemaAdm2NGA:
+    admin_name: Degema
+    iso3c: NGA
+    shapeID: 59680162B23543460253472
+  DekinaAdm2NGA:
+    admin_name: Dekina
+    iso3c: NGA
+    shapeID: 59680162B92999716235821
+  DeltaAdm1NGA:
+    admin_name: Delta
+    iso3c: NGA
+    shapeID: 27671186B69086015704361
+  DemsaAdm2NGA:
+    admin_name: Demsa
+    iso3c: NGA
+    shapeID: 59680162B45761287530482
+  DikwaAdm2NGA:
+    admin_name: Dikwa
+    iso3c: NGA
+    shapeID: 59680162B86155479852967
+  DoguwaAdm2NGA:
+    admin_name: Doguwa
+    iso3c: NGA
+    shapeID: 59680162B97563361057366
+  DomaAdm2NGA:
+    admin_name: Doma
+    iso3c: NGA
+    shapeID: 59680162B87556890682936
+  DongaAdm2NGA:
+    admin_name: Donga
+    iso3c: NGA
+    shapeID: 59680162B72688070781247
+  DukkuAdm2NGA:
+    admin_name: Dukku
+    iso3c: NGA
+    shapeID: 59680162B57621312639176
+  DunukofiaAdm2NGA:
+    admin_name: Dunukofia
+    iso3c: NGA
+    shapeID: 59680162B76413580563978
+  DutseAdm2NGA:
+    admin_name: Dutse
+    iso3c: NGA
+    shapeID: 59680162B76882427234764
+  DutsiAdm2NGA:
+    admin_name: Dutsi
+    iso3c: NGA
+    shapeID: 59680162B60349541451220
+  DutsinMaAdm2NGA:
+    admin_name: DutsinMa
+    iso3c: NGA
+    shapeID: 59680162B60516342630503
+  EasternOboloAdm2NGA:
+    admin_name: EasternObolo
+    iso3c: NGA
+    shapeID: 59680162B7891718144591
+  EbonyiAdm1NGA:
+    admin_name: Ebonyi
+    iso3c: NGA
+    shapeID: 27671186B90886723034258
+  EbonyiAdm2NGA:
+    admin_name: Ebonyi
+    iso3c: NGA
+    shapeID: 59680162B19549725656045
+  EdatiAdm2NGA:
+    admin_name: Edati
+    iso3c: NGA
+    shapeID: 59680162B83278495681126
+  EdeNorthAdm2NGA:
+    admin_name: EdeNorth
+    iso3c: NGA
+    shapeID: 59680162B47259322211203
+  EdeSouthAdm2NGA:
+    admin_name: EdeSouth
+    iso3c: NGA
+    shapeID: 59680162B73824932270854
+  EdoAdm1NGA:
+    admin_name: Edo
+    iso3c: NGA
+    shapeID: 27671186B63712480376187
+  EduAdm2NGA:
+    admin_name: Edu
+    iso3c: NGA
+    shapeID: 59680162B33186191897384
+  EfonAdm2NGA:
+    admin_name: Efon
+    iso3c: NGA
+    shapeID: 59680162B55690925628014
+  EgbedaAdm2NGA:
+    admin_name: Egbeda
+    iso3c: NGA
+    shapeID: 59680162B66692684641238
+  EgbedoreAdm2NGA:
+    admin_name: Egbedore
+    iso3c: NGA
+    shapeID: 59680162B61270202433812
+  EgorAdm2NGA:
+    admin_name: Egor
+    iso3c: NGA
+    shapeID: 59680162B99535636657731
+  Ehime-MbanoAdm2NGA:
+    admin_name: Ehime-Mbano
+    iso3c: NGA
+    shapeID: 59680162B95469939765095
+  EjigboAdm2NGA:
+    admin_name: Ejigbo
+    iso3c: NGA
+    shapeID: 59680162B4821538642969
+  EkeremorAdm2NGA:
+    admin_name: Ekeremor
+    iso3c: NGA
+    shapeID: 59680162B22876202690460
+  EketAdm2NGA:
+    admin_name: Eket
+    iso3c: NGA
+    shapeID: 59680162B97039944509950
+  EkitiAdm1NGA:
+    admin_name: Ekiti
+    iso3c: NGA
+    shapeID: 27671186B91150779192485
+  EkitiAdm2NGA:
+    admin_name: Ekiti
+    iso3c: NGA
+    shapeID: 59680162B94527775336179
+  EkitiEastAdm2NGA:
+    admin_name: EkitiEast
+    iso3c: NGA
+    shapeID: 59680162B97170897047692
+  EkitiSouth-WestAdm2NGA:
+    admin_name: EkitiSouth-West
+    iso3c: NGA
+    shapeID: 59680162B46774046834533
+  EkitiWestAdm2NGA:
+    admin_name: EkitiWest
+    iso3c: NGA
+    shapeID: 59680162B72061925749770
+  EkwusigoAdm2NGA:
+    admin_name: Ekwusigo
+    iso3c: NGA
+    shapeID: 59680162B99060674505372
+  ElemeAdm2NGA:
+    admin_name: Eleme
+    iso3c: NGA
+    shapeID: 59680162B65190975434062
+  EmuohaAdm2NGA:
+    admin_name: Emuoha
+    iso3c: NGA
+    shapeID: 59680162B36304665045822
+  EmureAdm2NGA:
+    admin_name: Emure
+    iso3c: NGA
+    shapeID: 59680162B54887547034560
+  EnuguAdm1NGA:
+    admin_name: Enugu
+    iso3c: NGA
+    shapeID: 27671186B90910891533368
+  EnuguEastAdm2NGA:
+    admin_name: EnuguEast
+    iso3c: NGA
+    shapeID: 59680162B73078519517404
+  EnuguNorthAdm2NGA:
+    admin_name: EnuguNorth
+    iso3c: NGA
+    shapeID: 59680162B72641942292242
+  EnuguSouthAdm2NGA:
+    admin_name: EnuguSouth
+    iso3c: NGA
+    shapeID: 59680162B14374608149112
+  EpeAdm2NGA:
+    admin_name: Epe
+    iso3c: NGA
+    shapeID: 59680162B97817900806996
+  EsanCentralAdm2NGA:
+    admin_name: EsanCentral
+    iso3c: NGA
+    shapeID: 59680162B14396821090751
+  EsanNorth-EastAdm2NGA:
+    admin_name: EsanNorth-East
+    iso3c: NGA
+    shapeID: 59680162B23598949397905
+  EsanSouth-EastAdm2NGA:
+    admin_name: EsanSouth-East
+    iso3c: NGA
+    shapeID: 59680162B32427656470349
+  EsanWestAdm2NGA:
+    admin_name: EsanWest
+    iso3c: NGA
+    shapeID: 59680162B89634889188856
+  EseOdoAdm2NGA:
+    admin_name: EseOdo
+    iso3c: NGA
+    shapeID: 59680162B74748273614391
+  EsitEketAdm2NGA:
+    admin_name: EsitEket
+    iso3c: NGA
+    shapeID: 59680162B89342314449475
+  EssienUdimAdm2NGA:
+    admin_name: EssienUdim
+    iso3c: NGA
+    shapeID: 59680162B25032665557199
+  EtcheAdm2NGA:
+    admin_name: Etche
+    iso3c: NGA
+    shapeID: 59680162B93423525469915
+  EthiopeEastAdm2NGA:
+    admin_name: EthiopeEast
+    iso3c: NGA
+    shapeID: 59680162B29085579275088
+  EthiopeWestAdm2NGA:
+    admin_name: EthiopeWest
+    iso3c: NGA
+    shapeID: 59680162B36658267128816
+  EtimEkpoAdm2NGA:
+    admin_name: EtimEkpo
+    iso3c: NGA
+    shapeID: 59680162B44584437839531
+  EtinanAdm2NGA:
+    admin_name: Etinan
+    iso3c: NGA
+    shapeID: 59680162B79884468001879
+  EtiOsaAdm2NGA:
+    admin_name: EtiOsa
+    iso3c: NGA
+    shapeID: 59680162B38204256572023
+  EtsakoCentralAdm2NGA:
+    admin_name: EtsakoCentral
+    iso3c: NGA
+    shapeID: 59680162B80670265641804
+  EtsakoEastAdm2NGA:
+    admin_name: EtsakoEast
+    iso3c: NGA
+    shapeID: 59680162B2904770846082
+  EtsakoWestAdm2NGA:
+    admin_name: EtsakoWest
+    iso3c: NGA
+    shapeID: 59680162B35912483761792
+  EtungAdm2NGA:
+    admin_name: Etung
+    iso3c: NGA
+    shapeID: 59680162B25131261753844
+  EwekoroAdm2NGA:
+    admin_name: Ewekoro
+    iso3c: NGA
+    shapeID: 59680162B67809263123643
+  EzeaguAdm2NGA:
+    admin_name: Ezeagu
+    iso3c: NGA
+    shapeID: 59680162B4656907626813
+  EzinihitteAdm2NGA:
+    admin_name: Ezinihitte
+    iso3c: NGA
+    shapeID: 59680162B50771081897552
+  EzzaNorthAdm2NGA:
+    admin_name: EzzaNorth
+    iso3c: NGA
+    shapeID: 59680162B95600296408215
+  EzzaSouthAdm2NGA:
+    admin_name: EzzaSouth
+    iso3c: NGA
+    shapeID: 59680162B18578493945657
+  FaggeAdm2NGA:
+    admin_name: Fagge
+    iso3c: NGA
+    shapeID: 59680162B24316958669382
+  FakaiAdm2NGA:
+    admin_name: Fakai
+    iso3c: NGA
+    shapeID: 59680162B55504856664882
+  FaskariAdm2NGA:
+    admin_name: Faskari
+    iso3c: NGA
+    shapeID: 59680162B51925471610757
+  FikaAdm2NGA:
+    admin_name: Fika
+    iso3c: NGA
+    shapeID: 59680162B28106531466158
+  FuforeAdm2NGA:
+    admin_name: Fufore
+    iso3c: NGA
+    shapeID: 59680162B6607126567740
+  FunakayeAdm2NGA:
+    admin_name: Funakaye
+    iso3c: NGA
+    shapeID: 59680162B83394095212312
+  FuneAdm2NGA:
+    admin_name: Fune
+    iso3c: NGA
+    shapeID: 59680162B1470225488806
+  FuntuaAdm2NGA:
+    admin_name: Funtua
+    iso3c: NGA
+    shapeID: 59680162B95285688800937
+  GabasawaAdm2NGA:
+    admin_name: Gabasawa
+    iso3c: NGA
+    shapeID: 59680162B83052310642670
+  GadaAdm2NGA:
+    admin_name: Gada
+    iso3c: NGA
+    shapeID: 59680162B52281011363885
+  GagarawaAdm2NGA:
+    admin_name: Gagarawa
+    iso3c: NGA
+    shapeID: 59680162B30447030328077
+  GamawaAdm2NGA:
+    admin_name: Gamawa
+    iso3c: NGA
+    shapeID: 59680162B43637132059207
+  GanjuwaAdm2NGA:
+    admin_name: Ganjuwa
+    iso3c: NGA
+    shapeID: 59680162B89766877463651
+  GanyeAdm2NGA:
+    admin_name: Ganye
+    iso3c: NGA
+    shapeID: 59680162B41420170912929
+  GarkiAdm2NGA:
+    admin_name: Garki
+    iso3c: NGA
+    shapeID: 59680162B71065109904105
+  GarkoAdm2NGA:
+    admin_name: Garko
+    iso3c: NGA
+    shapeID: 59680162B51570410917379
+  GarunMalamAdm2NGA:
+    admin_name: GarunMalam
+    iso3c: NGA
+    shapeID: 59680162B19163785016026
+  GashakaAdm2NGA:
+    admin_name: Gashaka
+    iso3c: NGA
+    shapeID: 59680162B87534880716336
+  GassolAdm2NGA:
+    admin_name: Gassol
+    iso3c: NGA
+    shapeID: 59680162B86116731035265
+  GayaAdm2NGA:
+    admin_name: Gaya
+    iso3c: NGA
+    shapeID: 59680162B19536521240899
+  GbakoAdm2NGA:
+    admin_name: Gbako
+    iso3c: NGA
+    shapeID: 59680162B42207826884677
+  GbokoAdm2NGA:
+    admin_name: Gboko
+    iso3c: NGA
+    shapeID: 59680162B69095881694103
+  GbonyinAdm2NGA:
+    admin_name: Gbonyin
+    iso3c: NGA
+    shapeID: 59680162B53652676960042
+  GeidamAdm2NGA:
+    admin_name: Geidam
+    iso3c: NGA
+    shapeID: 59680162B70118559758614
+  GezawaAdm2NGA:
+    admin_name: Gezawa
+    iso3c: NGA
+    shapeID: 59680162B10012275275709
+  GiadeAdm2NGA:
+    admin_name: Giade
+    iso3c: NGA
+    shapeID: 59680162B9145923747098
+  GireiAdm2NGA:
+    admin_name: Girei
+    iso3c: NGA
+    shapeID: 59680162B61760155439631
+  GiwaAdm2NGA:
+    admin_name: Giwa
+    iso3c: NGA
+    shapeID: 59680162B2967434957315
+  GokanaAdm2NGA:
+    admin_name: Gokana
+    iso3c: NGA
+    shapeID: 59680162B60219664923389
+  GombeAdm1NGA:
+    admin_name: Gombe
+    iso3c: NGA
+    shapeID: 27671186B90305463766462
+  GombeAdm2NGA:
+    admin_name: Gombe
+    iso3c: NGA
+    shapeID: 59680162B83386112613514
+  GombiAdm2NGA:
+    admin_name: Gombi
+    iso3c: NGA
+    shapeID: 59680162B13073760931893
+  GoronyoAdm2NGA:
+    admin_name: Goronyo
+    iso3c: NGA
+    shapeID: 59680162B20432910054227
+  GubioAdm2NGA:
+    admin_name: Gubio
+    iso3c: NGA
+    shapeID: 59680162B83800309048446
+  GuduAdm2NGA:
+    admin_name: Gudu
+    iso3c: NGA
+    shapeID: 59680162B43671986122418
+  GujbaAdm2NGA:
+    admin_name: Gujba
+    iso3c: NGA
+    shapeID: 59680162B90037113183568
+  GulaniAdm2NGA:
+    admin_name: Gulani
+    iso3c: NGA
+    shapeID: 59680162B10585943230735
+  GumaAdm2NGA:
+    admin_name: Guma
+    iso3c: NGA
+    shapeID: 59680162B47044873054392
+  GumelAdm2NGA:
+    admin_name: Gumel
+    iso3c: NGA
+    shapeID: 59680162B20002653395444
+  GummiAdm2NGA:
+    admin_name: Gummi
+    iso3c: NGA
+    shapeID: 59680162B37513478805829
+  GuraraAdm2NGA:
+    admin_name: Gurara
+    iso3c: NGA
+    shapeID: 59680162B85303802109421
+  GuriAdm2NGA:
+    admin_name: Guri
+    iso3c: NGA
+    shapeID: 59680162B66353567053476
+  GusauAdm2NGA:
+    admin_name: Gusau
+    iso3c: NGA
+    shapeID: 59680162B80813578140782
+  GuyukAdm2NGA:
+    admin_name: Guyuk
+    iso3c: NGA
+    shapeID: 59680162B83966420631158
+  GuzamalaAdm2NGA:
+    admin_name: Guzamala
+    iso3c: NGA
+    shapeID: 59680162B36028411577107
+  GwadabawaAdm2NGA:
+    admin_name: Gwadabawa
+    iso3c: NGA
+    shapeID: 59680162B7305913438202
+  GwagwaladaAdm2NGA:
+    admin_name: Gwagwalada
+    iso3c: NGA
+    shapeID: 59680162B34682847069002
+  GwaleAdm2NGA:
+    admin_name: Gwale
+    iso3c: NGA
+    shapeID: 59680162B24203265637376
+  GwanduAdm2NGA:
+    admin_name: Gwandu
+    iso3c: NGA
+    shapeID: 59680162B64610537243626
+  GwaramAdm2NGA:
+    admin_name: Gwaram
+    iso3c: NGA
+    shapeID: 59680162B43366957039329
+  GwarzoAdm2NGA:
+    admin_name: Gwarzo
+    iso3c: NGA
+    shapeID: 59680162B96182902271382
+  GwerEastAdm2NGA:
+    admin_name: GwerEast
+    iso3c: NGA
+    shapeID: 59680162B99778789604362
+  GwerWestAdm2NGA:
+    admin_name: GwerWest
+    iso3c: NGA
+    shapeID: 59680162B25446485561557
+  GwiwaAdm2NGA:
+    admin_name: Gwiwa
+    iso3c: NGA
+    shapeID: 59680162B64636531363939
+  GwozaAdm2NGA:
+    admin_name: Gwoza
+    iso3c: NGA
+    shapeID: 59680162B2846194934808
+  HadejiaAdm2NGA:
+    admin_name: Hadejia
+    iso3c: NGA
+    shapeID: 59680162B39799007570945
+  HawulAdm2NGA:
+    admin_name: Hawul
+    iso3c: NGA
+    shapeID: 59680162B65118596491840
+  HongAdm2NGA:
+    admin_name: Hong
+    iso3c: NGA
+    shapeID: 59680162B84612216171504
+  IbadanNorthAdm2NGA:
+    admin_name: IbadanNorth
+    iso3c: NGA
+    shapeID: 59680162B6783963116345
+  IbadanNorthEastAdm2NGA:
+    admin_name: IbadanNorthEast
+    iso3c: NGA
+    shapeID: 59680162B74859155842016
+  IbadanNorthWestAdm2NGA:
+    admin_name: IbadanNorthWest
+    iso3c: NGA
+    shapeID: 59680162B17793632216798
+  IbadanSouthEastAdm2NGA:
+    admin_name: IbadanSouthEast
+    iso3c: NGA
+    shapeID: 59680162B26854390786792
+  IbadanSouthWestAdm2NGA:
+    admin_name: IbadanSouthWest
+    iso3c: NGA
+    shapeID: 59680162B83508950999506
+  IbajiAdm2NGA:
+    admin_name: Ibaji
+    iso3c: NGA
+    shapeID: 59680162B39308677673484
+  IbarapaCentralAdm2NGA:
+    admin_name: IbarapaCentral
+    iso3c: NGA
+    shapeID: 59680162B68133263226567
+  IbarapaEastAdm2NGA:
+    admin_name: IbarapaEast
+    iso3c: NGA
+    shapeID: 59680162B5704166644463
+  IbarapaNorthAdm2NGA:
+    admin_name: IbarapaNorth
+    iso3c: NGA
+    shapeID: 59680162B62922932811240
+  IbejuLekkiAdm2NGA:
+    admin_name: IbejuLekki
+    iso3c: NGA
+    shapeID: 59680162B89638160160445
+  IbenoAdm2NGA:
+    admin_name: Ibeno
+    iso3c: NGA
+    shapeID: 59680162B15406999540209
+  IbesikpoAsutanAdm2NGA:
+    admin_name: IbesikpoAsutan
+    iso3c: NGA
+    shapeID: 59680162B22561739962750
+  IbiAdm2NGA:
+    admin_name: Ibi
+    iso3c: NGA
+    shapeID: 59680162B80393484388201
+  IbionoIbomAdm2NGA:
+    admin_name: IbionoIbom
+    iso3c: NGA
+    shapeID: 59680162B99910214526625
+  IdahAdm2NGA:
+    admin_name: Idah
+    iso3c: NGA
+    shapeID: 59680162B89596725903657
+  IdanreAdm2NGA:
+    admin_name: Idanre
+    iso3c: NGA
+    shapeID: 59680162B2298430697284
+  IdeatoNorthAdm2NGA:
+    admin_name: IdeatoNorth
+    iso3c: NGA
+    shapeID: 59680162B2351853936587
+  IdeatoSouthAdm2NGA:
+    admin_name: IdeatoSouth
+    iso3c: NGA
+    shapeID: 59680162B23369049466603
+  IdemiliNorthAdm2NGA:
+    admin_name: IdemiliNorth
+    iso3c: NGA
+    shapeID: 59680162B93345317219884
+  IdemiliSouthAdm2NGA:
+    admin_name: IdemiliSouth
+    iso3c: NGA
+    shapeID: 59680162B38736391522213
+  Ido-OsiAdm2NGA:
+    admin_name: Ido-Osi
+    iso3c: NGA
+    shapeID: 59680162B17555212909244
+  IdoAdm2NGA:
+    admin_name: Ido
+    iso3c: NGA
+    shapeID: 59680162B23843497952419
+  Ifako/IjayeAdm2NGA:
+    admin_name: Ifako/Ijaye
+    iso3c: NGA
+    shapeID: 59680162B46296414727789
+  IfeCentralAdm2NGA:
+    admin_name: IfeCentral
+    iso3c: NGA
+    shapeID: 59680162B28710912427622
+  IfedayoAdm2NGA:
+    admin_name: Ifedayo
+    iso3c: NGA
+    shapeID: 59680162B7861486631755
+  IfedoreAdm2NGA:
+    admin_name: Ifedore
+    iso3c: NGA
+    shapeID: 59680162B99856631560735
+  IfeEastAdm2NGA:
+    admin_name: IfeEast
+    iso3c: NGA
+    shapeID: 59680162B92942987363648
+  IfelodunAdm2NGA:
+    admin_name: Ifelodun
+    iso3c: NGA
+    shapeID: 59680162B15317000449503
+  IfeNorthAdm2NGA:
+    admin_name: IfeNorth
+    iso3c: NGA
+    shapeID: 59680162B27814311157346
+  IfeSouthAdm2NGA:
+    admin_name: IfeSouth
+    iso3c: NGA
+    shapeID: 59680162B5974853059370
+  IfoAdm2NGA:
+    admin_name: Ifo
+    iso3c: NGA
+    shapeID: 59680162B2266540401620
+  IgabiAdm2NGA:
+    admin_name: Igabi
+    iso3c: NGA
+    shapeID: 59680162B83099166959131
+  Igalamela-OdoluAdm2NGA:
+    admin_name: Igalamela-Odolu
+    iso3c: NGA
+    shapeID: 59680162B24636018787341
+  Igbo-EtitiAdm2NGA:
+    admin_name: Igbo-Etiti
+    iso3c: NGA
+    shapeID: 59680162B4108100426512
+  Igbo-Eze-SouthAdm2NGA:
+    admin_name: Igbo-Eze-South
+    iso3c: NGA
+    shapeID: 59680162B63088628372837
+  Igbo-EzeNorthAdm2NGA:
+    admin_name: Igbo-EzeNorth
+    iso3c: NGA
+    shapeID: 59680162B31217574251855
+  IguegbenAdm2NGA:
+    admin_name: Iguegben
+    iso3c: NGA
+    shapeID: 59680162B67610911656226
+  IhialaAdm2NGA:
+    admin_name: Ihiala
+    iso3c: NGA
+    shapeID: 59680162B44242102017414
+  Ihitte/UbomaAdm2NGA:
+    admin_name: Ihitte/Uboma
+    iso3c: NGA
+    shapeID: 59680162B14530293305891
+  IjebuEastAdm2NGA:
+    admin_name: IjebuEast
+    iso3c: NGA
+    shapeID: 59680162B17778966736574
+  IjebuNorthAdm2NGA:
+    admin_name: IjebuNorth
+    iso3c: NGA
+    shapeID: 59680162B7511527862302
+  IjebuNorthEastAdm2NGA:
+    admin_name: IjebuNorthEast
+    iso3c: NGA
+    shapeID: 59680162B36139632039116
+  IjebuOdeAdm2NGA:
+    admin_name: IjebuOde
+    iso3c: NGA
+    shapeID: 59680162B95372959647234
+  IjeroAdm2NGA:
+    admin_name: Ijero
+    iso3c: NGA
+    shapeID: 59680162B51712615582520
+  IjumuAdm2NGA:
+    admin_name: Ijumu
+    iso3c: NGA
+    shapeID: 59680162B15951041920960
+  IkaAdm2NGA:
+    admin_name: Ika
+    iso3c: NGA
+    shapeID: 59680162B87230656090923
+  IkaNorthEastAdm2NGA:
+    admin_name: IkaNorthEast
+    iso3c: NGA
+    shapeID: 59680162B56433787774877
+  IkaraAdm2NGA:
+    admin_name: Ikara
+    iso3c: NGA
+    shapeID: 59680162B12574760496394
+  IkaSouthAdm2NGA:
+    admin_name: IkaSouth
+    iso3c: NGA
+    shapeID: 59680162B51019344443676
+  IkeduruAdm2NGA:
+    admin_name: Ikeduru
+    iso3c: NGA
+    shapeID: 59680162B47841916602322
+  IkejaAdm2NGA:
+    admin_name: Ikeja
+    iso3c: NGA
+    shapeID: 59680162B78935719106444
+  IkenneAdm2NGA:
+    admin_name: Ikenne
+    iso3c: NGA
+    shapeID: 59680162B19467626863877
+  IkereAdm2NGA:
+    admin_name: Ikere
+    iso3c: NGA
+    shapeID: 59680162B84830000650933
+  IkoleAdm2NGA:
+    admin_name: Ikole
+    iso3c: NGA
+    shapeID: 59680162B9357675593038
+  IkomAdm2NGA:
+    admin_name: Ikom
+    iso3c: NGA
+    shapeID: 59680162B83284995722346
+  IkonoAdm2NGA:
+    admin_name: Ikono
+    iso3c: NGA
+    shapeID: 59680162B21074533395167
+  IkoroduAdm2NGA:
+    admin_name: Ikorodu
+    iso3c: NGA
+    shapeID: 59680162B53104406185271
+  IkotAbasiAdm2NGA:
+    admin_name: IkotAbasi
+    iso3c: NGA
+    shapeID: 59680162B30032590265448
+  IkotEkpeneAdm2NGA:
+    admin_name: IkotEkpene
+    iso3c: NGA
+    shapeID: 59680162B36804655757784
+  Ikpoba-OkhaAdm2NGA:
+    admin_name: Ikpoba-Okha
+    iso3c: NGA
+    shapeID: 59680162B29680565367836
+  IkwerreAdm2NGA:
+    admin_name: Ikwerre
+    iso3c: NGA
+    shapeID: 59680162B85189896765318
+  IkwoAdm2NGA:
+    admin_name: Ikwo
+    iso3c: NGA
+    shapeID: 59680162B29308605862653
+  IkwuanoAdm2NGA:
+    admin_name: Ikwuano
+    iso3c: NGA
+    shapeID: 59680162B4745386112936
+  IlaAdm2NGA:
+    admin_name: Ila
+    iso3c: NGA
+    shapeID: 59680162B66079212084305
+  IlajeAdm2NGA:
+    admin_name: Ilaje
+    iso3c: NGA
+    shapeID: 59680162B44253410475450
+  IlejemejeAdm2NGA:
+    admin_name: Ilejemeje
+    iso3c: NGA
+    shapeID: 59680162B76636581595069
+  IleOluji/OkeigboAdm2NGA:
+    admin_name: IleOluji/Okeigbo
+    iso3c: NGA
+    shapeID: 59680162B60046857326615
+  IleshaEastAdm2NGA:
+    admin_name: IleshaEast
+    iso3c: NGA
+    shapeID: 59680162B9948554175301
+  IleshaWestAdm2NGA:
+    admin_name: IleshaWest
+    iso3c: NGA
+    shapeID: 59680162B98234428566305
+  IllelaAdm2NGA:
+    admin_name: Illela
+    iso3c: NGA
+    shapeID: 59680162B27389948970996
+  IlorinEastAdm2NGA:
+    admin_name: IlorinEast
+    iso3c: NGA
+    shapeID: 59680162B49050440888294
+  IlorinSouthAdm2NGA:
+    admin_name: IlorinSouth
+    iso3c: NGA
+    shapeID: 59680162B63804955714699
+  IlorinWestAdm2NGA:
+    admin_name: IlorinWest
+    iso3c: NGA
+    shapeID: 59680162B83241100924072
+  ImekoAfonAdm2NGA:
+    admin_name: ImekoAfon
+    iso3c: NGA
+    shapeID: 59680162B69679397491551
+  ImoAdm1NGA:
+    admin_name: Imo
+    iso3c: NGA
+    shapeID: 27671186B8148656125930
+  IngawaAdm2NGA:
+    admin_name: Ingawa
+    iso3c: NGA
+    shapeID: 59680162B27261417712833
+  IniAdm2NGA:
+    admin_name: Ini
+    iso3c: NGA
+    shapeID: 59680162B87442417129591
+  IpokiaAdm2NGA:
+    admin_name: Ipokia
+    iso3c: NGA
+    shapeID: 59680162B19485775159758
+  IreleAdm2NGA:
+    admin_name: Irele
+    iso3c: NGA
+    shapeID: 59680162B53064832422435
+  IrepoAdm2NGA:
+    admin_name: Irepo
+    iso3c: NGA
+    shapeID: 59680162B43339423021624
+  Irepodun/IfelodunAdm2NGA:
+    admin_name: Irepodun/Ifelodun
+    iso3c: NGA
+    shapeID: 59680162B16609728895319
+  IrepodunAdm2NGA:
+    admin_name: Irepodun
+    iso3c: NGA
+    shapeID: 59680162B70509973828236
+  IrewoleAdm2NGA:
+    admin_name: Irewole
+    iso3c: NGA
+    shapeID: 59680162B22633527707210
+  IsaAdm2NGA:
+    admin_name: Isa
+    iso3c: NGA
+    shapeID: 59680162B66631777088899
+  Ise/OrunAdm2NGA:
+    admin_name: Ise/Orun
+    iso3c: NGA
+    shapeID: 59680162B94034829608504
+  IseyinAdm2NGA:
+    admin_name: Iseyin
+    iso3c: NGA
+    shapeID: 59680162B71074793306885
+  IshieluAdm2NGA:
+    admin_name: Ishielu
+    iso3c: NGA
+    shapeID: 59680162B77807256215392
+  Isi-UzoAdm2NGA:
+    admin_name: Isi-Uzo
+    iso3c: NGA
+    shapeID: 59680162B86026568122675
+  Isiala-NgwaNorthAdm2NGA:
+    admin_name: Isiala-NgwaNorth
+    iso3c: NGA
+    shapeID: 59680162B87049040782715
+  Isiala-NgwaSouthAdm2NGA:
+    admin_name: Isiala-NgwaSouth
+    iso3c: NGA
+    shapeID: 59680162B80116312922204
+  IsialaMbanoAdm2NGA:
+    admin_name: IsialaMbano
+    iso3c: NGA
+    shapeID: 59680162B35426409409773
+  IsinAdm2NGA:
+    admin_name: Isin
+    iso3c: NGA
+    shapeID: 59680162B97277051818349
+  IsokanAdm2NGA:
+    admin_name: Isokan
+    iso3c: NGA
+    shapeID: 59680162B6205124943279
+  IsokoNorthAdm2NGA:
+    admin_name: IsokoNorth
+    iso3c: NGA
+    shapeID: 59680162B76063539046075
+  IsokoSouthAdm2NGA:
+    admin_name: IsokoSouth
+    iso3c: NGA
+    shapeID: 59680162B89324456878264
+  IsuAdm2NGA:
+    admin_name: Isu
+    iso3c: NGA
+    shapeID: 59680162B73807077480910
+  IsuikwuatoAdm2NGA:
+    admin_name: Isuikwuato
+    iso3c: NGA
+    shapeID: 59680162B83041511737206
+  Itas/GadauAdm2NGA:
+    admin_name: Itas/Gadau
+    iso3c: NGA
+    shapeID: 59680162B90895100901083
+  ItesiwajuAdm2NGA:
+    admin_name: Itesiwaju
+    iso3c: NGA
+    shapeID: 59680162B74485110483501
+  ItuAdm2NGA:
+    admin_name: Itu
+    iso3c: NGA
+    shapeID: 59680162B41031546236215
+  IvoAdm2NGA:
+    admin_name: Ivo
+    iso3c: NGA
+    shapeID: 59680162B35701990596564
+  IwajowaAdm2NGA:
+    admin_name: Iwajowa
+    iso3c: NGA
+    shapeID: 59680162B76564266679550
+  IwoAdm2NGA:
+    admin_name: Iwo
+    iso3c: NGA
+    shapeID: 59680162B23671729796425
+  IzziAdm2NGA:
+    admin_name: Izzi
+    iso3c: NGA
+    shapeID: 59680162B3302114520233
+  JabaAdm2NGA:
+    admin_name: Jaba
+    iso3c: NGA
+    shapeID: 59680162B63355484795141
+  JadaAdm2NGA:
+    admin_name: Jada
+    iso3c: NGA
+    shapeID: 59680162B17489209533224
+  JahunAdm2NGA:
+    admin_name: Jahun
+    iso3c: NGA
+    shapeID: 59680162B13393519160177
+  JakuskoAdm2NGA:
+    admin_name: Jakusko
+    iso3c: NGA
+    shapeID: 59680162B40329870656537
+  JalingoAdm2NGA:
+    admin_name: Jalingo
+    iso3c: NGA
+    shapeID: 59680162B33993495702938
+  Jama'AreAdm2NGA:
+    admin_name: Jama'Are
+    iso3c: NGA
+    shapeID: 59680162B54185205976265
+  JegaAdm2NGA:
+    admin_name: Jega
+    iso3c: NGA
+    shapeID: 59680162B13498430232382
+  Jema'AAdm2NGA:
+    admin_name: Jema'A
+    iso3c: NGA
+    shapeID: 59680162B37059166930142
+  JereAdm2NGA:
+    admin_name: Jere
+    iso3c: NGA
+    shapeID: 59680162B64727590098747
+  JibiaAdm2NGA:
+    admin_name: Jibia
+    iso3c: NGA
+    shapeID: 59680162B54988677972163
+  JigawaAdm1NGA:
+    admin_name: Jigawa
+    iso3c: NGA
+    shapeID: 27671186B1226853346294
+  JosEastAdm2NGA:
+    admin_name: JosEast
+    iso3c: NGA
+    shapeID: 59680162B89640587380951
+  JosNorthAdm2NGA:
+    admin_name: JosNorth
+    iso3c: NGA
+    shapeID: 59680162B88998270560680
+  JosSouthAdm2NGA:
+    admin_name: JosSouth
+    iso3c: NGA
+    shapeID: 59680162B91711719497512
+  Kabba/BunuAdm2NGA:
+    admin_name: Kabba/Bunu
+    iso3c: NGA
+    shapeID: 59680162B92155854422456
+  KaboAdm2NGA:
+    admin_name: Kabo
+    iso3c: NGA
+    shapeID: 59680162B55022918372626
+  KachiaAdm2NGA:
+    admin_name: Kachia
+    iso3c: NGA
+    shapeID: 59680162B32850327292174
+  KadunaAdm1NGA:
+    admin_name: Kaduna
+    iso3c: NGA
+    shapeID: 27671186B54051914323789
+  KadunaNorthAdm2NGA:
+    admin_name: KadunaNorth
+    iso3c: NGA
+    shapeID: 59680162B72659245241320
+  KadunaSouthAdm2NGA:
+    admin_name: KadunaSouth
+    iso3c: NGA
+    shapeID: 59680162B16574916896740
+  KafinHausaAdm2NGA:
+    admin_name: KafinHausa
+    iso3c: NGA
+    shapeID: 59680162B31389051207927
+  KafurAdm2NGA:
+    admin_name: Kafur
+    iso3c: NGA
+    shapeID: 59680162B10083289652159
+  KagaAdm2NGA:
+    admin_name: Kaga
+    iso3c: NGA
+    shapeID: 59680162B15311652495769
+  KagarkoAdm2NGA:
+    admin_name: Kagarko
+    iso3c: NGA
+    shapeID: 59680162B89404589930000
+  KaiamaAdm2NGA:
+    admin_name: Kaiama
+    iso3c: NGA
+    shapeID: 59680162B83662033692716
+  KaitaAdm2NGA:
+    admin_name: Kaita
+    iso3c: NGA
+    shapeID: 59680162B53208862785263
+  KajolaAdm2NGA:
+    admin_name: Kajola
+    iso3c: NGA
+    shapeID: 59680162B64506251287847
+  KajuruAdm2NGA:
+    admin_name: Kajuru
+    iso3c: NGA
+    shapeID: 59680162B79502957035648
+  KalaBalgeAdm2NGA:
+    admin_name: KalaBalge
+    iso3c: NGA
+    shapeID: 59680162B27876975276040
+  KalgoAdm2NGA:
+    admin_name: Kalgo
+    iso3c: NGA
+    shapeID: 59680162B5199404243189
+  KaltungoAdm2NGA:
+    admin_name: Kaltungo
+    iso3c: NGA
+    shapeID: 59680162B43215766185997
+  KanamAdm2NGA:
+    admin_name: Kanam
+    iso3c: NGA
+    shapeID: 59680162B74099392913903
+  KankaraAdm2NGA:
+    admin_name: Kankara
+    iso3c: NGA
+    shapeID: 59680162B8390528040617
+  KankeAdm2NGA:
+    admin_name: Kanke
+    iso3c: NGA
+    shapeID: 59680162B46182656305392
+  KankiaAdm2NGA:
+    admin_name: Kankia
+    iso3c: NGA
+    shapeID: 59680162B50176982462081
+  KanoAdm1NGA:
+    admin_name: Kano
+    iso3c: NGA
+    shapeID: 27671186B50148357657004
+  KanoMunicipalAdm2NGA:
+    admin_name: KanoMunicipal
+    iso3c: NGA
+    shapeID: 59680162B28367664307560
+  KarasuwaAdm2NGA:
+    admin_name: Karasuwa
+    iso3c: NGA
+    shapeID: 59680162B67680561366569
+  KarayeAdm2NGA:
+    admin_name: Karaye
+    iso3c: NGA
+    shapeID: 59680162B44599338364171
+  KarimLamidoAdm2NGA:
+    admin_name: KarimLamido
+    iso3c: NGA
+    shapeID: 59680162B13157392837231
+  KaruAdm2NGA:
+    admin_name: Karu
+    iso3c: NGA
+    shapeID: 59680162B13670821264537
+  KatagumAdm2NGA:
+    admin_name: Katagum
+    iso3c: NGA
+    shapeID: 59680162B44758551949173
+  KatchaAdm2NGA:
+    admin_name: Katcha
+    iso3c: NGA
+    shapeID: 59680162B69752440983216
+  Katsina-AlaAdm2NGA:
+    admin_name: Katsina-Ala
+    iso3c: NGA
+    shapeID: 59680162B67606782034303
+  KatsinaAdm1NGA:
+    admin_name: Katsina
+    iso3c: NGA
+    shapeID: 27671186B99661334382691
+  KatsinaAdm2NGA:
+    admin_name: Katsina
+    iso3c: NGA
+    shapeID: 59680162B91304502238334
+  KaugamaAdm2NGA:
+    admin_name: Kaugama
+    iso3c: NGA
+    shapeID: 59680162B31064170938287
+  KauraAdm2NGA:
+    admin_name: Kaura
+    iso3c: NGA
+    shapeID: 59680162B84224544107566
+  KauraNamodaAdm2NGA:
+    admin_name: KauraNamoda
+    iso3c: NGA
+    shapeID: 59680162B64690225464412
+  KauruAdm2NGA:
+    admin_name: Kauru
+    iso3c: NGA
+    shapeID: 59680162B79526209894783
+  KazaureAdm2NGA:
+    admin_name: Kazaure
+    iso3c: NGA
+    shapeID: 59680162B26576505992161
+  KeanaAdm2NGA:
+    admin_name: Keana
+    iso3c: NGA
+    shapeID: 59680162B98467355573765
+  KebbeAdm2NGA:
+    admin_name: Kebbe
+    iso3c: NGA
+    shapeID: 59680162B95103667512911
+  KebbiAdm1NGA:
+    admin_name: Kebbi
+    iso3c: NGA
+    shapeID: 27671186B53868438251790
+  KeffiAdm2NGA:
+    admin_name: Keffi
+    iso3c: NGA
+    shapeID: 59680162B35305934518280
+  KhanaAdm2NGA:
+    admin_name: Khana
+    iso3c: NGA
+    shapeID: 59680162B16294292751838
+  KibiyaAdm2NGA:
+    admin_name: Kibiya
+    iso3c: NGA
+    shapeID: 59680162B54095353953704
+  KirfiAdm2NGA:
+    admin_name: Kirfi
+    iso3c: NGA
+    shapeID: 59680162B60638866528984
+  KiriKasamaAdm2NGA:
+    admin_name: KiriKasama
+    iso3c: NGA
+    shapeID: 59680162B41078826165134
+  KiruAdm2NGA:
+    admin_name: Kiru
+    iso3c: NGA
+    shapeID: 59680162B20086286793745
+  KiyawaAdm2NGA:
+    admin_name: Kiyawa
+    iso3c: NGA
+    shapeID: 59680162B95265909286240
+  KogiAdm1NGA:
+    admin_name: Kogi
+    iso3c: NGA
+    shapeID: 27671186B96047513549152
+  KogiAdm2NGA:
+    admin_name: Kogi
+    iso3c: NGA
+    shapeID: 59680162B62255786160615
+  Koko-BesseAdm2NGA:
+    admin_name: Koko-Besse
+    iso3c: NGA
+    shapeID: 59680162B63684780260143
+  KokonaAdm2NGA:
+    admin_name: Kokona
+    iso3c: NGA
+    shapeID: 59680162B28903777440270
+  Kolokuma/OpokumaAdm2NGA:
+    admin_name: Kolokuma/Opokuma
+    iso3c: NGA
+    shapeID: 59680162B30593466404451
+  KondugaAdm2NGA:
+    admin_name: Konduga
+    iso3c: NGA
+    shapeID: 59680162B88504568355174
+  KonshishaAdm2NGA:
+    admin_name: Konshisha
+    iso3c: NGA
+    shapeID: 59680162B50777093344409
+  KontagoraAdm2NGA:
+    admin_name: Kontagora
+    iso3c: NGA
+    shapeID: 59680162B51611927546147
+  KosofeAdm2NGA:
+    admin_name: Kosofe
+    iso3c: NGA
+    shapeID: 59680162B6009908161486
+  KubauAdm2NGA:
+    admin_name: Kubau
+    iso3c: NGA
+    shapeID: 59680162B90439441381954
+  KudanAdm2NGA:
+    admin_name: Kudan
+    iso3c: NGA
+    shapeID: 59680162B63511927639310
+  KujeAdm2NGA:
+    admin_name: Kuje
+    iso3c: NGA
+    shapeID: 59680162B82387239737873
+  KukawaAdm2NGA:
+    admin_name: Kukawa
+    iso3c: NGA
+    shapeID: 59680162B26946733152657
+  KumbotsoAdm2NGA:
+    admin_name: Kumbotso
+    iso3c: NGA
+    shapeID: 59680162B97880726687240
+  KunchiAdm2NGA:
+    admin_name: Kunchi
+    iso3c: NGA
+    shapeID: 59680162B19874744513454
+  KuraAdm2NGA:
+    admin_name: Kura
+    iso3c: NGA
+    shapeID: 59680162B62375507242594
+  KurfiAdm2NGA:
+    admin_name: Kurfi
+    iso3c: NGA
+    shapeID: 59680162B7192144408722
+  KurmiAdm2NGA:
+    admin_name: Kurmi
+    iso3c: NGA
+    shapeID: 59680162B29995960925404
+  KusadaAdm2NGA:
+    admin_name: Kusada
+    iso3c: NGA
+    shapeID: 59680162B88881037507986
+  KwaliAdm2NGA:
+    admin_name: Kwali
+    iso3c: NGA
+    shapeID: 59680162B82021418174103
+  KwamiAdm2NGA:
+    admin_name: Kwami
+    iso3c: NGA
+    shapeID: 59680162B2944873791560
+  KwandeAdm2NGA:
+    admin_name: Kwande
+    iso3c: NGA
+    shapeID: 59680162B2505789698133
+  KwaraAdm1NGA:
+    admin_name: Kwara
+    iso3c: NGA
+    shapeID: 27671186B2031248555853
+  KwareAdm2NGA:
+    admin_name: Kware
+    iso3c: NGA
+    shapeID: 59680162B33139882700556
+  KwayaKusarAdm2NGA:
+    admin_name: KwayaKusar
+    iso3c: NGA
+    shapeID: 59680162B43497988326934
+  LafiaAdm2NGA:
+    admin_name: Lafia
+    iso3c: NGA
+    shapeID: 59680162B86357482908219
+  LageluAdm2NGA:
+    admin_name: Lagelu
+    iso3c: NGA
+    shapeID: 59680162B50724647943907
+  LagosAdm1NGA:
+    admin_name: Lagos
+    iso3c: NGA
+    shapeID: 27671186B19119389308001
+  LagosIslandAdm2NGA:
+    admin_name: LagosIsland
+    iso3c: NGA
+    shapeID: 59680162B72688390978538
+  LagosMainlandAdm2NGA:
+    admin_name: LagosMainland
+    iso3c: NGA
+    shapeID: 59680162B78639882894514
+  LamurdeAdm2NGA:
+    admin_name: Lamurde
+    iso3c: NGA
+    shapeID: 59680162B57364751970918
+  LangtangNorthAdm2NGA:
+    admin_name: LangtangNorth
+    iso3c: NGA
+    shapeID: 59680162B43697273286299
+  LangtangSouthAdm2NGA:
+    admin_name: LangtangSouth
+    iso3c: NGA
+    shapeID: 59680162B99351931357354
+  LapaiAdm2NGA:
+    admin_name: Lapai
+    iso3c: NGA
+    shapeID: 59680162B14261849329471
+  LauAdm2NGA:
+    admin_name: Lau
+    iso3c: NGA
+    shapeID: 59680162B35636298384814
+  LavunAdm2NGA:
+    admin_name: Lavun
+    iso3c: NGA
+    shapeID: 59680162B89203090045374
+  LereAdm2NGA:
+    admin_name: Lere
+    iso3c: NGA
+    shapeID: 59680162B33448314455063
+  LogoAdm2NGA:
+    admin_name: Logo
+    iso3c: NGA
+    shapeID: 59680162B24857715869577
+  LokojaAdm2NGA:
+    admin_name: Lokoja
+    iso3c: NGA
+    shapeID: 59680162B326996000256
+  MachinaAdm2NGA:
+    admin_name: Machina
+    iso3c: NGA
+    shapeID: 59680162B29257457515537
+  MadagaliAdm2NGA:
+    admin_name: Madagali
+    iso3c: NGA
+    shapeID: 59680162B31090464189446
+  MadobiAdm2NGA:
+    admin_name: Madobi
+    iso3c: NGA
+    shapeID: 59680162B5579026585541
+  MafaAdm2NGA:
+    admin_name: Mafa
+    iso3c: NGA
+    shapeID: 59680162B20020413332718
+  MagamaAdm2NGA:
+    admin_name: Magama
+    iso3c: NGA
+    shapeID: 59680162B40491222708573
+  MagumeriAdm2NGA:
+    admin_name: Magumeri
+    iso3c: NGA
+    shapeID: 59680162B56106136996502
+  Mai'AduaAdm2NGA:
+    admin_name: Mai'Adua
+    iso3c: NGA
+    shapeID: 59680162B73440349718888
+  MaiduguriAdm2NGA:
+    admin_name: Maiduguri
+    iso3c: NGA
+    shapeID: 59680162B20780696540875
+  MaigatariAdm2NGA:
+    admin_name: Maigatari
+    iso3c: NGA
+    shapeID: 59680162B93100308813933
+  MaihaAdm2NGA:
+    admin_name: Maiha
+    iso3c: NGA
+    shapeID: 59680162B24409102010221
+  MaiyamaAdm2NGA:
+    admin_name: Maiyama
+    iso3c: NGA
+    shapeID: 59680162B34961354684930
+  MakarfiAdm2NGA:
+    admin_name: Makarfi
+    iso3c: NGA
+    shapeID: 59680162B77220990792423
+  MakodaAdm2NGA:
+    admin_name: Makoda
+    iso3c: NGA
+    shapeID: 59680162B1898458611197
+  MakurdiAdm2NGA:
+    admin_name: Makurdi
+    iso3c: NGA
+    shapeID: 59680162B75733324884372
+  MalamMadoriAdm2NGA:
+    admin_name: MalamMadori
+    iso3c: NGA
+    shapeID: 59680162B52658055469559
+  MalumfashiAdm2NGA:
+    admin_name: Malumfashi
+    iso3c: NGA
+    shapeID: 59680162B59256397716169
+  ManguAdm2NGA:
+    admin_name: Mangu
+    iso3c: NGA
+    shapeID: 59680162B68239008143557
+  ManiAdm2NGA:
+    admin_name: Mani
+    iso3c: NGA
+    shapeID: 59680162B59976260592487
+  MaradunAdm2NGA:
+    admin_name: Maradun
+    iso3c: NGA
+    shapeID: 59680162B87372052025364
+  MarigaAdm2NGA:
+    admin_name: Mariga
+    iso3c: NGA
+    shapeID: 59680162B84198311358077
+  MarteAdm2NGA:
+    admin_name: Marte
+    iso3c: NGA
+    shapeID: 59680162B30227281044650
+  MaruAdm2NGA:
+    admin_name: Maru
+    iso3c: NGA
+    shapeID: 59680162B25309364748934
+  MasheguAdm2NGA:
+    admin_name: Mashegu
+    iso3c: NGA
+    shapeID: 59680162B45761990386675
+  MashiAdm2NGA:
+    admin_name: Mashi
+    iso3c: NGA
+    shapeID: 59680162B19433829654146
+  MatazuAdm2NGA:
+    admin_name: Matazu
+    iso3c: NGA
+    shapeID: 59680162B62360966111253
+  Mayo-BelwaAdm2NGA:
+    admin_name: Mayo-Belwa
+    iso3c: NGA
+    shapeID: 59680162B66628176907248
+  MbatoliAdm2NGA:
+    admin_name: Mbatoli
+    iso3c: NGA
+    shapeID: 59680162B59739898555342
+  MboAdm2NGA:
+    admin_name: Mbo
+    iso3c: NGA
+    shapeID: 59680162B50421987640425
+  MichikaAdm2NGA:
+    admin_name: Michika
+    iso3c: NGA
+    shapeID: 59680162B49393703134220
+  MigaAdm2NGA:
+    admin_name: Miga
+    iso3c: NGA
+    shapeID: 59680162B14319741144045
+  MikangAdm2NGA:
+    admin_name: Mikang
+    iso3c: NGA
+    shapeID: 59680162B72495617993590
+  MinjibirAdm2NGA:
+    admin_name: Minjibir
+    iso3c: NGA
+    shapeID: 59680162B51390103580898
+  MisauAdm2NGA:
+    admin_name: Misau
+    iso3c: NGA
+    shapeID: 59680162B30906229675123
+  MkpatEninAdm2NGA:
+    admin_name: MkpatEnin
+    iso3c: NGA
+    shapeID: 59680162B9896757167153
+  MobaAdm2NGA:
+    admin_name: Moba
+    iso3c: NGA
+    shapeID: 59680162B58812788921078
+  MobbarAdm2NGA:
+    admin_name: Mobbar
+    iso3c: NGA
+    shapeID: 59680162B87872962443621
+  MokwaAdm2NGA:
+    admin_name: Mokwa
+    iso3c: NGA
+    shapeID: 59680162B23155718085687
+  MongunoAdm2NGA:
+    admin_name: Monguno
+    iso3c: NGA
+    shapeID: 59680162B31936578466171
+  Mopa-MuroAdm2NGA:
+    admin_name: Mopa-Muro
+    iso3c: NGA
+    shapeID: 59680162B35933805912396
+  MoroAdm2NGA:
+    admin_name: Moro
+    iso3c: NGA
+    shapeID: 59680162B98306169506823
+  MubiNorthAdm2NGA:
+    admin_name: MubiNorth
+    iso3c: NGA
+    shapeID: 59680162B22484757822523
+  MubiSouthAdm2NGA:
+    admin_name: MubiSouth
+    iso3c: NGA
+    shapeID: 59680162B11164722545286
+  MunicipalAreaCouncilAdm2NGA:
+    admin_name: MunicipalAreaCouncil
+    iso3c: NGA
+    shapeID: 59680162B38183120701356
+  MunyaAdm2NGA:
+    admin_name: Munya
+    iso3c: NGA
+    shapeID: 59680162B69298252864907
+  MusawaAdm2NGA:
+    admin_name: Musawa
+    iso3c: NGA
+    shapeID: 59680162B51512347513243
+  MushinAdm2NGA:
+    admin_name: Mushin
+    iso3c: NGA
+    shapeID: 59680162B75104511306168
+  NafadaAdm2NGA:
+    admin_name: Nafada
+    iso3c: NGA
+    shapeID: 59680162B63392407575553
+  NangereAdm2NGA:
+    admin_name: Nangere
+    iso3c: NGA
+    shapeID: 59680162B90533313280833
+  NasarawaAdm1NGA:
+    admin_name: Nasarawa
+    iso3c: NGA
+    shapeID: 27671186B74554005070963
+  NasarawaAdm2NGA:
+    admin_name: Nasarawa
+    iso3c: NGA
+    shapeID: 59680162B9133954487337
+  NasarawaEgonAdm2NGA:
+    admin_name: NasarawaEgon
+    iso3c: NGA
+    shapeID: 59680162B44675208679717
+  NassarawaAdm2NGA:
+    admin_name: Nassarawa
+    iso3c: NGA
+    shapeID: 59680162B98184498564097
+  NdokwaEastAdm2NGA:
+    admin_name: NdokwaEast
+    iso3c: NGA
+    shapeID: 59680162B10854216301983
+  NdokwaWestAdm2NGA:
+    admin_name: NdokwaWest
+    iso3c: NGA
+    shapeID: 59680162B28606864431003
+  NembeAdm2NGA:
+    admin_name: Nembe
+    iso3c: NGA
+    shapeID: 59680162B49362321791702
+  NgalaAdm2NGA:
+    admin_name: Ngala
+    iso3c: NGA
+    shapeID: 59680162B65219804693248
+  NganzaiAdm2NGA:
+    admin_name: Nganzai
+    iso3c: NGA
+    shapeID: 59680162B84828583281462
+  NgaskiAdm2NGA:
+    admin_name: Ngaski
+    iso3c: NGA
+    shapeID: 59680162B87284296025200
+  Ngor-OkpalaAdm2NGA:
+    admin_name: Ngor-Okpala
+    iso3c: NGA
+    shapeID: 59680162B61451583552190
+  NguruAdm2NGA:
+    admin_name: Nguru
+    iso3c: NGA
+    shapeID: 59680162B38485988708032
+  NigerAdm1NGA:
+    admin_name: Niger
+    iso3c: NGA
+    shapeID: 27671186B79778155682183
+  NingiAdm2NGA:
+    admin_name: Ningi
+    iso3c: NGA
+    shapeID: 59680162B85522063023223
+  NjabaAdm2NGA:
+    admin_name: Njaba
+    iso3c: NGA
+    shapeID: 59680162B71691370147242
+  NjikokaAdm2NGA:
+    admin_name: Njikoka
+    iso3c: NGA
+    shapeID: 59680162B42022523568798
+  NkanuEastAdm2NGA:
+    admin_name: NkanuEast
+    iso3c: NGA
+    shapeID: 59680162B97802053648263
+  NkanuWestAdm2NGA:
+    admin_name: NkanuWest
+    iso3c: NGA
+    shapeID: 59680162B79793295224635
+  NkwerreAdm2NGA:
+    admin_name: Nkwerre
+    iso3c: NGA
+    shapeID: 59680162B31302026198632
+  NnewiNorthAdm2NGA:
+    admin_name: NnewiNorth
+    iso3c: NGA
+    shapeID: 59680162B73952515985037
+  NnewiSouthAdm2NGA:
+    admin_name: NnewiSouth
+    iso3c: NGA
+    shapeID: 59680162B31350853830247
+  NsitAtaiAdm2NGA:
+    admin_name: NsitAtai
+    iso3c: NGA
+    shapeID: 59680162B33769534671223
+  NsitIbomAdm2NGA:
+    admin_name: NsitIbom
+    iso3c: NGA
+    shapeID: 59680162B17891920174093
+  NsitUbiumAdm2NGA:
+    admin_name: NsitUbium
+    iso3c: NGA
+    shapeID: 59680162B36558878931890
+  NsukkaAdm2NGA:
+    admin_name: Nsukka
+    iso3c: NGA
+    shapeID: 59680162B36149280961759
+  NumanAdm2NGA:
+    admin_name: Numan
+    iso3c: NGA
+    shapeID: 59680162B26521045145337
+  NwangeleAdm2NGA:
+    admin_name: Nwangele
+    iso3c: NGA
+    shapeID: 59680162B11133908611483
+  ObafemiOwodeAdm2NGA:
+    admin_name: ObafemiOwode
+    iso3c: NGA
+    shapeID: 59680162B74248263036628
+  ObanlikuAdm2NGA:
+    admin_name: Obanliku
+    iso3c: NGA
+    shapeID: 59680162B73921161942586
+  ObiAdm2NGA:
+    admin_name: Obi
+    iso3c: NGA
+    shapeID: 59680162B75172896497028
+  ObiNwgaAdm2NGA:
+    admin_name: ObiNwga
+    iso3c: NGA
+    shapeID: 59680162B7784772599553
+  Obio/AkporAdm2NGA:
+    admin_name: Obio/Akpor
+    iso3c: NGA
+    shapeID: 59680162B6299894636493
+  ObokunAdm2NGA:
+    admin_name: Obokun
+    iso3c: NGA
+    shapeID: 59680162B29331014496737
+  ObotAkaraAdm2NGA:
+    admin_name: ObotAkara
+    iso3c: NGA
+    shapeID: 59680162B95147302907135
+  ObowoAdm2NGA:
+    admin_name: Obowo
+    iso3c: NGA
+    shapeID: 59680162B2017456399117
+  ObubraAdm2NGA:
+    admin_name: Obubra
+    iso3c: NGA
+    shapeID: 59680162B46550202368720
+  ObuduAdm2NGA:
+    admin_name: Obudu
+    iso3c: NGA
+    shapeID: 59680162B9948575660850
+  OdedaAdm2NGA:
+    admin_name: Odeda
+    iso3c: NGA
+    shapeID: 59680162B82944797684000
+  OdigboAdm2NGA:
+    admin_name: Odigbo
+    iso3c: NGA
+    shapeID: 59680162B61774592523326
+  OdogboluAdm2NGA:
+    admin_name: Odogbolu
+    iso3c: NGA
+    shapeID: 59680162B50359341822283
+  OdoOtinAdm2NGA:
+    admin_name: OdoOtin
+    iso3c: NGA
+    shapeID: 59680162B86061563506110
+  OdukpaniAdm2NGA:
+    admin_name: Odukpani
+    iso3c: NGA
+    shapeID: 59680162B36423706884187
+  OffaAdm2NGA:
+    admin_name: Offa
+    iso3c: NGA
+    shapeID: 59680162B40988548898234
+  OfuAdm2NGA:
+    admin_name: Ofu
+    iso3c: NGA
+    shapeID: 59680162B1935816053049
+  Ogba/Egbema/NdoniAdm2NGA:
+    admin_name: Ogba/Egbema/Ndoni
+    iso3c: NGA
+    shapeID: 59680162B28887917480980
+  OgbadiboAdm2NGA:
+    admin_name: Ogbadibo
+    iso3c: NGA
+    shapeID: 59680162B26648923761656
+  OgbaruAdm2NGA:
+    admin_name: Ogbaru
+    iso3c: NGA
+    shapeID: 59680162B97395677882832
+  OgbiaAdm2NGA:
+    admin_name: Ogbia
+    iso3c: NGA
+    shapeID: 59680162B61116944198945
+  OgbomoshoNorthAdm2NGA:
+    admin_name: OgbomoshoNorth
+    iso3c: NGA
+    shapeID: 59680162B8886032648131
+  OgbomoshoSouthAdm2NGA:
+    admin_name: OgbomoshoSouth
+    iso3c: NGA
+    shapeID: 59680162B1338580155275
+  OgojaAdm2NGA:
+    admin_name: Ogoja
+    iso3c: NGA
+    shapeID: 59680162B30816727026324
+  OgoOluwaAdm2NGA:
+    admin_name: OgoOluwa
+    iso3c: NGA
+    shapeID: 59680162B3334363185534
+  Ogori/MagongoAdm2NGA:
+    admin_name: Ogori/Magongo
+    iso3c: NGA
+    shapeID: 59680162B76072611977433
+  OguBoloAdm2NGA:
+    admin_name: OguBolo
+    iso3c: NGA
+    shapeID: 59680162B82820769085578
+  OgunAdm1NGA:
+    admin_name: Ogun
+    iso3c: NGA
+    shapeID: 27671186B83907961412659
+  OgunWatersideAdm2NGA:
+    admin_name: OgunWaterside
+    iso3c: NGA
+    shapeID: 59680162B53764009147535
+  OgutaAdm2NGA:
+    admin_name: Oguta
+    iso3c: NGA
+    shapeID: 59680162B16893313163973
+  OhafiaAdm2NGA:
+    admin_name: Ohafia
+    iso3c: NGA
+    shapeID: 59680162B76876152340896
+  Ohaji/EgbemaAdm2NGA:
+    admin_name: Ohaji/Egbema
+    iso3c: NGA
+    shapeID: 59680162B99262810585367
+  OhaozaraAdm2NGA:
+    admin_name: Ohaozara
+    iso3c: NGA
+    shapeID: 59680162B76130047047659
+  OhaukwuAdm2NGA:
+    admin_name: Ohaukwu
+    iso3c: NGA
+    shapeID: 59680162B24000905354670
+  OhiminiAdm2NGA:
+    admin_name: Ohimini
+    iso3c: NGA
+    shapeID: 59680162B2835516393243
+  Oji-RiverAdm2NGA:
+    admin_name: Oji-River
+    iso3c: NGA
+    shapeID: 59680162B15532351721986
+  OjoAdm2NGA:
+    admin_name: Ojo
+    iso3c: NGA
+    shapeID: 59680162B67711641000031
+  OjuAdm2NGA:
+    admin_name: Oju
+    iso3c: NGA
+    shapeID: 59680162B46226733150895
+  OkeEroAdm2NGA:
+    admin_name: OkeEro
+    iso3c: NGA
+    shapeID: 59680162B41605859942250
+  OkehiAdm2NGA:
+    admin_name: Okehi
+    iso3c: NGA
+    shapeID: 59680162B48603200461333
+  OkeneAdm2NGA:
+    admin_name: Okene
+    iso3c: NGA
+    shapeID: 59680162B23991224305955
+  OkigweAdm2NGA:
+    admin_name: Okigwe
+    iso3c: NGA
+    shapeID: 59680162B88090020431393
+  OkitipupaAdm2NGA:
+    admin_name: Okitipupa
+    iso3c: NGA
+    shapeID: 59680162B5540117047510
+  OkoboAdm2NGA:
+    admin_name: Okobo
+    iso3c: NGA
+    shapeID: 59680162B18997887117478
+  OkpeAdm2NGA:
+    admin_name: Okpe
+    iso3c: NGA
+    shapeID: 59680162B68325668602500
+  OkpokwuAdm2NGA:
+    admin_name: Okpokwu
+    iso3c: NGA
+    shapeID: 59680162B94450341733030
+  OkrikaAdm2NGA:
+    admin_name: Okrika
+    iso3c: NGA
+    shapeID: 59680162B90615098764032
+  OlamaboroAdm2NGA:
+    admin_name: Olamaboro
+    iso3c: NGA
+    shapeID: 59680162B45171834970391
+  OlaOluwaAdm2NGA:
+    admin_name: OlaOluwa
+    iso3c: NGA
+    shapeID: 59680162B48244867814587
+  OlorundaAdm2NGA:
+    admin_name: Olorunda
+    iso3c: NGA
+    shapeID: 59680162B28193395760126
+  OlorunsogoAdm2NGA:
+    admin_name: Olorunsogo
+    iso3c: NGA
+    shapeID: 59680162B59717618896779
+  OluyoleAdm2NGA:
+    admin_name: Oluyole
+    iso3c: NGA
+    shapeID: 59680162B11018926765325
+  OmalaAdm2NGA:
+    admin_name: Omala
+    iso3c: NGA
+    shapeID: 59680162B69944768623609
+  OmummaAdm2NGA:
+    admin_name: Omumma
+    iso3c: NGA
+    shapeID: 59680162B88302028338466
+  OnaAraAdm2NGA:
+    admin_name: OnaAra
+    iso3c: NGA
+    shapeID: 59680162B85361781814064
+  OndoAdm1NGA:
+    admin_name: Ondo
+    iso3c: NGA
+    shapeID: 27671186B41407594687181
+  OndoEastAdm2NGA:
+    admin_name: OndoEast
+    iso3c: NGA
+    shapeID: 59680162B42065071303183
+  OndoWestAdm2NGA:
+    admin_name: OndoWest
+    iso3c: NGA
+    shapeID: 59680162B72514771239598
+  OnichaAdm2NGA:
+    admin_name: Onicha
+    iso3c: NGA
+    shapeID: 59680162B38335311272259
+  OnitshaNorthAdm2NGA:
+    admin_name: OnitshaNorth
+    iso3c: NGA
+    shapeID: 59680162B73411137510562
+  OnitshaSouthAdm2NGA:
+    admin_name: OnitshaSouth
+    iso3c: NGA
+    shapeID: 59680162B59497895637604
+  OnnaAdm2NGA:
+    admin_name: Onna
+    iso3c: NGA
+    shapeID: 59680162B70948216254513
+  OnuimoAdm2NGA:
+    admin_name: Onuimo
+    iso3c: NGA
+    shapeID: 59680162B32871052171758
+  Opobo/NkoroAdm2NGA:
+    admin_name: Opobo/Nkoro
+    iso3c: NGA
+    shapeID: 59680162B46802984315739
+  OredoAdm2NGA:
+    admin_name: Oredo
+    iso3c: NGA
+    shapeID: 59680162B51317919954642
+  OrelopeAdm2NGA:
+    admin_name: Orelope
+    iso3c: NGA
+    shapeID: 59680162B54897023187709
+  OrhionmwonAdm2NGA:
+    admin_name: Orhionmwon
+    iso3c: NGA
+    shapeID: 59680162B17520648889441
+  OriadeAdm2NGA:
+    admin_name: Oriade
+    iso3c: NGA
+    shapeID: 59680162B70922239420655
+  OriIreAdm2NGA:
+    admin_name: OriIre
+    iso3c: NGA
+    shapeID: 59680162B81796058650879
+  OrluAdm2NGA:
+    admin_name: Orlu
+    iso3c: NGA
+    shapeID: 59680162B21498960785654
+  OroluAdm2NGA:
+    admin_name: Orolu
+    iso3c: NGA
+    shapeID: 59680162B59567965419701
+  OronAdm2NGA:
+    admin_name: Oron
+    iso3c: NGA
+    shapeID: 59680162B48458945930175
+  OrsuAdm2NGA:
+    admin_name: Orsu
+    iso3c: NGA
+    shapeID: 59680162B44850901768514
+  OruEastAdm2NGA:
+    admin_name: OruEast
+    iso3c: NGA
+    shapeID: 59680162B91755424681987
+  OrukAnamAdm2NGA:
+    admin_name: OrukAnam
+    iso3c: NGA
+    shapeID: 59680162B34726688570577
+  OrumbaNorthAdm2NGA:
+    admin_name: OrumbaNorth
+    iso3c: NGA
+    shapeID: 59680162B54356159238049
+  OrumbaSouthAdm2NGA:
+    admin_name: OrumbaSouth
+    iso3c: NGA
+    shapeID: 59680162B16963737840115
+  OruWestAdm2NGA:
+    admin_name: OruWest
+    iso3c: NGA
+    shapeID: 59680162B53120698145103
+  OseAdm2NGA:
+    admin_name: Ose
+    iso3c: NGA
+    shapeID: 59680162B83455285452940
+  OshimiliNorthAdm2NGA:
+    admin_name: OshimiliNorth
+    iso3c: NGA
+    shapeID: 59680162B77604659700593
+  OshimiliSouthAdm2NGA:
+    admin_name: OshimiliSouth
+    iso3c: NGA
+    shapeID: 59680162B32979491305099
+  Oshodi/IsoloAdm2NGA:
+    admin_name: Oshodi/Isolo
+    iso3c: NGA
+    shapeID: 59680162B18924931802221
+  OsisiomaNgwaAdm2NGA:
+    admin_name: OsisiomaNgwa
+    iso3c: NGA
+    shapeID: 59680162B33112577829488
+  OsogboAdm2NGA:
+    admin_name: Osogbo
+    iso3c: NGA
+    shapeID: 59680162B73238408569532
+  OsunAdm1NGA:
+    admin_name: Osun
+    iso3c: NGA
+    shapeID: 27671186B37873222803025
+  OturkpoAdm2NGA:
+    admin_name: Oturkpo
+    iso3c: NGA
+    shapeID: 59680162B20372712773645
+  OviaNorth-EastAdm2NGA:
+    admin_name: OviaNorth-East
+    iso3c: NGA
+    shapeID: 59680162B48615386953659
+  OviaSouth-WestAdm2NGA:
+    admin_name: OviaSouth-West
+    iso3c: NGA
+    shapeID: 59680162B58622494857171
+  OwanEastAdm2NGA:
+    admin_name: OwanEast
+    iso3c: NGA
+    shapeID: 59680162B90522809362613
+  OwanWestAdm2NGA:
+    admin_name: OwanWest
+    iso3c: NGA
+    shapeID: 59680162B12689851933854
+  OwerriMunicipalAdm2NGA:
+    admin_name: OwerriMunicipal
+    iso3c: NGA
+    shapeID: 59680162B94225169025314
+  OwerriNorthAdm2NGA:
+    admin_name: OwerriNorth
+    iso3c: NGA
+    shapeID: 59680162B39513276000218
+  OwerriWestAdm2NGA:
+    admin_name: OwerriWest
+    iso3c: NGA
+    shapeID: 59680162B78900735102434
+  OwoAdm2NGA:
+    admin_name: Owo
+    iso3c: NGA
+    shapeID: 59680162B88663407419721
+  OyeAdm2NGA:
+    admin_name: Oye
+    iso3c: NGA
+    shapeID: 59680162B43824241108050
+  OyiAdm2NGA:
+    admin_name: Oyi
+    iso3c: NGA
+    shapeID: 59680162B91981903970684
+  OyigboAdm2NGA:
+    admin_name: Oyigbo
+    iso3c: NGA
+    shapeID: 59680162B52775693188226
+  OyoAdm1NGA:
+    admin_name: Oyo
+    iso3c: NGA
+    shapeID: 27671186B56513237316251
+  OyoEastAdm2NGA:
+    admin_name: OyoEast
+    iso3c: NGA
+    shapeID: 59680162B21986463159939
+  OyoWestAdm2NGA:
+    admin_name: OyoWest
+    iso3c: NGA
+    shapeID: 59680162B62394297156991
+  OyunAdm2NGA:
+    admin_name: Oyun
+    iso3c: NGA
+    shapeID: 59680162B5525087107293
+  PaikoroAdm2NGA:
+    admin_name: Paikoro
+    iso3c: NGA
+    shapeID: 59680162B6318880418470
+  PankshinAdm2NGA:
+    admin_name: Pankshin
+    iso3c: NGA
+    shapeID: 59680162B11957186029310
+  PataniAdm2NGA:
+    admin_name: Patani
+    iso3c: NGA
+    shapeID: 59680162B21067903036313
+  PategiAdm2NGA:
+    admin_name: Pategi
+    iso3c: NGA
+    shapeID: 59680162B29829764060990
+  PlateauAdm1NGA:
+    admin_name: Plateau
+    iso3c: NGA
+    shapeID: 27671186B51792679167430
+  Port-HarcourtAdm2NGA:
+    admin_name: Port-Harcourt
+    iso3c: NGA
+    shapeID: 59680162B27901935497545
+  PotiskumAdm2NGA:
+    admin_name: Potiskum
+    iso3c: NGA
+    shapeID: 59680162B46130456424051
+  Qua'AnPanAdm2NGA:
+    admin_name: Qua'AnPan
+    iso3c: NGA
+    shapeID: 59680162B7635361694273
+  RabahAdm2NGA:
+    admin_name: Rabah
+    iso3c: NGA
+    shapeID: 59680162B28016750993437
+  RafiAdm2NGA:
+    admin_name: Rafi
+    iso3c: NGA
+    shapeID: 59680162B49809531314946
+  RanoAdm2NGA:
+    admin_name: Rano
+    iso3c: NGA
+    shapeID: 59680162B88243538379460
+  RemoNorthAdm2NGA:
+    admin_name: RemoNorth
+    iso3c: NGA
+    shapeID: 59680162B54973397451304
+  RijauAdm2NGA:
+    admin_name: Rijau
+    iso3c: NGA
+    shapeID: 59680162B75618838886778
+  RimiAdm2NGA:
+    admin_name: Rimi
+    iso3c: NGA
+    shapeID: 59680162B87154562016330
+  RiminGadoAdm2NGA:
+    admin_name: RiminGado
+    iso3c: NGA
+    shapeID: 59680162B46553103488347
+  RingimAdm2NGA:
+    admin_name: Ringim
+    iso3c: NGA
+    shapeID: 59680162B52609098277437
+  RiversAdm1NGA:
+    admin_name: Rivers
+    iso3c: NGA
+    shapeID: 27671186B95832466049157
+  RiyomAdm2NGA:
+    admin_name: Riyom
+    iso3c: NGA
+    shapeID: 59680162B48237076936000
+  RogoAdm2NGA:
+    admin_name: Rogo
+    iso3c: NGA
+    shapeID: 59680162B53174064204838
+  RoniAdm2NGA:
+    admin_name: Roni
+    iso3c: NGA
+    shapeID: 59680162B41504820717654
+  SabonBirniAdm2NGA:
+    admin_name: SabonBirni
+    iso3c: NGA
+    shapeID: 59680162B48318677941344
+  SabonGariAdm2NGA:
+    admin_name: SabonGari
+    iso3c: NGA
+    shapeID: 59680162B7149387462115
+  SabuwaAdm2NGA:
+    admin_name: Sabuwa
+    iso3c: NGA
+    shapeID: 59680162B20254719160886
+  SafanaAdm2NGA:
+    admin_name: Safana
+    iso3c: NGA
+    shapeID: 59680162B21692666530817
+  SagbamaAdm2NGA:
+    admin_name: Sagbama
+    iso3c: NGA
+    shapeID: 59680162B84100135495566
+  SakabaAdm2NGA:
+    admin_name: Sakaba
+    iso3c: NGA
+    shapeID: 59680162B48034518845808
+  SakiEastAdm2NGA:
+    admin_name: SakiEast
+    iso3c: NGA
+    shapeID: 59680162B31759462460359
+  SakiWestAdm2NGA:
+    admin_name: SakiWest
+    iso3c: NGA
+    shapeID: 59680162B14133510851755
+  SandamuAdm2NGA:
+    admin_name: Sandamu
+    iso3c: NGA
+    shapeID: 59680162B54666922464494
+  SangaAdm2NGA:
+    admin_name: Sanga
+    iso3c: NGA
+    shapeID: 59680162B60875368726655
+  SapeleAdm2NGA:
+    admin_name: Sapele
+    iso3c: NGA
+    shapeID: 59680162B63156374952276
+  SardaunaAdm2NGA:
+    admin_name: Sardauna
+    iso3c: NGA
+    shapeID: 59680162B82734256395858
+  ShagamuAdm2NGA:
+    admin_name: Shagamu
+    iso3c: NGA
+    shapeID: 59680162B49213136576829
+  ShagariAdm2NGA:
+    admin_name: Shagari
+    iso3c: NGA
+    shapeID: 59680162B23595872951211
+  ShangaAdm2NGA:
+    admin_name: Shanga
+    iso3c: NGA
+    shapeID: 59680162B85769693016783
+  ShaniAdm2NGA:
+    admin_name: Shani
+    iso3c: NGA
+    shapeID: 59680162B31817043180897
+  ShanonoAdm2NGA:
+    admin_name: Shanono
+    iso3c: NGA
+    shapeID: 59680162B7876035432306
+  ShellengAdm2NGA:
+    admin_name: Shelleng
+    iso3c: NGA
+    shapeID: 59680162B98903295811344
+  ShendamAdm2NGA:
+    admin_name: Shendam
+    iso3c: NGA
+    shapeID: 59680162B53080807091718
+  ShinkafiAdm2NGA:
+    admin_name: Shinkafi
+    iso3c: NGA
+    shapeID: 59680162B85493721249292
+  ShiraAdm2NGA:
+    admin_name: Shira
+    iso3c: NGA
+    shapeID: 59680162B33775428128459
+  ShiroroAdm2NGA:
+    admin_name: Shiroro
+    iso3c: NGA
+    shapeID: 59680162B70265669805684
+  ShomgomAdm2NGA:
+    admin_name: Shomgom
+    iso3c: NGA
+    shapeID: 59680162B64183111122385
+  ShomoluAdm2NGA:
+    admin_name: Shomolu
+    iso3c: NGA
+    shapeID: 59680162B68379866165825
+  SilameAdm2NGA:
+    admin_name: Silame
+    iso3c: NGA
+    shapeID: 59680162B89701706643364
+  SobaAdm2NGA:
+    admin_name: Soba
+    iso3c: NGA
+    shapeID: 59680162B47761767082139
+  SokotoAdm1NGA:
+    admin_name: Sokoto
+    iso3c: NGA
+    shapeID: 27671186B99510750195830
+  SokotoNorthAdm2NGA:
+    admin_name: SokotoNorth
+    iso3c: NGA
+    shapeID: 59680162B91492845849591
+  SokotoSouthAdm2NGA:
+    admin_name: SokotoSouth
+    iso3c: NGA
+    shapeID: 59680162B89921626898623
+  SongAdm2NGA:
+    admin_name: Song
+    iso3c: NGA
+    shapeID: 59680162B82996162763265
+  SouthernIjawAdm2NGA:
+    admin_name: SouthernIjaw
+    iso3c: NGA
+    shapeID: 59680162B89388744582495
+  SulejaAdm2NGA:
+    admin_name: Suleja
+    iso3c: NGA
+    shapeID: 59680162B91872344495309
+  SuleTankarkarAdm2NGA:
+    admin_name: SuleTankarkar
+    iso3c: NGA
+    shapeID: 59680162B44120553871969
+  SumailaAdm2NGA:
+    admin_name: Sumaila
+    iso3c: NGA
+    shapeID: 59680162B87731060313783
+  SuruAdm2NGA:
+    admin_name: Suru
+    iso3c: NGA
+    shapeID: 59680162B61567493958965
+  SurulereAdm2NGA:
+    admin_name: Surulere
+    iso3c: NGA
+    shapeID: 59680162B17719625697929
+  TafaAdm2NGA:
+    admin_name: Tafa
+    iso3c: NGA
+    shapeID: 59680162B63010488329613
+  Tafawa-BalewaAdm2NGA:
+    admin_name: Tafawa-Balewa
+    iso3c: NGA
+    shapeID: 59680162B48786148420785
+  TaiAdm2NGA:
+    admin_name: Tai
+    iso3c: NGA
+    shapeID: 59680162B30773772502776
+  TakaiAdm2NGA:
+    admin_name: Takai
+    iso3c: NGA
+    shapeID: 59680162B89970230221745
+  TakumAdm2NGA:
+    admin_name: Takum
+    iso3c: NGA
+    shapeID: 59680162B27926848768432
+  TalataMafaraAdm2NGA:
+    admin_name: TalataMafara
+    iso3c: NGA
+    shapeID: 59680162B53803782710688
+  TambuwalAdm2NGA:
+    admin_name: Tambuwal
+    iso3c: NGA
+    shapeID: 59680162B21010588258079
+  TangazaAdm2NGA:
+    admin_name: Tangaza
+    iso3c: NGA
+    shapeID: 59680162B53228015633193
+  TarabaAdm1NGA:
+    admin_name: Taraba
+    iso3c: NGA
+    shapeID: 27671186B83252759475924
+  TarauniAdm2NGA:
+    admin_name: Tarauni
+    iso3c: NGA
+    shapeID: 59680162B24840578600877
+  TarkaAdm2NGA:
+    admin_name: Tarka
+    iso3c: NGA
+    shapeID: 59680162B13650355505793
+  TarmuwaAdm2NGA:
+    admin_name: Tarmuwa
+    iso3c: NGA
+    shapeID: 59680162B67238968218645
+  TauraAdm2NGA:
+    admin_name: Taura
+    iso3c: NGA
+    shapeID: 59680162B96971531554224
+  TofaAdm2NGA:
+    admin_name: Tofa
+    iso3c: NGA
+    shapeID: 59680162B46902450612836
+  ToroAdm2NGA:
+    admin_name: Toro
+    iso3c: NGA
+    shapeID: 59680162B15165581574851
+  TotoAdm2NGA:
+    admin_name: Toto
+    iso3c: NGA
+    shapeID: 59680162B43531883815254
+  ToungoAdm2NGA:
+    admin_name: Toungo
+    iso3c: NGA
+    shapeID: 59680162B46313771844948
+  TsafeAdm2NGA:
+    admin_name: Tsafe
+    iso3c: NGA
+    shapeID: 59680162B12426298681132
+  TsanyawaAdm2NGA:
+    admin_name: Tsanyawa
+    iso3c: NGA
+    shapeID: 59680162B88365177272018
+  TudunWadaAdm2NGA:
+    admin_name: TudunWada
+    iso3c: NGA
+    shapeID: 59680162B84327981884458
+  TuretaAdm2NGA:
+    admin_name: Tureta
+    iso3c: NGA
+    shapeID: 59680162B25728635468586
+  UdenuAdm2NGA:
+    admin_name: Udenu
+    iso3c: NGA
+    shapeID: 59680162B44643250914735
+  UdiAdm2NGA:
+    admin_name: Udi
+    iso3c: NGA
+    shapeID: 59680162B18977545928744
+  UduAdm2NGA:
+    admin_name: Udu
+    iso3c: NGA
+    shapeID: 59680162B80910542790982
+  UdungUkoAdm2NGA:
+    admin_name: UdungUko
+    iso3c: NGA
+    shapeID: 59680162B95559320678868
+  UghelliNorthAdm2NGA:
+    admin_name: UghelliNorth
+    iso3c: NGA
+    shapeID: 59680162B70966513794539
+  UghelliSouthAdm2NGA:
+    admin_name: UghelliSouth
+    iso3c: NGA
+    shapeID: 59680162B30773939854921
+  UgwunagboAdm2NGA:
+    admin_name: Ugwunagbo
+    iso3c: NGA
+    shapeID: 59680162B43108992465432
+  UhunmwondeAdm2NGA:
+    admin_name: Uhunmwonde
+    iso3c: NGA
+    shapeID: 59680162B15998169506024
+  UkanafunAdm2NGA:
+    admin_name: Ukanafun
+    iso3c: NGA
+    shapeID: 59680162B24434385919413
+  UkumAdm2NGA:
+    admin_name: Ukum
+    iso3c: NGA
+    shapeID: 59680162B14415495238729
+  UkwaEastAdm2NGA:
+    admin_name: UkwaEast
+    iso3c: NGA
+    shapeID: 59680162B72042998542035
+  UkwaWestAdm2NGA:
+    admin_name: UkwaWest
+    iso3c: NGA
+    shapeID: 59680162B46910461063287
+  UkwuaniAdm2NGA:
+    admin_name: Ukwuani
+    iso3c: NGA
+    shapeID: 59680162B21365932465956
+  Umu-NneochiAdm2NGA:
+    admin_name: Umu-Nneochi
+    iso3c: NGA
+    shapeID: 59680162B46179290363212
+  UmuahiaNorthAdm2NGA:
+    admin_name: UmuahiaNorth
+    iso3c: NGA
+    shapeID: 59680162B14302921886514
+  UmuahiaSouthAdm2NGA:
+    admin_name: UmuahiaSouth
+    iso3c: NGA
+    shapeID: 59680162B33788323646847
+  UngogoAdm2NGA:
+    admin_name: Ungogo
+    iso3c: NGA
+    shapeID: 59680162B36976404849364
+  UruanAdm2NGA:
+    admin_name: Uruan
+    iso3c: NGA
+    shapeID: 59680162B72404517830917
+  UrueOffong/OrukoAdm2NGA:
+    admin_name: UrueOffong/Oruko
+    iso3c: NGA
+    shapeID: 59680162B91433810506609
+  UshongoAdm2NGA:
+    admin_name: Ushongo
+    iso3c: NGA
+    shapeID: 59680162B69595078054024
+  UssaAdm2NGA:
+    admin_name: Ussa
+    iso3c: NGA
+    shapeID: 59680162B61170702756328
+  UvwieAdm2NGA:
+    admin_name: Uvwie
+    iso3c: NGA
+    shapeID: 59680162B58427071840888
+  UyoAdm2NGA:
+    admin_name: Uyo
+    iso3c: NGA
+    shapeID: 59680162B78634023582239
+  Uzo-UwaniAdm2NGA:
+    admin_name: Uzo-Uwani
+    iso3c: NGA
+    shapeID: 59680162B64770944232121
+  VandeikyaAdm2NGA:
+    admin_name: Vandeikya
+    iso3c: NGA
+    shapeID: 59680162B81014786719276
+  WamakkoAdm2NGA:
+    admin_name: Wamakko
+    iso3c: NGA
+    shapeID: 59680162B10831398447622
+  WambaAdm2NGA:
+    admin_name: Wamba
+    iso3c: NGA
+    shapeID: 59680162B37281482686762
+  WarawaAdm2NGA:
+    admin_name: Warawa
+    iso3c: NGA
+    shapeID: 59680162B63361885953813
+  WarjiAdm2NGA:
+    admin_name: Warji
+    iso3c: NGA
+    shapeID: 59680162B82946706311025
+  WarriNorthAdm2NGA:
+    admin_name: WarriNorth
+    iso3c: NGA
+    shapeID: 59680162B93651715341205
+  WarriSouth-WestAdm2NGA:
+    admin_name: WarriSouth-West
+    iso3c: NGA
+    shapeID: 59680162B46174350236230
+  WarriSouthAdm2NGA:
+    admin_name: WarriSouth
+    iso3c: NGA
+    shapeID: 59680162B21053239387442
+  Wasagu-DankoAdm2NGA:
+    admin_name: Wasagu-Danko
+    iso3c: NGA
+    shapeID: 59680162B4050907661224
+  WaseAdm2NGA:
+    admin_name: Wase
+    iso3c: NGA
+    shapeID: 59680162B1443452948914
+  WudilAdm2NGA:
+    admin_name: Wudil
+    iso3c: NGA
+    shapeID: 59680162B14541309037731
+  WukariAdm2NGA:
+    admin_name: Wukari
+    iso3c: NGA
+    shapeID: 59680162B18982121994254
+  WurnoAdm2NGA:
+    admin_name: Wurno
+    iso3c: NGA
+    shapeID: 59680162B797578221173
+  WushishiAdm2NGA:
+    admin_name: Wushishi
+    iso3c: NGA
+    shapeID: 59680162B62313947241233
+  YaboAdm2NGA:
+    admin_name: Yabo
+    iso3c: NGA
+    shapeID: 59680162B68131021355449
+  YagbaEastAdm2NGA:
+    admin_name: YagbaEast
+    iso3c: NGA
+    shapeID: 59680162B47068494760958
+  YagbaWestAdm2NGA:
+    admin_name: YagbaWest
+    iso3c: NGA
+    shapeID: 59680162B26925253941931
+  YakurrAdm2NGA:
+    admin_name: Yakurr
+    iso3c: NGA
+    shapeID: 59680162B19335323694639
+  YalaAdm2NGA:
+    admin_name: Yala
+    iso3c: NGA
+    shapeID: 59680162B30655337934726
+  Yamaltu/DebaAdm2NGA:
+    admin_name: Yamaltu/Deba
+    iso3c: NGA
+    shapeID: 59680162B47339407576735
+  YankwashiAdm2NGA:
+    admin_name: Yankwashi
+    iso3c: NGA
+    shapeID: 59680162B90957738044815
+  YauriAdm2NGA:
+    admin_name: Yauri
+    iso3c: NGA
+    shapeID: 59680162B47779539071975
+  YenegoaAdm2NGA:
+    admin_name: Yenegoa
+    iso3c: NGA
+    shapeID: 59680162B64829234996535
+  YewaNorthAdm2NGA:
+    admin_name: YewaNorth
+    iso3c: NGA
+    shapeID: 59680162B21216344152794
+  YewaSouthAdm2NGA:
+    admin_name: YewaSouth
+    iso3c: NGA
+    shapeID: 59680162B97490121732821
+  YobeAdm1NGA:
+    admin_name: Yobe
+    iso3c: NGA
+    shapeID: 27671186B69054806776702
+  YolaNorthAdm2NGA:
+    admin_name: YolaNorth
+    iso3c: NGA
+    shapeID: 59680162B21673152212894
+  YolaSouthAdm2NGA:
+    admin_name: YolaSouth
+    iso3c: NGA
+    shapeID: 59680162B24147659958725
+  YorroAdm2NGA:
+    admin_name: Yorro
+    iso3c: NGA
+    shapeID: 59680162B40051654285197
+  YunusariAdm2NGA:
+    admin_name: Yunusari
+    iso3c: NGA
+    shapeID: 59680162B1638752109374
+  YusufariAdm2NGA:
+    admin_name: Yusufari
+    iso3c: NGA
+    shapeID: 59680162B61002782115608
+  ZakiAdm2NGA:
+    admin_name: Zaki
+    iso3c: NGA
+    shapeID: 59680162B26282391091652
+  ZamfaraAdm1NGA:
+    admin_name: Zamfara
+    iso3c: NGA
+    shapeID: 27671186B21163522287660
+  ZangoAdm2NGA:
+    admin_name: Zango
+    iso3c: NGA
+    shapeID: 59680162B91454305469147
+  ZangonKatafAdm2NGA:
+    admin_name: ZangonKataf
+    iso3c: NGA
+    shapeID: 59680162B76884691739548
+  ZariaAdm2NGA:
+    admin_name: Zaria
+    iso3c: NGA
+    shapeID: 59680162B50201894093674
+  ZingAdm2NGA:
+    admin_name: Zing
+    iso3c: NGA
+    shapeID: 59680162B60568566930973
+  ZurmiAdm2NGA:
+    admin_name: Zurmi
+    iso3c: NGA
+    shapeID: 59680162B55239717258244
+  ZuruAdm2NGA:
+    admin_name: Zuru
+    iso3c: NGA
+    shapeID: 59680162B28239494939120

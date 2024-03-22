@@ -1,24 +1,373 @@
 concepts:
-    - Mayo-KebbiEst
-    - Ennedi-Ouest
-    - Mayo-KebbiOuest
-    - Tandjilé
-    - WadiFira
-    - Moyen-Chari
-    - Borkou
-    - Chari-Baguirmi
-    - Lac
-    - Salamat
-    - Sila
-    - Mandoul
-    - Ouaddaï
-    - LogoneOccidental
-    - LogoneOriental
-    - Hadjer-Lamis
-    - BahrelGazel
-    - Guéra
-    - Batha
-    - Tibesti
-    - Kanem
-    - N'DjamenaRegion
-    - Ennedi-Est
+  AbdiAdm2TCD:
+    admin_name: Abdi
+    iso3c: TCD
+    shapeID: 50815135B4539380481876
+  AboudéiaAdm2TCD:
+    admin_name: Aboudéia
+    iso3c: TCD
+    shapeID: 50815135B13353907786726
+  AbtouyourAdm2TCD:
+    admin_name: Abtouyour
+    iso3c: TCD
+    shapeID: 50815135B86536624745263
+  Am-DjarassAdm2TCD:
+    admin_name: Am-Djarass
+    iso3c: TCD
+    shapeID: 50815135B96833037498211
+  AssounghaAdm2TCD:
+    admin_name: Assoungha
+    iso3c: TCD
+    shapeID: 50815135B12284790062818
+  BaguirmiAdm2TCD:
+    admin_name: Baguirmi
+    iso3c: TCD
+    shapeID: 50815135B83477967363059
+  Bahr-AzoumAdm2TCD:
+    admin_name: Bahr-Azoum
+    iso3c: TCD
+    shapeID: 50815135B73615292321578
+  Bahr-KöhAdm2TCD:
+    admin_name: Bahr-Köh
+    iso3c: TCD
+    shapeID: 50815135B48101754695472
+  BahrelGazelAdm1TCD:
+    admin_name: BahrelGazel
+    iso3c: TCD
+    shapeID: 23847190B86845512760819
+  Barh-El-GazelNordAdm2TCD:
+    admin_name: Barh-El-GazelNord
+    iso3c: TCD
+    shapeID: 50815135B23579173703051
+  Barh-El-GazelOuestAdm2TCD:
+    admin_name: Barh-El-GazelOuest
+    iso3c: TCD
+    shapeID: 50815135B59767652467514
+  Barh-El-GazelSudAdm2TCD:
+    admin_name: Barh-El-GazelSud
+    iso3c: TCD
+    shapeID: 50815135B11223303174297
+  Barh-SaraAdm2TCD:
+    admin_name: Barh-Sara
+    iso3c: TCD
+    shapeID: 50815135B19223233714044
+  Barh-SignakaAdm2TCD:
+    admin_name: Barh-Signaka
+    iso3c: TCD
+    shapeID: 50815135B50589595383303
+  BathaAdm1TCD:
+    admin_name: Batha
+    iso3c: TCD
+    shapeID: 23847190B10962291388144
+  BathaEstAdm2TCD:
+    admin_name: BathaEst
+    iso3c: TCD
+    shapeID: 50815135B79604505945545
+  BathaOuestAdm2TCD:
+    admin_name: BathaOuest
+    iso3c: TCD
+    shapeID: 50815135B78939282341988
+  BiltineAdm2TCD:
+    admin_name: Biltine
+    iso3c: TCD
+    shapeID: 50815135B98948114650625
+  BorkouAdm1TCD:
+    admin_name: Borkou
+    iso3c: TCD
+    shapeID: 23847190B42201300909064
+  BorkouAdm2TCD:
+    admin_name: Borkou
+    iso3c: TCD
+    shapeID: 50815135B4564368173337
+  BorkouYalaAdm2TCD:
+    admin_name: BorkouYala
+    iso3c: TCD
+    shapeID: 50815135B13621547433724
+  Chari-BaguirmiAdm1TCD:
+    admin_name: Chari-Baguirmi
+    iso3c: TCD
+    shapeID: 23847190B26801534542350
+  ChariAdm2TCD:
+    admin_name: Chari
+    iso3c: TCD
+    shapeID: 50815135B55510615891344
+  DababaAdm2TCD:
+    admin_name: Dababa
+    iso3c: TCD
+    shapeID: 50815135B80092252042653
+  DaganaAdm2TCD:
+    admin_name: Dagana
+    iso3c: TCD
+    shapeID: 50815135B82618270305421
+  Dar-TamaAdm2TCD:
+    admin_name: Dar-Tama
+    iso3c: TCD
+    shapeID: 50815135B35128958764518
+  DjourfAlAhmarAdm2TCD:
+    admin_name: DjourfAlAhmar
+    iso3c: TCD
+    shapeID: 50815135B90510100968968
+  DodjéAdm2TCD:
+    admin_name: Dodjé
+    iso3c: TCD
+    shapeID: 50815135B21432441174008
+  Ennedi-EstAdm1TCD:
+    admin_name: Ennedi-Est
+    iso3c: TCD
+    shapeID: 23847190B43219597202588
+  Ennedi-OuestAdm1TCD:
+    admin_name: Ennedi-Ouest
+    iso3c: TCD
+    shapeID: 23847190B77249644038093
+  FadaAdm2TCD:
+    admin_name: Fada
+    iso3c: TCD
+    shapeID: 50815135B99861554638026
+  FitriAdm2TCD:
+    admin_name: Fitri
+    iso3c: TCD
+    shapeID: 50815135B60006364885554
+  FouliAdm2TCD:
+    admin_name: Fouli
+    iso3c: TCD
+    shapeID: 50815135B95453652867262
+  GrandeSidoAdm2TCD:
+    admin_name: GrandeSido
+    iso3c: TCD
+    shapeID: 50815135B5443465425830
+  GuéniAdm2TCD:
+    admin_name: Guéni
+    iso3c: TCD
+    shapeID: 50815135B88319439398100
+  GuéraAdm1TCD:
+    admin_name: Guéra
+    iso3c: TCD
+    shapeID: 23847190B67442151938208
+  GuéraAdm2TCD:
+    admin_name: Guéra
+    iso3c: TCD
+    shapeID: 50815135B83117027765697
+  Hadjer-LamisAdm1TCD:
+    admin_name: Hadjer-Lamis
+    iso3c: TCD
+    shapeID: 23847190B62369995372725
+  Haraze-Al-BiarAdm2TCD:
+    admin_name: Haraze-Al-Biar
+    iso3c: TCD
+    shapeID: 50815135B49730685193773
+  Haraze-MangueigneAdm2TCD:
+    admin_name: Haraze-Mangueigne
+    iso3c: TCD
+    shapeID: 50815135B51440340925469
+  KabbiaAdm2TCD:
+    admin_name: Kabbia
+    iso3c: TCD
+    shapeID: 50815135B59741228858752
+  KanemAdm1TCD:
+    admin_name: Kanem
+    iso3c: TCD
+    shapeID: 23847190B36105987279194
+  KanemAdm2TCD:
+    admin_name: Kanem
+    iso3c: TCD
+    shapeID: 50815135B90270246712933
+  KayaAdm2TCD:
+    admin_name: Kaya
+    iso3c: TCD
+    shapeID: 50815135B89390943871593
+  KimitiAdm2TCD:
+    admin_name: Kimiti
+    iso3c: TCD
+    shapeID: 50815135B66817745888418
+  KobéAdm2TCD:
+    admin_name: Kobé
+    iso3c: TCD
+    shapeID: 50815135B20529104749764
+  KouhEstAdm2TCD:
+    admin_name: KouhEst
+    iso3c: TCD
+    shapeID: 50815135B98764858098702
+  KouhOuestAdm2TCD:
+    admin_name: KouhOuest
+    iso3c: TCD
+    shapeID: 50815135B27112556056018
+  LacAdm1TCD:
+    admin_name: Lac
+    iso3c: TCD
+    shapeID: 23847190B4179112565003
+  LacIroAdm2TCD:
+    admin_name: LacIro
+    iso3c: TCD
+    shapeID: 50815135B94662216566844
+  LacLéréAdm2TCD:
+    admin_name: LacLéré
+    iso3c: TCD
+    shapeID: 50815135B81119267829848
+  LacWeyAdm2TCD:
+    admin_name: LacWey
+    iso3c: TCD
+    shapeID: 50815135B84328468709684
+  LaNyaAdm2TCD:
+    admin_name: LaNya
+    iso3c: TCD
+    shapeID: 50815135B28220035440725
+  LaNyaPendéAdm2TCD:
+    admin_name: LaNyaPendé
+    iso3c: TCD
+    shapeID: 50815135B51143570982343
+  LaPendéAdm2TCD:
+    admin_name: LaPendé
+    iso3c: TCD
+    shapeID: 50815135B99305267844407
+  LogoneOccidentalAdm1TCD:
+    admin_name: LogoneOccidental
+    iso3c: TCD
+    shapeID: 23847190B3193897628622
+  LogoneOrientalAdm1TCD:
+    admin_name: LogoneOriental
+    iso3c: TCD
+    shapeID: 23847190B88704211588167
+  Loug-ChariAdm2TCD:
+    admin_name: Loug-Chari
+    iso3c: TCD
+    shapeID: 50815135B30125763845581
+  MamdiAdm2TCD:
+    admin_name: Mamdi
+    iso3c: TCD
+    shapeID: 50815135B65244945482941
+  MandoulAdm1TCD:
+    admin_name: Mandoul
+    iso3c: TCD
+    shapeID: 23847190B9655016434554
+  MandoulOccidentalAdm2TCD:
+    admin_name: MandoulOccidental
+    iso3c: TCD
+    shapeID: 50815135B23154120961269
+  MandoulOrientalAdm2TCD:
+    admin_name: MandoulOriental
+    iso3c: TCD
+    shapeID: 50815135B49309888435923
+  MangalméAdm2TCD:
+    admin_name: Mangalmé
+    iso3c: TCD
+    shapeID: 50815135B54463089232866
+  Mayo-BinderAdm2TCD:
+    admin_name: Mayo-Binder
+    iso3c: TCD
+    shapeID: 50815135B24188788926450
+  Mayo-BoneyeAdm2TCD:
+    admin_name: Mayo-Boneye
+    iso3c: TCD
+    shapeID: 50815135B64807508580818
+  Mayo-DallahAdm2TCD:
+    admin_name: Mayo-Dallah
+    iso3c: TCD
+    shapeID: 50815135B58245995276010
+  Mayo-KebbiEstAdm1TCD:
+    admin_name: Mayo-KebbiEst
+    iso3c: TCD
+    shapeID: 23847190B50411308984007
+  Mayo-KebbiOuestAdm1TCD:
+    admin_name: Mayo-KebbiOuest
+    iso3c: TCD
+    shapeID: 23847190B16040038484355
+  Mayo-LemiéAdm2TCD:
+    admin_name: Mayo-Lemié
+    iso3c: TCD
+    shapeID: 50815135B13713715101650
+  MégriAdm2TCD:
+    admin_name: Mégri
+    iso3c: TCD
+    shapeID: 50815135B12471481376218
+  MontIlliAdm2TCD:
+    admin_name: MontIlli
+    iso3c: TCD
+    shapeID: 50815135B57632005694692
+  MontsdeLamAdm2TCD:
+    admin_name: MontsdeLam
+    iso3c: TCD
+    shapeID: 50815135B14191552615898
+  MourtchaAdm2TCD:
+    admin_name: Mourtcha
+    iso3c: TCD
+    shapeID: 50815135B12013942151217
+  Moyen-ChariAdm1TCD:
+    admin_name: Moyen-Chari
+    iso3c: TCD
+    shapeID: 23847190B97640124965572
+  N'DjaménaAdm2TCD:
+    admin_name: N'Djaména
+    iso3c: TCD
+    shapeID: 50815135B39277656442366
+  N'DjamenaRegionAdm1TCD:
+    admin_name: N'DjamenaRegion
+    iso3c: TCD
+    shapeID: 23847190B51844892814608
+  NgourkossoAdm2TCD:
+    admin_name: Ngourkosso
+    iso3c: TCD
+    shapeID: 50815135B58104899779962
+  NordKanemAdm2TCD:
+    admin_name: NordKanem
+    iso3c: TCD
+    shapeID: 50815135B74780249962770
+  OuaddaïAdm1TCD:
+    admin_name: Ouaddaï
+    iso3c: TCD
+    shapeID: 23847190B50657270888212
+  OuaraAdm2TCD:
+    admin_name: Ouara
+    iso3c: TCD
+    shapeID: 50815135B92277339053304
+  SalamatAdm1TCD:
+    admin_name: Salamat
+    iso3c: TCD
+    shapeID: 23847190B13389621272768
+  SilaAdm1TCD:
+    admin_name: Sila
+    iso3c: TCD
+    shapeID: 23847190B78936858597948
+  TandjiléAdm1TCD:
+    admin_name: Tandjilé
+    iso3c: TCD
+    shapeID: 23847190B20750693231580
+  TandjiléCentreAdm2TCD:
+    admin_name: TandjiléCentre
+    iso3c: TCD
+    shapeID: 50815135B21537967756666
+  TandjiléEstAdm2TCD:
+    admin_name: TandjiléEst
+    iso3c: TCD
+    shapeID: 50815135B89886025568853
+  TandjileOuestAdm2TCD:
+    admin_name: TandjileOuest
+    iso3c: TCD
+    shapeID: 50815135B85738495348243
+  TibestiAdm1TCD:
+    admin_name: Tibesti
+    iso3c: TCD
+    shapeID: 23847190B76461278489523
+  TibestiEstAdm2TCD:
+    admin_name: TibestiEst
+    iso3c: TCD
+    shapeID: 50815135B39039287340708
+  TibestiOuestAdm2TCD:
+    admin_name: TibestiOuest
+    iso3c: TCD
+    shapeID: 50815135B44379234996248
+  WadiBissamAdm2TCD:
+    admin_name: WadiBissam
+    iso3c: TCD
+    shapeID: 50815135B97156808183777
+  WadiFiraAdm1TCD:
+    admin_name: WadiFira
+    iso3c: TCD
+    shapeID: 23847190B87163061266246
+  WadiHawarAdm2TCD:
+    admin_name: WadiHawar
+    iso3c: TCD
+    shapeID: 50815135B62585523695590
+  WayiAdm2TCD:
+    admin_name: Wayi
+    iso3c: TCD
+    shapeID: 50815135B86238137663719

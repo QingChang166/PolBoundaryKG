@@ -1,23 +1,193 @@
 concepts:
-    - Maio
-    - Brava
-    - Tarrafal
-    - SantaCatarina
-    - SãoFilipe
-    - SãoMiguel
-    - BoaVista
-    - SãoVicente
-    - RibeiraBrava
-    - SantaCruz
-    - Sal
-    - Mosteiros
-    - SantaCatarinadoFogo
-    - TarrafaldeSãoNicolau
-    - PortoNovo
-    - SãoSalvadordoMundo
-    - SãoLourençodosÓrgãos
-    - SãoDomingos
-    - Praia
-    - RibeiraGrandedeSantiago
-    - RibeiraGrande
-    - Paul
+  BoaVistaAdm1CPV:
+    admin_name: BoaVista
+    iso3c: CPV
+    shapeID: 35879248B70460974689380
+  BravaAdm1CPV:
+    admin_name: Brava
+    iso3c: CPV
+    shapeID: 35879248B86099575470036
+  MaioAdm1CPV:
+    admin_name: Maio
+    iso3c: CPV
+    shapeID: 35879248B49116351933928
+  MosteirosAdm1CPV:
+    admin_name: Mosteiros
+    iso3c: CPV
+    shapeID: 35879248B60508126620075
+  NossaSenhoraDaAjudaAdm2CPV:
+    admin_name: NossaSenhoraDaAjuda
+    iso3c: CPV
+    shapeID: 66160863B13080281314211
+  NossaSenhoraDaConceicaoAdm2CPV:
+    admin_name: NossaSenhoraDaConceicao
+    iso3c: CPV
+    shapeID: 66160863B39753348448887
+  NossaSenhoraDaGracaAdm2CPV:
+    admin_name: NossaSenhoraDaGraca
+    iso3c: CPV
+    shapeID: 66160863B19025383966327
+  NossaSenhoraDaLapaAdm2CPV:
+    admin_name: NossaSenhoraDaLapa
+    iso3c: CPV
+    shapeID: 66160863B12848359802416
+  NossaSenhoraDaLuzAdm2CPV:
+    admin_name: NossaSenhoraDaLuz
+    iso3c: CPV
+    shapeID: 66160863B67599039999674
+  NossaSenhoraDasDoresAdm2CPV:
+    admin_name: NossaSenhoraDasDores
+    iso3c: CPV
+    shapeID: 66160863B51777192933696
+  NossaSenhoraDoLivramentoAdm2CPV:
+    admin_name: NossaSenhoraDoLivramento
+    iso3c: CPV
+    shapeID: 66160863B28688334871687
+  NossaSenhoraDoMonteAdm2CPV:
+    admin_name: NossaSenhoraDoMonte
+    iso3c: CPV
+    shapeID: 66160863B40523802781782
+  NossaSenhoraDoRosarioAdm2CPV:
+    admin_name: NossaSenhoraDoRosario
+    iso3c: CPV
+    shapeID: 66160863B38183693605809
+  PaulAdm1CPV:
+    admin_name: Paul
+    iso3c: CPV
+    shapeID: 35879248B70239090782327
+  PortoNovoAdm1CPV:
+    admin_name: PortoNovo
+    iso3c: CPV
+    shapeID: 35879248B16121613622578
+  PraiaAdm1CPV:
+    admin_name: Praia
+    iso3c: CPV
+    shapeID: 35879248B53857372811673
+  RibeiraBravaAdm1CPV:
+    admin_name: RibeiraBrava
+    iso3c: CPV
+    shapeID: 35879248B49995424745322
+  RibeiraGrandeAdm1CPV:
+    admin_name: RibeiraGrande
+    iso3c: CPV
+    shapeID: 35879248B32096079392942
+  RibeiraGrandedeSantiagoAdm1CPV:
+    admin_name: RibeiraGrandedeSantiago
+    iso3c: CPV
+    shapeID: 35879248B5815864302343
+  SalAdm1CPV:
+    admin_name: Sal
+    iso3c: CPV
+    shapeID: 35879248B31219630131339
+  SantaCatarinaAdm1CPV:
+    admin_name: SantaCatarina
+    iso3c: CPV
+    shapeID: 35879248B65851114160010
+  SantaCatarinaAdm2CPV:
+    admin_name: SantaCatarina
+    iso3c: CPV
+    shapeID: 66160863B9089914822408
+  SantaCatarinadoFogoAdm1CPV:
+    admin_name: SantaCatarinadoFogo
+    iso3c: CPV
+    shapeID: 35879248B48710154896989
+  SantaCatarinaDoFogoAdm2CPV:
+    admin_name: SantaCatarinaDoFogo
+    iso3c: CPV
+    shapeID: 66160863B71170562423195
+  SantaCruzAdm1CPV:
+    admin_name: SantaCruz
+    iso3c: CPV
+    shapeID: 35879248B13195842681213
+  SantaIsabelAdm2CPV:
+    admin_name: SantaIsabel
+    iso3c: CPV
+    shapeID: 66160863B6342114798882
+  SantiagoMaiorAdm2CPV:
+    admin_name: SantiagoMaior
+    iso3c: CPV
+    shapeID: 66160863B62302711188639
+  SantissimoNomeDeJesusAdm2CPV:
+    admin_name: SantissimoNomeDeJesus
+    iso3c: CPV
+    shapeID: 66160863B56005242542710
+  SantoAmaroAbadeAdm2CPV:
+    admin_name: SantoAmaroAbade
+    iso3c: CPV
+    shapeID: 66160863B37752467633472
+  SantoAndreAdm2CPV:
+    admin_name: SantoAndre
+    iso3c: CPV
+    shapeID: 66160863B70751634637165
+  SantoAntonioDasPombasAdm2CPV:
+    admin_name: SantoAntonioDasPombas
+    iso3c: CPV
+    shapeID: 66160863B53098387752451
+  SantoCrucifixoAdm2CPV:
+    admin_name: SantoCrucifixo
+    iso3c: CPV
+    shapeID: 66160863B26577257957631
+  SãoDomingosAdm1CPV:
+    admin_name: SãoDomingos
+    iso3c: CPV
+    shapeID: 35879248B61929302069698
+  SãoFilipeAdm1CPV:
+    admin_name: SãoFilipe
+    iso3c: CPV
+    shapeID: 35879248B42709825939270
+  SaoFranciscoDeAssisAdm2CPV:
+    admin_name: SaoFranciscoDeAssis
+    iso3c: CPV
+    shapeID: 66160863B96931694342339
+  SaoJoaoBaptistaAdm2CPV:
+    admin_name: SaoJoaoBaptista
+    iso3c: CPV
+    shapeID: 66160863B96352926706883
+  SaoLourencoAdm2CPV:
+    admin_name: SaoLourenco
+    iso3c: CPV
+    shapeID: 66160863B41356087556588
+  SãoLourençodosÓrgãosAdm1CPV:
+    admin_name: SãoLourençodosÓrgãos
+    iso3c: CPV
+    shapeID: 35879248B32254847060203
+  SaoLourencoDosOrgaosAdm2CPV:
+    admin_name: SaoLourencoDosOrgaos
+    iso3c: CPV
+    shapeID: 66160863B72941798312267
+  SãoMiguelAdm1CPV:
+    admin_name: SãoMiguel
+    iso3c: CPV
+    shapeID: 35879248B58765438888265
+  SaoMiguelArcanjoAdm2CPV:
+    admin_name: SaoMiguelArcanjo
+    iso3c: CPV
+    shapeID: 66160863B69203973191500
+  SaoNicolauTolentinoAdm2CPV:
+    admin_name: SaoNicolauTolentino
+    iso3c: CPV
+    shapeID: 66160863B10929768356041
+  SaoPedroApostoloAdm2CPV:
+    admin_name: SaoPedroApostolo
+    iso3c: CPV
+    shapeID: 66160863B19660935593220
+  SãoSalvadordoMundoAdm1CPV:
+    admin_name: SãoSalvadordoMundo
+    iso3c: CPV
+    shapeID: 35879248B8506465148242
+  SaoSalvadorDoMundoAdm2CPV:
+    admin_name: SaoSalvadorDoMundo
+    iso3c: CPV
+    shapeID: 66160863B42982614395502
+  SãoVicenteAdm1CPV:
+    admin_name: SãoVicente
+    iso3c: CPV
+    shapeID: 35879248B41743840760019
+  TarrafalAdm1CPV:
+    admin_name: Tarrafal
+    iso3c: CPV
+    shapeID: 35879248B2594883865860
+  TarrafaldeSãoNicolauAdm1CPV:
+    admin_name: TarrafaldeSãoNicolau
+    iso3c: CPV
+    shapeID: 35879248B27983455382142

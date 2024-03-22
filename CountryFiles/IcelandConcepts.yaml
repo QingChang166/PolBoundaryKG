@@ -1,9 +1,329 @@
 concepts:
-    - NorthwesternRegion
-    - EasternRegion
-    - CapitalRegion
-    - SouthernRegion
-    - Westfjords
-    - WesternRegion
-    - NortheasternRegion
-    - SouthernPeninsula
+  AkrahreppurAdm2ISL:
+    admin_name: Akrahreppur
+    iso3c: ISL
+    shapeID: 244011B74034306834774
+  AkraneskaupstaðurAdm2ISL:
+    admin_name: Akraneskaupstaður
+    iso3c: ISL
+    shapeID: 244011B30892314657027
+  AkureyrarkaupstaðurAdm2ISL:
+    admin_name: Akureyrarkaupstaður
+    iso3c: ISL
+    shapeID: 244011B9807446828123
+  ÁrneshreppurAdm2ISL:
+    admin_name: Árneshreppur
+    iso3c: ISL
+    shapeID: 244011B92022671609099
+  ÁsahreppurAdm2ISL:
+    admin_name: Ásahreppur
+    iso3c: ISL
+    shapeID: 244011B31453435550318
+  BláskógabyggðAdm2ISL:
+    admin_name: Bláskógabyggð
+    iso3c: ISL
+    shapeID: 244011B85102906551816
+  BlönduósbærAdm2ISL:
+    admin_name: Blönduósbær
+    iso3c: ISL
+    shapeID: 244011B97005072200428
+  BolungarvíkurkaupstaðurAdm2ISL:
+    admin_name: Bolungarvíkurkaupstaður
+    iso3c: ISL
+    shapeID: 244011B6311767935335
+  BorgarbyggðAdm2ISL:
+    admin_name: Borgarbyggð
+    iso3c: ISL
+    shapeID: 244011B50787148750106
+  BorgarfjarðarhreppurAdm2ISL:
+    admin_name: Borgarfjarðarhreppur
+    iso3c: ISL
+    shapeID: 244011B88653491645149
+  BreiðdalshreppurAdm2ISL:
+    admin_name: Breiðdalshreppur
+    iso3c: ISL
+    shapeID: 244011B15837177030035
+  CapitalRegionAdm1ISL:
+    admin_name: CapitalRegion
+    iso3c: ISL
+    shapeID: 53860390B39552912285510
+  DalabyggðAdm2ISL:
+    admin_name: Dalabyggð
+    iso3c: ISL
+    shapeID: 244011B70126368142347
+  DalvíkurbyggðAdm2ISL:
+    admin_name: Dalvíkurbyggð
+    iso3c: ISL
+    shapeID: 244011B31014041409595
+  DjúpavogshreppurAdm2ISL:
+    admin_name: Djúpavogshreppur
+    iso3c: ISL
+    shapeID: 244011B85487583844878
+  EasternRegionAdm1ISL:
+    admin_name: EasternRegion
+    iso3c: ISL
+    shapeID: 53860390B32173012790841
+  Eyja-ogMiklaholtshreppurAdm2ISL:
+    admin_name: Eyja-ogMiklaholtshreppur
+    iso3c: ISL
+    shapeID: 244011B92076156941754
+  EyjafjarðarsveitAdm2ISL:
+    admin_name: Eyjafjarðarsveit
+    iso3c: ISL
+    shapeID: 244011B64056494481770
+  FjallabyggðAdm2ISL:
+    admin_name: Fjallabyggð
+    iso3c: ISL
+    shapeID: 244011B2207988314752
+  FjarðabyggðAdm2ISL:
+    admin_name: Fjarðabyggð
+    iso3c: ISL
+    shapeID: 244011B48850905136863
+  FljótsdalshéraðAdm2ISL:
+    admin_name: Fljótsdalshérað
+    iso3c: ISL
+    shapeID: 244011B83679589752148
+  FljótsdalshreppurAdm2ISL:
+    admin_name: Fljótsdalshreppur
+    iso3c: ISL
+    shapeID: 244011B28727550371532
+  FlóahreppurAdm2ISL:
+    admin_name: Flóahreppur
+    iso3c: ISL
+    shapeID: 244011B29431294757890
+  GarðabærAdm2ISL:
+    admin_name: Garðabær
+    iso3c: ISL
+    shapeID: 244011B25721014671193
+  Grímsnes-ogGrafningshreppurAdm2ISL:
+    admin_name: Grímsnes-ogGrafningshreppur
+    iso3c: ISL
+    shapeID: 244011B74100778143587
+  GrindavíkurbærAdm2ISL:
+    admin_name: Grindavíkurbær
+    iso3c: ISL
+    shapeID: 244011B76002453234506
+  GrundarfjarðarbærAdm2ISL:
+    admin_name: Grundarfjarðarbær
+    iso3c: ISL
+    shapeID: 244011B76246482597042
+  GrýtubakkahreppurAdm2ISL:
+    admin_name: Grýtubakkahreppur
+    iso3c: ISL
+    shapeID: 244011B60639573794911
+  HafnarfjarðarbærAdm2ISL:
+    admin_name: Hafnarfjarðarbær
+    iso3c: ISL
+    shapeID: 244011B99927833063684
+  HelgafellssveitAdm2ISL:
+    admin_name: Helgafellssveit
+    iso3c: ISL
+    shapeID: 244011B42475995928988
+  HörgársveitAdm2ISL:
+    admin_name: Hörgársveit
+    iso3c: ISL
+    shapeID: 244011B22444435927366
+  HrunamannahreppurAdm2ISL:
+    admin_name: Hrunamannahreppur
+    iso3c: ISL
+    shapeID: 244011B85072287894251
+  HúnavatnshreppurAdm2ISL:
+    admin_name: Húnavatnshreppur
+    iso3c: ISL
+    shapeID: 244011B27584551294957
+  HúnaþingvestraAdm2ISL:
+    admin_name: Húnaþingvestra
+    iso3c: ISL
+    shapeID: 244011B78038893235430
+  HvalfjarðarsveitAdm2ISL:
+    admin_name: Hvalfjarðarsveit
+    iso3c: ISL
+    shapeID: 244011B64770191202242
+  HveragerðisbærAdm2ISL:
+    admin_name: Hveragerðisbær
+    iso3c: ISL
+    shapeID: 244011B51739533992730
+  ÍsafjarðarbærAdm2ISL:
+    admin_name: Ísafjarðarbær
+    iso3c: ISL
+    shapeID: 244011B55108803715122
+  KaldrananeshreppurAdm2ISL:
+    admin_name: Kaldrananeshreppur
+    iso3c: ISL
+    shapeID: 244011B77106600698129
+  KjósarhreppurAdm2ISL:
+    admin_name: Kjósarhreppur
+    iso3c: ISL
+    shapeID: 244011B42175048354153
+  KópavogsbærAdm2ISL:
+    admin_name: Kópavogsbær
+    iso3c: ISL
+    shapeID: 244011B4103585132621
+  LanganesbyggðAdm2ISL:
+    admin_name: Langanesbyggð
+    iso3c: ISL
+    shapeID: 244011B59191424948734
+  MosfellsbærAdm2ISL:
+    admin_name: Mosfellsbær
+    iso3c: ISL
+    shapeID: 244011B92465939344192
+  MýrdalshreppurAdm2ISL:
+    admin_name: Mýrdalshreppur
+    iso3c: ISL
+    shapeID: 244011B6689541001554
+  NorðurþingAdm2ISL:
+    admin_name: Norðurþing
+    iso3c: ISL
+    shapeID: 244011B18729557885943
+  NortheasternRegionAdm1ISL:
+    admin_name: NortheasternRegion
+    iso3c: ISL
+    shapeID: 53860390B58519509441334
+  NorthwesternRegionAdm1ISL:
+    admin_name: NorthwesternRegion
+    iso3c: ISL
+    shapeID: 53860390B72464321703569
+  RangárþingeystraAdm2ISL:
+    admin_name: Rangárþingeystra
+    iso3c: ISL
+    shapeID: 244011B21062297179388
+  RangárþingytraAdm2ISL:
+    admin_name: Rangárþingytra
+    iso3c: ISL
+    shapeID: 244011B57462919825437
+  ReykhólahreppurAdm2ISL:
+    admin_name: Reykhólahreppur
+    iso3c: ISL
+    shapeID: 244011B19971250001035
+  ReykjanesbærAdm2ISL:
+    admin_name: Reykjanesbær
+    iso3c: ISL
+    shapeID: 244011B48140939724428
+  ReykjavíkurborgAdm2ISL:
+    admin_name: Reykjavíkurborg
+    iso3c: ISL
+    shapeID: 244011B48219786980381
+  SandgerðisbærAdm2ISL:
+    admin_name: Sandgerðisbær
+    iso3c: ISL
+    shapeID: 244011B94929237668673
+  SeltjarnarnesbærAdm2ISL:
+    admin_name: Seltjarnarnesbær
+    iso3c: ISL
+    shapeID: 244011B41148599816454
+  SeyðisfjarðarkaupstaðurAdm2ISL:
+    admin_name: Seyðisfjarðarkaupstaður
+    iso3c: ISL
+    shapeID: 244011B63317643398592
+  SkaftárhreppurAdm2ISL:
+    admin_name: Skaftárhreppur
+    iso3c: ISL
+    shapeID: 244011B24957701647142
+  SkagabyggðAdm2ISL:
+    admin_name: Skagabyggð
+    iso3c: ISL
+    shapeID: 244011B21592329160761
+  Skeiða-ogGnúpverjahreppurAdm2ISL:
+    admin_name: Skeiða-ogGnúpverjahreppur
+    iso3c: ISL
+    shapeID: 244011B10209439874100
+  SkorradalshreppurAdm2ISL:
+    admin_name: Skorradalshreppur
+    iso3c: ISL
+    shapeID: 244011B18273074009309
+  SkútustaðahreppurAdm2ISL:
+    admin_name: Skútustaðahreppur
+    iso3c: ISL
+    shapeID: 244011B58365339597746
+  SnæfellsbærAdm2ISL:
+    admin_name: Snæfellsbær
+    iso3c: ISL
+    shapeID: 244011B30460955116065
+  SouthernPeninsulaAdm1ISL:
+    admin_name: SouthernPeninsula
+    iso3c: ISL
+    shapeID: 53860390B87574894134156
+  SouthernRegionAdm1ISL:
+    admin_name: SouthernRegion
+    iso3c: ISL
+    shapeID: 53860390B85658391135359
+  StrandabyggðAdm2ISL:
+    admin_name: Strandabyggð
+    iso3c: ISL
+    shapeID: 244011B90835463390859
+  StykkishólmsbærAdm2ISL:
+    admin_name: Stykkishólmsbær
+    iso3c: ISL
+    shapeID: 244011B37463664010444
+  SúðavíkurhreppurAdm2ISL:
+    admin_name: Súðavíkurhreppur
+    iso3c: ISL
+    shapeID: 244011B7322015257461
+  SvalbarðshreppurAdm2ISL:
+    admin_name: Svalbarðshreppur
+    iso3c: ISL
+    shapeID: 244011B84342259441214
+  SvalbarðsstrandarhreppurAdm2ISL:
+    admin_name: Svalbarðsstrandarhreppur
+    iso3c: ISL
+    shapeID: 244011B70204278120324
+  SveitarfélagiðÁrborgAdm2ISL:
+    admin_name: SveitarfélagiðÁrborg
+    iso3c: ISL
+    shapeID: 244011B44443724675216
+  SveitarfélagiðGarðurAdm2ISL:
+    admin_name: SveitarfélagiðGarður
+    iso3c: ISL
+    shapeID: 244011B4203273652382
+  SveitarfélagiðHornafjörðuAdm2ISL:
+    admin_name: SveitarfélagiðHornafjörðu
+    iso3c: ISL
+    shapeID: 244011B97448762640394
+  SveitarfélagiðÖlfusAdm2ISL:
+    admin_name: SveitarfélagiðÖlfus
+    iso3c: ISL
+    shapeID: 244011B93058264602287
+  SveitarfélagiðSkagafjörðuAdm2ISL:
+    admin_name: SveitarfélagiðSkagafjörðu
+    iso3c: ISL
+    shapeID: 244011B28940040244957
+  SveitarfélagiðSkagaströndAdm2ISL:
+    admin_name: SveitarfélagiðSkagaströnd
+    iso3c: ISL
+    shapeID: 244011B17586381133924
+  SveitarfélagiðVogarAdm2ISL:
+    admin_name: SveitarfélagiðVogar
+    iso3c: ISL
+    shapeID: 244011B53257850023541
+  TálknafjarðarhreppurAdm2ISL:
+    admin_name: Tálknafjarðarhreppur
+    iso3c: ISL
+    shapeID: 244011B74336956547693
+  TjörneshreppurAdm2ISL:
+    admin_name: Tjörneshreppur
+    iso3c: ISL
+    shapeID: 244011B23966539039805
+  VestmannaeyjabærAdm2ISL:
+    admin_name: Vestmannaeyjabær
+    iso3c: ISL
+    shapeID: 244011B92581391550134
+  VesturbyggðAdm2ISL:
+    admin_name: Vesturbyggð
+    iso3c: ISL
+    shapeID: 244011B84482513465742
+  VopnafjarðarhreppurAdm2ISL:
+    admin_name: Vopnafjarðarhreppur
+    iso3c: ISL
+    shapeID: 244011B85031335132444
+  WesternRegionAdm1ISL:
+    admin_name: WesternRegion
+    iso3c: ISL
+    shapeID: 53860390B73804128945228
+  WestfjordsAdm1ISL:
+    admin_name: Westfjords
+    iso3c: ISL
+    shapeID: 53860390B51423153689858
+  ÞingeyjarsveitAdm2ISL:
+    admin_name: Þingeyjarsveit
+    iso3c: ISL
+    shapeID: 244011B2873245088627

@@ -1,17 +1,733 @@
 concepts:
-    - SantiagodeCuba
-    - Granma
-    - LasTunas
-    - CiegodeAvila
-    - IsleofYouth
-    - Guantánamo
-    - Holguín
-    - Matanzas
-    - PinardelRio
-    - Havana
-    - Camagüey
-    - Mayabeque
-    - SanctiSpiritus
-    - Cienfuegos
-    - Artemisa
-    - VillaClara
+  AbreusAdm2CUB:
+    admin_name: Abreus
+    iso3c: CUB
+    shapeID: 75667366B45419331747538
+  AguadadePasajerosAdm2CUB:
+    admin_name: AguadadePasajeros
+    iso3c: CUB
+    shapeID: 75667366B65149533303144
+  AlquízarAdm2CUB:
+    admin_name: Alquízar
+    iso3c: CUB
+    shapeID: 75667366B49025507333210
+  AmancioAdm2CUB:
+    admin_name: Amancio
+    iso3c: CUB
+    shapeID: 75667366B30494015691989
+  AntillaAdm2CUB:
+    admin_name: Antilla
+    iso3c: CUB
+    shapeID: 75667366B69518596321544
+  ArroyoNaranjoAdm2CUB:
+    admin_name: ArroyoNaranjo
+    iso3c: CUB
+    shapeID: 75667366B37088337934130
+  ArtemisaAdm1CUB:
+    admin_name: Artemisa
+    iso3c: CUB
+    shapeID: 62585838B98876754300684
+  ArtemisaAdm2CUB:
+    admin_name: Artemisa
+    iso3c: CUB
+    shapeID: 75667366B98184381496608
+  BáguanosAdm2CUB:
+    admin_name: Báguanos
+    iso3c: CUB
+    shapeID: 75667366B68502135113248
+  BahíaHondaAdm2CUB:
+    admin_name: BahíaHonda
+    iso3c: CUB
+    shapeID: 75667366B73876769816488
+  BanesAdm2CUB:
+    admin_name: Banes
+    iso3c: CUB
+    shapeID: 75667366B50607521886252
+  BaracoaAdm2CUB:
+    admin_name: Baracoa
+    iso3c: CUB
+    shapeID: 75667366B6678530358474
+  BaraguáAdm2CUB:
+    admin_name: Baraguá
+    iso3c: CUB
+    shapeID: 75667366B18779675214629
+  BartoloméMasóAdm2CUB:
+    admin_name: BartoloméMasó
+    iso3c: CUB
+    shapeID: 75667366B72752314947890
+  BatabanóAdm2CUB:
+    admin_name: Batabanó
+    iso3c: CUB
+    shapeID: 75667366B12605402479047
+  BautaAdm2CUB:
+    admin_name: Bauta
+    iso3c: CUB
+    shapeID: 75667366B55450845848024
+  BayamoAdm2CUB:
+    admin_name: Bayamo
+    iso3c: CUB
+    shapeID: 75667366B25669507068177
+  BejucalAdm2CUB:
+    admin_name: Bejucal
+    iso3c: CUB
+    shapeID: 75667366B41426179995922
+  BoliviaAdm2CUB:
+    admin_name: Bolivia
+    iso3c: CUB
+    shapeID: 75667366B93847620286343
+  BoyerosAdm2CUB:
+    admin_name: Boyeros
+    iso3c: CUB
+    shapeID: 75667366B7302956753404
+  BueyArribaAdm2CUB:
+    admin_name: BueyArriba
+    iso3c: CUB
+    shapeID: 75667366B99249006055932
+  CabaiguánAdm2CUB:
+    admin_name: Cabaiguán
+    iso3c: CUB
+    shapeID: 75667366B525406555467
+  CacocumAdm2CUB:
+    admin_name: Cacocum
+    iso3c: CUB
+    shapeID: 75667366B96475957480743
+  CaibariénAdm2CUB:
+    admin_name: Caibarién
+    iso3c: CUB
+    shapeID: 75667366B87842371437689
+  CaimaneraAdm2CUB:
+    admin_name: Caimanera
+    iso3c: CUB
+    shapeID: 75667366B7803341445428
+  CaimitoAdm2CUB:
+    admin_name: Caimito
+    iso3c: CUB
+    shapeID: 75667366B9750656068001
+  CalimeteAdm2CUB:
+    admin_name: Calimete
+    iso3c: CUB
+    shapeID: 75667366B3039479778897
+  CalixtoGarcíaAdm2CUB:
+    admin_name: CalixtoGarcía
+    iso3c: CUB
+    shapeID: 75667366B62585917604041
+  CamagüeyAdm1CUB:
+    admin_name: Camagüey
+    iso3c: CUB
+    shapeID: 62585838B24327284023075
+  CamagüeyAdm2CUB:
+    admin_name: Camagüey
+    iso3c: CUB
+    shapeID: 75667366B90930244943990
+  CamajuaníAdm2CUB:
+    admin_name: Camajuaní
+    iso3c: CUB
+    shapeID: 75667366B5141529927700
+  CampechuelaAdm2CUB:
+    admin_name: Campechuela
+    iso3c: CUB
+    shapeID: 75667366B34198341478564
+  CandelariaAdm2CUB:
+    admin_name: Candelaria
+    iso3c: CUB
+    shapeID: 75667366B41693677561366
+  CárdenasAdm2CUB:
+    admin_name: Cárdenas
+    iso3c: CUB
+    shapeID: 75667366B46102635862321
+  CautoCristoAdm2CUB:
+    admin_name: CautoCristo
+    iso3c: CUB
+    shapeID: 75667366B37604451742967
+  CentroHabanaAdm2CUB:
+    admin_name: CentroHabana
+    iso3c: CUB
+    shapeID: 75667366B80682104725187
+  CerroAdm2CUB:
+    admin_name: Cerro
+    iso3c: CUB
+    shapeID: 75667366B44494476895893
+  CéspedesAdm2CUB:
+    admin_name: Céspedes
+    iso3c: CUB
+    shapeID: 75667366B72833729423776
+  ChambasAdm2CUB:
+    admin_name: Chambas
+    iso3c: CUB
+    shapeID: 75667366B15173471690010
+  CiegodeAvilaAdm1CUB:
+    admin_name: CiegodeAvila
+    iso3c: CUB
+    shapeID: 62585838B567940379550
+  CiegodeÁvilaAdm2CUB:
+    admin_name: CiegodeÁvila
+    iso3c: CUB
+    shapeID: 75667366B24420351946505
+  CiénagadeZapataAdm2CUB:
+    admin_name: CiénagadeZapata
+    iso3c: CUB
+    shapeID: 75667366B69202185225589
+  CienfuegosAdm1CUB:
+    admin_name: Cienfuegos
+    iso3c: CUB
+    shapeID: 62585838B17336275888454
+  CienfuegosAdm2CUB:
+    admin_name: Cienfuegos
+    iso3c: CUB
+    shapeID: 75667366B86823637835543
+  CifuentesAdm2CUB:
+    admin_name: Cifuentes
+    iso3c: CUB
+    shapeID: 75667366B79362742658144
+  CiroRedondoAdm2CUB:
+    admin_name: CiroRedondo
+    iso3c: CUB
+    shapeID: 75667366B76286790485914
+  ColombiaAdm2CUB:
+    admin_name: Colombia
+    iso3c: CUB
+    shapeID: 75667366B58423249689704
+  ColónAdm2CUB:
+    admin_name: Colón
+    iso3c: CUB
+    shapeID: 75667366B23380456359307
+  ConsolacióndelSurAdm2CUB:
+    admin_name: ConsolacióndelSur
+    iso3c: CUB
+    shapeID: 75667366B76262272549979
+  ContramaestreAdm2CUB:
+    admin_name: Contramaestre
+    iso3c: CUB
+    shapeID: 75667366B3047073403407
+  CorralilloAdm2CUB:
+    admin_name: Corralillo
+    iso3c: CUB
+    shapeID: 75667366B39202767563909
+  CotorroAdm2CUB:
+    admin_name: Cotorro
+    iso3c: CUB
+    shapeID: 75667366B70751681444112
+  CrucesAdm2CUB:
+    admin_name: Cruces
+    iso3c: CUB
+    shapeID: 75667366B41352944230479
+  CuetoAdm2CUB:
+    admin_name: Cueto
+    iso3c: CUB
+    shapeID: 75667366B7115870770167
+  CumanayaguaAdm2CUB:
+    admin_name: Cumanayagua
+    iso3c: CUB
+    shapeID: 75667366B66908051996326
+  DiezdeOctubreAdm2CUB:
+    admin_name: DiezdeOctubre
+    iso3c: CUB
+    shapeID: 75667366B40759243895064
+  ElSalvadorAdm2CUB:
+    admin_name: ElSalvador
+    iso3c: CUB
+    shapeID: 75667366B33792308655913
+  EncrucijadaAdm2CUB:
+    admin_name: Encrucijada
+    iso3c: CUB
+    shapeID: 75667366B5928073683426
+  EsmeraldaAdm2CUB:
+    admin_name: Esmeralda
+    iso3c: CUB
+    shapeID: 75667366B3386148809140
+  FlorenciaAdm2CUB:
+    admin_name: Florencia
+    iso3c: CUB
+    shapeID: 75667366B90097717371430
+  FloridaAdm2CUB:
+    admin_name: Florida
+    iso3c: CUB
+    shapeID: 75667366B34978007419445
+  FomentoAdm2CUB:
+    admin_name: Fomento
+    iso3c: CUB
+    shapeID: 75667366B89584469308542
+  FrankPaísAdm2CUB:
+    admin_name: FrankPaís
+    iso3c: CUB
+    shapeID: 75667366B49038548326439
+  GibaraAdm2CUB:
+    admin_name: Gibara
+    iso3c: CUB
+    shapeID: 75667366B94668251008376
+  GranmaAdm1CUB:
+    admin_name: Granma
+    iso3c: CUB
+    shapeID: 62585838B22586118760086
+  GuáimaroAdm2CUB:
+    admin_name: Guáimaro
+    iso3c: CUB
+    shapeID: 75667366B35686919235679
+  GuamáAdm2CUB:
+    admin_name: Guamá
+    iso3c: CUB
+    shapeID: 75667366B31859189272131
+  GuanabacoaAdm2CUB:
+    admin_name: Guanabacoa
+    iso3c: CUB
+    shapeID: 75667366B96454310315942
+  GuanajayAdm2CUB:
+    admin_name: Guanajay
+    iso3c: CUB
+    shapeID: 75667366B8388196899019
+  GuaneAdm2CUB:
+    admin_name: Guane
+    iso3c: CUB
+    shapeID: 75667366B35074617847721
+  GuantánamoAdm1CUB:
+    admin_name: Guantánamo
+    iso3c: CUB
+    shapeID: 62585838B4011009881530
+  GuantánamoAdm2CUB:
+    admin_name: Guantánamo
+    iso3c: CUB
+    shapeID: 75667366B47389896256
+  GüinesAdm2CUB:
+    admin_name: Güines
+    iso3c: CUB
+    shapeID: 75667366B25903359168563
+  GüiradeMelenaAdm2CUB:
+    admin_name: GüiradeMelena
+    iso3c: CUB
+    shapeID: 75667366B82556438360114
+  GuisaAdm2CUB:
+    admin_name: Guisa
+    iso3c: CUB
+    shapeID: 75667366B37931569465033
+  HabanadelEsteAdm2CUB:
+    admin_name: HabanadelEste
+    iso3c: CUB
+    shapeID: 75667366B10388242457894
+  HavanaAdm1CUB:
+    admin_name: Havana
+    iso3c: CUB
+    shapeID: 62585838B98598405728349
+  HolguínAdm1CUB:
+    admin_name: Holguín
+    iso3c: CUB
+    shapeID: 62585838B34474886411004
+  HolguínAdm2CUB:
+    admin_name: Holguín
+    iso3c: CUB
+    shapeID: 75667366B30873187181490
+  ImíasAdm2CUB:
+    admin_name: Imías
+    iso3c: CUB
+    shapeID: 75667366B42220855402560
+  IsleofYouthAdm1CUB:
+    admin_name: IsleofYouth
+    iso3c: CUB
+    shapeID: 62585838B26845086877570
+  IsleofYouthAdm2CUB:
+    admin_name: IsleofYouth
+    iso3c: CUB
+    shapeID: 75667366B26845086877570
+  JagüeyGrandeAdm2CUB:
+    admin_name: JagüeyGrande
+    iso3c: CUB
+    shapeID: 75667366B62455388286151
+  JarucoAdm2CUB:
+    admin_name: Jaruco
+    iso3c: CUB
+    shapeID: 75667366B38367821610265
+  JatibonicoAdm2CUB:
+    admin_name: Jatibonico
+    iso3c: CUB
+    shapeID: 75667366B83086301322967
+  JesúsMenéndezAdm2CUB:
+    admin_name: JesúsMenéndez
+    iso3c: CUB
+    shapeID: 75667366B79962068280443
+  JiguaníAdm2CUB:
+    admin_name: Jiguaní
+    iso3c: CUB
+    shapeID: 75667366B22214291284161
+  JimaguayúAdm2CUB:
+    admin_name: Jimaguayú
+    iso3c: CUB
+    shapeID: 75667366B13289010115746
+  JobaboAdm2CUB:
+    admin_name: Jobabo
+    iso3c: CUB
+    shapeID: 75667366B61514763609503
+  JovellanosAdm2CUB:
+    admin_name: Jovellanos
+    iso3c: CUB
+    shapeID: 75667366B44844501353027
+  LaHabanaViejaAdm2CUB:
+    admin_name: LaHabanaVieja
+    iso3c: CUB
+    shapeID: 75667366B93303026760321
+  LaLisaAdm2CUB:
+    admin_name: LaLisa
+    iso3c: CUB
+    shapeID: 75667366B497077547550
+  LaPalmaAdm2CUB:
+    admin_name: LaPalma
+    iso3c: CUB
+    shapeID: 75667366B44154135823395
+  LaSierpeAdm2CUB:
+    admin_name: LaSierpe
+    iso3c: CUB
+    shapeID: 75667366B56415669308485
+  LasTunasAdm1CUB:
+    admin_name: LasTunas
+    iso3c: CUB
+    shapeID: 62585838B38318635518113
+  LasTunasAdm2CUB:
+    admin_name: LasTunas
+    iso3c: CUB
+    shapeID: 75667366B6512814483561
+  LimonarAdm2CUB:
+    admin_name: Limonar
+    iso3c: CUB
+    shapeID: 75667366B29476094069096
+  LosArabosAdm2CUB:
+    admin_name: LosArabos
+    iso3c: CUB
+    shapeID: 75667366B78870807940351
+  LosPalaciosAdm2CUB:
+    admin_name: LosPalacios
+    iso3c: CUB
+    shapeID: 75667366B82870270071557
+  MadrugaAdm2CUB:
+    admin_name: Madruga
+    iso3c: CUB
+    shapeID: 75667366B90563155997798
+  MaisíAdm2CUB:
+    admin_name: Maisí
+    iso3c: CUB
+    shapeID: 75667366B63092623675998
+  MajaguaAdm2CUB:
+    admin_name: Majagua
+    iso3c: CUB
+    shapeID: 75667366B47492070798991
+  MajibacoaAdm2CUB:
+    admin_name: Majibacoa
+    iso3c: CUB
+    shapeID: 75667366B81929821514595
+  ManatiAdm2CUB:
+    admin_name: Manati
+    iso3c: CUB
+    shapeID: 75667366B26080416722316
+  ManicaraguaAdm2CUB:
+    admin_name: Manicaragua
+    iso3c: CUB
+    shapeID: 75667366B54940747369705
+  MantuaAdm2CUB:
+    admin_name: Mantua
+    iso3c: CUB
+    shapeID: 75667366B47194088471769
+  ManuelTamesAdm2CUB:
+    admin_name: ManuelTames
+    iso3c: CUB
+    shapeID: 75667366B32750380578448
+  ManzanilloAdm2CUB:
+    admin_name: Manzanillo
+    iso3c: CUB
+    shapeID: 75667366B23583938902461
+  MarianaoAdm2CUB:
+    admin_name: Marianao
+    iso3c: CUB
+    shapeID: 75667366B89140663288606
+  MarielAdm2CUB:
+    admin_name: Mariel
+    iso3c: CUB
+    shapeID: 75667366B19980502726207
+  MartíAdm2CUB:
+    admin_name: Martí
+    iso3c: CUB
+    shapeID: 75667366B18879934460880
+  MatanzasAdm1CUB:
+    admin_name: Matanzas
+    iso3c: CUB
+    shapeID: 62585838B94185778840180
+  MatanzasAdm2CUB:
+    admin_name: Matanzas
+    iso3c: CUB
+    shapeID: 75667366B66529798652377
+  MayabequeAdm1CUB:
+    admin_name: Mayabeque
+    iso3c: CUB
+    shapeID: 62585838B35712467652927
+  MayaríAdm2CUB:
+    admin_name: Mayarí
+    iso3c: CUB
+    shapeID: 75667366B9514275444181
+  MediaLunaAdm2CUB:
+    admin_name: MediaLuna
+    iso3c: CUB
+    shapeID: 75667366B79453709532283
+  MelenadelSurAdm2CUB:
+    admin_name: MelenadelSur
+    iso3c: CUB
+    shapeID: 75667366B60114686204489
+  MellaAdm2CUB:
+    admin_name: Mella
+    iso3c: CUB
+    shapeID: 75667366B52554296779728
+  MinasAdm2CUB:
+    admin_name: Minas
+    iso3c: CUB
+    shapeID: 75667366B11766528680291
+  MinasdeMatahambreAdm2CUB:
+    admin_name: MinasdeMatahambre
+    iso3c: CUB
+    shapeID: 75667366B6235496505331
+  MoaAdm2CUB:
+    admin_name: Moa
+    iso3c: CUB
+    shapeID: 75667366B92334467605945
+  MorónAdm2CUB:
+    admin_name: Morón
+    iso3c: CUB
+    shapeID: 75667366B81992415495720
+  NajasaAdm2CUB:
+    admin_name: Najasa
+    iso3c: CUB
+    shapeID: 75667366B78490935914292
+  NicetoPérezAdm2CUB:
+    admin_name: NicetoPérez
+    iso3c: CUB
+    shapeID: 75667366B7171439243991
+  NiqueroAdm2CUB:
+    admin_name: Niquero
+    iso3c: CUB
+    shapeID: 75667366B60074867578630
+  NuevaPazAdm2CUB:
+    admin_name: NuevaPaz
+    iso3c: CUB
+    shapeID: 75667366B93291752136089
+  NuevitasAdm2CUB:
+    admin_name: Nuevitas
+    iso3c: CUB
+    shapeID: 75667366B93428692702847
+  PalmaSorianoAdm2CUB:
+    admin_name: PalmaSoriano
+    iso3c: CUB
+    shapeID: 75667366B67227896045808
+  PalmiraAdm2CUB:
+    admin_name: Palmira
+    iso3c: CUB
+    shapeID: 75667366B15343740058424
+  PedroBetancourtAdm2CUB:
+    admin_name: PedroBetancourt
+    iso3c: CUB
+    shapeID: 75667366B96937661980351
+  PericoAdm2CUB:
+    admin_name: Perico
+    iso3c: CUB
+    shapeID: 75667366B39781215847289
+  PilónAdm2CUB:
+    admin_name: Pilón
+    iso3c: CUB
+    shapeID: 75667366B73853566554491
+  PinardelRioAdm1CUB:
+    admin_name: PinardelRio
+    iso3c: CUB
+    shapeID: 62585838B58507132395917
+  PinardelRíoAdm2CUB:
+    admin_name: PinardelRío
+    iso3c: CUB
+    shapeID: 75667366B65648600044594
+  PlacetasAdm2CUB:
+    admin_name: Placetas
+    iso3c: CUB
+    shapeID: 75667366B41492213391879
+  PlayaAdm2CUB:
+    admin_name: Playa
+    iso3c: CUB
+    shapeID: 75667366B31265103522165
+  PlazadelaRevoluciónAdm2CUB:
+    admin_name: PlazadelaRevolución
+    iso3c: CUB
+    shapeID: 75667366B86860977517537
+  PrimerodeEneroAdm2CUB:
+    admin_name: PrimerodeEnero
+    iso3c: CUB
+    shapeID: 75667366B2222760807495
+  PuertoPadreAdm2CUB:
+    admin_name: PuertoPadre
+    iso3c: CUB
+    shapeID: 75667366B38833271967671
+  QuemadodeGüinesAdm2CUB:
+    admin_name: QuemadodeGüines
+    iso3c: CUB
+    shapeID: 75667366B38669823996593
+  QuivicánAdm2CUB:
+    admin_name: Quivicán
+    iso3c: CUB
+    shapeID: 75667366B91463258125198
+  RafaelFreyreAdm2CUB:
+    admin_name: RafaelFreyre
+    iso3c: CUB
+    shapeID: 75667366B81437275330712
+  RanchueloAdm2CUB:
+    admin_name: Ranchuelo
+    iso3c: CUB
+    shapeID: 75667366B72473928882218
+  ReglaAdm2CUB:
+    admin_name: Regla
+    iso3c: CUB
+    shapeID: 75667366B80263662304106
+  RemediosAdm2CUB:
+    admin_name: Remedios
+    iso3c: CUB
+    shapeID: 75667366B3179564295802
+  RíoCautoAdm2CUB:
+    admin_name: RíoCauto
+    iso3c: CUB
+    shapeID: 75667366B28750002223070
+  RodasAdm2CUB:
+    admin_name: Rodas
+    iso3c: CUB
+    shapeID: 75667366B66642132315537
+  SaguadeTánamoAdm2CUB:
+    admin_name: SaguadeTánamo
+    iso3c: CUB
+    shapeID: 75667366B85703768975715
+  SaguaLaGrandeAdm2CUB:
+    admin_name: SaguaLaGrande
+    iso3c: CUB
+    shapeID: 75667366B58223785748914
+  SanAntoniodelosBañosAdm2CUB:
+    admin_name: SanAntoniodelosBaños
+    iso3c: CUB
+    shapeID: 75667366B27255150678965
+  SanAntoniodelSurAdm2CUB:
+    admin_name: SanAntoniodelSur
+    iso3c: CUB
+    shapeID: 75667366B15427453282982
+  SanCristóbalAdm2CUB:
+    admin_name: SanCristóbal
+    iso3c: CUB
+    shapeID: 75667366B45015819829333
+  SanctiSpiritusAdm1CUB:
+    admin_name: SanctiSpiritus
+    iso3c: CUB
+    shapeID: 62585838B35888323934872
+  SanctiSpiritusAdm2CUB:
+    admin_name: SanctiSpiritus
+    iso3c: CUB
+    shapeID: 75667366B4706922994966
+  SandinoAdm2CUB:
+    admin_name: Sandino
+    iso3c: CUB
+    shapeID: 75667366B71613146081304
+  SanJosédelasLajasAdm2CUB:
+    admin_name: SanJosédelasLajas
+    iso3c: CUB
+    shapeID: 75667366B46145165221806
+  SanJuanyMartínezAdm2CUB:
+    admin_name: SanJuanyMartínez
+    iso3c: CUB
+    shapeID: 75667366B10680094164751
+  SanLuisAdm2CUB:
+    admin_name: SanLuis
+    iso3c: CUB
+    shapeID: 75667366B92506466281371
+  SanMigueldelPadrónAdm2CUB:
+    admin_name: SanMigueldelPadrón
+    iso3c: CUB
+    shapeID: 75667366B53824695685103
+  SanNicolásAdm2CUB:
+    admin_name: SanNicolás
+    iso3c: CUB
+    shapeID: 75667366B52062801683075
+  SantaClaraAdm2CUB:
+    admin_name: SantaClara
+    iso3c: CUB
+    shapeID: 75667366B9933164592246
+  SantaCruzdelNorteAdm2CUB:
+    admin_name: SantaCruzdelNorte
+    iso3c: CUB
+    shapeID: 75667366B2002412802844
+  SantaCruzdelSurAdm2CUB:
+    admin_name: SantaCruzdelSur
+    iso3c: CUB
+    shapeID: 75667366B65880514113985
+  SantaIsabeldelasLajasAdm2CUB:
+    admin_name: SantaIsabeldelasLajas
+    iso3c: CUB
+    shapeID: 75667366B67206365133341
+  SantiagodeCubaAdm1CUB:
+    admin_name: SantiagodeCuba
+    iso3c: CUB
+    shapeID: 62585838B40246336572844
+  SantiagodeCubaAdm2CUB:
+    admin_name: SantiagodeCuba
+    iso3c: CUB
+    shapeID: 75667366B91712962926649
+  SantoDomingoAdm2CUB:
+    admin_name: SantoDomingo
+    iso3c: CUB
+    shapeID: 75667366B7074170291446
+  SegundoFrenteAdm2CUB:
+    admin_name: SegundoFrente
+    iso3c: CUB
+    shapeID: 75667366B92264993742233
+  SibanicúAdm2CUB:
+    admin_name: Sibanicú
+    iso3c: CUB
+    shapeID: 75667366B1870341582038
+  SierradeCubitasAdm2CUB:
+    admin_name: SierradeCubitas
+    iso3c: CUB
+    shapeID: 75667366B65325522017421
+  Songo-LaMayaAdm2CUB:
+    admin_name: Songo-LaMaya
+    iso3c: CUB
+    shapeID: 75667366B43283590384827
+  TaguascoAdm2CUB:
+    admin_name: Taguasco
+    iso3c: CUB
+    shapeID: 75667366B93984391338935
+  TercerFrenteAdm2CUB:
+    admin_name: TercerFrente
+    iso3c: CUB
+    shapeID: 75667366B69236858438550
+  TrinidadAdm2CUB:
+    admin_name: Trinidad
+    iso3c: CUB
+    shapeID: 75667366B49196044130673
+  UnióndeReyesAdm2CUB:
+    admin_name: UnióndeReyes
+    iso3c: CUB
+    shapeID: 75667366B62928460103923
+  UrbanoNorisAdm2CUB:
+    admin_name: UrbanoNoris
+    iso3c: CUB
+    shapeID: 75667366B38419187157771
+  VenezuelaAdm2CUB:
+    admin_name: Venezuela
+    iso3c: CUB
+    shapeID: 75667366B19835862496893
+  VertientesAdm2CUB:
+    admin_name: Vertientes
+    iso3c: CUB
+    shapeID: 75667366B829419499099
+  VillaClaraAdm1CUB:
+    admin_name: VillaClara
+    iso3c: CUB
+    shapeID: 62585838B76057111414661
+  ViñalesAdm2CUB:
+    admin_name: Viñales
+    iso3c: CUB
+    shapeID: 75667366B68367745340454
+  YaguajayAdm2CUB:
+    admin_name: Yaguajay
+    iso3c: CUB
+    shapeID: 75667366B87194513843542
+  YaraAdm2CUB:
+    admin_name: Yara
+    iso3c: CUB
+    shapeID: 75667366B66232276081175
+  YaterasAdm2CUB:
+    admin_name: Yateras
+    iso3c: CUB
+    shapeID: 75667366B77160460927054

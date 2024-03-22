@@ -1,17 +1,1553 @@
 concepts:
-    - SubcarpathianVoivodeship
-    - PodlaskieVoivodeship
-    - ?ód?Voivodeship
-    - LowerSilesianVoivodeship
-    - PomeranianVoivodeship
-    - WestPomeranianVoivodeship
-    - LublinVoivodeship
-    - Warmian-MasurianVoivodeship
-    - SilesianVoivodeship
-    - GreaterPolandVoivodeship
-    - OpoleVoivodeship
-    - ?wi?tokrzyskieVoivodeship
-    - MasovianVoivodeship
-    - LesserPolandVoivodeship
-    - LubuszVoivodeship
-    - Kuyavian-PomeranianVoivodeship
+  BiałaPodlaskaAdm2POL:
+    admin_name: BiałaPodlaska
+    iso3c: POL
+    shapeID: 97123803B61027126122974
+  BiałystokAdm2POL:
+    admin_name: Białystok
+    iso3c: POL
+    shapeID: 97123803B59040296183858
+  Bielsko-BiałaAdm2POL:
+    admin_name: Bielsko-Biała
+    iso3c: POL
+    shapeID: 97123803B17382026681022
+  BielskoCountyAdm2POL:
+    admin_name: BielskoCounty
+    iso3c: POL
+    shapeID: 97123803B42803502848601
+  BydgoszczAdm2POL:
+    admin_name: Bydgoszcz
+    iso3c: POL
+    shapeID: 97123803B75849196792211
+  BytomAdm2POL:
+    admin_name: Bytom
+    iso3c: POL
+    shapeID: 97123803B59163067671118
+  ChełmAdm2POL:
+    admin_name: Chełm
+    iso3c: POL
+    shapeID: 97123803B99504929418598
+  ChorzówAdm2POL:
+    admin_name: Chorzów
+    iso3c: POL
+    shapeID: 97123803B66664875230332
+  ColbergCountyAdm2POL:
+    admin_name: ColbergCounty
+    iso3c: POL
+    shapeID: 97123803B91990712218554
+  CzęstochowaAdm2POL:
+    admin_name: Częstochowa
+    iso3c: POL
+    shapeID: 97123803B12433125697653
+  DąbrowaGórniczaAdm2POL:
+    admin_name: DąbrowaGórnicza
+    iso3c: POL
+    shapeID: 97123803B42430319797692
+  ElblągAdm2POL:
+    admin_name: Elbląg
+    iso3c: POL
+    shapeID: 97123803B19875271835024
+  GdańskAdm2POL:
+    admin_name: Gdańsk
+    iso3c: POL
+    shapeID: 97123803B94954094983099
+  GdyniaAdm2POL:
+    admin_name: Gdynia
+    iso3c: POL
+    shapeID: 97123803B67872000259077
+  GliwiceAdm2POL:
+    admin_name: Gliwice
+    iso3c: POL
+    shapeID: 97123803B32347573533884
+  GliwiceCountyAdm2POL:
+    admin_name: GliwiceCounty
+    iso3c: POL
+    shapeID: 97123803B43460465435284
+  GorzówWielkopolskiAdm2POL:
+    admin_name: GorzówWielkopolski
+    iso3c: POL
+    shapeID: 97123803B95060943385335
+  GreaterPolandVoivodeshipAdm1POL:
+    admin_name: GreaterPolandVoivodeship
+    iso3c: POL
+    shapeID: 17162690B71775569625336
+  GrodziskMazowieckiCountyAdm2POL:
+    admin_name: GrodziskMazowieckiCounty
+    iso3c: POL
+    shapeID: 97123803B37764985284222
+  GrudziądzAdm2POL:
+    admin_name: Grudziądz
+    iso3c: POL
+    shapeID: 97123803B75123167247923
+  Jastrzębie-ZdrójAdm2POL:
+    admin_name: Jastrzębie-Zdrój
+    iso3c: POL
+    shapeID: 97123803B29696285606985
+  JaworznoAdm2POL:
+    admin_name: Jaworzno
+    iso3c: POL
+    shapeID: 97123803B28773470086200
+  JeleniaGóraAdm2POL:
+    admin_name: JeleniaGóra
+    iso3c: POL
+    shapeID: 97123803B72997598897702
+  KaliszAdm2POL:
+    admin_name: Kalisz
+    iso3c: POL
+    shapeID: 97123803B98459978741557
+  KatowiceAdm2POL:
+    admin_name: Katowice
+    iso3c: POL
+    shapeID: 97123803B38616849895946
+  KielceAdm2POL:
+    admin_name: Kielce
+    iso3c: POL
+    shapeID: 97123803B39741517364343
+  KoninAdm2POL:
+    admin_name: Konin
+    iso3c: POL
+    shapeID: 97123803B8485284539626
+  KoszalinAdm2POL:
+    admin_name: Koszalin
+    iso3c: POL
+    shapeID: 97123803B60230322767647
+  KrakowAdm2POL:
+    admin_name: Krakow
+    iso3c: POL
+    shapeID: 97123803B21594781679660
+  KrosnoAdm2POL:
+    admin_name: Krosno
+    iso3c: POL
+    shapeID: 97123803B41757240177373
+  KutnoCountyAdm2POL:
+    admin_name: KutnoCounty
+    iso3c: POL
+    shapeID: 97123803B29277326870008
+  Kuyavian-PomeranianVoivodeshipAdm1POL:
+    admin_name: Kuyavian-PomeranianVoivodeship
+    iso3c: POL
+    shapeID: 17162690B37876665907262
+  LegnicaAdm2POL:
+    admin_name: Legnica
+    iso3c: POL
+    shapeID: 97123803B50760778496014
+  LesserPolandVoivodeshipAdm1POL:
+    admin_name: LesserPolandVoivodeship
+    iso3c: POL
+    shapeID: 17162690B67655395900928
+  LesznoAdm2POL:
+    admin_name: Leszno
+    iso3c: POL
+    shapeID: 97123803B84170231474640
+  LipnoCountyAdm2POL:
+    admin_name: LipnoCounty
+    iso3c: POL
+    shapeID: 97123803B58446575960492
+  ŁódźAdm2POL:
+    admin_name: Łódź
+    iso3c: POL
+    shapeID: 97123803B7645272119816
+  ŁódźVoivodeshipAdm1POL:
+    admin_name: ŁódźVoivodeship
+    iso3c: POL
+    shapeID: 17162690B86810837764805
+  ŁomżaAdm2POL:
+    admin_name: Łomża
+    iso3c: POL
+    shapeID: 97123803B54018461415488
+  LowerSilesianVoivodeshipAdm1POL:
+    admin_name: LowerSilesianVoivodeship
+    iso3c: POL
+    shapeID: 17162690B9130125042960
+  LublinAdm2POL:
+    admin_name: Lublin
+    iso3c: POL
+    shapeID: 97123803B64676991891840
+  LublinVoivodeshipAdm1POL:
+    admin_name: LublinVoivodeship
+    iso3c: POL
+    shapeID: 17162690B69262761487853
+  LubuszVoivodeshipAdm1POL:
+    admin_name: LubuszVoivodeship
+    iso3c: POL
+    shapeID: 17162690B87710404837799
+  MasovianVoivodeshipAdm1POL:
+    admin_name: MasovianVoivodeship
+    iso3c: POL
+    shapeID: 17162690B84565288021286
+  MysłowiceAdm2POL:
+    admin_name: Mysłowice
+    iso3c: POL
+    shapeID: 97123803B53668064471857
+  NowySączAdm2POL:
+    admin_name: NowySącz
+    iso3c: POL
+    shapeID: 97123803B31297603862015
+  OlsztynAdm2POL:
+    admin_name: Olsztyn
+    iso3c: POL
+    shapeID: 97123803B94475760914700
+  OpoleAdm2POL:
+    admin_name: Opole
+    iso3c: POL
+    shapeID: 97123803B5836957062390
+  OpoleVoivodeshipAdm1POL:
+    admin_name: OpoleVoivodeship
+    iso3c: POL
+    shapeID: 17162690B67719337891950
+  OstrołękaAdm2POL:
+    admin_name: Ostrołęka
+    iso3c: POL
+    shapeID: 97123803B56148579224930
+  PiekaryŚląskieAdm2POL:
+    admin_name: PiekaryŚląskie
+    iso3c: POL
+    shapeID: 97123803B36554985925139
+  PiotrkówTrybunalskiAdm2POL:
+    admin_name: PiotrkówTrybunalski
+    iso3c: POL
+    shapeID: 97123803B4922138330674
+  PłockAdm2POL:
+    admin_name: Płock
+    iso3c: POL
+    shapeID: 97123803B81872489297527
+  PodlaskieVoivodeshipAdm1POL:
+    admin_name: PodlaskieVoivodeship
+    iso3c: POL
+    shapeID: 17162690B23777949290372
+  PomeranianVoivodeshipAdm1POL:
+    admin_name: PomeranianVoivodeship
+    iso3c: POL
+    shapeID: 17162690B77437931625010
+  powiataleksandrowskiAdm2POL:
+    admin_name: powiataleksandrowski
+    iso3c: POL
+    shapeID: 97123803B32521321822134
+  powiataugustowskiAdm2POL:
+    admin_name: powiataugustowski
+    iso3c: POL
+    shapeID: 97123803B58035656426316
+  powiatbartoszyckiAdm2POL:
+    admin_name: powiatbartoszycki
+    iso3c: POL
+    shapeID: 97123803B10761738503580
+  powiatbędzińskiAdm2POL:
+    admin_name: powiatbędziński
+    iso3c: POL
+    shapeID: 97123803B68770287523061
+  powiatbełchatowskiAdm2POL:
+    admin_name: powiatbełchatowski
+    iso3c: POL
+    shapeID: 97123803B55878704558869
+  powiatbiałobrzeskiAdm2POL:
+    admin_name: powiatbiałobrzeski
+    iso3c: POL
+    shapeID: 97123803B28129099820975
+  powiatbiałogardzkiAdm2POL:
+    admin_name: powiatbiałogardzki
+    iso3c: POL
+    shapeID: 97123803B59044496630529
+  powiatbiałostockiAdm2POL:
+    admin_name: powiatbiałostocki
+    iso3c: POL
+    shapeID: 97123803B68694954952085
+  powiatbialskiAdm2POL:
+    admin_name: powiatbialski
+    iso3c: POL
+    shapeID: 97123803B97411923276084
+  powiatbielskiAdm2POL:
+    admin_name: powiatbielski
+    iso3c: POL
+    shapeID: 97123803B68615950305505
+  powiatbieruńsko-lędzińskiAdm2POL:
+    admin_name: powiatbieruńsko-lędziński
+    iso3c: POL
+    shapeID: 97123803B24702321796768
+  powiatbieszczadzkiAdm2POL:
+    admin_name: powiatbieszczadzki
+    iso3c: POL
+    shapeID: 97123803B44525837921198
+  powiatbiłgorajskiAdm2POL:
+    admin_name: powiatbiłgorajski
+    iso3c: POL
+    shapeID: 97123803B85750909699141
+  powiatbocheńskiAdm2POL:
+    admin_name: powiatbocheński
+    iso3c: POL
+    shapeID: 97123803B89648379789874
+  powiatbolesławieckiAdm2POL:
+    admin_name: powiatbolesławiecki
+    iso3c: POL
+    shapeID: 97123803B58891629330358
+  powiatbraniewskiAdm2POL:
+    admin_name: powiatbraniewski
+    iso3c: POL
+    shapeID: 97123803B104288407243
+  powiatbrodnickiAdm2POL:
+    admin_name: powiatbrodnicki
+    iso3c: POL
+    shapeID: 97123803B28409379531443
+  powiatbrzeskiAdm2POL:
+    admin_name: powiatbrzeski
+    iso3c: POL
+    shapeID: 97123803B15748088770399
+  powiatbrzezińskiAdm2POL:
+    admin_name: powiatbrzeziński
+    iso3c: POL
+    shapeID: 97123803B67369210570272
+  powiatbrzozowskiAdm2POL:
+    admin_name: powiatbrzozowski
+    iso3c: POL
+    shapeID: 97123803B39373860173771
+  powiatbuskiAdm2POL:
+    admin_name: powiatbuski
+    iso3c: POL
+    shapeID: 97123803B76510665112498
+  powiatbydgoskiAdm2POL:
+    admin_name: powiatbydgoski
+    iso3c: POL
+    shapeID: 97123803B9707537764567
+  powiatbytowskiAdm2POL:
+    admin_name: powiatbytowski
+    iso3c: POL
+    shapeID: 97123803B42115657969076
+  powiatchełmińskiAdm2POL:
+    admin_name: powiatchełmiński
+    iso3c: POL
+    shapeID: 97123803B25771345431949
+  powiatchełmskiAdm2POL:
+    admin_name: powiatchełmski
+    iso3c: POL
+    shapeID: 97123803B24100086136213
+  powiatchodzieskiAdm2POL:
+    admin_name: powiatchodzieski
+    iso3c: POL
+    shapeID: 97123803B71470666269801
+  powiatchojnickiAdm2POL:
+    admin_name: powiatchojnicki
+    iso3c: POL
+    shapeID: 97123803B33583334384369
+  powiatchoszczeńskiAdm2POL:
+    admin_name: powiatchoszczeński
+    iso3c: POL
+    shapeID: 97123803B99559520652943
+  powiatchrzanowskiAdm2POL:
+    admin_name: powiatchrzanowski
+    iso3c: POL
+    shapeID: 97123803B59086767545383
+  powiatciechanowskiAdm2POL:
+    admin_name: powiatciechanowski
+    iso3c: POL
+    shapeID: 97123803B31505064411369
+  powiatcieszyńskiAdm2POL:
+    admin_name: powiatcieszyński
+    iso3c: POL
+    shapeID: 97123803B2863655114461
+  powiatczarnkowsko-trzcianeckiAdm2POL:
+    admin_name: powiatczarnkowsko-trzcianecki
+    iso3c: POL
+    shapeID: 97123803B78376490916696
+  powiatczęstochowskiAdm2POL:
+    admin_name: powiatczęstochowski
+    iso3c: POL
+    shapeID: 97123803B91883902086820
+  powiatczłuchowskiAdm2POL:
+    admin_name: powiatczłuchowski
+    iso3c: POL
+    shapeID: 97123803B82064878036663
+  powiatdąbrowskiAdm2POL:
+    admin_name: powiatdąbrowski
+    iso3c: POL
+    shapeID: 97123803B73864574049644
+  powiatdębickiAdm2POL:
+    admin_name: powiatdębicki
+    iso3c: POL
+    shapeID: 97123803B55698570656076
+  powiatdrawskiAdm2POL:
+    admin_name: powiatdrawski
+    iso3c: POL
+    shapeID: 97123803B98671603391563
+  powiatdziałdowskiAdm2POL:
+    admin_name: powiatdziałdowski
+    iso3c: POL
+    shapeID: 97123803B35658247686923
+  powiatdzierżoniowskiAdm2POL:
+    admin_name: powiatdzierżoniowski
+    iso3c: POL
+    shapeID: 97123803B51601189250879
+  powiatelbląskiAdm2POL:
+    admin_name: powiatelbląski
+    iso3c: POL
+    shapeID: 97123803B31386338041940
+  powiatełckiAdm2POL:
+    admin_name: powiatełcki
+    iso3c: POL
+    shapeID: 97123803B26207703539624
+  powiatgarwolińskiAdm2POL:
+    admin_name: powiatgarwoliński
+    iso3c: POL
+    shapeID: 97123803B28602987125526
+  powiatgdańskiAdm2POL:
+    admin_name: powiatgdański
+    iso3c: POL
+    shapeID: 97123803B32319606307995
+  powiatgiżyckiAdm2POL:
+    admin_name: powiatgiżycki
+    iso3c: POL
+    shapeID: 97123803B71654456210040
+  powiatgłogowskiAdm2POL:
+    admin_name: powiatgłogowski
+    iso3c: POL
+    shapeID: 97123803B39378110841859
+  powiatgłubczyckiAdm2POL:
+    admin_name: powiatgłubczycki
+    iso3c: POL
+    shapeID: 97123803B5903122455577
+  powiatgnieźnieńskiAdm2POL:
+    admin_name: powiatgnieźnieński
+    iso3c: POL
+    shapeID: 97123803B17404862878214
+  powiatgołdapskiAdm2POL:
+    admin_name: powiatgołdapski
+    iso3c: POL
+    shapeID: 97123803B90464141962695
+  powiatgoleniowskiAdm2POL:
+    admin_name: powiatgoleniowski
+    iso3c: POL
+    shapeID: 97123803B74459669282553
+  powiatgolubsko-dobrzyńskiAdm2POL:
+    admin_name: powiatgolubsko-dobrzyński
+    iso3c: POL
+    shapeID: 97123803B1383241513584
+  powiatgorlickiAdm2POL:
+    admin_name: powiatgorlicki
+    iso3c: POL
+    shapeID: 97123803B55887044813235
+  powiatgórowskiAdm2POL:
+    admin_name: powiatgórowski
+    iso3c: POL
+    shapeID: 97123803B96855143237142
+  powiatgorzowskiAdm2POL:
+    admin_name: powiatgorzowski
+    iso3c: POL
+    shapeID: 97123803B69129905213834
+  powiatgostynińskiAdm2POL:
+    admin_name: powiatgostyniński
+    iso3c: POL
+    shapeID: 97123803B83389446611730
+  powiatgostyńskiAdm2POL:
+    admin_name: powiatgostyński
+    iso3c: POL
+    shapeID: 97123803B28670353611380
+  powiatgrajewskiAdm2POL:
+    admin_name: powiatgrajewski
+    iso3c: POL
+    shapeID: 97123803B36805874803962
+  powiatgrodziskiAdm2POL:
+    admin_name: powiatgrodziski
+    iso3c: POL
+    shapeID: 97123803B28485942043855
+  powiatgrójeckiAdm2POL:
+    admin_name: powiatgrójecki
+    iso3c: POL
+    shapeID: 97123803B23124648499966
+  powiatgrudziądzkiAdm2POL:
+    admin_name: powiatgrudziądzki
+    iso3c: POL
+    shapeID: 97123803B69583733132331
+  powiatgryfickiAdm2POL:
+    admin_name: powiatgryficki
+    iso3c: POL
+    shapeID: 97123803B67167941663167
+  powiatgryfińskiAdm2POL:
+    admin_name: powiatgryfiński
+    iso3c: POL
+    shapeID: 97123803B75242533584038
+  powiathajnowskiAdm2POL:
+    admin_name: powiathajnowski
+    iso3c: POL
+    shapeID: 97123803B55709883056757
+  powiathrubieszowskiAdm2POL:
+    admin_name: powiathrubieszowski
+    iso3c: POL
+    shapeID: 97123803B66371363243422
+  powiatiławskiAdm2POL:
+    admin_name: powiatiławski
+    iso3c: POL
+    shapeID: 97123803B23397899811141
+  powiatinowrocławskiAdm2POL:
+    admin_name: powiatinowrocławski
+    iso3c: POL
+    shapeID: 97123803B9240583844076
+  powiatjanowskiAdm2POL:
+    admin_name: powiatjanowski
+    iso3c: POL
+    shapeID: 97123803B50774213524005
+  powiatjarocińskiAdm2POL:
+    admin_name: powiatjarociński
+    iso3c: POL
+    shapeID: 97123803B96890505796018
+  powiatjarosławskiAdm2POL:
+    admin_name: powiatjarosławski
+    iso3c: POL
+    shapeID: 97123803B18910214741105
+  powiatjasielskiAdm2POL:
+    admin_name: powiatjasielski
+    iso3c: POL
+    shapeID: 97123803B46225545436038
+  powiatjaworskiAdm2POL:
+    admin_name: powiatjaworski
+    iso3c: POL
+    shapeID: 97123803B8356375586641
+  powiatjędrzejowskiAdm2POL:
+    admin_name: powiatjędrzejowski
+    iso3c: POL
+    shapeID: 97123803B80490903159051
+  powiatjeleniogórskiAdm2POL:
+    admin_name: powiatjeleniogórski
+    iso3c: POL
+    shapeID: 97123803B59477648790718
+  powiatkaliskiAdm2POL:
+    admin_name: powiatkaliski
+    iso3c: POL
+    shapeID: 97123803B83681034253495
+  powiatkamiennogórskiAdm2POL:
+    admin_name: powiatkamiennogórski
+    iso3c: POL
+    shapeID: 97123803B79708855616920
+  powiatkamieńskiAdm2POL:
+    admin_name: powiatkamieński
+    iso3c: POL
+    shapeID: 97123803B49859216732849
+  powiatkartuskiAdm2POL:
+    admin_name: powiatkartuski
+    iso3c: POL
+    shapeID: 97123803B39558666909250
+  powiatkazimierskiAdm2POL:
+    admin_name: powiatkazimierski
+    iso3c: POL
+    shapeID: 97123803B46001741254644
+  powiatkędzierzyńsko-kozielskiAdm2POL:
+    admin_name: powiatkędzierzyńsko-kozielski
+    iso3c: POL
+    shapeID: 97123803B45107875491012
+  powiatkępińskiAdm2POL:
+    admin_name: powiatkępiński
+    iso3c: POL
+    shapeID: 97123803B17604745670044
+  powiatkętrzyńskiAdm2POL:
+    admin_name: powiatkętrzyński
+    iso3c: POL
+    shapeID: 97123803B95286595746468
+  powiatkieleckiAdm2POL:
+    admin_name: powiatkielecki
+    iso3c: POL
+    shapeID: 97123803B61459165730757
+  powiatkłobuckiAdm2POL:
+    admin_name: powiatkłobucki
+    iso3c: POL
+    shapeID: 97123803B97179350031040
+  powiatkłodzkiAdm2POL:
+    admin_name: powiatkłodzki
+    iso3c: POL
+    shapeID: 97123803B38262227952408
+  powiatkluczborskiAdm2POL:
+    admin_name: powiatkluczborski
+    iso3c: POL
+    shapeID: 97123803B13101712974963
+  powiatkolbuszowskiAdm2POL:
+    admin_name: powiatkolbuszowski
+    iso3c: POL
+    shapeID: 97123803B9077390648900
+  powiatkolneńskiAdm2POL:
+    admin_name: powiatkolneński
+    iso3c: POL
+    shapeID: 97123803B61926219347848
+  powiatkolskiAdm2POL:
+    admin_name: powiatkolski
+    iso3c: POL
+    shapeID: 97123803B7412529782344
+  powiatkoneckiAdm2POL:
+    admin_name: powiatkonecki
+    iso3c: POL
+    shapeID: 97123803B66464538600210
+  powiatkonińskiAdm2POL:
+    admin_name: powiatkoniński
+    iso3c: POL
+    shapeID: 97123803B42605297456215
+  powiatkościańskiAdm2POL:
+    admin_name: powiatkościański
+    iso3c: POL
+    shapeID: 97123803B57033073326016
+  powiatkościerskiAdm2POL:
+    admin_name: powiatkościerski
+    iso3c: POL
+    shapeID: 97123803B99802713010874
+  powiatkoszalińskiAdm2POL:
+    admin_name: powiatkoszaliński
+    iso3c: POL
+    shapeID: 97123803B76375147596168
+  powiatkozienickiAdm2POL:
+    admin_name: powiatkozienicki
+    iso3c: POL
+    shapeID: 97123803B54474299651623
+  powiatkrakowskiAdm2POL:
+    admin_name: powiatkrakowski
+    iso3c: POL
+    shapeID: 97123803B39809821716237
+  powiatkrapkowickiAdm2POL:
+    admin_name: powiatkrapkowicki
+    iso3c: POL
+    shapeID: 97123803B36414004726637
+  powiatkraśnickiAdm2POL:
+    admin_name: powiatkraśnicki
+    iso3c: POL
+    shapeID: 97123803B98766138601029
+  powiatkrasnostawskiAdm2POL:
+    admin_name: powiatkrasnostawski
+    iso3c: POL
+    shapeID: 97123803B19429732816487
+  powiatkrośnieńskiAdm2POL:
+    admin_name: powiatkrośnieński
+    iso3c: POL
+    shapeID: 97123803B63407686971030
+  powiatkrotoszyńskiAdm2POL:
+    admin_name: powiatkrotoszyński
+    iso3c: POL
+    shapeID: 97123803B3714885460110
+  powiatkwidzyńskiAdm2POL:
+    admin_name: powiatkwidzyński
+    iso3c: POL
+    shapeID: 97123803B12703432682825
+  powiatłańcuckiAdm2POL:
+    admin_name: powiatłańcucki
+    iso3c: POL
+    shapeID: 97123803B80840463611281
+  powiatłaskiAdm2POL:
+    admin_name: powiatłaski
+    iso3c: POL
+    shapeID: 97123803B59410905739795
+  powiatlęborskiAdm2POL:
+    admin_name: powiatlęborski
+    iso3c: POL
+    shapeID: 97123803B61924005765157
+  powiatłęczyckiAdm2POL:
+    admin_name: powiatłęczycki
+    iso3c: POL
+    shapeID: 97123803B48614857269424
+  powiatłęczyńskiAdm2POL:
+    admin_name: powiatłęczyński
+    iso3c: POL
+    shapeID: 97123803B53409437500899
+  powiatlegionowskiAdm2POL:
+    admin_name: powiatlegionowski
+    iso3c: POL
+    shapeID: 97123803B497614911629
+  powiatlegnickiAdm2POL:
+    admin_name: powiatlegnicki
+    iso3c: POL
+    shapeID: 97123803B63466125296582
+  powiatleskiAdm2POL:
+    admin_name: powiatleski
+    iso3c: POL
+    shapeID: 97123803B75188361774983
+  powiatleszczyńskiAdm2POL:
+    admin_name: powiatleszczyński
+    iso3c: POL
+    shapeID: 97123803B1485934186033
+  powiatleżajskiAdm2POL:
+    admin_name: powiatleżajski
+    iso3c: POL
+    shapeID: 97123803B92563407801483
+  powiatlidzbarskiAdm2POL:
+    admin_name: powiatlidzbarski
+    iso3c: POL
+    shapeID: 97123803B9995463309305
+  powiatlimanowskiAdm2POL:
+    admin_name: powiatlimanowski
+    iso3c: POL
+    shapeID: 97123803B99361137519634
+  powiatlipskiAdm2POL:
+    admin_name: powiatlipski
+    iso3c: POL
+    shapeID: 97123803B20233336676411
+  powiatłobeskiAdm2POL:
+    admin_name: powiatłobeski
+    iso3c: POL
+    shapeID: 97123803B94600675665737
+  powiatłódzkiwschodniAdm2POL:
+    admin_name: powiatłódzkiwschodni
+    iso3c: POL
+    shapeID: 97123803B27811537672668
+  powiatłomżyńskiAdm2POL:
+    admin_name: powiatłomżyński
+    iso3c: POL
+    shapeID: 97123803B80828507863774
+  powiatłosickiAdm2POL:
+    admin_name: powiatłosicki
+    iso3c: POL
+    shapeID: 97123803B82350056929134
+  powiatłowickiAdm2POL:
+    admin_name: powiatłowicki
+    iso3c: POL
+    shapeID: 97123803B4935211917050
+  powiatlubaczowskiAdm2POL:
+    admin_name: powiatlubaczowski
+    iso3c: POL
+    shapeID: 97123803B25258564910474
+  powiatlubańskiAdm2POL:
+    admin_name: powiatlubański
+    iso3c: POL
+    shapeID: 97123803B77431341295316
+  powiatlubartowskiAdm2POL:
+    admin_name: powiatlubartowski
+    iso3c: POL
+    shapeID: 97123803B17079150778930
+  powiatlubelskiAdm2POL:
+    admin_name: powiatlubelski
+    iso3c: POL
+    shapeID: 97123803B63154922621044
+  powiatlubińskiAdm2POL:
+    admin_name: powiatlubiński
+    iso3c: POL
+    shapeID: 97123803B91508787244450
+  powiatlublinieckiAdm2POL:
+    admin_name: powiatlubliniecki
+    iso3c: POL
+    shapeID: 97123803B20450904201068
+  powiatłukowskiAdm2POL:
+    admin_name: powiatłukowski
+    iso3c: POL
+    shapeID: 97123803B78042866149488
+  powiatlwóweckiAdm2POL:
+    admin_name: powiatlwówecki
+    iso3c: POL
+    shapeID: 97123803B3206067529972
+  powiatmakowskiAdm2POL:
+    admin_name: powiatmakowski
+    iso3c: POL
+    shapeID: 97123803B37366720370178
+  powiatmalborskiAdm2POL:
+    admin_name: powiatmalborski
+    iso3c: POL
+    shapeID: 97123803B38678598735475
+  powiatmiechowskiAdm2POL:
+    admin_name: powiatmiechowski
+    iso3c: POL
+    shapeID: 97123803B65482799022884
+  powiatmiędzychodzkiAdm2POL:
+    admin_name: powiatmiędzychodzki
+    iso3c: POL
+    shapeID: 97123803B23859505381451
+  powiatmiędzyrzeckiAdm2POL:
+    admin_name: powiatmiędzyrzecki
+    iso3c: POL
+    shapeID: 97123803B59112926681131
+  powiatmieleckiAdm2POL:
+    admin_name: powiatmielecki
+    iso3c: POL
+    shapeID: 97123803B81076671425644
+  powiatmikołowskiAdm2POL:
+    admin_name: powiatmikołowski
+    iso3c: POL
+    shapeID: 97123803B6832347595419
+  powiatmilickiAdm2POL:
+    admin_name: powiatmilicki
+    iso3c: POL
+    shapeID: 97123803B53507360872142
+  powiatmińskiAdm2POL:
+    admin_name: powiatmiński
+    iso3c: POL
+    shapeID: 97123803B34190060198663
+  powiatmławskiAdm2POL:
+    admin_name: powiatmławski
+    iso3c: POL
+    shapeID: 97123803B1612775662662
+  powiatmogileńskiAdm2POL:
+    admin_name: powiatmogileński
+    iso3c: POL
+    shapeID: 97123803B92272026082870
+  powiatmonieckiAdm2POL:
+    admin_name: powiatmoniecki
+    iso3c: POL
+    shapeID: 97123803B44998354830204
+  powiatmrągowskiAdm2POL:
+    admin_name: powiatmrągowski
+    iso3c: POL
+    shapeID: 97123803B65115192174944
+  powiatmyślenickiAdm2POL:
+    admin_name: powiatmyślenicki
+    iso3c: POL
+    shapeID: 97123803B32335887973643
+  powiatmyśliborskiAdm2POL:
+    admin_name: powiatmyśliborski
+    iso3c: POL
+    shapeID: 97123803B28643063272867
+  powiatmyszkowskiAdm2POL:
+    admin_name: powiatmyszkowski
+    iso3c: POL
+    shapeID: 97123803B27143359411218
+  powiatnakielskiAdm2POL:
+    admin_name: powiatnakielski
+    iso3c: POL
+    shapeID: 97123803B46808146160644
+  powiatnamysłowskiAdm2POL:
+    admin_name: powiatnamysłowski
+    iso3c: POL
+    shapeID: 97123803B16603378682838
+  powiatnidzickiAdm2POL:
+    admin_name: powiatnidzicki
+    iso3c: POL
+    shapeID: 97123803B75984633326845
+  powiatniżańskiAdm2POL:
+    admin_name: powiatniżański
+    iso3c: POL
+    shapeID: 97123803B1887512217990
+  powiatnowodworskiAdm2POL:
+    admin_name: powiatnowodworski
+    iso3c: POL
+    shapeID: 97123803B54531295571554
+  powiatnowomiejskiAdm2POL:
+    admin_name: powiatnowomiejski
+    iso3c: POL
+    shapeID: 97123803B13993320568512
+  powiatnowosądeckiAdm2POL:
+    admin_name: powiatnowosądecki
+    iso3c: POL
+    shapeID: 97123803B14244404874732
+  powiatnowosolskiAdm2POL:
+    admin_name: powiatnowosolski
+    iso3c: POL
+    shapeID: 97123803B95723742442570
+  powiatnowotarskiAdm2POL:
+    admin_name: powiatnowotarski
+    iso3c: POL
+    shapeID: 97123803B43090666874983
+  powiatnowotomyskiAdm2POL:
+    admin_name: powiatnowotomyski
+    iso3c: POL
+    shapeID: 97123803B15856003197265
+  powiatnyskiAdm2POL:
+    admin_name: powiatnyski
+    iso3c: POL
+    shapeID: 97123803B24432593603211
+  powiatobornickiAdm2POL:
+    admin_name: powiatobornicki
+    iso3c: POL
+    shapeID: 97123803B8053537325505
+  powiatoławskiAdm2POL:
+    admin_name: powiatoławski
+    iso3c: POL
+    shapeID: 97123803B58197659978579
+  powiatoleckiAdm2POL:
+    admin_name: powiatolecki
+    iso3c: POL
+    shapeID: 97123803B32706698618433
+  powiatoleskiAdm2POL:
+    admin_name: powiatoleski
+    iso3c: POL
+    shapeID: 97123803B2637112338773
+  powiatoleśnickiAdm2POL:
+    admin_name: powiatoleśnicki
+    iso3c: POL
+    shapeID: 97123803B54239004456256
+  powiatolkuskiAdm2POL:
+    admin_name: powiatolkuski
+    iso3c: POL
+    shapeID: 97123803B93748000152407
+  powiatolsztyńskiAdm2POL:
+    admin_name: powiatolsztyński
+    iso3c: POL
+    shapeID: 97123803B1806697127048
+  powiatopatowskiAdm2POL:
+    admin_name: powiatopatowski
+    iso3c: POL
+    shapeID: 97123803B34269805906779
+  powiatopoczyńskiAdm2POL:
+    admin_name: powiatopoczyński
+    iso3c: POL
+    shapeID: 97123803B8284294001163
+  powiatopolskiAdm2POL:
+    admin_name: powiatopolski
+    iso3c: POL
+    shapeID: 97123803B26282027133346
+  powiatostródzkiAdm2POL:
+    admin_name: powiatostródzki
+    iso3c: POL
+    shapeID: 97123803B47425435621556
+  powiatostrołęckiAdm2POL:
+    admin_name: powiatostrołęcki
+    iso3c: POL
+    shapeID: 97123803B42155627627792
+  powiatostrowieckiAdm2POL:
+    admin_name: powiatostrowiecki
+    iso3c: POL
+    shapeID: 97123803B57342624199582
+  powiatostrowskiAdm2POL:
+    admin_name: powiatostrowski
+    iso3c: POL
+    shapeID: 97123803B87862325993795
+  powiatostrzeszowskiAdm2POL:
+    admin_name: powiatostrzeszowski
+    iso3c: POL
+    shapeID: 97123803B27988074960321
+  powiatoświęcimskiAdm2POL:
+    admin_name: powiatoświęcimski
+    iso3c: POL
+    shapeID: 97123803B8677268447535
+  powiatotwockiAdm2POL:
+    admin_name: powiatotwocki
+    iso3c: POL
+    shapeID: 97123803B23826165186298
+  powiatpabianickiAdm2POL:
+    admin_name: powiatpabianicki
+    iso3c: POL
+    shapeID: 97123803B64720880719363
+  powiatpajęczańskiAdm2POL:
+    admin_name: powiatpajęczański
+    iso3c: POL
+    shapeID: 97123803B88160247596148
+  powiatparczewskiAdm2POL:
+    admin_name: powiatparczewski
+    iso3c: POL
+    shapeID: 97123803B22911305882883
+  powiatpiaseczyńskiAdm2POL:
+    admin_name: powiatpiaseczyński
+    iso3c: POL
+    shapeID: 97123803B95533847900847
+  powiatpilskiAdm2POL:
+    admin_name: powiatpilski
+    iso3c: POL
+    shapeID: 97123803B32501267840323
+  powiatpińczowskiAdm2POL:
+    admin_name: powiatpińczowski
+    iso3c: POL
+    shapeID: 97123803B31092581115810
+  powiatpiotrkowskiAdm2POL:
+    admin_name: powiatpiotrkowski
+    iso3c: POL
+    shapeID: 97123803B4209346357939
+  powiatpiskiAdm2POL:
+    admin_name: powiatpiski
+    iso3c: POL
+    shapeID: 97123803B60179064552066
+  powiatpleszewskiAdm2POL:
+    admin_name: powiatpleszewski
+    iso3c: POL
+    shapeID: 97123803B53981294634279
+  powiatpłockiAdm2POL:
+    admin_name: powiatpłocki
+    iso3c: POL
+    shapeID: 97123803B29090471245952
+  powiatpłońskiAdm2POL:
+    admin_name: powiatpłoński
+    iso3c: POL
+    shapeID: 97123803B24229511751873
+  powiatpoddębickiAdm2POL:
+    admin_name: powiatpoddębicki
+    iso3c: POL
+    shapeID: 97123803B26244097813910
+  powiatpolickiAdm2POL:
+    admin_name: powiatpolicki
+    iso3c: POL
+    shapeID: 97123803B50879868693939
+  powiatpolkowickiAdm2POL:
+    admin_name: powiatpolkowicki
+    iso3c: POL
+    shapeID: 97123803B54364909959766
+  powiatpoznańskiAdm2POL:
+    admin_name: powiatpoznański
+    iso3c: POL
+    shapeID: 97123803B7855398736955
+  powiatproszowickiAdm2POL:
+    admin_name: powiatproszowicki
+    iso3c: POL
+    shapeID: 97123803B25170701377899
+  powiatprudnickiAdm2POL:
+    admin_name: powiatprudnicki
+    iso3c: POL
+    shapeID: 97123803B37662113992790
+  powiatpruszkowskiAdm2POL:
+    admin_name: powiatpruszkowski
+    iso3c: POL
+    shapeID: 97123803B92072145653322
+  powiatprzasnyskiAdm2POL:
+    admin_name: powiatprzasnyski
+    iso3c: POL
+    shapeID: 97123803B17008547721121
+  powiatprzemyskiAdm2POL:
+    admin_name: powiatprzemyski
+    iso3c: POL
+    shapeID: 97123803B51933701557072
+  powiatprzeworskiAdm2POL:
+    admin_name: powiatprzeworski
+    iso3c: POL
+    shapeID: 97123803B13474952097079
+  powiatprzysuskiAdm2POL:
+    admin_name: powiatprzysuski
+    iso3c: POL
+    shapeID: 97123803B75572757006668
+  powiatpszczyńskiAdm2POL:
+    admin_name: powiatpszczyński
+    iso3c: POL
+    shapeID: 97123803B5680606400932
+  powiatpuckiAdm2POL:
+    admin_name: powiatpucki
+    iso3c: POL
+    shapeID: 97123803B98442274868812
+  powiatpuławskiAdm2POL:
+    admin_name: powiatpuławski
+    iso3c: POL
+    shapeID: 97123803B24577693592130
+  powiatpułtuskiAdm2POL:
+    admin_name: powiatpułtuski
+    iso3c: POL
+    shapeID: 97123803B33378807819874
+  powiatpyrzyckiAdm2POL:
+    admin_name: powiatpyrzycki
+    iso3c: POL
+    shapeID: 97123803B36590188082356
+  powiatradomskiAdm2POL:
+    admin_name: powiatradomski
+    iso3c: POL
+    shapeID: 97123803B97784209051202
+  powiatradomszczańskiAdm2POL:
+    admin_name: powiatradomszczański
+    iso3c: POL
+    shapeID: 97123803B10471079302870
+  powiatradziejowskiAdm2POL:
+    admin_name: powiatradziejowski
+    iso3c: POL
+    shapeID: 97123803B43148225022545
+  powiatradzyńskiAdm2POL:
+    admin_name: powiatradzyński
+    iso3c: POL
+    shapeID: 97123803B29582124682037
+  powiatrawickiAdm2POL:
+    admin_name: powiatrawicki
+    iso3c: POL
+    shapeID: 97123803B6613212832706
+  powiatrawskiAdm2POL:
+    admin_name: powiatrawski
+    iso3c: POL
+    shapeID: 97123803B7367588692786
+  powiatropczycko-sędziszowskiAdm2POL:
+    admin_name: powiatropczycko-sędziszowski
+    iso3c: POL
+    shapeID: 97123803B13385232163287
+  powiatrybnickiAdm2POL:
+    admin_name: powiatrybnicki
+    iso3c: POL
+    shapeID: 97123803B90204639503240
+  powiatryckiAdm2POL:
+    admin_name: powiatrycki
+    iso3c: POL
+    shapeID: 97123803B3581138729552
+  powiatrypińskiAdm2POL:
+    admin_name: powiatrypiński
+    iso3c: POL
+    shapeID: 97123803B63176589580472
+  powiatrzeszowskiAdm2POL:
+    admin_name: powiatrzeszowski
+    iso3c: POL
+    shapeID: 97123803B38398758830096
+  powiatsandomierskiAdm2POL:
+    admin_name: powiatsandomierski
+    iso3c: POL
+    shapeID: 97123803B7137135700848
+  powiatsanockiAdm2POL:
+    admin_name: powiatsanocki
+    iso3c: POL
+    shapeID: 97123803B69736057878528
+  powiatsejneńskiAdm2POL:
+    admin_name: powiatsejneński
+    iso3c: POL
+    shapeID: 97123803B393502808619
+  powiatsępoleńskiAdm2POL:
+    admin_name: powiatsępoleński
+    iso3c: POL
+    shapeID: 97123803B96251086942683
+  powiatsiemiatyckiAdm2POL:
+    admin_name: powiatsiemiatycki
+    iso3c: POL
+    shapeID: 97123803B64067295814001
+  powiatsieradzkiAdm2POL:
+    admin_name: powiatsieradzki
+    iso3c: POL
+    shapeID: 97123803B70783376059973
+  powiatsierpeckiAdm2POL:
+    admin_name: powiatsierpecki
+    iso3c: POL
+    shapeID: 97123803B89680527785961
+  powiatskarżyskiAdm2POL:
+    admin_name: powiatskarżyski
+    iso3c: POL
+    shapeID: 97123803B69848947335141
+  powiatskierniewickiAdm2POL:
+    admin_name: powiatskierniewicki
+    iso3c: POL
+    shapeID: 97123803B45117428353418
+  powiatsławieńskiAdm2POL:
+    admin_name: powiatsławieński
+    iso3c: POL
+    shapeID: 97123803B79414858321091
+  powiatsłubickiAdm2POL:
+    admin_name: powiatsłubicki
+    iso3c: POL
+    shapeID: 97123803B21410203609127
+  powiatsłupeckiAdm2POL:
+    admin_name: powiatsłupecki
+    iso3c: POL
+    shapeID: 97123803B82520010622191
+  powiatsłupskiAdm2POL:
+    admin_name: powiatsłupski
+    iso3c: POL
+    shapeID: 97123803B88726469838419
+  powiatsochaczewskiAdm2POL:
+    admin_name: powiatsochaczewski
+    iso3c: POL
+    shapeID: 97123803B24633512750294
+  powiatsokołowskiAdm2POL:
+    admin_name: powiatsokołowski
+    iso3c: POL
+    shapeID: 97123803B89589924595108
+  powiatsokólskiAdm2POL:
+    admin_name: powiatsokólski
+    iso3c: POL
+    shapeID: 97123803B87488601780239
+  powiatśredzkiAdm2POL:
+    admin_name: powiatśredzki
+    iso3c: POL
+    shapeID: 97123803B44239736737880
+  powiatśremskiAdm2POL:
+    admin_name: powiatśremski
+    iso3c: POL
+    shapeID: 97123803B4866614731621
+  powiatstalowowolskiAdm2POL:
+    admin_name: powiatstalowowolski
+    iso3c: POL
+    shapeID: 97123803B40406987391133
+  powiatstarachowickiAdm2POL:
+    admin_name: powiatstarachowicki
+    iso3c: POL
+    shapeID: 97123803B6542029830627
+  powiatstargardzkiAdm2POL:
+    admin_name: powiatstargardzki
+    iso3c: POL
+    shapeID: 97123803B29328947596269
+  powiatstarogardzkiAdm2POL:
+    admin_name: powiatstarogardzki
+    iso3c: POL
+    shapeID: 97123803B56548504658559
+  powiatstaszowskiAdm2POL:
+    admin_name: powiatstaszowski
+    iso3c: POL
+    shapeID: 97123803B31508976981419
+  powiatstrzeleckiAdm2POL:
+    admin_name: powiatstrzelecki
+    iso3c: POL
+    shapeID: 97123803B65919735193470
+  powiatstrzelecko-drezdeneckiAdm2POL:
+    admin_name: powiatstrzelecko-drezdenecki
+    iso3c: POL
+    shapeID: 97123803B83851306076890
+  powiatstrzelińskiAdm2POL:
+    admin_name: powiatstrzeliński
+    iso3c: POL
+    shapeID: 97123803B15878331487919
+  powiatstrzyżowskiAdm2POL:
+    admin_name: powiatstrzyżowski
+    iso3c: POL
+    shapeID: 97123803B42289747615998
+  powiatsulęcińskiAdm2POL:
+    admin_name: powiatsulęciński
+    iso3c: POL
+    shapeID: 97123803B19978022200784
+  powiatsuskiAdm2POL:
+    admin_name: powiatsuski
+    iso3c: POL
+    shapeID: 97123803B1742382971661
+  powiatsuwalskiAdm2POL:
+    admin_name: powiatsuwalski
+    iso3c: POL
+    shapeID: 97123803B55333402049179
+  powiatświdnickiAdm2POL:
+    admin_name: powiatświdnicki
+    iso3c: POL
+    shapeID: 97123803B31750044928350
+  powiatświdwińskiAdm2POL:
+    admin_name: powiatświdwiński
+    iso3c: POL
+    shapeID: 97123803B45254484045850
+  powiatświebodzińskiAdm2POL:
+    admin_name: powiatświebodziński
+    iso3c: POL
+    shapeID: 97123803B51821166573093
+  powiatświeckiAdm2POL:
+    admin_name: powiatświecki
+    iso3c: POL
+    shapeID: 97123803B68477260291696
+  powiatszamotulskiAdm2POL:
+    admin_name: powiatszamotulski
+    iso3c: POL
+    shapeID: 97123803B27518008608478
+  powiatszczecineckiAdm2POL:
+    admin_name: powiatszczecinecki
+    iso3c: POL
+    shapeID: 97123803B61490093636085
+  powiatszczycieńskiAdm2POL:
+    admin_name: powiatszczycieński
+    iso3c: POL
+    shapeID: 97123803B23237357317037
+  powiatsztumskiAdm2POL:
+    admin_name: powiatsztumski
+    iso3c: POL
+    shapeID: 97123803B12026035386257
+  powiatszydłowieckiAdm2POL:
+    admin_name: powiatszydłowiecki
+    iso3c: POL
+    shapeID: 97123803B99102955552162
+  powiattarnobrzeskiAdm2POL:
+    admin_name: powiattarnobrzeski
+    iso3c: POL
+    shapeID: 97123803B39285866274188
+  powiattarnowskiAdm2POL:
+    admin_name: powiattarnowski
+    iso3c: POL
+    shapeID: 97123803B65954395001042
+  powiattatrzańskiAdm2POL:
+    admin_name: powiattatrzański
+    iso3c: POL
+    shapeID: 97123803B19144768274086
+  powiattczewskiAdm2POL:
+    admin_name: powiattczewski
+    iso3c: POL
+    shapeID: 97123803B96309347348969
+  powiattomaszowskiAdm2POL:
+    admin_name: powiattomaszowski
+    iso3c: POL
+    shapeID: 97123803B27824109524644
+  powiattoruńskiAdm2POL:
+    admin_name: powiattoruński
+    iso3c: POL
+    shapeID: 97123803B49593032283798
+  powiattrzebnickiAdm2POL:
+    admin_name: powiattrzebnicki
+    iso3c: POL
+    shapeID: 97123803B72814277090665
+  powiattucholskiAdm2POL:
+    admin_name: powiattucholski
+    iso3c: POL
+    shapeID: 97123803B46341123602062
+  powiattureckiAdm2POL:
+    admin_name: powiatturecki
+    iso3c: POL
+    shapeID: 97123803B37807052385695
+  powiatwąbrzeskiAdm2POL:
+    admin_name: powiatwąbrzeski
+    iso3c: POL
+    shapeID: 97123803B2707042381792
+  powiatwadowickiAdm2POL:
+    admin_name: powiatwadowicki
+    iso3c: POL
+    shapeID: 97123803B36477396610572
+  powiatwągrowieckiAdm2POL:
+    admin_name: powiatwągrowiecki
+    iso3c: POL
+    shapeID: 97123803B92565922482535
+  powiatwałbrzyskiAdm2POL:
+    admin_name: powiatwałbrzyski
+    iso3c: POL
+    shapeID: 97123803B20102954815459
+  powiatwałeckiAdm2POL:
+    admin_name: powiatwałecki
+    iso3c: POL
+    shapeID: 97123803B47317237881871
+  powiatwarszawskizachodniAdm2POL:
+    admin_name: powiatwarszawskizachodni
+    iso3c: POL
+    shapeID: 97123803B71778550779185
+  powiatwęgorzewskiAdm2POL:
+    admin_name: powiatwęgorzewski
+    iso3c: POL
+    shapeID: 97123803B97733377596486
+  powiatwęgrowskiAdm2POL:
+    admin_name: powiatwęgrowski
+    iso3c: POL
+    shapeID: 97123803B16825816534865
+  powiatwejherowskiAdm2POL:
+    admin_name: powiatwejherowski
+    iso3c: POL
+    shapeID: 97123803B83735728250245
+  powiatwielickiAdm2POL:
+    admin_name: powiatwielicki
+    iso3c: POL
+    shapeID: 97123803B95586685048516
+  powiatwieluńskiAdm2POL:
+    admin_name: powiatwieluński
+    iso3c: POL
+    shapeID: 97123803B41121765189380
+  powiatwieruszowskiAdm2POL:
+    admin_name: powiatwieruszowski
+    iso3c: POL
+    shapeID: 97123803B4845521549614
+  powiatwłocławskiAdm2POL:
+    admin_name: powiatwłocławski
+    iso3c: POL
+    shapeID: 97123803B8035737554718
+  powiatwłodawskiAdm2POL:
+    admin_name: powiatwłodawski
+    iso3c: POL
+    shapeID: 97123803B33088815311851
+  powiatwłoszczowskiAdm2POL:
+    admin_name: powiatwłoszczowski
+    iso3c: POL
+    shapeID: 97123803B30089767616510
+  powiatwołomińskiAdm2POL:
+    admin_name: powiatwołomiński
+    iso3c: POL
+    shapeID: 97123803B72160459861746
+  powiatwołowskiAdm2POL:
+    admin_name: powiatwołowski
+    iso3c: POL
+    shapeID: 97123803B66330968042734
+  powiatwolsztyńskiAdm2POL:
+    admin_name: powiatwolsztyński
+    iso3c: POL
+    shapeID: 97123803B33435822286417
+  powiatwrocławskiAdm2POL:
+    admin_name: powiatwrocławski
+    iso3c: POL
+    shapeID: 97123803B93357130142825
+  powiatwrzesińskiAdm2POL:
+    admin_name: powiatwrzesiński
+    iso3c: POL
+    shapeID: 97123803B87426090312081
+  powiatwschowskiAdm2POL:
+    admin_name: powiatwschowski
+    iso3c: POL
+    shapeID: 97123803B47905071606216
+  powiatwysokomazowieckiAdm2POL:
+    admin_name: powiatwysokomazowiecki
+    iso3c: POL
+    shapeID: 97123803B69755826430891
+  powiatwyszkowskiAdm2POL:
+    admin_name: powiatwyszkowski
+    iso3c: POL
+    shapeID: 97123803B85312914624841
+  powiatząbkowickiAdm2POL:
+    admin_name: powiatząbkowicki
+    iso3c: POL
+    shapeID: 97123803B40506723143160
+  powiatżagańskiAdm2POL:
+    admin_name: powiatżagański
+    iso3c: POL
+    shapeID: 97123803B37764515956725
+  powiatzambrowskiAdm2POL:
+    admin_name: powiatzambrowski
+    iso3c: POL
+    shapeID: 97123803B77780306952178
+  powiatzamojskiAdm2POL:
+    admin_name: powiatzamojski
+    iso3c: POL
+    shapeID: 97123803B97690058104415
+  powiatżarskiAdm2POL:
+    admin_name: powiatżarski
+    iso3c: POL
+    shapeID: 97123803B74510844522195
+  powiatzawierciańskiAdm2POL:
+    admin_name: powiatzawierciański
+    iso3c: POL
+    shapeID: 97123803B28090454546871
+  powiatzduńskowolskiAdm2POL:
+    admin_name: powiatzduńskowolski
+    iso3c: POL
+    shapeID: 97123803B20714675470577
+  powiatzgierskiAdm2POL:
+    admin_name: powiatzgierski
+    iso3c: POL
+    shapeID: 97123803B17496922241319
+  powiatzgorzeleckiAdm2POL:
+    admin_name: powiatzgorzelecki
+    iso3c: POL
+    shapeID: 97123803B9925498505997
+  powiatzielonogórskiAdm2POL:
+    admin_name: powiatzielonogórski
+    iso3c: POL
+    shapeID: 97123803B31161700631052
+  powiatzłotoryjskiAdm2POL:
+    admin_name: powiatzłotoryjski
+    iso3c: POL
+    shapeID: 97123803B25675780805730
+  powiatzłotowskiAdm2POL:
+    admin_name: powiatzłotowski
+    iso3c: POL
+    shapeID: 97123803B20850641722959
+  powiatżnińskiAdm2POL:
+    admin_name: powiatżniński
+    iso3c: POL
+    shapeID: 97123803B94866057018372
+  powiatżuromińskiAdm2POL:
+    admin_name: powiatżuromiński
+    iso3c: POL
+    shapeID: 97123803B62458068672777
+  powiatzwoleńskiAdm2POL:
+    admin_name: powiatzwoleński
+    iso3c: POL
+    shapeID: 97123803B33257781699338
+  powiatżywieckiAdm2POL:
+    admin_name: powiatżywiecki
+    iso3c: POL
+    shapeID: 97123803B34331119883408
+  PoznańAdm2POL:
+    admin_name: Poznań
+    iso3c: POL
+    shapeID: 97123803B90951511996431
+  PrzemyślAdm2POL:
+    admin_name: Przemyśl
+    iso3c: POL
+    shapeID: 97123803B62166460631865
+  RacibórzCountyAdm2POL:
+    admin_name: RacibórzCounty
+    iso3c: POL
+    shapeID: 97123803B60233039089314
+  RadomAdm2POL:
+    admin_name: Radom
+    iso3c: POL
+    shapeID: 97123803B33794621673969
+  RudaŚląskaAdm2POL:
+    admin_name: RudaŚląska
+    iso3c: POL
+    shapeID: 97123803B67163638872245
+  RybnikAdm2POL:
+    admin_name: Rybnik
+    iso3c: POL
+    shapeID: 97123803B53970514519792
+  RzeszówAdm2POL:
+    admin_name: Rzeszów
+    iso3c: POL
+    shapeID: 97123803B16217112139504
+  SiedlceAdm2POL:
+    admin_name: Siedlce
+    iso3c: POL
+    shapeID: 97123803B72894001723255
+  SiedlceCountyAdm2POL:
+    admin_name: SiedlceCounty
+    iso3c: POL
+    shapeID: 97123803B30585604391303
+  SiemianowiceŚląskieAdm2POL:
+    admin_name: SiemianowiceŚląskie
+    iso3c: POL
+    shapeID: 97123803B42401691655197
+  SilesianVoivodeshipAdm1POL:
+    admin_name: SilesianVoivodeship
+    iso3c: POL
+    shapeID: 17162690B16879770934003
+  SkierniewiceAdm2POL:
+    admin_name: Skierniewice
+    iso3c: POL
+    shapeID: 97123803B4820921624402
+  SłupskAdm2POL:
+    admin_name: Słupsk
+    iso3c: POL
+    shapeID: 97123803B9734666755931
+  SopotAdm2POL:
+    admin_name: Sopot
+    iso3c: POL
+    shapeID: 97123803B99593746195108
+  SosnowiecAdm2POL:
+    admin_name: Sosnowiec
+    iso3c: POL
+    shapeID: 97123803B5444421596422
+  SubcarpathianVoivodeshipAdm1POL:
+    admin_name: SubcarpathianVoivodeship
+    iso3c: POL
+    shapeID: 17162690B44985096553766
+  SuwałkiAdm2POL:
+    admin_name: Suwałki
+    iso3c: POL
+    shapeID: 97123803B58632343273029
+  ŚwiętochłowiceAdm2POL:
+    admin_name: Świętochłowice
+    iso3c: POL
+    shapeID: 97123803B18801504374361
+  ŚwiętokrzyskieVoivodeshipAdm1POL:
+    admin_name: ŚwiętokrzyskieVoivodeship
+    iso3c: POL
+    shapeID: 17162690B20834640531728
+  ŚwinoujścieAdm2POL:
+    admin_name: Świnoujście
+    iso3c: POL
+    shapeID: 97123803B24930076129611
+  SzczecinAdm2POL:
+    admin_name: Szczecin
+    iso3c: POL
+    shapeID: 97123803B34618717048866
+  TarnobrzegAdm2POL:
+    admin_name: Tarnobrzeg
+    iso3c: POL
+    shapeID: 97123803B64170093908258
+  TarnówAdm2POL:
+    admin_name: Tarnów
+    iso3c: POL
+    shapeID: 97123803B93779816142112
+  TarnowskieGóryCountyAdm2POL:
+    admin_name: TarnowskieGóryCounty
+    iso3c: POL
+    shapeID: 97123803B74439396441771
+  ToruńAdm2POL:
+    admin_name: Toruń
+    iso3c: POL
+    shapeID: 97123803B35714133774373
+  TychyAdm2POL:
+    admin_name: Tychy
+    iso3c: POL
+    shapeID: 97123803B93460604329319
+  WałbrzychAdm2POL:
+    admin_name: Wałbrzych
+    iso3c: POL
+    shapeID: 97123803B13671990208614
+  Warmian-MasurianVoivodeshipAdm1POL:
+    admin_name: Warmian-MasurianVoivodeship
+    iso3c: POL
+    shapeID: 17162690B18723007704312
+  WarszawaAdm2POL:
+    admin_name: Warszawa
+    iso3c: POL
+    shapeID: 97123803B58839780764160
+  WestPomeranianVoivodeshipAdm1POL:
+    admin_name: WestPomeranianVoivodeship
+    iso3c: POL
+    shapeID: 17162690B34878575347312
+  WłocławekAdm2POL:
+    admin_name: Włocławek
+    iso3c: POL
+    shapeID: 97123803B69777193778696
+  WodzisławCountyAdm2POL:
+    admin_name: WodzisławCounty
+    iso3c: POL
+    shapeID: 97123803B59970252077286
+  WrocławAdm2POL:
+    admin_name: Wrocław
+    iso3c: POL
+    shapeID: 97123803B74320746505712
+  ZabrzeAdm2POL:
+    admin_name: Zabrze
+    iso3c: POL
+    shapeID: 97123803B89282035713380
+  ZamośćAdm2POL:
+    admin_name: Zamość
+    iso3c: POL
+    shapeID: 97123803B16439789794653
+  ZielonaGóraAdm2POL:
+    admin_name: ZielonaGóra
+    iso3c: POL
+    shapeID: 97123803B45851945077589
+  ŻoryAdm2POL:
+    admin_name: Żory
+    iso3c: POL
+    shapeID: 97123803B19721548822415
+  ŻyrardówCountyAdm2POL:
+    admin_name: ŻyrardówCounty
+    iso3c: POL
+    shapeID: 97123803B50782285337009

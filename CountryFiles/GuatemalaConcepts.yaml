@@ -1,23 +1,1433 @@
 concepts:
-    - Sololá
-    - SantaRosa
-    - Escuintla
-    - Chimaltenango
-    - Jutiapa
-    - BajaVerapaz
-    - Zacapa
-    - Petén
-    - Quiché
-    - Chiquimula
-    - Sacatepéquez
-    - Guatemala
-    - AltaVerapaz
-    - Suchitepéquez
-    - ElProgreso
-    - Retalhuleu
-    - Huehuetenango
-    - Izabal
-    - Jalapa
-    - SanMarcos
-    - Totonicapán
-    - Quetzaltenango
+  AcatenangoAdm2GTM:
+    admin_name: Acatenango
+    iso3c: GTM
+    shapeID: 79465075B13136333773356
+  AguaBlancaAdm2GTM:
+    admin_name: AguaBlanca
+    iso3c: GTM
+    shapeID: 79465075B57715659618061
+  AguacatánAdm2GTM:
+    admin_name: Aguacatán
+    iso3c: GTM
+    shapeID: 79465075B67295913435518
+  AlmolongaAdm2GTM:
+    admin_name: Almolonga
+    iso3c: GTM
+    shapeID: 79465075B59267896905043
+  AlotenangoAdm2GTM:
+    admin_name: Alotenango
+    iso3c: GTM
+    shapeID: 79465075B60145282500225
+  AltaVerapazAdm1GTM:
+    admin_name: AltaVerapaz
+    iso3c: GTM
+    shapeID: 53557124B24572600119042
+  AmatitlánAdm2GTM:
+    admin_name: Amatitlán
+    iso3c: GTM
+    shapeID: 79465075B1608091480167
+  AntiguaGuatemalaAdm2GTM:
+    admin_name: AntiguaGuatemala
+    iso3c: GTM
+    shapeID: 79465075B72939253081387
+  AsunciónMitaAdm2GTM:
+    admin_name: AsunciónMita
+    iso3c: GTM
+    shapeID: 79465075B73925022965475
+  AtescatempaAdm2GTM:
+    admin_name: Atescatempa
+    iso3c: GTM
+    shapeID: 79465075B46496054688907
+  AyutlaAdm2GTM:
+    admin_name: Ayutla
+    iso3c: GTM
+    shapeID: 79465075B23985435861738
+  BajaVerapazAdm1GTM:
+    admin_name: BajaVerapaz
+    iso3c: GTM
+    shapeID: 53557124B73602535274933
+  BarberenaAdm2GTM:
+    admin_name: Barberena
+    iso3c: GTM
+    shapeID: 79465075B64045433059615
+  BarillasAdm2GTM:
+    admin_name: Barillas
+    iso3c: GTM
+    shapeID: 79465075B26055354107156
+  CabañasAdm2GTM:
+    admin_name: Cabañas
+    iso3c: GTM
+    shapeID: 79465075B64001111402492
+  CabricánAdm2GTM:
+    admin_name: Cabricán
+    iso3c: GTM
+    shapeID: 79465075B20493832744336
+  CahabónAdm2GTM:
+    admin_name: Cahabón
+    iso3c: GTM
+    shapeID: 79465075B65664017230403
+  CajoláAdm2GTM:
+    admin_name: Cajolá
+    iso3c: GTM
+    shapeID: 79465075B33960112872468
+  CamotánAdm2GTM:
+    admin_name: Camotán
+    iso3c: GTM
+    shapeID: 79465075B72038924069090
+  CanilláAdm2GTM:
+    admin_name: Canillá
+    iso3c: GTM
+    shapeID: 79465075B48890406696018
+  CantelAdm2GTM:
+    admin_name: Cantel
+    iso3c: GTM
+    shapeID: 79465075B39486283603330
+  CasillasAdm2GTM:
+    admin_name: Casillas
+    iso3c: GTM
+    shapeID: 79465075B57906860405823
+  CatarinaAdm2GTM:
+    admin_name: Catarina
+    iso3c: GTM
+    shapeID: 79465075B50413520272297
+  ChahalAdm2GTM:
+    admin_name: Chahal
+    iso3c: GTM
+    shapeID: 79465075B23943610665473
+  ChajulAdm2GTM:
+    admin_name: Chajul
+    iso3c: GTM
+    shapeID: 79465075B19159342798902
+  ChampericoAdm2GTM:
+    admin_name: Champerico
+    iso3c: GTM
+    shapeID: 79465075B86216931252561
+  ChiantlaAdm2GTM:
+    admin_name: Chiantla
+    iso3c: GTM
+    shapeID: 79465075B62653815483929
+  ChicacaoAdm2GTM:
+    admin_name: Chicacao
+    iso3c: GTM
+    shapeID: 79465075B95007488956615
+  ChicamánAdm2GTM:
+    admin_name: Chicamán
+    iso3c: GTM
+    shapeID: 79465075B15638381256287
+  ChichéAdm2GTM:
+    admin_name: Chiché
+    iso3c: GTM
+    shapeID: 79465075B58448783087993
+  ChichicastenangoAdm2GTM:
+    admin_name: Chichicastenango
+    iso3c: GTM
+    shapeID: 79465075B12794992131800
+  ChimaltenangoAdm1GTM:
+    admin_name: Chimaltenango
+    iso3c: GTM
+    shapeID: 53557124B66453733615856
+  ChimaltenangoAdm2GTM:
+    admin_name: Chimaltenango
+    iso3c: GTM
+    shapeID: 79465075B80074787415799
+  ChinautlaAdm2GTM:
+    admin_name: Chinautla
+    iso3c: GTM
+    shapeID: 79465075B40156667013427
+  ChiniqueAdm2GTM:
+    admin_name: Chinique
+    iso3c: GTM
+    shapeID: 79465075B24163547134196
+  ChiquimulaAdm1GTM:
+    admin_name: Chiquimula
+    iso3c: GTM
+    shapeID: 53557124B25298484445247
+  ChiquimulaAdm2GTM:
+    admin_name: Chiquimula
+    iso3c: GTM
+    shapeID: 79465075B13186946486683
+  ChiquimulillaAdm2GTM:
+    admin_name: Chiquimulilla
+    iso3c: GTM
+    shapeID: 79465075B27028234589447
+  ChisecAdm2GTM:
+    admin_name: Chisec
+    iso3c: GTM
+    shapeID: 79465075B86099287791236
+  ChuarranchoAdm2GTM:
+    admin_name: Chuarrancho
+    iso3c: GTM
+    shapeID: 79465075B45501962231680
+  CiudadViejaAdm2GTM:
+    admin_name: CiudadVieja
+    iso3c: GTM
+    shapeID: 79465075B53030566243177
+  CoatepequeAdm2GTM:
+    admin_name: Coatepeque
+    iso3c: GTM
+    shapeID: 79465075B84423325132752
+  CobánAdm2GTM:
+    admin_name: Cobán
+    iso3c: GTM
+    shapeID: 79465075B25337893511969
+  ColombaAdm2GTM:
+    admin_name: Colomba
+    iso3c: GTM
+    shapeID: 79465075B28232035709765
+  ColotenangoAdm2GTM:
+    admin_name: Colotenango
+    iso3c: GTM
+    shapeID: 79465075B36067757797746
+  ComalapaAdm2GTM:
+    admin_name: Comalapa
+    iso3c: GTM
+    shapeID: 79465075B20533835568795
+  ComapaAdm2GTM:
+    admin_name: Comapa
+    iso3c: GTM
+    shapeID: 79465075B15373267205562
+  ComitancilloAdm2GTM:
+    admin_name: Comitancillo
+    iso3c: GTM
+    shapeID: 79465075B17220282453163
+  ConcepciónAdm2GTM:
+    admin_name: Concepción
+    iso3c: GTM
+    shapeID: 79465075B28359200258392
+  ConcepciónChiquirichapaAdm2GTM:
+    admin_name: ConcepciónChiquirichapa
+    iso3c: GTM
+    shapeID: 79465075B62244811980671
+  ConcepciónHuistaAdm2GTM:
+    admin_name: ConcepciónHuista
+    iso3c: GTM
+    shapeID: 79465075B71807144537859
+  ConcepciónLasMinasAdm2GTM:
+    admin_name: ConcepciónLasMinas
+    iso3c: GTM
+    shapeID: 79465075B28925037655820
+  ConcepciónTutuapaAdm2GTM:
+    admin_name: ConcepciónTutuapa
+    iso3c: GTM
+    shapeID: 79465075B54986860813663
+  ConguacoAdm2GTM:
+    admin_name: Conguaco
+    iso3c: GTM
+    shapeID: 79465075B31085680066755
+  CubulcoAdm2GTM:
+    admin_name: Cubulco
+    iso3c: GTM
+    shapeID: 79465075B69115234632813
+  CuilapaAdm2GTM:
+    admin_name: Cuilapa
+    iso3c: GTM
+    shapeID: 79465075B18848858610216
+  CuilcoAdm2GTM:
+    admin_name: Cuilco
+    iso3c: GTM
+    shapeID: 79465075B28423402187553
+  CunénAdm2GTM:
+    admin_name: Cunén
+    iso3c: GTM
+    shapeID: 79465075B6309522429005
+  CuyotenangoAdm2GTM:
+    admin_name: Cuyotenango
+    iso3c: GTM
+    shapeID: 79465075B79840770909304
+  DoloresAdm2GTM:
+    admin_name: Dolores
+    iso3c: GTM
+    shapeID: 79465075B81519160116587
+  ElAdelantoAdm2GTM:
+    admin_name: ElAdelanto
+    iso3c: GTM
+    shapeID: 79465075B13602510028618
+  ElAsintalAdm2GTM:
+    admin_name: ElAsintal
+    iso3c: GTM
+    shapeID: 79465075B44377460468141
+  ElChalAdm2GTM:
+    admin_name: ElChal
+    iso3c: GTM
+    shapeID: 79465075B2800048141456
+  ElCholAdm2GTM:
+    admin_name: ElChol
+    iso3c: GTM
+    shapeID: 79465075B40581937082552
+  ElEstorAdm2GTM:
+    admin_name: ElEstor
+    iso3c: GTM
+    shapeID: 79465075B63823362918265
+  ElJícaroAdm2GTM:
+    admin_name: ElJícaro
+    iso3c: GTM
+    shapeID: 79465075B65572825799154
+  ElPalmarAdm2GTM:
+    admin_name: ElPalmar
+    iso3c: GTM
+    shapeID: 79465075B16576514502159
+  ElProgresoAdm1GTM:
+    admin_name: ElProgreso
+    iso3c: GTM
+    shapeID: 53557124B56180322240985
+  ElProgresoAdm2GTM:
+    admin_name: ElProgreso
+    iso3c: GTM
+    shapeID: 79465075B52166049172952
+  ElQuetzalAdm2GTM:
+    admin_name: ElQuetzal
+    iso3c: GTM
+    shapeID: 79465075B99595855877041
+  ElRodeoAdm2GTM:
+    admin_name: ElRodeo
+    iso3c: GTM
+    shapeID: 79465075B79064464802759
+  ElTejarAdm2GTM:
+    admin_name: ElTejar
+    iso3c: GTM
+    shapeID: 79465075B23918140958816
+  ElTumbadorAdm2GTM:
+    admin_name: ElTumbador
+    iso3c: GTM
+    shapeID: 79465075B55604290540821
+  EscuintlaAdm1GTM:
+    admin_name: Escuintla
+    iso3c: GTM
+    shapeID: 53557124B88187939081538
+  EscuintlaAdm2GTM:
+    admin_name: Escuintla
+    iso3c: GTM
+    shapeID: 79465075B12428075404525
+  EsquipulasAdm2GTM:
+    admin_name: Esquipulas
+    iso3c: GTM
+    shapeID: 79465075B80702943511797
+  EsquipulasPaloGordoAdm2GTM:
+    admin_name: EsquipulasPaloGordo
+    iso3c: GTM
+    shapeID: 79465075B77634541568433
+  EstanzuelaAdm2GTM:
+    admin_name: Estanzuela
+    iso3c: GTM
+    shapeID: 79465075B47925591058231
+  FloresAdm2GTM:
+    admin_name: Flores
+    iso3c: GTM
+    shapeID: 79465075B29101343458737
+  FloresCostaCucaAdm2GTM:
+    admin_name: FloresCostaCuca
+    iso3c: GTM
+    shapeID: 79465075B83292540692788
+  FraijanesAdm2GTM:
+    admin_name: Fraijanes
+    iso3c: GTM
+    shapeID: 79465075B66624198993086
+  FrayBartolomédeLasCasasAdm2GTM:
+    admin_name: FrayBartolomédeLasCasas
+    iso3c: GTM
+    shapeID: 79465075B41204934399249
+  GénovaAdm2GTM:
+    admin_name: Génova
+    iso3c: GTM
+    shapeID: 79465075B90055848837962
+  GranadosAdm2GTM:
+    admin_name: Granados
+    iso3c: GTM
+    shapeID: 79465075B60020502053438
+  GualánAdm2GTM:
+    admin_name: Gualán
+    iso3c: GTM
+    shapeID: 79465075B90602875847956
+  GuanagazapaAdm2GTM:
+    admin_name: Guanagazapa
+    iso3c: GTM
+    shapeID: 79465075B46302810770825
+  GuastatoyaAdm2GTM:
+    admin_name: Guastatoya
+    iso3c: GTM
+    shapeID: 79465075B25176741785216
+  GuatemalaAdm1GTM:
+    admin_name: Guatemala
+    iso3c: GTM
+    shapeID: 53557124B7049276162389
+  GuatemalaAdm2GTM:
+    admin_name: Guatemala
+    iso3c: GTM
+    shapeID: 79465075B25759952858694
+  GuazacapánAdm2GTM:
+    admin_name: Guazacapán
+    iso3c: GTM
+    shapeID: 79465075B7979151806096
+  HuehuetenangoAdm1GTM:
+    admin_name: Huehuetenango
+    iso3c: GTM
+    shapeID: 53557124B22904219543889
+  HuehuetenangoAdm2GTM:
+    admin_name: Huehuetenango
+    iso3c: GTM
+    shapeID: 79465075B83999365209014
+  HuitánAdm2GTM:
+    admin_name: Huitán
+    iso3c: GTM
+    shapeID: 79465075B44657953271022
+  HuitéAdm2GTM:
+    admin_name: Huité
+    iso3c: GTM
+    shapeID: 79465075B89457517012818
+  IpalaAdm2GTM:
+    admin_name: Ipala
+    iso3c: GTM
+    shapeID: 79465075B7392170561334
+  IxcánAdm2GTM:
+    admin_name: Ixcán
+    iso3c: GTM
+    shapeID: 79465075B29604867633206
+  IxchiguánAdm2GTM:
+    admin_name: Ixchiguán
+    iso3c: GTM
+    shapeID: 79465075B80517752911806
+  IxtahuacánAdm2GTM:
+    admin_name: Ixtahuacán
+    iso3c: GTM
+    shapeID: 79465075B38724413967486
+  IzabalAdm1GTM:
+    admin_name: Izabal
+    iso3c: GTM
+    shapeID: 53557124B93889796431495
+  IztapaAdm2GTM:
+    admin_name: Iztapa
+    iso3c: GTM
+    shapeID: 79465075B85452841744981
+  JacaltenangoAdm2GTM:
+    admin_name: Jacaltenango
+    iso3c: GTM
+    shapeID: 79465075B56243891035553
+  JalapaAdm1GTM:
+    admin_name: Jalapa
+    iso3c: GTM
+    shapeID: 53557124B78393665096661
+  JalapaAdm2GTM:
+    admin_name: Jalapa
+    iso3c: GTM
+    shapeID: 79465075B86525651589488
+  JalpataguaAdm2GTM:
+    admin_name: Jalpatagua
+    iso3c: GTM
+    shapeID: 79465075B35053973506085
+  JerezAdm2GTM:
+    admin_name: Jerez
+    iso3c: GTM
+    shapeID: 79465075B56030865521274
+  JocotánAdm2GTM:
+    admin_name: Jocotán
+    iso3c: GTM
+    shapeID: 79465075B84991525520377
+  JocotenangoAdm2GTM:
+    admin_name: Jocotenango
+    iso3c: GTM
+    shapeID: 79465075B20964806196125
+  JoyabajAdm2GTM:
+    admin_name: Joyabaj
+    iso3c: GTM
+    shapeID: 79465075B91239548931928
+  JutiapaAdm1GTM:
+    admin_name: Jutiapa
+    iso3c: GTM
+    shapeID: 53557124B49951428420175
+  JutiapaAdm2GTM:
+    admin_name: Jutiapa
+    iso3c: GTM
+    shapeID: 79465075B37757283668569
+  LaBlancaAdm2GTM:
+    admin_name: LaBlanca
+    iso3c: GTM
+    shapeID: 79465075B67582520223271
+  LaDemocraciaAdm2GTM:
+    admin_name: LaDemocracia
+    iso3c: GTM
+    shapeID: 79465075B56611035242385
+  LaEsperanzaAdm2GTM:
+    admin_name: LaEsperanza
+    iso3c: GTM
+    shapeID: 79465075B77884380500547
+  LagoDeAmatitlanAdm2GTM:
+    admin_name: LagoDeAmatitlan
+    iso3c: GTM
+    shapeID: 79465075B78554632874353
+  LagoDeAtitlanAdm2GTM:
+    admin_name: LagoDeAtitlan
+    iso3c: GTM
+    shapeID: 79465075B18487207511943
+  LaGomeraAdm2GTM:
+    admin_name: LaGomera
+    iso3c: GTM
+    shapeID: 79465075B56387033973668
+  LaLibertadAdm2GTM:
+    admin_name: LaLibertad
+    iso3c: GTM
+    shapeID: 79465075B32919336538902
+  LanquínAdm2GTM:
+    admin_name: Lanquín
+    iso3c: GTM
+    shapeID: 79465075B47647601026557
+  LaReformaAdm2GTM:
+    admin_name: LaReforma
+    iso3c: GTM
+    shapeID: 79465075B25623182739171
+  LasCrucesAdm2GTM:
+    admin_name: LasCruces
+    iso3c: GTM
+    shapeID: 79465075B61221719902426
+  LaUniónAdm2GTM:
+    admin_name: LaUnión
+    iso3c: GTM
+    shapeID: 79465075B65794247030645
+  LívingstonAdm2GTM:
+    admin_name: Lívingston
+    iso3c: GTM
+    shapeID: 79465075B12175852129517
+  LosAmatesAdm2GTM:
+    admin_name: LosAmates
+    iso3c: GTM
+    shapeID: 79465075B97671971478727
+  MagdalenaMilpasAltasAdm2GTM:
+    admin_name: MagdalenaMilpasAltas
+    iso3c: GTM
+    shapeID: 79465075B1840985123579
+  MalacatánAdm2GTM:
+    admin_name: Malacatán
+    iso3c: GTM
+    shapeID: 79465075B54780709245522
+  MalacatancitoAdm2GTM:
+    admin_name: Malacatancito
+    iso3c: GTM
+    shapeID: 79465075B52740095306971
+  MasaguaAdm2GTM:
+    admin_name: Masagua
+    iso3c: GTM
+    shapeID: 79465075B43224707646328
+  MataquescuintlaAdm2GTM:
+    admin_name: Mataquescuintla
+    iso3c: GTM
+    shapeID: 79465075B64260644411461
+  MazatenangoAdm2GTM:
+    admin_name: Mazatenango
+    iso3c: GTM
+    shapeID: 79465075B41985315945162
+  MelchordeMencosAdm2GTM:
+    admin_name: MelchordeMencos
+    iso3c: GTM
+    shapeID: 79465075B26662084929959
+  MixcoAdm2GTM:
+    admin_name: Mixco
+    iso3c: GTM
+    shapeID: 79465075B33293515878982
+  MomostenangoAdm2GTM:
+    admin_name: Momostenango
+    iso3c: GTM
+    shapeID: 79465075B37040053715230
+  MonjasAdm2GTM:
+    admin_name: Monjas
+    iso3c: GTM
+    shapeID: 79465075B55723885178845
+  MoralesAdm2GTM:
+    admin_name: Morales
+    iso3c: GTM
+    shapeID: 79465075B97649712901036
+  MorazánAdm2GTM:
+    admin_name: Morazán
+    iso3c: GTM
+    shapeID: 79465075B64841514160726
+  MoyutaAdm2GTM:
+    admin_name: Moyuta
+    iso3c: GTM
+    shapeID: 79465075B23671365948765
+  NahualáAdm2GTM:
+    admin_name: Nahualá
+    iso3c: GTM
+    shapeID: 79465075B99753253329912
+  NebajAdm2GTM:
+    admin_name: Nebaj
+    iso3c: GTM
+    shapeID: 79465075B6718623285372
+  NentónAdm2GTM:
+    admin_name: Nentón
+    iso3c: GTM
+    shapeID: 79465075B15120752201699
+  NuevaConcepciónAdm2GTM:
+    admin_name: NuevaConcepción
+    iso3c: GTM
+    shapeID: 79465075B35747325654374
+  NuevaSantaRosaAdm2GTM:
+    admin_name: NuevaSantaRosa
+    iso3c: GTM
+    shapeID: 79465075B8683235112277
+  NuevoProgresoAdm2GTM:
+    admin_name: NuevoProgreso
+    iso3c: GTM
+    shapeID: 79465075B31379081578596
+  NuevoSanCarlosAdm2GTM:
+    admin_name: NuevoSanCarlos
+    iso3c: GTM
+    shapeID: 79465075B2823208304542
+  OcósAdm2GTM:
+    admin_name: Ocós
+    iso3c: GTM
+    shapeID: 79465075B29002473426991
+  OlintepequeAdm2GTM:
+    admin_name: Olintepeque
+    iso3c: GTM
+    shapeID: 79465075B90968408613772
+  OlopaAdm2GTM:
+    admin_name: Olopa
+    iso3c: GTM
+    shapeID: 79465075B46690826995670
+  OratorioAdm2GTM:
+    admin_name: Oratorio
+    iso3c: GTM
+    shapeID: 79465075B83773112277760
+  OstuncalcoAdm2GTM:
+    admin_name: Ostuncalco
+    iso3c: GTM
+    shapeID: 79465075B83673504677566
+  PachalumAdm2GTM:
+    admin_name: Pachalum
+    iso3c: GTM
+    shapeID: 79465075B39093617577569
+  PajapitaAdm2GTM:
+    admin_name: Pajapita
+    iso3c: GTM
+    shapeID: 79465075B67367283540012
+  PalenciaAdm2GTM:
+    admin_name: Palencia
+    iso3c: GTM
+    shapeID: 79465075B84749841265640
+  PalestinadeLosAltosAdm2GTM:
+    admin_name: PalestinadeLosAltos
+    iso3c: GTM
+    shapeID: 79465075B38894333871635
+  PalínAdm2GTM:
+    admin_name: Palín
+    iso3c: GTM
+    shapeID: 79465075B28219742708023
+  PanajachelAdm2GTM:
+    admin_name: Panajachel
+    iso3c: GTM
+    shapeID: 79465075B15499572594181
+  PanzósAdm2GTM:
+    admin_name: Panzós
+    iso3c: GTM
+    shapeID: 79465075B48438720482803
+  ParramosAdm2GTM:
+    admin_name: Parramos
+    iso3c: GTM
+    shapeID: 79465075B95275885163057
+  PasacoAdm2GTM:
+    admin_name: Pasaco
+    iso3c: GTM
+    shapeID: 79465075B50334197995085
+  PastoresAdm2GTM:
+    admin_name: Pastores
+    iso3c: GTM
+    shapeID: 79465075B63522445953752
+  PatululAdm2GTM:
+    admin_name: Patulul
+    iso3c: GTM
+    shapeID: 79465075B31102822949903
+  PatzicíaAdm2GTM:
+    admin_name: Patzicía
+    iso3c: GTM
+    shapeID: 79465075B67566663524639
+  PatzitéAdm2GTM:
+    admin_name: Patzité
+    iso3c: GTM
+    shapeID: 79465075B43387572026262
+  PatzúnAdm2GTM:
+    admin_name: Patzún
+    iso3c: GTM
+    shapeID: 79465075B61157694740062
+  PetapaAdm2GTM:
+    admin_name: Petapa
+    iso3c: GTM
+    shapeID: 79465075B74125992353590
+  PetatánAdm2GTM:
+    admin_name: Petatán
+    iso3c: GTM
+    shapeID: 79465075B18515174231727
+  PeténAdm1GTM:
+    admin_name: Petén
+    iso3c: GTM
+    shapeID: 53557124B7234641414324
+  PochutaAdm2GTM:
+    admin_name: Pochuta
+    iso3c: GTM
+    shapeID: 79465075B89019096689616
+  PoptúnAdm2GTM:
+    admin_name: Poptún
+    iso3c: GTM
+    shapeID: 79465075B98225728966625
+  PuebloNuevoAdm2GTM:
+    admin_name: PuebloNuevo
+    iso3c: GTM
+    shapeID: 79465075B83256235526272
+  PuebloNuevoViñasAdm2GTM:
+    admin_name: PuebloNuevoViñas
+    iso3c: GTM
+    shapeID: 79465075B34201935898883
+  PuertoBarriosAdm2GTM:
+    admin_name: PuertoBarrios
+    iso3c: GTM
+    shapeID: 79465075B20471919033812
+  PurulháAdm2GTM:
+    admin_name: Purulhá
+    iso3c: GTM
+    shapeID: 79465075B41794626766416
+  QuesadaAdm2GTM:
+    admin_name: Quesada
+    iso3c: GTM
+    shapeID: 79465075B71071315687381
+  QuetzaltenangoAdm1GTM:
+    admin_name: Quetzaltenango
+    iso3c: GTM
+    shapeID: 53557124B53470403358651
+  QuetzaltenangoAdm2GTM:
+    admin_name: Quetzaltenango
+    iso3c: GTM
+    shapeID: 79465075B80303982129661
+  QuezaltepequeAdm2GTM:
+    admin_name: Quezaltepeque
+    iso3c: GTM
+    shapeID: 79465075B70587573094312
+  QuichéAdm1GTM:
+    admin_name: Quiché
+    iso3c: GTM
+    shapeID: 53557124B57493731306464
+  RabinalAdm2GTM:
+    admin_name: Rabinal
+    iso3c: GTM
+    shapeID: 79465075B87613469920283
+  RaxruháAdm2GTM:
+    admin_name: Raxruhá
+    iso3c: GTM
+    shapeID: 79465075B33979032902189
+  RetalhuleuAdm1GTM:
+    admin_name: Retalhuleu
+    iso3c: GTM
+    shapeID: 53557124B13979183410132
+  RetalhuleuAdm2GTM:
+    admin_name: Retalhuleu
+    iso3c: GTM
+    shapeID: 79465075B31149940203077
+  RíoBlancoAdm2GTM:
+    admin_name: RíoBlanco
+    iso3c: GTM
+    shapeID: 79465075B55305987595848
+  RíoBravoAdm2GTM:
+    admin_name: RíoBravo
+    iso3c: GTM
+    shapeID: 79465075B98045843880740
+  RíoHondoAdm2GTM:
+    admin_name: RíoHondo
+    iso3c: GTM
+    shapeID: 79465075B55217962729749
+  SacapulasAdm2GTM:
+    admin_name: Sacapulas
+    iso3c: GTM
+    shapeID: 79465075B69929365391108
+  SacatepéquezAdm1GTM:
+    admin_name: Sacatepéquez
+    iso3c: GTM
+    shapeID: 53557124B89655490483829
+  SalamáAdm2GTM:
+    admin_name: Salamá
+    iso3c: GTM
+    shapeID: 79465075B18875713614503
+  SalcajáAdm2GTM:
+    admin_name: Salcajá
+    iso3c: GTM
+    shapeID: 79465075B86011585476581
+  SamayacAdm2GTM:
+    admin_name: Samayac
+    iso3c: GTM
+    shapeID: 79465075B7655458484390
+  SanAgustínAcasaguastlánAdm2GTM:
+    admin_name: SanAgustínAcasaguastlán
+    iso3c: GTM
+    shapeID: 79465075B82802507944465
+  SanAndrésAdm2GTM:
+    admin_name: SanAndrés
+    iso3c: GTM
+    shapeID: 79465075B48357778365605
+  SanAndrésItzapaAdm2GTM:
+    admin_name: SanAndrésItzapa
+    iso3c: GTM
+    shapeID: 79465075B72665543071269
+  SanAndrésSajcabajáAdm2GTM:
+    admin_name: SanAndrésSajcabajá
+    iso3c: GTM
+    shapeID: 79465075B6703764087341
+  SanAndrésSemetabajAdm2GTM:
+    admin_name: SanAndrésSemetabaj
+    iso3c: GTM
+    shapeID: 79465075B93234456554890
+  SanAndrésVillaSecaAdm2GTM:
+    admin_name: SanAndrésVillaSeca
+    iso3c: GTM
+    shapeID: 79465075B254233596558
+  SanAndrésXeculAdm2GTM:
+    admin_name: SanAndrésXecul
+    iso3c: GTM
+    shapeID: 79465075B53537343705712
+  SanAntonioAguasCalientesAdm2GTM:
+    admin_name: SanAntonioAguasCalientes
+    iso3c: GTM
+    shapeID: 79465075B38855532318009
+  SanAntonioHuistaAdm2GTM:
+    admin_name: SanAntonioHuista
+    iso3c: GTM
+    shapeID: 79465075B52230984514052
+  SanAntonioIlotenangoAdm2GTM:
+    admin_name: SanAntonioIlotenango
+    iso3c: GTM
+    shapeID: 79465075B34214096561703
+  SanAntonioLaPazAdm2GTM:
+    admin_name: SanAntonioLaPaz
+    iso3c: GTM
+    shapeID: 79465075B78137762102304
+  SanAntonioPalopóAdm2GTM:
+    admin_name: SanAntonioPalopó
+    iso3c: GTM
+    shapeID: 79465075B56849944054802
+  SanAntonioSacatepéquezAdm2GTM:
+    admin_name: SanAntonioSacatepéquez
+    iso3c: GTM
+    shapeID: 79465075B59585261586559
+  SanAntonioSuchitepéquezAdm2GTM:
+    admin_name: SanAntonioSuchitepéquez
+    iso3c: GTM
+    shapeID: 79465075B26922695910316
+  SanarateAdm2GTM:
+    admin_name: Sanarate
+    iso3c: GTM
+    shapeID: 79465075B63820217074048
+  SanBartoloAdm2GTM:
+    admin_name: SanBartolo
+    iso3c: GTM
+    shapeID: 79465075B3234848459955
+  SanBartoloméJocotenangoAdm2GTM:
+    admin_name: SanBartoloméJocotenango
+    iso3c: GTM
+    shapeID: 79465075B4206970956801
+  SanBartoloméMilpasAltasAdm2GTM:
+    admin_name: SanBartoloméMilpasAltas
+    iso3c: GTM
+    shapeID: 79465075B34478073333157
+  SanBenitoAdm2GTM:
+    admin_name: SanBenito
+    iso3c: GTM
+    shapeID: 79465075B93827188855866
+  SanBernardinoAdm2GTM:
+    admin_name: SanBernardino
+    iso3c: GTM
+    shapeID: 79465075B44616748162902
+  SanCarlosAlzatateAdm2GTM:
+    admin_name: SanCarlosAlzatate
+    iso3c: GTM
+    shapeID: 79465075B59357563721623
+  SanCarlosSijaAdm2GTM:
+    admin_name: SanCarlosSija
+    iso3c: GTM
+    shapeID: 79465075B11845713959586
+  SanCristóbalAcasaguastlánAdm2GTM:
+    admin_name: SanCristóbalAcasaguastlán
+    iso3c: GTM
+    shapeID: 79465075B13418311867324
+  SanCristóbalCuchoAdm2GTM:
+    admin_name: SanCristóbalCucho
+    iso3c: GTM
+    shapeID: 79465075B28404659355934
+  SanCristóbalTotonicapánAdm2GTM:
+    admin_name: SanCristóbalTotonicapán
+    iso3c: GTM
+    shapeID: 79465075B68551302151771
+  SanCristóbalVerapazAdm2GTM:
+    admin_name: SanCristóbalVerapaz
+    iso3c: GTM
+    shapeID: 79465075B68623160282073
+  SanDiegoAdm2GTM:
+    admin_name: SanDiego
+    iso3c: GTM
+    shapeID: 79465075B11427655280903
+  SanFelipeAdm2GTM:
+    admin_name: SanFelipe
+    iso3c: GTM
+    shapeID: 79465075B46607071550315
+  SanFranciscoAdm2GTM:
+    admin_name: SanFrancisco
+    iso3c: GTM
+    shapeID: 79465075B83427933273433
+  SanFranciscoElAltoAdm2GTM:
+    admin_name: SanFranciscoElAlto
+    iso3c: GTM
+    shapeID: 79465075B12043571614717
+  SanFranciscoLaUniónAdm2GTM:
+    admin_name: SanFranciscoLaUnión
+    iso3c: GTM
+    shapeID: 79465075B13739271835933
+  SanFranciscoZapotitlánAdm2GTM:
+    admin_name: SanFranciscoZapotitlán
+    iso3c: GTM
+    shapeID: 79465075B91697613076803
+  SanGabrielAdm2GTM:
+    admin_name: SanGabriel
+    iso3c: GTM
+    shapeID: 79465075B61166037793938
+  SanGasparIxchilAdm2GTM:
+    admin_name: SanGasparIxchil
+    iso3c: GTM
+    shapeID: 79465075B65859415879145
+  SanJacintoAdm2GTM:
+    admin_name: SanJacinto
+    iso3c: GTM
+    shapeID: 79465075B29365665250893
+  SanJerónimoAdm2GTM:
+    admin_name: SanJerónimo
+    iso3c: GTM
+    shapeID: 79465075B29506691541664
+  SanJorgeAdm2GTM:
+    admin_name: SanJorge
+    iso3c: GTM
+    shapeID: 79465075B24520983200883
+  SanJoséAcatempaAdm2GTM:
+    admin_name: SanJoséAcatempa
+    iso3c: GTM
+    shapeID: 79465075B89624307194233
+  SanJoséAdm2GTM:
+    admin_name: SanJosé
+    iso3c: GTM
+    shapeID: 79465075B23443659204690
+  SanJoséChacayáAdm2GTM:
+    admin_name: SanJoséChacayá
+    iso3c: GTM
+    shapeID: 79465075B53734633338650
+  SanJosédelGolfoAdm2GTM:
+    admin_name: SanJosédelGolfo
+    iso3c: GTM
+    shapeID: 79465075B18750582081906
+  SanJoséElÍdoloAdm2GTM:
+    admin_name: SanJoséElÍdolo
+    iso3c: GTM
+    shapeID: 79465075B37305924039286
+  SanJoséLaAradaAdm2GTM:
+    admin_name: SanJoséLaArada
+    iso3c: GTM
+    shapeID: 79465075B89151585354949
+  SanJoséLaMáquinaAdm2GTM:
+    admin_name: SanJoséLaMáquina
+    iso3c: GTM
+    shapeID: 79465075B14696818502524
+  SanJoséOjetenamAdm2GTM:
+    admin_name: SanJoséOjetenam
+    iso3c: GTM
+    shapeID: 79465075B2462316079287
+  SanJoséPinulaAdm2GTM:
+    admin_name: SanJoséPinula
+    iso3c: GTM
+    shapeID: 79465075B29005595464714
+  SanJoséPoaquilAdm2GTM:
+    admin_name: SanJoséPoaquil
+    iso3c: GTM
+    shapeID: 79465075B26188939943042
+  SanJuanAtitánAdm2GTM:
+    admin_name: SanJuanAtitán
+    iso3c: GTM
+    shapeID: 79465075B84828217033389
+  SanJuanBautistaAdm2GTM:
+    admin_name: SanJuanBautista
+    iso3c: GTM
+    shapeID: 79465075B53380304625786
+  SanJuanChamelcoAdm2GTM:
+    admin_name: SanJuanChamelco
+    iso3c: GTM
+    shapeID: 79465075B61159508916708
+  SanJuanCotzalAdm2GTM:
+    admin_name: SanJuanCotzal
+    iso3c: GTM
+    shapeID: 79465075B84889349679373
+  SanJuanErmitaAdm2GTM:
+    admin_name: SanJuanErmita
+    iso3c: GTM
+    shapeID: 79465075B27447388470202
+  SanJuanIxcoyAdm2GTM:
+    admin_name: SanJuanIxcoy
+    iso3c: GTM
+    shapeID: 79465075B73654259569509
+  SanJuanLaLagunaAdm2GTM:
+    admin_name: SanJuanLaLaguna
+    iso3c: GTM
+    shapeID: 79465075B17327710580812
+  SanJuanSacatepéquezAdm2GTM:
+    admin_name: SanJuanSacatepéquez
+    iso3c: GTM
+    shapeID: 79465075B9598749560130
+  SanJuanTecuacoAdm2GTM:
+    admin_name: SanJuanTecuaco
+    iso3c: GTM
+    shapeID: 79465075B56577131945853
+  SanLorenzoAdm2GTM:
+    admin_name: SanLorenzo
+    iso3c: GTM
+    shapeID: 79465075B60827763716614
+  SanLucasSacatepéquezAdm2GTM:
+    admin_name: SanLucasSacatepéquez
+    iso3c: GTM
+    shapeID: 79465075B92764455721704
+  SanLucasTolimánAdm2GTM:
+    admin_name: SanLucasTolimán
+    iso3c: GTM
+    shapeID: 79465075B2167419407314
+  SanLuisAdm2GTM:
+    admin_name: SanLuis
+    iso3c: GTM
+    shapeID: 79465075B4836456001209
+  SanLuisJilotepequeAdm2GTM:
+    admin_name: SanLuisJilotepeque
+    iso3c: GTM
+    shapeID: 79465075B90526341743732
+  SanManuelChaparrónAdm2GTM:
+    admin_name: SanManuelChaparrón
+    iso3c: GTM
+    shapeID: 79465075B10388039742951
+  SanMarcosAdm1GTM:
+    admin_name: SanMarcos
+    iso3c: GTM
+    shapeID: 53557124B78398693011322
+  SanMarcosAdm2GTM:
+    admin_name: SanMarcos
+    iso3c: GTM
+    shapeID: 79465075B32898701467657
+  SanMarcosLaLagunaAdm2GTM:
+    admin_name: SanMarcosLaLaguna
+    iso3c: GTM
+    shapeID: 79465075B78154513463269
+  SanMartínJilotepequeAdm2GTM:
+    admin_name: SanMartínJilotepeque
+    iso3c: GTM
+    shapeID: 79465075B81292522353259
+  SanMartínSacatepéquezAdm2GTM:
+    admin_name: SanMartínSacatepéquez
+    iso3c: GTM
+    shapeID: 79465075B85200654086420
+  SanMartínZapotitlánAdm2GTM:
+    admin_name: SanMartínZapotitlán
+    iso3c: GTM
+    shapeID: 79465075B10941026506975
+  SanMateoAdm2GTM:
+    admin_name: SanMateo
+    iso3c: GTM
+    shapeID: 79465075B40376522775505
+  SanMateoIxtatánAdm2GTM:
+    admin_name: SanMateoIxtatán
+    iso3c: GTM
+    shapeID: 79465075B68216544960730
+  SanMiguelAcatánAdm2GTM:
+    admin_name: SanMiguelAcatán
+    iso3c: GTM
+    shapeID: 79465075B13081043036874
+  SanMiguelChicajAdm2GTM:
+    admin_name: SanMiguelChicaj
+    iso3c: GTM
+    shapeID: 79465075B93573685997449
+  SanMiguelDueñasAdm2GTM:
+    admin_name: SanMiguelDueñas
+    iso3c: GTM
+    shapeID: 79465075B97668033547878
+  SanMiguelIxtahuacánAdm2GTM:
+    admin_name: SanMiguelIxtahuacán
+    iso3c: GTM
+    shapeID: 79465075B62576691905378
+  SanMiguelPanánAdm2GTM:
+    admin_name: SanMiguelPanán
+    iso3c: GTM
+    shapeID: 79465075B30152308361282
+  SanMiguelSigüilaAdm2GTM:
+    admin_name: SanMiguelSigüila
+    iso3c: GTM
+    shapeID: 79465075B47659250151681
+  SanPabloAdm2GTM:
+    admin_name: SanPablo
+    iso3c: GTM
+    shapeID: 79465075B73669305526668
+  SanPabloJocopilasAdm2GTM:
+    admin_name: SanPabloJocopilas
+    iso3c: GTM
+    shapeID: 79465075B77711429461890
+  SanPabloLaLagunaAdm2GTM:
+    admin_name: SanPabloLaLaguna
+    iso3c: GTM
+    shapeID: 79465075B65058222740389
+  SanPedroAyampucAdm2GTM:
+    admin_name: SanPedroAyampuc
+    iso3c: GTM
+    shapeID: 79465075B57117467929955
+  SanPedroCarcháAdm2GTM:
+    admin_name: SanPedroCarchá
+    iso3c: GTM
+    shapeID: 79465075B56532928318150
+  SanPedroJocopilasAdm2GTM:
+    admin_name: SanPedroJocopilas
+    iso3c: GTM
+    shapeID: 79465075B58420470493896
+  SanPedroLaLagunaAdm2GTM:
+    admin_name: SanPedroLaLaguna
+    iso3c: GTM
+    shapeID: 79465075B50823159206102
+  SanPedroNectaAdm2GTM:
+    admin_name: SanPedroNecta
+    iso3c: GTM
+    shapeID: 79465075B78521623494839
+  SanPedroPinulaAdm2GTM:
+    admin_name: SanPedroPinula
+    iso3c: GTM
+    shapeID: 79465075B26197491104474
+  SanPedroSacatepéquezAdm2GTM:
+    admin_name: SanPedroSacatepéquez
+    iso3c: GTM
+    shapeID: 79465075B65982966467051
+  SanRafaelLaIndependenciaAdm2GTM:
+    admin_name: SanRafaelLaIndependencia
+    iso3c: GTM
+    shapeID: 79465075B73195694709107
+  SanRafaelLasFloresAdm2GTM:
+    admin_name: SanRafaelLasFlores
+    iso3c: GTM
+    shapeID: 79465075B42432820540382
+  SanRafaelPetzalAdm2GTM:
+    admin_name: SanRafaelPetzal
+    iso3c: GTM
+    shapeID: 79465075B67895884485700
+  SanRafaelPiedelaCuestaAdm2GTM:
+    admin_name: SanRafaelPiedelaCuesta
+    iso3c: GTM
+    shapeID: 79465075B609636359228
+  SanRaimundoAdm2GTM:
+    admin_name: SanRaimundo
+    iso3c: GTM
+    shapeID: 79465075B35150348928705
+  SansareAdm2GTM:
+    admin_name: Sansare
+    iso3c: GTM
+    shapeID: 79465075B35387126526580
+  SanSebastiánAdm2GTM:
+    admin_name: SanSebastián
+    iso3c: GTM
+    shapeID: 79465075B80062128439556
+  SanSebastiánCoatánAdm2GTM:
+    admin_name: SanSebastiánCoatán
+    iso3c: GTM
+    shapeID: 79465075B42561724893677
+  SanSebastiánHuehuetenangoAdm2GTM:
+    admin_name: SanSebastiánHuehuetenango
+    iso3c: GTM
+    shapeID: 79465075B22472302807981
+  SantaAnaAdm2GTM:
+    admin_name: SantaAna
+    iso3c: GTM
+    shapeID: 79465075B84602984839461
+  SantaAnaHuistaAdm2GTM:
+    admin_name: SantaAnaHuista
+    iso3c: GTM
+    shapeID: 79465075B69747530390651
+  SantaApoloniaAdm2GTM:
+    admin_name: SantaApolonia
+    iso3c: GTM
+    shapeID: 79465075B14911635135013
+  SantaBárbaraAdm2GTM:
+    admin_name: SantaBárbara
+    iso3c: GTM
+    shapeID: 79465075B82403769630407
+  SantaCatalinaLaTintaAdm2GTM:
+    admin_name: SantaCatalinaLaTinta
+    iso3c: GTM
+    shapeID: 79465075B69051418753494
+  SantaCatarinaBarahonaAdm2GTM:
+    admin_name: SantaCatarinaBarahona
+    iso3c: GTM
+    shapeID: 79465075B35254467846514
+  SantaCatarinaIxtahuacánAdm2GTM:
+    admin_name: SantaCatarinaIxtahuacán
+    iso3c: GTM
+    shapeID: 79465075B97067153005308
+  SantaCatarinaMitaAdm2GTM:
+    admin_name: SantaCatarinaMita
+    iso3c: GTM
+    shapeID: 79465075B98787750844284
+  SantaCatarinaPalopóAdm2GTM:
+    admin_name: SantaCatarinaPalopó
+    iso3c: GTM
+    shapeID: 79465075B20909144417391
+  SantaCatarinaPinulaAdm2GTM:
+    admin_name: SantaCatarinaPinula
+    iso3c: GTM
+    shapeID: 79465075B31337947825966
+  SantaClaraLaLagunaAdm2GTM:
+    admin_name: SantaClaraLaLaguna
+    iso3c: GTM
+    shapeID: 79465075B26793890214768
+  SantaCruzBalanyáAdm2GTM:
+    admin_name: SantaCruzBalanyá
+    iso3c: GTM
+    shapeID: 79465075B16496006430587
+  SantaCruzdelQuichéAdm2GTM:
+    admin_name: SantaCruzdelQuiché
+    iso3c: GTM
+    shapeID: 79465075B15247969306160
+  SantaCruzLaLagunaAdm2GTM:
+    admin_name: SantaCruzLaLaguna
+    iso3c: GTM
+    shapeID: 79465075B11038489211128
+  SantaCruzMuluáAdm2GTM:
+    admin_name: SantaCruzMuluá
+    iso3c: GTM
+    shapeID: 79465075B78170683113897
+  SantaCruzNaranjoAdm2GTM:
+    admin_name: SantaCruzNaranjo
+    iso3c: GTM
+    shapeID: 79465075B20602166984582
+  SantaCruzVerapazAdm2GTM:
+    admin_name: SantaCruzVerapaz
+    iso3c: GTM
+    shapeID: 79465075B71576598572752
+  SantaEulaliaAdm2GTM:
+    admin_name: SantaEulalia
+    iso3c: GTM
+    shapeID: 79465075B65740660783251
+  SantaLucíaCotzumalguapaAdm2GTM:
+    admin_name: SantaLucíaCotzumalguapa
+    iso3c: GTM
+    shapeID: 79465075B85033757561509
+  SantaLucíaLaReformaAdm2GTM:
+    admin_name: SantaLucíaLaReforma
+    iso3c: GTM
+    shapeID: 79465075B7402563693044
+  SantaLucíaMilpasAltasAdm2GTM:
+    admin_name: SantaLucíaMilpasAltas
+    iso3c: GTM
+    shapeID: 79465075B78305211974628
+  SantaLucíaUtatlánAdm2GTM:
+    admin_name: SantaLucíaUtatlán
+    iso3c: GTM
+    shapeID: 79465075B3203772279069
+  SantaMaríaChiquimulaAdm2GTM:
+    admin_name: SantaMaríaChiquimula
+    iso3c: GTM
+    shapeID: 79465075B31639983176614
+  SantaMaríadeJesúsAdm2GTM:
+    admin_name: SantaMaríadeJesús
+    iso3c: GTM
+    shapeID: 79465075B23332784997029
+  SantaMaríaIxhuatánAdm2GTM:
+    admin_name: SantaMaríaIxhuatán
+    iso3c: GTM
+    shapeID: 79465075B67666952430364
+  SantaMaríaVisitaciónAdm2GTM:
+    admin_name: SantaMaríaVisitación
+    iso3c: GTM
+    shapeID: 79465075B29728839269099
+  SantaRosaAdm1GTM:
+    admin_name: SantaRosa
+    iso3c: GTM
+    shapeID: 53557124B32978494135306
+  SantaRosadeLimaAdm2GTM:
+    admin_name: SantaRosadeLima
+    iso3c: GTM
+    shapeID: 79465075B80857552483649
+  SantiagoAtitlánAdm2GTM:
+    admin_name: SantiagoAtitlán
+    iso3c: GTM
+    shapeID: 79465075B45388350866104
+  SantiagoChimaltenangoAdm2GTM:
+    admin_name: SantiagoChimaltenango
+    iso3c: GTM
+    shapeID: 79465075B81878845839698
+  SantiagoSacatepéquezAdm2GTM:
+    admin_name: SantiagoSacatepéquez
+    iso3c: GTM
+    shapeID: 79465075B66116547115808
+  SantoDomingoSuchitepéquezAdm2GTM:
+    admin_name: SantoDomingoSuchitepéquez
+    iso3c: GTM
+    shapeID: 79465075B35646197433450
+  SantoDomingoXenacojAdm2GTM:
+    admin_name: SantoDomingoXenacoj
+    iso3c: GTM
+    shapeID: 79465075B12925018589584
+  SantoTomásLaUniónAdm2GTM:
+    admin_name: SantoTomásLaUnión
+    iso3c: GTM
+    shapeID: 79465075B46149189037387
+  SanVicentePacayaAdm2GTM:
+    admin_name: SanVicentePacaya
+    iso3c: GTM
+    shapeID: 79465075B46542077194483
+  SayaxchéAdm2GTM:
+    admin_name: Sayaxché
+    iso3c: GTM
+    shapeID: 79465075B52336301108850
+  SenahúAdm2GTM:
+    admin_name: Senahú
+    iso3c: GTM
+    shapeID: 79465075B39749576611846
+  SibiliaAdm2GTM:
+    admin_name: Sibilia
+    iso3c: GTM
+    shapeID: 79465075B93967770843500
+  SibinalAdm2GTM:
+    admin_name: Sibinal
+    iso3c: GTM
+    shapeID: 79465075B17563879064897
+  SipacapaAdm2GTM:
+    admin_name: Sipacapa
+    iso3c: GTM
+    shapeID: 79465075B25557085984198
+  SipacateAdm2GTM:
+    admin_name: Sipacate
+    iso3c: GTM
+    shapeID: 79465075B96502800486536
+  SiquinaláAdm2GTM:
+    admin_name: Siquinalá
+    iso3c: GTM
+    shapeID: 79465075B25163774414820
+  SololáAdm1GTM:
+    admin_name: Sololá
+    iso3c: GTM
+    shapeID: 53557124B33357761119002
+  SololáAdm2GTM:
+    admin_name: Sololá
+    iso3c: GTM
+    shapeID: 79465075B95687067740249
+  SolomaAdm2GTM:
+    admin_name: Soloma
+    iso3c: GTM
+    shapeID: 79465075B1417859081281
+  SuchitepéquezAdm1GTM:
+    admin_name: Suchitepéquez
+    iso3c: GTM
+    shapeID: 53557124B97439913802456
+  SumpangoAdm2GTM:
+    admin_name: Sumpango
+    iso3c: GTM
+    shapeID: 79465075B37174278421226
+  TacanáAdm2GTM:
+    admin_name: Tacaná
+    iso3c: GTM
+    shapeID: 79465075B77121462598505
+  TacticAdm2GTM:
+    admin_name: Tactic
+    iso3c: GTM
+    shapeID: 79465075B42752756974630
+  TajumulcoAdm2GTM:
+    admin_name: Tajumulco
+    iso3c: GTM
+    shapeID: 79465075B52566348974333
+  TamahúAdm2GTM:
+    admin_name: Tamahú
+    iso3c: GTM
+    shapeID: 79465075B44639416757608
+  TaxiscoAdm2GTM:
+    admin_name: Taxisco
+    iso3c: GTM
+    shapeID: 79465075B64159565485617
+  TecpánGuatemalaAdm2GTM:
+    admin_name: TecpánGuatemala
+    iso3c: GTM
+    shapeID: 79465075B20320299128156
+  TectitánAdm2GTM:
+    admin_name: Tectitán
+    iso3c: GTM
+    shapeID: 79465075B96618305654863
+  TeculutánAdm2GTM:
+    admin_name: Teculután
+    iso3c: GTM
+    shapeID: 79465075B78410714598363
+  TejutlaAdm2GTM:
+    admin_name: Tejutla
+    iso3c: GTM
+    shapeID: 79465075B17053106613054
+  TiquisateAdm2GTM:
+    admin_name: Tiquisate
+    iso3c: GTM
+    shapeID: 79465075B69803572716764
+  TodosSantosCuchumatánAdm2GTM:
+    admin_name: TodosSantosCuchumatán
+    iso3c: GTM
+    shapeID: 79465075B37558522420753
+  TotonicapánAdm1GTM:
+    admin_name: Totonicapán
+    iso3c: GTM
+    shapeID: 53557124B40850127361414
+  TotonicapánAdm2GTM:
+    admin_name: Totonicapán
+    iso3c: GTM
+    shapeID: 79465075B19896834166836
+  TucurúAdm2GTM:
+    admin_name: Tucurú
+    iso3c: GTM
+    shapeID: 79465075B80923191364064
+  UniónCantinilAdm2GTM:
+    admin_name: UniónCantinil
+    iso3c: GTM
+    shapeID: 79465075B38315595445593
+  UspantánAdm2GTM:
+    admin_name: Uspantán
+    iso3c: GTM
+    shapeID: 79465075B86057243605305
+  UsumatlánAdm2GTM:
+    admin_name: Usumatlán
+    iso3c: GTM
+    shapeID: 79465075B70422154839704
+  VillaCanalesAdm2GTM:
+    admin_name: VillaCanales
+    iso3c: GTM
+    shapeID: 79465075B61187237098810
+  VillaNuevaAdm2GTM:
+    admin_name: VillaNueva
+    iso3c: GTM
+    shapeID: 79465075B28171431447945
+  YepocapaAdm2GTM:
+    admin_name: Yepocapa
+    iso3c: GTM
+    shapeID: 79465075B24340573402590
+  YupiltepequeAdm2GTM:
+    admin_name: Yupiltepeque
+    iso3c: GTM
+    shapeID: 79465075B99403768988666
+  ZacapaAdm1GTM:
+    admin_name: Zacapa
+    iso3c: GTM
+    shapeID: 53557124B14274164057878
+  ZacapaAdm2GTM:
+    admin_name: Zacapa
+    iso3c: GTM
+    shapeID: 79465075B10782882700872
+  ZacualpaAdm2GTM:
+    admin_name: Zacualpa
+    iso3c: GTM
+    shapeID: 79465075B97254104766130
+  ZapotitlánAdm2GTM:
+    admin_name: Zapotitlán
+    iso3c: GTM
+    shapeID: 79465075B8015591970970
+  ZaragozaAdm2GTM:
+    admin_name: Zaragoza
+    iso3c: GTM
+    shapeID: 79465075B82010668835108
+  ZunilAdm2GTM:
+    admin_name: Zunil
+    iso3c: GTM
+    shapeID: 79465075B54074459386490
+  ZunilitoAdm2GTM:
+    admin_name: Zunilito
+    iso3c: GTM
+    shapeID: 79465075B91860193952418

@@ -1,11 +1,405 @@
 concepts:
-    - Harare
-    - Bulawayo
-    - MatabelelandSouth
-    - Midlands
-    - MashonalandWest
-    - Manicaland
-    - MashonalandCentral
-    - MashonalandEast
-    - Masvingo
-    - MatabelelandNorth
+  BeitbridgeAdm2ZWE:
+    admin_name: Beitbridge
+    iso3c: ZWE
+    shapeID: 62879985B95307090216295
+  BeitbridgeUrbanAdm2ZWE:
+    admin_name: BeitbridgeUrban
+    iso3c: ZWE
+    shapeID: 62879985B8135663934724
+  BikitaAdm2ZWE:
+    admin_name: Bikita
+    iso3c: ZWE
+    shapeID: 62879985B26822606878793
+  BinduraAdm2ZWE:
+    admin_name: Bindura
+    iso3c: ZWE
+    shapeID: 62879985B50430993830170
+  BinduraUrbanAdm2ZWE:
+    admin_name: BinduraUrban
+    iso3c: ZWE
+    shapeID: 62879985B95649455057602
+  BingaAdm2ZWE:
+    admin_name: Binga
+    iso3c: ZWE
+    shapeID: 62879985B54181646880786
+  BubiAdm2ZWE:
+    admin_name: Bubi
+    iso3c: ZWE
+    shapeID: 62879985B291328644758
+  BuheraAdm2ZWE:
+    admin_name: Buhera
+    iso3c: ZWE
+    shapeID: 62879985B49874859197959
+  BulawayoAdm1ZWE:
+    admin_name: Bulawayo
+    iso3c: ZWE
+    shapeID: 88200057B51719638002761
+  BulawayoAdm2ZWE:
+    admin_name: Bulawayo
+    iso3c: ZWE
+    shapeID: 62879985B51719638002761
+  BulilimaAdm2ZWE:
+    admin_name: Bulilima
+    iso3c: ZWE
+    shapeID: 62879985B39326733261715
+  Centenary/MuzarabaniAdm2ZWE:
+    admin_name: Centenary/Muzarabani
+    iso3c: ZWE
+    shapeID: 62879985B33993196799610
+  ChegutuAdm2ZWE:
+    admin_name: Chegutu
+    iso3c: ZWE
+    shapeID: 62879985B20095614329171
+  ChegutuUrbanAdm2ZWE:
+    admin_name: ChegutuUrban
+    iso3c: ZWE
+    shapeID: 62879985B25835202040787
+  ChikombaAdm2ZWE:
+    admin_name: Chikomba
+    iso3c: ZWE
+    shapeID: 62879985B62139417575129
+  ChimanimaniAdm2ZWE:
+    admin_name: Chimanimani
+    iso3c: ZWE
+    shapeID: 62879985B88663690016764
+  ChinhoyiAdm2ZWE:
+    admin_name: Chinhoyi
+    iso3c: ZWE
+    shapeID: 62879985B33346343467018
+  ChipingeAdm2ZWE:
+    admin_name: Chipinge
+    iso3c: ZWE
+    shapeID: 62879985B99568881619892
+  ChipingeUrbanAdm2ZWE:
+    admin_name: ChipingeUrban
+    iso3c: ZWE
+    shapeID: 62879985B32287047423365
+  ChiredziAdm2ZWE:
+    admin_name: Chiredzi
+    iso3c: ZWE
+    shapeID: 62879985B37979176120849
+  ChiredziUrbanAdm2ZWE:
+    admin_name: ChiredziUrban
+    iso3c: ZWE
+    shapeID: 62879985B81925630456869
+  ChirumhanzuAdm2ZWE:
+    admin_name: Chirumhanzu
+    iso3c: ZWE
+    shapeID: 62879985B8175030067165
+  ChitungwizaAdm2ZWE:
+    admin_name: Chitungwiza
+    iso3c: ZWE
+    shapeID: 62879985B31454704835515
+  ChiviAdm2ZWE:
+    admin_name: Chivi
+    iso3c: ZWE
+    shapeID: 62879985B12004776276546
+  EpworthAdm2ZWE:
+    admin_name: Epworth
+    iso3c: ZWE
+    shapeID: 62879985B25596949610081
+  GokweNorthAdm2ZWE:
+    admin_name: GokweNorth
+    iso3c: ZWE
+    shapeID: 62879985B87269615821372
+  GokweSouthAdm2ZWE:
+    admin_name: GokweSouth
+    iso3c: ZWE
+    shapeID: 62879985B62286453442238
+  GokweSouthUrbanAdm2ZWE:
+    admin_name: GokweSouthUrban
+    iso3c: ZWE
+    shapeID: 62879985B9450607738823
+  GoromonziAdm2ZWE:
+    admin_name: Goromonzi
+    iso3c: ZWE
+    shapeID: 62879985B13905566839040
+  GuruveAdm2ZWE:
+    admin_name: Guruve
+    iso3c: ZWE
+    shapeID: 62879985B94788523957313
+  GutuAdm2ZWE:
+    admin_name: Gutu
+    iso3c: ZWE
+    shapeID: 62879985B73698916591345
+  GwandaAdm2ZWE:
+    admin_name: Gwanda
+    iso3c: ZWE
+    shapeID: 62879985B81037274427079
+  GwandaUrbanAdm2ZWE:
+    admin_name: GwandaUrban
+    iso3c: ZWE
+    shapeID: 62879985B63510140227201
+  GweruAdm2ZWE:
+    admin_name: Gweru
+    iso3c: ZWE
+    shapeID: 62879985B38074336306054
+  GweruUrbanAdm2ZWE:
+    admin_name: GweruUrban
+    iso3c: ZWE
+    shapeID: 62879985B64547719639207
+  HarareAdm1ZWE:
+    admin_name: Harare
+    iso3c: ZWE
+    shapeID: 88200057B87996012089813
+  HarareAdm2ZWE:
+    admin_name: Harare
+    iso3c: ZWE
+    shapeID: 62879985B33947363062254
+  HarareRuralAdm2ZWE:
+    admin_name: HarareRural
+    iso3c: ZWE
+    shapeID: 62879985B75244512710705
+  HurungweAdm2ZWE:
+    admin_name: Hurungwe
+    iso3c: ZWE
+    shapeID: 62879985B85730198836463
+  HwangeAdm2ZWE:
+    admin_name: Hwange
+    iso3c: ZWE
+    shapeID: 62879985B77670672881921
+  HwangeUrbanAdm2ZWE:
+    admin_name: HwangeUrban
+    iso3c: ZWE
+    shapeID: 62879985B63106535588765
+  HwedzaAdm2ZWE:
+    admin_name: Hwedza
+    iso3c: ZWE
+    shapeID: 62879985B61982490553927
+  InsizaAdm2ZWE:
+    admin_name: Insiza
+    iso3c: ZWE
+    shapeID: 62879985B6112756891378
+  KadomaUrbanAdm2ZWE:
+    admin_name: KadomaUrban
+    iso3c: ZWE
+    shapeID: 62879985B53444954846030
+  KaribaAdm2ZWE:
+    admin_name: Kariba
+    iso3c: ZWE
+    shapeID: 62879985B94385115404707
+  KaribaUrbanAdm2ZWE:
+    admin_name: KaribaUrban
+    iso3c: ZWE
+    shapeID: 62879985B80856032780976
+  KaroiAdm2ZWE:
+    admin_name: Karoi
+    iso3c: ZWE
+    shapeID: 62879985B2724410998329
+  KwekweAdm2ZWE:
+    admin_name: Kwekwe
+    iso3c: ZWE
+    shapeID: 62879985B25079588336993
+  KwekweUrbanAdm2ZWE:
+    admin_name: KwekweUrban
+    iso3c: ZWE
+    shapeID: 62879985B80414783582816
+  LupaneAdm2ZWE:
+    admin_name: Lupane
+    iso3c: ZWE
+    shapeID: 62879985B9904230629136
+  MakondeAdm2ZWE:
+    admin_name: Makonde
+    iso3c: ZWE
+    shapeID: 62879985B9452203972303
+  MakoniAdm2ZWE:
+    admin_name: Makoni
+    iso3c: ZWE
+    shapeID: 62879985B27116987268551
+  MangweAdm2ZWE:
+    admin_name: Mangwe
+    iso3c: ZWE
+    shapeID: 62879985B72758591248620
+  ManicalandAdm1ZWE:
+    admin_name: Manicaland
+    iso3c: ZWE
+    shapeID: 88200057B32763847551562
+  MaronderaAdm2ZWE:
+    admin_name: Marondera
+    iso3c: ZWE
+    shapeID: 62879985B19621940565976
+  MaronderaUrbanAdm2ZWE:
+    admin_name: MaronderaUrban
+    iso3c: ZWE
+    shapeID: 62879985B19801447956475
+  MashonalandCentralAdm1ZWE:
+    admin_name: MashonalandCentral
+    iso3c: ZWE
+    shapeID: 88200057B2601963641625
+  MashonalandEastAdm1ZWE:
+    admin_name: MashonalandEast
+    iso3c: ZWE
+    shapeID: 88200057B49508968932773
+  MashonalandWestAdm1ZWE:
+    admin_name: MashonalandWest
+    iso3c: ZWE
+    shapeID: 88200057B70993266842589
+  MasvingoAdm1ZWE:
+    admin_name: Masvingo
+    iso3c: ZWE
+    shapeID: 88200057B85209083975104
+  MasvingoAdm2ZWE:
+    admin_name: Masvingo
+    iso3c: ZWE
+    shapeID: 62879985B11590561680965
+  MasvingoUrbanAdm2ZWE:
+    admin_name: MasvingoUrban
+    iso3c: ZWE
+    shapeID: 62879985B82265466456290
+  MatabelelandNorthAdm1ZWE:
+    admin_name: MatabelelandNorth
+    iso3c: ZWE
+    shapeID: 88200057B11544283676020
+  MatabelelandSouthAdm1ZWE:
+    admin_name: MatabelelandSouth
+    iso3c: ZWE
+    shapeID: 88200057B5014357533485
+  MatoboAdm2ZWE:
+    admin_name: Matobo
+    iso3c: ZWE
+    shapeID: 62879985B11044582115440
+  MazoweAdm2ZWE:
+    admin_name: Mazowe
+    iso3c: ZWE
+    shapeID: 62879985B76003628227782
+  MberengwaAdm2ZWE:
+    admin_name: Mberengwa
+    iso3c: ZWE
+    shapeID: 62879985B72104982716343
+  MbireAdm2ZWE:
+    admin_name: Mbire
+    iso3c: ZWE
+    shapeID: 62879985B94368680034661
+  Mhondoro-NgeziAdm2ZWE:
+    admin_name: Mhondoro-Ngezi
+    iso3c: ZWE
+    shapeID: 62879985B70697135902781
+  MidlandsAdm1ZWE:
+    admin_name: Midlands
+    iso3c: ZWE
+    shapeID: 88200057B27236199640876
+  MountDarwinAdm2ZWE:
+    admin_name: MountDarwin
+    iso3c: ZWE
+    shapeID: 62879985B29850987700829
+  MudziAdm2ZWE:
+    admin_name: Mudzi
+    iso3c: ZWE
+    shapeID: 62879985B77595643638308
+  MurehwaAdm2ZWE:
+    admin_name: Murehwa
+    iso3c: ZWE
+    shapeID: 62879985B35130574204282
+  MutareAdm2ZWE:
+    admin_name: Mutare
+    iso3c: ZWE
+    shapeID: 62879985B35185654442710
+  MutareUrbanAdm2ZWE:
+    admin_name: MutareUrban
+    iso3c: ZWE
+    shapeID: 62879985B34329227357286
+  MutasaAdm2ZWE:
+    admin_name: Mutasa
+    iso3c: ZWE
+    shapeID: 62879985B28116741742257
+  MutokoAdm2ZWE:
+    admin_name: Mutoko
+    iso3c: ZWE
+    shapeID: 62879985B11813721132111
+  MvurwiAdm2ZWE:
+    admin_name: Mvurwi
+    iso3c: ZWE
+    shapeID: 62879985B19451757525909
+  MweneziAdm2ZWE:
+    admin_name: Mwenezi
+    iso3c: ZWE
+    shapeID: 62879985B12430304395671
+  NkayiAdm2ZWE:
+    admin_name: Nkayi
+    iso3c: ZWE
+    shapeID: 62879985B68584159333685
+  NortonAdm2ZWE:
+    admin_name: Norton
+    iso3c: ZWE
+    shapeID: 62879985B7429577065299
+  NyangaAdm2ZWE:
+    admin_name: Nyanga
+    iso3c: ZWE
+    shapeID: 62879985B16821678583413
+  PlumtreeAdm2ZWE:
+    admin_name: Plumtree
+    iso3c: ZWE
+    shapeID: 62879985B2376154175895
+  RedcliffAdm2ZWE:
+    admin_name: Redcliff
+    iso3c: ZWE
+    shapeID: 62879985B17872129948675
+  RusapeAdm2ZWE:
+    admin_name: Rusape
+    iso3c: ZWE
+    shapeID: 62879985B51591282802552
+  RushingaAdm2ZWE:
+    admin_name: Rushinga
+    iso3c: ZWE
+    shapeID: 62879985B22521901004108
+  RuwaAdm2ZWE:
+    admin_name: Ruwa
+    iso3c: ZWE
+    shapeID: 62879985B71976011533530
+  SanyatiAdm2ZWE:
+    admin_name: Sanyati
+    iso3c: ZWE
+    shapeID: 62879985B67434637878842
+  SekeAdm2ZWE:
+    admin_name: Seke
+    iso3c: ZWE
+    shapeID: 62879985B71906244719276
+  ShamvaAdm2ZWE:
+    admin_name: Shamva
+    iso3c: ZWE
+    shapeID: 62879985B93379184763454
+  ShurugwiAdm2ZWE:
+    admin_name: Shurugwi
+    iso3c: ZWE
+    shapeID: 62879985B74735389049647
+  ShurugwiTownAdm2ZWE:
+    admin_name: ShurugwiTown
+    iso3c: ZWE
+    shapeID: 62879985B16966915887003
+  TsholotshoAdm2ZWE:
+    admin_name: Tsholotsho
+    iso3c: ZWE
+    shapeID: 62879985B28907517418650
+  UmguzaAdm2ZWE:
+    admin_name: Umguza
+    iso3c: ZWE
+    shapeID: 62879985B92853728292751
+  UmzingwaneAdm2ZWE:
+    admin_name: Umzingwane
+    iso3c: ZWE
+    shapeID: 62879985B43566873745809
+  UzumbaMarambaPfungweAdm2ZWE:
+    admin_name: UzumbaMarambaPfungwe
+    iso3c: ZWE
+    shapeID: 62879985B20819792882543
+  VictoriaFallsAdm2ZWE:
+    admin_name: VictoriaFalls
+    iso3c: ZWE
+    shapeID: 62879985B6381696170590
+  ZakaAdm2ZWE:
+    admin_name: Zaka
+    iso3c: ZWE
+    shapeID: 62879985B3510020236883
+  ZvimbaAdm2ZWE:
+    admin_name: Zvimba
+    iso3c: ZWE
+    shapeID: 62879985B3462136177187
+  ZvishavaneAdm2ZWE:
+    admin_name: Zvishavane
+    iso3c: ZWE
+    shapeID: 62879985B59782036697495
+  ZvishavaneUrbanAdm2ZWE:
+    admin_name: ZvishavaneUrban
+    iso3c: ZWE
+    shapeID: 62879985B32453879798080

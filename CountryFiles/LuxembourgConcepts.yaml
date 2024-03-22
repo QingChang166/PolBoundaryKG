@@ -1,13 +1,469 @@
 concepts:
-    - CantonEchternach
-    - CantonGrevenmacher
-    - CantonRemich
-    - CantonMersch
-    - CantonCapellen
-    - CantonEsch-sur-Alzette
-    - CantonLuxembourg
-    - CantonRedange
-    - CantonDiekirch
-    - CantonClervaux
-    - CantonWiltz
-    - CantonVianden
+  BeaufortAdm2LUX:
+    admin_name: Beaufort
+    iso3c: LUX
+    shapeID: 21775719B81576122836326
+  BechAdm2LUX:
+    admin_name: Bech
+    iso3c: LUX
+    shapeID: 21775719B93557714674033
+  BeckerichAdm2LUX:
+    admin_name: Beckerich
+    iso3c: LUX
+    shapeID: 21775719B25186964834582
+  BerdorfAdm2LUX:
+    admin_name: Berdorf
+    iso3c: LUX
+    shapeID: 21775719B77656539141274
+  BertrangeAdm2LUX:
+    admin_name: Bertrange
+    iso3c: LUX
+    shapeID: 21775719B89896475155043
+  BettembourgAdm2LUX:
+    admin_name: Bettembourg
+    iso3c: LUX
+    shapeID: 21775719B98887930078722
+  BettendorfAdm2LUX:
+    admin_name: Bettendorf
+    iso3c: LUX
+    shapeID: 21775719B42744922055671
+  BetzdorfAdm2LUX:
+    admin_name: Betzdorf
+    iso3c: LUX
+    shapeID: 21775719B53109211508057
+  BissenAdm2LUX:
+    admin_name: Bissen
+    iso3c: LUX
+    shapeID: 21775719B96705866504601
+  BiwerAdm2LUX:
+    admin_name: Biwer
+    iso3c: LUX
+    shapeID: 21775719B11115917944889
+  Boevange-sur-AttertAdm2LUX:
+    admin_name: Boevange-sur-Attert
+    iso3c: LUX
+    shapeID: 21775719B71463456243881
+  BoulaideAdm2LUX:
+    admin_name: Boulaide
+    iso3c: LUX
+    shapeID: 21775719B85844399022617
+  BourscheidAdm2LUX:
+    admin_name: Bourscheid
+    iso3c: LUX
+    shapeID: 21775719B36889222582909
+  BousAdm2LUX:
+    admin_name: Bous
+    iso3c: LUX
+    shapeID: 21775719B72404358770998
+  CantonCapellenAdm1LUX:
+    admin_name: CantonCapellen
+    iso3c: LUX
+    shapeID: 76397094B22879125121781
+  CantonClervauxAdm1LUX:
+    admin_name: CantonClervaux
+    iso3c: LUX
+    shapeID: 76397094B70222545473363
+  CantonDiekirchAdm1LUX:
+    admin_name: CantonDiekirch
+    iso3c: LUX
+    shapeID: 76397094B91879595380480
+  CantonEchternachAdm1LUX:
+    admin_name: CantonEchternach
+    iso3c: LUX
+    shapeID: 76397094B75044033408583
+  CantonEsch-sur-AlzetteAdm1LUX:
+    admin_name: CantonEsch-sur-Alzette
+    iso3c: LUX
+    shapeID: 76397094B23155303849994
+  CantonGrevenmacherAdm1LUX:
+    admin_name: CantonGrevenmacher
+    iso3c: LUX
+    shapeID: 76397094B81286574502905
+  CantonLuxembourgAdm1LUX:
+    admin_name: CantonLuxembourg
+    iso3c: LUX
+    shapeID: 76397094B53618071923197
+  CantonMerschAdm1LUX:
+    admin_name: CantonMersch
+    iso3c: LUX
+    shapeID: 76397094B49543500261856
+  CantonRedangeAdm1LUX:
+    admin_name: CantonRedange
+    iso3c: LUX
+    shapeID: 76397094B45773647818245
+  CantonRemichAdm1LUX:
+    admin_name: CantonRemich
+    iso3c: LUX
+    shapeID: 76397094B46061876108979
+  CantonViandenAdm1LUX:
+    admin_name: CantonVianden
+    iso3c: LUX
+    shapeID: 76397094B51041035930086
+  CantonWiltzAdm1LUX:
+    admin_name: CantonWiltz
+    iso3c: LUX
+    shapeID: 76397094B67457450323927
+  ClervauxAdm2LUX:
+    admin_name: Clervaux
+    iso3c: LUX
+    shapeID: 21775719B80901335144813
+  Colmar-BergAdm2LUX:
+    admin_name: Colmar-Berg
+    iso3c: LUX
+    shapeID: 21775719B52582225974762
+  ConsdorfAdm2LUX:
+    admin_name: Consdorf
+    iso3c: LUX
+    shapeID: 21775719B13974225377637
+  ConternAdm2LUX:
+    admin_name: Contern
+    iso3c: LUX
+    shapeID: 21775719B69285541651614
+  DalheimAdm2LUX:
+    admin_name: Dalheim
+    iso3c: LUX
+    shapeID: 21775719B96437942520928
+  DiekirchAdm2LUX:
+    admin_name: Diekirch
+    iso3c: LUX
+    shapeID: 21775719B12811001647954
+  DifferdangeAdm2LUX:
+    admin_name: Differdange
+    iso3c: LUX
+    shapeID: 21775719B78315936825868
+  DippachAdm2LUX:
+    admin_name: Dippach
+    iso3c: LUX
+    shapeID: 21775719B36622587135592
+  DudelangeAdm2LUX:
+    admin_name: Dudelange
+    iso3c: LUX
+    shapeID: 21775719B60383903025053
+  EchternachAdm2LUX:
+    admin_name: Echternach
+    iso3c: LUX
+    shapeID: 21775719B12259366230558
+  EllAdm2LUX:
+    admin_name: Ell
+    iso3c: LUX
+    shapeID: 21775719B98405946974679
+  Erpeldange-sur-SûreAdm2LUX:
+    admin_name: Erpeldange-sur-Sûre
+    iso3c: LUX
+    shapeID: 21775719B60306791609610
+  Esch-sur-AlzetteAdm2LUX:
+    admin_name: Esch-sur-Alzette
+    iso3c: LUX
+    shapeID: 21775719B23058548235347
+  Esch-sur-SûreAdm2LUX:
+    admin_name: Esch-sur-Sûre
+    iso3c: LUX
+    shapeID: 21775719B39568608921015
+  EttelbruckAdm2LUX:
+    admin_name: Ettelbruck
+    iso3c: LUX
+    shapeID: 21775719B88920598861802
+  FeulenAdm2LUX:
+    admin_name: Feulen
+    iso3c: LUX
+    shapeID: 21775719B2601504260109
+  FischbachAdm2LUX:
+    admin_name: Fischbach
+    iso3c: LUX
+    shapeID: 21775719B2060157043713
+  FlaxweilerAdm2LUX:
+    admin_name: Flaxweiler
+    iso3c: LUX
+    shapeID: 21775719B1631688346182
+  FrisangeAdm2LUX:
+    admin_name: Frisange
+    iso3c: LUX
+    shapeID: 21775719B68351429546827
+  GarnichAdm2LUX:
+    admin_name: Garnich
+    iso3c: LUX
+    shapeID: 21775719B88269771197434
+  GoesdorfAdm2LUX:
+    admin_name: Goesdorf
+    iso3c: LUX
+    shapeID: 21775719B32854192584893
+  GrevenmacherAdm2LUX:
+    admin_name: Grevenmacher
+    iso3c: LUX
+    shapeID: 21775719B64014963506863
+  GrosbousAdm2LUX:
+    admin_name: Grosbous
+    iso3c: LUX
+    shapeID: 21775719B41529217465013
+  HeffingenAdm2LUX:
+    admin_name: Heffingen
+    iso3c: LUX
+    shapeID: 21775719B80423014850063
+  HesperangeAdm2LUX:
+    admin_name: Hesperange
+    iso3c: LUX
+    shapeID: 21775719B76244882391464
+  HobscheidAdm2LUX:
+    admin_name: Hobscheid
+    iso3c: LUX
+    shapeID: 21775719B8036560650946
+  JunglinsterAdm2LUX:
+    admin_name: Junglinster
+    iso3c: LUX
+    shapeID: 21775719B11079590580609
+  KäerjengAdm2LUX:
+    admin_name: Käerjeng
+    iso3c: LUX
+    shapeID: 21775719B38005128707956
+  KaylAdm2LUX:
+    admin_name: Kayl
+    iso3c: LUX
+    shapeID: 21775719B17928354253129
+  KehlenAdm2LUX:
+    admin_name: Kehlen
+    iso3c: LUX
+    shapeID: 21775719B8841937045509
+  KiischpeltAdm2LUX:
+    admin_name: Kiischpelt
+    iso3c: LUX
+    shapeID: 21775719B89122760295924
+  KoerichAdm2LUX:
+    admin_name: Koerich
+    iso3c: LUX
+    shapeID: 21775719B81745383079240
+  KopstalAdm2LUX:
+    admin_name: Kopstal
+    iso3c: LUX
+    shapeID: 21775719B1960814377094
+  LacdelaHaute-SûreAdm2LUX:
+    admin_name: LacdelaHaute-Sûre
+    iso3c: LUX
+    shapeID: 21775719B16407622860370
+  LarochetteAdm2LUX:
+    admin_name: Larochette
+    iso3c: LUX
+    shapeID: 21775719B65170086529426
+  LenningenAdm2LUX:
+    admin_name: Lenningen
+    iso3c: LUX
+    shapeID: 21775719B54479975605706
+  LeudelangeAdm2LUX:
+    admin_name: Leudelange
+    iso3c: LUX
+    shapeID: 21775719B78588703449335
+  LintgenAdm2LUX:
+    admin_name: Lintgen
+    iso3c: LUX
+    shapeID: 21775719B76138349193524
+  LorentzweilerAdm2LUX:
+    admin_name: Lorentzweiler
+    iso3c: LUX
+    shapeID: 21775719B57961603846352
+  LuxembourgAdm2LUX:
+    admin_name: Luxembourg
+    iso3c: LUX
+    shapeID: 21775719B67184481956651
+  MamerAdm2LUX:
+    admin_name: Mamer
+    iso3c: LUX
+    shapeID: 21775719B8167821855131
+  ManternachAdm2LUX:
+    admin_name: Manternach
+    iso3c: LUX
+    shapeID: 21775719B25575460417877
+  MerschAdm2LUX:
+    admin_name: Mersch
+    iso3c: LUX
+    shapeID: 21775719B84839302070577
+  MertertAdm2LUX:
+    admin_name: Mertert
+    iso3c: LUX
+    shapeID: 21775719B42588500248730
+  MertzigAdm2LUX:
+    admin_name: Mertzig
+    iso3c: LUX
+    shapeID: 21775719B64025767263573
+  MompachAdm2LUX:
+    admin_name: Mompach
+    iso3c: LUX
+    shapeID: 21775719B87806168896597
+  MondercangeAdm2LUX:
+    admin_name: Mondercange
+    iso3c: LUX
+    shapeID: 21775719B82173327168433
+  Mondorf-les-BainsAdm2LUX:
+    admin_name: Mondorf-les-Bains
+    iso3c: LUX
+    shapeID: 21775719B51795160969269
+  NiederanvenAdm2LUX:
+    admin_name: Niederanven
+    iso3c: LUX
+    shapeID: 21775719B43401661375946
+  NommernAdm2LUX:
+    admin_name: Nommern
+    iso3c: LUX
+    shapeID: 21775719B64351094735989
+  ParcHosingenAdm2LUX:
+    admin_name: ParcHosingen
+    iso3c: LUX
+    shapeID: 21775719B56346038461160
+  PétangeAdm2LUX:
+    admin_name: Pétange
+    iso3c: LUX
+    shapeID: 21775719B73724522943348
+  PréizerdaulAdm2LUX:
+    admin_name: Préizerdaul
+    iso3c: LUX
+    shapeID: 21775719B64584040451589
+  PutscheidAdm2LUX:
+    admin_name: Putscheid
+    iso3c: LUX
+    shapeID: 21775719B27422207835902
+  RambrouchAdm2LUX:
+    admin_name: Rambrouch
+    iso3c: LUX
+    shapeID: 21775719B93260136035460
+  Reckange-sur-MessAdm2LUX:
+    admin_name: Reckange-sur-Mess
+    iso3c: LUX
+    shapeID: 21775719B56620819602201
+  Redange/AttertAdm2LUX:
+    admin_name: Redange/Attert
+    iso3c: LUX
+    shapeID: 21775719B58814695852022
+  ReisdorfAdm2LUX:
+    admin_name: Reisdorf
+    iso3c: LUX
+    shapeID: 21775719B78904795294877
+  RemichAdm2LUX:
+    admin_name: Remich
+    iso3c: LUX
+    shapeID: 21775719B10860636962790
+  RoeserAdm2LUX:
+    admin_name: Roeser
+    iso3c: LUX
+    shapeID: 21775719B63085135447978
+  RosportAdm2LUX:
+    admin_name: Rosport
+    iso3c: LUX
+    shapeID: 21775719B2997409339760
+  RumelangeAdm2LUX:
+    admin_name: Rumelange
+    iso3c: LUX
+    shapeID: 21775719B1069977315926
+  SaeulAdm2LUX:
+    admin_name: Saeul
+    iso3c: LUX
+    shapeID: 21775719B606727021739
+  SandweilerAdm2LUX:
+    admin_name: Sandweiler
+    iso3c: LUX
+    shapeID: 21775719B90251194954856
+  SanemAdm2LUX:
+    admin_name: Sanem
+    iso3c: LUX
+    shapeID: 21775719B29416267903606
+  SchengenAdm2LUX:
+    admin_name: Schengen
+    iso3c: LUX
+    shapeID: 21775719B25577797555845
+  SchierenAdm2LUX:
+    admin_name: Schieren
+    iso3c: LUX
+    shapeID: 21775719B74804173445003
+  SchifflangeAdm2LUX:
+    admin_name: Schifflange
+    iso3c: LUX
+    shapeID: 21775719B62903588836755
+  SchuttrangeAdm2LUX:
+    admin_name: Schuttrange
+    iso3c: LUX
+    shapeID: 21775719B36538740491348
+  SeptfontainesAdm2LUX:
+    admin_name: Septfontaines
+    iso3c: LUX
+    shapeID: 21775719B62416421133476
+  StadtbredimusAdm2LUX:
+    admin_name: Stadtbredimus
+    iso3c: LUX
+    shapeID: 21775719B87694476161166
+  SteinfortAdm2LUX:
+    admin_name: Steinfort
+    iso3c: LUX
+    shapeID: 21775719B900531059285
+  SteinselAdm2LUX:
+    admin_name: Steinsel
+    iso3c: LUX
+    shapeID: 21775719B45842457219080
+  StrassenAdm2LUX:
+    admin_name: Strassen
+    iso3c: LUX
+    shapeID: 21775719B91934859067156
+  TandelAdm2LUX:
+    admin_name: Tandel
+    iso3c: LUX
+    shapeID: 21775719B49537195021049
+  TroisviergesAdm2LUX:
+    admin_name: Troisvierges
+    iso3c: LUX
+    shapeID: 21775719B9456271871995
+  TuntangeAdm2LUX:
+    admin_name: Tuntange
+    iso3c: LUX
+    shapeID: 21775719B93406058949797
+  UseldangeAdm2LUX:
+    admin_name: Useldange
+    iso3c: LUX
+    shapeID: 21775719B32396154687916
+  Vallbedel'ErnzAdm2LUX:
+    admin_name: Vallbedel'Ernz
+    iso3c: LUX
+    shapeID: 21775719B95583115154252
+  ViandenAdm2LUX:
+    admin_name: Vianden
+    iso3c: LUX
+    shapeID: 21775719B56085368038685
+  VichtenAdm2LUX:
+    admin_name: Vichten
+    iso3c: LUX
+    shapeID: 21775719B60659508843421
+  WahlAdm2LUX:
+    admin_name: Wahl
+    iso3c: LUX
+    shapeID: 21775719B43750739828677
+  WaldbilligAdm2LUX:
+    admin_name: Waldbillig
+    iso3c: LUX
+    shapeID: 21775719B82462206175776
+  WaldbredimusAdm2LUX:
+    admin_name: Waldbredimus
+    iso3c: LUX
+    shapeID: 21775719B59634053259773
+  WalferdangeAdm2LUX:
+    admin_name: Walferdange
+    iso3c: LUX
+    shapeID: 21775719B5856106982336
+  Weiler-la-TourAdm2LUX:
+    admin_name: Weiler-la-Tour
+    iso3c: LUX
+    shapeID: 21775719B4138397736316
+  WeiswampachAdm2LUX:
+    admin_name: Weiswampach
+    iso3c: LUX
+    shapeID: 21775719B10380614378112
+  WiltzAdm2LUX:
+    admin_name: Wiltz
+    iso3c: LUX
+    shapeID: 21775719B85267165688520
+  WincrangeAdm2LUX:
+    admin_name: Wincrange
+    iso3c: LUX
+    shapeID: 21775719B30727089923875
+  WinselerAdm2LUX:
+    admin_name: Winseler
+    iso3c: LUX
+    shapeID: 21775719B66338800417520
+  WormeldangeAdm2LUX:
+    admin_name: Wormeldange
+    iso3c: LUX
+    shapeID: 21775719B83157525162975

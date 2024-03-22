@@ -1,7 +1,565 @@
 concepts:
-    - AlAsimah
-    - Farwaniya
-    - MubarakAl-Kabeer
-    - Hawalli
-    - Jahra
-    - Ahmadi
+  AbdaliAdm2KWT:
+    admin_name: Abdali
+    iso3c: KWT
+    shapeID: 36326507B53313800011186
+  Abdulla_Al-SalemAdm2KWT:
+    admin_name: Abdulla_Al-Salem
+    iso3c: KWT
+    shapeID: 36326507B15087571652949
+  Abo_ElhaseenaAdm2KWT:
+    admin_name: Abo_Elhaseena
+    iso3c: KWT
+    shapeID: 36326507B25026169818342
+  Abu_FatairaAdm2KWT:
+    admin_name: Abu_Fataira
+    iso3c: KWT
+    shapeID: 36326507B26642641984942
+  Abu_HalifaAdm2KWT:
+    admin_name: Abu_Halifa
+    iso3c: KWT
+    shapeID: 36326507B33644428325327
+  AdailiyaAdm2KWT:
+    admin_name: Adailiya
+    iso3c: KWT
+    shapeID: 36326507B36643936931430
+  AhmadiAdm1KWT:
+    admin_name: Ahmadi
+    iso3c: KWT
+    shapeID: 60633882B84302154961664
+  Airport_DistrictAdm2KWT:
+    admin_name: Airport_District
+    iso3c: KWT
+    shapeID: 36326507B46214811972007
+  Al_AdanAdm2KWT:
+    admin_name: Al_Adan
+    iso3c: KWT
+    shapeID: 36326507B95160782372907
+  Al_FantasAdm2KWT:
+    admin_name: Al_Fantas
+    iso3c: KWT
+    shapeID: 36326507B78873406652692
+  Al_QurainAdm2KWT:
+    admin_name: Al_Qurain
+    iso3c: KWT
+    shapeID: 36326507B42726526012183
+  AlAsimahAdm1KWT:
+    admin_name: AlAsimah
+    iso3c: KWT
+    shapeID: 60633882B15053730070416
+  AmgharaAdm2KWT:
+    admin_name: Amghara
+    iso3c: KWT
+    shapeID: 36326507B92697676619958
+  AndalousAdm2KWT:
+    admin_name: Andalous
+    iso3c: KWT
+    shapeID: 36326507B70605660478902
+  AngafaAdm2KWT:
+    admin_name: Angafa
+    iso3c: KWT
+    shapeID: 36326507B41253409402047
+  Ardhiya_HerafiyaAdm2KWT:
+    admin_name: Ardhiya_Herafiya
+    iso3c: KWT
+    shapeID: 36326507B69203739304690
+  Ardhiya_HkomeyaAdm2KWT:
+    admin_name: Ardhiya_Hkomeya
+    iso3c: KWT
+    shapeID: 36326507B3157091791986
+  Ardhiya_MakhzenAdm2KWT:
+    admin_name: Ardhiya_Makhzen
+    iso3c: KWT
+    shapeID: 36326507B35314954602016
+  ArdhiyaAdm2KWT:
+    admin_name: Ardhiya
+    iso3c: KWT
+    shapeID: 36326507B41657866795403
+  AshbelyaAdm2KWT:
+    admin_name: Ashbelya
+    iso3c: KWT
+    shapeID: 36326507B64117573621977
+  Bar_ElahmadiAdm2KWT:
+    admin_name: Bar_Elahmadi
+    iso3c: KWT
+    shapeID: 36326507B65172629586693
+  BarJahraAdm2KWT:
+    admin_name: BarJahra
+    iso3c: KWT
+    shapeID: 36326507B16040598622878
+  BayanAdm2KWT:
+    admin_name: Bayan
+    iso3c: KWT
+    shapeID: 36326507B81339423568424
+  Bnaid_Al-QRAdm2KWT:
+    admin_name: Bnaid_Al-QR
+    iso3c: KWT
+    shapeID: 36326507B87618637753639
+  DaiyaAdm2KWT:
+    admin_name: Daiya
+    iso3c: KWT
+    shapeID: 36326507B65099017507843
+  DasmaAdm2KWT:
+    admin_name: Dasma
+    iso3c: KWT
+    shapeID: 36326507B79706889714566
+  DasmanAdm2KWT:
+    admin_name: Dasman
+    iso3c: KWT
+    shapeID: 36326507B62025152403860
+  DhaherAdm2KWT:
+    admin_name: Dhaher
+    iso3c: KWT
+    shapeID: 36326507B63426314593937
+  DhajeejAdm2KWT:
+    admin_name: Dhajeej
+    iso3c: KWT
+    shapeID: 36326507B17858019706282
+  DohaAdm2KWT:
+    admin_name: Doha
+    iso3c: KWT
+    shapeID: 36326507B20459349391287
+  EgailaAdm2KWT:
+    admin_name: Egaila
+    iso3c: KWT
+    shapeID: 36326507B6766902350009
+  El_Kehran_Loloet_ElkheranAdm2KWT:
+    admin_name: El_Kehran_Loloet_Elkheran
+    iso3c: KWT
+    shapeID: 36326507B17793499664589
+  El_NoyseepAdm2KWT:
+    admin_name: El_Noyseep
+    iso3c: KWT
+    shapeID: 36326507B18500052278761
+  El_ZoorAdm2KWT:
+    admin_name: El_Zoor
+    iso3c: KWT
+    shapeID: 36326507B79472749769132
+  ElahmdiAdm2KWT:
+    admin_name: Elahmdi
+    iso3c: KWT
+    shapeID: 36326507B76430938745051
+  Elkeran_ElgededaAdm2KWT:
+    admin_name: Elkeran_Elgededa
+    iso3c: KWT
+    shapeID: 36326507B94211972616986
+  Elnahda_Shark_ElsolybekhatAdm2KWT:
+    admin_name: Elnahda_Shark_Elsolybekhat
+    iso3c: KWT
+    shapeID: 36326507B66174644630896
+  Elwafra_ElgededaAdm2KWT:
+    admin_name: Elwafra_Elgededa
+    iso3c: KWT
+    shapeID: 36326507B94257104761136
+  ElwafraAdm2KWT:
+    admin_name: Elwafra
+    iso3c: KWT
+    shapeID: 36326507B76234884557849
+  Fahad_Al-AhmadAdm2KWT:
+    admin_name: Fahad_Al-Ahmad
+    iso3c: KWT
+    shapeID: 36326507B21383766387922
+  FahaheelAdm2KWT:
+    admin_name: Fahaheel
+    iso3c: KWT
+    shapeID: 36326507B79918830688436
+  FaihaAdm2KWT:
+    admin_name: Faiha
+    iso3c: KWT
+    shapeID: 36326507B99223407758894
+  FarwaniyaAdm1KWT:
+    admin_name: Farwaniya
+    iso3c: KWT
+    shapeID: 60633882B59498803395258
+  FarwaniyaAdm2KWT:
+    admin_name: Farwaniya
+    iso3c: KWT
+    shapeID: 36326507B82239068726526
+  FerdousAdm2KWT:
+    admin_name: Ferdous
+    iso3c: KWT
+    shapeID: 36326507B16818514884382
+  FnaiteesAdm2KWT:
+    admin_name: Fnaitees
+    iso3c: KWT
+    shapeID: 36326507B11821748390108
+  FylakaAdm2KWT:
+    admin_name: Fylaka
+    iso3c: KWT
+    shapeID: 36326507B6393972495009
+  GhornataAdm2KWT:
+    admin_name: Ghornata
+    iso3c: KWT
+    shapeID: 36326507B7731209527342
+  HadiyaAdm2KWT:
+    admin_name: Hadiya
+    iso3c: KWT
+    shapeID: 36326507B36938484037444
+  HawalliAdm1KWT:
+    admin_name: Hawalli
+    iso3c: KWT
+    shapeID: 60633882B83450722631047
+  HawalliAdm2KWT:
+    admin_name: Hawalli
+    iso3c: KWT
+    shapeID: 36326507B90885424076864
+  HitteenAdm2KWT:
+    admin_name: Hitteen
+    iso3c: KWT
+    shapeID: 36326507B57687792647375
+  Jaber_Al-AliAdm2KWT:
+    admin_name: Jaber_Al-Ali
+    iso3c: KWT
+    shapeID: 36326507B53750879151657
+  JabriyaAdm2KWT:
+    admin_name: Jabriya
+    iso3c: KWT
+    shapeID: 36326507B95832780364820
+  Jahra_IndustrialAdm2KWT:
+    admin_name: Jahra_Industrial
+    iso3c: KWT
+    shapeID: 36326507B14659465063446
+  JahraAdm1KWT:
+    admin_name: Jahra
+    iso3c: KWT
+    shapeID: 60633882B97084514536713
+  JahraAdm2KWT:
+    admin_name: Jahra
+    iso3c: KWT
+    shapeID: 36326507B62523135438934
+  Jleeb_Al-ShiyoukhAdm2KWT:
+    admin_name: Jleeb_Al-Shiyoukh
+    iso3c: KWT
+    shapeID: 36326507B47545087989895
+  KabadAdm2KWT:
+    admin_name: Kabad
+    iso3c: KWT
+    shapeID: 36326507B60168938726366
+  KhaitanAdm2KWT:
+    admin_name: Khaitan
+    iso3c: KWT
+    shapeID: 36326507B25478375809912
+  KhaldiyaAdm2KWT:
+    admin_name: Khaldiya
+    iso3c: KWT
+    shapeID: 36326507B13150908659513
+  KifanAdm2KWT:
+    admin_name: Kifan
+    iso3c: KWT
+    shapeID: 36326507B80008951470230
+  MagwaAdm2KWT:
+    admin_name: Magwa
+    iso3c: KWT
+    shapeID: 36326507B15566861646735
+  MahboulaAdm2KWT:
+    admin_name: Mahboula
+    iso3c: KWT
+    shapeID: 36326507B70117597846307
+  Makaber_ElsolybekhatAdm2KWT:
+    admin_name: Makaber_Elsolybekhat
+    iso3c: KWT
+    shapeID: 36326507B13479737703652
+  MangafAdm2KWT:
+    admin_name: Mangaf
+    iso3c: KWT
+    shapeID: 36326507B78895325613219
+  MansouriyaAdm2KWT:
+    admin_name: Mansouriya
+    iso3c: KWT
+    shapeID: 36326507B96932424544514
+  MessilaAdm2KWT:
+    admin_name: Messila
+    iso3c: KWT
+    shapeID: 36326507B38695740973583
+  Mina_AbdullaAdm2KWT:
+    admin_name: Mina_Abdulla
+    iso3c: KWT
+    shapeID: 36326507B88689680570131
+  Mina_DohaAdm2KWT:
+    admin_name: Mina_Doha
+    iso3c: KWT
+    shapeID: 36326507B47648313259724
+  MirqabAdm2KWT:
+    admin_name: Mirqab
+    iso3c: KWT
+    shapeID: 36326507B77408646080805
+  MishriftAdm2KWT:
+    admin_name: Mishrift
+    iso3c: KWT
+    shapeID: 36326507B37526421677528
+  Mubarak_Al_KabeerAdm2KWT:
+    admin_name: Mubarak_Al_Kabeer
+    iso3c: KWT
+    shapeID: 36326507B53350893337938
+  MubarakAl-KabeerAdm1KWT:
+    admin_name: MubarakAl-Kabeer
+    iso3c: KWT
+    shapeID: 60633882B3196450503170
+  MubarakAlAbdullah_MishriftWestAdm2KWT:
+    admin_name: MubarakAlAbdullah_MishriftWest
+    iso3c: KWT
+    shapeID: 36326507B57225521740596
+  Mubarakiya_CampsAdm2KWT:
+    admin_name: Mubarakiya_Camps
+    iso3c: KWT
+    shapeID: 36326507B75420344819789
+  NaeemAdm2KWT:
+    admin_name: Naeem
+    iso3c: KWT
+    shapeID: 36326507B84491447347545
+  NasseemAdm2KWT:
+    admin_name: Nasseem
+    iso3c: KWT
+    shapeID: 36326507B41851613035915
+  North_ShuaibaAdm2KWT:
+    admin_name: North_Shuaiba
+    iso3c: KWT
+    shapeID: 36326507B5335163348166
+  NuzhaAdm2KWT:
+    admin_name: Nuzha
+    iso3c: KWT
+    shapeID: 36326507B34003832174664
+  OmariyaAdm2KWT:
+    admin_name: Omariya
+    iso3c: KWT
+    shapeID: 36326507B66815976665838
+  OyounAdm2KWT:
+    admin_name: Oyoun
+    iso3c: KWT
+    shapeID: 36326507B88091187440628
+  QadsiyaAdm2KWT:
+    admin_name: Qadsiya
+    iso3c: KWT
+    shapeID: 36326507B55007443380882
+  QasrAdm2KWT:
+    admin_name: Qasr
+    iso3c: KWT
+    shapeID: 36326507B73696883565220
+  QiblaAdm2KWT:
+    admin_name: Qibla
+    iso3c: KWT
+    shapeID: 36326507B38462583596387
+  QortubaAdm2KWT:
+    admin_name: Qortuba
+    iso3c: KWT
+    shapeID: 36326507B11941126008030
+  RabiyaAdm2KWT:
+    admin_name: Rabiya
+    iso3c: KWT
+    shapeID: 36326507B9010123919461
+  RaiAdm2KWT:
+    admin_name: Rai
+    iso3c: KWT
+    shapeID: 36326507B53603358563085
+  RawdaAdm2KWT:
+    admin_name: Rawda
+    iso3c: KWT
+    shapeID: 36326507B37679014423839
+  RehabAdm2KWT:
+    admin_name: Rehab
+    iso3c: KWT
+    shapeID: 36326507B31420261158676
+  RiggaiAdm2KWT:
+    admin_name: Riggai
+    iso3c: KWT
+    shapeID: 36326507B72933182221430
+  RiqqaAdm2KWT:
+    admin_name: Riqqa
+    iso3c: KWT
+    shapeID: 36326507B563633990170
+  RumaithiyaAdm2KWT:
+    admin_name: Rumaithiya
+    iso3c: KWT
+    shapeID: 36326507B50347895237140
+  Saba_ElahmadAdm2KWT:
+    admin_name: Saba_Elahmad
+    iso3c: KWT
+    shapeID: 36326507B77828309021298
+  Sabah_Al_NasserAdm2KWT:
+    admin_name: Sabah_Al_Nasser
+    iso3c: KWT
+    shapeID: 36326507B874700590590
+  Sabah_Al-SalemAdm2KWT:
+    admin_name: Sabah_Al-Salem
+    iso3c: KWT
+    shapeID: 36326507B50245502217038
+  SabahiyaAdm2KWT:
+    admin_name: Sabahiya
+    iso3c: KWT
+    shapeID: 36326507B65225547487376
+  Sad_ElabdallahAdm2KWT:
+    admin_name: Sad_Elabdallah
+    iso3c: KWT
+    shapeID: 36326507B79072413715576
+  SalamAdm2KWT:
+    admin_name: Salam
+    iso3c: KWT
+    shapeID: 36326507B12035894090440
+  SalmiyaAdm2KWT:
+    admin_name: Salmiya
+    iso3c: KWT
+    shapeID: 36326507B70491786687626
+  SalmyAdm2KWT:
+    admin_name: Salmy
+    iso3c: KWT
+    shapeID: 36326507B33224331564429
+  SalwaAdm2KWT:
+    admin_name: Salwa
+    iso3c: KWT
+    shapeID: 36326507B15879280159469
+  Sebak_Al_HegenAdm2KWT:
+    admin_name: Sebak_Al_Hegen
+    iso3c: KWT
+    shapeID: 36326507B88130382359516
+  ShaabAdm2KWT:
+    admin_name: Shaab
+    iso3c: KWT
+    shapeID: 36326507B73881491472371
+  ShamiyaAdm2KWT:
+    admin_name: Shamiya
+    iso3c: KWT
+    shapeID: 36326507B94403328075981
+  SharqAdm2KWT:
+    admin_name: Sharq
+    iso3c: KWT
+    shapeID: 36326507B18350696257426
+  ShuhadaAdm2KWT:
+    admin_name: Shuhada
+    iso3c: KWT
+    shapeID: 36326507B40790951405287
+  Shuwaikh_HealthAdm2KWT:
+    admin_name: Shuwaikh_Health
+    iso3c: KWT
+    shapeID: 36326507B588443832973
+  SiddiqAdm2KWT:
+    admin_name: Siddiq
+    iso3c: KWT
+    shapeID: 36326507B87428492063113
+  SikrabAdm2KWT:
+    admin_name: Sikrab
+    iso3c: KWT
+    shapeID: 36326507B187213644255
+  South_Coast_StripAdm2KWT:
+    admin_name: South_Coast_Strip
+    iso3c: KWT
+    shapeID: 36326507B3365314413647
+  South_East_JahraAdm2KWT:
+    admin_name: South_East_Jahra
+    iso3c: KWT
+    shapeID: 36326507B55550795334924
+  South_SabahiyaAdm2KWT:
+    admin_name: South_Sabahiya
+    iso3c: KWT
+    shapeID: 36326507B16099346977854
+  South_ShuaibaAdm2KWT:
+    admin_name: South_Shuaiba
+    iso3c: KWT
+    shapeID: 36326507B59239433897503
+  South_WistaAdm2KWT:
+    admin_name: South_Wista
+    iso3c: KWT
+    shapeID: 36326507B80315036059235
+  SouthDohaAdm2KWT:
+    admin_name: SouthDoha
+    iso3c: KWT
+    shapeID: 36326507B47073202093840
+  SubhanAdm2KWT:
+    admin_name: Subhan
+    iso3c: KWT
+    shapeID: 36326507B14851901808766
+  SulaibikhatAdm2KWT:
+    admin_name: Sulaibikhat
+    iso3c: KWT
+    shapeID: 36326507B6172410953496
+  Sulaibiya_Agricultural_1Adm2KWT:
+    admin_name: Sulaibiya_Agricultural_1
+    iso3c: KWT
+    shapeID: 36326507B87168156958856
+  Sulaibiya_Agriculture_2Adm2KWT:
+    admin_name: Sulaibiya_Agriculture_2
+    iso3c: KWT
+    shapeID: 36326507B42879578137416
+  Sulaibiya_Industrial_1Adm2KWT:
+    admin_name: Sulaibiya_Industrial_1
+    iso3c: KWT
+    shapeID: 36326507B1134321935046
+  Sulaibiya_Industrial_2Adm2KWT:
+    admin_name: Sulaibiya_Industrial_2
+    iso3c: KWT
+    shapeID: 36326507B22954302224107
+  SulaibiyaAdm2KWT:
+    admin_name: Sulaibiya
+    iso3c: KWT
+    shapeID: 36326507B56948781005211
+  SurraAdm2KWT:
+    admin_name: Surra
+    iso3c: KWT
+    shapeID: 36326507B70357014789979
+  Suwaikh_CommercialAdm2KWT:
+    admin_name: Suwaikh_Commercial
+    iso3c: KWT
+    shapeID: 36326507B66663279292596
+  Suwaikh_EducationalAdm2KWT:
+    admin_name: Suwaikh_Educational
+    iso3c: KWT
+    shapeID: 36326507B89380702788683
+  Suwaikh_Industrail-1Adm2KWT:
+    admin_name: Suwaikh_Industrail-1
+    iso3c: KWT
+    shapeID: 36326507B88112618561554
+  Suwaikh_Industrial-2Adm2KWT:
+    admin_name: Suwaikh_Industrial-2
+    iso3c: KWT
+    shapeID: 36326507B40345383267049
+  Suwaikh_Industrial-3Adm2KWT:
+    admin_name: Suwaikh_Industrial-3
+    iso3c: KWT
+    shapeID: 36326507B6022429723799
+  Suwaikh_PortAdm2KWT:
+    admin_name: Suwaikh_Port
+    iso3c: KWT
+    shapeID: 36326507B96225377310687
+  SuwaikhAdm2KWT:
+    admin_name: Suwaikh
+    iso3c: KWT
+    shapeID: 36326507B65844780574226
+  TaimaAdm2KWT:
+    admin_name: Taima
+    iso3c: KWT
+    shapeID: 36326507B98019200258371
+  The_Green_BeltAdm2KWT:
+    admin_name: The_Green_Belt
+    iso3c: KWT
+    shapeID: 36326507B50646559812706
+  The_Sea_FrontAdm2KWT:
+    admin_name: The_Sea_Front
+    iso3c: KWT
+    shapeID: 36326507B32378525048645
+  UmAl-Hayman-AliSabahAs-SalemAdm2KWT:
+    admin_name: UmAl-Hayman-AliSabahAs-Salem
+    iso3c: KWT
+    shapeID: 36326507B42122784272409
+  WahaAdm2KWT:
+    admin_name: Waha
+    iso3c: KWT
+    shapeID: 36326507B64310566697141
+  West_JahraAdm2KWT:
+    admin_name: West_Jahra
+    iso3c: KWT
+    shapeID: 36326507B15663314220054
+  West_JleedbAdm2KWT:
+    admin_name: West_Jleedb
+    iso3c: KWT
+    shapeID: 36326507B82441915757932
+  WistaAdm2KWT:
+    admin_name: Wista
+    iso3c: KWT
+    shapeID: 36326507B2821707601789
+  YarmoukAdm2KWT:
+    admin_name: Yarmouk
+    iso3c: KWT
+    shapeID: 36326507B26148442025294
+  ZahraAdm2KWT:
+    admin_name: Zahra
+    iso3c: KWT
+    shapeID: 36326507B36316951373685

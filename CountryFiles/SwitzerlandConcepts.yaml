@@ -1,27 +1,777 @@
 concepts:
-    - AppenzellInnerrhoden
-    - Aargau
-    - AppenzellAusserrhoden
-    - Jura
-    - Neuchâtel
-    - Nidwalden
-    - Obwalden
-    - Schaffhausen
-    - Basel-Landschaft
-    - Basel-Stadt
-    - Bern
-    - Fribourg
-    - Genève
-    - Glarus
-    - Graubünden
-    - Uri
-    - Luzern
-    - Vaud
-    - Zug
-    - Zürich
-    - Solothurn
-    - St.Gallen
-    - Thurgau
-    - Schwyz
-    - Valais
-    - Ticino
+  AarauAdm2CHE:
+    admin_name: Aarau
+    iso3c: CHE
+    shapeID: 98125504B71327215583280
+  AarbergAdm2CHE:
+    admin_name: Aarberg
+    iso3c: CHE
+    shapeID: 98125504B13262839219136
+  AargauAdm1CHE:
+    admin_name: Aargau
+    iso3c: CHE
+    shapeID: 70761945B11338788345342
+  AarwangenAdm2CHE:
+    admin_name: Aarwangen
+    iso3c: CHE
+    shapeID: 98125504B3309929532868
+  AffolternAdm2CHE:
+    admin_name: Affoltern
+    iso3c: CHE
+    shapeID: 98125504B65497649111501
+  AigleAdm2CHE:
+    admin_name: Aigle
+    iso3c: CHE
+    shapeID: 98125504B95182800816039
+  AlbulaAdm2CHE:
+    admin_name: Albula
+    iso3c: CHE
+    shapeID: 98125504B52321089210674
+  AndelfingenAdm2CHE:
+    admin_name: Andelfingen
+    iso3c: CHE
+    shapeID: 98125504B66109476654723
+  AppenzellAusserrhodenAdm1CHE:
+    admin_name: AppenzellAusserrhoden
+    iso3c: CHE
+    shapeID: 70761945B71472094577065
+  AppenzellAusserrhodenAdm2CHE:
+    admin_name: AppenzellAusserrhoden
+    iso3c: CHE
+    shapeID: 98125504B64458038840360
+  AppenzellInnerrhodenAdm1CHE:
+    admin_name: AppenzellInnerrhoden
+    iso3c: CHE
+    shapeID: 70761945B73029947081098
+  AppenzellInnerrhodenAdm2CHE:
+    admin_name: AppenzellInnerrhoden
+    iso3c: CHE
+    shapeID: 98125504B33635103906676
+  ArbonAdm2CHE:
+    admin_name: Arbon
+    iso3c: CHE
+    shapeID: 98125504B92467530815722
+  ArlesheimAdm2CHE:
+    admin_name: Arlesheim
+    iso3c: CHE
+    shapeID: 98125504B82321291336172
+  BadenAdm2CHE:
+    admin_name: Baden
+    iso3c: CHE
+    shapeID: 98125504B84625481848907
+  Basel-LandschaftAdm1CHE:
+    admin_name: Basel-Landschaft
+    iso3c: CHE
+    shapeID: 70761945B84766611276082
+  Basel-StadtAdm1CHE:
+    admin_name: Basel-Stadt
+    iso3c: CHE
+    shapeID: 70761945B62987387977087
+  BaselAdm2CHE:
+    admin_name: Basel
+    iso3c: CHE
+    shapeID: 98125504B26983600896673
+  BellinzonaAdm2CHE:
+    admin_name: Bellinzona
+    iso3c: CHE
+    shapeID: 98125504B16008017639525
+  BernAdm1CHE:
+    admin_name: Bern
+    iso3c: CHE
+    shapeID: 70761945B78940680080703
+  BernAdm2CHE:
+    admin_name: Bern
+    iso3c: CHE
+    shapeID: 98125504B92328974580060
+  BerninaAdm2CHE:
+    admin_name: Bernina
+    iso3c: CHE
+    shapeID: 98125504B96548084014387
+  BettingenAdm2CHE:
+    admin_name: Bettingen
+    iso3c: CHE
+    shapeID: 98125504B7340723998264
+  BielAdm2CHE:
+    admin_name: Biel
+    iso3c: CHE
+    shapeID: 98125504B90554935546434
+  BischofszellAdm2CHE:
+    admin_name: Bischofszell
+    iso3c: CHE
+    shapeID: 98125504B53377697605090
+  BlenioAdm2CHE:
+    admin_name: Blenio
+    iso3c: CHE
+    shapeID: 98125504B91637126392881
+  BodenseeAdm2CHE:
+    admin_name: Bodensee
+    iso3c: CHE
+    shapeID: 98125504B74528098758836
+  BoudryAdm2CHE:
+    admin_name: Boudry
+    iso3c: CHE
+    shapeID: 98125504B67791699951603
+  BremgartenAdm2CHE:
+    admin_name: Bremgarten
+    iso3c: CHE
+    shapeID: 98125504B28757067691605
+  BrigAdm2CHE:
+    admin_name: Brig
+    iso3c: CHE
+    shapeID: 98125504B246438611569
+  Broye-VullyAdm2CHE:
+    admin_name: Broye-Vully
+    iso3c: CHE
+    shapeID: 98125504B47904069633261
+  BruggAdm2CHE:
+    admin_name: Brugg
+    iso3c: CHE
+    shapeID: 98125504B18372800811244
+  BucheggbergAdm2CHE:
+    admin_name: Bucheggberg
+    iso3c: CHE
+    shapeID: 98125504B48168717151288
+  BülachAdm2CHE:
+    admin_name: Bülach
+    iso3c: CHE
+    shapeID: 98125504B42306367077243
+  BürenAdm2CHE:
+    admin_name: Büren
+    iso3c: CHE
+    shapeID: 98125504B49133774988758
+  BurgdorfAdm2CHE:
+    admin_name: Burgdorf
+    iso3c: CHE
+    shapeID: 98125504B96578737333363
+  ContheyAdm2CHE:
+    admin_name: Conthey
+    iso3c: CHE
+    shapeID: 98125504B49422345543513
+  CourtelaryAdm2CHE:
+    admin_name: Courtelary
+    iso3c: CHE
+    shapeID: 98125504B48293150836583
+  DelémontAdm2CHE:
+    admin_name: Delémont
+    iso3c: CHE
+    shapeID: 98125504B53330998130291
+  DielsdorfAdm2CHE:
+    admin_name: Dielsdorf
+    iso3c: CHE
+    shapeID: 98125504B32195767843931
+  DiessenhofenAdm2CHE:
+    admin_name: Diessenhofen
+    iso3c: CHE
+    shapeID: 98125504B38109804625381
+  DietikonAdm2CHE:
+    admin_name: Dietikon
+    iso3c: CHE
+    shapeID: 98125504B66029989547861
+  DorneckAdm2CHE:
+    admin_name: Dorneck
+    iso3c: CHE
+    shapeID: 98125504B81602096471073
+  EinsiedelnAdm2CHE:
+    admin_name: Einsiedeln
+    iso3c: CHE
+    shapeID: 98125504B85772758563380
+  EntlebuchAdm2CHE:
+    admin_name: Entlebuch
+    iso3c: CHE
+    shapeID: 98125504B40406133027293
+  EntremontAdm2CHE:
+    admin_name: Entremont
+    iso3c: CHE
+    shapeID: 98125504B17942249267056
+  ErlachAdm2CHE:
+    admin_name: Erlach
+    iso3c: CHE
+    shapeID: 98125504B27356658042169
+  FraubrunnenAdm2CHE:
+    admin_name: Fraubrunnen
+    iso3c: CHE
+    shapeID: 98125504B30685245857949
+  FrauenfeldAdm2CHE:
+    admin_name: Frauenfeld
+    iso3c: CHE
+    shapeID: 98125504B35416588383084
+  FribourgAdm1CHE:
+    admin_name: Fribourg
+    iso3c: CHE
+    shapeID: 70761945B87604960987122
+  FrutigenAdm2CHE:
+    admin_name: Frutigen
+    iso3c: CHE
+    shapeID: 98125504B91947677429019
+  GäuAdm2CHE:
+    admin_name: Gäu
+    iso3c: CHE
+    shapeID: 98125504B84876247452659
+  GenèveAdm1CHE:
+    admin_name: Genève
+    iso3c: CHE
+    shapeID: 70761945B83881285484717
+  GenèveAdm2CHE:
+    admin_name: Genève
+    iso3c: CHE
+    shapeID: 98125504B37328358973812
+  GersauAdm2CHE:
+    admin_name: Gersau
+    iso3c: CHE
+    shapeID: 98125504B84142961159749
+  GlarusAdm1CHE:
+    admin_name: Glarus
+    iso3c: CHE
+    shapeID: 70761945B11753136967749
+  GlarusAdm2CHE:
+    admin_name: Glarus
+    iso3c: CHE
+    shapeID: 98125504B85690799805162
+  GomsAdm2CHE:
+    admin_name: Goms
+    iso3c: CHE
+    shapeID: 98125504B90610918777654
+  GösgenAdm2CHE:
+    admin_name: Gösgen
+    iso3c: CHE
+    shapeID: 98125504B7970004544247
+  GraubündenAdm1CHE:
+    admin_name: Graubünden
+    iso3c: CHE
+    shapeID: 70761945B85432491504073
+  Gros-de-VaudAdm2CHE:
+    admin_name: Gros-de-Vaud
+    iso3c: CHE
+    shapeID: 98125504B15304638716383
+  HérensAdm2CHE:
+    admin_name: Hérens
+    iso3c: CHE
+    shapeID: 98125504B91215406696868
+  HinterrheinAdm2CHE:
+    admin_name: Hinterrhein
+    iso3c: CHE
+    shapeID: 98125504B45661808481436
+  HinwilAdm2CHE:
+    admin_name: Hinwil
+    iso3c: CHE
+    shapeID: 98125504B48227861484913
+  HochdorfAdm2CHE:
+    admin_name: Hochdorf
+    iso3c: CHE
+    shapeID: 98125504B82289310433077
+  HöfeAdm2CHE:
+    admin_name: Höfe
+    iso3c: CHE
+    shapeID: 98125504B56342367644476
+  HorgenAdm2CHE:
+    admin_name: Horgen
+    iso3c: CHE
+    shapeID: 98125504B2788948077567
+  ImbodenAdm2CHE:
+    admin_name: Imboden
+    iso3c: CHE
+    shapeID: 98125504B80636578122698
+  InnAdm2CHE:
+    admin_name: Inn
+    iso3c: CHE
+    shapeID: 98125504B23277382476351
+  InterlakenAdm2CHE:
+    admin_name: Interlaken
+    iso3c: CHE
+    shapeID: 98125504B48170271987630
+  Jura-NorthVaudoisAdm2CHE:
+    admin_name: Jura-NorthVaudois
+    iso3c: CHE
+    shapeID: 98125504B79697381289270
+  JuraAdm1CHE:
+    admin_name: Jura
+    iso3c: CHE
+    shapeID: 70761945B19914004537681
+  KonolfingenAdm2CHE:
+    admin_name: Konolfingen
+    iso3c: CHE
+    shapeID: 98125504B95709245472407
+  KreuzlingenAdm2CHE:
+    admin_name: Kreuzlingen
+    iso3c: CHE
+    shapeID: 98125504B48736495084113
+  KulmAdm2CHE:
+    admin_name: Kulm
+    iso3c: CHE
+    shapeID: 98125504B78660370919096
+  KüssnachtAdm2CHE:
+    admin_name: Küssnacht
+    iso3c: CHE
+    shapeID: 98125504B91520037541548
+  LaBroyeAdm2CHE:
+    admin_name: LaBroye
+    iso3c: CHE
+    shapeID: 98125504B73464630315518
+  LacAdm2CHE:
+    admin_name: Lac
+    iso3c: CHE
+    shapeID: 98125504B14993208713158
+  LaChaux-de-FondsAdm2CHE:
+    admin_name: LaChaux-de-Fonds
+    iso3c: CHE
+    shapeID: 98125504B54534316212048
+  LaGlâneAdm2CHE:
+    admin_name: LaGlâne
+    iso3c: CHE
+    shapeID: 98125504B22744339928051
+  LaGruyèreAdm2CHE:
+    admin_name: LaGruyère
+    iso3c: CHE
+    shapeID: 98125504B68175120392940
+  LandquartAdm2CHE:
+    admin_name: Landquart
+    iso3c: CHE
+    shapeID: 98125504B50126019298982
+  LaNeuvevilleAdm2CHE:
+    admin_name: LaNeuveville
+    iso3c: CHE
+    shapeID: 98125504B25432799602422
+  LaSarineAdm2CHE:
+    admin_name: LaSarine
+    iso3c: CHE
+    shapeID: 98125504B9811546227274
+  LaufenAdm2CHE:
+    admin_name: Laufen
+    iso3c: CHE
+    shapeID: 98125504B69985051442818
+  LaufenburgAdm2CHE:
+    admin_name: Laufenburg
+    iso3c: CHE
+    shapeID: 98125504B74023837430227
+  LaupenAdm2CHE:
+    admin_name: Laupen
+    iso3c: CHE
+    shapeID: 98125504B38231895994664
+  LausanneAdm2CHE:
+    admin_name: Lausanne
+    iso3c: CHE
+    shapeID: 98125504B90023331921282
+  Lavaux-OronAdm2CHE:
+    admin_name: Lavaux-Oron
+    iso3c: CHE
+    shapeID: 98125504B61241992893533
+  LaVeveyseAdm2CHE:
+    admin_name: LaVeveyse
+    iso3c: CHE
+    shapeID: 98125504B63073002558284
+  LebernAdm2CHE:
+    admin_name: Lebern
+    iso3c: CHE
+    shapeID: 98125504B57458443880067
+  LeLocleAdm2CHE:
+    admin_name: LeLocle
+    iso3c: CHE
+    shapeID: 98125504B99788610555422
+  LenzburgAdm2CHE:
+    admin_name: Lenzburg
+    iso3c: CHE
+    shapeID: 98125504B90418902696037
+  LesFranches-MontagnesAdm2CHE:
+    admin_name: LesFranches-Montagnes
+    iso3c: CHE
+    shapeID: 98125504B51017604385076
+  LeukAdm2CHE:
+    admin_name: Leuk
+    iso3c: CHE
+    shapeID: 98125504B83908215269915
+  LeventinaAdm2CHE:
+    admin_name: Leventina
+    iso3c: CHE
+    shapeID: 98125504B80304427147764
+  LiestalAdm2CHE:
+    admin_name: Liestal
+    iso3c: CHE
+    shapeID: 98125504B68013348753205
+  LocarnoAdm2CHE:
+    admin_name: Locarno
+    iso3c: CHE
+    shapeID: 98125504B4294198439095
+  LuganoAdm2CHE:
+    admin_name: Lugano
+    iso3c: CHE
+    shapeID: 98125504B32406318267328
+  LuzernAdm1CHE:
+    admin_name: Luzern
+    iso3c: CHE
+    shapeID: 70761945B29073934101403
+  LuzernAdm2CHE:
+    admin_name: Luzern
+    iso3c: CHE
+    shapeID: 98125504B54967351856771
+  MalojaAdm2CHE:
+    admin_name: Maloja
+    iso3c: CHE
+    shapeID: 98125504B20943489870308
+  MarchAdm2CHE:
+    admin_name: March
+    iso3c: CHE
+    shapeID: 98125504B6842798479089
+  MartignyAdm2CHE:
+    admin_name: Martigny
+    iso3c: CHE
+    shapeID: 98125504B3560259942440
+  MeilenAdm2CHE:
+    admin_name: Meilen
+    iso3c: CHE
+    shapeID: 98125504B14277819892228
+  MendrisioAdm2CHE:
+    admin_name: Mendrisio
+    iso3c: CHE
+    shapeID: 98125504B16074337366916
+  MoësaAdm2CHE:
+    admin_name: Moësa
+    iso3c: CHE
+    shapeID: 98125504B82270402628630
+  MontheyAdm2CHE:
+    admin_name: Monthey
+    iso3c: CHE
+    shapeID: 98125504B46819879618103
+  MorgesAdm2CHE:
+    admin_name: Morges
+    iso3c: CHE
+    shapeID: 98125504B54933715633434
+  MoutierAdm2CHE:
+    admin_name: Moutier
+    iso3c: CHE
+    shapeID: 98125504B98907515560834
+  MünchwilenAdm2CHE:
+    admin_name: Münchwilen
+    iso3c: CHE
+    shapeID: 98125504B64549510712626
+  MuriAdm2CHE:
+    admin_name: Muri
+    iso3c: CHE
+    shapeID: 98125504B29086234219506
+  NeuchâtelAdm1CHE:
+    admin_name: Neuchâtel
+    iso3c: CHE
+    shapeID: 70761945B64873726514121
+  NeuchâtelAdm2CHE:
+    admin_name: Neuchâtel
+    iso3c: CHE
+    shapeID: 98125504B94061779242423
+  NidauAdm2CHE:
+    admin_name: Nidau
+    iso3c: CHE
+    shapeID: 98125504B31382352044182
+  NidwaldenAdm1CHE:
+    admin_name: Nidwalden
+    iso3c: CHE
+    shapeID: 70761945B45925471978558
+  NidwaldenAdm2CHE:
+    admin_name: Nidwalden
+    iso3c: CHE
+    shapeID: 98125504B21423946199042
+  NiedersimmentalAdm2CHE:
+    admin_name: Niedersimmental
+    iso3c: CHE
+    shapeID: 98125504B94853726952858
+  NyonAdm2CHE:
+    admin_name: Nyon
+    iso3c: CHE
+    shapeID: 98125504B29741161396107
+  OberhasliAdm2CHE:
+    admin_name: Oberhasli
+    iso3c: CHE
+    shapeID: 98125504B22405441363822
+  OberklettgauAdm2CHE:
+    admin_name: Oberklettgau
+    iso3c: CHE
+    shapeID: 98125504B79009819967049
+  ObersimmentalAdm2CHE:
+    admin_name: Obersimmental
+    iso3c: CHE
+    shapeID: 98125504B6686566996252
+  ObwaldenAdm1CHE:
+    admin_name: Obwalden
+    iso3c: CHE
+    shapeID: 70761945B39944874342149
+  ObwaldenAdm2CHE:
+    admin_name: Obwalden
+    iso3c: CHE
+    shapeID: 98125504B17504345361325
+  OltenAdm2CHE:
+    admin_name: Olten
+    iso3c: CHE
+    shapeID: 98125504B29329785519457
+  OuestlausannoisAdm2CHE:
+    admin_name: Ouestlausannois
+    iso3c: CHE
+    shapeID: 98125504B10878879286436
+  Pays-d'EnhautAdm2CHE:
+    admin_name: Pays-d'Enhaut
+    iso3c: CHE
+    shapeID: 98125504B94468031317921
+  PfäffikonAdm2CHE:
+    admin_name: Pfäffikon
+    iso3c: CHE
+    shapeID: 98125504B81439307978854
+  PlessurAdm2CHE:
+    admin_name: Plessur
+    iso3c: CHE
+    shapeID: 98125504B32681107022153
+  PorrentruyAdm2CHE:
+    admin_name: Porrentruy
+    iso3c: CHE
+    shapeID: 98125504B24013512906183
+  Prättigau/DavosAdm2CHE:
+    admin_name: Prättigau/Davos
+    iso3c: CHE
+    shapeID: 98125504B68219756758184
+  RaronAdm2CHE:
+    admin_name: Raron
+    iso3c: CHE
+    shapeID: 98125504B50167822645473
+  ReiatAdm2CHE:
+    admin_name: Reiat
+    iso3c: CHE
+    shapeID: 98125504B16957461411645
+  RheinfeldenAdm2CHE:
+    admin_name: Rheinfelden
+    iso3c: CHE
+    shapeID: 98125504B28146361941719
+  RheintalAdm2CHE:
+    admin_name: Rheintal
+    iso3c: CHE
+    shapeID: 98125504B22344057979480
+  RiehenAdm2CHE:
+    admin_name: Riehen
+    iso3c: CHE
+    shapeID: 98125504B10727288181699
+  RivieraAdm2CHE:
+    admin_name: Riviera
+    iso3c: CHE
+    shapeID: 98125504B62822490970292
+  RorschachAdm2CHE:
+    admin_name: Rorschach
+    iso3c: CHE
+    shapeID: 98125504B65329878878987
+  SaanenAdm2CHE:
+    admin_name: Saanen
+    iso3c: CHE
+    shapeID: 98125504B57282665626001
+  Saint-MauriceAdm2CHE:
+    admin_name: Saint-Maurice
+    iso3c: CHE
+    shapeID: 98125504B89781618813201
+  SanktGallenAdm2CHE:
+    admin_name: SanktGallen
+    iso3c: CHE
+    shapeID: 98125504B66218916020543
+  SarganserlandAdm2CHE:
+    admin_name: Sarganserland
+    iso3c: CHE
+    shapeID: 98125504B35775948258656
+  SchaffhausenAdm1CHE:
+    admin_name: Schaffhausen
+    iso3c: CHE
+    shapeID: 70761945B22837365779622
+  SchaffhausenAdm2CHE:
+    admin_name: Schaffhausen
+    iso3c: CHE
+    shapeID: 98125504B94468182736890
+  SchleitheimAdm2CHE:
+    admin_name: Schleitheim
+    iso3c: CHE
+    shapeID: 98125504B9244214444163
+  SchwarzenburgAdm2CHE:
+    admin_name: Schwarzenburg
+    iso3c: CHE
+    shapeID: 98125504B5743105956600
+  SchwyzAdm1CHE:
+    admin_name: Schwyz
+    iso3c: CHE
+    shapeID: 70761945B29858350399599
+  SchwyzAdm2CHE:
+    admin_name: Schwyz
+    iso3c: CHE
+    shapeID: 98125504B2602620508398
+  See-GasterAdm2CHE:
+    admin_name: See-Gaster
+    iso3c: CHE
+    shapeID: 98125504B35477469793604
+  SeftigenAdm2CHE:
+    admin_name: Seftigen
+    iso3c: CHE
+    shapeID: 98125504B9697304090015
+  SenseAdm2CHE:
+    admin_name: Sense
+    iso3c: CHE
+    shapeID: 98125504B63926205498049
+  SierreAdm2CHE:
+    admin_name: Sierre
+    iso3c: CHE
+    shapeID: 98125504B17084376168031
+  SignauAdm2CHE:
+    admin_name: Signau
+    iso3c: CHE
+    shapeID: 98125504B64491950571011
+  SionAdm2CHE:
+    admin_name: Sion
+    iso3c: CHE
+    shapeID: 98125504B70720783877077
+  SissachAdm2CHE:
+    admin_name: Sissach
+    iso3c: CHE
+    shapeID: 98125504B68711234406189
+  SolothurnAdm1CHE:
+    admin_name: Solothurn
+    iso3c: CHE
+    shapeID: 70761945B36749553910786
+  SolothurnAdm2CHE:
+    admin_name: Solothurn
+    iso3c: CHE
+    shapeID: 98125504B71737886100585
+  St.GallenAdm1CHE:
+    admin_name: St.Gallen
+    iso3c: CHE
+    shapeID: 70761945B27205007293794
+  SteckbornAdm2CHE:
+    admin_name: Steckborn
+    iso3c: CHE
+    shapeID: 98125504B98555029127559
+  SteinAdm2CHE:
+    admin_name: Stein
+    iso3c: CHE
+    shapeID: 98125504B27200441208299
+  SurseeAdm2CHE:
+    admin_name: Sursee
+    iso3c: CHE
+    shapeID: 98125504B83701392794780
+  SurselvaAdm2CHE:
+    admin_name: Surselva
+    iso3c: CHE
+    shapeID: 98125504B64363742027486
+  ThalAdm2CHE:
+    admin_name: Thal
+    iso3c: CHE
+    shapeID: 98125504B78197726307220
+  ThiersteinAdm2CHE:
+    admin_name: Thierstein
+    iso3c: CHE
+    shapeID: 98125504B63533879565604
+  ThunAdm2CHE:
+    admin_name: Thun
+    iso3c: CHE
+    shapeID: 98125504B35015523185172
+  ThurgauAdm1CHE:
+    admin_name: Thurgau
+    iso3c: CHE
+    shapeID: 70761945B73326014959541
+  TicinoAdm1CHE:
+    admin_name: Ticino
+    iso3c: CHE
+    shapeID: 70761945B95773795125249
+  ToggenburgAdm2CHE:
+    admin_name: Toggenburg
+    iso3c: CHE
+    shapeID: 98125504B11143009370120
+  TrachselwaldAdm2CHE:
+    admin_name: Trachselwald
+    iso3c: CHE
+    shapeID: 98125504B55581613149757
+  UnterklettgauAdm2CHE:
+    admin_name: Unterklettgau
+    iso3c: CHE
+    shapeID: 98125504B17065401039340
+  UriAdm1CHE:
+    admin_name: Uri
+    iso3c: CHE
+    shapeID: 70761945B76174754463268
+  UriAdm2CHE:
+    admin_name: Uri
+    iso3c: CHE
+    shapeID: 98125504B39551940242919
+  UsterAdm2CHE:
+    admin_name: Uster
+    iso3c: CHE
+    shapeID: 98125504B5799513324196
+  Val-de-RuzAdm2CHE:
+    admin_name: Val-de-Ruz
+    iso3c: CHE
+    shapeID: 98125504B45092445676114
+  Val-de-TraversAdm2CHE:
+    admin_name: Val-de-Travers
+    iso3c: CHE
+    shapeID: 98125504B61531398000094
+  ValaisAdm1CHE:
+    admin_name: Valais
+    iso3c: CHE
+    shapeID: 70761945B38573473865054
+  VallemaggiaAdm2CHE:
+    admin_name: Vallemaggia
+    iso3c: CHE
+    shapeID: 98125504B68758307606152
+  VaudAdm1CHE:
+    admin_name: Vaud
+    iso3c: CHE
+    shapeID: 70761945B85268669280160
+  VispAdm2CHE:
+    admin_name: Visp
+    iso3c: CHE
+    shapeID: 98125504B9371540056734
+  WaldenburgAdm2CHE:
+    admin_name: Waldenburg
+    iso3c: CHE
+    shapeID: 98125504B87360582350567
+  WangenAdm2CHE:
+    admin_name: Wangen
+    iso3c: CHE
+    shapeID: 98125504B86510836900017
+  WasseramtAdm2CHE:
+    admin_name: Wasseramt
+    iso3c: CHE
+    shapeID: 98125504B31919477389086
+  WeinfeldenAdm2CHE:
+    admin_name: Weinfelden
+    iso3c: CHE
+    shapeID: 98125504B70635817592891
+  WerdenbergAdm2CHE:
+    admin_name: Werdenberg
+    iso3c: CHE
+    shapeID: 98125504B95365544356373
+  WestRaronAdm2CHE:
+    admin_name: WestRaron
+    iso3c: CHE
+    shapeID: 98125504B25718484805974
+  WilAdm2CHE:
+    admin_name: Wil
+    iso3c: CHE
+    shapeID: 98125504B7876292695767
+  WillisauAdm2CHE:
+    admin_name: Willisau
+    iso3c: CHE
+    shapeID: 98125504B22935973479792
+  WinterthurAdm2CHE:
+    admin_name: Winterthur
+    iso3c: CHE
+    shapeID: 98125504B31913850462162
+  ZofingenAdm2CHE:
+    admin_name: Zofingen
+    iso3c: CHE
+    shapeID: 98125504B70696122694340
+  ZugAdm1CHE:
+    admin_name: Zug
+    iso3c: CHE
+    shapeID: 70761945B70106229378933
+  ZugAdm2CHE:
+    admin_name: Zug
+    iso3c: CHE
+    shapeID: 98125504B97349886463799
+  ZürichAdm1CHE:
+    admin_name: Zürich
+    iso3c: CHE
+    shapeID: 70761945B4468941998498
+  ZürichAdm2CHE:
+    admin_name: Zürich
+    iso3c: CHE
+    shapeID: 98125504B49363097971591
+  ZurzachAdm2CHE:
+    admin_name: Zurzach
+    iso3c: CHE
+    shapeID: 98125504B92416268398944

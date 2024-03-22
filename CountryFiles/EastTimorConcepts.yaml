@@ -1,14 +1,313 @@
 concepts:
-    - Oecusse
-    - Aileu
-    - Ainaro
-    - Baucau
-    - Manufahi
-    - Viqueque
-    - Bobonaro
-    - CovaLima
-    - Dili
-    - Ermera
-    - Lautém
-    - Liquiçá
-    - Manatuto
+  AileuAdm1TLS:
+    admin_name: Aileu
+    iso3c: TLS
+    shapeID: 58719522B52176164477569
+  AileuVilaAdm2TLS:
+    admin_name: AileuVila
+    iso3c: TLS
+    shapeID: 22284137B9751791093782
+  AinaroAdm1TLS:
+    admin_name: Ainaro
+    iso3c: TLS
+    shapeID: 58719522B96669271034989
+  AinaroAdm2TLS:
+    admin_name: Ainaro
+    iso3c: TLS
+    shapeID: 22284137B67278963884363
+  AlasAdm2TLS:
+    admin_name: Alas
+    iso3c: TLS
+    shapeID: 22284137B36199594403094
+  AtabaeAdm2TLS:
+    admin_name: Atabae
+    iso3c: TLS
+    shapeID: 22284137B39370724774054
+  AtauroAdm2TLS:
+    admin_name: Atauro
+    iso3c: TLS
+    shapeID: 22284137B11289182458696
+  AtsabeAdm2TLS:
+    admin_name: Atsabe
+    iso3c: TLS
+    shapeID: 22284137B3640160656935
+  BaguiaAdm2TLS:
+    admin_name: Baguia
+    iso3c: TLS
+    shapeID: 22284137B48176451746687
+  BaliboAdm2TLS:
+    admin_name: Balibo
+    iso3c: TLS
+    shapeID: 22284137B63057021325797
+  Barique/NatarboraAdm2TLS:
+    admin_name: Barique/Natarbora
+    iso3c: TLS
+    shapeID: 22284137B73743119127991
+  BaucauAdm1TLS:
+    admin_name: Baucau
+    iso3c: TLS
+    shapeID: 58719522B57750794760959
+  BaucauAdm2TLS:
+    admin_name: Baucau
+    iso3c: TLS
+    shapeID: 22284137B73846644477643
+  BazarteteAdm2TLS:
+    admin_name: Bazartete
+    iso3c: TLS
+    shapeID: 22284137B77878310699205
+  BobonaroAdm1TLS:
+    admin_name: Bobonaro
+    iso3c: TLS
+    shapeID: 58719522B64128847782213
+  BobonaroAdm2TLS:
+    admin_name: Bobonaro
+    iso3c: TLS
+    shapeID: 22284137B12808122576881
+  CailacoAdm2TLS:
+    admin_name: Cailaco
+    iso3c: TLS
+    shapeID: 22284137B47334481051
+  CovaLimaAdm1TLS:
+    admin_name: CovaLima
+    iso3c: TLS
+    shapeID: 58719522B58123781478976
+  CristoReiAdm2TLS:
+    admin_name: CristoRei
+    iso3c: TLS
+    shapeID: 22284137B23086342577141
+  DiliAdm1TLS:
+    admin_name: Dili
+    iso3c: TLS
+    shapeID: 58719522B43373882655947
+  DomAleixoAdm2TLS:
+    admin_name: DomAleixo
+    iso3c: TLS
+    shapeID: 22284137B34351426942246
+  ErmeraAdm1TLS:
+    admin_name: Ermera
+    iso3c: TLS
+    shapeID: 58719522B37683587147705
+  ErmeraAdm2TLS:
+    admin_name: Ermera
+    iso3c: TLS
+    shapeID: 22284137B14876648157947
+  FatuberliuAdm2TLS:
+    admin_name: Fatuberliu
+    iso3c: TLS
+    shapeID: 22284137B51170089916625
+  FatululicAdm2TLS:
+    admin_name: Fatululic
+    iso3c: TLS
+    shapeID: 22284137B33809863123080
+  FatumeanAdm2TLS:
+    admin_name: Fatumean
+    iso3c: TLS
+    shapeID: 22284137B11881161065747
+  ForohemAdm2TLS:
+    admin_name: Forohem
+    iso3c: TLS
+    shapeID: 22284137B96492698120269
+  HatoliaAdm2TLS:
+    admin_name: Hatolia
+    iso3c: TLS
+    shapeID: 22284137B62574363374050
+  Hatu-BuilicoAdm2TLS:
+    admin_name: Hatu-Builico
+    iso3c: TLS
+    shapeID: 22284137B50442427378542
+  Hatu-UdoAdm2TLS:
+    admin_name: Hatu-Udo
+    iso3c: TLS
+    shapeID: 22284137B3809405900530
+  IliomarAdm2TLS:
+    admin_name: Iliomar
+    iso3c: TLS
+    shapeID: 22284137B19934279863207
+  LacloAdm2TLS:
+    admin_name: Laclo
+    iso3c: TLS
+    shapeID: 22284137B24782951850467
+  LaclubarAdm2TLS:
+    admin_name: Laclubar
+    iso3c: TLS
+    shapeID: 22284137B50587397066696
+  LaclutaAdm2TLS:
+    admin_name: Lacluta
+    iso3c: TLS
+    shapeID: 22284137B55605414153919
+  LagaAdm2TLS:
+    admin_name: Laga
+    iso3c: TLS
+    shapeID: 22284137B62238566078682
+  LaleiaAdm2TLS:
+    admin_name: Laleia
+    iso3c: TLS
+    shapeID: 22284137B53372282779403
+  LaularaAdm2TLS:
+    admin_name: Laulara
+    iso3c: TLS
+    shapeID: 22284137B18374352558819
+  LautémAdm1TLS:
+    admin_name: Lautém
+    iso3c: TLS
+    shapeID: 58719522B74673759114814
+  LautémAdm2TLS:
+    admin_name: Lautém
+    iso3c: TLS
+    shapeID: 22284137B78833871172178
+  LetefohoAdm2TLS:
+    admin_name: Letefoho
+    iso3c: TLS
+    shapeID: 22284137B23883045309989
+  LiquiçáAdm1TLS:
+    admin_name: Liquiçá
+    iso3c: TLS
+    shapeID: 58719522B91889916528445
+  LiquiçáAdm2TLS:
+    admin_name: Liquiçá
+    iso3c: TLS
+    shapeID: 22284137B50300896823957
+  LiquidoeAdm2TLS:
+    admin_name: Liquidoe
+    iso3c: TLS
+    shapeID: 22284137B83063719556593
+  LolotoeAdm2TLS:
+    admin_name: Lolotoe
+    iso3c: TLS
+    shapeID: 22284137B16004980931012
+  LospalosAdm2TLS:
+    admin_name: Lospalos
+    iso3c: TLS
+    shapeID: 22284137B26175223982630
+  LuroAdm2TLS:
+    admin_name: Luro
+    iso3c: TLS
+    shapeID: 22284137B78720484995027
+  MalianaAdm2TLS:
+    admin_name: Maliana
+    iso3c: TLS
+    shapeID: 22284137B67837040381832
+  ManatutoAdm1TLS:
+    admin_name: Manatuto
+    iso3c: TLS
+    shapeID: 58719522B79491931293061
+  ManatutoAdm2TLS:
+    admin_name: Manatuto
+    iso3c: TLS
+    shapeID: 22284137B59851217666313
+  ManufahiAdm1TLS:
+    admin_name: Manufahi
+    iso3c: TLS
+    shapeID: 58719522B42816757733835
+  MaubaraAdm2TLS:
+    admin_name: Maubara
+    iso3c: TLS
+    shapeID: 22284137B70669575760565
+  MaubisseAdm2TLS:
+    admin_name: Maubisse
+    iso3c: TLS
+    shapeID: 22284137B40449592168850
+  MaukatarAdm2TLS:
+    admin_name: Maukatar
+    iso3c: TLS
+    shapeID: 22284137B61331736580364
+  MetinaroAdm2TLS:
+    admin_name: Metinaro
+    iso3c: TLS
+    shapeID: 22284137B6793847155334
+  NainFetoAdm2TLS:
+    admin_name: NainFeto
+    iso3c: TLS
+    shapeID: 22284137B75963303915609
+  NitibeAdm2TLS:
+    admin_name: Nitibe
+    iso3c: TLS
+    shapeID: 22284137B96760248350473
+  OecusseAdm1TLS:
+    admin_name: Oecusse
+    iso3c: TLS
+    shapeID: 58719522B69518090574338
+  OesiloAdm2TLS:
+    admin_name: Oesilo
+    iso3c: TLS
+    shapeID: 22284137B5780280326887
+  OssuAdm2TLS:
+    admin_name: Ossu
+    iso3c: TLS
+    shapeID: 22284137B78761758678939
+  PanteMacassarAdm2TLS:
+    admin_name: PanteMacassar
+    iso3c: TLS
+    shapeID: 22284137B41915999739632
+  PassabeAdm2TLS:
+    admin_name: Passabe
+    iso3c: TLS
+    shapeID: 22284137B78589082369873
+  QuelicaiAdm2TLS:
+    admin_name: Quelicai
+    iso3c: TLS
+    shapeID: 22284137B85640858688348
+  RailacoAdm2TLS:
+    admin_name: Railaco
+    iso3c: TLS
+    shapeID: 22284137B49797009799058
+  RemexioAdm2TLS:
+    admin_name: Remexio
+    iso3c: TLS
+    shapeID: 22284137B74211319076421
+  SameAdm2TLS:
+    admin_name: Same
+    iso3c: TLS
+    shapeID: 22284137B41872156490215
+  SoibadaAdm2TLS:
+    admin_name: Soibada
+    iso3c: TLS
+    shapeID: 22284137B69618697341021
+  SuaiAdm2TLS:
+    admin_name: Suai
+    iso3c: TLS
+    shapeID: 22284137B60263836524270
+  TilomarAdm2TLS:
+    admin_name: Tilomar
+    iso3c: TLS
+    shapeID: 22284137B39285760424005
+  TuriscaiAdm2TLS:
+    admin_name: Turiscai
+    iso3c: TLS
+    shapeID: 22284137B60481947224566
+  TutualaAdm2TLS:
+    admin_name: Tutuala
+    iso3c: TLS
+    shapeID: 22284137B2107732035789
+  Uato-LariAdm2TLS:
+    admin_name: Uato-Lari
+    iso3c: TLS
+    shapeID: 22284137B41938791268987
+  UatucarbauAdm2TLS:
+    admin_name: Uatucarbau
+    iso3c: TLS
+    shapeID: 22284137B52677210689185
+  VemasseAdm2TLS:
+    admin_name: Vemasse
+    iso3c: TLS
+    shapeID: 22284137B19870753775512
+  VenilaleAdm2TLS:
+    admin_name: Venilale
+    iso3c: TLS
+    shapeID: 22284137B53868942540237
+  VeraCruzAdm2TLS:
+    admin_name: VeraCruz
+    iso3c: TLS
+    shapeID: 22284137B41604792993839
+  ViquequeAdm1TLS:
+    admin_name: Viqueque
+    iso3c: TLS
+    shapeID: 58719522B88874257219633
+  ViquequeAdm2TLS:
+    admin_name: Viqueque
+    iso3c: TLS
+    shapeID: 22284137B80785204174249
+  ZumalaiAdm2TLS:
+    admin_name: Zumalai
+    iso3c: TLS
+    shapeID: 22284137B47375840688188

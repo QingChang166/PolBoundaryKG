@@ -1,11 +1,505 @@
 concepts:
-    - Lusaka
-    - Copperbelt
-    - Western
-    - Muchinga
-    - North-Western
-    - Northern
-    - Eastern
-    - Southern
-    - Luapula
-    - Central
+  CentralAdm1ZMB:
+    admin_name: Central
+    iso3c: ZMB
+    shapeID: 6923714B60407914126357
+  ChadizaAdm2ZMB:
+    admin_name: Chadiza
+    iso3c: ZMB
+    shapeID: 96606910B44569696961001
+  ChamaAdm2ZMB:
+    admin_name: Chama
+    iso3c: ZMB
+    shapeID: 96606910B17560798529879
+  ChasefuAdm2ZMB:
+    admin_name: Chasefu
+    iso3c: ZMB
+    shapeID: 96606910B72978673218668
+  ChavumaAdm2ZMB:
+    admin_name: Chavuma
+    iso3c: ZMB
+    shapeID: 96606910B52944150437375
+  ChembeAdm2ZMB:
+    admin_name: Chembe
+    iso3c: ZMB
+    shapeID: 96606910B10415646720486
+  ChibomboAdm2ZMB:
+    admin_name: Chibombo
+    iso3c: ZMB
+    shapeID: 96606910B53104033004120
+  ChiengiAdm2ZMB:
+    admin_name: Chiengi
+    iso3c: ZMB
+    shapeID: 96606910B82152127957425
+  ChifunabuliAdm2ZMB:
+    admin_name: Chifunabuli
+    iso3c: ZMB
+    shapeID: 96606910B92394332931396
+  ChikankantaAdm2ZMB:
+    admin_name: Chikankanta
+    iso3c: ZMB
+    shapeID: 96606910B6098711564137
+  ChilangaAdm2ZMB:
+    admin_name: Chilanga
+    iso3c: ZMB
+    shapeID: 96606910B81629947645825
+  ChililabombweAdm2ZMB:
+    admin_name: Chililabombwe
+    iso3c: ZMB
+    shapeID: 96606910B40420728980339
+  ChilubiAdm2ZMB:
+    admin_name: Chilubi
+    iso3c: ZMB
+    shapeID: 96606910B6838055437947
+  ChingolaAdm2ZMB:
+    admin_name: Chingola
+    iso3c: ZMB
+    shapeID: 96606910B88567375078856
+  ChinsaliAdm2ZMB:
+    admin_name: Chinsali
+    iso3c: ZMB
+    shapeID: 96606910B49575738019753
+  ChipangaliAdm2ZMB:
+    admin_name: Chipangali
+    iso3c: ZMB
+    shapeID: 96606910B61559073197846
+  ChipataAdm2ZMB:
+    admin_name: Chipata
+    iso3c: ZMB
+    shapeID: 96606910B12043083212801
+  ChipiliAdm2ZMB:
+    admin_name: Chipili
+    iso3c: ZMB
+    shapeID: 96606910B25287686140667
+  ChirunduAdm2ZMB:
+    admin_name: Chirundu
+    iso3c: ZMB
+    shapeID: 96606910B35256638811207
+  ChisambaAdm2ZMB:
+    admin_name: Chisamba
+    iso3c: ZMB
+    shapeID: 96606910B82726316050571
+  ChitamboAdm2ZMB:
+    admin_name: Chitambo
+    iso3c: ZMB
+    shapeID: 96606910B62371668778538
+  ChomaAdm2ZMB:
+    admin_name: Choma
+    iso3c: ZMB
+    shapeID: 96606910B73975181244202
+  ChongweAdm2ZMB:
+    admin_name: Chongwe
+    iso3c: ZMB
+    shapeID: 96606910B32717004733154
+  CopperbeltAdm1ZMB:
+    admin_name: Copperbelt
+    iso3c: ZMB
+    shapeID: 6923714B61812757118010
+  EasternAdm1ZMB:
+    admin_name: Eastern
+    iso3c: ZMB
+    shapeID: 6923714B50523150920038
+  GwembeAdm2ZMB:
+    admin_name: Gwembe
+    iso3c: ZMB
+    shapeID: 96606910B99334137269025
+  IkelengeAdm2ZMB:
+    admin_name: Ikelenge
+    iso3c: ZMB
+    shapeID: 96606910B32160654105939
+  IsokaAdm2ZMB:
+    admin_name: Isoka
+    iso3c: ZMB
+    shapeID: 96606910B95554535134500
+  Itezhi-TezhiAdm2ZMB:
+    admin_name: Itezhi-Tezhi
+    iso3c: ZMB
+    shapeID: 96606910B99117639697542
+  KabompoAdm2ZMB:
+    admin_name: Kabompo
+    iso3c: ZMB
+    shapeID: 96606910B9917173826335
+  KabweAdm2ZMB:
+    admin_name: Kabwe
+    iso3c: ZMB
+    shapeID: 96606910B72559103883158
+  KafueAdm2ZMB:
+    admin_name: Kafue
+    iso3c: ZMB
+    shapeID: 96606910B70191271227661
+  KalaboAdm2ZMB:
+    admin_name: Kalabo
+    iso3c: ZMB
+    shapeID: 96606910B70334566672203
+  KalomoAdm2ZMB:
+    admin_name: Kalomo
+    iso3c: ZMB
+    shapeID: 96606910B45059584224762
+  KalulushiAdm2ZMB:
+    admin_name: Kalulushi
+    iso3c: ZMB
+    shapeID: 96606910B20946814397752
+  KalumbilaAdm2ZMB:
+    admin_name: Kalumbila
+    iso3c: ZMB
+    shapeID: 96606910B30237809157373
+  KanchibiyaAdm2ZMB:
+    admin_name: Kanchibiya
+    iso3c: ZMB
+    shapeID: 96606910B88888220258727
+  KaomaAdm2ZMB:
+    admin_name: Kaoma
+    iso3c: ZMB
+    shapeID: 96606910B45616226024157
+  KapiriMposhiAdm2ZMB:
+    admin_name: KapiriMposhi
+    iso3c: ZMB
+    shapeID: 96606910B40769326482894
+  KaputaAdm2ZMB:
+    admin_name: Kaputa
+    iso3c: ZMB
+    shapeID: 96606910B91372429992286
+  KasamaAdm2ZMB:
+    admin_name: Kasama
+    iso3c: ZMB
+    shapeID: 96606910B49131847475849
+  KasempaAdm2ZMB:
+    admin_name: Kasempa
+    iso3c: ZMB
+    shapeID: 96606910B75049689384444
+  KasenengwaAdm2ZMB:
+    admin_name: Kasenengwa
+    iso3c: ZMB
+    shapeID: 96606910B99834275279733
+  KateteAdm2ZMB:
+    admin_name: Katete
+    iso3c: ZMB
+    shapeID: 96606910B8201415928290
+  KawambwaAdm2ZMB:
+    admin_name: Kawambwa
+    iso3c: ZMB
+    shapeID: 96606910B68487362337591
+  KazungulaAdm2ZMB:
+    admin_name: Kazungula
+    iso3c: ZMB
+    shapeID: 96606910B95953051402599
+  KitweAdm2ZMB:
+    admin_name: Kitwe
+    iso3c: ZMB
+    shapeID: 96606910B1018737914833
+  LavushimandaAdm2ZMB:
+    admin_name: Lavushimanda
+    iso3c: ZMB
+    shapeID: 96606910B97886687400536
+  LimulungaAdm2ZMB:
+    admin_name: Limulunga
+    iso3c: ZMB
+    shapeID: 96606910B48739682467937
+  LivingstoneAdm2ZMB:
+    admin_name: Livingstone
+    iso3c: ZMB
+    shapeID: 96606910B12959301642296
+  LuampaAdm2ZMB:
+    admin_name: Luampa
+    iso3c: ZMB
+    shapeID: 96606910B75659295397669
+  LuangwaAdm2ZMB:
+    admin_name: Luangwa
+    iso3c: ZMB
+    shapeID: 96606910B48730551364911
+  LuanoAdm2ZMB:
+    admin_name: Luano
+    iso3c: ZMB
+    shapeID: 96606910B16035329871790
+  LuanshyaAdm2ZMB:
+    admin_name: Luanshya
+    iso3c: ZMB
+    shapeID: 96606910B75415616642530
+  LuapulaAdm1ZMB:
+    admin_name: Luapula
+    iso3c: ZMB
+    shapeID: 6923714B94361964796426
+  LufwanyamaAdm2ZMB:
+    admin_name: Lufwanyama
+    iso3c: ZMB
+    shapeID: 96606910B27641216908272
+  LukuluAdm2ZMB:
+    admin_name: Lukulu
+    iso3c: ZMB
+    shapeID: 96606910B66911286782898
+  LumeziAdm2ZMB:
+    admin_name: Lumezi
+    iso3c: ZMB
+    shapeID: 96606910B53587891275683
+  LundaziAdm2ZMB:
+    admin_name: Lundazi
+    iso3c: ZMB
+    shapeID: 96606910B63463932820005
+  LungaAdm2ZMB:
+    admin_name: Lunga
+    iso3c: ZMB
+    shapeID: 96606910B4218134786212
+  LunteAdm2ZMB:
+    admin_name: Lunte
+    iso3c: ZMB
+    shapeID: 96606910B27526943690880
+  LupososhiAdm2ZMB:
+    admin_name: Lupososhi
+    iso3c: ZMB
+    shapeID: 96606910B11970238956391
+  LusakaAdm1ZMB:
+    admin_name: Lusaka
+    iso3c: ZMB
+    shapeID: 6923714B17126467226495
+  LusakaAdm2ZMB:
+    admin_name: Lusaka
+    iso3c: ZMB
+    shapeID: 96606910B10621059217070
+  LusangaziAdm2ZMB:
+    admin_name: Lusangazi
+    iso3c: ZMB
+    shapeID: 96606910B89827390447979
+  LuwinguAdm2ZMB:
+    admin_name: Luwingu
+    iso3c: ZMB
+    shapeID: 96606910B28047609597150
+  MafingaAdm2ZMB:
+    admin_name: Mafinga
+    iso3c: ZMB
+    shapeID: 96606910B74743827741249
+  MambweAdm2ZMB:
+    admin_name: Mambwe
+    iso3c: ZMB
+    shapeID: 96606910B40356469041881
+  MansaAdm2ZMB:
+    admin_name: Mansa
+    iso3c: ZMB
+    shapeID: 96606910B48291631033153
+  ManyingaAdm2ZMB:
+    admin_name: Manyinga
+    iso3c: ZMB
+    shapeID: 96606910B15136159078795
+  MasaitiAdm2ZMB:
+    admin_name: Masaiti
+    iso3c: ZMB
+    shapeID: 96606910B87020590647468
+  MazabukaAdm2ZMB:
+    admin_name: Mazabuka
+    iso3c: ZMB
+    shapeID: 96606910B8169685936662
+  MbalaAdm2ZMB:
+    admin_name: Mbala
+    iso3c: ZMB
+    shapeID: 96606910B75728228725802
+  MilengiAdm2ZMB:
+    admin_name: Milengi
+    iso3c: ZMB
+    shapeID: 96606910B39507061952782
+  MiteteAdm2ZMB:
+    admin_name: Mitete
+    iso3c: ZMB
+    shapeID: 96606910B13624449135340
+  MkushiAdm2ZMB:
+    admin_name: Mkushi
+    iso3c: ZMB
+    shapeID: 96606910B76461295717926
+  MonguAdm2ZMB:
+    admin_name: Mongu
+    iso3c: ZMB
+    shapeID: 96606910B8342530541372
+  MonzeAdm2ZMB:
+    admin_name: Monze
+    iso3c: ZMB
+    shapeID: 96606910B87508974482320
+  MpikaAdm2ZMB:
+    admin_name: Mpika
+    iso3c: ZMB
+    shapeID: 96606910B87532559916375
+  MpongweAdm2ZMB:
+    admin_name: Mpongwe
+    iso3c: ZMB
+    shapeID: 96606910B43712843056023
+  MporokosoAdm2ZMB:
+    admin_name: Mporokoso
+    iso3c: ZMB
+    shapeID: 96606910B5671768599011
+  MpulunguAdm2ZMB:
+    admin_name: Mpulungu
+    iso3c: ZMB
+    shapeID: 96606910B10449137451116
+  MuchingaAdm1ZMB:
+    admin_name: Muchinga
+    iso3c: ZMB
+    shapeID: 6923714B61233419501629
+  MufuliraAdm2ZMB:
+    admin_name: Mufulira
+    iso3c: ZMB
+    shapeID: 96606910B37180348733704
+  MufumbweAdm2ZMB:
+    admin_name: Mufumbwe
+    iso3c: ZMB
+    shapeID: 96606910B54849868159577
+  MulobeziAdm2ZMB:
+    admin_name: Mulobezi
+    iso3c: ZMB
+    shapeID: 96606910B3196683578902
+  MumbwaAdm2ZMB:
+    admin_name: Mumbwa
+    iso3c: ZMB
+    shapeID: 96606910B37920738728221
+  MungwiAdm2ZMB:
+    admin_name: Mungwi
+    iso3c: ZMB
+    shapeID: 96606910B23171864038647
+  MushindanoAdm2ZMB:
+    admin_name: Mushindano
+    iso3c: ZMB
+    shapeID: 96606910B46264133370016
+  MwandiAdm2ZMB:
+    admin_name: Mwandi
+    iso3c: ZMB
+    shapeID: 96606910B67741623521388
+  MwansabombweAdm2ZMB:
+    admin_name: Mwansabombwe
+    iso3c: ZMB
+    shapeID: 96606910B97208010005617
+  MwenseAdm2ZMB:
+    admin_name: Mwense
+    iso3c: ZMB
+    shapeID: 96606910B65361757033996
+  MwinilungaAdm2ZMB:
+    admin_name: Mwinilunga
+    iso3c: ZMB
+    shapeID: 96606910B26185337086625
+  NakondeAdm2ZMB:
+    admin_name: Nakonde
+    iso3c: ZMB
+    shapeID: 96606910B77888556336058
+  NaloloAdm2ZMB:
+    admin_name: Nalolo
+    iso3c: ZMB
+    shapeID: 96606910B50694573542024
+  NamwalaAdm2ZMB:
+    admin_name: Namwala
+    iso3c: ZMB
+    shapeID: 96606910B54328368707661
+  NchelengeAdm2ZMB:
+    admin_name: Nchelenge
+    iso3c: ZMB
+    shapeID: 96606910B37258058096160
+  NdolaAdm2ZMB:
+    admin_name: Ndola
+    iso3c: ZMB
+    shapeID: 96606910B76631115886164
+  NgabweAdm2ZMB:
+    admin_name: Ngabwe
+    iso3c: ZMB
+    shapeID: 96606910B70902538429016
+  NkeyemaAdm2ZMB:
+    admin_name: Nkeyema
+    iso3c: ZMB
+    shapeID: 96606910B42234900410364
+  North-WesternAdm1ZMB:
+    admin_name: North-Western
+    iso3c: ZMB
+    shapeID: 6923714B68349750823816
+  NorthernAdm1ZMB:
+    admin_name: Northern
+    iso3c: ZMB
+    shapeID: 6923714B80596734375081
+  NsamaAdm2ZMB:
+    admin_name: Nsama
+    iso3c: ZMB
+    shapeID: 96606910B46360514720663
+  NyimbaAdm2ZMB:
+    admin_name: Nyimba
+    iso3c: ZMB
+    shapeID: 96606910B94036775861358
+  PembaAdm2ZMB:
+    admin_name: Pemba
+    iso3c: ZMB
+    shapeID: 96606910B89551378676560
+  PetaukeAdm2ZMB:
+    admin_name: Petauke
+    iso3c: ZMB
+    shapeID: 96606910B40532044353326
+  RufunsaAdm2ZMB:
+    admin_name: Rufunsa
+    iso3c: ZMB
+    shapeID: 96606910B83885559265483
+  SamfyaAdm2ZMB:
+    admin_name: Samfya
+    iso3c: ZMB
+    shapeID: 96606910B51649803270254
+  SenangaAdm2ZMB:
+    admin_name: Senanga
+    iso3c: ZMB
+    shapeID: 96606910B84216604788069
+  SengaHillAdm2ZMB:
+    admin_name: SengaHill
+    iso3c: ZMB
+    shapeID: 96606910B60229531220552
+  SerenjeAdm2ZMB:
+    admin_name: Serenje
+    iso3c: ZMB
+    shapeID: 96606910B77122166525946
+  SeshekeAdm2ZMB:
+    admin_name: Sesheke
+    iso3c: ZMB
+    shapeID: 96606910B16407097160512
+  ShangomboAdm2ZMB:
+    admin_name: Shangombo
+    iso3c: ZMB
+    shapeID: 96606910B19262681040951
+  ShibuyunjiAdm2ZMB:
+    admin_name: Shibuyunji
+    iso3c: ZMB
+    shapeID: 96606910B97598096149790
+  Shiwang'AnduAdm2ZMB:
+    admin_name: Shiwang'Andu
+    iso3c: ZMB
+    shapeID: 96606910B14962040673296
+  SiavongaAdm2ZMB:
+    admin_name: Siavonga
+    iso3c: ZMB
+    shapeID: 96606910B78484131600253
+  SikongoAdm2ZMB:
+    admin_name: Sikongo
+    iso3c: ZMB
+    shapeID: 96606910B5408602862486
+  SinazongweAdm2ZMB:
+    admin_name: Sinazongwe
+    iso3c: ZMB
+    shapeID: 96606910B20600796740117
+  SindaAdm2ZMB:
+    admin_name: Sinda
+    iso3c: ZMB
+    shapeID: 96606910B72426001037260
+  SiomaAdm2ZMB:
+    admin_name: Sioma
+    iso3c: ZMB
+    shapeID: 96606910B11966717412590
+  SolweziAdm2ZMB:
+    admin_name: Solwezi
+    iso3c: ZMB
+    shapeID: 96606910B85168359517007
+  SouthernAdm1ZMB:
+    admin_name: Southern
+    iso3c: ZMB
+    shapeID: 6923714B34072001548912
+  VubwiAdm2ZMB:
+    admin_name: Vubwi
+    iso3c: ZMB
+    shapeID: 96606910B99969900210710
+  WesternAdm1ZMB:
+    admin_name: Western
+    iso3c: ZMB
+    shapeID: 6923714B71523451831393
+  ZambeziAdm2ZMB:
+    admin_name: Zambezi
+    iso3c: ZMB
+    shapeID: 96606910B76619304368438
+  ZimbaAdm2ZMB:
+    admin_name: Zimba
+    iso3c: ZMB
+    shapeID: 96606910B98197380388075

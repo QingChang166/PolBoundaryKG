@@ -1,35 +1,2213 @@
 concepts:
-    - Bengkulu
-    - Jambi
-    - Lampung
-    - WestSumatra
-    - Papua
-    - WestPapua
-    - Riau
-    - Aceh
-    - SpecialRegionofYogyakarta
-    - SouthSumatra
-    - EastKalimantan
-    - NorthKalimantan
-    - Bali
-    - WestNusaTenggara
-    - Banten
-    - CentralJava
-    - WestJava
-    - CentralKalimantan
-    - SouthKalimantan
-    - WestKalimantan
-    - CentralSulawesi
-    - Gorontalo
-    - NorthSulawesi
-    - SouthSulawesi
-    - SoutheastSulawesi
-    - Bangka-BelitungIslands
-    - WestSulawesi
-    - Maluku
-    - NorthMaluku
-    - NorthSumatra
-    - EastNusaTenggara
-    - RiauIslands
-    - EastJava
-    - JakartaSpecialCapitalRegion
+  AcehAdm1IDN:
+    admin_name: Aceh
+    iso3c: IDN
+    shapeID: 65028918B93184959873838
+  AcehBaratAdm2IDN:
+    admin_name: AcehBarat
+    iso3c: IDN
+    shapeID: 22746128B65593111718524
+  AcehBaratDayaAdm2IDN:
+    admin_name: AcehBaratDaya
+    iso3c: IDN
+    shapeID: 22746128B227561513795
+  AcehBesarAdm2IDN:
+    admin_name: AcehBesar
+    iso3c: IDN
+    shapeID: 22746128B90547447297479
+  AcehJayaAdm2IDN:
+    admin_name: AcehJaya
+    iso3c: IDN
+    shapeID: 22746128B21424895456858
+  AcehSelatanAdm2IDN:
+    admin_name: AcehSelatan
+    iso3c: IDN
+    shapeID: 22746128B12428400263117
+  AcehSingkilAdm2IDN:
+    admin_name: AcehSingkil
+    iso3c: IDN
+    shapeID: 22746128B17710719872214
+  AcehTamiangAdm2IDN:
+    admin_name: AcehTamiang
+    iso3c: IDN
+    shapeID: 22746128B57620394058931
+  AcehTengahAdm2IDN:
+    admin_name: AcehTengah
+    iso3c: IDN
+    shapeID: 22746128B89023327523654
+  AcehTenggaraAdm2IDN:
+    admin_name: AcehTenggara
+    iso3c: IDN
+    shapeID: 22746128B65780821536148
+  AcehTimurAdm2IDN:
+    admin_name: AcehTimur
+    iso3c: IDN
+    shapeID: 22746128B94735591859977
+  AcehUtaraAdm2IDN:
+    admin_name: AcehUtara
+    iso3c: IDN
+    shapeID: 22746128B43339434023645
+  AgamAdm2IDN:
+    admin_name: Agam
+    iso3c: IDN
+    shapeID: 22746128B89220130199878
+  AlorAdm2IDN:
+    admin_name: Alor
+    iso3c: IDN
+    shapeID: 22746128B1117135414899
+  AsahanAdm2IDN:
+    admin_name: Asahan
+    iso3c: IDN
+    shapeID: 22746128B26461090721788
+  AsmatAdm2IDN:
+    admin_name: Asmat
+    iso3c: IDN
+    shapeID: 22746128B62198228854475
+  BadungAdm2IDN:
+    admin_name: Badung
+    iso3c: IDN
+    shapeID: 22746128B76986430159502
+  BalanganAdm2IDN:
+    admin_name: Balangan
+    iso3c: IDN
+    shapeID: 22746128B67876608948387
+  BaliAdm1IDN:
+    admin_name: Bali
+    iso3c: IDN
+    shapeID: 65028918B6690755070061
+  BandungAdm2IDN:
+    admin_name: Bandung
+    iso3c: IDN
+    shapeID: 22746128B73297609500416
+  BandungBaratAdm2IDN:
+    admin_name: BandungBarat
+    iso3c: IDN
+    shapeID: 22746128B79756617117888
+  BanggaiAdm2IDN:
+    admin_name: Banggai
+    iso3c: IDN
+    shapeID: 22746128B48169474795911
+  BanggaiKepulauanAdm2IDN:
+    admin_name: BanggaiKepulauan
+    iso3c: IDN
+    shapeID: 22746128B2571336805106
+  BanggaiLautAdm2IDN:
+    admin_name: BanggaiLaut
+    iso3c: IDN
+    shapeID: 22746128B78411617556279
+  Bangka-BelitungIslandsAdm1IDN:
+    admin_name: Bangka-BelitungIslands
+    iso3c: IDN
+    shapeID: 65028918B10722647473585
+  BangkaAdm2IDN:
+    admin_name: Bangka
+    iso3c: IDN
+    shapeID: 22746128B27585215741432
+  BangkaBaratAdm2IDN:
+    admin_name: BangkaBarat
+    iso3c: IDN
+    shapeID: 22746128B47433230053131
+  BangkalanAdm2IDN:
+    admin_name: Bangkalan
+    iso3c: IDN
+    shapeID: 22746128B23347682239441
+  BangkaSelatanAdm2IDN:
+    admin_name: BangkaSelatan
+    iso3c: IDN
+    shapeID: 22746128B19321376976921
+  BangkaTengahAdm2IDN:
+    admin_name: BangkaTengah
+    iso3c: IDN
+    shapeID: 22746128B66707258567489
+  BangliAdm2IDN:
+    admin_name: Bangli
+    iso3c: IDN
+    shapeID: 22746128B25936754669599
+  BanjarAdm2IDN:
+    admin_name: Banjar
+    iso3c: IDN
+    shapeID: 22746128B79736905882971
+  BanjarnegaraAdm2IDN:
+    admin_name: Banjarnegara
+    iso3c: IDN
+    shapeID: 22746128B31481808975183
+  BantaengAdm2IDN:
+    admin_name: Bantaeng
+    iso3c: IDN
+    shapeID: 22746128B71175962379658
+  BantenAdm1IDN:
+    admin_name: Banten
+    iso3c: IDN
+    shapeID: 65028918B99918739720671
+  BantulAdm2IDN:
+    admin_name: Bantul
+    iso3c: IDN
+    shapeID: 22746128B15956982783625
+  BanyuAsinAdm2IDN:
+    admin_name: BanyuAsin
+    iso3c: IDN
+    shapeID: 22746128B71070720422540
+  BanyumasAdm2IDN:
+    admin_name: Banyumas
+    iso3c: IDN
+    shapeID: 22746128B18933963724988
+  BanyuwangiAdm2IDN:
+    admin_name: Banyuwangi
+    iso3c: IDN
+    shapeID: 22746128B51270543903443
+  BaritoKualaAdm2IDN:
+    admin_name: BaritoKuala
+    iso3c: IDN
+    shapeID: 22746128B88870484763637
+  BaritoSelatanAdm2IDN:
+    admin_name: BaritoSelatan
+    iso3c: IDN
+    shapeID: 22746128B74191069780867
+  BaritoTimurAdm2IDN:
+    admin_name: BaritoTimur
+    iso3c: IDN
+    shapeID: 22746128B29529230943245
+  BaritoUtaraAdm2IDN:
+    admin_name: BaritoUtara
+    iso3c: IDN
+    shapeID: 22746128B89680104320053
+  BarruAdm2IDN:
+    admin_name: Barru
+    iso3c: IDN
+    shapeID: 22746128B81694843903641
+  BatangAdm2IDN:
+    admin_name: Batang
+    iso3c: IDN
+    shapeID: 22746128B4894534477686
+  BatangHariAdm2IDN:
+    admin_name: BatangHari
+    iso3c: IDN
+    shapeID: 22746128B80000441774097
+  BatuBaraAdm2IDN:
+    admin_name: BatuBara
+    iso3c: IDN
+    shapeID: 22746128B96384374000902
+  BekasiAdm2IDN:
+    admin_name: Bekasi
+    iso3c: IDN
+    shapeID: 22746128B74302729610221
+  BelitungAdm2IDN:
+    admin_name: Belitung
+    iso3c: IDN
+    shapeID: 22746128B80009106787015
+  BelitungTimurAdm2IDN:
+    admin_name: BelitungTimur
+    iso3c: IDN
+    shapeID: 22746128B98690900191937
+  BeluAdm2IDN:
+    admin_name: Belu
+    iso3c: IDN
+    shapeID: 22746128B36840991830224
+  BenerMeriahAdm2IDN:
+    admin_name: BenerMeriah
+    iso3c: IDN
+    shapeID: 22746128B4257100474226
+  BengkalisAdm2IDN:
+    admin_name: Bengkalis
+    iso3c: IDN
+    shapeID: 22746128B45456061674897
+  BengkayangAdm2IDN:
+    admin_name: Bengkayang
+    iso3c: IDN
+    shapeID: 22746128B96004883426087
+  BengkuluAdm1IDN:
+    admin_name: Bengkulu
+    iso3c: IDN
+    shapeID: 65028918B30999004822283
+  BengkuluSelatanAdm2IDN:
+    admin_name: BengkuluSelatan
+    iso3c: IDN
+    shapeID: 22746128B78254403614329
+  BengkuluTengahAdm2IDN:
+    admin_name: BengkuluTengah
+    iso3c: IDN
+    shapeID: 22746128B16836972822517
+  BengkuluUtaraAdm2IDN:
+    admin_name: BengkuluUtara
+    iso3c: IDN
+    shapeID: 22746128B39887218554518
+  BerauAdm2IDN:
+    admin_name: Berau
+    iso3c: IDN
+    shapeID: 22746128B34069275840087
+  BiakNumforAdm2IDN:
+    admin_name: BiakNumfor
+    iso3c: IDN
+    shapeID: 22746128B19254678251292
+  BimaAdm2IDN:
+    admin_name: Bima
+    iso3c: IDN
+    shapeID: 22746128B14082340634491
+  BintanAdm2IDN:
+    admin_name: Bintan
+    iso3c: IDN
+    shapeID: 22746128B62804497316712
+  BireuenAdm2IDN:
+    admin_name: Bireuen
+    iso3c: IDN
+    shapeID: 22746128B71427834061478
+  BlitarAdm2IDN:
+    admin_name: Blitar
+    iso3c: IDN
+    shapeID: 22746128B45235083091424
+  BloraAdm2IDN:
+    admin_name: Blora
+    iso3c: IDN
+    shapeID: 22746128B85780086903212
+  BoalemoAdm2IDN:
+    admin_name: Boalemo
+    iso3c: IDN
+    shapeID: 22746128B1718153682633
+  BogorAdm2IDN:
+    admin_name: Bogor
+    iso3c: IDN
+    shapeID: 22746128B99423643145371
+  BojonegoroAdm2IDN:
+    admin_name: Bojonegoro
+    iso3c: IDN
+    shapeID: 22746128B62232019301027
+  BolaangMongondowAdm2IDN:
+    admin_name: BolaangMongondow
+    iso3c: IDN
+    shapeID: 22746128B99982169683342
+  BolaangMongondowSelatanAdm2IDN:
+    admin_name: BolaangMongondowSelatan
+    iso3c: IDN
+    shapeID: 22746128B14720240696101
+  BolaangMongondowTimurAdm2IDN:
+    admin_name: BolaangMongondowTimur
+    iso3c: IDN
+    shapeID: 22746128B26195600949416
+  BolaangMongondowUtaraAdm2IDN:
+    admin_name: BolaangMongondowUtara
+    iso3c: IDN
+    shapeID: 22746128B96389329417801
+  BombanaAdm2IDN:
+    admin_name: Bombana
+    iso3c: IDN
+    shapeID: 22746128B28760414544557
+  BondowosoAdm2IDN:
+    admin_name: Bondowoso
+    iso3c: IDN
+    shapeID: 22746128B61555758059649
+  BoneAdm2IDN:
+    admin_name: Bone
+    iso3c: IDN
+    shapeID: 22746128B25468135680533
+  BoneBolangoAdm2IDN:
+    admin_name: BoneBolango
+    iso3c: IDN
+    shapeID: 22746128B41707288718561
+  BovenDigoelAdm2IDN:
+    admin_name: BovenDigoel
+    iso3c: IDN
+    shapeID: 22746128B21273779065212
+  BoyolaliAdm2IDN:
+    admin_name: Boyolali
+    iso3c: IDN
+    shapeID: 22746128B51975137382727
+  BrebesAdm2IDN:
+    admin_name: Brebes
+    iso3c: IDN
+    shapeID: 22746128B82312103386068
+  BulelengAdm2IDN:
+    admin_name: Buleleng
+    iso3c: IDN
+    shapeID: 22746128B19337828575841
+  BulukumbaAdm2IDN:
+    admin_name: Bulukumba
+    iso3c: IDN
+    shapeID: 22746128B72639885395673
+  BulunganAdm2IDN:
+    admin_name: Bulungan
+    iso3c: IDN
+    shapeID: 22746128B10941975158621
+  BungoAdm2IDN:
+    admin_name: Bungo
+    iso3c: IDN
+    shapeID: 22746128B28569646979400
+  BuolAdm2IDN:
+    admin_name: Buol
+    iso3c: IDN
+    shapeID: 22746128B60636029206407
+  BuruAdm2IDN:
+    admin_name: Buru
+    iso3c: IDN
+    shapeID: 22746128B29167244459072
+  BuruSelatanAdm2IDN:
+    admin_name: BuruSelatan
+    iso3c: IDN
+    shapeID: 22746128B90083339512512
+  ButonAdm2IDN:
+    admin_name: Buton
+    iso3c: IDN
+    shapeID: 22746128B86741169633217
+  ButonSelatanAdm2IDN:
+    admin_name: ButonSelatan
+    iso3c: IDN
+    shapeID: 22746128B94245100908076
+  ButonTengahAdm2IDN:
+    admin_name: ButonTengah
+    iso3c: IDN
+    shapeID: 22746128B6718763508294
+  ButonUtaraAdm2IDN:
+    admin_name: ButonUtara
+    iso3c: IDN
+    shapeID: 22746128B51044624823813
+  CentralJavaAdm1IDN:
+    admin_name: CentralJava
+    iso3c: IDN
+    shapeID: 65028918B13838862025135
+  CentralKalimantanAdm1IDN:
+    admin_name: CentralKalimantan
+    iso3c: IDN
+    shapeID: 65028918B28198720309323
+  CentralSulawesiAdm1IDN:
+    admin_name: CentralSulawesi
+    iso3c: IDN
+    shapeID: 65028918B55787629749874
+  CiamisAdm2IDN:
+    admin_name: Ciamis
+    iso3c: IDN
+    shapeID: 22746128B17121530580660
+  CianjurAdm2IDN:
+    admin_name: Cianjur
+    iso3c: IDN
+    shapeID: 22746128B34542084533901
+  CilacapAdm2IDN:
+    admin_name: Cilacap
+    iso3c: IDN
+    shapeID: 22746128B37209370352000
+  CirebonAdm2IDN:
+    admin_name: Cirebon
+    iso3c: IDN
+    shapeID: 22746128B77544549346240
+  DairiAdm2IDN:
+    admin_name: Dairi
+    iso3c: IDN
+    shapeID: 22746128B7455670127099
+  DanauAdm2IDN:
+    admin_name: Danau
+    iso3c: IDN
+    shapeID: 22746128B15758871990616
+  DanauTobaAdm2IDN:
+    admin_name: DanauToba
+    iso3c: IDN
+    shapeID: 22746128B58041142516585
+  DeiyaiAdm2IDN:
+    admin_name: Deiyai
+    iso3c: IDN
+    shapeID: 22746128B51921656212420
+  DeliSerdangAdm2IDN:
+    admin_name: DeliSerdang
+    iso3c: IDN
+    shapeID: 22746128B17104196518473
+  DemakAdm2IDN:
+    admin_name: Demak
+    iso3c: IDN
+    shapeID: 22746128B71519500232359
+  DharmasrayaAdm2IDN:
+    admin_name: Dharmasraya
+    iso3c: IDN
+    shapeID: 22746128B7219534805401
+  DogiyaiAdm2IDN:
+    admin_name: Dogiyai
+    iso3c: IDN
+    shapeID: 22746128B76462588476684
+  DompuAdm2IDN:
+    admin_name: Dompu
+    iso3c: IDN
+    shapeID: 22746128B31420255543838
+  DonggalaAdm2IDN:
+    admin_name: Donggala
+    iso3c: IDN
+    shapeID: 22746128B11403753934380
+  EastJavaAdm1IDN:
+    admin_name: EastJava
+    iso3c: IDN
+    shapeID: 65028918B43243108525571
+  EastKalimantanAdm1IDN:
+    admin_name: EastKalimantan
+    iso3c: IDN
+    shapeID: 65028918B68445169823185
+  EastNusaTenggaraAdm1IDN:
+    admin_name: EastNusaTenggara
+    iso3c: IDN
+    shapeID: 65028918B90323071856071
+  EmpatLawangAdm2IDN:
+    admin_name: EmpatLawang
+    iso3c: IDN
+    shapeID: 22746128B47089116764549
+  EndeAdm2IDN:
+    admin_name: Ende
+    iso3c: IDN
+    shapeID: 22746128B46201528673681
+  EnrekangAdm2IDN:
+    admin_name: Enrekang
+    iso3c: IDN
+    shapeID: 22746128B73854324401708
+  FakfakAdm2IDN:
+    admin_name: Fakfak
+    iso3c: IDN
+    shapeID: 22746128B79106566109504
+  FloresTimurAdm2IDN:
+    admin_name: FloresTimur
+    iso3c: IDN
+    shapeID: 22746128B68993103553012
+  GarutAdm2IDN:
+    admin_name: Garut
+    iso3c: IDN
+    shapeID: 22746128B66421464971893
+  GayoLuesAdm2IDN:
+    admin_name: GayoLues
+    iso3c: IDN
+    shapeID: 22746128B71384327775718
+  GianyarAdm2IDN:
+    admin_name: Gianyar
+    iso3c: IDN
+    shapeID: 22746128B44616450347238
+  GorontaloAdm1IDN:
+    admin_name: Gorontalo
+    iso3c: IDN
+    shapeID: 65028918B94020759558104
+  GorontaloAdm2IDN:
+    admin_name: Gorontalo
+    iso3c: IDN
+    shapeID: 22746128B1660874628525
+  GorontaloUtaraAdm2IDN:
+    admin_name: GorontaloUtara
+    iso3c: IDN
+    shapeID: 22746128B78667545948550
+  GowaAdm2IDN:
+    admin_name: Gowa
+    iso3c: IDN
+    shapeID: 22746128B57887954309635
+  GresikAdm2IDN:
+    admin_name: Gresik
+    iso3c: IDN
+    shapeID: 22746128B46933486274006
+  GroboganAdm2IDN:
+    admin_name: Grobogan
+    iso3c: IDN
+    shapeID: 22746128B71964042918672
+  GunungKidulAdm2IDN:
+    admin_name: GunungKidul
+    iso3c: IDN
+    shapeID: 22746128B54859500646728
+  GunungMasAdm2IDN:
+    admin_name: GunungMas
+    iso3c: IDN
+    shapeID: 22746128B12491014044373
+  HalmaheraBaratAdm2IDN:
+    admin_name: HalmaheraBarat
+    iso3c: IDN
+    shapeID: 22746128B52341022582766
+  HalmaheraSelatanAdm2IDN:
+    admin_name: HalmaheraSelatan
+    iso3c: IDN
+    shapeID: 22746128B2838702785556
+  HalmaheraTengahAdm2IDN:
+    admin_name: HalmaheraTengah
+    iso3c: IDN
+    shapeID: 22746128B46636453933041
+  HalmaheraTimurAdm2IDN:
+    admin_name: HalmaheraTimur
+    iso3c: IDN
+    shapeID: 22746128B70343351071090
+  HalmaheraUtaraAdm2IDN:
+    admin_name: HalmaheraUtara
+    iso3c: IDN
+    shapeID: 22746128B41252486574655
+  HuluSungaiSelatanAdm2IDN:
+    admin_name: HuluSungaiSelatan
+    iso3c: IDN
+    shapeID: 22746128B37889128386884
+  HuluSungaiTengahAdm2IDN:
+    admin_name: HuluSungaiTengah
+    iso3c: IDN
+    shapeID: 22746128B20472072190374
+  HuluSungaiUtaraAdm2IDN:
+    admin_name: HuluSungaiUtara
+    iso3c: IDN
+    shapeID: 22746128B21492383155838
+  HumbangHasundutanAdm2IDN:
+    admin_name: HumbangHasundutan
+    iso3c: IDN
+    shapeID: 22746128B305851071948
+  HutanAdm2IDN:
+    admin_name: Hutan
+    iso3c: IDN
+    shapeID: 22746128B69994664325988
+  IndragiriHilirAdm2IDN:
+    admin_name: IndragiriHilir
+    iso3c: IDN
+    shapeID: 22746128B36468792556341
+  IndragiriHuluAdm2IDN:
+    admin_name: IndragiriHulu
+    iso3c: IDN
+    shapeID: 22746128B72920479258091
+  IndramayuAdm2IDN:
+    admin_name: Indramayu
+    iso3c: IDN
+    shapeID: 22746128B59462811669242
+  IntanJayaAdm2IDN:
+    admin_name: IntanJaya
+    iso3c: IDN
+    shapeID: 22746128B83440404091664
+  JakartaSpecialCapitalRegionAdm1IDN:
+    admin_name: JakartaSpecialCapitalRegion
+    iso3c: IDN
+    shapeID: 65028918B14696209246677
+  JambiAdm1IDN:
+    admin_name: Jambi
+    iso3c: IDN
+    shapeID: 65028918B29194895292819
+  JayapuraAdm2IDN:
+    admin_name: Jayapura
+    iso3c: IDN
+    shapeID: 22746128B71103770185906
+  JayawijayaAdm2IDN:
+    admin_name: Jayawijaya
+    iso3c: IDN
+    shapeID: 22746128B40741333574981
+  JemberAdm2IDN:
+    admin_name: Jember
+    iso3c: IDN
+    shapeID: 22746128B56085237319005
+  JembranaAdm2IDN:
+    admin_name: Jembrana
+    iso3c: IDN
+    shapeID: 22746128B85592790675198
+  JenepontoAdm2IDN:
+    admin_name: Jeneponto
+    iso3c: IDN
+    shapeID: 22746128B64050318598962
+  JeparaAdm2IDN:
+    admin_name: Jepara
+    iso3c: IDN
+    shapeID: 22746128B68650893607060
+  JombangAdm2IDN:
+    admin_name: Jombang
+    iso3c: IDN
+    shapeID: 22746128B39847330151566
+  KaimanaAdm2IDN:
+    admin_name: Kaimana
+    iso3c: IDN
+    shapeID: 22746128B93097528927367
+  KamparAdm2IDN:
+    admin_name: Kampar
+    iso3c: IDN
+    shapeID: 22746128B8837306932395
+  KapuasAdm2IDN:
+    admin_name: Kapuas
+    iso3c: IDN
+    shapeID: 22746128B40136746216216
+  KapuasHuluAdm2IDN:
+    admin_name: KapuasHulu
+    iso3c: IDN
+    shapeID: 22746128B82886709098386
+  KaranganyarAdm2IDN:
+    admin_name: Karanganyar
+    iso3c: IDN
+    shapeID: 22746128B38192287274107
+  KarangAsemAdm2IDN:
+    admin_name: KarangAsem
+    iso3c: IDN
+    shapeID: 22746128B60715781377305
+  KarawangAdm2IDN:
+    admin_name: Karawang
+    iso3c: IDN
+    shapeID: 22746128B53840275251202
+  KarimunAdm2IDN:
+    admin_name: Karimun
+    iso3c: IDN
+    shapeID: 22746128B38340908247842
+  KaroAdm2IDN:
+    admin_name: Karo
+    iso3c: IDN
+    shapeID: 22746128B49947212525753
+  KatinganAdm2IDN:
+    admin_name: Katingan
+    iso3c: IDN
+    shapeID: 22746128B40819362853427
+  KaurAdm2IDN:
+    admin_name: Kaur
+    iso3c: IDN
+    shapeID: 22746128B79405855452274
+  KayongUtaraAdm2IDN:
+    admin_name: KayongUtara
+    iso3c: IDN
+    shapeID: 22746128B56151469580770
+  KebumenAdm2IDN:
+    admin_name: Kebumen
+    iso3c: IDN
+    shapeID: 22746128B26305825050369
+  KediriAdm2IDN:
+    admin_name: Kediri
+    iso3c: IDN
+    shapeID: 22746128B82286187836997
+  KeeromAdm2IDN:
+    admin_name: Keerom
+    iso3c: IDN
+    shapeID: 22746128B17774751253690
+  KendalAdm2IDN:
+    admin_name: Kendal
+    iso3c: IDN
+    shapeID: 22746128B21241240008354
+  KepahiangAdm2IDN:
+    admin_name: Kepahiang
+    iso3c: IDN
+    shapeID: 22746128B30869437307727
+  KepulauanAnambasAdm2IDN:
+    admin_name: KepulauanAnambas
+    iso3c: IDN
+    shapeID: 22746128B99951880476592
+  KepulauanAruAdm2IDN:
+    admin_name: KepulauanAru
+    iso3c: IDN
+    shapeID: 22746128B17511076551422
+  KepulauanMentawaiAdm2IDN:
+    admin_name: KepulauanMentawai
+    iso3c: IDN
+    shapeID: 22746128B86355072671334
+  KepulauanMerantiAdm2IDN:
+    admin_name: KepulauanMeranti
+    iso3c: IDN
+    shapeID: 22746128B32802105420608
+  KepulauanSangiheAdm2IDN:
+    admin_name: KepulauanSangihe
+    iso3c: IDN
+    shapeID: 22746128B28296608330436
+  KepulauanSelayarAdm2IDN:
+    admin_name: KepulauanSelayar
+    iso3c: IDN
+    shapeID: 22746128B1615833901652
+  KepulauanSeribuAdm2IDN:
+    admin_name: KepulauanSeribu
+    iso3c: IDN
+    shapeID: 22746128B63742079715926
+  KepulauanSulaAdm2IDN:
+    admin_name: KepulauanSula
+    iso3c: IDN
+    shapeID: 22746128B81791072961966
+  KepulauanTalaudAdm2IDN:
+    admin_name: KepulauanTalaud
+    iso3c: IDN
+    shapeID: 22746128B45484540858108
+  KepulauanYapenAdm2IDN:
+    admin_name: KepulauanYapen
+    iso3c: IDN
+    shapeID: 22746128B96094928872069
+  KerinciAdm2IDN:
+    admin_name: Kerinci
+    iso3c: IDN
+    shapeID: 22746128B64633952285861
+  KetapangAdm2IDN:
+    admin_name: Ketapang
+    iso3c: IDN
+    shapeID: 22746128B56277764926455
+  KlatenAdm2IDN:
+    admin_name: Klaten
+    iso3c: IDN
+    shapeID: 22746128B24447956326165
+  KlungkungAdm2IDN:
+    admin_name: Klungkung
+    iso3c: IDN
+    shapeID: 22746128B73073409478343
+  KolakaAdm2IDN:
+    admin_name: Kolaka
+    iso3c: IDN
+    shapeID: 22746128B69202393010200
+  KolakaTimurAdm2IDN:
+    admin_name: KolakaTimur
+    iso3c: IDN
+    shapeID: 22746128B88028223529334
+  KolakaUtaraAdm2IDN:
+    admin_name: KolakaUtara
+    iso3c: IDN
+    shapeID: 22746128B11198700179718
+  KonaweAdm2IDN:
+    admin_name: Konawe
+    iso3c: IDN
+    shapeID: 22746128B78249855862414
+  KonaweKepulauanAdm2IDN:
+    admin_name: KonaweKepulauan
+    iso3c: IDN
+    shapeID: 22746128B22870517920414
+  KonaweSelatanAdm2IDN:
+    admin_name: KonaweSelatan
+    iso3c: IDN
+    shapeID: 22746128B90195550492320
+  KonaweUtaraAdm2IDN:
+    admin_name: KonaweUtara
+    iso3c: IDN
+    shapeID: 22746128B68991025063444
+  KotaAmbonAdm2IDN:
+    admin_name: KotaAmbon
+    iso3c: IDN
+    shapeID: 22746128B58388026658287
+  KotaBalikpapanAdm2IDN:
+    admin_name: KotaBalikpapan
+    iso3c: IDN
+    shapeID: 22746128B66626446070966
+  KotaBandaAcehAdm2IDN:
+    admin_name: KotaBandaAceh
+    iso3c: IDN
+    shapeID: 22746128B56363132836699
+  KotaBandarLampungAdm2IDN:
+    admin_name: KotaBandarLampung
+    iso3c: IDN
+    shapeID: 22746128B13880384963573
+  KotaBandungAdm2IDN:
+    admin_name: KotaBandung
+    iso3c: IDN
+    shapeID: 22746128B71762235135177
+  KotaBanjarAdm2IDN:
+    admin_name: KotaBanjar
+    iso3c: IDN
+    shapeID: 22746128B64728543729693
+  KotaBanjarBaruAdm2IDN:
+    admin_name: KotaBanjarBaru
+    iso3c: IDN
+    shapeID: 22746128B6711072078761
+  KotaBanjarmasinAdm2IDN:
+    admin_name: KotaBanjarmasin
+    iso3c: IDN
+    shapeID: 22746128B37126944555810
+  KotaBaruAdm2IDN:
+    admin_name: KotaBaru
+    iso3c: IDN
+    shapeID: 22746128B85816588264471
+  KotaBatamAdm2IDN:
+    admin_name: KotaBatam
+    iso3c: IDN
+    shapeID: 22746128B16651418017337
+  KotaBatuAdm2IDN:
+    admin_name: KotaBatu
+    iso3c: IDN
+    shapeID: 22746128B69457994360094
+  KotaBaubauAdm2IDN:
+    admin_name: KotaBaubau
+    iso3c: IDN
+    shapeID: 22746128B66779214231616
+  KotaBekasiAdm2IDN:
+    admin_name: KotaBekasi
+    iso3c: IDN
+    shapeID: 22746128B54763839112631
+  KotaBengkuluAdm2IDN:
+    admin_name: KotaBengkulu
+    iso3c: IDN
+    shapeID: 22746128B322693337562
+  KotaBimaAdm2IDN:
+    admin_name: KotaBima
+    iso3c: IDN
+    shapeID: 22746128B33789977192923
+  KotaBinjaiAdm2IDN:
+    admin_name: KotaBinjai
+    iso3c: IDN
+    shapeID: 22746128B66679629138785
+  KotaBitungAdm2IDN:
+    admin_name: KotaBitung
+    iso3c: IDN
+    shapeID: 22746128B20507278995893
+  KotaBlitarAdm2IDN:
+    admin_name: KotaBlitar
+    iso3c: IDN
+    shapeID: 22746128B15123001204790
+  KotaBogorAdm2IDN:
+    admin_name: KotaBogor
+    iso3c: IDN
+    shapeID: 22746128B63896883204987
+  KotaBontangAdm2IDN:
+    admin_name: KotaBontang
+    iso3c: IDN
+    shapeID: 22746128B2679722836886
+  KotaBukittinggiAdm2IDN:
+    admin_name: KotaBukittinggi
+    iso3c: IDN
+    shapeID: 22746128B12322141134935
+  KotaCilegonAdm2IDN:
+    admin_name: KotaCilegon
+    iso3c: IDN
+    shapeID: 22746128B25933583546422
+  KotaCimahiAdm2IDN:
+    admin_name: KotaCimahi
+    iso3c: IDN
+    shapeID: 22746128B53430054982428
+  KotaCirebonAdm2IDN:
+    admin_name: KotaCirebon
+    iso3c: IDN
+    shapeID: 22746128B80288264799633
+  KotaDenpasarAdm2IDN:
+    admin_name: KotaDenpasar
+    iso3c: IDN
+    shapeID: 22746128B89164850776530
+  KotaDepokAdm2IDN:
+    admin_name: KotaDepok
+    iso3c: IDN
+    shapeID: 22746128B73481124779947
+  KotaDumaiAdm2IDN:
+    admin_name: KotaDumai
+    iso3c: IDN
+    shapeID: 22746128B18875576502901
+  KotaGorontaloAdm2IDN:
+    admin_name: KotaGorontalo
+    iso3c: IDN
+    shapeID: 22746128B66202348563483
+  KotaGunungsitoliAdm2IDN:
+    admin_name: KotaGunungsitoli
+    iso3c: IDN
+    shapeID: 22746128B74256869593133
+  KotaJakartaBaratAdm2IDN:
+    admin_name: KotaJakartaBarat
+    iso3c: IDN
+    shapeID: 22746128B58252967349746
+  KotaJakartaPusatAdm2IDN:
+    admin_name: KotaJakartaPusat
+    iso3c: IDN
+    shapeID: 22746128B21128962092426
+  KotaJakartaSelatanAdm2IDN:
+    admin_name: KotaJakartaSelatan
+    iso3c: IDN
+    shapeID: 22746128B93686700937380
+  KotaJakartaTimurAdm2IDN:
+    admin_name: KotaJakartaTimur
+    iso3c: IDN
+    shapeID: 22746128B5353616278909
+  KotaJakartaUtaraAdm2IDN:
+    admin_name: KotaJakartaUtara
+    iso3c: IDN
+    shapeID: 22746128B85966169947265
+  KotaJambiAdm2IDN:
+    admin_name: KotaJambi
+    iso3c: IDN
+    shapeID: 22746128B99667418524197
+  KotaJayapuraAdm2IDN:
+    admin_name: KotaJayapura
+    iso3c: IDN
+    shapeID: 22746128B85346986276333
+  KotaKediriAdm2IDN:
+    admin_name: KotaKediri
+    iso3c: IDN
+    shapeID: 22746128B79918158306090
+  KotaKendariAdm2IDN:
+    admin_name: KotaKendari
+    iso3c: IDN
+    shapeID: 22746128B80961359079738
+  KotaKotamobaguAdm2IDN:
+    admin_name: KotaKotamobagu
+    iso3c: IDN
+    shapeID: 22746128B93986330379000
+  KotaKupangAdm2IDN:
+    admin_name: KotaKupang
+    iso3c: IDN
+    shapeID: 22746128B56606429525327
+  KotaLangsaAdm2IDN:
+    admin_name: KotaLangsa
+    iso3c: IDN
+    shapeID: 22746128B69628984727954
+  KotaLhokseumaweAdm2IDN:
+    admin_name: KotaLhokseumawe
+    iso3c: IDN
+    shapeID: 22746128B88010078110453
+  KotaLubuklinggauAdm2IDN:
+    admin_name: KotaLubuklinggau
+    iso3c: IDN
+    shapeID: 22746128B74548717001691
+  KotaMadiunAdm2IDN:
+    admin_name: KotaMadiun
+    iso3c: IDN
+    shapeID: 22746128B30166819315055
+  KotaMagelangAdm2IDN:
+    admin_name: KotaMagelang
+    iso3c: IDN
+    shapeID: 22746128B66141272433758
+  KotaMakassarAdm2IDN:
+    admin_name: KotaMakassar
+    iso3c: IDN
+    shapeID: 22746128B73854317646589
+  KotaMalangAdm2IDN:
+    admin_name: KotaMalang
+    iso3c: IDN
+    shapeID: 22746128B9724218643478
+  KotaManadoAdm2IDN:
+    admin_name: KotaManado
+    iso3c: IDN
+    shapeID: 22746128B83673204362612
+  KotaMataramAdm2IDN:
+    admin_name: KotaMataram
+    iso3c: IDN
+    shapeID: 22746128B34810169298981
+  KotaMedanAdm2IDN:
+    admin_name: KotaMedan
+    iso3c: IDN
+    shapeID: 22746128B40654739963843
+  KotaMetroAdm2IDN:
+    admin_name: KotaMetro
+    iso3c: IDN
+    shapeID: 22746128B64737377738458
+  KotaMojokertoAdm2IDN:
+    admin_name: KotaMojokerto
+    iso3c: IDN
+    shapeID: 22746128B53956788697299
+  KotaPadangAdm2IDN:
+    admin_name: KotaPadang
+    iso3c: IDN
+    shapeID: 22746128B51925287869213
+  KotaPadangPanjangAdm2IDN:
+    admin_name: KotaPadangPanjang
+    iso3c: IDN
+    shapeID: 22746128B34977061629525
+  KotaPadangsidimpuanAdm2IDN:
+    admin_name: KotaPadangsidimpuan
+    iso3c: IDN
+    shapeID: 22746128B81378642761445
+  KotaPagarAlamAdm2IDN:
+    admin_name: KotaPagarAlam
+    iso3c: IDN
+    shapeID: 22746128B19740076763731
+  KotaPalangkaRayaAdm2IDN:
+    admin_name: KotaPalangkaRaya
+    iso3c: IDN
+    shapeID: 22746128B5087893857208
+  KotaPalembangAdm2IDN:
+    admin_name: KotaPalembang
+    iso3c: IDN
+    shapeID: 22746128B87825164980488
+  KotaPalopoAdm2IDN:
+    admin_name: KotaPalopo
+    iso3c: IDN
+    shapeID: 22746128B54354608226928
+  KotaPaluAdm2IDN:
+    admin_name: KotaPalu
+    iso3c: IDN
+    shapeID: 22746128B23229204425516
+  KotaPangkalPinangAdm2IDN:
+    admin_name: KotaPangkalPinang
+    iso3c: IDN
+    shapeID: 22746128B92282941938888
+  KotaParepareAdm2IDN:
+    admin_name: KotaParepare
+    iso3c: IDN
+    shapeID: 22746128B37987509465042
+  KotaPariamanAdm2IDN:
+    admin_name: KotaPariaman
+    iso3c: IDN
+    shapeID: 22746128B94413576870843
+  KotaPasuruanAdm2IDN:
+    admin_name: KotaPasuruan
+    iso3c: IDN
+    shapeID: 22746128B86769429493629
+  KotaPayakumbuhAdm2IDN:
+    admin_name: KotaPayakumbuh
+    iso3c: IDN
+    shapeID: 22746128B75816793285642
+  KotaPekalonganAdm2IDN:
+    admin_name: KotaPekalongan
+    iso3c: IDN
+    shapeID: 22746128B98453198956040
+  KotaPekanbaruAdm2IDN:
+    admin_name: KotaPekanbaru
+    iso3c: IDN
+    shapeID: 22746128B3549150233660
+  KotaPematangSiantarAdm2IDN:
+    admin_name: KotaPematangSiantar
+    iso3c: IDN
+    shapeID: 22746128B46755595316405
+  KotaPontianakAdm2IDN:
+    admin_name: KotaPontianak
+    iso3c: IDN
+    shapeID: 22746128B68403360613456
+  KotaPrabumulihAdm2IDN:
+    admin_name: KotaPrabumulih
+    iso3c: IDN
+    shapeID: 22746128B13695709263199
+  KotaProbolinggoAdm2IDN:
+    admin_name: KotaProbolinggo
+    iso3c: IDN
+    shapeID: 22746128B48742890195125
+  KotaSabangAdm2IDN:
+    admin_name: KotaSabang
+    iso3c: IDN
+    shapeID: 22746128B78398648082643
+  KotaSalatigaAdm2IDN:
+    admin_name: KotaSalatiga
+    iso3c: IDN
+    shapeID: 22746128B99456803569608
+  KotaSamarindaAdm2IDN:
+    admin_name: KotaSamarinda
+    iso3c: IDN
+    shapeID: 22746128B87893249930832
+  KotaSawahLuntoAdm2IDN:
+    admin_name: KotaSawahLunto
+    iso3c: IDN
+    shapeID: 22746128B93370341632229
+  KotaSemarangAdm2IDN:
+    admin_name: KotaSemarang
+    iso3c: IDN
+    shapeID: 22746128B5783483209745
+  KotaSerangAdm2IDN:
+    admin_name: KotaSerang
+    iso3c: IDN
+    shapeID: 22746128B38845978082923
+  KotaSibolgaAdm2IDN:
+    admin_name: KotaSibolga
+    iso3c: IDN
+    shapeID: 22746128B47009036461165
+  KotaSingkawangAdm2IDN:
+    admin_name: KotaSingkawang
+    iso3c: IDN
+    shapeID: 22746128B18670307275317
+  KotaSolokAdm2IDN:
+    admin_name: KotaSolok
+    iso3c: IDN
+    shapeID: 22746128B30699524960223
+  KotaSorongAdm2IDN:
+    admin_name: KotaSorong
+    iso3c: IDN
+    shapeID: 22746128B11366688050704
+  KotaSubulussalamAdm2IDN:
+    admin_name: KotaSubulussalam
+    iso3c: IDN
+    shapeID: 22746128B20185680371825
+  KotaSukabumiAdm2IDN:
+    admin_name: KotaSukabumi
+    iso3c: IDN
+    shapeID: 22746128B82825120895999
+  KotaSungaiPenuhAdm2IDN:
+    admin_name: KotaSungaiPenuh
+    iso3c: IDN
+    shapeID: 22746128B31453944142504
+  KotaSurabayaAdm2IDN:
+    admin_name: KotaSurabaya
+    iso3c: IDN
+    shapeID: 22746128B68603538827891
+  KotaSurakartaAdm2IDN:
+    admin_name: KotaSurakarta
+    iso3c: IDN
+    shapeID: 22746128B33460906687482
+  KotaTangerangAdm2IDN:
+    admin_name: KotaTangerang
+    iso3c: IDN
+    shapeID: 22746128B7613374511026
+  KotaTangerangSelatanAdm2IDN:
+    admin_name: KotaTangerangSelatan
+    iso3c: IDN
+    shapeID: 22746128B62533997811788
+  KotaTanjungBalaiAdm2IDN:
+    admin_name: KotaTanjungBalai
+    iso3c: IDN
+    shapeID: 22746128B91306693093612
+  KotaTanjungPinangAdm2IDN:
+    admin_name: KotaTanjungPinang
+    iso3c: IDN
+    shapeID: 22746128B73074683492420
+  KotaTarakanAdm2IDN:
+    admin_name: KotaTarakan
+    iso3c: IDN
+    shapeID: 22746128B97983454808676
+  KotaTasikmalayaAdm2IDN:
+    admin_name: KotaTasikmalaya
+    iso3c: IDN
+    shapeID: 22746128B57000549481658
+  KotaTebingTinggiAdm2IDN:
+    admin_name: KotaTebingTinggi
+    iso3c: IDN
+    shapeID: 22746128B29639616204280
+  KotaTegalAdm2IDN:
+    admin_name: KotaTegal
+    iso3c: IDN
+    shapeID: 22746128B85080883644541
+  KotaTernateAdm2IDN:
+    admin_name: KotaTernate
+    iso3c: IDN
+    shapeID: 22746128B36781349389855
+  KotaTidoreKepulauanAdm2IDN:
+    admin_name: KotaTidoreKepulauan
+    iso3c: IDN
+    shapeID: 22746128B24002479708791
+  KotaTomohonAdm2IDN:
+    admin_name: KotaTomohon
+    iso3c: IDN
+    shapeID: 22746128B12552284418793
+  KotaTualAdm2IDN:
+    admin_name: KotaTual
+    iso3c: IDN
+    shapeID: 22746128B79752231805890
+  KotawaringinBaratAdm2IDN:
+    admin_name: KotawaringinBarat
+    iso3c: IDN
+    shapeID: 22746128B93777795819955
+  KotawaringinTimurAdm2IDN:
+    admin_name: KotawaringinTimur
+    iso3c: IDN
+    shapeID: 22746128B94284518008212
+  KotaYogyakartaAdm2IDN:
+    admin_name: KotaYogyakarta
+    iso3c: IDN
+    shapeID: 22746128B9761158776103
+  KuantanSingingiAdm2IDN:
+    admin_name: KuantanSingingi
+    iso3c: IDN
+    shapeID: 22746128B8182037452639
+  KubuRayaAdm2IDN:
+    admin_name: KubuRaya
+    iso3c: IDN
+    shapeID: 22746128B69090577702614
+  KudusAdm2IDN:
+    admin_name: Kudus
+    iso3c: IDN
+    shapeID: 22746128B61967707401144
+  KulonProgoAdm2IDN:
+    admin_name: KulonProgo
+    iso3c: IDN
+    shapeID: 22746128B43033686501526
+  KuninganAdm2IDN:
+    admin_name: Kuningan
+    iso3c: IDN
+    shapeID: 22746128B44289127403365
+  KupangAdm2IDN:
+    admin_name: Kupang
+    iso3c: IDN
+    shapeID: 22746128B27765258797580
+  KutaiBaratAdm2IDN:
+    admin_name: KutaiBarat
+    iso3c: IDN
+    shapeID: 22746128B93368126922918
+  KutaiKartanegaraAdm2IDN:
+    admin_name: KutaiKartanegara
+    iso3c: IDN
+    shapeID: 22746128B55621143702768
+  KutaiTimurAdm2IDN:
+    admin_name: KutaiTimur
+    iso3c: IDN
+    shapeID: 22746128B75924443266043
+  LabuhanBatuAdm2IDN:
+    admin_name: LabuhanBatu
+    iso3c: IDN
+    shapeID: 22746128B75065966155231
+  LabuhanBatuSelatanAdm2IDN:
+    admin_name: LabuhanBatuSelatan
+    iso3c: IDN
+    shapeID: 22746128B23995987640193
+  LabuhanBatuUtaraAdm2IDN:
+    admin_name: LabuhanBatuUtara
+    iso3c: IDN
+    shapeID: 22746128B7095356521044
+  LahatAdm2IDN:
+    admin_name: Lahat
+    iso3c: IDN
+    shapeID: 22746128B84107388414918
+  LamandauAdm2IDN:
+    admin_name: Lamandau
+    iso3c: IDN
+    shapeID: 22746128B62127435888540
+  LamonganAdm2IDN:
+    admin_name: Lamongan
+    iso3c: IDN
+    shapeID: 22746128B62762388436916
+  LampungAdm1IDN:
+    admin_name: Lampung
+    iso3c: IDN
+    shapeID: 65028918B88589358118692
+  LampungBaratAdm2IDN:
+    admin_name: LampungBarat
+    iso3c: IDN
+    shapeID: 22746128B74428971192525
+  LampungSelatanAdm2IDN:
+    admin_name: LampungSelatan
+    iso3c: IDN
+    shapeID: 22746128B4401734887211
+  LampungTengahAdm2IDN:
+    admin_name: LampungTengah
+    iso3c: IDN
+    shapeID: 22746128B57273633041967
+  LampungTimurAdm2IDN:
+    admin_name: LampungTimur
+    iso3c: IDN
+    shapeID: 22746128B49036162018248
+  LampungUtaraAdm2IDN:
+    admin_name: LampungUtara
+    iso3c: IDN
+    shapeID: 22746128B16659764843822
+  LandakAdm2IDN:
+    admin_name: Landak
+    iso3c: IDN
+    shapeID: 22746128B55433427549228
+  LangkatAdm2IDN:
+    admin_name: Langkat
+    iso3c: IDN
+    shapeID: 22746128B45262154134474
+  LannyJayaAdm2IDN:
+    admin_name: LannyJaya
+    iso3c: IDN
+    shapeID: 22746128B21145180666794
+  LebakAdm2IDN:
+    admin_name: Lebak
+    iso3c: IDN
+    shapeID: 22746128B73767534141998
+  LebongAdm2IDN:
+    admin_name: Lebong
+    iso3c: IDN
+    shapeID: 22746128B6914990948320
+  LembataAdm2IDN:
+    admin_name: Lembata
+    iso3c: IDN
+    shapeID: 22746128B62947944336237
+  LimaPuluhKotaAdm2IDN:
+    admin_name: LimaPuluhKota
+    iso3c: IDN
+    shapeID: 22746128B97954273808268
+  LinggaAdm2IDN:
+    admin_name: Lingga
+    iso3c: IDN
+    shapeID: 22746128B41866695352092
+  LombokBaratAdm2IDN:
+    admin_name: LombokBarat
+    iso3c: IDN
+    shapeID: 22746128B38668827904245
+  LombokTengahAdm2IDN:
+    admin_name: LombokTengah
+    iso3c: IDN
+    shapeID: 22746128B98880758851169
+  LombokTimurAdm2IDN:
+    admin_name: LombokTimur
+    iso3c: IDN
+    shapeID: 22746128B55307338459902
+  LombokUtaraAdm2IDN:
+    admin_name: LombokUtara
+    iso3c: IDN
+    shapeID: 22746128B90862663975631
+  LumajangAdm2IDN:
+    admin_name: Lumajang
+    iso3c: IDN
+    shapeID: 22746128B76070527787319
+  LuwuAdm2IDN:
+    admin_name: Luwu
+    iso3c: IDN
+    shapeID: 22746128B94521952332625
+  LuwuTimurAdm2IDN:
+    admin_name: LuwuTimur
+    iso3c: IDN
+    shapeID: 22746128B1110744719374
+  LuwuUtaraAdm2IDN:
+    admin_name: LuwuUtara
+    iso3c: IDN
+    shapeID: 22746128B26232805086319
+  MadiunAdm2IDN:
+    admin_name: Madiun
+    iso3c: IDN
+    shapeID: 22746128B56340035124164
+  MagelangAdm2IDN:
+    admin_name: Magelang
+    iso3c: IDN
+    shapeID: 22746128B50341569898666
+  MagetanAdm2IDN:
+    admin_name: Magetan
+    iso3c: IDN
+    shapeID: 22746128B43524249433579
+  MahakamHuluAdm2IDN:
+    admin_name: MahakamHulu
+    iso3c: IDN
+    shapeID: 22746128B30313932055345
+  MajalengkaAdm2IDN:
+    admin_name: Majalengka
+    iso3c: IDN
+    shapeID: 22746128B87647472826371
+  MajeneAdm2IDN:
+    admin_name: Majene
+    iso3c: IDN
+    shapeID: 22746128B56869239776422
+  MalakaAdm2IDN:
+    admin_name: Malaka
+    iso3c: IDN
+    shapeID: 22746128B56140662064287
+  MalangAdm2IDN:
+    admin_name: Malang
+    iso3c: IDN
+    shapeID: 22746128B8866265958554
+  MalinauAdm2IDN:
+    admin_name: Malinau
+    iso3c: IDN
+    shapeID: 22746128B54632748429230
+  MalukuAdm1IDN:
+    admin_name: Maluku
+    iso3c: IDN
+    shapeID: 65028918B48178230554278
+  MalukuBaratDayaAdm2IDN:
+    admin_name: MalukuBaratDaya
+    iso3c: IDN
+    shapeID: 22746128B88480653802061
+  MalukuTengahAdm2IDN:
+    admin_name: MalukuTengah
+    iso3c: IDN
+    shapeID: 22746128B41463091507887
+  MalukuTenggaraAdm2IDN:
+    admin_name: MalukuTenggara
+    iso3c: IDN
+    shapeID: 22746128B6545713511337
+  MalukuTenggaraBaratAdm2IDN:
+    admin_name: MalukuTenggaraBarat
+    iso3c: IDN
+    shapeID: 22746128B78864950196660
+  MamasaAdm2IDN:
+    admin_name: Mamasa
+    iso3c: IDN
+    shapeID: 22746128B65559589019405
+  MamberamoRayaAdm2IDN:
+    admin_name: MamberamoRaya
+    iso3c: IDN
+    shapeID: 22746128B39960960221771
+  MamberamoTengahAdm2IDN:
+    admin_name: MamberamoTengah
+    iso3c: IDN
+    shapeID: 22746128B2349164731379
+  MamujuAdm2IDN:
+    admin_name: Mamuju
+    iso3c: IDN
+    shapeID: 22746128B65468173429736
+  MamujuTengahAdm2IDN:
+    admin_name: MamujuTengah
+    iso3c: IDN
+    shapeID: 22746128B49136567123703
+  MamujuUtaraAdm2IDN:
+    admin_name: MamujuUtara
+    iso3c: IDN
+    shapeID: 22746128B5634485200629
+  MandailingNatalAdm2IDN:
+    admin_name: MandailingNatal
+    iso3c: IDN
+    shapeID: 22746128B80893459197040
+  ManggaraiAdm2IDN:
+    admin_name: Manggarai
+    iso3c: IDN
+    shapeID: 22746128B41361424069199
+  ManggaraiBaratAdm2IDN:
+    admin_name: ManggaraiBarat
+    iso3c: IDN
+    shapeID: 22746128B27819456459641
+  ManggaraiTimurAdm2IDN:
+    admin_name: ManggaraiTimur
+    iso3c: IDN
+    shapeID: 22746128B57997288446056
+  ManokwariAdm2IDN:
+    admin_name: Manokwari
+    iso3c: IDN
+    shapeID: 22746128B58641314112332
+  ManokwariSelatanAdm2IDN:
+    admin_name: ManokwariSelatan
+    iso3c: IDN
+    shapeID: 22746128B90822416479405
+  MappiAdm2IDN:
+    admin_name: Mappi
+    iso3c: IDN
+    shapeID: 22746128B63262525003276
+  MarosAdm2IDN:
+    admin_name: Maros
+    iso3c: IDN
+    shapeID: 22746128B73491405172020
+  MaybratAdm2IDN:
+    admin_name: Maybrat
+    iso3c: IDN
+    shapeID: 22746128B44891092584435
+  MelawiAdm2IDN:
+    admin_name: Melawi
+    iso3c: IDN
+    shapeID: 22746128B3341090541732
+  MempawahAdm2IDN:
+    admin_name: Mempawah
+    iso3c: IDN
+    shapeID: 22746128B13218426778114
+  MeranginAdm2IDN:
+    admin_name: Merangin
+    iso3c: IDN
+    shapeID: 22746128B71403115718321
+  MeraukeAdm2IDN:
+    admin_name: Merauke
+    iso3c: IDN
+    shapeID: 22746128B65756496772256
+  MesujiAdm2IDN:
+    admin_name: Mesuji
+    iso3c: IDN
+    shapeID: 22746128B5734020897269
+  MimikaAdm2IDN:
+    admin_name: Mimika
+    iso3c: IDN
+    shapeID: 22746128B99426029309213
+  MinahasaAdm2IDN:
+    admin_name: Minahasa
+    iso3c: IDN
+    shapeID: 22746128B63895215577583
+  MinahasaSelatanAdm2IDN:
+    admin_name: MinahasaSelatan
+    iso3c: IDN
+    shapeID: 22746128B98133955192071
+  MinahasaTenggaraAdm2IDN:
+    admin_name: MinahasaTenggara
+    iso3c: IDN
+    shapeID: 22746128B38105670760260
+  MinahasaUtaraAdm2IDN:
+    admin_name: MinahasaUtara
+    iso3c: IDN
+    shapeID: 22746128B90516172699691
+  MojokertoAdm2IDN:
+    admin_name: Mojokerto
+    iso3c: IDN
+    shapeID: 22746128B795310620233
+  MorowaliAdm2IDN:
+    admin_name: Morowali
+    iso3c: IDN
+    shapeID: 22746128B26432903559283
+  MorowaliUtaraAdm2IDN:
+    admin_name: MorowaliUtara
+    iso3c: IDN
+    shapeID: 22746128B96188894812390
+  MuaraEnimAdm2IDN:
+    admin_name: MuaraEnim
+    iso3c: IDN
+    shapeID: 22746128B32446581498560
+  MuaroJambiAdm2IDN:
+    admin_name: MuaroJambi
+    iso3c: IDN
+    shapeID: 22746128B29274337249674
+  MukomukoAdm2IDN:
+    admin_name: Mukomuko
+    iso3c: IDN
+    shapeID: 22746128B39825953538573
+  MunaAdm2IDN:
+    admin_name: Muna
+    iso3c: IDN
+    shapeID: 22746128B70372019871554
+  MunaBaratAdm2IDN:
+    admin_name: MunaBarat
+    iso3c: IDN
+    shapeID: 22746128B23924471266348
+  MurungRayaAdm2IDN:
+    admin_name: MurungRaya
+    iso3c: IDN
+    shapeID: 22746128B54866510421393
+  MusiBanyuasinAdm2IDN:
+    admin_name: MusiBanyuasin
+    iso3c: IDN
+    shapeID: 22746128B84212736337013
+  MusiRawasAdm2IDN:
+    admin_name: MusiRawas
+    iso3c: IDN
+    shapeID: 22746128B56500782521831
+  MusiRawasUtaraAdm2IDN:
+    admin_name: MusiRawasUtara
+    iso3c: IDN
+    shapeID: 22746128B26074251210079
+  NabireAdm2IDN:
+    admin_name: Nabire
+    iso3c: IDN
+    shapeID: 22746128B29146649309875
+  NaganRayaAdm2IDN:
+    admin_name: NaganRaya
+    iso3c: IDN
+    shapeID: 22746128B8237986094994
+  NagekeoAdm2IDN:
+    admin_name: Nagekeo
+    iso3c: IDN
+    shapeID: 22746128B97494513966687
+  NatunaAdm2IDN:
+    admin_name: Natuna
+    iso3c: IDN
+    shapeID: 22746128B6637644559706
+  NdugaAdm2IDN:
+    admin_name: Nduga
+    iso3c: IDN
+    shapeID: 22746128B7624163664321
+  NgadaAdm2IDN:
+    admin_name: Ngada
+    iso3c: IDN
+    shapeID: 22746128B33181363193361
+  NganjukAdm2IDN:
+    admin_name: Nganjuk
+    iso3c: IDN
+    shapeID: 22746128B46559606025688
+  NgawiAdm2IDN:
+    admin_name: Ngawi
+    iso3c: IDN
+    shapeID: 22746128B17210029520680
+  NiasAdm2IDN:
+    admin_name: Nias
+    iso3c: IDN
+    shapeID: 22746128B114560941686
+  NiasBaratAdm2IDN:
+    admin_name: NiasBarat
+    iso3c: IDN
+    shapeID: 22746128B23007358779926
+  NiasSelatanAdm2IDN:
+    admin_name: NiasSelatan
+    iso3c: IDN
+    shapeID: 22746128B70987165350034
+  NiasUtaraAdm2IDN:
+    admin_name: NiasUtara
+    iso3c: IDN
+    shapeID: 22746128B50601239773602
+  NorthKalimantanAdm1IDN:
+    admin_name: NorthKalimantan
+    iso3c: IDN
+    shapeID: 65028918B52923737893214
+  NorthMalukuAdm1IDN:
+    admin_name: NorthMaluku
+    iso3c: IDN
+    shapeID: 65028918B51364455052819
+  NorthSulawesiAdm1IDN:
+    admin_name: NorthSulawesi
+    iso3c: IDN
+    shapeID: 65028918B26897900130576
+  NorthSumatraAdm1IDN:
+    admin_name: NorthSumatra
+    iso3c: IDN
+    shapeID: 65028918B37605681672150
+  NunukanAdm2IDN:
+    admin_name: Nunukan
+    iso3c: IDN
+    shapeID: 22746128B24707766174966
+  OganIlirAdm2IDN:
+    admin_name: OganIlir
+    iso3c: IDN
+    shapeID: 22746128B50783491652131
+  OganKomeringIlirAdm2IDN:
+    admin_name: OganKomeringIlir
+    iso3c: IDN
+    shapeID: 22746128B6554957987252
+  OganKomeringUluAdm2IDN:
+    admin_name: OganKomeringUlu
+    iso3c: IDN
+    shapeID: 22746128B55651065226017
+  OganKomeringUluSelatanAdm2IDN:
+    admin_name: OganKomeringUluSelatan
+    iso3c: IDN
+    shapeID: 22746128B38683854456350
+  OganKomeringUluTimurAdm2IDN:
+    admin_name: OganKomeringUluTimur
+    iso3c: IDN
+    shapeID: 22746128B29719145941035
+  PacitanAdm2IDN:
+    admin_name: Pacitan
+    iso3c: IDN
+    shapeID: 22746128B46377021687256
+  PadangLawasAdm2IDN:
+    admin_name: PadangLawas
+    iso3c: IDN
+    shapeID: 22746128B18337582481574
+  PadangLawasUtaraAdm2IDN:
+    admin_name: PadangLawasUtara
+    iso3c: IDN
+    shapeID: 22746128B6160471216736
+  PadangPariamanAdm2IDN:
+    admin_name: PadangPariaman
+    iso3c: IDN
+    shapeID: 22746128B3683779023382
+  PakpakBharatAdm2IDN:
+    admin_name: PakpakBharat
+    iso3c: IDN
+    shapeID: 22746128B12751431115951
+  PamekasanAdm2IDN:
+    admin_name: Pamekasan
+    iso3c: IDN
+    shapeID: 22746128B37926964335633
+  PandeglangAdm2IDN:
+    admin_name: Pandeglang
+    iso3c: IDN
+    shapeID: 22746128B79755996911998
+  PangandaranAdm2IDN:
+    admin_name: Pangandaran
+    iso3c: IDN
+    shapeID: 22746128B59857718615465
+  PangkajeneDanKepulauanAdm2IDN:
+    admin_name: PangkajeneDanKepulauan
+    iso3c: IDN
+    shapeID: 22746128B84288456023840
+  PaniaiAdm2IDN:
+    admin_name: Paniai
+    iso3c: IDN
+    shapeID: 22746128B72382312298600
+  PapuaAdm1IDN:
+    admin_name: Papua
+    iso3c: IDN
+    shapeID: 65028918B16658067687714
+  ParigiMoutongAdm2IDN:
+    admin_name: ParigiMoutong
+    iso3c: IDN
+    shapeID: 22746128B5854376167403
+  PasamanAdm2IDN:
+    admin_name: Pasaman
+    iso3c: IDN
+    shapeID: 22746128B82897046958257
+  PasamanBaratAdm2IDN:
+    admin_name: PasamanBarat
+    iso3c: IDN
+    shapeID: 22746128B95220206981522
+  PaserAdm2IDN:
+    admin_name: Paser
+    iso3c: IDN
+    shapeID: 22746128B17746000623405
+  PasuruanAdm2IDN:
+    admin_name: Pasuruan
+    iso3c: IDN
+    shapeID: 22746128B81373906315979
+  PatiAdm2IDN:
+    admin_name: Pati
+    iso3c: IDN
+    shapeID: 22746128B37789509782125
+  PegununganArfakAdm2IDN:
+    admin_name: PegununganArfak
+    iso3c: IDN
+    shapeID: 22746128B30560862468368
+  PegununganBintangAdm2IDN:
+    admin_name: PegununganBintang
+    iso3c: IDN
+    shapeID: 22746128B40289792856685
+  PekalonganAdm2IDN:
+    admin_name: Pekalongan
+    iso3c: IDN
+    shapeID: 22746128B43405552393366
+  PelalawanAdm2IDN:
+    admin_name: Pelalawan
+    iso3c: IDN
+    shapeID: 22746128B44055596539945
+  PemalangAdm2IDN:
+    admin_name: Pemalang
+    iso3c: IDN
+    shapeID: 22746128B43122306499336
+  PenajamPaserUtaraAdm2IDN:
+    admin_name: PenajamPaserUtara
+    iso3c: IDN
+    shapeID: 22746128B96540112180119
+  PenukalAbabLematangIlirAdm2IDN:
+    admin_name: PenukalAbabLematangIlir
+    iso3c: IDN
+    shapeID: 22746128B2393542990028
+  PesawaranAdm2IDN:
+    admin_name: Pesawaran
+    iso3c: IDN
+    shapeID: 22746128B94381737455512
+  PesisirBaratAdm2IDN:
+    admin_name: PesisirBarat
+    iso3c: IDN
+    shapeID: 22746128B87029922352837
+  PesisirSelatanAdm2IDN:
+    admin_name: PesisirSelatan
+    iso3c: IDN
+    shapeID: 22746128B35993392452682
+  PidieAdm2IDN:
+    admin_name: Pidie
+    iso3c: IDN
+    shapeID: 22746128B35853530005037
+  PidieJayaAdm2IDN:
+    admin_name: PidieJaya
+    iso3c: IDN
+    shapeID: 22746128B77747107542596
+  PinrangAdm2IDN:
+    admin_name: Pinrang
+    iso3c: IDN
+    shapeID: 22746128B71783882222616
+  PohuwatoAdm2IDN:
+    admin_name: Pohuwato
+    iso3c: IDN
+    shapeID: 22746128B36723886609479
+  PolewaliMandarAdm2IDN:
+    admin_name: PolewaliMandar
+    iso3c: IDN
+    shapeID: 22746128B50766380968306
+  PonorogoAdm2IDN:
+    admin_name: Ponorogo
+    iso3c: IDN
+    shapeID: 22746128B39928875112308
+  PosoAdm2IDN:
+    admin_name: Poso
+    iso3c: IDN
+    shapeID: 22746128B71918225941207
+  PringsewuAdm2IDN:
+    admin_name: Pringsewu
+    iso3c: IDN
+    shapeID: 22746128B80903663444835
+  ProbolinggoAdm2IDN:
+    admin_name: Probolinggo
+    iso3c: IDN
+    shapeID: 22746128B57336658570108
+  PulangPisauAdm2IDN:
+    admin_name: PulangPisau
+    iso3c: IDN
+    shapeID: 22746128B75083695068268
+  PulauMorotaiAdm2IDN:
+    admin_name: PulauMorotai
+    iso3c: IDN
+    shapeID: 22746128B67952855762127
+  PulauTaliabuAdm2IDN:
+    admin_name: PulauTaliabu
+    iso3c: IDN
+    shapeID: 22746128B98781354669228
+  PuncakAdm2IDN:
+    admin_name: Puncak
+    iso3c: IDN
+    shapeID: 22746128B1222572676249
+  PuncakJayaAdm2IDN:
+    admin_name: PuncakJaya
+    iso3c: IDN
+    shapeID: 22746128B50358350022934
+  PurbalinggaAdm2IDN:
+    admin_name: Purbalingga
+    iso3c: IDN
+    shapeID: 22746128B86887436396051
+  PurwakartaAdm2IDN:
+    admin_name: Purwakarta
+    iso3c: IDN
+    shapeID: 22746128B43709097539954
+  PurworejoAdm2IDN:
+    admin_name: Purworejo
+    iso3c: IDN
+    shapeID: 22746128B47019757463267
+  RajaAmpatAdm2IDN:
+    admin_name: RajaAmpat
+    iso3c: IDN
+    shapeID: 22746128B90221566890304
+  RejangLebongAdm2IDN:
+    admin_name: RejangLebong
+    iso3c: IDN
+    shapeID: 22746128B47928451075254
+  RembangAdm2IDN:
+    admin_name: Rembang
+    iso3c: IDN
+    shapeID: 22746128B94981829239468
+  RiauAdm1IDN:
+    admin_name: Riau
+    iso3c: IDN
+    shapeID: 65028918B11286430647546
+  RiauIslandsAdm1IDN:
+    admin_name: RiauIslands
+    iso3c: IDN
+    shapeID: 65028918B90123187256494
+  RokanHilirAdm2IDN:
+    admin_name: RokanHilir
+    iso3c: IDN
+    shapeID: 22746128B71759944188311
+  RokanHuluAdm2IDN:
+    admin_name: RokanHulu
+    iso3c: IDN
+    shapeID: 22746128B35208725321264
+  RoteNdaoAdm2IDN:
+    admin_name: RoteNdao
+    iso3c: IDN
+    shapeID: 22746128B61006797400672
+  SabuRaijuaAdm2IDN:
+    admin_name: SabuRaijua
+    iso3c: IDN
+    shapeID: 22746128B67076907647447
+  SambasAdm2IDN:
+    admin_name: Sambas
+    iso3c: IDN
+    shapeID: 22746128B87993072617697
+  SamosirAdm2IDN:
+    admin_name: Samosir
+    iso3c: IDN
+    shapeID: 22746128B81816662901100
+  SampangAdm2IDN:
+    admin_name: Sampang
+    iso3c: IDN
+    shapeID: 22746128B2542813239591
+  SanggauAdm2IDN:
+    admin_name: Sanggau
+    iso3c: IDN
+    shapeID: 22746128B74989070523542
+  SarmiAdm2IDN:
+    admin_name: Sarmi
+    iso3c: IDN
+    shapeID: 22746128B27261093121909
+  SarolangunAdm2IDN:
+    admin_name: Sarolangun
+    iso3c: IDN
+    shapeID: 22746128B44731308508060
+  SekadauAdm2IDN:
+    admin_name: Sekadau
+    iso3c: IDN
+    shapeID: 22746128B16160803458764
+  SelumaAdm2IDN:
+    admin_name: Seluma
+    iso3c: IDN
+    shapeID: 22746128B87861638449066
+  SemarangAdm2IDN:
+    admin_name: Semarang
+    iso3c: IDN
+    shapeID: 22746128B46914217687538
+  SeramBagianBaratAdm2IDN:
+    admin_name: SeramBagianBarat
+    iso3c: IDN
+    shapeID: 22746128B92585048181027
+  SeramBagianTimurAdm2IDN:
+    admin_name: SeramBagianTimur
+    iso3c: IDN
+    shapeID: 22746128B38603798591380
+  SerangAdm2IDN:
+    admin_name: Serang
+    iso3c: IDN
+    shapeID: 22746128B3242616561013
+  SerdangBedagaiAdm2IDN:
+    admin_name: SerdangBedagai
+    iso3c: IDN
+    shapeID: 22746128B52277249956552
+  SeruyanAdm2IDN:
+    admin_name: Seruyan
+    iso3c: IDN
+    shapeID: 22746128B10156150641021
+  SiakAdm2IDN:
+    admin_name: Siak
+    iso3c: IDN
+    shapeID: 22746128B48036345674071
+  SiauTagulandangBiaroAdm2IDN:
+    admin_name: SiauTagulandangBiaro
+    iso3c: IDN
+    shapeID: 22746128B24839603722983
+  SidenrengRappangAdm2IDN:
+    admin_name: SidenrengRappang
+    iso3c: IDN
+    shapeID: 22746128B89870320898123
+  SidoarjoAdm2IDN:
+    admin_name: Sidoarjo
+    iso3c: IDN
+    shapeID: 22746128B7257810863239
+  SigiAdm2IDN:
+    admin_name: Sigi
+    iso3c: IDN
+    shapeID: 22746128B27078250924142
+  SijunjungAdm2IDN:
+    admin_name: Sijunjung
+    iso3c: IDN
+    shapeID: 22746128B5140836931072
+  SikkaAdm2IDN:
+    admin_name: Sikka
+    iso3c: IDN
+    shapeID: 22746128B25889265457696
+  SimalungunAdm2IDN:
+    admin_name: Simalungun
+    iso3c: IDN
+    shapeID: 22746128B18371020983209
+  SimeulueAdm2IDN:
+    admin_name: Simeulue
+    iso3c: IDN
+    shapeID: 22746128B32199422560180
+  SinjaiAdm2IDN:
+    admin_name: Sinjai
+    iso3c: IDN
+    shapeID: 22746128B62270956264702
+  SintangAdm2IDN:
+    admin_name: Sintang
+    iso3c: IDN
+    shapeID: 22746128B74245273608062
+  SitubondoAdm2IDN:
+    admin_name: Situbondo
+    iso3c: IDN
+    shapeID: 22746128B65817775308435
+  SlemanAdm2IDN:
+    admin_name: Sleman
+    iso3c: IDN
+    shapeID: 22746128B68764842139539
+  SolokAdm2IDN:
+    admin_name: Solok
+    iso3c: IDN
+    shapeID: 22746128B59065860162276
+  SolokSelatanAdm2IDN:
+    admin_name: SolokSelatan
+    iso3c: IDN
+    shapeID: 22746128B25846553351835
+  SoppengAdm2IDN:
+    admin_name: Soppeng
+    iso3c: IDN
+    shapeID: 22746128B93867843889604
+  SorongAdm2IDN:
+    admin_name: Sorong
+    iso3c: IDN
+    shapeID: 22746128B25112391877259
+  SorongSelatanAdm2IDN:
+    admin_name: SorongSelatan
+    iso3c: IDN
+    shapeID: 22746128B99267537228675
+  SoutheastSulawesiAdm1IDN:
+    admin_name: SoutheastSulawesi
+    iso3c: IDN
+    shapeID: 65028918B94007491868798
+  SouthKalimantanAdm1IDN:
+    admin_name: SouthKalimantan
+    iso3c: IDN
+    shapeID: 65028918B30993740608215
+  SouthSulawesiAdm1IDN:
+    admin_name: SouthSulawesi
+    iso3c: IDN
+    shapeID: 65028918B17554737605304
+  SouthSumatraAdm1IDN:
+    admin_name: SouthSumatra
+    iso3c: IDN
+    shapeID: 65028918B9551391119865
+  SpecialRegionofYogyakartaAdm1IDN:
+    admin_name: SpecialRegionofYogyakarta
+    iso3c: IDN
+    shapeID: 65028918B6070530336190
+  SragenAdm2IDN:
+    admin_name: Sragen
+    iso3c: IDN
+    shapeID: 22746128B28263166501815
+  SubangAdm2IDN:
+    admin_name: Subang
+    iso3c: IDN
+    shapeID: 22746128B90150108137034
+  SukabumiAdm2IDN:
+    admin_name: Sukabumi
+    iso3c: IDN
+    shapeID: 22746128B66929526216355
+  SukamaraAdm2IDN:
+    admin_name: Sukamara
+    iso3c: IDN
+    shapeID: 22746128B44365111458704
+  SukoharjoAdm2IDN:
+    admin_name: Sukoharjo
+    iso3c: IDN
+    shapeID: 22746128B41417259813102
+  SumbaBaratAdm2IDN:
+    admin_name: SumbaBarat
+    iso3c: IDN
+    shapeID: 22746128B3578697728098
+  SumbaBaratDayaAdm2IDN:
+    admin_name: SumbaBaratDaya
+    iso3c: IDN
+    shapeID: 22746128B80160169684098
+  SumbaTengahAdm2IDN:
+    admin_name: SumbaTengah
+    iso3c: IDN
+    shapeID: 22746128B11743482298506
+  SumbaTimurAdm2IDN:
+    admin_name: SumbaTimur
+    iso3c: IDN
+    shapeID: 22746128B15873256673931
+  SumbawaAdm2IDN:
+    admin_name: Sumbawa
+    iso3c: IDN
+    shapeID: 22746128B848155691224
+  SumbawaBaratAdm2IDN:
+    admin_name: SumbawaBarat
+    iso3c: IDN
+    shapeID: 22746128B87271379033569
+  SumedangAdm2IDN:
+    admin_name: Sumedang
+    iso3c: IDN
+    shapeID: 22746128B19624873108228
+  SumenepAdm2IDN:
+    admin_name: Sumenep
+    iso3c: IDN
+    shapeID: 22746128B46307112426649
+  SupioriAdm2IDN:
+    admin_name: Supiori
+    iso3c: IDN
+    shapeID: 22746128B73598541988454
+  TabalongAdm2IDN:
+    admin_name: Tabalong
+    iso3c: IDN
+    shapeID: 22746128B29828162207979
+  TabananAdm2IDN:
+    admin_name: Tabanan
+    iso3c: IDN
+    shapeID: 22746128B4646422714630
+  TakalarAdm2IDN:
+    admin_name: Takalar
+    iso3c: IDN
+    shapeID: 22746128B33549586615312
+  TambrauwAdm2IDN:
+    admin_name: Tambrauw
+    iso3c: IDN
+    shapeID: 22746128B68810971865676
+  TanahBumbuAdm2IDN:
+    admin_name: TanahBumbu
+    iso3c: IDN
+    shapeID: 22746128B5843223707622
+  TanahDatarAdm2IDN:
+    admin_name: TanahDatar
+    iso3c: IDN
+    shapeID: 22746128B43985885623603
+  TanahLautAdm2IDN:
+    admin_name: TanahLaut
+    iso3c: IDN
+    shapeID: 22746128B54914598899185
+  TanaTidungAdm2IDN:
+    admin_name: TanaTidung
+    iso3c: IDN
+    shapeID: 22746128B22343651246279
+  TanaTorajaAdm2IDN:
+    admin_name: TanaToraja
+    iso3c: IDN
+    shapeID: 22746128B55477646801661
+  TangerangAdm2IDN:
+    admin_name: Tangerang
+    iso3c: IDN
+    shapeID: 22746128B62876177397182
+  TanggamusAdm2IDN:
+    admin_name: Tanggamus
+    iso3c: IDN
+    shapeID: 22746128B69666188283297
+  TanjungJabungBaratAdm2IDN:
+    admin_name: TanjungJabungBarat
+    iso3c: IDN
+    shapeID: 22746128B97653119007289
+  TanjungJabungTimurAdm2IDN:
+    admin_name: TanjungJabungTimur
+    iso3c: IDN
+    shapeID: 22746128B13468366985120
+  TapanuliSelatanAdm2IDN:
+    admin_name: TapanuliSelatan
+    iso3c: IDN
+    shapeID: 22746128B22210082667393
+  TapanuliTengahAdm2IDN:
+    admin_name: TapanuliTengah
+    iso3c: IDN
+    shapeID: 22746128B86210793324026
+  TapanuliUtaraAdm2IDN:
+    admin_name: TapanuliUtara
+    iso3c: IDN
+    shapeID: 22746128B99937545443202
+  TapinAdm2IDN:
+    admin_name: Tapin
+    iso3c: IDN
+    shapeID: 22746128B54842505361870
+  TasikmalayaAdm2IDN:
+    admin_name: Tasikmalaya
+    iso3c: IDN
+    shapeID: 22746128B89217704079934
+  TeboAdm2IDN:
+    admin_name: Tebo
+    iso3c: IDN
+    shapeID: 22746128B61304276790881
+  TegalAdm2IDN:
+    admin_name: Tegal
+    iso3c: IDN
+    shapeID: 22746128B39713682939315
+  TelukBintuniAdm2IDN:
+    admin_name: TelukBintuni
+    iso3c: IDN
+    shapeID: 22746128B11480476919105
+  TelukWondamaAdm2IDN:
+    admin_name: TelukWondama
+    iso3c: IDN
+    shapeID: 22746128B47515282892276
+  TemanggungAdm2IDN:
+    admin_name: Temanggung
+    iso3c: IDN
+    shapeID: 22746128B37534287210764
+  TimorTengahSelatanAdm2IDN:
+    admin_name: TimorTengahSelatan
+    iso3c: IDN
+    shapeID: 22746128B39495189442435
+  TimorTengahUtaraAdm2IDN:
+    admin_name: TimorTengahUtara
+    iso3c: IDN
+    shapeID: 22746128B66987763142599
+  TobaSamosirAdm2IDN:
+    admin_name: TobaSamosir
+    iso3c: IDN
+    shapeID: 22746128B48431928866564
+  TojoUna-UnaAdm2IDN:
+    admin_name: TojoUna-Una
+    iso3c: IDN
+    shapeID: 22746128B20933115656615
+  Toli-ToliAdm2IDN:
+    admin_name: Toli-Toli
+    iso3c: IDN
+    shapeID: 22746128B86630799177927
+  TolikaraAdm2IDN:
+    admin_name: Tolikara
+    iso3c: IDN
+    shapeID: 22746128B10432975654062
+  TorajaUtaraAdm2IDN:
+    admin_name: TorajaUtara
+    iso3c: IDN
+    shapeID: 22746128B99951949618583
+  TrenggalekAdm2IDN:
+    admin_name: Trenggalek
+    iso3c: IDN
+    shapeID: 22746128B86316028646138
+  TubanAdm2IDN:
+    admin_name: Tuban
+    iso3c: IDN
+    shapeID: 22746128B21203406788524
+  TulangbawangAdm2IDN:
+    admin_name: Tulangbawang
+    iso3c: IDN
+    shapeID: 22746128B49188423555547
+  TulangBawangBaratAdm2IDN:
+    admin_name: TulangBawangBarat
+    iso3c: IDN
+    shapeID: 22746128B7348236235073
+  TulungagungAdm2IDN:
+    admin_name: Tulungagung
+    iso3c: IDN
+    shapeID: 22746128B2754392863745
+  WadukCirataAdm2IDN:
+    admin_name: WadukCirata
+    iso3c: IDN
+    shapeID: 22746128B76055711701199
+  WadungKedungomboAdm2IDN:
+    admin_name: WadungKedungombo
+    iso3c: IDN
+    shapeID: 22746128B86942252851890
+  WajoAdm2IDN:
+    admin_name: Wajo
+    iso3c: IDN
+    shapeID: 22746128B4429389080756
+  WakatobiAdm2IDN:
+    admin_name: Wakatobi
+    iso3c: IDN
+    shapeID: 22746128B42553963392557
+  WaropenAdm2IDN:
+    admin_name: Waropen
+    iso3c: IDN
+    shapeID: 22746128B12986554349068
+  WayKananAdm2IDN:
+    admin_name: WayKanan
+    iso3c: IDN
+    shapeID: 22746128B8708218473228
+  WestJavaAdm1IDN:
+    admin_name: WestJava
+    iso3c: IDN
+    shapeID: 65028918B28366581005022
+  WestKalimantanAdm1IDN:
+    admin_name: WestKalimantan
+    iso3c: IDN
+    shapeID: 65028918B19721185942402
+  WestNusaTenggaraAdm1IDN:
+    admin_name: WestNusaTenggara
+    iso3c: IDN
+    shapeID: 65028918B98829509874887
+  WestPapuaAdm1IDN:
+    admin_name: WestPapua
+    iso3c: IDN
+    shapeID: 65028918B84835514626455
+  WestSulawesiAdm1IDN:
+    admin_name: WestSulawesi
+    iso3c: IDN
+    shapeID: 65028918B46678513676023
+  WestSumatraAdm1IDN:
+    admin_name: WestSumatra
+    iso3c: IDN
+    shapeID: 65028918B4119458748300
+  WonogiriAdm2IDN:
+    admin_name: Wonogiri
+    iso3c: IDN
+    shapeID: 22746128B32217084331074
+  WonosoboAdm2IDN:
+    admin_name: Wonosobo
+    iso3c: IDN
+    shapeID: 22746128B92173297199140
+  YahukimoAdm2IDN:
+    admin_name: Yahukimo
+    iso3c: IDN
+    shapeID: 22746128B87177062694316
+  YalimoAdm2IDN:
+    admin_name: Yalimo
+    iso3c: IDN
+    shapeID: 22746128B10188501962211

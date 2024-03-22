@@ -1,19 +1,545 @@
 concepts:
-    - Kirundo
-    - Makamba
-    - Rutana
-    - Gitega
-    - Muyinga
-    - Ngozi
-    - Rumonge
-    - Karuzi
-    - Bururi
-    - Mwaro
-    - Cankuzo
-    - BujumburaRural
-    - Cibitoke
-    - Ruyigi
-    - Bubanza
-    - Muramvya
-    - Kayanza
-    - BujumburaMairie
+  BisoroAdm2BDI:
+    admin_name: Bisoro
+    iso3c: BDI
+    shapeID: 21766830B89840065497772
+  BubanzaAdm1BDI:
+    admin_name: Bubanza
+    iso3c: BDI
+    shapeID: 87207978B36636371084075
+  BubanzaAdm2BDI:
+    admin_name: Bubanza
+    iso3c: BDI
+    shapeID: 21766830B70249907645493
+  BugabiraAdm2BDI:
+    admin_name: Bugabira
+    iso3c: BDI
+    shapeID: 21766830B53810177315638
+  BugandaAdm2BDI:
+    admin_name: Buganda
+    iso3c: BDI
+    shapeID: 21766830B2147150443328
+  BugaramaAdm2BDI:
+    admin_name: Bugarama
+    iso3c: BDI
+    shapeID: 21766830B31049489476840
+  BugendanaAdm2BDI:
+    admin_name: Bugendana
+    iso3c: BDI
+    shapeID: 21766830B71062038912102
+  BugenyuziAdm2BDI:
+    admin_name: Bugenyuzi
+    iso3c: BDI
+    shapeID: 21766830B66626516446695
+  BuhigaAdm2BDI:
+    admin_name: Buhiga
+    iso3c: BDI
+    shapeID: 21766830B23511682723630
+  BuhinyuzaAdm2BDI:
+    admin_name: Buhinyuza
+    iso3c: BDI
+    shapeID: 21766830B3809417619483
+  BujumburaMairieAdm1BDI:
+    admin_name: BujumburaMairie
+    iso3c: BDI
+    shapeID: 87207978B47636051590360
+  BujumburaRuralAdm1BDI:
+    admin_name: BujumburaRural
+    iso3c: BDI
+    shapeID: 87207978B39611815861631
+  BukembaAdm2BDI:
+    admin_name: Bukemba
+    iso3c: BDI
+    shapeID: 21766830B33206260721673
+  BukeyeAdm2BDI:
+    admin_name: Bukeye
+    iso3c: BDI
+    shapeID: 21766830B89600323039153
+  BukinanyanAdm2BDI:
+    admin_name: Bukinanyan
+    iso3c: BDI
+    shapeID: 21766830B75549003528399
+  BukirasaziAdm2BDI:
+    admin_name: Bukirasazi
+    iso3c: BDI
+    shapeID: 21766830B80629459024639
+  BurambiAdm2BDI:
+    admin_name: Burambi
+    iso3c: BDI
+    shapeID: 21766830B13270332643198
+  BurazaAdm2BDI:
+    admin_name: Buraza
+    iso3c: BDI
+    shapeID: 21766830B3303123993236
+  BururiAdm1BDI:
+    admin_name: Bururi
+    iso3c: BDI
+    shapeID: 87207978B31722215463268
+  BururiAdm2BDI:
+    admin_name: Bururi
+    iso3c: BDI
+    shapeID: 21766830B40262547233983
+  BusigaAdm2BDI:
+    admin_name: Busiga
+    iso3c: BDI
+    shapeID: 21766830B1882461017579
+  BusoniAdm2BDI:
+    admin_name: Busoni
+    iso3c: BDI
+    shapeID: 21766830B78190696569930
+  ButaganzwaAdm2BDI:
+    admin_name: Butaganzwa
+    iso3c: BDI
+    shapeID: 21766830B87758575998638
+  ButeziAdm2BDI:
+    admin_name: Butezi
+    iso3c: BDI
+    shapeID: 21766830B26044748371423
+  ButihindaAdm2BDI:
+    admin_name: Butihinda
+    iso3c: BDI
+    shapeID: 21766830B20307269846045
+  BuyengeroAdm2BDI:
+    admin_name: Buyengero
+    iso3c: BDI
+    shapeID: 21766830B72694279365930
+  BwambarangAdm2BDI:
+    admin_name: Bwambarang
+    iso3c: BDI
+    shapeID: 21766830B10882929904233
+  BweruAdm2BDI:
+    admin_name: Bweru
+    iso3c: BDI
+    shapeID: 21766830B39870041079987
+  CankuzoAdm1BDI:
+    admin_name: Cankuzo
+    iso3c: BDI
+    shapeID: 87207978B60812330206497
+  CankuzoAdm2BDI:
+    admin_name: Cankuzo
+    iso3c: BDI
+    shapeID: 21766830B23756713917278
+  CendajuruAdm2BDI:
+    admin_name: Cendajuru
+    iso3c: BDI
+    shapeID: 21766830B5675183686685
+  CibitokeAdm1BDI:
+    admin_name: Cibitoke
+    iso3c: BDI
+    shapeID: 87207978B68487327478732
+  GahomboAdm2BDI:
+    admin_name: Gahombo
+    iso3c: BDI
+    shapeID: 21766830B38836808291040
+  GashikanwaAdm2BDI:
+    admin_name: Gashikanwa
+    iso3c: BDI
+    shapeID: 21766830B95738875058381
+  GashohoAdm2BDI:
+    admin_name: Gashoho
+    iso3c: BDI
+    shapeID: 21766830B49899566949034
+  GasorweAdm2BDI:
+    admin_name: Gasorwe
+    iso3c: BDI
+    shapeID: 21766830B82611116745094
+  GataraAdm2BDI:
+    admin_name: Gatara
+    iso3c: BDI
+    shapeID: 21766830B25707783862584
+  GihangaAdm2BDI:
+    admin_name: Gihanga
+    iso3c: BDI
+    shapeID: 21766830B78591112120307
+  GiharoAdm2BDI:
+    admin_name: Giharo
+    iso3c: BDI
+    shapeID: 21766830B38172137244003
+  GihetaAdm2BDI:
+    admin_name: Giheta
+    iso3c: BDI
+    shapeID: 21766830B76485672774701
+  GihogaziAdm2BDI:
+    admin_name: Gihogazi
+    iso3c: BDI
+    shapeID: 21766830B47881609362439
+  GisagaraAdm2BDI:
+    admin_name: Gisagara
+    iso3c: BDI
+    shapeID: 21766830B1729082638594
+  GishubiAdm2BDI:
+    admin_name: Gishubi
+    iso3c: BDI
+    shapeID: 21766830B32665034860455
+  GisoziAdm2BDI:
+    admin_name: Gisozi
+    iso3c: BDI
+    shapeID: 21766830B19333977175167
+  GisuruAdm2BDI:
+    admin_name: Gisuru
+    iso3c: BDI
+    shapeID: 21766830B39450952647031
+  GitangaAdm2BDI:
+    admin_name: Gitanga
+    iso3c: BDI
+    shapeID: 21766830B87895722039818
+  GitaramukaAdm2BDI:
+    admin_name: Gitaramuka
+    iso3c: BDI
+    shapeID: 21766830B2211499884350
+  GitegaAdm1BDI:
+    admin_name: Gitega
+    iso3c: BDI
+    shapeID: 87207978B95213924600823
+  GitegaAdm2BDI:
+    admin_name: Gitega
+    iso3c: BDI
+    shapeID: 21766830B69591063381574
+  GiteranyiAdm2BDI:
+    admin_name: Giteranyi
+    iso3c: BDI
+    shapeID: 21766830B83765633898760
+  GitobeAdm2BDI:
+    admin_name: Gitobe
+    iso3c: BDI
+    shapeID: 21766830B58356129382648
+  IsaleAdm2BDI:
+    admin_name: Isale
+    iso3c: BDI
+    shapeID: 21766830B17268150669588
+  ItabaAdm2BDI:
+    admin_name: Itaba
+    iso3c: BDI
+    shapeID: 21766830B81399712036677
+  KabaroreAdm2BDI:
+    admin_name: Kabarore
+    iso3c: BDI
+    shapeID: 21766830B63780958565723
+  KabeziAdm2BDI:
+    admin_name: Kabezi
+    iso3c: BDI
+    shapeID: 21766830B36835382033084
+  Kanyosha1Adm2BDI:
+    admin_name: Kanyosha1
+    iso3c: BDI
+    shapeID: 21766830B91002704780807
+  KaruziAdm1BDI:
+    admin_name: Karuzi
+    iso3c: BDI
+    shapeID: 87207978B19413274687877
+  KayanzaAdm1BDI:
+    admin_name: Kayanza
+    iso3c: BDI
+    shapeID: 87207978B90339845453995
+  KayanzaAdm2BDI:
+    admin_name: Kayanza
+    iso3c: BDI
+    shapeID: 21766830B84106347559317
+  KayogoroAdm2BDI:
+    admin_name: Kayogoro
+    iso3c: BDI
+    shapeID: 21766830B93103585159294
+  KayokweAdm2BDI:
+    admin_name: Kayokwe
+    iso3c: BDI
+    shapeID: 21766830B55907977289604
+  KibagoAdm2BDI:
+    admin_name: Kibago
+    iso3c: BDI
+    shapeID: 21766830B23200126988104
+  KigambaAdm2BDI:
+    admin_name: Kigamba
+    iso3c: BDI
+    shapeID: 21766830B44986812705529
+  KigandaAdm2BDI:
+    admin_name: Kiganda
+    iso3c: BDI
+    shapeID: 21766830B86275018260755
+  KinyinyaAdm2BDI:
+    admin_name: Kinyinya
+    iso3c: BDI
+    shapeID: 21766830B54937037916307
+  KirembaAdm2BDI:
+    admin_name: Kiremba
+    iso3c: BDI
+    shapeID: 21766830B44237759334809
+  KirundoAdm1BDI:
+    admin_name: Kirundo
+    iso3c: BDI
+    shapeID: 87207978B16018837471159
+  KirundoAdm2BDI:
+    admin_name: Kirundo
+    iso3c: BDI
+    shapeID: 21766830B26549611972725
+  MabandaAdm2BDI:
+    admin_name: Mabanda
+    iso3c: BDI
+    shapeID: 21766830B71257741300393
+  MabayiAdm2BDI:
+    admin_name: Mabayi
+    iso3c: BDI
+    shapeID: 21766830B12025098844752
+  MakambaAdm1BDI:
+    admin_name: Makamba
+    iso3c: BDI
+    shapeID: 87207978B35376687740120
+  MakambaAdm2BDI:
+    admin_name: Makamba
+    iso3c: BDI
+    shapeID: 21766830B66939921424101
+  MakebukoAdm2BDI:
+    admin_name: Makebuko
+    iso3c: BDI
+    shapeID: 21766830B15811078155518
+  MarangaraAdm2BDI:
+    admin_name: Marangara
+    iso3c: BDI
+    shapeID: 21766830B34593389282909
+  MatanaAdm2BDI:
+    admin_name: Matana
+    iso3c: BDI
+    shapeID: 21766830B18921295675400
+  MatongoAdm2BDI:
+    admin_name: Matongo
+    iso3c: BDI
+    shapeID: 21766830B70902227945627
+  MbuyeAdm2BDI:
+    admin_name: Mbuye
+    iso3c: BDI
+    shapeID: 21766830B36103898428570
+  MishihaAdm2BDI:
+    admin_name: Mishiha
+    iso3c: BDI
+    shapeID: 21766830B80223800900582
+  MpandaAdm2BDI:
+    admin_name: Mpanda
+    iso3c: BDI
+    shapeID: 21766830B27994781295310
+  Mpinga-KayAdm2BDI:
+    admin_name: Mpinga-Kay
+    iso3c: BDI
+    shapeID: 21766830B77564167498805
+  MubimbiAdm2BDI:
+    admin_name: Mubimbi
+    iso3c: BDI
+    shapeID: 21766830B38784521668340
+  MugambaAdm2BDI:
+    admin_name: Mugamba
+    iso3c: BDI
+    shapeID: 21766830B94080264403798
+  MuginaAdm2BDI:
+    admin_name: Mugina
+    iso3c: BDI
+    shapeID: 21766830B421358417112
+  MugongomanAdm2BDI:
+    admin_name: Mugongoman
+    iso3c: BDI
+    shapeID: 21766830B4857646374703
+  MuhaAdm2BDI:
+    admin_name: Muha
+    iso3c: BDI
+    shapeID: 21766830B84199363749171
+  MuhangaAdm2BDI:
+    admin_name: Muhanga
+    iso3c: BDI
+    shapeID: 21766830B24961695434412
+  MuhutaAdm2BDI:
+    admin_name: Muhuta
+    iso3c: BDI
+    shapeID: 21766830B14140898215143
+  MukazaAdm2BDI:
+    admin_name: Mukaza
+    iso3c: BDI
+    shapeID: 21766830B10562197966638
+  MukikeAdm2BDI:
+    admin_name: Mukike
+    iso3c: BDI
+    shapeID: 21766830B24780978451442
+  MuramvyaAdm1BDI:
+    admin_name: Muramvya
+    iso3c: BDI
+    shapeID: 87207978B78895752231307
+  MuramvyaAdm2BDI:
+    admin_name: Muramvya
+    iso3c: BDI
+    shapeID: 21766830B75311935252649
+  MurutaAdm2BDI:
+    admin_name: Muruta
+    iso3c: BDI
+    shapeID: 21766830B99657937177591
+  MurwiAdm2BDI:
+    admin_name: Murwi
+    iso3c: BDI
+    shapeID: 21766830B66237815735217
+  MusigatiAdm2BDI:
+    admin_name: Musigati
+    iso3c: BDI
+    shapeID: 21766830B9951429704486
+  MusongatiAdm2BDI:
+    admin_name: Musongati
+    iso3c: BDI
+    shapeID: 21766830B89324425383518
+  MutahoAdm2BDI:
+    admin_name: Mutaho
+    iso3c: BDI
+    shapeID: 21766830B29011409096617
+  MutambuAdm2BDI:
+    admin_name: Mutambu
+    iso3c: BDI
+    shapeID: 21766830B26172674635426
+  MutimbuziAdm2BDI:
+    admin_name: Mutimbuzi
+    iso3c: BDI
+    shapeID: 21766830B6345718789328
+  MutumbaAdm2BDI:
+    admin_name: Mutumba
+    iso3c: BDI
+    shapeID: 21766830B82901968055666
+  MuyingaAdm1BDI:
+    admin_name: Muyinga
+    iso3c: BDI
+    shapeID: 87207978B26491438187770
+  MuyingaAdm2BDI:
+    admin_name: Muyinga
+    iso3c: BDI
+    shapeID: 21766830B41528201457160
+  MwakiroAdm2BDI:
+    admin_name: Mwakiro
+    iso3c: BDI
+    shapeID: 21766830B10181595189520
+  MwaroAdm1BDI:
+    admin_name: Mwaro
+    iso3c: BDI
+    shapeID: 87207978B17615748265547
+  MwumbaAdm2BDI:
+    admin_name: Mwumba
+    iso3c: BDI
+    shapeID: 21766830B13058774962077
+  NdavaAdm2BDI:
+    admin_name: Ndava
+    iso3c: BDI
+    shapeID: 21766830B24037016071048
+  NgoziAdm1BDI:
+    admin_name: Ngozi
+    iso3c: BDI
+    shapeID: 87207978B61642532121810
+  NgoziAdm2BDI:
+    admin_name: Ngozi
+    iso3c: BDI
+    shapeID: 21766830B35301506436742
+  NtahangwaAdm2BDI:
+    admin_name: Ntahangwa
+    iso3c: BDI
+    shapeID: 21766830B87038696970617
+  NtegaAdm2BDI:
+    admin_name: Ntega
+    iso3c: BDI
+    shapeID: 21766830B46224156448041
+  NyabihangaAdm2BDI:
+    admin_name: Nyabihanga
+    iso3c: BDI
+    shapeID: 21766830B17486429962760
+  NyabikereAdm2BDI:
+    admin_name: Nyabikere
+    iso3c: BDI
+    shapeID: 21766830B35176009375128
+  NyabirabaAdm2BDI:
+    admin_name: Nyabiraba
+    iso3c: BDI
+    shapeID: 21766830B65855218165696
+  NyabitsindAdm2BDI:
+    admin_name: Nyabitsind
+    iso3c: BDI
+    shapeID: 21766830B24825002042526
+  NyamurenzaAdm2BDI:
+    admin_name: Nyamurenza
+    iso3c: BDI
+    shapeID: 21766830B14713025325915
+  NyanrusangAdm2BDI:
+    admin_name: Nyanrusang
+    iso3c: BDI
+    shapeID: 21766830B73562224956549
+  Nyanza-LacAdm2BDI:
+    admin_name: Nyanza-Lac
+    iso3c: BDI
+    shapeID: 21766830B74257208244788
+  RangoAdm2BDI:
+    admin_name: Rango
+    iso3c: BDI
+    shapeID: 21766830B52252554978419
+  RugaziAdm2BDI:
+    admin_name: Rugazi
+    iso3c: BDI
+    shapeID: 21766830B29868880431968
+  RugomboAdm2BDI:
+    admin_name: Rugombo
+    iso3c: BDI
+    shapeID: 21766830B51540876931984
+  RuhororoAdm2BDI:
+    admin_name: Ruhororo
+    iso3c: BDI
+    shapeID: 21766830B83078145904206
+  RumongeAdm1BDI:
+    admin_name: Rumonge
+    iso3c: BDI
+    shapeID: 87207978B49849916836933
+  RumongeAdm2BDI:
+    admin_name: Rumonge
+    iso3c: BDI
+    shapeID: 21766830B32777890626704
+  RusakaAdm2BDI:
+    admin_name: Rusaka
+    iso3c: BDI
+    shapeID: 21766830B4360406366219
+  RutanaAdm1BDI:
+    admin_name: Rutana
+    iso3c: BDI
+    shapeID: 87207978B60452886876050
+  RutanaAdm2BDI:
+    admin_name: Rutana
+    iso3c: BDI
+    shapeID: 21766830B95746888860763
+  RutegamaAdm2BDI:
+    admin_name: Rutegama
+    iso3c: BDI
+    shapeID: 21766830B72733606015225
+  RutovuAdm2BDI:
+    admin_name: Rutovu
+    iso3c: BDI
+    shapeID: 21766830B25905143515438
+  RuyigiAdm1BDI:
+    admin_name: Ruyigi
+    iso3c: BDI
+    shapeID: 87207978B85164203636576
+  RuyigiAdm2BDI:
+    admin_name: Ruyigi
+    iso3c: BDI
+    shapeID: 21766830B17506602240665
+  RyansoroAdm2BDI:
+    admin_name: Ryansoro
+    iso3c: BDI
+    shapeID: 21766830B51581455705264
+  ShomboAdm2BDI:
+    admin_name: Shombo
+    iso3c: BDI
+    shapeID: 21766830B50673772074896
+  SongaAdm2BDI:
+    admin_name: Songa
+    iso3c: BDI
+    shapeID: 21766830B2637956321101
+  TangaraAdm2BDI:
+    admin_name: Tangara
+    iso3c: BDI
+    shapeID: 21766830B4667325104587
+  VugizoAdm2BDI:
+    admin_name: Vugizo
+    iso3c: BDI
+    shapeID: 21766830B72373703869549
+  VumbiAdm2BDI:
+    admin_name: Vumbi
+    iso3c: BDI
+    shapeID: 21766830B60116589238707
+  VyandaAdm2BDI:
+    admin_name: Vyanda
+    iso3c: BDI
+    shapeID: 21766830B58261819569057

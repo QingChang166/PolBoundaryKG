@@ -1,14 +1,437 @@
 concepts:
-    - Corse
-    - Bretagne
-    - Provence-Alpes-Côted'Azur
-    - Auvergne-Rhône-Alpes
-    - Centre-ValdeLoire
-    - Nouvelle-Aquitaine
-    - Occitanie
-    - Île-de-France
-    - Hauts-de-France
-    - Bourgogne-Franche-Comté
-    - Normandie
-    - GrandEst
-    - PaysdelaLoire
+  AinAdm2FRA:
+    admin_name: Ain
+    iso3c: FRA
+    shapeID: 29444166B68738187753831
+  AisneAdm2FRA:
+    admin_name: Aisne
+    iso3c: FRA
+    shapeID: 29444166B62247732126362
+  AllierAdm2FRA:
+    admin_name: Allier
+    iso3c: FRA
+    shapeID: 29444166B93800494358231
+  Alpes-de-Haute-ProvenceAdm2FRA:
+    admin_name: Alpes-de-Haute-Provence
+    iso3c: FRA
+    shapeID: 29444166B35951695576760
+  Alpes-MaritimesAdm2FRA:
+    admin_name: Alpes-Maritimes
+    iso3c: FRA
+    shapeID: 29444166B5209283925001
+  ArdècheAdm2FRA:
+    admin_name: Ardèche
+    iso3c: FRA
+    shapeID: 29444166B5188880309581
+  ArdennesAdm2FRA:
+    admin_name: Ardennes
+    iso3c: FRA
+    shapeID: 29444166B82146643431704
+  AriègeAdm2FRA:
+    admin_name: Ariège
+    iso3c: FRA
+    shapeID: 29444166B39237806830896
+  AubeAdm2FRA:
+    admin_name: Aube
+    iso3c: FRA
+    shapeID: 29444166B59009150054618
+  AudeAdm2FRA:
+    admin_name: Aude
+    iso3c: FRA
+    shapeID: 29444166B69755025252743
+  Auvergne-Rhône-AlpesAdm1FRA:
+    admin_name: Auvergne-Rhône-Alpes
+    iso3c: FRA
+    shapeID: 19338628B73800214047876
+  AveyronAdm2FRA:
+    admin_name: Aveyron
+    iso3c: FRA
+    shapeID: 29444166B75659216331829
+  Bas-RhinAdm2FRA:
+    admin_name: Bas-Rhin
+    iso3c: FRA
+    shapeID: 29444166B31239437168490
+  Bouches-du-RhôneAdm2FRA:
+    admin_name: Bouches-du-Rhône
+    iso3c: FRA
+    shapeID: 29444166B17788527993089
+  Bourgogne-Franche-ComtéAdm1FRA:
+    admin_name: Bourgogne-Franche-Comté
+    iso3c: FRA
+    shapeID: 19338628B30439183828151
+  BretagneAdm1FRA:
+    admin_name: Bretagne
+    iso3c: FRA
+    shapeID: 19338628B64983593182368
+  CalvadosAdm2FRA:
+    admin_name: Calvados
+    iso3c: FRA
+    shapeID: 29444166B48646093113646
+  CantalAdm2FRA:
+    admin_name: Cantal
+    iso3c: FRA
+    shapeID: 29444166B17636645797139
+  Centre-ValdeLoireAdm1FRA:
+    admin_name: Centre-ValdeLoire
+    iso3c: FRA
+    shapeID: 19338628B5758982491638
+  Charente-MaritimeAdm2FRA:
+    admin_name: Charente-Maritime
+    iso3c: FRA
+    shapeID: 29444166B72910508035207
+  CharenteAdm2FRA:
+    admin_name: Charente
+    iso3c: FRA
+    shapeID: 29444166B23450851942643
+  CherAdm2FRA:
+    admin_name: Cher
+    iso3c: FRA
+    shapeID: 29444166B99899011218746
+  CorrèzeAdm2FRA:
+    admin_name: Corrèze
+    iso3c: FRA
+    shapeID: 29444166B65585012195292
+  Corse-du-SudAdm2FRA:
+    admin_name: Corse-du-Sud
+    iso3c: FRA
+    shapeID: 29444166B58069914139647
+  CorseAdm1FRA:
+    admin_name: Corse
+    iso3c: FRA
+    shapeID: 19338628B22604203385446
+  Côte-d'OrAdm2FRA:
+    admin_name: Côte-d'Or
+    iso3c: FRA
+    shapeID: 29444166B37681458471024
+  Côtesd'ArmorAdm2FRA:
+    admin_name: Côtesd'Armor
+    iso3c: FRA
+    shapeID: 29444166B88952061285466
+  CreuseAdm2FRA:
+    admin_name: Creuse
+    iso3c: FRA
+    shapeID: 29444166B65722517525705
+  Deux-SèvresAdm2FRA:
+    admin_name: Deux-Sèvres
+    iso3c: FRA
+    shapeID: 29444166B3130633303914
+  DordogneAdm2FRA:
+    admin_name: Dordogne
+    iso3c: FRA
+    shapeID: 29444166B3241556097254
+  DoubsAdm2FRA:
+    admin_name: Doubs
+    iso3c: FRA
+    shapeID: 29444166B35503960464671
+  DrômeAdm2FRA:
+    admin_name: Drôme
+    iso3c: FRA
+    shapeID: 29444166B81319189614535
+  EssonneAdm2FRA:
+    admin_name: Essonne
+    iso3c: FRA
+    shapeID: 29444166B9117646007403
+  Eure-et-LoirAdm2FRA:
+    admin_name: Eure-et-Loir
+    iso3c: FRA
+    shapeID: 29444166B66992959571509
+  EureAdm2FRA:
+    admin_name: Eure
+    iso3c: FRA
+    shapeID: 29444166B58139106097457
+  FinistèreAdm2FRA:
+    admin_name: Finistère
+    iso3c: FRA
+    shapeID: 29444166B28282788434260
+  GardAdm2FRA:
+    admin_name: Gard
+    iso3c: FRA
+    shapeID: 29444166B65685353516975
+  GersAdm2FRA:
+    admin_name: Gers
+    iso3c: FRA
+    shapeID: 29444166B47069974768565
+  GirondeAdm2FRA:
+    admin_name: Gironde
+    iso3c: FRA
+    shapeID: 29444166B86553747081520
+  GrandEstAdm1FRA:
+    admin_name: GrandEst
+    iso3c: FRA
+    shapeID: 19338628B74392602121343
+  Haut-RhinAdm2FRA:
+    admin_name: Haut-Rhin
+    iso3c: FRA
+    shapeID: 29444166B51480055383033
+  Haute-CorseAdm2FRA:
+    admin_name: Haute-Corse
+    iso3c: FRA
+    shapeID: 29444166B63382640804813
+  Haute-GaronneAdm2FRA:
+    admin_name: Haute-Garonne
+    iso3c: FRA
+    shapeID: 29444166B14857210007928
+  Haute-LoireAdm2FRA:
+    admin_name: Haute-Loire
+    iso3c: FRA
+    shapeID: 29444166B92097492937040
+  Haute-MarneAdm2FRA:
+    admin_name: Haute-Marne
+    iso3c: FRA
+    shapeID: 29444166B63123006968328
+  Haute-SaôneAdm2FRA:
+    admin_name: Haute-Saône
+    iso3c: FRA
+    shapeID: 29444166B41622072756868
+  Haute-SavoieAdm2FRA:
+    admin_name: Haute-Savoie
+    iso3c: FRA
+    shapeID: 29444166B73077327330789
+  Haute-VienneAdm2FRA:
+    admin_name: Haute-Vienne
+    iso3c: FRA
+    shapeID: 29444166B22545752371567
+  Hautes-AlpesAdm2FRA:
+    admin_name: Hautes-Alpes
+    iso3c: FRA
+    shapeID: 29444166B36939425112061
+  Hautes-PyrénéesAdm2FRA:
+    admin_name: Hautes-Pyrénées
+    iso3c: FRA
+    shapeID: 29444166B21169725107025
+  Hauts-de-FranceAdm1FRA:
+    admin_name: Hauts-de-France
+    iso3c: FRA
+    shapeID: 19338628B36302232233914
+  Hauts-de-SeineAdm2FRA:
+    admin_name: Hauts-de-Seine
+    iso3c: FRA
+    shapeID: 29444166B3280539319107
+  HéraultAdm2FRA:
+    admin_name: Hérault
+    iso3c: FRA
+    shapeID: 29444166B6585722780804
+  Île-de-FranceAdm1FRA:
+    admin_name: Île-de-France
+    iso3c: FRA
+    shapeID: 19338628B22645672383103
+  Ille-et-VilaineAdm2FRA:
+    admin_name: Ille-et-Vilaine
+    iso3c: FRA
+    shapeID: 29444166B68700463469318
+  Indre-et-Loire Adm2FRA:
+    admin_name: Indre-et-Loire 
+    iso3c: FRA
+    shapeID: 29444166B19195541270637
+  IndreAdm2FRA:
+    admin_name: Indre
+    iso3c: FRA
+    shapeID: 29444166B54615812601715
+  IsèreAdm2FRA:
+    admin_name: Isère
+    iso3c: FRA
+    shapeID: 29444166B91645868350210
+  JuraAdm2FRA:
+    admin_name: Jura
+    iso3c: FRA
+    shapeID: 29444166B73543866728585
+  LandesAdm2FRA:
+    admin_name: Landes
+    iso3c: FRA
+    shapeID: 29444166B39932690726806
+  Loir-et-CherAdm2FRA:
+    admin_name: Loir-et-Cher
+    iso3c: FRA
+    shapeID: 29444166B49073830062787
+  Loire-AtlantiqueAdm2FRA:
+    admin_name: Loire-Atlantique
+    iso3c: FRA
+    shapeID: 29444166B39405184226314
+  LoireAdm2FRA:
+    admin_name: Loire
+    iso3c: FRA
+    shapeID: 29444166B11036857103617
+  LoiretAdm2FRA:
+    admin_name: Loiret
+    iso3c: FRA
+    shapeID: 29444166B76955339583295
+  Lot-et-GaronneAdm2FRA:
+    admin_name: Lot-et-Garonne
+    iso3c: FRA
+    shapeID: 29444166B43955208715015
+  LotAdm2FRA:
+    admin_name: Lot
+    iso3c: FRA
+    shapeID: 29444166B44586442299991
+  LozèreAdm2FRA:
+    admin_name: Lozère
+    iso3c: FRA
+    shapeID: 29444166B39231555768445
+  Maine-et-LoireAdm2FRA:
+    admin_name: Maine-et-Loire
+    iso3c: FRA
+    shapeID: 29444166B93652606552669
+  MancheAdm2FRA:
+    admin_name: Manche
+    iso3c: FRA
+    shapeID: 29444166B25199754609160
+  MarneAdm2FRA:
+    admin_name: Marne
+    iso3c: FRA
+    shapeID: 29444166B88365210161394
+  MayenneAdm2FRA:
+    admin_name: Mayenne
+    iso3c: FRA
+    shapeID: 29444166B79150552688542
+  Meurthe-et-MoselleAdm2FRA:
+    admin_name: Meurthe-et-Moselle
+    iso3c: FRA
+    shapeID: 29444166B55179033691193
+  MeuseAdm2FRA:
+    admin_name: Meuse
+    iso3c: FRA
+    shapeID: 29444166B31733296921467
+  MorbihanAdm2FRA:
+    admin_name: Morbihan
+    iso3c: FRA
+    shapeID: 29444166B27439380359881
+  MoselleAdm2FRA:
+    admin_name: Moselle
+    iso3c: FRA
+    shapeID: 29444166B44143395752523
+  NièvreAdm2FRA:
+    admin_name: Nièvre
+    iso3c: FRA
+    shapeID: 29444166B85399142595811
+  NordAdm2FRA:
+    admin_name: Nord
+    iso3c: FRA
+    shapeID: 29444166B41843467801289
+  NormandieAdm1FRA:
+    admin_name: Normandie
+    iso3c: FRA
+    shapeID: 19338628B74885379641265
+  Nouvelle-AquitaineAdm1FRA:
+    admin_name: Nouvelle-Aquitaine
+    iso3c: FRA
+    shapeID: 19338628B12418907782041
+  OccitanieAdm1FRA:
+    admin_name: Occitanie
+    iso3c: FRA
+    shapeID: 19338628B57683459369229
+  OiseAdm2FRA:
+    admin_name: Oise
+    iso3c: FRA
+    shapeID: 29444166B63675080210399
+  OrneAdm2FRA:
+    admin_name: Orne
+    iso3c: FRA
+    shapeID: 29444166B96504219230077
+  ParisAdm2FRA:
+    admin_name: Paris
+    iso3c: FRA
+    shapeID: 29444166B33792924009837
+  Pas-de-CalaisAdm2FRA:
+    admin_name: Pas-de-Calais
+    iso3c: FRA
+    shapeID: 29444166B36983248378212
+  PaysdelaLoireAdm1FRA:
+    admin_name: PaysdelaLoire
+    iso3c: FRA
+    shapeID: 19338628B99642989531496
+  Provence-Alpes-Côted'AzurAdm1FRA:
+    admin_name: Provence-Alpes-Côted'Azur
+    iso3c: FRA
+    shapeID: 19338628B95725112529620
+  Puy-de-DômeAdm2FRA:
+    admin_name: Puy-de-Dôme
+    iso3c: FRA
+    shapeID: 29444166B44853968900127
+  Pyrénées-AtlantiquesAdm2FRA:
+    admin_name: Pyrénées-Atlantiques
+    iso3c: FRA
+    shapeID: 29444166B97877070376653
+  Pyrénées-OrientalesAdm2FRA:
+    admin_name: Pyrénées-Orientales
+    iso3c: FRA
+    shapeID: 29444166B63064653570654
+  RhôneAdm2FRA:
+    admin_name: Rhône
+    iso3c: FRA
+    shapeID: 29444166B37867629412878
+  Saône-et-LoireAdm2FRA:
+    admin_name: Saône-et-Loire
+    iso3c: FRA
+    shapeID: 29444166B17013349851570
+  SartheAdm2FRA:
+    admin_name: Sarthe
+    iso3c: FRA
+    shapeID: 29444166B36367114502918
+  SavoieAdm2FRA:
+    admin_name: Savoie
+    iso3c: FRA
+    shapeID: 29444166B62265126010794
+  Seine-et-MarneAdm2FRA:
+    admin_name: Seine-et-Marne
+    iso3c: FRA
+    shapeID: 29444166B64437327790506
+  Seine-MaritimeAdm2FRA:
+    admin_name: Seine-Maritime
+    iso3c: FRA
+    shapeID: 29444166B55885149928258
+  Seine-Saint-DenisAdm2FRA:
+    admin_name: Seine-Saint-Denis
+    iso3c: FRA
+    shapeID: 29444166B11945742862669
+  SommeAdm2FRA:
+    admin_name: Somme
+    iso3c: FRA
+    shapeID: 29444166B47374384537090
+  Tarn-et-GaronneAdm2FRA:
+    admin_name: Tarn-et-Garonne
+    iso3c: FRA
+    shapeID: 29444166B74037442766285
+  TarnAdm2FRA:
+    admin_name: Tarn
+    iso3c: FRA
+    shapeID: 29444166B69257597057849
+  TerritoiredeBelfortAdm2FRA:
+    admin_name: TerritoiredeBelfort
+    iso3c: FRA
+    shapeID: 29444166B23158534197665
+  Val-d'OiseAdm2FRA:
+    admin_name: Val-d'Oise
+    iso3c: FRA
+    shapeID: 29444166B99414288339208
+  Val-de-MarneAdm2FRA:
+    admin_name: Val-de-Marne
+    iso3c: FRA
+    shapeID: 29444166B83164575229799
+  VarAdm2FRA:
+    admin_name: Var
+    iso3c: FRA
+    shapeID: 29444166B96369043825533
+  VaucluseAdm2FRA:
+    admin_name: Vaucluse
+    iso3c: FRA
+    shapeID: 29444166B40811589398759
+  VendéeAdm2FRA:
+    admin_name: Vendée
+    iso3c: FRA
+    shapeID: 29444166B84862613094844
+  VienneAdm2FRA:
+    admin_name: Vienne
+    iso3c: FRA
+    shapeID: 29444166B96315142170190
+  VosgesAdm2FRA:
+    admin_name: Vosges
+    iso3c: FRA
+    shapeID: 29444166B15812281755892
+  YonneAdm2FRA:
+    admin_name: Yonne
+    iso3c: FRA
+    shapeID: 29444166B9446677840281
+  YvelinesAdm2FRA:
+    admin_name: Yvelines
+    iso3c: FRA
+    shapeID: 29444166B89686889104194

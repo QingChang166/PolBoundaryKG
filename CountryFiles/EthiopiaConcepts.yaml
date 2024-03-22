@@ -1,12 +1,341 @@
 concepts:
-    - Hareri
-    - SNNPR
-    - Gambela
-    - Tigray
-    - Oromia
-    - Somali
-    - AddisAbaba
-    - Afar
-    - Amhara
-    - BeneshangulGumu
-    - DireDawa
+  AddisAbabaAdm1ETH:
+    admin_name: AddisAbaba
+    iso3c: ETH
+    shapeID: 75662566B5378229891244
+  AfarAdm1ETH:
+    admin_name: Afar
+    iso3c: ETH
+    shapeID: 75662566B25357223982520
+  AfderAdm2ETH:
+    admin_name: Afder
+    iso3c: ETH
+    shapeID: 57463737B43250517747981
+  AgnuakAdm2ETH:
+    admin_name: Agnuak
+    iso3c: ETH
+    shapeID: 57463737B400917035317
+  AlabaAdm2ETH:
+    admin_name: Alaba
+    iso3c: ETH
+    shapeID: 57463737B42353021919887
+  AmharaAdm1ETH:
+    admin_name: Amhara
+    iso3c: ETH
+    shapeID: 75662566B52684709481520
+  ArsiAdm2ETH:
+    admin_name: Arsi
+    iso3c: ETH
+    shapeID: 57463737B25487196396811
+  AsosaAdm2ETH:
+    admin_name: Asosa
+    iso3c: ETH
+    shapeID: 57463737B99696038054094
+  Awi/AgewAdm2ETH:
+    admin_name: Awi/Agew
+    iso3c: ETH
+    shapeID: 57463737B64256577014982
+  BaleAdm2ETH:
+    admin_name: Bale
+    iso3c: ETH
+    shapeID: 57463737B60581059142887
+  BasketoAdm2ETH:
+    admin_name: Basketo
+    iso3c: ETH
+    shapeID: 57463737B27385669654887
+  BenchMajiAdm2ETH:
+    admin_name: BenchMaji
+    iso3c: ETH
+    shapeID: 57463737B29794193200035
+  BeneshangulGumuAdm1ETH:
+    admin_name: BeneshangulGumu
+    iso3c: ETH
+    shapeID: 75662566B16746670119676
+  BorenaAdm2ETH:
+    admin_name: Borena
+    iso3c: ETH
+    shapeID: 57463737B436520794921
+  CentralAdm2ETH:
+    admin_name: Central
+    iso3c: ETH
+    shapeID: 57463737B39814221548700
+  DawroAdm2ETH:
+    admin_name: Dawro
+    iso3c: ETH
+    shapeID: 57463737B47047900870989
+  DireDawaAdm1ETH:
+    admin_name: DireDawa
+    iso3c: ETH
+    shapeID: 75662566B22109266514860
+  DireDawaAdm2ETH:
+    admin_name: DireDawa
+    iso3c: ETH
+    shapeID: 57463737B22109266514860
+  DooloAdm2ETH:
+    admin_name: Doolo
+    iso3c: ETH
+    shapeID: 57463737B30637581928389
+  EasternAdm2ETH:
+    admin_name: Eastern
+    iso3c: ETH
+    shapeID: 57463737B91204154361244
+  EastGojamAdm2ETH:
+    admin_name: EastGojam
+    iso3c: ETH
+    shapeID: 57463737B71037891772162
+  EastHarergeAdm2ETH:
+    admin_name: EastHarerge
+    iso3c: ETH
+    shapeID: 57463737B249587140491
+  EastShewaAdm2ETH:
+    admin_name: EastShewa
+    iso3c: ETH
+    shapeID: 57463737B77878883306359
+  EastWellegaAdm2ETH:
+    admin_name: EastWellega
+    iso3c: ETH
+    shapeID: 57463737B79125801583063
+  FafanAdm2ETH:
+    admin_name: Fafan
+    iso3c: ETH
+    shapeID: 57463737B89594176742126
+  GambelaAdm1ETH:
+    admin_name: Gambela
+    iso3c: ETH
+    shapeID: 75662566B92391245038365
+  GamoGofaAdm2ETH:
+    admin_name: GamoGofa
+    iso3c: ETH
+    shapeID: 57463737B86635569864278
+  GedioAdm2ETH:
+    admin_name: Gedio
+    iso3c: ETH
+    shapeID: 57463737B31962206171619
+  GujiAdm2ETH:
+    admin_name: Guji
+    iso3c: ETH
+    shapeID: 57463737B6587793524925
+  GurageAdm2ETH:
+    admin_name: Gurage
+    iso3c: ETH
+    shapeID: 57463737B1298615116598
+  HadiyaAdm2ETH:
+    admin_name: Hadiya
+    iso3c: ETH
+    shapeID: 57463737B63499939283868
+  HareriAdm1ETH:
+    admin_name: Hareri
+    iso3c: ETH
+    shapeID: 75662566B51121866066295
+  HareriAdm2ETH:
+    admin_name: Hareri
+    iso3c: ETH
+    shapeID: 57463737B51121866066295
+  HoroGuduruAdm2ETH:
+    admin_name: HoroGuduru
+    iso3c: ETH
+    shapeID: 57463737B15837769236873
+  IlubaborAdm2ETH:
+    admin_name: Ilubabor
+    iso3c: ETH
+    shapeID: 57463737B22829161726493
+  JararAdm2ETH:
+    admin_name: Jarar
+    iso3c: ETH
+    shapeID: 57463737B12747542791958
+  JimmaAdm2ETH:
+    admin_name: Jimma
+    iso3c: ETH
+    shapeID: 57463737B95697256598451
+  KeffaAdm2ETH:
+    admin_name: Keffa
+    iso3c: ETH
+    shapeID: 57463737B32863879872033
+  KelemWellegaAdm2ETH:
+    admin_name: KelemWellega
+    iso3c: ETH
+    shapeID: 57463737B75894737720042
+  KemashiAdm2ETH:
+    admin_name: Kemashi
+    iso3c: ETH
+    shapeID: 57463737B3908522439812
+  KontaAdm2ETH:
+    admin_name: Konta
+    iso3c: ETH
+    shapeID: 57463737B85243758761860
+  KoraheAdm2ETH:
+    admin_name: Korahe
+    iso3c: ETH
+    shapeID: 57463737B1594897228976
+  KTAdm2ETH:
+    admin_name: KT
+    iso3c: ETH
+    shapeID: 57463737B7073767873208
+  LibenAdm2ETH:
+    admin_name: Liben
+    iso3c: ETH
+    shapeID: 57463737B84149246133198
+  MajangAdm2ETH:
+    admin_name: Majang
+    iso3c: ETH
+    shapeID: 57463737B25474915943822
+  MetekelAdm2ETH:
+    admin_name: Metekel
+    iso3c: ETH
+    shapeID: 57463737B57190037536303
+  NogobAdm2ETH:
+    admin_name: Nogob
+    iso3c: ETH
+    shapeID: 57463737B76500923720199
+  NorthGonderAdm2ETH:
+    admin_name: NorthGonder
+    iso3c: ETH
+    shapeID: 57463737B33844308695129
+  NorthShewa(R3)Adm2ETH:
+    admin_name: NorthShewa(R3)
+    iso3c: ETH
+    shapeID: 57463737B29739464578805
+  NorthShewa(R4)Adm2ETH:
+    admin_name: NorthShewa(R4)
+    iso3c: ETH
+    shapeID: 57463737B31651758241956
+  NorthWesternAdm2ETH:
+    admin_name: NorthWestern
+    iso3c: ETH
+    shapeID: 57463737B89864099179699
+  NorthWolloAdm2ETH:
+    admin_name: NorthWollo
+    iso3c: ETH
+    shapeID: 57463737B48822238288228
+  NuerAdm2ETH:
+    admin_name: Nuer
+    iso3c: ETH
+    shapeID: 57463737B84329108093360
+  OromiaAdm1ETH:
+    admin_name: Oromia
+    iso3c: ETH
+    shapeID: 75662566B9273833721501
+  OromiaAdm2ETH:
+    admin_name: Oromia
+    iso3c: ETH
+    shapeID: 57463737B14712300908991
+  Region14Adm2ETH:
+    admin_name: Region14
+    iso3c: ETH
+    shapeID: 57463737B5378229891244
+  SegenPeoples'Adm2ETH:
+    admin_name: SegenPeoples'
+    iso3c: ETH
+    shapeID: 57463737B59192913037223
+  SeltiAdm2ETH:
+    admin_name: Selti
+    iso3c: ETH
+    shapeID: 57463737B47845623472468
+  ShabelleAdm2ETH:
+    admin_name: Shabelle
+    iso3c: ETH
+    shapeID: 57463737B16105117004736
+  ShekaAdm2ETH:
+    admin_name: Sheka
+    iso3c: ETH
+    shapeID: 57463737B63626574921368
+  SidamaAdm2ETH:
+    admin_name: Sidama
+    iso3c: ETH
+    shapeID: 57463737B92297495098422
+  SitiAdm2ETH:
+    admin_name: Siti
+    iso3c: ETH
+    shapeID: 57463737B50434499514610
+  SNNPRAdm1ETH:
+    admin_name: SNNPR
+    iso3c: ETH
+    shapeID: 75662566B72302855928957
+  SomaliAdm1ETH:
+    admin_name: Somali
+    iso3c: ETH
+    shapeID: 75662566B32417772325798
+  SouthernAdm2ETH:
+    admin_name: Southern
+    iso3c: ETH
+    shapeID: 57463737B99888121280160
+  SouthGonderAdm2ETH:
+    admin_name: SouthGonder
+    iso3c: ETH
+    shapeID: 57463737B98964662910033
+  SouthOmoAdm2ETH:
+    admin_name: SouthOmo
+    iso3c: ETH
+    shapeID: 57463737B95170801436908
+  SouthWestShewaAdm2ETH:
+    admin_name: SouthWestShewa
+    iso3c: ETH
+    shapeID: 57463737B78639560237753
+  SouthWolloAdm2ETH:
+    admin_name: SouthWollo
+    iso3c: ETH
+    shapeID: 57463737B70829133861950
+  SpecialWoredaAdm2ETH:
+    admin_name: SpecialWoreda
+    iso3c: ETH
+    shapeID: 57463737B67745192438967
+  TigrayAdm1ETH:
+    admin_name: Tigray
+    iso3c: ETH
+    shapeID: 75662566B45163836206557
+  WagHimraAdm2ETH:
+    admin_name: WagHimra
+    iso3c: ETH
+    shapeID: 57463737B2754129791816
+  WestArsiAdm2ETH:
+    admin_name: WestArsi
+    iso3c: ETH
+    shapeID: 57463737B70873970034442
+  WesternAdm2ETH:
+    admin_name: Western
+    iso3c: ETH
+    shapeID: 57463737B15825605122203
+  WestGojamAdm2ETH:
+    admin_name: WestGojam
+    iso3c: ETH
+    shapeID: 57463737B52956719481852
+  WestHarergeAdm2ETH:
+    admin_name: WestHarerge
+    iso3c: ETH
+    shapeID: 57463737B54894668037624
+  WestShewaAdm2ETH:
+    admin_name: WestShewa
+    iso3c: ETH
+    shapeID: 57463737B12311921356322
+  WestWellegaAdm2ETH:
+    admin_name: WestWellega
+    iso3c: ETH
+    shapeID: 57463737B50553734798288
+  WolayitaAdm2ETH:
+    admin_name: Wolayita
+    iso3c: ETH
+    shapeID: 57463737B13273048506325
+  YemAdm2ETH:
+    admin_name: Yem
+    iso3c: ETH
+    shapeID: 57463737B71172530098060
+  Zone1Adm2ETH:
+    admin_name: Zone1
+    iso3c: ETH
+    shapeID: 57463737B91823679317491
+  Zone2Adm2ETH:
+    admin_name: Zone2
+    iso3c: ETH
+    shapeID: 57463737B59365186809272
+  Zone3Adm2ETH:
+    admin_name: Zone3
+    iso3c: ETH
+    shapeID: 57463737B74315162620914
+  Zone4Adm2ETH:
+    admin_name: Zone4
+    iso3c: ETH
+    shapeID: 57463737B38369228192248
+  Zone5Adm2ETH:
+    admin_name: Zone5
+    iso3c: ETH
+    shapeID: 57463737B89952928868477

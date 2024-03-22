@@ -1,9 +1,369 @@
 concepts:
-    - Southeast
-    - East
-    - Northeast
-    - Polog
-    - Pelagonia
-    - Southwest
-    - Vardar
-    - Skopje
+  AerodromAdm2MKD:
+    admin_name: Aerodrom
+    iso3c: MKD
+    shapeID: 65306769B95040273905804
+  ArachinovoAdm2MKD:
+    admin_name: Arachinovo
+    iso3c: MKD
+    shapeID: 65306769B96419265045604
+  BerovoAdm2MKD:
+    admin_name: Berovo
+    iso3c: MKD
+    shapeID: 65306769B82535052466784
+  BitolaAdm2MKD:
+    admin_name: Bitola
+    iso3c: MKD
+    shapeID: 65306769B29228652763838
+  BogdantsiAdm2MKD:
+    admin_name: Bogdantsi
+    iso3c: MKD
+    shapeID: 65306769B60147523647729
+  BogovinjeAdm2MKD:
+    admin_name: Bogovinje
+    iso3c: MKD
+    shapeID: 65306769B92913941164091
+  BosilovoAdm2MKD:
+    admin_name: Bosilovo
+    iso3c: MKD
+    shapeID: 65306769B43786994605209
+  BrvenitsaAdm2MKD:
+    admin_name: Brvenitsa
+    iso3c: MKD
+    shapeID: 65306769B32864383387565
+  ButelAdm2MKD:
+    admin_name: Butel
+    iso3c: MKD
+    shapeID: 65306769B57074060571114
+  CentarAdm2MKD:
+    admin_name: Centar
+    iso3c: MKD
+    shapeID: 65306769B31528709538806
+  CentarZhupaAdm2MKD:
+    admin_name: CentarZhupa
+    iso3c: MKD
+    shapeID: 65306769B61721229469178
+  ChairAdm2MKD:
+    admin_name: Chair
+    iso3c: MKD
+    shapeID: 65306769B39088451231406
+  ChashkaAdm2MKD:
+    admin_name: Chashka
+    iso3c: MKD
+    shapeID: 65306769B55292490733903
+  Cheshinovo-ObleshevoAdm2MKD:
+    admin_name: Cheshinovo-Obleshevo
+    iso3c: MKD
+    shapeID: 65306769B60953626693828
+  Chucher-SandevoAdm2MKD:
+    admin_name: Chucher-Sandevo
+    iso3c: MKD
+    shapeID: 65306769B58175225548943
+  DebarAdm2MKD:
+    admin_name: Debar
+    iso3c: MKD
+    shapeID: 65306769B94389460478239
+  DebartsaAdm2MKD:
+    admin_name: Debartsa
+    iso3c: MKD
+    shapeID: 65306769B78023528365293
+  DelchevoAdm2MKD:
+    admin_name: Delchevo
+    iso3c: MKD
+    shapeID: 65306769B90097726978799
+  DemirHisarAdm2MKD:
+    admin_name: DemirHisar
+    iso3c: MKD
+    shapeID: 65306769B51033238442002
+  DemirKapijaAdm2MKD:
+    admin_name: DemirKapija
+    iso3c: MKD
+    shapeID: 65306769B1402835444879
+  DojranAdm2MKD:
+    admin_name: Dojran
+    iso3c: MKD
+    shapeID: 65306769B30499724495111
+  DolneniAdm2MKD:
+    admin_name: Dolneni
+    iso3c: MKD
+    shapeID: 65306769B25269203277023
+  DrugovoAdm2MKD:
+    admin_name: Drugovo
+    iso3c: MKD
+    shapeID: 65306769B99207835594431
+  EastAdm1MKD:
+    admin_name: East
+    iso3c: MKD
+    shapeID: 19869673B25367051519859
+  GaziBabaAdm2MKD:
+    admin_name: GaziBaba
+    iso3c: MKD
+    shapeID: 65306769B82299046319271
+  GevgelijaAdm2MKD:
+    admin_name: Gevgelija
+    iso3c: MKD
+    shapeID: 65306769B17532316382540
+  GjorchePetrovAdm2MKD:
+    admin_name: GjorchePetrov
+    iso3c: MKD
+    shapeID: 65306769B13037945767817
+  GostivarAdm2MKD:
+    admin_name: Gostivar
+    iso3c: MKD
+    shapeID: 65306769B11113266730381
+  GradskoAdm2MKD:
+    admin_name: Gradsko
+    iso3c: MKD
+    shapeID: 65306769B37555850097023
+  IlindenAdm2MKD:
+    admin_name: Ilinden
+    iso3c: MKD
+    shapeID: 65306769B96120860372222
+  JegunovtseAdm2MKD:
+    admin_name: Jegunovtse
+    iso3c: MKD
+    shapeID: 65306769B4612015917677
+  KarbintsiAdm2MKD:
+    admin_name: Karbintsi
+    iso3c: MKD
+    shapeID: 65306769B40750666784819
+  KarposhAdm2MKD:
+    admin_name: Karposh
+    iso3c: MKD
+    shapeID: 65306769B48294308075018
+  KavadartsiAdm2MKD:
+    admin_name: Kavadartsi
+    iso3c: MKD
+    shapeID: 65306769B96152204239158
+  KichevoAdm2MKD:
+    admin_name: Kichevo
+    iso3c: MKD
+    shapeID: 65306769B34923793156893
+  KiselaVodaAdm2MKD:
+    admin_name: KiselaVoda
+    iso3c: MKD
+    shapeID: 65306769B41644037603367
+  KochaniAdm2MKD:
+    admin_name: Kochani
+    iso3c: MKD
+    shapeID: 65306769B7034673009325
+  KoncheAdm2MKD:
+    admin_name: Konche
+    iso3c: MKD
+    shapeID: 65306769B3097110342626
+  KratovoAdm2MKD:
+    admin_name: Kratovo
+    iso3c: MKD
+    shapeID: 65306769B16547433729319
+  KrivaPalankaAdm2MKD:
+    admin_name: KrivaPalanka
+    iso3c: MKD
+    shapeID: 65306769B37694813292745
+  KrivogashtaniAdm2MKD:
+    admin_name: Krivogashtani
+    iso3c: MKD
+    shapeID: 65306769B57810703972123
+  KrushevoAdm2MKD:
+    admin_name: Krushevo
+    iso3c: MKD
+    shapeID: 65306769B95473368394754
+  KumanovoAdm2MKD:
+    admin_name: Kumanovo
+    iso3c: MKD
+    shapeID: 65306769B55307449205038
+  LipkovoAdm2MKD:
+    admin_name: Lipkovo
+    iso3c: MKD
+    shapeID: 65306769B52717367250393
+  LozovoAdm2MKD:
+    admin_name: Lozovo
+    iso3c: MKD
+    shapeID: 65306769B81455536397038
+  MakedonskaKamenitsaAdm2MKD:
+    admin_name: MakedonskaKamenitsa
+    iso3c: MKD
+    shapeID: 65306769B84975747896428
+  MakedonskiBrodAdm2MKD:
+    admin_name: MakedonskiBrod
+    iso3c: MKD
+    shapeID: 65306769B48467279151544
+  MavrovoandRostushaAdm2MKD:
+    admin_name: MavrovoandRostusha
+    iso3c: MKD
+    shapeID: 65306769B57665907630306
+  MogilaAdm2MKD:
+    admin_name: Mogila
+    iso3c: MKD
+    shapeID: 65306769B16932285740052
+  NegotinoAdm2MKD:
+    admin_name: Negotino
+    iso3c: MKD
+    shapeID: 65306769B63258214258120
+  NortheastAdm1MKD:
+    admin_name: Northeast
+    iso3c: MKD
+    shapeID: 19869673B2276524487216
+  NovatsiAdm2MKD:
+    admin_name: Novatsi
+    iso3c: MKD
+    shapeID: 65306769B28760853140319
+  NovoSeloAdm2MKD:
+    admin_name: NovoSelo
+    iso3c: MKD
+    shapeID: 65306769B50594974244279
+  OhridAdm2MKD:
+    admin_name: Ohrid
+    iso3c: MKD
+    shapeID: 65306769B86752814527149
+  OslomejAdm2MKD:
+    admin_name: Oslomej
+    iso3c: MKD
+    shapeID: 65306769B21440943325425
+  PehchevoAdm2MKD:
+    admin_name: Pehchevo
+    iso3c: MKD
+    shapeID: 65306769B44883072269450
+  PelagoniaAdm1MKD:
+    admin_name: Pelagonia
+    iso3c: MKD
+    shapeID: 19869673B93268339583324
+  PetrovetsAdm2MKD:
+    admin_name: Petrovets
+    iso3c: MKD
+    shapeID: 65306769B87468718843329
+  PlasnitsaAdm2MKD:
+    admin_name: Plasnitsa
+    iso3c: MKD
+    shapeID: 65306769B97994960223658
+  PologAdm1MKD:
+    admin_name: Polog
+    iso3c: MKD
+    shapeID: 19869673B18118429348634
+  PrilepAdm2MKD:
+    admin_name: Prilep
+    iso3c: MKD
+    shapeID: 65306769B638558710054
+  ProbishtipAdm2MKD:
+    admin_name: Probishtip
+    iso3c: MKD
+    shapeID: 65306769B77105819408507
+  RadovishAdm2MKD:
+    admin_name: Radovish
+    iso3c: MKD
+    shapeID: 65306769B69057078753294
+  RankovtseAdm2MKD:
+    admin_name: Rankovtse
+    iso3c: MKD
+    shapeID: 65306769B9482621128818
+  ResenAdm2MKD:
+    admin_name: Resen
+    iso3c: MKD
+    shapeID: 65306769B70601166108403
+  RosomanAdm2MKD:
+    admin_name: Rosoman
+    iso3c: MKD
+    shapeID: 65306769B19811324233496
+  SarajAdm2MKD:
+    admin_name: Saraj
+    iso3c: MKD
+    shapeID: 65306769B68285102273894
+  ShtipAdm2MKD:
+    admin_name: Shtip
+    iso3c: MKD
+    shapeID: 65306769B54195317631303
+  ShutoOrizariAdm2MKD:
+    admin_name: ShutoOrizari
+    iso3c: MKD
+    shapeID: 65306769B24962411373352
+  SkopjeAdm1MKD:
+    admin_name: Skopje
+    iso3c: MKD
+    shapeID: 19869673B29343041094723
+  SopishteAdm2MKD:
+    admin_name: Sopishte
+    iso3c: MKD
+    shapeID: 65306769B38681121769962
+  SoutheastAdm1MKD:
+    admin_name: Southeast
+    iso3c: MKD
+    shapeID: 19869673B18425588006505
+  SouthwestAdm1MKD:
+    admin_name: Southwest
+    iso3c: MKD
+    shapeID: 19869673B24262378327284
+  StaroNagorichaneAdm2MKD:
+    admin_name: StaroNagorichane
+    iso3c: MKD
+    shapeID: 65306769B92481103020830
+  StrugaAdm2MKD:
+    admin_name: Struga
+    iso3c: MKD
+    shapeID: 65306769B59831193355348
+  StrumitsaAdm2MKD:
+    admin_name: Strumitsa
+    iso3c: MKD
+    shapeID: 65306769B9612885815739
+  StudenichaniAdm2MKD:
+    admin_name: Studenichani
+    iso3c: MKD
+    shapeID: 65306769B72053820604170
+  SvetiNikoleAdm2MKD:
+    admin_name: SvetiNikole
+    iso3c: MKD
+    shapeID: 65306769B91405117981087
+  TeartseAdm2MKD:
+    admin_name: Teartse
+    iso3c: MKD
+    shapeID: 65306769B20870628535314
+  TetovoAdm2MKD:
+    admin_name: Tetovo
+    iso3c: MKD
+    shapeID: 65306769B82420997238505
+  ValandovoAdm2MKD:
+    admin_name: Valandovo
+    iso3c: MKD
+    shapeID: 65306769B91068225618475
+  VardarAdm1MKD:
+    admin_name: Vardar
+    iso3c: MKD
+    shapeID: 19869673B59759079390778
+  VasilevoAdm2MKD:
+    admin_name: Vasilevo
+    iso3c: MKD
+    shapeID: 65306769B98629679609772
+  VelesAdm2MKD:
+    admin_name: Veles
+    iso3c: MKD
+    shapeID: 65306769B79358437937603
+  VevchaniAdm2MKD:
+    admin_name: Vevchani
+    iso3c: MKD
+    shapeID: 65306769B55321164164480
+  VinitsaAdm2MKD:
+    admin_name: Vinitsa
+    iso3c: MKD
+    shapeID: 65306769B11231402107621
+  VraneshtitsaAdm2MKD:
+    admin_name: Vraneshtitsa
+    iso3c: MKD
+    shapeID: 65306769B74199760072032
+  VrapchishteAdm2MKD:
+    admin_name: Vrapchishte
+    iso3c: MKD
+    shapeID: 65306769B7593203088025
+  ZajasAdm2MKD:
+    admin_name: Zajas
+    iso3c: MKD
+    shapeID: 65306769B7192425425597
+  ZelenikovoAdm2MKD:
+    admin_name: Zelenikovo
+    iso3c: MKD
+    shapeID: 65306769B35230400843522
+  ZhelinoAdm2MKD:
+    admin_name: Zhelino
+    iso3c: MKD
+    shapeID: 65306769B31253280068655
+  ZrnovtsiAdm2MKD:
+    admin_name: Zrnovtsi
+    iso3c: MKD
+    shapeID: 65306769B51513115302581

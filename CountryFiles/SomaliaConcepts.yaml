@@ -1,19 +1,545 @@
 concepts:
-    - Hiiraan
-    - Sanaag
-    - Banadir
-    - Mudug
-    - MiddleJuba
-    - LowerShebelle
-    - LowerJuba
-    - Galgaduud
-    - Bay
-    - Togdheer
-    - Bakool
-    - Gedo
-    - MiddleShebelle
-    - WoqooyiGalbeed
-    - Sool
-    - Nugaal
-    - Bari
-    - Awdal
+  ABDULAZIZAdm2SOM:
+    admin_name: ABDULAZIZ
+    iso3c: SOM
+    shapeID: 84685775B24635972964099
+  ABUDWAQAdm2SOM:
+    admin_name: ABUDWAQ
+    iso3c: SOM
+    shapeID: 84685775B79967246373787
+  ADADOAdm2SOM:
+    admin_name: ADADO
+    iso3c: SOM
+    shapeID: 84685775B7496341124688
+  ADALEAdm2SOM:
+    admin_name: ADALE
+    iso3c: SOM
+    shapeID: 84685775B13317235490488
+  ADENYABALAdm2SOM:
+    admin_name: ADENYABAL
+    iso3c: SOM
+    shapeID: 84685775B59280367905571
+  AFGOIAdm2SOM:
+    admin_name: AFGOI
+    iso3c: SOM
+    shapeID: 84685775B82872988311402
+  AFMADOWAdm2SOM:
+    admin_name: AFMADOW
+    iso3c: SOM
+    shapeID: 84685775B78224110566882
+  ALULAAdm2SOM:
+    admin_name: ALULA
+    iso3c: SOM
+    shapeID: 84685775B85704075811392
+  AwdalAdm1SOM:
+    admin_name: Awdal
+    iso3c: SOM
+    shapeID: 83879307B11376444747055
+  AWDHEEGLEAdm2SOM:
+    admin_name: AWDHEEGLE
+    iso3c: SOM
+    shapeID: 84685775B89470325757348
+  AYNABOAdm2SOM:
+    admin_name: AYNABO
+    iso3c: SOM
+    shapeID: 84685775B13490583966346
+  BADHADHEAdm2SOM:
+    admin_name: BADHADHE
+    iso3c: SOM
+    shapeID: 84685775B71342338947416
+  BADHANAdm2SOM:
+    admin_name: BADHAN
+    iso3c: SOM
+    shapeID: 84685775B5876262576033
+  BAIDOAAdm2SOM:
+    admin_name: BAIDOA
+    iso3c: SOM
+    shapeID: 84685775B64239121237609
+  BAKIAdm2SOM:
+    admin_name: BAKI
+    iso3c: SOM
+    shapeID: 84685775B40091123389404
+  BakoolAdm1SOM:
+    admin_name: Bakool
+    iso3c: SOM
+    shapeID: 83879307B58207540839705
+  BALADAdm2SOM:
+    admin_name: BALAD
+    iso3c: SOM
+    shapeID: 84685775B67470388371162
+  BALANBALEAdm2SOM:
+    admin_name: BALANBALE
+    iso3c: SOM
+    shapeID: 84685775B33412695928736
+  BALIGUBADLEAdm2SOM:
+    admin_name: BALIGUBADLE
+    iso3c: SOM
+    shapeID: 84685775B4618356108906
+  BanadirAdm1SOM:
+    admin_name: Banadir
+    iso3c: SOM
+    shapeID: 83879307B32896531038690
+  BARDERAAdm2SOM:
+    admin_name: BARDERA
+    iso3c: SOM
+    shapeID: 84685775B9725019653775
+  BARGAALAdm2SOM:
+    admin_name: BARGAAL
+    iso3c: SOM
+    shapeID: 84685775B61236699531309
+  BariAdm1SOM:
+    admin_name: Bari
+    iso3c: SOM
+    shapeID: 83879307B19000204873860
+  BayAdm1SOM:
+    admin_name: Bay
+    iso3c: SOM
+    shapeID: 83879307B67196763494499
+  BELETHAWAAdm2SOM:
+    admin_name: BELETHAWA
+    iso3c: SOM
+    shapeID: 84685775B27844034266629
+  BELETWEYNEAdm2SOM:
+    admin_name: BELETWEYNE
+    iso3c: SOM
+    shapeID: 84685775B70929656098246
+  BENDERBAYLAAdm2SOM:
+    admin_name: BENDERBAYLA
+    iso3c: SOM
+    shapeID: 84685775B8041620717241
+  BERBERAAdm2SOM:
+    admin_name: BERBERA
+    iso3c: SOM
+    shapeID: 84685775B1722628585645
+  BERDALEAdm2SOM:
+    admin_name: BERDALE
+    iso3c: SOM
+    shapeID: 84685775B87507195948570
+  BONDEREAdm2SOM:
+    admin_name: BONDERE
+    iso3c: SOM
+    shapeID: 84685775B75268205448594
+  BORAMAAdm2SOM:
+    admin_name: BORAMA
+    iso3c: SOM
+    shapeID: 84685775B41100750476456
+  BOSSASOAdm2SOM:
+    admin_name: BOSSASO
+    iso3c: SOM
+    shapeID: 84685775B12579203226949
+  BRAVAAdm2SOM:
+    admin_name: BRAVA
+    iso3c: SOM
+    shapeID: 84685775B57970277493095
+  BUAALEAdm2SOM:
+    admin_name: BUAALE
+    iso3c: SOM
+    shapeID: 84685775B66598677663458
+  BUHODLEAdm2SOM:
+    admin_name: BUHODLE
+    iso3c: SOM
+    shapeID: 84685775B82555432245075
+  BULOBURTIAdm2SOM:
+    admin_name: BULOBURTI
+    iso3c: SOM
+    shapeID: 84685775B29587148635328
+  BURAOAdm2SOM:
+    admin_name: BURAO
+    iso3c: SOM
+    shapeID: 84685775B49158080079573
+  BURDUBOAdm2SOM:
+    admin_name: BURDUBO
+    iso3c: SOM
+    shapeID: 84685775B17211550711552
+  BURHAKABAAdm2SOM:
+    admin_name: BURHAKABA
+    iso3c: SOM
+    shapeID: 84685775B29822236591351
+  BURTINLEAdm2SOM:
+    admin_name: BURTINLE
+    iso3c: SOM
+    shapeID: 84685775B35872588308283
+  DANGOROYOAdm2SOM:
+    admin_name: DANGOROYO
+    iso3c: SOM
+    shapeID: 84685775B50873713439527
+  DANYILEAdm2SOM:
+    admin_name: DANYILE
+    iso3c: SOM
+    shapeID: 84685775B12433941147201
+  DHARKENLYAdm2SOM:
+    admin_name: DHARKENLY
+    iso3c: SOM
+    shapeID: 84685775B89976507617843
+  DINSOORAdm2SOM:
+    admin_name: DINSOOR
+    iso3c: SOM
+    shapeID: 84685775B78386307677583
+  DOLOAdm2SOM:
+    admin_name: DOLO
+    iso3c: SOM
+    shapeID: 84685775B92097276098978
+  DUSAMREBAdm2SOM:
+    admin_name: DUSAMREB
+    iso3c: SOM
+    shapeID: 84685775B3694885810880
+  ELAFWEYNAdm2SOM:
+    admin_name: ELAFWEYN
+    iso3c: SOM
+    shapeID: 84685775B49212368266991
+  ELBARDEAdm2SOM:
+    admin_name: ELBARDE
+    iso3c: SOM
+    shapeID: 84685775B56593416726997
+  ELBURAdm2SOM:
+    admin_name: ELBUR
+    iso3c: SOM
+    shapeID: 84685775B95768297693304
+  ELDHEREAdm2SOM:
+    admin_name: ELDHERE
+    iso3c: SOM
+    shapeID: 84685775B48124794142204
+  ELGARASAdm2SOM:
+    admin_name: ELGARAS
+    iso3c: SOM
+    shapeID: 84685775B92422883718197
+  ELWAKAdm2SOM:
+    admin_name: ELWAK
+    iso3c: SOM
+    shapeID: 84685775B54494760569140
+  ERIGAVOAdm2SOM:
+    admin_name: ERIGAVO
+    iso3c: SOM
+    shapeID: 84685775B34990175799989
+  EYLAdm2SOM:
+    admin_name: EYL
+    iso3c: SOM
+    shapeID: 84685775B71976909807732
+  GABILEYAdm2SOM:
+    admin_name: GABILEY
+    iso3c: SOM
+    shapeID: 84685775B16729211759375
+  GALADAdm2SOM:
+    admin_name: GALAD
+    iso3c: SOM
+    shapeID: 84685775B5464028424043
+  GalgaduudAdm1SOM:
+    admin_name: Galgaduud
+    iso3c: SOM
+    shapeID: 83879307B20044253365087
+  GALHAREERIAdm2SOM:
+    admin_name: GALHAREERI
+    iso3c: SOM
+    shapeID: 84685775B93282751172745
+  GALINSOORAdm2SOM:
+    admin_name: GALINSOOR
+    iso3c: SOM
+    shapeID: 84685775B19557603644840
+  GALKAYUNORTHAdm2SOM:
+    admin_name: GALKAYUNORTH
+    iso3c: SOM
+    shapeID: 84685775B55713262930427
+  GALKAYUSOUTHAdm2SOM:
+    admin_name: GALKAYUSOUTH
+    iso3c: SOM
+    shapeID: 84685775B46577214305446
+  GARBAHAREYAdm2SOM:
+    admin_name: GARBAHAREY
+    iso3c: SOM
+    shapeID: 84685775B75221313586625
+  GARDOAdm2SOM:
+    admin_name: GARDO
+    iso3c: SOM
+    shapeID: 84685775B51750240314233
+  GAROWEAdm2SOM:
+    admin_name: GAROWE
+    iso3c: SOM
+    shapeID: 84685775B27146927901695
+  GedoAdm1SOM:
+    admin_name: Gedo
+    iso3c: SOM
+    shapeID: 83879307B34714219035659
+  GEDWEINAdm2SOM:
+    admin_name: GEDWEIN
+    iso3c: SOM
+    shapeID: 84685775B13359922202498
+  GOLDOGOBAdm2SOM:
+    admin_name: GOLDOGOB
+    iso3c: SOM
+    shapeID: 84685775B67414916563902
+  GURIELAdm2SOM:
+    admin_name: GURIEL
+    iso3c: SOM
+    shapeID: 84685775B13646970267315
+  HAFUNAdm2SOM:
+    admin_name: HAFUN
+    iso3c: SOM
+    shapeID: 84685775B125480767078
+  HAGARAdm2SOM:
+    admin_name: HAGAR
+    iso3c: SOM
+    shapeID: 84685775B80096765032061
+  HAMARJABJABAdm2SOM:
+    admin_name: HAMARJABJAB
+    iso3c: SOM
+    shapeID: 84685775B5791986723142
+  HAMARWEYNAdm2SOM:
+    admin_name: HAMARWEYN
+    iso3c: SOM
+    shapeID: 84685775B74421792926461
+  HARADHEREAdm2SOM:
+    admin_name: HARADHERE
+    iso3c: SOM
+    shapeID: 84685775B45563576505649
+  HARGEISAAdm2SOM:
+    admin_name: HARGEISA
+    iso3c: SOM
+    shapeID: 84685775B71114106442910
+  HAWALWADAGAdm2SOM:
+    admin_name: HAWALWADAG
+    iso3c: SOM
+    shapeID: 84685775B6174118439216
+  HELIWAAdm2SOM:
+    admin_name: HELIWA
+    iso3c: SOM
+    shapeID: 84685775B37468249397520
+  HiiraanAdm1SOM:
+    admin_name: Hiiraan
+    iso3c: SOM
+    shapeID: 83879307B66756469447496
+  HOBYOAdm2SOM:
+    admin_name: HOBYO
+    iso3c: SOM
+    shapeID: 84685775B25921172233623
+  HODANAdm2SOM:
+    admin_name: HODAN
+    iso3c: SOM
+    shapeID: 84685775B82497117108995
+  HUDUNAdm2SOM:
+    admin_name: HUDUN
+    iso3c: SOM
+    shapeID: 84685775B18508481977999
+  HUDURAdm2SOM:
+    admin_name: HUDUR
+    iso3c: SOM
+    shapeID: 84685775B34429379977125
+  ISKUSHUBANAdm2SOM:
+    admin_name: ISKUSHUBAN
+    iso3c: SOM
+    shapeID: 84685775B5210760916560
+  JALALAQSIAdm2SOM:
+    admin_name: JALALAQSI
+    iso3c: SOM
+    shapeID: 84685775B38417795171709
+  JAMAAMEEASTAdm2SOM:
+    admin_name: JAMAAMEEAST
+    iso3c: SOM
+    shapeID: 84685775B22359262366449
+  JAMAAMEWESTAdm2SOM:
+    admin_name: JAMAAMEWEST
+    iso3c: SOM
+    shapeID: 84685775B48654206819595
+  JARIBANAdm2SOM:
+    admin_name: JARIBAN
+    iso3c: SOM
+    shapeID: 84685775B85139403123259
+  JILIBEASTAdm2SOM:
+    admin_name: JILIBEAST
+    iso3c: SOM
+    shapeID: 84685775B45912091310280
+  JILIBWESTAdm2SOM:
+    admin_name: JILIBWEST
+    iso3c: SOM
+    shapeID: 84685775B94178460228312
+  JOWHARAdm2SOM:
+    admin_name: JOWHAR
+    iso3c: SOM
+    shapeID: 84685775B18067111366045
+  KAHDAAdm2SOM:
+    admin_name: KAHDA
+    iso3c: SOM
+    shapeID: 84685775B11993841529980
+  KARANAdm2SOM:
+    admin_name: KARAN
+    iso3c: SOM
+    shapeID: 84685775B48165620113230
+  KISMAYOAdm2SOM:
+    admin_name: KISMAYO
+    iso3c: SOM
+    shapeID: 84685775B88570008116698
+  KURTUNWAAREYAdm2SOM:
+    admin_name: KURTUNWAAREY
+    iso3c: SOM
+    shapeID: 84685775B70562611750423
+  LASANODAdm2SOM:
+    admin_name: LASANOD
+    iso3c: SOM
+    shapeID: 84685775B17415415044999
+  LowerJubaAdm1SOM:
+    admin_name: LowerJuba
+    iso3c: SOM
+    shapeID: 83879307B35818532110087
+  LowerShebelleAdm1SOM:
+    admin_name: LowerShebelle
+    iso3c: SOM
+    shapeID: 83879307B35519599536274
+  LUGHAYAAdm2SOM:
+    admin_name: LUGHAYA
+    iso3c: SOM
+    shapeID: 84685775B17570807087791
+  LUUQAdm2SOM:
+    admin_name: LUUQ
+    iso3c: SOM
+    shapeID: 84685775B74213899159169
+  MADINAAdm2SOM:
+    admin_name: MADINA
+    iso3c: SOM
+    shapeID: 84685775B6942068492284
+  MAHADAYAdm2SOM:
+    admin_name: MAHADAY
+    iso3c: SOM
+    shapeID: 84685775B91218746940752
+  MAHASAdm2SOM:
+    admin_name: MAHAS
+    iso3c: SOM
+    shapeID: 84685775B60472042011184
+  MARKAAdm2SOM:
+    admin_name: MARKA
+    iso3c: SOM
+    shapeID: 84685775B78307821916269
+  MATABANAdm2SOM:
+    admin_name: MATABAN
+    iso3c: SOM
+    shapeID: 84685775B33633029479979
+  MiddleJubaAdm1SOM:
+    admin_name: MiddleJuba
+    iso3c: SOM
+    shapeID: 83879307B33420401553888
+  MiddleShebelleAdm1SOM:
+    admin_name: MiddleShebelle
+    iso3c: SOM
+    shapeID: 83879307B5242146898757
+  MudugAdm1SOM:
+    admin_name: Mudug
+    iso3c: SOM
+    shapeID: 83879307B26517451678825
+  NugaalAdm1SOM:
+    admin_name: Nugaal
+    iso3c: SOM
+    shapeID: 83879307B66585548815331
+  ODWAYNEAdm2SOM:
+    admin_name: ODWAYNE
+    iso3c: SOM
+    shapeID: 84685775B26651098111953
+  QANDALAAdm2SOM:
+    admin_name: QANDALA
+    iso3c: SOM
+    shapeID: 84685775B84835917944928
+  QANSAHDHEEREAdm2SOM:
+    admin_name: QANSAHDHEERE
+    iso3c: SOM
+    shapeID: 84685775B45668055584867
+  QORYOLEYAdm2SOM:
+    admin_name: QORYOLEY
+    iso3c: SOM
+    shapeID: 84685775B63249337899107
+  RABDUREAdm2SOM:
+    admin_name: RABDURE
+    iso3c: SOM
+    shapeID: 84685775B46619978923687
+  RAGAELLEAdm2SOM:
+    admin_name: RAGAELLE
+    iso3c: SOM
+    shapeID: 84685775B83703395559495
+  RAKOAdm2SOM:
+    admin_name: RAKO
+    iso3c: SOM
+    shapeID: 84685775B37301181329980
+  RUNINGODAdm2SOM:
+    admin_name: RUNINGOD
+    iso3c: SOM
+    shapeID: 84685775B1037428019952
+  SABLALEAdm2SOM:
+    admin_name: SABLALE
+    iso3c: SOM
+    shapeID: 84685775B63464570550011
+  SAKOWAdm2SOM:
+    admin_name: SAKOW
+    iso3c: SOM
+    shapeID: 84685775B35988907575651
+  SALAGLEAdm2SOM:
+    admin_name: SALAGLE
+    iso3c: SOM
+    shapeID: 84685775B80153065701817
+  SanaagAdm1SOM:
+    admin_name: Sanaag
+    iso3c: SOM
+    shapeID: 83879307B13610404434600
+  SHANGANIAdm2SOM:
+    admin_name: SHANGANI
+    iso3c: SOM
+    shapeID: 84685775B46962226770682
+  SHEIKHAdm2SOM:
+    admin_name: SHEIKH
+    iso3c: SOM
+    shapeID: 84685775B95631339376417
+  SHIBISAdm2SOM:
+    admin_name: SHIBIS
+    iso3c: SOM
+    shapeID: 84685775B97352920944621
+  SoolAdm1SOM:
+    admin_name: Sool
+    iso3c: SOM
+    shapeID: 83879307B65026001570916
+  TALEHAdm2SOM:
+    admin_name: TALEH
+    iso3c: SOM
+    shapeID: 84685775B65673290719307
+  TIYEGLOAdm2SOM:
+    admin_name: TIYEGLO
+    iso3c: SOM
+    shapeID: 84685775B98266132903416
+  TogdheerAdm1SOM:
+    admin_name: Togdheer
+    iso3c: SOM
+    shapeID: 83879307B67680758004346
+  UFEYNAdm2SOM:
+    admin_name: UFEYN
+    iso3c: SOM
+    shapeID: 84685775B19942136594516
+  WABERIAdm2SOM:
+    admin_name: WABERI
+    iso3c: SOM
+    shapeID: 84685775B61400607894578
+  WACIYAAdm2SOM:
+    admin_name: WACIYA
+    iso3c: SOM
+    shapeID: 84685775B27341707037239
+  WAJIDAdm2SOM:
+    admin_name: WAJID
+    iso3c: SOM
+    shapeID: 84685775B49823666549340
+  WANLEWEYNEAdm2SOM:
+    admin_name: WANLEWEYNE
+    iso3c: SOM
+    shapeID: 84685775B34996333298223
+  WARDEGLYAdm2SOM:
+    admin_name: WARDEGLY
+    iso3c: SOM
+    shapeID: 84685775B59079142474967
+  WARSHEIKHAdm2SOM:
+    admin_name: WARSHEIKH
+    iso3c: SOM
+    shapeID: 84685775B19685876664607
+  WoqooyiGalbeedAdm1SOM:
+    admin_name: WoqooyiGalbeed
+    iso3c: SOM
+    shapeID: 83879307B42572798770371
+  YAQSHIDAdm2SOM:
+    admin_name: YAQSHID
+    iso3c: SOM
+    shapeID: 84685775B1106849910840
+  ZEILAAdm2SOM:
+    admin_name: ZEILA
+    iso3c: SOM
+    shapeID: 84685775B58560427797094

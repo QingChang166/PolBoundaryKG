@@ -1,33 +1,261 @@
 concepts:
-    - RaggedIsland
-    - CentralEleuthera
-    - CrookedIsland
-    - CentralAndros
-    - RumCay
-    - CityofFreeport
-    - Acklins
-    - EastGrandBahama
-    - BerryIslands
-    - BlackPoint
-    - CatIsland
-    - Biminis
-    - Moore'sIsland
-    - NewProvidence
-    - NorthAbaco
-    - NorthAndros
-    - NorthEleuthera
-    - Exuma
-    - GrandCay
-    - HarbourIsland
-    - HopeTown
-    - Inagua
-    - LongIsland
-    - MangroveCay
-    - CentralAbaco
-    - SouthAbaco
-    - SouthAndros
-    - Mayaguana
-    - SanSalvador
-    - WestGrandBahama
-    - SouthEleuthera
-    - SpanishWells
+  AcklinsAdm1BHS:
+    admin_name: Acklins
+    iso3c: BHS
+    shapeID: 57655419B62229097939124
+  AcklinsAdm2BHS:
+    admin_name: Acklins
+    iso3c: BHS
+    shapeID: 86173395B54100841330838
+  BerryIslandsAdm1BHS:
+    admin_name: BerryIslands
+    iso3c: BHS
+    shapeID: 57655419B63031142172255
+  BerryIslandsAdm2BHS:
+    admin_name: BerryIslands
+    iso3c: BHS
+    shapeID: 86173395B97599350653423
+  BiminiAdm2BHS:
+    admin_name: Bimini
+    iso3c: BHS
+    shapeID: 86173395B82868545095992
+  BiminisAdm1BHS:
+    admin_name: Biminis
+    iso3c: BHS
+    shapeID: 57655419B82083755348588
+  BlackPointAdm1BHS:
+    admin_name: BlackPoint
+    iso3c: BHS
+    shapeID: 57655419B62023626616016
+  BlackPointAdm2BHS:
+    admin_name: BlackPoint
+    iso3c: BHS
+    shapeID: 86173395B5227574641069
+  CatIslandAdm1BHS:
+    admin_name: CatIsland
+    iso3c: BHS
+    shapeID: 57655419B31009871091546
+  CatIslandAdm2BHS:
+    admin_name: CatIsland
+    iso3c: BHS
+    shapeID: 86173395B62367841899466
+  CentralAbacoAdm1BHS:
+    admin_name: CentralAbaco
+    iso3c: BHS
+    shapeID: 57655419B6063467597350
+  CentralAbacoAdm2BHS:
+    admin_name: CentralAbaco
+    iso3c: BHS
+    shapeID: 86173395B65522481744755
+  CentralAndrosAdm1BHS:
+    admin_name: CentralAndros
+    iso3c: BHS
+    shapeID: 57655419B10554343974074
+  CentralAndrosAdm2BHS:
+    admin_name: CentralAndros
+    iso3c: BHS
+    shapeID: 86173395B80651222663477
+  CentralEleutheraAdm1BHS:
+    admin_name: CentralEleuthera
+    iso3c: BHS
+    shapeID: 57655419B18095522454644
+  CentralEleutheraAdm2BHS:
+    admin_name: CentralEleuthera
+    iso3c: BHS
+    shapeID: 86173395B89769104432743
+  CityofFreeportAdm1BHS:
+    admin_name: CityofFreeport
+    iso3c: BHS
+    shapeID: 57655419B78426284582077
+  CityofFreeportAdm2BHS:
+    admin_name: CityofFreeport
+    iso3c: BHS
+    shapeID: 86173395B95713051783720
+  CrookedIslandAdm1BHS:
+    admin_name: CrookedIsland
+    iso3c: BHS
+    shapeID: 57655419B45053914770402
+  CrookedIslandandLongCayAdm2BHS:
+    admin_name: CrookedIslandandLongCay
+    iso3c: BHS
+    shapeID: 86173395B52487001010255
+  EastGrandBahamaAdm1BHS:
+    admin_name: EastGrandBahama
+    iso3c: BHS
+    shapeID: 57655419B55305756041974
+  EastGrandBahamaAdm2BHS:
+    admin_name: EastGrandBahama
+    iso3c: BHS
+    shapeID: 86173395B65596766403294
+  ExumaAdm1BHS:
+    admin_name: Exuma
+    iso3c: BHS
+    shapeID: 57655419B87015583910143
+  ExumaAdm2BHS:
+    admin_name: Exuma
+    iso3c: BHS
+    shapeID: 86173395B87539988418274
+  GrandCayAdm1BHS:
+    admin_name: GrandCay
+    iso3c: BHS
+    shapeID: 57655419B94344627065554
+  GrandCayAdm2BHS:
+    admin_name: GrandCay
+    iso3c: BHS
+    shapeID: 86173395B69111748421310
+  GreenTurtleCayAdm2BHS:
+    admin_name: GreenTurtleCay
+    iso3c: BHS
+    shapeID: 86173395B71884173217057
+  HarbourIslandAdm1BHS:
+    admin_name: HarbourIsland
+    iso3c: BHS
+    shapeID: 57655419B64917905581576
+  HarbourIslandAdm2BHS:
+    admin_name: HarbourIsland
+    iso3c: BHS
+    shapeID: 86173395B14253102748186
+  HopeTownAdm1BHS:
+    admin_name: HopeTown
+    iso3c: BHS
+    shapeID: 57655419B91019969534321
+  HopeTownAdm2BHS:
+    admin_name: HopeTown
+    iso3c: BHS
+    shapeID: 86173395B9994145648784
+  InaguaAdm1BHS:
+    admin_name: Inagua
+    iso3c: BHS
+    shapeID: 57655419B81962321006014
+  InaguaAdm2BHS:
+    admin_name: Inagua
+    iso3c: BHS
+    shapeID: 86173395B61374394244874
+  LongIslandAdm1BHS:
+    admin_name: LongIsland
+    iso3c: BHS
+    shapeID: 57655419B2318826838910
+  LongIslandAdm2BHS:
+    admin_name: LongIsland
+    iso3c: BHS
+    shapeID: 86173395B80196731911279
+  MangroveCayAdm1BHS:
+    admin_name: MangroveCay
+    iso3c: BHS
+    shapeID: 57655419B49483307836090
+  MangroveCayAdm2BHS:
+    admin_name: MangroveCay
+    iso3c: BHS
+    shapeID: 86173395B93497811769454
+  MayaguanaAdm1BHS:
+    admin_name: Mayaguana
+    iso3c: BHS
+    shapeID: 57655419B31239819863643
+  MayaguanaAdm2BHS:
+    admin_name: Mayaguana
+    iso3c: BHS
+    shapeID: 86173395B29974075887394
+  Moore'sIslandAdm1BHS:
+    admin_name: Moore'sIsland
+    iso3c: BHS
+    shapeID: 57655419B38120742943128
+  Moore'sIslandAdm2BHS:
+    admin_name: Moore'sIsland
+    iso3c: BHS
+    shapeID: 86173395B33619167853359
+  NewProvidenceAdm1BHS:
+    admin_name: NewProvidence
+    iso3c: BHS
+    shapeID: 57655419B75676267470758
+  NewProvidenceAdm2BHS:
+    admin_name: NewProvidence
+    iso3c: BHS
+    shapeID: 86173395B69626346529227
+  NorthAbacoAdm1BHS:
+    admin_name: NorthAbaco
+    iso3c: BHS
+    shapeID: 57655419B79428110843392
+  NorthAbacoAdm2BHS:
+    admin_name: NorthAbaco
+    iso3c: BHS
+    shapeID: 86173395B8049186625596
+  NorthAndrosAdm1BHS:
+    admin_name: NorthAndros
+    iso3c: BHS
+    shapeID: 57655419B63159467904865
+  NorthAndrosAdm2BHS:
+    admin_name: NorthAndros
+    iso3c: BHS
+    shapeID: 86173395B2854433088661
+  NorthEleutheraAdm1BHS:
+    admin_name: NorthEleuthera
+    iso3c: BHS
+    shapeID: 57655419B2538538242492
+  NorthEleutheraAdm2BHS:
+    admin_name: NorthEleuthera
+    iso3c: BHS
+    shapeID: 86173395B2607926408865
+  RaggedIslandAdm1BHS:
+    admin_name: RaggedIsland
+    iso3c: BHS
+    shapeID: 57655419B98686837957667
+  RaggedIslandAdm2BHS:
+    admin_name: RaggedIsland
+    iso3c: BHS
+    shapeID: 86173395B64443584385378
+  RumCayAdm1BHS:
+    admin_name: RumCay
+    iso3c: BHS
+    shapeID: 57655419B42503330785161
+  RumCayAdm2BHS:
+    admin_name: RumCay
+    iso3c: BHS
+    shapeID: 86173395B10183828018242
+  SanSalvadorAdm1BHS:
+    admin_name: SanSalvador
+    iso3c: BHS
+    shapeID: 57655419B6447054147513
+  SanSalvadorAdm2BHS:
+    admin_name: SanSalvador
+    iso3c: BHS
+    shapeID: 86173395B80884224234425
+  SouthAbacoAdm1BHS:
+    admin_name: SouthAbaco
+    iso3c: BHS
+    shapeID: 57655419B39711376309473
+  SouthAbacoAdm2BHS:
+    admin_name: SouthAbaco
+    iso3c: BHS
+    shapeID: 86173395B32206568144682
+  SouthAndrosAdm1BHS:
+    admin_name: SouthAndros
+    iso3c: BHS
+    shapeID: 57655419B29435673895959
+  SouthAndrosAdm2BHS:
+    admin_name: SouthAndros
+    iso3c: BHS
+    shapeID: 86173395B49274497759117
+  SouthEleutheraAdm1BHS:
+    admin_name: SouthEleuthera
+    iso3c: BHS
+    shapeID: 57655419B57652232258076
+  SouthEleutheraAdm2BHS:
+    admin_name: SouthEleuthera
+    iso3c: BHS
+    shapeID: 86173395B49833060083827
+  SpanishWellsAdm1BHS:
+    admin_name: SpanishWells
+    iso3c: BHS
+    shapeID: 57655419B1305095208594
+  SpanishWellsAdm2BHS:
+    admin_name: SpanishWells
+    iso3c: BHS
+    shapeID: 86173395B84342245076332
+  WestGrandBahamaAdm1BHS:
+    admin_name: WestGrandBahama
+    iso3c: BHS
+    shapeID: 57655419B65085412826087
+  WestGrandBahamaAdm2BHS:
+    admin_name: WestGrandBahama
+    iso3c: BHS
+    shapeID: 86173395B87338577523436

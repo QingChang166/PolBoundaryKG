@@ -1,38 +1,149 @@
 concepts:
-    - Taraclia
-    - Cantemir
-    - Cimislia
-    - StefanVoda
-    - Basarabeasca
-    - Leova
-    - AneniiNoi
-    - Criuleni
-    - Straseni
-    - Ungheni
-    - Dubasari
-    - Calarasi
-    - Transnistria
-    - Bender
-    - Causeni
-    - Hincesti
-    - Ialoveni
-    - Nisporeni
-    - Chisinau
-    - Cahul
-    - SIngerei
-    - Gagauzia
-    - Rezina
-    - Soldanesti
-    - Floresti
-    - Drochia
-    - Edinet
-    - Briceni
-    - Falesti
-    - Orhei
-    - Glodeni
-    - Balti
-    - Telenesti
-    - Soroca
-    - RIscani
-    - Ocnita
-    - Donduseni
+  AneniiNoiAdm1MDA:
+    admin_name: AneniiNoi
+    iso3c: MDA
+    shapeID: 25212430B26910735221199
+  BaltiAdm1MDA:
+    admin_name: Balti
+    iso3c: MDA
+    shapeID: 25212430B53322619224262
+  BasarabeascaAdm1MDA:
+    admin_name: Basarabeasca
+    iso3c: MDA
+    shapeID: 25212430B41329206409501
+  BenderAdm1MDA:
+    admin_name: Bender
+    iso3c: MDA
+    shapeID: 25212430B95154791539173
+  BriceniAdm1MDA:
+    admin_name: Briceni
+    iso3c: MDA
+    shapeID: 25212430B46101437811477
+  CahulAdm1MDA:
+    admin_name: Cahul
+    iso3c: MDA
+    shapeID: 25212430B51059014460141
+  CalarasiAdm1MDA:
+    admin_name: Calarasi
+    iso3c: MDA
+    shapeID: 25212430B70495112373630
+  CantemirAdm1MDA:
+    admin_name: Cantemir
+    iso3c: MDA
+    shapeID: 25212430B81482951983667
+  CauseniAdm1MDA:
+    admin_name: Causeni
+    iso3c: MDA
+    shapeID: 25212430B31479954216778
+  ChisinauAdm1MDA:
+    admin_name: Chisinau
+    iso3c: MDA
+    shapeID: 25212430B29368029244886
+  CimisliaAdm1MDA:
+    admin_name: Cimislia
+    iso3c: MDA
+    shapeID: 25212430B51243918943413
+  CriuleniAdm1MDA:
+    admin_name: Criuleni
+    iso3c: MDA
+    shapeID: 25212430B57403780332927
+  DonduseniAdm1MDA:
+    admin_name: Donduseni
+    iso3c: MDA
+    shapeID: 25212430B39831138215863
+  DrochiaAdm1MDA:
+    admin_name: Drochia
+    iso3c: MDA
+    shapeID: 25212430B3857280687737
+  DubasariAdm1MDA:
+    admin_name: Dubasari
+    iso3c: MDA
+    shapeID: 25212430B37177221829666
+  EdinetAdm1MDA:
+    admin_name: Edinet
+    iso3c: MDA
+    shapeID: 25212430B65458906379390
+  FalestiAdm1MDA:
+    admin_name: Falesti
+    iso3c: MDA
+    shapeID: 25212430B61222791146584
+  FlorestiAdm1MDA:
+    admin_name: Floresti
+    iso3c: MDA
+    shapeID: 25212430B38040597710669
+  GagauziaAdm1MDA:
+    admin_name: Gagauzia
+    iso3c: MDA
+    shapeID: 25212430B55748044124793
+  GlodeniAdm1MDA:
+    admin_name: Glodeni
+    iso3c: MDA
+    shapeID: 25212430B89307550133505
+  HincestiAdm1MDA:
+    admin_name: Hincesti
+    iso3c: MDA
+    shapeID: 25212430B73317679220215
+  IaloveniAdm1MDA:
+    admin_name: Ialoveni
+    iso3c: MDA
+    shapeID: 25212430B74275153833775
+  LeovaAdm1MDA:
+    admin_name: Leova
+    iso3c: MDA
+    shapeID: 25212430B269818099865
+  NisporeniAdm1MDA:
+    admin_name: Nisporeni
+    iso3c: MDA
+    shapeID: 25212430B5738533784066
+  OcnitaAdm1MDA:
+    admin_name: Ocnita
+    iso3c: MDA
+    shapeID: 25212430B35951071556291
+  OrheiAdm1MDA:
+    admin_name: Orhei
+    iso3c: MDA
+    shapeID: 25212430B45328982281571
+  RezinaAdm1MDA:
+    admin_name: Rezina
+    iso3c: MDA
+    shapeID: 25212430B36697629718061
+  RIscaniAdm1MDA:
+    admin_name: RIscani
+    iso3c: MDA
+    shapeID: 25212430B1615629371845
+  SIngereiAdm1MDA:
+    admin_name: SIngerei
+    iso3c: MDA
+    shapeID: 25212430B37613660942888
+  SoldanestiAdm1MDA:
+    admin_name: Soldanesti
+    iso3c: MDA
+    shapeID: 25212430B52468939139965
+  SorocaAdm1MDA:
+    admin_name: Soroca
+    iso3c: MDA
+    shapeID: 25212430B70903588336793
+  StefanVodaAdm1MDA:
+    admin_name: StefanVoda
+    iso3c: MDA
+    shapeID: 25212430B10989766506063
+  StraseniAdm1MDA:
+    admin_name: Straseni
+    iso3c: MDA
+    shapeID: 25212430B9063126289167
+  TaracliaAdm1MDA:
+    admin_name: Taraclia
+    iso3c: MDA
+    shapeID: 25212430B43456438192105
+  TelenestiAdm1MDA:
+    admin_name: Telenesti
+    iso3c: MDA
+    shapeID: 25212430B80524279714584
+  TransnistriaAdm1MDA:
+    admin_name: Transnistria
+    iso3c: MDA
+    shapeID: 25212430B22111314945643
+  UngheniAdm1MDA:
+    admin_name: Ungheni
+    iso3c: MDA
+    shapeID: 25212430B23943377724140

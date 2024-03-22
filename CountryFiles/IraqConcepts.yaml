@@ -1,19 +1,477 @@
 concepts:
-    - Babil
-    - Baghdad
-    - Al-Qadisiyah
-    - Al-Muthanna
-    - DhiQar
-    - Karbala
-    - Erbil
-    - Al-Sulaimaniyah
-    - An-Najaf
-    - Al-Anbar
-    - Kirkuk
-    - Al-Basrah
-    - Dohuk
-    - Maysan
-    - Wasit
-    - Ninawa
-    - Salahal-Din
-    - Diyala
+  AbuAl-KhaseebAdm2IRQ:
+    admin_name: AbuAl-Khaseeb
+    iso3c: IRQ
+    shapeID: 34846034B47596068894282
+  AfaqAdm2IRQ:
+    admin_name: Afaq
+    iso3c: IRQ
+    shapeID: 34846034B39567841057501
+  AinAl-TamurAdm2IRQ:
+    admin_name: AinAl-Tamur
+    iso3c: IRQ
+    shapeID: 34846034B94422481549269
+  Al-AdhamiyaAdm2IRQ:
+    admin_name: Al-Adhamiya
+    iso3c: IRQ
+    shapeID: 34846034B20026231535079
+  Al-AmadiyaAdm2IRQ:
+    admin_name: Al-Amadiya
+    iso3c: IRQ
+    shapeID: 34846034B75127748114443
+  Al-AmaraAdm2IRQ:
+    admin_name: Al-Amara
+    iso3c: IRQ
+    shapeID: 34846034B34105115765151
+  Al-AnbarAdm1IRQ:
+    admin_name: Al-Anbar
+    iso3c: IRQ
+    shapeID: 90741666B95383716564687
+  Al-BaajAdm2IRQ:
+    admin_name: Al-Baaj
+    iso3c: IRQ
+    shapeID: 34846034B31604409144822
+  Al-BasrahAdm1IRQ:
+    admin_name: Al-Basrah
+    iso3c: IRQ
+    shapeID: 90741666B36076314760085
+  Al-BasrahAdm2IRQ:
+    admin_name: Al-Basrah
+    iso3c: IRQ
+    shapeID: 34846034B27642135170661
+  Al-ChibayishAdm2IRQ:
+    admin_name: Al-Chibayish
+    iso3c: IRQ
+    shapeID: 34846034B42892596396596
+  Al-DaurAdm2IRQ:
+    admin_name: Al-Daur
+    iso3c: IRQ
+    shapeID: 34846034B11462984737824
+  Al-DiwaniyaAdm2IRQ:
+    admin_name: Al-Diwaniya
+    iso3c: IRQ
+    shapeID: 34846034B69027693964314
+  Al-FallujaAdm2IRQ:
+    admin_name: Al-Falluja
+    iso3c: IRQ
+    shapeID: 34846034B2556059967776
+  Al-FawAdm2IRQ:
+    admin_name: Al-Faw
+    iso3c: IRQ
+    shapeID: 34846034B64994125853328
+  Al-HaiAdm2IRQ:
+    admin_name: Al-Hai
+    iso3c: IRQ
+    shapeID: 34846034B47380320671203
+  Al-HamdaniyaAdm2IRQ:
+    admin_name: Al-Hamdaniya
+    iso3c: IRQ
+    shapeID: 34846034B85609080446552
+  Al-HamzaAdm2IRQ:
+    admin_name: Al-Hamza
+    iso3c: IRQ
+    shapeID: 34846034B52721484909076
+  Al-HashimiyaAdm2IRQ:
+    admin_name: Al-Hashimiya
+    iso3c: IRQ
+    shapeID: 34846034B94541768038664
+  Al-HatraAdm2IRQ:
+    admin_name: Al-Hatra
+    iso3c: IRQ
+    shapeID: 34846034B76064773860715
+  Al-HawigaAdm2IRQ:
+    admin_name: Al-Hawiga
+    iso3c: IRQ
+    shapeID: 34846034B30595990417134
+  Al-HillaAdm2IRQ:
+    admin_name: Al-Hilla
+    iso3c: IRQ
+    shapeID: 34846034B12502380306420
+  Al-HindiyaAdm2IRQ:
+    admin_name: Al-Hindiya
+    iso3c: IRQ
+    shapeID: 34846034B69940766405797
+  Al-KadhmiyahAdm2IRQ:
+    admin_name: Al-Kadhmiyah
+    iso3c: IRQ
+    shapeID: 34846034B5863384083959
+  Al-KahlaAdm2IRQ:
+    admin_name: Al-Kahla
+    iso3c: IRQ
+    shapeID: 34846034B65265349522697
+  Al-KaimAdm2IRQ:
+    admin_name: Al-Kaim
+    iso3c: IRQ
+    shapeID: 34846034B30812362008382
+  Al-KarkhAdm2IRQ:
+    admin_name: Al-Karkh
+    iso3c: IRQ
+    shapeID: 34846034B16930377854620
+  Al-KhalisAdm2IRQ:
+    admin_name: Al-Khalis
+    iso3c: IRQ
+    shapeID: 34846034B19163471253506
+  Al-KhidhirAdm2IRQ:
+    admin_name: Al-Khidhir
+    iso3c: IRQ
+    shapeID: 34846034B6386295193387
+  Al-KufaAdm2IRQ:
+    admin_name: Al-Kufa
+    iso3c: IRQ
+    shapeID: 34846034B35255353982404
+  Al-KutAdm2IRQ:
+    admin_name: Al-Kut
+    iso3c: IRQ
+    shapeID: 34846034B69182583813986
+  Al-Mada'inAdm2IRQ:
+    admin_name: Al-Mada'in
+    iso3c: IRQ
+    shapeID: 34846034B77650308075556
+  Al-MahaweelAdm2IRQ:
+    admin_name: Al-Mahaweel
+    iso3c: IRQ
+    shapeID: 34846034B9794416366933
+  Al-MahmoudiyaAdm2IRQ:
+    admin_name: Al-Mahmoudiya
+    iso3c: IRQ
+    shapeID: 34846034B92813694057989
+  Al-MaimounaAdm2IRQ:
+    admin_name: Al-Maimouna
+    iso3c: IRQ
+    shapeID: 34846034B98238894977989
+  Al-ManatheraAdm2IRQ:
+    admin_name: Al-Manathera
+    iso3c: IRQ
+    shapeID: 34846034B93641163495115
+  Al-MejarAl-KabirAdm2IRQ:
+    admin_name: Al-MejarAl-Kabir
+    iso3c: IRQ
+    shapeID: 34846034B74630941173951
+  Al-MidainaAdm2IRQ:
+    admin_name: Al-Midaina
+    iso3c: IRQ
+    shapeID: 34846034B84303625922159
+  Al-MosulAdm2IRQ:
+    admin_name: Al-Mosul
+    iso3c: IRQ
+    shapeID: 34846034B66599568712680
+  Al-MuqdadiyaAdm2IRQ:
+    admin_name: Al-Muqdadiya
+    iso3c: IRQ
+    shapeID: 34846034B81294640274407
+  Al-MussyabAdm2IRQ:
+    admin_name: Al-Mussyab
+    iso3c: IRQ
+    shapeID: 34846034B36938547090854
+  Al-MuthannaAdm1IRQ:
+    admin_name: Al-Muthanna
+    iso3c: IRQ
+    shapeID: 90741666B65782159470120
+  Al-NajafAdm2IRQ:
+    admin_name: Al-Najaf
+    iso3c: IRQ
+    shapeID: 34846034B29737598200853
+  Al-NamaniyaAdm2IRQ:
+    admin_name: Al-Namaniya
+    iso3c: IRQ
+    shapeID: 34846034B89044527210900
+  Al-NasiriyaAdm2IRQ:
+    admin_name: Al-Nasiriya
+    iso3c: IRQ
+    shapeID: 34846034B33180945258667
+  Al-QadisiyahAdm1IRQ:
+    admin_name: Al-Qadisiyah
+    iso3c: IRQ
+    shapeID: 90741666B96348295205066
+  Al-QurnaAdm2IRQ:
+    admin_name: Al-Qurna
+    iso3c: IRQ
+    shapeID: 34846034B80013069152420
+  Al-RamadiAdm2IRQ:
+    admin_name: Al-Ramadi
+    iso3c: IRQ
+    shapeID: 34846034B54493291917017
+  Al-RifaiAdm2IRQ:
+    admin_name: Al-Rifai
+    iso3c: IRQ
+    shapeID: 34846034B62362991729870
+  Al-RisafaAdm2IRQ:
+    admin_name: Al-Risafa
+    iso3c: IRQ
+    shapeID: 34846034B3571197787035
+  Al-RumaithaAdm2IRQ:
+    admin_name: Al-Rumaitha
+    iso3c: IRQ
+    shapeID: 34846034B72933378732296
+  Al-RutbaAdm2IRQ:
+    admin_name: Al-Rutba
+    iso3c: IRQ
+    shapeID: 34846034B71122492404189
+  Al-SalmanAdm2IRQ:
+    admin_name: Al-Salman
+    iso3c: IRQ
+    shapeID: 34846034B73479794656328
+  Al-SamawaAdm2IRQ:
+    admin_name: Al-Samawa
+    iso3c: IRQ
+    shapeID: 34846034B29652817116796
+  Al-ShamiyaAdm2IRQ:
+    admin_name: Al-Shamiya
+    iso3c: IRQ
+    shapeID: 34846034B85923649366484
+  Al-ShatraAdm2IRQ:
+    admin_name: Al-Shatra
+    iso3c: IRQ
+    shapeID: 34846034B98077762120905
+  Al-ShikhanAdm2IRQ:
+    admin_name: Al-Shikhan
+    iso3c: IRQ
+    shapeID: 34846034B50799597720229
+  Al-ShirqatAdm2IRQ:
+    admin_name: Al-Shirqat
+    iso3c: IRQ
+    shapeID: 34846034B7804505829075
+  Al-SulaimaniyahAdm1IRQ:
+    admin_name: Al-Sulaimaniyah
+    iso3c: IRQ
+    shapeID: 90741666B75227633199275
+  Al-SulaymaniyahAdm2IRQ:
+    admin_name: Al-Sulaymaniyah
+    iso3c: IRQ
+    shapeID: 34846034B55719256527363
+  Al-SuwairaAdm2IRQ:
+    admin_name: Al-Suwaira
+    iso3c: IRQ
+    shapeID: 34846034B1283467893722
+  Al-ThawraAdm2IRQ:
+    admin_name: Al-Thawra
+    iso3c: IRQ
+    shapeID: 34846034B91170973982462
+  Al-ZibarAdm2IRQ:
+    admin_name: Al-Zibar
+    iso3c: IRQ
+    shapeID: 34846034B21205760150819
+  Al-ZubairAdm2IRQ:
+    admin_name: Al-Zubair
+    iso3c: IRQ
+    shapeID: 34846034B69957241231378
+  AliAl-GharbiAdm2IRQ:
+    admin_name: AliAl-Gharbi
+    iso3c: IRQ
+    shapeID: 34846034B45052357299579
+  An-NajafAdm1IRQ:
+    admin_name: An-Najaf
+    iso3c: IRQ
+    shapeID: 90741666B48190773870201
+  AnaAdm2IRQ:
+    admin_name: Ana
+    iso3c: IRQ
+    shapeID: 34846034B40379251126698
+  AqraAdm2IRQ:
+    admin_name: Aqra
+    iso3c: IRQ
+    shapeID: 34846034B43190647810772
+  BabilAdm1IRQ:
+    admin_name: Babil
+    iso3c: IRQ
+    shapeID: 90741666B44177402341950
+  BadraAdm2IRQ:
+    admin_name: Badra
+    iso3c: IRQ
+    shapeID: 34846034B90360229888797
+  BaghdadAdm1IRQ:
+    admin_name: Baghdad
+    iso3c: IRQ
+    shapeID: 90741666B78865175105083
+  BaladAdm2IRQ:
+    admin_name: Balad
+    iso3c: IRQ
+    shapeID: 34846034B72296099204368
+  BaladruzAdm2IRQ:
+    admin_name: Baladruz
+    iso3c: IRQ
+    shapeID: 34846034B64184275342457
+  BaqubaAdm2IRQ:
+    admin_name: Baquba
+    iso3c: IRQ
+    shapeID: 34846034B22760566253423
+  BeygeeAdm2IRQ:
+    admin_name: Beygee
+    iso3c: IRQ
+    shapeID: 34846034B92184872032162
+  ChamchamalAdm2IRQ:
+    admin_name: Chamchamal
+    iso3c: IRQ
+    shapeID: 34846034B49134433337490
+  DaquqAdm2IRQ:
+    admin_name: Daquq
+    iso3c: IRQ
+    shapeID: 34846034B46783343918511
+  DerbendikhanAdm2IRQ:
+    admin_name: Derbendikhan
+    iso3c: IRQ
+    shapeID: 34846034B22464020679662
+  DhiQarAdm1IRQ:
+    admin_name: DhiQar
+    iso3c: IRQ
+    shapeID: 90741666B18034483497899
+  DibisAdm2IRQ:
+    admin_name: Dibis
+    iso3c: IRQ
+    shapeID: 34846034B21026183347642
+  DiyalaAdm1IRQ:
+    admin_name: Diyala
+    iso3c: IRQ
+    shapeID: 90741666B43715208964458
+  DohukAdm1IRQ:
+    admin_name: Dohuk
+    iso3c: IRQ
+    shapeID: 90741666B81100048725045
+  DokanAdm2IRQ:
+    admin_name: Dokan
+    iso3c: IRQ
+    shapeID: 34846034B72694577895124
+  DuhokAdm2IRQ:
+    admin_name: Duhok
+    iso3c: IRQ
+    shapeID: 34846034B6031553398703
+  ErbilAdm1IRQ:
+    admin_name: Erbil
+    iso3c: IRQ
+    shapeID: 90741666B26956950402634
+  ErbilAdm2IRQ:
+    admin_name: Erbil
+    iso3c: IRQ
+    shapeID: 34846034B81757937090155
+  HadithaAdm2IRQ:
+    admin_name: Haditha
+    iso3c: IRQ
+    shapeID: 34846034B75041723835254
+  HalabchaAdm2IRQ:
+    admin_name: Halabcha
+    iso3c: IRQ
+    shapeID: 34846034B67264073740881
+  HeetAdm2IRQ:
+    admin_name: Heet
+    iso3c: IRQ
+    shapeID: 34846034B36962706181157
+  KalarAdm2IRQ:
+    admin_name: Kalar
+    iso3c: IRQ
+    shapeID: 34846034B60628866791403
+  KarbalaAdm1IRQ:
+    admin_name: Karbala
+    iso3c: IRQ
+    shapeID: 90741666B6541054971840
+  KerbelaAdm2IRQ:
+    admin_name: Kerbela
+    iso3c: IRQ
+    shapeID: 34846034B5988963618925
+  KhanaqinAdm2IRQ:
+    admin_name: Khanaqin
+    iso3c: IRQ
+    shapeID: 34846034B8709315351100
+  KifriAdm2IRQ:
+    admin_name: Kifri
+    iso3c: IRQ
+    shapeID: 34846034B3098543652793
+  KirkukAdm1IRQ:
+    admin_name: Kirkuk
+    iso3c: IRQ
+    shapeID: 90741666B18027903150762
+  KirkukAdm2IRQ:
+    admin_name: Kirkuk
+    iso3c: IRQ
+    shapeID: 34846034B87837000735792
+  KoysinjaqAdm2IRQ:
+    admin_name: Koysinjaq
+    iso3c: IRQ
+    shapeID: 34846034B1648663074204
+  MakhmourAdm2IRQ:
+    admin_name: Makhmour
+    iso3c: IRQ
+    shapeID: 34846034B86944625469149
+  MaysanAdm1IRQ:
+    admin_name: Maysan
+    iso3c: IRQ
+    shapeID: 90741666B47130783728166
+  NinawaAdm1IRQ:
+    admin_name: Ninawa
+    iso3c: IRQ
+    shapeID: 90741666B29902093370976
+  PanjwinAdm2IRQ:
+    admin_name: Panjwin
+    iso3c: IRQ
+    shapeID: 34846034B29141080711053
+  PshdarAdm2IRQ:
+    admin_name: Pshdar
+    iso3c: IRQ
+    shapeID: 34846034B40807866261239
+  QalatSalehAdm2IRQ:
+    admin_name: QalatSaleh
+    iso3c: IRQ
+    shapeID: 34846034B15043886970359
+  RaniaAdm2IRQ:
+    admin_name: Rania
+    iso3c: IRQ
+    shapeID: 34846034B64750454445952
+  RawanduzAdm2IRQ:
+    admin_name: Rawanduz
+    iso3c: IRQ
+    shapeID: 34846034B23954207715880
+  Salahal-DinAdm1IRQ:
+    admin_name: Salahal-Din
+    iso3c: IRQ
+    shapeID: 90741666B48099694344995
+  SamarraAdm2IRQ:
+    admin_name: Samarra
+    iso3c: IRQ
+    shapeID: 34846034B32095770002268
+  ShaqlawaAdm2IRQ:
+    admin_name: Shaqlawa
+    iso3c: IRQ
+    shapeID: 34846034B67830474961503
+  SharbazherAdm2IRQ:
+    admin_name: Sharbazher
+    iso3c: IRQ
+    shapeID: 34846034B48461077478738
+  ShatAl-ArabAdm2IRQ:
+    admin_name: ShatAl-Arab
+    iso3c: IRQ
+    shapeID: 34846034B66422309861537
+  SinjarAdm2IRQ:
+    admin_name: Sinjar
+    iso3c: IRQ
+    shapeID: 34846034B46284853096134
+  SumailAdm2IRQ:
+    admin_name: Sumail
+    iso3c: IRQ
+    shapeID: 34846034B96469488868689
+  SuqAl-ShoyokhAdm2IRQ:
+    admin_name: SuqAl-Shoyokh
+    iso3c: IRQ
+    shapeID: 34846034B93046718311053
+  TelafarAdm2IRQ:
+    admin_name: Telafar
+    iso3c: IRQ
+    shapeID: 34846034B27680259981934
+  TikritAdm2IRQ:
+    admin_name: Tikrit
+    iso3c: IRQ
+    shapeID: 34846034B31147654733032
+  TilkaefAdm2IRQ:
+    admin_name: Tilkaef
+    iso3c: IRQ
+    shapeID: 34846034B79516785973946
+  ToozKhurmatoAdm2IRQ:
+    admin_name: ToozKhurmato
+    iso3c: IRQ
+    shapeID: 34846034B84892780097972
+  WasitAdm1IRQ:
+    admin_name: Wasit
+    iso3c: IRQ
+    shapeID: 90741666B22138095387242
+  ZakhoAdm2IRQ:
+    admin_name: Zakho
+    iso3c: IRQ
+    shapeID: 34846034B3570372403108

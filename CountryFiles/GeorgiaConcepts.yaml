@@ -1,13 +1,321 @@
 concepts:
-    - KvemoKartli
-    - Tbilisi
-    - Racha-LechkhumiandKvemoSvaneti
-    - Abkhazia
-    - Kakheti
-    - Samtskhe?Javakheti
-    - Adjara
-    - Mtskheta-Mtianeti
-    - ShidaKartli
-    - Imereti
-    - Samegrelo-ZemoSvaneti
-    - Guria
+  AbashaAdm2GEO:
+    admin_name: Abasha
+    iso3c: GEO
+    shapeID: 92138335B12693512772054
+  AbkhaziaAdm1GEO:
+    admin_name: Abkhazia
+    iso3c: GEO
+    shapeID: 13066534B27338241074695
+  AdigeniAdm2GEO:
+    admin_name: Adigeni
+    iso3c: GEO
+    shapeID: 92138335B69008319732164
+  AdjaraAdm1GEO:
+    admin_name: Adjara
+    iso3c: GEO
+    shapeID: 13066534B27622454556820
+  AkhalgoriAdm2GEO:
+    admin_name: Akhalgori
+    iso3c: GEO
+    shapeID: 92138335B31006280553532
+  AkhalkalakiAdm2GEO:
+    admin_name: Akhalkalaki
+    iso3c: GEO
+    shapeID: 92138335B50579342077052
+  AkhaltsikheAdm2GEO:
+    admin_name: Akhaltsikhe
+    iso3c: GEO
+    shapeID: 92138335B21082735865828
+  AkhmetaAdm2GEO:
+    admin_name: Akhmeta
+    iso3c: GEO
+    shapeID: 92138335B55198090861777
+  AmbrolauriAdm2GEO:
+    admin_name: Ambrolauri
+    iso3c: GEO
+    shapeID: 92138335B78683832010722
+  AspindzaAdm2GEO:
+    admin_name: Aspindza
+    iso3c: GEO
+    shapeID: 92138335B53609413281794
+  BaghdatiAdm2GEO:
+    admin_name: Baghdati
+    iso3c: GEO
+    shapeID: 92138335B26356280366694
+  BolnisiAdm2GEO:
+    admin_name: Bolnisi
+    iso3c: GEO
+    shapeID: 92138335B67119502314916
+  BorjomiAdm2GEO:
+    admin_name: Borjomi
+    iso3c: GEO
+    shapeID: 92138335B87948858644910
+  ChiaturaAdm2GEO:
+    admin_name: Chiatura
+    iso3c: GEO
+    shapeID: 92138335B81565536454444
+  ChkhorotskuAdm2GEO:
+    admin_name: Chkhorotsku
+    iso3c: GEO
+    shapeID: 92138335B48416461405502
+  ChokhatauriAdm2GEO:
+    admin_name: Chokhatauri
+    iso3c: GEO
+    shapeID: 92138335B42742975246173
+  DedoplisTskaroAdm2GEO:
+    admin_name: DedoplisTskaro
+    iso3c: GEO
+    shapeID: 92138335B37038597196331
+  DmanisiAdm2GEO:
+    admin_name: Dmanisi
+    iso3c: GEO
+    shapeID: 92138335B81831500200346
+  DushetiAdm2GEO:
+    admin_name: Dusheti
+    iso3c: GEO
+    shapeID: 92138335B14041872176832
+  GagraAdm2GEO:
+    admin_name: Gagra
+    iso3c: GEO
+    shapeID: 92138335B94061680814673
+  GaliAdm2GEO:
+    admin_name: Gali
+    iso3c: GEO
+    shapeID: 92138335B69927081755421
+  GardabaniAdm2GEO:
+    admin_name: Gardabani
+    iso3c: GEO
+    shapeID: 92138335B7743259611047
+  GoriAdm2GEO:
+    admin_name: Gori
+    iso3c: GEO
+    shapeID: 92138335B26122981425536
+  GudautaAdm2GEO:
+    admin_name: Gudauta
+    iso3c: GEO
+    shapeID: 92138335B93375493400178
+  GulripshiAdm2GEO:
+    admin_name: Gulripshi
+    iso3c: GEO
+    shapeID: 92138335B11061478695929
+  GuriaAdm1GEO:
+    admin_name: Guria
+    iso3c: GEO
+    shapeID: 13066534B95762165423207
+  GurjaaniAdm2GEO:
+    admin_name: Gurjaani
+    iso3c: GEO
+    shapeID: 92138335B37128228826405
+  ImeretiAdm1GEO:
+    admin_name: Imereti
+    iso3c: GEO
+    shapeID: 13066534B65630723466818
+  JavaAdm2GEO:
+    admin_name: Java
+    iso3c: GEO
+    shapeID: 92138335B29628733887030
+  KakhetiAdm1GEO:
+    admin_name: Kakheti
+    iso3c: GEO
+    shapeID: 13066534B18810562533194
+  KareliAdm2GEO:
+    admin_name: Kareli
+    iso3c: GEO
+    shapeID: 92138335B15578291241997
+  KaspiAdm2GEO:
+    admin_name: Kaspi
+    iso3c: GEO
+    shapeID: 92138335B8569651640453
+  KazbegiAdm2GEO:
+    admin_name: Kazbegi
+    iso3c: GEO
+    shapeID: 92138335B46195092344531
+  KedaAdm2GEO:
+    admin_name: Keda
+    iso3c: GEO
+    shapeID: 92138335B2821497080336
+  KharagauliAdm2GEO:
+    admin_name: Kharagauli
+    iso3c: GEO
+    shapeID: 92138335B11752515436938
+  KhashuriAdm2GEO:
+    admin_name: Khashuri
+    iso3c: GEO
+    shapeID: 92138335B61287460098363
+  KhelvachauriAdm2GEO:
+    admin_name: Khelvachauri
+    iso3c: GEO
+    shapeID: 92138335B5338969449548
+  KhobiAdm2GEO:
+    admin_name: Khobi
+    iso3c: GEO
+    shapeID: 92138335B39519556094978
+  KhoniAdm2GEO:
+    admin_name: Khoni
+    iso3c: GEO
+    shapeID: 92138335B64138373774111
+  KhuloAdm2GEO:
+    admin_name: Khulo
+    iso3c: GEO
+    shapeID: 92138335B65831597067457
+  KobuletiAdm2GEO:
+    admin_name: Kobuleti
+    iso3c: GEO
+    shapeID: 92138335B26955769626154
+  KvemoKartliAdm1GEO:
+    admin_name: KvemoKartli
+    iso3c: GEO
+    shapeID: 13066534B60595656675538
+  LagodekhiAdm2GEO:
+    admin_name: Lagodekhi
+    iso3c: GEO
+    shapeID: 92138335B54966066678196
+  LanchkhutiAdm2GEO:
+    admin_name: Lanchkhuti
+    iso3c: GEO
+    shapeID: 92138335B47110763385386
+  LentekhiAdm2GEO:
+    admin_name: Lentekhi
+    iso3c: GEO
+    shapeID: 92138335B53804357852579
+  MarneuliAdm2GEO:
+    admin_name: Marneuli
+    iso3c: GEO
+    shapeID: 92138335B51279478619931
+  MartviliAdm2GEO:
+    admin_name: Martvili
+    iso3c: GEO
+    shapeID: 92138335B7804846431662
+  MestiaAdm2GEO:
+    admin_name: Mestia
+    iso3c: GEO
+    shapeID: 92138335B2863477847968
+  Mtskheta-MtianetiAdm1GEO:
+    admin_name: Mtskheta-Mtianeti
+    iso3c: GEO
+    shapeID: 13066534B64349154399075
+  MtskhetaAdm2GEO:
+    admin_name: Mtskheta
+    iso3c: GEO
+    shapeID: 92138335B12721672848691
+  NinotsmindaAdm2GEO:
+    admin_name: Ninotsminda
+    iso3c: GEO
+    shapeID: 92138335B7587308725021
+  OchamchireAdm2GEO:
+    admin_name: Ochamchire
+    iso3c: GEO
+    shapeID: 92138335B91265178482349
+  OniAdm2GEO:
+    admin_name: Oni
+    iso3c: GEO
+    shapeID: 92138335B42170823144897
+  OzurgetiAdm2GEO:
+    admin_name: Ozurgeti
+    iso3c: GEO
+    shapeID: 92138335B33048390881049
+  QvareliAdm2GEO:
+    admin_name: Qvareli
+    iso3c: GEO
+    shapeID: 92138335B62270915316276
+  Racha-LechkhumiandKvemoSvanetiAdm1GEO:
+    admin_name: Racha-LechkhumiandKvemoSvaneti
+    iso3c: GEO
+    shapeID: 13066534B45176100929029
+  SachkhereAdm2GEO:
+    admin_name: Sachkhere
+    iso3c: GEO
+    shapeID: 92138335B50184353982041
+  SagarejoAdm2GEO:
+    admin_name: Sagarejo
+    iso3c: GEO
+    shapeID: 92138335B38539666487560
+  Samegrelo-ZemoSvanetiAdm1GEO:
+    admin_name: Samegrelo-ZemoSvaneti
+    iso3c: GEO
+    shapeID: 13066534B80116330304733
+  SamtrediaAdm2GEO:
+    admin_name: Samtredia
+    iso3c: GEO
+    shapeID: 92138335B39490393091716
+  Samtskhe–JavakhetiAdm1GEO:
+    admin_name: Samtskhe–Javakheti
+    iso3c: GEO
+    shapeID: 13066534B71664328266075
+  SenakiAdm2GEO:
+    admin_name: Senaki
+    iso3c: GEO
+    shapeID: 92138335B76220270182366
+  ShidaKartliAdm1GEO:
+    admin_name: ShidaKartli
+    iso3c: GEO
+    shapeID: 13066534B94010522959464
+  ShuakheviAdm2GEO:
+    admin_name: Shuakhevi
+    iso3c: GEO
+    shapeID: 92138335B10016985210345
+  SighnaghiAdm2GEO:
+    admin_name: Sighnaghi
+    iso3c: GEO
+    shapeID: 92138335B21532266641065
+  SokhumiAdm2GEO:
+    admin_name: Sokhumi
+    iso3c: GEO
+    shapeID: 92138335B38650724309521
+  TbilisiAdm1GEO:
+    admin_name: Tbilisi
+    iso3c: GEO
+    shapeID: 13066534B93111814336300
+  TbilisiAdm2GEO:
+    admin_name: Tbilisi
+    iso3c: GEO
+    shapeID: 92138335B42186772492502
+  TelaviAdm2GEO:
+    admin_name: Telavi
+    iso3c: GEO
+    shapeID: 92138335B27063767093254
+  TerjolaAdm2GEO:
+    admin_name: Terjola
+    iso3c: GEO
+    shapeID: 92138335B93308463809472
+  TetriSqaroAdm2GEO:
+    admin_name: TetriSqaro
+    iso3c: GEO
+    shapeID: 92138335B97195929624765
+  TianetiAdm2GEO:
+    admin_name: Tianeti
+    iso3c: GEO
+    shapeID: 92138335B62221031654939
+  TkibuliAdm2GEO:
+    admin_name: Tkibuli
+    iso3c: GEO
+    shapeID: 92138335B41220356267483
+  TsageriAdm2GEO:
+    admin_name: Tsageri
+    iso3c: GEO
+    shapeID: 92138335B16539680317834
+  TsalenjikhaAdm2GEO:
+    admin_name: Tsalenjikha
+    iso3c: GEO
+    shapeID: 92138335B98712033744581
+  TsalkaAdm2GEO:
+    admin_name: Tsalka
+    iso3c: GEO
+    shapeID: 92138335B43211443172937
+  TsqaltuboAdm2GEO:
+    admin_name: Tsqaltubo
+    iso3c: GEO
+    shapeID: 92138335B29553909486986
+  VaniAdm2GEO:
+    admin_name: Vani
+    iso3c: GEO
+    shapeID: 92138335B24401992491818
+  ZestaponiAdm2GEO:
+    admin_name: Zestaponi
+    iso3c: GEO
+    shapeID: 92138335B27287539996765
+  ZugdidiAdm2GEO:
+    admin_name: Zugdidi
+    iso3c: GEO
+    shapeID: 92138335B56355921545740
