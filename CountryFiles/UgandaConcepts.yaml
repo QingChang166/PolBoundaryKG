@@ -456,9 +456,15 @@ concepts:
     iso3c: UGA
     shapeID: 47994165B76258969942575
   MukonoAdm2UGA:
-    admin_name: Mukono
-    iso3c: UGA
-    shapeID: 47994165B89759933687529
+    admin_name:
+    - Mukono
+    - Mukono
+    iso3c:
+    - UGA
+    - UGA
+    shapeID:
+    - 47994165B89759933687529
+    - 47994165B98080040988734
   MwengeAdm2UGA:
     admin_name: Mwenge
     iso3c: UGA
@@ -576,9 +582,15 @@ concepts:
     iso3c: UGA
     shapeID: 47994165B26325362501667
   SorotiAdm2UGA:
-    admin_name: Soroti
-    iso3c: UGA
-    shapeID: 47994165B8099782863608
+    admin_name:
+    - Soroti
+    - Soroti
+    iso3c:
+    - UGA
+    - UGA
+    shapeID:
+    - 47994165B8099782863608
+    - 47994165B98524578813070
   TeregoAdm2UGA:
     admin_name: Terego
     iso3c: UGA

@@ -64,9 +64,15 @@ concepts:
     iso3c: TUV
     shapeID: 33948139B42488668501008
   MatagiAdm2TUV:
-    admin_name: Matagi
-    iso3c: TUV
-    shapeID: 33948139B5264150563840
+    admin_name:
+    - Matagi
+    - Matagi
+    iso3c:
+    - TUV
+    - TUV
+    shapeID:
+    - 33948139B5264150563840
+    - 33948139B17363749661168
   MataluafataAdm2TUV:
     admin_name: Mataluafata
     iso3c: TUV

@@ -108,9 +108,15 @@ concepts:
     iso3c: SLV
     shapeID: 79315794B22545432113696
   ChilangaAdm2SLV:
-    admin_name: Chilanga
-    iso3c: SLV
-    shapeID: 79315794B57651569246803
+    admin_name:
+    - Chilanga
+    - Chilanga
+    iso3c:
+    - SLV
+    - SLV
+    shapeID:
+    - 79315794B57651569246803
+    - 79315794B82742941471895
   ChiltiupánAdm2SLV:
     admin_name: Chiltiupán
     iso3c: SLV
@@ -268,9 +274,15 @@ concepts:
     iso3c: SLV
     shapeID: 79315794B6162920876089
   ElCarmenAdm2SLV:
-    admin_name: ElCarmen
-    iso3c: SLV
-    shapeID: 79315794B59073363211022
+    admin_name:
+    - ElCarmen
+    - ElCarmen
+    iso3c:
+    - SLV
+    - SLV
+    shapeID:
+    - 79315794B59073363211022
+    - 79315794B89253814837781
   ElCarrizalAdm2SLV:
     admin_name: ElCarrizal
     iso3c: SLV
@@ -300,9 +312,18 @@ concepts:
     iso3c: SLV
     shapeID: 79315794B9251356141364
   ElRosarioAdm2SLV:
-    admin_name: ElRosario
-    iso3c: SLV
-    shapeID: 79315794B45155466226613
+    admin_name:
+    - ElRosario
+    - ElRosario
+    - ElRosario
+    iso3c:
+    - SLV
+    - SLV
+    - SLV
+    shapeID:
+    - 79315794B45155466226613
+    - 79315794B65212935039399
+    - 79315794B93359070000438
   ElSauceAdm2SLV:
     admin_name: ElSauce
     iso3c: SLV
@@ -532,9 +553,39 @@ concepts:
     iso3c: SLV
     shapeID: 79315794B99179183190773
   NullAdm2SLV:
-    admin_name: 'Null'
-    iso3c: SLV
-    shapeID: 79315794B14690555186791
+    admin_name:
+    - 'Null'
+    - 'Null'
+    - 'Null'
+    - 'Null'
+    - 'Null'
+    - 'Null'
+    - 'Null'
+    - 'Null'
+    - 'Null'
+    - 'Null'
+    iso3c:
+    - SLV
+    - SLV
+    - SLV
+    - SLV
+    - SLV
+    - SLV
+    - SLV
+    - SLV
+    - SLV
+    - SLV
+    shapeID:
+    - 79315794B14690555186791
+    - 79315794B73120282321330
+    - 79315794B33887915664095
+    - 79315794B86841984687248
+    - 79315794B69543299009522
+    - 79315794B77500170137701
+    - 79315794B19260773575494
+    - 79315794B31995662922872
+    - 79315794B37192350542382
+    - 79315794B96043073035116
   OjosdeAguaAdm2SLV:
     admin_name: OjosdeAgua
     iso3c: SLV
@@ -672,9 +723,15 @@ concepts:
     iso3c: SLV
     shapeID: 79315794B99150675091026
   SanFernandoAdm2SLV:
-    admin_name: SanFernando
-    iso3c: SLV
-    shapeID: 79315794B44373190309719
+    admin_name:
+    - SanFernando
+    - SanFernando
+    iso3c:
+    - SLV
+    - SLV
+    shapeID:
+    - 79315794B44373190309719
+    - 79315794B76817254995906
   SanFranciscoAdm2SLV:
     admin_name: SanFrancisco
     iso3c: SLV
@@ -712,9 +769,15 @@ concepts:
     iso3c: SLV
     shapeID: 79315794B63439362798626
   SanIsidroAdm2SLV:
-    admin_name: SanIsidro
-    iso3c: SLV
-    shapeID: 79315794B41516197400917
+    admin_name:
+    - SanIsidro
+    - SanIsidro
+    iso3c:
+    - SLV
+    - SLV
+    shapeID:
+    - 79315794B41516197400917
+    - 79315794B40793175088004
   SanIsidroLabradorAdm2SLV:
     admin_name: SanIsidroLabrador
     iso3c: SLV
@@ -760,9 +823,15 @@ concepts:
     iso3c: SLV
     shapeID: 79315794B97184435061197
   SanLorenzoAdm2SLV:
-    admin_name: SanLorenzo
-    iso3c: SLV
-    shapeID: 79315794B87184016515071
+    admin_name:
+    - SanLorenzo
+    - SanLorenzo
+    iso3c:
+    - SLV
+    - SLV
+    shapeID:
+    - 79315794B87184016515071
+    - 79315794B10001749277791
   SanLuisdelaReinaAdm2SLV:
     admin_name: SanLuisdelaReina
     iso3c: SLV
@@ -824,9 +893,15 @@ concepts:
     iso3c: SLV
     shapeID: 79315794B15656170761349
   SanRafaelAdm2SLV:
-    admin_name: SanRafael
-    iso3c: SLV
-    shapeID: 79315794B12575080956445
+    admin_name:
+    - SanRafael
+    - SanRafael
+    iso3c:
+    - SLV
+    - SLV
+    shapeID:
+    - 79315794B12575080956445
+    - 79315794B33674130591539
   SanRafaelCedrosAdm2SLV:
     admin_name: SanRafaelCedros
     iso3c: SLV
@@ -924,9 +999,15 @@ concepts:
     iso3c: SLV
     shapeID: 79315794B99064855901693
   SantoDomingoAdm2SLV:
-    admin_name: SantoDomingo
-    iso3c: SLV
-    shapeID: 79315794B81756807181676
+    admin_name:
+    - SantoDomingo
+    - SantoDomingo
+    iso3c:
+    - SLV
+    - SLV
+    shapeID:
+    - 79315794B81756807181676
+    - 79315794B33093457347300
   SantoTomasAdm2SLV:
     admin_name: SantoTomas
     iso3c: SLV

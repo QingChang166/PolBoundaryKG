@@ -92,9 +92,15 @@ concepts:
     iso3c: NAM
     shapeID: 8085530B9471970817633
   KalahariAdm2NAM:
-    admin_name: Kalahari
-    iso3c: NAM
-    shapeID: 8085530B41372422765993
+    admin_name:
+    - Kalahari
+    - Kalahari
+    iso3c:
+    - NAM
+    - NAM
+    shapeID:
+    - 8085530B41372422765993
+    - 8085530B77309525155932
   KamanjabAdm2NAM:
     admin_name: Kamanjab
     iso3c: NAM
@@ -168,9 +174,30 @@ concepts:
     iso3c: NAM
     shapeID: 8085530B65700299516233
   LuderitzAdm2NAM:
-    admin_name: Luderitz
-    iso3c: NAM
-    shapeID: 8085530B51298559628013
+    admin_name:
+    - Luderitz
+    - Luderitz
+    - Luderitz
+    - Luderitz
+    - Luderitz
+    - Luderitz
+    - Luderitz
+    iso3c:
+    - NAM
+    - NAM
+    - NAM
+    - NAM
+    - NAM
+    - NAM
+    - NAM
+    shapeID:
+    - 8085530B51298559628013
+    - 8085530B12011359308575
+    - 8085530B91972581324678
+    - 8085530B94702234009846
+    - 8085530B54610932550654
+    - 8085530B19115739893347
+    - 8085530B47244419743563
   MarientalRuralAdm2NAM:
     admin_name: MarientalRural
     iso3c: NAM

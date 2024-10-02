@@ -152,9 +152,15 @@ concepts:
     iso3c: AZE
     shapeID: 54616110B92317303093203
   LankaranDistrictAdm2AZE:
-    admin_name: LankaranDistrict
-    iso3c: AZE
-    shapeID: 54616110B17009633679109
+    admin_name:
+    - LankaranDistrict
+    - LankaranDistrict
+    iso3c:
+    - AZE
+    - AZE
+    shapeID:
+    - 54616110B17009633679109
+    - 54616110B2076465815790
   LerikDistrictAdm2AZE:
     admin_name: LerikDistrict
     iso3c: AZE

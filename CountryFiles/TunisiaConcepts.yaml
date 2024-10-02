@@ -212,9 +212,15 @@ concepts:
     iso3c: TUN
     shapeID: 11933810B4327996675990
   الزهورAdm2TUN:
-    admin_name: الزهور
-    iso3c: TUN
-    shapeID: 11933810B27074780106305
+    admin_name:
+    - الزهور
+    - الزهور
+    iso3c:
+    - TUN
+    - TUN
+    shapeID:
+    - 11933810B27074780106305
+    - 11933810B21305509879120
   الساحلينAdm2TUN:
     admin_name: الساحلين
     iso3c: TUN

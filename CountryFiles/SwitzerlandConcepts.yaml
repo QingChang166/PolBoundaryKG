@@ -572,9 +572,15 @@ concepts:
     iso3c: CHE
     shapeID: 70761945B22837365779622
   SchaffhausenAdm2CHE:
-    admin_name: Schaffhausen
-    iso3c: CHE
-    shapeID: 98125504B94468182736890
+    admin_name:
+    - Schaffhausen
+    - Schaffhausen
+    iso3c:
+    - CHE
+    - CHE
+    shapeID:
+    - 98125504B94468182736890
+    - 98125504B80119371847219
   SchleitheimAdm2CHE:
     admin_name: Schleitheim
     iso3c: CHE

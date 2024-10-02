@@ -708,9 +708,15 @@ concepts:
     iso3c: PRK
     shapeID: 82179303B17598108149664
   UnsanAdm2PRK:
-    admin_name: Unsan
-    iso3c: PRK
-    shapeID: 82179303B31233151456599
+    admin_name:
+    - Unsan
+    - Unsan
+    iso3c:
+    - PRK
+    - PRK
+    shapeID:
+    - 82179303B31233151456599
+    - 82179303B62623868631396
   UsiAdm2PRK:
     admin_name: Usi
     iso3c: PRK

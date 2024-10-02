@@ -188,9 +188,15 @@ concepts:
     iso3c: CAN
     shapeID: 811477B51248410947811
   Northeast/Nord-estAdm2CAN:
-    admin_name: Northeast/Nord-est
-    iso3c: CAN
-    shapeID: 811477B61209589162148
+    admin_name:
+    - Northeast/Nord-est
+    - Northeast/Nord-est
+    iso3c:
+    - CAN
+    - CAN
+    shapeID:
+    - 811477B61209589162148
+    - 811477B20348079294456
   Northern/NordAdm2CAN:
     admin_name: Northern/Nord
     iso3c: CAN

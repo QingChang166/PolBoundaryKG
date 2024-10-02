@@ -1532,9 +1532,15 @@ concepts:
     iso3c: LVA
     shapeID: 27541924B23145226159643
   Pilskalnespag.Adm2LVA:
-    admin_name: Pilskalnespag.
-    iso3c: LVA
-    shapeID: 27541924B3554610472983
+    admin_name:
+    - Pilskalnespag.
+    - Pilskalnespag.
+    iso3c:
+    - LVA
+    - LVA
+    shapeID:
+    - 27541924B3554610472983
+    - 27541924B27869774181069
   PilteneAdm2LVA:
     admin_name: Piltene
     iso3c: LVA
@@ -1768,9 +1774,15 @@ concepts:
     iso3c: LVA
     shapeID: 27541924B75150818202783
   Salaspag.Adm2LVA:
-    admin_name: Salaspag.
-    iso3c: LVA
-    shapeID: 27541924B71610578089497
+    admin_name:
+    - Salaspag.
+    - Salaspag.
+    iso3c:
+    - LVA
+    - LVA
+    shapeID:
+    - 27541924B71610578089497
+    - 27541924B32123445019652
   SalaspilsAdm2LVA:
     admin_name: Salaspils
     iso3c: LVA

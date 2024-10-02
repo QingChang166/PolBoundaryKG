@@ -32,9 +32,18 @@ concepts:
     iso3c: CPV
     shapeID: 66160863B12848359802416
   NossaSenhoraDaLuzAdm2CPV:
-    admin_name: NossaSenhoraDaLuz
-    iso3c: CPV
-    shapeID: 66160863B67599039999674
+    admin_name:
+    - NossaSenhoraDaLuz
+    - NossaSenhoraDaLuz
+    - NossaSenhoraDaLuz
+    iso3c:
+    - CPV
+    - CPV
+    - CPV
+    shapeID:
+    - 66160863B67599039999674
+    - 66160863B49789826079472
+    - 66160863B58817505266013
   NossaSenhoraDasDoresAdm2CPV:
     admin_name: NossaSenhoraDasDores
     iso3c: CPV
@@ -48,9 +57,15 @@ concepts:
     iso3c: CPV
     shapeID: 66160863B40523802781782
   NossaSenhoraDoRosarioAdm2CPV:
-    admin_name: NossaSenhoraDoRosario
-    iso3c: CPV
-    shapeID: 66160863B38183693605809
+    admin_name:
+    - NossaSenhoraDoRosario
+    - NossaSenhoraDoRosario
+    iso3c:
+    - CPV
+    - CPV
+    shapeID:
+    - 66160863B38183693605809
+    - 66160863B91585848329276
   PaulAdm1CPV:
     admin_name: Paul
     iso3c: CPV
@@ -140,9 +155,21 @@ concepts:
     iso3c: CPV
     shapeID: 66160863B96931694342339
   SaoJoaoBaptistaAdm2CPV:
-    admin_name: SaoJoaoBaptista
-    iso3c: CPV
-    shapeID: 66160863B96352926706883
+    admin_name:
+    - SaoJoaoBaptista
+    - SaoJoaoBaptista
+    - SaoJoaoBaptista
+    - SaoJoaoBaptista
+    iso3c:
+    - CPV
+    - CPV
+    - CPV
+    - CPV
+    shapeID:
+    - 66160863B96352926706883
+    - 66160863B76154481217824
+    - 66160863B46579427106888
+    - 66160863B53173453259277
   SaoLourencoAdm2CPV:
     admin_name: SaoLourenco
     iso3c: CPV

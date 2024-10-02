@@ -24,9 +24,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B94904539855050
   AnLaoAdm2VNM:
-    admin_name: AnLao
-    iso3c: VNM
-    shapeID: 81297802B65658789050233
+    admin_name:
+    - AnLao
+    - AnLao
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B65658789050233
+    - 81297802B61161719512326
   AnMinhAdm2VNM:
     admin_name: AnMinh
     iso3c: VNM
@@ -148,9 +154,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B7761745227660
   BaoLamAdm2VNM:
-    admin_name: BaoLam
-    iso3c: VNM
-    shapeID: 81297802B56496932739620
+    admin_name:
+    - BaoLam
+    - BaoLam
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B56496932739620
+    - 81297802B89982379831919
   BaoLocAdm2VNM:
     admin_name: BaoLoc
     iso3c: VNM
@@ -272,9 +284,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B82760747397164
   BinhTanAdm2VNM:
-    admin_name: BinhTan
-    iso3c: VNM
-    shapeID: 81297802B74288530741739
+    admin_name:
+    - BinhTan
+    - BinhTan
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B74288530741739
+    - 81297802B42527210401893
   BinhThanhAdm2VNM:
     admin_name: BinhThanh
     iso3c: VNM
@@ -456,9 +474,39 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B94036559538482
   ChauThanhAdm2VNM:
-    admin_name: ChauThanh
-    iso3c: VNM
-    shapeID: 81297802B30323481145094
+    admin_name:
+    - ChauThanh
+    - ChauThanh
+    - ChauThanh
+    - ChauThanh
+    - ChauThanh
+    - ChauThanh
+    - ChauThanh
+    - ChauThanh
+    - ChauThanh
+    - ChauThanh
+    iso3c:
+    - VNM
+    - VNM
+    - VNM
+    - VNM
+    - VNM
+    - VNM
+    - VNM
+    - VNM
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B30323481145094
+    - 81297802B81408558281677
+    - 81297802B15585210216113
+    - 81297802B33105171569216
+    - 81297802B2434648618604
+    - 81297802B56564979250046
+    - 81297802B94247950786042
+    - 81297802B83209776142835
+    - 81297802B55022771369511
+    - 81297802B53741861263416
   ChiemHoaAdm2VNM:
     admin_name: ChiemHoa
     iso3c: VNM
@@ -484,9 +532,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B13885304658875
   ChoMoiAdm2VNM:
-    admin_name: ChoMoi
-    iso3c: VNM
-    shapeID: 81297802B24308322432437
+    admin_name:
+    - ChoMoi
+    - ChoMoi
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B24308322432437
+    - 81297802B9073555262789
   ChonThanhAdm2VNM:
     admin_name: ChonThanh
     iso3c: VNM
@@ -1052,9 +1106,15 @@ concepts:
     iso3c: VNM
     shapeID: 63759600B96462676465033
   HoaBinhAdm2VNM:
-    admin_name: HoaBinh
-    iso3c: VNM
-    shapeID: 81297802B62740202990840
+    admin_name:
+    - HoaBinh
+    - HoaBinh
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B62740202990840
+    - 81297802B29311833142389
   HoaiAnAdm2VNM:
     admin_name: HoaiAn
     iso3c: VNM
@@ -1076,9 +1136,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B91620400281223
   HoangMaiAdm2VNM:
-    admin_name: HoangMai
-    iso3c: VNM
-    shapeID: 81297802B90742047749751
+    admin_name:
+    - HoangMai
+    - HoangMai
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B90742047749751
+    - 81297802B46675680885513
   HoangSaAdm2VNM:
     admin_name: HoangSa
     iso3c: VNM
@@ -1328,9 +1394,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B12468750690576
   KySonAdm2VNM:
-    admin_name: KySon
-    iso3c: VNM
-    shapeID: 81297802B6810559606516
+    admin_name:
+    - KySon
+    - KySon
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B6810559606516
+    - 81297802B2701886719052
   LacDuongAdm2VNM:
     admin_name: LacDuong
     iso3c: VNM
@@ -1832,9 +1904,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B56109009945364
   PhongDienAdm2VNM:
-    admin_name: PhongDien
-    iso3c: VNM
-    shapeID: 81297802B35670860897871
+    admin_name:
+    - PhongDien
+    - PhongDien
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B35670860897871
+    - 81297802B56741553336234
   PhongThoAdm2VNM:
     admin_name: PhongTho
     iso3c: VNM
@@ -1900,13 +1978,25 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B72603937188235
   PhuNinhAdm2VNM:
-    admin_name: PhuNinh
-    iso3c: VNM
-    shapeID: 81297802B11022979046189
+    admin_name:
+    - PhuNinh
+    - PhuNinh
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B11022979046189
+    - 81297802B64104222015073
   PhuocLongAdm2VNM:
-    admin_name: PhuocLong
-    iso3c: VNM
-    shapeID: 81297802B5473399388769
+    admin_name:
+    - PhuocLong
+    - PhuocLong
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B5473399388769
+    - 81297802B44117863394749
   PhuocSonAdm2VNM:
     admin_name: PhuocSon
     iso3c: VNM
@@ -1920,9 +2010,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B90799057915407
   PhuTanAdm2VNM:
-    admin_name: PhuTan
-    iso3c: VNM
-    shapeID: 81297802B56486108937036
+    admin_name:
+    - PhuTan
+    - PhuTan
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B56486108937036
+    - 81297802B51702434363712
   PhuThienAdm2VNM:
     admin_name: PhuThien
     iso3c: VNM
@@ -2196,9 +2292,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B47097666741506
   SonTayAdm2VNM:
-    admin_name: SonTay
-    iso3c: VNM
-    shapeID: 81297802B56181672233009
+    admin_name:
+    - SonTay
+    - SonTay
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B56181672233009
+    - 81297802B79469395018575
   SonTinhAdm2VNM:
     admin_name: SonTinh
     iso3c: VNM
@@ -2224,17 +2326,29 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B4597997720172
   TamDuongAdm2VNM:
-    admin_name: TamDuong
-    iso3c: VNM
-    shapeID: 81297802B22502411355715
+    admin_name:
+    - TamDuong
+    - TamDuong
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B22502411355715
+    - 81297802B8345144496926
   TamKyAdm2VNM:
     admin_name: TamKy
     iso3c: VNM
     shapeID: 81297802B35959496403420
   TamNongAdm2VNM:
-    admin_name: TamNong
-    iso3c: VNM
-    shapeID: 81297802B6788314119837
+    admin_name:
+    - TamNong
+    - TamNong
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B6788314119837
+    - 81297802B81919693811276
   TanAnAdm2VNM:
     admin_name: TanAn
     iso3c: VNM
@@ -2248,9 +2362,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B72151759297882
   TanChauAdm2VNM:
-    admin_name: TanChau
-    iso3c: VNM
-    shapeID: 81297802B68440719308655
+    admin_name:
+    - TanChau
+    - TanChau
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B68440719308655
+    - 81297802B24408052099516
   TanHiepAdm2VNM:
     admin_name: TanHiep
     iso3c: VNM
@@ -2276,9 +2396,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B22385523751240
   TanPhuAdm2VNM:
-    admin_name: TanPhu
-    iso3c: VNM
-    shapeID: 81297802B74333052983118
+    admin_name:
+    - TanPhu
+    - TanPhu
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B74333052983118
+    - 81297802B97138813252769
   TanPhuDongAdm2VNM:
     admin_name: TanPhuDong
     iso3c: VNM
@@ -2292,17 +2418,29 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B30557639912850
   TanThanhAdm2VNM:
-    admin_name: TanThanh
-    iso3c: VNM
-    shapeID: 81297802B41485876419304
+    admin_name:
+    - TanThanh
+    - TanThanh
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B41485876419304
+    - 81297802B33329086183777
   TanTruAdm2VNM:
     admin_name: TanTru
     iso3c: VNM
     shapeID: 81297802B79980761269040
   TanUyenAdm2VNM:
-    admin_name: TanUyen
-    iso3c: VNM
-    shapeID: 81297802B83473395979783
+    admin_name:
+    - TanUyen
+    - TanUyen
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B83473395979783
+    - 81297802B30800695298767
   TanYenAdm2VNM:
     admin_name: TanYen
     iso3c: VNM
@@ -2400,9 +2538,15 @@ concepts:
     iso3c: VNM
     shapeID: 63759600B30623332474263
   ThanhHoaAdm2VNM:
-    admin_name: ThanhHoa
-    iso3c: VNM
-    shapeID: 81297802B5241398972305
+    admin_name:
+    - ThanhHoa
+    - ThanhHoa
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B5241398972305
+    - 81297802B63095135263844
   ThanhKheAdm2VNM:
     admin_name: ThanhKhe
     iso3c: VNM
@@ -2432,9 +2576,15 @@ concepts:
     iso3c: VNM
     shapeID: 81297802B73795447547430
   ThanhTriAdm2VNM:
-    admin_name: ThanhTri
-    iso3c: VNM
-    shapeID: 81297802B95629282135268
+    admin_name:
+    - ThanhTri
+    - ThanhTri
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B95629282135268
+    - 81297802B36147607104720
   ThanhXuanAdm2VNM:
     admin_name: ThanhXuan
     iso3c: VNM
@@ -2828,9 +2978,15 @@ concepts:
     iso3c: VNM
     shapeID: 63759600B34367175145761
   VinhThanhAdm2VNM:
-    admin_name: VinhThanh
-    iso3c: VNM
-    shapeID: 81297802B21955309192571
+    admin_name:
+    - VinhThanh
+    - VinhThanh
+    iso3c:
+    - VNM
+    - VNM
+    shapeID:
+    - 81297802B21955309192571
+    - 81297802B96455619083063
   VinhThuanAdm2VNM:
     admin_name: VinhThuan
     iso3c: VNM

@@ -412,9 +412,15 @@ concepts:
     iso3c: SVN
     shapeID: 79292919B31923760445562
   MariborAdm2SVN:
-    admin_name: Maribor
-    iso3c: SVN
-    shapeID: 79292919B61607630754818
+    admin_name:
+    - Maribor
+    - Maribor
+    iso3c:
+    - SVN
+    - SVN
+    shapeID:
+    - 79292919B61607630754818
+    - 79292919B38849654156102
   MarkovciAdm2SVN:
     admin_name: Markovci
     iso3c: SVN

@@ -48,9 +48,15 @@ concepts:
     iso3c: SUR
     shapeID: 93971198B31918784658993
   CentrumAdm2SUR:
-    admin_name: Centrum
-    iso3c: SUR
-    shapeID: 93971198B67299458321601
+    admin_name:
+    - Centrum
+    - Centrum
+    iso3c:
+    - SUR
+    - SUR
+    shapeID:
+    - 93971198B67299458321601
+    - 93971198B59726276873513
   CoeroeniAdm2SUR:
     admin_name: Coeroeni
     iso3c: SUR

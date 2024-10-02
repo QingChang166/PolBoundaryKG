@@ -84,9 +84,15 @@ concepts:
     iso3c: ECU
     shapeID: 780006B72413159872158
   BolivarAdm2ECU:
-    admin_name: Bolivar
-    iso3c: ECU
-    shapeID: 8360857B4480682421183
+    admin_name:
+    - Bolivar
+    - Bolivar
+    iso3c:
+    - ECU
+    - ECU
+    shapeID:
+    - 8360857B4480682421183
+    - 8360857B59948244226228
   BuenaFeAdm2ECU:
     admin_name: BuenaFe
     iso3c: ECU
@@ -548,9 +554,15 @@ concepts:
     iso3c: ECU
     shapeID: 8360857B45537729635416
   OlmedoAdm2ECU:
-    admin_name: Olmedo
-    iso3c: ECU
-    shapeID: 8360857B52842084274578
+    admin_name:
+    - Olmedo
+    - Olmedo
+    iso3c:
+    - ECU
+    - ECU
+    shapeID:
+    - 8360857B52842084274578
+    - 8360857B9236921602752
   OñaAdm2ECU:
     admin_name: Oña
     iso3c: ECU

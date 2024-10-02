@@ -316,9 +316,15 @@ concepts:
     iso3c: DZA
     shapeID: 36490775B90060059089153
   TamanghassetAdm2DZA:
-    admin_name: Tamanghasset
-    iso3c: DZA
-    shapeID: 36490775B51952853061932
+    admin_name:
+    - Tamanghasset
+    - Tamanghasset
+    iso3c:
+    - DZA
+    - DZA
+    shapeID:
+    - 36490775B51952853061932
+    - 36490775B87391532441623
   TamanrassetAdm1DZA:
     admin_name: Tamanrasset
     iso3c: DZA

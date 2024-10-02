@@ -1648,9 +1648,15 @@ concepts:
     iso3c: HRV
     shapeID: 41942358B78317909042404
   OpćinaPrivlakaAdm2HRV:
-    admin_name: OpćinaPrivlaka
-    iso3c: HRV
-    shapeID: 41942358B7892972817029
+    admin_name:
+    - OpćinaPrivlaka
+    - OpćinaPrivlaka
+    iso3c:
+    - HRV
+    - HRV
+    shapeID:
+    - 41942358B7892972817029
+    - 41942358B87488536302426
   OpćinaProložacAdm2HRV:
     admin_name: OpćinaProložac
     iso3c: HRV

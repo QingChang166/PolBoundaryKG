@@ -44,13 +44,25 @@ concepts:
     iso3c: KOR
     shapeID: 91817680B41928523553758
   Buk-gu[NorthDistrikt]Adm2KOR:
-    admin_name: Buk-gu[NorthDistrikt]
-    iso3c: KOR
-    shapeID: 91817680B37722151409475
+    admin_name:
+    - Buk-gu[NorthDistrikt]
+    - Buk-gu[NorthDistrikt]
+    iso3c:
+    - KOR
+    - KOR
+    shapeID:
+    - 91817680B37722151409475
+    - 91817680B84202113891253
   Buk-guAdm2KOR:
-    admin_name: Buk-gu
-    iso3c: KOR
-    shapeID: 91817680B63178832268751
+    admin_name:
+    - Buk-gu
+    - Buk-gu
+    iso3c:
+    - KOR
+    - KOR
+    shapeID:
+    - 91817680B63178832268751
+    - 91817680B75710427976091
   Bupyeong-guAdm2KOR:
     admin_name: Bupyeong-gu
     iso3c: KOR
@@ -148,13 +160,31 @@ concepts:
     iso3c: KOR
     shapeID: 91817680B55050579859044
   Dong-gu[EastDistrict]Adm2KOR:
-    admin_name: Dong-gu[EastDistrict]
-    iso3c: KOR
-    shapeID: 91817680B89733153975870
+    admin_name:
+    - Dong-gu[EastDistrict]
+    - Dong-gu[EastDistrict]
+    - Dong-gu[EastDistrict]
+    - Dong-gu[EastDistrict]
+    iso3c:
+    - KOR
+    - KOR
+    - KOR
+    - KOR
+    shapeID:
+    - 91817680B89733153975870
+    - 91817680B33034423068968
+    - 91817680B24548286345957
+    - 91817680B43546326994356
   Dong-guAdm2KOR:
-    admin_name: Dong-gu
-    iso3c: KOR
-    shapeID: 91817680B53543824194985
+    admin_name:
+    - Dong-gu
+    - Dong-gu
+    iso3c:
+    - KOR
+    - KOR
+    shapeID:
+    - 91817680B53543824194985
+    - 91817680B96924831002014
   Dongdaemun-guAdm2KOR:
     admin_name: Dongdaemun-gu
     iso3c: KOR
@@ -208,9 +238,15 @@ concepts:
     iso3c: KOR
     shapeID: 91817680B99242230797556
   Gangseo-guAdm2KOR:
-    admin_name: Gangseo-gu
-    iso3c: KOR
-    shapeID: 91817680B91211823266814
+    admin_name:
+    - Gangseo-gu
+    - Gangseo-gu
+    iso3c:
+    - KOR
+    - KOR
+    shapeID:
+    - 91817680B91211823266814
+    - 91817680B75936691302089
   GangwonAdm1KOR:
     admin_name: Gangwon
     iso3c: KOR
@@ -284,9 +320,15 @@ concepts:
     iso3c: KOR
     shapeID: 91817680B88985387415210
   Goseong-gunAdm2KOR:
-    admin_name: Goseong-gun
-    iso3c: KOR
-    shapeID: 91817680B50485812736392
+    admin_name:
+    - Goseong-gun
+    - Goseong-gun
+    iso3c:
+    - KOR
+    - KOR
+    shapeID:
+    - 91817680B50485812736392
+    - 91817680B97433571779884
   Goyang-siAdm2KOR:
     admin_name: Goyang-si
     iso3c: KOR
@@ -508,9 +550,24 @@ concepts:
     iso3c: KOR
     shapeID: 91817680B55576639555152
   Jung-gu[CentralDistrict]Adm2KOR:
-    admin_name: Jung-gu[CentralDistrict]
-    iso3c: KOR
-    shapeID: 91817680B57927404517776
+    admin_name:
+    - Jung-gu[CentralDistrict]
+    - Jung-gu[CentralDistrict]
+    - Jung-gu[CentralDistrict]
+    - Jung-gu[CentralDistrict]
+    - Jung-gu[CentralDistrict]
+    iso3c:
+    - KOR
+    - KOR
+    - KOR
+    - KOR
+    - KOR
+    shapeID:
+    - 91817680B57927404517776
+    - 91817680B85909931268472
+    - 91817680B11201690622195
+    - 91817680B6497324316239
+    - 91817680B29418542168397
   Jung-guAdm2KOR:
     admin_name: Jung-gu
     iso3c: KOR
@@ -552,9 +609,21 @@ concepts:
     iso3c: KOR
     shapeID: 91817680B40505476377979
   Nam-gu[SouthDistrict]Adm2KOR:
-    admin_name: Nam-gu[SouthDistrict]
-    iso3c: KOR
-    shapeID: 91817680B68494559899558
+    admin_name:
+    - Nam-gu[SouthDistrict]
+    - Nam-gu[SouthDistrict]
+    - Nam-gu[SouthDistrict]
+    - Nam-gu[SouthDistrict]
+    iso3c:
+    - KOR
+    - KOR
+    - KOR
+    - KOR
+    shapeID:
+    - 91817680B68494559899558
+    - 91817680B65451529480853
+    - 91817680B11476058556898
+    - 91817680B72214553011774
   Namdong-guAdm2KOR:
     admin_name: Namdong-gu
     iso3c: KOR
@@ -656,9 +725,21 @@ concepts:
     iso3c: KOR
     shapeID: 68945753B58129180850627
   Seo-gu[WestDistrict]Adm2KOR:
-    admin_name: Seo-gu[WestDistrict]
-    iso3c: KOR
-    shapeID: 91817680B87996420220515
+    admin_name:
+    - Seo-gu[WestDistrict]
+    - Seo-gu[WestDistrict]
+    - Seo-gu[WestDistrict]
+    - Seo-gu[WestDistrict]
+    iso3c:
+    - KOR
+    - KOR
+    - KOR
+    - KOR
+    shapeID:
+    - 91817680B87996420220515
+    - 91817680B65504384218086
+    - 91817680B37138617445780
+    - 91817680B73279111808647
   Seo-guAdm2KOR:
     admin_name: Seo-gu
     iso3c: KOR

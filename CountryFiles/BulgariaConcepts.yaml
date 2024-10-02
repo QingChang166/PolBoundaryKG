@@ -156,9 +156,15 @@ concepts:
     iso3c: BGR
     shapeID: 11073933B23380921323151
   ByalaAdm2BGR:
-    admin_name: Byala
-    iso3c: BGR
-    shapeID: 11073933B66669987345293
+    admin_name:
+    - Byala
+    - Byala
+    iso3c:
+    - BGR
+    - BGR
+    shapeID:
+    - 11073933B66669987345293
+    - 11073933B92397622596619
   ByalaSlatinaAdm2BGR:
     admin_name: ByalaSlatina
     iso3c: BGR
@@ -1156,9 +1162,15 @@ concepts:
     iso3c: BGR
     shapeID: 11073933B23075399217747
   ZlatitsaAdm2BGR:
-    admin_name: Zlatitsa
-    iso3c: BGR
-    shapeID: 11073933B76991292071364
+    admin_name:
+    - Zlatitsa
+    - Zlatitsa
+    iso3c:
+    - BGR
+    - BGR
+    shapeID:
+    - 11073933B76991292071364
+    - 11073933B60320132010156
   ZlatogradAdm2BGR:
     admin_name: Zlatograd
     iso3c: BGR

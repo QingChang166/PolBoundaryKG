@@ -204,9 +204,15 @@ concepts:
     iso3c: CMR
     shapeID: 32672807B46712188555835
   NdianAdm2CMR:
-    admin_name: Ndian
-    iso3c: CMR
-    shapeID: 32672807B48556267066765
+    admin_name:
+    - Ndian
+    - Ndian
+    iso3c:
+    - CMR
+    - CMR
+    shapeID:
+    - 32672807B48556267066765
+    - 32672807B79900399400197
   Ngo-ketunjiaAdm2CMR:
     admin_name: Ngo-ketunjia
     iso3c: CMR
@@ -244,9 +250,15 @@ concepts:
     iso3c: CMR
     shapeID: 32672807B78470526928215
   Sanaga-MaritimeAdm2CMR:
-    admin_name: Sanaga-Maritime
-    iso3c: CMR
-    shapeID: 32672807B64707946298331
+    admin_name:
+    - Sanaga-Maritime
+    - Sanaga-Maritime
+    iso3c:
+    - CMR
+    - CMR
+    shapeID:
+    - 32672807B64707946298331
+    - 32672807B95558278906476
   South-WestAdm1CMR:
     admin_name: South-West
     iso3c: CMR

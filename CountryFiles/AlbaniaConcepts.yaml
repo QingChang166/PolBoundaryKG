@@ -84,9 +84,15 @@ concepts:
     iso3c: ALB
     shapeID: 67620474B91291617478666
   KuçovëAdm2ALB:
-    admin_name: Kuçovë
-    iso3c: ALB
-    shapeID: 67620474B36949901982284
+    admin_name:
+    - Kuçovë
+    - Kuçovë
+    iso3c:
+    - ALB
+    - ALB
+    shapeID:
+    - 67620474B36949901982284
+    - 67620474B90792074310011
   KukësAdm1ALB:
     admin_name: Kukës
     iso3c: ALB
@@ -184,6 +190,12 @@ concepts:
     iso3c: ALB
     shapeID: 10019604B59649873769490
   VlorëAdm2ALB:
-    admin_name: Vlorë
-    iso3c: ALB
-    shapeID: 67620474B72762453157270
+    admin_name:
+    - Vlorë
+    - Vlorë
+    iso3c:
+    - ALB
+    - ALB
+    shapeID:
+    - 67620474B72762453157270
+    - 67620474B93518338354482

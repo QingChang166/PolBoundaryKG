@@ -156,9 +156,15 @@ concepts:
     iso3c: PLW
     shapeID: 81905179B88239301587184
   NgebeiAdm2PLW:
-    admin_name: Ngebei
-    iso3c: PLW
-    shapeID: 81905179B67536129813351
+    admin_name:
+    - Ngebei
+    - Ngebei
+    iso3c:
+    - PLW
+    - PLW
+    shapeID:
+    - 81905179B67536129813351
+    - 81905179B35974165109386
   NgebeiangedAdm2PLW:
     admin_name: Ngebeianged
     iso3c: PLW

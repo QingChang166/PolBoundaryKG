@@ -88,9 +88,15 @@ concepts:
     iso3c: BDI
     shapeID: 21766830B78190696569930
   ButaganzwaAdm2BDI:
-    admin_name: Butaganzwa
-    iso3c: BDI
-    shapeID: 21766830B87758575998638
+    admin_name:
+    - Butaganzwa
+    - Butaganzwa
+    iso3c:
+    - BDI
+    - BDI
+    shapeID:
+    - 21766830B87758575998638
+    - 21766830B11414555561270
   ButeziAdm2BDI:
     admin_name: Butezi
     iso3c: BDI

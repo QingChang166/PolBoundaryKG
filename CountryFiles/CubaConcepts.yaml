@@ -628,9 +628,15 @@ concepts:
     iso3c: CUB
     shapeID: 75667366B10680094164751
   SanLuisAdm2CUB:
-    admin_name: SanLuis
-    iso3c: CUB
-    shapeID: 75667366B92506466281371
+    admin_name:
+    - SanLuis
+    - SanLuis
+    iso3c:
+    - CUB
+    - CUB
+    shapeID:
+    - 75667366B92506466281371
+    - 75667366B93220946498673
   SanMigueldelPadrónAdm2CUB:
     admin_name: SanMigueldelPadrón
     iso3c: CUB

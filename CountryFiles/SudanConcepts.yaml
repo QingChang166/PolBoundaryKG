@@ -216,9 +216,15 @@ concepts:
     iso3c: SDN
     shapeID: 16777658B62353241688309
   ArRahadAdm2SDN:
-    admin_name: ArRahad
-    iso3c: SDN
-    shapeID: 16777658B55257137653826
+    admin_name:
+    - ArRahad
+    - ArRahad
+    iso3c:
+    - SDN
+    - SDN
+    shapeID:
+    - 16777658B55257137653826
+    - 16777658B34397203362025
   ArRashadAdm2SDN:
     admin_name: ArRashad
     iso3c: SDN

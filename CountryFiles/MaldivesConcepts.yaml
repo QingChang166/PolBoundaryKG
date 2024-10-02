@@ -80,9 +80,15 @@ concepts:
     iso3c: MDV
     shapeID: 51498476B65748733522803
   Male'Adm2MDV:
-    admin_name: Male'
-    iso3c: MDV
-    shapeID: 70690204B31972615950169
+    admin_name:
+    - Male'
+    - Male'
+    iso3c:
+    - MDV
+    - MDV
+    shapeID:
+    - 70690204B31972615950169
+    - 70690204B12193603739109
   MaléAdm1MDV:
     admin_name: Malé
     iso3c: MDV

@@ -676,9 +676,15 @@ concepts:
     iso3c: KHM
     shapeID: 14789045B67419263387290
   SamraongAdm2KHM:
-    admin_name: Samraong
-    iso3c: KHM
-    shapeID: 14789045B98729141665077
+    admin_name:
+    - Samraong
+    - Samraong
+    iso3c:
+    - KHM
+    - KHM
+    shapeID:
+    - 14789045B98729141665077
+    - 14789045B40170771357914
   SamraongTongAdm2KHM:
     admin_name: SamraongTong
     iso3c: KHM
