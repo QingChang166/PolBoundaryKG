@@ -1,26 +1,681 @@
 concepts:
-    - NorthBanatDistrict
-    - WestBackaDistrict
-    - SouthBackaDistrict
-    - NorthBackaDistrict
-    - CentralBanatDistrict
-    - SyrmiaDistrict
-    - SouthBanatDistrict
-    - SumadijaDistrict
-    - PomoravljeDistrict
-    - MoravicaDistrict
-    - ZajecarDistrict
-    - ZlatiborDistrict
-    - RaskaDistrict
-    - Belgrade
-    - BorDistrict
-    - MacvaDistrict
-    - PcinjaDistrict
-    - KolubaraDistrict
-    - PodunavljeDistrict
-    - BranicevoDistrict
-    - ToplicaDistrict
-    - NisavaDistrict
-    - PirotDistrict
-    - JablanicaDistrict
-    - RasinaDistrict
+  AdaMunicipalityAdm2SRB:
+    admin_name: AdaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B16264003137685
+  AleksandrovacMunicipalityAdm2SRB:
+    admin_name: AleksandrovacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B40138109313519
+  AleksinacMunicipalityAdm2SRB:
+    admin_name: AleksinacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B97313318387809
+  AlibunarMunicipalityAdm2SRB:
+    admin_name: AlibunarMunicipality
+    iso3c: SRB
+    shapeID: 33768554B21672557682784
+  ApatinMunicipalityAdm2SRB:
+    admin_name: ApatinMunicipality
+    iso3c: SRB
+    shapeID: 33768554B67461606414450
+  ArandjelovacMunicipalityAdm2SRB:
+    admin_name: ArandjelovacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B83467045170377
+  AriljeMunicipalityAdm2SRB:
+    admin_name: AriljeMunicipality
+    iso3c: SRB
+    shapeID: 33768554B92005817925863
+  BabusnicaMunicipalityAdm2SRB:
+    admin_name: BabusnicaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B59957801456575
+  BackaPalankaMunicipalityAdm2SRB:
+    admin_name: BackaPalankaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B44050731344699
+  BackaTopolaMunicipalityAdm2SRB:
+    admin_name: BackaTopolaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B2461690928713
+  BackiPetrovacMunicipalityAdm2SRB:
+    admin_name: BackiPetrovacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B72526506910259
+  BacMunicipalityAdm2SRB:
+    admin_name: BacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B38714138759615
+  BajinaBastaMunicipalityAdm2SRB:
+    admin_name: BajinaBastaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B30367363697498
+  BatocinaMunicipalityAdm2SRB:
+    admin_name: BatocinaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B38793524178099
+  BecejMunicipalityAdm2SRB:
+    admin_name: BecejMunicipality
+    iso3c: SRB
+    shapeID: 33768554B69909028114435
+  BelaCrkvaMunicipalityAdm2SRB:
+    admin_name: BelaCrkvaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B30948132867080
+  BelaPalankaMunicipalityAdm2SRB:
+    admin_name: BelaPalankaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B47400294676316
+  BelgradeAdm1SRB:
+    admin_name: Belgrade
+    iso3c: SRB
+    shapeID: 41074048B91434818545320
+  BelgradeAdm2SRB:
+    admin_name: Belgrade
+    iso3c: SRB
+    shapeID: 33768554B61504617151000
+  BeocinMunicipalityAdm2SRB:
+    admin_name: BeocinMunicipality
+    iso3c: SRB
+    shapeID: 33768554B7076914953551
+  BlaceMunicipalityAdm2SRB:
+    admin_name: BlaceMunicipality
+    iso3c: SRB
+    shapeID: 33768554B49534055998665
+  BogaticMunicipalityAdm2SRB:
+    admin_name: BogaticMunicipality
+    iso3c: SRB
+    shapeID: 33768554B67609645322980
+  BojnikMunicipalityAdm2SRB:
+    admin_name: BojnikMunicipality
+    iso3c: SRB
+    shapeID: 33768554B49135397076585
+  BoljevacMunicipalityAdm2SRB:
+    admin_name: BoljevacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B67797143141356
+  BorDistrictAdm1SRB:
+    admin_name: BorDistrict
+    iso3c: SRB
+    shapeID: 41074048B65770096848171
+  BorMunicipalityAdm2SRB:
+    admin_name: BorMunicipality
+    iso3c: SRB
+    shapeID: 33768554B90982415445255
+  BosilegradMunicipalityAdm2SRB:
+    admin_name: BosilegradMunicipality
+    iso3c: SRB
+    shapeID: 33768554B98074589840478
+  BranicevoDistrictAdm1SRB:
+    admin_name: BranicevoDistrict
+    iso3c: SRB
+    shapeID: 41074048B81221095206835
+  BrusMunicipalityAdm2SRB:
+    admin_name: BrusMunicipality
+    iso3c: SRB
+    shapeID: 33768554B78153808142679
+  BujanovacMunicipalityAdm2SRB:
+    admin_name: BujanovacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B94844288386275
+  CacakCityAdm2SRB:
+    admin_name: CacakCity
+    iso3c: SRB
+    shapeID: 33768554B14511556571933
+  CajetinaMunicipalityAdm2SRB:
+    admin_name: CajetinaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B65536018440282
+  CentralBanatDistrictAdm1SRB:
+    admin_name: CentralBanatDistrict
+    iso3c: SRB
+    shapeID: 41074048B68944780204869
+  CicevacMunicipalityAdm2SRB:
+    admin_name: CicevacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B71751519399236
+  CokaMunicipalityAdm2SRB:
+    admin_name: CokaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B46379077813039
+  CrnaTravaMunicipalityAdm2SRB:
+    admin_name: CrnaTravaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B52252710407171
+  CuprijaMunicipalityAdm2SRB:
+    admin_name: CuprijaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B18327581352007
+  DespotovacMunicipalityAdm2SRB:
+    admin_name: DespotovacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B96748460097614
+  DimitrovgradMunicipalityAdm2SRB:
+    admin_name: DimitrovgradMunicipality
+    iso3c: SRB
+    shapeID: 33768554B96066784691240
+  DoljevacMunicipalityAdm2SRB:
+    admin_name: DoljevacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B85806553365451
+  GadzinHanMunicipalityAdm2SRB:
+    admin_name: GadzinHanMunicipality
+    iso3c: SRB
+    shapeID: 33768554B89409696824742
+  GolubacMunicipalityAdm2SRB:
+    admin_name: GolubacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B58977987219618
+  GornjiMilanovacMunicipalityAdm2SRB:
+    admin_name: GornjiMilanovacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B58912719399379
+  IndjijaMunicipalityAdm2SRB:
+    admin_name: IndjijaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B43402816549287
+  IrigMunicipalityAdm2SRB:
+    admin_name: IrigMunicipality
+    iso3c: SRB
+    shapeID: 33768554B98925662705896
+  IvanjicaMunicipalityAdm2SRB:
+    admin_name: IvanjicaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B97531165240554
+  JablanicaDistrictAdm1SRB:
+    admin_name: JablanicaDistrict
+    iso3c: SRB
+    shapeID: 41074048B152991575474
+  JagodinaCityAdm2SRB:
+    admin_name: JagodinaCity
+    iso3c: SRB
+    shapeID: 33768554B19679900435135
+  KanjizaMunicipalityAdm2SRB:
+    admin_name: KanjizaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B22744832971391
+  KikindaCityAdm2SRB:
+    admin_name: KikindaCity
+    iso3c: SRB
+    shapeID: 33768554B80281741460558
+  KladovoMunicipalityAdm2SRB:
+    admin_name: KladovoMunicipality
+    iso3c: SRB
+    shapeID: 33768554B76410461810144
+  KnicMunicipalityAdm2SRB:
+    admin_name: KnicMunicipality
+    iso3c: SRB
+    shapeID: 33768554B36402620726863
+  KnjazevacMunicipalityAdm2SRB:
+    admin_name: KnjazevacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B16465002195595
+  KoceljevaMunicipalityAdm2SRB:
+    admin_name: KoceljevaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B69938925483879
+  KolubaraDistrictAdm1SRB:
+    admin_name: KolubaraDistrict
+    iso3c: SRB
+    shapeID: 41074048B35785930294755
+  KosjericMunicipalityAdm2SRB:
+    admin_name: KosjericMunicipality
+    iso3c: SRB
+    shapeID: 33768554B95152369677167
+  KovacicaMunicipalityAdm2SRB:
+    admin_name: KovacicaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B31931832207402
+  KovinMunicipalityAdm2SRB:
+    admin_name: KovinMunicipality
+    iso3c: SRB
+    shapeID: 33768554B17937032447528
+  KragujevacCityAdm2SRB:
+    admin_name: KragujevacCity
+    iso3c: SRB
+    shapeID: 33768554B57522103876306
+  KraljevoCityAdm2SRB:
+    admin_name: KraljevoCity
+    iso3c: SRB
+    shapeID: 33768554B43066107137298
+  KrupanjMunicipalityAdm2SRB:
+    admin_name: KrupanjMunicipality
+    iso3c: SRB
+    shapeID: 33768554B945733705725
+  KrusevacCityAdm2SRB:
+    admin_name: KrusevacCity
+    iso3c: SRB
+    shapeID: 33768554B75498034252185
+  KucevoMunicipalityAdm2SRB:
+    admin_name: KucevoMunicipality
+    iso3c: SRB
+    shapeID: 33768554B78975247245185
+  KulaMunicipalityAdm2SRB:
+    admin_name: KulaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B77168572394837
+  KursumlijaMunicipalityAdm2SRB:
+    admin_name: KursumlijaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B5120930670139
+  LajkovacMunicipalityAdm2SRB:
+    admin_name: LajkovacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B31807143962847
+  LapovoMunicipalityAdm2SRB:
+    admin_name: LapovoMunicipality
+    iso3c: SRB
+    shapeID: 33768554B97959209858878
+  LebaneMunicipalityAdm2SRB:
+    admin_name: LebaneMunicipality
+    iso3c: SRB
+    shapeID: 33768554B67829926122692
+  LeskovacCityAdm2SRB:
+    admin_name: LeskovacCity
+    iso3c: SRB
+    shapeID: 33768554B48373048831936
+  LjigMunicipalityAdm2SRB:
+    admin_name: LjigMunicipality
+    iso3c: SRB
+    shapeID: 33768554B71368513809483
+  LjubovijaMunicipalityAdm2SRB:
+    admin_name: LjubovijaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B95567802729919
+  LoznicaCityAdm2SRB:
+    admin_name: LoznicaCity
+    iso3c: SRB
+    shapeID: 33768554B4908200120747
+  LucaniMunicipalityAdm2SRB:
+    admin_name: LucaniMunicipality
+    iso3c: SRB
+    shapeID: 33768554B72006170555355
+  MacvaDistrictAdm1SRB:
+    admin_name: MacvaDistrict
+    iso3c: SRB
+    shapeID: 41074048B6540860887110
+  MajdanpekMunicipalityAdm2SRB:
+    admin_name: MajdanpekMunicipality
+    iso3c: SRB
+    shapeID: 33768554B95075917459529
+  MaliIdjosMunicipalityAdm2SRB:
+    admin_name: MaliIdjosMunicipality
+    iso3c: SRB
+    shapeID: 33768554B47565099292540
+  MaliZvornikMunicipalityAdm2SRB:
+    admin_name: MaliZvornikMunicipality
+    iso3c: SRB
+    shapeID: 33768554B26564609586994
+  MaloCrniceMunicipalityAdm2SRB:
+    admin_name: MaloCrniceMunicipality
+    iso3c: SRB
+    shapeID: 33768554B34776853271491
+  MedvedjaMunicipalityAdm2SRB:
+    admin_name: MedvedjaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B58169164574434
+  MerosinaMunicipalityAdm2SRB:
+    admin_name: MerosinaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B92498163000248
+  MionicaMunicipalityAdm2SRB:
+    admin_name: MionicaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B88612851859598
+  MoravicaDistrictAdm1SRB:
+    admin_name: MoravicaDistrict
+    iso3c: SRB
+    shapeID: 41074048B87154505224045
+  NegotinMunicipalityAdm2SRB:
+    admin_name: NegotinMunicipality
+    iso3c: SRB
+    shapeID: 33768554B98555982809024
+  NisavaDistrictAdm1SRB:
+    admin_name: NisavaDistrict
+    iso3c: SRB
+    shapeID: 41074048B35657283611645
+  NisCityAdm2SRB:
+    admin_name: NisCity
+    iso3c: SRB
+    shapeID: 33768554B77688922011178
+  NorthBackaDistrictAdm1SRB:
+    admin_name: NorthBackaDistrict
+    iso3c: SRB
+    shapeID: 41074048B35998987381060
+  NorthBanatDistrictAdm1SRB:
+    admin_name: NorthBanatDistrict
+    iso3c: SRB
+    shapeID: 41074048B51566569224291
+  NovaCrnjaMunicipalityAdm2SRB:
+    admin_name: NovaCrnjaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B55544577522793
+  NovaVarosMunicipalityAdm2SRB:
+    admin_name: NovaVarosMunicipality
+    iso3c: SRB
+    shapeID: 33768554B96096334130003
+  NoviBecejMunicipalityAdm2SRB:
+    admin_name: NoviBecejMunicipality
+    iso3c: SRB
+    shapeID: 33768554B85835523578034
+  NoviKnezevacMunicipalityAdm2SRB:
+    admin_name: NoviKnezevacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B72683964051923
+  NoviPazarCityAdm2SRB:
+    admin_name: NoviPazarCity
+    iso3c: SRB
+    shapeID: 33768554B68779491772878
+  NoviSadCityAdm2SRB:
+    admin_name: NoviSadCity
+    iso3c: SRB
+    shapeID: 33768554B62558339807618
+  OdzaciMunicipalityAdm2SRB:
+    admin_name: OdzaciMunicipality
+    iso3c: SRB
+    shapeID: 33768554B3910526108635
+  OpovoMunicipalityAdm2SRB:
+    admin_name: OpovoMunicipality
+    iso3c: SRB
+    shapeID: 33768554B39213390041718
+  OsecinaMunicipalityAdm2SRB:
+    admin_name: OsecinaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B74154887624592
+  PancevoCityAdm2SRB:
+    admin_name: PancevoCity
+    iso3c: SRB
+    shapeID: 33768554B85269218904292
+  ParacinMunicipalityAdm2SRB:
+    admin_name: ParacinMunicipality
+    iso3c: SRB
+    shapeID: 33768554B14779468402484
+  PcinjaDistrictAdm1SRB:
+    admin_name: PcinjaDistrict
+    iso3c: SRB
+    shapeID: 41074048B26185342001900
+  PecinciMunicipalityAdm2SRB:
+    admin_name: PecinciMunicipality
+    iso3c: SRB
+    shapeID: 33768554B31297475894420
+  Petrovac-na-MlaviMunicipalityAdm2SRB:
+    admin_name: Petrovac-na-MlaviMunicipality
+    iso3c: SRB
+    shapeID: 33768554B80429133429639
+  PirotDistrictAdm1SRB:
+    admin_name: PirotDistrict
+    iso3c: SRB
+    shapeID: 41074048B47082150623141
+  PirotMunicipalityAdm2SRB:
+    admin_name: PirotMunicipality
+    iso3c: SRB
+    shapeID: 33768554B29190623105772
+  PlandisteMunicipalityAdm2SRB:
+    admin_name: PlandisteMunicipality
+    iso3c: SRB
+    shapeID: 33768554B74061497044611
+  PodunavljeDistrictAdm1SRB:
+    admin_name: PodunavljeDistrict
+    iso3c: SRB
+    shapeID: 41074048B12372480273054
+  PomoravljeDistrictAdm1SRB:
+    admin_name: PomoravljeDistrict
+    iso3c: SRB
+    shapeID: 41074048B32695847055571
+  PozarevacCityAdm2SRB:
+    admin_name: PozarevacCity
+    iso3c: SRB
+    shapeID: 33768554B15135122038739
+  PozegaMunicipalityAdm2SRB:
+    admin_name: PozegaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B30214389398873
+  PresevoMunicipalityAdm2SRB:
+    admin_name: PresevoMunicipality
+    iso3c: SRB
+    shapeID: 33768554B20144480687760
+  PribojMunicipalityAdm2SRB:
+    admin_name: PribojMunicipality
+    iso3c: SRB
+    shapeID: 33768554B97110351738071
+  PrijepoljeMunicipalityAdm2SRB:
+    admin_name: PrijepoljeMunicipality
+    iso3c: SRB
+    shapeID: 33768554B50618232762371
+  ProkupljeMunicipalityAdm2SRB:
+    admin_name: ProkupljeMunicipality
+    iso3c: SRB
+    shapeID: 33768554B82554232009543
+  RacaMunicipalityAdm2SRB:
+    admin_name: RacaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B90877625574513
+  RasinaDistrictAdm1SRB:
+    admin_name: RasinaDistrict
+    iso3c: SRB
+    shapeID: 41074048B66445282038706
+  RaskaDistrictAdm1SRB:
+    admin_name: RaskaDistrict
+    iso3c: SRB
+    shapeID: 41074048B45384402492685
+  RaskaMunicipalityAdm2SRB:
+    admin_name: RaskaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B55144919365086
+  RazanjMunicipalityAdm2SRB:
+    admin_name: RazanjMunicipality
+    iso3c: SRB
+    shapeID: 33768554B62029834969141
+  RekovacMunicipalityAdm2SRB:
+    admin_name: RekovacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B52756767765286
+  RumaMunicipalityAdm2SRB:
+    admin_name: RumaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B35362959093640
+  SabacCityAdm2SRB:
+    admin_name: SabacCity
+    iso3c: SRB
+    shapeID: 33768554B9744610672445
+  SecanjMunicipalityAdm2SRB:
+    admin_name: SecanjMunicipality
+    iso3c: SRB
+    shapeID: 33768554B10160460607146
+  SentaMunicipalityAdm2SRB:
+    admin_name: SentaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B34313425027148
+  SidMunicipalityAdm2SRB:
+    admin_name: SidMunicipality
+    iso3c: SRB
+    shapeID: 33768554B73963894217242
+  SjenicaMunicipalityAdm2SRB:
+    admin_name: SjenicaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B19549852726842
+  SmederevoCityAdm2SRB:
+    admin_name: SmederevoCity
+    iso3c: SRB
+    shapeID: 33768554B50222554508366
+  SmederevskaPalankaMunicipal*Adm2SRB:
+    admin_name: SmederevskaPalankaMunicipal*
+    iso3c: SRB
+    shapeID: 33768554B39192124193600
+  SokobanjaMunicipalityAdm2SRB:
+    admin_name: SokobanjaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B65902429906224
+  SomborCityAdm2SRB:
+    admin_name: SomborCity
+    iso3c: SRB
+    shapeID: 33768554B82450600870758
+  SouthBackaDistrictAdm1SRB:
+    admin_name: SouthBackaDistrict
+    iso3c: SRB
+    shapeID: 41074048B42085876522793
+  SouthBanatDistrictAdm1SRB:
+    admin_name: SouthBanatDistrict
+    iso3c: SRB
+    shapeID: 41074048B611919772148
+  SrbobranMunicipalityAdm2SRB:
+    admin_name: SrbobranMunicipality
+    iso3c: SRB
+    shapeID: 33768554B32598240068320
+  SremskaMitrovicaCityAdm2SRB:
+    admin_name: SremskaMitrovicaCity
+    iso3c: SRB
+    shapeID: 33768554B73967989073228
+  SremskiKarlovciMunicipalityAdm2SRB:
+    admin_name: SremskiKarlovciMunicipality
+    iso3c: SRB
+    shapeID: 33768554B12428724398946
+  StaraPazovaMunicipalityAdm2SRB:
+    admin_name: StaraPazovaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B29640802603871
+  SuboticaCityAdm2SRB:
+    admin_name: SuboticaCity
+    iso3c: SRB
+    shapeID: 33768554B52561884803031
+  SumadijaDistrictAdm1SRB:
+    admin_name: SumadijaDistrict
+    iso3c: SRB
+    shapeID: 41074048B72675147350084
+  SurdulicaMunicipalityAdm2SRB:
+    admin_name: SurdulicaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B5340039451107
+  SvilajnacMunicipalityAdm2SRB:
+    admin_name: SvilajnacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B62719253026204
+  SvrljigMunicipalityAdm2SRB:
+    admin_name: SvrljigMunicipality
+    iso3c: SRB
+    shapeID: 33768554B67479407113157
+  SyrmiaDistrictAdm1SRB:
+    admin_name: SyrmiaDistrict
+    iso3c: SRB
+    shapeID: 41074048B7823241267107
+  TemerinMunicipalityAdm2SRB:
+    admin_name: TemerinMunicipality
+    iso3c: SRB
+    shapeID: 33768554B78547290846704
+  TitelMunicipalityAdm2SRB:
+    admin_name: TitelMunicipality
+    iso3c: SRB
+    shapeID: 33768554B7380018804564
+  ToplicaDistrictAdm1SRB:
+    admin_name: ToplicaDistrict
+    iso3c: SRB
+    shapeID: 41074048B62787435476864
+  TopolaMunicipalityAdm2SRB:
+    admin_name: TopolaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B4815616166969
+  TrgovisteMunicipalityAdm2SRB:
+    admin_name: TrgovisteMunicipality
+    iso3c: SRB
+    shapeID: 33768554B99330640863847
+  TrstenikMunicipalityAdm2SRB:
+    admin_name: TrstenikMunicipality
+    iso3c: SRB
+    shapeID: 33768554B58059455789181
+  TutinMunicipalityAdm2SRB:
+    admin_name: TutinMunicipality
+    iso3c: SRB
+    shapeID: 33768554B8621955300335
+  UbMunicipalityAdm2SRB:
+    admin_name: UbMunicipality
+    iso3c: SRB
+    shapeID: 33768554B62233458661830
+  UziceCityAdm2SRB:
+    admin_name: UziceCity
+    iso3c: SRB
+    shapeID: 33768554B20162620577895
+  ValjevoCityAdm2SRB:
+    admin_name: ValjevoCity
+    iso3c: SRB
+    shapeID: 33768554B40132449237012
+  VarvarinMunicipalityAdm2SRB:
+    admin_name: VarvarinMunicipality
+    iso3c: SRB
+    shapeID: 33768554B8272712362047
+  VelikaPlanaMunicipalityAdm2SRB:
+    admin_name: VelikaPlanaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B26895263090033
+  VelikoGradisteMunicipalityAdm2SRB:
+    admin_name: VelikoGradisteMunicipality
+    iso3c: SRB
+    shapeID: 33768554B3832179946279
+  VladicinHanMunicipalityAdm2SRB:
+    admin_name: VladicinHanMunicipality
+    iso3c: SRB
+    shapeID: 33768554B42905463824316
+  VladimirciMunicipalityAdm2SRB:
+    admin_name: VladimirciMunicipality
+    iso3c: SRB
+    shapeID: 33768554B2801395808219
+  VlasotinceMunicipalityAdm2SRB:
+    admin_name: VlasotinceMunicipality
+    iso3c: SRB
+    shapeID: 33768554B60768299813027
+  VranjeCityAdm2SRB:
+    admin_name: VranjeCity
+    iso3c: SRB
+    shapeID: 33768554B98930233996710
+  VrbasMunicipalityAdm2SRB:
+    admin_name: VrbasMunicipality
+    iso3c: SRB
+    shapeID: 33768554B35751177110345
+  VrnjackaBanjaMunicipalityAdm2SRB:
+    admin_name: VrnjackaBanjaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B30156858636960
+  VrsacMunicipalityAdm2SRB:
+    admin_name: VrsacMunicipality
+    iso3c: SRB
+    shapeID: 33768554B50047063865765
+  WestBackaDistrictAdm1SRB:
+    admin_name: WestBackaDistrict
+    iso3c: SRB
+    shapeID: 41074048B16574264174015
+  ZabaljMunicipalityAdm2SRB:
+    admin_name: ZabaljMunicipality
+    iso3c: SRB
+    shapeID: 33768554B2427629133533
+  ZabariMunicipalityAdm2SRB:
+    admin_name: ZabariMunicipality
+    iso3c: SRB
+    shapeID: 33768554B78746241490226
+  ZagubicaMunicipalityAdm2SRB:
+    admin_name: ZagubicaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B7055025230040
+  ZajecarCityAdm2SRB:
+    admin_name: ZajecarCity
+    iso3c: SRB
+    shapeID: 33768554B14333994307421
+  ZajecarDistrictAdm1SRB:
+    admin_name: ZajecarDistrict
+    iso3c: SRB
+    shapeID: 41074048B40253307374301
+  ZitisteMunicipalityAdm2SRB:
+    admin_name: ZitisteMunicipality
+    iso3c: SRB
+    shapeID: 33768554B67532749475512
+  ZitoradjaMunicipalityAdm2SRB:
+    admin_name: ZitoradjaMunicipality
+    iso3c: SRB
+    shapeID: 33768554B2646840905075
+  ZlatiborDistrictAdm1SRB:
+    admin_name: ZlatiborDistrict
+    iso3c: SRB
+    shapeID: 41074048B96203602850640
+  ZrenjaninCityAdm2SRB:
+    admin_name: ZrenjaninCity
+    iso3c: SRB
+    shapeID: 33768554B98536505599429

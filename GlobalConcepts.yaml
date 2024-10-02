@@ -1,44 +1,4 @@
 concepts:
-  ROOT:
-    iso3c:
-    country_name:
-    continent:
-  TheWorld:
-    iso3c:
-    country_name:
-    continent:
-  Continents:
-    iso3c:
-    country_name:
-    continent:
-  AsiaContinent:
-    iso3c:
-    country_name:
-    continent:
-  EuropeContinent:
-    iso3c:
-    country_name:
-    continent:
-  AfricaContinent:
-    iso3c:
-    country_name:
-    continent:
-  NorthAmericaContinent:
-    iso3c:
-    country_name:
-    continent:
-  SouthAmericaContinent:
-    iso3c:
-    country_name:
-    continent:
-  AntarcticaContinent:
-    iso3c:
-    country_name:
-    continent:
-  OceaniaContinent:
-    iso3c:
-    country_name:
-    continent:
   AfghanistanAdm0:
     iso3c: AFG
     country_name: Afghanistan
@@ -307,6 +267,10 @@ concepts:
     iso3c: GRC
     country_name: Greece
     continent: Europe
+  GreenlandAdm0:
+    iso3c: GRL
+    country_name: Greenland
+    continent: Europe
   GrenadaAdm0:
     iso3c: GRD
     country_name: Grenada
@@ -399,6 +363,10 @@ concepts:
     iso3c: KIR
     country_name: Kiribati
     continent: Oceania
+  KosovoAdm0:
+    iso3c: XKX
+    country_name: Kosovo
+    continent: Europe
   KuwaitAdm0:
     iso3c: KWT
     country_name: Kuwait
@@ -631,6 +599,10 @@ concepts:
     iso3c: SEN
     country_name: Senegal
     continent: Africa
+  SerbiaAdm0:
+    iso3c: SRB
+    country_name: Serbia
+    continent: Europe
   SeychellesAdm0:
     iso3c: SYC
     country_name: Seychelles
