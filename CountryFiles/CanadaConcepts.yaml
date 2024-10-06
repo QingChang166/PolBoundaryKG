@@ -1,359 +1,541 @@
 concepts:
-  Abitibi-TémiscamingueAdm2CAN:
-    admin_name: Abitibi-Témiscamingue
+  Canada_Adm0:
     iso3c: CAN
-    shapeID: 811477B53502850558917
-  AlbertaAdm1CAN:
-    admin_name: Alberta
+    admin_level: Adm0
+    admin_name: Canada
+    shapeID: 50000805B18704692826824
+    country_name: Canada
+  Canada_Adm1_1:
     iso3c: CAN
-    shapeID: 82249235B5553315981608
-  AnnapolisValleyAdm2CAN:
-    admin_name: AnnapolisValley
-    iso3c: CAN
-    shapeID: 811477B46471323661826
-  Athabasca--GrandePrairie--Pe*Adm2CAN:
-    admin_name: Athabasca--GrandePrairie--Pe*
-    iso3c: CAN
-    shapeID: 811477B52238301703097
-  AvalonPeninsulaAdm2CAN:
-    admin_name: AvalonPeninsula
-    iso3c: CAN
-    shapeID: 811477B25825438233887
-  Banff--Jasper--RockyMountain*Adm2CAN:
-    admin_name: Banff--Jasper--RockyMountain*
-    iso3c: CAN
-    shapeID: 811477B6794370445536
-  Bas-Saint-LaurentAdm2CAN:
-    admin_name: Bas-Saint-Laurent
-    iso3c: CAN
-    shapeID: 811477B72713062491295
-  BritishColumbiaAdm1CAN:
-    admin_name: BritishColumbia
-    iso3c: CAN
-    shapeID: 82249235B24619009834807
-  CalgaryAdm2CAN:
-    admin_name: Calgary
-    iso3c: CAN
-    shapeID: 811477B63096276247091
-  Campbellton--MiramichiAdm2CAN:
-    admin_name: Campbellton--Miramichi
-    iso3c: CAN
-    shapeID: 811477B32681806603113
-  Camrose--DrumhellerAdm2CAN:
-    admin_name: Camrose--Drumheller
-    iso3c: CAN
-    shapeID: 811477B18963105531300
-  CapeBretonAdm2CAN:
-    admin_name: CapeBreton
-    iso3c: CAN
-    shapeID: 811477B34653806269140
-  Capitale-NationaleAdm2CAN:
-    admin_name: Capitale-Nationale
-    iso3c: CAN
-    shapeID: 811477B76079196680342
-  CaribooAdm2CAN:
-    admin_name: Cariboo
-    iso3c: CAN
-    shapeID: 811477B16322503842714
-  Centre-du-QuébecAdm2CAN:
-    admin_name: Centre-du-Québec
-    iso3c: CAN
-    shapeID: 811477B16566430177620
-  Chaudière-AppalachesAdm2CAN:
-    admin_name: Chaudière-Appalaches
-    iso3c: CAN
-    shapeID: 811477B14378531582745
-  Côte-NordAdm2CAN:
-    admin_name: Côte-Nord
-    iso3c: CAN
-    shapeID: 811477B28478756836533
-  EdmontonAdm2CAN:
-    admin_name: Edmonton
-    iso3c: CAN
-    shapeID: 811477B65555147330187
-  Edmundston--WoodstockAdm2CAN:
-    admin_name: Edmundston--Woodstock
-    iso3c: CAN
-    shapeID: 811477B2528613177772
-  EstrieAdm2CAN:
-    admin_name: Estrie
-    iso3c: CAN
-    shapeID: 811477B23883248376492
-  Fredericton--OromoctoAdm2CAN:
-    admin_name: Fredericton--Oromocto
-    iso3c: CAN
-    shapeID: 811477B77394279181451
-  Gaspésie--Îles-de-la-MadeleiAdm2CAN:
-    admin_name: Gaspésie--Îles-de-la-Madelei
-    iso3c: CAN
-    shapeID: 811477B83690670726478
-  HalifaxAdm2CAN:
-    admin_name: Halifax
-    iso3c: CAN
-    shapeID: 811477B772229677818
-  Hamilton--NiagaraPeninsulaAdm2CAN:
-    admin_name: Hamilton--NiagaraPeninsula
-    iso3c: CAN
-    shapeID: 811477B46333473777628
-  InterlakeAdm2CAN:
-    admin_name: Interlake
-    iso3c: CAN
-    shapeID: 811477B58370498971014
-  Kingston--PembrokeAdm2CAN:
-    admin_name: Kingston--Pembroke
-    iso3c: CAN
-    shapeID: 811477B62189271457838
-  Kitchener--Waterloo--BarrieAdm2CAN:
-    admin_name: Kitchener--Waterloo--Barrie
-    iso3c: CAN
-    shapeID: 811477B58259401373998
-  KootenayAdm2CAN:
-    admin_name: Kootenay
-    iso3c: CAN
-    shapeID: 811477B17102347998990
-  LanaudièreAdm2CAN:
-    admin_name: Lanaudière
-    iso3c: CAN
-    shapeID: 811477B25883499067211
-  LaurentidesAdm2CAN:
-    admin_name: Laurentides
-    iso3c: CAN
-    shapeID: 811477B98251236727118
-  LavalAdm2CAN:
-    admin_name: Laval
-    iso3c: CAN
-    shapeID: 811477B18310257364605
-  Lethbridge--MedicineHatAdm2CAN:
-    admin_name: Lethbridge--MedicineHat
-    iso3c: CAN
-    shapeID: 811477B22056200748647
-  LondonAdm2CAN:
-    admin_name: London
-    iso3c: CAN
-    shapeID: 811477B53026526686124
-  LowerMainland--Southwest/L*Adm2CAN:
-    admin_name: LowerMainland--Southwest/L*
-    iso3c: CAN
-    shapeID: 811477B92979298111038
-  ManitobaAdm1CAN:
-    admin_name: Manitoba
-    iso3c: CAN
-    shapeID: 82249235B50381585000441
-  MauricieAdm2CAN:
-    admin_name: Mauricie
-    iso3c: CAN
-    shapeID: 811477B9927765921058
-  Moncton--RichibuctoAdm2CAN:
-    admin_name: Moncton--Richibucto
-    iso3c: CAN
-    shapeID: 811477B10091051232665
-  MontérégieAdm2CAN:
-    admin_name: Montérégie
-    iso3c: CAN
-    shapeID: 811477B95270130907669
-  MontréalAdm2CAN:
-    admin_name: Montréal
-    iso3c: CAN
-    shapeID: 811477B39607873934599
-  Muskoka--KawarthasAdm2CAN:
-    admin_name: Muskoka--Kawarthas
-    iso3c: CAN
-    shapeID: 811477B35801915414510
-  NechakoAdm2CAN:
-    admin_name: Nechako
-    iso3c: CAN
-    shapeID: 811477B50846318398433
-  NewBrunswickAdm1CAN:
-    admin_name: NewBrunswick
-    iso3c: CAN
-    shapeID: 82249235B4167839012994
-  NewfoundlandandLabradorAdm1CAN:
+    admin_level: Adm1
     admin_name: NewfoundlandandLabrador
-    iso3c: CAN
     shapeID: 82249235B96958463903898
-  Nord-du-QuébecAdm2CAN:
-    admin_name: Nord-du-Québec
+    country_name: Canada
+  Canada_Adm1_10:
     iso3c: CAN
-    shapeID: 811477B94098391205928
-  North/NordAdm2CAN:
-    admin_name: North/Nord
+    admin_level: Adm1
+    admin_name: BritishColumbia
+    shapeID: 82249235B24619009834807
+    country_name: Canada
+  Canada_Adm1_11:
     iso3c: CAN
-    shapeID: 811477B37780591803874
-  NorthCentral/CentrenordAdm2CAN:
-    admin_name: NorthCentral/Centrenord
-    iso3c: CAN
-    shapeID: 811477B41271029806166
-  NorthCoast/Côte-nordAdm2CAN:
-    admin_name: NorthCoast/Côte-nord
-    iso3c: CAN
-    shapeID: 811477B51248410947811
-  Northeast/Nord-estAdm2CAN:
-    admin_name:
-    - Northeast/Nord-est
-    - Northeast/Nord-est
-    iso3c:
-    - CAN
-    - CAN
-    shapeID:
-    - 811477B61209589162148
-    - 811477B20348079294456
-  Northern/NordAdm2CAN:
-    admin_name: Northern/Nord
-    iso3c: CAN
-    shapeID: 811477B84145681599203
-  NorthShore/Côte-nordAdm2CAN:
-    admin_name: NorthShore/Côte-nord
-    iso3c: CAN
-    shapeID: 811477B41230698537605
-  Northwest/Nord-ouestAdm2CAN:
-    admin_name: Northwest/Nord-ouest
-    iso3c: CAN
-    shapeID: 811477B31854329878233
-  NorthwestTerritories/Terri*Adm2CAN:
-    admin_name: NorthwestTerritories/Terri*
-    iso3c: CAN
-    shapeID: 811477B98274245708554
-  NorthwestTerritoriesAdm1CAN:
-    admin_name: NorthwestTerritories
-    iso3c: CAN
-    shapeID: 82249235B82395866892480
-  NotreDame--CentralBonavista*Adm2CAN:
-    admin_name: NotreDame--CentralBonavista*
-    iso3c: CAN
-    shapeID: 811477B90164277950663
-  NovaScotiaAdm1CAN:
-    admin_name: NovaScotia
-    iso3c: CAN
-    shapeID: 82249235B69645938038492
-  NunavutAdm1CAN:
-    admin_name: Nunavut
-    iso3c: CAN
-    shapeID: 82249235B23927232378620
-  NunavutAdm2CAN:
-    admin_name: Nunavut
-    iso3c: CAN
-    shapeID: 811477B26547766372806
-  OntarioAdm1CAN:
-    admin_name: Ontario
-    iso3c: CAN
-    shapeID: 82249235B66370767641120
-  OttawaAdm2CAN:
-    admin_name: Ottawa
-    iso3c: CAN
-    shapeID: 811477B85931941465938
-  OutaouaisAdm2CAN:
-    admin_name: Outaouais
-    iso3c: CAN
-    shapeID: 811477B56871273530804
-  ParklandsAdm2CAN:
-    admin_name: Parklands
-    iso3c: CAN
-    shapeID: 811477B68585470358091
-  PrinceAlbertAdm2CAN:
-    admin_name: PrinceAlbert
-    iso3c: CAN
-    shapeID: 811477B12991983427491
-  PrinceEdwardIsland/Île-duAdm2CAN:
-    admin_name: PrinceEdwardIsland/Île-du
-    iso3c: CAN
-    shapeID: 811477B18636492208722
-  PrinceEdwardIslandAdm1CAN:
-    admin_name: PrinceEdwardIsland
-    iso3c: CAN
-    shapeID: 82249235B3191732862561
-  QuebecAdm1CAN:
-    admin_name: Quebec
-    iso3c: CAN
-    shapeID: 82249235B52639524229375
-  RedDeerAdm2CAN:
-    admin_name: RedDeer
-    iso3c: CAN
-    shapeID: 811477B36928320026762
-  Regina--MooseMountainAdm2CAN:
-    admin_name: Regina--MooseMountain
-    iso3c: CAN
-    shapeID: 811477B97144147936178
-  Saguenay--Lac-Saint-JeanAdm2CAN:
-    admin_name: Saguenay--Lac-Saint-Jean
-    iso3c: CAN
-    shapeID: 811477B62930517088497
-  SaintJohn--St.StephenAdm2CAN:
-    admin_name: SaintJohn--St.Stephen
-    iso3c: CAN
-    shapeID: 811477B20578745802052
-  SaskatchewanAdm1CAN:
-    admin_name: Saskatchewan
-    iso3c: CAN
-    shapeID: 82249235B71336988791422
-  Saskatoon--BiggarAdm2CAN:
-    admin_name: Saskatoon--Biggar
-    iso3c: CAN
-    shapeID: 811477B54517357907665
-  SouthCentral/CentresudAdm2CAN:
-    admin_name: SouthCentral/Centresud
-    iso3c: CAN
-    shapeID: 811477B19193173809350
-  SouthCoast--BurinPeninsula*Adm2CAN:
-    admin_name: SouthCoast--BurinPeninsula*
-    iso3c: CAN
-    shapeID: 811477B14604882174662
-  Southeast/Sud-estAdm2CAN:
-    admin_name: Southeast/Sud-est
-    iso3c: CAN
-    shapeID: 811477B90779498920420
-  Southern/SudAdm2CAN:
-    admin_name: Southern/Sud
-    iso3c: CAN
-    shapeID: 811477B76043940988669
-  Southwest/Sud-ouestAdm2CAN:
-    admin_name: Southwest/Sud-ouest
-    iso3c: CAN
-    shapeID: 811477B58273447448360
-  Stratford--BrucePeninsulaAdm2CAN:
-    admin_name: Stratford--BrucePeninsula
-    iso3c: CAN
-    shapeID: 811477B72757593156703
-  SwiftCurrent--MooseJawAdm2CAN:
-    admin_name: SwiftCurrent--MooseJaw
-    iso3c: CAN
-    shapeID: 811477B43465870880660
-  Thompson--OkanaganAdm2CAN:
-    admin_name: Thompson--Okanagan
-    iso3c: CAN
-    shapeID: 811477B2093292378449
-  TorontoAdm2CAN:
-    admin_name: Toronto
-    iso3c: CAN
-    shapeID: 811477B53273056717807
-  VancouverIslandandCoast/*Adm2CAN:
-    admin_name: VancouverIslandandCoast/*
-    iso3c: CAN
-    shapeID: 811477B94175417420797
-  WestCoast--NorthernPeninsul*Adm2CAN:
-    admin_name: WestCoast--NorthernPeninsul*
-    iso3c: CAN
-    shapeID: 811477B46540851018078
-  Windsor--SarniaAdm2CAN:
-    admin_name: Windsor--Sarnia
-    iso3c: CAN
-    shapeID: 811477B8793422234582
-  WinnipegAdm2CAN:
-    admin_name: Winnipeg
-    iso3c: CAN
-    shapeID: 811477B32893838170945
-  WoodBuffalo--ColdLakeAdm2CAN:
-    admin_name: WoodBuffalo--ColdLake
-    iso3c: CAN
-    shapeID: 811477B63130221502848
-  Yorkton--MelvilleAdm2CAN:
-    admin_name: Yorkton--Melville
-    iso3c: CAN
-    shapeID: 811477B87665829892242
-  YukonAdm1CAN:
+    admin_level: Adm1
     admin_name: Yukon
-    iso3c: CAN
     shapeID: 82249235B9619254975586
-  YukonAdm2CAN:
-    admin_name: Yukon
+    country_name: Canada
+  Canada_Adm1_12:
     iso3c: CAN
+    admin_level: Adm1
+    admin_name: NorthwestTerritories
+    shapeID: 82249235B82395866892480
+    country_name: Canada
+  Canada_Adm1_13:
+    iso3c: CAN
+    admin_level: Adm1
+    admin_name: Nunavut
+    shapeID: 82249235B23927232378620
+    country_name: Canada
+  Canada_Adm1_2:
+    iso3c: CAN
+    admin_level: Adm1
+    admin_name: PrinceEdwardIsland
+    shapeID: 82249235B3191732862561
+    country_name: Canada
+  Canada_Adm1_3:
+    iso3c: CAN
+    admin_level: Adm1
+    admin_name: NovaScotia
+    shapeID: 82249235B69645938038492
+    country_name: Canada
+  Canada_Adm1_4:
+    iso3c: CAN
+    admin_level: Adm1
+    admin_name: NewBrunswick
+    shapeID: 82249235B4167839012994
+    country_name: Canada
+  Canada_Adm1_5:
+    iso3c: CAN
+    admin_level: Adm1
+    admin_name: Quebec
+    shapeID: 82249235B52639524229375
+    country_name: Canada
+  Canada_Adm1_6:
+    iso3c: CAN
+    admin_level: Adm1
+    admin_name: Ontario
+    shapeID: 82249235B66370767641120
+    country_name: Canada
+  Canada_Adm1_7:
+    iso3c: CAN
+    admin_level: Adm1
+    admin_name: Manitoba
+    shapeID: 82249235B50381585000441
+    country_name: Canada
+  Canada_Adm1_8:
+    iso3c: CAN
+    admin_level: Adm1
+    admin_name: Saskatchewan
+    shapeID: 82249235B71336988791422
+    country_name: Canada
+  Canada_Adm1_9:
+    iso3c: CAN
+    admin_level: Adm1
+    admin_name: Alberta
+    shapeID: 82249235B5553315981608
+    country_name: Canada
+  Canada_Adm2_1:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: AvalonPeninsula
+    shapeID: 811477B25825438233887
+    country_name: Canada
+  Canada_Adm2_10:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Halifax
+    shapeID: 811477B772229677818
+    country_name: Canada
+  Canada_Adm2_11:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Campbellton--Miramichi
+    shapeID: 811477B32681806603113
+    country_name: Canada
+  Canada_Adm2_12:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Moncton--Richibucto
+    shapeID: 811477B10091051232665
+    country_name: Canada
+  Canada_Adm2_13:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: SaintJohn--St.Stephen
+    shapeID: 811477B20578745802052
+    country_name: Canada
+  Canada_Adm2_14:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Fredericton--Oromocto
+    shapeID: 811477B77394279181451
+    country_name: Canada
+  Canada_Adm2_15:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Edmundston--Woodstock
+    shapeID: 811477B2528613177772
+    country_name: Canada
+  Canada_Adm2_16:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Gaspésie--Îles-de-la-Madelei
+    shapeID: 811477B83690670726478
+    country_name: Canada
+  Canada_Adm2_17:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Bas-Saint-Laurent
+    shapeID: 811477B72713062491295
+    country_name: Canada
+  Canada_Adm2_18:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Capitale-Nationale
+    shapeID: 811477B76079196680342
+    country_name: Canada
+  Canada_Adm2_19:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Chaudière-Appalaches
+    shapeID: 811477B14378531582745
+    country_name: Canada
+  Canada_Adm2_2:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: SouthCoast--BurinPeninsula*
+    shapeID: 811477B14604882174662
+    country_name: Canada
+  Canada_Adm2_20:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Estrie
+    shapeID: 811477B23883248376492
+    country_name: Canada
+  Canada_Adm2_21:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Centre-du-Québec
+    shapeID: 811477B16566430177620
+    country_name: Canada
+  Canada_Adm2_22:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Montérégie
+    shapeID: 811477B95270130907669
+    country_name: Canada
+  Canada_Adm2_23:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Montréal
+    shapeID: 811477B39607873934599
+    country_name: Canada
+  Canada_Adm2_24:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Laval
+    shapeID: 811477B18310257364605
+    country_name: Canada
+  Canada_Adm2_25:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Lanaudière
+    shapeID: 811477B25883499067211
+    country_name: Canada
+  Canada_Adm2_26:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Laurentides
+    shapeID: 811477B98251236727118
+    country_name: Canada
+  Canada_Adm2_27:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Outaouais
+    shapeID: 811477B56871273530804
+    country_name: Canada
+  Canada_Adm2_28:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Abitibi-Témiscamingue
+    shapeID: 811477B53502850558917
+    country_name: Canada
+  Canada_Adm2_29:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Mauricie
+    shapeID: 811477B9927765921058
+    country_name: Canada
+  Canada_Adm2_3:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: WestCoast--NorthernPeninsul*
+    shapeID: 811477B46540851018078
+    country_name: Canada
+  Canada_Adm2_30:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Saguenay--Lac-Saint-Jean
+    shapeID: 811477B62930517088497
+    country_name: Canada
+  Canada_Adm2_31:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Côte-Nord
+    shapeID: 811477B28478756836533
+    country_name: Canada
+  Canada_Adm2_32:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Nord-du-Québec
+    shapeID: 811477B94098391205928
+    country_name: Canada
+  Canada_Adm2_33:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Ottawa
+    shapeID: 811477B85931941465938
+    country_name: Canada
+  Canada_Adm2_34:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Kingston--Pembroke
+    shapeID: 811477B62189271457838
+    country_name: Canada
+  Canada_Adm2_35:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Muskoka--Kawarthas
+    shapeID: 811477B35801915414510
+    country_name: Canada
+  Canada_Adm2_36:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Toronto
+    shapeID: 811477B53273056717807
+    country_name: Canada
+  Canada_Adm2_37:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Kitchener--Waterloo--Barrie
+    shapeID: 811477B58259401373998
+    country_name: Canada
+  Canada_Adm2_38:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Hamilton--NiagaraPeninsula
+    shapeID: 811477B46333473777628
+    country_name: Canada
+  Canada_Adm2_39:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: London
+    shapeID: 811477B53026526686124
+    country_name: Canada
+  Canada_Adm2_4:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: NotreDame--CentralBonavista*
+    shapeID: 811477B90164277950663
+    country_name: Canada
+  Canada_Adm2_40:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Windsor--Sarnia
+    shapeID: 811477B8793422234582
+    country_name: Canada
+  Canada_Adm2_41:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Stratford--BrucePeninsula
+    shapeID: 811477B72757593156703
+    country_name: Canada
+  Canada_Adm2_42:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Northeast/Nord-est
+    shapeID: 811477B61209589162148
+    country_name: Canada
+  Canada_Adm2_43:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Northwest/Nord-ouest
+    shapeID: 811477B31854329878233
+    country_name: Canada
+  Canada_Adm2_44:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Southeast/Sud-est
+    shapeID: 811477B90779498920420
+    country_name: Canada
+  Canada_Adm2_45:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: SouthCentral/Centresud
+    shapeID: 811477B19193173809350
+    country_name: Canada
+  Canada_Adm2_46:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Southwest/Sud-ouest
+    shapeID: 811477B58273447448360
+    country_name: Canada
+  Canada_Adm2_47:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: NorthCentral/Centrenord
+    shapeID: 811477B41271029806166
+    country_name: Canada
+  Canada_Adm2_48:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Winnipeg
+    shapeID: 811477B32893838170945
+    country_name: Canada
+  Canada_Adm2_49:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Interlake
+    shapeID: 811477B58370498971014
+    country_name: Canada
+  Canada_Adm2_5:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: PrinceEdwardIsland/Île-du
+    shapeID: 811477B18636492208722
+    country_name: Canada
+  Canada_Adm2_50:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Parklands
+    shapeID: 811477B68585470358091
+    country_name: Canada
+  Canada_Adm2_51:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: North/Nord
+    shapeID: 811477B37780591803874
+    country_name: Canada
+  Canada_Adm2_52:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Regina--MooseMountain
+    shapeID: 811477B97144147936178
+    country_name: Canada
+  Canada_Adm2_53:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: SwiftCurrent--MooseJaw
+    shapeID: 811477B43465870880660
+    country_name: Canada
+  Canada_Adm2_54:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Saskatoon--Biggar
+    shapeID: 811477B54517357907665
+    country_name: Canada
+  Canada_Adm2_55:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Yorkton--Melville
+    shapeID: 811477B87665829892242
+    country_name: Canada
+  Canada_Adm2_56:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: PrinceAlbert
+    shapeID: 811477B12991983427491
+    country_name: Canada
+  Canada_Adm2_57:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Northern/Nord
+    shapeID: 811477B84145681599203
+    country_name: Canada
+  Canada_Adm2_58:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Lethbridge--MedicineHat
+    shapeID: 811477B22056200748647
+    country_name: Canada
+  Canada_Adm2_59:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Camrose--Drumheller
+    shapeID: 811477B18963105531300
+    country_name: Canada
+  Canada_Adm2_6:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: CapeBreton
+    shapeID: 811477B34653806269140
+    country_name: Canada
+  Canada_Adm2_60:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Calgary
+    shapeID: 811477B63096276247091
+    country_name: Canada
+  Canada_Adm2_61:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Banff--Jasper--RockyMountain*
+    shapeID: 811477B6794370445536
+    country_name: Canada
+  Canada_Adm2_62:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: RedDeer
+    shapeID: 811477B36928320026762
+    country_name: Canada
+  Canada_Adm2_63:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Edmonton
+    shapeID: 811477B65555147330187
+    country_name: Canada
+  Canada_Adm2_64:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Athabasca--GrandePrairie--Pe*
+    shapeID: 811477B52238301703097
+    country_name: Canada
+  Canada_Adm2_65:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: WoodBuffalo--ColdLake
+    shapeID: 811477B63130221502848
+    country_name: Canada
+  Canada_Adm2_66:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: VancouverIslandandCoast/*
+    shapeID: 811477B94175417420797
+    country_name: Canada
+  Canada_Adm2_67:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: LowerMainland--Southwest/L*
+    shapeID: 811477B92979298111038
+    country_name: Canada
+  Canada_Adm2_68:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Thompson--Okanagan
+    shapeID: 811477B2093292378449
+    country_name: Canada
+  Canada_Adm2_69:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Kootenay
+    shapeID: 811477B17102347998990
+    country_name: Canada
+  Canada_Adm2_7:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: NorthShore/Côte-nord
+    shapeID: 811477B41230698537605
+    country_name: Canada
+  Canada_Adm2_70:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Cariboo
+    shapeID: 811477B16322503842714
+    country_name: Canada
+  Canada_Adm2_71:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: NorthCoast/Côte-nord
+    shapeID: 811477B51248410947811
+    country_name: Canada
+  Canada_Adm2_72:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Nechako
+    shapeID: 811477B50846318398433
+    country_name: Canada
+  Canada_Adm2_73:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Northeast/Nord-est
+    shapeID: 811477B20348079294456
+    country_name: Canada
+  Canada_Adm2_74:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Yukon
     shapeID: 811477B48084920918321
+    country_name: Canada
+  Canada_Adm2_75:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: NorthwestTerritories/Terri*
+    shapeID: 811477B98274245708554
+    country_name: Canada
+  Canada_Adm2_76:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Nunavut
+    shapeID: 811477B26547766372806
+    country_name: Canada
+  Canada_Adm2_8:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: AnnapolisValley
+    shapeID: 811477B46471323661826
+    country_name: Canada
+  Canada_Adm2_9:
+    iso3c: CAN
+    admin_level: Adm2
+    admin_name: Southern/Sud
+    shapeID: 811477B76043940988669
+    country_name: Canada

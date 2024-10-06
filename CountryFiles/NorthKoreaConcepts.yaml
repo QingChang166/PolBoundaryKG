@@ -1,763 +1,1147 @@
 concepts:
-  AnakAdm2PRK:
-    admin_name: Anak
+  NorthKorea_Adm0:
     iso3c: PRK
-    shapeID: 82179303B532613620970
-  AnbyonAdm2PRK:
-    admin_name: Anbyon
+    admin_level: Adm0
+    admin_name: DemocraticPeoplesRepublicofKorea(the)
+    shapeID: 24118357B21972569762374
+    country_name: NorthKorea
+  NorthKorea_Adm1_1:
     iso3c: PRK
-    shapeID: 82179303B46901799029181
-  AnjuCityAdm2PRK:
-    admin_name: AnjuCity
-    iso3c: PRK
-    shapeID: 82179303B77985943192226
-  ChangdoAdm2PRK:
-    admin_name: Changdo
-    iso3c: PRK
-    shapeID: 82179303B43918374415643
-  ChangsongAdm2PRK:
-    admin_name: Changsong
-    iso3c: PRK
-    shapeID: 82179303B23970649452661
-  ChollimaAdm2PRK:
-    admin_name: Chollima
-    iso3c: PRK
-    shapeID: 82179303B23985566152661
-  CholsanAdm2PRK:
-    admin_name: Cholsan
-    iso3c: PRK
-    shapeID: 82179303B45759472884401
-  CholwonAdm2PRK:
-    admin_name: Cholwon
-    iso3c: PRK
-    shapeID: 82179303B128003605723
-  ChongdanAdm2PRK:
-    admin_name: Chongdan
-    iso3c: PRK
-    shapeID: 82179303B18505219089610
-  ChongjinCityAdm2PRK:
-    admin_name: ChongjinCity
-    iso3c: PRK
-    shapeID: 82179303B21659587132529
-  ChongnamAdm2PRK:
-    admin_name: Chongnam
-    iso3c: PRK
-    shapeID: 82179303B42180748236160
-  ChonmaAdm2PRK:
-    admin_name: Chonma
-    iso3c: PRK
-    shapeID: 82179303B45554830914621
-  ChonnaeAdm2PRK:
-    admin_name: Chonnae
-    iso3c: PRK
-    shapeID: 82179303B51352172049621
-  ChosanAdm2PRK:
-    admin_name: Chosan
-    iso3c: PRK
-    shapeID: 82179303B68159150924260
-  HaejuCityAdm2PRK:
-    admin_name: HaejuCity
-    iso3c: PRK
-    shapeID: 82179303B26132853361668
-  HamhungCityAdm2PRK:
-    admin_name: HamhungCity
-    iso3c: PRK
-    shapeID: 82179303B86824596043159
-  HamjuAdm2PRK:
-    admin_name: Hamju
-    iso3c: PRK
-    shapeID: 82179303B5529079256515
-  HochonAdm2PRK:
-    admin_name: Hochon
-    iso3c: PRK
-    shapeID: 82179303B14875494019042
-  HoechangAdm2PRK:
-    admin_name: Hoechang
-    iso3c: PRK
-    shapeID: 82179303B89029266614527
-  HoeryongCityAdm2PRK:
-    admin_name: HoeryongCity
-    iso3c: PRK
-    shapeID: 82179303B62276356715792
-  HoeyangAdm2PRK:
-    admin_name: Hoeyang
-    iso3c: PRK
-    shapeID: 82179303B10482682881188
-  HongwonAdm2PRK:
-    admin_name: Hongwon
-    iso3c: PRK
-    shapeID: 82179303B34267251323335
-  HuichonCityAdm2PRK:
-    admin_name: HuichonCity
-    iso3c: PRK
-    shapeID: 82179303B50455397600006
-  HwadaeAdm2PRK:
-    admin_name: Hwadae
-    iso3c: PRK
-    shapeID: 82179303B21594878793257
-  HwangjuAdm2PRK:
-    admin_name: Hwangju
-    iso3c: PRK
-    shapeID: 82179303B1056018992840
-  HwaphyongAdm2PRK:
-    admin_name: Hwaphyong
-    iso3c: PRK
-    shapeID: 82179303B2578505364646
-  HyangsanAdm2PRK:
-    admin_name: Hyangsan
-    iso3c: PRK
-    shapeID: 82179303B99713456197263
-  HyesanCityAdm2PRK:
-    admin_name: HyesanCity
-    iso3c: PRK
-    shapeID: 82179303B10222488142424
-  IchonAdm2PRK:
-    admin_name: Ichon
-    iso3c: PRK
-    shapeID: 82179303B59888018028618
-  JaerongAdm2PRK:
-    admin_name: Jaerong
-    iso3c: PRK
-    shapeID: 82179303B97817957609730
-  JagangAdm1PRK:
+    admin_level: Adm1
     admin_name: Jagang
-    iso3c: PRK
     shapeID: 3916807B5646338397672
-  JanggangAdm2PRK:
-    admin_name: Janggang
+    country_name: NorthKorea
+  NorthKorea_Adm1_10:
     iso3c: PRK
-    shapeID: 82179303B52063530776064
-  JangjinAdm2PRK:
-    admin_name: Jangjin
-    iso3c: PRK
-    shapeID: 82179303B63049631124183
-  JangphungAdm2PRK:
-    admin_name: Jangphung
-    iso3c: PRK
-    shapeID: 82179303B70820658627831
-  JangyonAdm2PRK:
-    admin_name: Jangyon
-    iso3c: PRK
-    shapeID: 82179303B35312856855320
-  JasongAdm2PRK:
-    admin_name: Jasong
-    iso3c: PRK
-    shapeID: 82179303B8327085431714
-  JonchonAdm2PRK:
-    admin_name: Jonchon
-    iso3c: PRK
-    shapeID: 82179303B33919717050875
-  JongjuCityAdm2PRK:
-    admin_name: JongjuCity
-    iso3c: PRK
-    shapeID: 82179303B20654085451729
-  JongphyongAdm2PRK:
-    admin_name: Jongphyong
-    iso3c: PRK
-    shapeID: 82179303B98077140175950
-  JunggangAdm2PRK:
-    admin_name: Junggang
-    iso3c: PRK
-    shapeID: 82179303B78642437827574
-  JunghwaAdm2PRK:
-    admin_name: Junghwa
-    iso3c: PRK
-    shapeID: 82179303B90038198338897
-  JungsanAdm2PRK:
-    admin_name: Jungsan
-    iso3c: PRK
-    shapeID: 82179303B67987786077582
-  KabsanAdm2PRK:
-    admin_name: Kabsan
-    iso3c: PRK
-    shapeID: 82179303B90819617668456
-  KaechonCityAdm2PRK:
-    admin_name: KaechonCity
-    iso3c: PRK
-    shapeID: 82179303B11143169061479
-  KaesongCityAdm2PRK:
-    admin_name: KaesongCity
-    iso3c: PRK
-    shapeID: 82179303B5428034439323
-  KangdongAdm2PRK:
-    admin_name: Kangdong
-    iso3c: PRK
-    shapeID: 82179303B54519262383509
-  KanggyeCityAdm2PRK:
-    admin_name: KanggyeCity
-    iso3c: PRK
-    shapeID: 82179303B59934044847437
-  KangnamAdm2PRK:
-    admin_name: Kangnam
-    iso3c: PRK
-    shapeID: 82179303B41089875582012
-  KangryongAdm2PRK:
-    admin_name: Kangryong
-    iso3c: PRK
-    shapeID: 82179303B5734042978537
-  KangsoAdm2PRK:
-    admin_name: Kangso
-    iso3c: PRK
-    shapeID: 82179303B75449776739739
-  KangwonAdm1PRK:
-    admin_name: Kangwon
-    iso3c: PRK
-    shapeID: 3916807B60771411413787
-  KiljuAdm2PRK:
-    admin_name: Kilju
-    iso3c: PRK
-    shapeID: 82179303B12447049329197
-  KimChaekCityAdm2PRK:
-    admin_name: KimChaekCity
-    iso3c: PRK
-    shapeID: 82179303B42335507852567
-  KimhwaAdm2PRK:
-    admin_name: Kimhwa
-    iso3c: PRK
-    shapeID: 82179303B18704732408852
-  KimHyongGwonAdm2PRK:
-    admin_name: KimHyongGwon
-    iso3c: PRK
-    shapeID: 82179303B61862606891781
-  KimHyongJikAdm2PRK:
-    admin_name: KimHyongJik
-    iso3c: PRK
-    shapeID: 82179303B57298285068990
-  KimJongSukAdm2PRK:
-    admin_name: KimJongSuk
-    iso3c: PRK
-    shapeID: 82179303B38572973441712
-  KoksanAdm2PRK:
-    admin_name: Koksan
-    iso3c: PRK
-    shapeID: 82179303B26306903245930
-  KophungAdm2PRK:
-    admin_name: Kophung
-    iso3c: PRK
-    shapeID: 82179303B51910076802628
-  KosanAdm2PRK:
-    admin_name: Kosan
-    iso3c: PRK
-    shapeID: 82179303B69390699872040
-  KosongAdm2PRK:
-    admin_name: Kosong
-    iso3c: PRK
-    shapeID: 82179303B58420780140205
-  KowonAdm2PRK:
-    admin_name: Kowon
-    iso3c: PRK
-    shapeID: 82179303B22851132027505
-  KujangAdm2PRK:
-    admin_name: Kujang
-    iso3c: PRK
-    shapeID: 82179303B72462969749210
-  KumchonAdm2PRK:
-    admin_name: Kumchon
-    iso3c: PRK
-    shapeID: 82179303B1083832537536
-  KumgangAdm2PRK:
-    admin_name: Kumgang
-    iso3c: PRK
-    shapeID: 82179303B90843555893266
-  KumhoAdm2PRK:
-    admin_name: Kumho
-    iso3c: PRK
-    shapeID: 82179303B22742196001734
-  KumyaAdm2PRK:
-    admin_name: Kumya
-    iso3c: PRK
-    shapeID: 82179303B64116140751716
-  KusongCityAdm2PRK:
-    admin_name: KusongCity
-    iso3c: PRK
-    shapeID: 82179303B13626815484241
-  KwailAdm2PRK:
-    admin_name: Kwail
-    iso3c: PRK
-    shapeID: 82179303B47267328602468
-  KwaksanAdm2PRK:
-    admin_name: Kwaksan
-    iso3c: PRK
-    shapeID: 82179303B20796163774072
-  KyonghungAdm2PRK:
-    admin_name: Kyonghung
-    iso3c: PRK
-    shapeID: 82179303B15741079373395
-  KyongsongAdm2PRK:
-    admin_name: Kyongsong
-    iso3c: PRK
-    shapeID: 82179303B44322363830429
-  KyongwonAdm2PRK:
-    admin_name: Kyongwon
-    iso3c: PRK
-    shapeID: 82179303B19451054742324
-  MaengsanAdm2PRK:
-    admin_name: Maengsan
-    iso3c: PRK
-    shapeID: 82179303B43316794404011
-  ManphoCityAdm2PRK:
-    admin_name: ManphoCity
-    iso3c: PRK
-    shapeID: 82179303B45279105584010
-  MunchonCityAdm2PRK:
-    admin_name: MunchonCity
-    iso3c: PRK
-    shapeID: 82179303B61369301137013
-  MundokAdm2PRK:
-    admin_name: Mundok
-    iso3c: PRK
-    shapeID: 82179303B50652768805745
-  MusanAdm2PRK:
-    admin_name: Musan
-    iso3c: PRK
-    shapeID: 82179303B23816821783286
-  MyongchonAdm2PRK:
-    admin_name: Myongchon
-    iso3c: PRK
-    shapeID: 82179303B5816291579612
-  MyongganAdm2PRK:
-    admin_name: Myonggan
-    iso3c: PRK
-    shapeID: 82179303B68633969029735
-  NampoAdm1PRK:
-    admin_name: Nampo
-    iso3c: PRK
-    shapeID: 3916807B42842403076429
-  NampoCityAdm2PRK:
-    admin_name: NampoCity
-    iso3c: PRK
-    shapeID: 82179303B45638248322590
-  NorthHamgyongAdm1PRK:
-    admin_name: NorthHamgyong
-    iso3c: PRK
-    shapeID: 3916807B66197610677259
-  NorthHwanghaeAdm1PRK:
-    admin_name: NorthHwanghae
-    iso3c: PRK
-    shapeID: 3916807B54689859523154
-  NorthPyonganAdm1PRK:
-    admin_name: NorthPyongan
-    iso3c: PRK
-    shapeID: 3916807B80386364257881
-  NyongbyonAdm2PRK:
-    admin_name: Nyongbyon
-    iso3c: PRK
-    shapeID: 82179303B72509498170942
-  NyongwonAdm2PRK:
-    admin_name: Nyongwon
-    iso3c: PRK
-    shapeID: 82179303B95281313978448
-  OnchonAdm2PRK:
-    admin_name: Onchon
-    iso3c: PRK
-    shapeID: 82179303B53175016570528
-  OngjinAdm2PRK:
-    admin_name: Ongjin
-    iso3c: PRK
-    shapeID: 82179303B18261928237919
-  OnsongAdm2PRK:
-    admin_name: Onsong
-    iso3c: PRK
-    shapeID: 82179303B70197071761439
-  OrangAdm2PRK:
-    admin_name: Orang
-    iso3c: PRK
-    shapeID: 82179303B20024569416279
-  PaechonAdm2PRK:
-    admin_name: Paechon
-    iso3c: PRK
-    shapeID: 82179303B51934598994225
-  PaekamAdm2PRK:
-    admin_name: Paekam
-    iso3c: PRK
-    shapeID: 82179303B39212929407944
-  PakchonAdm2PRK:
-    admin_name: Pakchon
-    iso3c: PRK
-    shapeID: 82179303B99885007667227
-  PhangyoAdm2PRK:
-    admin_name: Phangyo
-    iso3c: PRK
-    shapeID: 82179303B47367102754155
-  PhihyonAdm2PRK:
-    admin_name: Phihyon
-    iso3c: PRK
-    shapeID: 82179303B32066025180418
-  PhungsoAdm2PRK:
-    admin_name: Phungso
-    iso3c: PRK
-    shapeID: 82179303B38580271965004
-  PhyonggangAdm2PRK:
-    admin_name: Phyonggang
-    iso3c: PRK
-    shapeID: 82179303B58088097152813
-  PhyongsanAdm2PRK:
-    admin_name: Phyongsan
-    iso3c: PRK
-    shapeID: 82179303B46729479227191
-  PochonAdm2PRK:
-    admin_name: Pochon
-    iso3c: PRK
-    shapeID: 82179303B51146356154870
-  PongchonAdm2PRK:
-    admin_name: Pongchon
-    iso3c: PRK
-    shapeID: 82179303B59678099693620
-  PongsanAdm2PRK:
-    admin_name: Pongsan
-    iso3c: PRK
-    shapeID: 82179303B35443402904983
-  PopdongAdm2PRK:
-    admin_name: Popdong
-    iso3c: PRK
-    shapeID: 82179303B73748645094132
-  PujonAdm2PRK:
-    admin_name: Pujon
-    iso3c: PRK
-    shapeID: 82179303B63177642668058
-  PukchangAdm2PRK:
-    admin_name: Pukchang
-    iso3c: PRK
-    shapeID: 82179303B65927505203644
-  PukchongAdm2PRK:
-    admin_name: Pukchong
-    iso3c: PRK
-    shapeID: 82179303B88623362081426
-  PuryongAdm2PRK:
-    admin_name: Puryong
-    iso3c: PRK
-    shapeID: 82179303B95814990753322
-  PyokdongAdm2PRK:
-    admin_name: Pyokdong
-    iso3c: PRK
-    shapeID: 82179303B48679015064508
-  PyoksongAdm2PRK:
-    admin_name: Pyoksong
-    iso3c: PRK
-    shapeID: 82179303B11091889229707
-  PyongsongCityAdm2PRK:
-    admin_name: PyongsongCity
-    iso3c: PRK
-    shapeID: 82179303B57975227411207
-  PyongwonAdm2PRK:
-    admin_name: Pyongwon
-    iso3c: PRK
-    shapeID: 82179303B73199246171338
-  PyongyangAdm1PRK:
-    admin_name: Pyongyang
-    iso3c: PRK
-    shapeID: 3916807B24987303688366
-  PyongyangAdm2PRK:
-    admin_name: Pyongyang
-    iso3c: PRK
-    shapeID: 82179303B55999426557094
-  RakwonAdm2PRK:
-    admin_name: Rakwon
-    iso3c: PRK
-    shapeID: 82179303B33699377246047
-  RangrimAdm2PRK:
-    admin_name: Rangrim
-    iso3c: PRK
-    shapeID: 82179303B57192008066519
-  RasonCityAdm2PRK:
-    admin_name: RasonCity
-    iso3c: PRK
-    shapeID: 82179303B91931790309769
-  RinsanAdm2PRK:
-    admin_name: Rinsan
-    iso3c: PRK
-    shapeID: 82179303B26506354510144
-  RiwonAdm2PRK:
-    admin_name: Riwon
-    iso3c: PRK
-    shapeID: 82179303B95293101027847
-  RyanggangAdm1PRK:
-    admin_name: Ryanggang
-    iso3c: PRK
-    shapeID: 3916807B2118550659035
-  RyongchonAdm2PRK:
-    admin_name: Ryongchon
-    iso3c: PRK
-    shapeID: 82179303B54196732560859
-  RyonggangAdm2PRK:
-    admin_name: Ryonggang
-    iso3c: PRK
-    shapeID: 82179303B96536489392823
-  RyongrimAdm2PRK:
-    admin_name: Ryongrim
-    iso3c: PRK
-    shapeID: 82179303B90804961571919
-  RyongyonAdm2PRK:
-    admin_name: Ryongyon
-    iso3c: PRK
-    shapeID: 82179303B51657859086197
-  SakjuAdm2PRK:
-    admin_name: Sakju
-    iso3c: PRK
-    shapeID: 82179303B80718033581165
-  SamchonAdm2PRK:
-    admin_name: Samchon
-    iso3c: PRK
-    shapeID: 82179303B40793124111890
-  SamjiyonAdm2PRK:
-    admin_name: Samjiyon
-    iso3c: PRK
-    shapeID: 82179303B58303989641607
-  SamsuAdm2PRK:
-    admin_name: Samsu
-    iso3c: PRK
-    shapeID: 82179303B33326321250637
-  SangwonAdm2PRK:
-    admin_name: Sangwon
-    iso3c: PRK
-    shapeID: 82179303B39263220364420
-  SariwonCityAdm2PRK:
-    admin_name: SariwonCity
-    iso3c: PRK
-    shapeID: 82179303B86388706464223
-  SephoAdm2PRK:
-    admin_name: Sepho
-    iso3c: PRK
-    shapeID: 82179303B30150640587931
-  SijungAdm2PRK:
-    admin_name: Sijung
-    iso3c: PRK
-    shapeID: 82179303B78887339067777
-  SinchonAdm2PRK:
-    admin_name: Sinchon
-    iso3c: PRK
-    shapeID: 82179303B96637573116833
-  SindoAdm2PRK:
-    admin_name: Sindo
-    iso3c: PRK
-    shapeID: 82179303B2981535202544
-  SinhungAdm2PRK:
-    admin_name: Sinhung
-    iso3c: PRK
-    shapeID: 82179303B53420606691311
-  SinkyeAdm2PRK:
-    admin_name: Sinkye
-    iso3c: PRK
-    shapeID: 82179303B98001602077811
-  SinphoCityAdm2PRK:
-    admin_name: SinphoCity
-    iso3c: PRK
-    shapeID: 82179303B3587564724867
-  SinphyongAdm2PRK:
-    admin_name: Sinphyong
-    iso3c: PRK
-    shapeID: 82179303B74961933380219
-  SinuijuCityAdm2PRK:
-    admin_name: SinuijuCity
-    iso3c: PRK
-    shapeID: 82179303B65076017972610
-  SinwonAdm2PRK:
-    admin_name: Sinwon
-    iso3c: PRK
-    shapeID: 82179303B41250986640334
-  SinyangAdm2PRK:
-    admin_name: Sinyang
-    iso3c: PRK
-    shapeID: 82179303B23592668869801
-  SohungAdm2PRK:
-    admin_name: Sohung
-    iso3c: PRK
-    shapeID: 82179303B44729459459193
-  SonchonAdm2PRK:
-    admin_name: Sonchon
-    iso3c: PRK
-    shapeID: 82179303B49493469146837
-  SongchonAdm2PRK:
-    admin_name: Songchon
-    iso3c: PRK
-    shapeID: 82179303B38365888495896
-  SongganAdm2PRK:
-    admin_name: Songgan
-    iso3c: PRK
-    shapeID: 82179303B82902527088629
-  SonghwaAdm2PRK:
-    admin_name: Songhwa
-    iso3c: PRK
-    shapeID: 82179303B30689671895320
-  SongrimCityAdm2PRK:
-    admin_name: SongrimCity
-    iso3c: PRK
-    shapeID: 82179303B86306184890234
-  SongwonAdm2PRK:
-    admin_name: Songwon
-    iso3c: PRK
-    shapeID: 82179303B48656719864416
-  SouthHamgyongAdm1PRK:
-    admin_name: SouthHamgyong
-    iso3c: PRK
-    shapeID: 3916807B59695090380014
-  SouthHwanghaeAdm1PRK:
+    admin_level: Adm1
     admin_name: SouthHwanghae
-    iso3c: PRK
     shapeID: 3916807B69422143587516
-  SouthPyonganAdm1PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm1_11:
+    iso3c: PRK
+    admin_level: Adm1
     admin_name: SouthPyongan
-    iso3c: PRK
     shapeID: 3916807B57216784573597
-  SuanAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm1_2:
+    iso3c: PRK
+    admin_level: Adm1
+    admin_name: Kangwon
+    shapeID: 3916807B60771411413787
+    country_name: NorthKorea
+  NorthKorea_Adm1_3:
+    iso3c: PRK
+    admin_level: Adm1
+    admin_name: Nampo
+    shapeID: 3916807B42842403076429
+    country_name: NorthKorea
+  NorthKorea_Adm1_4:
+    iso3c: PRK
+    admin_level: Adm1
+    admin_name: NorthHamgyong
+    shapeID: 3916807B66197610677259
+    country_name: NorthKorea
+  NorthKorea_Adm1_5:
+    iso3c: PRK
+    admin_level: Adm1
+    admin_name: NorthHwanghae
+    shapeID: 3916807B54689859523154
+    country_name: NorthKorea
+  NorthKorea_Adm1_6:
+    iso3c: PRK
+    admin_level: Adm1
+    admin_name: NorthPyongan
+    shapeID: 3916807B80386364257881
+    country_name: NorthKorea
+  NorthKorea_Adm1_7:
+    iso3c: PRK
+    admin_level: Adm1
+    admin_name: Pyongyang
+    shapeID: 3916807B24987303688366
+    country_name: NorthKorea
+  NorthKorea_Adm1_8:
+    iso3c: PRK
+    admin_level: Adm1
+    admin_name: Ryanggang
+    shapeID: 3916807B2118550659035
+    country_name: NorthKorea
+  NorthKorea_Adm1_9:
+    iso3c: PRK
+    admin_level: Adm1
+    admin_name: SouthHamgyong
+    shapeID: 3916807B59695090380014
+    country_name: NorthKorea
+  NorthKorea_Adm2_1:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Anak
+    shapeID: 82179303B532613620970
+    country_name: NorthKorea
+  NorthKorea_Adm2_10:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: ChongjinCity
+    shapeID: 82179303B21659587132529
+    country_name: NorthKorea
+  NorthKorea_Adm2_100:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pukchong
+    shapeID: 82179303B88623362081426
+    country_name: NorthKorea
+  NorthKorea_Adm2_101:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Puryong
+    shapeID: 82179303B95814990753322
+    country_name: NorthKorea
+  NorthKorea_Adm2_102:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pyokdong
+    shapeID: 82179303B48679015064508
+    country_name: NorthKorea
+  NorthKorea_Adm2_103:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pyoksong
+    shapeID: 82179303B11091889229707
+    country_name: NorthKorea
+  NorthKorea_Adm2_104:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: PyongsongCity
+    shapeID: 82179303B57975227411207
+    country_name: NorthKorea
+  NorthKorea_Adm2_105:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pyongwon
+    shapeID: 82179303B73199246171338
+    country_name: NorthKorea
+  NorthKorea_Adm2_106:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pyongyang
+    shapeID: 82179303B55999426557094
+    country_name: NorthKorea
+  NorthKorea_Adm2_107:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Rakwon
+    shapeID: 82179303B33699377246047
+    country_name: NorthKorea
+  NorthKorea_Adm2_108:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Rangrim
+    shapeID: 82179303B57192008066519
+    country_name: NorthKorea
+  NorthKorea_Adm2_109:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: RasonCity
+    shapeID: 82179303B91931790309769
+    country_name: NorthKorea
+  NorthKorea_Adm2_11:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Chongnam
+    shapeID: 82179303B42180748236160
+    country_name: NorthKorea
+  NorthKorea_Adm2_110:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Rinsan
+    shapeID: 82179303B26506354510144
+    country_name: NorthKorea
+  NorthKorea_Adm2_111:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Riwon
+    shapeID: 82179303B95293101027847
+    country_name: NorthKorea
+  NorthKorea_Adm2_112:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Ryongchon
+    shapeID: 82179303B54196732560859
+    country_name: NorthKorea
+  NorthKorea_Adm2_113:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Ryonggang
+    shapeID: 82179303B96536489392823
+    country_name: NorthKorea
+  NorthKorea_Adm2_114:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Ryongrim
+    shapeID: 82179303B90804961571919
+    country_name: NorthKorea
+  NorthKorea_Adm2_115:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Ryongyon
+    shapeID: 82179303B51657859086197
+    country_name: NorthKorea
+  NorthKorea_Adm2_116:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sakju
+    shapeID: 82179303B80718033581165
+    country_name: NorthKorea
+  NorthKorea_Adm2_117:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Samchon
+    shapeID: 82179303B40793124111890
+    country_name: NorthKorea
+  NorthKorea_Adm2_118:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Samjiyon
+    shapeID: 82179303B58303989641607
+    country_name: NorthKorea
+  NorthKorea_Adm2_119:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Samsu
+    shapeID: 82179303B33326321250637
+    country_name: NorthKorea
+  NorthKorea_Adm2_12:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Chonma
+    shapeID: 82179303B45554830914621
+    country_name: NorthKorea
+  NorthKorea_Adm2_120:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sangwon
+    shapeID: 82179303B39263220364420
+    country_name: NorthKorea
+  NorthKorea_Adm2_121:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: SariwonCity
+    shapeID: 82179303B86388706464223
+    country_name: NorthKorea
+  NorthKorea_Adm2_122:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sepho
+    shapeID: 82179303B30150640587931
+    country_name: NorthKorea
+  NorthKorea_Adm2_123:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sijung
+    shapeID: 82179303B78887339067777
+    country_name: NorthKorea
+  NorthKorea_Adm2_124:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sinchon
+    shapeID: 82179303B96637573116833
+    country_name: NorthKorea
+  NorthKorea_Adm2_125:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sindo
+    shapeID: 82179303B2981535202544
+    country_name: NorthKorea
+  NorthKorea_Adm2_126:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sinhung
+    shapeID: 82179303B53420606691311
+    country_name: NorthKorea
+  NorthKorea_Adm2_127:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sinkye
+    shapeID: 82179303B98001602077811
+    country_name: NorthKorea
+  NorthKorea_Adm2_128:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: SinphoCity
+    shapeID: 82179303B3587564724867
+    country_name: NorthKorea
+  NorthKorea_Adm2_129:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sinphyong
+    shapeID: 82179303B74961933380219
+    country_name: NorthKorea
+  NorthKorea_Adm2_13:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Chonnae
+    shapeID: 82179303B51352172049621
+    country_name: NorthKorea
+  NorthKorea_Adm2_130:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: SinuijuCity
+    shapeID: 82179303B65076017972610
+    country_name: NorthKorea
+  NorthKorea_Adm2_131:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sinwon
+    shapeID: 82179303B41250986640334
+    country_name: NorthKorea
+  NorthKorea_Adm2_132:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sinyang
+    shapeID: 82179303B23592668869801
+    country_name: NorthKorea
+  NorthKorea_Adm2_133:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sohung
+    shapeID: 82179303B44729459459193
+    country_name: NorthKorea
+  NorthKorea_Adm2_134:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Sonchon
+    shapeID: 82179303B49493469146837
+    country_name: NorthKorea
+  NorthKorea_Adm2_135:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Songchon
+    shapeID: 82179303B38365888495896
+    country_name: NorthKorea
+  NorthKorea_Adm2_136:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Songgan
+    shapeID: 82179303B82902527088629
+    country_name: NorthKorea
+  NorthKorea_Adm2_137:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Songhwa
+    shapeID: 82179303B30689671895320
+    country_name: NorthKorea
+  NorthKorea_Adm2_138:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: SongrimCity
+    shapeID: 82179303B86306184890234
+    country_name: NorthKorea
+  NorthKorea_Adm2_139:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Songwon
+    shapeID: 82179303B48656719864416
+    country_name: NorthKorea
+  NorthKorea_Adm2_14:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Chosan
+    shapeID: 82179303B68159150924260
+    country_name: NorthKorea
+  NorthKorea_Adm2_140:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Suan
-    iso3c: PRK
     shapeID: 82179303B93868129225348
-  SudongAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_141:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Sudong
-    iso3c: PRK
     shapeID: 82179303B18733431209554
-  SukchonAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_142:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Sukchon
-    iso3c: PRK
     shapeID: 82179303B55497026765088
-  SunchonCityAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_143:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: SunchonCity
-    iso3c: PRK
     shapeID: 82179303B13009461499859
-  TaeanAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_144:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Taean
-    iso3c: PRK
     shapeID: 82179303B55886689837874
-  TaedongAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_145:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Taedong
-    iso3c: PRK
     shapeID: 82179303B2846476233094
-  TaegwanAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_146:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Taegwan
-    iso3c: PRK
     shapeID: 82179303B79358107253704
-  TaehongdanAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_147:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Taehongdan
-    iso3c: PRK
     shapeID: 82179303B43556128459055
-  TaehungAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_148:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Taehung
-    iso3c: PRK
     shapeID: 82179303B83506580076946
-  TanchonCityAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_149:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: TanchonCity
-    iso3c: PRK
     shapeID: 82179303B77244062124892
-  ThaechonAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_15:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: HaejuCity
+    shapeID: 82179303B26132853361668
+    country_name: NorthKorea
+  NorthKorea_Adm2_150:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Thaechon
-    iso3c: PRK
     shapeID: 82179303B82011588476807
-  ThaethanAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_151:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Thaethan
-    iso3c: PRK
     shapeID: 82179303B3017694876336
-  ThongchonAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_152:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Thongchon
-    iso3c: PRK
     shapeID: 82179303B46927697528233
-  ThosanAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_153:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Thosan
-    iso3c: PRK
     shapeID: 82179303B9528454471639
-  TokchonCityAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_154:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: TokchonCity
-    iso3c: PRK
     shapeID: 82179303B91694454499505
-  ToksongAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_155:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Toksong
-    iso3c: PRK
     shapeID: 82179303B35188226848964
-  TongchangAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_156:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Tongchang
-    iso3c: PRK
     shapeID: 82179303B87943019672886
-  TongrimAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_157:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Tongrim
-    iso3c: PRK
     shapeID: 82179303B24369360194646
-  TongsinAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_158:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Tongsin
-    iso3c: PRK
     shapeID: 82179303B24749722055654
-  TukjangAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_159:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Tukjang
-    iso3c: PRK
     shapeID: 82179303B96835998752740
-  UijuAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_16:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: HamhungCity
+    shapeID: 82179303B86824596043159
+    country_name: NorthKorea
+  NorthKorea_Adm2_160:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Uiju
-    iso3c: PRK
     shapeID: 82179303B2030756807209
-  UnchonAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_161:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Unchon
-    iso3c: PRK
     shapeID: 82179303B30475034164158
-  UnhungAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_162:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Unhung
-    iso3c: PRK
     shapeID: 82179303B62384537244682
-  UnjonAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_163:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Unjon
-    iso3c: PRK
     shapeID: 82179303B11827018498152
-  UnjongDist.Adm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_164:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: UnjongDist.
-    iso3c: PRK
     shapeID: 82179303B85891331606678
-  UnphaAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_165:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Unpha
-    iso3c: PRK
     shapeID: 82179303B22390657322605
-  UnryulAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_166:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Unryul
-    iso3c: PRK
     shapeID: 82179303B17598108149664
-  UnsanAdm2PRK:
-    admin_name:
-    - Unsan
-    - Unsan
-    iso3c:
-    - PRK
-    - PRK
-    shapeID:
-    - 82179303B31233151456599
-    - 82179303B62623868631396
-  UsiAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_167:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Unsan
+    shapeID: 82179303B31233151456599
+    country_name: NorthKorea
+  NorthKorea_Adm2_168:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Unsan
+    shapeID: 82179303B62623868631396
+    country_name: NorthKorea
+  NorthKorea_Adm2_169:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Usi
-    iso3c: PRK
     shapeID: 82179303B10804861284408
-  WiwonAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_17:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Hamju
+    shapeID: 82179303B5529079256515
+    country_name: NorthKorea
+  NorthKorea_Adm2_170:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Wiwon
-    iso3c: PRK
     shapeID: 82179303B10108678790042
-  WonsanCityAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_171:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: WonsanCity
-    iso3c: PRK
     shapeID: 82179303B41531617373143
-  YangdokAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_172:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Yangdok
-    iso3c: PRK
     shapeID: 82179303B23606982482595
-  YodokAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_173:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Yodok
-    iso3c: PRK
     shapeID: 82179303B84023939599766
-  YomjuAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_174:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Yomju
-    iso3c: PRK
     shapeID: 82179303B57222251804338
-  YonanAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_175:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Yonan
-    iso3c: PRK
     shapeID: 82179303B35883429877711
-  YonggwangAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_176:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Yonggwang
-    iso3c: PRK
     shapeID: 82179303B97977133847329
-  YonsaAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_177:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Yonsa
-    iso3c: PRK
     shapeID: 82179303B76324542059269
-  YonsanAdm2PRK:
+    country_name: NorthKorea
+  NorthKorea_Adm2_178:
+    iso3c: PRK
+    admin_level: Adm2
     admin_name: Yonsan
-    iso3c: PRK
     shapeID: 82179303B92685512874627
-  YonthanAdm2PRK:
-    admin_name: Yonthan
+    country_name: NorthKorea
+  NorthKorea_Adm2_179:
     iso3c: PRK
+    admin_level: Adm2
+    admin_name: Yonthan
     shapeID: 82179303B91092350263646
+    country_name: NorthKorea
+  NorthKorea_Adm2_18:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Hochon
+    shapeID: 82179303B14875494019042
+    country_name: NorthKorea
+  NorthKorea_Adm2_19:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Hoechang
+    shapeID: 82179303B89029266614527
+    country_name: NorthKorea
+  NorthKorea_Adm2_2:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Anbyon
+    shapeID: 82179303B46901799029181
+    country_name: NorthKorea
+  NorthKorea_Adm2_20:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: HoeryongCity
+    shapeID: 82179303B62276356715792
+    country_name: NorthKorea
+  NorthKorea_Adm2_21:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Hoeyang
+    shapeID: 82179303B10482682881188
+    country_name: NorthKorea
+  NorthKorea_Adm2_22:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Hongwon
+    shapeID: 82179303B34267251323335
+    country_name: NorthKorea
+  NorthKorea_Adm2_23:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: HuichonCity
+    shapeID: 82179303B50455397600006
+    country_name: NorthKorea
+  NorthKorea_Adm2_24:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Hwadae
+    shapeID: 82179303B21594878793257
+    country_name: NorthKorea
+  NorthKorea_Adm2_25:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Hwangju
+    shapeID: 82179303B1056018992840
+    country_name: NorthKorea
+  NorthKorea_Adm2_26:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Hwaphyong
+    shapeID: 82179303B2578505364646
+    country_name: NorthKorea
+  NorthKorea_Adm2_27:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Hyangsan
+    shapeID: 82179303B99713456197263
+    country_name: NorthKorea
+  NorthKorea_Adm2_28:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: HyesanCity
+    shapeID: 82179303B10222488142424
+    country_name: NorthKorea
+  NorthKorea_Adm2_29:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Ichon
+    shapeID: 82179303B59888018028618
+    country_name: NorthKorea
+  NorthKorea_Adm2_3:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: AnjuCity
+    shapeID: 82179303B77985943192226
+    country_name: NorthKorea
+  NorthKorea_Adm2_30:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Jaerong
+    shapeID: 82179303B97817957609730
+    country_name: NorthKorea
+  NorthKorea_Adm2_31:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Janggang
+    shapeID: 82179303B52063530776064
+    country_name: NorthKorea
+  NorthKorea_Adm2_32:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Jangjin
+    shapeID: 82179303B63049631124183
+    country_name: NorthKorea
+  NorthKorea_Adm2_33:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Jangphung
+    shapeID: 82179303B70820658627831
+    country_name: NorthKorea
+  NorthKorea_Adm2_34:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Jangyon
+    shapeID: 82179303B35312856855320
+    country_name: NorthKorea
+  NorthKorea_Adm2_35:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Jasong
+    shapeID: 82179303B8327085431714
+    country_name: NorthKorea
+  NorthKorea_Adm2_36:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Jonchon
+    shapeID: 82179303B33919717050875
+    country_name: NorthKorea
+  NorthKorea_Adm2_37:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: JongjuCity
+    shapeID: 82179303B20654085451729
+    country_name: NorthKorea
+  NorthKorea_Adm2_38:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Jongphyong
+    shapeID: 82179303B98077140175950
+    country_name: NorthKorea
+  NorthKorea_Adm2_39:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Junggang
+    shapeID: 82179303B78642437827574
+    country_name: NorthKorea
+  NorthKorea_Adm2_4:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Changdo
+    shapeID: 82179303B43918374415643
+    country_name: NorthKorea
+  NorthKorea_Adm2_40:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Junghwa
+    shapeID: 82179303B90038198338897
+    country_name: NorthKorea
+  NorthKorea_Adm2_41:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Jungsan
+    shapeID: 82179303B67987786077582
+    country_name: NorthKorea
+  NorthKorea_Adm2_42:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kabsan
+    shapeID: 82179303B90819617668456
+    country_name: NorthKorea
+  NorthKorea_Adm2_43:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: KaechonCity
+    shapeID: 82179303B11143169061479
+    country_name: NorthKorea
+  NorthKorea_Adm2_44:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: KaesongCity
+    shapeID: 82179303B5428034439323
+    country_name: NorthKorea
+  NorthKorea_Adm2_45:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kangdong
+    shapeID: 82179303B54519262383509
+    country_name: NorthKorea
+  NorthKorea_Adm2_46:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: KanggyeCity
+    shapeID: 82179303B59934044847437
+    country_name: NorthKorea
+  NorthKorea_Adm2_47:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kangnam
+    shapeID: 82179303B41089875582012
+    country_name: NorthKorea
+  NorthKorea_Adm2_48:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kangryong
+    shapeID: 82179303B5734042978537
+    country_name: NorthKorea
+  NorthKorea_Adm2_49:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kangso
+    shapeID: 82179303B75449776739739
+    country_name: NorthKorea
+  NorthKorea_Adm2_5:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Changsong
+    shapeID: 82179303B23970649452661
+    country_name: NorthKorea
+  NorthKorea_Adm2_50:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kilju
+    shapeID: 82179303B12447049329197
+    country_name: NorthKorea
+  NorthKorea_Adm2_51:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: KimChaekCity
+    shapeID: 82179303B42335507852567
+    country_name: NorthKorea
+  NorthKorea_Adm2_52:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: KimHyongGwon
+    shapeID: 82179303B61862606891781
+    country_name: NorthKorea
+  NorthKorea_Adm2_53:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: KimHyongJik
+    shapeID: 82179303B57298285068990
+    country_name: NorthKorea
+  NorthKorea_Adm2_54:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: KimJongSuk
+    shapeID: 82179303B38572973441712
+    country_name: NorthKorea
+  NorthKorea_Adm2_55:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kimhwa
+    shapeID: 82179303B18704732408852
+    country_name: NorthKorea
+  NorthKorea_Adm2_56:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Koksan
+    shapeID: 82179303B26306903245930
+    country_name: NorthKorea
+  NorthKorea_Adm2_57:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kophung
+    shapeID: 82179303B51910076802628
+    country_name: NorthKorea
+  NorthKorea_Adm2_58:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kosan
+    shapeID: 82179303B69390699872040
+    country_name: NorthKorea
+  NorthKorea_Adm2_59:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kosong
+    shapeID: 82179303B58420780140205
+    country_name: NorthKorea
+  NorthKorea_Adm2_6:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Chollima
+    shapeID: 82179303B23985566152661
+    country_name: NorthKorea
+  NorthKorea_Adm2_60:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kowon
+    shapeID: 82179303B22851132027505
+    country_name: NorthKorea
+  NorthKorea_Adm2_61:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kujang
+    shapeID: 82179303B72462969749210
+    country_name: NorthKorea
+  NorthKorea_Adm2_62:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kumchon
+    shapeID: 82179303B1083832537536
+    country_name: NorthKorea
+  NorthKorea_Adm2_63:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kumgang
+    shapeID: 82179303B90843555893266
+    country_name: NorthKorea
+  NorthKorea_Adm2_64:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kumho
+    shapeID: 82179303B22742196001734
+    country_name: NorthKorea
+  NorthKorea_Adm2_65:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kumya
+    shapeID: 82179303B64116140751716
+    country_name: NorthKorea
+  NorthKorea_Adm2_66:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: KusongCity
+    shapeID: 82179303B13626815484241
+    country_name: NorthKorea
+  NorthKorea_Adm2_67:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kwail
+    shapeID: 82179303B47267328602468
+    country_name: NorthKorea
+  NorthKorea_Adm2_68:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kwaksan
+    shapeID: 82179303B20796163774072
+    country_name: NorthKorea
+  NorthKorea_Adm2_69:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kyonghung
+    shapeID: 82179303B15741079373395
+    country_name: NorthKorea
+  NorthKorea_Adm2_7:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Cholsan
+    shapeID: 82179303B45759472884401
+    country_name: NorthKorea
+  NorthKorea_Adm2_70:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kyongsong
+    shapeID: 82179303B44322363830429
+    country_name: NorthKorea
+  NorthKorea_Adm2_71:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Kyongwon
+    shapeID: 82179303B19451054742324
+    country_name: NorthKorea
+  NorthKorea_Adm2_72:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Maengsan
+    shapeID: 82179303B43316794404011
+    country_name: NorthKorea
+  NorthKorea_Adm2_73:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: ManphoCity
+    shapeID: 82179303B45279105584010
+    country_name: NorthKorea
+  NorthKorea_Adm2_74:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: MunchonCity
+    shapeID: 82179303B61369301137013
+    country_name: NorthKorea
+  NorthKorea_Adm2_75:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Mundok
+    shapeID: 82179303B50652768805745
+    country_name: NorthKorea
+  NorthKorea_Adm2_76:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Musan
+    shapeID: 82179303B23816821783286
+    country_name: NorthKorea
+  NorthKorea_Adm2_77:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Myongchon
+    shapeID: 82179303B5816291579612
+    country_name: NorthKorea
+  NorthKorea_Adm2_78:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Myonggan
+    shapeID: 82179303B68633969029735
+    country_name: NorthKorea
+  NorthKorea_Adm2_79:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: NampoCity
+    shapeID: 82179303B45638248322590
+    country_name: NorthKorea
+  NorthKorea_Adm2_8:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Cholwon
+    shapeID: 82179303B128003605723
+    country_name: NorthKorea
+  NorthKorea_Adm2_80:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Nyongbyon
+    shapeID: 82179303B72509498170942
+    country_name: NorthKorea
+  NorthKorea_Adm2_81:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Nyongwon
+    shapeID: 82179303B95281313978448
+    country_name: NorthKorea
+  NorthKorea_Adm2_82:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Onchon
+    shapeID: 82179303B53175016570528
+    country_name: NorthKorea
+  NorthKorea_Adm2_83:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Ongjin
+    shapeID: 82179303B18261928237919
+    country_name: NorthKorea
+  NorthKorea_Adm2_84:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Onsong
+    shapeID: 82179303B70197071761439
+    country_name: NorthKorea
+  NorthKorea_Adm2_85:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Orang
+    shapeID: 82179303B20024569416279
+    country_name: NorthKorea
+  NorthKorea_Adm2_86:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Paechon
+    shapeID: 82179303B51934598994225
+    country_name: NorthKorea
+  NorthKorea_Adm2_87:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Paekam
+    shapeID: 82179303B39212929407944
+    country_name: NorthKorea
+  NorthKorea_Adm2_88:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pakchon
+    shapeID: 82179303B99885007667227
+    country_name: NorthKorea
+  NorthKorea_Adm2_89:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Phangyo
+    shapeID: 82179303B47367102754155
+    country_name: NorthKorea
+  NorthKorea_Adm2_9:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Chongdan
+    shapeID: 82179303B18505219089610
+    country_name: NorthKorea
+  NorthKorea_Adm2_90:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Phihyon
+    shapeID: 82179303B32066025180418
+    country_name: NorthKorea
+  NorthKorea_Adm2_91:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Phungso
+    shapeID: 82179303B38580271965004
+    country_name: NorthKorea
+  NorthKorea_Adm2_92:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Phyonggang
+    shapeID: 82179303B58088097152813
+    country_name: NorthKorea
+  NorthKorea_Adm2_93:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Phyongsan
+    shapeID: 82179303B46729479227191
+    country_name: NorthKorea
+  NorthKorea_Adm2_94:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pochon
+    shapeID: 82179303B51146356154870
+    country_name: NorthKorea
+  NorthKorea_Adm2_95:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pongchon
+    shapeID: 82179303B59678099693620
+    country_name: NorthKorea
+  NorthKorea_Adm2_96:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pongsan
+    shapeID: 82179303B35443402904983
+    country_name: NorthKorea
+  NorthKorea_Adm2_97:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Popdong
+    shapeID: 82179303B73748645094132
+    country_name: NorthKorea
+  NorthKorea_Adm2_98:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pujon
+    shapeID: 82179303B63177642668058
+    country_name: NorthKorea
+  NorthKorea_Adm2_99:
+    iso3c: PRK
+    admin_level: Adm2
+    admin_name: Pukchang
+    shapeID: 82179303B65927505203644
+    country_name: NorthKorea

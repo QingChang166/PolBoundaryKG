@@ -1,990 +1,1477 @@
 concepts:
-  Andong-siAdm2KOR:
-    admin_name: Andong-si
+  SouthKorea_Adm0:
     iso3c: KOR
-    shapeID: 91817680B16014600177045
-  Ansan-siAdm2KOR:
-    admin_name: Ansan-si
+    admin_level: Adm0
+    admin_name: RepublicofKorea
+    shapeID: 49999745B78682194967963
+    country_name: SouthKorea
+  SouthKorea_Adm1_1:
     iso3c: KOR
-    shapeID: 91817680B39459501575733
-  Anseong-siAdm2KOR:
-    admin_name: Anseong-si
-    iso3c: KOR
-    shapeID: 91817680B64740203795166
-  Anyang-siAdm2KOR:
-    admin_name: Anyang-si
-    iso3c: KOR
-    shapeID: 91817680B30491742711894
-  Asan-siAdm2KOR:
-    admin_name: Asan-si
-    iso3c: KOR
-    shapeID: 91817680B56248521536513
-  Boeun-gunAdm2KOR:
-    admin_name: Boeun-gun
-    iso3c: KOR
-    shapeID: 91817680B36624004409046
-  Bonghwa-gunAdm2KOR:
-    admin_name: Bonghwa-gun
-    iso3c: KOR
-    shapeID: 91817680B47987210748527
-  Boryeong-siAdm2KOR:
-    admin_name: Boryeong-si
-    iso3c: KOR
-    shapeID: 91817680B78801700081843
-  Boseong-gunAdm2KOR:
-    admin_name: Boseong-gun
-    iso3c: KOR
-    shapeID: 91817680B27152027053647
-  Buan-gunAdm2KOR:
-    admin_name: Buan-gun
-    iso3c: KOR
-    shapeID: 91817680B44911241756091
-  Bucheon-siAdm2KOR:
-    admin_name: Bucheon-si
-    iso3c: KOR
-    shapeID: 91817680B41928523553758
-  Buk-gu[NorthDistrikt]Adm2KOR:
-    admin_name:
-    - Buk-gu[NorthDistrikt]
-    - Buk-gu[NorthDistrikt]
-    iso3c:
-    - KOR
-    - KOR
-    shapeID:
-    - 91817680B37722151409475
-    - 91817680B84202113891253
-  Buk-guAdm2KOR:
-    admin_name:
-    - Buk-gu
-    - Buk-gu
-    iso3c:
-    - KOR
-    - KOR
-    shapeID:
-    - 91817680B63178832268751
-    - 91817680B75710427976091
-  Bupyeong-guAdm2KOR:
-    admin_name: Bupyeong-gu
-    iso3c: KOR
-    shapeID: 91817680B45509654992593
-  BusanAdm1KOR:
-    admin_name: Busan
-    iso3c: KOR
-    shapeID: 68945753B18996591190839
-  Busanjin-guAdm2KOR:
-    admin_name: Busanjin-gu
-    iso3c: KOR
-    shapeID: 91817680B32751924176777
-  Buyeo-gunAdm2KOR:
-    admin_name: Buyeo-gun
-    iso3c: KOR
-    shapeID: 91817680B35509676151777
-  Changnyeong-gunAdm2KOR:
-    admin_name: Changnyeong-gun
-    iso3c: KOR
-    shapeID: 91817680B39611758954351
-  Changwon-siAdm2KOR:
-    admin_name: Changwon-si
-    iso3c: KOR
-    shapeID: 91817680B26152541530210
-  Cheonan-siAdm2KOR:
-    admin_name: Cheonan-si
-    iso3c: KOR
-    shapeID: 91817680B50780672353800
-  Cheongdo-gunAdm2KOR:
-    admin_name: Cheongdo-gun
-    iso3c: KOR
-    shapeID: 91817680B59018342058044
-  Cheongju-siAdm2KOR:
-    admin_name: Cheongju-si
-    iso3c: KOR
-    shapeID: 91817680B7472001038353
-  Cheongsong-gunAdm2KOR:
-    admin_name: Cheongsong-gun
-    iso3c: KOR
-    shapeID: 91817680B32757414449699
-  Cheongyang-gunAdm2KOR:
-    admin_name: Cheongyang-gun
-    iso3c: KOR
-    shapeID: 91817680B7861346133014
-  Cheorwon-gunAdm2KOR:
-    admin_name: Cheorwon-gun
-    iso3c: KOR
-    shapeID: 91817680B73346878676901
-  Chilgok-gunAdm2KOR:
-    admin_name: Chilgok-gun
-    iso3c: KOR
-    shapeID: 91817680B44952414610796
-  Chuncheon-siAdm2KOR:
-    admin_name: Chuncheon-si
-    iso3c: KOR
-    shapeID: 91817680B67839742247787
-  Chungju-siAdm2KOR:
-    admin_name: Chungju-si
-    iso3c: KOR
-    shapeID: 91817680B87543439372548
-  Daedeok-guAdm2KOR:
-    admin_name: Daedeok-gu
-    iso3c: KOR
-    shapeID: 91817680B29564477042831
-  DaeguAdm1KOR:
-    admin_name: Daegu
-    iso3c: KOR
-    shapeID: 68945753B94077674833362
-  DaejeonAdm1KOR:
-    admin_name: Daejeon
-    iso3c: KOR
-    shapeID: 68945753B85435209225479
-  Dalseo-guAdm2KOR:
-    admin_name: Dalseo-gu
-    iso3c: KOR
-    shapeID: 91817680B1574399427608
-  Dalseong-gunAdm2KOR:
-    admin_name: Dalseong-gun
-    iso3c: KOR
-    shapeID: 91817680B33489673734556
-  Damyang-gunAdm2KOR:
-    admin_name: Damyang-gun
-    iso3c: KOR
-    shapeID: 91817680B48783047676904
-  Dangjin-siAdm2KOR:
-    admin_name: Dangjin-si
-    iso3c: KOR
-    shapeID: 91817680B720891985776
-  Danyang-gunAdm2KOR:
-    admin_name: Danyang-gun
-    iso3c: KOR
-    shapeID: 91817680B46750425552975
-  Dobong-guAdm2KOR:
-    admin_name: Dobong-gu
-    iso3c: KOR
-    shapeID: 91817680B55050579859044
-  Dong-gu[EastDistrict]Adm2KOR:
-    admin_name:
-    - Dong-gu[EastDistrict]
-    - Dong-gu[EastDistrict]
-    - Dong-gu[EastDistrict]
-    - Dong-gu[EastDistrict]
-    iso3c:
-    - KOR
-    - KOR
-    - KOR
-    - KOR
-    shapeID:
-    - 91817680B89733153975870
-    - 91817680B33034423068968
-    - 91817680B24548286345957
-    - 91817680B43546326994356
-  Dong-guAdm2KOR:
-    admin_name:
-    - Dong-gu
-    - Dong-gu
-    iso3c:
-    - KOR
-    - KOR
-    shapeID:
-    - 91817680B53543824194985
-    - 91817680B96924831002014
-  Dongdaemun-guAdm2KOR:
-    admin_name: Dongdaemun-gu
-    iso3c: KOR
-    shapeID: 91817680B25965069984368
-  Dongducheon-siAdm2KOR:
-    admin_name: Dongducheon-si
-    iso3c: KOR
-    shapeID: 91817680B11345954741605
-  Donghae-siAdm2KOR:
-    admin_name: Donghae-si
-    iso3c: KOR
-    shapeID: 91817680B21216327036282
-  Dongjak-guAdm2KOR:
-    admin_name: Dongjak-gu
-    iso3c: KOR
-    shapeID: 91817680B72690271662871
-  Dongnae-guAdm2KOR:
-    admin_name: Dongnae-gu
-    iso3c: KOR
-    shapeID: 91817680B12008242239928
-  Eumseong-gunAdm2KOR:
-    admin_name: Eumseong-gun
-    iso3c: KOR
-    shapeID: 91817680B44245642839981
-  Eunpyeong-guAdm2KOR:
-    admin_name: Eunpyeong-gu
-    iso3c: KOR
-    shapeID: 91817680B53616587081026
-  Gangbuk-guAdm2KOR:
-    admin_name: Gangbuk-gu
-    iso3c: KOR
-    shapeID: 91817680B92844029998138
-  Gangdong-guAdm2KOR:
-    admin_name: Gangdong-gu
-    iso3c: KOR
-    shapeID: 91817680B8309013283439
-  Ganghwa-gunAdm2KOR:
-    admin_name: Ganghwa-gun
-    iso3c: KOR
-    shapeID: 91817680B24929628173287
-  Gangjin-gunAdm2KOR:
-    admin_name: Gangjin-gun
-    iso3c: KOR
-    shapeID: 91817680B37660936440541
-  Gangnam-guAdm2KOR:
-    admin_name: Gangnam-gu
-    iso3c: KOR
-    shapeID: 91817680B53321453404308
-  Gangneung-siAdm2KOR:
-    admin_name: Gangneung-si
-    iso3c: KOR
-    shapeID: 91817680B99242230797556
-  Gangseo-guAdm2KOR:
-    admin_name:
-    - Gangseo-gu
-    - Gangseo-gu
-    iso3c:
-    - KOR
-    - KOR
-    shapeID:
-    - 91817680B91211823266814
-    - 91817680B75936691302089
-  GangwonAdm1KOR:
+    admin_level: Adm1
     admin_name: Gangwon
-    iso3c: KOR
     shapeID: 68945753B85747362819570
-  Gapyeong-gunAdm2KOR:
-    admin_name: Gapyeong-gun
+    country_name: SouthKorea
+  SouthKorea_Adm1_10:
     iso3c: KOR
-    shapeID: 91817680B96761005572442
-  Geochang-gunAdm2KOR:
-    admin_name: Geochang-gun
-    iso3c: KOR
-    shapeID: 91817680B91736183236009
-  Geoje-siAdm2KOR:
-    admin_name: Geoje-si
-    iso3c: KOR
-    shapeID: 91817680B58127051569150
-  Geumcheon-guAdm2KOR:
-    admin_name: Geumcheon-gu
-    iso3c: KOR
-    shapeID: 91817680B69479464976516
-  Geumjeong-guAdm2KOR:
-    admin_name: Geumjeong-gu
-    iso3c: KOR
-    shapeID: 91817680B87761816793360
-  Geumsan-gunAdm2KOR:
-    admin_name: Geumsan-gun
-    iso3c: KOR
-    shapeID: 91817680B68842805087026
-  Gijang-gunAdm2KOR:
-    admin_name: Gijang-gun
-    iso3c: KOR
-    shapeID: 91817680B54012703126739
-  Gimcheon-siAdm2KOR:
-    admin_name: Gimcheon-si
-    iso3c: KOR
-    shapeID: 91817680B51485783996699
-  Gimhae-siAdm2KOR:
-    admin_name: Gimhae-si
-    iso3c: KOR
-    shapeID: 91817680B1708787718818
-  Gimje-siAdm2KOR:
-    admin_name: Gimje-si
-    iso3c: KOR
-    shapeID: 91817680B35753357340942
-  Gimpo-siAdm2KOR:
-    admin_name: Gimpo-si
-    iso3c: KOR
-    shapeID: 91817680B93241302453804
-  Gochang-gunAdm2KOR:
-    admin_name: Gochang-gun
-    iso3c: KOR
-    shapeID: 91817680B73468302874709
-  Goesan-gunAdm2KOR:
-    admin_name: Goesan-gun
-    iso3c: KOR
-    shapeID: 91817680B74553451927555
-  Goheung-gunAdm2KOR:
-    admin_name: Goheung-gun
-    iso3c: KOR
-    shapeID: 91817680B78599330358722
-  Gokseong-gunAdm2KOR:
-    admin_name: Gokseong-gun
-    iso3c: KOR
-    shapeID: 91817680B55822624410007
-  Gongju-siAdm2KOR:
-    admin_name: Gongju-si
-    iso3c: KOR
-    shapeID: 91817680B8449507929864
-  Goryeong-gunAdm2KOR:
-    admin_name: Goryeong-gun
-    iso3c: KOR
-    shapeID: 91817680B88985387415210
-  Goseong-gunAdm2KOR:
-    admin_name:
-    - Goseong-gun
-    - Goseong-gun
-    iso3c:
-    - KOR
-    - KOR
-    shapeID:
-    - 91817680B50485812736392
-    - 91817680B97433571779884
-  Goyang-siAdm2KOR:
-    admin_name: Goyang-si
-    iso3c: KOR
-    shapeID: 91817680B27371207272645
-  Gumi-siAdm2KOR:
-    admin_name: Gumi-si
-    iso3c: KOR
-    shapeID: 91817680B86853073591153
-  Gunpo-siAdm2KOR:
-    admin_name: Gunpo-si
-    iso3c: KOR
-    shapeID: 91817680B51138241033746
-  Gunsan-siAdm2KOR:
-    admin_name: Gunsan-si
-    iso3c: KOR
-    shapeID: 91817680B51344731064077
-  Gunwi-gunAdm2KOR:
-    admin_name: Gunwi-gun
-    iso3c: KOR
-    shapeID: 91817680B30315657457409
-  Guri-siAdm2KOR:
-    admin_name: Guri-si
-    iso3c: KOR
-    shapeID: 91817680B5684950588758
-  Guro-guAdm2KOR:
-    admin_name: Guro-gu
-    iso3c: KOR
-    shapeID: 91817680B1968034056748
-  Gurye-gunAdm2KOR:
-    admin_name: Gurye-gun
-    iso3c: KOR
-    shapeID: 91817680B46219646335198
-  Gwacheon-siAdm2KOR:
-    admin_name: Gwacheon-si
-    iso3c: KOR
-    shapeID: 91817680B14096955932506
-  Gwanak-guAdm2KOR:
-    admin_name: Gwanak-gu
-    iso3c: KOR
-    shapeID: 91817680B99536699865294
-  Gwangjin-guAdm2KOR:
-    admin_name: Gwangjin-gu
-    iso3c: KOR
-    shapeID: 91817680B49246193334347
-  Gwangju-siAdm2KOR:
-    admin_name: Gwangju-si
-    iso3c: KOR
-    shapeID: 91817680B33140835215225
-  GwangjuAdm1KOR:
-    admin_name: Gwangju
-    iso3c: KOR
-    shapeID: 68945753B46109248456415
-  Gwangmyeong-siAdm2KOR:
-    admin_name: Gwangmyeong-si
-    iso3c: KOR
-    shapeID: 91817680B3942656644244
-  Gwangsan-guAdm2KOR:
-    admin_name: Gwangsan-gu
-    iso3c: KOR
-    shapeID: 91817680B16538338684661
-  Gwangyang-siAdm2KOR:
-    admin_name: Gwangyang-si
-    iso3c: KOR
-    shapeID: 91817680B99071511370380
-  GyeonggiAdm1KOR:
-    admin_name: Gyeonggi
-    iso3c: KOR
-    shapeID: 68945753B43731078897969
-  Gyeongju-siAdm2KOR:
-    admin_name: Gyeongju-si
-    iso3c: KOR
-    shapeID: 91817680B5353031397212
-  Gyeongsan-siAdm2KOR:
-    admin_name: Gyeongsan-si
-    iso3c: KOR
-    shapeID: 91817680B37299464646583
-  Gyeryong-siAdm2KOR:
-    admin_name: Gyeryong-si
-    iso3c: KOR
-    shapeID: 91817680B70392770223342
-  Gyeyang-guAdm2KOR:
-    admin_name: Gyeyang-gu
-    iso3c: KOR
-    shapeID: 91817680B94833670639499
-  Hadong-gunAdm2KOR:
-    admin_name: Hadong-gun
-    iso3c: KOR
-    shapeID: 91817680B17319558643664
-  Haenam-gunAdm2KOR:
-    admin_name: Haenam-gun
-    iso3c: KOR
-    shapeID: 91817680B93885607227135
-  Haeundae-guAdm2KOR:
-    admin_name: Haeundae-gu
-    iso3c: KOR
-    shapeID: 91817680B8006777837161
-  Haman-gunAdm2KOR:
-    admin_name: Haman-gun
-    iso3c: KOR
-    shapeID: 91817680B30389585516178
-  Hampyeong-gunAdm2KOR:
-    admin_name: Hampyeong-gun
-    iso3c: KOR
-    shapeID: 91817680B7912985797785
-  Hamyang-gunAdm2KOR:
-    admin_name: Hamyang-gun
-    iso3c: KOR
-    shapeID: 91817680B59476098361869
-  Hanam-siAdm2KOR:
-    admin_name: Hanam-si
-    iso3c: KOR
-    shapeID: 91817680B2886775060222
-  Hapcheon-gunAdm2KOR:
-    admin_name: Hapcheon-gun
-    iso3c: KOR
-    shapeID: 91817680B92973690121395
-  Hoengseong-gunAdm2KOR:
-    admin_name: Hoengseong-gun
-    iso3c: KOR
-    shapeID: 91817680B58418421780923
-  Hongcheon-gunAdm2KOR:
-    admin_name: Hongcheon-gun
-    iso3c: KOR
-    shapeID: 91817680B15226656503507
-  Hongseong-gunAdm2KOR:
-    admin_name: Hongseong-gun
-    iso3c: KOR
-    shapeID: 91817680B43357769940671
-  Hwacheon-gunAdm2KOR:
-    admin_name: Hwacheon-gun
-    iso3c: KOR
-    shapeID: 91817680B86395324328742
-  Hwaseong-siAdm2KOR:
-    admin_name: Hwaseong-si
-    iso3c: KOR
-    shapeID: 91817680B58085958229296
-  Hwasun-gunAdm2KOR:
-    admin_name: Hwasun-gun
-    iso3c: KOR
-    shapeID: 91817680B60872934813823
-  Icheon-siAdm2KOR:
-    admin_name: Icheon-si
-    iso3c: KOR
-    shapeID: 91817680B6202152929023
-  Iksan-siAdm2KOR:
-    admin_name: Iksan-si
-    iso3c: KOR
-    shapeID: 91817680B56582975498752
-  Imsil-gunAdm2KOR:
-    admin_name: Imsil-gun
-    iso3c: KOR
-    shapeID: 91817680B86480113122364
-  IncheonAdm1KOR:
-    admin_name: Incheon
-    iso3c: KOR
-    shapeID: 68945753B50642023031709
-  Inje-gunAdm2KOR:
-    admin_name: Inje-gun
-    iso3c: KOR
-    shapeID: 91817680B61474779558203
-  Jangheung-gunAdm2KOR:
-    admin_name: Jangheung-gun
-    iso3c: KOR
-    shapeID: 91817680B67324121140218
-  Jangseong-gunAdm2KOR:
-    admin_name: Jangseong-gun
-    iso3c: KOR
-    shapeID: 91817680B915295689263
-  Jangsu-gunAdm2KOR:
-    admin_name: Jangsu-gun
-    iso3c: KOR
-    shapeID: 91817680B93090957259339
-  Jecheon-siAdm2KOR:
-    admin_name: Jecheon-si
-    iso3c: KOR
-    shapeID: 91817680B41858032192319
-  Jeju-siAdm2KOR:
-    admin_name: Jeju-si
-    iso3c: KOR
-    shapeID: 91817680B29624883381183
-  JejuAdm1KOR:
-    admin_name: Jeju
-    iso3c: KOR
-    shapeID: 68945753B53856725499604
-  Jeongeup-siAdm2KOR:
-    admin_name: Jeongeup-si
-    iso3c: KOR
-    shapeID: 91817680B14892127844453
-  Jeongseon-gunAdm2KOR:
-    admin_name: Jeongseon-gun
-    iso3c: KOR
-    shapeID: 91817680B94972366910411
-  Jeonju-siAdm2KOR:
-    admin_name: Jeonju-si
-    iso3c: KOR
-    shapeID: 91817680B88957070935676
-  Jeungpyeong-gunAdm2KOR:
-    admin_name: Jeungpyeong-gun
-    iso3c: KOR
-    shapeID: 91817680B75298348451478
-  Jinan-gunAdm2KOR:
-    admin_name: Jinan-gun
-    iso3c: KOR
-    shapeID: 91817680B51132506733028
-  Jincheon-gunAdm2KOR:
-    admin_name: Jincheon-gun
-    iso3c: KOR
-    shapeID: 91817680B40614027699537
-  Jindo-gunAdm2KOR:
-    admin_name: Jindo-gun
-    iso3c: KOR
-    shapeID: 91817680B56099735913612
-  Jinju-siAdm2KOR:
-    admin_name: Jinju-si
-    iso3c: KOR
-    shapeID: 91817680B32789615967236
-  Jongno-guAdm2KOR:
-    admin_name: Jongno-gu
-    iso3c: KOR
-    shapeID: 91817680B55576639555152
-  Jung-gu[CentralDistrict]Adm2KOR:
-    admin_name:
-    - Jung-gu[CentralDistrict]
-    - Jung-gu[CentralDistrict]
-    - Jung-gu[CentralDistrict]
-    - Jung-gu[CentralDistrict]
-    - Jung-gu[CentralDistrict]
-    iso3c:
-    - KOR
-    - KOR
-    - KOR
-    - KOR
-    - KOR
-    shapeID:
-    - 91817680B57927404517776
-    - 91817680B85909931268472
-    - 91817680B11201690622195
-    - 91817680B6497324316239
-    - 91817680B29418542168397
-  Jung-guAdm2KOR:
-    admin_name: Jung-gu
-    iso3c: KOR
-    shapeID: 91817680B30301323398004
-  Jungnang-guAdm2KOR:
-    admin_name: Jungnang-gu
-    iso3c: KOR
-    shapeID: 91817680B66829558888986
-  Mapo-guAdm2KOR:
-    admin_name: Mapo-gu
-    iso3c: KOR
-    shapeID: 91817680B14643286354390
-  Michuhol-gu[Nam-gu]Adm2KOR:
-    admin_name: Michuhol-gu[Nam-gu]
-    iso3c: KOR
-    shapeID: 91817680B16033238555875
-  Miryang-siAdm2KOR:
-    admin_name: Miryang-si
-    iso3c: KOR
-    shapeID: 91817680B88513858108060
-  Mokpo-siAdm2KOR:
-    admin_name: Mokpo-si
-    iso3c: KOR
-    shapeID: 91817680B26607970527366
-  Muan-gunAdm2KOR:
-    admin_name: Muan-gun
-    iso3c: KOR
-    shapeID: 91817680B20286966250971
-  Muju-gunAdm2KOR:
-    admin_name: Muju-gun
-    iso3c: KOR
-    shapeID: 91817680B53198155341948
-  Mungyeong-siAdm2KOR:
-    admin_name: Mungyeong-si
-    iso3c: KOR
-    shapeID: 91817680B43065782555772
-  Naju-siAdm2KOR:
-    admin_name: Naju-si
-    iso3c: KOR
-    shapeID: 91817680B40505476377979
-  Nam-gu[SouthDistrict]Adm2KOR:
-    admin_name:
-    - Nam-gu[SouthDistrict]
-    - Nam-gu[SouthDistrict]
-    - Nam-gu[SouthDistrict]
-    - Nam-gu[SouthDistrict]
-    iso3c:
-    - KOR
-    - KOR
-    - KOR
-    - KOR
-    shapeID:
-    - 91817680B68494559899558
-    - 91817680B65451529480853
-    - 91817680B11476058556898
-    - 91817680B72214553011774
-  Namdong-guAdm2KOR:
-    admin_name: Namdong-gu
-    iso3c: KOR
-    shapeID: 91817680B54049766777888
-  Namhae-gunAdm2KOR:
-    admin_name: Namhae-gun
-    iso3c: KOR
-    shapeID: 91817680B30407776748413
-  Namwon-siAdm2KOR:
-    admin_name: Namwon-si
-    iso3c: KOR
-    shapeID: 91817680B21680824294868
-  Namyangju-siAdm2KOR:
-    admin_name: Namyangju-si
-    iso3c: KOR
-    shapeID: 91817680B38772026787440
-  Nonsan-siAdm2KOR:
-    admin_name: Nonsan-si
-    iso3c: KOR
-    shapeID: 91817680B11377751855609
-  NorthChungcheongAdm1KOR:
-    admin_name: NorthChungcheong
-    iso3c: KOR
-    shapeID: 68945753B59172752195743
-  NorthGyeongsangAdm1KOR:
+    admin_level: Adm1
     admin_name: NorthGyeongsang
-    iso3c: KOR
     shapeID: 68945753B22494711915469
-  NorthJeollaAdm1KOR:
-    admin_name: NorthJeolla
+    country_name: SouthKorea
+  SouthKorea_Adm1_11:
     iso3c: KOR
-    shapeID: 68945753B82824634329413
-  Nowon-guAdm2KOR:
-    admin_name: Nowon-gu
+    admin_level: Adm1
+    admin_name: Jeju
+    shapeID: 68945753B53856725499604
+    country_name: SouthKorea
+  SouthKorea_Adm1_12:
     iso3c: KOR
-    shapeID: 91817680B6950995223857
-  Okcheon-gunAdm2KOR:
-    admin_name: Okcheon-gun
-    iso3c: KOR
-    shapeID: 91817680B1659695850463
-  Ongjin-gunAdm2KOR:
-    admin_name: Ongjin-gun
-    iso3c: KOR
-    shapeID: 91817680B43125449030549
-  Osan-siAdm2KOR:
-    admin_name: Osan-si
-    iso3c: KOR
-    shapeID: 91817680B96375859106804
-  Paju-siAdm2KOR:
-    admin_name: Paju-si
-    iso3c: KOR
-    shapeID: 91817680B14253606839965
-  Pocheon-siAdm2KOR:
-    admin_name: Pocheon-si
-    iso3c: KOR
-    shapeID: 91817680B75483661313195
-  Pohang-siAdm2KOR:
-    admin_name: Pohang-si
-    iso3c: KOR
-    shapeID: 91817680B48442195707238
-  Pyeongchang-gunAdm2KOR:
-    admin_name: Pyeongchang-gun
-    iso3c: KOR
-    shapeID: 91817680B93219729656421
-  Pyeongtaek-siAdm2KOR:
-    admin_name: Pyeongtaek-si
-    iso3c: KOR
-    shapeID: 91817680B85680883794904
-  Sacheon-siAdm2KOR:
-    admin_name: Sacheon-si
-    iso3c: KOR
-    shapeID: 91817680B75900877128055
-  Saha-guAdm2KOR:
-    admin_name: Saha-gu
-    iso3c: KOR
-    shapeID: 91817680B15590775835688
-  Samcheok-siAdm2KOR:
-    admin_name: Samcheok-si
-    iso3c: KOR
-    shapeID: 91817680B11339106619066
-  Sancheong-gunAdm2KOR:
-    admin_name: Sancheong-gun
-    iso3c: KOR
-    shapeID: 91817680B92610564128426
-  Sangju-siAdm2KOR:
-    admin_name: Sangju-si
-    iso3c: KOR
-    shapeID: 91817680B21539665501577
-  Sasang-guAdm2KOR:
-    admin_name: Sasang-gu
-    iso3c: KOR
-    shapeID: 91817680B50207003035
-  Sejong-siAdm2KOR:
-    admin_name: Sejong-si
-    iso3c: KOR
-    shapeID: 91817680B40148089014896
-  SejongAdm1KOR:
-    admin_name: Sejong
-    iso3c: KOR
-    shapeID: 68945753B58129180850627
-  Seo-gu[WestDistrict]Adm2KOR:
-    admin_name:
-    - Seo-gu[WestDistrict]
-    - Seo-gu[WestDistrict]
-    - Seo-gu[WestDistrict]
-    - Seo-gu[WestDistrict]
-    iso3c:
-    - KOR
-    - KOR
-    - KOR
-    - KOR
-    shapeID:
-    - 91817680B87996420220515
-    - 91817680B65504384218086
-    - 91817680B37138617445780
-    - 91817680B73279111808647
-  Seo-guAdm2KOR:
-    admin_name: Seo-gu
-    iso3c: KOR
-    shapeID: 91817680B57044302860475
-  Seocheon-gunAdm2KOR:
-    admin_name: Seocheon-gun
-    iso3c: KOR
-    shapeID: 91817680B6691327376510
-  Seocho-guAdm2KOR:
-    admin_name: Seocho-gu
-    iso3c: KOR
-    shapeID: 91817680B5725333816693
-  Seodaemun-guAdm2KOR:
-    admin_name: Seodaemun-gu
-    iso3c: KOR
-    shapeID: 91817680B65126245655882
-  Seogwipo-siAdm2KOR:
-    admin_name: Seogwipo-si
-    iso3c: KOR
-    shapeID: 91817680B85110926045998
-  Seongbuk-guAdm2KOR:
-    admin_name: Seongbuk-gu
-    iso3c: KOR
-    shapeID: 91817680B19736947579274
-  Seongdong-guAdm2KOR:
-    admin_name: Seongdong-gu
-    iso3c: KOR
-    shapeID: 91817680B63185877293812
-  Seongju-gunAdm2KOR:
-    admin_name: Seongju-gun
-    iso3c: KOR
-    shapeID: 91817680B40534015790157
-  Seongnam-siAdm2KOR:
-    admin_name: Seongnam-si
-    iso3c: KOR
-    shapeID: 91817680B94836834309250
-  Seosan-siAdm2KOR:
-    admin_name: Seosan-si
-    iso3c: KOR
-    shapeID: 91817680B60871253292980
-  SeoulAdm1KOR:
+    admin_level: Adm1
     admin_name: Seoul
-    iso3c: KOR
     shapeID: 68945753B55100681051852
-  Siheung-siAdm2KOR:
-    admin_name: Siheung-si
+    country_name: SouthKorea
+  SouthKorea_Adm1_13:
     iso3c: KOR
-    shapeID: 91817680B37911583032119
-  Sinan-gunAdm2KOR:
-    admin_name: Sinan-gun
+    admin_level: Adm1
+    admin_name: Daejeon
+    shapeID: 68945753B85435209225479
+    country_name: SouthKorea
+  SouthKorea_Adm1_14:
     iso3c: KOR
-    shapeID: 91817680B46467557111645
-  Sokcho-siAdm2KOR:
-    admin_name: Sokcho-si
+    admin_level: Adm1
+    admin_name: Sejong
+    shapeID: 68945753B58129180850627
+    country_name: SouthKorea
+  SouthKorea_Adm1_15:
     iso3c: KOR
-    shapeID: 91817680B43621567480447
-  Songpa-guAdm2KOR:
-    admin_name: Songpa-gu
+    admin_level: Adm1
+    admin_name: NorthChungcheong
+    shapeID: 68945753B59172752195743
+    country_name: SouthKorea
+  SouthKorea_Adm1_16:
     iso3c: KOR
-    shapeID: 91817680B10131618900015
-  SouthChungcheongAdm1KOR:
+    admin_level: Adm1
+    admin_name: Gwangju
+    shapeID: 68945753B46109248456415
+    country_name: SouthKorea
+  SouthKorea_Adm1_17:
+    iso3c: KOR
+    admin_level: Adm1
+    admin_name: Daegu
+    shapeID: 68945753B94077674833362
+    country_name: SouthKorea
+  SouthKorea_Adm1_2:
+    iso3c: KOR
+    admin_level: Adm1
+    admin_name: Gyeonggi
+    shapeID: 68945753B43731078897969
+    country_name: SouthKorea
+  SouthKorea_Adm1_3:
+    iso3c: KOR
+    admin_level: Adm1
     admin_name: SouthChungcheong
-    iso3c: KOR
     shapeID: 68945753B70752081047384
-  SouthGyeongsangAdm1KOR:
-    admin_name: SouthGyeongsang
+    country_name: SouthKorea
+  SouthKorea_Adm1_4:
     iso3c: KOR
-    shapeID: 68945753B56309283475968
-  SouthJeollaAdm1KOR:
+    admin_level: Adm1
+    admin_name: Incheon
+    shapeID: 68945753B50642023031709
+    country_name: SouthKorea
+  SouthKorea_Adm1_5:
+    iso3c: KOR
+    admin_level: Adm1
+    admin_name: NorthJeolla
+    shapeID: 68945753B82824634329413
+    country_name: SouthKorea
+  SouthKorea_Adm1_6:
+    iso3c: KOR
+    admin_level: Adm1
     admin_name: SouthJeolla
-    iso3c: KOR
     shapeID: 68945753B5424648896322
-  Sunchang-gunAdm2KOR:
-    admin_name: Sunchang-gun
+    country_name: SouthKorea
+  SouthKorea_Adm1_7:
     iso3c: KOR
-    shapeID: 91817680B23901291202395
-  Suncheon-siAdm2KOR:
-    admin_name: Suncheon-si
+    admin_level: Adm1
+    admin_name: SouthGyeongsang
+    shapeID: 68945753B56309283475968
+    country_name: SouthKorea
+  SouthKorea_Adm1_8:
     iso3c: KOR
-    shapeID: 91817680B16002130574290
-  Suseong-guAdm2KOR:
-    admin_name: Suseong-gu
+    admin_level: Adm1
+    admin_name: Busan
+    shapeID: 68945753B18996591190839
+    country_name: SouthKorea
+  SouthKorea_Adm1_9:
     iso3c: KOR
-    shapeID: 91817680B49679347075852
-  Suwon-siAdm2KOR:
-    admin_name: Suwon-si
-    iso3c: KOR
-    shapeID: 91817680B43312282385471
-  Suyeong-guAdm2KOR:
-    admin_name: Suyeong-gu
-    iso3c: KOR
-    shapeID: 91817680B55707549130569
-  Taean-gunAdm2KOR:
-    admin_name: Taean-gun
-    iso3c: KOR
-    shapeID: 91817680B59614790278386
-  Taebaek-siAdm2KOR:
-    admin_name: Taebaek-si
-    iso3c: KOR
-    shapeID: 91817680B55715776787208
-  Tongyeong-siAdm2KOR:
-    admin_name: Tongyeong-si
-    iso3c: KOR
-    shapeID: 91817680B95262291256995
-  Uijeongbu-siAdm2KOR:
-    admin_name: Uijeongbu-si
-    iso3c: KOR
-    shapeID: 91817680B6871011244235
-  Uiryeong-gunAdm2KOR:
-    admin_name: Uiryeong-gun
-    iso3c: KOR
-    shapeID: 91817680B90592918780723
-  Uiseong-gunAdm2KOR:
-    admin_name: Uiseong-gun
-    iso3c: KOR
-    shapeID: 91817680B75376031789242
-  Uiwang-siAdm2KOR:
-    admin_name: Uiwang-si
-    iso3c: KOR
-    shapeID: 91817680B44728384221537
-  Uljin-gunAdm2KOR:
-    admin_name: Uljin-gun
-    iso3c: KOR
-    shapeID: 91817680B88731995383072
-  Ulju-gunAdm2KOR:
-    admin_name: Ulju-gun
-    iso3c: KOR
-    shapeID: 91817680B44823551048989
-  Ulleung-gunAdm2KOR:
-    admin_name: Ulleung-gun
-    iso3c: KOR
-    shapeID: 91817680B98862203953263
-  UlsanAdm1KOR:
+    admin_level: Adm1
     admin_name: Ulsan
-    iso3c: KOR
     shapeID: 68945753B85001375391280
-  Wando-gunAdm2KOR:
-    admin_name: Wando-gun
+    country_name: SouthKorea
+  SouthKorea_Adm2_1:
     iso3c: KOR
-    shapeID: 91817680B85222249357664
-  Wanju-gunAdm2KOR:
-    admin_name: Wanju-gun
+    admin_level: Adm2
+    admin_name: Sokcho-si
+    shapeID: 91817680B43621567480447
+    country_name: SouthKorea
+  SouthKorea_Adm2_10:
     iso3c: KOR
-    shapeID: 91817680B60221740281290
-  Wonju-siAdm2KOR:
-    admin_name: Wonju-si
+    admin_level: Adm2
+    admin_name: Pohang-si
+    shapeID: 91817680B48442195707238
+    country_name: SouthKorea
+  SouthKorea_Adm2_100:
     iso3c: KOR
-    shapeID: 91817680B41990583973423
-  Yangcheon-guAdm2KOR:
-    admin_name: Yangcheon-gu
+    admin_level: Adm2
+    admin_name: Iksan-si
+    shapeID: 91817680B56582975498752
+    country_name: SouthKorea
+  SouthKorea_Adm2_101:
     iso3c: KOR
-    shapeID: 91817680B8017156108400
-  Yanggu-gunAdm2KOR:
-    admin_name: Yanggu-gun
+    admin_level: Adm2
+    admin_name: Imsil-gun
+    shapeID: 91817680B86480113122364
+    country_name: SouthKorea
+  SouthKorea_Adm2_102:
     iso3c: KOR
-    shapeID: 91817680B23922363914919
-  Yangju-siAdm2KOR:
-    admin_name: Yangju-si
+    admin_level: Adm2
+    admin_name: Jeongeup-si
+    shapeID: 91817680B14892127844453
+    country_name: SouthKorea
+  SouthKorea_Adm2_103:
     iso3c: KOR
-    shapeID: 91817680B42166609445104
-  Yangpyeong-gunAdm2KOR:
-    admin_name: Yangpyeong-gun
+    admin_level: Adm2
+    admin_name: Namwon-si
+    shapeID: 91817680B21680824294868
+    country_name: SouthKorea
+  SouthKorea_Adm2_104:
     iso3c: KOR
-    shapeID: 91817680B89058224266184
-  Yangsan-siAdm2KOR:
-    admin_name: Yangsan-si
+    admin_level: Adm2
+    admin_name: Sunchang-gun
+    shapeID: 91817680B23901291202395
+    country_name: SouthKorea
+  SouthKorea_Adm2_105:
     iso3c: KOR
-    shapeID: 91817680B11624916188823
-  Yangyang-gunAdm2KOR:
-    admin_name: Yangyang-gun
+    admin_level: Adm2
+    admin_name: Damyang-gun
+    shapeID: 91817680B48783047676904
+    country_name: SouthKorea
+  SouthKorea_Adm2_106:
     iso3c: KOR
-    shapeID: 91817680B9940099959324
-  Yecheon-gunAdm2KOR:
-    admin_name: Yecheon-gun
+    admin_level: Adm2
+    admin_name: Gokseong-gun
+    shapeID: 91817680B55822624410007
+    country_name: SouthKorea
+  SouthKorea_Adm2_107:
     iso3c: KOR
-    shapeID: 91817680B75354784424725
-  YeojuAdm2KOR:
-    admin_name: Yeoju
+    admin_level: Adm2
+    admin_name: Gurye-gun
+    shapeID: 91817680B46219646335198
+    country_name: SouthKorea
+  SouthKorea_Adm2_108:
     iso3c: KOR
-    shapeID: 91817680B81929081090334
-  Yeoncheon-gunAdm2KOR:
-    admin_name: Yeoncheon-gun
+    admin_level: Adm2
+    admin_name: Hwasun-gun
+    shapeID: 91817680B60872934813823
+    country_name: SouthKorea
+  SouthKorea_Adm2_109:
     iso3c: KOR
-    shapeID: 91817680B98224083425041
-  Yeongam-gunAdm2KOR:
+    admin_level: Adm2
+    admin_name: Naju-si
+    shapeID: 91817680B40505476377979
+    country_name: SouthKorea
+  SouthKorea_Adm2_11:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gyeongju-si
+    shapeID: 91817680B5353031397212
+    country_name: SouthKorea
+  SouthKorea_Adm2_110:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Buk-gu
+    shapeID: 91817680B75710427976091
+    country_name: SouthKorea
+  SouthKorea_Adm2_111:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gimje-si
+    shapeID: 91817680B35753357340942
+    country_name: SouthKorea
+  SouthKorea_Adm2_112:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Buan-gun
+    shapeID: 91817680B44911241756091
+    country_name: SouthKorea
+  SouthKorea_Adm2_113:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gochang-gun
+    shapeID: 91817680B73468302874709
+    country_name: SouthKorea
+  SouthKorea_Adm2_114:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jangseong-gun
+    shapeID: 91817680B915295689263
+    country_name: SouthKorea
+  SouthKorea_Adm2_115:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Hampyeong-gun
+    shapeID: 91817680B7912985797785
+    country_name: SouthKorea
+  SouthKorea_Adm2_116:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jangheung-gun
+    shapeID: 91817680B67324121140218
+    country_name: SouthKorea
+  SouthKorea_Adm2_117:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gangjin-gun
+    shapeID: 91817680B37660936440541
+    country_name: SouthKorea
+  SouthKorea_Adm2_118:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Haenam-gun
+    shapeID: 91817680B93885607227135
+    country_name: SouthKorea
+  SouthKorea_Adm2_119:
+    iso3c: KOR
+    admin_level: Adm2
     admin_name: Yeongam-gun
-    iso3c: KOR
     shapeID: 91817680B36456413113015
-  Yeongcheon-siAdm2KOR:
-    admin_name: Yeongcheon-si
+    country_name: SouthKorea
+  SouthKorea_Adm2_12:
     iso3c: KOR
-    shapeID: 91817680B48235767363306
-  Yeongdeok-gunAdm2KOR:
-    admin_name: Yeongdeok-gun
+    admin_level: Adm2
+    admin_name: Buk-gu
+    shapeID: 91817680B63178832268751
+    country_name: SouthKorea
+  SouthKorea_Adm2_120:
     iso3c: KOR
-    shapeID: 91817680B91067436457746
-  Yeongdeungpo-guAdm2KOR:
-    admin_name: Yeongdeungpo-gu
+    admin_level: Adm2
+    admin_name: Boseong-gun
+    shapeID: 91817680B27152027053647
+    country_name: SouthKorea
+  SouthKorea_Adm2_121:
     iso3c: KOR
-    shapeID: 91817680B5490200958143
-  Yeongdo-guAdm2KOR:
+    admin_level: Adm2
+    admin_name: Suncheon-si
+    shapeID: 91817680B16002130574290
+    country_name: SouthKorea
+  SouthKorea_Adm2_122:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seocheon-gun
+    shapeID: 91817680B6691327376510
+    country_name: SouthKorea
+  SouthKorea_Adm2_123:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Hongseong-gun
+    shapeID: 91817680B43357769940671
+    country_name: SouthKorea
+  SouthKorea_Adm2_124:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seosan-si
+    shapeID: 91817680B60871253292980
+    country_name: SouthKorea
+  SouthKorea_Adm2_125:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Ganghwa-gun
+    shapeID: 91817680B24929628173287
+    country_name: SouthKorea
+  SouthKorea_Adm2_126:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gimpo-si
+    shapeID: 91817680B93241302453804
+    country_name: SouthKorea
+  SouthKorea_Adm2_127:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Paju-si
+    shapeID: 91817680B14253606839965
+    country_name: SouthKorea
+  SouthKorea_Adm2_128:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Goyang-si
+    shapeID: 91817680B27371207272645
+    country_name: SouthKorea
+  SouthKorea_Adm2_129:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yangju-si
+    shapeID: 91817680B42166609445104
+    country_name: SouthKorea
+  SouthKorea_Adm2_13:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Ulju-gun
+    shapeID: 91817680B44823551048989
+    country_name: SouthKorea
+  SouthKorea_Adm2_130:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Uijeongbu-si
+    shapeID: 91817680B6871011244235
+    country_name: SouthKorea
+  SouthKorea_Adm2_131:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Namyangju-si
+    shapeID: 91817680B38772026787440
+    country_name: SouthKorea
+  SouthKorea_Adm2_132:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seongnam-si
+    shapeID: 91817680B94836834309250
+    country_name: SouthKorea
+  SouthKorea_Adm2_133:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Suwon-si
+    shapeID: 91817680B43312282385471
+    country_name: SouthKorea
+  SouthKorea_Adm2_134:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Nam-gu[SouthDistrict]
+    shapeID: 91817680B68494559899558
+    country_name: SouthKorea
+  SouthKorea_Adm2_135:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dong-gu[EastDistrict]
+    shapeID: 91817680B89733153975870
+    country_name: SouthKorea
+  SouthKorea_Adm2_136:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gwangsan-gu
+    shapeID: 91817680B16538338684661
+    country_name: SouthKorea
+  SouthKorea_Adm2_137:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seo-gu[WestDistrict]
+    shapeID: 91817680B87996420220515
+    country_name: SouthKorea
+  SouthKorea_Adm2_138:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dong-gu[EastDistrict]
+    shapeID: 91817680B33034423068968
+    country_name: SouthKorea
+  SouthKorea_Adm2_139:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Nam-gu[SouthDistrict]
+    shapeID: 91817680B65451529480853
+    country_name: SouthKorea
+  SouthKorea_Adm2_14:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gijang-gun
+    shapeID: 91817680B54012703126739
+    country_name: SouthKorea
+  SouthKorea_Adm2_140:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jung-gu[CentralDistrict]
+    shapeID: 91817680B57927404517776
+    country_name: SouthKorea
+  SouthKorea_Adm2_141:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Haeundae-gu
+    shapeID: 91817680B8006777837161
+    country_name: SouthKorea
+  SouthKorea_Adm2_142:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Geumjeong-gu
+    shapeID: 91817680B87761816793360
+    country_name: SouthKorea
+  SouthKorea_Adm2_143:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Buk-gu[NorthDistrikt]
+    shapeID: 91817680B37722151409475
+    country_name: SouthKorea
+  SouthKorea_Adm2_144:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Changwon-si
+    shapeID: 91817680B26152541530210
+    country_name: SouthKorea
+  SouthKorea_Adm2_145:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Goseong-gun
+    shapeID: 91817680B97433571779884
+    country_name: SouthKorea
+  SouthKorea_Adm2_146:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Sacheon-si
+    shapeID: 91817680B75900877128055
+    country_name: SouthKorea
+  SouthKorea_Adm2_147:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Hadong-gun
+    shapeID: 91817680B17319558643664
+    country_name: SouthKorea
+  SouthKorea_Adm2_148:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gwangyang-si
+    shapeID: 91817680B99071511370380
+    country_name: SouthKorea
+  SouthKorea_Adm2_149:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Namhae-gun
+    shapeID: 91817680B30407776748413
+    country_name: SouthKorea
+  SouthKorea_Adm2_15:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yangsan-si
+    shapeID: 91817680B11624916188823
+    country_name: SouthKorea
+  SouthKorea_Adm2_150:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Tongyeong-si
+    shapeID: 91817680B95262291256995
+    country_name: SouthKorea
+  SouthKorea_Adm2_151:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Geoje-si
+    shapeID: 91817680B58127051569150
+    country_name: SouthKorea
+  SouthKorea_Adm2_152:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Saha-gu
+    shapeID: 91817680B15590775835688
+    country_name: SouthKorea
+  SouthKorea_Adm2_153:
+    iso3c: KOR
+    admin_level: Adm2
     admin_name: Yeongdo-gu
-    iso3c: KOR
     shapeID: 91817680B63526671374694
-  Yeongdong-gunAdm2KOR:
-    admin_name: Yeongdong-gun
+    country_name: SouthKorea
+  SouthKorea_Adm2_154:
     iso3c: KOR
-    shapeID: 91817680B4431337162748
-  Yeongju-siAdm2KOR:
-    admin_name: Yeongju-si
+    admin_level: Adm2
+    admin_name: Dongnae-gu
+    shapeID: 91817680B12008242239928
+    country_name: SouthKorea
+  SouthKorea_Adm2_155:
     iso3c: KOR
-    shapeID: 91817680B73468767289539
-  Yeongwol-gunAdm2KOR:
-    admin_name: Yeongwol-gun
+    admin_level: Adm2
+    admin_name: Suyeong-gu
+    shapeID: 91817680B55707549130569
+    country_name: SouthKorea
+  SouthKorea_Adm2_156:
     iso3c: KOR
-    shapeID: 91817680B79863718076959
-  Yeongyang-gunAdm2KOR:
-    admin_name: Yeongyang-gun
-    iso3c: KOR
-    shapeID: 91817680B35472999009946
-  Yeonje-guAdm2KOR:
+    admin_level: Adm2
     admin_name: Yeonje-gu
-    iso3c: KOR
     shapeID: 91817680B90297389150949
-  Yeonsu-guAdm2KOR:
+    country_name: SouthKorea
+  SouthKorea_Adm2_157:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Nam-gu[SouthDistrict]
+    shapeID: 91817680B11476058556898
+    country_name: SouthKorea
+  SouthKorea_Adm2_158:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jung-gu[CentralDistrict]
+    shapeID: 91817680B85909931268472
+    country_name: SouthKorea
+  SouthKorea_Adm2_159:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seo-gu[WestDistrict]
+    shapeID: 91817680B65504384218086
+    country_name: SouthKorea
+  SouthKorea_Adm2_16:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Inje-gun
+    shapeID: 91817680B61474779558203
+    country_name: SouthKorea
+  SouthKorea_Adm2_160:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Busanjin-gu
+    shapeID: 91817680B32751924176777
+    country_name: SouthKorea
+  SouthKorea_Adm2_161:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dong-gu[EastDistrict]
+    shapeID: 91817680B24548286345957
+    country_name: SouthKorea
+  SouthKorea_Adm2_162:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gangseo-gu
+    shapeID: 91817680B91211823266814
+    country_name: SouthKorea
+  SouthKorea_Adm2_163:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Goheung-gun
+    shapeID: 91817680B78599330358722
+    country_name: SouthKorea
+  SouthKorea_Adm2_164:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Wando-gun
+    shapeID: 91817680B85222249357664
+    country_name: SouthKorea
+  SouthKorea_Adm2_165:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Muan-gun
+    shapeID: 91817680B20286966250971
+    country_name: SouthKorea
+  SouthKorea_Adm2_166:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Mokpo-si
+    shapeID: 91817680B26607970527366
+    country_name: SouthKorea
+  SouthKorea_Adm2_167:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seogwipo-si
+    shapeID: 91817680B85110926045998
+    country_name: SouthKorea
+  SouthKorea_Adm2_168:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jeju-si
+    shapeID: 91817680B29624883381183
+    country_name: SouthKorea
+  SouthKorea_Adm2_169:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Suseong-gu
+    shapeID: 91817680B49679347075852
+    country_name: SouthKorea
+  SouthKorea_Adm2_17:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Pyeongchang-gun
+    shapeID: 91817680B93219729656421
+    country_name: SouthKorea
+  SouthKorea_Adm2_170:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Buk-gu[NorthDistrikt]
+    shapeID: 91817680B84202113891253
+    country_name: SouthKorea
+  SouthKorea_Adm2_171:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seo-gu[WestDistrict]
+    shapeID: 91817680B37138617445780
+    country_name: SouthKorea
+  SouthKorea_Adm2_172:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jung-gu[CentralDistrict]
+    shapeID: 91817680B11201690622195
+    country_name: SouthKorea
+  SouthKorea_Adm2_173:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Nam-gu[SouthDistrict]
+    shapeID: 91817680B72214553011774
+    country_name: SouthKorea
+  SouthKorea_Adm2_174:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dalseo-gu
+    shapeID: 91817680B1574399427608
+    country_name: SouthKorea
+  SouthKorea_Adm2_175:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Hwaseong-si
+    shapeID: 91817680B58085958229296
+    country_name: SouthKorea
+  SouthKorea_Adm2_176:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dangjin-si
+    shapeID: 91817680B720891985776
+    country_name: SouthKorea
+  SouthKorea_Adm2_177:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jung-gu[CentralDistrict]
+    shapeID: 91817680B6497324316239
+    country_name: SouthKorea
+  SouthKorea_Adm2_178:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Ongjin-gun
+    shapeID: 91817680B43125449030549
+    country_name: SouthKorea
+  SouthKorea_Adm2_179:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Boryeong-si
+    shapeID: 91817680B78801700081843
+    country_name: SouthKorea
+  SouthKorea_Adm2_18:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jeongseon-gun
+    shapeID: 91817680B94972366910411
+    country_name: SouthKorea
+  SouthKorea_Adm2_180:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Taean-gun
+    shapeID: 91817680B59614790278386
+    country_name: SouthKorea
+  SouthKorea_Adm2_181:
+    iso3c: KOR
+    admin_level: Adm2
     admin_name: Yeonsu-gu
-    iso3c: KOR
     shapeID: 91817680B14745943099772
-  Yeosu-siAdm2KOR:
-    admin_name: Yeosu-si
+    country_name: SouthKorea
+  SouthKorea_Adm2_182:
     iso3c: KOR
-    shapeID: 91817680B8944082307158
-  Yesan-gunAdm2KOR:
-    admin_name: Yesan-gun
+    admin_level: Adm2
+    admin_name: Namdong-gu
+    shapeID: 91817680B54049766777888
+    country_name: SouthKorea
+  SouthKorea_Adm2_183:
     iso3c: KOR
-    shapeID: 91817680B1629367715088
-  Yongin-siAdm2KOR:
-    admin_name: Yongin-si
+    admin_level: Adm2
+    admin_name: Siheung-si
+    shapeID: 91817680B37911583032119
+    country_name: SouthKorea
+  SouthKorea_Adm2_184:
     iso3c: KOR
-    shapeID: 91817680B86612267469181
-  Yongsan-guAdm2KOR:
+    admin_level: Adm2
+    admin_name: Ansan-si
+    shapeID: 91817680B39459501575733
+    country_name: SouthKorea
+  SouthKorea_Adm2_185:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Uiwang-si
+    shapeID: 91817680B44728384221537
+    country_name: SouthKorea
+  SouthKorea_Adm2_186:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gunpo-si
+    shapeID: 91817680B51138241033746
+    country_name: SouthKorea
+  SouthKorea_Adm2_187:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gwacheon-si
+    shapeID: 91817680B14096955932506
+    country_name: SouthKorea
+  SouthKorea_Adm2_188:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gwangmyeong-si
+    shapeID: 91817680B3942656644244
+    country_name: SouthKorea
+  SouthKorea_Adm2_189:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Michuhol-gu[Nam-gu]
+    shapeID: 91817680B16033238555875
+    country_name: SouthKorea
+  SouthKorea_Adm2_19:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yanggu-gun
+    shapeID: 91817680B23922363914919
+    country_name: SouthKorea
+  SouthKorea_Adm2_190:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dong-gu[EastDistrict]
+    shapeID: 91817680B43546326994356
+    country_name: SouthKorea
+  SouthKorea_Adm2_191:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seo-gu[WestDistrict]
+    shapeID: 91817680B73279111808647
+    country_name: SouthKorea
+  SouthKorea_Adm2_192:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gyeyang-gu
+    shapeID: 91817680B94833670639499
+    country_name: SouthKorea
+  SouthKorea_Adm2_193:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Bupyeong-gu
+    shapeID: 91817680B45509654992593
+    country_name: SouthKorea
+  SouthKorea_Adm2_194:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Bucheon-si
+    shapeID: 91817680B41928523553758
+    country_name: SouthKorea
+  SouthKorea_Adm2_195:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gangseo-gu
+    shapeID: 91817680B75936691302089
+    country_name: SouthKorea
+  SouthKorea_Adm2_196:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Hanam-si
+    shapeID: 91817680B2886775060222
+    country_name: SouthKorea
+  SouthKorea_Adm2_197:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Guri-si
+    shapeID: 91817680B5684950588758
+    country_name: SouthKorea
+  SouthKorea_Adm2_198:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gangdong-gu
+    shapeID: 91817680B8309013283439
+    country_name: SouthKorea
+  SouthKorea_Adm2_199:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Songpa-gu
+    shapeID: 91817680B10131618900015
+    country_name: SouthKorea
+  SouthKorea_Adm2_2:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Goseong-gun
+    shapeID: 91817680B50485812736392
+    country_name: SouthKorea
+  SouthKorea_Adm2_20:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Hwacheon-gun
+    shapeID: 91817680B86395324328742
+    country_name: SouthKorea
+  SouthKorea_Adm2_200:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seocho-gu
+    shapeID: 91817680B5725333816693
+    country_name: SouthKorea
+  SouthKorea_Adm2_201:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gangnam-gu
+    shapeID: 91817680B53321453404308
+    country_name: SouthKorea
+  SouthKorea_Adm2_202:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Nowon-gu
+    shapeID: 91817680B6950995223857
+    country_name: SouthKorea
+  SouthKorea_Adm2_203:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dobong-gu
+    shapeID: 91817680B55050579859044
+    country_name: SouthKorea
+  SouthKorea_Adm2_204:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gangbuk-gu
+    shapeID: 91817680B92844029998138
+    country_name: SouthKorea
+  SouthKorea_Adm2_205:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jungnang-gu
+    shapeID: 91817680B66829558888986
+    country_name: SouthKorea
+  SouthKorea_Adm2_206:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Eunpyeong-gu
+    shapeID: 91817680B53616587081026
+    country_name: SouthKorea
+  SouthKorea_Adm2_207:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jongno-gu
+    shapeID: 91817680B55576639555152
+    country_name: SouthKorea
+  SouthKorea_Adm2_208:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seongbuk-gu
+    shapeID: 91817680B19736947579274
+    country_name: SouthKorea
+  SouthKorea_Adm2_209:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dongdaemun-gu
+    shapeID: 91817680B25965069984368
+    country_name: SouthKorea
+  SouthKorea_Adm2_21:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Chuncheon-si
+    shapeID: 91817680B67839742247787
+    country_name: SouthKorea
+  SouthKorea_Adm2_210:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gwangjin-gu
+    shapeID: 91817680B49246193334347
+    country_name: SouthKorea
+  SouthKorea_Adm2_211:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seongdong-gu
+    shapeID: 91817680B63185877293812
+    country_name: SouthKorea
+  SouthKorea_Adm2_212:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jung-gu[CentralDistrict]
+    shapeID: 91817680B29418542168397
+    country_name: SouthKorea
+  SouthKorea_Adm2_213:
+    iso3c: KOR
+    admin_level: Adm2
     admin_name: Yongsan-gu
-    iso3c: KOR
     shapeID: 91817680B50347392057391
-  Yuseong-guAdm2KOR:
-    admin_name: Yuseong-gu
+    country_name: SouthKorea
+  SouthKorea_Adm2_214:
     iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dongjak-gu
+    shapeID: 91817680B72690271662871
+    country_name: SouthKorea
+  SouthKorea_Adm2_215:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seodaemun-gu
+    shapeID: 91817680B65126245655882
+    country_name: SouthKorea
+  SouthKorea_Adm2_216:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Mapo-gu
+    shapeID: 91817680B14643286354390
+    country_name: SouthKorea
+  SouthKorea_Adm2_217:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yeongdeungpo-gu
+    shapeID: 91817680B5490200958143
+    country_name: SouthKorea
+  SouthKorea_Adm2_218:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gwanak-gu
+    shapeID: 91817680B99536699865294
+    country_name: SouthKorea
+  SouthKorea_Adm2_219:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Guro-gu
+    shapeID: 91817680B1968034056748
+    country_name: SouthKorea
+  SouthKorea_Adm2_22:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Cheorwon-gun
+    shapeID: 91817680B73346878676901
+    country_name: SouthKorea
+  SouthKorea_Adm2_220:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yangcheon-gu
+    shapeID: 91817680B8017156108400
+    country_name: SouthKorea
+  SouthKorea_Adm2_221:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Geumcheon-gu
+    shapeID: 91817680B69479464976516
+    country_name: SouthKorea
+  SouthKorea_Adm2_222:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gunsan-si
+    shapeID: 91817680B51344731064077
+    country_name: SouthKorea
+  SouthKorea_Adm2_223:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Sasang-gu
+    shapeID: 91817680B50207003035
+    country_name: SouthKorea
+  SouthKorea_Adm2_224:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yeosu-si
+    shapeID: 91817680B8944082307158
+    country_name: SouthKorea
+  SouthKorea_Adm2_225:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Anyang-si
+    shapeID: 91817680B30491742711894
+    country_name: SouthKorea
+  SouthKorea_Adm2_226:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jindo-gun
+    shapeID: 91817680B56099735913612
+    country_name: SouthKorea
+  SouthKorea_Adm2_227:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Sinan-gun
+    shapeID: 91817680B46467557111645
+    country_name: SouthKorea
+  SouthKorea_Adm2_228:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Ulleung-gun
+    shapeID: 91817680B98862203953263
+    country_name: SouthKorea
+  SouthKorea_Adm2_23:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yeoncheon-gun
+    shapeID: 91817680B98224083425041
+    country_name: SouthKorea
+  SouthKorea_Adm2_24:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dongducheon-si
+    shapeID: 91817680B11345954741605
+    country_name: SouthKorea
+  SouthKorea_Adm2_25:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Pocheon-si
+    shapeID: 91817680B75483661313195
+    country_name: SouthKorea
+  SouthKorea_Adm2_26:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Hongcheon-gun
+    shapeID: 91817680B15226656503507
+    country_name: SouthKorea
+  SouthKorea_Adm2_27:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gapyeong-gun
+    shapeID: 91817680B96761005572442
+    country_name: SouthKorea
+  SouthKorea_Adm2_28:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Hoengseong-gun
+    shapeID: 91817680B58418421780923
+    country_name: SouthKorea
+  SouthKorea_Adm2_29:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yangpyeong-gun
+    shapeID: 91817680B89058224266184
+    country_name: SouthKorea
+  SouthKorea_Adm2_3:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yangyang-gun
+    shapeID: 91817680B9940099959324
+    country_name: SouthKorea
+  SouthKorea_Adm2_30:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gwangju-si
+    shapeID: 91817680B33140835215225
+    country_name: SouthKorea
+  SouthKorea_Adm2_31:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yeoju
+    shapeID: 91817680B81929081090334
+    country_name: SouthKorea
+  SouthKorea_Adm2_32:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Wonju-si
+    shapeID: 91817680B41990583973423
+    country_name: SouthKorea
+  SouthKorea_Adm2_33:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yeongwol-gun
+    shapeID: 91817680B79863718076959
+    country_name: SouthKorea
+  SouthKorea_Adm2_34:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Icheon-si
+    shapeID: 91817680B6202152929023
+    country_name: SouthKorea
+  SouthKorea_Adm2_35:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Eumseong-gun
+    shapeID: 91817680B44245642839981
+    country_name: SouthKorea
+  SouthKorea_Adm2_36:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Chungju-si
+    shapeID: 91817680B87543439372548
+    country_name: SouthKorea
+  SouthKorea_Adm2_37:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jecheon-si
+    shapeID: 91817680B41858032192319
+    country_name: SouthKorea
+  SouthKorea_Adm2_38:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Danyang-gun
+    shapeID: 91817680B46750425552975
+    country_name: SouthKorea
+  SouthKorea_Adm2_39:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yeongju-si
+    shapeID: 91817680B73468767289539
+    country_name: SouthKorea
+  SouthKorea_Adm2_4:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gangneung-si
+    shapeID: 91817680B99242230797556
+    country_name: SouthKorea
+  SouthKorea_Adm2_40:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Bonghwa-gun
+    shapeID: 91817680B47987210748527
+    country_name: SouthKorea
+  SouthKorea_Adm2_41:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yeongyang-gun
+    shapeID: 91817680B35472999009946
+    country_name: SouthKorea
+  SouthKorea_Adm2_42:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Goesan-gun
+    shapeID: 91817680B74553451927555
+    country_name: SouthKorea
+  SouthKorea_Adm2_43:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jeungpyeong-gun
+    shapeID: 91817680B75298348451478
+    country_name: SouthKorea
+  SouthKorea_Adm2_44:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Mungyeong-si
+    shapeID: 91817680B43065782555772
+    country_name: SouthKorea
+  SouthKorea_Adm2_45:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yecheon-gun
+    shapeID: 91817680B75354784424725
+    country_name: SouthKorea
+  SouthKorea_Adm2_46:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Andong-si
+    shapeID: 91817680B16014600177045
+    country_name: SouthKorea
+  SouthKorea_Adm2_47:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Cheongsong-gun
+    shapeID: 91817680B32757414449699
+    country_name: SouthKorea
+  SouthKorea_Adm2_48:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yeongcheon-si
+    shapeID: 91817680B48235767363306
+    country_name: SouthKorea
+  SouthKorea_Adm2_49:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gunwi-gun
+    shapeID: 91817680B30315657457409
+    country_name: SouthKorea
+  SouthKorea_Adm2_5:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Donghae-si
+    shapeID: 91817680B21216327036282
+    country_name: SouthKorea
+  SouthKorea_Adm2_50:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Uiseong-gun
+    shapeID: 91817680B75376031789242
+    country_name: SouthKorea
+  SouthKorea_Adm2_51:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Sangju-si
+    shapeID: 91817680B21539665501577
+    country_name: SouthKorea
+  SouthKorea_Adm2_52:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gumi-si
+    shapeID: 91817680B86853073591153
+    country_name: SouthKorea
+  SouthKorea_Adm2_53:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Boeun-gun
+    shapeID: 91817680B36624004409046
+    country_name: SouthKorea
+  SouthKorea_Adm2_54:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Cheongju-si
+    shapeID: 91817680B7472001038353
+    country_name: SouthKorea
+  SouthKorea_Adm2_55:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dong-gu
+    shapeID: 91817680B53543824194985
+    country_name: SouthKorea
+  SouthKorea_Adm2_56:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jung-gu
+    shapeID: 91817680B30301323398004
+    country_name: SouthKorea
+  SouthKorea_Adm2_57:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seo-gu
+    shapeID: 91817680B57044302860475
+    country_name: SouthKorea
+  SouthKorea_Adm2_58:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Daedeok-gu
+    shapeID: 91817680B29564477042831
+    country_name: SouthKorea
+  SouthKorea_Adm2_59:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yuseong-gu
     shapeID: 91817680B90442190394967
+    country_name: SouthKorea
+  SouthKorea_Adm2_6:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Samcheok-si
+    shapeID: 91817680B11339106619066
+    country_name: SouthKorea
+  SouthKorea_Adm2_60:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Sejong-si
+    shapeID: 91817680B40148089014896
+    country_name: SouthKorea
+  SouthKorea_Adm2_61:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Cheonan-si
+    shapeID: 91817680B50780672353800
+    country_name: SouthKorea
+  SouthKorea_Adm2_62:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jincheon-gun
+    shapeID: 91817680B40614027699537
+    country_name: SouthKorea
+  SouthKorea_Adm2_63:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Anseong-si
+    shapeID: 91817680B64740203795166
+    country_name: SouthKorea
+  SouthKorea_Adm2_64:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yongin-si
+    shapeID: 91817680B86612267469181
+    country_name: SouthKorea
+  SouthKorea_Adm2_65:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Osan-si
+    shapeID: 91817680B96375859106804
+    country_name: SouthKorea
+  SouthKorea_Adm2_66:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Pyeongtaek-si
+    shapeID: 91817680B85680883794904
+    country_name: SouthKorea
+  SouthKorea_Adm2_67:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Okcheon-gun
+    shapeID: 91817680B1659695850463
+    country_name: SouthKorea
+  SouthKorea_Adm2_68:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gyeongsan-si
+    shapeID: 91817680B37299464646583
+    country_name: SouthKorea
+  SouthKorea_Adm2_69:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Cheongdo-gun
+    shapeID: 91817680B59018342058044
+    country_name: SouthKorea
+  SouthKorea_Adm2_7:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Taebaek-si
+    shapeID: 91817680B55715776787208
+    country_name: SouthKorea
+  SouthKorea_Adm2_70:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Miryang-si
+    shapeID: 91817680B88513858108060
+    country_name: SouthKorea
+  SouthKorea_Adm2_71:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gimhae-si
+    shapeID: 91817680B1708787718818
+    country_name: SouthKorea
+  SouthKorea_Adm2_72:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Chilgok-gun
+    shapeID: 91817680B44952414610796
+    country_name: SouthKorea
+  SouthKorea_Adm2_73:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dalseong-gun
+    shapeID: 91817680B33489673734556
+    country_name: SouthKorea
+  SouthKorea_Adm2_74:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Dong-gu
+    shapeID: 91817680B96924831002014
+    country_name: SouthKorea
+  SouthKorea_Adm2_75:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Goryeong-gun
+    shapeID: 91817680B88985387415210
+    country_name: SouthKorea
+  SouthKorea_Adm2_76:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Seongju-gun
+    shapeID: 91817680B40534015790157
+    country_name: SouthKorea
+  SouthKorea_Adm2_77:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gimcheon-si
+    shapeID: 91817680B51485783996699
+    country_name: SouthKorea
+  SouthKorea_Adm2_78:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yeongdong-gun
+    shapeID: 91817680B4431337162748
+    country_name: SouthKorea
+  SouthKorea_Adm2_79:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Geumsan-gun
+    shapeID: 91817680B68842805087026
+    country_name: SouthKorea
+  SouthKorea_Adm2_8:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Uljin-gun
+    shapeID: 91817680B88731995383072
+    country_name: SouthKorea
+  SouthKorea_Adm2_80:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gyeryong-si
+    shapeID: 91817680B70392770223342
+    country_name: SouthKorea
+  SouthKorea_Adm2_81:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Gongju-si
+    shapeID: 91817680B8449507929864
+    country_name: SouthKorea
+  SouthKorea_Adm2_82:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Asan-si
+    shapeID: 91817680B56248521536513
+    country_name: SouthKorea
+  SouthKorea_Adm2_83:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yesan-gun
+    shapeID: 91817680B1629367715088
+    country_name: SouthKorea
+  SouthKorea_Adm2_84:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Cheongyang-gun
+    shapeID: 91817680B7861346133014
+    country_name: SouthKorea
+  SouthKorea_Adm2_85:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Nonsan-si
+    shapeID: 91817680B11377751855609
+    country_name: SouthKorea
+  SouthKorea_Adm2_86:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Buyeo-gun
+    shapeID: 91817680B35509676151777
+    country_name: SouthKorea
+  SouthKorea_Adm2_87:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Changnyeong-gun
+    shapeID: 91817680B39611758954351
+    country_name: SouthKorea
+  SouthKorea_Adm2_88:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Hapcheon-gun
+    shapeID: 91817680B92973690121395
+    country_name: SouthKorea
+  SouthKorea_Adm2_89:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Uiryeong-gun
+    shapeID: 91817680B90592918780723
+    country_name: SouthKorea
+  SouthKorea_Adm2_9:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Yeongdeok-gun
+    shapeID: 91817680B91067436457746
+    country_name: SouthKorea
+  SouthKorea_Adm2_90:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Haman-gun
+    shapeID: 91817680B30389585516178
+    country_name: SouthKorea
+  SouthKorea_Adm2_91:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Geochang-gun
+    shapeID: 91817680B91736183236009
+    country_name: SouthKorea
+  SouthKorea_Adm2_92:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Muju-gun
+    shapeID: 91817680B53198155341948
+    country_name: SouthKorea
+  SouthKorea_Adm2_93:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Hamyang-gun
+    shapeID: 91817680B59476098361869
+    country_name: SouthKorea
+  SouthKorea_Adm2_94:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Sancheong-gun
+    shapeID: 91817680B92610564128426
+    country_name: SouthKorea
+  SouthKorea_Adm2_95:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jinju-si
+    shapeID: 91817680B32789615967236
+    country_name: SouthKorea
+  SouthKorea_Adm2_96:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jangsu-gun
+    shapeID: 91817680B93090957259339
+    country_name: SouthKorea
+  SouthKorea_Adm2_97:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jinan-gun
+    shapeID: 91817680B51132506733028
+    country_name: SouthKorea
+  SouthKorea_Adm2_98:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Jeonju-si
+    shapeID: 91817680B88957070935676
+    country_name: SouthKorea
+  SouthKorea_Adm2_99:
+    iso3c: KOR
+    admin_level: Adm2
+    admin_name: Wanju-gun
+    shapeID: 91817680B60221740281290
+    country_name: SouthKorea

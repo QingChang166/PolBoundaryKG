@@ -1,281 +1,427 @@
 concepts:
-  AdrarAdm1MRT:
+  Mauritania_Adm0:
+    iso3c: MRT
+    admin_level: Adm0
+    admin_name: Mauritania
+    shapeID: 45414712B39761203107443
+    country_name: Mauritania
+  Mauritania_Adm1_1:
+    iso3c: MRT
+    admin_level: Adm1
     admin_name: Adrar
-    iso3c: MRT
     shapeID: 64602211B19416274064143
-  AkjoujtAdm2MRT:
-    admin_name: Akjoujt
+    country_name: Mauritania
+  Mauritania_Adm1_10:
     iso3c: MRT
-    shapeID: 47542326B26316239883363
-  AlegAdm2MRT:
-    admin_name: Aleg
-    iso3c: MRT
-    shapeID: 47542326B53604404291210
-  AmourjAdm2MRT:
-    admin_name: Amourj
-    iso3c: MRT
-    shapeID: 47542326B9245180339851
-  AoujeftAdm2MRT:
-    admin_name: Aoujeft
-    iso3c: MRT
-    shapeID: 47542326B38912627875653
-  ArafatAdm2MRT:
-    admin_name: Arafat
-    iso3c: MRT
-    shapeID: 47542326B30050302787661
-  AssabaAdm1MRT:
-    admin_name: Assaba
-    iso3c: MRT
-    shapeID: 64602211B24757493091095
-  AtarAdm2MRT:
-    admin_name: Atar
-    iso3c: MRT
-    shapeID: 47542326B12791497255333
-  BababeAdm2MRT:
-    admin_name: Bababe
-    iso3c: MRT
-    shapeID: 47542326B74593484893275
-  BarkeolAdm2MRT:
-    admin_name: Barkeol
-    iso3c: MRT
-    shapeID: 47542326B92526973547543
-  BasseknouAdm2MRT:
-    admin_name: Basseknou
-    iso3c: MRT
-    shapeID: 47542326B79518958456259
-  BenichabAdm2MRT:
-    admin_name: Benichab
-    iso3c: MRT
-    shapeID: 47542326B98603827415339
-  BirMoghreinAdm2MRT:
-    admin_name: BirMoghrein
-    iso3c: MRT
-    shapeID: 47542326B49457561972338
-  BogheAdm2MRT:
-    admin_name: Boghe
-    iso3c: MRT
-    shapeID: 47542326B52802302132146
-  BoumdeidAdm2MRT:
-    admin_name: Boumdeid
-    iso3c: MRT
-    shapeID: 47542326B4408163770822
-  BoutilimittAdm2MRT:
-    admin_name: Boutilimitt
-    iso3c: MRT
-    shapeID: 47542326B79459539986617
-  BraknaAdm1MRT:
-    admin_name: Brakna
-    iso3c: MRT
-    shapeID: 64602211B32818049823770
-  ChamiAdm2MRT:
-    admin_name: Chami
-    iso3c: MRT
-    shapeID: 47542326B60250303477597
-  ChinguittiAdm2MRT:
-    admin_name: Chinguitti
-    iso3c: MRT
-    shapeID: 47542326B90495786476095
-  DakhletNouadhibouAdm1MRT:
-    admin_name: DakhletNouadhibou
-    iso3c: MRT
-    shapeID: 64602211B42879511039945
-  DarNaimAdm2MRT:
-    admin_name: DarNaim
-    iso3c: MRT
-    shapeID: 47542326B20684442825570
-  DjigueniAdm2MRT:
-    admin_name: Djigueni
-    iso3c: MRT
-    shapeID: 47542326B52298833192374
-  EayouneElAtrousAdm2MRT:
-    admin_name: EayouneElAtrous
-    iso3c: MRT
-    shapeID: 47542326B47795340566920
-  ElMejryaAdm2MRT:
-    admin_name: ElMejrya
-    iso3c: MRT
-    shapeID: 47542326B50345645287156
-  ElMinaAdm2MRT:
-    admin_name: ElMina
-    iso3c: MRT
-    shapeID: 47542326B34919448738513
-  F'DerickAdm2MRT:
-    admin_name: F'Derick
-    iso3c: MRT
-    shapeID: 47542326B14226246765401
-  GhabouAdm2MRT:
-    admin_name: Ghabou
-    iso3c: MRT
-    shapeID: 47542326B82257373833544
-  GorgolAdm1MRT:
-    admin_name: Gorgol
-    iso3c: MRT
-    shapeID: 64602211B65251719279272
-  GuerrouAdm2MRT:
-    admin_name: Guerrou
-    iso3c: MRT
-    shapeID: 47542326B49231245131640
-  GuidimakaAdm1MRT:
-    admin_name: Guidimaka
-    iso3c: MRT
-    shapeID: 64602211B46967673309417
-  HodhechCharguiAdm1MRT:
-    admin_name: HodhechChargui
-    iso3c: MRT
-    shapeID: 64602211B22115476481884
-  HodhelGharbiAdm1MRT:
-    admin_name: HodhelGharbi
-    iso3c: MRT
-    shapeID: 64602211B52393032227980
-  InchiriAdm1MRT:
-    admin_name: Inchiri
-    iso3c: MRT
-    shapeID: 64602211B38857826595310
-  KaediAdm2MRT:
-    admin_name: Kaedi
-    iso3c: MRT
-    shapeID: 47542326B29120201182559
-  KankossaAdm2MRT:
-    admin_name: Kankossa
-    iso3c: MRT
-    shapeID: 47542326B30732925248213
-  KeurMaceneAdm2MRT:
-    admin_name: KeurMacene
-    iso3c: MRT
-    shapeID: 47542326B95460333313215
-  KiffaAdm2MRT:
-    admin_name: Kiffa
-    iso3c: MRT
-    shapeID: 47542326B84598403271907
-  KoubenniAdm2MRT:
-    admin_name: Koubenni
-    iso3c: MRT
-    shapeID: 47542326B43555481021158
-  KsarAdm2MRT:
-    admin_name: Ksar
-    iso3c: MRT
-    shapeID: 47542326B19939520283708
-  M'BagneAdm2MRT:
-    admin_name: M'Bagne
-    iso3c: MRT
-    shapeID: 47542326B91967865285968
-  M'boutAdm2MRT:
-    admin_name: M'bout
-    iso3c: MRT
-    shapeID: 47542326B11221851845412
-  MaghamaAdm2MRT:
-    admin_name: Maghama
-    iso3c: MRT
-    shapeID: 47542326B54868139713795
-  MagtalahjarAdm2MRT:
-    admin_name: Magtalahjar
-    iso3c: MRT
-    shapeID: 47542326B18376526841546
-  MederdraAdm2MRT:
-    admin_name: Mederdra
-    iso3c: MRT
-    shapeID: 47542326B59245352565920
-  MonguelAdm2MRT:
-    admin_name: Monguel
-    iso3c: MRT
-    shapeID: 47542326B31251685847111
-  Moughataad'EnneamaAdm2MRT:
-    admin_name: Moughataad'Enneama
-    iso3c: MRT
-    shapeID: 47542326B75019227159374
-  N'beiketLehouachAdm2MRT:
-    admin_name: N'beiketLehouach
-    iso3c: MRT
-    shapeID: 47542326B78705057775708
-  NouadhibouAdm2MRT:
-    admin_name: Nouadhibou
-    iso3c: MRT
-    shapeID: 47542326B41685059019738
-  NouakchottAdm1MRT:
+    admin_level: Adm1
     admin_name: Nouakchott
-    iso3c: MRT
     shapeID: 64602211B45475199809733
-  OuadaneAdm2MRT:
-    admin_name: Ouadane
+    country_name: Mauritania
+  Mauritania_Adm1_11:
     iso3c: MRT
-    shapeID: 47542326B44927668035814
-  OuadNagaAdm2MRT:
-    admin_name: OuadNaga
-    iso3c: MRT
-    shapeID: 47542326B19423449459947
-  OualataAdm2MRT:
-    admin_name: Oualata
-    iso3c: MRT
-    shapeID: 47542326B56395627841614
-  OuldYengeAdm2MRT:
-    admin_name: OuldYenge
-    iso3c: MRT
-    shapeID: 47542326B88135317282644
-  R'KizAdm2MRT:
-    admin_name: R'Kiz
-    iso3c: MRT
-    shapeID: 47542326B92400580164100
-  RiyadhAdm2MRT:
-    admin_name: Riyadh
-    iso3c: MRT
-    shapeID: 47542326B18524078593640
-  RossoAdm2MRT:
-    admin_name: Rosso
-    iso3c: MRT
-    shapeID: 47542326B77132653245300
-  SebkhaAdm2MRT:
-    admin_name: Sebkha
-    iso3c: MRT
-    shapeID: 47542326B41815213489591
-  SelibabiAdm2MRT:
-    admin_name: Selibabi
-    iso3c: MRT
-    shapeID: 47542326B53880541156854
-  TagantAdm1MRT:
+    admin_level: Adm1
     admin_name: Tagant
-    iso3c: MRT
     shapeID: 64602211B48349945606013
-  TamchekettAdm2MRT:
-    admin_name: Tamchekett
+    country_name: Mauritania
+  Mauritania_Adm1_12:
     iso3c: MRT
-    shapeID: 47542326B49487198034252
-  TevraghZeinAdm2MRT:
-    admin_name: TevraghZein
-    iso3c: MRT
-    shapeID: 47542326B736390613482
-  TeyarettAdm2MRT:
-    admin_name: Teyarett
-    iso3c: MRT
-    shapeID: 47542326B65700672861559
-  TichittAdm2MRT:
-    admin_name: Tichitt
-    iso3c: MRT
-    shapeID: 47542326B42701553126465
-  TijigjaAdm2MRT:
-    admin_name: Tijigja
-    iso3c: MRT
-    shapeID: 47542326B404198781259
-  TimbedghaAdm2MRT:
-    admin_name: Timbedgha
-    iso3c: MRT
-    shapeID: 47542326B26087332325113
-  TintaneAdm2MRT:
-    admin_name: Tintane
-    iso3c: MRT
-    shapeID: 47542326B49589683558539
-  TirisZemmourAdm1MRT:
+    admin_level: Adm1
     admin_name: TirisZemmour
-    iso3c: MRT
     shapeID: 64602211B50097143527370
-  ToujounineAdm2MRT:
-    admin_name: Toujounine
+    country_name: Mauritania
+  Mauritania_Adm1_13:
     iso3c: MRT
-    shapeID: 47542326B78041808774540
-  TrarzaAdm1MRT:
+    admin_level: Adm1
     admin_name: Trarza
-    iso3c: MRT
     shapeID: 64602211B44145471606678
-  ZouerattAdm2MRT:
-    admin_name: Zoueratt
+    country_name: Mauritania
+  Mauritania_Adm1_2:
     iso3c: MRT
+    admin_level: Adm1
+    admin_name: Assaba
+    shapeID: 64602211B24757493091095
+    country_name: Mauritania
+  Mauritania_Adm1_3:
+    iso3c: MRT
+    admin_level: Adm1
+    admin_name: Brakna
+    shapeID: 64602211B32818049823770
+    country_name: Mauritania
+  Mauritania_Adm1_4:
+    iso3c: MRT
+    admin_level: Adm1
+    admin_name: DakhletNouadhibou
+    shapeID: 64602211B42879511039945
+    country_name: Mauritania
+  Mauritania_Adm1_5:
+    iso3c: MRT
+    admin_level: Adm1
+    admin_name: Gorgol
+    shapeID: 64602211B65251719279272
+    country_name: Mauritania
+  Mauritania_Adm1_6:
+    iso3c: MRT
+    admin_level: Adm1
+    admin_name: Guidimaka
+    shapeID: 64602211B46967673309417
+    country_name: Mauritania
+  Mauritania_Adm1_7:
+    iso3c: MRT
+    admin_level: Adm1
+    admin_name: HodhechChargui
+    shapeID: 64602211B22115476481884
+    country_name: Mauritania
+  Mauritania_Adm1_8:
+    iso3c: MRT
+    admin_level: Adm1
+    admin_name: HodhelGharbi
+    shapeID: 64602211B52393032227980
+    country_name: Mauritania
+  Mauritania_Adm1_9:
+    iso3c: MRT
+    admin_level: Adm1
+    admin_name: Inchiri
+    shapeID: 64602211B38857826595310
+    country_name: Mauritania
+  Mauritania_Adm2_1:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Akjoujt
+    shapeID: 47542326B26316239883363
+    country_name: Mauritania
+  Mauritania_Adm2_10:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Benichab
+    shapeID: 47542326B98603827415339
+    country_name: Mauritania
+  Mauritania_Adm2_11:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: BirMoghrein
+    shapeID: 47542326B49457561972338
+    country_name: Mauritania
+  Mauritania_Adm2_12:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Boghe
+    shapeID: 47542326B52802302132146
+    country_name: Mauritania
+  Mauritania_Adm2_13:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Boumdeid
+    shapeID: 47542326B4408163770822
+    country_name: Mauritania
+  Mauritania_Adm2_14:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Boutilimitt
+    shapeID: 47542326B79459539986617
+    country_name: Mauritania
+  Mauritania_Adm2_15:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Chami
+    shapeID: 47542326B60250303477597
+    country_name: Mauritania
+  Mauritania_Adm2_16:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Chinguitti
+    shapeID: 47542326B90495786476095
+    country_name: Mauritania
+  Mauritania_Adm2_17:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: DarNaim
+    shapeID: 47542326B20684442825570
+    country_name: Mauritania
+  Mauritania_Adm2_18:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Djigueni
+    shapeID: 47542326B52298833192374
+    country_name: Mauritania
+  Mauritania_Adm2_19:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: EayouneElAtrous
+    shapeID: 47542326B47795340566920
+    country_name: Mauritania
+  Mauritania_Adm2_2:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Aleg
+    shapeID: 47542326B53604404291210
+    country_name: Mauritania
+  Mauritania_Adm2_20:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: ElMejrya
+    shapeID: 47542326B50345645287156
+    country_name: Mauritania
+  Mauritania_Adm2_21:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: ElMina
+    shapeID: 47542326B34919448738513
+    country_name: Mauritania
+  Mauritania_Adm2_22:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: F'Derick
+    shapeID: 47542326B14226246765401
+    country_name: Mauritania
+  Mauritania_Adm2_23:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Ghabou
+    shapeID: 47542326B82257373833544
+    country_name: Mauritania
+  Mauritania_Adm2_24:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Guerrou
+    shapeID: 47542326B49231245131640
+    country_name: Mauritania
+  Mauritania_Adm2_25:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Kaedi
+    shapeID: 47542326B29120201182559
+    country_name: Mauritania
+  Mauritania_Adm2_26:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Kankossa
+    shapeID: 47542326B30732925248213
+    country_name: Mauritania
+  Mauritania_Adm2_27:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: KeurMacene
+    shapeID: 47542326B95460333313215
+    country_name: Mauritania
+  Mauritania_Adm2_28:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Kiffa
+    shapeID: 47542326B84598403271907
+    country_name: Mauritania
+  Mauritania_Adm2_29:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Koubenni
+    shapeID: 47542326B43555481021158
+    country_name: Mauritania
+  Mauritania_Adm2_3:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Amourj
+    shapeID: 47542326B9245180339851
+    country_name: Mauritania
+  Mauritania_Adm2_30:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Ksar
+    shapeID: 47542326B19939520283708
+    country_name: Mauritania
+  Mauritania_Adm2_31:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: M'Bagne
+    shapeID: 47542326B91967865285968
+    country_name: Mauritania
+  Mauritania_Adm2_32:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: M'bout
+    shapeID: 47542326B11221851845412
+    country_name: Mauritania
+  Mauritania_Adm2_33:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Maghama
+    shapeID: 47542326B54868139713795
+    country_name: Mauritania
+  Mauritania_Adm2_34:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Magtalahjar
+    shapeID: 47542326B18376526841546
+    country_name: Mauritania
+  Mauritania_Adm2_35:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Mederdra
+    shapeID: 47542326B59245352565920
+    country_name: Mauritania
+  Mauritania_Adm2_36:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Monguel
+    shapeID: 47542326B31251685847111
+    country_name: Mauritania
+  Mauritania_Adm2_37:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Moughataad'Enneama
+    shapeID: 47542326B75019227159374
+    country_name: Mauritania
+  Mauritania_Adm2_38:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: N'beiketLehouach
+    shapeID: 47542326B78705057775708
+    country_name: Mauritania
+  Mauritania_Adm2_39:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Nouadhibou
+    shapeID: 47542326B41685059019738
+    country_name: Mauritania
+  Mauritania_Adm2_4:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Aoujeft
+    shapeID: 47542326B38912627875653
+    country_name: Mauritania
+  Mauritania_Adm2_40:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: OuadNaga
+    shapeID: 47542326B19423449459947
+    country_name: Mauritania
+  Mauritania_Adm2_41:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Ouadane
+    shapeID: 47542326B44927668035814
+    country_name: Mauritania
+  Mauritania_Adm2_42:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Oualata
+    shapeID: 47542326B56395627841614
+    country_name: Mauritania
+  Mauritania_Adm2_43:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: OuldYenge
+    shapeID: 47542326B88135317282644
+    country_name: Mauritania
+  Mauritania_Adm2_44:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: R'Kiz
+    shapeID: 47542326B92400580164100
+    country_name: Mauritania
+  Mauritania_Adm2_45:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Riyadh
+    shapeID: 47542326B18524078593640
+    country_name: Mauritania
+  Mauritania_Adm2_46:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Rosso
+    shapeID: 47542326B77132653245300
+    country_name: Mauritania
+  Mauritania_Adm2_47:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Sebkha
+    shapeID: 47542326B41815213489591
+    country_name: Mauritania
+  Mauritania_Adm2_48:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Selibabi
+    shapeID: 47542326B53880541156854
+    country_name: Mauritania
+  Mauritania_Adm2_49:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Tamchekett
+    shapeID: 47542326B49487198034252
+    country_name: Mauritania
+  Mauritania_Adm2_5:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Arafat
+    shapeID: 47542326B30050302787661
+    country_name: Mauritania
+  Mauritania_Adm2_50:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: TevraghZein
+    shapeID: 47542326B736390613482
+    country_name: Mauritania
+  Mauritania_Adm2_51:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Teyarett
+    shapeID: 47542326B65700672861559
+    country_name: Mauritania
+  Mauritania_Adm2_52:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Tichitt
+    shapeID: 47542326B42701553126465
+    country_name: Mauritania
+  Mauritania_Adm2_53:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Tijigja
+    shapeID: 47542326B404198781259
+    country_name: Mauritania
+  Mauritania_Adm2_54:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Timbedgha
+    shapeID: 47542326B26087332325113
+    country_name: Mauritania
+  Mauritania_Adm2_55:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Tintane
+    shapeID: 47542326B49589683558539
+    country_name: Mauritania
+  Mauritania_Adm2_56:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Toujounine
+    shapeID: 47542326B78041808774540
+    country_name: Mauritania
+  Mauritania_Adm2_57:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Zoueratt
     shapeID: 47542326B94085620874331
+    country_name: Mauritania
+  Mauritania_Adm2_6:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Atar
+    shapeID: 47542326B12791497255333
+    country_name: Mauritania
+  Mauritania_Adm2_7:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Bababe
+    shapeID: 47542326B74593484893275
+    country_name: Mauritania
+  Mauritania_Adm2_8:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Barkeol
+    shapeID: 47542326B92526973547543
+    country_name: Mauritania
+  Mauritania_Adm2_9:
+    iso3c: MRT
+    admin_level: Adm2
+    admin_name: Basseknou
+    shapeID: 47542326B79518958456259
+    country_name: Mauritania

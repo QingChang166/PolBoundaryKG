@@ -1,3125 +1,4639 @@
 concepts:
-  ALuoiAdm2VNM:
-    admin_name: ALuoi
+  Vietnam_Adm0:
     iso3c: VNM
-    shapeID: 81297802B94706269623038
-  AnBienAdm2VNM:
-    admin_name: AnBien
+    admin_level: Adm0
+    admin_name: Vietnam
+    shapeID: 46766057B20227385519093
+    country_name: Vietnam
+  Vietnam_Adm1_1:
     iso3c: VNM
-    shapeID: 81297802B3825263519858
-  AnDuongAdm2VNM:
-    admin_name: AnDuong
-    iso3c: VNM
-    shapeID: 81297802B31270346353021
-  AnGiangAdm1VNM:
+    admin_level: Adm1
     admin_name: AnGiang
-    iso3c: VNM
     shapeID: 63759600B46141220358660
-  AnhSonAdm2VNM:
-    admin_name: AnhSon
+    country_name: Vietnam
+  Vietnam_Adm1_10:
     iso3c: VNM
-    shapeID: 81297802B23970425053168
-  AnKheAdm2VNM:
-    admin_name: AnKhe
-    iso3c: VNM
-    shapeID: 81297802B94904539855050
-  AnLaoAdm2VNM:
-    admin_name:
-    - AnLao
-    - AnLao
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B65658789050233
-    - 81297802B61161719512326
-  AnMinhAdm2VNM:
-    admin_name: AnMinh
-    iso3c: VNM
-    shapeID: 81297802B42244354568951
-  AnNhonAdm2VNM:
-    admin_name: AnNhon
-    iso3c: VNM
-    shapeID: 81297802B14138193507010
-  AnPhuAdm2VNM:
-    admin_name: AnPhu
-    iso3c: VNM
-    shapeID: 81297802B41294306698552
-  AnThiAdm2VNM:
-    admin_name: AnThi
-    iso3c: VNM
-    shapeID: 81297802B29202402001629
-  AyunPaAdm2VNM:
-    admin_name: AyunPa
-    iso3c: VNM
-    shapeID: 81297802B91685830390053
-  BaBeAdm2VNM:
-    admin_name: BaBe
-    iso3c: VNM
-    shapeID: 81297802B36883846114124
-  BacAiAdm2VNM:
-    admin_name: BacAi
-    iso3c: VNM
-    shapeID: 81297802B54055270393742
-  BacBinhAdm2VNM:
-    admin_name: BacBinh
-    iso3c: VNM
-    shapeID: 81297802B84889732636102
-  BắcGiangAdm1VNM:
-    admin_name: BắcGiang
-    iso3c: VNM
-    shapeID: 63759600B37262939240335
-  BacGiangAdm2VNM:
-    admin_name: BacGiang
-    iso3c: VNM
-    shapeID: 81297802B62924474209473
-  BacHaAdm2VNM:
-    admin_name: BacHa
-    iso3c: VNM
-    shapeID: 81297802B71116262659242
-  BaCheAdm2VNM:
-    admin_name: BaChe
-    iso3c: VNM
-    shapeID: 81297802B18420716282175
-  BachLongViAdm2VNM:
-    admin_name: BachLongVi
-    iso3c: VNM
-    shapeID: 81297802B40834484476285
-  BachThongAdm2VNM:
-    admin_name: BachThong
-    iso3c: VNM
-    shapeID: 81297802B24696745321038
-  BắcKạnAdm1VNM:
-    admin_name: BắcKạn
-    iso3c: VNM
-    shapeID: 63759600B29118141744967
-  BacKanAdm2VNM:
-    admin_name: BacKan
-    iso3c: VNM
-    shapeID: 81297802B17568713952999
-  BạcLiêuAdm1VNM:
-    admin_name: BạcLiêu
-    iso3c: VNM
-    shapeID: 63759600B49404698723526
-  BacLieuAdm2VNM:
-    admin_name: BacLieu
-    iso3c: VNM
-    shapeID: 81297802B6284379291034
-  BacMeAdm2VNM:
-    admin_name: BacMe
-    iso3c: VNM
-    shapeID: 81297802B85329428934549
-  BắcNinhAdm1VNM:
-    admin_name: BắcNinh
-    iso3c: VNM
-    shapeID: 63759600B40382966221261
-  BacNinhAdm2VNM:
-    admin_name: BacNinh
-    iso3c: VNM
-    shapeID: 81297802B63234506717185
-  BacQuangAdm2VNM:
-    admin_name: BacQuang
-    iso3c: VNM
-    shapeID: 81297802B46816941364430
-  BacSonAdm2VNM:
-    admin_name: BacSon
-    iso3c: VNM
-    shapeID: 81297802B43959874007568
-  BacTanUyenAdm2VNM:
-    admin_name: BacTanUyen
-    iso3c: VNM
-    shapeID: 81297802B7309999559024
-  BacTraMyAdm2VNM:
-    admin_name: BacTraMy
-    iso3c: VNM
-    shapeID: 81297802B65636962466894
-  BacTuLiemAdm2VNM:
-    admin_name: BacTuLiem
-    iso3c: VNM
-    shapeID: 81297802B3906213091507
-  BacYenAdm2VNM:
-    admin_name: BacYen
-    iso3c: VNM
-    shapeID: 81297802B44532488811780
-  BaDinhAdm2VNM:
-    admin_name: BaDinh
-    iso3c: VNM
-    shapeID: 81297802B78295235973409
-  BaDonAdm2VNM:
-    admin_name: BaDon
-    iso3c: VNM
-    shapeID: 81297802B46228878369339
-  BaoLacAdm2VNM:
-    admin_name: BaoLac
-    iso3c: VNM
-    shapeID: 81297802B7761745227660
-  BaoLamAdm2VNM:
-    admin_name:
-    - BaoLam
-    - BaoLam
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B56496932739620
-    - 81297802B89982379831919
-  BaoLocAdm2VNM:
-    admin_name: BaoLoc
-    iso3c: VNM
-    shapeID: 81297802B17535514855325
-  BaoThangAdm2VNM:
-    admin_name: BaoThang
-    iso3c: VNM
-    shapeID: 81297802B25560916681091
-  BaoYenAdm2VNM:
-    admin_name: BaoYen
-    iso3c: VNM
-    shapeID: 81297802B25948208667731
-  BàRịa–VũngTàuAdm1VNM:
-    admin_name: BàRịa–VũngTàu
-    iso3c: VNM
-    shapeID: 63759600B21811289888982
-  BaRiaAdm2VNM:
-    admin_name: BaRia
-    iso3c: VNM
-    shapeID: 81297802B66449035371360
-  BaThuocAdm2VNM:
-    admin_name: BaThuoc
-    iso3c: VNM
-    shapeID: 81297802B10763760406842
-  BaToAdm2VNM:
-    admin_name: BaTo
-    iso3c: VNM
-    shapeID: 81297802B2421652022296
-  BaTriAdm2VNM:
-    admin_name: BaTri
-    iso3c: VNM
-    shapeID: 81297802B69586170313052
-  BatXatAdm2VNM:
-    admin_name: BatXat
-    iso3c: VNM
-    shapeID: 81297802B11536853186467
-  BauBangAdm2VNM:
-    admin_name: BauBang
-    iso3c: VNM
-    shapeID: 81297802B44215588050468
-  BaViAdm2VNM:
-    admin_name: BaVi
-    iso3c: VNM
-    shapeID: 81297802B94958861355476
-  BenCatAdm2VNM:
-    admin_name: BenCat
-    iso3c: VNM
-    shapeID: 81297802B37785439564270
-  BenCauAdm2VNM:
-    admin_name: BenCau
-    iso3c: VNM
-    shapeID: 81297802B61263365113672
-  BenLucAdm2VNM:
-    admin_name: BenLuc
-    iso3c: VNM
-    shapeID: 81297802B50864428315087
-  BếnTreAdm1VNM:
-    admin_name: BếnTre
-    iso3c: VNM
-    shapeID: 63759600B71233846988018
-  BenTreAdm2VNM:
-    admin_name: BenTre
-    iso3c: VNM
-    shapeID: 81297802B1495670326955
-  BienHoaAdm2VNM:
-    admin_name: BienHoa
-    iso3c: VNM
-    shapeID: 81297802B63438000976754
-  BimSonAdm2VNM:
-    admin_name: BimSon
-    iso3c: VNM
-    shapeID: 81297802B8967556658808
-  BinhChanhAdm2VNM:
-    admin_name: BinhChanh
-    iso3c: VNM
-    shapeID: 81297802B93683261125538
-  BinhDaiAdm2VNM:
-    admin_name: BinhDai
-    iso3c: VNM
-    shapeID: 81297802B66163336026361
-  BìnhĐịnhAdm1VNM:
-    admin_name: BìnhĐịnh
-    iso3c: VNM
-    shapeID: 63759600B9901642676381
-  BìnhDươngAdm1VNM:
-    admin_name: BìnhDương
-    iso3c: VNM
-    shapeID: 63759600B4649941622975
-  BinhGiaAdm2VNM:
-    admin_name: BinhGia
-    iso3c: VNM
-    shapeID: 81297802B86040607446214
-  BinhGiangAdm2VNM:
-    admin_name: BinhGiang
-    iso3c: VNM
-    shapeID: 81297802B56696175700764
-  BinhLieuAdm2VNM:
-    admin_name: BinhLieu
-    iso3c: VNM
-    shapeID: 81297802B53696601888295
-  BinhLongAdm2VNM:
-    admin_name: BinhLong
-    iso3c: VNM
-    shapeID: 81297802B43417057118199
-  BinhLucAdm2VNM:
-    admin_name: BinhLuc
-    iso3c: VNM
-    shapeID: 81297802B47692200365960
-  BinhMinhAdm2VNM:
-    admin_name: BinhMinh
-    iso3c: VNM
-    shapeID: 81297802B92843974613199
-  BìnhPhướcAdm1VNM:
+    admin_level: Adm1
     admin_name: BìnhPhước
-    iso3c: VNM
     shapeID: 63759600B13042736323456
-  BinhSonAdm2VNM:
-    admin_name: BinhSon
+    country_name: Vietnam
+  Vietnam_Adm1_11:
     iso3c: VNM
-    shapeID: 81297802B82760747397164
-  BinhTanAdm2VNM:
-    admin_name:
-    - BinhTan
-    - BinhTan
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B74288530741739
-    - 81297802B42527210401893
-  BinhThanhAdm2VNM:
-    admin_name: BinhThanh
-    iso3c: VNM
-    shapeID: 81297802B74412015974526
-  BìnhThuậnAdm1VNM:
+    admin_level: Adm1
     admin_name: BìnhThuận
-    iso3c: VNM
     shapeID: 63759600B31473825670333
-  BinhThuyAdm2VNM:
-    admin_name: BinhThuy
+    country_name: Vietnam
+  Vietnam_Adm1_12:
     iso3c: VNM
-    shapeID: 81297802B33814118608654
-  BinhXuyenAdm2VNM:
-    admin_name: BinhXuyen
-    iso3c: VNM
-    shapeID: 81297802B29926011513196
-  BoTrachAdm2VNM:
-    admin_name: BoTrach
-    iso3c: VNM
-    shapeID: 81297802B63375818356773
-  BuDangAdm2VNM:
-    admin_name: BuDang
-    iso3c: VNM
-    shapeID: 81297802B33312647698223
-  BuDopAdm2VNM:
-    admin_name: BuDop
-    iso3c: VNM
-    shapeID: 81297802B5857215594058
-  BuGiaMapAdm2VNM:
-    admin_name: BuGiaMap
-    iso3c: VNM
-    shapeID: 81297802B78542366840504
-  BuonDonAdm2VNM:
-    admin_name: BuonDon
-    iso3c: VNM
-    shapeID: 81297802B42534502413482
-  BuonHoAdm2VNM:
-    admin_name: BuonHo
-    iso3c: VNM
-    shapeID: 81297802B72254139131894
-  BuonMaThuotAdm2VNM:
-    admin_name: BuonMaThuot
-    iso3c: VNM
-    shapeID: 81297802B34862108658790
-  CaiBeAdm2VNM:
-    admin_name: CaiBe
-    iso3c: VNM
-    shapeID: 81297802B56348725354679
-  CaiNuocAdm2VNM:
-    admin_name: CaiNuoc
-    iso3c: VNM
-    shapeID: 81297802B26446696948049
-  CaiRangAdm2VNM:
-    admin_name: CaiRang
-    iso3c: VNM
-    shapeID: 81297802B53183498164333
-  CàMauAdm1VNM:
+    admin_level: Adm1
     admin_name: CàMau
-    iso3c: VNM
     shapeID: 63759600B81181225404594
-  CaMauAdm2VNM:
-    admin_name: CaMau
+    country_name: Vietnam
+  Vietnam_Adm1_13:
     iso3c: VNM
-    shapeID: 81297802B56186863938752
-  CamGiangAdm2VNM:
-    admin_name: CamGiang
-    iso3c: VNM
-    shapeID: 81297802B85581314164043
-  CamKheAdm2VNM:
-    admin_name: CamKhe
-    iso3c: VNM
-    shapeID: 81297802B31371166923700
-  CamLamAdm2VNM:
-    admin_name: CamLam
-    iso3c: VNM
-    shapeID: 81297802B15274858883665
-  CamLeAdm2VNM:
-    admin_name: CamLe
-    iso3c: VNM
-    shapeID: 81297802B37110717960369
-  CamLoAdm2VNM:
-    admin_name: CamLo
-    iso3c: VNM
-    shapeID: 81297802B81560237884054
-  CamMyAdm2VNM:
-    admin_name: CamMy
-    iso3c: VNM
-    shapeID: 81297802B33413589576034
-  CamPhaAdm2VNM:
-    admin_name: CamPha
-    iso3c: VNM
-    shapeID: 81297802B71504358310710
-  CamRanhAdm2VNM:
-    admin_name: CamRanh
-    iso3c: VNM
-    shapeID: 81297802B88990967828920
-  CamThuyAdm2VNM:
-    admin_name: CamThuy
-    iso3c: VNM
-    shapeID: 81297802B68109668722051
-  CamXuyenAdm2VNM:
-    admin_name: CamXuyen
-    iso3c: VNM
-    shapeID: 81297802B99684516055458
-  CanDuocAdm2VNM:
-    admin_name: CanDuoc
-    iso3c: VNM
-    shapeID: 81297802B37514703849012
-  CanGioAdm2VNM:
-    admin_name: CanGio
-    iso3c: VNM
-    shapeID: 81297802B7702852417854
-  CanGiuocAdm2VNM:
-    admin_name: CanGiuoc
-    iso3c: VNM
-    shapeID: 81297802B44556348511886
-  CangLongAdm2VNM:
-    admin_name: CangLong
-    iso3c: VNM
-    shapeID: 81297802B14177599577280
-  CanLocAdm2VNM:
-    admin_name: CanLoc
-    iso3c: VNM
-    shapeID: 81297802B44635779635670
-  CầnThơAdm1VNM:
+    admin_level: Adm1
     admin_name: CầnThơ
-    iso3c: VNM
     shapeID: 63759600B21046589863912
-  CaoBằngAdm1VNM:
+    country_name: Vietnam
+  Vietnam_Adm1_14:
+    iso3c: VNM
+    admin_level: Adm1
     admin_name: CaoBằng
-    iso3c: VNM
     shapeID: 63759600B11108179203280
-  CaoBangAdm2VNM:
-    admin_name: CaoBang
+    country_name: Vietnam
+  Vietnam_Adm1_15:
     iso3c: VNM
-    shapeID: 81297802B72621516483988
-  CaoLocAdm2VNM:
-    admin_name: CaoLoc
-    iso3c: VNM
-    shapeID: 81297802B94679881937971
-  CaoPhongAdm2VNM:
-    admin_name: CaoPhong
-    iso3c: VNM
-    shapeID: 81297802B52142956360096
-  CatHaiAdm2VNM:
-    admin_name: CatHai
-    iso3c: VNM
-    shapeID: 81297802B5756602808944
-  CatTienAdm2VNM:
-    admin_name: CatTien
-    iso3c: VNM
-    shapeID: 81297802B49537212124970
-  CauGiayAdm2VNM:
-    admin_name: CauGiay
-    iso3c: VNM
-    shapeID: 81297802B81208073820584
-  CauKeAdm2VNM:
-    admin_name: CauKe
-    iso3c: VNM
-    shapeID: 81297802B65507223487475
-  CauNgangAdm2VNM:
-    admin_name: CauNgang
-    iso3c: VNM
-    shapeID: 81297802B90196015208533
-  ChauDocAdm2VNM:
-    admin_name: ChauDoc
-    iso3c: VNM
-    shapeID: 81297802B29469680325647
-  ChauDucAdm2VNM:
-    admin_name: ChauDuc
-    iso3c: VNM
-    shapeID: 81297802B77796697839152
-  ChauPhuAdm2VNM:
-    admin_name: ChauPhu
-    iso3c: VNM
-    shapeID: 81297802B67223328663780
-  ChauThanhAAdm2VNM:
-    admin_name: ChauThanhA
-    iso3c: VNM
-    shapeID: 81297802B94036559538482
-  ChauThanhAdm2VNM:
-    admin_name:
-    - ChauThanh
-    - ChauThanh
-    - ChauThanh
-    - ChauThanh
-    - ChauThanh
-    - ChauThanh
-    - ChauThanh
-    - ChauThanh
-    - ChauThanh
-    - ChauThanh
-    iso3c:
-    - VNM
-    - VNM
-    - VNM
-    - VNM
-    - VNM
-    - VNM
-    - VNM
-    - VNM
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B30323481145094
-    - 81297802B81408558281677
-    - 81297802B15585210216113
-    - 81297802B33105171569216
-    - 81297802B2434648618604
-    - 81297802B56564979250046
-    - 81297802B94247950786042
-    - 81297802B83209776142835
-    - 81297802B55022771369511
-    - 81297802B53741861263416
-  ChiemHoaAdm2VNM:
-    admin_name: ChiemHoa
-    iso3c: VNM
-    shapeID: 81297802B40107493867560
-  ChiLangAdm2VNM:
-    admin_name: ChiLang
-    iso3c: VNM
-    shapeID: 81297802B55451481919262
-  ChiLinhAdm2VNM:
-    admin_name: ChiLinh
-    iso3c: VNM
-    shapeID: 81297802B28152038240632
-  ChoDonAdm2VNM:
-    admin_name: ChoDon
-    iso3c: VNM
-    shapeID: 81297802B41242908240864
-  ChoGaoAdm2VNM:
-    admin_name: ChoGao
-    iso3c: VNM
-    shapeID: 81297802B70172971551103
-  ChoLachAdm2VNM:
-    admin_name: ChoLach
-    iso3c: VNM
-    shapeID: 81297802B13885304658875
-  ChoMoiAdm2VNM:
-    admin_name:
-    - ChoMoi
-    - ChoMoi
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B24308322432437
-    - 81297802B9073555262789
-  ChonThanhAdm2VNM:
-    admin_name: ChonThanh
-    iso3c: VNM
-    shapeID: 81297802B36298380371063
-  ChuongMyAdm2VNM:
-    admin_name: ChuongMy
-    iso3c: VNM
-    shapeID: 81297802B99190294686821
-  ChuPahAdm2VNM:
-    admin_name: ChuPah
-    iso3c: VNM
-    shapeID: 81297802B21786246689715
-  ChuProngAdm2VNM:
-    admin_name: ChuProng
-    iso3c: VNM
-    shapeID: 81297802B50675624734559
-  ChuPuhAdm2VNM:
-    admin_name: ChuPuh
-    iso3c: VNM
-    shapeID: 81297802B62904822955283
-  ChuSeAdm2VNM:
-    admin_name: ChuSe
-    iso3c: VNM
-    shapeID: 81297802B12572198720361
-  CoDoAdm2VNM:
-    admin_name: CoDo
-    iso3c: VNM
-    shapeID: 81297802B1021983329449
-  ConCoAdm2VNM:
-    admin_name: ConCo
-    iso3c: VNM
-    shapeID: 81297802B79612246152029
-  ConCuongAdm2VNM:
-    admin_name: ConCuong
-    iso3c: VNM
-    shapeID: 81297802B27308287932068
-  CônĐảoAdm1VNM:
+    admin_level: Adm1
     admin_name: CônĐảo
-    iso3c: VNM
     shapeID: 63759600B5991530625500
-  ConDaoAdm2VNM:
-    admin_name: ConDao
+    country_name: Vietnam
+  Vietnam_Adm1_16:
     iso3c: VNM
-    shapeID: 81297802B83873736556753
-  CoToAdm2VNM:
-    admin_name: CoTo
-    iso3c: VNM
-    shapeID: 81297802B76384767601248
-  CuaLoAdm2VNM:
-    admin_name: CuaLo
-    iso3c: VNM
-    shapeID: 81297802B13550924224659
-  CuChiAdm2VNM:
-    admin_name: CuChi
-    iso3c: VNM
-    shapeID: 81297802B99873561685500
-  CuJutAdm2VNM:
-    admin_name: CuJut
-    iso3c: VNM
-    shapeID: 81297802B43064907961903
-  CuKuinAdm2VNM:
-    admin_name: CuKuin
-    iso3c: VNM
-    shapeID: 81297802B8003578408571
-  CuLaoDungAdm2VNM:
-    admin_name: CuLaoDung
-    iso3c: VNM
-    shapeID: 81297802B41374649859024
-  CuMgarAdm2VNM:
-    admin_name: CuMgar
-    iso3c: VNM
-    shapeID: 81297802B57943820891789
-  DaBacAdm2VNM:
-    admin_name: DaBac
-    iso3c: VNM
-    shapeID: 81297802B60514422076531
-  DaHuoaiAdm2VNM:
-    admin_name: DaHuoai
-    iso3c: VNM
-    shapeID: 81297802B42288402015377
-  DaiLocAdm2VNM:
-    admin_name: DaiLoc
-    iso3c: VNM
-    shapeID: 81297802B98438479076374
-  DaiTuAdm2VNM:
-    admin_name: DaiTu
-    iso3c: VNM
-    shapeID: 81297802B22157258808987
-  DakDoaAdm2VNM:
-    admin_name: DakDoa
-    iso3c: VNM
-    shapeID: 81297802B36312306774318
-  DakGleiAdm2VNM:
-    admin_name: DakGlei
-    iso3c: VNM
-    shapeID: 81297802B20367953633835
-  DakGlongAdm2VNM:
-    admin_name: DakGlong
-    iso3c: VNM
-    shapeID: 81297802B52664178073196
-  DakHaAdm2VNM:
-    admin_name: DakHa
-    iso3c: VNM
-    shapeID: 81297802B44208556699353
-  ĐắkLắkAdm1VNM:
-    admin_name: ĐắkLắk
-    iso3c: VNM
-    shapeID: 63759600B97182540787332
-  DakMilAdm2VNM:
-    admin_name: DakMil
-    iso3c: VNM
-    shapeID: 81297802B8433513238207
-  ĐắkNôngAdm1VNM:
-    admin_name: ĐắkNông
-    iso3c: VNM
-    shapeID: 63759600B22683796323846
-  DakPoAdm2VNM:
-    admin_name: DakPo
-    iso3c: VNM
-    shapeID: 81297802B45369844815447
-  DakRlapAdm2VNM:
-    admin_name: DakRlap
-    iso3c: VNM
-    shapeID: 81297802B2917427008212
-  DaKrongAdm2VNM:
-    admin_name: DaKrong
-    iso3c: VNM
-    shapeID: 81297802B86066179794931
-  DakSongAdm2VNM:
-    admin_name: DakSong
-    iso3c: VNM
-    shapeID: 81297802B66581332316021
-  DakToAdm2VNM:
-    admin_name: DakTo
-    iso3c: VNM
-    shapeID: 81297802B52627388081803
-  DaLatAdm2VNM:
-    admin_name: DaLat
-    iso3c: VNM
-    shapeID: 81297802B86448730167777
-  DamDoiAdm2VNM:
-    admin_name: DamDoi
-    iso3c: VNM
-    shapeID: 81297802B79677528710757
-  DamHaAdm2VNM:
-    admin_name: DamHa
-    iso3c: VNM
-    shapeID: 81297802B85934029741785
-  DamRongAdm2VNM:
-    admin_name: DamRong
-    iso3c: VNM
-    shapeID: 81297802B48811804766969
-  ĐàNẵngAdm1VNM:
+    admin_level: Adm1
     admin_name: ĐàNẵng
-    iso3c: VNM
     shapeID: 63759600B8583399541445
-  DanPhuongAdm2VNM:
-    admin_name: DanPhuong
+    country_name: Vietnam
+  Vietnam_Adm1_17:
     iso3c: VNM
-    shapeID: 81297802B64128830492510
-  DatDoAdm2VNM:
-    admin_name: DatDo
+    admin_level: Adm1
+    admin_name: ĐắkLắk
+    shapeID: 63759600B97182540787332
+    country_name: Vietnam
+  Vietnam_Adm1_18:
     iso3c: VNM
-    shapeID: 81297802B14105634475822
-  DaTehAdm2VNM:
-    admin_name: DaTeh
+    admin_level: Adm1
+    admin_name: ĐắkNông
+    shapeID: 63759600B22683796323846
+    country_name: Vietnam
+  Vietnam_Adm1_19:
     iso3c: VNM
-    shapeID: 81297802B88275273163475
-  DauTiengAdm2VNM:
-    admin_name: DauTieng
-    iso3c: VNM
-    shapeID: 81297802B65073062645065
-  DiAnAdm2VNM:
-    admin_name: DiAn
-    iso3c: VNM
-    shapeID: 81297802B25090486882402
-  DienBanAdm2VNM:
-    admin_name: DienBan
-    iso3c: VNM
-    shapeID: 81297802B70720207353538
-  ĐiệnBiênAdm1VNM:
+    admin_level: Adm1
     admin_name: ĐiệnBiên
-    iso3c: VNM
     shapeID: 63759600B72990231521734
-  DienBienAdm2VNM:
-    admin_name: DienBien
+    country_name: Vietnam
+  Vietnam_Adm1_2:
     iso3c: VNM
-    shapeID: 81297802B1284717956892
-  DienBienDongAdm2VNM:
-    admin_name: DienBienDong
+    admin_level: Adm1
+    admin_name: BàRịa–VũngTàu
+    shapeID: 63759600B21811289888982
+    country_name: Vietnam
+  Vietnam_Adm1_20:
     iso3c: VNM
-    shapeID: 81297802B35707987060986
-  DienBienPhuAdm2VNM:
-    admin_name: DienBienPhu
-    iso3c: VNM
-    shapeID: 81297802B75517223780643
-  DienChauAdm2VNM:
-    admin_name: DienChau
-    iso3c: VNM
-    shapeID: 81297802B64936965881183
-  DienKhanhAdm2VNM:
-    admin_name: DienKhanh
-    iso3c: VNM
-    shapeID: 81297802B57264474428475
-  DiLinhAdm2VNM:
-    admin_name: DiLinh
-    iso3c: VNM
-    shapeID: 81297802B8144414429904
-  DinhHoaAdm2VNM:
-    admin_name: DinhHoa
-    iso3c: VNM
-    shapeID: 81297802B90284781247335
-  DinhLapAdm2VNM:
-    admin_name: DinhLap
-    iso3c: VNM
-    shapeID: 81297802B72919536287172
-  DinhQuanAdm2VNM:
-    admin_name: DinhQuan
-    iso3c: VNM
-    shapeID: 81297802B49967994067833
-  DoanHungAdm2VNM:
-    admin_name: DoanHung
-    iso3c: VNM
-    shapeID: 81297802B97239523369157
-  DoLuongAdm2VNM:
-    admin_name: DoLuong
-    iso3c: VNM
-    shapeID: 81297802B2130126961507
-  DonDuongAdm2VNM:
-    admin_name: DonDuong
-    iso3c: VNM
-    shapeID: 81297802B74216529473028
-  DongAnhAdm2VNM:
-    admin_name: DongAnh
-    iso3c: VNM
-    shapeID: 81297802B58266448529829
-  DongDaAdm2VNM:
-    admin_name: DongDa
-    iso3c: VNM
-    shapeID: 81297802B63935781650096
-  DongGiangAdm2VNM:
-    admin_name: DongGiang
-    iso3c: VNM
-    shapeID: 81297802B9107629386142
-  DongHaAdm2VNM:
-    admin_name: DongHa
-    iso3c: VNM
-    shapeID: 81297802B80628180194499
-  DongHaiAdm2VNM:
-    admin_name: DongHai
-    iso3c: VNM
-    shapeID: 81297802B21221579574343
-  DongHoaAdm2VNM:
-    admin_name: DongHoa
-    iso3c: VNM
-    shapeID: 81297802B45644811289425
-  DongHoiAdm2VNM:
-    admin_name: DongHoi
-    iso3c: VNM
-    shapeID: 81297802B5400707592531
-  DongHungAdm2VNM:
-    admin_name: DongHung
-    iso3c: VNM
-    shapeID: 81297802B28789600266311
-  DongHyAdm2VNM:
-    admin_name: DongHy
-    iso3c: VNM
-    shapeID: 81297802B71869801036686
-  ĐồngNaiAdm1VNM:
+    admin_level: Adm1
     admin_name: ĐồngNai
-    iso3c: VNM
     shapeID: 63759600B12839449494422
-  DongPhuAdm2VNM:
-    admin_name: DongPhu
+    country_name: Vietnam
+  Vietnam_Adm1_21:
     iso3c: VNM
-    shapeID: 81297802B41717626545623
-  DongSonAdm2VNM:
-    admin_name: DongSon
-    iso3c: VNM
-    shapeID: 81297802B98540731986743
-  ĐồngThápAdm1VNM:
+    admin_level: Adm1
     admin_name: ĐồngTháp
-    iso3c: VNM
     shapeID: 63759600B81354309972615
-  DongTrieuAdm2VNM:
-    admin_name: DongTrieu
+    country_name: Vietnam
+  Vietnam_Adm1_22:
     iso3c: VNM
-    shapeID: 81297802B3249391660958
-  DongVanAdm2VNM:
-    admin_name: DongVan
-    iso3c: VNM
-    shapeID: 81297802B35887218353447
-  DongXoaiAdm2VNM:
-    admin_name: DongXoai
-    iso3c: VNM
-    shapeID: 81297802B13642047560711
-  DongXuanAdm2VNM:
-    admin_name: DongXuan
-    iso3c: VNM
-    shapeID: 81297802B78420794750623
-  DoSonAdm2VNM:
-    admin_name: DoSon
-    iso3c: VNM
-    shapeID: 81297802B95607767906649
-  DucCoAdm2VNM:
-    admin_name: DucCo
-    iso3c: VNM
-    shapeID: 81297802B6947069841891
-  DucHoaAdm2VNM:
-    admin_name: DucHoa
-    iso3c: VNM
-    shapeID: 81297802B22890149890322
-  DucHueAdm2VNM:
-    admin_name: DucHue
-    iso3c: VNM
-    shapeID: 81297802B23772600550478
-  DucLinhAdm2VNM:
-    admin_name: DucLinh
-    iso3c: VNM
-    shapeID: 81297802B10372149063277
-  DucPhoAdm2VNM:
-    admin_name: DucPho
-    iso3c: VNM
-    shapeID: 81297802B20968372540645
-  DucThoAdm2VNM:
-    admin_name: DucTho
-    iso3c: VNM
-    shapeID: 81297802B16083563480391
-  DucTrongAdm2VNM:
-    admin_name: DucTrong
-    iso3c: VNM
-    shapeID: 81297802B43116981701202
-  DuongKinhAdm2VNM:
-    admin_name: DuongKinh
-    iso3c: VNM
-    shapeID: 81297802B62167717430855
-  DuongMinhChauAdm2VNM:
-    admin_name: DuongMinhChau
-    iso3c: VNM
-    shapeID: 81297802B96522155706340
-  DuyenHaiAdm2VNM:
-    admin_name: DuyenHai
-    iso3c: VNM
-    shapeID: 81297802B81116648730753
-  DuyTienAdm2VNM:
-    admin_name: DuyTien
-    iso3c: VNM
-    shapeID: 81297802B7902592700170
-  DuyXuyenAdm2VNM:
-    admin_name: DuyXuyen
-    iso3c: VNM
-    shapeID: 81297802B11134761285152
-  EAHleoAdm2VNM:
-    admin_name: EAHleo
-    iso3c: VNM
-    shapeID: 81297802B9030212335391
-  EaKarAdm2VNM:
-    admin_name: EaKar
-    iso3c: VNM
-    shapeID: 81297802B96415917644052
-  EaSupAdm2VNM:
-    admin_name: EaSup
-    iso3c: VNM
-    shapeID: 81297802B87471755079038
-  GiaBinhAdm2VNM:
-    admin_name: GiaBinh
-    iso3c: VNM
-    shapeID: 81297802B26729031323268
-  GiaLaiAdm1VNM:
+    admin_level: Adm1
     admin_name: GiaLai
-    iso3c: VNM
     shapeID: 63759600B15361955936842
-  GiaLamAdm2VNM:
-    admin_name: GiaLam
+    country_name: Vietnam
+  Vietnam_Adm1_23:
     iso3c: VNM
-    shapeID: 81297802B60728672974675
-  GiaLocAdm2VNM:
-    admin_name: GiaLoc
-    iso3c: VNM
-    shapeID: 81297802B14141540631295
-  GiaNghiaAdm2VNM:
-    admin_name: GiaNghia
-    iso3c: VNM
-    shapeID: 81297802B66925040014305
-  GiangThanhAdm2VNM:
-    admin_name: GiangThanh
-    iso3c: VNM
-    shapeID: 81297802B31774141557678
-  GiaoThuyAdm2VNM:
-    admin_name: GiaoThuy
-    iso3c: VNM
-    shapeID: 81297802B51483513425235
-  GiaRaiAdm2VNM:
-    admin_name: GiaRai
-    iso3c: VNM
-    shapeID: 81297802B74217032443586
-  GiaVienAdm2VNM:
-    admin_name: GiaVien
-    iso3c: VNM
-    shapeID: 81297802B79786453625721
-  GioLinhAdm2VNM:
-    admin_name: GioLinh
-    iso3c: VNM
-    shapeID: 81297802B57271723433997
-  GiongRiengAdm2VNM:
-    admin_name: GiongRieng
-    iso3c: VNM
-    shapeID: 81297802B19779239086561
-  GiongTromAdm2VNM:
-    admin_name: GiongTrom
-    iso3c: VNM
-    shapeID: 81297802B83890760772965
-  GoCongAdm2VNM:
-    admin_name: GoCong
-    iso3c: VNM
-    shapeID: 81297802B95868582932177
-  GoCongDongAdm2VNM:
-    admin_name: GoCongDong
-    iso3c: VNM
-    shapeID: 81297802B63663693246644
-  GoCongTayAdm2VNM:
-    admin_name: GoCongTay
-    iso3c: VNM
-    shapeID: 81297802B95643835690721
-  GoDauAdm2VNM:
-    admin_name: GoDau
-    iso3c: VNM
-    shapeID: 81297802B39580963826669
-  GoQuaoAdm2VNM:
-    admin_name: GoQuao
-    iso3c: VNM
-    shapeID: 81297802B76509043653809
-  GoVapAdm2VNM:
-    admin_name: GoVap
-    iso3c: VNM
-    shapeID: 81297802B93588362587103
-  HaDongAdm2VNM:
-    admin_name: HaDong
-    iso3c: VNM
-    shapeID: 81297802B46977673973725
-  HàGiangAdm1VNM:
+    admin_level: Adm1
     admin_name: HàGiang
-    iso3c: VNM
     shapeID: 63759600B80209413202681
-  HaGiangAdm2VNM:
-    admin_name: HaGiang
+    country_name: Vietnam
+  Vietnam_Adm1_24:
     iso3c: VNM
-    shapeID: 81297802B3651989276752
-  HaHoaAdm2VNM:
-    admin_name: HaHoa
-    iso3c: VNM
-    shapeID: 81297802B43584820413656
-  HaiAnAdm2VNM:
-    admin_name: HaiAn
-    iso3c: VNM
-    shapeID: 81297802B19362557849536
-  HaiBaTrungAdm2VNM:
-    admin_name: HaiBaTrung
-    iso3c: VNM
-    shapeID: 81297802B70315889029707
-  HaiChauAdm2VNM:
-    admin_name: HaiChau
-    iso3c: VNM
-    shapeID: 81297802B10780873415993
-  HảiDươngAdm1VNM:
-    admin_name: HảiDương
-    iso3c: VNM
-    shapeID: 63759600B6612369570330
-  HaiDuongAdm2VNM:
-    admin_name: HaiDuong
-    iso3c: VNM
-    shapeID: 81297802B68427461655945
-  HaiHaAdm2VNM:
-    admin_name: HaiHa
-    iso3c: VNM
-    shapeID: 81297802B53592665760601
-  HaiHauAdm2VNM:
-    admin_name: HaiHau
-    iso3c: VNM
-    shapeID: 81297802B21970288414729
-  HaiLangAdm2VNM:
-    admin_name: HaiLang
-    iso3c: VNM
-    shapeID: 81297802B74996211829814
-  HảiPhòngAdm1VNM:
-    admin_name: HảiPhòng
-    iso3c: VNM
-    shapeID: 63759600B57390768683549
-  HaLangAdm2VNM:
-    admin_name: HaLang
-    iso3c: VNM
-    shapeID: 81297802B75623207701482
-  HaLongAdm2VNM:
-    admin_name: HaLong
-    iso3c: VNM
-    shapeID: 81297802B5641238333098
-  HamTanAdm2VNM:
-    admin_name: HamTan
-    iso3c: VNM
-    shapeID: 81297802B21171501026834
-  HamThuanBacAdm2VNM:
-    admin_name: HamThuanBac
-    iso3c: VNM
-    shapeID: 81297802B59459676884366
-  HamThuanNamAdm2VNM:
-    admin_name: HamThuanNam
-    iso3c: VNM
-    shapeID: 81297802B68049284687871
-  HamYenAdm2VNM:
-    admin_name: HamYen
-    iso3c: VNM
-    shapeID: 81297802B77229581138550
-  HàNamAdm1VNM:
+    admin_level: Adm1
     admin_name: HàNam
-    iso3c: VNM
     shapeID: 63759600B38291039937725
-  "HàNội\tAdm1VNM":
+    country_name: Vietnam
+  Vietnam_Adm1_25:
+    iso3c: VNM
+    admin_level: Adm1
     admin_name: "HàNội\t"
-    iso3c: VNM
     shapeID: 63759600B97268694287734
-  HaQuangAdm2VNM:
-    admin_name: HaQuang
+    country_name: Vietnam
+  Vietnam_Adm1_26:
     iso3c: VNM
-    shapeID: 81297802B58374178577075
-  HaTienAdm2VNM:
-    admin_name: HaTien
-    iso3c: VNM
-    shapeID: 81297802B34321495303848
-  HàTĩnhAdm1VNM:
+    admin_level: Adm1
     admin_name: HàTĩnh
-    iso3c: VNM
     shapeID: 63759600B52412632417993
-  HaTinhAdm2VNM:
-    admin_name: HaTinh
+    country_name: Vietnam
+  Vietnam_Adm1_27:
     iso3c: VNM
-    shapeID: 81297802B52387636717940
-  HaTrungAdm2VNM:
-    admin_name: HaTrung
+    admin_level: Adm1
+    admin_name: HảiDương
+    shapeID: 63759600B6612369570330
+    country_name: Vietnam
+  Vietnam_Adm1_28:
     iso3c: VNM
-    shapeID: 81297802B67206181597957
-  HậuGiangAdm1VNM:
+    admin_level: Adm1
+    admin_name: HảiPhòng
+    shapeID: 63759600B57390768683549
+    country_name: Vietnam
+  Vietnam_Adm1_29:
+    iso3c: VNM
+    admin_level: Adm1
     admin_name: HậuGiang
-    iso3c: VNM
     shapeID: 63759600B90584107995256
-  HauLocAdm2VNM:
-    admin_name: HauLoc
+    country_name: Vietnam
+  Vietnam_Adm1_3:
     iso3c: VNM
-    shapeID: 81297802B47590181438391
-  HiepDucAdm2VNM:
-    admin_name: HiepDuc
+    admin_level: Adm1
+    admin_name: BắcGiang
+    shapeID: 63759600B37262939240335
+    country_name: Vietnam
+  Vietnam_Adm1_30:
     iso3c: VNM
-    shapeID: 81297802B47304896634130
-  HiepHoaAdm2VNM:
-    admin_name: HiepHoa
-    iso3c: VNM
-    shapeID: 81297802B61782089337393
-  HoaAnAdm2VNM:
-    admin_name: HoaAn
-    iso3c: VNM
-    shapeID: 81297802B75378675708985
-  HòaBìnhAdm1VNM:
-    admin_name: HòaBình
-    iso3c: VNM
-    shapeID: 63759600B96462676465033
-  HoaBinhAdm2VNM:
-    admin_name:
-    - HoaBinh
-    - HoaBinh
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B62740202990840
-    - 81297802B29311833142389
-  HoaiAnAdm2VNM:
-    admin_name: HoaiAn
-    iso3c: VNM
-    shapeID: 81297802B64656263356693
-  HoaiDucAdm2VNM:
-    admin_name: HoaiDuc
-    iso3c: VNM
-    shapeID: 81297802B48396752750587
-  HoaiNhonAdm2VNM:
-    admin_name: HoaiNhon
-    iso3c: VNM
-    shapeID: 81297802B87599740731463
-  HoaLuAdm2VNM:
-    admin_name: HoaLu
-    iso3c: VNM
-    shapeID: 81297802B36566531846362
-  HoangHoaAdm2VNM:
-    admin_name: HoangHoa
-    iso3c: VNM
-    shapeID: 81297802B91620400281223
-  HoangMaiAdm2VNM:
-    admin_name:
-    - HoangMai
-    - HoangMai
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B90742047749751
-    - 81297802B46675680885513
-  HoangSaAdm2VNM:
-    admin_name: HoangSa
-    iso3c: VNM
-    shapeID: 81297802B51350923112403
-  HoangSuPhiAdm2VNM:
-    admin_name: HoangSuPhi
-    iso3c: VNM
-    shapeID: 81297802B55460345655510
-  HoanhBoAdm2VNM:
-    admin_name: HoanhBo
-    iso3c: VNM
-    shapeID: 81297802B7752291855220
-  HoanKiemAdm2VNM:
-    admin_name: HoanKiem
-    iso3c: VNM
-    shapeID: 81297802B21956500009646
-  HoaThanhAdm2VNM:
-    admin_name: HoaThanh
-    iso3c: VNM
-    shapeID: 81297802B16996300923424
-  HoaVangAdm2VNM:
-    admin_name: HoaVang
-    iso3c: VNM
-    shapeID: 81297802B86432819232797
-  HoChiMinhAdm1VNM:
+    admin_level: Adm1
     admin_name: HoChiMinh
-    iso3c: VNM
     shapeID: 63759600B80663352659785
-  HocMonAdm2VNM:
-    admin_name: HocMon
+    country_name: Vietnam
+  Vietnam_Adm1_31:
     iso3c: VNM
-    shapeID: 81297802B64363050509880
-  HoiAnAdm2VNM:
-    admin_name: HoiAn
+    admin_level: Adm1
+    admin_name: HòaBình
+    shapeID: 63759600B96462676465033
+    country_name: Vietnam
+  Vietnam_Adm1_32:
     iso3c: VNM
-    shapeID: 81297802B62948768430814
-  HonDatAdm2VNM:
-    admin_name: HonDat
-    iso3c: VNM
-    shapeID: 81297802B18356226761800
-  HongBangAdm2VNM:
-    admin_name: HongBang
-    iso3c: VNM
-    shapeID: 81297802B63499365755438
-  HongDanAdm2VNM:
-    admin_name: HongDan
-    iso3c: VNM
-    shapeID: 81297802B80223312825495
-  HongLinhAdm2VNM:
-    admin_name: HongLinh
-    iso3c: VNM
-    shapeID: 81297802B12079916150099
-  HonQuanAdm2VNM:
-    admin_name: HonQuan
-    iso3c: VNM
-    shapeID: 81297802B26799209243085
-  HueAdm2VNM:
-    admin_name: Hue
-    iso3c: VNM
-    shapeID: 81297802B88130440660417
-  HungHaAdm2VNM:
-    admin_name: HungHa
-    iso3c: VNM
-    shapeID: 81297802B42785936874032
-  HungNguyenAdm2VNM:
-    admin_name: HungNguyen
-    iso3c: VNM
-    shapeID: 81297802B19242536298701
-  HưngYênAdm1VNM:
+    admin_level: Adm1
     admin_name: HưngYên
-    iso3c: VNM
     shapeID: 63759600B38696477403674
-  HungYenAdm2VNM:
-    admin_name: HungYen
+    country_name: Vietnam
+  Vietnam_Adm1_33:
     iso3c: VNM
-    shapeID: 81297802B83594447255
-  HuongHoaAdm2VNM:
-    admin_name: HuongHoa
-    iso3c: VNM
-    shapeID: 81297802B55643895945103
-  HuongKheAdm2VNM:
-    admin_name: HuongKhe
-    iso3c: VNM
-    shapeID: 81297802B53129181429645
-  HuongSonAdm2VNM:
-    admin_name: HuongSon
-    iso3c: VNM
-    shapeID: 81297802B24299836434530
-  HuongThuyAdm2VNM:
-    admin_name: HuongThuy
-    iso3c: VNM
-    shapeID: 81297802B27432396017289
-  HuongTraAdm2VNM:
-    admin_name: HuongTra
-    iso3c: VNM
-    shapeID: 81297802B61752422174773
-  HuuLungAdm2VNM:
-    admin_name: HuuLung
-    iso3c: VNM
-    shapeID: 81297802B35079403712963
-  HuyenCaiLayAdm2VNM:
-    admin_name: HuyenCaiLay
-    iso3c: VNM
-    shapeID: 81297802B21182108853425
-  HuyenCaoLanhAdm2VNM:
-    admin_name: HuyenCaoLanh
-    iso3c: VNM
-    shapeID: 81297802B29684412204466
-  HuyenHongNguAdm2VNM:
-    admin_name: HuyenHongNgu
-    iso3c: VNM
-    shapeID: 81297802B50587214410487
-  IaGraiAdm2VNM:
-    admin_name: IaGrai
-    iso3c: VNM
-    shapeID: 81297802B6416238429405
-  IaPaAdm2VNM:
-    admin_name: IaPa
-    iso3c: VNM
-    shapeID: 81297802B8571934498047
-  KBangAdm2VNM:
-    admin_name: KBang
-    iso3c: VNM
-    shapeID: 81297802B35293124334630
-  KeSachAdm2VNM:
-    admin_name: KeSach
-    iso3c: VNM
-    shapeID: 81297802B85563269288439
-  KhánhHòaAdm1VNM:
+    admin_level: Adm1
     admin_name: KhánhHòa
-    iso3c: VNM
     shapeID: 63759600B80040926405936
-  KhanhSonAdm2VNM:
-    admin_name: KhanhSon
+    country_name: Vietnam
+  Vietnam_Adm1_34:
     iso3c: VNM
-    shapeID: 81297802B29051358194838
-  KhanhVinhAdm2VNM:
-    admin_name: KhanhVinh
-    iso3c: VNM
-    shapeID: 81297802B87924827202169
-  KhoaiChauAdm2VNM:
-    admin_name: KhoaiChau
-    iso3c: VNM
-    shapeID: 81297802B59998896925567
-  KienAnAdm2VNM:
-    admin_name: KienAn
-    iso3c: VNM
-    shapeID: 81297802B17638458778811
-  KiênGiangAdm1VNM:
+    admin_level: Adm1
     admin_name: KiênGiang
-    iso3c: VNM
     shapeID: 63759600B18022923052532
-  KienHaiAdm2VNM:
-    admin_name: KienHai
+    country_name: Vietnam
+  Vietnam_Adm1_35:
     iso3c: VNM
-    shapeID: 81297802B10550571931229
-  KienLuongAdm2VNM:
-    admin_name: KienLuong
-    iso3c: VNM
-    shapeID: 81297802B41363610148385
-  KienThuyAdm2VNM:
-    admin_name: KienThuy
-    iso3c: VNM
-    shapeID: 81297802B29420287983322
-  KienTuongAdm2VNM:
-    admin_name: KienTuong
-    iso3c: VNM
-    shapeID: 81297802B15581259777878
-  KienXuongAdm2VNM:
-    admin_name: KienXuong
-    iso3c: VNM
-    shapeID: 81297802B82663613485319
-  KimBangAdm2VNM:
-    admin_name: KimBang
-    iso3c: VNM
-    shapeID: 81297802B80649611591308
-  KimBoiAdm2VNM:
-    admin_name: KimBoi
-    iso3c: VNM
-    shapeID: 81297802B6982011035243
-  KimDongAdm2VNM:
-    admin_name: KimDong
-    iso3c: VNM
-    shapeID: 81297802B31840185218616
-  KimSonAdm2VNM:
-    admin_name: KimSon
-    iso3c: VNM
-    shapeID: 81297802B55928452292311
-  KimThanhAdm2VNM:
-    admin_name: KimThanh
-    iso3c: VNM
-    shapeID: 81297802B3696641207460
-  KinhMonAdm2VNM:
-    admin_name: KinhMon
-    iso3c: VNM
-    shapeID: 81297802B98282177960136
-  KongChroAdm2VNM:
-    admin_name: KongChro
-    iso3c: VNM
-    shapeID: 81297802B76302638024773
-  KonPlongAdm2VNM:
-    admin_name: KonPlong
-    iso3c: VNM
-    shapeID: 81297802B37970290892439
-  KonRayAdm2VNM:
-    admin_name: KonRay
-    iso3c: VNM
-    shapeID: 81297802B49611781778497
-  KonTumAdm1VNM:
+    admin_level: Adm1
     admin_name: KonTum
-    iso3c: VNM
     shapeID: 63759600B65226847193503
-  KonTumAdm2VNM:
-    admin_name: KonTum
+    country_name: Vietnam
+  Vietnam_Adm1_36:
     iso3c: VNM
-    shapeID: 81297802B636661033486
-  KrongANaAdm2VNM:
-    admin_name: KrongANa
-    iso3c: VNM
-    shapeID: 81297802B38165084831058
-  KrongBongAdm2VNM:
-    admin_name: KrongBong
-    iso3c: VNM
-    shapeID: 81297802B29162792012865
-  KrongBukAdm2VNM:
-    admin_name: KrongBuk
-    iso3c: VNM
-    shapeID: 81297802B2573632778711
-  KrongNangAdm2VNM:
-    admin_name: KrongNang
-    iso3c: VNM
-    shapeID: 81297802B49219208970184
-  KrongNoAdm2VNM:
-    admin_name: KrongNo
-    iso3c: VNM
-    shapeID: 81297802B95536504011076
-  KrongPaAdm2VNM:
-    admin_name: KrongPa
-    iso3c: VNM
-    shapeID: 81297802B51008955299030
-  KrongPacAdm2VNM:
-    admin_name: KrongPac
-    iso3c: VNM
-    shapeID: 81297802B85821133415944
-  KyAnhAdm2VNM:
-    admin_name: KyAnh
-    iso3c: VNM
-    shapeID: 81297802B12468750690576
-  KySonAdm2VNM:
-    admin_name:
-    - KySon
-    - KySon
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B6810559606516
-    - 81297802B2701886719052
-  LacDuongAdm2VNM:
-    admin_name: LacDuong
-    iso3c: VNM
-    shapeID: 81297802B90979220295161
-  LacSonAdm2VNM:
-    admin_name: LacSon
-    iso3c: VNM
-    shapeID: 81297802B21968879828656
-  LacThuyAdm2VNM:
-    admin_name: LacThuy
-    iso3c: VNM
-    shapeID: 81297802B25708049906691
-  LaGiAdm2VNM:
-    admin_name: LaGi
-    iso3c: VNM
-    shapeID: 81297802B85161602276488
-  LaiChâuAdm1VNM:
+    admin_level: Adm1
     admin_name: LaiChâu
-    iso3c: VNM
     shapeID: 63759600B24004656938543
-  LaiChauAdm2VNM:
-    admin_name: LaiChau
+    country_name: Vietnam
+  Vietnam_Adm1_37:
     iso3c: VNM
-    shapeID: 81297802B74546691476320
-  LaiVungAdm2VNM:
-    admin_name: LaiVung
-    iso3c: VNM
-    shapeID: 81297802B97779454887068
-  LakAdm2VNM:
-    admin_name: Lak
-    iso3c: VNM
-    shapeID: 81297802B83612510149562
-  LamBinhAdm2VNM:
-    admin_name: LamBinh
-    iso3c: VNM
-    shapeID: 81297802B83942116722165
-  LâmĐồngAdm1VNM:
+    admin_level: Adm1
     admin_name: LâmĐồng
-    iso3c: VNM
     shapeID: 63759600B25056861299541
-  LamHaAdm2VNM:
-    admin_name: LamHa
+    country_name: Vietnam
+  Vietnam_Adm1_38:
     iso3c: VNM
-    shapeID: 81297802B58085294619279
-  LamThaoAdm2VNM:
-    admin_name: LamThao
-    iso3c: VNM
-    shapeID: 81297802B85606551737880
-  LangChanhAdm2VNM:
-    admin_name: LangChanh
-    iso3c: VNM
-    shapeID: 81297802B3900213451305
-  LangGiangAdm2VNM:
-    admin_name: LangGiang
-    iso3c: VNM
-    shapeID: 81297802B94506734482800
-  LạngSơnAdm1VNM:
+    admin_level: Adm1
     admin_name: LạngSơn
-    iso3c: VNM
     shapeID: 63759600B58815535609509
-  LangSonAdm2VNM:
-    admin_name: LangSon
+    country_name: Vietnam
+  Vietnam_Adm1_39:
     iso3c: VNM
-    shapeID: 81297802B21506651579478
-  LàoCaiAdm1VNM:
+    admin_level: Adm1
     admin_name: LàoCai
-    iso3c: VNM
     shapeID: 63759600B43481155123024
-  LaoCaiAdm2VNM:
-    admin_name: LaoCai
+    country_name: Vietnam
+  Vietnam_Adm1_4:
     iso3c: VNM
-    shapeID: 81297802B32838967164839
-  LapThachAdm2VNM:
-    admin_name: LapThach
+    admin_level: Adm1
+    admin_name: BắcKạn
+    shapeID: 63759600B29118141744967
+    country_name: Vietnam
+  Vietnam_Adm1_40:
     iso3c: VNM
-    shapeID: 81297802B47675849617506
-  LapVoAdm2VNM:
-    admin_name: LapVo
-    iso3c: VNM
-    shapeID: 81297802B77463595408425
-  LeChanAdm2VNM:
-    admin_name: LeChan
-    iso3c: VNM
-    shapeID: 81297802B93912769577432
-  LeThuyAdm2VNM:
-    admin_name: LeThuy
-    iso3c: VNM
-    shapeID: 81297802B23145234920875
-  LienChieuAdm2VNM:
-    admin_name: LienChieu
-    iso3c: VNM
-    shapeID: 81297802B84719552891507
-  LocBinhAdm2VNM:
-    admin_name: LocBinh
-    iso3c: VNM
-    shapeID: 81297802B22471082550929
-  LocHaAdm2VNM:
-    admin_name: LocHa
-    iso3c: VNM
-    shapeID: 81297802B55071935880129
-  LocNinhAdm2VNM:
-    admin_name: LocNinh
-    iso3c: VNM
-    shapeID: 81297802B87348344277653
-  LongAnAdm1VNM:
+    admin_level: Adm1
     admin_name: LongAn
-    iso3c: VNM
     shapeID: 63759600B22652371205312
-  LongBienAdm2VNM:
-    admin_name: LongBien
+    country_name: Vietnam
+  Vietnam_Adm1_41:
     iso3c: VNM
-    shapeID: 81297802B92281690814663
-  LongDienAdm2VNM:
-    admin_name: LongDien
-    iso3c: VNM
-    shapeID: 81297802B9398077823445
-  LongHoAdm2VNM:
-    admin_name: LongHo
-    iso3c: VNM
-    shapeID: 81297802B86807381296423
-  LongKhanhAdm2VNM:
-    admin_name: LongKhanh
-    iso3c: VNM
-    shapeID: 81297802B61199528191319
-  LongMyAdm2VNM:
-    admin_name: LongMy
-    iso3c: VNM
-    shapeID: 81297802B29776873812270
-  LongPhuAdm2VNM:
-    admin_name: LongPhu
-    iso3c: VNM
-    shapeID: 81297802B46768613136824
-  LongThanhAdm2VNM:
-    admin_name: LongThanh
-    iso3c: VNM
-    shapeID: 81297802B3720110239063
-  LongXuyenAdm2VNM:
-    admin_name: LongXuyen
-    iso3c: VNM
-    shapeID: 81297802B27304776569222
-  LucNamAdm2VNM:
-    admin_name: LucNam
-    iso3c: VNM
-    shapeID: 81297802B23878626253121
-  LucNganAdm2VNM:
-    admin_name: LucNgan
-    iso3c: VNM
-    shapeID: 81297802B38321972927223
-  LucYenAdm2VNM:
-    admin_name: LucYen
-    iso3c: VNM
-    shapeID: 81297802B97878568873252
-  LuongSonAdm2VNM:
-    admin_name: LuongSon
-    iso3c: VNM
-    shapeID: 81297802B92770026846870
-  LuongTaiAdm2VNM:
-    admin_name: LuongTai
-    iso3c: VNM
-    shapeID: 81297802B42689754920120
-  LyNhanAdm2VNM:
-    admin_name: LyNhan
-    iso3c: VNM
-    shapeID: 81297802B63925273406451
-  LySonAdm2VNM:
-    admin_name: LySon
-    iso3c: VNM
-    shapeID: 81297802B63810165613250
-  MaiChauAdm2VNM:
-    admin_name: MaiChau
-    iso3c: VNM
-    shapeID: 81297802B54863694878388
-  MaiSonAdm2VNM:
-    admin_name: MaiSon
-    iso3c: VNM
-    shapeID: 81297802B85756054610964
-  MangThitAdm2VNM:
-    admin_name: MangThit
-    iso3c: VNM
-    shapeID: 81297802B20675443699466
-  MangYangAdm2VNM:
-    admin_name: MangYang
-    iso3c: VNM
-    shapeID: 81297802B73536270925214
-  MdrakDistrictAdm2VNM:
-    admin_name: MdrakDistrict
-    iso3c: VNM
-    shapeID: 81297802B27744921596224
-  MeLinhAdm2VNM:
-    admin_name: MeLinh
-    iso3c: VNM
-    shapeID: 81297802B91668671895601
-  MeoVacAdm2VNM:
-    admin_name: MeoVac
-    iso3c: VNM
-    shapeID: 81297802B2489932619372
-  MinhHoaAdm2VNM:
-    admin_name: MinhHoa
-    iso3c: VNM
-    shapeID: 81297802B57556187754980
-  MinhLongAdm2VNM:
-    admin_name: MinhLong
-    iso3c: VNM
-    shapeID: 81297802B89663618716792
-  MoCayBacAdm2VNM:
-    admin_name: MoCayBac
-    iso3c: VNM
-    shapeID: 81297802B92984212454641
-  MoCayNamAdm2VNM:
-    admin_name: MoCayNam
-    iso3c: VNM
-    shapeID: 81297802B48166206611574
-  MocChauAdm2VNM:
-    admin_name: MocChau
-    iso3c: VNM
-    shapeID: 81297802B18330735489877
-  MocHoaAdm2VNM:
-    admin_name: MocHoa
-    iso3c: VNM
-    shapeID: 81297802B7527818717712
-  MoDucAdm2VNM:
-    admin_name: MoDuc
-    iso3c: VNM
-    shapeID: 81297802B23204917551818
-  MongCaiAdm2VNM:
-    admin_name: MongCai
-    iso3c: VNM
-    shapeID: 81297802B69562638547328
-  MuCangChaiAdm2VNM:
-    admin_name: MuCangChai
-    iso3c: VNM
-    shapeID: 81297802B12607058922832
-  MuongAngAdm2VNM:
-    admin_name: MuongAng
-    iso3c: VNM
-    shapeID: 81297802B95485897365368
-  MuongChaAdm2VNM:
-    admin_name: MuongCha
-    iso3c: VNM
-    shapeID: 81297802B30042560711823
-  MuongKhuongAdm2VNM:
-    admin_name: MuongKhuong
-    iso3c: VNM
-    shapeID: 81297802B9711168823282
-  MuongLaAdm2VNM:
-    admin_name: MuongLa
-    iso3c: VNM
-    shapeID: 81297802B85331365285334
-  MuongLatAdm2VNM:
-    admin_name: MuongLat
-    iso3c: VNM
-    shapeID: 81297802B72565329345275
-  MuongLayAdm2VNM:
-    admin_name: MuongLay
-    iso3c: VNM
-    shapeID: 81297802B55776801112281
-  MuongNheAdm2VNM:
-    admin_name: MuongNhe
-    iso3c: VNM
-    shapeID: 81297802B77284470547112
-  MuongTeAdm2VNM:
-    admin_name: MuongTe
-    iso3c: VNM
-    shapeID: 81297802B94651516294700
-  MyDucAdm2VNM:
-    admin_name: MyDuc
-    iso3c: VNM
-    shapeID: 81297802B48632704069528
-  MyHaoAdm2VNM:
-    admin_name: MyHao
-    iso3c: VNM
-    shapeID: 81297802B81471151736005
-  MyLocAdm2VNM:
-    admin_name: MyLoc
-    iso3c: VNM
-    shapeID: 81297802B55456276640785
-  MyThoAdm2VNM:
-    admin_name: MyTho
-    iso3c: VNM
-    shapeID: 81297802B97193335039618
-  MyTuAdm2VNM:
-    admin_name: MyTu
-    iso3c: VNM
-    shapeID: 81297802B88406709239333
-  MyXuyenAdm2VNM:
-    admin_name: MyXuyen
-    iso3c: VNM
-    shapeID: 81297802B12004492777163
-  NaHangAdm2VNM:
-    admin_name: NaHang
-    iso3c: VNM
-    shapeID: 81297802B32233799995516
-  NamCanAdm2VNM:
-    admin_name: NamCan
-    iso3c: VNM
-    shapeID: 81297802B77939005638096
-  NamDanAdm2VNM:
-    admin_name: NamDan
-    iso3c: VNM
-    shapeID: 81297802B54877143810300
-  NamĐịnhAdm1VNM:
+    admin_level: Adm1
     admin_name: NamĐịnh
-    iso3c: VNM
     shapeID: 63759600B40468097531795
-  NamĐịnhAdm2VNM:
-    admin_name: NamĐịnh
+    country_name: Vietnam
+  Vietnam_Adm1_42:
     iso3c: VNM
-    shapeID: 81297802B54089788823696
-  NamDongAdm2VNM:
-    admin_name: NamDong
-    iso3c: VNM
-    shapeID: 81297802B42791937018990
-  NamGiangAdm2VNM:
-    admin_name: NamGiang
-    iso3c: VNM
-    shapeID: 81297802B72423367852086
-  NamNhunAdm2VNM:
-    admin_name: NamNhun
-    iso3c: VNM
-    shapeID: 81297802B14703404520131
-  NamPoAdm2VNM:
-    admin_name: NamPo
-    iso3c: VNM
-    shapeID: 81297802B39086824409595
-  NamSachAdm2VNM:
-    admin_name: NamSach
-    iso3c: VNM
-    shapeID: 81297802B53771614429572
-  NamTraMyAdm2VNM:
-    admin_name: NamTraMy
-    iso3c: VNM
-    shapeID: 81297802B98842550999199
-  NamTrucAdm2VNM:
-    admin_name: NamTruc
-    iso3c: VNM
-    shapeID: 81297802B82332241258399
-  NamTuLiemAdm2VNM:
-    admin_name: NamTuLiem
-    iso3c: VNM
-    shapeID: 81297802B23821385944469
-  NaRiAdm2VNM:
-    admin_name: NaRi
-    iso3c: VNM
-    shapeID: 81297802B30321615980530
-  NgaBayAdm2VNM:
-    admin_name: NgaBay
-    iso3c: VNM
-    shapeID: 81297802B83257848753409
-  NgaNamAdm2VNM:
-    admin_name: NgaNam
-    iso3c: VNM
-    shapeID: 81297802B9638596310151
-  NganSonAdm2VNM:
-    admin_name: NganSon
-    iso3c: VNM
-    shapeID: 81297802B68784640933993
-  NgaSonAdm2VNM:
-    admin_name: NgaSon
-    iso3c: VNM
-    shapeID: 81297802B47963627673209
-  NghệAnAdm1VNM:
+    admin_level: Adm1
     admin_name: NghệAn
-    iso3c: VNM
     shapeID: 63759600B83996903780984
-  NghiaDanAdm2VNM:
-    admin_name: NghiaDan
+    country_name: Vietnam
+  Vietnam_Adm1_43:
     iso3c: VNM
-    shapeID: 81297802B96353597468260
-  NghiaHanhAdm2VNM:
-    admin_name: NghiaHanh
-    iso3c: VNM
-    shapeID: 81297802B973126409201
-  NghiaHungAdm2VNM:
-    admin_name: NghiaHung
-    iso3c: VNM
-    shapeID: 81297802B4294080644708
-  NghiaLoAdm2VNM:
-    admin_name: NghiaLo
-    iso3c: VNM
-    shapeID: 81297802B35519691635120
-  NghiLocAdm2VNM:
-    admin_name: NghiLoc
-    iso3c: VNM
-    shapeID: 81297802B50427055609681
-  NghiXuanAdm2VNM:
-    admin_name: NghiXuan
-    iso3c: VNM
-    shapeID: 81297802B92253150972948
-  NgocHienAdm2VNM:
-    admin_name: NgocHien
-    iso3c: VNM
-    shapeID: 81297802B22159011638398
-  NgocHoiAdm2VNM:
-    admin_name: NgocHoi
-    iso3c: VNM
-    shapeID: 81297802B1803091954954
-  NgocLacAdm2VNM:
-    admin_name: NgocLac
-    iso3c: VNM
-    shapeID: 81297802B82512093072214
-  NgoQuyenAdm2VNM:
-    admin_name: NgoQuyen
-    iso3c: VNM
-    shapeID: 81297802B18343005733844
-  NguHanhSonAdm2VNM:
-    admin_name: NguHanhSon
-    iso3c: VNM
-    shapeID: 81297802B96824977906351
-  NguyenBinhAdm2VNM:
-    admin_name: NguyenBinh
-    iso3c: VNM
-    shapeID: 81297802B34664406606726
-  NhaBeAdm2VNM:
-    admin_name: NhaBe
-    iso3c: VNM
-    shapeID: 81297802B80984092880643
-  NhaTrangAdm2VNM:
-    admin_name: NhaTrang
-    iso3c: VNM
-    shapeID: 81297802B68033195953544
-  NhonTrachAdm2VNM:
-    admin_name: NhonTrach
-    iso3c: VNM
-    shapeID: 81297802B6615511759285
-  NhoQuanAdm2VNM:
-    admin_name: NhoQuan
-    iso3c: VNM
-    shapeID: 81297802B37600217906847
-  NhuThanhAdm2VNM:
-    admin_name: NhuThanh
-    iso3c: VNM
-    shapeID: 81297802B85505749224324
-  NhuXuanAdm2VNM:
-    admin_name: NhuXuan
-    iso3c: VNM
-    shapeID: 81297802B29351066345319
-  NinhBìnhAdm1VNM:
+    admin_level: Adm1
     admin_name: NinhBình
-    iso3c: VNM
     shapeID: 63759600B34339839848337
-  NinhBìnhAdm2VNM:
-    admin_name: NinhBình
+    country_name: Vietnam
+  Vietnam_Adm1_44:
     iso3c: VNM
-    shapeID: 81297802B33091662264636
-  NinhGiangAdm2VNM:
-    admin_name: NinhGiang
-    iso3c: VNM
-    shapeID: 81297802B74485828948407
-  NinhHaiAdm2VNM:
-    admin_name: NinhHai
-    iso3c: VNM
-    shapeID: 81297802B76244887601508
-  NinhHoaAdm2VNM:
-    admin_name: NinhHoa
-    iso3c: VNM
-    shapeID: 81297802B58839501230111
-  NinhKieuAdm2VNM:
-    admin_name: NinhKieu
-    iso3c: VNM
-    shapeID: 81297802B54398389952996
-  NinhPhuocAdm2VNM:
-    admin_name: NinhPhuoc
-    iso3c: VNM
-    shapeID: 81297802B18401806223645
-  NinhSonAdm2VNM:
-    admin_name: NinhSon
-    iso3c: VNM
-    shapeID: 81297802B88768197538102
-  NinhThuậnAdm1VNM:
+    admin_level: Adm1
     admin_name: NinhThuận
-    iso3c: VNM
     shapeID: 63759600B19155127097543
-  NongCongAdm2VNM:
-    admin_name: NongCong
+    country_name: Vietnam
+  Vietnam_Adm1_45:
     iso3c: VNM
-    shapeID: 81297802B57234015442712
-  NongSonAdm2VNM:
-    admin_name: NongSon
-    iso3c: VNM
-    shapeID: 81297802B33972751107769
-  NuiThanhAdm2VNM:
-    admin_name: NuiThanh
-    iso3c: VNM
-    shapeID: 81297802B34920687321908
-  OMonAdm2VNM:
-    admin_name: OMon
-    iso3c: VNM
-    shapeID: 81297802B2084996388105
-  PacNamAdm2VNM:
-    admin_name: PacNam
-    iso3c: VNM
-    shapeID: 81297802B12739753000309
-  PhanRang-ThapChamAdm2VNM:
-    admin_name: PhanRang-ThapCham
-    iso3c: VNM
-    shapeID: 81297802B48689828615161
-  PhanThietAdm2VNM:
-    admin_name: PhanThiet
-    iso3c: VNM
-    shapeID: 81297802B56109009945364
-  PhongDienAdm2VNM:
-    admin_name:
-    - PhongDien
-    - PhongDien
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B35670860897871
-    - 81297802B56741553336234
-  PhongThoAdm2VNM:
-    admin_name: PhongTho
-    iso3c: VNM
-    shapeID: 81297802B47938422647464
-  PhoYenAdm2VNM:
-    admin_name: PhoYen
-    iso3c: VNM
-    shapeID: 81297802B3855346019179
-  PhuBinhAdm2VNM:
-    admin_name: PhuBinh
-    iso3c: VNM
-    shapeID: 81297802B19798201223775
-  PhuCatAdm2VNM:
-    admin_name: PhuCat
-    iso3c: VNM
-    shapeID: 81297802B92234400822922
-  PhucHoaAdm2VNM:
-    admin_name: PhucHoa
-    iso3c: VNM
-    shapeID: 81297802B46332855119377
-  PhucThoAdm2VNM:
-    admin_name: PhucTho
-    iso3c: VNM
-    shapeID: 81297802B65234108276491
-  PhuCuAdm2VNM:
-    admin_name: PhuCu
-    iso3c: VNM
-    shapeID: 81297802B40785510400399
-  PhucYenAdm2VNM:
-    admin_name: PhucYen
-    iso3c: VNM
-    shapeID: 81297802B88984924666070
-  PhuGiaoAdm2VNM:
-    admin_name: PhuGiao
-    iso3c: VNM
-    shapeID: 81297802B21040073838815
-  PhuHoaAdm2VNM:
-    admin_name: PhuHoa
-    iso3c: VNM
-    shapeID: 81297802B95398881806036
-  PhuLocAdm2VNM:
-    admin_name: PhuLoc
-    iso3c: VNM
-    shapeID: 81297802B61067118889021
-  PhuLuongAdm2VNM:
-    admin_name: PhuLuong
-    iso3c: VNM
-    shapeID: 81297802B92827581567655
-  PhuLyAdm2VNM:
-    admin_name: PhuLy
-    iso3c: VNM
-    shapeID: 81297802B99776560080545
-  PhuMyAdm2VNM:
-    admin_name: PhuMy
-    iso3c: VNM
-    shapeID: 81297802B75835306112543
-  PhungHiepAdm2VNM:
-    admin_name: PhungHiep
-    iso3c: VNM
-    shapeID: 81297802B32262425524101
-  PhuNhuanAdm2VNM:
-    admin_name: PhuNhuan
-    iso3c: VNM
-    shapeID: 81297802B72603937188235
-  PhuNinhAdm2VNM:
-    admin_name:
-    - PhuNinh
-    - PhuNinh
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B11022979046189
-    - 81297802B64104222015073
-  PhuocLongAdm2VNM:
-    admin_name:
-    - PhuocLong
-    - PhuocLong
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B5473399388769
-    - 81297802B44117863394749
-  PhuocSonAdm2VNM:
-    admin_name: PhuocSon
-    iso3c: VNM
-    shapeID: 81297802B80912783182295
-  PhuQuocAdm2VNM:
-    admin_name: PhuQuoc
-    iso3c: VNM
-    shapeID: 81297802B871478188231
-  PhuQuyAdm2VNM:
-    admin_name: PhuQuy
-    iso3c: VNM
-    shapeID: 81297802B90799057915407
-  PhuTanAdm2VNM:
-    admin_name:
-    - PhuTan
-    - PhuTan
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B56486108937036
-    - 81297802B51702434363712
-  PhuThienAdm2VNM:
-    admin_name: PhuThien
-    iso3c: VNM
-    shapeID: 81297802B15377501666570
-  PhúThọAdm1VNM:
+    admin_level: Adm1
     admin_name: PhúThọ
-    iso3c: VNM
     shapeID: 63759600B45971409679814
-  PhuThoAdm2VNM:
-    admin_name: PhuTho
+    country_name: Vietnam
+  Vietnam_Adm1_46:
     iso3c: VNM
-    shapeID: 81297802B95846226867008
-  PhuVangAdm2VNM:
-    admin_name: PhuVang
-    iso3c: VNM
-    shapeID: 81297802B31894177777214
-  PhuXuyenAdm2VNM:
-    admin_name: PhuXuyen
-    iso3c: VNM
-    shapeID: 81297802B25831565259333
-  PhúYênAdm1VNM:
+    admin_level: Adm1
     admin_name: PhúYên
-    iso3c: VNM
     shapeID: 63759600B26645729855564
-  PhuYenAdm2VNM:
-    admin_name: PhuYen
+    country_name: Vietnam
+  Vietnam_Adm1_47:
     iso3c: VNM
-    shapeID: 81297802B22446045808118
-  PleikuAdm2VNM:
-    admin_name: Pleiku
-    iso3c: VNM
-    shapeID: 81297802B26419635481013
-  Quan10Adm2VNM:
-    admin_name: Quan10
-    iso3c: VNM
-    shapeID: 81297802B93335721036450
-  Quan11Adm2VNM:
-    admin_name: Quan11
-    iso3c: VNM
-    shapeID: 81297802B37641712637141
-  Quan12Adm2VNM:
-    admin_name: Quan12
-    iso3c: VNM
-    shapeID: 81297802B78652503258302
-  Quan1Adm2VNM:
-    admin_name: Quan1
-    iso3c: VNM
-    shapeID: 81297802B34545275526363
-  Quan2Adm2VNM:
-    admin_name: Quan2
-    iso3c: VNM
-    shapeID: 81297802B76466747653960
-  Quan3Adm2VNM:
-    admin_name: Quan3
-    iso3c: VNM
-    shapeID: 81297802B4427483692725
-  Quan4Adm2VNM:
-    admin_name: Quan4
-    iso3c: VNM
-    shapeID: 81297802B29563104023098
-  Quan5Adm2VNM:
-    admin_name: Quan5
-    iso3c: VNM
-    shapeID: 81297802B17569327634169
-  Quan6Adm2VNM:
-    admin_name: Quan6
-    iso3c: VNM
-    shapeID: 81297802B35379290873600
-  Quan7Adm2VNM:
-    admin_name: Quan7
-    iso3c: VNM
-    shapeID: 81297802B84259990428862
-  Quan8Adm2VNM:
-    admin_name: Quan8
-    iso3c: VNM
-    shapeID: 81297802B52284124086366
-  Quan9Adm2VNM:
-    admin_name: Quan9
-    iso3c: VNM
-    shapeID: 81297802B54605917200404
-  QuanBaAdm2VNM:
-    admin_name: QuanBa
-    iso3c: VNM
-    shapeID: 81297802B31175014332346
-  QuảngBìnhAdm1VNM:
+    admin_level: Adm1
     admin_name: QuảngBình
-    iso3c: VNM
     shapeID: 63759600B63586366081005
-  QuangBinhAdm2VNM:
-    admin_name: QuangBinh
+    country_name: Vietnam
+  Vietnam_Adm1_48:
     iso3c: VNM
-    shapeID: 81297802B33189914091729
-  QuangDienAdm2VNM:
-    admin_name: QuangDien
-    iso3c: VNM
-    shapeID: 81297802B21993860278161
-  QuảngNamAdm1VNM:
+    admin_level: Adm1
     admin_name: QuảngNam
-    iso3c: VNM
     shapeID: 63759600B74453713760270
-  QuảngNgãiAdm1VNM:
+    country_name: Vietnam
+  Vietnam_Adm1_49:
+    iso3c: VNM
+    admin_level: Adm1
     admin_name: QuảngNgãi
-    iso3c: VNM
     shapeID: 63759600B52816170319692
-  QuangNgaiAdm2VNM:
-    admin_name: QuangNgai
+    country_name: Vietnam
+  Vietnam_Adm1_5:
     iso3c: VNM
-    shapeID: 81297802B1045120286230
-  QuảngNinhAdm1VNM:
+    admin_level: Adm1
+    admin_name: BạcLiêu
+    shapeID: 63759600B49404698723526
+    country_name: Vietnam
+  Vietnam_Adm1_50:
+    iso3c: VNM
+    admin_level: Adm1
     admin_name: QuảngNinh
-    iso3c: VNM
     shapeID: 63759600B48704001246073
-  QuangNinhAdm2VNM:
-    admin_name: QuangNinh
+    country_name: Vietnam
+  Vietnam_Adm1_51:
     iso3c: VNM
-    shapeID: 81297802B18152468964479
-  QuangTrachAdm2VNM:
-    admin_name: QuangTrach
-    iso3c: VNM
-    shapeID: 81297802B61927033163821
-  QuảngTrịAdm1VNM:
+    admin_level: Adm1
     admin_name: QuảngTrị
-    iso3c: VNM
     shapeID: 63759600B21465540527765
-  QuangTriAdm2VNM:
-    admin_name: QuangTri
+    country_name: Vietnam
+  Vietnam_Adm1_52:
     iso3c: VNM
-    shapeID: 81297802B92774803000720
-  QuangUyenAdm2VNM:
-    admin_name: QuangUyen
-    iso3c: VNM
-    shapeID: 81297802B42250510796537
-  QuangXuongAdm2VNM:
-    admin_name: QuangXuong
-    iso3c: VNM
-    shapeID: 81297802B40676303665635
-  QuangYenAdm2VNM:
-    admin_name: QuangYen
-    iso3c: VNM
-    shapeID: 81297802B38356347526872
-  QuanHoaAdm2VNM:
-    admin_name: QuanHoa
-    iso3c: VNM
-    shapeID: 81297802B43083568307928
-  QuanSonAdm2VNM:
-    admin_name: QuanSon
-    iso3c: VNM
-    shapeID: 81297802B81765499113898
-  QuePhongAdm2VNM:
-    admin_name: QuePhong
-    iso3c: VNM
-    shapeID: 81297802B37103290877054
-  QueSonAdm2VNM:
-    admin_name: QueSon
-    iso3c: VNM
-    shapeID: 81297802B89611140069217
-  QueVoAdm2VNM:
-    admin_name: QueVo
-    iso3c: VNM
-    shapeID: 81297802B29506934186430
-  QuocOaiAdm2VNM:
-    admin_name: QuocOai
-    iso3c: VNM
-    shapeID: 81297802B41330613652559
-  QuyChauAdm2VNM:
-    admin_name: QuyChau
-    iso3c: VNM
-    shapeID: 81297802B85029486143959
-  QuyHopAdm2VNM:
-    admin_name: QuyHop
-    iso3c: VNM
-    shapeID: 81297802B66096195927531
-  QuynhLuuAdm2VNM:
-    admin_name: QuynhLuu
-    iso3c: VNM
-    shapeID: 81297802B4221517004962
-  QuynhNhaiAdm2VNM:
-    admin_name: QuynhNhai
-    iso3c: VNM
-    shapeID: 81297802B11613956410948
-  QuyNhonAdm2VNM:
-    admin_name: QuyNhon
-    iso3c: VNM
-    shapeID: 81297802B6190272756602
-  QuynhPhuAdm2VNM:
-    admin_name: QuynhPhu
-    iso3c: VNM
-    shapeID: 81297802B64676269296055
-  RachGiaAdm2VNM:
-    admin_name: RachGia
-    iso3c: VNM
-    shapeID: 81297802B54016933640468
-  SaDecAdm2VNM:
-    admin_name: SaDec
-    iso3c: VNM
-    shapeID: 81297802B46621499872955
-  SamSonAdm2VNM:
-    admin_name: SamSon
-    iso3c: VNM
-    shapeID: 81297802B12977108616150
-  SaPaAdm2VNM:
-    admin_name: SaPa
-    iso3c: VNM
-    shapeID: 81297802B16025441122040
-  SaThayAdm2VNM:
-    admin_name: SaThay
-    iso3c: VNM
-    shapeID: 81297802B78907971348627
-  SiMaCaiAdm2VNM:
-    admin_name: SiMaCai
-    iso3c: VNM
-    shapeID: 81297802B8681355150837
-  SinHoAdm2VNM:
-    admin_name: SinHo
-    iso3c: VNM
-    shapeID: 81297802B88663047044628
-  SocSonAdm2VNM:
-    admin_name: SocSon
-    iso3c: VNM
-    shapeID: 81297802B86407395704878
-  SócTrăngAdm1VNM:
+    admin_level: Adm1
     admin_name: SócTrăng
-    iso3c: VNM
     shapeID: 63759600B58335636470412
-  SocTrangAdm2VNM:
-    admin_name: SocTrang
+    country_name: Vietnam
+  Vietnam_Adm1_53:
     iso3c: VNM
-    shapeID: 81297802B1985987011497
-  SonDongAdm2VNM:
-    admin_name: SonDong
-    iso3c: VNM
-    shapeID: 81297802B10167820950608
-  SonDuongAdm2VNM:
-    admin_name: SonDuong
-    iso3c: VNM
-    shapeID: 81297802B77321226192187
-  SongCauAdm2VNM:
-    admin_name: SongCau
-    iso3c: VNM
-    shapeID: 81297802B65581648571900
-  SongCongAdm2VNM:
-    admin_name: SongCong
-    iso3c: VNM
-    shapeID: 81297802B66276855595229
-  SongHinhAdm2VNM:
-    admin_name: SongHinh
-    iso3c: VNM
-    shapeID: 81297802B28811761284346
-  SongLoAdm2VNM:
-    admin_name: SongLo
-    iso3c: VNM
-    shapeID: 81297802B72352297629850
-  SongMaAdm2VNM:
-    admin_name: SongMa
-    iso3c: VNM
-    shapeID: 81297802B25580956843795
-  SonHaAdm2VNM:
-    admin_name: SonHa
-    iso3c: VNM
-    shapeID: 81297802B11658146957456
-  SonHoaAdm2VNM:
-    admin_name: SonHoa
-    iso3c: VNM
-    shapeID: 81297802B61701358015931
-  SơnLaAdm1VNM:
+    admin_level: Adm1
     admin_name: SơnLa
-    iso3c: VNM
     shapeID: 63759600B3920147428024
-  SonLaAdm2VNM:
-    admin_name: SonLa
+    country_name: Vietnam
+  Vietnam_Adm1_54:
     iso3c: VNM
-    shapeID: 81297802B47097666741506
-  SonTayAdm2VNM:
-    admin_name:
-    - SonTay
-    - SonTay
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B56181672233009
-    - 81297802B79469395018575
-  SonTinhAdm2VNM:
-    admin_name: SonTinh
-    iso3c: VNM
-    shapeID: 81297802B15613357308975
-  SonTraAdm2VNM:
-    admin_name: SonTra
-    iso3c: VNM
-    shapeID: 81297802B64444176527608
-  SopCopAdm2VNM:
-    admin_name: SopCop
-    iso3c: VNM
-    shapeID: 81297802B35904575630157
-  TamBinhAdm2VNM:
-    admin_name: TamBinh
-    iso3c: VNM
-    shapeID: 81297802B334334492772
-  TamDaoAdm2VNM:
-    admin_name: TamDao
-    iso3c: VNM
-    shapeID: 81297802B33900605812276
-  TamDiepAdm2VNM:
-    admin_name: TamDiep
-    iso3c: VNM
-    shapeID: 81297802B4597997720172
-  TamDuongAdm2VNM:
-    admin_name:
-    - TamDuong
-    - TamDuong
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B22502411355715
-    - 81297802B8345144496926
-  TamKyAdm2VNM:
-    admin_name: TamKy
-    iso3c: VNM
-    shapeID: 81297802B35959496403420
-  TamNongAdm2VNM:
-    admin_name:
-    - TamNong
-    - TamNong
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B6788314119837
-    - 81297802B81919693811276
-  TanAnAdm2VNM:
-    admin_name: TanAn
-    iso3c: VNM
-    shapeID: 81297802B36271966780528
-  TanBienAdm2VNM:
-    admin_name: TanBien
-    iso3c: VNM
-    shapeID: 81297802B37342354446447
-  TanBinhAdm2VNM:
-    admin_name: TanBinh
-    iso3c: VNM
-    shapeID: 81297802B72151759297882
-  TanChauAdm2VNM:
-    admin_name:
-    - TanChau
-    - TanChau
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B68440719308655
-    - 81297802B24408052099516
-  TanHiepAdm2VNM:
-    admin_name: TanHiep
-    iso3c: VNM
-    shapeID: 81297802B5868916674827
-  TanhLinhAdm2VNM:
-    admin_name: TanhLinh
-    iso3c: VNM
-    shapeID: 81297802B72040378952039
-  TanHongAdm2VNM:
-    admin_name: TanHong
-    iso3c: VNM
-    shapeID: 81297802B34572770830938
-  TanHungAdm2VNM:
-    admin_name: TanHung
-    iso3c: VNM
-    shapeID: 81297802B65804618727956
-  TanKyAdm2VNM:
-    admin_name: TanKy
-    iso3c: VNM
-    shapeID: 81297802B12421029194754
-  TanLacAdm2VNM:
-    admin_name: TanLac
-    iso3c: VNM
-    shapeID: 81297802B22385523751240
-  TanPhuAdm2VNM:
-    admin_name:
-    - TanPhu
-    - TanPhu
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B74333052983118
-    - 81297802B97138813252769
-  TanPhuDongAdm2VNM:
-    admin_name: TanPhuDong
-    iso3c: VNM
-    shapeID: 81297802B25768458282790
-  TanPhuocAdm2VNM:
-    admin_name: TanPhuoc
-    iso3c: VNM
-    shapeID: 81297802B67867529169474
-  TanSonAdm2VNM:
-    admin_name: TanSon
-    iso3c: VNM
-    shapeID: 81297802B30557639912850
-  TanThanhAdm2VNM:
-    admin_name:
-    - TanThanh
-    - TanThanh
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B41485876419304
-    - 81297802B33329086183777
-  TanTruAdm2VNM:
-    admin_name: TanTru
-    iso3c: VNM
-    shapeID: 81297802B79980761269040
-  TanUyenAdm2VNM:
-    admin_name:
-    - TanUyen
-    - TanUyen
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B83473395979783
-    - 81297802B30800695298767
-  TanYenAdm2VNM:
-    admin_name: TanYen
-    iso3c: VNM
-    shapeID: 81297802B62704406726497
-  TayGiangAdm2VNM:
-    admin_name: TayGiang
-    iso3c: VNM
-    shapeID: 81297802B8357375846053
-  TayHoaAdm2VNM:
-    admin_name: TayHoa
-    iso3c: VNM
-    shapeID: 81297802B36488646512837
-  TayHoAdm2VNM:
-    admin_name: TayHo
-    iso3c: VNM
-    shapeID: 81297802B85279913761146
-  TâyNinhAdm1VNM:
+    admin_level: Adm1
     admin_name: TâyNinh
-    iso3c: VNM
     shapeID: 63759600B24834630697040
-  TayNinhAdm2VNM:
-    admin_name: TayNinh
+    country_name: Vietnam
+  Vietnam_Adm1_55:
     iso3c: VNM
-    shapeID: 81297802B48058598464830
-  TaySonAdm2VNM:
-    admin_name: TaySon
-    iso3c: VNM
-    shapeID: 81297802B3478153063518
-  TayTraAdm2VNM:
-    admin_name: TayTra
-    iso3c: VNM
-    shapeID: 81297802B47494931699472
-  ThachAnAdm2VNM:
-    admin_name: ThachAn
-    iso3c: VNM
-    shapeID: 81297802B24341511138047
-  ThachHaAdm2VNM:
-    admin_name: ThachHa
-    iso3c: VNM
-    shapeID: 81297802B93916372624290
-  ThachThanhAdm2VNM:
-    admin_name: ThachThanh
-    iso3c: VNM
-    shapeID: 81297802B70743667519193
-  ThachThatAdm2VNM:
-    admin_name: ThachThat
-    iso3c: VNM
-    shapeID: 81297802B69837826881440
-  TháiBìnhAdm1VNM:
+    admin_level: Adm1
     admin_name: TháiBình
-    iso3c: VNM
     shapeID: 63759600B57830284065529
-  ThaiBinhAdm2VNM:
-    admin_name: ThaiBinh
+    country_name: Vietnam
+  Vietnam_Adm1_56:
     iso3c: VNM
-    shapeID: 81297802B85054848055124
-  ThaiHoaAdm2VNM:
-    admin_name: ThaiHoa
-    iso3c: VNM
-    shapeID: 81297802B32908759949092
-  TháiNguyênAdm1VNM:
+    admin_level: Adm1
     admin_name: TháiNguyên
-    iso3c: VNM
     shapeID: 63759600B68663063324919
-  ThaiNguyenAdm2VNM:
-    admin_name: ThaiNguyen
+    country_name: Vietnam
+  Vietnam_Adm1_57:
     iso3c: VNM
-    shapeID: 81297802B43105107768719
-  ThaiThuyAdm2VNM:
-    admin_name: ThaiThuy
-    iso3c: VNM
-    shapeID: 81297802B86878375688696
-  ThangBinhAdm2VNM:
-    admin_name: ThangBinh
-    iso3c: VNM
-    shapeID: 81297802B72056692107631
-  ThanhBaAdm2VNM:
-    admin_name: ThanhBa
-    iso3c: VNM
-    shapeID: 81297802B68203584934419
-  ThanhBinhAdm2VNM:
-    admin_name: ThanhBinh
-    iso3c: VNM
-    shapeID: 81297802B14212334557839
-  ThanhChuongAdm2VNM:
-    admin_name: ThanhChuong
-    iso3c: VNM
-    shapeID: 81297802B92574261409002
-  ThanhHaAdm2VNM:
-    admin_name: ThanhHa
-    iso3c: VNM
-    shapeID: 81297802B77309747732529
-  ThanhHóaAdm1VNM:
+    admin_level: Adm1
     admin_name: ThanhHóa
-    iso3c: VNM
     shapeID: 63759600B30623332474263
-  ThanhHoaAdm2VNM:
-    admin_name:
-    - ThanhHoa
-    - ThanhHoa
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B5241398972305
-    - 81297802B63095135263844
-  ThanhKheAdm2VNM:
-    admin_name: ThanhKhe
+    country_name: Vietnam
+  Vietnam_Adm1_58:
     iso3c: VNM
-    shapeID: 81297802B31644345342604
-  ThanhLiemAdm2VNM:
-    admin_name: ThanhLiem
-    iso3c: VNM
-    shapeID: 81297802B85424672096974
-  ThanhMienAdm2VNM:
-    admin_name: ThanhMien
-    iso3c: VNM
-    shapeID: 81297802B67689154766571
-  ThanhOaiAdm2VNM:
-    admin_name: ThanhOai
-    iso3c: VNM
-    shapeID: 81297802B69083052749589
-  ThanhPhuAdm2VNM:
-    admin_name: ThanhPhu
-    iso3c: VNM
-    shapeID: 81297802B66468397901634
-  ThanhSonAdm2VNM:
-    admin_name: ThanhSon
-    iso3c: VNM
-    shapeID: 81297802B60314868788909
-  ThanhThuyAdm2VNM:
-    admin_name: ThanhThuy
-    iso3c: VNM
-    shapeID: 81297802B73795447547430
-  ThanhTriAdm2VNM:
-    admin_name:
-    - ThanhTri
-    - ThanhTri
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B95629282135268
-    - 81297802B36147607104720
-  ThanhXuanAdm2VNM:
-    admin_name: ThanhXuan
-    iso3c: VNM
-    shapeID: 81297802B66022953489908
-  ThanUyenAdm2VNM:
-    admin_name: ThanUyen
-    iso3c: VNM
-    shapeID: 81297802B70449859021509
-  ThapMuoiAdm2VNM:
-    admin_name: ThapMuoi
-    iso3c: VNM
-    shapeID: 81297802B37339373723835
-  ThieuHoaAdm2VNM:
-    admin_name: ThieuHoa
-    iso3c: VNM
-    shapeID: 81297802B18173194226488
-  ThixaCaiLayAdm2VNM:
-    admin_name: ThixaCaiLay
-    iso3c: VNM
-    shapeID: 81297802B17596796998347
-  ThixaCaoLanhAdm2VNM:
-    admin_name: ThixaCaoLanh
-    iso3c: VNM
-    shapeID: 81297802B60372874404879
-  ThixaHongNguAdm2VNM:
-    admin_name: ThixaHongNgu
-    iso3c: VNM
-    shapeID: 81297802B45020933584847
-  ThoaiSonAdm2VNM:
-    admin_name: ThoaiSon
-    iso3c: VNM
-    shapeID: 81297802B55991258422340
-  ThoiBinhAdm2VNM:
-    admin_name: ThoiBinh
-    iso3c: VNM
-    shapeID: 81297802B72962934651760
-  ThoiLaiAdm2VNM:
-    admin_name: ThoiLai
-    iso3c: VNM
-    shapeID: 81297802B52248438909521
-  ThongNhatAdm2VNM:
-    admin_name: ThongNhat
-    iso3c: VNM
-    shapeID: 81297802B78615286204020
-  ThongNongAdm2VNM:
-    admin_name: ThongNong
-    iso3c: VNM
-    shapeID: 81297802B64889817574793
-  ThotNotAdm2VNM:
-    admin_name: ThotNot
-    iso3c: VNM
-    shapeID: 81297802B2345271224879
-  ThoXuanAdm2VNM:
-    admin_name: ThoXuan
-    iso3c: VNM
-    shapeID: 81297802B55629975533372
-  ThuanAnAdm2VNM:
-    admin_name: ThuanAn
-    iso3c: VNM
-    shapeID: 81297802B69956804658452
-  ThuanBacAdm2VNM:
-    admin_name: ThuanBac
-    iso3c: VNM
-    shapeID: 81297802B93158398760307
-  ThuanChauAdm2VNM:
-    admin_name: ThuanChau
-    iso3c: VNM
-    shapeID: 81297802B46916310956334
-  ThuanNamAdm2VNM:
-    admin_name: ThuanNam
-    iso3c: VNM
-    shapeID: 81297802B94482771357603
-  ThuanThanhAdm2VNM:
-    admin_name: ThuanThanh
-    iso3c: VNM
-    shapeID: 81297802B75512670100174
-  ThừaThiênHuếAdm1VNM:
+    admin_level: Adm1
     admin_name: ThừaThiênHuế
-    iso3c: VNM
     shapeID: 63759600B73452440048702
-  ThuDauMotAdm2VNM:
-    admin_name: ThuDauMot
+    country_name: Vietnam
+  Vietnam_Adm1_59:
     iso3c: VNM
-    shapeID: 81297802B23780781410203
-  ThuDucAdm2VNM:
-    admin_name: ThuDuc
-    iso3c: VNM
-    shapeID: 81297802B1678031067910
-  ThuongTinAdm2VNM:
-    admin_name: ThuongTin
-    iso3c: VNM
-    shapeID: 81297802B33733008951227
-  ThuongXuanAdm2VNM:
-    admin_name: ThuongXuan
-    iso3c: VNM
-    shapeID: 81297802B72882386082996
-  ThuThuaAdm2VNM:
-    admin_name: ThuThua
-    iso3c: VNM
-    shapeID: 81297802B60662496728573
-  ThuyNguyenAdm2VNM:
-    admin_name: ThuyNguyen
-    iso3c: VNM
-    shapeID: 81297802B48433290328639
-  TienDuAdm2VNM:
-    admin_name: TienDu
-    iso3c: VNM
-    shapeID: 81297802B37279419107484
-  TiềnGiangAdm1VNM:
+    admin_level: Adm1
     admin_name: TiềnGiang
-    iso3c: VNM
     shapeID: 63759600B12588044805894
-  TienHaiAdm2VNM:
-    admin_name: TienHai
+    country_name: Vietnam
+  Vietnam_Adm1_6:
     iso3c: VNM
-    shapeID: 81297802B12405297659236
-  TienLangAdm2VNM:
-    admin_name: TienLang
+    admin_level: Adm1
+    admin_name: BắcNinh
+    shapeID: 63759600B40382966221261
+    country_name: Vietnam
+  Vietnam_Adm1_60:
     iso3c: VNM
-    shapeID: 81297802B70010606578992
-  TienLuAdm2VNM:
-    admin_name: TienLu
-    iso3c: VNM
-    shapeID: 81297802B93646092032264
-  TienPhuocAdm2VNM:
-    admin_name: TienPhuoc
-    iso3c: VNM
-    shapeID: 81297802B51785257245499
-  TienYenAdm2VNM:
-    admin_name: TienYen
-    iso3c: VNM
-    shapeID: 81297802B1435628045096
-  TieuCanAdm2VNM:
-    admin_name: TieuCan
-    iso3c: VNM
-    shapeID: 81297802B7308282486980
-  TinhBienAdm2VNM:
-    admin_name: TinhBien
-    iso3c: VNM
-    shapeID: 81297802B35428568609668
-  TinhGiaAdm2VNM:
-    admin_name: TinhGia
-    iso3c: VNM
-    shapeID: 81297802B97652803071493
-  TraBongAdm2VNM:
-    admin_name: TraBong
-    iso3c: VNM
-    shapeID: 81297802B78342510004852
-  TraCuAdm2VNM:
-    admin_name: TraCu
-    iso3c: VNM
-    shapeID: 81297802B8258305147124
-  TraLinhAdm2VNM:
-    admin_name: TraLinh
-    iso3c: VNM
-    shapeID: 81297802B5716614329371
-  TramTauAdm2VNM:
-    admin_name: TramTau
-    iso3c: VNM
-    shapeID: 81297802B29855819440848
-  TranDeAdm2VNM:
-    admin_name: TranDe
-    iso3c: VNM
-    shapeID: 81297802B35680204276393
-  TrangBangAdm2VNM:
-    admin_name: TrangBang
-    iso3c: VNM
-    shapeID: 81297802B3309919066987
-  TrangBomAdm2VNM:
-    admin_name: TrangBom
-    iso3c: VNM
-    shapeID: 81297802B42890675400166
-  TrangDinhAdm2VNM:
-    admin_name: TrangDinh
-    iso3c: VNM
-    shapeID: 81297802B55237865359696
-  TranVanThoiAdm2VNM:
-    admin_name: TranVanThoi
-    iso3c: VNM
-    shapeID: 81297802B31922203315935
-  TranYenAdm2VNM:
-    admin_name: TranYen
-    iso3c: VNM
-    shapeID: 81297802B887089272157
-  TraOnAdm2VNM:
-    admin_name: TraOn
-    iso3c: VNM
-    shapeID: 81297802B90328181900706
-  TràVinhAdm1VNM:
+    admin_level: Adm1
     admin_name: TràVinh
-    iso3c: VNM
     shapeID: 63759600B34771484427393
-  TraVinhAdm2VNM:
-    admin_name: TraVinh
+    country_name: Vietnam
+  Vietnam_Adm1_61:
     iso3c: VNM
-    shapeID: 81297802B52504001228047
-  TrieuPhongAdm2VNM:
-    admin_name: TrieuPhong
-    iso3c: VNM
-    shapeID: 81297802B12813150904873
-  TrieuSonAdm2VNM:
-    admin_name: TrieuSon
-    iso3c: VNM
-    shapeID: 81297802B97142358911210
-  TriTonAdm2VNM:
-    admin_name: TriTon
-    iso3c: VNM
-    shapeID: 81297802B61282348708206
-  TrucNinhAdm2VNM:
-    admin_name: TrucNinh
-    iso3c: VNM
-    shapeID: 81297802B30905014988311
-  TrungKhanhAdm2VNM:
-    admin_name: TrungKhanh
-    iso3c: VNM
-    shapeID: 81297802B42277751936117
-  TruongSaAdm2VNM:
-    admin_name: TruongSa
-    iso3c: VNM
-    shapeID: 81297802B23443064350281
-  TuaChuaAdm2VNM:
-    admin_name: TuaChua
-    iso3c: VNM
-    shapeID: 81297802B50800303075237
-  TuanGiaoAdm2VNM:
-    admin_name: TuanGiao
-    iso3c: VNM
-    shapeID: 81297802B47935602128313
-  TuKyAdm2VNM:
-    admin_name: TuKy
-    iso3c: VNM
-    shapeID: 81297802B38910067880652
-  TuMoRongAdm2VNM:
-    admin_name: TuMoRong
-    iso3c: VNM
-    shapeID: 81297802B16541954250717
-  TuNghiaAdm2VNM:
-    admin_name: TuNghia
-    iso3c: VNM
-    shapeID: 81297802B55656475848083
-  TuongDuongAdm2VNM:
-    admin_name: TuongDuong
-    iso3c: VNM
-    shapeID: 81297802B26083936626584
-  TuSonAdm2VNM:
-    admin_name: TuSon
-    iso3c: VNM
-    shapeID: 81297802B85996690558528
-  TuyAnAdm2VNM:
-    admin_name: TuyAn
-    iso3c: VNM
-    shapeID: 81297802B47177978604160
-  TuyDucAdm2VNM:
-    admin_name: TuyDuc
-    iso3c: VNM
-    shapeID: 81297802B14510014839166
-  TuyenHoaAdm2VNM:
-    admin_name: TuyenHoa
-    iso3c: VNM
-    shapeID: 81297802B14659466260998
-  TuyênQuangAdm1VNM:
+    admin_level: Adm1
     admin_name: TuyênQuang
-    iso3c: VNM
     shapeID: 63759600B31607366287554
-  TuyenQuangAdm2VNM:
-    admin_name: TuyenQuang
+    country_name: Vietnam
+  Vietnam_Adm1_62:
     iso3c: VNM
-    shapeID: 81297802B47439602304770
-  TuyHoaAdm2VNM:
-    admin_name: TuyHoa
-    iso3c: VNM
-    shapeID: 81297802B45106503001809
-  TuyPhongAdm2VNM:
-    admin_name: TuyPhong
-    iso3c: VNM
-    shapeID: 81297802B73162737965460
-  TuyPhuocAdm2VNM:
-    admin_name: TuyPhuoc
-    iso3c: VNM
-    shapeID: 81297802B71017047307278
-  UMinhAdm2VNM:
-    admin_name: UMinh
-    iso3c: VNM
-    shapeID: 81297802B9286931688743
-  UMinhThuongAdm2VNM:
-    admin_name: UMinhThuong
-    iso3c: VNM
-    shapeID: 81297802B37875930391216
-  UngHoaAdm2VNM:
-    admin_name: UngHoa
-    iso3c: VNM
-    shapeID: 81297802B95308085705563
-  UongBiAdm2VNM:
-    admin_name: UongBi
-    iso3c: VNM
-    shapeID: 81297802B42641748496229
-  VanBanAdm2VNM:
-    admin_name: VanBan
-    iso3c: VNM
-    shapeID: 81297802B34365172713310
-  VanCanhAdm2VNM:
-    admin_name: VanCanh
-    iso3c: VNM
-    shapeID: 81297802B17102674968438
-  VanChanAdm2VNM:
-    admin_name: VanChan
-    iso3c: VNM
-    shapeID: 81297802B1430654702420
-  VanDonAdm2VNM:
-    admin_name: VanDon
-    iso3c: VNM
-    shapeID: 81297802B23156291808671
-  VanGiangAdm2VNM:
-    admin_name: VanGiang
-    iso3c: VNM
-    shapeID: 81297802B33082020704537
-  VanHoAdm2VNM:
-    admin_name: VanHo
-    iso3c: VNM
-    shapeID: 81297802B72197288944143
-  VanLamAdm2VNM:
-    admin_name: VanLam
-    iso3c: VNM
-    shapeID: 81297802B83094530275497
-  VanLangAdm2VNM:
-    admin_name: VanLang
-    iso3c: VNM
-    shapeID: 81297802B84784766195181
-  VanNinhAdm2VNM:
-    admin_name: VanNinh
-    iso3c: VNM
-    shapeID: 81297802B51561347842325
-  VanQuanAdm2VNM:
-    admin_name: VanQuan
-    iso3c: VNM
-    shapeID: 81297802B89235073975729
-  VanYenAdm2VNM:
-    admin_name: VanYen
-    iso3c: VNM
-    shapeID: 81297802B29692958480362
-  VietTriAdm2VNM:
-    admin_name: VietTri
-    iso3c: VNM
-    shapeID: 81297802B93284854578765
-  VietYenAdm2VNM:
-    admin_name: VietYen
-    iso3c: VNM
-    shapeID: 81297802B30186135932553
-  VinhAdm2VNM:
-    admin_name: Vinh
-    iso3c: VNM
-    shapeID: 81297802B9978574523269
-  VinhBaoAdm2VNM:
-    admin_name: VinhBao
-    iso3c: VNM
-    shapeID: 81297802B55266176914642
-  VinhChauAdm2VNM:
-    admin_name: VinhChau
-    iso3c: VNM
-    shapeID: 81297802B36990393529741
-  VinhCuuAdm2VNM:
-    admin_name: VinhCuu
-    iso3c: VNM
-    shapeID: 81297802B24916871487669
-  VinhHungAdm2VNM:
-    admin_name: VinhHung
-    iso3c: VNM
-    shapeID: 81297802B51272444346298
-  VinhLinhAdm2VNM:
-    admin_name: VinhLinh
-    iso3c: VNM
-    shapeID: 81297802B84418908504415
-  VinhLocAdm2VNM:
-    admin_name: VinhLoc
-    iso3c: VNM
-    shapeID: 81297802B11071874803157
-  VinhLoiAdm2VNM:
-    admin_name: VinhLoi
-    iso3c: VNM
-    shapeID: 81297802B93911642889100
-  VĩnhLongAdm1VNM:
+    admin_level: Adm1
     admin_name: VĩnhLong
-    iso3c: VNM
     shapeID: 63759600B66868150968055
-  VinhLongAdm2VNM:
-    admin_name: VinhLong
+    country_name: Vietnam
+  Vietnam_Adm1_63:
     iso3c: VNM
-    shapeID: 81297802B51499597672373
-  VĩnhPhúcAdm1VNM:
+    admin_level: Adm1
     admin_name: VĩnhPhúc
-    iso3c: VNM
     shapeID: 63759600B34367175145761
-  VinhThanhAdm2VNM:
-    admin_name:
-    - VinhThanh
-    - VinhThanh
-    iso3c:
-    - VNM
-    - VNM
-    shapeID:
-    - 81297802B21955309192571
-    - 81297802B96455619083063
-  VinhThuanAdm2VNM:
-    admin_name: VinhThuan
+    country_name: Vietnam
+  Vietnam_Adm1_64:
     iso3c: VNM
-    shapeID: 81297802B62462651678890
-  VinhTuongAdm2VNM:
-    admin_name: VinhTuong
-    iso3c: VNM
-    shapeID: 81297802B74371944720443
-  VinhYenAdm2VNM:
-    admin_name: VinhYen
-    iso3c: VNM
-    shapeID: 81297802B55955468315553
-  ViThanhAdm2VNM:
-    admin_name: ViThanh
-    iso3c: VNM
-    shapeID: 81297802B29627750987730
-  ViThuyAdm2VNM:
-    admin_name: ViThuy
-    iso3c: VNM
-    shapeID: 81297802B65836895267297
-  ViXuyenAdm2VNM:
-    admin_name: ViXuyen
-    iso3c: VNM
-    shapeID: 81297802B6357673458882
-  VoNhaiAdm2VNM:
-    admin_name: VoNhai
-    iso3c: VNM
-    shapeID: 81297802B13645799597087
-  VuBanAdm2VNM:
-    admin_name: VuBan
-    iso3c: VNM
-    shapeID: 81297802B77828019918781
-  VungLiemAdm2VNM:
-    admin_name: VungLiem
-    iso3c: VNM
-    shapeID: 81297802B24233120148790
-  VungTauAdm2VNM:
-    admin_name: VungTau
-    iso3c: VNM
-    shapeID: 81297802B39135443664879
-  VuQuangAdm2VNM:
-    admin_name: VuQuang
-    iso3c: VNM
-    shapeID: 81297802B66107700635107
-  VuThuAdm2VNM:
-    admin_name: VuThu
-    iso3c: VNM
-    shapeID: 81297802B99897160628736
-  XinManAdm2VNM:
-    admin_name: XinMan
-    iso3c: VNM
-    shapeID: 81297802B50713424689894
-  XuanLocAdm2VNM:
-    admin_name: XuanLoc
-    iso3c: VNM
-    shapeID: 81297802B96051805348654
-  XuanTruongAdm2VNM:
-    admin_name: XuanTruong
-    iso3c: VNM
-    shapeID: 81297802B91982413663988
-  XuyenMocAdm2VNM:
-    admin_name: XuyenMoc
-    iso3c: VNM
-    shapeID: 81297802B24499966976565
-  YênBáiAdm1VNM:
+    admin_level: Adm1
     admin_name: YênBái
-    iso3c: VNM
     shapeID: 63759600B52601599488063
-  YenBaiAdm2VNM:
-    admin_name: YenBai
+    country_name: Vietnam
+  Vietnam_Adm1_7:
     iso3c: VNM
-    shapeID: 81297802B89523168412992
-  YenBinhAdm2VNM:
-    admin_name: YenBinh
+    admin_level: Adm1
+    admin_name: BếnTre
+    shapeID: 63759600B71233846988018
+    country_name: Vietnam
+  Vietnam_Adm1_8:
     iso3c: VNM
-    shapeID: 81297802B76693228184167
-  YenChauAdm2VNM:
-    admin_name: YenChau
+    admin_level: Adm1
+    admin_name: BìnhĐịnh
+    shapeID: 63759600B9901642676381
+    country_name: Vietnam
+  Vietnam_Adm1_9:
     iso3c: VNM
-    shapeID: 81297802B99176770386813
-  YenDinhAdm2VNM:
-    admin_name: YenDinh
+    admin_level: Adm1
+    admin_name: BìnhDương
+    shapeID: 63759600B4649941622975
+    country_name: Vietnam
+  Vietnam_Adm2_1:
     iso3c: VNM
-    shapeID: 81297802B9474885125507
-  YenDungAdm2VNM:
-    admin_name: YenDung
+    admin_level: Adm2
+    admin_name: ALuoi
+    shapeID: 81297802B94706269623038
+    country_name: Vietnam
+  Vietnam_Adm2_10:
     iso3c: VNM
-    shapeID: 81297802B99638089462809
-  YenKhanhAdm2VNM:
-    admin_name: YenKhanh
+    admin_level: Adm2
+    admin_name: AnThi
+    shapeID: 81297802B29202402001629
+    country_name: Vietnam
+  Vietnam_Adm2_100:
     iso3c: VNM
-    shapeID: 81297802B59755992581592
-  YenLacAdm2VNM:
-    admin_name: YenLac
+    admin_level: Adm2
+    admin_name: ChauDoc
+    shapeID: 81297802B29469680325647
+    country_name: Vietnam
+  Vietnam_Adm2_101:
     iso3c: VNM
-    shapeID: 81297802B65483274658502
-  YenLapAdm2VNM:
-    admin_name: YenLap
+    admin_level: Adm2
+    admin_name: ChauDuc
+    shapeID: 81297802B77796697839152
+    country_name: Vietnam
+  Vietnam_Adm2_102:
     iso3c: VNM
-    shapeID: 81297802B78626005730568
-  YenMinhAdm2VNM:
-    admin_name: YenMinh
+    admin_level: Adm2
+    admin_name: ChauPhu
+    shapeID: 81297802B67223328663780
+    country_name: Vietnam
+  Vietnam_Adm2_103:
     iso3c: VNM
-    shapeID: 81297802B77958779459732
-  YenMoAdm2VNM:
-    admin_name: YenMo
+    admin_level: Adm2
+    admin_name: ChauThanh
+    shapeID: 81297802B30323481145094
+    country_name: Vietnam
+  Vietnam_Adm2_104:
     iso3c: VNM
-    shapeID: 81297802B9308814425220
-  YenMyAdm2VNM:
-    admin_name: YenMy
+    admin_level: Adm2
+    admin_name: ChauThanh
+    shapeID: 81297802B81408558281677
+    country_name: Vietnam
+  Vietnam_Adm2_105:
     iso3c: VNM
-    shapeID: 81297802B77847273364040
-  YenPhongAdm2VNM:
-    admin_name: YenPhong
+    admin_level: Adm2
+    admin_name: ChauThanh
+    shapeID: 81297802B15585210216113
+    country_name: Vietnam
+  Vietnam_Adm2_106:
     iso3c: VNM
-    shapeID: 81297802B41688796411548
-  YenSonAdm2VNM:
-    admin_name: YenSon
+    admin_level: Adm2
+    admin_name: ChauThanh
+    shapeID: 81297802B33105171569216
+    country_name: Vietnam
+  Vietnam_Adm2_107:
     iso3c: VNM
-    shapeID: 81297802B74193371644879
-  YenThanhAdm2VNM:
-    admin_name: YenThanh
+    admin_level: Adm2
+    admin_name: ChauThanh
+    shapeID: 81297802B2434648618604
+    country_name: Vietnam
+  Vietnam_Adm2_108:
     iso3c: VNM
-    shapeID: 81297802B75629290490646
-  YenTheAdm2VNM:
-    admin_name: YenThe
+    admin_level: Adm2
+    admin_name: ChauThanh
+    shapeID: 81297802B56564979250046
+    country_name: Vietnam
+  Vietnam_Adm2_109:
     iso3c: VNM
-    shapeID: 81297802B24165490506756
-  YenThuyAdm2VNM:
-    admin_name: YenThuy
+    admin_level: Adm2
+    admin_name: ChauThanh
+    shapeID: 81297802B94247950786042
+    country_name: Vietnam
+  Vietnam_Adm2_11:
     iso3c: VNM
-    shapeID: 81297802B65575052729344
-  YYenAdm2VNM:
+    admin_level: Adm2
+    admin_name: AnhSon
+    shapeID: 81297802B23970425053168
+    country_name: Vietnam
+  Vietnam_Adm2_110:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChauThanh
+    shapeID: 81297802B83209776142835
+    country_name: Vietnam
+  Vietnam_Adm2_111:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChauThanh
+    shapeID: 81297802B55022771369511
+    country_name: Vietnam
+  Vietnam_Adm2_112:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChauThanh
+    shapeID: 81297802B53741861263416
+    country_name: Vietnam
+  Vietnam_Adm2_113:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChauThanhA
+    shapeID: 81297802B94036559538482
+    country_name: Vietnam
+  Vietnam_Adm2_114:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChiLang
+    shapeID: 81297802B55451481919262
+    country_name: Vietnam
+  Vietnam_Adm2_115:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChiLinh
+    shapeID: 81297802B28152038240632
+    country_name: Vietnam
+  Vietnam_Adm2_116:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChiemHoa
+    shapeID: 81297802B40107493867560
+    country_name: Vietnam
+  Vietnam_Adm2_117:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChoDon
+    shapeID: 81297802B41242908240864
+    country_name: Vietnam
+  Vietnam_Adm2_118:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChoGao
+    shapeID: 81297802B70172971551103
+    country_name: Vietnam
+  Vietnam_Adm2_119:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChoLach
+    shapeID: 81297802B13885304658875
+    country_name: Vietnam
+  Vietnam_Adm2_12:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: AyunPa
+    shapeID: 81297802B91685830390053
+    country_name: Vietnam
+  Vietnam_Adm2_120:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChoMoi
+    shapeID: 81297802B24308322432437
+    country_name: Vietnam
+  Vietnam_Adm2_121:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChoMoi
+    shapeID: 81297802B9073555262789
+    country_name: Vietnam
+  Vietnam_Adm2_122:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChonThanh
+    shapeID: 81297802B36298380371063
+    country_name: Vietnam
+  Vietnam_Adm2_123:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChuPah
+    shapeID: 81297802B21786246689715
+    country_name: Vietnam
+  Vietnam_Adm2_124:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChuProng
+    shapeID: 81297802B50675624734559
+    country_name: Vietnam
+  Vietnam_Adm2_125:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChuPuh
+    shapeID: 81297802B62904822955283
+    country_name: Vietnam
+  Vietnam_Adm2_126:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChuSe
+    shapeID: 81297802B12572198720361
+    country_name: Vietnam
+  Vietnam_Adm2_127:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ChuongMy
+    shapeID: 81297802B99190294686821
+    country_name: Vietnam
+  Vietnam_Adm2_128:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CoDo
+    shapeID: 81297802B1021983329449
+    country_name: Vietnam
+  Vietnam_Adm2_129:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CoTo
+    shapeID: 81297802B76384767601248
+    country_name: Vietnam
+  Vietnam_Adm2_13:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaBe
+    shapeID: 81297802B36883846114124
+    country_name: Vietnam
+  Vietnam_Adm2_130:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ConCo
+    shapeID: 81297802B79612246152029
+    country_name: Vietnam
+  Vietnam_Adm2_131:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ConCuong
+    shapeID: 81297802B27308287932068
+    country_name: Vietnam
+  Vietnam_Adm2_132:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ConDao
+    shapeID: 81297802B83873736556753
+    country_name: Vietnam
+  Vietnam_Adm2_133:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CuChi
+    shapeID: 81297802B99873561685500
+    country_name: Vietnam
+  Vietnam_Adm2_134:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CuJut
+    shapeID: 81297802B43064907961903
+    country_name: Vietnam
+  Vietnam_Adm2_135:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CuKuin
+    shapeID: 81297802B8003578408571
+    country_name: Vietnam
+  Vietnam_Adm2_136:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CuLaoDung
+    shapeID: 81297802B41374649859024
+    country_name: Vietnam
+  Vietnam_Adm2_137:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CuMgar
+    shapeID: 81297802B57943820891789
+    country_name: Vietnam
+  Vietnam_Adm2_138:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CuaLo
+    shapeID: 81297802B13550924224659
+    country_name: Vietnam
+  Vietnam_Adm2_139:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DaBac
+    shapeID: 81297802B60514422076531
+    country_name: Vietnam
+  Vietnam_Adm2_14:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaChe
+    shapeID: 81297802B18420716282175
+    country_name: Vietnam
+  Vietnam_Adm2_140:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DaHuoai
+    shapeID: 81297802B42288402015377
+    country_name: Vietnam
+  Vietnam_Adm2_141:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DaKrong
+    shapeID: 81297802B86066179794931
+    country_name: Vietnam
+  Vietnam_Adm2_142:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DaLat
+    shapeID: 81297802B86448730167777
+    country_name: Vietnam
+  Vietnam_Adm2_143:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DaTeh
+    shapeID: 81297802B88275273163475
+    country_name: Vietnam
+  Vietnam_Adm2_144:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DaiLoc
+    shapeID: 81297802B98438479076374
+    country_name: Vietnam
+  Vietnam_Adm2_145:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DaiTu
+    shapeID: 81297802B22157258808987
+    country_name: Vietnam
+  Vietnam_Adm2_146:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DakDoa
+    shapeID: 81297802B36312306774318
+    country_name: Vietnam
+  Vietnam_Adm2_147:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DakGlei
+    shapeID: 81297802B20367953633835
+    country_name: Vietnam
+  Vietnam_Adm2_148:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DakGlong
+    shapeID: 81297802B52664178073196
+    country_name: Vietnam
+  Vietnam_Adm2_149:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DakHa
+    shapeID: 81297802B44208556699353
+    country_name: Vietnam
+  Vietnam_Adm2_15:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaDinh
+    shapeID: 81297802B78295235973409
+    country_name: Vietnam
+  Vietnam_Adm2_150:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DakMil
+    shapeID: 81297802B8433513238207
+    country_name: Vietnam
+  Vietnam_Adm2_151:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DakPo
+    shapeID: 81297802B45369844815447
+    country_name: Vietnam
+  Vietnam_Adm2_152:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DakRlap
+    shapeID: 81297802B2917427008212
+    country_name: Vietnam
+  Vietnam_Adm2_153:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DakSong
+    shapeID: 81297802B66581332316021
+    country_name: Vietnam
+  Vietnam_Adm2_154:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DakTo
+    shapeID: 81297802B52627388081803
+    country_name: Vietnam
+  Vietnam_Adm2_155:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DamDoi
+    shapeID: 81297802B79677528710757
+    country_name: Vietnam
+  Vietnam_Adm2_156:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DamHa
+    shapeID: 81297802B85934029741785
+    country_name: Vietnam
+  Vietnam_Adm2_157:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DamRong
+    shapeID: 81297802B48811804766969
+    country_name: Vietnam
+  Vietnam_Adm2_158:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DanPhuong
+    shapeID: 81297802B64128830492510
+    country_name: Vietnam
+  Vietnam_Adm2_159:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DatDo
+    shapeID: 81297802B14105634475822
+    country_name: Vietnam
+  Vietnam_Adm2_16:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaDon
+    shapeID: 81297802B46228878369339
+    country_name: Vietnam
+  Vietnam_Adm2_160:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DauTieng
+    shapeID: 81297802B65073062645065
+    country_name: Vietnam
+  Vietnam_Adm2_161:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DiAn
+    shapeID: 81297802B25090486882402
+    country_name: Vietnam
+  Vietnam_Adm2_162:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DiLinh
+    shapeID: 81297802B8144414429904
+    country_name: Vietnam
+  Vietnam_Adm2_163:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DienBan
+    shapeID: 81297802B70720207353538
+    country_name: Vietnam
+  Vietnam_Adm2_164:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DienBien
+    shapeID: 81297802B1284717956892
+    country_name: Vietnam
+  Vietnam_Adm2_165:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DienBienDong
+    shapeID: 81297802B35707987060986
+    country_name: Vietnam
+  Vietnam_Adm2_166:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DienBienPhu
+    shapeID: 81297802B75517223780643
+    country_name: Vietnam
+  Vietnam_Adm2_167:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DienChau
+    shapeID: 81297802B64936965881183
+    country_name: Vietnam
+  Vietnam_Adm2_168:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DienKhanh
+    shapeID: 81297802B57264474428475
+    country_name: Vietnam
+  Vietnam_Adm2_169:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DinhHoa
+    shapeID: 81297802B90284781247335
+    country_name: Vietnam
+  Vietnam_Adm2_17:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaRia
+    shapeID: 81297802B66449035371360
+    country_name: Vietnam
+  Vietnam_Adm2_170:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DinhLap
+    shapeID: 81297802B72919536287172
+    country_name: Vietnam
+  Vietnam_Adm2_171:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DinhQuan
+    shapeID: 81297802B49967994067833
+    country_name: Vietnam
+  Vietnam_Adm2_172:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DoLuong
+    shapeID: 81297802B2130126961507
+    country_name: Vietnam
+  Vietnam_Adm2_173:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DoSon
+    shapeID: 81297802B95607767906649
+    country_name: Vietnam
+  Vietnam_Adm2_174:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DoanHung
+    shapeID: 81297802B97239523369157
+    country_name: Vietnam
+  Vietnam_Adm2_175:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DonDuong
+    shapeID: 81297802B74216529473028
+    country_name: Vietnam
+  Vietnam_Adm2_176:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongAnh
+    shapeID: 81297802B58266448529829
+    country_name: Vietnam
+  Vietnam_Adm2_177:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongDa
+    shapeID: 81297802B63935781650096
+    country_name: Vietnam
+  Vietnam_Adm2_178:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongGiang
+    shapeID: 81297802B9107629386142
+    country_name: Vietnam
+  Vietnam_Adm2_179:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongHa
+    shapeID: 81297802B80628180194499
+    country_name: Vietnam
+  Vietnam_Adm2_18:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaThuoc
+    shapeID: 81297802B10763760406842
+    country_name: Vietnam
+  Vietnam_Adm2_180:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongHai
+    shapeID: 81297802B21221579574343
+    country_name: Vietnam
+  Vietnam_Adm2_181:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongHoa
+    shapeID: 81297802B45644811289425
+    country_name: Vietnam
+  Vietnam_Adm2_182:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongHoi
+    shapeID: 81297802B5400707592531
+    country_name: Vietnam
+  Vietnam_Adm2_183:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongHung
+    shapeID: 81297802B28789600266311
+    country_name: Vietnam
+  Vietnam_Adm2_184:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongHy
+    shapeID: 81297802B71869801036686
+    country_name: Vietnam
+  Vietnam_Adm2_185:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongPhu
+    shapeID: 81297802B41717626545623
+    country_name: Vietnam
+  Vietnam_Adm2_186:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongSon
+    shapeID: 81297802B98540731986743
+    country_name: Vietnam
+  Vietnam_Adm2_187:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongTrieu
+    shapeID: 81297802B3249391660958
+    country_name: Vietnam
+  Vietnam_Adm2_188:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongVan
+    shapeID: 81297802B35887218353447
+    country_name: Vietnam
+  Vietnam_Adm2_189:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongXoai
+    shapeID: 81297802B13642047560711
+    country_name: Vietnam
+  Vietnam_Adm2_19:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaTo
+    shapeID: 81297802B2421652022296
+    country_name: Vietnam
+  Vietnam_Adm2_190:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DongXuan
+    shapeID: 81297802B78420794750623
+    country_name: Vietnam
+  Vietnam_Adm2_191:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DucCo
+    shapeID: 81297802B6947069841891
+    country_name: Vietnam
+  Vietnam_Adm2_192:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DucHoa
+    shapeID: 81297802B22890149890322
+    country_name: Vietnam
+  Vietnam_Adm2_193:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DucHue
+    shapeID: 81297802B23772600550478
+    country_name: Vietnam
+  Vietnam_Adm2_194:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DucLinh
+    shapeID: 81297802B10372149063277
+    country_name: Vietnam
+  Vietnam_Adm2_195:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DucPho
+    shapeID: 81297802B20968372540645
+    country_name: Vietnam
+  Vietnam_Adm2_196:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DucTho
+    shapeID: 81297802B16083563480391
+    country_name: Vietnam
+  Vietnam_Adm2_197:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DucTrong
+    shapeID: 81297802B43116981701202
+    country_name: Vietnam
+  Vietnam_Adm2_198:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DuongKinh
+    shapeID: 81297802B62167717430855
+    country_name: Vietnam
+  Vietnam_Adm2_199:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DuongMinhChau
+    shapeID: 81297802B96522155706340
+    country_name: Vietnam
+  Vietnam_Adm2_2:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: AnBien
+    shapeID: 81297802B3825263519858
+    country_name: Vietnam
+  Vietnam_Adm2_20:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaTri
+    shapeID: 81297802B69586170313052
+    country_name: Vietnam
+  Vietnam_Adm2_200:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DuyTien
+    shapeID: 81297802B7902592700170
+    country_name: Vietnam
+  Vietnam_Adm2_201:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DuyXuyen
+    shapeID: 81297802B11134761285152
+    country_name: Vietnam
+  Vietnam_Adm2_202:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: DuyenHai
+    shapeID: 81297802B81116648730753
+    country_name: Vietnam
+  Vietnam_Adm2_203:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: EAHleo
+    shapeID: 81297802B9030212335391
+    country_name: Vietnam
+  Vietnam_Adm2_204:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: EaKar
+    shapeID: 81297802B96415917644052
+    country_name: Vietnam
+  Vietnam_Adm2_205:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: EaSup
+    shapeID: 81297802B87471755079038
+    country_name: Vietnam
+  Vietnam_Adm2_206:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GiaBinh
+    shapeID: 81297802B26729031323268
+    country_name: Vietnam
+  Vietnam_Adm2_207:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GiaLam
+    shapeID: 81297802B60728672974675
+    country_name: Vietnam
+  Vietnam_Adm2_208:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GiaLoc
+    shapeID: 81297802B14141540631295
+    country_name: Vietnam
+  Vietnam_Adm2_209:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GiaNghia
+    shapeID: 81297802B66925040014305
+    country_name: Vietnam
+  Vietnam_Adm2_21:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaVi
+    shapeID: 81297802B94958861355476
+    country_name: Vietnam
+  Vietnam_Adm2_210:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GiaRai
+    shapeID: 81297802B74217032443586
+    country_name: Vietnam
+  Vietnam_Adm2_211:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GiaVien
+    shapeID: 81297802B79786453625721
+    country_name: Vietnam
+  Vietnam_Adm2_212:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GiangThanh
+    shapeID: 81297802B31774141557678
+    country_name: Vietnam
+  Vietnam_Adm2_213:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GiaoThuy
+    shapeID: 81297802B51483513425235
+    country_name: Vietnam
+  Vietnam_Adm2_214:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GioLinh
+    shapeID: 81297802B57271723433997
+    country_name: Vietnam
+  Vietnam_Adm2_215:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GiongRieng
+    shapeID: 81297802B19779239086561
+    country_name: Vietnam
+  Vietnam_Adm2_216:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GiongTrom
+    shapeID: 81297802B83890760772965
+    country_name: Vietnam
+  Vietnam_Adm2_217:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GoCong
+    shapeID: 81297802B95868582932177
+    country_name: Vietnam
+  Vietnam_Adm2_218:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GoCongDong
+    shapeID: 81297802B63663693246644
+    country_name: Vietnam
+  Vietnam_Adm2_219:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GoCongTay
+    shapeID: 81297802B95643835690721
+    country_name: Vietnam
+  Vietnam_Adm2_22:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacAi
+    shapeID: 81297802B54055270393742
+    country_name: Vietnam
+  Vietnam_Adm2_220:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GoDau
+    shapeID: 81297802B39580963826669
+    country_name: Vietnam
+  Vietnam_Adm2_221:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GoQuao
+    shapeID: 81297802B76509043653809
+    country_name: Vietnam
+  Vietnam_Adm2_222:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: GoVap
+    shapeID: 81297802B93588362587103
+    country_name: Vietnam
+  Vietnam_Adm2_223:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaDong
+    shapeID: 81297802B46977673973725
+    country_name: Vietnam
+  Vietnam_Adm2_224:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaGiang
+    shapeID: 81297802B3651989276752
+    country_name: Vietnam
+  Vietnam_Adm2_225:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaHoa
+    shapeID: 81297802B43584820413656
+    country_name: Vietnam
+  Vietnam_Adm2_226:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaLang
+    shapeID: 81297802B75623207701482
+    country_name: Vietnam
+  Vietnam_Adm2_227:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaLong
+    shapeID: 81297802B5641238333098
+    country_name: Vietnam
+  Vietnam_Adm2_228:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaQuang
+    shapeID: 81297802B58374178577075
+    country_name: Vietnam
+  Vietnam_Adm2_229:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaTien
+    shapeID: 81297802B34321495303848
+    country_name: Vietnam
+  Vietnam_Adm2_23:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacBinh
+    shapeID: 81297802B84889732636102
+    country_name: Vietnam
+  Vietnam_Adm2_230:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaTinh
+    shapeID: 81297802B52387636717940
+    country_name: Vietnam
+  Vietnam_Adm2_231:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaTrung
+    shapeID: 81297802B67206181597957
+    country_name: Vietnam
+  Vietnam_Adm2_232:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaiAn
+    shapeID: 81297802B19362557849536
+    country_name: Vietnam
+  Vietnam_Adm2_233:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaiBaTrung
+    shapeID: 81297802B70315889029707
+    country_name: Vietnam
+  Vietnam_Adm2_234:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaiChau
+    shapeID: 81297802B10780873415993
+    country_name: Vietnam
+  Vietnam_Adm2_235:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaiDuong
+    shapeID: 81297802B68427461655945
+    country_name: Vietnam
+  Vietnam_Adm2_236:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaiHa
+    shapeID: 81297802B53592665760601
+    country_name: Vietnam
+  Vietnam_Adm2_237:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaiHau
+    shapeID: 81297802B21970288414729
+    country_name: Vietnam
+  Vietnam_Adm2_238:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HaiLang
+    shapeID: 81297802B74996211829814
+    country_name: Vietnam
+  Vietnam_Adm2_239:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HamTan
+    shapeID: 81297802B21171501026834
+    country_name: Vietnam
+  Vietnam_Adm2_24:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacGiang
+    shapeID: 81297802B62924474209473
+    country_name: Vietnam
+  Vietnam_Adm2_240:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HamThuanBac
+    shapeID: 81297802B59459676884366
+    country_name: Vietnam
+  Vietnam_Adm2_241:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HamThuanNam
+    shapeID: 81297802B68049284687871
+    country_name: Vietnam
+  Vietnam_Adm2_242:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HamYen
+    shapeID: 81297802B77229581138550
+    country_name: Vietnam
+  Vietnam_Adm2_243:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HauLoc
+    shapeID: 81297802B47590181438391
+    country_name: Vietnam
+  Vietnam_Adm2_244:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HiepDuc
+    shapeID: 81297802B47304896634130
+    country_name: Vietnam
+  Vietnam_Adm2_245:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HiepHoa
+    shapeID: 81297802B61782089337393
+    country_name: Vietnam
+  Vietnam_Adm2_246:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoaAn
+    shapeID: 81297802B75378675708985
+    country_name: Vietnam
+  Vietnam_Adm2_247:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoaBinh
+    shapeID: 81297802B62740202990840
+    country_name: Vietnam
+  Vietnam_Adm2_248:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoaBinh
+    shapeID: 81297802B29311833142389
+    country_name: Vietnam
+  Vietnam_Adm2_249:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoaLu
+    shapeID: 81297802B36566531846362
+    country_name: Vietnam
+  Vietnam_Adm2_25:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacHa
+    shapeID: 81297802B71116262659242
+    country_name: Vietnam
+  Vietnam_Adm2_250:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoaThanh
+    shapeID: 81297802B16996300923424
+    country_name: Vietnam
+  Vietnam_Adm2_251:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoaVang
+    shapeID: 81297802B86432819232797
+    country_name: Vietnam
+  Vietnam_Adm2_252:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoaiAn
+    shapeID: 81297802B64656263356693
+    country_name: Vietnam
+  Vietnam_Adm2_253:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoaiDuc
+    shapeID: 81297802B48396752750587
+    country_name: Vietnam
+  Vietnam_Adm2_254:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoaiNhon
+    shapeID: 81297802B87599740731463
+    country_name: Vietnam
+  Vietnam_Adm2_255:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoanKiem
+    shapeID: 81297802B21956500009646
+    country_name: Vietnam
+  Vietnam_Adm2_256:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoangHoa
+    shapeID: 81297802B91620400281223
+    country_name: Vietnam
+  Vietnam_Adm2_257:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoangMai
+    shapeID: 81297802B90742047749751
+    country_name: Vietnam
+  Vietnam_Adm2_258:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoangMai
+    shapeID: 81297802B46675680885513
+    country_name: Vietnam
+  Vietnam_Adm2_259:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoangSa
+    shapeID: 81297802B51350923112403
+    country_name: Vietnam
+  Vietnam_Adm2_26:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacKan
+    shapeID: 81297802B17568713952999
+    country_name: Vietnam
+  Vietnam_Adm2_260:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoangSuPhi
+    shapeID: 81297802B55460345655510
+    country_name: Vietnam
+  Vietnam_Adm2_261:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoanhBo
+    shapeID: 81297802B7752291855220
+    country_name: Vietnam
+  Vietnam_Adm2_262:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HocMon
+    shapeID: 81297802B64363050509880
+    country_name: Vietnam
+  Vietnam_Adm2_263:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HoiAn
+    shapeID: 81297802B62948768430814
+    country_name: Vietnam
+  Vietnam_Adm2_264:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HonDat
+    shapeID: 81297802B18356226761800
+    country_name: Vietnam
+  Vietnam_Adm2_265:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HonQuan
+    shapeID: 81297802B26799209243085
+    country_name: Vietnam
+  Vietnam_Adm2_266:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HongBang
+    shapeID: 81297802B63499365755438
+    country_name: Vietnam
+  Vietnam_Adm2_267:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HongDan
+    shapeID: 81297802B80223312825495
+    country_name: Vietnam
+  Vietnam_Adm2_268:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HongLinh
+    shapeID: 81297802B12079916150099
+    country_name: Vietnam
+  Vietnam_Adm2_269:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Hue
+    shapeID: 81297802B88130440660417
+    country_name: Vietnam
+  Vietnam_Adm2_27:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacLieu
+    shapeID: 81297802B6284379291034
+    country_name: Vietnam
+  Vietnam_Adm2_270:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HungHa
+    shapeID: 81297802B42785936874032
+    country_name: Vietnam
+  Vietnam_Adm2_271:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HungNguyen
+    shapeID: 81297802B19242536298701
+    country_name: Vietnam
+  Vietnam_Adm2_272:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HungYen
+    shapeID: 81297802B83594447255
+    country_name: Vietnam
+  Vietnam_Adm2_273:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HuongHoa
+    shapeID: 81297802B55643895945103
+    country_name: Vietnam
+  Vietnam_Adm2_274:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HuongKhe
+    shapeID: 81297802B53129181429645
+    country_name: Vietnam
+  Vietnam_Adm2_275:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HuongSon
+    shapeID: 81297802B24299836434530
+    country_name: Vietnam
+  Vietnam_Adm2_276:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HuongThuy
+    shapeID: 81297802B27432396017289
+    country_name: Vietnam
+  Vietnam_Adm2_277:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HuongTra
+    shapeID: 81297802B61752422174773
+    country_name: Vietnam
+  Vietnam_Adm2_278:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HuuLung
+    shapeID: 81297802B35079403712963
+    country_name: Vietnam
+  Vietnam_Adm2_279:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HuyenCaiLay
+    shapeID: 81297802B21182108853425
+    country_name: Vietnam
+  Vietnam_Adm2_28:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacMe
+    shapeID: 81297802B85329428934549
+    country_name: Vietnam
+  Vietnam_Adm2_280:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HuyenCaoLanh
+    shapeID: 81297802B29684412204466
+    country_name: Vietnam
+  Vietnam_Adm2_281:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: HuyenHongNgu
+    shapeID: 81297802B50587214410487
+    country_name: Vietnam
+  Vietnam_Adm2_282:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: IaGrai
+    shapeID: 81297802B6416238429405
+    country_name: Vietnam
+  Vietnam_Adm2_283:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: IaPa
+    shapeID: 81297802B8571934498047
+    country_name: Vietnam
+  Vietnam_Adm2_284:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KBang
+    shapeID: 81297802B35293124334630
+    country_name: Vietnam
+  Vietnam_Adm2_285:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KeSach
+    shapeID: 81297802B85563269288439
+    country_name: Vietnam
+  Vietnam_Adm2_286:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KhanhSon
+    shapeID: 81297802B29051358194838
+    country_name: Vietnam
+  Vietnam_Adm2_287:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KhanhVinh
+    shapeID: 81297802B87924827202169
+    country_name: Vietnam
+  Vietnam_Adm2_288:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KhoaiChau
+    shapeID: 81297802B59998896925567
+    country_name: Vietnam
+  Vietnam_Adm2_289:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KienAn
+    shapeID: 81297802B17638458778811
+    country_name: Vietnam
+  Vietnam_Adm2_29:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacNinh
+    shapeID: 81297802B63234506717185
+    country_name: Vietnam
+  Vietnam_Adm2_290:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KienHai
+    shapeID: 81297802B10550571931229
+    country_name: Vietnam
+  Vietnam_Adm2_291:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KienLuong
+    shapeID: 81297802B41363610148385
+    country_name: Vietnam
+  Vietnam_Adm2_292:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KienThuy
+    shapeID: 81297802B29420287983322
+    country_name: Vietnam
+  Vietnam_Adm2_293:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KienTuong
+    shapeID: 81297802B15581259777878
+    country_name: Vietnam
+  Vietnam_Adm2_294:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KienXuong
+    shapeID: 81297802B82663613485319
+    country_name: Vietnam
+  Vietnam_Adm2_295:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KimBang
+    shapeID: 81297802B80649611591308
+    country_name: Vietnam
+  Vietnam_Adm2_296:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KimBoi
+    shapeID: 81297802B6982011035243
+    country_name: Vietnam
+  Vietnam_Adm2_297:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KimDong
+    shapeID: 81297802B31840185218616
+    country_name: Vietnam
+  Vietnam_Adm2_298:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KimSon
+    shapeID: 81297802B55928452292311
+    country_name: Vietnam
+  Vietnam_Adm2_299:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KimThanh
+    shapeID: 81297802B3696641207460
+    country_name: Vietnam
+  Vietnam_Adm2_3:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: AnDuong
+    shapeID: 81297802B31270346353021
+    country_name: Vietnam
+  Vietnam_Adm2_30:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacQuang
+    shapeID: 81297802B46816941364430
+    country_name: Vietnam
+  Vietnam_Adm2_300:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KinhMon
+    shapeID: 81297802B98282177960136
+    country_name: Vietnam
+  Vietnam_Adm2_301:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KonPlong
+    shapeID: 81297802B37970290892439
+    country_name: Vietnam
+  Vietnam_Adm2_302:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KonRay
+    shapeID: 81297802B49611781778497
+    country_name: Vietnam
+  Vietnam_Adm2_303:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KonTum
+    shapeID: 81297802B636661033486
+    country_name: Vietnam
+  Vietnam_Adm2_304:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KongChro
+    shapeID: 81297802B76302638024773
+    country_name: Vietnam
+  Vietnam_Adm2_305:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KrongANa
+    shapeID: 81297802B38165084831058
+    country_name: Vietnam
+  Vietnam_Adm2_306:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KrongBong
+    shapeID: 81297802B29162792012865
+    country_name: Vietnam
+  Vietnam_Adm2_307:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KrongBuk
+    shapeID: 81297802B2573632778711
+    country_name: Vietnam
+  Vietnam_Adm2_308:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KrongNang
+    shapeID: 81297802B49219208970184
+    country_name: Vietnam
+  Vietnam_Adm2_309:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KrongNo
+    shapeID: 81297802B95536504011076
+    country_name: Vietnam
+  Vietnam_Adm2_31:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacSon
+    shapeID: 81297802B43959874007568
+    country_name: Vietnam
+  Vietnam_Adm2_310:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KrongPa
+    shapeID: 81297802B51008955299030
+    country_name: Vietnam
+  Vietnam_Adm2_311:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KrongPac
+    shapeID: 81297802B85821133415944
+    country_name: Vietnam
+  Vietnam_Adm2_312:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KyAnh
+    shapeID: 81297802B12468750690576
+    country_name: Vietnam
+  Vietnam_Adm2_313:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KySon
+    shapeID: 81297802B6810559606516
+    country_name: Vietnam
+  Vietnam_Adm2_314:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: KySon
+    shapeID: 81297802B2701886719052
+    country_name: Vietnam
+  Vietnam_Adm2_315:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LaGi
+    shapeID: 81297802B85161602276488
+    country_name: Vietnam
+  Vietnam_Adm2_316:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LacDuong
+    shapeID: 81297802B90979220295161
+    country_name: Vietnam
+  Vietnam_Adm2_317:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LacSon
+    shapeID: 81297802B21968879828656
+    country_name: Vietnam
+  Vietnam_Adm2_318:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LacThuy
+    shapeID: 81297802B25708049906691
+    country_name: Vietnam
+  Vietnam_Adm2_319:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LaiChau
+    shapeID: 81297802B74546691476320
+    country_name: Vietnam
+  Vietnam_Adm2_32:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacTanUyen
+    shapeID: 81297802B7309999559024
+    country_name: Vietnam
+  Vietnam_Adm2_320:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LaiVung
+    shapeID: 81297802B97779454887068
+    country_name: Vietnam
+  Vietnam_Adm2_321:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Lak
+    shapeID: 81297802B83612510149562
+    country_name: Vietnam
+  Vietnam_Adm2_322:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LamBinh
+    shapeID: 81297802B83942116722165
+    country_name: Vietnam
+  Vietnam_Adm2_323:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LamHa
+    shapeID: 81297802B58085294619279
+    country_name: Vietnam
+  Vietnam_Adm2_324:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LamThao
+    shapeID: 81297802B85606551737880
+    country_name: Vietnam
+  Vietnam_Adm2_325:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LangChanh
+    shapeID: 81297802B3900213451305
+    country_name: Vietnam
+  Vietnam_Adm2_326:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LangGiang
+    shapeID: 81297802B94506734482800
+    country_name: Vietnam
+  Vietnam_Adm2_327:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LangSon
+    shapeID: 81297802B21506651579478
+    country_name: Vietnam
+  Vietnam_Adm2_328:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LaoCai
+    shapeID: 81297802B32838967164839
+    country_name: Vietnam
+  Vietnam_Adm2_329:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LapThach
+    shapeID: 81297802B47675849617506
+    country_name: Vietnam
+  Vietnam_Adm2_33:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacTraMy
+    shapeID: 81297802B65636962466894
+    country_name: Vietnam
+  Vietnam_Adm2_330:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LapVo
+    shapeID: 81297802B77463595408425
+    country_name: Vietnam
+  Vietnam_Adm2_331:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LeChan
+    shapeID: 81297802B93912769577432
+    country_name: Vietnam
+  Vietnam_Adm2_332:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LeThuy
+    shapeID: 81297802B23145234920875
+    country_name: Vietnam
+  Vietnam_Adm2_333:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LienChieu
+    shapeID: 81297802B84719552891507
+    country_name: Vietnam
+  Vietnam_Adm2_334:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LocBinh
+    shapeID: 81297802B22471082550929
+    country_name: Vietnam
+  Vietnam_Adm2_335:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LocHa
+    shapeID: 81297802B55071935880129
+    country_name: Vietnam
+  Vietnam_Adm2_336:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LocNinh
+    shapeID: 81297802B87348344277653
+    country_name: Vietnam
+  Vietnam_Adm2_337:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LongBien
+    shapeID: 81297802B92281690814663
+    country_name: Vietnam
+  Vietnam_Adm2_338:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LongDien
+    shapeID: 81297802B9398077823445
+    country_name: Vietnam
+  Vietnam_Adm2_339:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LongHo
+    shapeID: 81297802B86807381296423
+    country_name: Vietnam
+  Vietnam_Adm2_34:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacTuLiem
+    shapeID: 81297802B3906213091507
+    country_name: Vietnam
+  Vietnam_Adm2_340:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LongKhanh
+    shapeID: 81297802B61199528191319
+    country_name: Vietnam
+  Vietnam_Adm2_341:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LongMy
+    shapeID: 81297802B29776873812270
+    country_name: Vietnam
+  Vietnam_Adm2_342:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LongPhu
+    shapeID: 81297802B46768613136824
+    country_name: Vietnam
+  Vietnam_Adm2_343:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LongThanh
+    shapeID: 81297802B3720110239063
+    country_name: Vietnam
+  Vietnam_Adm2_344:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LongXuyen
+    shapeID: 81297802B27304776569222
+    country_name: Vietnam
+  Vietnam_Adm2_345:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LucNam
+    shapeID: 81297802B23878626253121
+    country_name: Vietnam
+  Vietnam_Adm2_346:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LucNgan
+    shapeID: 81297802B38321972927223
+    country_name: Vietnam
+  Vietnam_Adm2_347:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LucYen
+    shapeID: 81297802B97878568873252
+    country_name: Vietnam
+  Vietnam_Adm2_348:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LuongSon
+    shapeID: 81297802B92770026846870
+    country_name: Vietnam
+  Vietnam_Adm2_349:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LuongTai
+    shapeID: 81297802B42689754920120
+    country_name: Vietnam
+  Vietnam_Adm2_35:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BacYen
+    shapeID: 81297802B44532488811780
+    country_name: Vietnam
+  Vietnam_Adm2_350:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LyNhan
+    shapeID: 81297802B63925273406451
+    country_name: Vietnam
+  Vietnam_Adm2_351:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: LySon
+    shapeID: 81297802B63810165613250
+    country_name: Vietnam
+  Vietnam_Adm2_352:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MaiChau
+    shapeID: 81297802B54863694878388
+    country_name: Vietnam
+  Vietnam_Adm2_353:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MaiSon
+    shapeID: 81297802B85756054610964
+    country_name: Vietnam
+  Vietnam_Adm2_354:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MangThit
+    shapeID: 81297802B20675443699466
+    country_name: Vietnam
+  Vietnam_Adm2_355:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MangYang
+    shapeID: 81297802B73536270925214
+    country_name: Vietnam
+  Vietnam_Adm2_356:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MdrakDistrict
+    shapeID: 81297802B27744921596224
+    country_name: Vietnam
+  Vietnam_Adm2_357:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MeLinh
+    shapeID: 81297802B91668671895601
+    country_name: Vietnam
+  Vietnam_Adm2_358:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MeoVac
+    shapeID: 81297802B2489932619372
+    country_name: Vietnam
+  Vietnam_Adm2_359:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MinhHoa
+    shapeID: 81297802B57556187754980
+    country_name: Vietnam
+  Vietnam_Adm2_36:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BachLongVi
+    shapeID: 81297802B40834484476285
+    country_name: Vietnam
+  Vietnam_Adm2_360:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MinhLong
+    shapeID: 81297802B89663618716792
+    country_name: Vietnam
+  Vietnam_Adm2_361:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MoCayBac
+    shapeID: 81297802B92984212454641
+    country_name: Vietnam
+  Vietnam_Adm2_362:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MoCayNam
+    shapeID: 81297802B48166206611574
+    country_name: Vietnam
+  Vietnam_Adm2_363:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MoDuc
+    shapeID: 81297802B23204917551818
+    country_name: Vietnam
+  Vietnam_Adm2_364:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MocChau
+    shapeID: 81297802B18330735489877
+    country_name: Vietnam
+  Vietnam_Adm2_365:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MocHoa
+    shapeID: 81297802B7527818717712
+    country_name: Vietnam
+  Vietnam_Adm2_366:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MongCai
+    shapeID: 81297802B69562638547328
+    country_name: Vietnam
+  Vietnam_Adm2_367:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MuCangChai
+    shapeID: 81297802B12607058922832
+    country_name: Vietnam
+  Vietnam_Adm2_368:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MuongAng
+    shapeID: 81297802B95485897365368
+    country_name: Vietnam
+  Vietnam_Adm2_369:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MuongCha
+    shapeID: 81297802B30042560711823
+    country_name: Vietnam
+  Vietnam_Adm2_37:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BachThong
+    shapeID: 81297802B24696745321038
+    country_name: Vietnam
+  Vietnam_Adm2_370:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MuongKhuong
+    shapeID: 81297802B9711168823282
+    country_name: Vietnam
+  Vietnam_Adm2_371:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MuongLa
+    shapeID: 81297802B85331365285334
+    country_name: Vietnam
+  Vietnam_Adm2_372:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MuongLat
+    shapeID: 81297802B72565329345275
+    country_name: Vietnam
+  Vietnam_Adm2_373:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MuongLay
+    shapeID: 81297802B55776801112281
+    country_name: Vietnam
+  Vietnam_Adm2_374:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MuongNhe
+    shapeID: 81297802B77284470547112
+    country_name: Vietnam
+  Vietnam_Adm2_375:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MuongTe
+    shapeID: 81297802B94651516294700
+    country_name: Vietnam
+  Vietnam_Adm2_376:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MyDuc
+    shapeID: 81297802B48632704069528
+    country_name: Vietnam
+  Vietnam_Adm2_377:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MyHao
+    shapeID: 81297802B81471151736005
+    country_name: Vietnam
+  Vietnam_Adm2_378:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MyLoc
+    shapeID: 81297802B55456276640785
+    country_name: Vietnam
+  Vietnam_Adm2_379:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MyTho
+    shapeID: 81297802B97193335039618
+    country_name: Vietnam
+  Vietnam_Adm2_38:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaoLac
+    shapeID: 81297802B7761745227660
+    country_name: Vietnam
+  Vietnam_Adm2_380:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MyTu
+    shapeID: 81297802B88406709239333
+    country_name: Vietnam
+  Vietnam_Adm2_381:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: MyXuyen
+    shapeID: 81297802B12004492777163
+    country_name: Vietnam
+  Vietnam_Adm2_382:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NaHang
+    shapeID: 81297802B32233799995516
+    country_name: Vietnam
+  Vietnam_Adm2_383:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NaRi
+    shapeID: 81297802B30321615980530
+    country_name: Vietnam
+  Vietnam_Adm2_384:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamCan
+    shapeID: 81297802B77939005638096
+    country_name: Vietnam
+  Vietnam_Adm2_385:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamDan
+    shapeID: 81297802B54877143810300
+    country_name: Vietnam
+  Vietnam_Adm2_386:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamĐịnh
+    shapeID: 81297802B54089788823696
+    country_name: Vietnam
+  Vietnam_Adm2_387:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamDong
+    shapeID: 81297802B42791937018990
+    country_name: Vietnam
+  Vietnam_Adm2_388:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamGiang
+    shapeID: 81297802B72423367852086
+    country_name: Vietnam
+  Vietnam_Adm2_389:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamNhun
+    shapeID: 81297802B14703404520131
+    country_name: Vietnam
+  Vietnam_Adm2_39:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaoLam
+    shapeID: 81297802B56496932739620
+    country_name: Vietnam
+  Vietnam_Adm2_390:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamPo
+    shapeID: 81297802B39086824409595
+    country_name: Vietnam
+  Vietnam_Adm2_391:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamSach
+    shapeID: 81297802B53771614429572
+    country_name: Vietnam
+  Vietnam_Adm2_392:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamTraMy
+    shapeID: 81297802B98842550999199
+    country_name: Vietnam
+  Vietnam_Adm2_393:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamTruc
+    shapeID: 81297802B82332241258399
+    country_name: Vietnam
+  Vietnam_Adm2_394:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NamTuLiem
+    shapeID: 81297802B23821385944469
+    country_name: Vietnam
+  Vietnam_Adm2_395:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NgaBay
+    shapeID: 81297802B83257848753409
+    country_name: Vietnam
+  Vietnam_Adm2_396:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NgaNam
+    shapeID: 81297802B9638596310151
+    country_name: Vietnam
+  Vietnam_Adm2_397:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NgaSon
+    shapeID: 81297802B47963627673209
+    country_name: Vietnam
+  Vietnam_Adm2_398:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NganSon
+    shapeID: 81297802B68784640933993
+    country_name: Vietnam
+  Vietnam_Adm2_399:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NghiLoc
+    shapeID: 81297802B50427055609681
+    country_name: Vietnam
+  Vietnam_Adm2_4:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: AnKhe
+    shapeID: 81297802B94904539855050
+    country_name: Vietnam
+  Vietnam_Adm2_40:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaoLam
+    shapeID: 81297802B89982379831919
+    country_name: Vietnam
+  Vietnam_Adm2_400:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NghiXuan
+    shapeID: 81297802B92253150972948
+    country_name: Vietnam
+  Vietnam_Adm2_401:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NghiaDan
+    shapeID: 81297802B96353597468260
+    country_name: Vietnam
+  Vietnam_Adm2_402:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NghiaHanh
+    shapeID: 81297802B973126409201
+    country_name: Vietnam
+  Vietnam_Adm2_403:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NghiaHung
+    shapeID: 81297802B4294080644708
+    country_name: Vietnam
+  Vietnam_Adm2_404:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NghiaLo
+    shapeID: 81297802B35519691635120
+    country_name: Vietnam
+  Vietnam_Adm2_405:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NgoQuyen
+    shapeID: 81297802B18343005733844
+    country_name: Vietnam
+  Vietnam_Adm2_406:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NgocHien
+    shapeID: 81297802B22159011638398
+    country_name: Vietnam
+  Vietnam_Adm2_407:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NgocHoi
+    shapeID: 81297802B1803091954954
+    country_name: Vietnam
+  Vietnam_Adm2_408:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NgocLac
+    shapeID: 81297802B82512093072214
+    country_name: Vietnam
+  Vietnam_Adm2_409:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NguHanhSon
+    shapeID: 81297802B96824977906351
+    country_name: Vietnam
+  Vietnam_Adm2_41:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaoLoc
+    shapeID: 81297802B17535514855325
+    country_name: Vietnam
+  Vietnam_Adm2_410:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NguyenBinh
+    shapeID: 81297802B34664406606726
+    country_name: Vietnam
+  Vietnam_Adm2_411:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NhaBe
+    shapeID: 81297802B80984092880643
+    country_name: Vietnam
+  Vietnam_Adm2_412:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NhaTrang
+    shapeID: 81297802B68033195953544
+    country_name: Vietnam
+  Vietnam_Adm2_413:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NhoQuan
+    shapeID: 81297802B37600217906847
+    country_name: Vietnam
+  Vietnam_Adm2_414:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NhonTrach
+    shapeID: 81297802B6615511759285
+    country_name: Vietnam
+  Vietnam_Adm2_415:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NhuThanh
+    shapeID: 81297802B85505749224324
+    country_name: Vietnam
+  Vietnam_Adm2_416:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NhuXuan
+    shapeID: 81297802B29351066345319
+    country_name: Vietnam
+  Vietnam_Adm2_417:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NinhBình
+    shapeID: 81297802B33091662264636
+    country_name: Vietnam
+  Vietnam_Adm2_418:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NinhGiang
+    shapeID: 81297802B74485828948407
+    country_name: Vietnam
+  Vietnam_Adm2_419:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NinhHai
+    shapeID: 81297802B76244887601508
+    country_name: Vietnam
+  Vietnam_Adm2_42:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaoThang
+    shapeID: 81297802B25560916681091
+    country_name: Vietnam
+  Vietnam_Adm2_420:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NinhHoa
+    shapeID: 81297802B58839501230111
+    country_name: Vietnam
+  Vietnam_Adm2_421:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NinhKieu
+    shapeID: 81297802B54398389952996
+    country_name: Vietnam
+  Vietnam_Adm2_422:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NinhPhuoc
+    shapeID: 81297802B18401806223645
+    country_name: Vietnam
+  Vietnam_Adm2_423:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NinhSon
+    shapeID: 81297802B88768197538102
+    country_name: Vietnam
+  Vietnam_Adm2_424:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NongCong
+    shapeID: 81297802B57234015442712
+    country_name: Vietnam
+  Vietnam_Adm2_425:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NongSon
+    shapeID: 81297802B33972751107769
+    country_name: Vietnam
+  Vietnam_Adm2_426:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: NuiThanh
+    shapeID: 81297802B34920687321908
+    country_name: Vietnam
+  Vietnam_Adm2_427:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: OMon
+    shapeID: 81297802B2084996388105
+    country_name: Vietnam
+  Vietnam_Adm2_428:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PacNam
+    shapeID: 81297802B12739753000309
+    country_name: Vietnam
+  Vietnam_Adm2_429:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhanRang-ThapCham
+    shapeID: 81297802B48689828615161
+    country_name: Vietnam
+  Vietnam_Adm2_43:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BaoYen
+    shapeID: 81297802B25948208667731
+    country_name: Vietnam
+  Vietnam_Adm2_430:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhanThiet
+    shapeID: 81297802B56109009945364
+    country_name: Vietnam
+  Vietnam_Adm2_431:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhoYen
+    shapeID: 81297802B3855346019179
+    country_name: Vietnam
+  Vietnam_Adm2_432:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhongDien
+    shapeID: 81297802B35670860897871
+    country_name: Vietnam
+  Vietnam_Adm2_433:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhongDien
+    shapeID: 81297802B56741553336234
+    country_name: Vietnam
+  Vietnam_Adm2_434:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhongTho
+    shapeID: 81297802B47938422647464
+    country_name: Vietnam
+  Vietnam_Adm2_435:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuBinh
+    shapeID: 81297802B19798201223775
+    country_name: Vietnam
+  Vietnam_Adm2_436:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuCat
+    shapeID: 81297802B92234400822922
+    country_name: Vietnam
+  Vietnam_Adm2_437:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuCu
+    shapeID: 81297802B40785510400399
+    country_name: Vietnam
+  Vietnam_Adm2_438:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuGiao
+    shapeID: 81297802B21040073838815
+    country_name: Vietnam
+  Vietnam_Adm2_439:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuHoa
+    shapeID: 81297802B95398881806036
+    country_name: Vietnam
+  Vietnam_Adm2_44:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BatXat
+    shapeID: 81297802B11536853186467
+    country_name: Vietnam
+  Vietnam_Adm2_440:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuLoc
+    shapeID: 81297802B61067118889021
+    country_name: Vietnam
+  Vietnam_Adm2_441:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuLuong
+    shapeID: 81297802B92827581567655
+    country_name: Vietnam
+  Vietnam_Adm2_442:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuLy
+    shapeID: 81297802B99776560080545
+    country_name: Vietnam
+  Vietnam_Adm2_443:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuMy
+    shapeID: 81297802B75835306112543
+    country_name: Vietnam
+  Vietnam_Adm2_444:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuNhuan
+    shapeID: 81297802B72603937188235
+    country_name: Vietnam
+  Vietnam_Adm2_445:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuNinh
+    shapeID: 81297802B11022979046189
+    country_name: Vietnam
+  Vietnam_Adm2_446:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuNinh
+    shapeID: 81297802B64104222015073
+    country_name: Vietnam
+  Vietnam_Adm2_447:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuQuoc
+    shapeID: 81297802B871478188231
+    country_name: Vietnam
+  Vietnam_Adm2_448:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuQuy
+    shapeID: 81297802B90799057915407
+    country_name: Vietnam
+  Vietnam_Adm2_449:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuTan
+    shapeID: 81297802B56486108937036
+    country_name: Vietnam
+  Vietnam_Adm2_45:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BauBang
+    shapeID: 81297802B44215588050468
+    country_name: Vietnam
+  Vietnam_Adm2_450:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuTan
+    shapeID: 81297802B51702434363712
+    country_name: Vietnam
+  Vietnam_Adm2_451:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuThien
+    shapeID: 81297802B15377501666570
+    country_name: Vietnam
+  Vietnam_Adm2_452:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuTho
+    shapeID: 81297802B95846226867008
+    country_name: Vietnam
+  Vietnam_Adm2_453:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuVang
+    shapeID: 81297802B31894177777214
+    country_name: Vietnam
+  Vietnam_Adm2_454:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuXuyen
+    shapeID: 81297802B25831565259333
+    country_name: Vietnam
+  Vietnam_Adm2_455:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuYen
+    shapeID: 81297802B22446045808118
+    country_name: Vietnam
+  Vietnam_Adm2_456:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhucHoa
+    shapeID: 81297802B46332855119377
+    country_name: Vietnam
+  Vietnam_Adm2_457:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhucTho
+    shapeID: 81297802B65234108276491
+    country_name: Vietnam
+  Vietnam_Adm2_458:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhucYen
+    shapeID: 81297802B88984924666070
+    country_name: Vietnam
+  Vietnam_Adm2_459:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhungHiep
+    shapeID: 81297802B32262425524101
+    country_name: Vietnam
+  Vietnam_Adm2_46:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BenCat
+    shapeID: 81297802B37785439564270
+    country_name: Vietnam
+  Vietnam_Adm2_460:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuocLong
+    shapeID: 81297802B5473399388769
+    country_name: Vietnam
+  Vietnam_Adm2_461:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuocLong
+    shapeID: 81297802B44117863394749
+    country_name: Vietnam
+  Vietnam_Adm2_462:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: PhuocSon
+    shapeID: 81297802B80912783182295
+    country_name: Vietnam
+  Vietnam_Adm2_463:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Pleiku
+    shapeID: 81297802B26419635481013
+    country_name: Vietnam
+  Vietnam_Adm2_464:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan1
+    shapeID: 81297802B34545275526363
+    country_name: Vietnam
+  Vietnam_Adm2_465:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan10
+    shapeID: 81297802B93335721036450
+    country_name: Vietnam
+  Vietnam_Adm2_466:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan11
+    shapeID: 81297802B37641712637141
+    country_name: Vietnam
+  Vietnam_Adm2_467:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan12
+    shapeID: 81297802B78652503258302
+    country_name: Vietnam
+  Vietnam_Adm2_468:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan2
+    shapeID: 81297802B76466747653960
+    country_name: Vietnam
+  Vietnam_Adm2_469:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan3
+    shapeID: 81297802B4427483692725
+    country_name: Vietnam
+  Vietnam_Adm2_47:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BenCau
+    shapeID: 81297802B61263365113672
+    country_name: Vietnam
+  Vietnam_Adm2_470:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan4
+    shapeID: 81297802B29563104023098
+    country_name: Vietnam
+  Vietnam_Adm2_471:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan5
+    shapeID: 81297802B17569327634169
+    country_name: Vietnam
+  Vietnam_Adm2_472:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan6
+    shapeID: 81297802B35379290873600
+    country_name: Vietnam
+  Vietnam_Adm2_473:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan7
+    shapeID: 81297802B84259990428862
+    country_name: Vietnam
+  Vietnam_Adm2_474:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan8
+    shapeID: 81297802B52284124086366
+    country_name: Vietnam
+  Vietnam_Adm2_475:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Quan9
+    shapeID: 81297802B54605917200404
+    country_name: Vietnam
+  Vietnam_Adm2_476:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuanBa
+    shapeID: 81297802B31175014332346
+    country_name: Vietnam
+  Vietnam_Adm2_477:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuanHoa
+    shapeID: 81297802B43083568307928
+    country_name: Vietnam
+  Vietnam_Adm2_478:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuanSon
+    shapeID: 81297802B81765499113898
+    country_name: Vietnam
+  Vietnam_Adm2_479:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuangBinh
+    shapeID: 81297802B33189914091729
+    country_name: Vietnam
+  Vietnam_Adm2_48:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BenLuc
+    shapeID: 81297802B50864428315087
+    country_name: Vietnam
+  Vietnam_Adm2_480:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuangDien
+    shapeID: 81297802B21993860278161
+    country_name: Vietnam
+  Vietnam_Adm2_481:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuangNgai
+    shapeID: 81297802B1045120286230
+    country_name: Vietnam
+  Vietnam_Adm2_482:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuangNinh
+    shapeID: 81297802B18152468964479
+    country_name: Vietnam
+  Vietnam_Adm2_483:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuangTrach
+    shapeID: 81297802B61927033163821
+    country_name: Vietnam
+  Vietnam_Adm2_484:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuangTri
+    shapeID: 81297802B92774803000720
+    country_name: Vietnam
+  Vietnam_Adm2_485:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuangUyen
+    shapeID: 81297802B42250510796537
+    country_name: Vietnam
+  Vietnam_Adm2_486:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuangXuong
+    shapeID: 81297802B40676303665635
+    country_name: Vietnam
+  Vietnam_Adm2_487:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuangYen
+    shapeID: 81297802B38356347526872
+    country_name: Vietnam
+  Vietnam_Adm2_488:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuePhong
+    shapeID: 81297802B37103290877054
+    country_name: Vietnam
+  Vietnam_Adm2_489:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QueSon
+    shapeID: 81297802B89611140069217
+    country_name: Vietnam
+  Vietnam_Adm2_49:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BenTre
+    shapeID: 81297802B1495670326955
+    country_name: Vietnam
+  Vietnam_Adm2_490:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QueVo
+    shapeID: 81297802B29506934186430
+    country_name: Vietnam
+  Vietnam_Adm2_491:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuocOai
+    shapeID: 81297802B41330613652559
+    country_name: Vietnam
+  Vietnam_Adm2_492:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuyChau
+    shapeID: 81297802B85029486143959
+    country_name: Vietnam
+  Vietnam_Adm2_493:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuyHop
+    shapeID: 81297802B66096195927531
+    country_name: Vietnam
+  Vietnam_Adm2_494:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuyNhon
+    shapeID: 81297802B6190272756602
+    country_name: Vietnam
+  Vietnam_Adm2_495:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuynhLuu
+    shapeID: 81297802B4221517004962
+    country_name: Vietnam
+  Vietnam_Adm2_496:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuynhNhai
+    shapeID: 81297802B11613956410948
+    country_name: Vietnam
+  Vietnam_Adm2_497:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: QuynhPhu
+    shapeID: 81297802B64676269296055
+    country_name: Vietnam
+  Vietnam_Adm2_498:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: RachGia
+    shapeID: 81297802B54016933640468
+    country_name: Vietnam
+  Vietnam_Adm2_499:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SaDec
+    shapeID: 81297802B46621499872955
+    country_name: Vietnam
+  Vietnam_Adm2_5:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: AnLao
+    shapeID: 81297802B65658789050233
+    country_name: Vietnam
+  Vietnam_Adm2_50:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BienHoa
+    shapeID: 81297802B63438000976754
+    country_name: Vietnam
+  Vietnam_Adm2_500:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SaPa
+    shapeID: 81297802B16025441122040
+    country_name: Vietnam
+  Vietnam_Adm2_501:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SaThay
+    shapeID: 81297802B78907971348627
+    country_name: Vietnam
+  Vietnam_Adm2_502:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SamSon
+    shapeID: 81297802B12977108616150
+    country_name: Vietnam
+  Vietnam_Adm2_503:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SiMaCai
+    shapeID: 81297802B8681355150837
+    country_name: Vietnam
+  Vietnam_Adm2_504:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SinHo
+    shapeID: 81297802B88663047044628
+    country_name: Vietnam
+  Vietnam_Adm2_505:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SocSon
+    shapeID: 81297802B86407395704878
+    country_name: Vietnam
+  Vietnam_Adm2_506:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SocTrang
+    shapeID: 81297802B1985987011497
+    country_name: Vietnam
+  Vietnam_Adm2_507:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SonDong
+    shapeID: 81297802B10167820950608
+    country_name: Vietnam
+  Vietnam_Adm2_508:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SonDuong
+    shapeID: 81297802B77321226192187
+    country_name: Vietnam
+  Vietnam_Adm2_509:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SonHa
+    shapeID: 81297802B11658146957456
+    country_name: Vietnam
+  Vietnam_Adm2_51:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BimSon
+    shapeID: 81297802B8967556658808
+    country_name: Vietnam
+  Vietnam_Adm2_510:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SonHoa
+    shapeID: 81297802B61701358015931
+    country_name: Vietnam
+  Vietnam_Adm2_511:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SonLa
+    shapeID: 81297802B47097666741506
+    country_name: Vietnam
+  Vietnam_Adm2_512:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SonTay
+    shapeID: 81297802B56181672233009
+    country_name: Vietnam
+  Vietnam_Adm2_513:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SonTay
+    shapeID: 81297802B79469395018575
+    country_name: Vietnam
+  Vietnam_Adm2_514:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SonTinh
+    shapeID: 81297802B15613357308975
+    country_name: Vietnam
+  Vietnam_Adm2_515:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SonTra
+    shapeID: 81297802B64444176527608
+    country_name: Vietnam
+  Vietnam_Adm2_516:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SongCau
+    shapeID: 81297802B65581648571900
+    country_name: Vietnam
+  Vietnam_Adm2_517:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SongCong
+    shapeID: 81297802B66276855595229
+    country_name: Vietnam
+  Vietnam_Adm2_518:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SongHinh
+    shapeID: 81297802B28811761284346
+    country_name: Vietnam
+  Vietnam_Adm2_519:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SongLo
+    shapeID: 81297802B72352297629850
+    country_name: Vietnam
+  Vietnam_Adm2_52:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhChanh
+    shapeID: 81297802B93683261125538
+    country_name: Vietnam
+  Vietnam_Adm2_520:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SongMa
+    shapeID: 81297802B25580956843795
+    country_name: Vietnam
+  Vietnam_Adm2_521:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: SopCop
+    shapeID: 81297802B35904575630157
+    country_name: Vietnam
+  Vietnam_Adm2_522:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TamBinh
+    shapeID: 81297802B334334492772
+    country_name: Vietnam
+  Vietnam_Adm2_523:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TamDao
+    shapeID: 81297802B33900605812276
+    country_name: Vietnam
+  Vietnam_Adm2_524:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TamDiep
+    shapeID: 81297802B4597997720172
+    country_name: Vietnam
+  Vietnam_Adm2_525:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TamDuong
+    shapeID: 81297802B22502411355715
+    country_name: Vietnam
+  Vietnam_Adm2_526:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TamDuong
+    shapeID: 81297802B8345144496926
+    country_name: Vietnam
+  Vietnam_Adm2_527:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TamKy
+    shapeID: 81297802B35959496403420
+    country_name: Vietnam
+  Vietnam_Adm2_528:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TamNong
+    shapeID: 81297802B6788314119837
+    country_name: Vietnam
+  Vietnam_Adm2_529:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TamNong
+    shapeID: 81297802B81919693811276
+    country_name: Vietnam
+  Vietnam_Adm2_53:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhDai
+    shapeID: 81297802B66163336026361
+    country_name: Vietnam
+  Vietnam_Adm2_530:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanAn
+    shapeID: 81297802B36271966780528
+    country_name: Vietnam
+  Vietnam_Adm2_531:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanBien
+    shapeID: 81297802B37342354446447
+    country_name: Vietnam
+  Vietnam_Adm2_532:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanBinh
+    shapeID: 81297802B72151759297882
+    country_name: Vietnam
+  Vietnam_Adm2_533:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanChau
+    shapeID: 81297802B68440719308655
+    country_name: Vietnam
+  Vietnam_Adm2_534:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanChau
+    shapeID: 81297802B24408052099516
+    country_name: Vietnam
+  Vietnam_Adm2_535:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanHiep
+    shapeID: 81297802B5868916674827
+    country_name: Vietnam
+  Vietnam_Adm2_536:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanHong
+    shapeID: 81297802B34572770830938
+    country_name: Vietnam
+  Vietnam_Adm2_537:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanHung
+    shapeID: 81297802B65804618727956
+    country_name: Vietnam
+  Vietnam_Adm2_538:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanKy
+    shapeID: 81297802B12421029194754
+    country_name: Vietnam
+  Vietnam_Adm2_539:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanLac
+    shapeID: 81297802B22385523751240
+    country_name: Vietnam
+  Vietnam_Adm2_54:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhGia
+    shapeID: 81297802B86040607446214
+    country_name: Vietnam
+  Vietnam_Adm2_540:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanPhu
+    shapeID: 81297802B74333052983118
+    country_name: Vietnam
+  Vietnam_Adm2_541:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanPhu
+    shapeID: 81297802B97138813252769
+    country_name: Vietnam
+  Vietnam_Adm2_542:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanPhuDong
+    shapeID: 81297802B25768458282790
+    country_name: Vietnam
+  Vietnam_Adm2_543:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanPhuoc
+    shapeID: 81297802B67867529169474
+    country_name: Vietnam
+  Vietnam_Adm2_544:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanSon
+    shapeID: 81297802B30557639912850
+    country_name: Vietnam
+  Vietnam_Adm2_545:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanThanh
+    shapeID: 81297802B41485876419304
+    country_name: Vietnam
+  Vietnam_Adm2_546:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanThanh
+    shapeID: 81297802B33329086183777
+    country_name: Vietnam
+  Vietnam_Adm2_547:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanTru
+    shapeID: 81297802B79980761269040
+    country_name: Vietnam
+  Vietnam_Adm2_548:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanUyen
+    shapeID: 81297802B83473395979783
+    country_name: Vietnam
+  Vietnam_Adm2_549:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanUyen
+    shapeID: 81297802B30800695298767
+    country_name: Vietnam
+  Vietnam_Adm2_55:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhGiang
+    shapeID: 81297802B56696175700764
+    country_name: Vietnam
+  Vietnam_Adm2_550:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanYen
+    shapeID: 81297802B62704406726497
+    country_name: Vietnam
+  Vietnam_Adm2_551:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TanhLinh
+    shapeID: 81297802B72040378952039
+    country_name: Vietnam
+  Vietnam_Adm2_552:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TayGiang
+    shapeID: 81297802B8357375846053
+    country_name: Vietnam
+  Vietnam_Adm2_553:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TayHo
+    shapeID: 81297802B85279913761146
+    country_name: Vietnam
+  Vietnam_Adm2_554:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TayHoa
+    shapeID: 81297802B36488646512837
+    country_name: Vietnam
+  Vietnam_Adm2_555:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TayNinh
+    shapeID: 81297802B48058598464830
+    country_name: Vietnam
+  Vietnam_Adm2_556:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TaySon
+    shapeID: 81297802B3478153063518
+    country_name: Vietnam
+  Vietnam_Adm2_557:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TayTra
+    shapeID: 81297802B47494931699472
+    country_name: Vietnam
+  Vietnam_Adm2_558:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThachAn
+    shapeID: 81297802B24341511138047
+    country_name: Vietnam
+  Vietnam_Adm2_559:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThachHa
+    shapeID: 81297802B93916372624290
+    country_name: Vietnam
+  Vietnam_Adm2_56:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhLieu
+    shapeID: 81297802B53696601888295
+    country_name: Vietnam
+  Vietnam_Adm2_560:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThachThanh
+    shapeID: 81297802B70743667519193
+    country_name: Vietnam
+  Vietnam_Adm2_561:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThachThat
+    shapeID: 81297802B69837826881440
+    country_name: Vietnam
+  Vietnam_Adm2_562:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThaiBinh
+    shapeID: 81297802B85054848055124
+    country_name: Vietnam
+  Vietnam_Adm2_563:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThaiHoa
+    shapeID: 81297802B32908759949092
+    country_name: Vietnam
+  Vietnam_Adm2_564:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThaiNguyen
+    shapeID: 81297802B43105107768719
+    country_name: Vietnam
+  Vietnam_Adm2_565:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThaiThuy
+    shapeID: 81297802B86878375688696
+    country_name: Vietnam
+  Vietnam_Adm2_566:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanUyen
+    shapeID: 81297802B70449859021509
+    country_name: Vietnam
+  Vietnam_Adm2_567:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThangBinh
+    shapeID: 81297802B72056692107631
+    country_name: Vietnam
+  Vietnam_Adm2_568:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhBa
+    shapeID: 81297802B68203584934419
+    country_name: Vietnam
+  Vietnam_Adm2_569:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhBinh
+    shapeID: 81297802B14212334557839
+    country_name: Vietnam
+  Vietnam_Adm2_57:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhLong
+    shapeID: 81297802B43417057118199
+    country_name: Vietnam
+  Vietnam_Adm2_570:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhChuong
+    shapeID: 81297802B92574261409002
+    country_name: Vietnam
+  Vietnam_Adm2_571:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhHa
+    shapeID: 81297802B77309747732529
+    country_name: Vietnam
+  Vietnam_Adm2_572:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhHoa
+    shapeID: 81297802B5241398972305
+    country_name: Vietnam
+  Vietnam_Adm2_573:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhHoa
+    shapeID: 81297802B63095135263844
+    country_name: Vietnam
+  Vietnam_Adm2_574:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhKhe
+    shapeID: 81297802B31644345342604
+    country_name: Vietnam
+  Vietnam_Adm2_575:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhLiem
+    shapeID: 81297802B85424672096974
+    country_name: Vietnam
+  Vietnam_Adm2_576:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhMien
+    shapeID: 81297802B67689154766571
+    country_name: Vietnam
+  Vietnam_Adm2_577:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhOai
+    shapeID: 81297802B69083052749589
+    country_name: Vietnam
+  Vietnam_Adm2_578:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhPhu
+    shapeID: 81297802B66468397901634
+    country_name: Vietnam
+  Vietnam_Adm2_579:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhSon
+    shapeID: 81297802B60314868788909
+    country_name: Vietnam
+  Vietnam_Adm2_58:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhLuc
+    shapeID: 81297802B47692200365960
+    country_name: Vietnam
+  Vietnam_Adm2_580:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhThuy
+    shapeID: 81297802B73795447547430
+    country_name: Vietnam
+  Vietnam_Adm2_581:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhTri
+    shapeID: 81297802B95629282135268
+    country_name: Vietnam
+  Vietnam_Adm2_582:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhTri
+    shapeID: 81297802B36147607104720
+    country_name: Vietnam
+  Vietnam_Adm2_583:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThanhXuan
+    shapeID: 81297802B66022953489908
+    country_name: Vietnam
+  Vietnam_Adm2_584:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThapMuoi
+    shapeID: 81297802B37339373723835
+    country_name: Vietnam
+  Vietnam_Adm2_585:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThixaCaiLay
+    shapeID: 81297802B17596796998347
+    country_name: Vietnam
+  Vietnam_Adm2_586:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThixaCaoLanh
+    shapeID: 81297802B60372874404879
+    country_name: Vietnam
+  Vietnam_Adm2_587:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThixaHongNgu
+    shapeID: 81297802B45020933584847
+    country_name: Vietnam
+  Vietnam_Adm2_588:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThieuHoa
+    shapeID: 81297802B18173194226488
+    country_name: Vietnam
+  Vietnam_Adm2_589:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThoXuan
+    shapeID: 81297802B55629975533372
+    country_name: Vietnam
+  Vietnam_Adm2_59:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhMinh
+    shapeID: 81297802B92843974613199
+    country_name: Vietnam
+  Vietnam_Adm2_590:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThoaiSon
+    shapeID: 81297802B55991258422340
+    country_name: Vietnam
+  Vietnam_Adm2_591:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThoiBinh
+    shapeID: 81297802B72962934651760
+    country_name: Vietnam
+  Vietnam_Adm2_592:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThoiLai
+    shapeID: 81297802B52248438909521
+    country_name: Vietnam
+  Vietnam_Adm2_593:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThongNhat
+    shapeID: 81297802B78615286204020
+    country_name: Vietnam
+  Vietnam_Adm2_594:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThongNong
+    shapeID: 81297802B64889817574793
+    country_name: Vietnam
+  Vietnam_Adm2_595:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThotNot
+    shapeID: 81297802B2345271224879
+    country_name: Vietnam
+  Vietnam_Adm2_596:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuDauMot
+    shapeID: 81297802B23780781410203
+    country_name: Vietnam
+  Vietnam_Adm2_597:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuDuc
+    shapeID: 81297802B1678031067910
+    country_name: Vietnam
+  Vietnam_Adm2_598:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuThua
+    shapeID: 81297802B60662496728573
+    country_name: Vietnam
+  Vietnam_Adm2_599:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuanAn
+    shapeID: 81297802B69956804658452
+    country_name: Vietnam
+  Vietnam_Adm2_6:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: AnLao
+    shapeID: 81297802B61161719512326
+    country_name: Vietnam
+  Vietnam_Adm2_60:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhSon
+    shapeID: 81297802B82760747397164
+    country_name: Vietnam
+  Vietnam_Adm2_600:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuanBac
+    shapeID: 81297802B93158398760307
+    country_name: Vietnam
+  Vietnam_Adm2_601:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuanChau
+    shapeID: 81297802B46916310956334
+    country_name: Vietnam
+  Vietnam_Adm2_602:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuanNam
+    shapeID: 81297802B94482771357603
+    country_name: Vietnam
+  Vietnam_Adm2_603:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuanThanh
+    shapeID: 81297802B75512670100174
+    country_name: Vietnam
+  Vietnam_Adm2_604:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuongTin
+    shapeID: 81297802B33733008951227
+    country_name: Vietnam
+  Vietnam_Adm2_605:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuongXuan
+    shapeID: 81297802B72882386082996
+    country_name: Vietnam
+  Vietnam_Adm2_606:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ThuyNguyen
+    shapeID: 81297802B48433290328639
+    country_name: Vietnam
+  Vietnam_Adm2_607:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TienDu
+    shapeID: 81297802B37279419107484
+    country_name: Vietnam
+  Vietnam_Adm2_608:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TienHai
+    shapeID: 81297802B12405297659236
+    country_name: Vietnam
+  Vietnam_Adm2_609:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TienLang
+    shapeID: 81297802B70010606578992
+    country_name: Vietnam
+  Vietnam_Adm2_61:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhTan
+    shapeID: 81297802B74288530741739
+    country_name: Vietnam
+  Vietnam_Adm2_610:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TienLu
+    shapeID: 81297802B93646092032264
+    country_name: Vietnam
+  Vietnam_Adm2_611:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TienPhuoc
+    shapeID: 81297802B51785257245499
+    country_name: Vietnam
+  Vietnam_Adm2_612:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TienYen
+    shapeID: 81297802B1435628045096
+    country_name: Vietnam
+  Vietnam_Adm2_613:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TieuCan
+    shapeID: 81297802B7308282486980
+    country_name: Vietnam
+  Vietnam_Adm2_614:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TinhBien
+    shapeID: 81297802B35428568609668
+    country_name: Vietnam
+  Vietnam_Adm2_615:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TinhGia
+    shapeID: 81297802B97652803071493
+    country_name: Vietnam
+  Vietnam_Adm2_616:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TraBong
+    shapeID: 81297802B78342510004852
+    country_name: Vietnam
+  Vietnam_Adm2_617:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TraCu
+    shapeID: 81297802B8258305147124
+    country_name: Vietnam
+  Vietnam_Adm2_618:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TraLinh
+    shapeID: 81297802B5716614329371
+    country_name: Vietnam
+  Vietnam_Adm2_619:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TraOn
+    shapeID: 81297802B90328181900706
+    country_name: Vietnam
+  Vietnam_Adm2_62:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhTan
+    shapeID: 81297802B42527210401893
+    country_name: Vietnam
+  Vietnam_Adm2_620:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TraVinh
+    shapeID: 81297802B52504001228047
+    country_name: Vietnam
+  Vietnam_Adm2_621:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TramTau
+    shapeID: 81297802B29855819440848
+    country_name: Vietnam
+  Vietnam_Adm2_622:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TranDe
+    shapeID: 81297802B35680204276393
+    country_name: Vietnam
+  Vietnam_Adm2_623:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TranVanThoi
+    shapeID: 81297802B31922203315935
+    country_name: Vietnam
+  Vietnam_Adm2_624:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TranYen
+    shapeID: 81297802B887089272157
+    country_name: Vietnam
+  Vietnam_Adm2_625:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TrangBang
+    shapeID: 81297802B3309919066987
+    country_name: Vietnam
+  Vietnam_Adm2_626:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TrangBom
+    shapeID: 81297802B42890675400166
+    country_name: Vietnam
+  Vietnam_Adm2_627:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TrangDinh
+    shapeID: 81297802B55237865359696
+    country_name: Vietnam
+  Vietnam_Adm2_628:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TriTon
+    shapeID: 81297802B61282348708206
+    country_name: Vietnam
+  Vietnam_Adm2_629:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TrieuPhong
+    shapeID: 81297802B12813150904873
+    country_name: Vietnam
+  Vietnam_Adm2_63:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhThanh
+    shapeID: 81297802B74412015974526
+    country_name: Vietnam
+  Vietnam_Adm2_630:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TrieuSon
+    shapeID: 81297802B97142358911210
+    country_name: Vietnam
+  Vietnam_Adm2_631:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TrucNinh
+    shapeID: 81297802B30905014988311
+    country_name: Vietnam
+  Vietnam_Adm2_632:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TrungKhanh
+    shapeID: 81297802B42277751936117
+    country_name: Vietnam
+  Vietnam_Adm2_633:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TruongSa
+    shapeID: 81297802B23443064350281
+    country_name: Vietnam
+  Vietnam_Adm2_634:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuKy
+    shapeID: 81297802B38910067880652
+    country_name: Vietnam
+  Vietnam_Adm2_635:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuMoRong
+    shapeID: 81297802B16541954250717
+    country_name: Vietnam
+  Vietnam_Adm2_636:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuNghia
+    shapeID: 81297802B55656475848083
+    country_name: Vietnam
+  Vietnam_Adm2_637:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuSon
+    shapeID: 81297802B85996690558528
+    country_name: Vietnam
+  Vietnam_Adm2_638:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuaChua
+    shapeID: 81297802B50800303075237
+    country_name: Vietnam
+  Vietnam_Adm2_639:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuanGiao
+    shapeID: 81297802B47935602128313
+    country_name: Vietnam
+  Vietnam_Adm2_64:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhThuy
+    shapeID: 81297802B33814118608654
+    country_name: Vietnam
+  Vietnam_Adm2_640:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuongDuong
+    shapeID: 81297802B26083936626584
+    country_name: Vietnam
+  Vietnam_Adm2_641:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuyAn
+    shapeID: 81297802B47177978604160
+    country_name: Vietnam
+  Vietnam_Adm2_642:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuyDuc
+    shapeID: 81297802B14510014839166
+    country_name: Vietnam
+  Vietnam_Adm2_643:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuyHoa
+    shapeID: 81297802B45106503001809
+    country_name: Vietnam
+  Vietnam_Adm2_644:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuyPhong
+    shapeID: 81297802B73162737965460
+    country_name: Vietnam
+  Vietnam_Adm2_645:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuyPhuoc
+    shapeID: 81297802B71017047307278
+    country_name: Vietnam
+  Vietnam_Adm2_646:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuyenHoa
+    shapeID: 81297802B14659466260998
+    country_name: Vietnam
+  Vietnam_Adm2_647:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: TuyenQuang
+    shapeID: 81297802B47439602304770
+    country_name: Vietnam
+  Vietnam_Adm2_648:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: UMinh
+    shapeID: 81297802B9286931688743
+    country_name: Vietnam
+  Vietnam_Adm2_649:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: UMinhThuong
+    shapeID: 81297802B37875930391216
+    country_name: Vietnam
+  Vietnam_Adm2_65:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BinhXuyen
+    shapeID: 81297802B29926011513196
+    country_name: Vietnam
+  Vietnam_Adm2_650:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: UngHoa
+    shapeID: 81297802B95308085705563
+    country_name: Vietnam
+  Vietnam_Adm2_651:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: UongBi
+    shapeID: 81297802B42641748496229
+    country_name: Vietnam
+  Vietnam_Adm2_652:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanBan
+    shapeID: 81297802B34365172713310
+    country_name: Vietnam
+  Vietnam_Adm2_653:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanCanh
+    shapeID: 81297802B17102674968438
+    country_name: Vietnam
+  Vietnam_Adm2_654:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanChan
+    shapeID: 81297802B1430654702420
+    country_name: Vietnam
+  Vietnam_Adm2_655:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanDon
+    shapeID: 81297802B23156291808671
+    country_name: Vietnam
+  Vietnam_Adm2_656:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanGiang
+    shapeID: 81297802B33082020704537
+    country_name: Vietnam
+  Vietnam_Adm2_657:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanHo
+    shapeID: 81297802B72197288944143
+    country_name: Vietnam
+  Vietnam_Adm2_658:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanLam
+    shapeID: 81297802B83094530275497
+    country_name: Vietnam
+  Vietnam_Adm2_659:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanLang
+    shapeID: 81297802B84784766195181
+    country_name: Vietnam
+  Vietnam_Adm2_66:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BoTrach
+    shapeID: 81297802B63375818356773
+    country_name: Vietnam
+  Vietnam_Adm2_660:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanNinh
+    shapeID: 81297802B51561347842325
+    country_name: Vietnam
+  Vietnam_Adm2_661:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanQuan
+    shapeID: 81297802B89235073975729
+    country_name: Vietnam
+  Vietnam_Adm2_662:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VanYen
+    shapeID: 81297802B29692958480362
+    country_name: Vietnam
+  Vietnam_Adm2_663:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ViThanh
+    shapeID: 81297802B29627750987730
+    country_name: Vietnam
+  Vietnam_Adm2_664:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ViThuy
+    shapeID: 81297802B65836895267297
+    country_name: Vietnam
+  Vietnam_Adm2_665:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: ViXuyen
+    shapeID: 81297802B6357673458882
+    country_name: Vietnam
+  Vietnam_Adm2_666:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VietTri
+    shapeID: 81297802B93284854578765
+    country_name: Vietnam
+  Vietnam_Adm2_667:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VietYen
+    shapeID: 81297802B30186135932553
+    country_name: Vietnam
+  Vietnam_Adm2_668:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: Vinh
+    shapeID: 81297802B9978574523269
+    country_name: Vietnam
+  Vietnam_Adm2_669:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhBao
+    shapeID: 81297802B55266176914642
+    country_name: Vietnam
+  Vietnam_Adm2_67:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BuDang
+    shapeID: 81297802B33312647698223
+    country_name: Vietnam
+  Vietnam_Adm2_670:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhChau
+    shapeID: 81297802B36990393529741
+    country_name: Vietnam
+  Vietnam_Adm2_671:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhCuu
+    shapeID: 81297802B24916871487669
+    country_name: Vietnam
+  Vietnam_Adm2_672:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhHung
+    shapeID: 81297802B51272444346298
+    country_name: Vietnam
+  Vietnam_Adm2_673:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhLinh
+    shapeID: 81297802B84418908504415
+    country_name: Vietnam
+  Vietnam_Adm2_674:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhLoc
+    shapeID: 81297802B11071874803157
+    country_name: Vietnam
+  Vietnam_Adm2_675:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhLoi
+    shapeID: 81297802B93911642889100
+    country_name: Vietnam
+  Vietnam_Adm2_676:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhLong
+    shapeID: 81297802B51499597672373
+    country_name: Vietnam
+  Vietnam_Adm2_677:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhThanh
+    shapeID: 81297802B21955309192571
+    country_name: Vietnam
+  Vietnam_Adm2_678:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhThanh
+    shapeID: 81297802B96455619083063
+    country_name: Vietnam
+  Vietnam_Adm2_679:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhThuan
+    shapeID: 81297802B62462651678890
+    country_name: Vietnam
+  Vietnam_Adm2_68:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BuDop
+    shapeID: 81297802B5857215594058
+    country_name: Vietnam
+  Vietnam_Adm2_680:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhTuong
+    shapeID: 81297802B74371944720443
+    country_name: Vietnam
+  Vietnam_Adm2_681:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VinhYen
+    shapeID: 81297802B55955468315553
+    country_name: Vietnam
+  Vietnam_Adm2_682:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VoNhai
+    shapeID: 81297802B13645799597087
+    country_name: Vietnam
+  Vietnam_Adm2_683:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VuBan
+    shapeID: 81297802B77828019918781
+    country_name: Vietnam
+  Vietnam_Adm2_684:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VuQuang
+    shapeID: 81297802B66107700635107
+    country_name: Vietnam
+  Vietnam_Adm2_685:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VuThu
+    shapeID: 81297802B99897160628736
+    country_name: Vietnam
+  Vietnam_Adm2_686:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VungLiem
+    shapeID: 81297802B24233120148790
+    country_name: Vietnam
+  Vietnam_Adm2_687:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: VungTau
+    shapeID: 81297802B39135443664879
+    country_name: Vietnam
+  Vietnam_Adm2_688:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: XinMan
+    shapeID: 81297802B50713424689894
+    country_name: Vietnam
+  Vietnam_Adm2_689:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: XuanLoc
+    shapeID: 81297802B96051805348654
+    country_name: Vietnam
+  Vietnam_Adm2_69:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BuGiaMap
+    shapeID: 81297802B78542366840504
+    country_name: Vietnam
+  Vietnam_Adm2_690:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: XuanTruong
+    shapeID: 81297802B91982413663988
+    country_name: Vietnam
+  Vietnam_Adm2_691:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: XuyenMoc
+    shapeID: 81297802B24499966976565
+    country_name: Vietnam
+  Vietnam_Adm2_692:
+    iso3c: VNM
+    admin_level: Adm2
     admin_name: YYen
-    iso3c: VNM
     shapeID: 81297802B2331859269186
+    country_name: Vietnam
+  Vietnam_Adm2_693:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenBai
+    shapeID: 81297802B89523168412992
+    country_name: Vietnam
+  Vietnam_Adm2_694:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenBinh
+    shapeID: 81297802B76693228184167
+    country_name: Vietnam
+  Vietnam_Adm2_695:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenChau
+    shapeID: 81297802B99176770386813
+    country_name: Vietnam
+  Vietnam_Adm2_696:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenDinh
+    shapeID: 81297802B9474885125507
+    country_name: Vietnam
+  Vietnam_Adm2_697:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenDung
+    shapeID: 81297802B99638089462809
+    country_name: Vietnam
+  Vietnam_Adm2_698:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenKhanh
+    shapeID: 81297802B59755992581592
+    country_name: Vietnam
+  Vietnam_Adm2_699:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenLac
+    shapeID: 81297802B65483274658502
+    country_name: Vietnam
+  Vietnam_Adm2_7:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: AnMinh
+    shapeID: 81297802B42244354568951
+    country_name: Vietnam
+  Vietnam_Adm2_70:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BuonDon
+    shapeID: 81297802B42534502413482
+    country_name: Vietnam
+  Vietnam_Adm2_700:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenLap
+    shapeID: 81297802B78626005730568
+    country_name: Vietnam
+  Vietnam_Adm2_701:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenMinh
+    shapeID: 81297802B77958779459732
+    country_name: Vietnam
+  Vietnam_Adm2_702:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenMo
+    shapeID: 81297802B9308814425220
+    country_name: Vietnam
+  Vietnam_Adm2_703:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenMy
+    shapeID: 81297802B77847273364040
+    country_name: Vietnam
+  Vietnam_Adm2_704:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenPhong
+    shapeID: 81297802B41688796411548
+    country_name: Vietnam
+  Vietnam_Adm2_705:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenSon
+    shapeID: 81297802B74193371644879
+    country_name: Vietnam
+  Vietnam_Adm2_706:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenThanh
+    shapeID: 81297802B75629290490646
+    country_name: Vietnam
+  Vietnam_Adm2_707:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenThe
+    shapeID: 81297802B24165490506756
+    country_name: Vietnam
+  Vietnam_Adm2_708:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: YenThuy
+    shapeID: 81297802B65575052729344
+    country_name: Vietnam
+  Vietnam_Adm2_71:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BuonHo
+    shapeID: 81297802B72254139131894
+    country_name: Vietnam
+  Vietnam_Adm2_72:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: BuonMaThuot
+    shapeID: 81297802B34862108658790
+    country_name: Vietnam
+  Vietnam_Adm2_73:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CaMau
+    shapeID: 81297802B56186863938752
+    country_name: Vietnam
+  Vietnam_Adm2_74:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CaiBe
+    shapeID: 81297802B56348725354679
+    country_name: Vietnam
+  Vietnam_Adm2_75:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CaiNuoc
+    shapeID: 81297802B26446696948049
+    country_name: Vietnam
+  Vietnam_Adm2_76:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CaiRang
+    shapeID: 81297802B53183498164333
+    country_name: Vietnam
+  Vietnam_Adm2_77:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CamGiang
+    shapeID: 81297802B85581314164043
+    country_name: Vietnam
+  Vietnam_Adm2_78:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CamKhe
+    shapeID: 81297802B31371166923700
+    country_name: Vietnam
+  Vietnam_Adm2_79:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CamLam
+    shapeID: 81297802B15274858883665
+    country_name: Vietnam
+  Vietnam_Adm2_8:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: AnNhon
+    shapeID: 81297802B14138193507010
+    country_name: Vietnam
+  Vietnam_Adm2_80:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CamLe
+    shapeID: 81297802B37110717960369
+    country_name: Vietnam
+  Vietnam_Adm2_81:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CamLo
+    shapeID: 81297802B81560237884054
+    country_name: Vietnam
+  Vietnam_Adm2_82:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CamMy
+    shapeID: 81297802B33413589576034
+    country_name: Vietnam
+  Vietnam_Adm2_83:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CamPha
+    shapeID: 81297802B71504358310710
+    country_name: Vietnam
+  Vietnam_Adm2_84:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CamRanh
+    shapeID: 81297802B88990967828920
+    country_name: Vietnam
+  Vietnam_Adm2_85:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CamThuy
+    shapeID: 81297802B68109668722051
+    country_name: Vietnam
+  Vietnam_Adm2_86:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CamXuyen
+    shapeID: 81297802B99684516055458
+    country_name: Vietnam
+  Vietnam_Adm2_87:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CanDuoc
+    shapeID: 81297802B37514703849012
+    country_name: Vietnam
+  Vietnam_Adm2_88:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CanGio
+    shapeID: 81297802B7702852417854
+    country_name: Vietnam
+  Vietnam_Adm2_89:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CanGiuoc
+    shapeID: 81297802B44556348511886
+    country_name: Vietnam
+  Vietnam_Adm2_9:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: AnPhu
+    shapeID: 81297802B41294306698552
+    country_name: Vietnam
+  Vietnam_Adm2_90:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CanLoc
+    shapeID: 81297802B44635779635670
+    country_name: Vietnam
+  Vietnam_Adm2_91:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CangLong
+    shapeID: 81297802B14177599577280
+    country_name: Vietnam
+  Vietnam_Adm2_92:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CaoBang
+    shapeID: 81297802B72621516483988
+    country_name: Vietnam
+  Vietnam_Adm2_93:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CaoLoc
+    shapeID: 81297802B94679881937971
+    country_name: Vietnam
+  Vietnam_Adm2_94:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CaoPhong
+    shapeID: 81297802B52142956360096
+    country_name: Vietnam
+  Vietnam_Adm2_95:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CatHai
+    shapeID: 81297802B5756602808944
+    country_name: Vietnam
+  Vietnam_Adm2_96:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CatTien
+    shapeID: 81297802B49537212124970
+    country_name: Vietnam
+  Vietnam_Adm2_97:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CauGiay
+    shapeID: 81297802B81208073820584
+    country_name: Vietnam
+  Vietnam_Adm2_98:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CauKe
+    shapeID: 81297802B65507223487475
+    country_name: Vietnam
+  Vietnam_Adm2_99:
+    iso3c: VNM
+    admin_level: Adm2
+    admin_name: CauNgang
+    shapeID: 81297802B90196015208533
+    country_name: Vietnam

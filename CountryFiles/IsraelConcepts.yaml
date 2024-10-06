@@ -1,85 +1,133 @@
 concepts:
-  AkkoAdm2ISR:
-    admin_name: Akko
+  Israel_Adm0:
     iso3c: ISR
-    shapeID: 584046B83749751332199
-  AshqelonAdm2ISR:
-    admin_name: Ashqelon
+    admin_level: Adm0
+    admin_name: Israel
+    shapeID: 37499698B85405554690205
+    country_name: Israel
+  Israel_Adm1_1:
     iso3c: ISR
-    shapeID: 584046B11408100439208
-  Be'erShevaAdm2ISR:
-    admin_name: Be'erSheva
-    iso3c: ISR
-    shapeID: 584046B9730835639199
-  CentralDistrictAdm1ISR:
-    admin_name: CentralDistrict
-    iso3c: ISR
-    shapeID: 19161824B470428506180
-  GolanAdm2ISR:
-    admin_name: Golan
-    iso3c: ISR
-    shapeID: 584046B72335129252345
-  HaderaAdm2ISR:
-    admin_name: Hadera
-    iso3c: ISR
-    shapeID: 584046B72217003232480
-  HaifaAdm1ISR:
-    admin_name: Haifa
-    iso3c: ISR
-    shapeID: 19161824B12012272353046
-  HaifaAdm2ISR:
-    admin_name: Haifa
-    iso3c: ISR
-    shapeID: 584046B37321511847561
-  HaSharonAdm2ISR:
-    admin_name: HaSharon
-    iso3c: ISR
-    shapeID: 584046B61571705909900
-  JerusalemAdm2ISR:
-    admin_name: Jerusalem
-    iso3c: ISR
-    shapeID: 584046B86518607604876
-  JerusalemDistrictAdm1ISR:
-    admin_name: JerusalemDistrict
-    iso3c: ISR
-    shapeID: 19161824B79530266069959
-  KinneretAdm2ISR:
-    admin_name: Kinneret
-    iso3c: ISR
-    shapeID: 584046B15624900320210
-  NorthernDistrictAdm1ISR:
-    admin_name: NorthernDistrict
-    iso3c: ISR
-    shapeID: 19161824B91089536365577
-  PetahTiqwaAdm2ISR:
-    admin_name: PetahTiqwa
-    iso3c: ISR
-    shapeID: 584046B54386898087809
-  RamlaAdm2ISR:
-    admin_name: Ramla
-    iso3c: ISR
-    shapeID: 584046B58948260517771
-  RehovotAdm2ISR:
-    admin_name: Rehovot
-    iso3c: ISR
-    shapeID: 584046B25822139954764
-  SouthernDistrictAdm1ISR:
+    admin_level: Adm1
     admin_name: SouthernDistrict
-    iso3c: ISR
     shapeID: 19161824B24193204184747
-  TelAvivAdm1ISR:
-    admin_name: TelAviv
+    country_name: Israel
+  Israel_Adm1_2:
     iso3c: ISR
+    admin_level: Adm1
+    admin_name: CentralDistrict
+    shapeID: 19161824B470428506180
+    country_name: Israel
+  Israel_Adm1_3:
+    iso3c: ISR
+    admin_level: Adm1
+    admin_name: JerusalemDistrict
+    shapeID: 19161824B79530266069959
+    country_name: Israel
+  Israel_Adm1_4:
+    iso3c: ISR
+    admin_level: Adm1
+    admin_name: TelAviv
     shapeID: 19161824B77983365125372
-  TelAvivAdm2ISR:
-    admin_name: TelAviv
+    country_name: Israel
+  Israel_Adm1_5:
     iso3c: ISR
-    shapeID: 584046B34315111222202
-  Yizre'elAdm2ISR:
+    admin_level: Adm1
+    admin_name: Haifa
+    shapeID: 19161824B12012272353046
+    country_name: Israel
+  Israel_Adm1_6:
+    iso3c: ISR
+    admin_level: Adm1
+    admin_name: NorthernDistrict
+    shapeID: 19161824B91089536365577
+    country_name: Israel
+  Israel_Adm2_1:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: Be'erSheva
+    shapeID: 584046B9730835639199
+    country_name: Israel
+  Israel_Adm2_10:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: Haifa
+    shapeID: 584046B37321511847561
+    country_name: Israel
+  Israel_Adm2_11:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: Hadera
+    shapeID: 584046B72217003232480
+    country_name: Israel
+  Israel_Adm2_12:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: Akko
+    shapeID: 584046B83749751332199
+    country_name: Israel
+  Israel_Adm2_13:
+    iso3c: ISR
+    admin_level: Adm2
     admin_name: Yizre'el
-    iso3c: ISR
     shapeID: 584046B83064859640631
-  ZefatAdm2ISR:
-    admin_name: Zefat
+    country_name: Israel
+  Israel_Adm2_14:
     iso3c: ISR
+    admin_level: Adm2
+    admin_name: Golan
+    shapeID: 584046B72335129252345
+    country_name: Israel
+  Israel_Adm2_15:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: Kinneret
+    shapeID: 584046B15624900320210
+    country_name: Israel
+  Israel_Adm2_2:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: Jerusalem
+    shapeID: 584046B86518607604876
+    country_name: Israel
+  Israel_Adm2_3:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: Ashqelon
+    shapeID: 584046B11408100439208
+    country_name: Israel
+  Israel_Adm2_4:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: TelAviv
+    shapeID: 584046B34315111222202
+    country_name: Israel
+  Israel_Adm2_5:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: Zefat
     shapeID: 584046B13386645158990
+    country_name: Israel
+  Israel_Adm2_6:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: Rehovot
+    shapeID: 584046B25822139954764
+    country_name: Israel
+  Israel_Adm2_7:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: Ramla
+    shapeID: 584046B58948260517771
+    country_name: Israel
+  Israel_Adm2_8:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: PetahTiqwa
+    shapeID: 584046B54386898087809
+    country_name: Israel
+  Israel_Adm2_9:
+    iso3c: ISR
+    admin_level: Adm2
+    admin_name: HaSharon
+    shapeID: 584046B61571705909900
+    country_name: Israel

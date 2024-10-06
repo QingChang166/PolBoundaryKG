@@ -1,701 +1,1057 @@
 concepts:
-  AlorGajahAdm2MYS:
-    admin_name: AlorGajah
-    iso3c: MYS
-    shapeID: 92858781B21202151512611
-  AsajayaAdm2MYS:
-    admin_name: Asajaya
-    iso3c: MYS
-    shapeID: 92858781B82892950401115
-  BachokAdm2MYS:
-    admin_name: Bachok
-    iso3c: MYS
-    shapeID: 92858781B88613977920895
-  BaganDatukAdm2MYS:
-    admin_name: BaganDatuk
-    iso3c: MYS
-    shapeID: 92858781B98858814885559
-  BalingAdm2MYS:
-    admin_name: Baling
-    iso3c: MYS
-    shapeID: 92858781B88693147635534
-  BandarBaharuAdm2MYS:
-    admin_name: BandarBaharu
-    iso3c: MYS
-    shapeID: 92858781B61544181659283
-  BaratDayaAdm2MYS:
-    admin_name: BaratDaya
-    iso3c: MYS
-    shapeID: 92858781B94521596565323
-  BatangPadangAdm2MYS:
-    admin_name: BatangPadang
-    iso3c: MYS
-    shapeID: 92858781B72940108460655
-  BatuPahatAdm2MYS:
-    admin_name: BatuPahat
-    iso3c: MYS
-    shapeID: 92858781B37388362285714
-  BauAdm2MYS:
-    admin_name: Bau
-    iso3c: MYS
-    shapeID: 92858781B57032807608954
-  BeaufortAdm2MYS:
-    admin_name: Beaufort
-    iso3c: MYS
-    shapeID: 92858781B48397609160298
-  BelagaAdm2MYS:
-    admin_name: Belaga
-    iso3c: MYS
-    shapeID: 92858781B14210888216544
-  BeluranAdm2MYS:
-    admin_name: Beluran
-    iso3c: MYS
-    shapeID: 92858781B11747054778186
-  BeluruAdm2MYS:
-    admin_name: Beluru
-    iso3c: MYS
-    shapeID: 92858781B6450115296433
-  BentongAdm2MYS:
-    admin_name: Bentong
-    iso3c: MYS
-    shapeID: 92858781B95587260702445
-  BeraAdm2MYS:
-    admin_name: Bera
-    iso3c: MYS
-    shapeID: 92858781B37033160198468
-  BesutAdm2MYS:
-    admin_name: Besut
-    iso3c: MYS
-    shapeID: 92858781B66748088999576
-  BetongAdm2MYS:
-    admin_name: Betong
-    iso3c: MYS
-    shapeID: 92858781B57071016151850
-  BintuluAdm2MYS:
-    admin_name: Bintulu
-    iso3c: MYS
-    shapeID: 92858781B86013998002036
-  BukitMabongAdm2MYS:
-    admin_name: BukitMabong
-    iso3c: MYS
-    shapeID: 92858781B56085190058706
-  CameronHighlandsAdm2MYS:
-    admin_name: CameronHighlands
-    iso3c: MYS
-    shapeID: 92858781B10772357278230
-  DalatAdm2MYS:
-    admin_name: Dalat
-    iso3c: MYS
-    shapeID: 92858781B41279548929635
-  DaroAdm2MYS:
-    admin_name: Daro
-    iso3c: MYS
-    shapeID: 92858781B64296283519727
-  DungunAdm2MYS:
-    admin_name: Dungun
-    iso3c: MYS
-    shapeID: 92858781B15989569853600
-  GombakAdm2MYS:
-    admin_name: Gombak
-    iso3c: MYS
-    shapeID: 92858781B84445266980229
-  GuaMusangAdm2MYS:
-    admin_name: GuaMusang
-    iso3c: MYS
-    shapeID: 92858781B67795542247557
-  HilirPerakAdm2MYS:
-    admin_name: HilirPerak
-    iso3c: MYS
-    shapeID: 92858781B22545917435133
-  HuluPerakAdm2MYS:
-    admin_name: HuluPerak
-    iso3c: MYS
-    shapeID: 92858781B35407838405861
-  HuluTerengganuAdm2MYS:
-    admin_name: HuluTerengganu
-    iso3c: MYS
-    shapeID: 92858781B28434348300239
-  JasinAdm2MYS:
-    admin_name: Jasin
-    iso3c: MYS
-    shapeID: 92858781B12493975333595
-  JelebuAdm2MYS:
-    admin_name: Jelebu
-    iso3c: MYS
-    shapeID: 92858781B14475732449391
-  JeliAdm2MYS:
-    admin_name: Jeli
-    iso3c: MYS
-    shapeID: 92858781B21811088790673
-  JempolAdm2MYS:
-    admin_name: Jempol
-    iso3c: MYS
-    shapeID: 92858781B63970994898514
-  JerantutAdm2MYS:
-    admin_name: Jerantut
-    iso3c: MYS
-    shapeID: 92858781B18339216088795
-  JohorAdm1MYS:
-    admin_name: Johor
-    iso3c: MYS
-    shapeID: 15666254B42356713390762
-  JohorBahruAdm2MYS:
-    admin_name: JohorBahru
-    iso3c: MYS
-    shapeID: 92858781B42177808662163
-  JulauAdm2MYS:
-    admin_name: Julau
-    iso3c: MYS
-    shapeID: 92858781B53713616698711
-  KabongAdm2MYS:
-    admin_name: Kabong
-    iso3c: MYS
-    shapeID: 92858781B82406813204277
-  KalabakanAdm2MYS:
-    admin_name: Kalabakan
-    iso3c: MYS
-    shapeID: 92858781B64999201183352
-  KamparAdm2MYS:
-    admin_name: Kampar
-    iso3c: MYS
-    shapeID: 92858781B88195291987558
-  KanowitAdm2MYS:
-    admin_name: Kanowit
-    iso3c: MYS
-    shapeID: 92858781B72543714708514
-  KapitAdm2MYS:
-    admin_name: Kapit
-    iso3c: MYS
-    shapeID: 92858781B45914425263200
-  KecilLojingAdm2MYS:
-    admin_name: KecilLojing
-    iso3c: MYS
-    shapeID: 92858781B76636493709189
-  KedahAdm1MYS:
-    admin_name: Kedah
-    iso3c: MYS
-    shapeID: 15666254B71428205180864
-  KelantanAdm1MYS:
-    admin_name: Kelantan
-    iso3c: MYS
-    shapeID: 15666254B53975248776023
-  KemamanAdm2MYS:
-    admin_name: Kemaman
-    iso3c: MYS
-    shapeID: 92858781B85628090125570
-  KeningauAdm2MYS:
-    admin_name: Keningau
-    iso3c: MYS
-    shapeID: 92858781B15741059593966
-  KerianAdm2MYS:
-    admin_name: Kerian
-    iso3c: MYS
-    shapeID: 92858781B48608892505394
-  KinabatanganAdm2MYS:
-    admin_name: Kinabatangan
-    iso3c: MYS
-    shapeID: 92858781B11608738367966
-  KintaAdm2MYS:
-    admin_name: Kinta
-    iso3c: MYS
-    shapeID: 92858781B39286105969870
-  KlangAdm2MYS:
-    admin_name: Klang
-    iso3c: MYS
-    shapeID: 92858781B44508451464311
-  KluangAdm2MYS:
-    admin_name: Kluang
-    iso3c: MYS
-    shapeID: 92858781B16858061295144
-  KotaBeludAdm2MYS:
-    admin_name: KotaBelud
-    iso3c: MYS
-    shapeID: 92858781B56547277278247
-  KotaBharuAdm2MYS:
-    admin_name: KotaBharu
-    iso3c: MYS
-    shapeID: 92858781B26165935379781
-  KotaKinabaluAdm2MYS:
-    admin_name: KotaKinabalu
-    iso3c: MYS
-    shapeID: 92858781B89121228142422
-  KotaMaruduAdm2MYS:
-    admin_name: KotaMarudu
-    iso3c: MYS
-    shapeID: 92858781B52597028656426
-  KotaSetarAdm2MYS:
-    admin_name: KotaSetar
-    iso3c: MYS
-    shapeID: 92858781B49320909792008
-  KotaTinggiAdm2MYS:
-    admin_name: KotaTinggi
-    iso3c: MYS
-    shapeID: 92858781B34033962801246
-  KualaKangsarAdm2MYS:
-    admin_name: KualaKangsar
-    iso3c: MYS
-    shapeID: 92858781B74262532069256
-  KualaKraiAdm2MYS:
-    admin_name: KualaKrai
-    iso3c: MYS
-    shapeID: 92858781B31305353938168
-  KualaLangatAdm2MYS:
-    admin_name: KualaLangat
-    iso3c: MYS
-    shapeID: 92858781B2422133740592
-  KualaLumpurAdm1MYS:
-    admin_name: KualaLumpur
-    iso3c: MYS
-    shapeID: 15666254B97003483933575
-  KualaLumpurAdm2MYS:
-    admin_name: KualaLumpur
-    iso3c: MYS
-    shapeID: 92858781B79427410842699
-  KualaMudaAdm2MYS:
-    admin_name: KualaMuda
-    iso3c: MYS
-    shapeID: 92858781B60968971882976
-  KualaNerusAdm2MYS:
-    admin_name: KualaNerus
-    iso3c: MYS
-    shapeID: 92858781B78340444844195
-  KualaPenyuAdm2MYS:
-    admin_name: KualaPenyu
-    iso3c: MYS
-    shapeID: 92858781B3182463940033
-  KualaPilahAdm2MYS:
-    admin_name: KualaPilah
-    iso3c: MYS
-    shapeID: 92858781B70284069917848
-  KualaSelangorAdm2MYS:
-    admin_name: KualaSelangor
-    iso3c: MYS
-    shapeID: 92858781B52521968148522
-  KualaTerengganuAdm2MYS:
-    admin_name: KualaTerengganu
-    iso3c: MYS
-    shapeID: 92858781B69735571651191
-  KuantanAdm2MYS:
-    admin_name: Kuantan
-    iso3c: MYS
-    shapeID: 92858781B15723972552413
-  KubangPasuAdm2MYS:
-    admin_name: KubangPasu
-    iso3c: MYS
-    shapeID: 92858781B58701158776704
-  KuchingAdm2MYS:
-    admin_name: Kuching
-    iso3c: MYS
-    shapeID: 92858781B71965080514918
-  KudatAdm2MYS:
-    admin_name: Kudat
-    iso3c: MYS
-    shapeID: 92858781B15931830971700
-  KulaijayaAdm2MYS:
-    admin_name: Kulaijaya
-    iso3c: MYS
-    shapeID: 92858781B77755411745481
-  KulimAdm2MYS:
-    admin_name: Kulim
-    iso3c: MYS
-    shapeID: 92858781B36918447122584
-  KunakAdm2MYS:
-    admin_name: Kunak
-    iso3c: MYS
-    shapeID: 92858781B10132292463184
-  LabuanAdm1MYS:
-    admin_name: Labuan
-    iso3c: MYS
-    shapeID: 15666254B4265207353082
-  LabuanAdm2MYS:
-    admin_name: Labuan
-    iso3c: MYS
-    shapeID: 92858781B93759904190294
-  LahadDatuAdm2MYS:
-    admin_name: LahadDatu
-    iso3c: MYS
-    shapeID: 92858781B71459572065664
-  LangkawiAdm2MYS:
-    admin_name: Langkawi
-    iso3c: MYS
-    shapeID: 92858781B39946702986092
-  LarutdanMatangAdm2MYS:
-    admin_name: LarutdanMatang
-    iso3c: MYS
-    shapeID: 92858781B7339413338476
-  LawasAdm2MYS:
-    admin_name: Lawas
-    iso3c: MYS
-    shapeID: 92858781B12558233193799
-  LedangAdm2MYS:
-    admin_name: Ledang
-    iso3c: MYS
-    shapeID: 92858781B19407525562459
-  LimbangAdm2MYS:
-    admin_name: Limbang
-    iso3c: MYS
-    shapeID: 92858781B30612990862702
-  LipisAdm2MYS:
-    admin_name: Lipis
-    iso3c: MYS
-    shapeID: 92858781B59638700004022
-  LubokAntuAdm2MYS:
-    admin_name: LubokAntu
-    iso3c: MYS
-    shapeID: 92858781B44551979255249
-  LunduAdm2MYS:
-    admin_name: Lundu
-    iso3c: MYS
-    shapeID: 92858781B46549610571988
-  MachangAdm2MYS:
-    admin_name: Machang
-    iso3c: MYS
-    shapeID: 92858781B41710084977616
-  MalaccaAdm1MYS:
-    admin_name: Malacca
-    iso3c: MYS
-    shapeID: 15666254B45695250728659
-  ManjungAdm2MYS:
-    admin_name: Manjung
-    iso3c: MYS
-    shapeID: 92858781B15023786189250
-  MaradongAdm2MYS:
-    admin_name: Maradong
-    iso3c: MYS
-    shapeID: 92858781B62656857098547
-  MaranAdm2MYS:
-    admin_name: Maran
-    iso3c: MYS
-    shapeID: 92858781B75033719782494
-  MarangAdm2MYS:
-    admin_name: Marang
-    iso3c: MYS
-    shapeID: 92858781B50781472629025
-  MarudiAdm2MYS:
-    admin_name: Marudi
-    iso3c: MYS
-    shapeID: 92858781B4592285011837
-  MatuAdm2MYS:
-    admin_name: Matu
-    iso3c: MYS
-    shapeID: 92858781B59965147339315
-  MelakaTengahAdm2MYS:
-    admin_name: MelakaTengah
-    iso3c: MYS
-    shapeID: 92858781B41999482633518
-  MersingAdm2MYS:
-    admin_name: Mersing
-    iso3c: MYS
-    shapeID: 92858781B22606211621135
-  MiriAdm2MYS:
-    admin_name: Miri
-    iso3c: MYS
-    shapeID: 92858781B82463401188704
-  MuallimAdm2MYS:
-    admin_name: Muallim
-    iso3c: MYS
-    shapeID: 92858781B90954683120897
-  MuarAdm2MYS:
-    admin_name: Muar
-    iso3c: MYS
-    shapeID: 92858781B4939885294010
-  MukahAdm2MYS:
-    admin_name: Mukah
-    iso3c: MYS
-    shapeID: 92858781B93541557808123
-  Nabawan/PersianganAdm2MYS:
-    admin_name: Nabawan/Persiangan
-    iso3c: MYS
-    shapeID: 92858781B57526539682129
-  NegeriSembilanAdm1MYS:
-    admin_name: NegeriSembilan
-    iso3c: MYS
-    shapeID: 15666254B60207109163985
-  PadangTerapAdm2MYS:
-    admin_name: PadangTerap
-    iso3c: MYS
-    shapeID: 92858781B11501652719987
-  PahangAdm1MYS:
-    admin_name: Pahang
-    iso3c: MYS
-    shapeID: 15666254B34720353032971
-  PakanAdm2MYS:
-    admin_name: Pakan
-    iso3c: MYS
-    shapeID: 92858781B78593379458192
-  PaparAdm2MYS:
-    admin_name: Papar
-    iso3c: MYS
-    shapeID: 92858781B69342492648863
-  PasirMasAdm2MYS:
-    admin_name: PasirMas
-    iso3c: MYS
-    shapeID: 92858781B75737561234517
-  PasirPutehAdm2MYS:
-    admin_name: PasirPuteh
-    iso3c: MYS
-    shapeID: 92858781B22030714456206
-  PekanAdm2MYS:
-    admin_name: Pekan
-    iso3c: MYS
-    shapeID: 92858781B2818057588374
-  PenampangAdm2MYS:
-    admin_name: Penampang
-    iso3c: MYS
-    shapeID: 92858781B3711047407086
-  PenangAdm1MYS:
-    admin_name: Penang
-    iso3c: MYS
-    shapeID: 15666254B92074897121205
-  PendangAdm2MYS:
-    admin_name: Pendang
-    iso3c: MYS
-    shapeID: 92858781B37345713247698
-  PerakAdm1MYS:
-    admin_name: Perak
-    iso3c: MYS
-    shapeID: 15666254B15173108486297
-  PerakTengahAdm2MYS:
-    admin_name: PerakTengah
-    iso3c: MYS
-    shapeID: 92858781B97435964158184
-  PerlisAdm1MYS:
-    admin_name: Perlis
-    iso3c: MYS
-    shapeID: 15666254B44964481844598
-  PerlisAdm2MYS:
-    admin_name: Perlis
-    iso3c: MYS
-    shapeID: 92858781B47939321084685
-  PetalingAdm2MYS:
-    admin_name: Petaling
-    iso3c: MYS
-    shapeID: 92858781B60376413639078
-  PitasAdm2MYS:
-    admin_name: Pitas
-    iso3c: MYS
-    shapeID: 92858781B47215785880739
-  PokokSenaAdm2MYS:
-    admin_name: PokokSena
-    iso3c: MYS
-    shapeID: 92858781B89628207244995
-  PontianAdm2MYS:
-    admin_name: Pontian
-    iso3c: MYS
-    shapeID: 92858781B61162443163986
-  PortDicksonAdm2MYS:
-    admin_name: PortDickson
-    iso3c: MYS
-    shapeID: 92858781B57188126303379
-  PusaAdm2MYS:
-    admin_name: Pusa
-    iso3c: MYS
-    shapeID: 92858781B40387139442699
-  PutatanAdm2MYS:
-    admin_name: Putatan
-    iso3c: MYS
-    shapeID: 92858781B21470525413455
-  PutrajayaAdm1MYS:
-    admin_name: Putrajaya
-    iso3c: MYS
-    shapeID: 15666254B54729125478011
-  RanauAdm2MYS:
-    admin_name: Ranau
-    iso3c: MYS
-    shapeID: 92858781B74051024245503
-  RaubAdm2MYS:
-    admin_name: Raub
-    iso3c: MYS
-    shapeID: 92858781B38754902087589
-  RembauAdm2MYS:
-    admin_name: Rembau
-    iso3c: MYS
-    shapeID: 92858781B48493388019423
-  RompinAdm2MYS:
-    admin_name: Rompin
-    iso3c: MYS
-    shapeID: 92858781B70055833536426
-  SabahAdm1MYS:
-    admin_name: Sabah
-    iso3c: MYS
-    shapeID: 15666254B50935235229272
-  SabakBernamAdm2MYS:
-    admin_name: SabakBernam
-    iso3c: MYS
-    shapeID: 92858781B3591974516081
-  SamarahanAdm2MYS:
-    admin_name: Samarahan
-    iso3c: MYS
-    shapeID: 92858781B97238976532983
-  SandakanAdm2MYS:
-    admin_name: Sandakan
-    iso3c: MYS
-    shapeID: 92858781B38281907433738
-  SaratokAdm2MYS:
-    admin_name: Saratok
-    iso3c: MYS
-    shapeID: 92858781B50992839087050
-  SarawakAdm1MYS:
-    admin_name: Sarawak
-    iso3c: MYS
-    shapeID: 15666254B8535925993004
-  SarikeiAdm2MYS:
-    admin_name: Sarikei
-    iso3c: MYS
-    shapeID: 92858781B34394756888936
-  SebauhAdm2MYS:
-    admin_name: Sebauh
-    iso3c: MYS
-    shapeID: 92858781B11810319562085
-  SeberangPeraiSelatanAdm2MYS:
-    admin_name: SeberangPeraiSelatan
-    iso3c: MYS
-    shapeID: 92858781B33642984560897
-  SeberangPeraiTengahAdm2MYS:
-    admin_name: SeberangPeraiTengah
-    iso3c: MYS
-    shapeID: 92858781B39236522821869
-  SeberangPeraiUtaraAdm2MYS:
-    admin_name: SeberangPeraiUtara
-    iso3c: MYS
-    shapeID: 92858781B46264786477712
-  SegamatAdm2MYS:
-    admin_name: Segamat
-    iso3c: MYS
-    shapeID: 92858781B96897508285102
-  SelamaAdm2MYS:
-    admin_name: Selama
-    iso3c: MYS
-    shapeID: 92858781B87749635219289
-  SelangauAdm2MYS:
-    admin_name: Selangau
-    iso3c: MYS
-    shapeID: 92858781B23703975490584
-  SelangorAdm1MYS:
+  Malaysia_Adm0:
+    iso3c: MYS
+    admin_level: Adm0
+    admin_name: Malaysia
+    shapeID: 87038898B63284295545115
+    country_name: Malaysia
+  Malaysia_Adm1_1:
+    iso3c: MYS
+    admin_level: Adm1
     admin_name: Selangor
-    iso3c: MYS
     shapeID: 15666254B89722251658211
-  SempornaAdm2MYS:
-    admin_name: Semporna
+    country_name: Malaysia
+  Malaysia_Adm1_10:
     iso3c: MYS
-    shapeID: 92858781B783004455088
-  SepangAdm2MYS:
-    admin_name: Sepang
-    iso3c: MYS
-    shapeID: 92858781B54424141725992
-  SerembanAdm2MYS:
-    admin_name: Seremban
-    iso3c: MYS
-    shapeID: 92858781B89018388239971
-  SerianAdm2MYS:
-    admin_name: Serian
-    iso3c: MYS
-    shapeID: 92858781B75054597710860
-  SetiuAdm2MYS:
-    admin_name: Setiu
-    iso3c: MYS
-    shapeID: 92858781B44112931825428
-  SibuAdm2MYS:
-    admin_name: Sibu
-    iso3c: MYS
-    shapeID: 92858781B78222049981806
-  SikAdm2MYS:
-    admin_name: Sik
-    iso3c: MYS
-    shapeID: 92858781B49401310221889
-  SimunjanAdm2MYS:
-    admin_name: Simunjan
-    iso3c: MYS
-    shapeID: 92858781B68418840965582
-  SipitangAdm2MYS:
-    admin_name: Sipitang
-    iso3c: MYS
-    shapeID: 92858781B73026696392194
-  SongAdm2MYS:
-    admin_name: Song
-    iso3c: MYS
-    shapeID: 92858781B41369964486545
-  SriAmanAdm2MYS:
-    admin_name: SriAman
-    iso3c: MYS
-    shapeID: 92858781B67044495158935
-  SubisAdm2MYS:
-    admin_name: Subis
-    iso3c: MYS
-    shapeID: 92858781B11912366303886
-  TambunanAdm2MYS:
-    admin_name: Tambunan
-    iso3c: MYS
-    shapeID: 92858781B2820786401574
-  TampinAdm2MYS:
-    admin_name: Tampin
-    iso3c: MYS
-    shapeID: 92858781B76684976870525
-  TanahMerahAdm2MYS:
-    admin_name: TanahMerah
-    iso3c: MYS
-    shapeID: 92858781B67391800412495
-  TanjungManisAdm2MYS:
-    admin_name: TanjungManis
-    iso3c: MYS
-    shapeID: 92858781B89003651780550
-  TatauAdm2MYS:
-    admin_name: Tatau
-    iso3c: MYS
-    shapeID: 92858781B61228252123101
-  TawauAdm2MYS:
-    admin_name: Tawau
-    iso3c: MYS
-    shapeID: 92858781B49280129644496
-  TebeduAdm2MYS:
-    admin_name: Tebedu
-    iso3c: MYS
-    shapeID: 92858781B78299501514110
-  TelangUsanAdm2MYS:
-    admin_name: TelangUsan
-    iso3c: MYS
-    shapeID: 92858781B46981369874280
-  TelupidAdm2MYS:
-    admin_name: Telupid
-    iso3c: MYS
-    shapeID: 92858781B69032818816249
-  TemerlohAdm2MYS:
-    admin_name: Temerloh
-    iso3c: MYS
-    shapeID: 92858781B90183149437098
-  TenomAdm2MYS:
-    admin_name: Tenom
-    iso3c: MYS
-    shapeID: 92858781B47862255723096
-  TerengganuAdm1MYS:
+    admin_level: Adm1
     admin_name: Terengganu
-    iso3c: MYS
     shapeID: 15666254B71460903090065
-  TimurLautAdm2MYS:
-    admin_name: TimurLaut
+    country_name: Malaysia
+  Malaysia_Adm1_11:
     iso3c: MYS
-    shapeID: 92858781B26188199947326
-  TongodAdm2MYS:
-    admin_name: Tongod
+    admin_level: Adm1
+    admin_name: Pahang
+    shapeID: 15666254B34720353032971
+    country_name: Malaysia
+  Malaysia_Adm1_12:
     iso3c: MYS
-    shapeID: 92858781B32366551894999
-  TuaranAdm2MYS:
-    admin_name: Tuaran
+    admin_level: Adm1
+    admin_name: Kedah
+    shapeID: 15666254B71428205180864
+    country_name: Malaysia
+  Malaysia_Adm1_13:
     iso3c: MYS
-    shapeID: 92858781B39347348981518
-  TumpatAdm2MYS:
+    admin_level: Adm1
+    admin_name: Perlis
+    shapeID: 15666254B44964481844598
+    country_name: Malaysia
+  Malaysia_Adm1_14:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: Perak
+    shapeID: 15666254B15173108486297
+    country_name: Malaysia
+  Malaysia_Adm1_15:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: Penang
+    shapeID: 15666254B92074897121205
+    country_name: Malaysia
+  Malaysia_Adm1_16:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: Labuan
+    shapeID: 15666254B4265207353082
+    country_name: Malaysia
+  Malaysia_Adm1_2:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: Johor
+    shapeID: 15666254B42356713390762
+    country_name: Malaysia
+  Malaysia_Adm1_3:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: KualaLumpur
+    shapeID: 15666254B97003483933575
+    country_name: Malaysia
+  Malaysia_Adm1_4:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: Malacca
+    shapeID: 15666254B45695250728659
+    country_name: Malaysia
+  Malaysia_Adm1_5:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: NegeriSembilan
+    shapeID: 15666254B60207109163985
+    country_name: Malaysia
+  Malaysia_Adm1_6:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: Sabah
+    shapeID: 15666254B50935235229272
+    country_name: Malaysia
+  Malaysia_Adm1_7:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: Sarawak
+    shapeID: 15666254B8535925993004
+    country_name: Malaysia
+  Malaysia_Adm1_8:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: Kelantan
+    shapeID: 15666254B53975248776023
+    country_name: Malaysia
+  Malaysia_Adm1_9:
+    iso3c: MYS
+    admin_level: Adm1
+    admin_name: Putrajaya
+    shapeID: 15666254B54729125478011
+    country_name: Malaysia
+  Malaysia_Adm2_1:
+    iso3c: MYS
+    admin_level: Adm2
     admin_name: Tumpat
-    iso3c: MYS
     shapeID: 92858781B54418175160244
-  UluLangatAdm2MYS:
-    admin_name: UluLangat
+    country_name: Malaysia
+  Malaysia_Adm2_10:
     iso3c: MYS
-    shapeID: 92858781B61799260862057
-  UluSelangorAdm2MYS:
-    admin_name: UluSelangor
+    admin_level: Adm2
+    admin_name: Selama
+    shapeID: 92858781B87749635219289
+    country_name: Malaysia
+  Malaysia_Adm2_100:
     iso3c: MYS
-    shapeID: 92858781B525446054982
-  YanAdm2MYS:
+    admin_level: Adm2
+    admin_name: LubokAntu
+    shapeID: 92858781B44551979255249
+    country_name: Malaysia
+  Malaysia_Adm2_101:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Julau
+    shapeID: 92858781B53713616698711
+    country_name: Malaysia
+  Malaysia_Adm2_102:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Maradong
+    shapeID: 92858781B62656857098547
+    country_name: Malaysia
+  Malaysia_Adm2_103:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kanowit
+    shapeID: 92858781B72543714708514
+    country_name: Malaysia
+  Malaysia_Adm2_104:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Sibu
+    shapeID: 92858781B78222049981806
+    country_name: Malaysia
+  Malaysia_Adm2_105:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Song
+    shapeID: 92858781B41369964486545
+    country_name: Malaysia
+  Malaysia_Adm2_106:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Selangau
+    shapeID: 92858781B23703975490584
+    country_name: Malaysia
+  Malaysia_Adm2_107:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Dalat
+    shapeID: 92858781B41279548929635
+    country_name: Malaysia
+  Malaysia_Adm2_108:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kapit
+    shapeID: 92858781B45914425263200
+    country_name: Malaysia
+  Malaysia_Adm2_109:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Tatau
+    shapeID: 92858781B61228252123101
+    country_name: Malaysia
+  Malaysia_Adm2_11:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: BandarBaharu
+    shapeID: 92858781B61544181659283
+    country_name: Malaysia
+  Malaysia_Adm2_110:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Mukah
+    shapeID: 92858781B93541557808123
+    country_name: Malaysia
+  Malaysia_Adm2_111:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Matu
+    shapeID: 92858781B59965147339315
+    country_name: Malaysia
+  Malaysia_Adm2_112:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Daro
+    shapeID: 92858781B64296283519727
+    country_name: Malaysia
+  Malaysia_Adm2_113:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Bintulu
+    shapeID: 92858781B86013998002036
+    country_name: Malaysia
+  Malaysia_Adm2_114:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Sebauh
+    shapeID: 92858781B11810319562085
+    country_name: Malaysia
+  Malaysia_Adm2_115:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: BukitMabong
+    shapeID: 92858781B56085190058706
+    country_name: Malaysia
+  Malaysia_Adm2_116:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Belaga
+    shapeID: 92858781B14210888216544
+    country_name: Malaysia
+  Malaysia_Adm2_117:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Beluru
+    shapeID: 92858781B6450115296433
+    country_name: Malaysia
+  Malaysia_Adm2_118:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Subis
+    shapeID: 92858781B11912366303886
+    country_name: Malaysia
+  Malaysia_Adm2_119:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Miri
+    shapeID: 92858781B82463401188704
+    country_name: Malaysia
+  Malaysia_Adm2_12:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: SeberangPeraiSelatan
+    shapeID: 92858781B33642984560897
+    country_name: Malaysia
+  Malaysia_Adm2_120:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: TelangUsan
+    shapeID: 92858781B46981369874280
+    country_name: Malaysia
+  Malaysia_Adm2_121:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Marudi
+    shapeID: 92858781B4592285011837
+    country_name: Malaysia
+  Malaysia_Adm2_122:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Lawas
+    shapeID: 92858781B12558233193799
+    country_name: Malaysia
+  Malaysia_Adm2_123:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Limbang
+    shapeID: 92858781B30612990862702
+    country_name: Malaysia
+  Malaysia_Adm2_124:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Sipitang
+    shapeID: 92858781B73026696392194
+    country_name: Malaysia
+  Malaysia_Adm2_125:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Tenom
+    shapeID: 92858781B47862255723096
+    country_name: Malaysia
+  Malaysia_Adm2_126:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Beaufort
+    shapeID: 92858781B48397609160298
+    country_name: Malaysia
+  Malaysia_Adm2_127:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KualaPenyu
+    shapeID: 92858781B3182463940033
+    country_name: Malaysia
+  Malaysia_Adm2_128:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Labuan
+    shapeID: 92858781B93759904190294
+    country_name: Malaysia
+  Malaysia_Adm2_129:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Nabawan/Persiangan
+    shapeID: 92858781B57526539682129
+    country_name: Malaysia
+  Malaysia_Adm2_13:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: SeberangPeraiTengah
+    shapeID: 92858781B39236522821869
+    country_name: Malaysia
+  Malaysia_Adm2_130:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Keningau
+    shapeID: 92858781B15741059593966
+    country_name: Malaysia
+  Malaysia_Adm2_131:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Papar
+    shapeID: 92858781B69342492648863
+    country_name: Malaysia
+  Malaysia_Adm2_132:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Putatan
+    shapeID: 92858781B21470525413455
+    country_name: Malaysia
+  Malaysia_Adm2_133:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Tambunan
+    shapeID: 92858781B2820786401574
+    country_name: Malaysia
+  Malaysia_Adm2_134:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Penampang
+    shapeID: 92858781B3711047407086
+    country_name: Malaysia
+  Malaysia_Adm2_135:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KotaKinabalu
+    shapeID: 92858781B89121228142422
+    country_name: Malaysia
+  Malaysia_Adm2_136:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Tuaran
+    shapeID: 92858781B39347348981518
+    country_name: Malaysia
+  Malaysia_Adm2_137:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KotaBelud
+    shapeID: 92858781B56547277278247
+    country_name: Malaysia
+  Malaysia_Adm2_138:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Ranau
+    shapeID: 92858781B74051024245503
+    country_name: Malaysia
+  Malaysia_Adm2_139:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KotaMarudu
+    shapeID: 92858781B52597028656426
+    country_name: Malaysia
+  Malaysia_Adm2_14:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: SeberangPeraiUtara
+    shapeID: 92858781B46264786477712
+    country_name: Malaysia
+  Malaysia_Adm2_140:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kudat
+    shapeID: 92858781B15931830971700
+    country_name: Malaysia
+  Malaysia_Adm2_141:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kalabakan
+    shapeID: 92858781B64999201183352
+    country_name: Malaysia
+  Malaysia_Adm2_142:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Tawau
+    shapeID: 92858781B49280129644496
+    country_name: Malaysia
+  Malaysia_Adm2_143:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kunak
+    shapeID: 92858781B10132292463184
+    country_name: Malaysia
+  Malaysia_Adm2_144:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Semporna
+    shapeID: 92858781B783004455088
+    country_name: Malaysia
+  Malaysia_Adm2_145:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: LahadDatu
+    shapeID: 92858781B71459572065664
+    country_name: Malaysia
+  Malaysia_Adm2_146:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Tongod
+    shapeID: 92858781B32366551894999
+    country_name: Malaysia
+  Malaysia_Adm2_147:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kinabatangan
+    shapeID: 92858781B11608738367966
+    country_name: Malaysia
+  Malaysia_Adm2_148:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Sandakan
+    shapeID: 92858781B38281907433738
+    country_name: Malaysia
+  Malaysia_Adm2_149:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Telupid
+    shapeID: 92858781B69032818816249
+    country_name: Malaysia
+  Malaysia_Adm2_15:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kulim
+    shapeID: 92858781B36918447122584
+    country_name: Malaysia
+  Malaysia_Adm2_150:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Beluran
+    shapeID: 92858781B11747054778186
+    country_name: Malaysia
+  Malaysia_Adm2_151:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Pitas
+    shapeID: 92858781B47215785880739
+    country_name: Malaysia
+  Malaysia_Adm2_152:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Besut
+    shapeID: 92858781B66748088999576
+    country_name: Malaysia
+  Malaysia_Adm2_153:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KualaNerus
+    shapeID: 92858781B78340444844195
+    country_name: Malaysia
+  Malaysia_Adm2_154:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Marang
+    shapeID: 92858781B50781472629025
+    country_name: Malaysia
+  Malaysia_Adm2_155:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Rompin
+    shapeID: 92858781B70055833536426
+    country_name: Malaysia
+  Malaysia_Adm2_156:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Mersing
+    shapeID: 92858781B22606211621135
+    country_name: Malaysia
+  Malaysia_Adm2_157:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Manjung
+    shapeID: 92858781B15023786189250
+    country_name: Malaysia
+  Malaysia_Adm2_158:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Bachok
+    shapeID: 92858781B88613977920895
+    country_name: Malaysia
+  Malaysia_Adm2_159:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: TanjungManis
+    shapeID: 92858781B89003651780550
+    country_name: Malaysia
+  Malaysia_Adm2_16:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: BaratDaya
+    shapeID: 92858781B94521596565323
+    country_name: Malaysia
+  Malaysia_Adm2_17:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: TimurLaut
+    shapeID: 92858781B26188199947326
+    country_name: Malaysia
+  Malaysia_Adm2_18:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Baling
+    shapeID: 92858781B88693147635534
+    country_name: Malaysia
+  Malaysia_Adm2_19:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KualaMuda
+    shapeID: 92858781B60968971882976
+    country_name: Malaysia
+  Malaysia_Adm2_2:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KotaBharu
+    shapeID: 92858781B26165935379781
+    country_name: Malaysia
+  Malaysia_Adm2_20:
+    iso3c: MYS
+    admin_level: Adm2
     admin_name: Yan
-    iso3c: MYS
     shapeID: 92858781B20286936830399
+    country_name: Malaysia
+  Malaysia_Adm2_21:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Pendang
+    shapeID: 92858781B37345713247698
+    country_name: Malaysia
+  Malaysia_Adm2_22:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Sik
+    shapeID: 92858781B49401310221889
+    country_name: Malaysia
+  Malaysia_Adm2_23:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KotaSetar
+    shapeID: 92858781B49320909792008
+    country_name: Malaysia
+  Malaysia_Adm2_24:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: PokokSena
+    shapeID: 92858781B89628207244995
+    country_name: Malaysia
+  Malaysia_Adm2_25:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: PadangTerap
+    shapeID: 92858781B11501652719987
+    country_name: Malaysia
+  Malaysia_Adm2_26:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KubangPasu
+    shapeID: 92858781B58701158776704
+    country_name: Malaysia
+  Malaysia_Adm2_27:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Perlis
+    shapeID: 92858781B47939321084685
+    country_name: Malaysia
+  Malaysia_Adm2_28:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Langkawi
+    shapeID: 92858781B39946702986092
+    country_name: Malaysia
+  Malaysia_Adm2_29:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kerian
+    shapeID: 92858781B48608892505394
+    country_name: Malaysia
+  Malaysia_Adm2_3:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: PasirPuteh
+    shapeID: 92858781B22030714456206
+    country_name: Malaysia
+  Malaysia_Adm2_30:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: LarutdanMatang
+    shapeID: 92858781B7339413338476
+    country_name: Malaysia
+  Malaysia_Adm2_31:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KualaKangsar
+    shapeID: 92858781B74262532069256
+    country_name: Malaysia
+  Malaysia_Adm2_32:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: HuluTerengganu
+    shapeID: 92858781B28434348300239
+    country_name: Malaysia
+  Malaysia_Adm2_33:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Setiu
+    shapeID: 92858781B44112931825428
+    country_name: Malaysia
+  Malaysia_Adm2_34:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KualaTerengganu
+    shapeID: 92858781B69735571651191
+    country_name: Malaysia
+  Malaysia_Adm2_35:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KecilLojing
+    shapeID: 92858781B76636493709189
+    country_name: Malaysia
+  Malaysia_Adm2_36:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: CameronHighlands
+    shapeID: 92858781B10772357278230
+    country_name: Malaysia
+  Malaysia_Adm2_37:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: GuaMusang
+    shapeID: 92858781B67795542247557
+    country_name: Malaysia
+  Malaysia_Adm2_38:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Dungun
+    shapeID: 92858781B15989569853600
+    country_name: Malaysia
+  Malaysia_Adm2_39:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kampar
+    shapeID: 92858781B88195291987558
+    country_name: Malaysia
+  Malaysia_Adm2_4:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: PasirMas
+    shapeID: 92858781B75737561234517
+    country_name: Malaysia
+  Malaysia_Adm2_40:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kinta
+    shapeID: 92858781B39286105969870
+    country_name: Malaysia
+  Malaysia_Adm2_41:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: PerakTengah
+    shapeID: 92858781B97435964158184
+    country_name: Malaysia
+  Malaysia_Adm2_42:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: HilirPerak
+    shapeID: 92858781B22545917435133
+    country_name: Malaysia
+  Malaysia_Adm2_43:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Muallim
+    shapeID: 92858781B90954683120897
+    country_name: Malaysia
+  Malaysia_Adm2_44:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: BatangPadang
+    shapeID: 92858781B72940108460655
+    country_name: Malaysia
+  Malaysia_Adm2_45:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: BaganDatuk
+    shapeID: 92858781B98858814885559
+    country_name: Malaysia
+  Malaysia_Adm2_46:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: SabakBernam
+    shapeID: 92858781B3591974516081
+    country_name: Malaysia
+  Malaysia_Adm2_47:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KualaSelangor
+    shapeID: 92858781B52521968148522
+    country_name: Malaysia
+  Malaysia_Adm2_48:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: UluSelangor
+    shapeID: 92858781B525446054982
+    country_name: Malaysia
+  Malaysia_Adm2_49:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Lipis
+    shapeID: 92858781B59638700004022
+    country_name: Malaysia
+  Malaysia_Adm2_5:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Machang
+    shapeID: 92858781B41710084977616
+    country_name: Malaysia
+  Malaysia_Adm2_50:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kemaman
+    shapeID: 92858781B85628090125570
+    country_name: Malaysia
+  Malaysia_Adm2_51:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Jerantut
+    shapeID: 92858781B18339216088795
+    country_name: Malaysia
+  Malaysia_Adm2_52:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Raub
+    shapeID: 92858781B38754902087589
+    country_name: Malaysia
+  Malaysia_Adm2_53:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kuantan
+    shapeID: 92858781B15723972552413
+    country_name: Malaysia
+  Malaysia_Adm2_54:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Temerloh
+    shapeID: 92858781B90183149437098
+    country_name: Malaysia
+  Malaysia_Adm2_55:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Maran
+    shapeID: 92858781B75033719782494
+    country_name: Malaysia
+  Malaysia_Adm2_56:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Pekan
+    shapeID: 92858781B2818057588374
+    country_name: Malaysia
+  Malaysia_Adm2_57:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Bentong
+    shapeID: 92858781B95587260702445
+    country_name: Malaysia
+  Malaysia_Adm2_58:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Bera
+    shapeID: 92858781B37033160198468
+    country_name: Malaysia
+  Malaysia_Adm2_59:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Jelebu
+    shapeID: 92858781B14475732449391
+    country_name: Malaysia
+  Malaysia_Adm2_6:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: TanahMerah
+    shapeID: 92858781B67391800412495
+    country_name: Malaysia
+  Malaysia_Adm2_60:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Jempol
+    shapeID: 92858781B63970994898514
+    country_name: Malaysia
+  Malaysia_Adm2_61:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KualaPilah
+    shapeID: 92858781B70284069917848
+    country_name: Malaysia
+  Malaysia_Adm2_62:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Rembau
+    shapeID: 92858781B48493388019423
+    country_name: Malaysia
+  Malaysia_Adm2_63:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Tampin
+    shapeID: 92858781B76684976870525
+    country_name: Malaysia
+  Malaysia_Adm2_64:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Seremban
+    shapeID: 92858781B89018388239971
+    country_name: Malaysia
+  Malaysia_Adm2_65:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: PortDickson
+    shapeID: 92858781B57188126303379
+    country_name: Malaysia
+  Malaysia_Adm2_66:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Segamat
+    shapeID: 92858781B96897508285102
+    country_name: Malaysia
+  Malaysia_Adm2_67:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: AlorGajah
+    shapeID: 92858781B21202151512611
+    country_name: Malaysia
+  Malaysia_Adm2_68:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: MelakaTengah
+    shapeID: 92858781B41999482633518
+    country_name: Malaysia
+  Malaysia_Adm2_69:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Jasin
+    shapeID: 92858781B12493975333595
+    country_name: Malaysia
+  Malaysia_Adm2_7:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Jeli
+    shapeID: 92858781B21811088790673
+    country_name: Malaysia
+  Malaysia_Adm2_70:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Ledang
+    shapeID: 92858781B19407525562459
+    country_name: Malaysia
+  Malaysia_Adm2_71:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Muar
+    shapeID: 92858781B4939885294010
+    country_name: Malaysia
+  Malaysia_Adm2_72:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: BatuPahat
+    shapeID: 92858781B37388362285714
+    country_name: Malaysia
+  Malaysia_Adm2_73:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kluang
+    shapeID: 92858781B16858061295144
+    country_name: Malaysia
+  Malaysia_Adm2_74:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kulaijaya
+    shapeID: 92858781B77755411745481
+    country_name: Malaysia
+  Malaysia_Adm2_75:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Pontian
+    shapeID: 92858781B61162443163986
+    country_name: Malaysia
+  Malaysia_Adm2_76:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: JohorBahru
+    shapeID: 92858781B42177808662163
+    country_name: Malaysia
+  Malaysia_Adm2_77:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KotaTinggi
+    shapeID: 92858781B34033962801246
+    country_name: Malaysia
+  Malaysia_Adm2_78:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Sepang
+    shapeID: 92858781B54424141725992
+    country_name: Malaysia
+  Malaysia_Adm2_79:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Klang
+    shapeID: 92858781B44508451464311
+    country_name: Malaysia
+  Malaysia_Adm2_8:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KualaKrai
+    shapeID: 92858781B31305353938168
+    country_name: Malaysia
+  Malaysia_Adm2_80:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KualaLangat
+    shapeID: 92858781B2422133740592
+    country_name: Malaysia
+  Malaysia_Adm2_81:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Petaling
+    shapeID: 92858781B60376413639078
+    country_name: Malaysia
+  Malaysia_Adm2_82:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: KualaLumpur
+    shapeID: 92858781B79427410842699
+    country_name: Malaysia
+  Malaysia_Adm2_83:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Gombak
+    shapeID: 92858781B84445266980229
+    country_name: Malaysia
+  Malaysia_Adm2_84:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: UluLangat
+    shapeID: 92858781B61799260862057
+    country_name: Malaysia
+  Malaysia_Adm2_85:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Lundu
+    shapeID: 92858781B46549610571988
+    country_name: Malaysia
+  Malaysia_Adm2_86:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Bau
+    shapeID: 92858781B57032807608954
+    country_name: Malaysia
+  Malaysia_Adm2_87:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kuching
+    shapeID: 92858781B71965080514918
+    country_name: Malaysia
+  Malaysia_Adm2_88:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Samarahan
+    shapeID: 92858781B97238976532983
+    country_name: Malaysia
+  Malaysia_Adm2_89:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Asajaya
+    shapeID: 92858781B82892950401115
+    country_name: Malaysia
+  Malaysia_Adm2_9:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: HuluPerak
+    shapeID: 92858781B35407838405861
+    country_name: Malaysia
+  Malaysia_Adm2_90:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Tebedu
+    shapeID: 92858781B78299501514110
+    country_name: Malaysia
+  Malaysia_Adm2_91:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Serian
+    shapeID: 92858781B75054597710860
+    country_name: Malaysia
+  Malaysia_Adm2_92:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Simunjan
+    shapeID: 92858781B68418840965582
+    country_name: Malaysia
+  Malaysia_Adm2_93:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: SriAman
+    shapeID: 92858781B67044495158935
+    country_name: Malaysia
+  Malaysia_Adm2_94:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Betong
+    shapeID: 92858781B57071016151850
+    country_name: Malaysia
+  Malaysia_Adm2_95:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Pusa
+    shapeID: 92858781B40387139442699
+    country_name: Malaysia
+  Malaysia_Adm2_96:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Saratok
+    shapeID: 92858781B50992839087050
+    country_name: Malaysia
+  Malaysia_Adm2_97:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Kabong
+    shapeID: 92858781B82406813204277
+    country_name: Malaysia
+  Malaysia_Adm2_98:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Sarikei
+    shapeID: 92858781B34394756888936
+    country_name: Malaysia
+  Malaysia_Adm2_99:
+    iso3c: MYS
+    admin_level: Adm2
+    admin_name: Pakan
+    shapeID: 92858781B78593379458192
+    country_name: Malaysia

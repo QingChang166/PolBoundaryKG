@@ -1,375 +1,565 @@
 concepts:
-  AimeliikAdm1PLW:
+  Palau_Adm0:
+    iso3c: PLW
+    admin_level: Adm0
+    admin_name: Palau
+    shapeID: 91809328B67452395039921
+    country_name: Palau
+  Palau_Adm1_1:
+    iso3c: PLW
+    admin_level: Adm1
     admin_name: Aimeliik
-    iso3c: PLW
     shapeID: 51375826B69298749218873
-  AiraiAdm1PLW:
-    admin_name: Airai
+    country_name: Palau
+  Palau_Adm1_10:
     iso3c: PLW
-    shapeID: 51375826B14634142702996
-  AngaurAdm1PLW:
-    admin_name: Angaur
-    iso3c: PLW
-    shapeID: 51375826B68373509078236
-  BadrulchauAdm2PLW:
-    admin_name: Badrulchau
-    iso3c: PLW
-    shapeID: 81905179B80173793972451
-  ChelabAdm2PLW:
-    admin_name: Chelab
-    iso3c: PLW
-    shapeID: 81905179B54071498694988
-  ChollAdm2PLW:
-    admin_name: Choll
-    iso3c: PLW
-    shapeID: 81905179B4066449576994
-  DilongAdm2PLW:
-    admin_name: Dilong
-    iso3c: PLW
-    shapeID: 81905179B74113200519778
-  DimesAdm2PLW:
-    admin_name: Dimes
-    iso3c: PLW
-    shapeID: 81905179B70449898800022
-  DngrongerAdm2PLW:
-    admin_name: Dngronger
-    iso3c: PLW
-    shapeID: 81905179B16593070408987
-  ElechuiAdm2PLW:
-    admin_name: Elechui
-    iso3c: PLW
-    shapeID: 81905179B66234991007705
-  Hatohobei+HelensReefAdm2PLW:
-    admin_name: Hatohobei+HelensReef
-    iso3c: PLW
-    shapeID: 81905179B51306055361001
-  HatohobeiAdm1PLW:
-    admin_name: Hatohobei
-    iso3c: PLW
-    shapeID: 51375826B76455151990264
-  IbobangAdm2PLW:
-    admin_name: Ibobang
-    iso3c: PLW
-    shapeID: 81905179B30151450559542
-  Idid03Adm2PLW:
-    admin_name: Idid03
-    iso3c: PLW
-    shapeID: 81905179B3672705563325
-  IebukelAdm2PLW:
-    admin_name: Iebukel
-    iso3c: PLW
-    shapeID: 81905179B92886188714488
-  IkelauAdm2PLW:
-    admin_name: Ikelau
-    iso3c: PLW
-    shapeID: 81905179B16358514797122
-  ImeongAdm2PLW:
-    admin_name: Imeong
-    iso3c: PLW
-    shapeID: 81905179B35739525053108
-  ImulAdm2PLW:
-    admin_name: Imul
-    iso3c: PLW
-    shapeID: 81905179B52447266125366
-  IyebukelAdm2PLW:
-    admin_name: Iyebukel
-    iso3c: PLW
-    shapeID: 81905179B49247527018285
-  KayangelAdm1PLW:
-    admin_name: Kayangel
-    iso3c: PLW
-    shapeID: 51375826B36601808440460
-  KororAdm1PLW:
-    admin_name: Koror
-    iso3c: PLW
-    shapeID: 51375826B25708098730444
-  MedalaiiAdm2PLW:
-    admin_name: Medalaii
-    iso3c: PLW
-    shapeID: 81905179B66298370942195
-  MedormAdm2PLW:
-    admin_name: Medorm
-    iso3c: PLW
-    shapeID: 81905179B56582984107965
-  MeketiiAdm2PLW:
-    admin_name: Meketii
-    iso3c: PLW
-    shapeID: 81905179B7875466527963
-  MelekeokAdm1PLW:
-    admin_name: Melekeok
-    iso3c: PLW
-    shapeID: 51375826B21693494950446
-  MelekeokAdm2PLW:
-    admin_name: Melekeok
-    iso3c: PLW
-    shapeID: 81905179B96125611766208
-  MengellangAdm2PLW:
-    admin_name: Mengellang
-    iso3c: PLW
-    shapeID: 81905179B37615107776552
-  MeyunsAdm2PLW:
-    admin_name: Meyuns
-    iso3c: PLW
-    shapeID: 81905179B89717668575285
-  NegerubesangAdm2PLW:
-    admin_name: Negerubesang
-    iso3c: PLW
-    shapeID: 81905179B88331309358666
-  NgaraardAdm1PLW:
-    admin_name: Ngaraard
-    iso3c: PLW
-    shapeID: 51375826B48991434772650
-  NgarchelongAdm1PLW:
-    admin_name: Ngarchelong
-    iso3c: PLW
-    shapeID: 51375826B16617280953256
-  NgardmauAdm1PLW:
-    admin_name: Ngardmau
-    iso3c: PLW
-    shapeID: 51375826B95953962908269
-  NgatpangAdm1PLW:
-    admin_name: Ngatpang
-    iso3c: PLW
-    shapeID: 51375826B59587402164376
-  NgatpangAdm2PLW:
-    admin_name: Ngatpang
-    iso3c: PLW
-    shapeID: 81905179B51358963868347
-  NgchemesedAdm2PLW:
-    admin_name: Ngchemesed
-    iso3c: PLW
-    shapeID: 81905179B10873583367862
-  NgchemiangelAdm2PLW:
-    admin_name: Ngchemiangel
-    iso3c: PLW
-    shapeID: 81905179B62716900655722
-  NgchesarAdm1PLW:
-    admin_name: Ngchesar
-    iso3c: PLW
-    shapeID: 51375826B32695076810418
-  NgchesarAdm2PLW:
-    admin_name: Ngchesar
-    iso3c: PLW
-    shapeID: 81905179B12873332240665
-  NgchesechangAdm2PLW:
-    admin_name: Ngchesechang
-    iso3c: PLW
-    shapeID: 81905179B88239301587184
-  NgebeiAdm2PLW:
-    admin_name:
-    - Ngebei
-    - Ngebei
-    iso3c:
-    - PLW
-    - PLW
-    shapeID:
-    - 81905179B67536129813351
-    - 81905179B35974165109386
-  NgebeiangedAdm2PLW:
-    admin_name: Ngebeianged
-    iso3c: PLW
-    shapeID: 81905179B65158388744507
-  NgebukedAdm2PLW:
-    admin_name: Ngebuked
-    iso3c: PLW
-    shapeID: 81905179B15793502543785
-  NgeburchAdm2PLW:
-    admin_name: Ngeburch
-    iso3c: PLW
-    shapeID: 81905179B7917113976902
-  NgeiungelAdm2PLW:
-    admin_name: Ngeiungel
-    iso3c: PLW
-    shapeID: 81905179B59978558639999
-  NgellauAdm2PLW:
-    admin_name: Ngellau
-    iso3c: PLW
-    shapeID: 81905179B11216366066462
-  NgerangAdm2PLW:
-    admin_name: Ngerang
-    iso3c: PLW
-    shapeID: 81905179B33808746946065
-  NgerbauAdm2PLW:
-    admin_name: Ngerbau
-    iso3c: PLW
-    shapeID: 81905179B4441268560543
-  NgerbechedAdm2PLW:
-    admin_name: Ngerbeched
-    iso3c: PLW
-    shapeID: 81905179B6044255110216
-  NgerbelauAdm2PLW:
-    admin_name: Ngerbelau
-    iso3c: PLW
-    shapeID: 81905179B91574201730062
-  NgercheluukAdm2PLW:
-    admin_name: Ngercheluuk
-    iso3c: PLW
-    shapeID: 81905179B58840706611886
-  NgerchemaiAdm2PLW:
-    admin_name: Ngerchemai
-    iso3c: PLW
-    shapeID: 81905179B39054061568345
-  NgercholAdm2PLW:
-    admin_name: Ngerchol
-    iso3c: PLW
-    shapeID: 81905179B42625934985566
-  NgerdelolkAdm2PLW:
-    admin_name: Ngerdelolk
-    iso3c: PLW
-    shapeID: 81905179B51546394317477
-  NgereklengonAdm2PLW:
-    admin_name: Ngereklengon
-    iso3c: PLW
-    shapeID: 81905179B38855830052729
-  NgeremlenguiAdm1PLW:
+    admin_level: Adm1
     admin_name: Ngeremlengui
-    iso3c: PLW
     shapeID: 51375826B6202415756314
-  NgeriungsAdm2PLW:
-    admin_name: Ngeriungs
+    country_name: Palau
+  Palau_Adm1_11:
     iso3c: PLW
-    shapeID: 81905179B87089550714781
-  NgerkeaiAdm2PLW:
-    admin_name: Ngerkeai
+    admin_level: Adm1
+    admin_name: Ngatpang
+    shapeID: 51375826B59587402164376
+    country_name: Palau
+  Palau_Adm1_12:
     iso3c: PLW
-    shapeID: 81905179B59799521808446
-  NgerkebesangAdm2PLW:
-    admin_name: Ngerkebesang
+    admin_level: Adm1
+    admin_name: Ngchesar
+    shapeID: 51375826B32695076810418
+    country_name: Palau
+  Palau_Adm1_13:
     iso3c: PLW
-    shapeID: 81905179B69060738119315
-  NgerkeiuklAdm2PLW:
-    admin_name: Ngerkeiukl
-    iso3c: PLW
-    shapeID: 81905179B11075638716817
-  NgerkesouAdm2PLW:
-    admin_name: Ngerkesou
-    iso3c: PLW
-    shapeID: 81905179B7495119160888
-  NgerkesowaolAdm2PLW:
-    admin_name: Ngerkesowaol
-    iso3c: PLW
-    shapeID: 81905179B86075584623295
-  NgermasechAdm2PLW:
-    admin_name: Ngermasech
-    iso3c: PLW
-    shapeID: 81905179B83677896294556
-  NgermechauAdm2PLW:
-    admin_name: Ngermechau
-    iso3c: PLW
-    shapeID: 81905179B2949458195189
-  NgermelechAdm2PLW:
-    admin_name: Ngermelech
-    iso3c: PLW
-    shapeID: 81905179B18672892914333
-  NgermetengelAdm2PLW:
-    admin_name: Ngermetengel
-    iso3c: PLW
-    shapeID: 81905179B39687877092944
-  NgermidAdm2PLW:
-    admin_name: Ngermid
-    iso3c: PLW
-    shapeID: 81905179B43507284949030
-  NgerngesangAdm2PLW:
-    admin_name: Ngerngesang
-    iso3c: PLW
-    shapeID: 81905179B58942175915190
-  NgersngaiAdm2PLW:
-    admin_name: Ngersngai
-    iso3c: PLW
-    shapeID: 81905179B24146808409811
-  NgersuulAdm2PLW:
-    admin_name: Ngersuul
-    iso3c: PLW
-    shapeID: 81905179B1106200869758
-  NgeruiklAdm2PLW:
-    admin_name: Ngeruikl
-    iso3c: PLW
-    shapeID: 81905179B39182150955379
-  NgeruliangAdm2PLW:
-    admin_name: Ngeruliang
-    iso3c: PLW
-    shapeID: 81905179B10053567804267
-  NgeruluobelAdm2PLW:
-    admin_name: Ngeruluobel
-    iso3c: PLW
-    shapeID: 81905179B90317674654188
-  NgerusarAdm2PLW:
-    admin_name: Ngerusar
-    iso3c: PLW
-    shapeID: 81905179B80003657919374
-  NgerutcheiAdm2PLW:
-    admin_name: Ngerutchei
-    iso3c: PLW
-    shapeID: 81905179B75346360802885
-  NgerutoiAdm2PLW:
-    admin_name: Ngerutoi
-    iso3c: PLW
-    shapeID: 81905179B43294852199533
-  NgesiasAdm2PLW:
-    admin_name: Ngesias
-    iso3c: PLW
-    shapeID: 81905179B61182383580434
-  NgetbongAdm2PLW:
-    admin_name: Ngetbong
-    iso3c: PLW
-    shapeID: 81905179B3509636164924
-  NgetkibAdm2PLW:
-    admin_name: Ngetkib
-    iso3c: PLW
-    shapeID: 81905179B7485238607741
-  NgiwalAdm1PLW:
+    admin_level: Adm1
     admin_name: Ngiwal
-    iso3c: PLW
     shapeID: 51375826B1021187793063
-  NgkeklauAdm2PLW:
-    admin_name: Ngkeklau
+    country_name: Palau
+  Palau_Adm1_14:
     iso3c: PLW
-    shapeID: 81905179B53990233662504
-  OikullAdm2PLW:
-    admin_name: Oikull
-    iso3c: PLW
-    shapeID: 81905179B41520221517607
-  OlleiAdm2PLW:
-    admin_name: Ollei
-    iso3c: PLW
-    shapeID: 81905179B39968712547281
-  OrdomeAdm2PLW:
-    admin_name: Ordome
-    iso3c: PLW
-    shapeID: 81905179B69517244030983
-  PeleliuAdm1PLW:
+    admin_level: Adm1
     admin_name: Peleliu
-    iso3c: PLW
     shapeID: 51375826B83906845617852
-  RockIslandsAdm2PLW:
-    admin_name: RockIslands
+    country_name: Palau
+  Palau_Adm1_15:
     iso3c: PLW
-    shapeID: 81905179B25065420091435
-  RoisAdm2PLW:
-    admin_name: Rois
-    iso3c: PLW
-    shapeID: 81905179B53206837764533
-  Sonsorol+PuloAnna+MerirAdm2PLW:
-    admin_name: Sonsorol+PuloAnna+Merir
-    iso3c: PLW
-    shapeID: 81905179B53327233030313
-  SonsorolAdm1PLW:
+    admin_level: Adm1
     admin_name: Sonsorol
-    iso3c: PLW
     shapeID: 51375826B80300454073965
-  TeliuAdm2PLW:
-    admin_name: Teliu
+    country_name: Palau
+  Palau_Adm1_16:
     iso3c: PLW
-    shapeID: 81905179B53694522517045
-  UkaebAdm2PLW:
+    admin_level: Adm1
+    admin_name: Kayangel
+    shapeID: 51375826B36601808440460
+    country_name: Palau
+  Palau_Adm1_2:
+    iso3c: PLW
+    admin_level: Adm1
+    admin_name: Airai
+    shapeID: 51375826B14634142702996
+    country_name: Palau
+  Palau_Adm1_3:
+    iso3c: PLW
+    admin_level: Adm1
+    admin_name: Angaur
+    shapeID: 51375826B68373509078236
+    country_name: Palau
+  Palau_Adm1_4:
+    iso3c: PLW
+    admin_level: Adm1
+    admin_name: Hatohobei
+    shapeID: 51375826B76455151990264
+    country_name: Palau
+  Palau_Adm1_5:
+    iso3c: PLW
+    admin_level: Adm1
+    admin_name: Koror
+    shapeID: 51375826B25708098730444
+    country_name: Palau
+  Palau_Adm1_6:
+    iso3c: PLW
+    admin_level: Adm1
+    admin_name: Melekeok
+    shapeID: 51375826B21693494950446
+    country_name: Palau
+  Palau_Adm1_7:
+    iso3c: PLW
+    admin_level: Adm1
+    admin_name: Ngaraard
+    shapeID: 51375826B48991434772650
+    country_name: Palau
+  Palau_Adm1_8:
+    iso3c: PLW
+    admin_level: Adm1
+    admin_name: Ngarchelong
+    shapeID: 51375826B16617280953256
+    country_name: Palau
+  Palau_Adm1_9:
+    iso3c: PLW
+    admin_level: Adm1
+    admin_name: Ngardmau
+    shapeID: 51375826B95953962908269
+    country_name: Palau
+  Palau_Adm2_1:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngchemiangel
+    shapeID: 81905179B62716900655722
+    country_name: Palau
+  Palau_Adm2_10:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Oikull
+    shapeID: 81905179B41520221517607
+    country_name: Palau
+  Palau_Adm2_11:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngchesechang
+    shapeID: 81905179B88239301587184
+    country_name: Palau
+  Palau_Adm2_12:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Rois
+    shapeID: 81905179B53206837764533
+    country_name: Palau
+  Palau_Adm2_13:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngebeianged
+    shapeID: 81905179B65158388744507
+    country_name: Palau
+  Palau_Adm2_14:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngermasech
+    shapeID: 81905179B83677896294556
+    country_name: Palau
+  Palau_Adm2_15:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerbelau
+    shapeID: 81905179B91574201730062
+    country_name: Palau
+  Palau_Adm2_16:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Hatohobei+HelensReef
+    shapeID: 81905179B51306055361001
+    country_name: Palau
+  Palau_Adm2_17:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Dimes
+    shapeID: 81905179B70449898800022
+    country_name: Palau
+  Palau_Adm2_18:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Dilong
+    shapeID: 81905179B74113200519778
+    country_name: Palau
+  Palau_Adm2_19:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngeburch
+    shapeID: 81905179B7917113976902
+    country_name: Palau
+  Palau_Adm2_2:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Medorm
+    shapeID: 81905179B56582984107965
+    country_name: Palau
+  Palau_Adm2_20:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngeruliang
+    shapeID: 81905179B10053567804267
+    country_name: Palau
+  Palau_Adm2_21:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngermelech
+    shapeID: 81905179B18672892914333
+    country_name: Palau
+  Palau_Adm2_22:
+    iso3c: PLW
+    admin_level: Adm2
     admin_name: Ukaeb
-    iso3c: PLW
     shapeID: 81905179B87979542082634
-  UlimangAdm2PLW:
+    country_name: Palau
+  Palau_Adm2_23:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerang
+    shapeID: 81905179B33808746946065
+    country_name: Palau
+  Palau_Adm2_24:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Negerubesang
+    shapeID: 81905179B88331309358666
+    country_name: Palau
+  Palau_Adm2_25:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Melekeok
+    shapeID: 81905179B96125611766208
+    country_name: Palau
+  Palau_Adm2_26:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Chelab
+    shapeID: 81905179B54071498694988
+    country_name: Palau
+  Palau_Adm2_27:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Choll
+    shapeID: 81905179B4066449576994
+    country_name: Palau
+  Palau_Adm2_28:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngebuked
+    shapeID: 81905179B15793502543785
+    country_name: Palau
+  Palau_Adm2_29:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngkeklau
+    shapeID: 81905179B53990233662504
+    country_name: Palau
+  Palau_Adm2_3:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Elechui
+    shapeID: 81905179B66234991007705
+    country_name: Palau
+  Palau_Adm2_30:
+    iso3c: PLW
+    admin_level: Adm2
     admin_name: Ulimang
-    iso3c: PLW
     shapeID: 81905179B13988178862867
-  UrdmauAdm2PLW:
-    admin_name: Urdmau
+    country_name: Palau
+  Palau_Adm2_31:
     iso3c: PLW
+    admin_level: Adm2
+    admin_name: Iebukel
+    shapeID: 81905179B92886188714488
+    country_name: Palau
+  Palau_Adm2_32:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Mengellang
+    shapeID: 81905179B37615107776552
+    country_name: Palau
+  Palau_Adm2_33:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngebei
+    shapeID: 81905179B67536129813351
+    country_name: Palau
+  Palau_Adm2_34:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerbau
+    shapeID: 81905179B4441268560543
+    country_name: Palau
+  Palau_Adm2_35:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngebei
+    shapeID: 81905179B35974165109386
+    country_name: Palau
+  Palau_Adm2_36:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ollei
+    shapeID: 81905179B39968712547281
+    country_name: Palau
+  Palau_Adm2_37:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngeiungel
+    shapeID: 81905179B59978558639999
+    country_name: Palau
+  Palau_Adm2_38:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Badrulchau
+    shapeID: 81905179B80173793972451
+    country_name: Palau
+  Palau_Adm2_39:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerutoi
+    shapeID: 81905179B43294852199533
+    country_name: Palau
+  Palau_Adm2_4:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerkeai
+    shapeID: 81905179B59799521808446
+    country_name: Palau
+  Palau_Adm2_40:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngetbong
+    shapeID: 81905179B3509636164924
+    country_name: Palau
+  Palau_Adm2_41:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Urdmau
     shapeID: 81905179B21109401244182
+    country_name: Palau
+  Palau_Adm2_42:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Imeong
+    shapeID: 81905179B35739525053108
+    country_name: Palau
+  Palau_Adm2_43:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngchemesed
+    shapeID: 81905179B10873583367862
+    country_name: Palau
+  Palau_Adm2_44:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngermetengel
+    shapeID: 81905179B39687877092944
+    country_name: Palau
+  Palau_Adm2_45:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngereklengon
+    shapeID: 81905179B38855830052729
+    country_name: Palau
+  Palau_Adm2_46:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerutchei
+    shapeID: 81905179B75346360802885
+    country_name: Palau
+  Palau_Adm2_47:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngatpang
+    shapeID: 81905179B51358963868347
+    country_name: Palau
+  Palau_Adm2_48:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ibobang
+    shapeID: 81905179B30151450559542
+    country_name: Palau
+  Palau_Adm2_49:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngchesar
+    shapeID: 81905179B12873332240665
+    country_name: Palau
+  Palau_Adm2_5:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Imul
+    shapeID: 81905179B52447266125366
+    country_name: Palau
+  Palau_Adm2_50:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngeriungs
+    shapeID: 81905179B87089550714781
+    country_name: Palau
+  Palau_Adm2_51:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerngesang
+    shapeID: 81905179B58942175915190
+    country_name: Palau
+  Palau_Adm2_52:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerkesou
+    shapeID: 81905179B7495119160888
+    country_name: Palau
+  Palau_Adm2_53:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngersuul
+    shapeID: 81905179B1106200869758
+    country_name: Palau
+  Palau_Adm2_54:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngeruikl
+    shapeID: 81905179B39182150955379
+    country_name: Palau
+  Palau_Adm2_55:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngellau
+    shapeID: 81905179B11216366066462
+    country_name: Palau
+  Palau_Adm2_56:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngercheluuk
+    shapeID: 81905179B58840706611886
+    country_name: Palau
+  Palau_Adm2_57:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngermechau
+    shapeID: 81905179B2949458195189
+    country_name: Palau
+  Palau_Adm2_58:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngersngai
+    shapeID: 81905179B24146808409811
+    country_name: Palau
+  Palau_Adm2_59:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerdelolk
+    shapeID: 81905179B51546394317477
+    country_name: Palau
+  Palau_Adm2_6:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ordome
+    shapeID: 81905179B69517244030983
+    country_name: Palau
+  Palau_Adm2_60:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngesias
+    shapeID: 81905179B61182383580434
+    country_name: Palau
+  Palau_Adm2_61:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerchol
+    shapeID: 81905179B42625934985566
+    country_name: Palau
+  Palau_Adm2_62:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerkeiukl
+    shapeID: 81905179B11075638716817
+    country_name: Palau
+  Palau_Adm2_63:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Teliu
+    shapeID: 81905179B53694522517045
+    country_name: Palau
+  Palau_Adm2_64:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Sonsorol+PuloAnna+Merir
+    shapeID: 81905179B53327233030313
+    country_name: Palau
+  Palau_Adm2_65:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerkesowaol
+    shapeID: 81905179B86075584623295
+    country_name: Palau
+  Palau_Adm2_66:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerbeched
+    shapeID: 81905179B6044255110216
+    country_name: Palau
+  Palau_Adm2_67:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Iyebukel
+    shapeID: 81905179B49247527018285
+    country_name: Palau
+  Palau_Adm2_68:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Meketii
+    shapeID: 81905179B7875466527963
+    country_name: Palau
+  Palau_Adm2_69:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Medalaii
+    shapeID: 81905179B66298370942195
+    country_name: Palau
+  Palau_Adm2_7:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerusar
+    shapeID: 81905179B80003657919374
+    country_name: Palau
+  Palau_Adm2_70:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Idid03
+    shapeID: 81905179B3672705563325
+    country_name: Palau
+  Palau_Adm2_71:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ikelau
+    shapeID: 81905179B16358514797122
+    country_name: Palau
+  Palau_Adm2_72:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerchemai
+    shapeID: 81905179B39054061568345
+    country_name: Palau
+  Palau_Adm2_73:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Meyuns
+    shapeID: 81905179B89717668575285
+    country_name: Palau
+  Palau_Adm2_74:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Dngronger
+    shapeID: 81905179B16593070408987
+    country_name: Palau
+  Palau_Adm2_75:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngermid
+    shapeID: 81905179B43507284949030
+    country_name: Palau
+  Palau_Adm2_76:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngerkebesang
+    shapeID: 81905179B69060738119315
+    country_name: Palau
+  Palau_Adm2_77:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: RockIslands
+    shapeID: 81905179B25065420091435
+    country_name: Palau
+  Palau_Adm2_8:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngeruluobel
+    shapeID: 81905179B90317674654188
+    country_name: Palau
+  Palau_Adm2_9:
+    iso3c: PLW
+    admin_level: Adm2
+    admin_name: Ngetkib
+    shapeID: 81905179B7485238607741
+    country_name: Palau

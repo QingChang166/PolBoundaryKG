@@ -1,201 +1,301 @@
 concepts:
-  BeratAdm1ALB:
-    admin_name: Berat
+  Albania_Adm0:
     iso3c: ALB
+    admin_level: Adm0
+    admin_name: Albania
+    shapeID: 44221866B69788583743431
+    country_name: Albania
+  Albania_Adm1_1:
+    iso3c: ALB
+    admin_level: Adm1
+    admin_name: Berat
     shapeID: 10019604B1094996199402
-  BeratAdm2ALB:
-    admin_name: Berat
+    country_name: Albania
+  Albania_Adm1_10:
     iso3c: ALB
-    shapeID: 67620474B3220488890929
-  BulqizëAdm2ALB:
-    admin_name: Bulqizë
-    iso3c: ALB
-    shapeID: 67620474B60153855067708
-  DelvinëAdm2ALB:
-    admin_name: Delvinë
-    iso3c: ALB
-    shapeID: 67620474B1879164611880
-  DevollAdm2ALB:
-    admin_name: Devoll
-    iso3c: ALB
-    shapeID: 67620474B41402008781007
-  DibërAdm1ALB:
-    admin_name: Dibër
-    iso3c: ALB
-    shapeID: 10019604B38416360860341
-  DibërAdm2ALB:
-    admin_name: Dibër
-    iso3c: ALB
-    shapeID: 67620474B73468897065558
-  DurrësAdm1ALB:
-    admin_name: Durrës
-    iso3c: ALB
-    shapeID: 10019604B56812167051250
-  DurrësAdm2ALB:
-    admin_name: Durrës
-    iso3c: ALB
-    shapeID: 67620474B45959085094100
-  ElbasanAdm1ALB:
-    admin_name: Elbasan
-    iso3c: ALB
-    shapeID: 10019604B8832247678249
-  ElbasanAdm2ALB:
-    admin_name: Elbasan
-    iso3c: ALB
-    shapeID: 67620474B34590160208903
-  FierAdm1ALB:
-    admin_name: Fier
-    iso3c: ALB
-    shapeID: 10019604B18588012879070
-  FierAdm2ALB:
-    admin_name: Fier
-    iso3c: ALB
-    shapeID: 67620474B94080737422449
-  GjirokastërAdm1ALB:
-    admin_name: Gjirokastër
-    iso3c: ALB
-    shapeID: 10019604B29738820438867
-  GjirokastërAdm2ALB:
-    admin_name: Gjirokastër
-    iso3c: ALB
-    shapeID: 67620474B28188595050305
-  GramshAdm2ALB:
-    admin_name: Gramsh
-    iso3c: ALB
-    shapeID: 67620474B60363170083379
-  HasAdm2ALB:
-    admin_name: Has
-    iso3c: ALB
-    shapeID: 67620474B51228836218093
-  KavajëAdm2ALB:
-    admin_name: Kavajë
-    iso3c: ALB
-    shapeID: 67620474B5524789266710
-  KolonjëAdm2ALB:
-    admin_name: Kolonjë
-    iso3c: ALB
-    shapeID: 67620474B91947048364679
-  KorçëAdm1ALB:
-    admin_name: Korçë
-    iso3c: ALB
-    shapeID: 10019604B11091570243697
-  KrujëAdm2ALB:
-    admin_name: Krujë
-    iso3c: ALB
-    shapeID: 67620474B91291617478666
-  KuçovëAdm2ALB:
-    admin_name:
-    - Kuçovë
-    - Kuçovë
-    iso3c:
-    - ALB
-    - ALB
-    shapeID:
-    - 67620474B36949901982284
-    - 67620474B90792074310011
-  KukësAdm1ALB:
-    admin_name: Kukës
-    iso3c: ALB
-    shapeID: 10019604B40645538692706
-  KukësAdm2ALB:
-    admin_name: Kukës
-    iso3c: ALB
-    shapeID: 67620474B92464717887955
-  KurbinAdm2ALB:
-    admin_name: Kurbin
-    iso3c: ALB
-    shapeID: 67620474B66777869203493
-  LezhëAdm1ALB:
-    admin_name: Lezhë
-    iso3c: ALB
-    shapeID: 10019604B99204019868502
-  LezhëAdm2ALB:
-    admin_name: Lezhë
-    iso3c: ALB
-    shapeID: 67620474B20431026689517
-  LibrazhdAdm2ALB:
-    admin_name: Librazhd
-    iso3c: ALB
-    shapeID: 67620474B87569046172350
-  LushnjëAdm2ALB:
-    admin_name: Lushnjë
-    iso3c: ALB
-    shapeID: 67620474B73435711419495
-  MalësieMadheAdm2ALB:
-    admin_name: MalësieMadhe
-    iso3c: ALB
-    shapeID: 67620474B62137861373373
-  MallakastërAdm2ALB:
-    admin_name: Mallakastër
-    iso3c: ALB
-    shapeID: 67620474B72354996665991
-  MatAdm2ALB:
-    admin_name: Mat
-    iso3c: ALB
-    shapeID: 67620474B55788488782298
-  MirditëAdm2ALB:
-    admin_name: Mirditë
-    iso3c: ALB
-    shapeID: 67620474B99888539945274
-  PeqinAdm2ALB:
-    admin_name: Peqin
-    iso3c: ALB
-    shapeID: 67620474B93113119561724
-  PërmetAdm2ALB:
-    admin_name: Përmet
-    iso3c: ALB
-    shapeID: 67620474B23103740146981
-  PogradecAdm2ALB:
-    admin_name: Pogradec
-    iso3c: ALB
-    shapeID: 67620474B77805918454880
-  PukëAdm2ALB:
-    admin_name: Pukë
-    iso3c: ALB
-    shapeID: 67620474B73280275449109
-  SarandëAdm2ALB:
-    admin_name: Sarandë
-    iso3c: ALB
-    shapeID: 67620474B70468291702657
-  ShkodërAdm1ALB:
+    admin_level: Adm1
     admin_name: Shkodër
-    iso3c: ALB
     shapeID: 10019604B9428140626415
-  ShkodërAdm2ALB:
-    admin_name: Shkodër
+    country_name: Albania
+  Albania_Adm1_11:
     iso3c: ALB
-    shapeID: 67620474B15717375113052
-  SkraparAdm2ALB:
-    admin_name: Skrapar
-    iso3c: ALB
-    shapeID: 67620474B62055143354216
-  TepelenëAdm2ALB:
-    admin_name: Tepelenë
-    iso3c: ALB
-    shapeID: 67620474B25662331989090
-  TiranëAdm1ALB:
+    admin_level: Adm1
     admin_name: Tiranë
-    iso3c: ALB
     shapeID: 10019604B30424798991477
-  TiranëAdm2ALB:
-    admin_name: Tiranë
+    country_name: Albania
+  Albania_Adm1_12:
     iso3c: ALB
-    shapeID: 67620474B90997304428465
-  TropojëAdm2ALB:
-    admin_name: Tropojë
-    iso3c: ALB
-    shapeID: 67620474B51082079967557
-  VlorëAdm1ALB:
+    admin_level: Adm1
     admin_name: Vlorë
-    iso3c: ALB
     shapeID: 10019604B59649873769490
-  VlorëAdm2ALB:
-    admin_name:
-    - Vlorë
-    - Vlorë
-    iso3c:
-    - ALB
-    - ALB
-    shapeID:
-    - 67620474B72762453157270
-    - 67620474B93518338354482
+    country_name: Albania
+  Albania_Adm1_2:
+    iso3c: ALB
+    admin_level: Adm1
+    admin_name: Dibër
+    shapeID: 10019604B38416360860341
+    country_name: Albania
+  Albania_Adm1_3:
+    iso3c: ALB
+    admin_level: Adm1
+    admin_name: Durrës
+    shapeID: 10019604B56812167051250
+    country_name: Albania
+  Albania_Adm1_4:
+    iso3c: ALB
+    admin_level: Adm1
+    admin_name: Elbasan
+    shapeID: 10019604B8832247678249
+    country_name: Albania
+  Albania_Adm1_5:
+    iso3c: ALB
+    admin_level: Adm1
+    admin_name: Fier
+    shapeID: 10019604B18588012879070
+    country_name: Albania
+  Albania_Adm1_6:
+    iso3c: ALB
+    admin_level: Adm1
+    admin_name: Gjirokastër
+    shapeID: 10019604B29738820438867
+    country_name: Albania
+  Albania_Adm1_7:
+    iso3c: ALB
+    admin_level: Adm1
+    admin_name: Korçë
+    shapeID: 10019604B11091570243697
+    country_name: Albania
+  Albania_Adm1_8:
+    iso3c: ALB
+    admin_level: Adm1
+    admin_name: Kukës
+    shapeID: 10019604B40645538692706
+    country_name: Albania
+  Albania_Adm1_9:
+    iso3c: ALB
+    admin_level: Adm1
+    admin_name: Lezhë
+    shapeID: 10019604B99204019868502
+    country_name: Albania
+  Albania_Adm2_1:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: MalësieMadhe
+    shapeID: 67620474B62137861373373
+    country_name: Albania
+  Albania_Adm2_10:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Mat
+    shapeID: 67620474B55788488782298
+    country_name: Albania
+  Albania_Adm2_11:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Dibër
+    shapeID: 67620474B73468897065558
+    country_name: Albania
+  Albania_Adm2_12:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Bulqizë
+    shapeID: 67620474B60153855067708
+    country_name: Albania
+  Albania_Adm2_13:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Krujë
+    shapeID: 67620474B91291617478666
+    country_name: Albania
+  Albania_Adm2_14:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Tiranë
+    shapeID: 67620474B90997304428465
+    country_name: Albania
+  Albania_Adm2_15:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Durrës
+    shapeID: 67620474B45959085094100
+    country_name: Albania
+  Albania_Adm2_16:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Kavajë
+    shapeID: 67620474B5524789266710
+    country_name: Albania
+  Albania_Adm2_17:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Peqin
+    shapeID: 67620474B93113119561724
+    country_name: Albania
+  Albania_Adm2_18:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Elbasan
+    shapeID: 67620474B34590160208903
+    country_name: Albania
+  Albania_Adm2_19:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Lushnjë
+    shapeID: 67620474B73435711419495
+    country_name: Albania
+  Albania_Adm2_2:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Pukë
+    shapeID: 67620474B73280275449109
+    country_name: Albania
+  Albania_Adm2_20:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Fier
+    shapeID: 67620474B94080737422449
+    country_name: Albania
+  Albania_Adm2_21:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Kuçovë
+    shapeID: 67620474B36949901982284
+    country_name: Albania
+  Albania_Adm2_22:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Berat
+    shapeID: 67620474B3220488890929
+    country_name: Albania
+  Albania_Adm2_23:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Mallakastër
+    shapeID: 67620474B72354996665991
+    country_name: Albania
+  Albania_Adm2_24:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Librazhd
+    shapeID: 67620474B87569046172350
+    country_name: Albania
+  Albania_Adm2_25:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Pogradec
+    shapeID: 67620474B77805918454880
+    country_name: Albania
+  Albania_Adm2_26:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Gramsh
+    shapeID: 67620474B60363170083379
+    country_name: Albania
+  Albania_Adm2_27:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Kuçovë
+    shapeID: 67620474B90792074310011
+    country_name: Albania
+  Albania_Adm2_28:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Devoll
+    shapeID: 67620474B41402008781007
+    country_name: Albania
+  Albania_Adm2_29:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Kolonjë
+    shapeID: 67620474B91947048364679
+    country_name: Albania
+  Albania_Adm2_3:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Has
+    shapeID: 67620474B51228836218093
+    country_name: Albania
+  Albania_Adm2_30:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Skrapar
+    shapeID: 67620474B62055143354216
+    country_name: Albania
+  Albania_Adm2_31:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Përmet
+    shapeID: 67620474B23103740146981
+    country_name: Albania
+  Albania_Adm2_32:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Tepelenë
+    shapeID: 67620474B25662331989090
+    country_name: Albania
+  Albania_Adm2_33:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Gjirokastër
+    shapeID: 67620474B28188595050305
+    country_name: Albania
+  Albania_Adm2_34:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Delvinë
+    shapeID: 67620474B1879164611880
+    country_name: Albania
+  Albania_Adm2_35:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Sarandë
+    shapeID: 67620474B70468291702657
+    country_name: Albania
+  Albania_Adm2_36:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Vlorë
+    shapeID: 67620474B72762453157270
+    country_name: Albania
+  Albania_Adm2_37:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Vlorë
+    shapeID: 67620474B93518338354482
+    country_name: Albania
+  Albania_Adm2_4:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Kukës
+    shapeID: 67620474B92464717887955
+    country_name: Albania
+  Albania_Adm2_5:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Lezhë
+    shapeID: 67620474B20431026689517
+    country_name: Albania
+  Albania_Adm2_6:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Shkodër
+    shapeID: 67620474B15717375113052
+    country_name: Albania
+  Albania_Adm2_7:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Tropojë
+    shapeID: 67620474B51082079967557
+    country_name: Albania
+  Albania_Adm2_8:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Mirditë
+    shapeID: 67620474B99888539945274
+    country_name: Albania
+  Albania_Adm2_9:
+    iso3c: ALB
+    admin_level: Adm2
+    admin_name: Kurbin
+    shapeID: 67620474B66777869203493
+    country_name: Albania

@@ -1,749 +1,1129 @@
 concepts:
-  AltamiraAdm2DOM:
-    admin_name: Altamira
-    iso3c: DOM
-    shapeID: 3306468B71353623072064
-  ArenosoAdm2DOM:
-    admin_name: Arenoso
-    iso3c: DOM
-    shapeID: 3306468B79017025460716
-  AzuaAdm1DOM:
-    admin_name: Azua
-    iso3c: DOM
-    shapeID: 93820187B58475630368990
-  AzuadeCompostelaAdm2DOM:
-    admin_name: AzuadeCompostela
-    iso3c: DOM
-    shapeID: 3306468B66909438647260
-  BahorucoAdm1DOM:
-    admin_name: Bahoruco
-    iso3c: DOM
-    shapeID: 93820187B31673622475180
-  BajosdeHainaAdm2DOM:
-    admin_name: BajosdeHaina
-    iso3c: DOM
-    shapeID: 3306468B44390196227357
-  BaníAdm2DOM:
-    admin_name: Baní
-    iso3c: DOM
-    shapeID: 3306468B54911085338541
-  BanicaAdm2DOM:
-    admin_name: Banica
-    iso3c: DOM
-    shapeID: 3306468B73916150464178
-  BarahonaAdm1DOM:
-    admin_name: Barahona
-    iso3c: DOM
-    shapeID: 93820187B41996677752574
-  BayaguanaAdm2DOM:
-    admin_name: Bayaguana
-    iso3c: DOM
-    shapeID: 3306468B72895662483472
-  BocaChicaAdm2DOM:
-    admin_name: BocaChica
-    iso3c: DOM
-    shapeID: 3306468B37182555728177
-  BohechioAdm2DOM:
-    admin_name: Bohechio
-    iso3c: DOM
-    shapeID: 3306468B96171292047706
-  BonaoAdm2DOM:
-    admin_name: Bonao
-    iso3c: DOM
-    shapeID: 3306468B55753848240652
-  CabralAdm2DOM:
-    admin_name: Cabral
-    iso3c: DOM
-    shapeID: 3306468B71944669665179
-  CabreraAdm2DOM:
-    admin_name: Cabrera
-    iso3c: DOM
-    shapeID: 3306468B70752003572919
-  CambitaGarabitoAdm2DOM:
-    admin_name: CambitaGarabito
-    iso3c: DOM
-    shapeID: 3306468B64395738690475
-  CastañuelaAdm2DOM:
-    admin_name: Castañuela
-    iso3c: DOM
-    shapeID: 3306468B38935954737927
-  CastilloAdm2DOM:
-    admin_name: Castillo
-    iso3c: DOM
-    shapeID: 3306468B31891639272972
-  CayetanoGermosénAdm2DOM:
-    admin_name: CayetanoGermosén
-    iso3c: DOM
-    shapeID: 3306468B9406738878397
-  CevicosAdm2DOM:
-    admin_name: Cevicos
-    iso3c: DOM
-    shapeID: 3306468B8786854663218
-  ComendadorAdm2DOM:
-    admin_name: Comendador
-    iso3c: DOM
-    shapeID: 3306468B70878351440693
-  ConcepcióndelaVegaAdm2DOM:
-    admin_name: ConcepcióndelaVega
-    iso3c: DOM
-    shapeID: 3306468B4333912279461
-  ConstanzaAdm2DOM:
-    admin_name: Constanza
-    iso3c: DOM
-    shapeID: 3306468B51834332245466
-  ConsueloAdm2DOM:
-    admin_name: Consuelo
-    iso3c: DOM
-    shapeID: 3306468B14471946980605
-  CotuíAdm2DOM:
-    admin_name: Cotuí
-    iso3c: DOM
-    shapeID: 3306468B72281596552802
-  CristobalAdm2DOM:
-    admin_name: Cristobal
-    iso3c: DOM
-    shapeID: 3306468B18266835565764
-  DajabónAdm1DOM:
-    admin_name: Dajabón
-    iso3c: DOM
-    shapeID: 93820187B37734861430686
-  DajabónAdm2DOM:
-    admin_name: Dajabón
-    iso3c: DOM
-    shapeID: 3306468B69873779257439
-  DistritoNacionalAdm1DOM:
-    admin_name: DistritoNacional
-    iso3c: DOM
-    shapeID: 93820187B18367237384541
-  DistritoNacionalAdm2DOM:
-    admin_name: DistritoNacional
-    iso3c: DOM
-    shapeID: 3306468B63097535879723
-  DuarteAdm1DOM:
-    admin_name: Duarte
-    iso3c: DOM
-    shapeID: 93820187B82172394786860
-  DuvergéAdm2DOM:
-    admin_name: Duvergé
-    iso3c: DOM
-    shapeID: 3306468B24836928118485
-  ElCercadoAdm2DOM:
-    admin_name: ElCercado
-    iso3c: DOM
-    shapeID: 3306468B41168482841480
-  ElFactorAdm2DOM:
-    admin_name: ElFactor
-    iso3c: DOM
-    shapeID: 3306468B48172399013768
-  ElLlanoAdm2DOM:
-    admin_name: ElLlano
-    iso3c: DOM
-    shapeID: 3306468B67891946517614
-  ElPeñónAdm2DOM:
-    admin_name: ElPeñón
-    iso3c: DOM
-    shapeID: 3306468B33115506281893
-  ElPinoAdm2DOM:
-    admin_name: ElPino
-    iso3c: DOM
-    shapeID: 3306468B80571164490310
-  ElSeyboAdm1DOM:
-    admin_name: ElSeybo
-    iso3c: DOM
-    shapeID: 93820187B40453874964938
-  ElValleAdm2DOM:
-    admin_name: ElValle
-    iso3c: DOM
-    shapeID: 3306468B49446780717545
-  EnriquilloAdm2DOM:
-    admin_name: Enriquillo
-    iso3c: DOM
-    shapeID: 3306468B23311881925490
-  EspaillatAdm1DOM:
-    admin_name: Espaillat
-    iso3c: DOM
-    shapeID: 93820187B79517068656032
-  EsperalvilloAdm2DOM:
-    admin_name: Esperalvillo
-    iso3c: DOM
-    shapeID: 3306468B42523335746622
-  EsperanzaAdm2DOM:
-    admin_name: Esperanza
-    iso3c: DOM
-    shapeID: 3306468B62426802090355
-  EstebaniaAdm2DOM:
-    admin_name: Estebania
-    iso3c: DOM
-    shapeID: 3306468B97025454858192
-  FantinoAdm2DOM:
-    admin_name: Fantino
-    iso3c: DOM
-    shapeID: 3306468B63590922856333
-  FundaciónAdm2DOM:
-    admin_name: Fundación
-    iso3c: DOM
-    shapeID: 3306468B48518895695140
-  GalvanAdm2DOM:
-    admin_name: Galvan
-    iso3c: DOM
-    shapeID: 3306468B84487207746542
-  GasparHernándezAdm2DOM:
-    admin_name: GasparHernández
-    iso3c: DOM
-    shapeID: 3306468B76468188202077
-  GuananicoAdm2DOM:
-    admin_name: Guananico
-    iso3c: DOM
-    shapeID: 3306468B53789709824921
-  GuayabalAdm2DOM:
-    admin_name: Guayabal
-    iso3c: DOM
-    shapeID: 3306468B24687357743066
-  GuayacanesAdm2DOM:
-    admin_name: Guayacanes
-    iso3c: DOM
-    shapeID: 3306468B17793693444976
-  GuaymateAdm2DOM:
-    admin_name: Guaymate
-    iso3c: DOM
-    shapeID: 3306468B11940370524112
-  GuayubínAdm2DOM:
-    admin_name: Guayubín
-    iso3c: DOM
-    shapeID: 3306468B33320306044259
-  GuerraAdm2DOM:
-    admin_name: Guerra
-    iso3c: DOM
-    shapeID: 3306468B94493131963400
-  HatoMayorAdm1DOM:
-    admin_name: HatoMayor
-    iso3c: DOM
-    shapeID: 93820187B87609756624505
-  HatoMayordelReyAdm2DOM:
-    admin_name: HatoMayordelRey
-    iso3c: DOM
-    shapeID: 3306468B72856581619047
-  HermanasAdm1DOM:
-    admin_name: Hermanas
-    iso3c: DOM
-    shapeID: 93820187B43347843561572
-  HondoValleAdm2DOM:
-    admin_name: HondoValle
-    iso3c: DOM
-    shapeID: 3306468B67030502759571
-  HostosAdm2DOM:
-    admin_name: Hostos
-    iso3c: DOM
-    shapeID: 3306468B93342772649109
-  ImbertAdm2DOM:
-    admin_name: Imbert
-    iso3c: DOM
-    shapeID: 3306468B41298949605028
-  IndependenciaAdm1DOM:
-    admin_name: Independencia
-    iso3c: DOM
-    shapeID: 93820187B47565163984981
-  JamaoalNorteAdm2DOM:
-    admin_name: JamaoalNorte
-    iso3c: DOM
-    shapeID: 3306468B95520457943603
-  JanicoAdm2DOM:
-    admin_name: Janico
-    iso3c: DOM
-    shapeID: 3306468B30631228592753
-  JaquimeyesAdm2DOM:
-    admin_name: Jaquimeyes
-    iso3c: DOM
-    shapeID: 3306468B18666570412255
-  JarabacoaAdm2DOM:
-    admin_name: Jarabacoa
-    iso3c: DOM
-    shapeID: 3306468B89107795210133
-  JimaAbajoAdm2DOM:
-    admin_name: JimaAbajo
-    iso3c: DOM
-    shapeID: 3306468B99813204721250
-  JimaníAdm2DOM:
-    admin_name: Jimaní
-    iso3c: DOM
-    shapeID: 3306468B8700472779567
-  JuandeHerreraAdm2DOM:
-    admin_name: JuandeHerrera
-    iso3c: DOM
-    shapeID: 3306468B17512962237330
-  JuanSantiagoAdm2DOM:
-    admin_name: JuanSantiago
-    iso3c: DOM
-    shapeID: 3306468B19325324705004
-  LaAltagraciaAdm1DOM:
-    admin_name: LaAltagracia
-    iso3c: DOM
-    shapeID: 93820187B39859379805868
-  LaCienagaAdm2DOM:
-    admin_name: LaCienaga
-    iso3c: DOM
-    shapeID: 3306468B5550416760665
-  LaDescubiertaAdm2DOM:
-    admin_name: LaDescubierta
-    iso3c: DOM
-    shapeID: 3306468B88446063992156
-  LaEstrelletaAdm1DOM:
-    admin_name: LaEstrelleta
-    iso3c: DOM
-    shapeID: 93820187B70498401931302
-  LagunaSaladaAdm2DOM:
-    admin_name: LagunaSalada
-    iso3c: DOM
-    shapeID: 3306468B11652899938830
-  LaIsabelaAdm2DOM:
-    admin_name: LaIsabela
-    iso3c: DOM
-    shapeID: 3306468B2817273614412
-  LaLagunadeNisibónAdm2DOM:
-    admin_name: LaLagunadeNisibón
-    iso3c: DOM
-    shapeID: 3306468B28180088914928
-  LaMataAdm2DOM:
-    admin_name: LaMata
-    iso3c: DOM
-    shapeID: 3306468B26306333639139
-  LaRomanaAdm1DOM:
-    admin_name: LaRomana
-    iso3c: DOM
-    shapeID: 93820187B35454462701697
-  LaRomanaAdm2DOM:
-    admin_name: LaRomana
-    iso3c: DOM
-    shapeID: 3306468B23578023399759
-  LasCharcasAdm2DOM:
-    admin_name: LasCharcas
-    iso3c: DOM
-    shapeID: 3306468B70810914734022
-  LasGuaranasAdm2DOM:
-    admin_name: LasGuaranas
-    iso3c: DOM
-    shapeID: 3306468B34554561821271
-  LasMatasdeFarfanAdm2DOM:
-    admin_name: LasMatasdeFarfan
-    iso3c: DOM
-    shapeID: 3306468B58611223630856
-  LasMatasdeSantaCruzAdm2DOM:
-    admin_name: LasMatasdeSantaCruz
-    iso3c: DOM
-    shapeID: 3306468B23054065948148
-  LasSalinasAdm2DOM:
-    admin_name: LasSalinas
-    iso3c: DOM
-    shapeID: 3306468B53490324555446
-  LasTerrenasAdm2DOM:
-    admin_name: LasTerrenas
-    iso3c: DOM
-    shapeID: 3306468B40985088538713
-  LasYayasdeViajamaAdm2DOM:
-    admin_name: LasYayasdeViajama
-    iso3c: DOM
-    shapeID: 3306468B57328361484840
-  LaVegaAdm1DOM:
-    admin_name: LaVega
-    iso3c: DOM
-    shapeID: 93820187B24191920077808
-  LiceyalMedioAdm2DOM:
-    admin_name: LiceyalMedio
-    iso3c: DOM
-    shapeID: 3306468B91186516288237
-  LomadeCabreraAdm2DOM:
-    admin_name: LomadeCabrera
-    iso3c: DOM
-    shapeID: 3306468B30549660873689
-  LosAlcarrizosAdm2DOM:
-    admin_name: LosAlcarrizos
-    iso3c: DOM
-    shapeID: 3306468B82844411676159
-  LosAlmácigosAdm2DOM:
-    admin_name: LosAlmácigos
-    iso3c: DOM
-    shapeID: 3306468B75896846080251
-  LosCacaosAdm2DOM:
-    admin_name: LosCacaos
-    iso3c: DOM
-    shapeID: 3306468B25553756069478
-  LosHidalgosAdm2DOM:
-    admin_name: LosHidalgos
-    iso3c: DOM
-    shapeID: 3306468B64768612261884
-  LosLlanosAdm2DOM:
-    admin_name: LosLlanos
-    iso3c: DOM
-    shapeID: 3306468B56210487942158
-  LosRiosAdm2DOM:
-    admin_name: LosRios
-    iso3c: DOM
-    shapeID: 3306468B61523317388818
-  LuperonAdm2DOM:
-    admin_name: Luperon
-    iso3c: DOM
-    shapeID: 3306468B16106454484671
-  MaimónAdm2DOM:
-    admin_name: Maimón
-    iso3c: DOM
-    shapeID: 3306468B25789433891427
-  MaoAdm2DOM:
-    admin_name: Mao
-    iso3c: DOM
-    shapeID: 3306468B69236034460520
-  MaríaTrinidadSánchezAdm1DOM:
-    admin_name: MaríaTrinidadSánchez
-    iso3c: DOM
-    shapeID: 93820187B48662055256445
-  MellaAdm2DOM:
-    admin_name: Mella
-    iso3c: DOM
-    shapeID: 3306468B62036034532374
-  MichesAdm2DOM:
-    admin_name: Miches
-    iso3c: DOM
-    shapeID: 3306468B50398630049357
-  MocaAdm2DOM:
-    admin_name: Moca
-    iso3c: DOM
-    shapeID: 3306468B60047889099268
-  MonciónAdm2DOM:
-    admin_name: Monción
-    iso3c: DOM
-    shapeID: 3306468B58364807671066
-  MonseñorNouelAdm1DOM:
-    admin_name: MonseñorNouel
-    iso3c: DOM
-    shapeID: 93820187B51010772405256
-  MonteCristiAdm1DOM:
+  DominicanRepublic_Adm0:
+    iso3c: DOM
+    admin_level: Adm0
+    admin_name: DominicanRepublic
+    shapeID: 20870125B27814723728881
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_1:
+    iso3c: DOM
+    admin_level: Adm1
     admin_name: MonteCristi
-    iso3c: DOM
     shapeID: 93820187B76809517426648
-  MontellanoAdm2DOM:
-    admin_name: Montellano
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_10:
     iso3c: DOM
-    shapeID: 3306468B77556762591061
-  MontePlataAdm1DOM:
-    admin_name: MontePlata
+    admin_level: Adm1
+    admin_name: MaríaTrinidadSánchez
+    shapeID: 93820187B48662055256445
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_11:
     iso3c: DOM
-    shapeID: 93820187B14699878889154
-  MontePlataAdm2DOM:
-    admin_name: MontePlata
+    admin_level: Adm1
+    admin_name: Espaillat
+    shapeID: 93820187B79517068656032
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_12:
     iso3c: DOM
-    shapeID: 3306468B2740041336238
-  NaguaAdm2DOM:
-    admin_name: Nagua
-    iso3c: DOM
-    shapeID: 3306468B71596371711370
-  NeybaAdm2DOM:
-    admin_name: Neyba
-    iso3c: DOM
-    shapeID: 3306468B5748672743725
-  NiguaAdm2DOM:
-    admin_name: Nigua
-    iso3c: DOM
-    shapeID: 3306468B31162099816687
-  NizaoAdm2DOM:
-    admin_name: Nizao
-    iso3c: DOM
-    shapeID: 3306468B29569237091860
-  PadreLasCasasAdm2DOM:
-    admin_name: PadreLasCasas
-    iso3c: DOM
-    shapeID: 3306468B62510937127431
-  ParaisoAdm2DOM:
-    admin_name: Paraiso
-    iso3c: DOM
-    shapeID: 3306468B48518984773258
-  PartidoAdm2DOM:
-    admin_name: Partido
-    iso3c: DOM
-    shapeID: 3306468B74633928052065
-  PedernalesAdm1DOM:
-    admin_name: Pedernales
-    iso3c: DOM
-    shapeID: 93820187B45129006484644
-  PedernalesAdm2DOM:
-    admin_name: Pedernales
-    iso3c: DOM
-    shapeID: 3306468B80072272336201
-  PedroBrandAdm2DOM:
-    admin_name: PedroBrand
-    iso3c: DOM
-    shapeID: 3306468B67900396339745
-  PedroSantanaAdm2DOM:
-    admin_name: PedroSantana
-    iso3c: DOM
-    shapeID: 3306468B44690790041357
-  PepilloSalcedoAdm2DOM:
-    admin_name: PepilloSalcedo
-    iso3c: DOM
-    shapeID: 3306468B50273300961313
-  PeraltaAdm2DOM:
-    admin_name: Peralta
-    iso3c: DOM
-    shapeID: 3306468B32455006078349
-  PeraviaAdm1DOM:
-    admin_name: Peravia
-    iso3c: DOM
-    shapeID: 93820187B81904580242426
-  PiedraBlancaAdm2DOM:
-    admin_name: PiedraBlanca
-    iso3c: DOM
-    shapeID: 3306468B87386677214515
-  PimentelAdm2DOM:
-    admin_name: Pimentel
-    iso3c: DOM
-    shapeID: 3306468B52155686963809
-  PoloAdm2DOM:
-    admin_name: Polo
-    iso3c: DOM
-    shapeID: 3306468B683162392169
-  PostrerRioAdm2DOM:
-    admin_name: PostrerRio
-    iso3c: DOM
-    shapeID: 3306468B53759087220335
-  PuebloViejoAdm2DOM:
-    admin_name: PuebloViejo
-    iso3c: DOM
-    shapeID: 3306468B59626233413170
-  PuertoPlataAdm1DOM:
+    admin_level: Adm1
     admin_name: PuertoPlata
-    iso3c: DOM
     shapeID: 93820187B75937606305335
-  PuñalAdm2DOM:
-    admin_name: Puñal
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_13:
     iso3c: DOM
-    shapeID: 3306468B15896052245603
-  QuisquellaAdm2DOM:
-    admin_name: Quisquella
+    admin_level: Adm1
+    admin_name: Barahona
+    shapeID: 93820187B41996677752574
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_14:
     iso3c: DOM
-    shapeID: 3306468B80132338687245
-  RamónSantanaAdm2DOM:
-    admin_name: RamónSantana
+    admin_level: Adm1
+    admin_name: Azua
+    shapeID: 93820187B58475630368990
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_15:
     iso3c: DOM
-    shapeID: 3306468B54245916691578
-  RanchoArribaAdm2DOM:
-    admin_name: RanchoArriba
+    admin_level: Adm1
+    admin_name: Peravia
+    shapeID: 93820187B81904580242426
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_16:
     iso3c: DOM
-    shapeID: 3306468B42519572872146
-  RestauraciónAdm2DOM:
-    admin_name: Restauración
-    iso3c: DOM
-    shapeID: 3306468B11586418732368
-  RioSanJuanAdm2DOM:
-    admin_name: RioSanJuan
-    iso3c: DOM
-    shapeID: 3306468B8616193891808
-  SabanadelaMarAdm2DOM:
-    admin_name: SabanadelaMar
-    iso3c: DOM
-    shapeID: 3306468B29734552826956
-  SabanaGrandedeBoyáAdm2DOM:
-    admin_name: SabanaGrandedeBoyá
-    iso3c: DOM
-    shapeID: 3306468B74800067614401
-  SabanaGrandedePalenqueAdm2DOM:
-    admin_name: SabanaGrandedePalenque
-    iso3c: DOM
-    shapeID: 3306468B45575096497084
-  SabanaIglesiaAdm2DOM:
-    admin_name: SabanaIglesia
-    iso3c: DOM
-    shapeID: 3306468B1703224271200
-  SabanaLargaAdm2DOM:
-    admin_name: SabanaLarga
-    iso3c: DOM
-    shapeID: 3306468B82901312279704
-  SabanaYeguaAdm2DOM:
-    admin_name: SabanaYegua
-    iso3c: DOM
-    shapeID: 3306468B31402927654959
-  SalcedoAdm2DOM:
-    admin_name: Salcedo
-    iso3c: DOM
-    shapeID: 3306468B93547885769442
-  SalvaleóndeHigüeyAdm2DOM:
-    admin_name: SalvaleóndeHigüey
-    iso3c: DOM
-    shapeID: 3306468B87904766376188
-  SamanáAdm1DOM:
-    admin_name: Samaná
-    iso3c: DOM
-    shapeID: 93820187B74439223598542
-  SánchezAdm2DOM:
-    admin_name: Sánchez
-    iso3c: DOM
-    shapeID: 3306468B64693584443826
-  SánchezRamírezAdm1DOM:
-    admin_name: SánchezRamírez
-    iso3c: DOM
-    shapeID: 93820187B68802260093843
-  SanCristóbalAdm1DOM:
+    admin_level: Adm1
     admin_name: SanCristóbal
-    iso3c: DOM
     shapeID: 93820187B84794649626527
-  SanCristóbalAdm2DOM:
-    admin_name: SanCristóbal
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_17:
     iso3c: DOM
-    shapeID: 3306468B49798152350174
-  SanFelipedePuertoPlataAdm2DOM:
-    admin_name: SanFelipedePuertoPlata
-    iso3c: DOM
-    shapeID: 3306468B57439307714728
-  SanFernandodeMonteCristiAdm2DOM:
-    admin_name: SanFernandodeMonteCristi
-    iso3c: DOM
-    shapeID: 3306468B8968248816263
-  SanFranciscodeMacorísAdm2DOM:
-    admin_name: SanFranciscodeMacorís
-    iso3c: DOM
-    shapeID: 3306468B54253052941239
-  SanGregoriodeYaguateAdm2DOM:
-    admin_name: SanGregoriodeYaguate
-    iso3c: DOM
-    shapeID: 3306468B54711183761237
-  SanIgnaciodeSabanetaAdm2DOM:
-    admin_name: SanIgnaciodeSabaneta
-    iso3c: DOM
-    shapeID: 3306468B60341362842796
-  SanJosédeLasMatasAdm2DOM:
-    admin_name: SanJosédeLasMatas
-    iso3c: DOM
-    shapeID: 3306468B48570951315042
-  SanJosédeOcoaAdm1DOM:
-    admin_name: SanJosédeOcoa
-    iso3c: DOM
-    shapeID: 93820187B68705582614236
-  SanJosédeOcoaAdm2DOM:
-    admin_name: SanJosédeOcoa
-    iso3c: DOM
-    shapeID: 3306468B57713364990292
-  SanJuanAdm1DOM:
-    admin_name: SanJuan
-    iso3c: DOM
-    shapeID: 93820187B64803831351041
-  SanJuandelaMaguanaAdm2DOM:
-    admin_name: SanJuandelaMaguana
-    iso3c: DOM
-    shapeID: 3306468B55528819950271
-  SanPedrodeMacorísAdm1DOM:
-    admin_name: SanPedrodeMacorís
-    iso3c: DOM
-    shapeID: 93820187B62210066790918
-  SanPedrodeMacorísAdm2DOM:
-    admin_name: SanPedrodeMacorís
-    iso3c: DOM
-    shapeID: 3306468B30679779198976
-  SanRafaeldelYumaAdm2DOM:
-    admin_name: SanRafaeldelYuma
-    iso3c: DOM
-    shapeID: 3306468B72129908795789
-  SantaBárbaradeSamanáAdm2DOM:
-    admin_name: SantaBárbaradeSamaná
-    iso3c: DOM
-    shapeID: 3306468B43421780768425
-  SantaCruzdeBarahonaAdm2DOM:
-    admin_name: SantaCruzdeBarahona
-    iso3c: DOM
-    shapeID: 3306468B33433581758578
-  SantaCruzdelSeyboAdm2DOM:
-    admin_name: SantaCruzdelSeybo
-    iso3c: DOM
-    shapeID: 3306468B51823501845904
-  SantiagoAdm1DOM:
-    admin_name: Santiago
-    iso3c: DOM
-    shapeID: 93820187B32752500382745
-  SantiagodelosCaballerosAdm2DOM:
-    admin_name: SantiagodelosCaballeros
-    iso3c: DOM
-    shapeID: 3306468B7799388924344
-  SantiagoRodríguezAdm1DOM:
-    admin_name: SantiagoRodríguez
-    iso3c: DOM
-    shapeID: 93820187B63902544885096
-  SantoDomingoAdm1DOM:
+    admin_level: Adm1
     admin_name: SantoDomingo
-    iso3c: DOM
     shapeID: 93820187B48877163432622
-  SantoDomingoEsteAdm2DOM:
-    admin_name: SantoDomingoEste
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_18:
     iso3c: DOM
-    shapeID: 3306468B99956465733744
-  SantoDomingoNorteAdm2DOM:
-    admin_name: SantoDomingoNorte
+    admin_level: Adm1
+    admin_name: DistritoNacional
+    shapeID: 93820187B18367237384541
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_19:
     iso3c: DOM
-    shapeID: 3306468B69906942456290
-  SantoDomingoOesteAdm2DOM:
-    admin_name: SantoDomingoOeste
+    admin_level: Adm1
+    admin_name: SanPedrodeMacorís
+    shapeID: 93820187B62210066790918
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_2:
     iso3c: DOM
-    shapeID: 3306468B81365020570437
-  SosuaAdm2DOM:
-    admin_name: Sosua
+    admin_level: Adm1
+    admin_name: Dajabón
+    shapeID: 93820187B37734861430686
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_20:
     iso3c: DOM
-    shapeID: 3306468B55760825381670
-  TamayoAdm2DOM:
-    admin_name: Tamayo
+    admin_level: Adm1
+    admin_name: LaRomana
+    shapeID: 93820187B35454462701697
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_21:
     iso3c: DOM
-    shapeID: 3306468B80057745223349
-  TamborilAdm2DOM:
-    admin_name: Tamboril
-    iso3c: DOM
-    shapeID: 3306468B8987969858006
-  TenaresAdm2DOM:
-    admin_name: Tenares
-    iso3c: DOM
-    shapeID: 3306468B80209753736626
-  VallejueloAdm2DOM:
-    admin_name: Vallejuelo
-    iso3c: DOM
-    shapeID: 3306468B66406658248209
-  ValverdeAdm1DOM:
+    admin_level: Adm1
     admin_name: Valverde
-    iso3c: DOM
     shapeID: 93820187B40154216120461
-  VicenteNobleAdm2DOM:
-    admin_name: VicenteNoble
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_22:
     iso3c: DOM
-    shapeID: 3306468B17851422898431
-  VillaAltagraciaAdm2DOM:
-    admin_name: VillaAltagracia
+    admin_level: Adm1
+    admin_name: SantiagoRodríguez
+    shapeID: 93820187B63902544885096
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_23:
     iso3c: DOM
-    shapeID: 3306468B65787617435828
-  VillaBisonóAdm2DOM:
-    admin_name: VillaBisonó
+    admin_level: Adm1
+    admin_name: LaVega
+    shapeID: 93820187B24191920077808
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_24:
     iso3c: DOM
-    shapeID: 3306468B37188297910356
-  VillaGonzalezAdm2DOM:
-    admin_name: VillaGonzalez
+    admin_level: Adm1
+    admin_name: Hermanas
+    shapeID: 93820187B43347843561572
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_25:
     iso3c: DOM
-    shapeID: 3306468B91060644356542
-  VillaHermosaAdm2DOM:
-    admin_name: VillaHermosa
+    admin_level: Adm1
+    admin_name: Duarte
+    shapeID: 93820187B82172394786860
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_26:
     iso3c: DOM
-    shapeID: 3306468B24610118168871
-  VillaJaraguaAdm2DOM:
-    admin_name: VillaJaragua
+    admin_level: Adm1
+    admin_name: Santiago
+    shapeID: 93820187B32752500382745
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_27:
     iso3c: DOM
-    shapeID: 3306468B1836648434057
-  VillaRivasAdm2DOM:
-    admin_name: VillaRivas
+    admin_level: Adm1
+    admin_name: Bahoruco
+    shapeID: 93820187B31673622475180
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_28:
     iso3c: DOM
-    shapeID: 3306468B95722442714869
-  VillaTabaraArribaAdm2DOM:
+    admin_level: Adm1
+    admin_name: SanJuan
+    shapeID: 93820187B64803831351041
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_29:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: MonseñorNouel
+    shapeID: 93820187B51010772405256
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_3:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: LaEstrelleta
+    shapeID: 93820187B70498401931302
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_30:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: SánchezRamírez
+    shapeID: 93820187B68802260093843
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_31:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: SanJosédeOcoa
+    shapeID: 93820187B68705582614236
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_32:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: MontePlata
+    shapeID: 93820187B14699878889154
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_4:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: Independencia
+    shapeID: 93820187B47565163984981
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_5:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: Pedernales
+    shapeID: 93820187B45129006484644
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_6:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: LaAltagracia
+    shapeID: 93820187B39859379805868
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_7:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: ElSeybo
+    shapeID: 93820187B40453874964938
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_8:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: HatoMayor
+    shapeID: 93820187B87609756624505
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm1_9:
+    iso3c: DOM
+    admin_level: Adm1
+    admin_name: Samaná
+    shapeID: 93820187B74439223598542
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_1:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: AzuadeCompostela
+    shapeID: 3306468B66909438647260
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_10:
+    iso3c: DOM
+    admin_level: Adm2
     admin_name: VillaTabaraArriba
-    iso3c: DOM
     shapeID: 3306468B57701305571020
-  VillaTapiaAdm2DOM:
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_100:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Sosua
+    shapeID: 3306468B55760825381670
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_101:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Cevicos
+    shapeID: 3306468B8786854663218
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_102:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Cotuí
+    shapeID: 3306468B72281596552802
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_103:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Fantino
+    shapeID: 3306468B63590922856333
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_104:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LaMata
+    shapeID: 3306468B26306333639139
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_105:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Salcedo
+    shapeID: 3306468B93547885769442
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_106:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Tenares
+    shapeID: 3306468B80209753736626
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_107:
+    iso3c: DOM
+    admin_level: Adm2
     admin_name: VillaTapia
-    iso3c: DOM
     shapeID: 3306468B10183104109049
-  VillaVázquezAdm2DOM:
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_108:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LasTerrenas
+    shapeID: 3306468B40985088538713
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_109:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Sánchez
+    shapeID: 3306468B64693584443826
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_11:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Galvan
+    shapeID: 3306468B84487207746542
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_110:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SantaBárbaradeSamaná
+    shapeID: 3306468B43421780768425
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_111:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: BajosdeHaina
+    shapeID: 3306468B44390196227357
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_112:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: CambitaGarabito
+    shapeID: 3306468B64395738690475
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_113:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LosCacaos
+    shapeID: 3306468B25553756069478
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_114:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Nigua
+    shapeID: 3306468B31162099816687
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_115:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SabanaGrandedePalenque
+    shapeID: 3306468B45575096497084
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_116:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanCristóbal
+    shapeID: 3306468B49798152350174
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_117:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanGregoriodeYaguate
+    shapeID: 3306468B54711183761237
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_118:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: VillaAltagracia
+    shapeID: 3306468B65787617435828
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_119:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: RanchoArriba
+    shapeID: 3306468B42519572872146
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_12:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LosRios
+    shapeID: 3306468B61523317388818
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_120:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SabanaLarga
+    shapeID: 3306468B82901312279704
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_121:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanJosédeOcoa
+    shapeID: 3306468B57713364990292
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_122:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Bohechio
+    shapeID: 3306468B96171292047706
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_123:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: ElCercado
+    shapeID: 3306468B41168482841480
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_124:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: JuandeHerrera
+    shapeID: 3306468B17512962237330
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_125:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LasMatasdeFarfan
+    shapeID: 3306468B58611223630856
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_126:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanJuandelaMaguana
+    shapeID: 3306468B55528819950271
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_127:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Vallejuelo
+    shapeID: 3306468B66406658248209
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_128:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Consuelo
+    shapeID: 3306468B14471946980605
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_129:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Guayacanes
+    shapeID: 3306468B17793693444976
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_13:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Neyba
+    shapeID: 3306468B5748672743725
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_130:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LosLlanos
+    shapeID: 3306468B56210487942158
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_131:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Quisquella
+    shapeID: 3306468B80132338687245
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_132:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: RamónSantana
+    shapeID: 3306468B54245916691578
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_133:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanPedrodeMacorís
+    shapeID: 3306468B30679779198976
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_134:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LosAlmácigos
+    shapeID: 3306468B75896846080251
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_135:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Monción
+    shapeID: 3306468B58364807671066
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_136:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanIgnaciodeSabaneta
+    shapeID: 3306468B60341362842796
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_137:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Janico
+    shapeID: 3306468B30631228592753
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_138:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LiceyalMedio
+    shapeID: 3306468B91186516288237
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_139:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Puñal
+    shapeID: 3306468B15896052245603
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_14:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Tamayo
+    shapeID: 3306468B80057745223349
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_140:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SabanaIglesia
+    shapeID: 3306468B1703224271200
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_141:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanJosédeLasMatas
+    shapeID: 3306468B48570951315042
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_142:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SantiagodelosCaballeros
+    shapeID: 3306468B7799388924344
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_143:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Tamboril
+    shapeID: 3306468B8987969858006
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_144:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: VillaBisonó
+    shapeID: 3306468B37188297910356
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_145:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: VillaGonzalez
+    shapeID: 3306468B91060644356542
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_146:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: BocaChica
+    shapeID: 3306468B37182555728177
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_147:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Guerra
+    shapeID: 3306468B94493131963400
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_148:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LosAlcarrizos
+    shapeID: 3306468B82844411676159
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_149:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: PedroBrand
+    shapeID: 3306468B67900396339745
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_15:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: VillaJaragua
+    shapeID: 3306468B1836648434057
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_150:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SantoDomingoEste
+    shapeID: 3306468B99956465733744
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_151:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SantoDomingoNorte
+    shapeID: 3306468B69906942456290
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_152:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SantoDomingoOeste
+    shapeID: 3306468B81365020570437
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_153:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Esperanza
+    shapeID: 3306468B62426802090355
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_154:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LagunaSalada
+    shapeID: 3306468B11652899938830
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_155:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Mao
+    shapeID: 3306468B69236034460520
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_16:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Cabral
+    shapeID: 3306468B71944669665179
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_17:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: ElPeñón
+    shapeID: 3306468B33115506281893
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_18:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Enriquillo
+    shapeID: 3306468B23311881925490
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_19:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Fundación
+    shapeID: 3306468B48518895695140
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_2:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Estebania
+    shapeID: 3306468B97025454858192
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_20:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Jaquimeyes
+    shapeID: 3306468B18666570412255
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_21:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LaCienaga
+    shapeID: 3306468B5550416760665
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_22:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LasSalinas
+    shapeID: 3306468B53490324555446
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_23:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Paraiso
+    shapeID: 3306468B48518984773258
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_24:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Polo
+    shapeID: 3306468B683162392169
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_25:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SantaCruzdeBarahona
+    shapeID: 3306468B33433581758578
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_26:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: VicenteNoble
+    shapeID: 3306468B17851422898431
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_27:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Dajabón
+    shapeID: 3306468B69873779257439
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_28:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: ElPino
+    shapeID: 3306468B80571164490310
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_29:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LomadeCabrera
+    shapeID: 3306468B30549660873689
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_3:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Guayabal
+    shapeID: 3306468B24687357743066
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_30:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Partido
+    shapeID: 3306468B74633928052065
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_31:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Restauración
+    shapeID: 3306468B11586418732368
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_32:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: DistritoNacional
+    shapeID: 3306468B63097535879723
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_33:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Arenoso
+    shapeID: 3306468B79017025460716
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_34:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Castillo
+    shapeID: 3306468B31891639272972
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_35:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Hostos
+    shapeID: 3306468B93342772649109
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_36:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LasGuaranas
+    shapeID: 3306468B34554561821271
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_37:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Pimentel
+    shapeID: 3306468B52155686963809
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_38:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanFranciscodeMacorís
+    shapeID: 3306468B54253052941239
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_39:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: VillaRivas
+    shapeID: 3306468B95722442714869
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_4:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LasCharcas
+    shapeID: 3306468B70810914734022
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_40:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Miches
+    shapeID: 3306468B50398630049357
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_41:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SantaCruzdelSeybo
+    shapeID: 3306468B51823501845904
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_42:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: CayetanoGermosén
+    shapeID: 3306468B9406738878397
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_43:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: GasparHernández
+    shapeID: 3306468B76468188202077
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_44:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: JamaoalNorte
+    shapeID: 3306468B95520457943603
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_45:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Moca
+    shapeID: 3306468B60047889099268
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_46:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: ElValle
+    shapeID: 3306468B49446780717545
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_47:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: HatoMayordelRey
+    shapeID: 3306468B72856581619047
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_48:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SabanadelaMar
+    shapeID: 3306468B29734552826956
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_49:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Cristobal
+    shapeID: 3306468B18266835565764
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_5:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LasYayasdeViajama
+    shapeID: 3306468B57328361484840
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_50:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Duvergé
+    shapeID: 3306468B24836928118485
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_51:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Jimaní
+    shapeID: 3306468B8700472779567
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_52:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LaDescubierta
+    shapeID: 3306468B88446063992156
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_53:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Mella
+    shapeID: 3306468B62036034532374
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_54:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: PostrerRio
+    shapeID: 3306468B53759087220335
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_55:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LaLagunadeNisibón
+    shapeID: 3306468B28180088914928
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_56:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SalvaleóndeHigüey
+    shapeID: 3306468B87904766376188
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_57:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanRafaeldelYuma
+    shapeID: 3306468B72129908795789
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_58:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Banica
+    shapeID: 3306468B73916150464178
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_59:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Comendador
+    shapeID: 3306468B70878351440693
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_6:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: PadreLasCasas
+    shapeID: 3306468B62510937127431
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_60:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: ElLlano
+    shapeID: 3306468B67891946517614
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_61:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: HondoValle
+    shapeID: 3306468B67030502759571
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_62:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: JuanSantiago
+    shapeID: 3306468B19325324705004
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_63:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: PedroSantana
+    shapeID: 3306468B44690790041357
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_64:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Guaymate
+    shapeID: 3306468B11940370524112
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_65:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LaRomana
+    shapeID: 3306468B23578023399759
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_66:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: VillaHermosa
+    shapeID: 3306468B24610118168871
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_67:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: ConcepcióndelaVega
+    shapeID: 3306468B4333912279461
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_68:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Constanza
+    shapeID: 3306468B51834332245466
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_69:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Jarabacoa
+    shapeID: 3306468B89107795210133
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_7:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Peralta
+    shapeID: 3306468B32455006078349
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_70:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: JimaAbajo
+    shapeID: 3306468B99813204721250
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_71:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Cabrera
+    shapeID: 3306468B70752003572919
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_72:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: ElFactor
+    shapeID: 3306468B48172399013768
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_73:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Nagua
+    shapeID: 3306468B71596371711370
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_74:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: RioSanJuan
+    shapeID: 3306468B8616193891808
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_75:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Bonao
+    shapeID: 3306468B55753848240652
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_76:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Maimón
+    shapeID: 3306468B25789433891427
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_77:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: PiedraBlanca
+    shapeID: 3306468B87386677214515
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_78:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Castañuela
+    shapeID: 3306468B38935954737927
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_79:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Guayubín
+    shapeID: 3306468B33320306044259
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_8:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: PuebloViejo
+    shapeID: 3306468B59626233413170
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_80:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LasMatasdeSantaCruz
+    shapeID: 3306468B23054065948148
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_81:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: PepilloSalcedo
+    shapeID: 3306468B50273300961313
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_82:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanFernandodeMonteCristi
+    shapeID: 3306468B8968248816263
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_83:
+    iso3c: DOM
+    admin_level: Adm2
     admin_name: VillaVázquez
-    iso3c: DOM
     shapeID: 3306468B4250882356752
-  YamasáAdm2DOM:
-    admin_name: Yamasá
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_84:
     iso3c: DOM
+    admin_level: Adm2
+    admin_name: Bayaguana
+    shapeID: 3306468B72895662483472
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_85:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Esperalvillo
+    shapeID: 3306468B42523335746622
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_86:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: MontePlata
+    shapeID: 3306468B2740041336238
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_87:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SabanaGrandedeBoyá
+    shapeID: 3306468B74800067614401
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_88:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Yamasá
     shapeID: 3306468B37411515289314
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_89:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Pedernales
+    shapeID: 3306468B80072272336201
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_9:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SabanaYegua
+    shapeID: 3306468B31402927654959
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_90:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Baní
+    shapeID: 3306468B54911085338541
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_91:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Nizao
+    shapeID: 3306468B29569237091860
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_92:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Altamira
+    shapeID: 3306468B71353623072064
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_93:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Guananico
+    shapeID: 3306468B53789709824921
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_94:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Imbert
+    shapeID: 3306468B41298949605028
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_95:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LaIsabela
+    shapeID: 3306468B2817273614412
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_96:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: LosHidalgos
+    shapeID: 3306468B64768612261884
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_97:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Luperon
+    shapeID: 3306468B16106454484671
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_98:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: Montellano
+    shapeID: 3306468B77556762591061
+    country_name: DominicanRepublic
+  DominicanRepublic_Adm2_99:
+    iso3c: DOM
+    admin_level: Adm2
+    admin_name: SanFelipedePuertoPlata
+    shapeID: 3306468B57439307714728
+    country_name: DominicanRepublic

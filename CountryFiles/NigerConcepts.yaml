@@ -1,293 +1,445 @@
 concepts:
-  AbalaAdm2NER:
-    admin_name: Abala
+  Niger_Adm0:
     iso3c: NER
-    shapeID: 23599985B96366222257755
-  AbalakAdm2NER:
-    admin_name: Abalak
+    admin_level: Adm0
+    admin_name: Niger
+    shapeID: 22259449B93083360167036
+    country_name: Niger
+  Niger_Adm1_1:
     iso3c: NER
-    shapeID: 23599985B73397103622086
-  AderbissinatAdm2NER:
-    admin_name: Aderbissinat
-    iso3c: NER
-    shapeID: 23599985B52241460380538
-  AguiéAdm2NER:
-    admin_name: Aguié
-    iso3c: NER
-    shapeID: 23599985B59469969297601
-  ArlitAdm2NER:
-    admin_name: Arlit
-    iso3c: NER
-    shapeID: 23599985B35740417673211
-  AyérouAdm2NER:
-    admin_name: Ayérou
-    iso3c: NER
-    shapeID: 23599985B66518443893936
-  BagarouaAdm2NER:
-    admin_name: Bagaroua
-    iso3c: NER
-    shapeID: 23599985B53990886897515
-  BalléyaraAdm2NER:
-    admin_name: Balléyara
-    iso3c: NER
-    shapeID: 23599985B53989443832132
-  BanibangouAdm2NER:
-    admin_name: Banibangou
-    iso3c: NER
-    shapeID: 23599985B31350615327928
-  BankilaréAdm2NER:
-    admin_name: Bankilaré
-    iso3c: NER
-    shapeID: 23599985B18164013569517
-  BelbédjiAdm2NER:
-    admin_name: Belbédji
-    iso3c: NER
-    shapeID: 23599985B37162587774633
-  BérmoAdm2NER:
-    admin_name: Bérmo
-    iso3c: NER
-    shapeID: 23599985B15241034776795
-  BilmaAdm2NER:
-    admin_name: Bilma
-    iso3c: NER
-    shapeID: 23599985B30294266740058
-  Birni-N'KonniAdm2NER:
-    admin_name: Birni-N'Konni
-    iso3c: NER
-    shapeID: 23599985B12101722290167
-  BoboyeAdm2NER:
-    admin_name: Boboye
-    iso3c: NER
-    shapeID: 23599985B30838539224942
-  BossoAdm2NER:
-    admin_name: Bosso
-    iso3c: NER
-    shapeID: 23599985B85188331861732
-  BouzaAdm2NER:
-    admin_name: Bouza
-    iso3c: NER
-    shapeID: 23599985B24942158565256
-  DakoroAdm2NER:
-    admin_name: Dakoro
-    iso3c: NER
-    shapeID: 23599985B7432037800977
-  DamagaramTakayaAdm2NER:
-    admin_name: DamagaramTakaya
-    iso3c: NER
-    shapeID: 23599985B91194911882215
-  DiffaAdm2NER:
-    admin_name: Diffa
-    iso3c: NER
-    shapeID: 23599985B49279802347692
-  DioundiouAdm2NER:
-    admin_name: Dioundiou
-    iso3c: NER
-    shapeID: 23599985B87103937584190
-  DogondoutchiAdm2NER:
-    admin_name: Dogondoutchi
-    iso3c: NER
-    shapeID: 23599985B71800364259973
-  DossaAdm1NER:
-    admin_name: Dossa
-    iso3c: NER
-    shapeID: 87150794B47488127174201
-  DossoAdm2NER:
-    admin_name: Dosso
-    iso3c: NER
-    shapeID: 23599985B13950466033624
-  DungassAdm2NER:
-    admin_name: Dungass
-    iso3c: NER
-    shapeID: 23599985B10149369238340
-  FalmèyAdm2NER:
-    admin_name: Falmèy
-    iso3c: NER
-    shapeID: 23599985B42967903288320
-  FilinguéAdm2NER:
-    admin_name: Filingué
-    iso3c: NER
-    shapeID: 23599985B22646074094064
-  GayaAdm2NER:
-    admin_name: Gaya
-    iso3c: NER
-    shapeID: 23599985B94426243670688
-  GazaouaAdm2NER:
-    admin_name: Gazaoua
-    iso3c: NER
-    shapeID: 23599985B75774451533542
-  GothèyeAdm2NER:
-    admin_name: Gothèye
-    iso3c: NER
-    shapeID: 23599985B45142923275636
-  GoudoumariaAdm2NER:
-    admin_name: Goudoumaria
-    iso3c: NER
-    shapeID: 23599985B75635581877036
-  GouréAdm2NER:
-    admin_name: Gouré
-    iso3c: NER
-    shapeID: 23599985B20082731758941
-  Guidan-RoumdjiAdm2NER:
-    admin_name: Guidan-Roumdji
-    iso3c: NER
-    shapeID: 23599985B37435064601183
-  IférouaneAdm2NER:
-    admin_name: Iférouane
-    iso3c: NER
-    shapeID: 23599985B42361363165505
-  IllélaAdm2NER:
-    admin_name: Illéla
-    iso3c: NER
-    shapeID: 23599985B93785804329420
-  IngallAdm2NER:
-    admin_name: Ingall
-    iso3c: NER
-    shapeID: 23599985B91742674817727
-  KantchéAdm2NER:
-    admin_name: Kantché
-    iso3c: NER
-    shapeID: 23599985B81952569357883
-  KeitaAdm2NER:
-    admin_name: Keita
-    iso3c: NER
-    shapeID: 23599985B44584919101761
-  KolloAdm2NER:
-    admin_name: Kollo
-    iso3c: NER
-    shapeID: 23599985B29201413246391
-  LogaAdm2NER:
-    admin_name: Loga
-    iso3c: NER
-    shapeID: 23599985B16490635358595
-  MadaouaAdm2NER:
-    admin_name: Madaoua
-    iso3c: NER
-    shapeID: 23599985B88186704259068
-  MadarounfaAdm2NER:
-    admin_name: Madarounfa
-    iso3c: NER
-    shapeID: 23599985B10786712449018
-  MagariaAdm2NER:
-    admin_name: Magaria
-    iso3c: NER
-    shapeID: 23599985B72934105448405
-  Maïné-SoroaAdm2NER:
-    admin_name: Maïné-Soroa
-    iso3c: NER
-    shapeID: 23599985B74336618625682
-  MalbazaAdm2NER:
-    admin_name: Malbaza
-    iso3c: NER
-    shapeID: 23599985B4654450212041
-  MaradiAdm1NER:
-    admin_name: Maradi
-    iso3c: NER
-    shapeID: 87150794B5839560144768
-  MaradiAdm2NER:
-    admin_name: Maradi
-    iso3c: NER
-    shapeID: 23599985B96333695472040
-  MayahiAdm2NER:
-    admin_name: Mayahi
-    iso3c: NER
-    shapeID: 23599985B12759501052009
-  MirriahAdm2NER:
-    admin_name: Mirriah
-    iso3c: NER
-    shapeID: 23599985B93207740600063
-  N'GourtiAdm2NER:
-    admin_name: N'Gourti
-    iso3c: NER
-    shapeID: 23599985B32057380818540
-  N'GuigmiAdm2NER:
-    admin_name: N'Guigmi
-    iso3c: NER
-    shapeID: 23599985B27242520162456
-  NiameyAdm1NER:
-    admin_name: Niamey
-    iso3c: NER
-    shapeID: 87150794B29979307394387
-  NiameyAdm2NER:
-    admin_name: Niamey
-    iso3c: NER
-    shapeID: 23599985B37846693808008
-  OuallamAdm2NER:
-    admin_name: Ouallam
-    iso3c: NER
-    shapeID: 23599985B18642698649368
-  SayAdm2NER:
-    admin_name: Say
-    iso3c: NER
-    shapeID: 23599985B83200163093073
-  Tahoua/AgadezAdm1NER:
+    admin_level: Adm1
     admin_name: Tahoua/Agadez
-    iso3c: NER
     shapeID: 87150794B58281898249288
-  TahouaAdm2NER:
-    admin_name: Tahoua
+    country_name: Niger
+  Niger_Adm1_2:
     iso3c: NER
-    shapeID: 23599985B71026362524800
-  TahouaVilleAdm2NER:
-    admin_name: TahouaVille
+    admin_level: Adm1
+    admin_name: Dossa
+    shapeID: 87150794B47488127174201
+    country_name: Niger
+  Niger_Adm1_3:
     iso3c: NER
-    shapeID: 23599985B25077979802367
-  TakeitaAdm2NER:
-    admin_name: Takeita
+    admin_level: Adm1
+    admin_name: Niamey
+    shapeID: 87150794B29979307394387
+    country_name: Niger
+  Niger_Adm1_4:
     iso3c: NER
-    shapeID: 23599985B25575457251727
-  TanoutAdm2NER:
-    admin_name: Tanout
-    iso3c: NER
-    shapeID: 23599985B69081741011402
-  TassaraAdm2NER:
-    admin_name: Tassara
-    iso3c: NER
-    shapeID: 23599985B43997741220428
-  TchintabaradenAdm2NER:
-    admin_name: Tchintabaraden
-    iso3c: NER
-    shapeID: 23599985B37880443282078
-  TchirozérineAdm2NER:
-    admin_name: Tchirozérine
-    iso3c: NER
-    shapeID: 23599985B66307714151869
-  TéraAdm2NER:
-    admin_name: Téra
-    iso3c: NER
-    shapeID: 23599985B14211003047249
-  TeskerAdm2NER:
-    admin_name: Tesker
-    iso3c: NER
-    shapeID: 23599985B16015640173227
-  TessaouaAdm2NER:
-    admin_name: Tessaoua
-    iso3c: NER
-    shapeID: 23599985B9962986153255
-  TibiriAdm2NER:
-    admin_name: Tibiri
-    iso3c: NER
-    shapeID: 23599985B22885280076406
-  TillaberiAdm1NER:
+    admin_level: Adm1
     admin_name: Tillaberi
-    iso3c: NER
     shapeID: 87150794B24708462658640
-  TillabériAdm2NER:
-    admin_name: Tillabéri
+    country_name: Niger
+  Niger_Adm1_5:
     iso3c: NER
-    shapeID: 23599985B45975933186230
-  TilliaAdm2NER:
-    admin_name: Tillia
+    admin_level: Adm1
+    admin_name: Maradi
+    shapeID: 87150794B5839560144768
+    country_name: Niger
+  Niger_Adm1_6:
     iso3c: NER
-    shapeID: 23599985B40327375212482
-  TorodiAdm2NER:
-    admin_name: Torodi
-    iso3c: NER
-    shapeID: 23599985B58853598919637
-  Zinder/DiffaAdm1NER:
+    admin_level: Adm1
     admin_name: Zinder/Diffa
-    iso3c: NER
     shapeID: 87150794B17606801029036
-  ZinderAdm2NER:
-    admin_name: Zinder
+    country_name: Niger
+  Niger_Adm2_1:
     iso3c: NER
+    admin_level: Adm2
+    admin_name: Bankilaré
+    shapeID: 23599985B18164013569517
+    country_name: Niger
+  Niger_Adm2_10:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Kollo
+    shapeID: 23599985B29201413246391
+    country_name: Niger
+  Niger_Adm2_11:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Say
+    shapeID: 23599985B83200163093073
+    country_name: Niger
+  Niger_Adm2_12:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Falmèy
+    shapeID: 23599985B42967903288320
+    country_name: Niger
+  Niger_Adm2_13:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Boboye
+    shapeID: 23599985B30838539224942
+    country_name: Niger
+  Niger_Adm2_14:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Balléyara
+    shapeID: 23599985B53989443832132
+    country_name: Niger
+  Niger_Adm2_15:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Dosso
+    shapeID: 23599985B13950466033624
+    country_name: Niger
+  Niger_Adm2_16:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Gaya
+    shapeID: 23599985B94426243670688
+    country_name: Niger
+  Niger_Adm2_17:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Dioundiou
+    shapeID: 23599985B87103937584190
+    country_name: Niger
+  Niger_Adm2_18:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Tibiri
+    shapeID: 23599985B22885280076406
+    country_name: Niger
+  Niger_Adm2_19:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Loga
+    shapeID: 23599985B16490635358595
+    country_name: Niger
+  Niger_Adm2_2:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Ayérou
+    shapeID: 23599985B66518443893936
+    country_name: Niger
+  Niger_Adm2_20:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Dogondoutchi
+    shapeID: 23599985B71800364259973
+    country_name: Niger
+  Niger_Adm2_21:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Filingué
+    shapeID: 23599985B22646074094064
+    country_name: Niger
+  Niger_Adm2_22:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Bagaroua
+    shapeID: 23599985B53990886897515
+    country_name: Niger
+  Niger_Adm2_23:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Abala
+    shapeID: 23599985B96366222257755
+    country_name: Niger
+  Niger_Adm2_24:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Tillia
+    shapeID: 23599985B40327375212482
+    country_name: Niger
+  Niger_Adm2_25:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: TahouaVille
+    shapeID: 23599985B25077979802367
+    country_name: Niger
+  Niger_Adm2_26:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Illéla
+    shapeID: 23599985B93785804329420
+    country_name: Niger
+  Niger_Adm2_27:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Birni-N'Konni
+    shapeID: 23599985B12101722290167
+    country_name: Niger
+  Niger_Adm2_28:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Malbaza
+    shapeID: 23599985B4654450212041
+    country_name: Niger
+  Niger_Adm2_29:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Tassara
+    shapeID: 23599985B43997741220428
+    country_name: Niger
+  Niger_Adm2_3:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Téra
+    shapeID: 23599985B14211003047249
+    country_name: Niger
+  Niger_Adm2_30:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Tahoua
+    shapeID: 23599985B71026362524800
+    country_name: Niger
+  Niger_Adm2_31:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Tchintabaraden
+    shapeID: 23599985B37880443282078
+    country_name: Niger
+  Niger_Adm2_32:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Abalak
+    shapeID: 23599985B73397103622086
+    country_name: Niger
+  Niger_Adm2_33:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Keita
+    shapeID: 23599985B44584919101761
+    country_name: Niger
+  Niger_Adm2_34:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Bouza
+    shapeID: 23599985B24942158565256
+    country_name: Niger
+  Niger_Adm2_35:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Madaoua
+    shapeID: 23599985B88186704259068
+    country_name: Niger
+  Niger_Adm2_36:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Guidan-Roumdji
+    shapeID: 23599985B37435064601183
+    country_name: Niger
+  Niger_Adm2_37:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Dakoro
+    shapeID: 23599985B7432037800977
+    country_name: Niger
+  Niger_Adm2_38:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Bérmo
+    shapeID: 23599985B15241034776795
+    country_name: Niger
+  Niger_Adm2_39:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Ingall
+    shapeID: 23599985B91742674817727
+    country_name: Niger
+  Niger_Adm2_4:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Tillabéri
+    shapeID: 23599985B45975933186230
+    country_name: Niger
+  Niger_Adm2_40:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Madarounfa
+    shapeID: 23599985B10786712449018
+    country_name: Niger
+  Niger_Adm2_41:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Aguié
+    shapeID: 23599985B59469969297601
+    country_name: Niger
+  Niger_Adm2_42:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Gazaoua
+    shapeID: 23599985B75774451533542
+    country_name: Niger
+  Niger_Adm2_43:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Mayahi
+    shapeID: 23599985B12759501052009
+    country_name: Niger
+  Niger_Adm2_44:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Arlit
+    shapeID: 23599985B35740417673211
+    country_name: Niger
+  Niger_Adm2_45:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Belbédji
+    shapeID: 23599985B37162587774633
+    country_name: Niger
+  Niger_Adm2_46:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Tessaoua
+    shapeID: 23599985B9962986153255
+    country_name: Niger
+  Niger_Adm2_47:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Kantché
+    shapeID: 23599985B81952569357883
+    country_name: Niger
+  Niger_Adm2_48:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Takeita
+    shapeID: 23599985B25575457251727
+    country_name: Niger
+  Niger_Adm2_49:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Magaria
+    shapeID: 23599985B72934105448405
+    country_name: Niger
+  Niger_Adm2_5:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Gothèye
+    shapeID: 23599985B45142923275636
+    country_name: Niger
+  Niger_Adm2_50:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Iférouane
+    shapeID: 23599985B42361363165505
+    country_name: Niger
+  Niger_Adm2_51:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Tchirozérine
+    shapeID: 23599985B66307714151869
+    country_name: Niger
+  Niger_Adm2_52:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Aderbissinat
+    shapeID: 23599985B52241460380538
+    country_name: Niger
+  Niger_Adm2_53:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Tanout
+    shapeID: 23599985B69081741011402
+    country_name: Niger
+  Niger_Adm2_54:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: DamagaramTakaya
+    shapeID: 23599985B91194911882215
+    country_name: Niger
+  Niger_Adm2_55:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Zinder
     shapeID: 23599985B17840081467963
+    country_name: Niger
+  Niger_Adm2_56:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Mirriah
+    shapeID: 23599985B93207740600063
+    country_name: Niger
+  Niger_Adm2_57:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Dungass
+    shapeID: 23599985B10149369238340
+    country_name: Niger
+  Niger_Adm2_58:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Gouré
+    shapeID: 23599985B20082731758941
+    country_name: Niger
+  Niger_Adm2_59:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Tesker
+    shapeID: 23599985B16015640173227
+    country_name: Niger
+  Niger_Adm2_6:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Torodi
+    shapeID: 23599985B58853598919637
+    country_name: Niger
+  Niger_Adm2_60:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Goudoumaria
+    shapeID: 23599985B75635581877036
+    country_name: Niger
+  Niger_Adm2_61:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Maïné-Soroa
+    shapeID: 23599985B74336618625682
+    country_name: Niger
+  Niger_Adm2_62:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: N'Guigmi
+    shapeID: 23599985B27242520162456
+    country_name: Niger
+  Niger_Adm2_63:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: N'Gourti
+    shapeID: 23599985B32057380818540
+    country_name: Niger
+  Niger_Adm2_64:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Bilma
+    shapeID: 23599985B30294266740058
+    country_name: Niger
+  Niger_Adm2_65:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Diffa
+    shapeID: 23599985B49279802347692
+    country_name: Niger
+  Niger_Adm2_66:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Bosso
+    shapeID: 23599985B85188331861732
+    country_name: Niger
+  Niger_Adm2_67:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Maradi
+    shapeID: 23599985B96333695472040
+    country_name: Niger
+  Niger_Adm2_7:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Ouallam
+    shapeID: 23599985B18642698649368
+    country_name: Niger
+  Niger_Adm2_8:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Banibangou
+    shapeID: 23599985B31350615327928
+    country_name: Niger
+  Niger_Adm2_9:
+    iso3c: NER
+    admin_level: Adm2
+    admin_name: Niamey
+    shapeID: 23599985B37846693808008
+    country_name: Niger

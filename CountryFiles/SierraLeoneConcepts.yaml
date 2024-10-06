@@ -1,73 +1,115 @@
 concepts:
-  BoAdm2SLE:
-    admin_name: Bo
+  SierraLeone_Adm0:
     iso3c: SLE
-    shapeID: 65957751B93581480515289
-  BombaliAdm2SLE:
-    admin_name: Bombali
+    admin_level: Adm0
+    admin_name: RepublicofSierraLeone
+    shapeID: 89611731B11651679765342
+    country_name: SierraLeone
+  SierraLeone_Adm1_1:
     iso3c: SLE
-    shapeID: 65957751B29483301504535
-  BontheAdm2SLE:
-    admin_name: Bonthe
-    iso3c: SLE
-    shapeID: 65957751B90425188102960
-  EasternAdm1SLE:
-    admin_name: Eastern
-    iso3c: SLE
-    shapeID: 38320839B88872338973316
-  KailahunAdm2SLE:
-    admin_name: Kailahun
-    iso3c: SLE
-    shapeID: 65957751B248885957650
-  KambiaAdm2SLE:
-    admin_name: Kambia
-    iso3c: SLE
-    shapeID: 65957751B7874629800584
-  KenemaAdm2SLE:
-    admin_name: Kenema
-    iso3c: SLE
-    shapeID: 65957751B6503620183485
-  KoinaduguAdm2SLE:
-    admin_name: Koinadugu
-    iso3c: SLE
-    shapeID: 65957751B98964407864499
-  KonoAdm2SLE:
-    admin_name: Kono
-    iso3c: SLE
-    shapeID: 65957751B39294828597109
-  MoyambaAdm2SLE:
-    admin_name: Moyamba
-    iso3c: SLE
-    shapeID: 65957751B35726846399821
-  NorthernAdm1SLE:
-    admin_name: Northern
-    iso3c: SLE
-    shapeID: 38320839B67217096191525
-  PortLokoAdm2SLE:
-    admin_name: PortLoko
-    iso3c: SLE
-    shapeID: 65957751B90762568654783
-  PujehunAdm2SLE:
-    admin_name: Pujehun
-    iso3c: SLE
-    shapeID: 65957751B2614126839094
-  SouthernAdm1SLE:
+    admin_level: Adm1
     admin_name: Southern
-    iso3c: SLE
     shapeID: 38320839B10533035746056
-  TonkoliliAdm2SLE:
-    admin_name: Tonkolili
+    country_name: SierraLeone
+  SierraLeone_Adm1_2:
     iso3c: SLE
-    shapeID: 65957751B39959109464342
-  WesternAreaAdm1SLE:
+    admin_level: Adm1
+    admin_name: Eastern
+    shapeID: 38320839B88872338973316
+    country_name: SierraLeone
+  SierraLeone_Adm1_3:
+    iso3c: SLE
+    admin_level: Adm1
     admin_name: WesternArea
-    iso3c: SLE
     shapeID: 38320839B54273514798812
-  WesternAreaRuralAdm2SLE:
+    country_name: SierraLeone
+  SierraLeone_Adm1_4:
+    iso3c: SLE
+    admin_level: Adm1
+    admin_name: Northern
+    shapeID: 38320839B67217096191525
+    country_name: SierraLeone
+  SierraLeone_Adm2_1:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Pujehun
+    shapeID: 65957751B2614126839094
+    country_name: SierraLeone
+  SierraLeone_Adm2_10:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Kenema
+    shapeID: 65957751B6503620183485
+    country_name: SierraLeone
+  SierraLeone_Adm2_11:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Tonkolili
+    shapeID: 65957751B39959109464342
+    country_name: SierraLeone
+  SierraLeone_Adm2_12:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Kono
+    shapeID: 65957751B39294828597109
+    country_name: SierraLeone
+  SierraLeone_Adm2_13:
+    iso3c: SLE
+    admin_level: Adm2
     admin_name: WesternAreaRural
-    iso3c: SLE
     shapeID: 65957751B56468197775265
-  WesternAreaUrbanAdm2SLE:
-    admin_name: WesternAreaUrban
+    country_name: SierraLeone
+  SierraLeone_Adm2_14:
     iso3c: SLE
+    admin_level: Adm2
+    admin_name: WesternAreaUrban
     shapeID: 65957751B7442620669158
+    country_name: SierraLeone
+  SierraLeone_Adm2_2:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: PortLoko
+    shapeID: 65957751B90762568654783
+    country_name: SierraLeone
+  SierraLeone_Adm2_3:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Bonthe
+    shapeID: 65957751B90425188102960
+    country_name: SierraLeone
+  SierraLeone_Adm2_4:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Bo
+    shapeID: 65957751B93581480515289
+    country_name: SierraLeone
+  SierraLeone_Adm2_5:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Kambia
+    shapeID: 65957751B7874629800584
+    country_name: SierraLeone
+  SierraLeone_Adm2_6:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Kailahun
+    shapeID: 65957751B248885957650
+    country_name: SierraLeone
+  SierraLeone_Adm2_7:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Koinadugu
+    shapeID: 65957751B98964407864499
+    country_name: SierraLeone
+  SierraLeone_Adm2_8:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Bombali
+    shapeID: 65957751B29483301504535
+    country_name: SierraLeone
+  SierraLeone_Adm2_9:
+    iso3c: SLE
+    admin_level: Adm2
+    admin_name: Moyamba
+    shapeID: 65957751B35726846399821
+    country_name: SierraLeone

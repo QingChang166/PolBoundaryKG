@@ -1,273 +1,415 @@
 concepts:
-  AttardAdm1MLT:
-    admin_name: Attard
+  Malta_Adm0:
     iso3c: MLT
-    shapeID: 83640313B93037213409403
-  BalzanAdm1MLT:
-    admin_name: Balzan
+    admin_level: Adm0
+    admin_name: Malta
+    shapeID: 38034468B21247411087911
+    country_name: Malta
+  Malta_Adm1_1:
     iso3c: MLT
-    shapeID: 83640313B20822579723452
-  BirguAdm1MLT:
-    admin_name: Birgu
-    iso3c: MLT
-    shapeID: 83640313B14397888835877
-  BirkirkaraAdm1MLT:
-    admin_name: Birkirkara
-    iso3c: MLT
-    shapeID: 83640313B10359673671978
-  BirżebbuġaAdm1MLT:
-    admin_name: Birżebbuġa
-    iso3c: MLT
-    shapeID: 83640313B26944319289369
-  BormlaAdm1MLT:
-    admin_name: Bormla
-    iso3c: MLT
-    shapeID: 83640313B42587750659802
-  DingliAdm1MLT:
-    admin_name: Dingli
-    iso3c: MLT
-    shapeID: 83640313B57354980514439
-  FguraAdm1MLT:
-    admin_name: Fgura
-    iso3c: MLT
-    shapeID: 83640313B47184915596760
-  FlorianaAdm1MLT:
-    admin_name: Floriana
-    iso3c: MLT
-    shapeID: 83640313B52026072381253
-  FontanaAdm1MLT:
-    admin_name: Fontana
-    iso3c: MLT
-    shapeID: 83640313B21560607994139
-  GhajnsielemAdm1MLT:
+    admin_level: Adm1
     admin_name: Ghajnsielem
-    iso3c: MLT
     shapeID: 83640313B32595760925513
-  GharbAdm1MLT:
-    admin_name: Gharb
+    country_name: Malta
+  Malta_Adm1_10:
     iso3c: MLT
-    shapeID: 83640313B59834490853323
-  GħargħurAdm1MLT:
-    admin_name: Għargħur
-    iso3c: MLT
-    shapeID: 83640313B82456448658391
-  GhasriAdm1MLT:
-    admin_name: Ghasri
-    iso3c: MLT
-    shapeID: 83640313B97822985297737
-  GħaxaqAdm1MLT:
-    admin_name: Għaxaq
-    iso3c: MLT
-    shapeID: 83640313B8600633511290
-  GudjaAdm1MLT:
-    admin_name: Gudja
-    iso3c: MLT
-    shapeID: 83640313B29565670809924
-  GżiraAdm1MLT:
-    admin_name: Gżira
-    iso3c: MLT
-    shapeID: 83640313B93972734358441
-  ĦamrunAdm1MLT:
-    admin_name: Ħamrun
-    iso3c: MLT
-    shapeID: 83640313B26643895520377
-  IklinAdm1MLT:
-    admin_name: Iklin
-    iso3c: MLT
-    shapeID: 83640313B63748346307845
-  IslaAdm1MLT:
-    admin_name: Isla
-    iso3c: MLT
-    shapeID: 83640313B28463401337071
-  KalkaraAdm1MLT:
-    admin_name: Kalkara
-    iso3c: MLT
-    shapeID: 83640313B96832712848193
-  KerċemAdm1MLT:
-    admin_name: Kerċem
-    iso3c: MLT
-    shapeID: 83640313B82150771484023
-  KirkopAdm1MLT:
-    admin_name: Kirkop
-    iso3c: MLT
-    shapeID: 83640313B10698043212678
-  LijaAdm1MLT:
-    admin_name: Lija
-    iso3c: MLT
-    shapeID: 83640313B61939962177338
-  LuqaAdm1MLT:
-    admin_name: Luqa
-    iso3c: MLT
-    shapeID: 83640313B32902396036385
-  MarsaAdm1MLT:
-    admin_name: Marsa
-    iso3c: MLT
-    shapeID: 83640313B71214708633944
-  MarsaskalaAdm1MLT:
-    admin_name: Marsaskala
-    iso3c: MLT
-    shapeID: 83640313B46811785336007
-  MarsaxlokkAdm1MLT:
-    admin_name: Marsaxlokk
-    iso3c: MLT
-    shapeID: 83640313B51941763183850
-  MdinaAdm1MLT:
-    admin_name: Mdina
-    iso3c: MLT
-    shapeID: 83640313B18835650997044
-  MellieħaAdm1MLT:
-    admin_name: Mellieħa
-    iso3c: MLT
-    shapeID: 83640313B7434934757616
-  MġarrAdm1MLT:
-    admin_name: Mġarr
-    iso3c: MLT
-    shapeID: 83640313B45218014578174
-  MostaAdm1MLT:
-    admin_name: Mosta
-    iso3c: MLT
-    shapeID: 83640313B63712418645070
-  MqabbaAdm1MLT:
-    admin_name: Mqabba
-    iso3c: MLT
-    shapeID: 83640313B29119193634160
-  MsidaAdm1MLT:
-    admin_name: Msida
-    iso3c: MLT
-    shapeID: 83640313B22513233777013
-  MtarfaAdm1MLT:
-    admin_name: Mtarfa
-    iso3c: MLT
-    shapeID: 83640313B16233505494965
-  MunxarAdm1MLT:
-    admin_name: Munxar
-    iso3c: MLT
-    shapeID: 83640313B34539485231325
-  NadurAdm1MLT:
-    admin_name: Nadur
-    iso3c: MLT
-    shapeID: 83640313B83418789682728
-  NaxxarAdm1MLT:
-    admin_name: Naxxar
-    iso3c: MLT
-    shapeID: 83640313B55702430610648
-  PaolaAdm1MLT:
-    admin_name: Paola
-    iso3c: MLT
-    shapeID: 83640313B27023824805393
-  PembrokeAdm1MLT:
-    admin_name: Pembroke
-    iso3c: MLT
-    shapeID: 83640313B96609834677200
-  PietàAdm1MLT:
-    admin_name: Pietà
-    iso3c: MLT
-    shapeID: 83640313B3347274833420
-  QalaAdm1MLT:
-    admin_name: Qala
-    iso3c: MLT
-    shapeID: 83640313B18243789580420
-  QormiAdm1MLT:
-    admin_name: Qormi
-    iso3c: MLT
-    shapeID: 83640313B1314618030603
-  QrendiAdm1MLT:
-    admin_name: Qrendi
-    iso3c: MLT
-    shapeID: 83640313B82959541944820
-  RabatGozoAdm1MLT:
+    admin_level: Adm1
     admin_name: RabatGozo
-    iso3c: MLT
     shapeID: 83640313B22954982351017
-  RabatMaltaAdm1MLT:
-    admin_name: RabatMalta
+    country_name: Malta
+  Malta_Adm1_11:
     iso3c: MLT
-    shapeID: 83640313B41251532632205
-  SafiAdm1MLT:
-    admin_name: Safi
-    iso3c: MLT
-    shapeID: 83640313B72392664646104
-  SaintJohnAdm1MLT:
-    admin_name: SaintJohn
-    iso3c: MLT
-    shapeID: 83640313B38008564196191
-  SaintJulian'sAdm1MLT:
-    admin_name: SaintJulian's
-    iso3c: MLT
-    shapeID: 83640313B85420480605860
-  SaintLawerenceAdm1MLT:
-    admin_name: SaintLawerence
-    iso3c: MLT
-    shapeID: 83640313B37542325651352
-  SaintLucia'sAdm1MLT:
-    admin_name: SaintLucia's
-    iso3c: MLT
-    shapeID: 83640313B77690414343492
-  SaintPaul'sBayAdm1MLT:
-    admin_name: SaintPaul'sBay
-    iso3c: MLT
-    shapeID: 83640313B70016887726547
-  SannatAdm1MLT:
-    admin_name: Sannat
-    iso3c: MLT
-    shapeID: 83640313B46213837211089
-  SantaVeneraAdm1MLT:
-    admin_name: SantaVenera
-    iso3c: MLT
-    shapeID: 83640313B42870636526721
-  SiġġiewiAdm1MLT:
-    admin_name: Siġġiewi
-    iso3c: MLT
-    shapeID: 83640313B83137316861428
-  SliemaAdm1MLT:
-    admin_name: Sliema
-    iso3c: MLT
-    shapeID: 83640313B14575143196718
-  SwieqiAdm1MLT:
-    admin_name: Swieqi
-    iso3c: MLT
-    shapeID: 83640313B16668515866528
-  Ta'XbiexAdm1MLT:
-    admin_name: Ta'Xbiex
-    iso3c: MLT
-    shapeID: 83640313B6781586030718
-  TarxienAdm1MLT:
-    admin_name: Tarxien
-    iso3c: MLT
-    shapeID: 83640313B59486877017515
-  VallettaAdm1MLT:
-    admin_name: Valletta
-    iso3c: MLT
-    shapeID: 83640313B86571698528234
-  XagħraAdm1MLT:
-    admin_name: Xagħra
-    iso3c: MLT
-    shapeID: 83640313B83261609786955
-  XewkijaAdm1MLT:
-    admin_name: Xewkija
-    iso3c: MLT
-    shapeID: 83640313B46186135646579
-  XgħajraAdm1MLT:
+    admin_level: Adm1
     admin_name: Xgħajra
-    iso3c: MLT
     shapeID: 83640313B35952736247105
-  ŻabbarAdm1MLT:
-    admin_name: Żabbar
+    country_name: Malta
+  Malta_Adm1_12:
     iso3c: MLT
-    shapeID: 83640313B20015641298084
-  ŻebbuġGozoAdm1MLT:
-    admin_name: ŻebbuġGozo
+    admin_level: Adm1
+    admin_name: Sannat
+    shapeID: 83640313B46213837211089
+    country_name: Malta
+  Malta_Adm1_13:
     iso3c: MLT
-    shapeID: 83640313B66469281314411
-  ŻebbuġMaltaAdm1MLT:
+    admin_level: Adm1
+    admin_name: Xewkija
+    shapeID: 83640313B46186135646579
+    country_name: Malta
+  Malta_Adm1_14:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Nadur
+    shapeID: 83640313B83418789682728
+    country_name: Malta
+  Malta_Adm1_15:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Marsaskala
+    shapeID: 83640313B46811785336007
+    country_name: Malta
+  Malta_Adm1_16:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Mellieħa
+    shapeID: 83640313B7434934757616
+    country_name: Malta
+  Malta_Adm1_17:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Gżira
+    shapeID: 83640313B93972734358441
+    country_name: Malta
+  Malta_Adm1_18:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Mġarr
+    shapeID: 83640313B45218014578174
+    country_name: Malta
+  Malta_Adm1_19:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: SaintPaul'sBay
+    shapeID: 83640313B70016887726547
+    country_name: Malta
+  Malta_Adm1_2:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Qala
+    shapeID: 83640313B18243789580420
+    country_name: Malta
+  Malta_Adm1_20:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Naxxar
+    shapeID: 83640313B55702430610648
+    country_name: Malta
+  Malta_Adm1_21:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Għargħur
+    shapeID: 83640313B82456448658391
+    country_name: Malta
+  Malta_Adm1_22:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Pembroke
+    shapeID: 83640313B96609834677200
+    country_name: Malta
+  Malta_Adm1_23:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: SaintJulian's
+    shapeID: 83640313B85420480605860
+    country_name: Malta
+  Malta_Adm1_24:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Sliema
+    shapeID: 83640313B14575143196718
+    country_name: Malta
+  Malta_Adm1_25:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Swieqi
+    shapeID: 83640313B16668515866528
+    country_name: Malta
+  Malta_Adm1_26:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: SaintJohn
+    shapeID: 83640313B38008564196191
+    country_name: Malta
+  Malta_Adm1_27:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Iklin
+    shapeID: 83640313B63748346307845
+    country_name: Malta
+  Malta_Adm1_28:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Valletta
+    shapeID: 83640313B86571698528234
+    country_name: Malta
+  Malta_Adm1_29:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Ta'Xbiex
+    shapeID: 83640313B6781586030718
+    country_name: Malta
+  Malta_Adm1_3:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: SaintLawerence
+    shapeID: 83640313B37542325651352
+    country_name: Malta
+  Malta_Adm1_30:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Floriana
+    shapeID: 83640313B52026072381253
+    country_name: Malta
+  Malta_Adm1_31:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Pietà
+    shapeID: 83640313B3347274833420
+    country_name: Malta
+  Malta_Adm1_32:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Msida
+    shapeID: 83640313B22513233777013
+    country_name: Malta
+  Malta_Adm1_33:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Ħamrun
+    shapeID: 83640313B26643895520377
+    country_name: Malta
+  Malta_Adm1_34:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: SantaVenera
+    shapeID: 83640313B42870636526721
+    country_name: Malta
+  Malta_Adm1_35:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Birkirkara
+    shapeID: 83640313B10359673671978
+    country_name: Malta
+  Malta_Adm1_36:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Balzan
+    shapeID: 83640313B20822579723452
+    country_name: Malta
+  Malta_Adm1_37:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Lija
+    shapeID: 83640313B61939962177338
+    country_name: Malta
+  Malta_Adm1_38:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Mosta
+    shapeID: 83640313B63712418645070
+    country_name: Malta
+  Malta_Adm1_39:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Mdina
+    shapeID: 83640313B18835650997044
+    country_name: Malta
+  Malta_Adm1_4:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Gharb
+    shapeID: 83640313B59834490853323
+    country_name: Malta
+  Malta_Adm1_40:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Mtarfa
+    shapeID: 83640313B16233505494965
+    country_name: Malta
+  Malta_Adm1_41:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: RabatMalta
+    shapeID: 83640313B41251532632205
+    country_name: Malta
+  Malta_Adm1_42:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Dingli
+    shapeID: 83640313B57354980514439
+    country_name: Malta
+  Malta_Adm1_43:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Attard
+    shapeID: 83640313B93037213409403
+    country_name: Malta
+  Malta_Adm1_44:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Xagħra
+    shapeID: 83640313B83261609786955
+    country_name: Malta
+  Malta_Adm1_45:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Kalkara
+    shapeID: 83640313B96832712848193
+    country_name: Malta
+  Malta_Adm1_46:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Birgu
+    shapeID: 83640313B14397888835877
+    country_name: Malta
+  Malta_Adm1_47:
+    iso3c: MLT
+    admin_level: Adm1
     admin_name: ŻebbuġMalta
-    iso3c: MLT
     shapeID: 83640313B87582987818287
-  ŻejtunAdm1MLT:
-    admin_name: Żejtun
+    country_name: Malta
+  Malta_Adm1_48:
     iso3c: MLT
-    shapeID: 83640313B88881158567089
-  ŻurrieqAdm1MLT:
+    admin_level: Adm1
+    admin_name: Qormi
+    shapeID: 83640313B1314618030603
+    country_name: Malta
+  Malta_Adm1_49:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Isla
+    shapeID: 83640313B28463401337071
+    country_name: Malta
+  Malta_Adm1_5:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Ghasri
+    shapeID: 83640313B97822985297737
+    country_name: Malta
+  Malta_Adm1_50:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Siġġiewi
+    shapeID: 83640313B83137316861428
+    country_name: Malta
+  Malta_Adm1_51:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Luqa
+    shapeID: 83640313B32902396036385
+    country_name: Malta
+  Malta_Adm1_52:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Marsa
+    shapeID: 83640313B71214708633944
+    country_name: Malta
+  Malta_Adm1_53:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Qrendi
+    shapeID: 83640313B82959541944820
+    country_name: Malta
+  Malta_Adm1_54:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Mqabba
+    shapeID: 83640313B29119193634160
+    country_name: Malta
+  Malta_Adm1_55:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Kirkop
+    shapeID: 83640313B10698043212678
+    country_name: Malta
+  Malta_Adm1_56:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Safi
+    shapeID: 83640313B72392664646104
+    country_name: Malta
+  Malta_Adm1_57:
+    iso3c: MLT
+    admin_level: Adm1
     admin_name: Żurrieq
-    iso3c: MLT
     shapeID: 83640313B26470162845875
+    country_name: Malta
+  Malta_Adm1_58:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Paola
+    shapeID: 83640313B27023824805393
+    country_name: Malta
+  Malta_Adm1_59:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Bormla
+    shapeID: 83640313B42587750659802
+    country_name: Malta
+  Malta_Adm1_6:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: ŻebbuġGozo
+    shapeID: 83640313B66469281314411
+    country_name: Malta
+  Malta_Adm1_60:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Tarxien
+    shapeID: 83640313B59486877017515
+    country_name: Malta
+  Malta_Adm1_61:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Fgura
+    shapeID: 83640313B47184915596760
+    country_name: Malta
+  Malta_Adm1_62:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: SaintLucia's
+    shapeID: 83640313B77690414343492
+    country_name: Malta
+  Malta_Adm1_63:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Gudja
+    shapeID: 83640313B29565670809924
+    country_name: Malta
+  Malta_Adm1_64:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Għaxaq
+    shapeID: 83640313B8600633511290
+    country_name: Malta
+  Malta_Adm1_65:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Birżebbuġa
+    shapeID: 83640313B26944319289369
+    country_name: Malta
+  Malta_Adm1_66:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Żejtun
+    shapeID: 83640313B88881158567089
+    country_name: Malta
+  Malta_Adm1_67:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Żabbar
+    shapeID: 83640313B20015641298084
+    country_name: Malta
+  Malta_Adm1_68:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Marsaxlokk
+    shapeID: 83640313B51941763183850
+    country_name: Malta
+  Malta_Adm1_7:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Kerċem
+    shapeID: 83640313B82150771484023
+    country_name: Malta
+  Malta_Adm1_8:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Munxar
+    shapeID: 83640313B34539485231325
+    country_name: Malta
+  Malta_Adm1_9:
+    iso3c: MLT
+    admin_level: Adm1
+    admin_name: Fontana
+    shapeID: 83640313B21560607994139
+    country_name: Malta

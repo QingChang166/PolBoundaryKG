@@ -1,353 +1,535 @@
 concepts:
-  AyeyarwadyAdm1MMR:
+  Myanmar_Adm0:
+    iso3c: MMR
+    admin_level: Adm0
+    admin_name: Myanmar
+    shapeID: 35516675B14551075264028
+    country_name: Myanmar
+  Myanmar_Adm1_1:
+    iso3c: MMR
+    admin_level: Adm1
     admin_name: Ayeyarwady
-    iso3c: MMR
     shapeID: 20573499B9779674920937
-  BagoAdm1MMR:
-    admin_name: Bago
+    country_name: Myanmar
+  Myanmar_Adm1_10:
     iso3c: MMR
-    shapeID: 20573499B19694912925518
-  BagoAdm2MMR:
-    admin_name: Bago
-    iso3c: MMR
-    shapeID: 60261553B52408869304596
-  BawlakeAdm2MMR:
-    admin_name: Bawlake
-    iso3c: MMR
-    shapeID: 60261553B12408734015728
-  BhamoAdm2MMR:
-    admin_name: Bhamo
-    iso3c: MMR
-    shapeID: 60261553B27046412343024
-  ChinAdm1MMR:
-    admin_name: Chin
-    iso3c: MMR
-    shapeID: 20573499B58864057590207
-  DaweiAdm2MMR:
-    admin_name: Dawei
-    iso3c: MMR
-    shapeID: 60261553B72281625520368
-  DetKhiNaAdm2MMR:
-    admin_name: DetKhiNa
-    iso3c: MMR
-    shapeID: 60261553B61671453611956
-  FalamAdm2MMR:
-    admin_name: Falam
-    iso3c: MMR
-    shapeID: 60261553B58296948192675
-  GangawAdm2MMR:
-    admin_name: Gangaw
-    iso3c: MMR
-    shapeID: 60261553B4120080326164
-  HakhaAdm2MMR:
-    admin_name: Hakha
-    iso3c: MMR
-    shapeID: 60261553B91300055563286
-  HinthadaAdm2MMR:
-    admin_name: Hinthada
-    iso3c: MMR
-    shapeID: 60261553B48695999525720
-  HkamtiAdm2MMR:
-    admin_name: Hkamti
-    iso3c: MMR
-    shapeID: 60261553B91156237471736
-  HopangAdm2MMR:
-    admin_name: Hopang
-    iso3c: MMR
-    shapeID: 60261553B42594704122339
-  Hpa-AnAdm2MMR:
-    admin_name: Hpa-An
-    iso3c: MMR
-    shapeID: 60261553B96608852730046
-  HpapunAdm2MMR:
-    admin_name: Hpapun
-    iso3c: MMR
-    shapeID: 60261553B97076149795033
-  KachinAdm1MMR:
-    admin_name: Kachin
-    iso3c: MMR
-    shapeID: 20573499B79934184351821
-  KaleAdm2MMR:
-    admin_name: Kale
-    iso3c: MMR
-    shapeID: 60261553B8221618130624
-  KanbaluAdm2MMR:
-    admin_name: Kanbalu
-    iso3c: MMR
-    shapeID: 60261553B80816237630627
-  KathaAdm2MMR:
-    admin_name: Katha
-    iso3c: MMR
-    shapeID: 60261553B54197947879165
-  KawkareikAdm2MMR:
-    admin_name: Kawkareik
-    iso3c: MMR
-    shapeID: 60261553B42100651402541
-  KawthoungAdm2MMR:
-    admin_name: Kawthoung
-    iso3c: MMR
-    shapeID: 60261553B98033082841224
-  KayahAdm1MMR:
-    admin_name: Kayah
-    iso3c: MMR
-    shapeID: 20573499B20332088310808
-  KayinAdm1MMR:
-    admin_name: Kayin
-    iso3c: MMR
-    shapeID: 20573499B82081528957960
-  KengtungAdm2MMR:
-    admin_name: Kengtung
-    iso3c: MMR
-    shapeID: 60261553B37663404803056
-  KyaukmeAdm2MMR:
-    admin_name: Kyaukme
-    iso3c: MMR
-    shapeID: 60261553B11251200769941
-  KyaukpyuAdm2MMR:
-    admin_name: Kyaukpyu
-    iso3c: MMR
-    shapeID: 60261553B96709228149477
-  KyaukseAdm2MMR:
-    admin_name: Kyaukse
-    iso3c: MMR
-    shapeID: 60261553B75007894173024
-  LabuttaAdm2MMR:
-    admin_name: Labutta
-    iso3c: MMR
-    shapeID: 60261553B3473904040713
-  LangkhoAdm2MMR:
-    admin_name: Langkho
-    iso3c: MMR
-    shapeID: 60261553B57199101523672
-  LashioAdm2MMR:
-    admin_name: Lashio
-    iso3c: MMR
-    shapeID: 60261553B9019752921327
-  LaukkaingAdm2MMR:
-    admin_name: Laukkaing
-    iso3c: MMR
-    shapeID: 60261553B25476839208576
-  LoikawAdm2MMR:
-    admin_name: Loikaw
-    iso3c: MMR
-    shapeID: 60261553B25125997749826
-  LoilenAdm2MMR:
-    admin_name: Loilen
-    iso3c: MMR
-    shapeID: 60261553B60770274813160
-  MagwayAdm1MMR:
-    admin_name: Magway
-    iso3c: MMR
-    shapeID: 20573499B51748932062429
-  MagwayAdm2MMR:
-    admin_name: Magway
-    iso3c: MMR
-    shapeID: 60261553B24389889044331
-  MandalayAdm1MMR:
-    admin_name: Mandalay
-    iso3c: MMR
-    shapeID: 20573499B45980987355836
-  MandalayAdm2MMR:
-    admin_name: Mandalay
-    iso3c: MMR
-    shapeID: 60261553B2723221956862
-  MatmanAdm2MMR:
-    admin_name: Matman
-    iso3c: MMR
-    shapeID: 60261553B76959974834297
-  MaubinAdm2MMR:
-    admin_name: Maubin
-    iso3c: MMR
-    shapeID: 60261553B45059924625882
-  MaungdawAdm2MMR:
-    admin_name: Maungdaw
-    iso3c: MMR
-    shapeID: 60261553B63127450973926
-  MawlaikAdm2MMR:
-    admin_name: Mawlaik
-    iso3c: MMR
-    shapeID: 60261553B47097675193132
-  MawlamyineAdm2MMR:
-    admin_name: Mawlamyine
-    iso3c: MMR
-    shapeID: 60261553B68016490563167
-  MeiktilaAdm2MMR:
-    admin_name: Meiktila
-    iso3c: MMR
-    shapeID: 60261553B62690814577767
-  MinbuAdm2MMR:
-    admin_name: Minbu
-    iso3c: MMR
-    shapeID: 60261553B50567728635340
-  MindatAdm2MMR:
-    admin_name: Mindat
-    iso3c: MMR
-    shapeID: 60261553B42580025975984
-  MohnyinAdm2MMR:
-    admin_name: Mohnyin
-    iso3c: MMR
-    shapeID: 60261553B43552707692155
-  MonAdm1MMR:
-    admin_name: Mon
-    iso3c: MMR
-    shapeID: 20573499B93796524737308
-  MonghsatAdm2MMR:
-    admin_name: Monghsat
-    iso3c: MMR
-    shapeID: 60261553B30377978208155
-  MongmitAdm2MMR:
-    admin_name: Mongmit
-    iso3c: MMR
-    shapeID: 60261553B47927244306480
-  MonywaAdm2MMR:
-    admin_name: Monywa
-    iso3c: MMR
-    shapeID: 60261553B28979630774365
-  Mrauk-UAdm2MMR:
-    admin_name: Mrauk-U
-    iso3c: MMR
-    shapeID: 60261553B1263911264167
-  MuseAdm2MMR:
-    admin_name: Muse
-    iso3c: MMR
-    shapeID: 60261553B93917356889079
-  MyaungmyaAdm2MMR:
-    admin_name: Myaungmya
-    iso3c: MMR
-    shapeID: 60261553B8294566306540
-  MyawaddyAdm2MMR:
-    admin_name: Myawaddy
-    iso3c: MMR
-    shapeID: 60261553B30562402338544
-  MyeikAdm2MMR:
-    admin_name: Myeik
-    iso3c: MMR
-    shapeID: 60261553B82376991609151
-  MyingyanAdm2MMR:
-    admin_name: Myingyan
-    iso3c: MMR
-    shapeID: 60261553B69002423633875
-  MyitkyinaAdm2MMR:
-    admin_name: Myitkyina
-    iso3c: MMR
-    shapeID: 60261553B87045265182451
-  Nyaung-UAdm2MMR:
-    admin_name: Nyaung-U
-    iso3c: MMR
-    shapeID: 60261553B51345078390617
-  OkeTaRaAdm2MMR:
-    admin_name: OkeTaRa
-    iso3c: MMR
-    shapeID: 60261553B97058697426989
-  PakokkuAdm2MMR:
-    admin_name: Pakokku
-    iso3c: MMR
-    shapeID: 60261553B95135707926293
-  PatheinAdm2MMR:
-    admin_name: Pathein
-    iso3c: MMR
-    shapeID: 60261553B36650423786052
-  Puta-OAdm2MMR:
-    admin_name: Puta-O
-    iso3c: MMR
-    shapeID: 60261553B82845282425117
-  PyaponAdm2MMR:
-    admin_name: Pyapon
-    iso3c: MMR
-    shapeID: 60261553B36201163114452
-  PyayAdm2MMR:
-    admin_name: Pyay
-    iso3c: MMR
-    shapeID: 60261553B730883612766
-  PyinoolwinAdm2MMR:
-    admin_name: Pyinoolwin
-    iso3c: MMR
-    shapeID: 60261553B76986100212845
-  RakhineAdm1MMR:
+    admin_level: Adm1
     admin_name: Rakhine
-    iso3c: MMR
     shapeID: 20573499B29373908448635
-  SagaingAdm2MMR:
-    admin_name: Sagaing
+    country_name: Myanmar
+  Myanmar_Adm1_11:
     iso3c: MMR
-    shapeID: 60261553B34432285334983
-  SaigangAdm1MMR:
-    admin_name: Saigang
-    iso3c: MMR
-    shapeID: 20573499B8199738503087
-  ShanAdm1MMR:
-    admin_name: Shan
-    iso3c: MMR
-    shapeID: 20573499B82952573339616
-  ShweboAdm2MMR:
-    admin_name: Shwebo
-    iso3c: MMR
-    shapeID: 60261553B74508542584232
-  SittweAdm2MMR:
-    admin_name: Sittwe
-    iso3c: MMR
-    shapeID: 60261553B78069071602625
-  TachileikAdm2MMR:
-    admin_name: Tachileik
-    iso3c: MMR
-    shapeID: 60261553B30441775870549
-  TamuAdm2MMR:
-    admin_name: Tamu
-    iso3c: MMR
-    shapeID: 60261553B38505178364809
-  TanitharyiAdm1MMR:
+    admin_level: Adm1
     admin_name: Tanitharyi
-    iso3c: MMR
     shapeID: 20573499B47967485654923
-  TaunggyiAdm2MMR:
-    admin_name: Taunggyi
+    country_name: Myanmar
+  Myanmar_Adm1_12:
     iso3c: MMR
-    shapeID: 60261553B67272669909031
-  TaungooAdm2MMR:
-    admin_name: Taungoo
+    admin_level: Adm1
+    admin_name: Bago
+    shapeID: 20573499B19694912925518
+    country_name: Myanmar
+  Myanmar_Adm1_13:
     iso3c: MMR
-    shapeID: 60261553B53825313002023
-  ThandweAdm2MMR:
-    admin_name: Thandwe
-    iso3c: MMR
-    shapeID: 60261553B46892654123535
-  ThatonAdm2MMR:
-    admin_name: Thaton
-    iso3c: MMR
-    shapeID: 60261553B13890911859525
-  ThayarwadyAdm2MMR:
-    admin_name: Thayarwady
-    iso3c: MMR
-    shapeID: 60261553B84336516867138
-  ThayetAdm2MMR:
-    admin_name: Thayet
-    iso3c: MMR
-    shapeID: 60261553B17186200244276
-  YamethinAdm2MMR:
-    admin_name: Yamethin
-    iso3c: MMR
-    shapeID: 60261553B80519287808549
-  Yangon(East)Adm2MMR:
-    admin_name: Yangon(East)
-    iso3c: MMR
-    shapeID: 60261553B46723390806239
-  Yangon(North)Adm2MMR:
-    admin_name: Yangon(North)
-    iso3c: MMR
-    shapeID: 60261553B66884558345744
-  Yangon(South)Adm2MMR:
-    admin_name: Yangon(South)
-    iso3c: MMR
-    shapeID: 60261553B83294236469928
-  Yangon(West)Adm2MMR:
-    admin_name: Yangon(West)
-    iso3c: MMR
-    shapeID: 60261553B21361013305345
-  YangonAdm1MMR:
+    admin_level: Adm1
     admin_name: Yangon
-    iso3c: MMR
     shapeID: 20573499B24734669936209
-  YinmarbinAdm2MMR:
-    admin_name: Yinmarbin
+    country_name: Myanmar
+  Myanmar_Adm1_14:
     iso3c: MMR
+    admin_level: Adm1
+    admin_name: Shan
+    shapeID: 20573499B82952573339616
+    country_name: Myanmar
+  Myanmar_Adm1_2:
+    iso3c: MMR
+    admin_level: Adm1
+    admin_name: Chin
+    shapeID: 20573499B58864057590207
+    country_name: Myanmar
+  Myanmar_Adm1_3:
+    iso3c: MMR
+    admin_level: Adm1
+    admin_name: Saigang
+    shapeID: 20573499B8199738503087
+    country_name: Myanmar
+  Myanmar_Adm1_4:
+    iso3c: MMR
+    admin_level: Adm1
+    admin_name: Kachin
+    shapeID: 20573499B79934184351821
+    country_name: Myanmar
+  Myanmar_Adm1_5:
+    iso3c: MMR
+    admin_level: Adm1
+    admin_name: Kayah
+    shapeID: 20573499B20332088310808
+    country_name: Myanmar
+  Myanmar_Adm1_6:
+    iso3c: MMR
+    admin_level: Adm1
+    admin_name: Kayin
+    shapeID: 20573499B82081528957960
+    country_name: Myanmar
+  Myanmar_Adm1_7:
+    iso3c: MMR
+    admin_level: Adm1
+    admin_name: Magway
+    shapeID: 20573499B51748932062429
+    country_name: Myanmar
+  Myanmar_Adm1_8:
+    iso3c: MMR
+    admin_level: Adm1
+    admin_name: Mandalay
+    shapeID: 20573499B45980987355836
+    country_name: Myanmar
+  Myanmar_Adm1_9:
+    iso3c: MMR
+    admin_level: Adm1
+    admin_name: Mon
+    shapeID: 20573499B93796524737308
+    country_name: Myanmar
+  Myanmar_Adm2_1:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Hinthada
+    shapeID: 60261553B48695999525720
+    country_name: Myanmar
+  Myanmar_Adm2_10:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Thayarwady
+    shapeID: 60261553B84336516867138
+    country_name: Myanmar
+  Myanmar_Adm2_11:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Falam
+    shapeID: 60261553B58296948192675
+    country_name: Myanmar
+  Myanmar_Adm2_12:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Hakha
+    shapeID: 60261553B91300055563286
+    country_name: Myanmar
+  Myanmar_Adm2_13:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Mindat
+    shapeID: 60261553B42580025975984
+    country_name: Myanmar
+  Myanmar_Adm2_14:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Bhamo
+    shapeID: 60261553B27046412343024
+    country_name: Myanmar
+  Myanmar_Adm2_15:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Mohnyin
+    shapeID: 60261553B43552707692155
+    country_name: Myanmar
+  Myanmar_Adm2_16:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Myitkyina
+    shapeID: 60261553B87045265182451
+    country_name: Myanmar
+  Myanmar_Adm2_17:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Puta-O
+    shapeID: 60261553B82845282425117
+    country_name: Myanmar
+  Myanmar_Adm2_18:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Bawlake
+    shapeID: 60261553B12408734015728
+    country_name: Myanmar
+  Myanmar_Adm2_19:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Loikaw
+    shapeID: 60261553B25125997749826
+    country_name: Myanmar
+  Myanmar_Adm2_2:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Labutta
+    shapeID: 60261553B3473904040713
+    country_name: Myanmar
+  Myanmar_Adm2_20:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Hpa-An
+    shapeID: 60261553B96608852730046
+    country_name: Myanmar
+  Myanmar_Adm2_21:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Hpapun
+    shapeID: 60261553B97076149795033
+    country_name: Myanmar
+  Myanmar_Adm2_22:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Kawkareik
+    shapeID: 60261553B42100651402541
+    country_name: Myanmar
+  Myanmar_Adm2_23:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Myawaddy
+    shapeID: 60261553B30562402338544
+    country_name: Myanmar
+  Myanmar_Adm2_24:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Gangaw
+    shapeID: 60261553B4120080326164
+    country_name: Myanmar
+  Myanmar_Adm2_25:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Magway
+    shapeID: 60261553B24389889044331
+    country_name: Myanmar
+  Myanmar_Adm2_26:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Minbu
+    shapeID: 60261553B50567728635340
+    country_name: Myanmar
+  Myanmar_Adm2_27:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Pakokku
+    shapeID: 60261553B95135707926293
+    country_name: Myanmar
+  Myanmar_Adm2_28:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Thayet
+    shapeID: 60261553B17186200244276
+    country_name: Myanmar
+  Myanmar_Adm2_29:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Kyaukse
+    shapeID: 60261553B75007894173024
+    country_name: Myanmar
+  Myanmar_Adm2_3:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Maubin
+    shapeID: 60261553B45059924625882
+    country_name: Myanmar
+  Myanmar_Adm2_30:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Mandalay
+    shapeID: 60261553B2723221956862
+    country_name: Myanmar
+  Myanmar_Adm2_31:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Meiktila
+    shapeID: 60261553B62690814577767
+    country_name: Myanmar
+  Myanmar_Adm2_32:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Myingyan
+    shapeID: 60261553B69002423633875
+    country_name: Myanmar
+  Myanmar_Adm2_33:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Nyaung-U
+    shapeID: 60261553B51345078390617
+    country_name: Myanmar
+  Myanmar_Adm2_34:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Pyinoolwin
+    shapeID: 60261553B76986100212845
+    country_name: Myanmar
+  Myanmar_Adm2_35:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Yamethin
+    shapeID: 60261553B80519287808549
+    country_name: Myanmar
+  Myanmar_Adm2_36:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Mawlamyine
+    shapeID: 60261553B68016490563167
+    country_name: Myanmar
+  Myanmar_Adm2_37:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Thaton
+    shapeID: 60261553B13890911859525
+    country_name: Myanmar
+  Myanmar_Adm2_38:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: DetKhiNa
+    shapeID: 60261553B61671453611956
+    country_name: Myanmar
+  Myanmar_Adm2_39:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: OkeTaRa
+    shapeID: 60261553B97058697426989
+    country_name: Myanmar
+  Myanmar_Adm2_4:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Myaungmya
+    shapeID: 60261553B8294566306540
+    country_name: Myanmar
+  Myanmar_Adm2_40:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Kyaukpyu
+    shapeID: 60261553B96709228149477
+    country_name: Myanmar
+  Myanmar_Adm2_41:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Maungdaw
+    shapeID: 60261553B63127450973926
+    country_name: Myanmar
+  Myanmar_Adm2_42:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Mrauk-U
+    shapeID: 60261553B1263911264167
+    country_name: Myanmar
+  Myanmar_Adm2_43:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Sittwe
+    shapeID: 60261553B78069071602625
+    country_name: Myanmar
+  Myanmar_Adm2_44:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Thandwe
+    shapeID: 60261553B46892654123535
+    country_name: Myanmar
+  Myanmar_Adm2_45:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Hkamti
+    shapeID: 60261553B91156237471736
+    country_name: Myanmar
+  Myanmar_Adm2_46:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Kale
+    shapeID: 60261553B8221618130624
+    country_name: Myanmar
+  Myanmar_Adm2_47:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Kanbalu
+    shapeID: 60261553B80816237630627
+    country_name: Myanmar
+  Myanmar_Adm2_48:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Katha
+    shapeID: 60261553B54197947879165
+    country_name: Myanmar
+  Myanmar_Adm2_49:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Mawlaik
+    shapeID: 60261553B47097675193132
+    country_name: Myanmar
+  Myanmar_Adm2_5:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Pathein
+    shapeID: 60261553B36650423786052
+    country_name: Myanmar
+  Myanmar_Adm2_50:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Monywa
+    shapeID: 60261553B28979630774365
+    country_name: Myanmar
+  Myanmar_Adm2_51:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Sagaing
+    shapeID: 60261553B34432285334983
+    country_name: Myanmar
+  Myanmar_Adm2_52:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Shwebo
+    shapeID: 60261553B74508542584232
+    country_name: Myanmar
+  Myanmar_Adm2_53:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Muse
+    shapeID: 60261553B93917356889079
+    country_name: Myanmar
+  Myanmar_Adm2_54:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Langkho
+    shapeID: 60261553B57199101523672
+    country_name: Myanmar
+  Myanmar_Adm2_55:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Loilen
+    shapeID: 60261553B60770274813160
+    country_name: Myanmar
+  Myanmar_Adm2_56:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Taunggyi
+    shapeID: 60261553B67272669909031
+    country_name: Myanmar
+  Myanmar_Adm2_57:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Dawei
+    shapeID: 60261553B72281625520368
+    country_name: Myanmar
+  Myanmar_Adm2_58:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Kawthoung
+    shapeID: 60261553B98033082841224
+    country_name: Myanmar
+  Myanmar_Adm2_59:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Myeik
+    shapeID: 60261553B82376991609151
+    country_name: Myanmar
+  Myanmar_Adm2_6:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Pyapon
+    shapeID: 60261553B36201163114452
+    country_name: Myanmar
+  Myanmar_Adm2_60:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Yangon(East)
+    shapeID: 60261553B46723390806239
+    country_name: Myanmar
+  Myanmar_Adm2_61:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Yangon(North)
+    shapeID: 60261553B66884558345744
+    country_name: Myanmar
+  Myanmar_Adm2_62:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Yangon(South)
+    shapeID: 60261553B83294236469928
+    country_name: Myanmar
+  Myanmar_Adm2_63:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Yangon(West)
+    shapeID: 60261553B21361013305345
+    country_name: Myanmar
+  Myanmar_Adm2_64:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Tamu
+    shapeID: 60261553B38505178364809
+    country_name: Myanmar
+  Myanmar_Adm2_65:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Yinmarbin
     shapeID: 60261553B62517193175445
+    country_name: Myanmar
+  Myanmar_Adm2_66:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Kengtung
+    shapeID: 60261553B37663404803056
+    country_name: Myanmar
+  Myanmar_Adm2_67:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Monghsat
+    shapeID: 60261553B30377978208155
+    country_name: Myanmar
+  Myanmar_Adm2_68:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Tachileik
+    shapeID: 60261553B30441775870549
+    country_name: Myanmar
+  Myanmar_Adm2_69:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Hopang
+    shapeID: 60261553B42594704122339
+    country_name: Myanmar
+  Myanmar_Adm2_7:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Bago
+    shapeID: 60261553B52408869304596
+    country_name: Myanmar
+  Myanmar_Adm2_70:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Kyaukme
+    shapeID: 60261553B11251200769941
+    country_name: Myanmar
+  Myanmar_Adm2_71:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Lashio
+    shapeID: 60261553B9019752921327
+    country_name: Myanmar
+  Myanmar_Adm2_72:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Laukkaing
+    shapeID: 60261553B25476839208576
+    country_name: Myanmar
+  Myanmar_Adm2_73:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Matman
+    shapeID: 60261553B76959974834297
+    country_name: Myanmar
+  Myanmar_Adm2_74:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Mongmit
+    shapeID: 60261553B47927244306480
+    country_name: Myanmar
+  Myanmar_Adm2_8:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Taungoo
+    shapeID: 60261553B53825313002023
+    country_name: Myanmar
+  Myanmar_Adm2_9:
+    iso3c: MMR
+    admin_level: Adm2
+    admin_name: Pyay
+    shapeID: 60261553B730883612766
+    country_name: Myanmar

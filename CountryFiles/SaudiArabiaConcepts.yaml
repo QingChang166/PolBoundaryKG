@@ -1,641 +1,967 @@
 concepts:
-  '''AsirRegionAdm1SAU':
-    admin_name: '''AsirRegion'
-    iso3c: SAU
-    shapeID: 25081817B79414847265706
-  AbhaAdm2SAU:
-    admin_name: Abha
-    iso3c: SAU
-    shapeID: 3984122B51804876701649
-  AbqaiqGovernorateAdm2SAU:
-    admin_name: AbqaiqGovernorate
-    iso3c: SAU
-    shapeID: 3984122B4619800555153
-  AbuArishAdm2SAU:
-    admin_name: AbuArish
-    iso3c: SAU
-    shapeID: 3984122B22724727158318
-  AdamAdm2SAU:
-    admin_name: Adam
-    iso3c: SAU
-    shapeID: 3984122B570005006642
-  AdDairAdm2SAU:
-    admin_name: AdDair
-    iso3c: SAU
-    shapeID: 3984122B7497647941468
-  AdDarbAdm2SAU:
-    admin_name: AdDarb
-    iso3c: SAU
-    shapeID: 3984122B93330555014597
-  AdDilamAdm2SAU:
-    admin_name: AdDilam
-    iso3c: SAU
-    shapeID: 3984122B16100468455266
-  AdDiriyahAdm2SAU:
-    admin_name: AdDiriyah
-    iso3c: SAU
-    shapeID: 3984122B48280976482389
-  AdDuwadimiAdm2SAU:
-    admin_name: AdDuwadimi
-    iso3c: SAU
-    shapeID: 3984122B96211478214569
-  AfifAdm2SAU:
-    admin_name: Afif
-    iso3c: SAU
-    shapeID: 3984122B48946169239231
-  AhadAlMasarihahAdm2SAU:
-    admin_name: AhadAlMasarihah
-    iso3c: SAU
-    shapeID: 3984122B45033572727411
-  AhadRufaydahAdm2SAU:
-    admin_name: AhadRufaydah
-    iso3c: SAU
-    shapeID: 3984122B9965074397294
-  Al-QassimRegionAdm1SAU:
-    admin_name: Al-QassimRegion
-    iso3c: SAU
-    shapeID: 25081817B98761102949945
-  AlAflajAdm2SAU:
-    admin_name: AlAflaj
-    iso3c: SAU
-    shapeID: 3984122B44248707539988
-  AlAhsaGovernorateAdm2SAU:
-    admin_name: AlAhsaGovernorate
-    iso3c: SAU
-    shapeID: 3984122B69484211656738
-  AlAqiqAdm2SAU:
-    admin_name: AlAqiq
-    iso3c: SAU
-    shapeID: 3984122B31362289860365
-  AlArdiyatAdm2SAU:
-    admin_name: AlArdiyat
-    iso3c: SAU
-    shapeID: 3984122B30168930492514
-  AlAridahAdm2SAU:
-    admin_name: AlAridah
-    iso3c: SAU
-    shapeID: 3984122B90529489036183
-  AlAsyahAdm2SAU:
-    admin_name: AlAsyah
-    iso3c: SAU
-    shapeID: 3984122B64115635366838
-  AlAydabiAdm2SAU:
-    admin_name: AlAydabi
-    iso3c: SAU
-    shapeID: 3984122B69248928493715
-  AlBadAdm2SAU:
-    admin_name: AlBad
-    iso3c: SAU
-    shapeID: 3984122B3708851156849
-  AlBadaiAdm2SAU:
-    admin_name: AlBadai
-    iso3c: SAU
-    shapeID: 3984122B27492717876987
-  AlBahahAdm2SAU:
-    admin_name: AlBahah
-    iso3c: SAU
-    shapeID: 3984122B68383495668590
-  AlBahahRegionAdm1SAU:
-    admin_name: AlBahahRegion
-    iso3c: SAU
-    shapeID: 25081817B90917209203250
-  AlBirkAdm2SAU:
-    admin_name: AlBirk
-    iso3c: SAU
-    shapeID: 3984122B83893098076336
-  AlBukayriyahAdm2SAU:
-    admin_name: AlBukayriyah
-    iso3c: SAU
-    shapeID: 3984122B33387122902294
-  AlGhatAdm2SAU:
-    admin_name: AlGhat
-    iso3c: SAU
-    shapeID: 3984122B63908068371379
-  AlGhazalahAdm2SAU:
-    admin_name: AlGhazalah
-    iso3c: SAU
-    shapeID: 3984122B36085012469316
-  AlHaitAdm2SAU:
-    admin_name: AlHait
-    iso3c: SAU
-    shapeID: 3984122B12009021139817
-  AlHajrahAdm2SAU:
-    admin_name: AlHajrah
-    iso3c: SAU
-    shapeID: 3984122B69466254648027
-  AlHariqAdm2SAU:
-    admin_name: AlHariq
-    iso3c: SAU
-    shapeID: 3984122B43345093389775
-  AlHarjahAdm2SAU:
-    admin_name: AlHarjah
-    iso3c: SAU
-    shapeID: 3984122B81076833717863
-  AlHarthAdm2SAU:
-    admin_name: AlHarth
-    iso3c: SAU
-    shapeID: 3984122B55876340381489
-  AlHinakiyahAdm2SAU:
-    admin_name: AlHinakiyah
-    iso3c: SAU
-    shapeID: 3984122B35742954150102
-  AlIsAdm2SAU:
-    admin_name: AlIs
-    iso3c: SAU
-    shapeID: 3984122B67468002617128
-  AlJawfRegionAdm1SAU:
-    admin_name: AlJawfRegion
-    iso3c: SAU
-    shapeID: 25081817B5742042673291
-  AlJubaylGovernorateAdm2SAU:
-    admin_name: AlJubaylGovernorate
-    iso3c: SAU
-    shapeID: 3984122B84471186351671
-  AlJumumAdm2SAU:
-    admin_name: AlJumum
-    iso3c: SAU
-    shapeID: 3984122B50722062290492
-  AlKamilAdm2SAU:
-    admin_name: AlKamil
-    iso3c: SAU
-    shapeID: 3984122B69121504461453
-  AlKhafjiGovernorateAdm2SAU:
-    admin_name: AlKhafjiGovernorate
-    iso3c: SAU
-    shapeID: 3984122B26220942918379
-  AlKharjAdm2SAU:
-    admin_name: AlKharj
-    iso3c: SAU
-    shapeID: 3984122B32860253667060
-  AlKhubarGovernorateAdm2SAU:
-    admin_name: AlKhubarGovernorate
-    iso3c: SAU
-    shapeID: 3984122B30508649206602
-  AlKhurmahAdm2SAU:
-    admin_name: AlKhurmah
-    iso3c: SAU
-    shapeID: 3984122B24686766089891
-  AlLithAdm2SAU:
-    admin_name: AlLith
-    iso3c: SAU
-    shapeID: 3984122B45351244346346
-  AlMadinahAlMunawwarahAdm2SAU:
-    admin_name: AlMadinahAlMunawwarah
-    iso3c: SAU
-    shapeID: 3984122B50313348444377
-  AlMadinahRegionAdm1SAU:
-    admin_name: AlMadinahRegion
-    iso3c: SAU
-    shapeID: 25081817B5326875801694
-  AlMahdAdm2SAU:
-    admin_name: AlMahd
-    iso3c: SAU
-    shapeID: 3984122B26990711780324
-  AlMajardahAdm2SAU:
-    admin_name: AlMajardah
-    iso3c: SAU
-    shapeID: 3984122B45681957662034
-  AlMajmaahAdm2SAU:
-    admin_name: AlMajmaah
-    iso3c: SAU
-    shapeID: 3984122B56533090756858
-  AlMandaqAdm2SAU:
-    admin_name: AlMandaq
-    iso3c: SAU
-    shapeID: 3984122B96488484620871
-  AlMidhnabAdm2SAU:
-    admin_name: AlMidhnab
-    iso3c: SAU
-    shapeID: 3984122B36507370505821
-  AlMukhwahAdm2SAU:
-    admin_name: AlMukhwah
-    iso3c: SAU
-    shapeID: 3984122B12423677305762
-  AlMuzahimiyahAdm2SAU:
-    admin_name: AlMuzahimiyah
-    iso3c: SAU
-    shapeID: 3984122B11069871020476
-  AlNuayriyahGovernorateAdm2SAU:
-    admin_name: AlNuayriyahGovernorate
-    iso3c: SAU
-    shapeID: 3984122B22034942489238
-  AlQaraAdm2SAU:
-    admin_name: AlQara
-    iso3c: SAU
-    shapeID: 3984122B30402684707510
-  AlQatifGovernorateAdm2SAU:
-    admin_name: AlQatifGovernorate
-    iso3c: SAU
-    shapeID: 3984122B40060340495100
-  AlQunfudhahAdm2SAU:
-    admin_name: AlQunfudhah
-    iso3c: SAU
-    shapeID: 3984122B72809386874180
-  AlQurayyatAdm2SAU:
-    admin_name: AlQurayyat
-    iso3c: SAU
-    shapeID: 3984122B80532318679279
-  AlQuwayiyahAdm2SAU:
-    admin_name: AlQuwayiyah
-    iso3c: SAU
-    shapeID: 3984122B98096827354438
-  AlTaifAdm2SAU:
-    admin_name: AlTaif
-    iso3c: SAU
-    shapeID: 3984122B19781727618423
-  AlUdaydGovernorateAdm2SAU:
-    admin_name: AlUdaydGovernorate
-    iso3c: SAU
-    shapeID: 3984122B39367206521153
-  AlUlaAdm2SAU:
-    admin_name: AlUla
-    iso3c: SAU
-    shapeID: 3984122B50216061485501
-  AlUwayqilahAdm2SAU:
-    admin_name: AlUwayqilah
-    iso3c: SAU
-    shapeID: 3984122B18333295493073
-  AlWajhAdm2SAU:
-    admin_name: AlWajh
-    iso3c: SAU
-    shapeID: 3984122B68053650100350
-  AnNabhaniyahAdm2SAU:
-    admin_name: AnNabhaniyah
-    iso3c: SAU
-    shapeID: 3984122B39265866339380
-  AnNamasAdm2SAU:
-    admin_name: AnNamas
-    iso3c: SAU
-    shapeID: 3984122B52293424846574
-  ArarAdm2SAU:
-    admin_name: Arar
-    iso3c: SAU
-    shapeID: 3984122B40044275926571
-  ArRassAdm2SAU:
-    admin_name: ArRass
-    iso3c: SAU
-    shapeID: 3984122B15700727279445
-  ArRaynAdm2SAU:
-    admin_name: ArRayn
-    iso3c: SAU
-    shapeID: 3984122B64306207967491
-  ArRaythAdm2SAU:
-    admin_name: ArRayth
-    iso3c: SAU
-    shapeID: 3984122B90940708913135
-  AshShamliAdm2SAU:
-    admin_name: AshShamli
-    iso3c: SAU
-    shapeID: 3984122B13662372448842
-  AshShimasiyahAdm2SAU:
-    admin_name: AshShimasiyah
-    iso3c: SAU
-    shapeID: 3984122B87362373452737
-  AshShinanAdm2SAU:
-    admin_name: AshShinan
-    iso3c: SAU
-    shapeID: 3984122B89530353024742
-  AsSulaymiAdm2SAU:
-    admin_name: AsSulaymi
-    iso3c: SAU
-    shapeID: 3984122B6814692020878
-  AsSulayyilAdm2SAU:
-    admin_name: AsSulayyil
-    iso3c: SAU
-    shapeID: 3984122B94186760530457
-  AtTuwalAdm2SAU:
-    admin_name: AtTuwal
-    iso3c: SAU
-    shapeID: 3984122B6871077007483
-  AzZulfiAdm2SAU:
-    admin_name: AzZulfi
-    iso3c: SAU
-    shapeID: 3984122B20567039661840
-  BadrAdm2SAU:
-    admin_name: Badr
-    iso3c: SAU
-    shapeID: 3984122B72489083236979
-  BadrAlJanubAdm2SAU:
-    admin_name: BadrAlJanub
-    iso3c: SAU
-    shapeID: 3984122B4067687799537
-  BahrahAdm2SAU:
-    admin_name: Bahrah
-    iso3c: SAU
-    shapeID: 3984122B81051210981737
-  BalqarnAdm2SAU:
-    admin_name: Balqarn
-    iso3c: SAU
-    shapeID: 3984122B28930414143563
-  BaniHasanAdm2SAU:
-    admin_name: BaniHasan
-    iso3c: SAU
-    shapeID: 3984122B97825072008534
-  BaqaAdm2SAU:
-    admin_name: Baqa
-    iso3c: SAU
-    shapeID: 3984122B33643384104424
-  BariqAdm2SAU:
-    admin_name: Bariq
-    iso3c: SAU
-    shapeID: 3984122B41076127569614
-  BayshAdm2SAU:
-    admin_name: Baysh
-    iso3c: SAU
-    shapeID: 3984122B34457102514074
-  BiljurashiAdm2SAU:
-    admin_name: Biljurashi
-    iso3c: SAU
-    shapeID: 3984122B86528100329194
-  BishahAdm2SAU:
-    admin_name: Bishah
-    iso3c: SAU
-    shapeID: 3984122B19652940197421
-  BuraydahAdm2SAU:
-    admin_name: Buraydah
-    iso3c: SAU
-    shapeID: 3984122B17448631655978
-  DamadAdm2SAU:
-    admin_name: Damad
-    iso3c: SAU
-    shapeID: 3984122B72811799674202
-  DariyahAdm2SAU:
-    admin_name: Dariyah
-    iso3c: SAU
-    shapeID: 3984122B92001523391587
-  DawamatAlJandalAdm2SAU:
-    admin_name: DawamatAlJandal
-    iso3c: SAU
-    shapeID: 3984122B72402855979310
-  DubaAdm2SAU:
-    admin_name: Duba
-    iso3c: SAU
-    shapeID: 3984122B34924504957971
-  DurumaAdm2SAU:
-    admin_name: Duruma
-    iso3c: SAU
-    shapeID: 3984122B68613467322132
-  EasternRegionAdm1SAU:
+  SaudiArabia_Adm0:
+    iso3c: SAU
+    admin_level: Adm0
+    admin_name: SaudiArabia
+    shapeID: 44563762B31563107311120
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_1:
+    iso3c: SAU
+    admin_level: Adm1
     admin_name: EasternRegion
-    iso3c: SAU
     shapeID: 25081817B34473806557189
-  FarasanAdm2SAU:
-    admin_name: Farasan
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_10:
     iso3c: SAU
-    shapeID: 3984122B10336140698777
-  FaratGhamidAzZinadAdm2SAU:
-    admin_name: FaratGhamidAzZinad
+    admin_level: Adm1
+    admin_name: Al-QassimRegion
+    shapeID: 25081817B98761102949945
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_11:
     iso3c: SAU
-    shapeID: 3984122B52962082234192
-  FayfaAdm2SAU:
-    admin_name: Fayfa
+    admin_level: Adm1
+    admin_name: AlBahahRegion
+    shapeID: 25081817B90917209203250
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_12:
     iso3c: SAU
-    shapeID: 3984122B64053799275284
-  HafarAlBatinGovernorateAdm2SAU:
-    admin_name: HafarAlBatinGovernorate
-    iso3c: SAU
-    shapeID: 3984122B16255149512867
-  HailAdm2SAU:
-    admin_name: Hail
-    iso3c: SAU
-    shapeID: 3984122B95191279844265
-  HaqilAdm2SAU:
-    admin_name: Haqil
-    iso3c: SAU
-    shapeID: 3984122B35604631232449
-  HarubAdm2SAU:
-    admin_name: Harub
-    iso3c: SAU
-    shapeID: 3984122B26008207419026
-  HawtatBaniTamimAdm2SAU:
-    admin_name: HawtatBaniTamim
-    iso3c: SAU
-    shapeID: 3984122B7481963684562
-  HayelRegionAdm1SAU:
-    admin_name: HayelRegion
-    iso3c: SAU
-    shapeID: 25081817B30843703179747
-  HubunaAdm2SAU:
-    admin_name: Hubuna
-    iso3c: SAU
-    shapeID: 3984122B48714984453886
-  HuraymilaAdm2SAU:
-    admin_name: Huraymila
-    iso3c: SAU
-    shapeID: 3984122B33827806998616
-  JazanAdm2SAU:
-    admin_name: Jazan
-    iso3c: SAU
-    shapeID: 3984122B61358763727991
-  JazanRegionAdm1SAU:
+    admin_level: Adm1
     admin_name: JazanRegion
-    iso3c: SAU
     shapeID: 25081817B72054791986965
-  JiddahAdm2SAU:
-    admin_name: Jiddah
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_13:
     iso3c: SAU
-    shapeID: 3984122B38761650215427
-  KhamisMushaytAdm2SAU:
-    admin_name: KhamisMushayt
+    admin_level: Adm1
+    admin_name: AlJawfRegion
+    shapeID: 25081817B5742042673291
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_2:
     iso3c: SAU
-    shapeID: 3984122B46908914217356
-  KhaybarAdm2SAU:
-    admin_name: Khaybar
-    iso3c: SAU
-    shapeID: 3984122B6641435026118
-  KhubashAdm2SAU:
-    admin_name: Khubash
-    iso3c: SAU
-    shapeID: 3984122B20572203792735
-  KhulaysAdm2SAU:
-    admin_name: Khulays
-    iso3c: SAU
-    shapeID: 3984122B86686016734091
-  MakkahAlMukarramahAdm2SAU:
-    admin_name: MakkahAlMukarramah
-    iso3c: SAU
-    shapeID: 3984122B19556133357457
-  MakkahRegionAdm1SAU:
-    admin_name: MakkahRegion
-    iso3c: SAU
-    shapeID: 25081817B13159281784364
-  MaratAdm2SAU:
-    admin_name: Marat
-    iso3c: SAU
-    shapeID: 3984122B65092650994448
-  MawqaqAdm2SAU:
-    admin_name: Mawqaq
-    iso3c: SAU
-    shapeID: 3984122B480049909683
-  MaysanAdm2SAU:
-    admin_name: Maysan
-    iso3c: SAU
-    shapeID: 3984122B44354089369392
-  MuhayilAdm2SAU:
-    admin_name: Muhayil
-    iso3c: SAU
-    shapeID: 3984122B440816765120
-  NajranAdm2SAU:
-    admin_name: Najran
-    iso3c: SAU
-    shapeID: 3984122B82591755430407
-  NajranRegionAdm1SAU:
+    admin_level: Adm1
     admin_name: NajranRegion
-    iso3c: SAU
     shapeID: 25081817B54479367627811
-  NorthernBordersRegionAdm1SAU:
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_3:
+    iso3c: SAU
+    admin_level: Adm1
     admin_name: NorthernBordersRegion
-    iso3c: SAU
     shapeID: 25081817B61333239611232
-  QaryahAlUlyaGovernorateAdm2SAU:
-    admin_name: QaryahAlUlyaGovernorate
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_4:
     iso3c: SAU
-    shapeID: 3984122B62688507112454
-  QilwahAdm2SAU:
-    admin_name: Qilwah
+    admin_level: Adm1
+    admin_name: HayelRegion
+    shapeID: 25081817B30843703179747
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_5:
     iso3c: SAU
-    shapeID: 3984122B13944600420145
-  RabighAdm2SAU:
-    admin_name: Rabigh
-    iso3c: SAU
-    shapeID: 3984122B58101820729277
-  RafhaAdm2SAU:
-    admin_name: Rafha
-    iso3c: SAU
-    shapeID: 3984122B93334986111826
-  RanyahAdm2SAU:
-    admin_name: Ranyah
-    iso3c: SAU
-    shapeID: 3984122B59353039891704
-  RasTannurahGovernorateAdm2SAU:
-    admin_name: RasTannurahGovernorate
-    iso3c: SAU
-    shapeID: 3984122B61840424602376
-  RijalAlMaAdm2SAU:
-    admin_name: RijalAlMa
-    iso3c: SAU
-    shapeID: 3984122B12678922883619
-  RiyadhAdm2SAU:
-    admin_name: Riyadh
-    iso3c: SAU
-    shapeID: 3984122B77020451037372
-  RiyadhAlKhabraAdm2SAU:
-    admin_name: RiyadhAlKhabra
-    iso3c: SAU
-    shapeID: 3984122B54540270490359
-  RiyadhRegionAdm1SAU:
+    admin_level: Adm1
     admin_name: RiyadhRegion
-    iso3c: SAU
     shapeID: 25081817B56088895138556
-  RumahAdm2SAU:
-    admin_name: Rumah
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_6:
     iso3c: SAU
-    shapeID: 3984122B77323630629341
-  SabyaAdm2SAU:
-    admin_name: Sabya
+    admin_level: Adm1
+    admin_name: '''AsirRegion'
+    shapeID: 25081817B79414847265706
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_7:
     iso3c: SAU
-    shapeID: 3984122B63754303430795
-  SakakaAdm2SAU:
-    admin_name: Sakaka
+    admin_level: Adm1
+    admin_name: MakkahRegion
+    shapeID: 25081817B13159281784364
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_8:
     iso3c: SAU
-    shapeID: 3984122B95279819102585
-  SamtahAdm2SAU:
-    admin_name: Samtah
-    iso3c: SAU
-    shapeID: 3984122B51728476853107
-  SaratAbidahAdm2SAU:
-    admin_name: SaratAbidah
-    iso3c: SAU
-    shapeID: 3984122B75809876949302
-  ShaqraAdm2SAU:
-    admin_name: Shaqra
-    iso3c: SAU
-    shapeID: 3984122B74365690787554
-  SharurahAdm2SAU:
-    admin_name: Sharurah
-    iso3c: SAU
-    shapeID: 3984122B36425593132698
-  SimiraAdm2SAU:
-    admin_name: Simira
-    iso3c: SAU
-    shapeID: 3984122B23018380260764
-  TabukAdm2SAU:
-    admin_name: Tabuk
-    iso3c: SAU
-    shapeID: 3984122B79783370872517
-  TabukRegionAdm1SAU:
+    admin_level: Adm1
     admin_name: TabukRegion
-    iso3c: SAU
     shapeID: 25081817B21311317754967
-  TanumahAdm2SAU:
-    admin_name: Tanumah
+    country_name: SaudiArabia
+  SaudiArabia_Adm1_9:
     iso3c: SAU
-    shapeID: 3984122B49746807963444
-  TaribAdm2SAU:
-    admin_name: Tarib
+    admin_level: Adm1
+    admin_name: AlMadinahRegion
+    shapeID: 25081817B5326875801694
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_1:
     iso3c: SAU
-    shapeID: 3984122B40135172930299
-  TathlithAdm2SAU:
-    admin_name: Tathlith
+    admin_level: Adm2
+    admin_name: AlKhubarGovernorate
+    shapeID: 3984122B30508649206602
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_10:
     iso3c: SAU
-    shapeID: 3984122B92065083933541
-  TaymaAdm2SAU:
-    admin_name: Tayma
+    admin_level: Adm2
+    admin_name: HafarAlBatinGovernorate
+    shapeID: 3984122B16255149512867
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_100:
     iso3c: SAU
-    shapeID: 3984122B14648526267703
-  ThadiqAdm2SAU:
-    admin_name: Thadiq
+    admin_level: Adm2
+    admin_name: Maysan
+    shapeID: 3984122B44354089369392
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_101:
     iso3c: SAU
-    shapeID: 3984122B50313179672016
-  TharAdm2SAU:
-    admin_name: Thar
+    admin_level: Adm2
+    admin_name: AlArdiyat
+    shapeID: 3984122B30168930492514
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_102:
     iso3c: SAU
-    shapeID: 3984122B2939613330368
-  TubarjalAdm2SAU:
-    admin_name: Tubarjal
+    admin_level: Adm2
+    admin_name: Adam
+    shapeID: 3984122B570005006642
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_103:
     iso3c: SAU
-    shapeID: 3984122B14172463980981
-  TurayfAdm2SAU:
-    admin_name: Turayf
+    admin_level: Adm2
+    admin_name: Biljurashi
+    shapeID: 3984122B86528100329194
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_104:
     iso3c: SAU
-    shapeID: 3984122B56317831263034
-  TurubahAdm2SAU:
-    admin_name: Turubah
+    admin_level: Adm2
+    admin_name: AlHajrah
+    shapeID: 3984122B69466254648027
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_105:
     iso3c: SAU
-    shapeID: 3984122B29968432383437
-  UmlujAdm2SAU:
-    admin_name: Umluj
+    admin_level: Adm2
+    admin_name: AlMukhwah
+    shapeID: 3984122B12423677305762
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_106:
     iso3c: SAU
-    shapeID: 3984122B90318481266976
-  UnayzahAdm2SAU:
-    admin_name: Unayzah
+    admin_level: Adm2
+    admin_name: Qilwah
+    shapeID: 3984122B13944600420145
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_107:
     iso3c: SAU
-    shapeID: 3984122B25563935437347
-  UqlatAsSuqurAdm2SAU:
-    admin_name: UqlatAsSuqur
+    admin_level: Adm2
+    admin_name: AlAqiq
+    shapeID: 3984122B31362289860365
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_108:
     iso3c: SAU
-    shapeID: 3984122B57867781654923
-  UyunAlJiwaAdm2SAU:
+    admin_level: Adm2
+    admin_name: AlQara
+    shapeID: 3984122B30402684707510
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_109:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: BaniHasan
+    shapeID: 3984122B97825072008534
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_11:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: QaryahAlUlyaGovernorate
+    shapeID: 3984122B62688507112454
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_110:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlMandaq
+    shapeID: 3984122B96488484620871
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_111:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlBahah
+    shapeID: 3984122B68383495668590
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_112:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: FaratGhamidAzZinad
+    shapeID: 3984122B52962082234192
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_113:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlHarth
+    shapeID: 3984122B55876340381489
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_114:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Damad
+    shapeID: 3984122B72811799674202
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_115:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Fayfa
+    shapeID: 3984122B64053799275284
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_116:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Samtah
+    shapeID: 3984122B51728476853107
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_117:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Farasan
+    shapeID: 3984122B10336140698777
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_118:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AdDarb
+    shapeID: 3984122B93330555014597
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_119:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Sabya
+    shapeID: 3984122B63754303430795
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_12:
+    iso3c: SAU
+    admin_level: Adm2
     admin_name: UyunAlJiwa
-    iso3c: SAU
     shapeID: 3984122B68275600935451
-  WadiAdDawasirAdm2SAU:
-    admin_name: WadiAdDawasir
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_120:
     iso3c: SAU
-    shapeID: 3984122B65404118142218
-  WadiAlFaraAdm2SAU:
-    admin_name: WadiAlFara
+    admin_level: Adm2
+    admin_name: AhadAlMasarihah
+    shapeID: 3984122B45033572727411
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_121:
     iso3c: SAU
-    shapeID: 3984122B69585061714649
-  YadamahAdm2SAU:
-    admin_name: Yadamah
+    admin_level: Adm2
+    admin_name: AlAydabi
+    shapeID: 3984122B69248928493715
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_122:
     iso3c: SAU
-    shapeID: 3984122B76833096678906
-  YanbuAdm2SAU:
-    admin_name: Yanbu
+    admin_level: Adm2
+    admin_name: ArRayth
+    shapeID: 3984122B90940708913135
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_123:
     iso3c: SAU
-    shapeID: 3984122B20787567293330
-  ZahranAlJanubAdm2SAU:
+    admin_level: Adm2
+    admin_name: AtTuwal
+    shapeID: 3984122B6871077007483
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_124:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Jazan
+    shapeID: 3984122B61358763727991
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_125:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Harub
+    shapeID: 3984122B26008207419026
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_126:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AdDair
+    shapeID: 3984122B7497647941468
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_127:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlAridah
+    shapeID: 3984122B90529489036183
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_128:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AbuArish
+    shapeID: 3984122B22724727158318
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_129:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Baysh
+    shapeID: 3984122B34457102514074
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_13:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlMidhnab
+    shapeID: 3984122B36507370505821
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_130:
+    iso3c: SAU
+    admin_level: Adm2
     admin_name: ZahranAlJanub
-    iso3c: SAU
     shapeID: 3984122B54727437999248
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_131:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AhadRufaydah
+    shapeID: 3984122B9965074397294
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_132:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Tathlith
+    shapeID: 3984122B92065083933541
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_133:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Abha
+    shapeID: 3984122B51804876701649
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_134:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Tarib
+    shapeID: 3984122B40135172930299
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_135:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Bishah
+    shapeID: 3984122B19652940197421
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_136:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Muhayil
+    shapeID: 3984122B440816765120
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_137:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlBirk
+    shapeID: 3984122B83893098076336
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_138:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlHarjah
+    shapeID: 3984122B81076833717863
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_139:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Balqarn
+    shapeID: 3984122B28930414143563
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_14:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlAsyah
+    shapeID: 3984122B64115635366838
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_140:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Bariq
+    shapeID: 3984122B41076127569614
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_141:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlMajardah
+    shapeID: 3984122B45681957662034
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_142:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AnNamas
+    shapeID: 3984122B52293424846574
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_143:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: SaratAbidah
+    shapeID: 3984122B75809876949302
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_144:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: RijalAlMa
+    shapeID: 3984122B12678922883619
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_145:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Tanumah
+    shapeID: 3984122B49746807963444
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_146:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: KhamisMushayt
+    shapeID: 3984122B46908914217356
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_147:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlTaif
+    shapeID: 3984122B19781727618423
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_15:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: RiyadhAlKhabra
+    shapeID: 3984122B54540270490359
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_16:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Unayzah
+    shapeID: 3984122B25563935437347
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_17:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: UqlatAsSuqur
+    shapeID: 3984122B57867781654923
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_18:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AnNabhaniyah
+    shapeID: 3984122B39265866339380
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_19:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlBadai
+    shapeID: 3984122B27492717876987
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_2:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AbqaiqGovernorate
+    shapeID: 3984122B4619800555153
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_20:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlBukayriyah
+    shapeID: 3984122B33387122902294
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_21:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Dariyah
+    shapeID: 3984122B92001523391587
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_22:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Buraydah
+    shapeID: 3984122B17448631655978
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_23:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: ArRass
+    shapeID: 3984122B15700727279445
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_24:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AshShimasiyah
+    shapeID: 3984122B87362373452737
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_25:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Mawqaq
+    shapeID: 3984122B480049909683
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_26:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Baqa
+    shapeID: 3984122B33643384104424
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_27:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Hail
+    shapeID: 3984122B95191279844265
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_28:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AshShinan
+    shapeID: 3984122B89530353024742
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_29:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AsSulaymi
+    shapeID: 3984122B6814692020878
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_3:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlAhsaGovernorate
+    shapeID: 3984122B69484211656738
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_30:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlHait
+    shapeID: 3984122B12009021139817
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_31:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Simira
+    shapeID: 3984122B23018380260764
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_32:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AshShamli
+    shapeID: 3984122B13662372448842
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_33:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlGhazalah
+    shapeID: 3984122B36085012469316
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_34:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Rafha
+    shapeID: 3984122B93334986111826
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_35:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Arar
+    shapeID: 3984122B40044275926571
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_36:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Turayf
+    shapeID: 3984122B56317831263034
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_37:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlUwayqilah
+    shapeID: 3984122B18333295493073
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_38:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Sakaka
+    shapeID: 3984122B95279819102585
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_39:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlQurayyat
+    shapeID: 3984122B80532318679279
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_4:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlUdaydGovernorate
+    shapeID: 3984122B39367206521153
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_40:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Tubarjal
+    shapeID: 3984122B14172463980981
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_41:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: DawamatAlJandal
+    shapeID: 3984122B72402855979310
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_42:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Umluj
+    shapeID: 3984122B90318481266976
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_43:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Tayma
+    shapeID: 3984122B14648526267703
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_44:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlWajh
+    shapeID: 3984122B68053650100350
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_45:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Duba
+    shapeID: 3984122B34924504957971
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_46:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlBad
+    shapeID: 3984122B3708851156849
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_47:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Tabuk
+    shapeID: 3984122B79783370872517
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_48:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Haqil
+    shapeID: 3984122B35604631232449
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_49:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Marat
+    shapeID: 3984122B65092650994448
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_5:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlNuayriyahGovernorate
+    shapeID: 3984122B22034942489238
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_50:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: WadiAdDawasir
+    shapeID: 3984122B65404118142218
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_51:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Thadiq
+    shapeID: 3984122B50313179672016
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_52:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AdDiriyah
+    shapeID: 3984122B48280976482389
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_53:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AdDilam
+    shapeID: 3984122B16100468455266
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_54:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Duruma
+    shapeID: 3984122B68613467322132
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_55:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlGhat
+    shapeID: 3984122B63908068371379
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_56:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AsSulayyil
+    shapeID: 3984122B94186760530457
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_57:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: HawtatBaniTamim
+    shapeID: 3984122B7481963684562
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_58:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlMuzahimiyah
+    shapeID: 3984122B11069871020476
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_59:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Huraymila
+    shapeID: 3984122B33827806998616
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_6:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlQatifGovernorate
+    shapeID: 3984122B40060340495100
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_60:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlQuwayiyah
+    shapeID: 3984122B98096827354438
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_61:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlAflaj
+    shapeID: 3984122B44248707539988
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_62:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AzZulfi
+    shapeID: 3984122B20567039661840
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_63:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlMajmaah
+    shapeID: 3984122B56533090756858
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_64:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlKharj
+    shapeID: 3984122B32860253667060
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_65:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Shaqra
+    shapeID: 3984122B74365690787554
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_66:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlHariq
+    shapeID: 3984122B43345093389775
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_67:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Riyadh
+    shapeID: 3984122B77020451037372
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_68:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AdDuwadimi
+    shapeID: 3984122B96211478214569
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_69:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: ArRayn
+    shapeID: 3984122B64306207967491
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_7:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: RasTannurahGovernorate
+    shapeID: 3984122B61840424602376
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_70:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Rumah
+    shapeID: 3984122B77323630629341
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_71:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Afif
+    shapeID: 3984122B48946169239231
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_72:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Khubash
+    shapeID: 3984122B20572203792735
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_73:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Thar
+    shapeID: 3984122B2939613330368
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_74:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Najran
+    shapeID: 3984122B82591755430407
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_75:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Yadamah
+    shapeID: 3984122B76833096678906
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_76:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Sharurah
+    shapeID: 3984122B36425593132698
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_77:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: BadrAlJanub
+    shapeID: 3984122B4067687799537
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_78:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Hubuna
+    shapeID: 3984122B48714984453886
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_79:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlMadinahAlMunawwarah
+    shapeID: 3984122B50313348444377
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_8:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlJubaylGovernorate
+    shapeID: 3984122B84471186351671
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_80:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlMahd
+    shapeID: 3984122B26990711780324
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_81:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Yanbu
+    shapeID: 3984122B20787567293330
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_82:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlHinakiyah
+    shapeID: 3984122B35742954150102
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_83:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Khaybar
+    shapeID: 3984122B6641435026118
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_84:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlUla
+    shapeID: 3984122B50216061485501
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_85:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlIs
+    shapeID: 3984122B67468002617128
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_86:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: WadiAlFara
+    shapeID: 3984122B69585061714649
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_87:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Badr
+    shapeID: 3984122B72489083236979
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_88:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlKamil
+    shapeID: 3984122B69121504461453
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_89:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: MakkahAlMukarramah
+    shapeID: 3984122B19556133357457
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_9:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlKhafjiGovernorate
+    shapeID: 3984122B26220942918379
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_90:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlQunfudhah
+    shapeID: 3984122B72809386874180
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_91:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Jiddah
+    shapeID: 3984122B38761650215427
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_92:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Khulays
+    shapeID: 3984122B86686016734091
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_93:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Turubah
+    shapeID: 3984122B29968432383437
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_94:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlJumum
+    shapeID: 3984122B50722062290492
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_95:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Rabigh
+    shapeID: 3984122B58101820729277
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_96:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlLith
+    shapeID: 3984122B45351244346346
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_97:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Ranyah
+    shapeID: 3984122B59353039891704
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_98:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: AlKhurmah
+    shapeID: 3984122B24686766089891
+    country_name: SaudiArabia
+  SaudiArabia_Adm2_99:
+    iso3c: SAU
+    admin_level: Adm2
+    admin_name: Bahrah
+    shapeID: 3984122B81051210981737
+    country_name: SaudiArabia

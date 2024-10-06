@@ -1,237 +1,361 @@
 concepts:
-  BakelAdm2SEN:
-    admin_name: Bakel
+  Senegal_Adm0:
     iso3c: SEN
-    shapeID: 50182788B16013842146029
-  BambeyAdm2SEN:
-    admin_name: Bambey
+    admin_level: Adm0
+    admin_name: Senegal
+    shapeID: 83371676B15962665051392
+    country_name: Senegal
+  Senegal_Adm1_1:
     iso3c: SEN
-    shapeID: 50182788B75300917140294
-  BignonaAdm2SEN:
-    admin_name: Bignona
-    iso3c: SEN
-    shapeID: 50182788B19391387689457
-  BirkelaneAdm2SEN:
-    admin_name: Birkelane
-    iso3c: SEN
-    shapeID: 50182788B56779252201559
-  BounkilingAdm2SEN:
-    admin_name: Bounkiling
-    iso3c: SEN
-    shapeID: 50182788B68388966372963
-  DaganaAdm2SEN:
-    admin_name: Dagana
-    iso3c: SEN
-    shapeID: 50182788B94177495754038
-  DakarAdm1SEN:
+    admin_level: Adm1
     admin_name: Dakar
-    iso3c: SEN
     shapeID: 71046170B16569890219484
-  DakarAdm2SEN:
-    admin_name: Dakar
+    country_name: Senegal
+  Senegal_Adm1_10:
     iso3c: SEN
-    shapeID: 50182788B18539004609148
-  DiourbelAdm1SEN:
-    admin_name: Diourbel
-    iso3c: SEN
-    shapeID: 71046170B89912390768536
-  DiourbelAdm2SEN:
-    admin_name: Diourbel
-    iso3c: SEN
-    shapeID: 50182788B22549322426328
-  FatickAdm1SEN:
-    admin_name: Fatick
-    iso3c: SEN
-    shapeID: 71046170B84527172065489
-  FatickAdm2SEN:
-    admin_name: Fatick
-    iso3c: SEN
-    shapeID: 50182788B55839740763416
-  FoundiougneAdm2SEN:
-    admin_name: Foundiougne
-    iso3c: SEN
-    shapeID: 50182788B85341589150678
-  GossasAdm2SEN:
-    admin_name: Gossas
-    iso3c: SEN
-    shapeID: 50182788B90737446104605
-  GoudiryAdm2SEN:
-    admin_name: Goudiry
-    iso3c: SEN
-    shapeID: 50182788B18390590381778
-  GoudompAdm2SEN:
-    admin_name: Goudomp
-    iso3c: SEN
-    shapeID: 50182788B48951494587639
-  GuediawayeAdm2SEN:
-    admin_name: Guediawaye
-    iso3c: SEN
-    shapeID: 50182788B55211093773925
-  GuinguineoAdm2SEN:
-    admin_name: Guinguineo
-    iso3c: SEN
-    shapeID: 50182788B97054679922117
-  KaffrineAdm1SEN:
-    admin_name: Kaffrine
-    iso3c: SEN
-    shapeID: 71046170B9856693808493
-  KaffrineAdm2SEN:
-    admin_name: Kaffrine
-    iso3c: SEN
-    shapeID: 50182788B43046627101076
-  KanelAdm2SEN:
-    admin_name: Kanel
-    iso3c: SEN
-    shapeID: 50182788B72122084264725
-  KaolackAdm1SEN:
-    admin_name: Kaolack
-    iso3c: SEN
-    shapeID: 71046170B19471834738959
-  KaolackAdm2SEN:
-    admin_name: Kaolack
-    iso3c: SEN
-    shapeID: 50182788B15645681951695
-  KebemerAdm2SEN:
-    admin_name: Kebemer
-    iso3c: SEN
-    shapeID: 50182788B60047071387499
-  KedougouAdm1SEN:
-    admin_name: Kedougou
-    iso3c: SEN
-    shapeID: 71046170B5066698136661
-  KedougouAdm2SEN:
-    admin_name: Kedougou
-    iso3c: SEN
-    shapeID: 50182788B85082652306110
-  KoldaAdm1SEN:
-    admin_name: Kolda
-    iso3c: SEN
-    shapeID: 71046170B66864032803639
-  KoldaAdm2SEN:
-    admin_name: Kolda
-    iso3c: SEN
-    shapeID: 50182788B77977720497228
-  KoumpentoumAdm2SEN:
-    admin_name: Koumpentoum
-    iso3c: SEN
-    shapeID: 50182788B60464160168835
-  KoungheulAdm2SEN:
-    admin_name: Koungheul
-    iso3c: SEN
-    shapeID: 50182788B42114348275286
-  LinguereAdm2SEN:
-    admin_name: Linguere
-    iso3c: SEN
-    shapeID: 50182788B14678638932037
-  LougaAdm1SEN:
-    admin_name: Louga
-    iso3c: SEN
-    shapeID: 71046170B63374102885919
-  LougaAdm2SEN:
-    admin_name: Louga
-    iso3c: SEN
-    shapeID: 50182788B22933374767599
-  MalemHodarAdm2SEN:
-    admin_name: MalemHodar
-    iso3c: SEN
-    shapeID: 50182788B13883389428586
-  MatamAdm1SEN:
-    admin_name: Matam
-    iso3c: SEN
-    shapeID: 71046170B85295751834134
-  MatamAdm2SEN:
-    admin_name: Matam
-    iso3c: SEN
-    shapeID: 50182788B95113260184043
-  MbackeAdm2SEN:
-    admin_name: Mbacke
-    iso3c: SEN
-    shapeID: 50182788B63857747785645
-  MbourAdm2SEN:
-    admin_name: Mbour
-    iso3c: SEN
-    shapeID: 50182788B56533800648606
-  MedinaYoroufoulaAdm2SEN:
-    admin_name: MedinaYoroufoula
-    iso3c: SEN
-    shapeID: 50182788B71056203552440
-  NioroDuRipAdm2SEN:
-    admin_name: NioroDuRip
-    iso3c: SEN
-    shapeID: 50182788B29473400533502
-  OussouyeAdm2SEN:
-    admin_name: Oussouye
-    iso3c: SEN
-    shapeID: 50182788B11051302290888
-  PikineAdm2SEN:
-    admin_name: Pikine
-    iso3c: SEN
-    shapeID: 50182788B8601261498481
-  PodorAdm2SEN:
-    admin_name: Podor
-    iso3c: SEN
-    shapeID: 50182788B66510054428140
-  RanerouAdm2SEN:
-    admin_name: Ranerou
-    iso3c: SEN
-    shapeID: 50182788B34306626760019
-  RufisqueAdm2SEN:
-    admin_name: Rufisque
-    iso3c: SEN
-    shapeID: 50182788B16861669195445
-  SaintLouisAdm1SEN:
-    admin_name: SaintLouis
-    iso3c: SEN
-    shapeID: 71046170B37999982332216
-  SaintLouisAdm2SEN:
-    admin_name: SaintLouis
-    iso3c: SEN
-    shapeID: 50182788B94115130730188
-  SalemataAdm2SEN:
-    admin_name: Salemata
-    iso3c: SEN
-    shapeID: 50182788B75788529380727
-  SarayaAdm2SEN:
-    admin_name: Saraya
-    iso3c: SEN
-    shapeID: 50182788B8770711358016
-  SedhiouAdm1SEN:
+    admin_level: Adm1
     admin_name: Sedhiou
-    iso3c: SEN
     shapeID: 71046170B19178449543377
-  SedhiouAdm2SEN:
-    admin_name: Sedhiou
+    country_name: Senegal
+  Senegal_Adm1_11:
     iso3c: SEN
-    shapeID: 50182788B34006486463131
-  TambacoundaAdm1SEN:
+    admin_level: Adm1
     admin_name: Tambacounda
-    iso3c: SEN
     shapeID: 71046170B85662395344337
-  TambacoundaAdm2SEN:
-    admin_name: Tambacounda
+    country_name: Senegal
+  Senegal_Adm1_12:
     iso3c: SEN
-    shapeID: 50182788B74600736318601
-  ThiesAdm1SEN:
+    admin_level: Adm1
     admin_name: Thies
-    iso3c: SEN
     shapeID: 71046170B89315153043645
-  ThiesAdm2SEN:
-    admin_name: Thies
+    country_name: Senegal
+  Senegal_Adm1_13:
     iso3c: SEN
-    shapeID: 50182788B65872214095625
-  TivaouneAdm2SEN:
-    admin_name: Tivaoune
-    iso3c: SEN
-    shapeID: 50182788B62483410284412
-  VelingaraAdm2SEN:
-    admin_name: Velingara
-    iso3c: SEN
-    shapeID: 50182788B9780593325351
-  ZiguinchorAdm1SEN:
+    admin_level: Adm1
     admin_name: Ziguinchor
-    iso3c: SEN
     shapeID: 71046170B26251724010642
-  ZiguinchorAdm2SEN:
-    admin_name: Ziguinchor
+    country_name: Senegal
+  Senegal_Adm1_14:
     iso3c: SEN
+    admin_level: Adm1
+    admin_name: Kedougou
+    shapeID: 71046170B5066698136661
+    country_name: Senegal
+  Senegal_Adm1_2:
+    iso3c: SEN
+    admin_level: Adm1
+    admin_name: Diourbel
+    shapeID: 71046170B89912390768536
+    country_name: Senegal
+  Senegal_Adm1_3:
+    iso3c: SEN
+    admin_level: Adm1
+    admin_name: Fatick
+    shapeID: 71046170B84527172065489
+    country_name: Senegal
+  Senegal_Adm1_4:
+    iso3c: SEN
+    admin_level: Adm1
+    admin_name: Kaffrine
+    shapeID: 71046170B9856693808493
+    country_name: Senegal
+  Senegal_Adm1_5:
+    iso3c: SEN
+    admin_level: Adm1
+    admin_name: Kaolack
+    shapeID: 71046170B19471834738959
+    country_name: Senegal
+  Senegal_Adm1_6:
+    iso3c: SEN
+    admin_level: Adm1
+    admin_name: Kolda
+    shapeID: 71046170B66864032803639
+    country_name: Senegal
+  Senegal_Adm1_7:
+    iso3c: SEN
+    admin_level: Adm1
+    admin_name: Louga
+    shapeID: 71046170B63374102885919
+    country_name: Senegal
+  Senegal_Adm1_8:
+    iso3c: SEN
+    admin_level: Adm1
+    admin_name: Matam
+    shapeID: 71046170B85295751834134
+    country_name: Senegal
+  Senegal_Adm1_9:
+    iso3c: SEN
+    admin_level: Adm1
+    admin_name: SaintLouis
+    shapeID: 71046170B37999982332216
+    country_name: Senegal
+  Senegal_Adm2_1:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Bakel
+    shapeID: 50182788B16013842146029
+    country_name: Senegal
+  Senegal_Adm2_10:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Foundiougne
+    shapeID: 50182788B85341589150678
+    country_name: Senegal
+  Senegal_Adm2_11:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Gossas
+    shapeID: 50182788B90737446104605
+    country_name: Senegal
+  Senegal_Adm2_12:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Goudiry
+    shapeID: 50182788B18390590381778
+    country_name: Senegal
+  Senegal_Adm2_13:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Goudomp
+    shapeID: 50182788B48951494587639
+    country_name: Senegal
+  Senegal_Adm2_14:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Guediawaye
+    shapeID: 50182788B55211093773925
+    country_name: Senegal
+  Senegal_Adm2_15:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Guinguineo
+    shapeID: 50182788B97054679922117
+    country_name: Senegal
+  Senegal_Adm2_16:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Kaffrine
+    shapeID: 50182788B43046627101076
+    country_name: Senegal
+  Senegal_Adm2_17:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Kanel
+    shapeID: 50182788B72122084264725
+    country_name: Senegal
+  Senegal_Adm2_18:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Kaolack
+    shapeID: 50182788B15645681951695
+    country_name: Senegal
+  Senegal_Adm2_19:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Kebemer
+    shapeID: 50182788B60047071387499
+    country_name: Senegal
+  Senegal_Adm2_2:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Bambey
+    shapeID: 50182788B75300917140294
+    country_name: Senegal
+  Senegal_Adm2_20:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Kedougou
+    shapeID: 50182788B85082652306110
+    country_name: Senegal
+  Senegal_Adm2_21:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Kolda
+    shapeID: 50182788B77977720497228
+    country_name: Senegal
+  Senegal_Adm2_22:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Koumpentoum
+    shapeID: 50182788B60464160168835
+    country_name: Senegal
+  Senegal_Adm2_23:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Koungheul
+    shapeID: 50182788B42114348275286
+    country_name: Senegal
+  Senegal_Adm2_24:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Linguere
+    shapeID: 50182788B14678638932037
+    country_name: Senegal
+  Senegal_Adm2_25:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Louga
+    shapeID: 50182788B22933374767599
+    country_name: Senegal
+  Senegal_Adm2_26:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: MalemHodar
+    shapeID: 50182788B13883389428586
+    country_name: Senegal
+  Senegal_Adm2_27:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Matam
+    shapeID: 50182788B95113260184043
+    country_name: Senegal
+  Senegal_Adm2_28:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Mbacke
+    shapeID: 50182788B63857747785645
+    country_name: Senegal
+  Senegal_Adm2_29:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Mbour
+    shapeID: 50182788B56533800648606
+    country_name: Senegal
+  Senegal_Adm2_3:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Bignona
+    shapeID: 50182788B19391387689457
+    country_name: Senegal
+  Senegal_Adm2_30:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: MedinaYoroufoula
+    shapeID: 50182788B71056203552440
+    country_name: Senegal
+  Senegal_Adm2_31:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: NioroDuRip
+    shapeID: 50182788B29473400533502
+    country_name: Senegal
+  Senegal_Adm2_32:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Oussouye
+    shapeID: 50182788B11051302290888
+    country_name: Senegal
+  Senegal_Adm2_33:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Pikine
+    shapeID: 50182788B8601261498481
+    country_name: Senegal
+  Senegal_Adm2_34:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Podor
+    shapeID: 50182788B66510054428140
+    country_name: Senegal
+  Senegal_Adm2_35:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Ranerou
+    shapeID: 50182788B34306626760019
+    country_name: Senegal
+  Senegal_Adm2_36:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Rufisque
+    shapeID: 50182788B16861669195445
+    country_name: Senegal
+  Senegal_Adm2_37:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: SaintLouis
+    shapeID: 50182788B94115130730188
+    country_name: Senegal
+  Senegal_Adm2_38:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Salemata
+    shapeID: 50182788B75788529380727
+    country_name: Senegal
+  Senegal_Adm2_39:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Saraya
+    shapeID: 50182788B8770711358016
+    country_name: Senegal
+  Senegal_Adm2_4:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Birkelane
+    shapeID: 50182788B56779252201559
+    country_name: Senegal
+  Senegal_Adm2_40:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Sedhiou
+    shapeID: 50182788B34006486463131
+    country_name: Senegal
+  Senegal_Adm2_41:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Tambacounda
+    shapeID: 50182788B74600736318601
+    country_name: Senegal
+  Senegal_Adm2_42:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Thies
+    shapeID: 50182788B65872214095625
+    country_name: Senegal
+  Senegal_Adm2_43:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Tivaoune
+    shapeID: 50182788B62483410284412
+    country_name: Senegal
+  Senegal_Adm2_44:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Velingara
+    shapeID: 50182788B9780593325351
+    country_name: Senegal
+  Senegal_Adm2_45:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Ziguinchor
     shapeID: 50182788B19119296887329
+    country_name: Senegal
+  Senegal_Adm2_5:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Bounkiling
+    shapeID: 50182788B68388966372963
+    country_name: Senegal
+  Senegal_Adm2_6:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Dagana
+    shapeID: 50182788B94177495754038
+    country_name: Senegal
+  Senegal_Adm2_7:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Dakar
+    shapeID: 50182788B18539004609148
+    country_name: Senegal
+  Senegal_Adm2_8:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Diourbel
+    shapeID: 50182788B22549322426328
+    country_name: Senegal
+  Senegal_Adm2_9:
+    iso3c: SEN
+    admin_level: Adm2
+    admin_name: Fatick
+    shapeID: 50182788B55839740763416
+    country_name: Senegal

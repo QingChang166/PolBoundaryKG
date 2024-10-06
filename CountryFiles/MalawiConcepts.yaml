@@ -1,125 +1,193 @@
 concepts:
-  BalakaAdm2MWI:
-    admin_name: Balaka
+  Malawi_Adm0:
     iso3c: MWI
-    shapeID: 42251766B20450933672567
-  BlantyreAdm2MWI:
-    admin_name: Blantyre
+    admin_level: Adm0
+    admin_name: Malawi
+    shapeID: 68747529B76746634687414
+    country_name: Malawi
+  Malawi_Adm1_1:
     iso3c: MWI
-    shapeID: 42251766B636776762176
-  CentralRegionAdm1MWI:
+    admin_level: Adm1
     admin_name: CentralRegion
-    iso3c: MWI
     shapeID: 82672581B12520625652479
-  ChikwawaAdm2MWI:
-    admin_name: Chikwawa
+    country_name: Malawi
+  Malawi_Adm1_2:
     iso3c: MWI
-    shapeID: 42251766B28594103932184
-  ChiradzuluAdm2MWI:
-    admin_name: Chiradzulu
-    iso3c: MWI
-    shapeID: 42251766B78568245260433
-  ChitipaAdm2MWI:
-    admin_name: Chitipa
-    iso3c: MWI
-    shapeID: 42251766B85605316960959
-  DedzaAdm2MWI:
-    admin_name: Dedza
-    iso3c: MWI
-    shapeID: 42251766B66225457753973
-  DowaAdm2MWI:
-    admin_name: Dowa
-    iso3c: MWI
-    shapeID: 42251766B75153645982813
-  KarongaAdm2MWI:
-    admin_name: Karonga
-    iso3c: MWI
-    shapeID: 42251766B7861013170277
-  KasunguAdm2MWI:
-    admin_name: Kasungu
-    iso3c: MWI
-    shapeID: 42251766B4237185447418
-  LikomaAdm2MWI:
-    admin_name: Likoma
-    iso3c: MWI
-    shapeID: 42251766B55477981037231
-  LilongweAdm2MWI:
-    admin_name: Lilongwe
-    iso3c: MWI
-    shapeID: 42251766B26147222520266
-  MachingaAdm2MWI:
-    admin_name: Machinga
-    iso3c: MWI
-    shapeID: 42251766B63150381936487
-  MangochiAdm2MWI:
-    admin_name: Mangochi
-    iso3c: MWI
-    shapeID: 42251766B89682559169951
-  MchinjiAdm2MWI:
-    admin_name: Mchinji
-    iso3c: MWI
-    shapeID: 42251766B46471952803478
-  MulanjeAdm2MWI:
-    admin_name: Mulanje
-    iso3c: MWI
-    shapeID: 42251766B75579143939980
-  MwanzaAdm2MWI:
-    admin_name: Mwanza
-    iso3c: MWI
-    shapeID: 42251766B31446962769453
-  MzimbaAdm2MWI:
-    admin_name: Mzimba
-    iso3c: MWI
-    shapeID: 42251766B77624810989827
-  NenoAdm2MWI:
-    admin_name: Neno
-    iso3c: MWI
-    shapeID: 42251766B14168102698524
-  NkhataBayAdm2MWI:
-    admin_name: NkhataBay
-    iso3c: MWI
-    shapeID: 42251766B11922581525025
-  NkhotakotaAdm2MWI:
-    admin_name: Nkhotakota
-    iso3c: MWI
-    shapeID: 42251766B56128896232398
-  NorthernRegionAdm1MWI:
-    admin_name: NorthernRegion
-    iso3c: MWI
-    shapeID: 82672581B33227208107325
-  NsanjeAdm2MWI:
-    admin_name: Nsanje
-    iso3c: MWI
-    shapeID: 42251766B55445306782248
-  NtcheuAdm2MWI:
-    admin_name: Ntcheu
-    iso3c: MWI
-    shapeID: 42251766B4706820893431
-  NtchisiAdm2MWI:
-    admin_name: Ntchisi
-    iso3c: MWI
-    shapeID: 42251766B52093988372546
-  PhalombeAdm2MWI:
-    admin_name: Phalombe
-    iso3c: MWI
-    shapeID: 42251766B10434937590290
-  RumphiAdm2MWI:
-    admin_name: Rumphi
-    iso3c: MWI
-    shapeID: 42251766B19667920055188
-  SalimaAdm2MWI:
-    admin_name: Salima
-    iso3c: MWI
-    shapeID: 42251766B16377643813547
-  SouthernRegionAdm1MWI:
+    admin_level: Adm1
     admin_name: SouthernRegion
-    iso3c: MWI
     shapeID: 82672581B71595037145626
-  ThyoloAdm2MWI:
+    country_name: Malawi
+  Malawi_Adm1_3:
+    iso3c: MWI
+    admin_level: Adm1
+    admin_name: NorthernRegion
+    shapeID: 82672581B33227208107325
+    country_name: Malawi
+  Malawi_Adm2_1:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Balaka
+    shapeID: 42251766B20450933672567
+    country_name: Malawi
+  Malawi_Adm2_10:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Likoma
+    shapeID: 42251766B55477981037231
+    country_name: Malawi
+  Malawi_Adm2_11:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Lilongwe
+    shapeID: 42251766B26147222520266
+    country_name: Malawi
+  Malawi_Adm2_12:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Machinga
+    shapeID: 42251766B63150381936487
+    country_name: Malawi
+  Malawi_Adm2_13:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Mangochi
+    shapeID: 42251766B89682559169951
+    country_name: Malawi
+  Malawi_Adm2_14:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Mchinji
+    shapeID: 42251766B46471952803478
+    country_name: Malawi
+  Malawi_Adm2_15:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Mulanje
+    shapeID: 42251766B75579143939980
+    country_name: Malawi
+  Malawi_Adm2_16:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Mwanza
+    shapeID: 42251766B31446962769453
+    country_name: Malawi
+  Malawi_Adm2_17:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Mzimba
+    shapeID: 42251766B77624810989827
+    country_name: Malawi
+  Malawi_Adm2_18:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Neno
+    shapeID: 42251766B14168102698524
+    country_name: Malawi
+  Malawi_Adm2_19:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: NkhataBay
+    shapeID: 42251766B11922581525025
+    country_name: Malawi
+  Malawi_Adm2_2:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Blantyre
+    shapeID: 42251766B636776762176
+    country_name: Malawi
+  Malawi_Adm2_20:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Nkhotakota
+    shapeID: 42251766B56128896232398
+    country_name: Malawi
+  Malawi_Adm2_21:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Nsanje
+    shapeID: 42251766B55445306782248
+    country_name: Malawi
+  Malawi_Adm2_22:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Ntcheu
+    shapeID: 42251766B4706820893431
+    country_name: Malawi
+  Malawi_Adm2_23:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Ntchisi
+    shapeID: 42251766B52093988372546
+    country_name: Malawi
+  Malawi_Adm2_24:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Phalombe
+    shapeID: 42251766B10434937590290
+    country_name: Malawi
+  Malawi_Adm2_25:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Rumphi
+    shapeID: 42251766B19667920055188
+    country_name: Malawi
+  Malawi_Adm2_26:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Salima
+    shapeID: 42251766B16377643813547
+    country_name: Malawi
+  Malawi_Adm2_27:
+    iso3c: MWI
+    admin_level: Adm2
     admin_name: Thyolo
-    iso3c: MWI
     shapeID: 42251766B18929072887304
-  ZombaAdm2MWI:
-    admin_name: Zomba
+    country_name: Malawi
+  Malawi_Adm2_28:
     iso3c: MWI
+    admin_level: Adm2
+    admin_name: Zomba
     shapeID: 42251766B13881881574545
+    country_name: Malawi
+  Malawi_Adm2_3:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Chikwawa
+    shapeID: 42251766B28594103932184
+    country_name: Malawi
+  Malawi_Adm2_4:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Chiradzulu
+    shapeID: 42251766B78568245260433
+    country_name: Malawi
+  Malawi_Adm2_5:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Chitipa
+    shapeID: 42251766B85605316960959
+    country_name: Malawi
+  Malawi_Adm2_6:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Dedza
+    shapeID: 42251766B66225457753973
+    country_name: Malawi
+  Malawi_Adm2_7:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Dowa
+    shapeID: 42251766B75153645982813
+    country_name: Malawi
+  Malawi_Adm2_8:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Karonga
+    shapeID: 42251766B7861013170277
+    country_name: Malawi
+  Malawi_Adm2_9:
+    iso3c: MWI
+    admin_level: Adm2
+    admin_name: Kasungu
+    shapeID: 42251766B4237185447418
+    country_name: Malawi

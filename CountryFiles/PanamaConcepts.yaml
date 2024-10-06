@@ -1,357 +1,541 @@
 concepts:
-  AguadulceAdm2PAN:
-    admin_name: Aguadulce
+  Panama_Adm0:
     iso3c: PAN
-    shapeID: 35544464B59836826406650
-  AlanjeAdm2PAN:
-    admin_name: Alanje
+    admin_level: Adm0
+    admin_name: TheRepublicofPanama
+    shapeID: 86535646B21018205851211
+    country_name: Panama
+  Panama_Adm1_1:
     iso3c: PAN
-    shapeID: 35544464B2044400904902
-  AntónAdm2PAN:
-    admin_name: Antón
-    iso3c: PAN
-    shapeID: 35544464B51577894822537
-  ArraijánAdm2PAN:
-    admin_name: Arraiján
-    iso3c: PAN
-    shapeID: 35544464B31550191226189
-  AtalayaAdm2PAN:
-    admin_name: Atalaya
-    iso3c: PAN
-    shapeID: 35544464B38923835463224
-  BalboaAdm2PAN:
-    admin_name: Balboa
-    iso3c: PAN
-    shapeID: 35544464B8680648562753
-  BarúAdm2PAN:
-    admin_name: Barú
-    iso3c: PAN
-    shapeID: 35544464B97118695767804
-  BesikoAdm2PAN:
-    admin_name: Besiko
-    iso3c: PAN
-    shapeID: 35544464B66777465067959
-  BocasdelToroAdm2PAN:
-    admin_name: BocasdelToro
-    iso3c: PAN
-    shapeID: 35544464B73365109430870
-  BoquerónAdm2PAN:
-    admin_name: Boquerón
-    iso3c: PAN
-    shapeID: 35544464B36404447942008
-  BoqueteAdm2PAN:
-    admin_name: Boquete
-    iso3c: PAN
-    shapeID: 35544464B71515803064888
-  BugabaAdm2PAN:
-    admin_name: Bugaba
-    iso3c: PAN
-    shapeID: 35544464B94237037415944
-  CalobreAdm2PAN:
-    admin_name: Calobre
-    iso3c: PAN
-    shapeID: 35544464B72055613867107
-  CañazasAdm2PAN:
-    admin_name: Cañazas
-    iso3c: PAN
-    shapeID: 35544464B38467816512648
-  CapiraAdm2PAN:
-    admin_name: Capira
-    iso3c: PAN
-    shapeID: 35544464B53871457264549
-  CémacoAdm2PAN:
-    admin_name: Cémaco
-    iso3c: PAN
-    shapeID: 35544464B97787935745550
-  ChagresAdm2PAN:
-    admin_name: Chagres
-    iso3c: PAN
-    shapeID: 35544464B20659112060965
-  ChameAdm2PAN:
-    admin_name: Chame
-    iso3c: PAN
-    shapeID: 35544464B5601098588879
-  ChanguinolaAdm2PAN:
-    admin_name: Changuinola
-    iso3c: PAN
-    shapeID: 35544464B1778139424471
-  ChepiganaAdm2PAN:
-    admin_name: Chepigana
-    iso3c: PAN
-    shapeID: 35544464B97743116241572
-  ChepoAdm2PAN:
-    admin_name: Chepo
-    iso3c: PAN
-    shapeID: 35544464B69999703107277
-  ChimánAdm2PAN:
-    admin_name: Chimán
-    iso3c: PAN
-    shapeID: 35544464B77080496682008
-  ChiriquíGrandeAdm2PAN:
-    admin_name: ChiriquíGrande
-    iso3c: PAN
-    shapeID: 35544464B7059792376072
-  ChitréAdm2PAN:
-    admin_name: Chitré
-    iso3c: PAN
-    shapeID: 35544464B26445161390898
-  ColónAdm2PAN:
-    admin_name: Colón
-    iso3c: PAN
-    shapeID: 35544464B72276923440034
-  ColónProvinceAdm1PAN:
-    admin_name: ColónProvince
-    iso3c: PAN
-    shapeID: 82927092B18334008327541
-  ComarcaEmberá-WounaanAdm1PAN:
-    admin_name: ComarcaEmberá-Wounaan
-    iso3c: PAN
-    shapeID: 82927092B81098200763462
-  ComarcaGunaYalaAdm1PAN:
-    admin_name: ComarcaGunaYala
-    iso3c: PAN
-    shapeID: 82927092B30537193423783
-  ComarcaKunaYalaAdm2PAN:
-    admin_name: ComarcaKunaYala
-    iso3c: PAN
-    shapeID: 35544464B26872392116911
-  ComarcaNgäbe-BugléAdm1PAN:
-    admin_name: ComarcaNgäbe-Buglé
-    iso3c: PAN
-    shapeID: 82927092B82997509005914
-  DavidAdm2PAN:
-    admin_name: David
-    iso3c: PAN
-    shapeID: 35544464B4717226524239
-  DolegaAdm2PAN:
-    admin_name: Dolega
-    iso3c: PAN
-    shapeID: 35544464B94814953668785
-  DonosoAdm2PAN:
-    admin_name: Donoso
-    iso3c: PAN
-    shapeID: 35544464B61389009226289
-  GualacaAdm2PAN:
-    admin_name: Gualaca
-    iso3c: PAN
-    shapeID: 35544464B22441081783437
-  GuararéAdm2PAN:
-    admin_name: Guararé
-    iso3c: PAN
-    shapeID: 35544464B687818134367
-  KankintúAdm2PAN:
-    admin_name: Kankintú
-    iso3c: PAN
-    shapeID: 35544464B2015792153620
-  KusapínAdm2PAN:
-    admin_name: Kusapín
-    iso3c: PAN
-    shapeID: 35544464B37118693502086
-  LaChorreraAdm2PAN:
-    admin_name: LaChorrera
-    iso3c: PAN
-    shapeID: 35544464B93152851867893
-  LaMesaAdm2PAN:
-    admin_name: LaMesa
-    iso3c: PAN
-    shapeID: 35544464B90522605165163
-  LaPintadaAdm2PAN:
-    admin_name: LaPintada
-    iso3c: PAN
-    shapeID: 35544464B73573459744927
-  LasMinasAdm2PAN:
-    admin_name: LasMinas
-    iso3c: PAN
-    shapeID: 35544464B70726679944443
-  LasPalmasAdm2PAN:
-    admin_name: LasPalmas
-    iso3c: PAN
-    shapeID: 35544464B23901142884801
-  LasTablasAdm2PAN:
-    admin_name: LasTablas
-    iso3c: PAN
-    shapeID: 35544464B24860146435947
-  LosPozosAdm2PAN:
-    admin_name: LosPozos
-    iso3c: PAN
-    shapeID: 35544464B7631989916693
-  LosSantosAdm2PAN:
-    admin_name: LosSantos
-    iso3c: PAN
-    shapeID: 35544464B37461869790758
-  MacaracasAdm2PAN:
-    admin_name: Macaracas
-    iso3c: PAN
-    shapeID: 35544464B79147268573624
-  MariatoAdm2PAN:
-    admin_name: Mariato
-    iso3c: PAN
-    shapeID: 35544464B44926155348372
-  MironóAdm2PAN:
-    admin_name: Mironó
-    iso3c: PAN
-    shapeID: 35544464B14615778162617
-  MontijoAdm2PAN:
-    admin_name: Montijo
-    iso3c: PAN
-    shapeID: 35544464B52455238358598
-  MünaAdm2PAN:
-    admin_name: Müna
-    iso3c: PAN
-    shapeID: 35544464B46003057824195
-  NatáAdm2PAN:
-    admin_name: Natá
-    iso3c: PAN
-    shapeID: 35544464B34779473724765
-  NoleDuimaAdm2PAN:
-    admin_name: NoleDuima
-    iso3c: PAN
-    shapeID: 35544464B88224664972653
-  ÑürümAdm2PAN:
-    admin_name: Ñürüm
-    iso3c: PAN
-    shapeID: 35544464B55183613769543
-  OcúAdm2PAN:
-    admin_name: Ocú
-    iso3c: PAN
-    shapeID: 35544464B32201522330751
-  OláAdm2PAN:
-    admin_name: Olá
-    iso3c: PAN
-    shapeID: 35544464B52438824154031
-  PanamáAdm2PAN:
-    admin_name: Panamá
-    iso3c: PAN
-    shapeID: 35544464B75623018343213
-  ParitaAdm2PAN:
-    admin_name: Parita
-    iso3c: PAN
-    shapeID: 35544464B83627234663474
-  PedasíAdm2PAN:
-    admin_name: Pedasí
-    iso3c: PAN
-    shapeID: 35544464B62202964850227
-  PenonoméAdm2PAN:
-    admin_name: Penonomé
-    iso3c: PAN
-    shapeID: 35544464B54827397349612
-  PeséAdm2PAN:
-    admin_name: Pesé
-    iso3c: PAN
-    shapeID: 35544464B3990390948119
-  PinoganaAdm2PAN:
-    admin_name: Pinogana
-    iso3c: PAN
-    shapeID: 35544464B85836861885504
-  PocríAdm2PAN:
-    admin_name: Pocrí
-    iso3c: PAN
-    shapeID: 35544464B40624021846566
-  PortobeloAdm2PAN:
-    admin_name: Portobelo
-    iso3c: PAN
-    shapeID: 35544464B89301673090177
-  ProvinciadeBocasdelToroAdm1PAN:
+    admin_level: Adm1
     admin_name: ProvinciadeBocasdelToro
-    iso3c: PAN
     shapeID: 82927092B39502170322116
-  ProvinciadeChiriquíAdm1PAN:
-    admin_name: ProvinciadeChiriquí
+    country_name: Panama
+  Panama_Adm1_10:
     iso3c: PAN
-    shapeID: 82927092B1094181974383
-  ProvinciadeCocléAdm1PAN:
-    admin_name: ProvinciadeCoclé
-    iso3c: PAN
-    shapeID: 82927092B90628020941788
-  ProvinciadeDariénAdm1PAN:
-    admin_name: ProvinciadeDarién
-    iso3c: PAN
-    shapeID: 82927092B49726656591260
-  ProvinciadeHerreraAdm1PAN:
-    admin_name: ProvinciadeHerrera
-    iso3c: PAN
-    shapeID: 82927092B31072992504870
-  ProvinciadeLosSantosAdm1PAN:
-    admin_name: ProvinciadeLosSantos
-    iso3c: PAN
-    shapeID: 82927092B53100215554732
-  ProvinciadePanamáAdm1PAN:
+    admin_level: Adm1
     admin_name: ProvinciadePanamá
-    iso3c: PAN
     shapeID: 82927092B1953206585656
-  ProvinciadePanamáOesteAdm1PAN:
-    admin_name: ProvinciadePanamáOeste
+    country_name: Panama
+  Panama_Adm1_11:
     iso3c: PAN
-    shapeID: 82927092B58639026682610
-  ProvinciadeVeraguasAdm1PAN:
+    admin_level: Adm1
     admin_name: ProvinciadeVeraguas
-    iso3c: PAN
     shapeID: 82927092B39170055747381
-  RemediosAdm2PAN:
-    admin_name: Remedios
+    country_name: Panama
+  Panama_Adm1_12:
     iso3c: PAN
-    shapeID: 35544464B82986872921628
-  RenacimientoAdm2PAN:
-    admin_name: Renacimiento
+    admin_level: Adm1
+    admin_name: ProvinciadeChiriquí
+    shapeID: 82927092B1094181974383
+    country_name: Panama
+  Panama_Adm1_13:
     iso3c: PAN
-    shapeID: 35544464B69135506248692
-  RíodeJesúsAdm2PAN:
-    admin_name: RíodeJesús
+    admin_level: Adm1
+    admin_name: ProvinciadeCoclé
+    shapeID: 82927092B90628020941788
+    country_name: Panama
+  Panama_Adm1_2:
     iso3c: PAN
-    shapeID: 35544464B55951329462625
-  SambúAdm2PAN:
-    admin_name: Sambú
+    admin_level: Adm1
+    admin_name: ColónProvince
+    shapeID: 82927092B18334008327541
+    country_name: Panama
+  Panama_Adm1_3:
     iso3c: PAN
-    shapeID: 35544464B41200753641773
-  SanCarlosAdm2PAN:
-    admin_name: SanCarlos
+    admin_level: Adm1
+    admin_name: ProvinciadeDarién
+    shapeID: 82927092B49726656591260
+    country_name: Panama
+  Panama_Adm1_4:
     iso3c: PAN
-    shapeID: 35544464B52564118130817
-  SanFélixAdm2PAN:
-    admin_name: SanFélix
+    admin_level: Adm1
+    admin_name: ComarcaEmberá-Wounaan
+    shapeID: 82927092B81098200763462
+    country_name: Panama
+  Panama_Adm1_5:
     iso3c: PAN
-    shapeID: 35544464B1884855613124
-  SanFranciscoAdm2PAN:
-    admin_name: SanFrancisco
+    admin_level: Adm1
+    admin_name: ComarcaGunaYala
+    shapeID: 82927092B30537193423783
+    country_name: Panama
+  Panama_Adm1_6:
     iso3c: PAN
-    shapeID: 35544464B34923513195419
-  SanLorenzoAdm2PAN:
-    admin_name: SanLorenzo
+    admin_level: Adm1
+    admin_name: ProvinciadeHerrera
+    shapeID: 82927092B31072992504870
+    country_name: Panama
+  Panama_Adm1_7:
     iso3c: PAN
-    shapeID: 35544464B69995284434654
-  SanMiguelitoAdm2PAN:
-    admin_name: SanMiguelito
+    admin_level: Adm1
+    admin_name: ProvinciadeLosSantos
+    shapeID: 82927092B53100215554732
+    country_name: Panama
+  Panama_Adm1_8:
     iso3c: PAN
-    shapeID: 35544464B70550696695084
-  SantaFéAdm2PAN:
-    admin_name: SantaFé
+    admin_level: Adm1
+    admin_name: ComarcaNgäbe-Buglé
+    shapeID: 82927092B82997509005914
+    country_name: Panama
+  Panama_Adm1_9:
     iso3c: PAN
-    shapeID: 35544464B37320508305878
-  SantaIsabelAdm2PAN:
-    admin_name: SantaIsabel
+    admin_level: Adm1
+    admin_name: ProvinciadePanamáOeste
+    shapeID: 82927092B58639026682610
+    country_name: Panama
+  Panama_Adm2_1:
     iso3c: PAN
-    shapeID: 35544464B42608984184173
-  SantaMaríaAdm2PAN:
-    admin_name: SantaMaría
+    admin_level: Adm2
+    admin_name: Changuinola
+    shapeID: 35544464B1778139424471
+    country_name: Panama
+  Panama_Adm2_10:
     iso3c: PAN
-    shapeID: 35544464B33325407624230
-  SantiagoAdm2PAN:
-    admin_name: Santiago
+    admin_level: Adm2
+    admin_name: Bugaba
+    shapeID: 35544464B94237037415944
+    country_name: Panama
+  Panama_Adm2_11:
     iso3c: PAN
-    shapeID: 35544464B94939099957222
-  SonáAdm2PAN:
-    admin_name: Soná
+    admin_level: Adm2
+    admin_name: Gualaca
+    shapeID: 35544464B22441081783437
+    country_name: Panama
+  Panama_Adm2_12:
     iso3c: PAN
-    shapeID: 35544464B54310039107980
-  TabogaAdm2PAN:
-    admin_name: Taboga
-    iso3c: PAN
-    shapeID: 35544464B74789014027071
-  ToléAdm2PAN:
+    admin_level: Adm2
     admin_name: Tolé
-    iso3c: PAN
     shapeID: 35544464B42415898156118
-  TonosíAdm2PAN:
-    admin_name: Tonosí
+    country_name: Panama
+  Panama_Adm2_13:
     iso3c: PAN
+    admin_level: Adm2
+    admin_name: SanLorenzo
+    shapeID: 35544464B69995284434654
+    country_name: Panama
+  Panama_Adm2_14:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Remedios
+    shapeID: 35544464B82986872921628
+    country_name: Panama
+  Panama_Adm2_15:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Dolega
+    shapeID: 35544464B94814953668785
+    country_name: Panama
+  Panama_Adm2_16:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Aguadulce
+    shapeID: 35544464B59836826406650
+    country_name: Panama
+  Panama_Adm2_17:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Antón
+    shapeID: 35544464B51577894822537
+    country_name: Panama
+  Panama_Adm2_18:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: LaPintada
+    shapeID: 35544464B73573459744927
+    country_name: Panama
+  Panama_Adm2_19:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Natá
+    shapeID: 35544464B34779473724765
+    country_name: Panama
+  Panama_Adm2_2:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: BocasdelToro
+    shapeID: 35544464B73365109430870
+    country_name: Panama
+  Panama_Adm2_20:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Olá
+    shapeID: 35544464B52438824154031
+    country_name: Panama
+  Panama_Adm2_21:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Penonomé
+    shapeID: 35544464B54827397349612
+    country_name: Panama
+  Panama_Adm2_22:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Mironó
+    shapeID: 35544464B14615778162617
+    country_name: Panama
+  Panama_Adm2_23:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Kankintú
+    shapeID: 35544464B2015792153620
+    country_name: Panama
+  Panama_Adm2_24:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Kusapín
+    shapeID: 35544464B37118693502086
+    country_name: Panama
+  Panama_Adm2_25:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Ñürüm
+    shapeID: 35544464B55183613769543
+    country_name: Panama
+  Panama_Adm2_26:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Müna
+    shapeID: 35544464B46003057824195
+    country_name: Panama
+  Panama_Adm2_27:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: NoleDuima
+    shapeID: 35544464B88224664972653
+    country_name: Panama
+  Panama_Adm2_28:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Besiko
+    shapeID: 35544464B66777465067959
+    country_name: Panama
+  Panama_Adm2_29:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: SantaFé
+    shapeID: 35544464B37320508305878
+    country_name: Panama
+  Panama_Adm2_3:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: ChiriquíGrande
+    shapeID: 35544464B7059792376072
+    country_name: Panama
+  Panama_Adm2_30:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: SanFrancisco
+    shapeID: 35544464B34923513195419
+    country_name: Panama
+  Panama_Adm2_31:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: LaMesa
+    shapeID: 35544464B90522605165163
+    country_name: Panama
+  Panama_Adm2_32:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Santiago
+    shapeID: 35544464B94939099957222
+    country_name: Panama
+  Panama_Adm2_33:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Atalaya
+    shapeID: 35544464B38923835463224
+    country_name: Panama
+  Panama_Adm2_34:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Calobre
+    shapeID: 35544464B72055613867107
+    country_name: Panama
+  Panama_Adm2_35:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Soná
+    shapeID: 35544464B54310039107980
+    country_name: Panama
+  Panama_Adm2_36:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: RíodeJesús
+    shapeID: 35544464B55951329462625
+    country_name: Panama
+  Panama_Adm2_37:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: LasPalmas
+    shapeID: 35544464B23901142884801
+    country_name: Panama
+  Panama_Adm2_38:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Cañazas
+    shapeID: 35544464B38467816512648
+    country_name: Panama
+  Panama_Adm2_39:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Chitré
+    shapeID: 35544464B26445161390898
+    country_name: Panama
+  Panama_Adm2_4:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Renacimiento
+    shapeID: 35544464B69135506248692
+    country_name: Panama
+  Panama_Adm2_40:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Parita
+    shapeID: 35544464B83627234663474
+    country_name: Panama
+  Panama_Adm2_41:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Pesé
+    shapeID: 35544464B3990390948119
+    country_name: Panama
+  Panama_Adm2_42:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: LosPozos
+    shapeID: 35544464B7631989916693
+    country_name: Panama
+  Panama_Adm2_43:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Ocú
+    shapeID: 35544464B32201522330751
+    country_name: Panama
+  Panama_Adm2_44:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: LasMinas
+    shapeID: 35544464B70726679944443
+    country_name: Panama
+  Panama_Adm2_45:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: SantaMaría
+    shapeID: 35544464B33325407624230
+    country_name: Panama
+  Panama_Adm2_46:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Pedasí
+    shapeID: 35544464B62202964850227
+    country_name: Panama
+  Panama_Adm2_47:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Pocrí
+    shapeID: 35544464B40624021846566
+    country_name: Panama
+  Panama_Adm2_48:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Tonosí
     shapeID: 35544464B87180550672206
+    country_name: Panama
+  Panama_Adm2_49:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: LasTablas
+    shapeID: 35544464B24860146435947
+    country_name: Panama
+  Panama_Adm2_5:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: SanFélix
+    shapeID: 35544464B1884855613124
+    country_name: Panama
+  Panama_Adm2_50:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Guararé
+    shapeID: 35544464B687818134367
+    country_name: Panama
+  Panama_Adm2_51:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Macaracas
+    shapeID: 35544464B79147268573624
+    country_name: Panama
+  Panama_Adm2_52:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: LosSantos
+    shapeID: 35544464B37461869790758
+    country_name: Panama
+  Panama_Adm2_53:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Sambú
+    shapeID: 35544464B41200753641773
+    country_name: Panama
+  Panama_Adm2_54:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Cémaco
+    shapeID: 35544464B97787935745550
+    country_name: Panama
+  Panama_Adm2_55:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Chepigana
+    shapeID: 35544464B97743116241572
+    country_name: Panama
+  Panama_Adm2_56:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Pinogana
+    shapeID: 35544464B85836861885504
+    country_name: Panama
+  Panama_Adm2_57:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Donoso
+    shapeID: 35544464B61389009226289
+    country_name: Panama
+  Panama_Adm2_58:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: SantaIsabel
+    shapeID: 35544464B42608984184173
+    country_name: Panama
+  Panama_Adm2_59:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Portobelo
+    shapeID: 35544464B89301673090177
+    country_name: Panama
+  Panama_Adm2_6:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Barú
+    shapeID: 35544464B97118695767804
+    country_name: Panama
+  Panama_Adm2_60:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Chagres
+    shapeID: 35544464B20659112060965
+    country_name: Panama
+  Panama_Adm2_61:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Colón
+    shapeID: 35544464B72276923440034
+    country_name: Panama
+  Panama_Adm2_62:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Balboa
+    shapeID: 35544464B8680648562753
+    country_name: Panama
+  Panama_Adm2_63:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Panamá
+    shapeID: 35544464B75623018343213
+    country_name: Panama
+  Panama_Adm2_64:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: SanMiguelito
+    shapeID: 35544464B70550696695084
+    country_name: Panama
+  Panama_Adm2_65:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Chepo
+    shapeID: 35544464B69999703107277
+    country_name: Panama
+  Panama_Adm2_66:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Chimán
+    shapeID: 35544464B77080496682008
+    country_name: Panama
+  Panama_Adm2_67:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Capira
+    shapeID: 35544464B53871457264549
+    country_name: Panama
+  Panama_Adm2_68:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Chame
+    shapeID: 35544464B5601098588879
+    country_name: Panama
+  Panama_Adm2_69:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: SanCarlos
+    shapeID: 35544464B52564118130817
+    country_name: Panama
+  Panama_Adm2_7:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Alanje
+    shapeID: 35544464B2044400904902
+    country_name: Panama
+  Panama_Adm2_70:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Taboga
+    shapeID: 35544464B74789014027071
+    country_name: Panama
+  Panama_Adm2_71:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Arraiján
+    shapeID: 35544464B31550191226189
+    country_name: Panama
+  Panama_Adm2_72:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: LaChorrera
+    shapeID: 35544464B93152851867893
+    country_name: Panama
+  Panama_Adm2_73:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: ComarcaKunaYala
+    shapeID: 35544464B26872392116911
+    country_name: Panama
+  Panama_Adm2_74:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: David
+    shapeID: 35544464B4717226524239
+    country_name: Panama
+  Panama_Adm2_75:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Mariato
+    shapeID: 35544464B44926155348372
+    country_name: Panama
+  Panama_Adm2_76:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Montijo
+    shapeID: 35544464B52455238358598
+    country_name: Panama
+  Panama_Adm2_8:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Boquerón
+    shapeID: 35544464B36404447942008
+    country_name: Panama
+  Panama_Adm2_9:
+    iso3c: PAN
+    admin_level: Adm2
+    admin_name: Boquete
+    shapeID: 35544464B71515803064888
+    country_name: Panama

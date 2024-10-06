@@ -1,81 +1,127 @@
 concepts:
-  AnjouanAdm1COM:
-    admin_name: Anjouan
+  Comoros_Adm0:
     iso3c: COM
-    shapeID: 22816118B92166148047088
-  DjandoAdm2COM:
-    admin_name: Djando
+    admin_level: Adm0
+    admin_name: Comoros
+    shapeID: 59328049B71413057484473
+    country_name: Comoros
+  Comoros_Adm1_1:
     iso3c: COM
-    shapeID: 10938185B42418571168375
-  DomoniAdm2COM:
-    admin_name: Domoni
-    iso3c: COM
-    shapeID: 10938185B41806506469500
-  FomboniAdm2COM:
-    admin_name: Fomboni
-    iso3c: COM
-    shapeID: 10938185B23268545061954
-  GrandeComoreAdm1COM:
-    admin_name: GrandeComore
-    iso3c: COM
-    shapeID: 22816118B95538827312271
-  Hamahamet-MboinkouAdm2COM:
-    admin_name: Hamahamet-Mboinkou
-    iso3c: COM
-    shapeID: 10938185B70444296254874
-  HambouAdm2COM:
-    admin_name: Hambou
-    iso3c: COM
-    shapeID: 10938185B8813398551192
-  Itsandra-HamanvouAdm2COM:
-    admin_name: Itsandra-Hamanvou
-    iso3c: COM
-    shapeID: 10938185B82482804134728
-  KartalaAdm2COM:
-    admin_name: Kartala
-    iso3c: COM
-    shapeID: 10938185B58200193875213
-  MbadjiniEstAdm2COM:
-    admin_name: MbadjiniEst
-    iso3c: COM
-    shapeID: 10938185B84550121750878
-  MbadjiniOuestAdm2COM:
-    admin_name: MbadjiniOuest
-    iso3c: COM
-    shapeID: 10938185B5285365051467
-  Mitsamiouli-MboudéAdm2COM:
-    admin_name: Mitsamiouli-Mboudé
-    iso3c: COM
-    shapeID: 10938185B67203865227918
-  MoheliAdm1COM:
+    admin_level: Adm1
     admin_name: Moheli
-    iso3c: COM
     shapeID: 22816118B12510721755829
-  Moroni-BambaoAdm2COM:
+    country_name: Comoros
+  Comoros_Adm1_2:
+    iso3c: COM
+    admin_level: Adm1
+    admin_name: Anjouan
+    shapeID: 22816118B92166148047088
+    country_name: Comoros
+  Comoros_Adm1_3:
+    iso3c: COM
+    admin_level: Adm1
+    admin_name: GrandeComore
+    shapeID: 22816118B95538827312271
+    country_name: Comoros
+  Comoros_Adm2_1:
+    iso3c: COM
+    admin_level: Adm2
+    admin_name: Djando
+    shapeID: 10938185B42418571168375
+    country_name: Comoros
+  Comoros_Adm2_10:
+    iso3c: COM
+    admin_level: Adm2
+    admin_name: Mitsamiouli-Mboudé
+    shapeID: 10938185B67203865227918
+    country_name: Comoros
+  Comoros_Adm2_11:
+    iso3c: COM
+    admin_level: Adm2
     admin_name: Moroni-Bambao
-    iso3c: COM
     shapeID: 10938185B83767222062315
-  MrémaniAdm2COM:
+    country_name: Comoros
+  Comoros_Adm2_12:
+    iso3c: COM
+    admin_level: Adm2
     admin_name: Mrémani
-    iso3c: COM
     shapeID: 10938185B83207987774368
-  MutsamuduAdm2COM:
+    country_name: Comoros
+  Comoros_Adm2_13:
+    iso3c: COM
+    admin_level: Adm2
     admin_name: Mutsamudu
-    iso3c: COM
     shapeID: 10938185B74704582538531
-  NioumachioiAdm2COM:
+    country_name: Comoros
+  Comoros_Adm2_14:
+    iso3c: COM
+    admin_level: Adm2
     admin_name: Nioumachioi
-    iso3c: COM
     shapeID: 10938185B46959303700006
-  Oichili-DimaniAdm2COM:
+    country_name: Comoros
+  Comoros_Adm2_15:
+    iso3c: COM
+    admin_level: Adm2
     admin_name: Oichili-Dimani
-    iso3c: COM
     shapeID: 10938185B16841428111903
-  OuaniAdm2COM:
+    country_name: Comoros
+  Comoros_Adm2_16:
+    iso3c: COM
+    admin_level: Adm2
     admin_name: Ouani
-    iso3c: COM
     shapeID: 10938185B16418977449415
-  SimaAdm2COM:
-    admin_name: Sima
+    country_name: Comoros
+  Comoros_Adm2_17:
     iso3c: COM
+    admin_level: Adm2
+    admin_name: Sima
     shapeID: 10938185B89113061759376
+    country_name: Comoros
+  Comoros_Adm2_2:
+    iso3c: COM
+    admin_level: Adm2
+    admin_name: Domoni
+    shapeID: 10938185B41806506469500
+    country_name: Comoros
+  Comoros_Adm2_3:
+    iso3c: COM
+    admin_level: Adm2
+    admin_name: Fomboni
+    shapeID: 10938185B23268545061954
+    country_name: Comoros
+  Comoros_Adm2_4:
+    iso3c: COM
+    admin_level: Adm2
+    admin_name: Hamahamet-Mboinkou
+    shapeID: 10938185B70444296254874
+    country_name: Comoros
+  Comoros_Adm2_5:
+    iso3c: COM
+    admin_level: Adm2
+    admin_name: Hambou
+    shapeID: 10938185B8813398551192
+    country_name: Comoros
+  Comoros_Adm2_6:
+    iso3c: COM
+    admin_level: Adm2
+    admin_name: Itsandra-Hamanvou
+    shapeID: 10938185B82482804134728
+    country_name: Comoros
+  Comoros_Adm2_7:
+    iso3c: COM
+    admin_level: Adm2
+    admin_name: Kartala
+    shapeID: 10938185B58200193875213
+    country_name: Comoros
+  Comoros_Adm2_8:
+    iso3c: COM
+    admin_level: Adm2
+    admin_name: MbadjiniEst
+    shapeID: 10938185B84550121750878
+    country_name: Comoros
+  Comoros_Adm2_9:
+    iso3c: COM
+    admin_level: Adm2
+    admin_name: MbadjiniOuest
+    shapeID: 10938185B5285365051467
+    country_name: Comoros

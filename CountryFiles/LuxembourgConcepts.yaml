@@ -1,469 +1,709 @@
 concepts:
-  BeaufortAdm2LUX:
-    admin_name: Beaufort
+  Luxembourg_Adm0:
     iso3c: LUX
-    shapeID: 21775719B81576122836326
-  BechAdm2LUX:
-    admin_name: Bech
-    iso3c: LUX
-    shapeID: 21775719B93557714674033
-  BeckerichAdm2LUX:
-    admin_name: Beckerich
-    iso3c: LUX
-    shapeID: 21775719B25186964834582
-  BerdorfAdm2LUX:
-    admin_name: Berdorf
-    iso3c: LUX
-    shapeID: 21775719B77656539141274
-  BertrangeAdm2LUX:
-    admin_name: Bertrange
-    iso3c: LUX
-    shapeID: 21775719B89896475155043
-  BettembourgAdm2LUX:
-    admin_name: Bettembourg
-    iso3c: LUX
-    shapeID: 21775719B98887930078722
-  BettendorfAdm2LUX:
-    admin_name: Bettendorf
-    iso3c: LUX
-    shapeID: 21775719B42744922055671
-  BetzdorfAdm2LUX:
-    admin_name: Betzdorf
-    iso3c: LUX
-    shapeID: 21775719B53109211508057
-  BissenAdm2LUX:
-    admin_name: Bissen
-    iso3c: LUX
-    shapeID: 21775719B96705866504601
-  BiwerAdm2LUX:
-    admin_name: Biwer
-    iso3c: LUX
-    shapeID: 21775719B11115917944889
-  Boevange-sur-AttertAdm2LUX:
-    admin_name: Boevange-sur-Attert
-    iso3c: LUX
-    shapeID: 21775719B71463456243881
-  BoulaideAdm2LUX:
-    admin_name: Boulaide
-    iso3c: LUX
-    shapeID: 21775719B85844399022617
-  BourscheidAdm2LUX:
-    admin_name: Bourscheid
-    iso3c: LUX
-    shapeID: 21775719B36889222582909
-  BousAdm2LUX:
-    admin_name: Bous
-    iso3c: LUX
-    shapeID: 21775719B72404358770998
-  CantonCapellenAdm1LUX:
-    admin_name: CantonCapellen
-    iso3c: LUX
-    shapeID: 76397094B22879125121781
-  CantonClervauxAdm1LUX:
-    admin_name: CantonClervaux
-    iso3c: LUX
-    shapeID: 76397094B70222545473363
-  CantonDiekirchAdm1LUX:
-    admin_name: CantonDiekirch
-    iso3c: LUX
-    shapeID: 76397094B91879595380480
-  CantonEchternachAdm1LUX:
-    admin_name: CantonEchternach
-    iso3c: LUX
-    shapeID: 76397094B75044033408583
-  CantonEsch-sur-AlzetteAdm1LUX:
-    admin_name: CantonEsch-sur-Alzette
-    iso3c: LUX
-    shapeID: 76397094B23155303849994
-  CantonGrevenmacherAdm1LUX:
-    admin_name: CantonGrevenmacher
-    iso3c: LUX
-    shapeID: 76397094B81286574502905
-  CantonLuxembourgAdm1LUX:
-    admin_name: CantonLuxembourg
-    iso3c: LUX
-    shapeID: 76397094B53618071923197
-  CantonMerschAdm1LUX:
-    admin_name: CantonMersch
-    iso3c: LUX
-    shapeID: 76397094B49543500261856
-  CantonRedangeAdm1LUX:
-    admin_name: CantonRedange
-    iso3c: LUX
-    shapeID: 76397094B45773647818245
-  CantonRemichAdm1LUX:
-    admin_name: CantonRemich
-    iso3c: LUX
-    shapeID: 76397094B46061876108979
-  CantonViandenAdm1LUX:
-    admin_name: CantonVianden
-    iso3c: LUX
-    shapeID: 76397094B51041035930086
-  CantonWiltzAdm1LUX:
-    admin_name: CantonWiltz
-    iso3c: LUX
-    shapeID: 76397094B67457450323927
-  ClervauxAdm2LUX:
-    admin_name: Clervaux
-    iso3c: LUX
-    shapeID: 21775719B80901335144813
-  Colmar-BergAdm2LUX:
-    admin_name: Colmar-Berg
-    iso3c: LUX
-    shapeID: 21775719B52582225974762
-  ConsdorfAdm2LUX:
-    admin_name: Consdorf
-    iso3c: LUX
-    shapeID: 21775719B13974225377637
-  ConternAdm2LUX:
-    admin_name: Contern
-    iso3c: LUX
-    shapeID: 21775719B69285541651614
-  DalheimAdm2LUX:
-    admin_name: Dalheim
-    iso3c: LUX
-    shapeID: 21775719B96437942520928
-  DiekirchAdm2LUX:
-    admin_name: Diekirch
-    iso3c: LUX
-    shapeID: 21775719B12811001647954
-  DifferdangeAdm2LUX:
-    admin_name: Differdange
-    iso3c: LUX
-    shapeID: 21775719B78315936825868
-  DippachAdm2LUX:
-    admin_name: Dippach
-    iso3c: LUX
-    shapeID: 21775719B36622587135592
-  DudelangeAdm2LUX:
-    admin_name: Dudelange
-    iso3c: LUX
-    shapeID: 21775719B60383903025053
-  EchternachAdm2LUX:
-    admin_name: Echternach
-    iso3c: LUX
-    shapeID: 21775719B12259366230558
-  EllAdm2LUX:
-    admin_name: Ell
-    iso3c: LUX
-    shapeID: 21775719B98405946974679
-  Erpeldange-sur-SûreAdm2LUX:
-    admin_name: Erpeldange-sur-Sûre
-    iso3c: LUX
-    shapeID: 21775719B60306791609610
-  Esch-sur-AlzetteAdm2LUX:
-    admin_name: Esch-sur-Alzette
-    iso3c: LUX
-    shapeID: 21775719B23058548235347
-  Esch-sur-SûreAdm2LUX:
-    admin_name: Esch-sur-Sûre
-    iso3c: LUX
-    shapeID: 21775719B39568608921015
-  EttelbruckAdm2LUX:
-    admin_name: Ettelbruck
-    iso3c: LUX
-    shapeID: 21775719B88920598861802
-  FeulenAdm2LUX:
-    admin_name: Feulen
-    iso3c: LUX
-    shapeID: 21775719B2601504260109
-  FischbachAdm2LUX:
-    admin_name: Fischbach
-    iso3c: LUX
-    shapeID: 21775719B2060157043713
-  FlaxweilerAdm2LUX:
-    admin_name: Flaxweiler
-    iso3c: LUX
-    shapeID: 21775719B1631688346182
-  FrisangeAdm2LUX:
-    admin_name: Frisange
-    iso3c: LUX
-    shapeID: 21775719B68351429546827
-  GarnichAdm2LUX:
-    admin_name: Garnich
-    iso3c: LUX
-    shapeID: 21775719B88269771197434
-  GoesdorfAdm2LUX:
-    admin_name: Goesdorf
-    iso3c: LUX
-    shapeID: 21775719B32854192584893
-  GrevenmacherAdm2LUX:
-    admin_name: Grevenmacher
-    iso3c: LUX
-    shapeID: 21775719B64014963506863
-  GrosbousAdm2LUX:
-    admin_name: Grosbous
-    iso3c: LUX
-    shapeID: 21775719B41529217465013
-  HeffingenAdm2LUX:
-    admin_name: Heffingen
-    iso3c: LUX
-    shapeID: 21775719B80423014850063
-  HesperangeAdm2LUX:
-    admin_name: Hesperange
-    iso3c: LUX
-    shapeID: 21775719B76244882391464
-  HobscheidAdm2LUX:
-    admin_name: Hobscheid
-    iso3c: LUX
-    shapeID: 21775719B8036560650946
-  JunglinsterAdm2LUX:
-    admin_name: Junglinster
-    iso3c: LUX
-    shapeID: 21775719B11079590580609
-  KäerjengAdm2LUX:
-    admin_name: Käerjeng
-    iso3c: LUX
-    shapeID: 21775719B38005128707956
-  KaylAdm2LUX:
-    admin_name: Kayl
-    iso3c: LUX
-    shapeID: 21775719B17928354253129
-  KehlenAdm2LUX:
-    admin_name: Kehlen
-    iso3c: LUX
-    shapeID: 21775719B8841937045509
-  KiischpeltAdm2LUX:
-    admin_name: Kiischpelt
-    iso3c: LUX
-    shapeID: 21775719B89122760295924
-  KoerichAdm2LUX:
-    admin_name: Koerich
-    iso3c: LUX
-    shapeID: 21775719B81745383079240
-  KopstalAdm2LUX:
-    admin_name: Kopstal
-    iso3c: LUX
-    shapeID: 21775719B1960814377094
-  LacdelaHaute-SûreAdm2LUX:
-    admin_name: LacdelaHaute-Sûre
-    iso3c: LUX
-    shapeID: 21775719B16407622860370
-  LarochetteAdm2LUX:
-    admin_name: Larochette
-    iso3c: LUX
-    shapeID: 21775719B65170086529426
-  LenningenAdm2LUX:
-    admin_name: Lenningen
-    iso3c: LUX
-    shapeID: 21775719B54479975605706
-  LeudelangeAdm2LUX:
-    admin_name: Leudelange
-    iso3c: LUX
-    shapeID: 21775719B78588703449335
-  LintgenAdm2LUX:
-    admin_name: Lintgen
-    iso3c: LUX
-    shapeID: 21775719B76138349193524
-  LorentzweilerAdm2LUX:
-    admin_name: Lorentzweiler
-    iso3c: LUX
-    shapeID: 21775719B57961603846352
-  LuxembourgAdm2LUX:
+    admin_level: Adm0
     admin_name: Luxembourg
+    shapeID: 64508393B93504459110629
+    country_name: Luxembourg
+  Luxembourg_Adm1_1:
     iso3c: LUX
-    shapeID: 21775719B67184481956651
-  MamerAdm2LUX:
-    admin_name: Mamer
+    admin_level: Adm1
+    admin_name: CantonEchternach
+    shapeID: 76397094B75044033408583
+    country_name: Luxembourg
+  Luxembourg_Adm1_10:
     iso3c: LUX
-    shapeID: 21775719B8167821855131
-  ManternachAdm2LUX:
-    admin_name: Manternach
+    admin_level: Adm1
+    admin_name: CantonClervaux
+    shapeID: 76397094B70222545473363
+    country_name: Luxembourg
+  Luxembourg_Adm1_11:
     iso3c: LUX
-    shapeID: 21775719B25575460417877
-  MerschAdm2LUX:
-    admin_name: Mersch
+    admin_level: Adm1
+    admin_name: CantonWiltz
+    shapeID: 76397094B67457450323927
+    country_name: Luxembourg
+  Luxembourg_Adm1_12:
     iso3c: LUX
-    shapeID: 21775719B84839302070577
-  MertertAdm2LUX:
-    admin_name: Mertert
+    admin_level: Adm1
+    admin_name: CantonVianden
+    shapeID: 76397094B51041035930086
+    country_name: Luxembourg
+  Luxembourg_Adm1_2:
     iso3c: LUX
-    shapeID: 21775719B42588500248730
-  MertzigAdm2LUX:
-    admin_name: Mertzig
+    admin_level: Adm1
+    admin_name: CantonGrevenmacher
+    shapeID: 76397094B81286574502905
+    country_name: Luxembourg
+  Luxembourg_Adm1_3:
     iso3c: LUX
-    shapeID: 21775719B64025767263573
-  MompachAdm2LUX:
-    admin_name: Mompach
+    admin_level: Adm1
+    admin_name: CantonRemich
+    shapeID: 76397094B46061876108979
+    country_name: Luxembourg
+  Luxembourg_Adm1_4:
     iso3c: LUX
-    shapeID: 21775719B87806168896597
-  MondercangeAdm2LUX:
-    admin_name: Mondercange
+    admin_level: Adm1
+    admin_name: CantonMersch
+    shapeID: 76397094B49543500261856
+    country_name: Luxembourg
+  Luxembourg_Adm1_5:
     iso3c: LUX
-    shapeID: 21775719B82173327168433
-  Mondorf-les-BainsAdm2LUX:
-    admin_name: Mondorf-les-Bains
+    admin_level: Adm1
+    admin_name: CantonCapellen
+    shapeID: 76397094B22879125121781
+    country_name: Luxembourg
+  Luxembourg_Adm1_6:
     iso3c: LUX
-    shapeID: 21775719B51795160969269
-  NiederanvenAdm2LUX:
-    admin_name: Niederanven
+    admin_level: Adm1
+    admin_name: CantonLuxembourg
+    shapeID: 76397094B53618071923197
+    country_name: Luxembourg
+  Luxembourg_Adm1_7:
     iso3c: LUX
-    shapeID: 21775719B43401661375946
-  NommernAdm2LUX:
-    admin_name: Nommern
+    admin_level: Adm1
+    admin_name: CantonRedange
+    shapeID: 76397094B45773647818245
+    country_name: Luxembourg
+  Luxembourg_Adm1_8:
     iso3c: LUX
-    shapeID: 21775719B64351094735989
-  ParcHosingenAdm2LUX:
-    admin_name: ParcHosingen
+    admin_level: Adm1
+    admin_name: CantonDiekirch
+    shapeID: 76397094B91879595380480
+    country_name: Luxembourg
+  Luxembourg_Adm1_9:
     iso3c: LUX
-    shapeID: 21775719B56346038461160
-  PétangeAdm2LUX:
-    admin_name: Pétange
+    admin_level: Adm1
+    admin_name: CantonEsch-sur-Alzette
+    shapeID: 76397094B23155303849994
+    country_name: Luxembourg
+  Luxembourg_Adm2_1:
     iso3c: LUX
-    shapeID: 21775719B73724522943348
-  PréizerdaulAdm2LUX:
-    admin_name: Préizerdaul
+    admin_level: Adm2
+    admin_name: Esch-sur-Alzette
+    shapeID: 21775719B23058548235347
+    country_name: Luxembourg
+  Luxembourg_Adm2_10:
     iso3c: LUX
-    shapeID: 21775719B64584040451589
-  PutscheidAdm2LUX:
-    admin_name: Putscheid
-    iso3c: LUX
-    shapeID: 21775719B27422207835902
-  RambrouchAdm2LUX:
-    admin_name: Rambrouch
-    iso3c: LUX
-    shapeID: 21775719B93260136035460
-  Reckange-sur-MessAdm2LUX:
-    admin_name: Reckange-sur-Mess
-    iso3c: LUX
-    shapeID: 21775719B56620819602201
-  Redange/AttertAdm2LUX:
-    admin_name: Redange/Attert
-    iso3c: LUX
-    shapeID: 21775719B58814695852022
-  ReisdorfAdm2LUX:
-    admin_name: Reisdorf
-    iso3c: LUX
-    shapeID: 21775719B78904795294877
-  RemichAdm2LUX:
-    admin_name: Remich
-    iso3c: LUX
-    shapeID: 21775719B10860636962790
-  RoeserAdm2LUX:
-    admin_name: Roeser
-    iso3c: LUX
-    shapeID: 21775719B63085135447978
-  RosportAdm2LUX:
-    admin_name: Rosport
-    iso3c: LUX
-    shapeID: 21775719B2997409339760
-  RumelangeAdm2LUX:
-    admin_name: Rumelange
-    iso3c: LUX
-    shapeID: 21775719B1069977315926
-  SaeulAdm2LUX:
-    admin_name: Saeul
-    iso3c: LUX
-    shapeID: 21775719B606727021739
-  SandweilerAdm2LUX:
-    admin_name: Sandweiler
-    iso3c: LUX
-    shapeID: 21775719B90251194954856
-  SanemAdm2LUX:
+    admin_level: Adm2
     admin_name: Sanem
-    iso3c: LUX
     shapeID: 21775719B29416267903606
-  SchengenAdm2LUX:
-    admin_name: Schengen
+    country_name: Luxembourg
+  Luxembourg_Adm2_100:
     iso3c: LUX
-    shapeID: 21775719B25577797555845
-  SchierenAdm2LUX:
-    admin_name: Schieren
+    admin_level: Adm2
+    admin_name: Boulaide
+    shapeID: 21775719B85844399022617
+    country_name: Luxembourg
+  Luxembourg_Adm2_101:
     iso3c: LUX
-    shapeID: 21775719B74804173445003
-  SchifflangeAdm2LUX:
-    admin_name: Schifflange
+    admin_level: Adm2
+    admin_name: Goesdorf
+    shapeID: 21775719B32854192584893
+    country_name: Luxembourg
+  Luxembourg_Adm2_102:
     iso3c: LUX
-    shapeID: 21775719B62903588836755
-  SchuttrangeAdm2LUX:
-    admin_name: Schuttrange
+    admin_level: Adm2
+    admin_name: LacdelaHaute-Sûre
+    shapeID: 21775719B16407622860370
+    country_name: Luxembourg
+  Luxembourg_Adm2_103:
     iso3c: LUX
-    shapeID: 21775719B36538740491348
-  SeptfontainesAdm2LUX:
-    admin_name: Septfontaines
-    iso3c: LUX
-    shapeID: 21775719B62416421133476
-  StadtbredimusAdm2LUX:
-    admin_name: Stadtbredimus
-    iso3c: LUX
-    shapeID: 21775719B87694476161166
-  SteinfortAdm2LUX:
-    admin_name: Steinfort
-    iso3c: LUX
-    shapeID: 21775719B900531059285
-  SteinselAdm2LUX:
-    admin_name: Steinsel
-    iso3c: LUX
-    shapeID: 21775719B45842457219080
-  StrassenAdm2LUX:
-    admin_name: Strassen
-    iso3c: LUX
-    shapeID: 21775719B91934859067156
-  TandelAdm2LUX:
-    admin_name: Tandel
-    iso3c: LUX
-    shapeID: 21775719B49537195021049
-  TroisviergesAdm2LUX:
-    admin_name: Troisvierges
-    iso3c: LUX
-    shapeID: 21775719B9456271871995
-  TuntangeAdm2LUX:
-    admin_name: Tuntange
-    iso3c: LUX
-    shapeID: 21775719B93406058949797
-  UseldangeAdm2LUX:
-    admin_name: Useldange
-    iso3c: LUX
-    shapeID: 21775719B32396154687916
-  Vallbedel'ErnzAdm2LUX:
-    admin_name: Vallbedel'Ernz
-    iso3c: LUX
-    shapeID: 21775719B95583115154252
-  ViandenAdm2LUX:
-    admin_name: Vianden
-    iso3c: LUX
-    shapeID: 21775719B56085368038685
-  VichtenAdm2LUX:
-    admin_name: Vichten
-    iso3c: LUX
-    shapeID: 21775719B60659508843421
-  WahlAdm2LUX:
-    admin_name: Wahl
-    iso3c: LUX
-    shapeID: 21775719B43750739828677
-  WaldbilligAdm2LUX:
-    admin_name: Waldbillig
-    iso3c: LUX
-    shapeID: 21775719B82462206175776
-  WaldbredimusAdm2LUX:
-    admin_name: Waldbredimus
-    iso3c: LUX
-    shapeID: 21775719B59634053259773
-  WalferdangeAdm2LUX:
-    admin_name: Walferdange
-    iso3c: LUX
-    shapeID: 21775719B5856106982336
-  Weiler-la-TourAdm2LUX:
-    admin_name: Weiler-la-Tour
-    iso3c: LUX
-    shapeID: 21775719B4138397736316
-  WeiswampachAdm2LUX:
-    admin_name: Weiswampach
-    iso3c: LUX
-    shapeID: 21775719B10380614378112
-  WiltzAdm2LUX:
+    admin_level: Adm2
     admin_name: Wiltz
-    iso3c: LUX
     shapeID: 21775719B85267165688520
-  WincrangeAdm2LUX:
-    admin_name: Wincrange
+    country_name: Luxembourg
+  Luxembourg_Adm2_104:
     iso3c: LUX
-    shapeID: 21775719B30727089923875
-  WinselerAdm2LUX:
+    admin_level: Adm2
     admin_name: Winseler
-    iso3c: LUX
     shapeID: 21775719B66338800417520
-  WormeldangeAdm2LUX:
-    admin_name: Wormeldange
+    country_name: Luxembourg
+  Luxembourg_Adm2_105:
     iso3c: LUX
+    admin_level: Adm2
+    admin_name: Kiischpelt
+    shapeID: 21775719B89122760295924
+    country_name: Luxembourg
+  Luxembourg_Adm2_11:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Differdange
+    shapeID: 21775719B78315936825868
+    country_name: Luxembourg
+  Luxembourg_Adm2_12:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Pétange
+    shapeID: 21775719B73724522943348
+    country_name: Luxembourg
+  Luxembourg_Adm2_13:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Luxembourg
+    shapeID: 21775719B67184481956651
+    country_name: Luxembourg
+  Luxembourg_Adm2_14:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Dalheim
+    shapeID: 21775719B96437942520928
+    country_name: Luxembourg
+  Luxembourg_Adm2_15:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Waldbredimus
+    shapeID: 21775719B59634053259773
+    country_name: Luxembourg
+  Luxembourg_Adm2_16:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Bous
+    shapeID: 21775719B72404358770998
+    country_name: Luxembourg
+  Luxembourg_Adm2_17:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Stadtbredimus
+    shapeID: 21775719B87694476161166
+    country_name: Luxembourg
+  Luxembourg_Adm2_18:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Remich
+    shapeID: 21775719B10860636962790
+    country_name: Luxembourg
+  Luxembourg_Adm2_19:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Mondorf-les-Bains
+    shapeID: 21775719B51795160969269
+    country_name: Luxembourg
+  Luxembourg_Adm2_2:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Mondercange
+    shapeID: 21775719B82173327168433
+    country_name: Luxembourg
+  Luxembourg_Adm2_20:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Schengen
+    shapeID: 21775719B25577797555845
+    country_name: Luxembourg
+  Luxembourg_Adm2_21:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Lenningen
+    shapeID: 21775719B54479975605706
+    country_name: Luxembourg
+  Luxembourg_Adm2_22:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Hobscheid
+    shapeID: 21775719B8036560650946
+    country_name: Luxembourg
+  Luxembourg_Adm2_23:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Septfontaines
+    shapeID: 21775719B62416421133476
+    country_name: Luxembourg
+  Luxembourg_Adm2_24:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Steinfort
+    shapeID: 21775719B900531059285
+    country_name: Luxembourg
+  Luxembourg_Adm2_25:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Koerich
+    shapeID: 21775719B81745383079240
+    country_name: Luxembourg
+  Luxembourg_Adm2_26:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Garnich
+    shapeID: 21775719B88269771197434
+    country_name: Luxembourg
+  Luxembourg_Adm2_27:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Käerjeng
+    shapeID: 21775719B38005128707956
+    country_name: Luxembourg
+  Luxembourg_Adm2_28:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Dippach
+    shapeID: 21775719B36622587135592
+    country_name: Luxembourg
+  Luxembourg_Adm2_29:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Bettembourg
+    shapeID: 21775719B98887930078722
+    country_name: Luxembourg
+  Luxembourg_Adm2_3:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Schifflange
+    shapeID: 21775719B62903588836755
+    country_name: Luxembourg
+  Luxembourg_Adm2_30:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Roeser
+    shapeID: 21775719B63085135447978
+    country_name: Luxembourg
+  Luxembourg_Adm2_31:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Kehlen
+    shapeID: 21775719B8841937045509
+    country_name: Luxembourg
+  Luxembourg_Adm2_32:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Kopstal
+    shapeID: 21775719B1960814377094
+    country_name: Luxembourg
+  Luxembourg_Adm2_33:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Mamer
+    shapeID: 21775719B8167821855131
+    country_name: Luxembourg
+  Luxembourg_Adm2_34:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Strassen
+    shapeID: 21775719B91934859067156
+    country_name: Luxembourg
+  Luxembourg_Adm2_35:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Bertrange
+    shapeID: 21775719B89896475155043
+    country_name: Luxembourg
+  Luxembourg_Adm2_36:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Hesperange
+    shapeID: 21775719B76244882391464
+    country_name: Luxembourg
+  Luxembourg_Adm2_37:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Weiler-la-Tour
+    shapeID: 21775719B4138397736316
+    country_name: Luxembourg
+  Luxembourg_Adm2_38:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Sandweiler
+    shapeID: 21775719B90251194954856
+    country_name: Luxembourg
+  Luxembourg_Adm2_39:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Contern
+    shapeID: 21775719B69285541651614
+    country_name: Luxembourg
+  Luxembourg_Adm2_4:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Rumelange
+    shapeID: 21775719B1069977315926
+    country_name: Luxembourg
+  Luxembourg_Adm2_40:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Schuttrange
+    shapeID: 21775719B36538740491348
+    country_name: Luxembourg
+  Luxembourg_Adm2_41:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Niederanven
+    shapeID: 21775719B43401661375946
+    country_name: Luxembourg
+  Luxembourg_Adm2_42:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Steinsel
+    shapeID: 21775719B45842457219080
+    country_name: Luxembourg
+  Luxembourg_Adm2_43:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Walferdange
+    shapeID: 21775719B5856106982336
+    country_name: Luxembourg
+  Luxembourg_Adm2_44:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Wormeldange
     shapeID: 21775719B83157525162975
+    country_name: Luxembourg
+  Luxembourg_Adm2_45:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Flaxweiler
+    shapeID: 21775719B1631688346182
+    country_name: Luxembourg
+  Luxembourg_Adm2_46:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Grevenmacher
+    shapeID: 21775719B64014963506863
+    country_name: Luxembourg
+  Luxembourg_Adm2_47:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Betzdorf
+    shapeID: 21775719B53109211508057
+    country_name: Luxembourg
+  Luxembourg_Adm2_48:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Junglinster
+    shapeID: 21775719B11079590580609
+    country_name: Luxembourg
+  Luxembourg_Adm2_49:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Biwer
+    shapeID: 21775719B11115917944889
+    country_name: Luxembourg
+  Luxembourg_Adm2_5:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Kayl
+    shapeID: 21775719B17928354253129
+    country_name: Luxembourg
+  Luxembourg_Adm2_50:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Manternach
+    shapeID: 21775719B25575460417877
+    country_name: Luxembourg
+  Luxembourg_Adm2_51:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Mertert
+    shapeID: 21775719B42588500248730
+    country_name: Luxembourg
+  Luxembourg_Adm2_52:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Beaufort
+    shapeID: 21775719B81576122836326
+    country_name: Luxembourg
+  Luxembourg_Adm2_53:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Consdorf
+    shapeID: 21775719B13974225377637
+    country_name: Luxembourg
+  Luxembourg_Adm2_54:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Bech
+    shapeID: 21775719B93557714674033
+    country_name: Luxembourg
+  Luxembourg_Adm2_55:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Berdorf
+    shapeID: 21775719B77656539141274
+    country_name: Luxembourg
+  Luxembourg_Adm2_56:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Reisdorf
+    shapeID: 21775719B78904795294877
+    country_name: Luxembourg
+  Luxembourg_Adm2_57:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Rosport
+    shapeID: 21775719B2997409339760
+    country_name: Luxembourg
+  Luxembourg_Adm2_58:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Mompach
+    shapeID: 21775719B87806168896597
+    country_name: Luxembourg
+  Luxembourg_Adm2_59:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Echternach
+    shapeID: 21775719B12259366230558
+    country_name: Luxembourg
+  Luxembourg_Adm2_6:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Dudelange
+    shapeID: 21775719B60383903025053
+    country_name: Luxembourg
+  Luxembourg_Adm2_60:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Waldbillig
+    shapeID: 21775719B82462206175776
+    country_name: Luxembourg
+  Luxembourg_Adm2_61:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Vallbedel'Ernz
+    shapeID: 21775719B95583115154252
+    country_name: Luxembourg
+  Luxembourg_Adm2_62:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Erpeldange-sur-Sûre
+    shapeID: 21775719B60306791609610
+    country_name: Luxembourg
+  Luxembourg_Adm2_63:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Diekirch
+    shapeID: 21775719B12811001647954
+    country_name: Luxembourg
+  Luxembourg_Adm2_64:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Mertzig
+    shapeID: 21775719B64025767263573
+    country_name: Luxembourg
+  Luxembourg_Adm2_65:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Feulen
+    shapeID: 21775719B2601504260109
+    country_name: Luxembourg
+  Luxembourg_Adm2_66:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Bourscheid
+    shapeID: 21775719B36889222582909
+    country_name: Luxembourg
+  Luxembourg_Adm2_67:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Ettelbruck
+    shapeID: 21775719B88920598861802
+    country_name: Luxembourg
+  Luxembourg_Adm2_68:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Bettendorf
+    shapeID: 21775719B42744922055671
+    country_name: Luxembourg
+  Luxembourg_Adm2_69:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Schieren
+    shapeID: 21775719B74804173445003
+    country_name: Luxembourg
+  Luxembourg_Adm2_7:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Frisange
+    shapeID: 21775719B68351429546827
+    country_name: Luxembourg
+  Luxembourg_Adm2_70:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Mersch
+    shapeID: 21775719B84839302070577
+    country_name: Luxembourg
+  Luxembourg_Adm2_71:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Nommern
+    shapeID: 21775719B64351094735989
+    country_name: Luxembourg
+  Luxembourg_Adm2_72:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Bissen
+    shapeID: 21775719B96705866504601
+    country_name: Luxembourg
+  Luxembourg_Adm2_73:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Larochette
+    shapeID: 21775719B65170086529426
+    country_name: Luxembourg
+  Luxembourg_Adm2_74:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Colmar-Berg
+    shapeID: 21775719B52582225974762
+    country_name: Luxembourg
+  Luxembourg_Adm2_75:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Boevange-sur-Attert
+    shapeID: 21775719B71463456243881
+    country_name: Luxembourg
+  Luxembourg_Adm2_76:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Lorentzweiler
+    shapeID: 21775719B57961603846352
+    country_name: Luxembourg
+  Luxembourg_Adm2_77:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Heffingen
+    shapeID: 21775719B80423014850063
+    country_name: Luxembourg
+  Luxembourg_Adm2_78:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Lintgen
+    shapeID: 21775719B76138349193524
+    country_name: Luxembourg
+  Luxembourg_Adm2_79:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Fischbach
+    shapeID: 21775719B2060157043713
+    country_name: Luxembourg
+  Luxembourg_Adm2_8:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Leudelange
+    shapeID: 21775719B78588703449335
+    country_name: Luxembourg
+  Luxembourg_Adm2_80:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Tuntange
+    shapeID: 21775719B93406058949797
+    country_name: Luxembourg
+  Luxembourg_Adm2_81:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Tandel
+    shapeID: 21775719B49537195021049
+    country_name: Luxembourg
+  Luxembourg_Adm2_82:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Vianden
+    shapeID: 21775719B56085368038685
+    country_name: Luxembourg
+  Luxembourg_Adm2_83:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Putscheid
+    shapeID: 21775719B27422207835902
+    country_name: Luxembourg
+  Luxembourg_Adm2_84:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: ParcHosingen
+    shapeID: 21775719B56346038461160
+    country_name: Luxembourg
+  Luxembourg_Adm2_85:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Troisvierges
+    shapeID: 21775719B9456271871995
+    country_name: Luxembourg
+  Luxembourg_Adm2_86:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Weiswampach
+    shapeID: 21775719B10380614378112
+    country_name: Luxembourg
+  Luxembourg_Adm2_87:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Wincrange
+    shapeID: 21775719B30727089923875
+    country_name: Luxembourg
+  Luxembourg_Adm2_88:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Clervaux
+    shapeID: 21775719B80901335144813
+    country_name: Luxembourg
+  Luxembourg_Adm2_89:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Grosbous
+    shapeID: 21775719B41529217465013
+    country_name: Luxembourg
+  Luxembourg_Adm2_9:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Reckange-sur-Mess
+    shapeID: 21775719B56620819602201
+    country_name: Luxembourg
+  Luxembourg_Adm2_90:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Wahl
+    shapeID: 21775719B43750739828677
+    country_name: Luxembourg
+  Luxembourg_Adm2_91:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Préizerdaul
+    shapeID: 21775719B64584040451589
+    country_name: Luxembourg
+  Luxembourg_Adm2_92:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Vichten
+    shapeID: 21775719B60659508843421
+    country_name: Luxembourg
+  Luxembourg_Adm2_93:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Useldange
+    shapeID: 21775719B32396154687916
+    country_name: Luxembourg
+  Luxembourg_Adm2_94:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Saeul
+    shapeID: 21775719B606727021739
+    country_name: Luxembourg
+  Luxembourg_Adm2_95:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Beckerich
+    shapeID: 21775719B25186964834582
+    country_name: Luxembourg
+  Luxembourg_Adm2_96:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Ell
+    shapeID: 21775719B98405946974679
+    country_name: Luxembourg
+  Luxembourg_Adm2_97:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Rambrouch
+    shapeID: 21775719B93260136035460
+    country_name: Luxembourg
+  Luxembourg_Adm2_98:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Redange/Attert
+    shapeID: 21775719B58814695852022
+    country_name: Luxembourg
+  Luxembourg_Adm2_99:
+    iso3c: LUX
+    admin_level: Adm2
+    admin_name: Esch-sur-Sûre
+    shapeID: 21775719B39568608921015
+    country_name: Luxembourg

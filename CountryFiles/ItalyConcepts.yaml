@@ -1,101 +1,157 @@
 concepts:
-  AbruzzoAdm2ITA:
-    admin_name: Abruzzo
+  Italy_Adm0:
     iso3c: ITA
-    shapeID: 23120603B60396852211
-  BasilicataAdm2ITA:
-    admin_name: Basilicata
-    iso3c: ITA
-    shapeID: 23120603B59117294159851
-  CalabriaAdm2ITA:
-    admin_name: Calabria
-    iso3c: ITA
-    shapeID: 23120603B55310757134450
-  CampaniaAdm2ITA:
-    admin_name: Campania
-    iso3c: ITA
-    shapeID: 23120603B14973764900567
-  CentroAdm1ITA:
-    admin_name: Centro
-    iso3c: ITA
-    shapeID: 72843720B863019116732
-  Emilia-RomagnaAdm2ITA:
-    admin_name: Emilia-Romagna
-    iso3c: ITA
-    shapeID: 23120603B93883326437068
-  FriuliVeneziaGiuliaAdm2ITA:
-    admin_name: FriuliVeneziaGiulia
-    iso3c: ITA
-    shapeID: 23120603B53770696546298
-  IsoleAdm1ITA:
-    admin_name: Isole
-    iso3c: ITA
-    shapeID: 72843720B81376294924159
-  LazioAdm2ITA:
-    admin_name: Lazio
-    iso3c: ITA
-    shapeID: 23120603B86473916475875
-  LiguriaAdm2ITA:
-    admin_name: Liguria
-    iso3c: ITA
-    shapeID: 23120603B90496191820000
-  LombardiaAdm2ITA:
-    admin_name: Lombardia
-    iso3c: ITA
-    shapeID: 23120603B71310509030930
-  MarcheAdm2ITA:
-    admin_name: Marche
-    iso3c: ITA
-    shapeID: 23120603B49951072422318
-  MoliseAdm2ITA:
-    admin_name: Molise
-    iso3c: ITA
-    shapeID: 23120603B60242334488993
-  Nord-EstAdm1ITA:
-    admin_name: Nord-Est
-    iso3c: ITA
-    shapeID: 72843720B59566147937015
-  Nord-OvestAdm1ITA:
+    admin_level: Adm0
     admin_name: Nord-Ovest
+    shapeID: 42024856B85240378613663
+    country_name: Italy
+  Italy_Adm1_1:
     iso3c: ITA
+    admin_level: Adm1
+    admin_name: Nord-Ovest
     shapeID: 72843720B99597932318450
-  PiemonteAdm2ITA:
-    admin_name: Piemonte
+    country_name: Italy
+  Italy_Adm1_2:
     iso3c: ITA
-    shapeID: 23120603B83257595874769
-  PugliaAdm2ITA:
-    admin_name: Puglia
+    admin_level: Adm1
+    admin_name: Nord-Est
+    shapeID: 72843720B59566147937015
+    country_name: Italy
+  Italy_Adm1_3:
     iso3c: ITA
-    shapeID: 23120603B69806914684511
-  SardegnaAdm2ITA:
-    admin_name: Sardegna
+    admin_level: Adm1
+    admin_name: Centro
+    shapeID: 72843720B863019116732
+    country_name: Italy
+  Italy_Adm1_4:
     iso3c: ITA
-    shapeID: 23120603B31191283857260
-  SiciliaAdm2ITA:
-    admin_name: Sicilia
-    iso3c: ITA
-    shapeID: 23120603B91569774900330
-  SudAdm1ITA:
+    admin_level: Adm1
     admin_name: Sud
-    iso3c: ITA
     shapeID: 72843720B88210905209841
-  ToscanaAdm2ITA:
-    admin_name: Toscana
+    country_name: Italy
+  Italy_Adm1_5:
     iso3c: ITA
-    shapeID: 23120603B95153686365028
-  Trentino-AltoAdigeAdm2ITA:
-    admin_name: Trentino-AltoAdige
+    admin_level: Adm1
+    admin_name: Isole
+    shapeID: 72843720B81376294924159
+    country_name: Italy
+  Italy_Adm2_1:
     iso3c: ITA
-    shapeID: 23120603B10307341449000
-  UmbriaAdm2ITA:
+    admin_level: Adm2
+    admin_name: Piemonte
+    shapeID: 23120603B83257595874769
+    country_name: Italy
+  Italy_Adm2_10:
+    iso3c: ITA
+    admin_level: Adm2
     admin_name: Umbria
-    iso3c: ITA
     shapeID: 23120603B26790412086965
-  Valled'AostaAdm2ITA:
+    country_name: Italy
+  Italy_Adm2_11:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Marche
+    shapeID: 23120603B49951072422318
+    country_name: Italy
+  Italy_Adm2_12:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Lazio
+    shapeID: 23120603B86473916475875
+    country_name: Italy
+  Italy_Adm2_13:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Abruzzo
+    shapeID: 23120603B60396852211
+    country_name: Italy
+  Italy_Adm2_14:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Molise
+    shapeID: 23120603B60242334488993
+    country_name: Italy
+  Italy_Adm2_15:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Campania
+    shapeID: 23120603B14973764900567
+    country_name: Italy
+  Italy_Adm2_16:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Puglia
+    shapeID: 23120603B69806914684511
+    country_name: Italy
+  Italy_Adm2_17:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Basilicata
+    shapeID: 23120603B59117294159851
+    country_name: Italy
+  Italy_Adm2_18:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Calabria
+    shapeID: 23120603B55310757134450
+    country_name: Italy
+  Italy_Adm2_19:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Sicilia
+    shapeID: 23120603B91569774900330
+    country_name: Italy
+  Italy_Adm2_2:
+    iso3c: ITA
+    admin_level: Adm2
     admin_name: Valled'Aosta
-    iso3c: ITA
     shapeID: 23120603B46910528128522
-  VenetoAdm2ITA:
-    admin_name: Veneto
+    country_name: Italy
+  Italy_Adm2_20:
     iso3c: ITA
+    admin_level: Adm2
+    admin_name: Sardegna
+    shapeID: 23120603B31191283857260
+    country_name: Italy
+  Italy_Adm2_3:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Lombardia
+    shapeID: 23120603B71310509030930
+    country_name: Italy
+  Italy_Adm2_4:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Trentino-AltoAdige
+    shapeID: 23120603B10307341449000
+    country_name: Italy
+  Italy_Adm2_5:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Veneto
     shapeID: 23120603B96721879872173
+    country_name: Italy
+  Italy_Adm2_6:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: FriuliVeneziaGiulia
+    shapeID: 23120603B53770696546298
+    country_name: Italy
+  Italy_Adm2_7:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Liguria
+    shapeID: 23120603B90496191820000
+    country_name: Italy
+  Italy_Adm2_8:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Emilia-Romagna
+    shapeID: 23120603B93883326437068
+    country_name: Italy
+  Italy_Adm2_9:
+    iso3c: ITA
+    admin_level: Adm2
+    admin_name: Toscana
+    shapeID: 23120603B95153686365028
+    country_name: Italy

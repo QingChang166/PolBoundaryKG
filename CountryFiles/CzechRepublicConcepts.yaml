@@ -1,365 +1,553 @@
 concepts:
-  BenešovAdm2CZE:
-    admin_name: Benešov
+  CzechRepublic_Adm0:
     iso3c: CZE
-    shapeID: 57006924B72367242001240
-  BerounAdm2CZE:
-    admin_name: Beroun
+    admin_level: Adm0
+    admin_name: CzechRepublic
+    shapeID: 82561520B82711691529229
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_1:
     iso3c: CZE
-    shapeID: 57006924B82146122340181
-  BlanskoAdm2CZE:
-    admin_name: Blansko
-    iso3c: CZE
-    shapeID: 57006924B90019795994252
-  BřeclavAdm2CZE:
-    admin_name: Břeclav
-    iso3c: CZE
-    shapeID: 57006924B56764577868008
-  Brno-CityAdm2CZE:
-    admin_name: Brno-City
-    iso3c: CZE
-    shapeID: 57006924B6194040717331
-  Brno-CountryAdm2CZE:
-    admin_name: Brno-Country
-    iso3c: CZE
-    shapeID: 57006924B88312395520389
-  BruntálAdm2CZE:
-    admin_name: Bruntál
-    iso3c: CZE
-    shapeID: 57006924B90452896246775
-  ČeskáLípaAdm2CZE:
-    admin_name: ČeskáLípa
-    iso3c: CZE
-    shapeID: 57006924B26083217891381
-  ČeskéBudějoviceAdm2CZE:
-    admin_name: ČeskéBudějovice
-    iso3c: CZE
-    shapeID: 57006924B73132069516203
-  ČeskýKrumlovAdm2CZE:
-    admin_name: ČeskýKrumlov
-    iso3c: CZE
-    shapeID: 57006924B21154438881940
-  ChebAdm2CZE:
-    admin_name: Cheb
-    iso3c: CZE
-    shapeID: 57006924B74936445485800
-  ChomutovAdm2CZE:
-    admin_name: Chomutov
-    iso3c: CZE
-    shapeID: 57006924B32669310027153
-  ChrudimAdm2CZE:
-    admin_name: Chrudim
-    iso3c: CZE
-    shapeID: 57006924B14129056192165
-  DěčínAdm2CZE:
-    admin_name: Děčín
-    iso3c: CZE
-    shapeID: 57006924B57972685793284
-  DomažliceAdm2CZE:
-    admin_name: Domažlice
-    iso3c: CZE
-    shapeID: 57006924B92931687173289
-  Frýdek-MístekAdm2CZE:
-    admin_name: Frýdek-Místek
-    iso3c: CZE
-    shapeID: 57006924B91865699855455
-  HavlíčkůvBrodAdm2CZE:
-    admin_name: HavlíčkůvBrod
-    iso3c: CZE
-    shapeID: 57006924B85481167833175
-  HlavníměstoPrahaAdm1CZE:
+    admin_level: Adm1
     admin_name: HlavníměstoPraha
-    iso3c: CZE
     shapeID: 73172107B16313596965023
-  HodonínAdm2CZE:
-    admin_name: Hodonín
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_10:
     iso3c: CZE
-    shapeID: 57006924B82111344983201
-  HradecKrálovéAdm2CZE:
-    admin_name: HradecKrálové
-    iso3c: CZE
-    shapeID: 57006924B98928131689088
-  JablonecnadNisouAdm2CZE:
-    admin_name: JablonecnadNisou
-    iso3c: CZE
-    shapeID: 57006924B55772558323280
-  JeseníkAdm2CZE:
-    admin_name: Jeseník
-    iso3c: CZE
-    shapeID: 57006924B8762756005554
-  JičínAdm2CZE:
-    admin_name: Jičín
-    iso3c: CZE
-    shapeID: 57006924B61995402941039
-  JihlavaAdm2CZE:
-    admin_name: Jihlava
-    iso3c: CZE
-    shapeID: 57006924B35034257273333
-  JihočeskýkrajAdm1CZE:
-    admin_name: Jihočeskýkraj
-    iso3c: CZE
-    shapeID: 73172107B46425968394697
-  JihomoravskýkrajAdm1CZE:
-    admin_name: Jihomoravskýkraj
-    iso3c: CZE
-    shapeID: 73172107B81289681513643
-  JindřichůvHradecAdm2CZE:
-    admin_name: JindřichůvHradec
-    iso3c: CZE
-    shapeID: 57006924B67285149942805
-  KarlovarskýkrajAdm1CZE:
-    admin_name: Karlovarskýkraj
-    iso3c: CZE
-    shapeID: 73172107B80386947470046
-  KarlovyVaryAdm2CZE:
-    admin_name: KarlovyVary
-    iso3c: CZE
-    shapeID: 57006924B50757157558324
-  KarvináAdm2CZE:
-    admin_name: Karviná
-    iso3c: CZE
-    shapeID: 57006924B63031935780571
-  KladnoAdm2CZE:
-    admin_name: Kladno
-    iso3c: CZE
-    shapeID: 57006924B99788800999519
-  KlatovyAdm2CZE:
-    admin_name: Klatovy
-    iso3c: CZE
-    shapeID: 57006924B72008682408189
-  KolínAdm2CZE:
-    admin_name: Kolín
-    iso3c: CZE
-    shapeID: 57006924B25962740711880
-  KrajVysočinaAdm1CZE:
+    admin_level: Adm1
     admin_name: KrajVysočina
-    iso3c: CZE
     shapeID: 73172107B33107872828953
-  KrálovéhradeckýkrajAdm1CZE:
-    admin_name: Královéhradeckýkraj
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_11:
     iso3c: CZE
-    shapeID: 73172107B56271871797203
-  KroměřížAdm2CZE:
-    admin_name: Kroměříž
+    admin_level: Adm1
+    admin_name: Jihomoravskýkraj
+    shapeID: 73172107B81289681513643
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_12:
     iso3c: CZE
-    shapeID: 57006924B59836523347755
-  KutnáHoraAdm2CZE:
-    admin_name: KutnáHora
-    iso3c: CZE
-    shapeID: 57006924B23642111246292
-  LiberecAdm2CZE:
-    admin_name: Liberec
-    iso3c: CZE
-    shapeID: 57006924B3568693077695
-  LibereckýkrajAdm1CZE:
-    admin_name: Libereckýkraj
-    iso3c: CZE
-    shapeID: 73172107B98776772787889
-  LitoměřiceAdm2CZE:
-    admin_name: Litoměřice
-    iso3c: CZE
-    shapeID: 57006924B28286346415780
-  LounyAdm2CZE:
-    admin_name: Louny
-    iso3c: CZE
-    shapeID: 57006924B40654694205882
-  MělníkAdm2CZE:
-    admin_name: Mělník
-    iso3c: CZE
-    shapeID: 57006924B46613202139284
-  MladáBoleslavAdm2CZE:
-    admin_name: MladáBoleslav
-    iso3c: CZE
-    shapeID: 57006924B86980162402648
-  MoravskoslezskýkrajAdm1CZE:
-    admin_name: Moravskoslezskýkraj
-    iso3c: CZE
-    shapeID: 73172107B23519183895960
-  MostAdm2CZE:
-    admin_name: Most
-    iso3c: CZE
-    shapeID: 57006924B71753966872420
-  NáchodAdm2CZE:
-    admin_name: Náchod
-    iso3c: CZE
-    shapeID: 57006924B40201864279221
-  NovýJičínAdm2CZE:
-    admin_name: NovýJičín
-    iso3c: CZE
-    shapeID: 57006924B81305487356227
-  NymburkAdm2CZE:
-    admin_name: Nymburk
-    iso3c: CZE
-    shapeID: 57006924B9844142294582
-  OlomoucAdm2CZE:
-    admin_name: Olomouc
-    iso3c: CZE
-    shapeID: 57006924B62007249383837
-  OlomouckýkrajAdm1CZE:
+    admin_level: Adm1
     admin_name: Olomouckýkraj
-    iso3c: CZE
     shapeID: 73172107B12746720248776
-  OpavaAdm2CZE:
-    admin_name: Opava
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_13:
     iso3c: CZE
-    shapeID: 57006924B13474079400168
-  Ostrava-CityAdm2CZE:
-    admin_name: Ostrava-City
+    admin_level: Adm1
+    admin_name: Moravskoslezskýkraj
+    shapeID: 73172107B23519183895960
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_14:
     iso3c: CZE
-    shapeID: 57006924B13920789422451
-  PardubiceAdm2CZE:
-    admin_name: Pardubice
-    iso3c: CZE
-    shapeID: 57006924B32813693256962
-  PardubickýkrajAdm1CZE:
-    admin_name: Pardubickýkraj
-    iso3c: CZE
-    shapeID: 73172107B96941531518499
-  PelhřimovAdm2CZE:
-    admin_name: Pelhřimov
-    iso3c: CZE
-    shapeID: 57006924B47389261447584
-  PísekAdm2CZE:
-    admin_name: Písek
-    iso3c: CZE
-    shapeID: 57006924B60448668577783
-  Plzeň-CityAdm2CZE:
-    admin_name: Plzeň-City
-    iso3c: CZE
-    shapeID: 57006924B96542005161261
-  Plzeň-NorthAdm2CZE:
-    admin_name: Plzeň-North
-    iso3c: CZE
-    shapeID: 57006924B24749184311211
-  Plzeň-SouthAdm2CZE:
-    admin_name: Plzeň-South
-    iso3c: CZE
-    shapeID: 57006924B26466431753540
-  PlzeňskýkrajAdm1CZE:
-    admin_name: Plzeňskýkraj
-    iso3c: CZE
-    shapeID: 73172107B93878397098511
-  PrachaticeAdm2CZE:
-    admin_name: Prachatice
-    iso3c: CZE
-    shapeID: 57006924B34464963037986
-  Prague-EastAdm2CZE:
-    admin_name: Prague-East
-    iso3c: CZE
-    shapeID: 57006924B9167412778740
-  Prague-WestAdm2CZE:
-    admin_name: Prague-West
-    iso3c: CZE
-    shapeID: 57006924B10827026185454
-  PragueAdm2CZE:
-    admin_name: Prague
-    iso3c: CZE
-    shapeID: 57006924B6298598328883
-  PřerovAdm2CZE:
-    admin_name: Přerov
-    iso3c: CZE
-    shapeID: 57006924B17496332064462
-  PříbramAdm2CZE:
-    admin_name: Příbram
-    iso3c: CZE
-    shapeID: 57006924B48464151885273
-  ProstějovAdm2CZE:
-    admin_name: Prostějov
-    iso3c: CZE
-    shapeID: 57006924B20341688327038
-  RakovnikAdm2CZE:
-    admin_name: Rakovnik
-    iso3c: CZE
-    shapeID: 57006924B42074087272310
-  RokycanyAdm2CZE:
-    admin_name: Rokycany
-    iso3c: CZE
-    shapeID: 57006924B76318940607058
-  RychnovnadKněžnouAdm2CZE:
-    admin_name: RychnovnadKněžnou
-    iso3c: CZE
-    shapeID: 57006924B67004616478789
-  SemilyAdm2CZE:
-    admin_name: Semily
-    iso3c: CZE
-    shapeID: 57006924B26779967263881
-  SokolovAdm2CZE:
-    admin_name: Sokolov
-    iso3c: CZE
-    shapeID: 57006924B20358302460191
-  StrakoniceAdm2CZE:
-    admin_name: Strakonice
-    iso3c: CZE
-    shapeID: 57006924B10100479283290
-  StředočeskýkrajAdm1CZE:
-    admin_name: Středočeskýkraj
-    iso3c: CZE
-    shapeID: 73172107B58641114734330
-  ŠumperkAdm2CZE:
-    admin_name: Šumperk
-    iso3c: CZE
-    shapeID: 57006924B61075462930500
-  SvitavyAdm2CZE:
-    admin_name: Svitavy
-    iso3c: CZE
-    shapeID: 57006924B8877246488305
-  TáborAdm2CZE:
-    admin_name: Tábor
-    iso3c: CZE
-    shapeID: 57006924B74433439756021
-  TachovAdm2CZE:
-    admin_name: Tachov
-    iso3c: CZE
-    shapeID: 57006924B55732331485961
-  TepliceAdm2CZE:
-    admin_name: Teplice
-    iso3c: CZE
-    shapeID: 57006924B6655388448820
-  TřebíčAdm2CZE:
-    admin_name: Třebíč
-    iso3c: CZE
-    shapeID: 57006924B42369994804969
-  TrutnovAdm2CZE:
-    admin_name: Trutnov
-    iso3c: CZE
-    shapeID: 57006924B50363024387408
-  UherskéHradištěAdm2CZE:
-    admin_name: UherskéHradiště
-    iso3c: CZE
-    shapeID: 57006924B14436380449594
-  ÚsteckýkrajAdm1CZE:
-    admin_name: Ústeckýkraj
-    iso3c: CZE
-    shapeID: 73172107B34062378650272
-  ÚstínadLabemAdm2CZE:
-    admin_name: ÚstínadLabem
-    iso3c: CZE
-    shapeID: 57006924B5960993849333
-  ÚstínadOrlicíAdm2CZE:
-    admin_name: ÚstínadOrlicí
-    iso3c: CZE
-    shapeID: 57006924B30982913442521
-  VsetínAdm2CZE:
-    admin_name: Vsetín
-    iso3c: CZE
-    shapeID: 57006924B65385651307074
-  VyškovAdm2CZE:
-    admin_name: Vyškov
-    iso3c: CZE
-    shapeID: 57006924B37669195364586
-  ŽďárnadSázavouAdm2CZE:
-    admin_name: ŽďárnadSázavou
-    iso3c: CZE
-    shapeID: 57006924B48131365256783
-  ZlínAdm2CZE:
-    admin_name: Zlín
-    iso3c: CZE
-    shapeID: 57006924B65826634483108
-  ZlínskýkrajAdm1CZE:
+    admin_level: Adm1
     admin_name: Zlínskýkraj
-    iso3c: CZE
     shapeID: 73172107B87463303438563
-  ZnojmoAdm2CZE:
-    admin_name: Znojmo
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_2:
     iso3c: CZE
+    admin_level: Adm1
+    admin_name: Středočeskýkraj
+    shapeID: 73172107B58641114734330
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_3:
+    iso3c: CZE
+    admin_level: Adm1
+    admin_name: Jihočeskýkraj
+    shapeID: 73172107B46425968394697
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_4:
+    iso3c: CZE
+    admin_level: Adm1
+    admin_name: Plzeňskýkraj
+    shapeID: 73172107B93878397098511
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_5:
+    iso3c: CZE
+    admin_level: Adm1
+    admin_name: Karlovarskýkraj
+    shapeID: 73172107B80386947470046
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_6:
+    iso3c: CZE
+    admin_level: Adm1
+    admin_name: Ústeckýkraj
+    shapeID: 73172107B34062378650272
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_7:
+    iso3c: CZE
+    admin_level: Adm1
+    admin_name: Libereckýkraj
+    shapeID: 73172107B98776772787889
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_8:
+    iso3c: CZE
+    admin_level: Adm1
+    admin_name: Královéhradeckýkraj
+    shapeID: 73172107B56271871797203
+    country_name: CzechRepublic
+  CzechRepublic_Adm1_9:
+    iso3c: CZE
+    admin_level: Adm1
+    admin_name: Pardubickýkraj
+    shapeID: 73172107B96941531518499
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_1:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: NovýJičín
+    shapeID: 57006924B81305487356227
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_10:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Louny
+    shapeID: 57006924B40654694205882
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_11:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Litoměřice
+    shapeID: 57006924B28286346415780
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_12:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: ČeskáLípa
+    shapeID: 57006924B26083217891381
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_13:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Liberec
+    shapeID: 57006924B3568693077695
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_14:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: JablonecnadNisou
+    shapeID: 57006924B55772558323280
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_15:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Semily
+    shapeID: 57006924B26779967263881
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_16:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Trutnov
+    shapeID: 57006924B50363024387408
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_17:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Náchod
+    shapeID: 57006924B40201864279221
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_18:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Tachov
+    shapeID: 57006924B55732331485961
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_19:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Domažlice
+    shapeID: 57006924B92931687173289
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_2:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Cheb
+    shapeID: 57006924B74936445485800
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_20:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Plzeň-North
+    shapeID: 57006924B24749184311211
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_21:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Rakovnik
+    shapeID: 57006924B42074087272310
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_22:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Klatovy
+    shapeID: 57006924B72008682408189
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_23:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Plzeň-South
+    shapeID: 57006924B26466431753540
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_24:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Plzeň-City
+    shapeID: 57006924B96542005161261
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_25:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Rokycany
+    shapeID: 57006924B76318940607058
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_26:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Kladno
+    shapeID: 57006924B99788800999519
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_27:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Mělník
+    shapeID: 57006924B46613202139284
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_28:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: MladáBoleslav
+    shapeID: 57006924B86980162402648
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_29:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Jičín
+    shapeID: 57006924B61995402941039
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_3:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Sokolov
+    shapeID: 57006924B20358302460191
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_30:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: HradecKrálové
+    shapeID: 57006924B98928131689088
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_31:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: RychnovnadKněžnou
+    shapeID: 57006924B67004616478789
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_32:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Pardubice
+    shapeID: 57006924B32813693256962
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_33:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Chrudim
+    shapeID: 57006924B14129056192165
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_34:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: ÚstínadOrlicí
+    shapeID: 57006924B30982913442521
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_35:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Jeseník
+    shapeID: 57006924B8762756005554
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_36:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Nymburk
+    shapeID: 57006924B9844142294582
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_37:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Kolín
+    shapeID: 57006924B25962740711880
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_38:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Beroun
+    shapeID: 57006924B82146122340181
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_39:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Prague-East
+    shapeID: 57006924B9167412778740
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_4:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: KarlovyVary
+    shapeID: 57006924B50757157558324
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_40:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Prague
+    shapeID: 57006924B6298598328883
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_41:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Prague-West
+    shapeID: 57006924B10827026185454
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_42:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Benešov
+    shapeID: 57006924B72367242001240
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_43:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Příbram
+    shapeID: 57006924B48464151885273
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_44:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: KutnáHora
+    shapeID: 57006924B23642111246292
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_45:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: ČeskéBudějovice
+    shapeID: 57006924B73132069516203
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_46:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Písek
+    shapeID: 57006924B60448668577783
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_47:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Prachatice
+    shapeID: 57006924B34464963037986
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_48:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Strakonice
+    shapeID: 57006924B10100479283290
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_49:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: ČeskýKrumlov
+    shapeID: 57006924B21154438881940
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_5:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Chomutov
+    shapeID: 57006924B32669310027153
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_50:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: JindřichůvHradec
+    shapeID: 57006924B67285149942805
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_51:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Tábor
+    shapeID: 57006924B74433439756021
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_52:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Třebíč
+    shapeID: 57006924B42369994804969
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_53:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Pelhřimov
+    shapeID: 57006924B47389261447584
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_54:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: HavlíčkůvBrod
+    shapeID: 57006924B85481167833175
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_55:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: ŽďárnadSázavou
+    shapeID: 57006924B48131365256783
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_56:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Jihlava
+    shapeID: 57006924B35034257273333
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_57:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Vsetín
+    shapeID: 57006924B65385651307074
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_58:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: UherskéHradiště
+    shapeID: 57006924B14436380449594
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_59:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Kroměříž
+    shapeID: 57006924B59836523347755
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_6:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Most
+    shapeID: 57006924B71753966872420
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_60:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Zlín
+    shapeID: 57006924B65826634483108
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_61:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Brno-Country
+    shapeID: 57006924B88312395520389
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_62:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Svitavy
+    shapeID: 57006924B8877246488305
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_63:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Hodonín
+    shapeID: 57006924B82111344983201
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_64:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Znojmo
     shapeID: 57006924B95695201424764
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_65:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Břeclav
+    shapeID: 57006924B56764577868008
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_66:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Blansko
+    shapeID: 57006924B90019795994252
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_67:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Vyškov
+    shapeID: 57006924B37669195364586
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_68:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Brno-City
+    shapeID: 57006924B6194040717331
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_69:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Prostějov
+    shapeID: 57006924B20341688327038
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_7:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Teplice
+    shapeID: 57006924B6655388448820
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_70:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Přerov
+    shapeID: 57006924B17496332064462
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_71:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Olomouc
+    shapeID: 57006924B62007249383837
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_72:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Bruntál
+    shapeID: 57006924B90452896246775
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_73:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Šumperk
+    shapeID: 57006924B61075462930500
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_74:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Opava
+    shapeID: 57006924B13474079400168
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_75:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Karviná
+    shapeID: 57006924B63031935780571
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_76:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Frýdek-Místek
+    shapeID: 57006924B91865699855455
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_77:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Ostrava-City
+    shapeID: 57006924B13920789422451
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_8:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: ÚstínadLabem
+    shapeID: 57006924B5960993849333
+    country_name: CzechRepublic
+  CzechRepublic_Adm2_9:
+    iso3c: CZE
+    admin_level: Adm2
+    admin_name: Děčín
+    shapeID: 57006924B57972685793284
+    country_name: CzechRepublic

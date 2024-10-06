@@ -1,681 +1,1027 @@
 concepts:
-  AcoyapaAdm2NIC:
-    admin_name: Acoyapa
-    iso3c: NIC
-    shapeID: 1004716B97835043719515
-  Altagracia(Municipio)Adm2NIC:
-    admin_name: Altagracia(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B24558715702224
-  Belén(Municipio)Adm2NIC:
-    admin_name: Belén(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B90224311807252
-  BoacoAdm1NIC:
-    admin_name: Boaco
-    iso3c: NIC
-    shapeID: 94367503B94735481042460
-  BuenosAires(Municipio)Adm2NIC:
-    admin_name: BuenosAires(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B16882878682213
-  CarazoAdm1NIC:
-    admin_name: Carazo
-    iso3c: NIC
-    shapeID: 94367503B26309730772905
-  CárdenasAdm2NIC:
-    admin_name: Cárdenas
-    iso3c: NIC
-    shapeID: 1004716B49624081386383
-  Catarina(Municipio)Adm2NIC:
-    admin_name: Catarina(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B75081845328431
-  Chichigalpa(Municipio)Adm2NIC:
-    admin_name: Chichigalpa(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B4105996695407
-  Chinandega(Municipio)Adm2NIC:
-    admin_name: Chinandega(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B35525100883051
-  ChinandegaAdm1NIC:
-    admin_name: Chinandega
-    iso3c: NIC
-    shapeID: 94367503B84000172489696
-  ChontalesAdm1NIC:
-    admin_name: Chontales
-    iso3c: NIC
-    shapeID: 94367503B5776780049527
-  CiudadSandino(Municipio)Adm2NIC:
-    admin_name: CiudadSandino(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B23096552390048
-  Comalapa(Municipio)Adm2NIC:
-    admin_name: Comalapa(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B34168523861786
-  Corinto(Municipio)Adm2NIC:
-    admin_name: Corinto(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B85361767626359
-  CornIslandAdm2NIC:
-    admin_name: CornIsland
-    iso3c: NIC
-    shapeID: 1004716B84581275019273
-  Diriá(Municipio)Adm2NIC:
-    admin_name: Diriá(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B9004620436868
-  Diriamba(Municipio)Adm2NIC:
-    admin_name: Diriamba(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B27179977513508
-  Diriomo(Municipio)Adm2NIC:
-    admin_name: Diriomo(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B76497649402022
-  Dolores(Municipio)Adm2NIC:
-    admin_name: Dolores(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B76104537759398
-  ElCastillo(Municipio)Adm2NIC:
-    admin_name: ElCastillo(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B39887866574539
-  ElCrucero(Municipio)Adm2NIC:
-    admin_name: ElCrucero(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B35056962517282
-  ElJicaral(Municipio)Adm2NIC:
-    admin_name: ElJicaral(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B7540318748953
-  ElRealejo(Municipio)Adm2NIC:
-    admin_name: ElRealejo(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B26067385365497
-  ElRosario(Municipio)Adm2NIC:
-    admin_name: ElRosario(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B55266427441133
-  ElViejo(Municipio)Adm2NIC:
-    admin_name: ElViejo(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B17988472214620
-  EstelíAdm1NIC:
-    admin_name: Estelí
-    iso3c: NIC
-    shapeID: 94367503B38089883333909
-  Granada(Municipio)Adm2NIC:
-    admin_name: Granada(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B17287296574924
-  GranadaAdm1NIC:
-    admin_name: Granada
-    iso3c: NIC
-    shapeID: 94367503B26829213243408
-  Jinotega(Departamento)Adm1NIC:
-    admin_name: Jinotega(Departamento)
-    iso3c: NIC
-    shapeID: 94367503B48061873039178
-  Jinotepe(Municipio)Adm2NIC:
-    admin_name: Jinotepe(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B47361215908739
-  Juigalpa(Municipio)Adm2NIC:
-    admin_name: Juigalpa(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B64543090123083
-  LaConcepción(Municipio)Adm2NIC:
-    admin_name: LaConcepción(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B46304212562790
-  LaConquista(Municipio)Adm2NIC:
-    admin_name: LaConquista(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B47448903667956
-  LaPazCentro(Municipio)Adm2NIC:
-    admin_name: LaPazCentro(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B1679190464603
-  LaPazdeCarazo(Municipio)Adm2NIC:
-    admin_name: LaPazdeCarazo(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B20631449886015
-  LeonAdm1NIC:
-    admin_name: Leon
-    iso3c: NIC
-    shapeID: 94367503B39053627120026
-  MadrizAdm1NIC:
-    admin_name: Madriz
-    iso3c: NIC
-    shapeID: 94367503B56642323258301
-  Managua(Municipio)Adm2NIC:
-    admin_name: Managua(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B26688105291153
-  ManaguaAdm1NIC:
-    admin_name: Managua
-    iso3c: NIC
-    shapeID: 94367503B81766766698586
-  Masatepe(Municipio)Adm2NIC:
-    admin_name: Masatepe(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B95201351767223
-  Masaya(Municipio)Adm2NIC:
-    admin_name: Masaya(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B82888371591371
-  MasayaAdm1NIC:
-    admin_name: Masaya
-    iso3c: NIC
-    shapeID: 94367503B55220527661789
-  Matagalpa(Departemento)Adm1NIC:
-    admin_name: Matagalpa(Departemento)
-    iso3c: NIC
-    shapeID: 94367503B41972548719200
-  Mateare(Municipio)Adm2NIC:
-    admin_name: Mateare(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B53376574374139
-  Morrito(Municipio)Adm2NIC:
-    admin_name: Morrito(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B16591560773004
-  Moyagalpa(Muncipio)Adm2NIC:
-    admin_name: Moyagalpa(Muncipio)
-    iso3c: NIC
-    shapeID: 1004716B69176908795082
-  MuncipioSanSebastiándeYalíAdm2NIC:
-    admin_name: MuncipioSanSebastiándeYalí
-    iso3c: NIC
-    shapeID: 1004716B80493320334712
-  MunicipioAchuapaAdm2NIC:
-    admin_name: MunicipioAchuapa
-    iso3c: NIC
-    shapeID: 1004716B42405349993002
-  MunicipioBluefieldsAdm2NIC:
-    admin_name: MunicipioBluefields
-    iso3c: NIC
-    shapeID: 1004716B58524180713592
-  MunicipioBoacoAdm2NIC:
-    admin_name: MunicipioBoaco
-    iso3c: NIC
-    shapeID: 1004716B62391534805354
-  MunicipioBonanzaAdm2NIC:
-    admin_name: MunicipioBonanza
-    iso3c: NIC
-    shapeID: 1004716B97490188129445
-  MunicipioCamoapaAdm2NIC:
-    admin_name: MunicipioCamoapa
-    iso3c: NIC
-    shapeID: 1004716B73222329493387
-  MunicipioCiudadAntiguaAdm2NIC:
-    admin_name: MunicipioCiudadAntigua
-    iso3c: NIC
-    shapeID: 1004716B57977166518542
-  MunicipioCiudadDarcoAdm2NIC:
-    admin_name: MunicipioCiudadDarco
-    iso3c: NIC
-    shapeID: 1004716B88465626823892
-  MunicipioCondegaAdm2NIC:
-    admin_name: MunicipioCondega
-    iso3c: NIC
-    shapeID: 1004716B43521323619670
-  MunicipiodeJinotegaAdm2NIC:
-    admin_name: MunicipiodeJinotega
-    iso3c: NIC
-    shapeID: 1004716B22222561531816
-  MunicipioDesembocaduradeCruzRíoGrandeAdm2NIC:
-    admin_name: MunicipioDesembocaduradeCruzRíoGrande
-    iso3c: NIC
-    shapeID: 1004716B54841034408415
-  MunicipioDipilitoAdm2NIC:
-    admin_name: MunicipioDipilito
-    iso3c: NIC
-    shapeID: 1004716B94651334024859
-  MunicipioElAlmendroAdm2NIC:
-    admin_name: MunicipioElAlmendro
-    iso3c: NIC
-    shapeID: 1004716B83781631297987
-  MunicipioElAyoteAdm2NIC:
-    admin_name: MunicipioElAyote
-    iso3c: NIC
-    shapeID: 1004716B40400689855
-  MunicipioElCoralAdm2NIC:
-    admin_name: MunicipioElCoral
-    iso3c: NIC
-    shapeID: 1004716B37829191350570
-  MunicipioElCuáAdm2NIC:
-    admin_name: MunicipioElCuá
-    iso3c: NIC
-    shapeID: 1004716B91684514747907
-  MunicipioElJacaroAdm2NIC:
-    admin_name: MunicipioElJacaro
-    iso3c: NIC
-    shapeID: 1004716B59561858101925
-  MunicipioElRamaAdm2NIC:
-    admin_name: MunicipioElRama
-    iso3c: NIC
-    shapeID: 1004716B75188103364632
-  MunicipioElSauceAdm2NIC:
-    admin_name: MunicipioElSauce
-    iso3c: NIC
-    shapeID: 1004716B10607629664625
-  MunicipioElTortugeroAdm2NIC:
-    admin_name: MunicipioElTortugero
-    iso3c: NIC
-    shapeID: 1004716B52316346620660
-  MunicipioElTuma-LaDaliaAdm2NIC:
-    admin_name: MunicipioElTuma-LaDalia
-    iso3c: NIC
-    shapeID: 1004716B65616251671533
-  MunicipioEsquipulasAdm2NIC:
-    admin_name: MunicipioEsquipulas
-    iso3c: NIC
-    shapeID: 1004716B33046783888381
-  MunicipioEstelíAdm2NIC:
-    admin_name: MunicipioEstelí
-    iso3c: NIC
-    shapeID: 1004716B56693766830513
-  MunicipioJalapaAdm2NIC:
-    admin_name: MunicipioJalapa
-    iso3c: NIC
-    shapeID: 1004716B55226501636546
-  MunicipioKukraHillAdm2NIC:
-    admin_name: MunicipioKukraHill
-    iso3c: NIC
-    shapeID: 1004716B60174828263076
-  MunicipioLaConcordiaAdm2NIC:
-    admin_name: MunicipioLaConcordia
-    iso3c: NIC
-    shapeID: 1004716B63419948183184
-  MunicipioLaCruzdeRíoGrandeAdm2NIC:
-    admin_name: MunicipioLaCruzdeRíoGrande
-    iso3c: NIC
-    shapeID: 1004716B26434721219648
-  MunicipioLagunadePerlasAdm2NIC:
-    admin_name: MunicipioLagunadePerlas
-    iso3c: NIC
-    shapeID: 1004716B80689384064512
-  MunicipioLaLibertadAdm2NIC:
-    admin_name: MunicipioLaLibertad
-    iso3c: NIC
-    shapeID: 1004716B95352510191818
-  MunicipioLarreynagaAdm2NIC:
-    admin_name: MunicipioLarreynaga
-    iso3c: NIC
-    shapeID: 1004716B51172102735517
-  MunicipioLasSabanasAdm2NIC:
-    admin_name: MunicipioLasSabanas
-    iso3c: NIC
-    shapeID: 1004716B30473237121748
-  MunicipioLaTrinidadAdm2NIC:
-    admin_name: MunicipioLaTrinidad
-    iso3c: NIC
-    shapeID: 1004716B564283861806
-  MunicipioLeónAdm2NIC:
-    admin_name: MunicipioLeón
-    iso3c: NIC
-    shapeID: 1004716B1718799712093
-  MunicipioMacuelizoAdm2NIC:
-    admin_name: MunicipioMacuelizo
-    iso3c: NIC
-    shapeID: 1004716B64961378058069
-  MunicipioMatagalpaAdm2NIC:
-    admin_name: MunicipioMatagalpa
-    iso3c: NIC
-    shapeID: 1004716B87721253987704
-  MunicipioMatiguásAdm2NIC:
-    admin_name: MunicipioMatiguás
-    iso3c: NIC
-    shapeID: 1004716B23703372823656
-  MunicipioMonzonteAdm2NIC:
-    admin_name: MunicipioMonzonte
-    iso3c: NIC
-    shapeID: 1004716B16530197596894
-  MunicipioMuelledelosBueyesAdm2NIC:
-    admin_name: MunicipioMuelledelosBueyes
-    iso3c: NIC
-    shapeID: 1004716B88146525793378
-  MunicipioMulukukúAdm2NIC:
-    admin_name: MunicipioMulukukú
-    iso3c: NIC
-    shapeID: 1004716B49873570075163
-  MunicipioMurraAdm2NIC:
-    admin_name: MunicipioMurra
-    iso3c: NIC
-    shapeID: 1004716B68120786846316
-  MunicipioMuyMuyAdm2NIC:
-    admin_name: MunicipioMuyMuy
-    iso3c: NIC
-    shapeID: 1004716B21364220712902
-  MunicipioNuevaGuineaAdm2NIC:
-    admin_name: MunicipioNuevaGuinea
-    iso3c: NIC
-    shapeID: 1004716B29920218162683
-  MunicipioPaiwasAdm2NIC:
-    admin_name: MunicipioPaiwas
-    iso3c: NIC
-    shapeID: 1004716B19592453866011
-  MunicipioPrinzapolkaAdm2NIC:
-    admin_name: MunicipioPrinzapolka
-    iso3c: NIC
-    shapeID: 1004716B63753467336397
-  MunicipioPuebloNuevoAdm2NIC:
-    admin_name: MunicipioPuebloNuevo
-    iso3c: NIC
-    shapeID: 1004716B12807180863257
-  MunicipioPuertoCabezasAdm2NIC:
-    admin_name: MunicipioPuertoCabezas
-    iso3c: NIC
-    shapeID: 1004716B4922305453104
-  MunicipioQuilalíAdm2NIC:
-    admin_name: MunicipioQuilalí
-    iso3c: NIC
-    shapeID: 1004716B53566331639399
-  MunicipioRanchoGrandeAdm2NIC:
-    admin_name: MunicipioRanchoGrande
-    iso3c: NIC
-    shapeID: 1004716B75632555635080
-  MunicipioRíoBlancoAdm2NIC:
-    admin_name: MunicipioRíoBlanco
-    iso3c: NIC
-    shapeID: 1004716B19683418565174
-  MunicipioRositaAdm2NIC:
-    admin_name: MunicipioRosita
-    iso3c: NIC
-    shapeID: 1004716B63442021771404
-  MunicipioSanDionisioAdm2NIC:
-    admin_name: MunicipioSanDionisio
-    iso3c: NIC
-    shapeID: 1004716B76428699695737
-  MunicipioSanFernandoAdm2NIC:
-    admin_name: MunicipioSanFernando
-    iso3c: NIC
-    shapeID: 1004716B15521754331329
-  MunicipioSanFranciscodeCuapaAdm2NIC:
-    admin_name: MunicipioSanFranciscodeCuapa
-    iso3c: NIC
-    shapeID: 1004716B602657400093
-  MunicipioSanIsidroAdm2NIC:
-    admin_name: MunicipioSanIsidro
-    iso3c: NIC
-    shapeID: 1004716B6585640653247
-  MunicipioSanJosédeBocayAdm2NIC:
-    admin_name: MunicipioSanJosédeBocay
-    iso3c: NIC
-    shapeID: 1004716B82314405656204
-  MunicipioSanJosédeCusmapaAdm2NIC:
-    admin_name: MunicipioSanJosédeCusmapa
-    iso3c: NIC
-    shapeID: 1004716B83973751010428
-  MunicipioSanJosédeLosRematesAdm2NIC:
-    admin_name: MunicipioSanJosédeLosRemates
-    iso3c: NIC
-    shapeID: 1004716B82609428709208
-  MunicipioSanJuandeLimayAdm2NIC:
-    admin_name: MunicipioSanJuandeLimay
-    iso3c: NIC
-    shapeID: 1004716B17437818815297
-  MunicipioSanJuandeNicaraguaAdm2NIC:
-    admin_name: MunicipioSanJuandeNicaragua
-    iso3c: NIC
-    shapeID: 1004716B78896367907515
-  MunicipioSanJuandeRíoCocoAdm2NIC:
-    admin_name: MunicipioSanJuandeRíoCoco
-    iso3c: NIC
-    shapeID: 1004716B37317224519748
-  MunicipioSanLucasAdm2NIC:
-    admin_name: MunicipioSanLucas
-    iso3c: NIC
-    shapeID: 1004716B51733006416876
-  MunicipioSanNicolasAdm2NIC:
-    admin_name: MunicipioSanNicolas
-    iso3c: NIC
-    shapeID: 1004716B22267380414447
-  MunicipioSanPedrodeLóvagoAdm2NIC:
-    admin_name: MunicipioSanPedrodeLóvago
-    iso3c: NIC
-    shapeID: 1004716B91452686673321
-  MunicipioSanRafaeldelNorteAdm2NIC:
-    admin_name: MunicipioSanRafaeldelNorte
-    iso3c: NIC
-    shapeID: 1004716B56620131792900
-  MunicipioSanRamonAdm2NIC:
-    admin_name: MunicipioSanRamon
-    iso3c: NIC
-    shapeID: 1004716B81885573908031
-  MunicipioSantaLucíaAdm2NIC:
-    admin_name: MunicipioSantaLucía
-    iso3c: NIC
-    shapeID: 1004716B11181519901589
-  MunicipioSantaMaríaAdm2NIC:
-    admin_name: MunicipioSantaMaría
-    iso3c: NIC
-    shapeID: 1004716B59268644799254
-  MunicipioSantaMaríadePantasmaAdm2NIC:
-    admin_name: MunicipioSantaMaríadePantasma
-    iso3c: NIC
-    shapeID: 1004716B48551329276028
-  MunicipioSantaRosadelPeñónAdm2NIC:
-    admin_name: MunicipioSantaRosadelPeñón
-    iso3c: NIC
-    shapeID: 1004716B66852028113386
-  MunicipioSantoDomingoAdm2NIC:
-    admin_name: MunicipioSantoDomingo
-    iso3c: NIC
-    shapeID: 1004716B80343158927889
-  MunicipioSantoTomásAdm2NIC:
-    admin_name: MunicipioSantoTomás
-    iso3c: NIC
-    shapeID: 1004716B16799049593642
-  MunicipioSebacoAdm2NIC:
-    admin_name: MunicipioSebaco
-    iso3c: NIC
-    shapeID: 1004716B70540306001551
-  MunicipioSiunaAdm2NIC:
-    admin_name: MunicipioSiuna
-    iso3c: NIC
-    shapeID: 1004716B85519023744244
-  MunicipioTelicaAdm2NIC:
-    admin_name: MunicipioTelica
-    iso3c: NIC
-    shapeID: 1004716B99865262372177
-  MunicipioTelpanecaAdm2NIC:
-    admin_name: MunicipioTelpaneca
-    iso3c: NIC
-    shapeID: 1004716B35768967856860
-  MunicipioTerrabonaAdm2NIC:
-    admin_name: MunicipioTerrabona
-    iso3c: NIC
-    shapeID: 1004716B5502390866832
-  MunicipioTeustepeAdm2NIC:
-    admin_name: MunicipioTeustepe
-    iso3c: NIC
-    shapeID: 1004716B11227441241972
-  MunicipioVillaSandinoAdm2NIC:
-    admin_name: MunicipioVillaSandino
-    iso3c: NIC
-    shapeID: 1004716B48190811236888
-  MunicipioWaslalaAdm2NIC:
-    admin_name: MunicipioWaslala
-    iso3c: NIC
-    shapeID: 1004716B8103194672097
-  MunicipioWaspánAdm2NIC:
-    admin_name: MunicipioWaspán
-    iso3c: NIC
-    shapeID: 1004716B11599288881671
-  MunicipioWiwilídeJinotegaAdm2NIC:
-    admin_name: MunicipioWiwilídeJinotega
-    iso3c: NIC
-    shapeID: 1004716B99280439905911
-  MunicipioWiwilídeNuevaSegoviaAdm2NIC:
-    admin_name: MunicipioWiwilídeNuevaSegovia
-    iso3c: NIC
-    shapeID: 1004716B54884295225875
-  MunicipioYalagüinaAdm2NIC:
-    admin_name: MunicipioYalagüina
-    iso3c: NIC
-    shapeID: 1004716B60763452238766
-  Nagarote(Municipio)Adm2NIC:
-    admin_name: Nagarote(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B18195388081086
-  Nandaime(Municipio)Adm2NIC:
-    admin_name: Nandaime(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B87872179311194
-  Nandasmo(Muncipio)Adm2NIC:
-    admin_name: Nandasmo(Muncipio)
-    iso3c: NIC
-    shapeID: 1004716B77754664653503
-  Nindirí(Municipio)Adm2NIC:
-    admin_name: Nindirí(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B14428044867923
-  Niquinohomo(Municipio)Adm2NIC:
-    admin_name: Niquinohomo(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B21057014722177
-  NorthCarribeanCoastAutonomousRegionAdm1NIC:
-    admin_name: NorthCarribeanCoastAutonomousRegion
-    iso3c: NIC
-    shapeID: 94367503B67681727137385
-  NuevaSegoviaAdm1NIC:
-    admin_name: NuevaSegovia
-    iso3c: NIC
-    shapeID: 94367503B21824249781169
-  Ocotal(Municipio)Adm2NIC:
-    admin_name: Ocotal(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B78226136853843
-  Palacagüina(Municipio)Adm2NIC:
-    admin_name: Palacagüina(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B25333240453308
-  Posoltega(Municipio)Adm2NIC:
-    admin_name: Posoltega(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B50756255282964
-  Potosí(Municipio)Adm2NIC:
-    admin_name: Potosí(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B69755692958912
-  PuertoMorazán(Municipio)Adm2NIC:
-    admin_name: PuertoMorazán(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B6041488955142
-  Quezalguaque(Municipio)Adm2NIC:
-    admin_name: Quezalguaque(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B69016547634198
-  RioSanJuanAdm1NIC:
+  Nicaragua_Adm0:
+    iso3c: NIC
+    admin_level: Adm0
+    admin_name: Nicaragua
+    shapeID: 26293499B85234481094419
+    country_name: Nicaragua
+  Nicaragua_Adm1_1:
+    iso3c: NIC
+    admin_level: Adm1
     admin_name: RioSanJuan
-    iso3c: NIC
     shapeID: 94367503B51750357600402
-  Rivas(Municipio)Adm2NIC:
-    admin_name: Rivas(Municipio)
+    country_name: Nicaragua
+  Nicaragua_Adm1_10:
     iso3c: NIC
-    shapeID: 1004716B86091214063878
-  RivasAdm1NIC:
-    admin_name: Rivas
+    admin_level: Adm1
+    admin_name: Matagalpa(Departemento)
+    shapeID: 94367503B41972548719200
+    country_name: Nicaragua
+  Nicaragua_Adm1_11:
     iso3c: NIC
-    shapeID: 94367503B70144399425035
-  SanCarlos(Municipio)Adm2NIC:
-    admin_name: SanCarlos(Municipio)
+    admin_level: Adm1
+    admin_name: NorthCarribeanCoastAutonomousRegion
+    shapeID: 94367503B67681727137385
+    country_name: Nicaragua
+  Nicaragua_Adm1_12:
     iso3c: NIC
-    shapeID: 1004716B60915682205878
-  SanFranciscodelNorte(Municipio)Adm2NIC:
-    admin_name: SanFranciscodelNorte(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B1417571394105
-  SanFranciscoLibre(Municipio)Adm2NIC:
-    admin_name: SanFranciscoLibre(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B91399694285767
-  SanJorge(Municipio)Adm2NIC:
-    admin_name: SanJorge(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B65848317869673
-  SanJuandeCincoPinos(Municipio)Adm2NIC:
-    admin_name: SanJuandeCincoPinos(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B9870414897994
-  SanJuandelSur(Municipio)Adm2NIC:
-    admin_name: SanJuandelSur(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B76724333569498
-  SanJuandeOriente(Municipio)Adm2NIC:
-    admin_name: SanJuandeOriente(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B29253428055821
-  SanLorenzo(Municipio)Adm2NIC:
-    admin_name: SanLorenzo(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B96121368204860
-  SanMarcos(Municipio)Adm2NIC:
-    admin_name: SanMarcos(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B18709487370241
-  SanMiguelito(Municipio)Adm2NIC:
-    admin_name: SanMiguelito(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B41798350281797
-  SanPedrodelNorte(Municipio)Adm2NIC:
-    admin_name: SanPedrodelNorte(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B12303009438356
-  SanRafaeldelSur(Municipio)Adm2NIC:
-    admin_name: SanRafaeldelSur(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B73686140386130
-  SantaTeresa(Municipio)Adm2NIC:
-    admin_name: SantaTeresa(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B77108235985469
-  SantoTomásdelNorte(Municipio)Adm2NIC:
-    admin_name: SantoTomásdelNorte(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B22626072900706
-  Somotillo(Municipio)Adm2NIC:
-    admin_name: Somotillo(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B81198571450943
-  Somoto(Municipio)Adm2NIC:
-    admin_name: Somoto(Municipio)
-    iso3c: NIC
-    shapeID: 1004716B17858625010552
-  SouthAtlanticAutonomousRegionAdm1NIC:
+    admin_level: Adm1
     admin_name: SouthAtlanticAutonomousRegion
-    iso3c: NIC
     shapeID: 94367503B33867790321270
-  Ticuantepe(Municipio)Adm2NIC:
-    admin_name: Ticuantepe(Municipio)
+    country_name: Nicaragua
+  Nicaragua_Adm1_13:
     iso3c: NIC
-    shapeID: 1004716B88505834595932
-  Tipitapa(Municipio)Adm2NIC:
-    admin_name: Tipitapa(Municipio)
+    admin_level: Adm1
+    admin_name: Jinotega(Departamento)
+    shapeID: 94367503B48061873039178
+    country_name: Nicaragua
+  Nicaragua_Adm1_14:
     iso3c: NIC
-    shapeID: 1004716B23047176162304
-  Tisma(Municipio)Adm2NIC:
-    admin_name: Tisma(Municipio)
+    admin_level: Adm1
+    admin_name: Carazo
+    shapeID: 94367503B26309730772905
+    country_name: Nicaragua
+  Nicaragua_Adm1_15:
     iso3c: NIC
-    shapeID: 1004716B8461244820231
-  Tola(Municipio)Adm2NIC:
-    admin_name: Tola(Municipio)
+    admin_level: Adm1
+    admin_name: Granada
+    shapeID: 94367503B26829213243408
+    country_name: Nicaragua
+  Nicaragua_Adm1_16:
     iso3c: NIC
-    shapeID: 1004716B98313064972178
-  Totogalpa(Municipio)Adm2NIC:
-    admin_name: Totogalpa(Municipio)
+    admin_level: Adm1
+    admin_name: Masaya
+    shapeID: 94367503B55220527661789
+    country_name: Nicaragua
+  Nicaragua_Adm1_17:
     iso3c: NIC
-    shapeID: 1004716B28990306524244
-  VillaElCarmen(Municipio)Adm2NIC:
-    admin_name: VillaElCarmen(Municipio)
+    admin_level: Adm1
+    admin_name: Rivas
+    shapeID: 94367503B70144399425035
+    country_name: Nicaragua
+  Nicaragua_Adm1_2:
     iso3c: NIC
-    shapeID: 1004716B82788315427731
-  Villanueva(Municipio)Adm2NIC:
+    admin_level: Adm1
+    admin_name: Boaco
+    shapeID: 94367503B94735481042460
+    country_name: Nicaragua
+  Nicaragua_Adm1_3:
+    iso3c: NIC
+    admin_level: Adm1
+    admin_name: Chontales
+    shapeID: 94367503B5776780049527
+    country_name: Nicaragua
+  Nicaragua_Adm1_4:
+    iso3c: NIC
+    admin_level: Adm1
+    admin_name: Managua
+    shapeID: 94367503B81766766698586
+    country_name: Nicaragua
+  Nicaragua_Adm1_5:
+    iso3c: NIC
+    admin_level: Adm1
+    admin_name: Leon
+    shapeID: 94367503B39053627120026
+    country_name: Nicaragua
+  Nicaragua_Adm1_6:
+    iso3c: NIC
+    admin_level: Adm1
+    admin_name: Chinandega
+    shapeID: 94367503B84000172489696
+    country_name: Nicaragua
+  Nicaragua_Adm1_7:
+    iso3c: NIC
+    admin_level: Adm1
+    admin_name: Madriz
+    shapeID: 94367503B56642323258301
+    country_name: Nicaragua
+  Nicaragua_Adm1_8:
+    iso3c: NIC
+    admin_level: Adm1
+    admin_name: Estelí
+    shapeID: 94367503B38089883333909
+    country_name: Nicaragua
+  Nicaragua_Adm1_9:
+    iso3c: NIC
+    admin_level: Adm1
+    admin_name: NuevaSegovia
+    shapeID: 94367503B21824249781169
+    country_name: Nicaragua
+  Nicaragua_Adm2_1:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioNuevaGuinea
+    shapeID: 1004716B29920218162683
+    country_name: Nicaragua
+  Nicaragua_Adm2_10:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanPedrodelNorte(Municipio)
+    shapeID: 1004716B12303009438356
+    country_name: Nicaragua
+  Nicaragua_Adm2_100:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanDionisio
+    shapeID: 1004716B76428699695737
+    country_name: Nicaragua
+  Nicaragua_Adm2_101:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioMatagalpa
+    shapeID: 1004716B87721253987704
+    country_name: Nicaragua
+  Nicaragua_Adm2_102:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioEsquipulas
+    shapeID: 1004716B33046783888381
+    country_name: Nicaragua
+  Nicaragua_Adm2_103:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioMuyMuy
+    shapeID: 1004716B21364220712902
+    country_name: Nicaragua
+  Nicaragua_Adm2_104:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioElTuma-LaDalia
+    shapeID: 1004716B65616251671533
+    country_name: Nicaragua
+  Nicaragua_Adm2_105:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanRamon
+    shapeID: 1004716B81885573908031
+    country_name: Nicaragua
+  Nicaragua_Adm2_106:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioMatiguás
+    shapeID: 1004716B23703372823656
+    country_name: Nicaragua
+  Nicaragua_Adm2_107:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioRanchoGrande
+    shapeID: 1004716B75632555635080
+    country_name: Nicaragua
+  Nicaragua_Adm2_108:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioTeustepe
+    shapeID: 1004716B11227441241972
+    country_name: Nicaragua
+  Nicaragua_Adm2_109:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanJosédeLosRemates
+    shapeID: 1004716B82609428709208
+    country_name: Nicaragua
+  Nicaragua_Adm2_11:
+    iso3c: NIC
+    admin_level: Adm2
     admin_name: Villanueva(Municipio)
-    iso3c: NIC
     shapeID: 1004716B19677193971793
+    country_name: Nicaragua
+  Nicaragua_Adm2_110:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSantaLucía
+    shapeID: 1004716B11181519901589
+    country_name: Nicaragua
+  Nicaragua_Adm2_111:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanLorenzo(Municipio)
+    shapeID: 1004716B96121368204860
+    country_name: Nicaragua
+  Nicaragua_Adm2_112:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioBoaco
+    shapeID: 1004716B62391534805354
+    country_name: Nicaragua
+  Nicaragua_Adm2_113:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioCamoapa
+    shapeID: 1004716B73222329493387
+    country_name: Nicaragua
+  Nicaragua_Adm2_114:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Comalapa(Municipio)
+    shapeID: 1004716B34168523861786
+    country_name: Nicaragua
+  Nicaragua_Adm2_115:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanFranciscodeCuapa
+    shapeID: 1004716B602657400093
+    country_name: Nicaragua
+  Nicaragua_Adm2_116:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Juigalpa(Municipio)
+    shapeID: 1004716B64543090123083
+    country_name: Nicaragua
+  Nicaragua_Adm2_117:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Morrito(Municipio)
+    shapeID: 1004716B16591560773004
+    country_name: Nicaragua
+  Nicaragua_Adm2_118:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Acoyapa
+    shapeID: 1004716B97835043719515
+    country_name: Nicaragua
+  Nicaragua_Adm2_119:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSantoDomingo
+    shapeID: 1004716B80343158927889
+    country_name: Nicaragua
+  Nicaragua_Adm2_12:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Chichigalpa(Municipio)
+    shapeID: 1004716B4105996695407
+    country_name: Nicaragua
+  Nicaragua_Adm2_120:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioVillaSandino
+    shapeID: 1004716B48190811236888
+    country_name: Nicaragua
+  Nicaragua_Adm2_121:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSantoTomás
+    shapeID: 1004716B16799049593642
+    country_name: Nicaragua
+  Nicaragua_Adm2_122:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioLaLibertad
+    shapeID: 1004716B95352510191818
+    country_name: Nicaragua
+  Nicaragua_Adm2_123:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanPedrodeLóvago
+    shapeID: 1004716B91452686673321
+    country_name: Nicaragua
+  Nicaragua_Adm2_124:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioElCoral
+    shapeID: 1004716B37829191350570
+    country_name: Nicaragua
+  Nicaragua_Adm2_125:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanMiguelito(Municipio)
+    shapeID: 1004716B41798350281797
+    country_name: Nicaragua
+  Nicaragua_Adm2_126:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioElAlmendro
+    shapeID: 1004716B83781631297987
+    country_name: Nicaragua
+  Nicaragua_Adm2_127:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanCarlos(Municipio)
+    shapeID: 1004716B60915682205878
+    country_name: Nicaragua
+  Nicaragua_Adm2_128:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanJuandeNicaragua
+    shapeID: 1004716B78896367907515
+    country_name: Nicaragua
+  Nicaragua_Adm2_129:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioWaslala
+    shapeID: 1004716B8103194672097
+    country_name: Nicaragua
+  Nicaragua_Adm2_13:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Chinandega(Municipio)
+    shapeID: 1004716B35525100883051
+    country_name: Nicaragua
+  Nicaragua_Adm2_130:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSiuna
+    shapeID: 1004716B85519023744244
+    country_name: Nicaragua
+  Nicaragua_Adm2_131:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioMulukukú
+    shapeID: 1004716B49873570075163
+    country_name: Nicaragua
+  Nicaragua_Adm2_132:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioPaiwas
+    shapeID: 1004716B19592453866011
+    country_name: Nicaragua
+  Nicaragua_Adm2_133:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioRíoBlanco
+    shapeID: 1004716B19683418565174
+    country_name: Nicaragua
+  Nicaragua_Adm2_134:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioWaspán
+    shapeID: 1004716B11599288881671
+    country_name: Nicaragua
+  Nicaragua_Adm2_135:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioBonanza
+    shapeID: 1004716B97490188129445
+    country_name: Nicaragua
+  Nicaragua_Adm2_136:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioRosita
+    shapeID: 1004716B63442021771404
+    country_name: Nicaragua
+  Nicaragua_Adm2_137:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioPuertoCabezas
+    shapeID: 1004716B4922305453104
+    country_name: Nicaragua
+  Nicaragua_Adm2_138:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioPrinzapolka
+    shapeID: 1004716B63753467336397
+    country_name: Nicaragua
+  Nicaragua_Adm2_139:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioLaCruzdeRíoGrande
+    shapeID: 1004716B26434721219648
+    country_name: Nicaragua
+  Nicaragua_Adm2_14:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioLeón
+    shapeID: 1004716B1718799712093
+    country_name: Nicaragua
+  Nicaragua_Adm2_140:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioDesembocaduradeCruzRíoGrande
+    shapeID: 1004716B54841034408415
+    country_name: Nicaragua
+  Nicaragua_Adm2_141:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioElAyote
+    shapeID: 1004716B40400689855
+    country_name: Nicaragua
+  Nicaragua_Adm2_142:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioElTortugero
+    shapeID: 1004716B52316346620660
+    country_name: Nicaragua
+  Nicaragua_Adm2_143:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioLagunadePerlas
+    shapeID: 1004716B80689384064512
+    country_name: Nicaragua
+  Nicaragua_Adm2_144:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioMuelledelosBueyes
+    shapeID: 1004716B88146525793378
+    country_name: Nicaragua
+  Nicaragua_Adm2_145:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioElRama
+    shapeID: 1004716B75188103364632
+    country_name: Nicaragua
+  Nicaragua_Adm2_146:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioKukraHill
+    shapeID: 1004716B60174828263076
+    country_name: Nicaragua
+  Nicaragua_Adm2_147:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioBluefields
+    shapeID: 1004716B58524180713592
+    country_name: Nicaragua
+  Nicaragua_Adm2_148:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Managua(Municipio)
+    shapeID: 1004716B26688105291153
+    country_name: Nicaragua
+  Nicaragua_Adm2_149:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: CiudadSandino(Municipio)
+    shapeID: 1004716B23096552390048
+    country_name: Nicaragua
+  Nicaragua_Adm2_15:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Quezalguaque(Municipio)
+    shapeID: 1004716B69016547634198
+    country_name: Nicaragua
+  Nicaragua_Adm2_150:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: ElCrucero(Municipio)
+    shapeID: 1004716B35056962517282
+    country_name: Nicaragua
+  Nicaragua_Adm2_151:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Ticuantepe(Municipio)
+    shapeID: 1004716B88505834595932
+    country_name: Nicaragua
+  Nicaragua_Adm2_152:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: ElCastillo(Municipio)
+    shapeID: 1004716B39887866574539
+    country_name: Nicaragua
+  Nicaragua_Adm2_153:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: CornIsland
+    shapeID: 1004716B84581275019273
+    country_name: Nicaragua
+  Nicaragua_Adm2_16:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioTelica
+    shapeID: 1004716B99865262372177
+    country_name: Nicaragua
+  Nicaragua_Adm2_17:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Posoltega(Municipio)
+    shapeID: 1004716B50756255282964
+    country_name: Nicaragua
+  Nicaragua_Adm2_18:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: LaPazCentro(Municipio)
+    shapeID: 1004716B1679190464603
+    country_name: Nicaragua
+  Nicaragua_Adm2_19:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioLarreynaga
+    shapeID: 1004716B51172102735517
+    country_name: Nicaragua
+  Nicaragua_Adm2_2:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: ElViejo(Municipio)
+    shapeID: 1004716B17988472214620
+    country_name: Nicaragua
+  Nicaragua_Adm2_20:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Nagarote(Municipio)
+    shapeID: 1004716B18195388081086
+    country_name: Nicaragua
+  Nicaragua_Adm2_21:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioAchuapa
+    shapeID: 1004716B42405349993002
+    country_name: Nicaragua
+  Nicaragua_Adm2_22:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioElSauce
+    shapeID: 1004716B10607629664625
+    country_name: Nicaragua
+  Nicaragua_Adm2_23:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSantaRosadelPeñón
+    shapeID: 1004716B66852028113386
+    country_name: Nicaragua
+  Nicaragua_Adm2_24:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanJuandeLimay
+    shapeID: 1004716B17437818815297
+    country_name: Nicaragua
+  Nicaragua_Adm2_25:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: ElJicaral(Municipio)
+    shapeID: 1004716B7540318748953
+    country_name: Nicaragua
+  Nicaragua_Adm2_26:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioLasSabanas
+    shapeID: 1004716B30473237121748
+    country_name: Nicaragua
+  Nicaragua_Adm2_27:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanJosédeCusmapa
+    shapeID: 1004716B83973751010428
+    country_name: Nicaragua
+  Nicaragua_Adm2_28:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanLucas
+    shapeID: 1004716B51733006416876
+    country_name: Nicaragua
+  Nicaragua_Adm2_29:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Somoto(Municipio)
+    shapeID: 1004716B17858625010552
+    country_name: Nicaragua
+  Nicaragua_Adm2_3:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Corinto(Municipio)
+    shapeID: 1004716B85361767626359
+    country_name: Nicaragua
+  Nicaragua_Adm2_30:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioYalagüina
+    shapeID: 1004716B60763452238766
+    country_name: Nicaragua
+  Nicaragua_Adm2_31:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Totogalpa(Municipio)
+    shapeID: 1004716B28990306524244
+    country_name: Nicaragua
+  Nicaragua_Adm2_32:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Palacagüina(Municipio)
+    shapeID: 1004716B25333240453308
+    country_name: Nicaragua
+  Nicaragua_Adm2_33:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioTelpaneca
+    shapeID: 1004716B35768967856860
+    country_name: Nicaragua
+  Nicaragua_Adm2_34:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanJuandeRíoCoco
+    shapeID: 1004716B37317224519748
+    country_name: Nicaragua
+  Nicaragua_Adm2_35:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioPuebloNuevo
+    shapeID: 1004716B12807180863257
+    country_name: Nicaragua
+  Nicaragua_Adm2_36:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioEstelí
+    shapeID: 1004716B56693766830513
+    country_name: Nicaragua
+  Nicaragua_Adm2_37:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioCondega
+    shapeID: 1004716B43521323619670
+    country_name: Nicaragua
+  Nicaragua_Adm2_38:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanNicolas
+    shapeID: 1004716B22267380414447
+    country_name: Nicaragua
+  Nicaragua_Adm2_39:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioLaTrinidad
+    shapeID: 1004716B564283861806
+    country_name: Nicaragua
+  Nicaragua_Adm2_4:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: PuertoMorazán(Municipio)
+    shapeID: 1004716B6041488955142
+    country_name: Nicaragua
+  Nicaragua_Adm2_40:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSantaMaría
+    shapeID: 1004716B59268644799254
+    country_name: Nicaragua
+  Nicaragua_Adm2_41:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioMacuelizo
+    shapeID: 1004716B64961378058069
+    country_name: Nicaragua
+  Nicaragua_Adm2_42:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioDipilito
+    shapeID: 1004716B94651334024859
+    country_name: Nicaragua
+  Nicaragua_Adm2_43:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioMonzonte
+    shapeID: 1004716B16530197596894
+    country_name: Nicaragua
+  Nicaragua_Adm2_44:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Ocotal(Municipio)
+    shapeID: 1004716B78226136853843
+    country_name: Nicaragua
+  Nicaragua_Adm2_45:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioCiudadAntigua
+    shapeID: 1004716B57977166518542
+    country_name: Nicaragua
+  Nicaragua_Adm2_46:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanFernando
+    shapeID: 1004716B15521754331329
+    country_name: Nicaragua
+  Nicaragua_Adm2_47:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioElJacaro
+    shapeID: 1004716B59561858101925
+    country_name: Nicaragua
+  Nicaragua_Adm2_48:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioJalapa
+    shapeID: 1004716B55226501636546
+    country_name: Nicaragua
+  Nicaragua_Adm2_49:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioMurra
+    shapeID: 1004716B68120786846316
+    country_name: Nicaragua
+  Nicaragua_Adm2_5:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Somotillo(Municipio)
+    shapeID: 1004716B81198571450943
+    country_name: Nicaragua
+  Nicaragua_Adm2_50:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioQuilalí
+    shapeID: 1004716B53566331639399
+    country_name: Nicaragua
+  Nicaragua_Adm2_51:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioWiwilídeNuevaSegovia
+    shapeID: 1004716B54884295225875
+    country_name: Nicaragua
+  Nicaragua_Adm2_52:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: VillaElCarmen(Municipio)
+    shapeID: 1004716B82788315427731
+    country_name: Nicaragua
+  Nicaragua_Adm2_53:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanRafaeldelSur(Municipio)
+    shapeID: 1004716B73686140386130
+    country_name: Nicaragua
+  Nicaragua_Adm2_54:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanFranciscoLibre(Municipio)
+    shapeID: 1004716B91399694285767
+    country_name: Nicaragua
+  Nicaragua_Adm2_55:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Tipitapa(Municipio)
+    shapeID: 1004716B23047176162304
+    country_name: Nicaragua
+  Nicaragua_Adm2_56:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Mateare(Municipio)
+    shapeID: 1004716B53376574374139
+    country_name: Nicaragua
+  Nicaragua_Adm2_57:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Diriamba(Municipio)
+    shapeID: 1004716B27179977513508
+    country_name: Nicaragua
+  Nicaragua_Adm2_58:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Dolores(Municipio)
+    shapeID: 1004716B76104537759398
+    country_name: Nicaragua
+  Nicaragua_Adm2_59:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Jinotepe(Municipio)
+    shapeID: 1004716B47361215908739
+    country_name: Nicaragua
+  Nicaragua_Adm2_6:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: ElRealejo(Municipio)
+    shapeID: 1004716B26067385365497
+    country_name: Nicaragua
+  Nicaragua_Adm2_60:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: LaConquista(Municipio)
+    shapeID: 1004716B47448903667956
+    country_name: Nicaragua
+  Nicaragua_Adm2_61:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: LaPazdeCarazo(Municipio)
+    shapeID: 1004716B20631449886015
+    country_name: Nicaragua
+  Nicaragua_Adm2_62:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SantaTeresa(Municipio)
+    shapeID: 1004716B77108235985469
+    country_name: Nicaragua
+  Nicaragua_Adm2_63:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: ElRosario(Municipio)
+    shapeID: 1004716B55266427441133
+    country_name: Nicaragua
+  Nicaragua_Adm2_64:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanMarcos(Municipio)
+    shapeID: 1004716B18709487370241
+    country_name: Nicaragua
+  Nicaragua_Adm2_65:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: LaConcepción(Municipio)
+    shapeID: 1004716B46304212562790
+    country_name: Nicaragua
+  Nicaragua_Adm2_66:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Catarina(Municipio)
+    shapeID: 1004716B75081845328431
+    country_name: Nicaragua
+  Nicaragua_Adm2_67:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Masatepe(Municipio)
+    shapeID: 1004716B95201351767223
+    country_name: Nicaragua
+  Nicaragua_Adm2_68:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Nandasmo(Muncipio)
+    shapeID: 1004716B77754664653503
+    country_name: Nicaragua
+  Nicaragua_Adm2_69:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Niquinohomo(Municipio)
+    shapeID: 1004716B21057014722177
+    country_name: Nicaragua
+  Nicaragua_Adm2_7:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SantoTomásdelNorte(Municipio)
+    shapeID: 1004716B22626072900706
+    country_name: Nicaragua
+  Nicaragua_Adm2_70:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanJuandeOriente(Municipio)
+    shapeID: 1004716B29253428055821
+    country_name: Nicaragua
+  Nicaragua_Adm2_71:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Altagracia(Municipio)
+    shapeID: 1004716B24558715702224
+    country_name: Nicaragua
+  Nicaragua_Adm2_72:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Cárdenas
+    shapeID: 1004716B49624081386383
+    country_name: Nicaragua
+  Nicaragua_Adm2_73:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanJuandelSur(Municipio)
+    shapeID: 1004716B76724333569498
+    country_name: Nicaragua
+  Nicaragua_Adm2_74:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Moyagalpa(Muncipio)
+    shapeID: 1004716B69176908795082
+    country_name: Nicaragua
+  Nicaragua_Adm2_75:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanJorge(Municipio)
+    shapeID: 1004716B65848317869673
+    country_name: Nicaragua
+  Nicaragua_Adm2_76:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Tola(Municipio)
+    shapeID: 1004716B98313064972178
+    country_name: Nicaragua
+  Nicaragua_Adm2_77:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Belén(Municipio)
+    shapeID: 1004716B90224311807252
+    country_name: Nicaragua
+  Nicaragua_Adm2_78:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: BuenosAires(Municipio)
+    shapeID: 1004716B16882878682213
+    country_name: Nicaragua
+  Nicaragua_Adm2_79:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Potosí(Municipio)
+    shapeID: 1004716B69755692958912
+    country_name: Nicaragua
+  Nicaragua_Adm2_8:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanJuandeCincoPinos(Municipio)
+    shapeID: 1004716B9870414897994
+    country_name: Nicaragua
+  Nicaragua_Adm2_80:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Rivas(Municipio)
+    shapeID: 1004716B86091214063878
+    country_name: Nicaragua
+  Nicaragua_Adm2_81:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Diriomo(Municipio)
+    shapeID: 1004716B76497649402022
+    country_name: Nicaragua
+  Nicaragua_Adm2_82:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Diriá(Municipio)
+    shapeID: 1004716B9004620436868
+    country_name: Nicaragua
+  Nicaragua_Adm2_83:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Nandaime(Municipio)
+    shapeID: 1004716B87872179311194
+    country_name: Nicaragua
+  Nicaragua_Adm2_84:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Granada(Municipio)
+    shapeID: 1004716B17287296574924
+    country_name: Nicaragua
+  Nicaragua_Adm2_85:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Tisma(Municipio)
+    shapeID: 1004716B8461244820231
+    country_name: Nicaragua
+  Nicaragua_Adm2_86:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Masaya(Municipio)
+    shapeID: 1004716B82888371591371
+    country_name: Nicaragua
+  Nicaragua_Adm2_87:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: Nindirí(Municipio)
+    shapeID: 1004716B14428044867923
+    country_name: Nicaragua
+  Nicaragua_Adm2_88:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MuncipioSanSebastiándeYalí
+    shapeID: 1004716B80493320334712
+    country_name: Nicaragua
+  Nicaragua_Adm2_89:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioLaConcordia
+    shapeID: 1004716B63419948183184
+    country_name: Nicaragua
+  Nicaragua_Adm2_9:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: SanFranciscodelNorte(Municipio)
+    shapeID: 1004716B1417571394105
+    country_name: Nicaragua
+  Nicaragua_Adm2_90:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanRafaeldelNorte
+    shapeID: 1004716B56620131792900
+    country_name: Nicaragua
+  Nicaragua_Adm2_91:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipiodeJinotega
+    shapeID: 1004716B22222561531816
+    country_name: Nicaragua
+  Nicaragua_Adm2_92:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSantaMaríadePantasma
+    shapeID: 1004716B48551329276028
+    country_name: Nicaragua
+  Nicaragua_Adm2_93:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioElCuá
+    shapeID: 1004716B91684514747907
+    country_name: Nicaragua
+  Nicaragua_Adm2_94:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanJosédeBocay
+    shapeID: 1004716B82314405656204
+    country_name: Nicaragua
+  Nicaragua_Adm2_95:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioWiwilídeJinotega
+    shapeID: 1004716B99280439905911
+    country_name: Nicaragua
+  Nicaragua_Adm2_96:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSanIsidro
+    shapeID: 1004716B6585640653247
+    country_name: Nicaragua
+  Nicaragua_Adm2_97:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioSebaco
+    shapeID: 1004716B70540306001551
+    country_name: Nicaragua
+  Nicaragua_Adm2_98:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioCiudadDarco
+    shapeID: 1004716B88465626823892
+    country_name: Nicaragua
+  Nicaragua_Adm2_99:
+    iso3c: NIC
+    admin_level: Adm2
+    admin_name: MunicipioTerrabona
+    shapeID: 1004716B5502390866832
+    country_name: Nicaragua
