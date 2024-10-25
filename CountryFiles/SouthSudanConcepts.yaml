@@ -1,535 +1,337 @@
 concepts:
-  SouthSudan_Adm0:
+  SSD.0_Adm0:
+    GID: SSD
+    admin_name: South Sudan
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm0
-    admin_name: SouthSudan
-    shapeID: 54869323B67570698233756
-    country_name: SouthSudan
-  SouthSudan_Adm1_1:
+  SSD.1_1_Adm1:
+    GID: SSD.1_1
+    admin_name: Central Equatoria
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm1
-    admin_name: Lakes
-    shapeID: 48771326B2646389376646
-    country_name: SouthSudan
-  SouthSudan_Adm1_10:
+  SSD.1.1_1_Adm2:
+    GID: SSD.1.1_1
+    admin_name: Bahr al Jabal
     iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.1.2_1_Adm2:
+    GID: SSD.1.2_1
+    admin_name: Kajo Kaii
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.1.3_1_Adm2:
+    GID: SSD.1.3_1
+    admin_name: Nahr Yei
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.1.4_1_Adm2:
+    GID: SSD.1.4_1
+    admin_name: Terkaka
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.10_1_Adm1:
+    GID: SSD.10_1
+    admin_name: West Equatoria
+    iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm1
-    admin_name: Warrap
-    shapeID: 48771326B11845073429118
-    country_name: SouthSudan
-  SouthSudan_Adm1_2:
+  SSD.10.1_1_Adm2:
+    GID: SSD.10.1_1
+    admin_name: Meridi
     iso3c: SSD
-    admin_level: Adm1
-    admin_name: CentralEquatoria
-    shapeID: 48771326B10235544430886
-    country_name: SouthSudan
-  SouthSudan_Adm1_3:
-    iso3c: SSD
-    admin_level: Adm1
-    admin_name: EasternEquatoria
-    shapeID: 48771326B42994405084241
-    country_name: SouthSudan
-  SouthSudan_Adm1_4:
-    iso3c: SSD
-    admin_level: Adm1
-    admin_name: UpperNile
-    shapeID: 48771326B2876692069974
-    country_name: SouthSudan
-  SouthSudan_Adm1_5:
-    iso3c: SSD
-    admin_level: Adm1
-    admin_name: WesternBahrelGhazal
-    shapeID: 48771326B76913720880161
-    country_name: SouthSudan
-  SouthSudan_Adm1_6:
-    iso3c: SSD
-    admin_level: Adm1
-    admin_name: Unity
-    shapeID: 48771326B37591972128550
-    country_name: SouthSudan
-  SouthSudan_Adm1_7:
-    iso3c: SSD
-    admin_level: Adm1
-    admin_name: NorthernBahrelGhazal
-    shapeID: 48771326B49579010016854
-    country_name: SouthSudan
-  SouthSudan_Adm1_8:
-    iso3c: SSD
-    admin_level: Adm1
-    admin_name: Jonglei
-    shapeID: 48771326B48659004133869
-    country_name: SouthSudan
-  SouthSudan_Adm1_9:
-    iso3c: SSD
-    admin_level: Adm1
-    admin_name: WesternEquatoria
-    shapeID: 48771326B90797869503386
-    country_name: SouthSudan
-  SouthSudan_Adm2_1:
-    iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Morobo
-    shapeID: 79223893B16328156709571
-    country_name: SouthSudan
-  SouthSudan_Adm2_10:
+  SSD.10.2_1_Adm2:
+    GID: SSD.10.2_1
+    admin_name: Mundri
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Budi
-    shapeID: 79223893B70583427213056
-    country_name: SouthSudan
-  SouthSudan_Adm2_11:
+  SSD.10.3_1_Adm2:
+    GID: SSD.10.3_1
+    admin_name: Tombura
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Torit
-    shapeID: 79223893B91619257593054
-    country_name: SouthSudan
-  SouthSudan_Adm2_12:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: KapoetaNorth
-    shapeID: 79223893B90459000801703
-    country_name: SouthSudan
-  SouthSudan_Adm2_13:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Lafon
-    shapeID: 79223893B81439496011559
-    country_name: SouthSudan
-  SouthSudan_Adm2_14:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: KapoetaEast
-    shapeID: 79223893B62671962917549
-    country_name: SouthSudan
-  SouthSudan_Adm2_15:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Awerial
-    shapeID: 79223893B81946287385268
-    country_name: SouthSudan
-  SouthSudan_Adm2_16:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: YirolWest
-    shapeID: 79223893B91549387440575
-    country_name: SouthSudan
-  SouthSudan_Adm2_17:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Wulu
-    shapeID: 79223893B61000747889625
-    country_name: SouthSudan
-  SouthSudan_Adm2_18:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: RumbekEast
-    shapeID: 79223893B32400871313636
-    country_name: SouthSudan
-  SouthSudan_Adm2_19:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Cueibet
-    shapeID: 79223893B36009183812967
-    country_name: SouthSudan
-  SouthSudan_Adm2_2:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Kajo-keji
-    shapeID: 79223893B65724383376583
-    country_name: SouthSudan
-  SouthSudan_Adm2_20:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: RumbekNorth
-    shapeID: 79223893B34085221347990
-    country_name: SouthSudan
-  SouthSudan_Adm2_21:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: RumbekCentre
-    shapeID: 79223893B15705410595049
-    country_name: SouthSudan
-  SouthSudan_Adm2_22:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: YirolEast
-    shapeID: 79223893B59833655345818
-    country_name: SouthSudan
-  SouthSudan_Adm2_23:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: AweilSouth
-    shapeID: 79223893B68307976822083
-    country_name: SouthSudan
-  SouthSudan_Adm2_24:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: AweilCentre
-    shapeID: 79223893B3139508517189
-    country_name: SouthSudan
-  SouthSudan_Adm2_25:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: AweilWest
-    shapeID: 79223893B18780774215456
-    country_name: SouthSudan
-  SouthSudan_Adm2_26:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: AweilNorth
-    shapeID: 79223893B62952270667029
-    country_name: SouthSudan
-  SouthSudan_Adm2_27:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: AweilEast
-    shapeID: 79223893B40976740779216
-    country_name: SouthSudan
-  SouthSudan_Adm2_28:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Panyijiar
-    shapeID: 79223893B83393378605380
-    country_name: SouthSudan
-  SouthSudan_Adm2_29:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Mayendit
-    shapeID: 79223893B14659068163591
-    country_name: SouthSudan
-  SouthSudan_Adm2_3:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Lainya
-    shapeID: 79223893B40788586970477
-    country_name: SouthSudan
-  SouthSudan_Adm2_30:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Leer
-    shapeID: 79223893B69853556807394
-    country_name: SouthSudan
-  SouthSudan_Adm2_31:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Koch
-    shapeID: 79223893B49077464819329
-    country_name: SouthSudan
-  SouthSudan_Adm2_32:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Mayom
-    shapeID: 79223893B58930219701541
-    country_name: SouthSudan
-  SouthSudan_Adm2_33:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Guit
-    shapeID: 79223893B83086090968913
-    country_name: SouthSudan
-  SouthSudan_Adm2_34:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Rubkona
-    shapeID: 79223893B27394743162218
-    country_name: SouthSudan
-  SouthSudan_Adm2_35:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Abiemnhom
-    shapeID: 79223893B7237342620432
-    country_name: SouthSudan
-  SouthSudan_Adm2_36:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Pariang
-    shapeID: 79223893B45292827901182
-    country_name: SouthSudan
-  SouthSudan_Adm2_37:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: TonjSouth
-    shapeID: 79223893B28236653000633
-    country_name: SouthSudan
-  SouthSudan_Adm2_38:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: TonjEast
-    shapeID: 79223893B19595025939095
-    country_name: SouthSudan
-  SouthSudan_Adm2_39:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: TonjNorth
-    shapeID: 79223893B57741024830751
-    country_name: SouthSudan
-  SouthSudan_Adm2_4:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Yei
-    shapeID: 79223893B15931514297219
-    country_name: SouthSudan
-  SouthSudan_Adm2_40:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: GogrialEast
-    shapeID: 79223893B33443861604681
-    country_name: SouthSudan
-  SouthSudan_Adm2_41:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: GogrialWest
-    shapeID: 79223893B68653566735715
-    country_name: SouthSudan
-  SouthSudan_Adm2_42:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Twic
-    shapeID: 79223893B10116449599990
-    country_name: SouthSudan
-  SouthSudan_Adm2_43:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Wau
-    shapeID: 79223893B74023037447504
-    country_name: SouthSudan
-  SouthSudan_Adm2_44:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: JurRiver
-    shapeID: 79223893B97545569096613
-    country_name: SouthSudan
-  SouthSudan_Adm2_45:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Raga
-    shapeID: 79223893B70929244954658
-    country_name: SouthSudan
-  SouthSudan_Adm2_46:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Maridi
-    shapeID: 79223893B17245880032219
-    country_name: SouthSudan
-  SouthSudan_Adm2_47:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: MundriWest
-    shapeID: 79223893B75409904988016
-    country_name: SouthSudan
-  SouthSudan_Adm2_48:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: MundriEast
-    shapeID: 79223893B67918062022173
-    country_name: SouthSudan
-  SouthSudan_Adm2_49:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Ibba
-    shapeID: 79223893B81466867971410
-    country_name: SouthSudan
-  SouthSudan_Adm2_5:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Juba
-    shapeID: 79223893B61077901252755
-    country_name: SouthSudan
-  SouthSudan_Adm2_50:
-    iso3c: SSD
-    admin_level: Adm2
+  SSD.10.4_1_Adm2:
+    GID: SSD.10.4_1
     admin_name: Yambio
-    shapeID: 79223893B76948069319823
-    country_name: SouthSudan
-  SouthSudan_Adm2_51:
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Nzara
-    shapeID: 79223893B44878437184267
-    country_name: SouthSudan
-  SouthSudan_Adm2_52:
+  SSD.2_1_Adm1:
+    GID: SSD.2_1
+    admin_name: Eastern Equatoria
     iso3c: SSD
-    admin_level: Adm2
-    admin_name: Mvolo
-    shapeID: 79223893B56262288593012
-    country_name: SouthSudan
-  SouthSudan_Adm2_53:
+    country_name: South Sudan
+    admin_level: Adm1
+  SSD.2.1_1_Adm2:
+    GID: SSD.2.1_1
+    admin_name: Amatonge
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Ezo
-    shapeID: 79223893B74346966367837
-    country_name: SouthSudan
-  SouthSudan_Adm2_54:
+  SSD.2.2_1_Adm2:
+    GID: SSD.2.2_1
+    admin_name: Kapoeta
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Tambura
-    shapeID: 79223893B47853667167464
-    country_name: SouthSudan
-  SouthSudan_Adm2_55:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Nagero
-    shapeID: 79223893B92049236674471
-    country_name: SouthSudan
-  SouthSudan_Adm2_56:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: BorSouth
-    shapeID: 79223893B93297305003737
-    country_name: SouthSudan
-  SouthSudan_Adm2_57:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Pibor
-    shapeID: 79223893B32810285770131
-    country_name: SouthSudan
-  SouthSudan_Adm2_58:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: TwicEast
-    shapeID: 79223893B26459782826909
-    country_name: SouthSudan
-  SouthSudan_Adm2_59:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Pochalla
-    shapeID: 79223893B22691287422318
-    country_name: SouthSudan
-  SouthSudan_Adm2_6:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Terekeka
-    shapeID: 79223893B10688999436649
-    country_name: SouthSudan
-  SouthSudan_Adm2_60:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Duk
-    shapeID: 79223893B68171722755013
-    country_name: SouthSudan
-  SouthSudan_Adm2_61:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Uror
-    shapeID: 79223893B11973303944142
-    country_name: SouthSudan
-  SouthSudan_Adm2_62:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Akobo
-    shapeID: 79223893B55602707979350
-    country_name: SouthSudan
-  SouthSudan_Adm2_63:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Ayod
-    shapeID: 79223893B14285446390064
-    country_name: SouthSudan
-  SouthSudan_Adm2_64:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Nyirol
-    shapeID: 79223893B2194918447747
-    country_name: SouthSudan
-  SouthSudan_Adm2_65:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Canal/Pigi
-    shapeID: 79223893B17498067697092
-    country_name: SouthSudan
-  SouthSudan_Adm2_66:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Fangak
-    shapeID: 79223893B14796875108361
-    country_name: SouthSudan
-  SouthSudan_Adm2_67:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Ulang
-    shapeID: 79223893B95619836669451
-    country_name: SouthSudan
-  SouthSudan_Adm2_68:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Maiwut
-    shapeID: 79223893B33528845536299
-    country_name: SouthSudan
-  SouthSudan_Adm2_69:
-    iso3c: SSD
-    admin_level: Adm2
-    admin_name: Luakpiny/Nasir
-    shapeID: 79223893B70748738440916
-    country_name: SouthSudan
-  SouthSudan_Adm2_7:
-    iso3c: SSD
-    admin_level: Adm2
+  SSD.2.3_1_Adm2:
+    GID: SSD.2.3_1
     admin_name: Magwi
-    shapeID: 79223893B80026525075144
-    country_name: SouthSudan
-  SouthSudan_Adm2_70:
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Longochuk
-    shapeID: 79223893B31888405901503
-    country_name: SouthSudan
-  SouthSudan_Adm2_71:
+  SSD.2.4_1_Adm2:
+    GID: SSD.2.4_1
+    admin_name: Shokodom
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Panyikang
-    shapeID: 79223893B85148589397174
-    country_name: SouthSudan
-  SouthSudan_Adm2_72:
+  SSD.3_1_Adm1:
+    GID: SSD.3_1
+    admin_name: Jungoli
     iso3c: SSD
-    admin_level: Adm2
-    admin_name: Malakal
-    shapeID: 79223893B90064315418203
-    country_name: SouthSudan
-  SouthSudan_Adm2_73:
+    country_name: South Sudan
+    admin_level: Adm1
+  SSD.3.1_1_Adm2:
+    GID: SSD.3.1_1
+    admin_name: Akobo
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Baliet
-    shapeID: 79223893B13684678916358
-    country_name: SouthSudan
-  SouthSudan_Adm2_74:
+  SSD.3.2_1_Adm2:
+    GID: SSD.3.2_1
+    admin_name: Ayod
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Fashoda
-    shapeID: 79223893B4456195620437
-    country_name: SouthSudan
-  SouthSudan_Adm2_75:
+  SSD.3.3_1_Adm2:
+    GID: SSD.3.3_1
+    admin_name: Bor
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Melut
-    shapeID: 79223893B2646445325724
-    country_name: SouthSudan
-  SouthSudan_Adm2_76:
+  SSD.3.4_1_Adm2:
+    GID: SSD.3.4_1
+    admin_name: Fam al Zaraf
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Manyo
-    shapeID: 79223893B45725284796006
-    country_name: SouthSudan
-  SouthSudan_Adm2_77:
+  SSD.3.5_1_Adm2:
+    GID: SSD.3.5_1
+    admin_name: Nahr Atiem
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Renk
-    shapeID: 79223893B54015778886033
-    country_name: SouthSudan
-  SouthSudan_Adm2_78:
+  SSD.3.6_1_Adm2:
+    GID: SSD.3.6_1
+    admin_name: Pibor
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Maban
-    shapeID: 79223893B87220542132951
-    country_name: SouthSudan
-  SouthSudan_Adm2_8:
+  SSD.3.7_1_Adm2:
+    GID: SSD.3.7_1
+    admin_name: Wat
     iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: Ikotos
-    shapeID: 79223893B75846050285915
-    country_name: SouthSudan
-  SouthSudan_Adm2_9:
+  SSD.4_1_Adm1:
+    GID: SSD.4_1
+    admin_name: Lakes
     iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm1
+  SSD.4.1_1_Adm2:
+    GID: SSD.4.1_1
+    admin_name: Aliab
+    iso3c: SSD
+    country_name: South Sudan
     admin_level: Adm2
-    admin_name: KapoetaSouth
-    shapeID: 79223893B10541432646171
-    country_name: SouthSudan
+  SSD.4.2_1_Adm2:
+    GID: SSD.4.2_1
+    admin_name: Rumbek
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.4.3_1_Adm2:
+    GID: SSD.4.3_1
+    admin_name: Shobet
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.4.4_1_Adm2:
+    GID: SSD.4.4_1
+    admin_name: Yerol
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.5_1_Adm1:
+    GID: SSD.5_1
+    admin_name: North Bahr-al-Ghazal
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm1
+  SSD.5.1_1_Adm2:
+    GID: SSD.5.1_1
+    admin_name: Aryat
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.5.2_1_Adm2:
+    GID: SSD.5.2_1
+    admin_name: Aweil
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.5.3_1_Adm2:
+    GID: SSD.5.3_1
+    admin_name: Nahr Lol
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.5.4_1_Adm2:
+    GID: SSD.5.4_1
+    admin_name: Wanjuk
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.6_1_Adm1:
+    GID: SSD.6_1
+    admin_name: Unity
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm1
+  SSD.6.1_1_Adm2:
+    GID: SSD.6.1_1
+    admin_name: Al Leiri
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.6.2_1_Adm2:
+    GID: SSD.6.2_1
+    admin_name: Al Mayom
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.6.3_1_Adm2:
+    GID: SSD.6.3_1
+    admin_name: Faring
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.6.4_1_Adm2:
+    GID: SSD.6.4_1
+    admin_name: Rabkona
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.7_1_Adm1:
+    GID: SSD.7_1
+    admin_name: Upper Nile
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm1
+  SSD.7.1_1_Adm2:
+    GID: SSD.7.1_1
+    admin_name: Al Mabien
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.7.2_1_Adm2:
+    GID: SSD.7.2_1
+    admin_name: Al Renk
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.7.3_1_Adm2:
+    GID: SSD.7.3_1
+    admin_name: Baleit
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.7.4_1_Adm2:
+    GID: SSD.7.4_1
+    admin_name: Fashooda
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.7.5_1_Adm2:
+    GID: SSD.7.5_1
+    admin_name: Malut
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.7.6_1_Adm2:
+    GID: SSD.7.6_1
+    admin_name: Mayot
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.7.7_1_Adm2:
+    GID: SSD.7.7_1
+    admin_name: Sobat
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.7.8_1_Adm2:
+    GID: SSD.7.8_1
+    admin_name: Tonga
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.8_1_Adm1:
+    GID: SSD.8_1
+    admin_name: Warap
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm1
+  SSD.8.1_1_Adm2:
+    GID: SSD.8.1_1
+    admin_name: Gogrial
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.8.2_1_Adm2:
+    GID: SSD.8.2_1
+    admin_name: Malek
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.8.3_1_Adm2:
+    GID: SSD.8.3_1
+    admin_name: Tonj
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.8.4_1_Adm2:
+    GID: SSD.8.4_1
+    admin_name: Warab
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.9_1_Adm1:
+    GID: SSD.9_1
+    admin_name: West Bahr-al-Ghazal
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm1
+  SSD.9.1_1_Adm2:
+    GID: SSD.9.1_1
+    admin_name: Raja
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2
+  SSD.9.2_1_Adm2:
+    GID: SSD.9.2_1
+    admin_name: Wau
+    iso3c: SSD
+    country_name: South Sudan
+    admin_level: Adm2

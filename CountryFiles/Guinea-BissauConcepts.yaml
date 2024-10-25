@@ -1,295 +1,283 @@
 concepts:
-  Guinea-Bissau_Adm0:
-    iso3c: GNB
-    admin_level: Adm0
+  GNB.0_Adm0:
+    GID: GNB
     admin_name: Guinea-Bissau
-    shapeID: 84417234B62565871353209
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm1_1:
     iso3c: GNB
-    admin_level: Adm1
-    admin_name: Bissau
-    shapeID: 76643164B96925829526723
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm1_2:
-    iso3c: GNB
-    admin_level: Adm1
+    admin_level: Adm0
+  GNB.1_1_Adm1:
+    GID: GNB.1_1
     admin_name: Bafatá
-    shapeID: 76643164B84174472060432
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm1_3:
     iso3c: GNB
+    country_name: Guinea-Bissau
     admin_level: Adm1
-    admin_name: Biombo
-    shapeID: 76643164B78535055467734
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm1_4:
+  GNB.1.1_1_Adm2:
+    GID: GNB.1.1_1
+    admin_name: Bafata
     iso3c: GNB
-    admin_level: Adm1
-    admin_name: Bolama
-    shapeID: 76643164B18917431809987
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm1_5:
-    iso3c: GNB
-    admin_level: Adm1
-    admin_name: Cacheu
-    shapeID: 76643164B20603668674672
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm1_6:
-    iso3c: GNB
-    admin_level: Adm1
-    admin_name: Gabu
-    shapeID: 76643164B38080973404583
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm1_7:
-    iso3c: GNB
-    admin_level: Adm1
-    admin_name: Oio
-    shapeID: 76643164B92913079273182
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm1_8:
-    iso3c: GNB
-    admin_level: Adm1
-    admin_name: Quinara
-    shapeID: 76643164B25325276017448
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm1_9:
-    iso3c: GNB
-    admin_level: Adm1
-    admin_name: Tombali
-    shapeID: 76643164B14801811690770
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_1:
-    iso3c: GNB
     admin_level: Adm2
-    admin_name: SetordeBoe
-    shapeID: 13655514B99052541590952
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_10:
+  GNB.1.2_1_Adm2:
+    GID: GNB.1.2_1
+    admin_name: Bambadinca
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeBula
-    shapeID: 13655514B11561761851968
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_11:
-    iso3c: GNB
     admin_level: Adm2
-    admin_name: SetordeCacheu
-    shapeID: 13655514B95678269815128
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_12:
-    iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeCacine
-    shapeID: 13655514B71925291750028
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_13:
-    iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeCaiv
-    shapeID: 13655514B8216177448850
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_14:
-    iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeCanghungo
-    shapeID: 13655514B91246233663569
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_15:
-    iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeCatie
-    shapeID: 13655514B24413703823033
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_16:
-    iso3c: GNB
-    admin_level: Adm2
+  GNB.1.3_1_Adm2:
+    GID: GNB.1.3_1
     admin_name: Contuboel
-    shapeID: 13655514B51179315853055
-    country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_17:
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeEmpada
-    shapeID: 13655514B30693048438959
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_18:
+    admin_level: Adm2
+  GNB.1.4_1_Adm2:
+    GID: GNB.1.4_1
+    admin_name: Galomaro
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeFarim
-    shapeID: 13655514B57644193184055
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_19:
+    admin_level: Adm2
+  GNB.1.5_1_Adm2:
+    GID: GNB.1.5_1
+    admin_name: Gamamundo
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeFulacunda
-    shapeID: 13655514B9524670555472
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_2:
+    admin_level: Adm2
+  GNB.1.6_1_Adm2:
+    GID: GNB.1.6_1
+    admin_name: Xitole
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeBafata
-    shapeID: 13655514B15077734082289
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_20:
+    admin_level: Adm2
+  GNB.2_1_Adm1:
+    GID: GNB.2_1
+    admin_name: Biombo
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeGabv
-    shapeID: 13655514B65296626482863
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_21:
+    admin_level: Adm1
+  GNB.2.1_1_Adm2:
+    GID: GNB.2.1_1
+    admin_name: Prabis
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeGalomaro
-    shapeID: 13655514B4319146558278
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_22:
+    admin_level: Adm2
+  GNB.2.2_1_Adm2:
+    GID: GNB.2.2_1
+    admin_name: Quinhamel
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeGamamundo
-    shapeID: 13655514B65726406107890
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_23:
+    admin_level: Adm2
+  GNB.2.3_1_Adm2:
+    GID: GNB.2.3_1
+    admin_name: Safim
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeMansaba
-    shapeID: 13655514B49812801634354
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_24:
+    admin_level: Adm2
+  GNB.3_1_Adm1:
+    GID: GNB.3_1
+    admin_name: Bissau
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeMansoa
-    shapeID: 13655514B31772276876031
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_25:
+    admin_level: Adm1
+  GNB.3.1_1_Adm2:
+    GID: GNB.3.1_1
+    admin_name: Bissau
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeNhacra
-    shapeID: 13655514B47112439721810
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_26:
+    admin_level: Adm2
+  GNB.4_1_Adm1:
+    GID: GNB.4_1
+    admin_name: Bolama
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordePitche
-    shapeID: 13655514B97576906537580
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_27:
+    admin_level: Adm1
+  GNB.4.1_1_Adm2:
+    GID: GNB.4.1_1
+    admin_name: Bolama
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordePirada
-    shapeID: 13655514B16168252486838
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_28:
+    admin_level: Adm2
+  GNB.4.2_1_Adm2:
+    GID: GNB.4.2_1
+    admin_name: Bubaque
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordePrabis
-    shapeID: 13655514B53615250576563
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_29:
+    admin_level: Adm2
+  GNB.4.3_1_Adm2:
+    GID: GNB.4.3_1
+    admin_name: Caravela
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeQuebo
-    shapeID: 13655514B12793543239296
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_3:
+    admin_level: Adm2
+  GNB.5_1_Adm1:
+    GID: GNB.5_1
+    admin_name: Cacheu
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeBambadinca
-    shapeID: 13655514B168355566476
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_30:
+    admin_level: Adm1
+  GNB.5.1_1_Adm2:
+    GID: GNB.5.1_1
+    admin_name: Bigene
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeQuinh
-    shapeID: 13655514B66751603958816
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_31:
+    admin_level: Adm2
+  GNB.5.2_1_Adm2:
+    GID: GNB.5.2_1
+    admin_name: Bula
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeSafim
-    shapeID: 13655514B65757043009502
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_32:
+    admin_level: Adm2
+  GNB.5.3_1_Adm2:
+    GID: GNB.5.3_1
+    admin_name: Cacheu
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeSonaco
-    shapeID: 13655514B47480576799194
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_33:
+    admin_level: Adm2
+  GNB.5.4_1_Adm2:
+    GID: GNB.5.4_1
+    admin_name: Caio
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeStoDomingos
-    shapeID: 13655514B91994517778696
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_34:
+    admin_level: Adm2
+  GNB.5.5_1_Adm2:
+    GID: GNB.5.5_1
+    admin_name: Canghungo
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeTite
-    shapeID: 13655514B37576476310465
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_35:
+    admin_level: Adm2
+  GNB.5.6_1_Adm2:
+    GID: GNB.5.6_1
+    admin_name: Sao Domingos
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeXitole
-    shapeID: 13655514B65471558325414
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_36:
+    admin_level: Adm2
+  GNB.6_1_Adm1:
+    GID: GNB.6_1
+    admin_name: Gabú
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeBubaque
-    shapeID: 13655514B98496568253651
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_37:
+    admin_level: Adm1
+  GNB.6.1_1_Adm2:
+    GID: GNB.6.1_1
+    admin_name: Boe
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeCaravela
-    shapeID: 13655514B59106895169358
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_38:
+    admin_level: Adm2
+  GNB.6.2_1_Adm2:
+    GID: GNB.6.2_1
+    admin_name: Gabu
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeUno
-    shapeID: 13655514B44985576134462
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_39:
+    admin_level: Adm2
+  GNB.6.3_1_Adm2:
+    GID: GNB.6.3_1
+    admin_name: Piche
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: BissauAutonomousSector
-    shapeID: 13655514B38974563194217
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_4:
+    admin_level: Adm2
+  GNB.6.4_1_Adm2:
+    GID: GNB.6.4_1
+    admin_name: Pirada
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeBedanda
-    shapeID: 13655514B48763126228848
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_5:
+    admin_level: Adm2
+  GNB.6.5_1_Adm2:
+    GID: GNB.6.5_1
+    admin_name: Sonaco
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeBigene
-    shapeID: 13655514B76388735674013
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_6:
+    admin_level: Adm2
+  GNB.7_1_Adm1:
+    GID: GNB.7_1
+    admin_name: Oio
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeBissora
-    shapeID: 13655514B57740331915335
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_7:
+    admin_level: Adm1
+  GNB.7.1_1_Adm2:
+    GID: GNB.7.1_1
+    admin_name: Bissora
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeBolama
-    shapeID: 13655514B77006902429960
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_8:
+    admin_level: Adm2
+  GNB.7.2_1_Adm2:
+    GID: GNB.7.2_1
+    admin_name: Farim
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeMadinadoBo˒
-    shapeID: 13655514B15408487636665
     country_name: Guinea-Bissau
-  Guinea-Bissau_Adm2_9:
+    admin_level: Adm2
+  GNB.7.3_1_Adm2:
+    GID: GNB.7.3_1
+    admin_name: Mansaba
     iso3c: GNB
-    admin_level: Adm2
-    admin_name: SetordeBuba
-    shapeID: 13655514B37452641895852
     country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.7.4_1_Adm2:
+    GID: GNB.7.4_1
+    admin_name: Mansoa
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.7.5_1_Adm2:
+    GID: GNB.7.5_1
+    admin_name: Nhacra
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.8_1_Adm1:
+    GID: GNB.8_1
+    admin_name: Quinara
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.8.1_1_Adm2:
+    GID: GNB.8.1_1
+    admin_name: Buba
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.8.2_1_Adm2:
+    GID: GNB.8.2_1
+    admin_name: Empada
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.8.3_1_Adm2:
+    GID: GNB.8.3_1
+    admin_name: Fulacunda
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.8.4_1_Adm2:
+    GID: GNB.8.4_1
+    admin_name: Tite
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.9_1_Adm1:
+    GID: GNB.9_1
+    admin_name: Tombali
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.9.1_1_Adm2:
+    GID: GNB.9.1_1
+    admin_name: Bedanda
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.9.2_1_Adm2:
+    GID: GNB.9.2_1
+    admin_name: Cacine
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.9.3_1_Adm2:
+    GID: GNB.9.3_1
+    admin_name: Catio
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.9.4_1_Adm2:
+    GID: GNB.9.4_1
+    admin_name: Quebo
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2

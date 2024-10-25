@@ -1,1027 +1,1123 @@
 concepts:
-  Serbia_Adm0:
-    iso3c: SRB
-    admin_level: Adm0
+  SRB.0_Adm0:
+    GID: SRB
     admin_name: Serbia
-    shapeID: 94879208B25563984444888
-    country_name: Serbia
-  Serbia_Adm1_1:
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm0
+  SRB.1_1_Adm1:
+    GID: SRB.1_1
+    admin_name: Borski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: SyrmiaDistrict
-    shapeID: 41074048B7823241267107
-    country_name: Serbia
-  Serbia_Adm1_10:
+  SRB.1.1_1_Adm2:
+    GID: SRB.1.1_1
+    admin_name: Bor
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.1.2_1_Adm2:
+    GID: SRB.1.2_1
+    admin_name: Kladovo
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.1.3_1_Adm2:
+    GID: SRB.1.3_1
+    admin_name: Majdanpek
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.1.4_1_Adm2:
+    GID: SRB.1.4_1
+    admin_name: Negotin
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.10_1_Adm1:
+    GID: SRB.10_1
+    admin_name: Nišavski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: MacvaDistrict
-    shapeID: 41074048B6540860887110
-    country_name: Serbia
-  Serbia_Adm1_11:
+  SRB.10.1_1_Adm2:
+    GID: SRB.10.1_1
+    admin_name: Aleksinac
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.10.2_1_Adm2:
+    GID: SRB.10.2_1
+    admin_name: Doljevac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.10.3_1_Adm2:
+    GID: SRB.10.3_1
+    admin_name: Gadžin Han
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.10.4_1_Adm2:
+    GID: SRB.10.4_1
+    admin_name: Merošina
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.10.5_1_Adm2:
+    GID: SRB.10.5_1
+    admin_name: Niš
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.10.6_1_Adm2:
+    GID: SRB.10.6_1
+    admin_name: Ražanj
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.10.7_1_Adm2:
+    GID: SRB.10.7_1
+    admin_name: Svrljig
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.11_1_Adm1:
+    GID: SRB.11_1
+    admin_name: Pčinjski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: PcinjaDistrict
-    shapeID: 41074048B26185342001900
-    country_name: Serbia
-  Serbia_Adm1_12:
+  SRB.11.1_1_Adm2:
+    GID: SRB.11.1_1
+    admin_name: Bosilegrad
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.11.2_1_Adm2:
+    GID: SRB.11.2_1
+    admin_name: Bujanovac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.11.3_1_Adm2:
+    GID: SRB.11.3_1
+    admin_name: Preševo
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.11.4_1_Adm2:
+    GID: SRB.11.4_1
+    admin_name: Surdulica
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.11.5_1_Adm2:
+    GID: SRB.11.5_1
+    admin_name: Trgovište
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.11.6_1_Adm2:
+    GID: SRB.11.6_1
+    admin_name: Vladičin Han
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.11.7_1_Adm2:
+    GID: SRB.11.7_1
+    admin_name: Vranje
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.12_1_Adm1:
+    GID: SRB.12_1
+    admin_name: Pirotski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: KolubaraDistrict
-    shapeID: 41074048B35785930294755
-    country_name: Serbia
-  Serbia_Adm1_13:
+  SRB.12.1_1_Adm2:
+    GID: SRB.12.1_1
+    admin_name: Babušnica
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.12.2_1_Adm2:
+    GID: SRB.12.2_1
+    admin_name: Bela Palanka
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.12.3_1_Adm2:
+    GID: SRB.12.3_1
+    admin_name: Dimitrovgrad
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.12.4_1_Adm2:
+    GID: SRB.12.4_1
+    admin_name: Pirot
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.13_1_Adm1:
+    GID: SRB.13_1
+    admin_name: Podunavski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: PodunavljeDistrict
-    shapeID: 41074048B12372480273054
-    country_name: Serbia
-  Serbia_Adm1_14:
+  SRB.13.1_1_Adm2:
+    GID: SRB.13.1_1
+    admin_name: Smederevo
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.13.2_1_Adm2:
+    GID: SRB.13.2_1
+    admin_name: Smederevska Palanka
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.13.3_1_Adm2:
+    GID: SRB.13.3_1
+    admin_name: Velika Plana
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.14_1_Adm1:
+    GID: SRB.14_1
+    admin_name: Pomoravski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: BranicevoDistrict
-    shapeID: 41074048B81221095206835
-    country_name: Serbia
-  Serbia_Adm1_15:
+  SRB.14.1_1_Adm2:
+    GID: SRB.14.1_1
+    admin_name: Ćuprija
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.14.2_1_Adm2:
+    GID: SRB.14.2_1
+    admin_name: Despotovac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.14.3_1_Adm2:
+    GID: SRB.14.3_1
+    admin_name: Jagodina
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.14.4_1_Adm2:
+    GID: SRB.14.4_1
+    admin_name: Paraćin
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.14.5_1_Adm2:
+    GID: SRB.14.5_1
+    admin_name: Rekovac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.14.6_1_Adm2:
+    GID: SRB.14.6_1
+    admin_name: Svilajnac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.15_1_Adm1:
+    GID: SRB.15_1
+    admin_name: Rasinski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: SumadijaDistrict
-    shapeID: 41074048B72675147350084
-    country_name: Serbia
-  Serbia_Adm1_16:
+  SRB.15.1_1_Adm2:
+    GID: SRB.15.1_1
+    admin_name: Aleksandrovac
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.15.2_1_Adm2:
+    GID: SRB.15.2_1
+    admin_name: Brus
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.15.3_1_Adm2:
+    GID: SRB.15.3_1
+    admin_name: Ćićevac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.15.4_1_Adm2:
+    GID: SRB.15.4_1
+    admin_name: Kruševac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.15.5_1_Adm2:
+    GID: SRB.15.5_1
+    admin_name: Trstenik
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.15.6_1_Adm2:
+    GID: SRB.15.6_1
+    admin_name: Varvarin
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.16_1_Adm1:
+    GID: SRB.16_1
+    admin_name: Raški
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: PomoravljeDistrict
-    shapeID: 41074048B32695847055571
-    country_name: Serbia
-  Serbia_Adm1_17:
+  SRB.16.1_1_Adm2:
+    GID: SRB.16.1_1
+    admin_name: Kraljevo
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.16.2_1_Adm2:
+    GID: SRB.16.2_1
+    admin_name: Novi Pazar
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.16.3_1_Adm2:
+    GID: SRB.16.3_1
+    admin_name: Raška
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.16.4_1_Adm2:
+    GID: SRB.16.4_1
+    admin_name: Tutin
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.16.5_1_Adm2:
+    GID: SRB.16.5_1
+    admin_name: Vrnjačka Banja
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.17_1_Adm1:
+    GID: SRB.17_1
+    admin_name: Severno-Bački
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: MoravicaDistrict
-    shapeID: 41074048B87154505224045
-    country_name: Serbia
-  Serbia_Adm1_18:
+  SRB.17.1_1_Adm2:
+    GID: SRB.17.1_1
+    admin_name: Bačka Topola
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.17.2_1_Adm2:
+    GID: SRB.17.2_1
+    admin_name: Mali Iđoš
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.17.3_1_Adm2:
+    GID: SRB.17.3_1
+    admin_name: Subotica
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.18_1_Adm1:
+    GID: SRB.18_1
+    admin_name: Severno-Banatski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: ZajecarDistrict
-    shapeID: 41074048B40253307374301
-    country_name: Serbia
-  Serbia_Adm1_19:
+  SRB.18.1_1_Adm2:
+    GID: SRB.18.1_1
+    admin_name: Ada
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.18.2_1_Adm2:
+    GID: SRB.18.2_1
+    admin_name: Čoka
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.18.3_1_Adm2:
+    GID: SRB.18.3_1
+    admin_name: Kanjiža
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.18.4_1_Adm2:
+    GID: SRB.18.4_1
+    admin_name: Kikinda
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.18.5_1_Adm2:
+    GID: SRB.18.5_1
+    admin_name: Novi Kneževac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.18.6_1_Adm2:
+    GID: SRB.18.6_1
+    admin_name: Senta
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.19_1_Adm1:
+    GID: SRB.19_1
+    admin_name: Srednje-Banatski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: ZlatiborDistrict
-    shapeID: 41074048B96203602850640
-    country_name: Serbia
-  Serbia_Adm1_2:
+  SRB.19.1_1_Adm2:
+    GID: SRB.19.1_1
+    admin_name: Bečej
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.19.2_1_Adm2:
+    GID: SRB.19.2_1
+    admin_name: Nova Crnja
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.19.3_1_Adm2:
+    GID: SRB.19.3_1
+    admin_name: Sečanj
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.19.4_1_Adm2:
+    GID: SRB.19.4_1
+    admin_name: Žitište
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.19.5_1_Adm2:
+    GID: SRB.19.5_1
+    admin_name: Zrenjanin
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.2_1_Adm1:
+    GID: SRB.2_1
+    admin_name: Braničevski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: SouthBanatDistrict
-    shapeID: 41074048B611919772148
-    country_name: Serbia
-  Serbia_Adm1_20:
+  SRB.2.1_1_Adm2:
+    GID: SRB.2.1_1
+    admin_name: Golubac
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.2.2_1_Adm2:
+    GID: SRB.2.2_1
+    admin_name: Kučevo
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.2.3_1_Adm2:
+    GID: SRB.2.3_1
+    admin_name: Malo Crniće
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.2.4_1_Adm2:
+    GID: SRB.2.4_1
+    admin_name: Petrovac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.2.5_1_Adm2:
+    GID: SRB.2.5_1
+    admin_name: Požarevac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.2.6_1_Adm2:
+    GID: SRB.2.6_1
+    admin_name: Veliko Gradište
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.2.7_1_Adm2:
+    GID: SRB.2.7_1
+    admin_name: Žabari
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.2.8_1_Adm2:
+    GID: SRB.2.8_1
+    admin_name: Žagubica
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.20_1_Adm1:
+    GID: SRB.20_1
+    admin_name: Sremski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: RaskaDistrict
-    shapeID: 41074048B45384402492685
-    country_name: Serbia
-  Serbia_Adm1_21:
+  SRB.20.1_1_Adm2:
+    GID: SRB.20.1_1
+    admin_name: Inđija
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.20.2_1_Adm2:
+    GID: SRB.20.2_1
+    admin_name: Irig
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.20.3_1_Adm2:
+    GID: SRB.20.3_1
+    admin_name: Pećinci
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.20.4_1_Adm2:
+    GID: SRB.20.4_1
+    admin_name: Ruma
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.20.5_1_Adm2:
+    GID: SRB.20.5_1
+    admin_name: Šid
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.20.6_1_Adm2:
+    GID: SRB.20.6_1
+    admin_name: Sremska Mitrovica
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.20.7_1_Adm2:
+    GID: SRB.20.7_1
+    admin_name: Stara Pazova
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.21_1_Adm1:
+    GID: SRB.21_1
+    admin_name: Šumadijski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: PirotDistrict
-    shapeID: 41074048B47082150623141
-    country_name: Serbia
-  Serbia_Adm1_22:
+  SRB.21.1_1_Adm2:
+    GID: SRB.21.1_1
+    admin_name: Aranđelovac
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.21.2_1_Adm2:
+    GID: SRB.21.2_1
+    admin_name: Batočina
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.21.3_1_Adm2:
+    GID: SRB.21.3_1
+    admin_name: Knić
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.21.4_1_Adm2:
+    GID: SRB.21.4_1
+    admin_name: Kragujevac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.21.5_1_Adm2:
+    GID: SRB.21.5_1
+    admin_name: Lapovo
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.21.6_1_Adm2:
+    GID: SRB.21.6_1
+    admin_name: Rača
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.21.7_1_Adm2:
+    GID: SRB.21.7_1
+    admin_name: Topola
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.22_1_Adm1:
+    GID: SRB.22_1
+    admin_name: Toplički
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: JablanicaDistrict
-    shapeID: 41074048B152991575474
-    country_name: Serbia
-  Serbia_Adm1_23:
+  SRB.22.1_1_Adm2:
+    GID: SRB.22.1_1
+    admin_name: Blace
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.22.2_1_Adm2:
+    GID: SRB.22.2_1
+    admin_name: Kuršumlija
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.22.3_1_Adm2:
+    GID: SRB.22.3_1
+    admin_name: Prokuplje
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.22.4_1_Adm2:
+    GID: SRB.22.4_1
+    admin_name: Žitorađa
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.23_1_Adm1:
+    GID: SRB.23_1
+    admin_name: Zaječarski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: ToplicaDistrict
-    shapeID: 41074048B62787435476864
-    country_name: Serbia
-  Serbia_Adm1_24:
+  SRB.23.1_1_Adm2:
+    GID: SRB.23.1_1
+    admin_name: Boljevac
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.23.2_1_Adm2:
+    GID: SRB.23.2_1
+    admin_name: Knjaževac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.23.3_1_Adm2:
+    GID: SRB.23.3_1
+    admin_name: Sokobanja
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.23.4_1_Adm2:
+    GID: SRB.23.4_1
+    admin_name: Zaječar
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.24_1_Adm1:
+    GID: SRB.24_1
+    admin_name: Zapadno-Bački
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: NisavaDistrict
-    shapeID: 41074048B35657283611645
-    country_name: Serbia
-  Serbia_Adm1_25:
+  SRB.24.1_1_Adm2:
+    GID: SRB.24.1_1
+    admin_name: Apatin
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.24.2_1_Adm2:
+    GID: SRB.24.2_1
+    admin_name: Kula
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.24.3_1_Adm2:
+    GID: SRB.24.3_1
+    admin_name: Odžaci
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.24.4_1_Adm2:
+    GID: SRB.24.4_1
+    admin_name: Sombor
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.25_1_Adm1:
+    GID: SRB.25_1
+    admin_name: Zlatiborski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: RasinaDistrict
-    shapeID: 41074048B66445282038706
-    country_name: Serbia
-  Serbia_Adm1_3:
+  SRB.25.1_1_Adm2:
+    GID: SRB.25.1_1
+    admin_name: Arilje
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.25.10_1_Adm2:
+    GID: SRB.25.10_1
+    admin_name: Užice
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.25.2_1_Adm2:
+    GID: SRB.25.2_1
+    admin_name: Bajina Bašta
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.25.3_1_Adm2:
+    GID: SRB.25.3_1
+    admin_name: Čajetina
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.25.4_1_Adm2:
+    GID: SRB.25.4_1
+    admin_name: Kosjerić
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.25.5_1_Adm2:
+    GID: SRB.25.5_1
+    admin_name: Nova Varoš
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.25.6_1_Adm2:
+    GID: SRB.25.6_1
+    admin_name: Požega
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.25.7_1_Adm2:
+    GID: SRB.25.7_1
+    admin_name: Priboj
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.25.8_1_Adm2:
+    GID: SRB.25.8_1
+    admin_name: Prijepolje
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.25.9_1_Adm2:
+    GID: SRB.25.9_1
+    admin_name: Sjenica
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3_1_Adm1:
+    GID: SRB.3_1
+    admin_name: Grad Beograd
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: NorthBanatDistrict
-    shapeID: 41074048B51566569224291
-    country_name: Serbia
-  Serbia_Adm1_4:
+  SRB.3.1_1_Adm2:
+    GID: SRB.3.1_1
+    admin_name: Barajevo
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.10_1_Adm2:
+    GID: SRB.3.10_1
+    admin_name: Savski Venac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.11_1_Adm2:
+    GID: SRB.3.11_1
+    admin_name: Sopot
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.12_1_Adm2:
+    GID: SRB.3.12_1
+    admin_name: Stari Grad
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.13_1_Adm2:
+    GID: SRB.3.13_1
+    admin_name: Surčin
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.14_1_Adm2:
+    GID: SRB.3.14_1
+    admin_name: Voždovac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.15_1_Adm2:
+    GID: SRB.3.15_1
+    admin_name: Vračar
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.16_1_Adm2:
+    GID: SRB.3.16_1
+    admin_name: Zemun
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.17_1_Adm2:
+    GID: SRB.3.17_1
+    admin_name: Zvezdara
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.2_1_Adm2:
+    GID: SRB.3.2_1
+    admin_name: Čukarica
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.3_1_Adm2:
+    GID: SRB.3.3_1
+    admin_name: Grocka
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.4_1_Adm2:
+    GID: SRB.3.4_1
+    admin_name: Lazarevac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.5_1_Adm2:
+    GID: SRB.3.5_1
+    admin_name: Mladenovac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.6_1_Adm2:
+    GID: SRB.3.6_1
+    admin_name: Novi Beograd
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.7_1_Adm2:
+    GID: SRB.3.7_1
+    admin_name: Obrenovac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.8_1_Adm2:
+    GID: SRB.3.8_1
+    admin_name: Palilula
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.3.9_1_Adm2:
+    GID: SRB.3.9_1
+    admin_name: Rakovica
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.4_1_Adm1:
+    GID: SRB.4_1
+    admin_name: Jablanički
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: NorthBackaDistrict
-    shapeID: 41074048B35998987381060
-    country_name: Serbia
-  Serbia_Adm1_5:
+  SRB.4.1_1_Adm2:
+    GID: SRB.4.1_1
+    admin_name: Bojnik
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.4.2_1_Adm2:
+    GID: SRB.4.2_1
+    admin_name: Crna Trava
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.4.3_1_Adm2:
+    GID: SRB.4.3_1
+    admin_name: Lebane
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.4.4_1_Adm2:
+    GID: SRB.4.4_1
+    admin_name: Leskovac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.4.5_1_Adm2:
+    GID: SRB.4.5_1
+    admin_name: Medveđa
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.4.6_1_Adm2:
+    GID: SRB.4.6_1
+    admin_name: Vlasotince
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5_1_Adm1:
+    GID: SRB.5_1
+    admin_name: Južno-Bački
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: CentralBanatDistrict
-    shapeID: 41074048B68944780204869
-    country_name: Serbia
-  Serbia_Adm1_6:
+  SRB.5.1_1_Adm2:
+    GID: SRB.5.1_1
+    admin_name: Bač
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.10_1_Adm2:
+    GID: SRB.5.10_1
+    admin_name: Titel
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.11_1_Adm2:
+    GID: SRB.5.11_1
+    admin_name: Vrbas
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.12_1_Adm2:
+    GID: SRB.5.12_1
+    admin_name: Žabalj
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.2_1_Adm2:
+    GID: SRB.5.2_1
+    admin_name: Bačka Palanka
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.3_1_Adm2:
+    GID: SRB.5.3_1
+    admin_name: Bački Petrovac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.4_1_Adm2:
+    GID: SRB.5.4_1
+    admin_name: Bečej
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.5_1_Adm2:
+    GID: SRB.5.5_1
+    admin_name: Beočin
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.6_1_Adm2:
+    GID: SRB.5.6_1
+    admin_name: Novi Sad
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.7_1_Adm2:
+    GID: SRB.5.7_1
+    admin_name: Srbobran
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.8_1_Adm2:
+    GID: SRB.5.8_1
+    admin_name: Sremski Karlovci
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.5.9_1_Adm2:
+    GID: SRB.5.9_1
+    admin_name: Temerin
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.6_1_Adm1:
+    GID: SRB.6_1
+    admin_name: Južno-Banatski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: WestBackaDistrict
-    shapeID: 41074048B16574264174015
-    country_name: Serbia
-  Serbia_Adm1_7:
+  SRB.6.1_1_Adm2:
+    GID: SRB.6.1_1
+    admin_name: Alibunar
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.6.2_1_Adm2:
+    GID: SRB.6.2_1
+    admin_name: Bela Crkva
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.6.3_1_Adm2:
+    GID: SRB.6.3_1
+    admin_name: Kovačica
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.6.4_1_Adm2:
+    GID: SRB.6.4_1
+    admin_name: Kovin
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.6.5_1_Adm2:
+    GID: SRB.6.5_1
+    admin_name: Opovo
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.6.6_1_Adm2:
+    GID: SRB.6.6_1
+    admin_name: Pančevo
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.6.7_1_Adm2:
+    GID: SRB.6.7_1
+    admin_name: Plandište
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.6.8_1_Adm2:
+    GID: SRB.6.8_1
+    admin_name: Vršac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.7_1_Adm1:
+    GID: SRB.7_1
+    admin_name: Kolubarski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: SouthBackaDistrict
-    shapeID: 41074048B42085876522793
-    country_name: Serbia
-  Serbia_Adm1_8:
+  SRB.7.1_1_Adm2:
+    GID: SRB.7.1_1
+    admin_name: Lajkovac
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.7.2_1_Adm2:
+    GID: SRB.7.2_1
+    admin_name: Ljig
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.7.3_1_Adm2:
+    GID: SRB.7.3_1
+    admin_name: Mionica
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.7.4_1_Adm2:
+    GID: SRB.7.4_1
+    admin_name: Osečina
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.7.5_1_Adm2:
+    GID: SRB.7.5_1
+    admin_name: Ub
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.7.6_1_Adm2:
+    GID: SRB.7.6_1
+    admin_name: Valjevo
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.8_1_Adm1:
+    GID: SRB.8_1
+    admin_name: Mačvanski
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: Belgrade
-    shapeID: 41074048B91434818545320
-    country_name: Serbia
-  Serbia_Adm1_9:
+  SRB.8.1_1_Adm2:
+    GID: SRB.8.1_1
+    admin_name: Bogatić
     iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.8.2_1_Adm2:
+    GID: SRB.8.2_1
+    admin_name: Koceljeva
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.8.3_1_Adm2:
+    GID: SRB.8.3_1
+    admin_name: Krupanj
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.8.4_1_Adm2:
+    GID: SRB.8.4_1
+    admin_name: Ljubovija
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.8.5_1_Adm2:
+    GID: SRB.8.5_1
+    admin_name: Loznica
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.8.6_1_Adm2:
+    GID: SRB.8.6_1
+    admin_name: Mali Zvornik
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.8.7_1_Adm2:
+    GID: SRB.8.7_1
+    admin_name: Šabac
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.8.8_1_Adm2:
+    GID: SRB.8.8_1
+    admin_name: Vladimirci
+    iso3c: SRB
+    country_name: Serbia
+    admin_level: Adm2
+  SRB.9_1_Adm1:
+    GID: SRB.9_1
+    admin_name: Moravički
+    iso3c: SRB
+    country_name: Serbia
     admin_level: Adm1
-    admin_name: BorDistrict
-    shapeID: 41074048B65770096848171
-    country_name: Serbia
-  Serbia_Adm2_1:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SuboticaCity
-    shapeID: 33768554B52561884803031
-    country_name: Serbia
-  Serbia_Adm2_10:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: VranjeCity
-    shapeID: 33768554B98930233996710
-    country_name: Serbia
-  Serbia_Adm2_100:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: LebaneMunicipality
-    shapeID: 33768554B67829926122692
-    country_name: Serbia
-  Serbia_Adm2_101:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: MedvedjaMunicipality
-    shapeID: 33768554B58169164574434
-    country_name: Serbia
-  Serbia_Adm2_102:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ZitoradjaMunicipality
-    shapeID: 33768554B2646840905075
-    country_name: Serbia
-  Serbia_Adm2_103:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BlaceMunicipality
-    shapeID: 33768554B49534055998665
-    country_name: Serbia
-  Serbia_Adm2_104:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KursumlijaMunicipality
-    shapeID: 33768554B5120930670139
-    country_name: Serbia
-  Serbia_Adm2_105:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ProkupljeMunicipality
-    shapeID: 33768554B82554232009543
-    country_name: Serbia
-  Serbia_Adm2_106:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: AleksandrovacMunicipality
-    shapeID: 33768554B40138109313519
-    country_name: Serbia
-  Serbia_Adm2_107:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BrusMunicipality
-    shapeID: 33768554B78153808142679
-    country_name: Serbia
-  Serbia_Adm2_108:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: CicevacMunicipality
-    shapeID: 33768554B71751519399236
-    country_name: Serbia
-  Serbia_Adm2_109:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: TrstenikMunicipality
-    shapeID: 33768554B58059455789181
-    country_name: Serbia
-  Serbia_Adm2_11:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: LeskovacCity
-    shapeID: 33768554B48373048831936
-    country_name: Serbia
-  Serbia_Adm2_110:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: VarvarinMunicipality
-    shapeID: 33768554B8272712362047
-    country_name: Serbia
-  Serbia_Adm2_111:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: RaskaMunicipality
-    shapeID: 33768554B55144919365086
-    country_name: Serbia
-  Serbia_Adm2_112:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: TutinMunicipality
-    shapeID: 33768554B8621955300335
-    country_name: Serbia
-  Serbia_Adm2_113:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: VrnjackaBanjaMunicipality
-    shapeID: 33768554B30156858636960
-    country_name: Serbia
-  Serbia_Adm2_114:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: AleksinacMunicipality
-    shapeID: 33768554B97313318387809
-    country_name: Serbia
-  Serbia_Adm2_115:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: DoljevacMunicipality
-    shapeID: 33768554B85806553365451
-    country_name: Serbia
-  Serbia_Adm2_116:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: GadzinHanMunicipality
-    shapeID: 33768554B89409696824742
-    country_name: Serbia
-  Serbia_Adm2_117:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: MerosinaMunicipality
-    shapeID: 33768554B92498163000248
-    country_name: Serbia
-  Serbia_Adm2_118:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: RazanjMunicipality
-    shapeID: 33768554B62029834969141
-    country_name: Serbia
-  Serbia_Adm2_119:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SvrljigMunicipality
-    shapeID: 33768554B67479407113157
-    country_name: Serbia
-  Serbia_Adm2_12:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KrusevacCity
-    shapeID: 33768554B75498034252185
-    country_name: Serbia
-  Serbia_Adm2_120:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SokobanjaMunicipality
-    shapeID: 33768554B65902429906224
-    country_name: Serbia
-  Serbia_Adm2_121:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: RekovacMunicipality
-    shapeID: 33768554B52756767765286
-    country_name: Serbia
-  Serbia_Adm2_122:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SmederevskaPalankaMunicipal*
-    shapeID: 33768554B39192124193600
-    country_name: Serbia
-  Serbia_Adm2_123:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: VelikaPlanaMunicipality
-    shapeID: 33768554B26895263090033
-    country_name: Serbia
-  Serbia_Adm2_124:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ArandjelovacMunicipality
-    shapeID: 33768554B83467045170377
-    country_name: Serbia
-  Serbia_Adm2_125:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BatocinaMunicipality
-    shapeID: 33768554B38793524178099
-    country_name: Serbia
-  Serbia_Adm2_126:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KnicMunicipality
-    shapeID: 33768554B36402620726863
-    country_name: Serbia
-  Serbia_Adm2_127:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: RacaMunicipality
-    shapeID: 33768554B90877625574513
-    country_name: Serbia
-  Serbia_Adm2_128:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: TopolaMunicipality
-    shapeID: 33768554B4815616166969
-    country_name: Serbia
-  Serbia_Adm2_129:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: GornjiMilanovacMunicipality
-    shapeID: 33768554B58912719399379
-    country_name: Serbia
-  Serbia_Adm2_13:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KraljevoCity
-    shapeID: 33768554B43066107137298
-    country_name: Serbia
-  Serbia_Adm2_130:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: IvanjicaMunicipality
-    shapeID: 33768554B97531165240554
-    country_name: Serbia
-  Serbia_Adm2_131:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: LucaniMunicipality
-    shapeID: 33768554B72006170555355
-    country_name: Serbia
-  Serbia_Adm2_132:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: LajkovacMunicipality
-    shapeID: 33768554B31807143962847
-    country_name: Serbia
-  Serbia_Adm2_133:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: LjigMunicipality
-    shapeID: 33768554B71368513809483
-    country_name: Serbia
-  Serbia_Adm2_134:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: MionicaMunicipality
-    shapeID: 33768554B88612851859598
-    country_name: Serbia
-  Serbia_Adm2_135:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: OsecinaMunicipality
-    shapeID: 33768554B74154887624592
-    country_name: Serbia
-  Serbia_Adm2_136:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: UbMunicipality
-    shapeID: 33768554B62233458661830
-    country_name: Serbia
-  Serbia_Adm2_137:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: AriljeMunicipality
-    shapeID: 33768554B92005817925863
-    country_name: Serbia
-  Serbia_Adm2_138:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BajinaBastaMunicipality
-    shapeID: 33768554B30367363697498
-    country_name: Serbia
-  Serbia_Adm2_139:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: CajetinaMunicipality
-    shapeID: 33768554B65536018440282
-    country_name: Serbia
-  Serbia_Adm2_14:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: NoviPazarCity
-    shapeID: 33768554B68779491772878
-    country_name: Serbia
-  Serbia_Adm2_140:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KosjericMunicipality
-    shapeID: 33768554B95152369677167
-    country_name: Serbia
-  Serbia_Adm2_141:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: PozegaMunicipality
-    shapeID: 33768554B30214389398873
-    country_name: Serbia
-  Serbia_Adm2_142:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SjenicaMunicipality
-    shapeID: 33768554B19549852726842
-    country_name: Serbia
-  Serbia_Adm2_143:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: MaliZvornikMunicipality
-    shapeID: 33768554B26564609586994
-    country_name: Serbia
-  Serbia_Adm2_144:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: LapovoMunicipality
-    shapeID: 33768554B97959209858878
-    country_name: Serbia
-  Serbia_Adm2_145:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: VelikoGradisteMunicipality
-    shapeID: 33768554B3832179946279
-    country_name: Serbia
-  Serbia_Adm2_15:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: NisCity
-    shapeID: 33768554B77688922011178
-    country_name: Serbia
-  Serbia_Adm2_16:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ZajecarCity
-    shapeID: 33768554B14333994307421
-    country_name: Serbia
-  Serbia_Adm2_17:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: JagodinaCity
-    shapeID: 33768554B19679900435135
-    country_name: Serbia
-  Serbia_Adm2_18:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SmederevoCity
-    shapeID: 33768554B50222554508366
-    country_name: Serbia
-  Serbia_Adm2_19:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: PozarevacCity
-    shapeID: 33768554B15135122038739
-    country_name: Serbia
-  Serbia_Adm2_2:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SomborCity
-    shapeID: 33768554B82450600870758
-    country_name: Serbia
-  Serbia_Adm2_20:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KragujevacCity
-    shapeID: 33768554B57522103876306
-    country_name: Serbia
-  Serbia_Adm2_21:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: CacakCity
-    shapeID: 33768554B14511556571933
-    country_name: Serbia
-  Serbia_Adm2_22:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ValjevoCity
-    shapeID: 33768554B40132449237012
-    country_name: Serbia
-  Serbia_Adm2_23:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: UziceCity
-    shapeID: 33768554B20162620577895
-    country_name: Serbia
-  Serbia_Adm2_24:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: Belgrade
-    shapeID: 33768554B61504617151000
-    country_name: Serbia
-  Serbia_Adm2_25:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: NegotinMunicipality
-    shapeID: 33768554B98555982809024
-    country_name: Serbia
-  Serbia_Adm2_26:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BorMunicipality
-    shapeID: 33768554B90982415445255
-    country_name: Serbia
-  Serbia_Adm2_27:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KladovoMunicipality
-    shapeID: 33768554B76410461810144
-    country_name: Serbia
-  Serbia_Adm2_28:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: MajdanpekMunicipality
-    shapeID: 33768554B95075917459529
-    country_name: Serbia
-  Serbia_Adm2_29:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BabusnicaMunicipality
-    shapeID: 33768554B59957801456575
-    country_name: Serbia
-  Serbia_Adm2_3:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SremskaMitrovicaCity
-    shapeID: 33768554B73967989073228
-    country_name: Serbia
-  Serbia_Adm2_30:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BelaPalankaMunicipality
-    shapeID: 33768554B47400294676316
-    country_name: Serbia
-  Serbia_Adm2_31:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: DimitrovgradMunicipality
-    shapeID: 33768554B96066784691240
-    country_name: Serbia
-  Serbia_Adm2_32:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: PirotMunicipality
-    shapeID: 33768554B29190623105772
-    country_name: Serbia
-  Serbia_Adm2_33:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BoljevacMunicipality
-    shapeID: 33768554B67797143141356
-    country_name: Serbia
-  Serbia_Adm2_34:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KnjazevacMunicipality
-    shapeID: 33768554B16465002195595
-    country_name: Serbia
-  Serbia_Adm2_35:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: CuprijaMunicipality
-    shapeID: 33768554B18327581352007
-    country_name: Serbia
-  Serbia_Adm2_36:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: DespotovacMunicipality
-    shapeID: 33768554B96748460097614
-    country_name: Serbia
-  Serbia_Adm2_37:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ParacinMunicipality
-    shapeID: 33768554B14779468402484
-    country_name: Serbia
-  Serbia_Adm2_38:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SvilajnacMunicipality
-    shapeID: 33768554B62719253026204
-    country_name: Serbia
-  Serbia_Adm2_39:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ZabariMunicipality
-    shapeID: 33768554B78746241490226
-    country_name: Serbia
-  Serbia_Adm2_4:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: PancevoCity
-    shapeID: 33768554B85269218904292
-    country_name: Serbia
-  Serbia_Adm2_40:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ZagubicaMunicipality
-    shapeID: 33768554B7055025230040
-    country_name: Serbia
-  Serbia_Adm2_41:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: GolubacMunicipality
-    shapeID: 33768554B58977987219618
-    country_name: Serbia
-  Serbia_Adm2_42:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KucevoMunicipality
-    shapeID: 33768554B78975247245185
-    country_name: Serbia
-  Serbia_Adm2_43:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: MaloCrniceMunicipality
-    shapeID: 33768554B34776853271491
-    country_name: Serbia
-  Serbia_Adm2_44:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: Petrovac-na-MlaviMunicipality
-    shapeID: 33768554B80429133429639
-    country_name: Serbia
-  Serbia_Adm2_45:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: NovaVarosMunicipality
-    shapeID: 33768554B96096334130003
-    country_name: Serbia
-  Serbia_Adm2_46:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: PribojMunicipality
-    shapeID: 33768554B97110351738071
-    country_name: Serbia
-  Serbia_Adm2_47:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: PrijepoljeMunicipality
-    shapeID: 33768554B50618232762371
-    country_name: Serbia
-  Serbia_Adm2_48:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KanjizaMunicipality
-    shapeID: 33768554B22744832971391
-    country_name: Serbia
-  Serbia_Adm2_49:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SentaMunicipality
-    shapeID: 33768554B34313425027148
-    country_name: Serbia
-  Serbia_Adm2_5:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KikindaCity
-    shapeID: 33768554B80281741460558
-    country_name: Serbia
-  Serbia_Adm2_50:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BackaTopolaMunicipality
-    shapeID: 33768554B2461690928713
-    country_name: Serbia
-  Serbia_Adm2_51:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: AdaMunicipality
-    shapeID: 33768554B16264003137685
-    country_name: Serbia
-  Serbia_Adm2_52:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: NoviKnezevacMunicipality
-    shapeID: 33768554B72683964051923
-    country_name: Serbia
-  Serbia_Adm2_53:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BujanovacMunicipality
-    shapeID: 33768554B94844288386275
-    country_name: Serbia
-  Serbia_Adm2_54:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: PresevoMunicipality
-    shapeID: 33768554B20144480687760
-    country_name: Serbia
-  Serbia_Adm2_55:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BogaticMunicipality
-    shapeID: 33768554B67609645322980
-    country_name: Serbia
-  Serbia_Adm2_56:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: PecinciMunicipality
-    shapeID: 33768554B31297475894420
-    country_name: Serbia
-  Serbia_Adm2_57:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: RumaMunicipality
-    shapeID: 33768554B35362959093640
-    country_name: Serbia
-  Serbia_Adm2_58:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: IndjijaMunicipality
-    shapeID: 33768554B43402816549287
-    country_name: Serbia
-  Serbia_Adm2_59:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: IrigMunicipality
-    shapeID: 33768554B98925662705896
-    country_name: Serbia
-  Serbia_Adm2_6:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ZrenjaninCity
-    shapeID: 33768554B98536505599429
-    country_name: Serbia
-  Serbia_Adm2_60:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: StaraPazovaMunicipality
-    shapeID: 33768554B29640802603871
-    country_name: Serbia
-  Serbia_Adm2_61:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ApatinMunicipality
-    shapeID: 33768554B67461606414450
-    country_name: Serbia
-  Serbia_Adm2_62:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SidMunicipality
-    shapeID: 33768554B73963894217242
-    country_name: Serbia
-  Serbia_Adm2_63:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: AlibunarMunicipality
-    shapeID: 33768554B21672557682784
-    country_name: Serbia
-  Serbia_Adm2_64:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BelaCrkvaMunicipality
-    shapeID: 33768554B30948132867080
-    country_name: Serbia
-  Serbia_Adm2_65:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KovacicaMunicipality
-    shapeID: 33768554B31931832207402
-    country_name: Serbia
-  Serbia_Adm2_66:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KovinMunicipality
-    shapeID: 33768554B17937032447528
-    country_name: Serbia
-  Serbia_Adm2_67:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: OpovoMunicipality
-    shapeID: 33768554B39213390041718
-    country_name: Serbia
-  Serbia_Adm2_68:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: PlandisteMunicipality
-    shapeID: 33768554B74061497044611
-    country_name: Serbia
-  Serbia_Adm2_69:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: VrsacMunicipality
-    shapeID: 33768554B50047063865765
-    country_name: Serbia
-  Serbia_Adm2_7:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: NoviSadCity
-    shapeID: 33768554B62558339807618
-    country_name: Serbia
-  Serbia_Adm2_70:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: CokaMunicipality
-    shapeID: 33768554B46379077813039
-    country_name: Serbia
-  Serbia_Adm2_71:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: MaliIdjosMunicipality
-    shapeID: 33768554B47565099292540
-    country_name: Serbia
-  Serbia_Adm2_72:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: NovaCrnjaMunicipality
-    shapeID: 33768554B55544577522793
-    country_name: Serbia
-  Serbia_Adm2_73:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: NoviBecejMunicipality
-    shapeID: 33768554B85835523578034
-    country_name: Serbia
-  Serbia_Adm2_74:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SecanjMunicipality
-    shapeID: 33768554B10160460607146
-    country_name: Serbia
-  Serbia_Adm2_75:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: ZitisteMunicipality
-    shapeID: 33768554B67532749475512
-    country_name: Serbia
-  Serbia_Adm2_76:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KulaMunicipality
-    shapeID: 33768554B77168572394837
-    country_name: Serbia
-  Serbia_Adm2_77:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: OdzaciMunicipality
-    shapeID: 33768554B3910526108635
-    country_name: Serbia
-  Serbia_Adm2_78:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BacMunicipality
-    shapeID: 33768554B38714138759615
-    country_name: Serbia
-  Serbia_Adm2_79:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BecejMunicipality
-    shapeID: 33768554B69909028114435
-    country_name: Serbia
-  Serbia_Adm2_8:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SabacCity
-    shapeID: 33768554B9744610672445
-    country_name: Serbia
-  Serbia_Adm2_80:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BackaPalankaMunicipality
-    shapeID: 33768554B44050731344699
-    country_name: Serbia
-  Serbia_Adm2_81:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BackiPetrovacMunicipality
-    shapeID: 33768554B72526506910259
-    country_name: Serbia
-  Serbia_Adm2_82:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: BeocinMunicipality
-    shapeID: 33768554B7076914953551
-    country_name: Serbia
-  Serbia_Adm2_83:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SrbobranMunicipality
-    shapeID: 33768554B32598240068320
-    country_name: Serbia
-  Serbia_Adm2_84:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: SremskiKarlovciMunicipality
-    shapeID: 33768554B12428724398946
-    country_name: Serbia
-  Serbia_Adm2_85:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: TemerinMunicipality
-    shapeID: 33768554B78547290846704
-    country_name: Serbia
-  Serbia_Adm2_86:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: TitelMunicipality
-    shapeID: 33768554B7380018804564
-    country_name: Serbia
-  Serbia_Adm2_87:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: VrbasMunicipality
-    shapeID: 33768554B35751177110345
-    country_name: Serbia
-  Serbia_Adm2_88:
+  SRB.9.1_1_Adm2:
+    GID: SRB.9.1_1
+    admin_name: Čačak
     iso3c: SRB
-    admin_level: Adm2
-    admin_name: ZabaljMunicipality
-    shapeID: 33768554B2427629133533
-    country_name: Serbia
-  Serbia_Adm2_89:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: VladimirciMunicipality
-    shapeID: 33768554B2801395808219
-    country_name: Serbia
-  Serbia_Adm2_9:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: LoznicaCity
-    shapeID: 33768554B4908200120747
-    country_name: Serbia
-  Serbia_Adm2_90:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KoceljevaMunicipality
-    shapeID: 33768554B69938925483879
-    country_name: Serbia
-  Serbia_Adm2_91:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: KrupanjMunicipality
-    shapeID: 33768554B945733705725
     country_name: Serbia
-  Serbia_Adm2_92:
-    iso3c: SRB
-    admin_level: Adm2
-    admin_name: LjubovijaMunicipality
-    shapeID: 33768554B95567802729919
-    country_name: Serbia
-  Serbia_Adm2_93:
-    iso3c: SRB
     admin_level: Adm2
-    admin_name: SurdulicaMunicipality
-    shapeID: 33768554B5340039451107
-    country_name: Serbia
-  Serbia_Adm2_94:
+  SRB.9.2_1_Adm2:
+    GID: SRB.9.2_1
+    admin_name: Gornji Milanovac
     iso3c: SRB
-    admin_level: Adm2
-    admin_name: BosilegradMunicipality
-    shapeID: 33768554B98074589840478
     country_name: Serbia
-  Serbia_Adm2_95:
-    iso3c: SRB
     admin_level: Adm2
-    admin_name: TrgovisteMunicipality
-    shapeID: 33768554B99330640863847
-    country_name: Serbia
-  Serbia_Adm2_96:
+  SRB.9.3_1_Adm2:
+    GID: SRB.9.3_1
+    admin_name: Ivanjica
     iso3c: SRB
-    admin_level: Adm2
-    admin_name: VladicinHanMunicipality
-    shapeID: 33768554B42905463824316
     country_name: Serbia
-  Serbia_Adm2_97:
-    iso3c: SRB
     admin_level: Adm2
-    admin_name: CrnaTravaMunicipality
-    shapeID: 33768554B52252710407171
-    country_name: Serbia
-  Serbia_Adm2_98:
+  SRB.9.4_1_Adm2:
+    GID: SRB.9.4_1
+    admin_name: Lučani
     iso3c: SRB
-    admin_level: Adm2
-    admin_name: VlasotinceMunicipality
-    shapeID: 33768554B60768299813027
     country_name: Serbia
-  Serbia_Adm2_99:
-    iso3c: SRB
     admin_level: Adm2
-    admin_name: BojnikMunicipality
-    shapeID: 33768554B49135397076585
-    country_name: Serbia

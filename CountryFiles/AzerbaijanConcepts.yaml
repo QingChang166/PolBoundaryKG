@@ -1,493 +1,541 @@
 concepts:
-  Azerbaijan_Adm0:
-    iso3c: AZE
-    admin_level: Adm0
+  AZE.0_Adm0:
+    GID: AZE
     admin_name: Azerbaijan
-    shapeID: 83331535B7971675350523
-    country_name: Azerbaijan
-  Azerbaijan_Adm1_1:
     iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm0
+  AZE.1_1_Adm1:
+    GID: AZE.1_1
+    admin_name: Absheron
+    iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm1
-    admin_name: NakhchivanAutonomousRepublic
-    shapeID: 63332228B45413776644545
-    country_name: Azerbaijan
-  Azerbaijan_Adm1_2:
+  AZE.1.1_1_Adm2:
+    GID: AZE.1.1_1
+    admin_name: Abşeron
     iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.1.2_1_Adm2:
+    GID: AZE.1.2_1
+    admin_name: Bakı
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.1.3_1_Adm2:
+    GID: AZE.1.3_1
+    admin_name: Sumqayıt
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.1.4_1_Adm2:
+    GID: AZE.1.4_1
+    admin_name: Xizı
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10_1_Adm1:
+    GID: AZE.10_1
+    admin_name: Yukhari-Karabakh
+    iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm1
-    admin_name: ContiguousAzerbaijan
-    shapeID: 63332228B70486487350611
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_1:
+  AZE.10.1_1_Adm2:
+    GID: AZE.10.1_1
+    admin_name: Ağdam
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: KhachmazDistrict
-    shapeID: 54616110B89497242950609
     country_name: Azerbaijan
-  Azerbaijan_Adm2_10:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: GobustanDistrict
-    shapeID: 54616110B43271825035432
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_11:
+  AZE.10.10_1_Adm2:
+    GID: AZE.10.10_1
+    admin_name: Xocavənd (Nagorno-Karabakh)
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: ShamakhiDistrict
-    shapeID: 54616110B16651088424667
     country_name: Azerbaijan
-  Azerbaijan_Adm2_12:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: QabalaDistrict
-    shapeID: 54616110B33746839775993
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_13:
+  AZE.10.2_1_Adm2:
+    GID: AZE.10.2_1
+    admin_name: Cəbrayıl
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: IsmailliDistrict
-    shapeID: 54616110B45290451128830
     country_name: Azerbaijan
-  Azerbaijan_Adm2_14:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: AgsuDistrict
-    shapeID: 54616110B12323901372431
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_15:
+  AZE.10.3_1_Adm2:
+    GID: AZE.10.3_1
+    admin_name: Füzuli
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: HajigabulDistrict
-    shapeID: 54616110B48173541517146
     country_name: Azerbaijan
-  Azerbaijan_Adm2_16:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: ShirvanCity
-    shapeID: 54616110B45272408011177
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_17:
+  AZE.10.4_1_Adm2:
+    GID: AZE.10.4_1
+    admin_name: Khankendi (Nagorno-Karabakh)
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: OghuzDistrict
-    shapeID: 54616110B99657283459996
     country_name: Azerbaijan
-  Azerbaijan_Adm2_18:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: GanjaCity
-    shapeID: 54616110B84154267491992
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_19:
+  AZE.10.5_1_Adm2:
+    GID: AZE.10.5_1
+    admin_name: Şuşa (CIty) (Nagorno-Karabakh)
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: ShushaCity
-    shapeID: 54616110B73470411147872
     country_name: Azerbaijan
-  Azerbaijan_Adm2_2:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: ShabranDistrict
-    shapeID: 54616110B33183266084070
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_20:
+  AZE.10.6_1_Adm2:
+    GID: AZE.10.6_1
+    admin_name: Şuşa (Rayon) (Nagorno-Karabakh)
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: KhankendiCity
-    shapeID: 54616110B15657888815271
     country_name: Azerbaijan
-  Azerbaijan_Adm2_21:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: YevlakhCity
-    shapeID: 54616110B78344971255813
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_22:
+  AZE.10.7_1_Adm2:
+    GID: AZE.10.7_1
+    admin_name: Tərtər
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: NaftalanCity
-    shapeID: 54616110B32389340464615
     country_name: Azerbaijan
-  Azerbaijan_Adm2_23:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: ShakiCity
-    shapeID: 54616110B24616396985677
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_24:
+  AZE.10.8_1_Adm2:
+    GID: AZE.10.8_1
+    admin_name: Tərtər (Nagorno-Karabakh)
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: SalyanDistrict
-    shapeID: 54616110B55207089168458
     country_name: Azerbaijan
-  Azerbaijan_Adm2_25:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: SabirabadDistrict
-    shapeID: 54616110B21396185337631
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_26:
+  AZE.10.9_1_Adm2:
+    GID: AZE.10.9_1
+    admin_name: Xocalı (Nagorno-Karabakh)
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: LankaranCity
-    shapeID: 54616110B92317303093203
     country_name: Azerbaijan
-  Azerbaijan_Adm2_27:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: NeftchalaDistrict
-    shapeID: 54616110B40961788089107
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_28:
+  AZE.2_1_Adm1:
+    GID: AZE.2_1
+    admin_name: Aran
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: LankaranDistrict
-    shapeID: 54616110B17009633679109
     country_name: Azerbaijan
-  Azerbaijan_Adm2_29:
+    admin_level: Adm1
+  AZE.2.1_1_Adm2:
+    GID: AZE.2.1_1
+    admin_name: Əli Bayramlı
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: ShakiDistrict
-    shapeID: 54616110B25010354244926
     country_name: Azerbaijan
-  Azerbaijan_Adm2_3:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: SiazanDistrict
-    shapeID: 54616110B9592293002412
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_30:
+  AZE.2.10_1_Adm2:
+    GID: AZE.2.10_1
+    admin_name: Kürdəmir
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: MingachevirCity
-    shapeID: 54616110B16521863868797
     country_name: Azerbaijan
-  Azerbaijan_Adm2_31:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: YevlakhDistrict
-    shapeID: 54616110B52362464060400
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_32:
+  AZE.2.11_1_Adm2:
+    GID: AZE.2.11_1
+    admin_name: Mingəçevir
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: QakhDistrict
-    shapeID: 54616110B49356278605879
     country_name: Azerbaijan
-  Azerbaijan_Adm2_33:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: ZaqatalaDistrict
-    shapeID: 54616110B4759617374649
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_34:
+  AZE.2.12_1_Adm2:
+    GID: AZE.2.12_1
+    admin_name: Neftçala
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: BalakanDistrict
-    shapeID: 54616110B63924922129682
     country_name: Azerbaijan
-  Azerbaijan_Adm2_35:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: MasallyDistrict
-    shapeID: 54616110B86237771899826
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_36:
+  AZE.2.13_1_Adm2:
+    GID: AZE.2.13_1
+    admin_name: Saatlı
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: LankaranDistrict
-    shapeID: 54616110B2076465815790
     country_name: Azerbaijan
-  Azerbaijan_Adm2_37:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: AstaraDistrict
-    shapeID: 54616110B5213879595332
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_38:
+  AZE.2.14_1_Adm2:
+    GID: AZE.2.14_1
+    admin_name: Sabirabad
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: LerikDistrict
-    shapeID: 54616110B59366301344355
     country_name: Azerbaijan
-  Azerbaijan_Adm2_39:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: YardymliDistrict
-    shapeID: 54616110B63590673188827
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_4:
+  AZE.2.15_1_Adm2:
+    GID: AZE.2.15_1
+    admin_name: Salyan
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: KhiziDistrict
-    shapeID: 54616110B97026515433008
     country_name: Azerbaijan
-  Azerbaijan_Adm2_40:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: JalilabadDistrict
-    shapeID: 54616110B78302808254353
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_41:
+  AZE.2.16_1_Adm2:
+    GID: AZE.2.16_1
+    admin_name: Ucar
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: BilasuvarDistrict
-    shapeID: 54616110B16304773097912
     country_name: Azerbaijan
-  Azerbaijan_Adm2_42:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: SaatlyDistrict
-    shapeID: 54616110B939777630101
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_43:
+  AZE.2.17_1_Adm2:
+    GID: AZE.2.17_1
+    admin_name: Yevlax
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: AgdashDistrict
-    shapeID: 54616110B75800990015815
     country_name: Azerbaijan
-  Azerbaijan_Adm2_44:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: GoychayDistrict
-    shapeID: 54616110B88730523237575
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_45:
+  AZE.2.18_1_Adm2:
+    GID: AZE.2.18_1
+    admin_name: Yevlax City
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: UjarDistrict
-    shapeID: 54616110B8701125158325
     country_name: Azerbaijan
-  Azerbaijan_Adm2_46:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: KurdamirDistrict
-    shapeID: 54616110B82810927503709
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_47:
+  AZE.2.19_1_Adm2:
+    GID: AZE.2.19_1
+    admin_name: Zərdab
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: ZardabDistrict
-    shapeID: 54616110B34042895235078
     country_name: Azerbaijan
-  Azerbaijan_Adm2_48:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: ImishliDistrict
-    shapeID: 54616110B47039748407948
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_49:
+  AZE.2.2_1_Adm2:
+    GID: AZE.2.2_1
+    admin_name: Ağcabədi
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: BardaDistrict
-    shapeID: 54616110B76249555634218
     country_name: Azerbaijan
-  Azerbaijan_Adm2_5:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: QusarDistrict
-    shapeID: 54616110B21517829058101
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_50:
+  AZE.2.3_1_Adm2:
+    GID: AZE.2.3_1
+    admin_name: Ağdaş
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: AghjabadiDistrict
-    shapeID: 54616110B84161876100413
     country_name: Azerbaijan
-  Azerbaijan_Adm2_51:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: BeylaganDistrict
-    shapeID: 54616110B20470092766685
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_52:
+  AZE.2.4_1_Adm2:
+    GID: AZE.2.4_1
+    admin_name: Bərdə
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: SamukhDistrict
-    shapeID: 54616110B65018719015844
     country_name: Azerbaijan
-  Azerbaijan_Adm2_53:
-    iso3c: AZE
     admin_level: Adm2
-    admin_name: GoranboyDistrict
-    shapeID: 54616110B75141866412524
-    country_name: Azerbaijan
-  Azerbaijan_Adm2_54:
+  AZE.2.5_1_Adm2:
+    GID: AZE.2.5_1
+    admin_name: Beyləqan
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: TartarDistrict
-    shapeID: 54616110B79809370995070
+  AZE.2.6_1_Adm2:
+    GID: AZE.2.6_1
+    admin_name: Biləsuvar
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_55:
+    admin_level: Adm2
+  AZE.2.7_1_Adm2:
+    GID: AZE.2.7_1
+    admin_name: Göyçay
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: KalbajarDistrict
-    shapeID: 54616110B37358032697149
+  AZE.2.8_1_Adm2:
+    GID: AZE.2.8_1
+    admin_name: Hacıqabul
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_56:
+    admin_level: Adm2
+  AZE.2.9_1_Adm2:
+    GID: AZE.2.9_1
+    admin_name: İmişli
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: AgdamDistrict
-    shapeID: 54616110B71765796178707
+  AZE.3_1_Adm1:
+    GID: AZE.3_1
+    admin_name: Daglig-Shirvan
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_57:
+    admin_level: Adm1
+  AZE.3.1_1_Adm2:
+    GID: AZE.3.1_1
+    admin_name: Ağsu
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: GoygolDistrict
-    shapeID: 54616110B13615645655589
     country_name: Azerbaijan
-  Azerbaijan_Adm2_58:
+    admin_level: Adm2
+  AZE.3.2_1_Adm2:
+    GID: AZE.3.2_1
+    admin_name: İsmayıllı
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: ShamkirDistrict
-    shapeID: 54616110B57585842497805
+  AZE.3.3_1_Adm2:
+    GID: AZE.3.3_1
+    admin_name: Qobustan
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_59:
+    admin_level: Adm2
+  AZE.3.4_1_Adm2:
+    GID: AZE.3.4_1
+    admin_name: Şamaxı
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: DashkasanDistrict
-    shapeID: 54616110B88384638285498
+  AZE.4_1_Adm1:
+    GID: AZE.4_1
+    admin_name: Ganja-Qazakh
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_6:
+    admin_level: Adm1
+  AZE.4.1_1_Adm2:
+    GID: AZE.4.1_1
+    admin_name: Ağstafa
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: QubaDistrict
-    shapeID: 54616110B77048085748362
+  AZE.4.10_1_Adm2:
+    GID: AZE.4.10_1
+    admin_name: Tovuz
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_60:
+    admin_level: Adm2
+  AZE.4.11_1_Adm2:
+    GID: AZE.4.11_1
+    admin_name: Xanlar
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: GadabayDistrict
-    shapeID: 54616110B46799199998097
+  AZE.4.2_1_Adm2:
+    GID: AZE.4.2_1
+    admin_name: Daşkəsən
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_61:
+    admin_level: Adm2
+  AZE.4.3_1_Adm2:
+    GID: AZE.4.3_1
+    admin_name: Gədəbəy
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: TovuzDistrict
-    shapeID: 54616110B84187356839814
+  AZE.4.4_1_Adm2:
+    GID: AZE.4.4_1
+    admin_name: Gəncə
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_62:
+    admin_level: Adm2
+  AZE.4.5_1_Adm2:
+    GID: AZE.4.5_1
+    admin_name: Goranboy
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: AgstafaDistrict
-    shapeID: 54616110B36354954300290
+  AZE.4.6_1_Adm2:
+    GID: AZE.4.6_1
+    admin_name: Naftalan
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_63:
+    admin_level: Adm2
+  AZE.4.7_1_Adm2:
+    GID: AZE.4.7_1
+    admin_name: Qazax
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: QazakhDistrict
-    shapeID: 54616110B43488292017990
+  AZE.4.8_1_Adm2:
+    GID: AZE.4.8_1
+    admin_name: Şəmkir
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_64:
+    admin_level: Adm2
+  AZE.4.9_1_Adm2:
+    GID: AZE.4.9_1
+    admin_name: Samux
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: LachinDistrict
-    shapeID: 54616110B46945931752574
+  AZE.5_1_Adm1:
+    GID: AZE.5_1
+    admin_name: Kalbajar-Lachin
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_65:
+    admin_level: Adm1
+  AZE.5.1_1_Adm2:
+    GID: AZE.5.1_1
+    admin_name: Kəlbəcər
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: KhojalyDistrict
-    shapeID: 54616110B87325868620163
+  AZE.5.2_1_Adm2:
+    GID: AZE.5.2_1
+    admin_name: Kəlbəcər (Nagorno-Karabakh)
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_66:
+    admin_level: Adm2
+  AZE.5.3_1_Adm2:
+    GID: AZE.5.3_1
+    admin_name: Lachin
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: ShushaDistrict
-    shapeID: 54616110B49912296290484
+  AZE.5.4_1_Adm2:
+    GID: AZE.5.4_1
+    admin_name: Qubadli
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_67:
+    admin_level: Adm2
+  AZE.5.5_1_Adm2:
+    GID: AZE.5.5_1
+    admin_name: Zəngilan
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: KhojavendDistrict
-    shapeID: 54616110B38461317640181
+  AZE.6_1_Adm1:
+    GID: AZE.6_1
+    admin_name: Lankaran
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_68:
+    admin_level: Adm1
+  AZE.6.1_1_Adm2:
+    GID: AZE.6.1_1
+    admin_name: Astara
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: FuzuliDistrict
-    shapeID: 54616110B29637726057754
+  AZE.6.2_1_Adm2:
+    GID: AZE.6.2_1
+    admin_name: Cəlilabad
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_69:
+    admin_level: Adm2
+  AZE.6.3_1_Adm2:
+    GID: AZE.6.3_1
+    admin_name: Lənkəran
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: JabrayilDistrict
-    shapeID: 54616110B25171122868047
+  AZE.6.4_1_Adm2:
+    GID: AZE.6.4_1
+    admin_name: Lənkəran City
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_7:
+    admin_level: Adm2
+  AZE.6.5_1_Adm2:
+    GID: AZE.6.5_1
+    admin_name: Lerik
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: AbsheronDistrict
-    shapeID: 54616110B88432173472444
+  AZE.6.6_1_Adm2:
+    GID: AZE.6.6_1
+    admin_name: Masallı
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_70:
+    admin_level: Adm2
+  AZE.6.7_1_Adm2:
+    GID: AZE.6.7_1
+    admin_name: Yardımlı
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: QubadliDistrict
-    shapeID: 54616110B66639423042347
+  AZE.7_1_Adm1:
+    GID: AZE.7_1
+    admin_name: Nakhchivan
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_71:
+    admin_level: Adm1
+  AZE.7.1_1_Adm2:
+    GID: AZE.7.1_1
+    admin_name: Babək
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: ZangilanDistrict
-    shapeID: 54616110B64107713492867
+  AZE.7.2_1_Adm2:
+    GID: AZE.7.2_1
+    admin_name: Culfa
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_72:
+    admin_level: Adm2
+  AZE.7.3_1_Adm2:
+    GID: AZE.7.3_1
+    admin_name: Naxçıvan
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: OrdubadDistrict
-    shapeID: 54616110B24607032839399
+  AZE.7.4_1_Adm2:
+    GID: AZE.7.4_1
+    admin_name: Ordubad
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_73:
+    admin_level: Adm2
+  AZE.7.5_1_Adm2:
+    GID: AZE.7.5_1
+    admin_name: Sədərək
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: JulfaDistrict
-    shapeID: 54616110B53393721771174
+  AZE.7.6_1_Adm2:
+    GID: AZE.7.6_1
+    admin_name: Şərur
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_74:
+    admin_level: Adm2
+  AZE.7.7_1_Adm2:
+    GID: AZE.7.7_1
+    admin_name: Şahbuz
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: ShahbuzDistrict
-    shapeID: 54616110B68105682916253
+  AZE.8_1_Adm1:
+    GID: AZE.8_1
+    admin_name: Quba-Khachmaz
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_75:
+    admin_level: Adm1
+  AZE.8.1_1_Adm2:
+    GID: AZE.8.1_1
+    admin_name: Dəvəçi
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: NakhchivanCity
-    shapeID: 54616110B79262118902245
+  AZE.8.2_1_Adm2:
+    GID: AZE.8.2_1
+    admin_name: Quba
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_76:
+    admin_level: Adm2
+  AZE.8.3_1_Adm2:
+    GID: AZE.8.3_1
+    admin_name: Qusar
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: BabekDistrict
-    shapeID: 54616110B53070579367508
+  AZE.8.4_1_Adm2:
+    GID: AZE.8.4_1
+    admin_name: Siyəzən
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_77:
+    admin_level: Adm2
+  AZE.8.5_1_Adm2:
+    GID: AZE.8.5_1
+    admin_name: Xaçmaz
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: KangarliDistrict
-    shapeID: 54616110B75082210580506
+  AZE.9_1_Adm1:
+    GID: AZE.9_1
+    admin_name: Shaki-Zaqatala
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_78:
+    admin_level: Adm1
+  AZE.9.1_1_Adm2:
+    GID: AZE.9.1_1
+    admin_name: Balakən
     iso3c: AZE
-    admin_level: Adm2
-    admin_name: SharurDistrict
-    shapeID: 54616110B53436270368491
     country_name: Azerbaijan
-  Azerbaijan_Adm2_79:
+    admin_level: Adm2
+  AZE.9.2_1_Adm2:
+    GID: AZE.9.2_1
+    admin_name: Oğuz
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: SadarakDistrict
-    shapeID: 54616110B79964383852369
+  AZE.9.3_1_Adm2:
+    GID: AZE.9.3_1
+    admin_name: Qəbələ
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_8:
+    admin_level: Adm2
+  AZE.9.4_1_Adm2:
+    GID: AZE.9.4_1
+    admin_name: Qax
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: SumqayitCity
-    shapeID: 54616110B75219613739908
+  AZE.9.5_1_Adm2:
+    GID: AZE.9.5_1
+    admin_name: Şəki
+    iso3c: AZE
     country_name: Azerbaijan
-  Azerbaijan_Adm2_9:
+    admin_level: Adm2
+  AZE.9.6_1_Adm2:
+    GID: AZE.9.6_1
+    admin_name: Şəki City
     iso3c: AZE
+    country_name: Azerbaijan
     admin_level: Adm2
-    admin_name: BakuCity
-    shapeID: 54616110B61947743987915
+  AZE.9.7_1_Adm2:
+    GID: AZE.9.7_1
+    admin_name: Zaqatala
+    iso3c: AZE
     country_name: Azerbaijan
+    admin_level: Adm2

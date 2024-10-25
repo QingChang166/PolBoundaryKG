@@ -1,355 +1,283 @@
 concepts:
-  Gabon_Adm0:
-    iso3c: GAB
-    admin_level: Adm0
+  GAB.0_Adm0:
+    GID: GAB
     admin_name: Gabon
-    shapeID: 25889322B4795319335832
-    country_name: Gabon
-  Gabon_Adm1_1:
     iso3c: GAB
-    admin_level: Adm1
-    admin_name: Woleu-Ntem
-    shapeID: 98808126B17543062715179
     country_name: Gabon
-  Gabon_Adm1_2:
-    iso3c: GAB
-    admin_level: Adm1
+    admin_level: Adm0
+  GAB.1_1_Adm1:
+    GID: GAB.1_1
     admin_name: Estuaire
-    shapeID: 98808126B6174087794558
-    country_name: Gabon
-  Gabon_Adm1_3:
     iso3c: GAB
+    country_name: Gabon
     admin_level: Adm1
-    admin_name: Moyen-Ogooué
-    shapeID: 98808126B18014785017467
-    country_name: Gabon
-  Gabon_Adm1_4:
-    iso3c: GAB
-    admin_level: Adm1
-    admin_name: Ogooué-Lolo
-    shapeID: 98808126B26189030995048
-    country_name: Gabon
-  Gabon_Adm1_5:
-    iso3c: GAB
-    admin_level: Adm1
-    admin_name: Haut-Ogooué
-    shapeID: 98808126B76399587683442
-    country_name: Gabon
-  Gabon_Adm1_6:
-    iso3c: GAB
-    admin_level: Adm1
-    admin_name: Ngounié
-    shapeID: 98808126B87109284652443
-    country_name: Gabon
-  Gabon_Adm1_7:
-    iso3c: GAB
-    admin_level: Adm1
-    admin_name: Ogooué-Maritime
-    shapeID: 98808126B47729285420158
-    country_name: Gabon
-  Gabon_Adm1_8:
-    iso3c: GAB
-    admin_level: Adm1
-    admin_name: Nyanga
-    shapeID: 98808126B61171791227044
-    country_name: Gabon
-  Gabon_Adm1_9:
-    iso3c: GAB
-    admin_level: Adm1
-    admin_name: "Ogooué-Ivindo\t"
-    shapeID: 98808126B66499753932145
-    country_name: Gabon
-  Gabon_Adm2_1:
-    iso3c: GAB
-    admin_level: Adm2
+  GAB.1.1_1_Adm2:
+    GID: GAB.1.1_1
     admin_name: Komo
-    shapeID: 22940354B49823101443356
-    country_name: Gabon
-  Gabon_Adm2_10:
     iso3c: GAB
-    admin_level: Adm2
-    admin_name: Noya
-    shapeID: 22940354B97736756734811
     country_name: Gabon
-  Gabon_Adm2_11:
-    iso3c: GAB
     admin_level: Adm2
-    admin_name: Libreville
-    shapeID: 22940354B47630022104782
-    country_name: Gabon
-  Gabon_Adm2_12:
-    iso3c: GAB
-    admin_level: Adm2
+  GAB.1.2_1_Adm2:
+    GID: GAB.1.2_1
     admin_name: Komo-Mondah
-    shapeID: 22940354B10433800471916
-    country_name: Gabon
-  Gabon_Adm2_13:
     iso3c: GAB
-    admin_level: Adm2
-    admin_name: Lopè
-    shapeID: 22940354B97125723234680
     country_name: Gabon
-  Gabon_Adm2_14:
-    iso3c: GAB
     admin_level: Adm2
-    admin_name: Mouloundou
-    shapeID: 22940354B50404497002370
+  GAB.1.3_1_Adm2:
+    GID: GAB.1.3_1
+    admin_name: Noya
+    iso3c: GAB
     country_name: Gabon
-  Gabon_Adm2_15:
-    iso3c: GAB
     admin_level: Adm2
-    admin_name: Lolo-Bouenguidi
-    shapeID: 22940354B13456808053161
+  GAB.2_1_Adm1:
+    GID: GAB.2_1
+    admin_name: Haut-Ogooué
+    iso3c: GAB
     country_name: Gabon
-  Gabon_Adm2_16:
+    admin_level: Adm1
+  GAB.2.1_1_Adm2:
+    GID: GAB.2.1_1
+    admin_name: Léboumbi-Leyou
     iso3c: GAB
-    admin_level: Adm2
-    admin_name: Lombo-Bouenguidi
-    shapeID: 22940354B47016566751071
     country_name: Gabon
-  Gabon_Adm2_17:
-    iso3c: GAB
     admin_level: Adm2
-    admin_name: Lèkoko
-    shapeID: 22940354B44244492121045
+  GAB.2.2_1_Adm2:
+    GID: GAB.2.2_1
+    admin_name: Léconi-Djoué
+    iso3c: GAB
     country_name: Gabon
-  Gabon_Adm2_18:
-    iso3c: GAB
     admin_level: Adm2
-    admin_name: Ogoouè-Lètili
-    shapeID: 22940354B99015789882932
+  GAB.2.3_1_Adm2:
+    GID: GAB.2.3_1
+    admin_name: Lékoko
+    iso3c: GAB
     country_name: Gabon
-  Gabon_Adm2_19:
-    iso3c: GAB
     admin_level: Adm2
-    admin_name: Plateaux
-    shapeID: 22940354B6249741247917
-    country_name: Gabon
-  Gabon_Adm2_2:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Ntem
-    shapeID: 22940354B82512793469031
-    country_name: Gabon
-  Gabon_Adm2_20:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Djouori-Agnili
-    shapeID: 22940354B21948278538135
-    country_name: Gabon
-  Gabon_Adm2_21:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Lèkoni-Lèkori
-    shapeID: 22940354B21912666573849
-    country_name: Gabon
-  Gabon_Adm2_22:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Djouè
-    shapeID: 22940354B62509297980866
-    country_name: Gabon
-  Gabon_Adm2_23:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Bayi-Brikolo
-    shapeID: 22940354B11019670045233
-    country_name: Gabon
-  Gabon_Adm2_24:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Lèkabi-Lèwolo
-    shapeID: 22940354B94372756375204
-    country_name: Gabon
-  Gabon_Adm2_25:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Lèbombi-Leyou
-    shapeID: 22940354B21970441224980
-    country_name: Gabon
-  Gabon_Adm2_26:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Sèbè-Brikolo
-    shapeID: 22940354B60180935649619
-    country_name: Gabon
-  Gabon_Adm2_27:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Louetsi-Bibaka
-    shapeID: 22940354B39129548134605
-    country_name: Gabon
-  Gabon_Adm2_28:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Louetsi-Wano
-    shapeID: 22940354B18924798450478
-    country_name: Gabon
-  Gabon_Adm2_29:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Boumi-Louetsi
-    shapeID: 22940354B74910664495270
-    country_name: Gabon
-  Gabon_Adm2_3:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Haut-Ntem
-    shapeID: 22940354B67631152101375
-    country_name: Gabon
-  Gabon_Adm2_30:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Offouè-Onoyè
-    shapeID: 22940354B26580795617541
-    country_name: Gabon
-  Gabon_Adm2_31:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Ogoulou
-    shapeID: 22940354B22341987955952
-    country_name: Gabon
-  Gabon_Adm2_32:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Haute-Banio
-    shapeID: 22940354B88632619890778
-    country_name: Gabon
-  Gabon_Adm2_33:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Basse-Banio
-    shapeID: 22940354B35468012310479
-    country_name: Gabon
-  Gabon_Adm2_34:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Mongo
-    shapeID: 22940354B34091756215614
-    country_name: Gabon
-  Gabon_Adm2_35:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Mougoutsi
-    shapeID: 22940354B37590085186432
-    country_name: Gabon
-  Gabon_Adm2_36:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Doutsita
-    shapeID: 22940354B92057182831829
-    country_name: Gabon
-  Gabon_Adm2_37:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Douigni
-    shapeID: 22940354B25852434445694
-    country_name: Gabon
-  Gabon_Adm2_38:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Dola
-    shapeID: 22940354B92204383956845
-    country_name: Gabon
-  Gabon_Adm2_39:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Mougalaba
-    shapeID: 22940354B67008732943825
-    country_name: Gabon
-  Gabon_Adm2_4:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Woleu
-    shapeID: 22940354B4497534497521
-    country_name: Gabon
-  Gabon_Adm2_40:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Ndougou
-    shapeID: 22940354B74005862204828
-    country_name: Gabon
-  Gabon_Adm2_41:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Douya-Onoyè
-    shapeID: 22940354B97081518304262
-    country_name: Gabon
-  Gabon_Adm2_42:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Tsamba-Magotsi
-    shapeID: 22940354B73947944893462
-    country_name: Gabon
-  Gabon_Adm2_43:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: OgoouèetLacs
-    shapeID: 22940354B45576072672451
-    country_name: Gabon
-  Gabon_Adm2_44:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Ndolou
-    shapeID: 22940354B46648613640917
-    country_name: Gabon
-  Gabon_Adm2_45:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Etimbouè
-    shapeID: 22940354B22587364924270
-    country_name: Gabon
-  Gabon_Adm2_46:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Komo-Ocèan
-    shapeID: 22940354B91533016002313
-    country_name: Gabon
-  Gabon_Adm2_47:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Abanga-Bignè
-    shapeID: 22940354B65697742744176
-    country_name: Gabon
-  Gabon_Adm2_48:
-    iso3c: GAB
-    admin_level: Adm2
-    admin_name: Bendjè
-    shapeID: 22940354B80874584292882
-    country_name: Gabon
-  Gabon_Adm2_49:
-    iso3c: GAB
-    admin_level: Adm2
+  GAB.2.4_1_Adm2:
+    GID: GAB.2.4_1
     admin_name: Mpassa
-    shapeID: 22940354B37639469829308
-    country_name: Gabon
-  Gabon_Adm2_5:
     iso3c: GAB
-    admin_level: Adm2
-    admin_name: Zadiè
-    shapeID: 22940354B86386728493807
     country_name: Gabon
-  Gabon_Adm2_6:
-    iso3c: GAB
     admin_level: Adm2
+  GAB.2.5_1_Adm2:
+    GID: GAB.2.5_1
+    admin_name: Plateaux
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.2.6_1_Adm2:
+    GID: GAB.2.6_1
+    admin_name: Sébé-Brikolo
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.3_1_Adm1:
+    GID: GAB.3_1
+    admin_name: Moyen-Ogooué
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm1
+  GAB.3.1_1_Adm2:
+    GID: GAB.3.1_1
+    admin_name: Abanga-Bigné
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.3.2_1_Adm2:
+    GID: GAB.3.2_1
+    admin_name: Ogooué et des Lacs
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.4_1_Adm1:
+    GID: GAB.4_1
+    admin_name: Ngounié
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm1
+  GAB.4.1_1_Adm2:
+    GID: GAB.4.1_1
+    admin_name: Boumi-lowetsi
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.4.2_1_Adm2:
+    GID: GAB.4.2_1
+    admin_name: Dola
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.4.3_1_Adm2:
+    GID: GAB.4.3_1
+    admin_name: Douya Onoye
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.4.4_1_Adm2:
+    GID: GAB.4.4_1
+    admin_name: Louetsi-Wano
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.4.5_1_Adm2:
+    GID: GAB.4.5_1
+    admin_name: Ndolou
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.4.6_1_Adm2:
+    GID: GAB.4.6_1
+    admin_name: Ogoulou
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.4.7_1_Adm2:
+    GID: GAB.4.7_1
+    admin_name: Tsamba Mangotsi
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.5_1_Adm1:
+    GID: GAB.5_1
+    admin_name: Nyanga
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm1
+  GAB.5.1_1_Adm2:
+    GID: GAB.5.1_1
+    admin_name: Basse Banio
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.5.2_1_Adm2:
+    GID: GAB.5.2_1
+    admin_name: Douigny
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.5.3_1_Adm2:
+    GID: GAB.5.3_1
+    admin_name: Haute-Banio
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.5.4_1_Adm2:
+    GID: GAB.5.4_1
+    admin_name: Mougoutsi
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.6_1_Adm1:
+    GID: GAB.6_1
+    admin_name: Ogooué-Ivindo
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm1
+  GAB.6.1_1_Adm2:
+    GID: GAB.6.1_1
     admin_name: Ivindo
-    shapeID: 22940354B21315660080276
-    country_name: Gabon
-  Gabon_Adm2_7:
     iso3c: GAB
-    admin_level: Adm2
-    admin_name: Okano
-    shapeID: 22940354B24104320747688
     country_name: Gabon
-  Gabon_Adm2_8:
-    iso3c: GAB
     admin_level: Adm2
+  GAB.6.2_1_Adm2:
+    GID: GAB.6.2_1
+    admin_name: Lopé
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.6.3_1_Adm2:
+    GID: GAB.6.3_1
     admin_name: Mvoung
-    shapeID: 22940354B15845982668686
-    country_name: Gabon
-  Gabon_Adm2_9:
     iso3c: GAB
-    admin_level: Adm2
-    admin_name: Haut-Komo
-    shapeID: 22940354B77871710228177
     country_name: Gabon
+    admin_level: Adm2
+  GAB.6.4_1_Adm2:
+    GID: GAB.6.4_1
+    admin_name: Zadié
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.7_1_Adm1:
+    GID: GAB.7_1
+    admin_name: Ogooué-Lolo
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm1
+  GAB.7.1_1_Adm2:
+    GID: GAB.7.1_1
+    admin_name: Lolo Bouenguidi
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.7.2_1_Adm2:
+    GID: GAB.7.2_1
+    admin_name: Lombo-Bouenguidi
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.7.3_1_Adm2:
+    GID: GAB.7.3_1
+    admin_name: Mouloudnou
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.8_1_Adm1:
+    GID: GAB.8_1
+    admin_name: Ogooué-Maritime
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm1
+  GAB.8.1_1_Adm2:
+    GID: GAB.8.1_1
+    admin_name: Bendjé
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.8.2_1_Adm2:
+    GID: GAB.8.2_1
+    admin_name: Étimboué
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.8.3_1_Adm2:
+    GID: GAB.8.3_1
+    admin_name: Ndougou
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.9_1_Adm1:
+    GID: GAB.9_1
+    admin_name: Wouleu-Ntem
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm1
+  GAB.9.1_1_Adm2:
+    GID: GAB.9.1_1
+    admin_name: Haut-Como
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.9.2_1_Adm2:
+    GID: GAB.9.2_1
+    admin_name: Haut-Ntem
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.9.3_1_Adm2:
+    GID: GAB.9.3_1
+    admin_name: Ntem
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.9.4_1_Adm2:
+    GID: GAB.9.4_1
+    admin_name: Okano
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2
+  GAB.9.5_1_Adm2:
+    GID: GAB.9.5_1
+    admin_name: Woleu
+    iso3c: GAB
+    country_name: Gabon
+    admin_level: Adm2

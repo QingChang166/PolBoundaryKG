@@ -1,415 +1,367 @@
 concepts:
-  Oman_Adm0:
-    iso3c: OMN
-    admin_level: Adm0
+  OMN.0_Adm0:
+    GID: OMN
     admin_name: Oman
-    shapeID: 13493377B24447766620801
-    country_name: Oman
-  Oman_Adm1_1:
     iso3c: OMN
-    admin_level: Adm1
-    admin_name: Dhofar
-    shapeID: 34121849B8854015950868
     country_name: Oman
-  Oman_Adm1_2:
+    admin_level: Adm0
+  OMN.1_1_Adm1:
+    GID: OMN.1_1
+    admin_name: Ad Dakhliyah
     iso3c: OMN
-    admin_level: Adm1
-    admin_name: AlBatinah
-    shapeID: 34121849B71010913728332
     country_name: Oman
-  Oman_Adm1_3:
-    iso3c: OMN
     admin_level: Adm1
-    admin_name: AzZahirah
-    shapeID: 34121849B37717587073732
+  OMN.1.1_1_Adm2:
+    GID: OMN.1.1_1
+    admin_name: Adam
+    iso3c: OMN
     country_name: Oman
-  Oman_Adm1_4:
+    admin_level: Adm2
+  OMN.1.2_1_Adm2:
+    GID: OMN.1.2_1
+    admin_name: Al Hamra
     iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.1.3_1_Adm2:
+    GID: OMN.1.3_1
+    admin_name: Bahla
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.1.4_1_Adm2:
+    GID: OMN.1.4_1
+    admin_name: Bid Bid
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.1.5_1_Adm2:
+    GID: OMN.1.5_1
+    admin_name: Izki
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.1.6_1_Adm2:
+    GID: OMN.1.6_1
+    admin_name: Manah
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.1.7_1_Adm2:
+    GID: OMN.1.7_1
+    admin_name: Nizwa
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.1.8_1_Adm2:
+    GID: OMN.1.8_1
+    admin_name: Samail
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.10_1_Adm1:
+    GID: OMN.10_1
+    admin_name: Musandam
+    iso3c: OMN
+    country_name: Oman
     admin_level: Adm1
+  OMN.10.1_1_Adm2:
+    GID: OMN.10.1_1
+    admin_name: Al Khasab
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.10.2_1_Adm2:
+    GID: OMN.10.2_1
+    admin_name: Bukha
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.10.3_1_Adm2:
+    GID: OMN.10.3_1
+    admin_name: Diba
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.10.4_1_Adm2:
+    GID: OMN.10.4_1
+    admin_name: Madha
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.11_1_Adm1:
+    GID: OMN.11_1
     admin_name: Muscat
-    shapeID: 34121849B74132742221768
-    country_name: Oman
-  Oman_Adm1_5:
     iso3c: OMN
+    country_name: Oman
     admin_level: Adm1
-    admin_name: AshSharqiyah
-    shapeID: 34121849B48568874604869
-    country_name: Oman
-  Oman_Adm1_6:
+  OMN.11.1_1_Adm2:
+    GID: OMN.11.1_1
+    admin_name: A Seeb
     iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.11.2_1_Adm2:
+    GID: OMN.11.2_1
+    admin_name: Bausher
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.11.3_1_Adm2:
+    GID: OMN.11.3_1
+    admin_name: Muscat
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.11.4_1_Adm2:
+    GID: OMN.11.4_1
+    admin_name: Muttrah
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.11.5_1_Adm2:
+    GID: OMN.11.5_1
+    admin_name: Quriyat
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.2_1_Adm1:
+    GID: OMN.2_1
+    admin_name: Al Batinah North
+    iso3c: OMN
+    country_name: Oman
     admin_level: Adm1
-    admin_name: AdDakhiliyah
-    shapeID: 34121849B25434331600406
-    country_name: Oman
-  Oman_Adm1_7:
+  OMN.2.1_1_Adm2:
+    GID: OMN.2.1_1
+    admin_name: Al Khabourah
     iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.2.2_1_Adm2:
+    GID: OMN.2.2_1
+    admin_name: As Suwaiq
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.2.3_1_Adm2:
+    GID: OMN.2.3_1
+    admin_name: Liwa
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.2.4_1_Adm2:
+    GID: OMN.2.4_1
+    admin_name: Saham
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.2.5_1_Adm2:
+    GID: OMN.2.5_1
+    admin_name: Shinas
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.2.6_1_Adm2:
+    GID: OMN.2.6_1
+    admin_name: Sohar
+    iso3c: OMN
+    country_name: Oman
+    admin_level: Adm2
+  OMN.3_1_Adm1:
+    GID: OMN.3_1
+    admin_name: Al Batinah South
+    iso3c: OMN
+    country_name: Oman
     admin_level: Adm1
-    admin_name: AlWusta
-    shapeID: 34121849B130430185889
-    country_name: Oman
-  Oman_Adm2_1:
+  OMN.3.1_1_Adm2:
+    GID: OMN.3.1_1
+    admin_name: A Rustaq
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATSAMAIL
-    shapeID: 60546857B77453412545109
     country_name: Oman
-  Oman_Adm2_10:
+    admin_level: Adm2
+  OMN.3.2_1_Adm2:
+    GID: OMN.3.2_1
+    admin_name: Al Awabi
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATBAHLA
-    shapeID: 60546857B72064477223554
     country_name: Oman
-  Oman_Adm2_11:
+    admin_level: Adm2
+  OMN.3.3_1_Adm2:
+    GID: OMN.3.3_1
+    admin_name: Al Masnaah
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATBAWSHAR
-    shapeID: 60546857B19127043016225
     country_name: Oman
-  Oman_Adm2_12:
+    admin_level: Adm2
+  OMN.3.4_1_Adm2:
+    GID: OMN.3.4_1
+    admin_name: Barka
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATMAHADAH
-    shapeID: 60546857B59706258136690
     country_name: Oman
-  Oman_Adm2_13:
+    admin_level: Adm2
+  OMN.3.5_1_Adm2:
+    GID: OMN.3.5_1
+    admin_name: Nakhal
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALMUSANAAH
-    shapeID: 60546857B17579277351757
     country_name: Oman
-  Oman_Adm2_14:
+    admin_level: Adm2
+  OMN.4_1_Adm1:
+    GID: OMN.4_1
+    admin_name: Al Buraymi
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATADDUQM
-    shapeID: 60546857B36943939297673
     country_name: Oman
-  Oman_Adm2_15:
+    admin_level: Adm1
+  OMN.4.1_1_Adm2:
+    GID: OMN.4.1_1
+    admin_name: Al Buraimi
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALHAMRA
-    shapeID: 60546857B73139695112271
     country_name: Oman
-  Oman_Adm2_16:
+    admin_level: Adm2
+  OMN.4.2_1_Adm2:
+    GID: OMN.4.2_1
+    admin_name: Mahdha
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALMUDAYBI
-    shapeID: 60546857B87143917250519
     country_name: Oman
-  Oman_Adm2_17:
+    admin_level: Adm2
+  OMN.5_1_Adm1:
+    GID: OMN.5_1
+    admin_name: Al Dhahira
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATIBRI
-    shapeID: 60546857B34233439170156
     country_name: Oman
-  Oman_Adm2_18:
+    admin_level: Adm1
+  OMN.5.1_1_Adm2:
+    GID: OMN.5.1_1
+    admin_name: Dhank
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALAWABI
-    shapeID: 60546857B2782067735129
     country_name: Oman
-  Oman_Adm2_19:
+    admin_level: Adm2
+  OMN.5.2_1_Adm2:
+    GID: OMN.5.2_1
+    admin_name: Ibri
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATMUTRAH
-    shapeID: 60546857B18364853545627
     country_name: Oman
-  Oman_Adm2_2:
+    admin_level: Adm2
+  OMN.5.3_1_Adm2:
+    GID: OMN.5.3_1
+    admin_name: Yanqul
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATARRUSTAQ
-    shapeID: 60546857B50014994656494
     country_name: Oman
-  Oman_Adm2_20:
+    admin_level: Adm2
+  OMN.6_1_Adm1:
+    GID: OMN.6_1
+    admin_name: Al Wusta
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATDANK
-    shapeID: 60546857B84094299058983
     country_name: Oman
-  Oman_Adm2_21:
+    admin_level: Adm1
+  OMN.6.1_1_Adm2:
+    GID: OMN.6.1_1
+    admin_name: Al Wusta
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATIZKI
-    shapeID: 60546857B46698437581039
     country_name: Oman
-  Oman_Adm2_22:
+    admin_level: Adm2
+  OMN.7_1_Adm1:
+    GID: OMN.7_1
+    admin_name: Ash Sharqiyah North
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATASSUNAYNAH
-    shapeID: 60546857B16983289385090
     country_name: Oman
-  Oman_Adm2_23:
+    admin_level: Adm1
+  OMN.7.1_1_Adm2:
+    GID: OMN.7.1_1
+    admin_name: Al Mudhaibi
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATTHUMRAYT
-    shapeID: 60546857B87402716986766
     country_name: Oman
-  Oman_Adm2_24:
+    admin_level: Adm2
+  OMN.7.2_1_Adm2:
+    GID: OMN.7.2_1
+    admin_name: Al Qabil
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALMAZYUNAH
-    shapeID: 60546857B26916674167412
     country_name: Oman
-  Oman_Adm2_25:
+    admin_level: Adm2
+  OMN.7.3_1_Adm2:
+    GID: OMN.7.3_1
+    admin_name: Al Wafi
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATMUQSHIN
-    shapeID: 60546857B7912105314694
     country_name: Oman
-  Oman_Adm2_26:
+    admin_level: Adm2
+  OMN.7.4_1_Adm2:
+    GID: OMN.7.4_1
+    admin_name: Biddiya
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATLIWA
-    shapeID: 60546857B5552614362479
     country_name: Oman
-  Oman_Adm2_27:
+    admin_level: Adm2
+  OMN.7.5_1_Adm2:
+    GID: OMN.7.5_1
+    admin_name: Ibra
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATBUKHA
-    shapeID: 60546857B52476188309820
     country_name: Oman
-  Oman_Adm2_28:
+    admin_level: Adm2
+  OMN.8_1_Adm1:
+    GID: OMN.8_1
+    admin_name: Ash Sharqiyah South
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATKHASAB
-    shapeID: 60546857B90082403528621
     country_name: Oman
-  Oman_Adm2_29:
+    admin_level: Adm1
+  OMN.8.1_1_Adm2:
+    GID: OMN.8.1_1
+    admin_name: Jalan Bani
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATJAALANBANIBUHASAN
-    shapeID: 60546857B35688012480020
     country_name: Oman
-  Oman_Adm2_3:
+    admin_level: Adm2
+  OMN.8.2_1_Adm2:
+    GID: OMN.8.2_1
+    admin_name: Masirah
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATASSUWAYQ
-    shapeID: 60546857B47928087258104
     country_name: Oman
-  Oman_Adm2_30:
+    admin_level: Adm2
+  OMN.8.3_1_Adm2:
+    GID: OMN.8.3_1
+    admin_name: Sur
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALAMRAT
-    shapeID: 60546857B13986152751532
     country_name: Oman
-  Oman_Adm2_31:
+    admin_level: Adm2
+  OMN.9_1_Adm1:
+    GID: OMN.9_1
+    admin_name: Dhofar
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALQABIL
-    shapeID: 60546857B42824444489369
     country_name: Oman
-  Oman_Adm2_32:
+    admin_level: Adm1
+  OMN.9.1_1_Adm2:
+    GID: OMN.9.1_1
+    admin_name: Al Halaniyat Islands
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATBARKA
-    shapeID: 60546857B93732040646201
     country_name: Oman
-  Oman_Adm2_33:
+    admin_level: Adm2
+  OMN.9.2_1_Adm2:
+    GID: OMN.9.2_1
+    admin_name: Marbat
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATADAM
-    shapeID: 60546857B56179111341689
     country_name: Oman
-  Oman_Adm2_34:
+    admin_level: Adm2
+  OMN.9.3_1_Adm2:
+    GID: OMN.9.3_1
+    admin_name: Muqshin
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALJAZIR
-    shapeID: 60546857B24131217917538
     country_name: Oman
-  Oman_Adm2_35:
+    admin_level: Adm2
+  OMN.9.4_1_Adm2:
+    GID: OMN.9.4_1
+    admin_name: Salalah
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATSHINAS
-    shapeID: 60546857B82179088079952
     country_name: Oman
-  Oman_Adm2_36:
+    admin_level: Adm2
+  OMN.9.5_1_Adm2:
+    GID: OMN.9.5_1
+    admin_name: Sudh
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATJAALANBANIBUALI
-    shapeID: 60546857B31022249995355
     country_name: Oman
-  Oman_Adm2_37:
+    admin_level: Adm2
+  OMN.9.6_1_Adm2:
+    GID: OMN.9.6_1
+    admin_name: Taqah
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATBIDBID
-    shapeID: 60546857B16550429961208
     country_name: Oman
-  Oman_Adm2_38:
+    admin_level: Adm2
+  OMN.9.7_1_Adm2:
+    GID: OMN.9.7_1
+    admin_name: Thumrait
     iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATSAHAM
-    shapeID: 60546857B14831364234542
     country_name: Oman
-  Oman_Adm2_39:
-    iso3c: OMN
     admin_level: Adm2
-    admin_name: WILAYATDABA
-    shapeID: 60546857B45873565498101
-    country_name: Oman
-  Oman_Adm2_4:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATNAKHAL
-    shapeID: 60546857B24733418662749
-    country_name: Oman
-  Oman_Adm2_40:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATBIDIYAH
-    shapeID: 60546857B25654008959984
-    country_name: Oman
-  Oman_Adm2_41:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATIBRA
-    shapeID: 60546857B4605918394037
-    country_name: Oman
-  Oman_Adm2_42:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATQURAYYAT
-    shapeID: 60546857B68527863677430
-    country_name: Oman
-  Oman_Adm2_43:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATSUR
-    shapeID: 60546857B74818644481383
-    country_name: Oman
-  Oman_Adm2_44:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALKHABURAH
-    shapeID: 60546857B54323254202101
-    country_name: Oman
-  Oman_Adm2_45:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATHAYMA
-    shapeID: 60546857B5781059360367
-    country_name: Oman
-  Oman_Adm2_46:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATMADHA
-    shapeID: 60546857B24810596808917
-    country_name: Oman
-  Oman_Adm2_47:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATSOHAR
-    shapeID: 60546857B66910604272406
-    country_name: Oman
-  Oman_Adm2_48:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATMASIRAH
-    shapeID: 60546857B22663863225489
-    country_name: Oman
-  Oman_Adm2_49:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATNIZWA
-    shapeID: 60546857B8832404475688
-    country_name: Oman
-  Oman_Adm2_5:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATASSEEB
-    shapeID: 60546857B24171750309190
-    country_name: Oman
-  Oman_Adm2_50:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALBURAYMI
-    shapeID: 60546857B94194656645753
-    country_name: Oman
-  Oman_Adm2_51:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATWADIBANIKHALID
-    shapeID: 60546857B38268968219520
-    country_name: Oman
-  Oman_Adm2_52:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATDAMAWAATTAIYIN
-    shapeID: 60546857B21650831857614
-    country_name: Oman
-  Oman_Adm2_53:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATMUSCAT
-    shapeID: 60546857B87435244018445
-    country_name: Oman
-  Oman_Adm2_54:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATMAHAWT
-    shapeID: 60546857B62654935095348
-    country_name: Oman
-  Oman_Adm2_55:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATTAQAH
-    shapeID: 60546857B58137007114713
-    country_name: Oman
-  Oman_Adm2_56:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATSADAH
-    shapeID: 60546857B66409496078336
-    country_name: Oman
-  Oman_Adm2_57:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATSHALIMWAJUZORALHALLANIYAT
-    shapeID: 60546857B92869905989166
-    country_name: Oman
-  Oman_Adm2_58:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATMIRBAT
-    shapeID: 60546857B73903219259632
-    country_name: Oman
-  Oman_Adm2_59:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATSALALAH
-    shapeID: 60546857B45783425582054
-    country_name: Oman
-  Oman_Adm2_6:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATYANQUL
-    shapeID: 60546857B33761199341782
-    country_name: Oman
-  Oman_Adm2_60:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATDALKUT
-    shapeID: 60546857B17404677771999
-    country_name: Oman
-  Oman_Adm2_61:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATRAKHYUT
-    shapeID: 60546857B28838180412396
-    country_name: Oman
-  Oman_Adm2_7:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATWADIALMAAWIL
-    shapeID: 60546857B977854074017
-    country_name: Oman
-  Oman_Adm2_8:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATMANAH
-    shapeID: 60546857B82399786072118
-    country_name: Oman
-  Oman_Adm2_9:
-    iso3c: OMN
-    admin_level: Adm2
-    admin_name: WILAYATALKAMILWAALWAFI
-    shapeID: 60546857B70594930522098
-    country_name: Oman

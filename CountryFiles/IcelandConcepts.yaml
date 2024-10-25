@@ -1,499 +1,769 @@
 concepts:
-  Iceland_Adm0:
-    iso3c: ISL
-    admin_level: Adm0
+  ISL.0_Adm0:
+    GID: ISL
     admin_name: Iceland
-    shapeID: 46540832B14194684913083
-    country_name: Iceland
-  Iceland_Adm1_1:
     iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm0
+  ISL.1_1_Adm1:
+    GID: ISL.1_1
+    admin_name: Austurland
+    iso3c: ISL
+    country_name: Iceland
     admin_level: Adm1
-    admin_name: CapitalRegion
-    shapeID: 53860390B39552912285510
-    country_name: Iceland
-  Iceland_Adm1_2:
+  ISL.1.1_1_Adm2:
+    GID: ISL.1.1_1
+    admin_name: Austur-Hérað
     iso3c: ISL
-    admin_level: Adm1
-    admin_name: EasternRegion
-    shapeID: 53860390B32173012790841
     country_name: Iceland
-  Iceland_Adm1_3:
-    iso3c: ISL
-    admin_level: Adm1
-    admin_name: NortheasternRegion
-    shapeID: 53860390B58519509441334
-    country_name: Iceland
-  Iceland_Adm1_4:
-    iso3c: ISL
-    admin_level: Adm1
-    admin_name: NorthwesternRegion
-    shapeID: 53860390B72464321703569
-    country_name: Iceland
-  Iceland_Adm1_5:
-    iso3c: ISL
-    admin_level: Adm1
-    admin_name: Westfjords
-    shapeID: 53860390B51423153689858
-    country_name: Iceland
-  Iceland_Adm1_6:
-    iso3c: ISL
-    admin_level: Adm1
-    admin_name: WesternRegion
-    shapeID: 53860390B73804128945228
-    country_name: Iceland
-  Iceland_Adm1_7:
-    iso3c: ISL
-    admin_level: Adm1
-    admin_name: SouthernPeninsula
-    shapeID: 53860390B87574894134156
-    country_name: Iceland
-  Iceland_Adm1_8:
-    iso3c: ISL
-    admin_level: Adm1
-    admin_name: SouthernRegion
-    shapeID: 53860390B85658391135359
-    country_name: Iceland
-  Iceland_Adm2_1:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Reykjavíkurborg
-    shapeID: 244011B48219786980381
-    country_name: Iceland
-  Iceland_Adm2_10:
+  ISL.1.10_1_Adm2:
+    GID: ISL.1.10_1
+    admin_name: Mjóafjarðarhreppur
     iso3c: ISL
-    admin_level: Adm2
-    admin_name: Sandgerðisbær
-    shapeID: 244011B94929237668673
     country_name: Iceland
-  Iceland_Adm2_11:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: SveitarfélagiðGarður
-    shapeID: 244011B4203273652382
+  ISL.1.11_1_Adm2:
+    GID: ISL.1.11_1
+    admin_name: Norður-Hérað
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_12:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: SveitarfélagiðVogar
-    shapeID: 244011B53257850023541
+  ISL.1.12_1_Adm2:
+    GID: ISL.1.12_1
+    admin_name: Seyðisfjörður
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_13:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Akraneskaupstaður
-    shapeID: 244011B30892314657027
+  ISL.1.13_1_Adm2:
+    GID: ISL.1.13_1
+    admin_name: Skeggjastaðahreppur
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_14:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Skorradalshreppur
-    shapeID: 244011B18273074009309
+  ISL.1.14_1_Adm2:
+    GID: ISL.1.14_1
+    admin_name: Stöðvarhreppur
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_15:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Hvalfjarðarsveit
-    shapeID: 244011B64770191202242
+  ISL.1.15_1_Adm2:
+    GID: ISL.1.15_1
+    admin_name: Sveitarfélagið Hornafjörður
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_16:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Borgarbyggð
-    shapeID: 244011B50787148750106
-    country_name: Iceland
-  Iceland_Adm2_17:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Grundarfjarðarbær
-    shapeID: 244011B76246482597042
-    country_name: Iceland
-  Iceland_Adm2_18:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Helgafellssveit
-    shapeID: 244011B42475995928988
-    country_name: Iceland
-  Iceland_Adm2_19:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Stykkishólmsbær
-    shapeID: 244011B37463664010444
-    country_name: Iceland
-  Iceland_Adm2_2:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Kópavogsbær
-    shapeID: 244011B4103585132621
-    country_name: Iceland
-  Iceland_Adm2_20:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Eyja-ogMiklaholtshreppur
-    shapeID: 244011B92076156941754
-    country_name: Iceland
-  Iceland_Adm2_21:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Snæfellsbær
-    shapeID: 244011B30460955116065
-    country_name: Iceland
-  Iceland_Adm2_22:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Dalabyggð
-    shapeID: 244011B70126368142347
-    country_name: Iceland
-  Iceland_Adm2_23:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Bolungarvíkurkaupstaður
-    shapeID: 244011B6311767935335
-    country_name: Iceland
-  Iceland_Adm2_24:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Ísafjarðarbær
-    shapeID: 244011B55108803715122
-    country_name: Iceland
-  Iceland_Adm2_25:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Reykhólahreppur
-    shapeID: 244011B19971250001035
-    country_name: Iceland
-  Iceland_Adm2_26:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Tálknafjarðarhreppur
-    shapeID: 244011B74336956547693
-    country_name: Iceland
-  Iceland_Adm2_27:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Vesturbyggð
-    shapeID: 244011B84482513465742
-    country_name: Iceland
-  Iceland_Adm2_28:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Súðavíkurhreppur
-    shapeID: 244011B7322015257461
-    country_name: Iceland
-  Iceland_Adm2_29:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Árneshreppur
-    shapeID: 244011B92022671609099
-    country_name: Iceland
-  Iceland_Adm2_3:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Seltjarnarnesbær
-    shapeID: 244011B41148599816454
-    country_name: Iceland
-  Iceland_Adm2_30:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Kaldrananeshreppur
-    shapeID: 244011B77106600698129
-    country_name: Iceland
-  Iceland_Adm2_31:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Strandabyggð
-    shapeID: 244011B90835463390859
-    country_name: Iceland
-  Iceland_Adm2_32:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: SveitarfélagiðSkagafjörðu
-    shapeID: 244011B28940040244957
-    country_name: Iceland
-  Iceland_Adm2_33:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Húnaþingvestra
-    shapeID: 244011B78038893235430
-    country_name: Iceland
-  Iceland_Adm2_34:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Blönduósbær
-    shapeID: 244011B97005072200428
-    country_name: Iceland
-  Iceland_Adm2_35:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: SveitarfélagiðSkagaströnd
-    shapeID: 244011B17586381133924
-    country_name: Iceland
-  Iceland_Adm2_36:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Skagabyggð
-    shapeID: 244011B21592329160761
-    country_name: Iceland
-  Iceland_Adm2_37:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Húnavatnshreppur
-    shapeID: 244011B27584551294957
-    country_name: Iceland
-  Iceland_Adm2_38:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Akrahreppur
-    shapeID: 244011B74034306834774
-    country_name: Iceland
-  Iceland_Adm2_39:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Akureyrarkaupstaður
-    shapeID: 244011B9807446828123
-    country_name: Iceland
-  Iceland_Adm2_4:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Garðabær
-    shapeID: 244011B25721014671193
-    country_name: Iceland
-  Iceland_Adm2_40:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Norðurþing
-    shapeID: 244011B18729557885943
-    country_name: Iceland
-  Iceland_Adm2_41:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Fjallabyggð
-    shapeID: 244011B2207988314752
-    country_name: Iceland
-  Iceland_Adm2_42:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Dalvíkurbyggð
-    shapeID: 244011B31014041409595
-    country_name: Iceland
-  Iceland_Adm2_43:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Eyjafjarðarsveit
-    shapeID: 244011B64056494481770
-    country_name: Iceland
-  Iceland_Adm2_44:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Hörgársveit
-    shapeID: 244011B22444435927366
-    country_name: Iceland
-  Iceland_Adm2_45:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Svalbarðsstrandarhreppur
-    shapeID: 244011B70204278120324
-    country_name: Iceland
-  Iceland_Adm2_46:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Grýtubakkahreppur
-    shapeID: 244011B60639573794911
-    country_name: Iceland
-  Iceland_Adm2_47:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Skútustaðahreppur
-    shapeID: 244011B58365339597746
-    country_name: Iceland
-  Iceland_Adm2_48:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Tjörneshreppur
-    shapeID: 244011B23966539039805
-    country_name: Iceland
-  Iceland_Adm2_49:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Þingeyjarsveit
-    shapeID: 244011B2873245088627
-    country_name: Iceland
-  Iceland_Adm2_5:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Hafnarfjarðarbær
-    shapeID: 244011B99927833063684
-    country_name: Iceland
-  Iceland_Adm2_50:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Svalbarðshreppur
-    shapeID: 244011B84342259441214
-    country_name: Iceland
-  Iceland_Adm2_51:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Langanesbyggð
-    shapeID: 244011B59191424948734
-    country_name: Iceland
-  Iceland_Adm2_52:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Seyðisfjarðarkaupstaður
-    shapeID: 244011B63317643398592
-    country_name: Iceland
-  Iceland_Adm2_53:
-    iso3c: ISL
-    admin_level: Adm2
-    admin_name: Fjarðabyggð
-    shapeID: 244011B48850905136863
-    country_name: Iceland
-  Iceland_Adm2_54:
-    iso3c: ISL
-    admin_level: Adm2
+  ISL.1.16_1_Adm2:
+    GID: ISL.1.16_1
     admin_name: Vopnafjarðarhreppur
-    shapeID: 244011B85031335132444
-    country_name: Iceland
-  Iceland_Adm2_55:
     iso3c: ISL
-    admin_level: Adm2
-    admin_name: Fljótsdalshreppur
-    shapeID: 244011B28727550371532
     country_name: Iceland
-  Iceland_Adm2_56:
-    iso3c: ISL
     admin_level: Adm2
+  ISL.1.2_1_Adm2:
+    GID: ISL.1.2_1
     admin_name: Borgarfjarðarhreppur
-    shapeID: 244011B88653491645149
-    country_name: Iceland
-  Iceland_Adm2_57:
     iso3c: ISL
+    country_name: Iceland
     admin_level: Adm2
+  ISL.1.3_1_Adm2:
+    GID: ISL.1.3_1
     admin_name: Breiðdalshreppur
-    shapeID: 244011B15837177030035
-    country_name: Iceland
-  Iceland_Adm2_58:
     iso3c: ISL
+    country_name: Iceland
     admin_level: Adm2
+  ISL.1.4_1_Adm2:
+    GID: ISL.1.4_1
+    admin_name: Búðahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.1.5_1_Adm2:
+    GID: ISL.1.5_1
     admin_name: Djúpavogshreppur
-    shapeID: 244011B85487583844878
-    country_name: Iceland
-  Iceland_Adm2_59:
     iso3c: ISL
-    admin_level: Adm2
-    admin_name: Fljótsdalshérað
-    shapeID: 244011B83679589752148
     country_name: Iceland
-  Iceland_Adm2_6:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Mosfellsbær
-    shapeID: 244011B92465939344192
+  ISL.1.6_1_Adm2:
+    GID: ISL.1.6_1
+    admin_name: Fáskrúðsfjarðarhr.
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_60:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: SveitarfélagiðHornafjörðu
-    shapeID: 244011B97448762640394
+  ISL.1.7_1_Adm2:
+    GID: ISL.1.7_1
+    admin_name: Fellahreppur
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_61:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Vestmannaeyjabær
-    shapeID: 244011B92581391550134
+  ISL.1.8_1_Adm2:
+    GID: ISL.1.8_1
+    admin_name: Fjarðabyggð
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_62:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: SveitarfélagiðÁrborg
-    shapeID: 244011B44443724675216
+  ISL.1.9_1_Adm2:
+    GID: ISL.1.9_1
+    admin_name: Fljótsdalshreppur
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_63:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Mýrdalshreppur
-    shapeID: 244011B6689541001554
+  ISL.2_1_Adm1:
+    GID: ISL.2_1
+    admin_name: Norðurland eystra
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_64:
+    admin_level: Adm1
+  ISL.2.1_1_Adm2:
+    GID: ISL.2.1_1
+    admin_name: Aðaldælahreppur
     iso3c: ISL
-    admin_level: Adm2
-    admin_name: Skaftárhreppur
-    shapeID: 244011B24957701647142
     country_name: Iceland
-  Iceland_Adm2_65:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Ásahreppur
-    shapeID: 244011B31453435550318
+  ISL.2.10_1_Adm2:
+    GID: ISL.2.10_1
+    admin_name: Hálshreppur
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_66:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Rangárþingeystra
-    shapeID: 244011B21062297179388
+  ISL.2.11_1_Adm2:
+    GID: ISL.2.11_1
+    admin_name: Hríseyjarhreppur
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_67:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Rangárþingytra
-    shapeID: 244011B57462919825437
+  ISL.2.12_1_Adm2:
+    GID: ISL.2.12_1
+    admin_name: Húsavík
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_68:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Hrunamannahreppur
-    shapeID: 244011B85072287894251
+  ISL.2.13_1_Adm2:
+    GID: ISL.2.13_1
+    admin_name: Kelduneshreppur
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_69:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Hveragerðisbær
-    shapeID: 244011B51739533992730
+  ISL.2.14_1_Adm2:
+    GID: ISL.2.14_1
+    admin_name: Ljósavatnshreppur
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_7:
-    iso3c: ISL
     admin_level: Adm2
+  ISL.2.15_1_Adm2:
+    GID: ISL.2.15_1
+    admin_name: Ólafsfjörður
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.16_1_Adm2:
+    GID: ISL.2.16_1
+    admin_name: Öxarfjarðarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.17_1_Adm2:
+    GID: ISL.2.17_1
+    admin_name: Öxnadalshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.18_1_Adm2:
+    GID: ISL.2.18_1
+    admin_name: Reykdælahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.19_1_Adm2:
+    GID: ISL.2.19_1
+    admin_name: Reykjahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.2_1_Adm2:
+    GID: ISL.2.2_1
+    admin_name: Akureyri
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.20_1_Adm2:
+    GID: ISL.2.20_1
+    admin_name: Siglufjörður
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.21_1_Adm2:
+    GID: ISL.2.21_1
+    admin_name: Skriðuhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.22_1_Adm2:
+    GID: ISL.2.22_1
+    admin_name: Skútustaðahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.23_1_Adm2:
+    GID: ISL.2.23_1
+    admin_name: Svalbarðshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.24_1_Adm2:
+    GID: ISL.2.24_1
+    admin_name: Þórshafnarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.25_1_Adm2:
+    GID: ISL.2.25_1
+    admin_name: Tjörneshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.3_1_Adm2:
+    GID: ISL.2.3_1
+    admin_name: Arnarneshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.4_1_Adm2:
+    GID: ISL.2.4_1
+    admin_name: Bárðdælahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.5_1_Adm2:
+    GID: ISL.2.5_1
+    admin_name: Dalvíkurbyggð
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.6_1_Adm2:
+    GID: ISL.2.6_1
+    admin_name: Eyjafjarðarsveit
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.7_1_Adm2:
+    GID: ISL.2.7_1
+    admin_name: Glæsibæjarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.8_1_Adm2:
+    GID: ISL.2.8_1
+    admin_name: Grímseyjarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.2.9_1_Adm2:
+    GID: ISL.2.9_1
+    admin_name: Grýtubakkahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.3_1_Adm1:
+    GID: ISL.3_1
+    admin_name: Höfuðborgarsvæði
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm1
+  ISL.3.1_1_Adm2:
+    GID: ISL.3.1_1
+    admin_name: Bessastaðahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.3.2_1_Adm2:
+    GID: ISL.3.2_1
+    admin_name: Garðabær
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.3.3_1_Adm2:
+    GID: ISL.3.3_1
+    admin_name: Hafnarfjörður
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.3.4_1_Adm2:
+    GID: ISL.3.4_1
     admin_name: Kjósarhreppur
-    shapeID: 244011B42175048354153
-    country_name: Iceland
-  Iceland_Adm2_70:
     iso3c: ISL
-    admin_level: Adm2
-    admin_name: SveitarfélagiðÖlfus
-    shapeID: 244011B93058264602287
     country_name: Iceland
-  Iceland_Adm2_71:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Grímsnes-ogGrafningshreppur
-    shapeID: 244011B74100778143587
+  ISL.3.5_1_Adm2:
+    GID: ISL.3.5_1
+    admin_name: Kópavogur
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_72:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Skeiða-ogGnúpverjahreppur
-    shapeID: 244011B10209439874100
+  ISL.3.6_1_Adm2:
+    GID: ISL.3.6_1
+    admin_name: Mosfellsbær
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_73:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Bláskógabyggð
-    shapeID: 244011B85102906551816
+  ISL.3.7_1_Adm2:
+    GID: ISL.3.7_1
+    admin_name: Reykjavík
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_74:
-    iso3c: ISL
     admin_level: Adm2
-    admin_name: Flóahreppur
-    shapeID: 244011B29431294757890
+  ISL.4_1_Adm1:
+    GID: ISL.4_1
+    admin_name: Norðurland vestra
+    iso3c: ISL
     country_name: Iceland
-  Iceland_Adm2_8:
+    admin_level: Adm1
+  ISL.4.1_1_Adm2:
+    GID: ISL.4.1_1
+    admin_name: Akrahreppur
     iso3c: ISL
+    country_name: Iceland
     admin_level: Adm2
+  ISL.4.10_1_Adm2:
+    GID: ISL.4.10_1
+    admin_name: Sveitarfélagið Skagafjörður
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.11_1_Adm2:
+    GID: ISL.4.11_1
+    admin_name: Svínavatnshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.12_1_Adm2:
+    GID: ISL.4.12_1
+    admin_name: Torfalækjarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.13_1_Adm2:
+    GID: ISL.4.13_1
+    admin_name: Vindhælishreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.2_1_Adm2:
+    GID: ISL.4.2_1
+    admin_name: Áshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.3_1_Adm2:
+    GID: ISL.4.3_1
+    admin_name: Blönduós
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.4_1_Adm2:
+    GID: ISL.4.4_1
+    admin_name: Bólstaðarhlíðarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.5_1_Adm2:
+    GID: ISL.4.5_1
+    admin_name: Engihlíðarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.6_1_Adm2:
+    GID: ISL.4.6_1
+    admin_name: Höfðahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.7_1_Adm2:
+    GID: ISL.4.7_1
+    admin_name: Húnaþing vestra
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.8_1_Adm2:
+    GID: ISL.4.8_1
+    admin_name: Skagahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.4.9_1_Adm2:
+    GID: ISL.4.9_1
+    admin_name: Sveinsstaðahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5_1_Adm1:
+    GID: ISL.5_1
+    admin_name: Suðurland
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm1
+  ISL.5.1_1_Adm2:
+    GID: ISL.5.1_1
+    admin_name: Ásahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.10_1_Adm2:
+    GID: ISL.5.10_1
+    admin_name: Holta- og Landasveit
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.11_1_Adm2:
+    GID: ISL.5.11_1
+    admin_name: Hraungerðishreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.12_1_Adm2:
+    GID: ISL.5.12_1
+    admin_name: Hrunamannahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.13_1_Adm2:
+    GID: ISL.5.13_1
+    admin_name: Hveragerði
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.14_1_Adm2:
+    GID: ISL.5.14_1
+    admin_name: Hvolhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.15_1_Adm2:
+    GID: ISL.5.15_1
+    admin_name: Laugardalshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.16_1_Adm2:
+    GID: ISL.5.16_1
+    admin_name: Mýrdalshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.17_1_Adm2:
+    GID: ISL.5.17_1
+    admin_name: Ölfushreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.18_1_Adm2:
+    GID: ISL.5.18_1
+    admin_name: Rangárvallahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.19_1_Adm2:
+    GID: ISL.5.19_1
+    admin_name: Skaftárhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.2_1_Adm2:
+    GID: ISL.5.2_1
+    admin_name: Austur-Eyjafjallahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.20_1_Adm2:
+    GID: ISL.5.20_1
+    admin_name: Skeiðahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.21_1_Adm2:
+    GID: ISL.5.21_1
+    admin_name: Sveitarfélagið Árborg
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.22_1_Adm2:
+    GID: ISL.5.22_1
+    admin_name: Þingvallahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.23_1_Adm2:
+    GID: ISL.5.23_1
+    admin_name: Uten navn - sysla
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.24_1_Adm2:
+    GID: ISL.5.24_1
+    admin_name: Vestmannaeyjar
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.25_1_Adm2:
+    GID: ISL.5.25_1
+    admin_name: Vestur-Eyjafjallahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.26_1_Adm2:
+    GID: ISL.5.26_1
+    admin_name: Vestur-Landeyjahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.27_1_Adm2:
+    GID: ISL.5.27_1
+    admin_name: Villingaholtshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.3_1_Adm2:
+    GID: ISL.5.3_1
+    admin_name: Austur-Landeyjahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.4_1_Adm2:
+    GID: ISL.5.4_1
+    admin_name: Biskupstungnahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.5_1_Adm2:
+    GID: ISL.5.5_1
+    admin_name: Djúpárhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.6_1_Adm2:
+    GID: ISL.5.6_1
+    admin_name: Fljótshlíðarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.7_1_Adm2:
+    GID: ISL.5.7_1
+    admin_name: Gaulverjabæjarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.8_1_Adm2:
+    GID: ISL.5.8_1
+    admin_name: Gnúpverjahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.5.9_1_Adm2:
+    GID: ISL.5.9_1
+    admin_name: Grímsnes- og Grafningshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.6_1_Adm1:
+    GID: ISL.6_1
+    admin_name: Suðurnes
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm1
+  ISL.6.1_1_Adm2:
+    GID: ISL.6.1_1
+    admin_name: Grindavík
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.6.2_1_Adm2:
+    GID: ISL.6.2_1
     admin_name: Reykjanesbær
-    shapeID: 244011B48140939724428
-    country_name: Iceland
-  Iceland_Adm2_9:
     iso3c: ISL
-    admin_level: Adm2
-    admin_name: Grindavíkurbær
-    shapeID: 244011B76002453234506
     country_name: Iceland
+    admin_level: Adm2
+  ISL.6.3_1_Adm2:
+    GID: ISL.6.3_1
+    admin_name: Sandgerði
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.6.4_1_Adm2:
+    GID: ISL.6.4_1
+    admin_name: Vatnsleysustrandarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7_1_Adm1:
+    GID: ISL.7_1
+    admin_name: Vestfirðir
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm1
+  ISL.7.1_1_Adm2:
+    GID: ISL.7.1_1
+    admin_name: Árneshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7.10_1_Adm2:
+    GID: ISL.7.10_1
+    admin_name: Súðavíkurhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7.11_1_Adm2:
+    GID: ISL.7.11_1
+    admin_name: Vesturbyggð
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7.2_1_Adm2:
+    GID: ISL.7.2_1
+    admin_name: Bæjarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7.3_1_Adm2:
+    GID: ISL.7.3_1
+    admin_name: Bolungarvík
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7.4_1_Adm2:
+    GID: ISL.7.4_1
+    admin_name: Broddaneshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7.5_1_Adm2:
+    GID: ISL.7.5_1
+    admin_name: Hólmavíkurhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7.6_1_Adm2:
+    GID: ISL.7.6_1
+    admin_name: Ísafjarðarbær
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7.7_1_Adm2:
+    GID: ISL.7.7_1
+    admin_name: Kaldrananeshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7.8_1_Adm2:
+    GID: ISL.7.8_1
+    admin_name: Kirkjubólshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.7.9_1_Adm2:
+    GID: ISL.7.9_1
+    admin_name: Reykhólahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8_1_Adm1:
+    GID: ISL.8_1
+    admin_name: Vesturland
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm1
+  ISL.8.1_1_Adm2:
+    GID: ISL.8.1_1
+    admin_name: Akranes
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.10_1_Adm2:
+    GID: ISL.8.10_1
+    admin_name: Innri-Akraneshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.11_1_Adm2:
+    GID: ISL.8.11_1
+    admin_name: Kolbeinsstaðahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.12_1_Adm2:
+    GID: ISL.8.12_1
+    admin_name: Leirár- og Melahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.13_1_Adm2:
+    GID: ISL.8.13_1
+    admin_name: Saurbæjarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.14_1_Adm2:
+    GID: ISL.8.14_1
+    admin_name: Skilmannahreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.15_1_Adm2:
+    GID: ISL.8.15_1
+    admin_name: Skorradalshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.16_1_Adm2:
+    GID: ISL.8.16_1
+    admin_name: Snæfellsbær
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.2_1_Adm2:
+    GID: ISL.8.2_1
+    admin_name: Borgarbyggð
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.3_1_Adm2:
+    GID: ISL.8.3_1
+    admin_name: Borgarfjarðarsveit
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.4_1_Adm2:
+    GID: ISL.8.4_1
+    admin_name: Dalabyggð
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.5_1_Adm2:
+    GID: ISL.8.5_1
+    admin_name: Eyja- og Miklaholtshreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.6_1_Adm2:
+    GID: ISL.8.6_1
+    admin_name: Eyrarsveit
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.7_1_Adm2:
+    GID: ISL.8.7_1
+    admin_name: Helgafellssveit
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.8_1_Adm2:
+    GID: ISL.8.8_1
+    admin_name: Hvalfjarðarstrandarhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2
+  ISL.8.9_1_Adm2:
+    GID: ISL.8.9_1
+    admin_name: Hvítársíðuhreppur
+    iso3c: ISL
+    country_name: Iceland
+    admin_level: Adm2

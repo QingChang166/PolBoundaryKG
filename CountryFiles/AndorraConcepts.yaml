@@ -1,49 +1,49 @@
 concepts:
-  Andorra_Adm0:
-    iso3c: AND
-    admin_level: Adm0
+  AND.0_Adm0:
+    GID: AND
     admin_name: Andorra
-    shapeID: 62012451B35860987257782
-    country_name: Andorra
-  Andorra_Adm1_1:
     iso3c: AND
-    admin_level: Adm1
-    admin_name: SantJuliadeLoria
-    shapeID: 23515209B82836637605816
     country_name: Andorra
-  Andorra_Adm1_2:
+    admin_level: Adm0
+  AND.1_1_Adm1:
+    GID: AND.1_1
+    admin_name: Andorra la Vella
     iso3c: AND
+    country_name: Andorra
     admin_level: Adm1
+  AND.2_1_Adm1:
+    GID: AND.2_1
     admin_name: Canillo
-    shapeID: 23515209B25074230340039
-    country_name: Andorra
-  Andorra_Adm1_3:
     iso3c: AND
-    admin_level: Adm1
-    admin_name: Ordino
-    shapeID: 23515209B96881004874456
     country_name: Andorra
-  Andorra_Adm1_4:
-    iso3c: AND
     admin_level: Adm1
-    admin_name: LaMassana
-    shapeID: 23515209B12259378502884
-    country_name: Andorra
-  Andorra_Adm1_5:
-    iso3c: AND
-    admin_level: Adm1
+  AND.3_1_Adm1:
+    GID: AND.3_1
     admin_name: Encamp
-    shapeID: 23515209B87138494217820
-    country_name: Andorra
-  Andorra_Adm1_6:
     iso3c: AND
+    country_name: Andorra
     admin_level: Adm1
+  AND.4_1_Adm1:
+    GID: AND.4_1
     admin_name: Escaldes-Engordany
-    shapeID: 23515209B43580600008856
-    country_name: Andorra
-  Andorra_Adm1_7:
     iso3c: AND
-    admin_level: Adm1
-    admin_name: AndorralaVella
-    shapeID: 23515209B24107209170284
     country_name: Andorra
+    admin_level: Adm1
+  AND.5_1_Adm1:
+    GID: AND.5_1
+    admin_name: La Massana
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm1
+  AND.6_1_Adm1:
+    GID: AND.6_1
+    admin_name: Ordino
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm1
+  AND.7_1_Adm1:
+    GID: AND.7_1
+    admin_name: Sant Julià de Lòria
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm1

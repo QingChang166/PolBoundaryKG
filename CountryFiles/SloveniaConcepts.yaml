@@ -1,1297 +1,1231 @@
 concepts:
-  Slovenia_Adm0:
-    iso3c: SVN
-    admin_level: Adm0
+  SVN.0_Adm0:
+    GID: SVN
     admin_name: Slovenia
-    shapeID: 8885693B84593867139211
-    country_name: Slovenia
-  Slovenia_Adm1_1:
     iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm0
+  SVN.1_1_Adm1:
+    GID: SVN.1_1
+    admin_name: Gorenjska
+    iso3c: SVN
+    country_name: Slovenia
     admin_level: Adm1
-    admin_name: Vzhodna
-    shapeID: 3739544B32704473481330
-    country_name: Slovenia
-  Slovenia_Adm1_2:
-    iso3c: SVN
-    admin_level: Adm1
-    admin_name: ZahodnaSlovenija
-    shapeID: 3739544B2739881953900
-    country_name: Slovenia
-  Slovenia_Adm2_1:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kostel
-    shapeID: 79292919B15126784929236
-    country_name: Slovenia
-  Slovenia_Adm2_10:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Jesenice
-    shapeID: 79292919B50294421210496
-    country_name: Slovenia
-  Slovenia_Adm2_100:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Makole
-    shapeID: 79292919B31923760445562
-    country_name: Slovenia
-  Slovenia_Adm2_101:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Poljcane
-    shapeID: 79292919B1518476407276
-    country_name: Slovenia
-  Slovenia_Adm2_102:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kidricevo
-    shapeID: 79292919B82292059354584
-    country_name: Slovenia
-  Slovenia_Adm2_103:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Majrperk
-    shapeID: 79292919B6737679693048
-    country_name: Slovenia
-  Slovenia_Adm2_104:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Hoce-Slivnica
-    shapeID: 79292919B62809038547129
-    country_name: Slovenia
-  Slovenia_Adm2_105:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: MiklavlnaDravskempolju
-    shapeID: 79292919B29250597194434
-    country_name: Slovenia
-  Slovenia_Adm2_106:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Race-Fram
-    shapeID: 79292919B95805211273390
-    country_name: Slovenia
-  Slovenia_Adm2_107:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Star-e
-    shapeID: 79292919B30339441017456
-    country_name: Slovenia
-  Slovenia_Adm2_108:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kungota
-    shapeID: 79292919B47573582422825
-    country_name: Slovenia
-  Slovenia_Adm2_109:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Maribor
-    shapeID: 79292919B61607630754818
-    country_name: Slovenia
-  Slovenia_Adm2_11:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Trsic
-    shapeID: 79292919B98583397902155
-    country_name: Slovenia
-  Slovenia_Adm2_110:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Pesnica
-    shapeID: 79292919B25439005462900
-    country_name: Slovenia
-  Slovenia_Adm2_111:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Pentilj
-    shapeID: 79292919B27121964158679
-    country_name: Slovenia
-  Slovenia_Adm2_112:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Apace
-    shapeID: 79292919B46189624718599
-    country_name: Slovenia
-  Slovenia_Adm2_113:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: GornjaRadgona
-    shapeID: 79292919B29759137025368
-    country_name: Slovenia
-  Slovenia_Adm2_114:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Radenci
-    shapeID: 79292919B74573247682050
-    country_name: Slovenia
-  Slovenia_Adm2_115:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: SvetaAna
-    shapeID: 79292919B18366682814627
-    country_name: Slovenia
-  Slovenia_Adm2_116:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Benedikt
-    shapeID: 79292919B96269459024512
-    country_name: Slovenia
-  Slovenia_Adm2_117:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: SvetaTrojicavSlovenskihgoricah
-    shapeID: 79292919B38330608029659
-    country_name: Slovenia
-  Slovenia_Adm2_118:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: SvetiAndracvSlov.goricah
-    shapeID: 79292919B66240323896523
-    country_name: Slovenia
-  Slovenia_Adm2_119:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: SvetiJurijvSlovenskihgoricah
-    shapeID: 79292919B91963682425983
-    country_name: Slovenia
-  Slovenia_Adm2_12:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Tirovnica
-    shapeID: 79292919B50582380192051
-    country_name: Slovenia
-  Slovenia_Adm2_120:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Destrnik
-    shapeID: 79292919B27112957090178
-    country_name: Slovenia
-  Slovenia_Adm2_121:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Duplek
-    shapeID: 79292919B89085314588627
-    country_name: Slovenia
-  Slovenia_Adm2_122:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ptuj
-    shapeID: 79292919B95412845510805
-    country_name: Slovenia
-  Slovenia_Adm2_123:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Trnovskavas
-    shapeID: 79292919B80735723206226
-    country_name: Slovenia
-  Slovenia_Adm2_124:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Hajdina
-    shapeID: 79292919B6126226517198
-    country_name: Slovenia
-  Slovenia_Adm2_125:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Dornava
-    shapeID: 79292919B43625814849300
-    country_name: Slovenia
-  Slovenia_Adm2_126:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Markovci
-    shapeID: 79292919B85036935477096
-    country_name: Slovenia
-  Slovenia_Adm2_127:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Jurkinci
-    shapeID: 79292919B52859595102923
-    country_name: Slovenia
-  Slovenia_Adm2_128:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: SvetiTomaa
-    shapeID: 79292919B19982075256158
-    country_name: Slovenia
-  Slovenia_Adm2_129:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Cerkvenjak
-    shapeID: 79292919B25089618833820
-    country_name: Slovenia
-  Slovenia_Adm2_13:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Jezersko
-    shapeID: 79292919B51302363560812
-    country_name: Slovenia
-  Slovenia_Adm2_130:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: SvetiJurijoblcavnici
-    shapeID: 79292919B47659572418488
-    country_name: Slovenia
-  Slovenia_Adm2_131:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kritevci
-    shapeID: 79292919B69562863296028
-    country_name: Slovenia
-  Slovenia_Adm2_132:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Vertej
-    shapeID: 79292919B80018774368860
-    country_name: Slovenia
-  Slovenia_Adm2_133:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Beltinci
-    shapeID: 79292919B54651104128160
-    country_name: Slovenia
-  Slovenia_Adm2_134:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: MurskaSobota
-    shapeID: 79292919B17659580021101
-    country_name: Slovenia
-  Slovenia_Adm2_135:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Odranci
-    shapeID: 79292919B890236178832
-    country_name: Slovenia
-  Slovenia_Adm2_136:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Turnicce
-    shapeID: 79292919B71143168599957
-    country_name: Slovenia
-  Slovenia_Adm2_137:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: VelikaPolana
-    shapeID: 79292919B87511061137611
-    country_name: Slovenia
-  Slovenia_Adm2_138:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Grad
-    shapeID: 79292919B38479380925431
-    country_name: Slovenia
-  Slovenia_Adm2_139:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Puconci
-    shapeID: 79292919B86509647993181
-    country_name: Slovenia
-  Slovenia_Adm2_14:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Mezica
-    shapeID: 79292919B76203956341011
-    country_name: Slovenia
-  Slovenia_Adm2_140:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Cankova
-    shapeID: 79292919B31340723383997
-    country_name: Slovenia
-  Slovenia_Adm2_141:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Rogaoovci
-    shapeID: 79292919B63771260852336
-    country_name: Slovenia
-  Slovenia_Adm2_142:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Tigina
-    shapeID: 79292919B41960414721213
-    country_name: Slovenia
-  Slovenia_Adm2_143:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: GornjiPetrovci
-    shapeID: 79292919B5223992638024
-    country_name: Slovenia
-  Slovenia_Adm2_144:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Hodoj
-    shapeID: 79292919B24353346281842
-    country_name: Slovenia
-  Slovenia_Adm2_145:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kuzma
-    shapeID: 79292919B89977086536438
-    country_name: Slovenia
-  Slovenia_Adm2_146:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kalovci
-    shapeID: 79292919B22803518802899
-    country_name: Slovenia
-  Slovenia_Adm2_147:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Dobrovnik
-    shapeID: 79292919B64205952222397
-    country_name: Slovenia
-  Slovenia_Adm2_148:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kobilje
-    shapeID: 79292919B14584049249052
-    country_name: Slovenia
-  Slovenia_Adm2_149:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: MoravskeToplice
-    shapeID: 79292919B37674223328581
-    country_name: Slovenia
-  Slovenia_Adm2_15:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Solcava
-    shapeID: 79292919B74902862048768
-    country_name: Slovenia
-  Slovenia_Adm2_150:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Lendava
-    shapeID: 79292919B76410940113807
-    country_name: Slovenia
-  Slovenia_Adm2_151:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Lentjur
-    shapeID: 79292919B4491351811803
-    country_name: Slovenia
-  Slovenia_Adm2_152:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: LmarjepriJelcah
-    shapeID: 79292919B72498543032792
-    country_name: Slovenia
-  Slovenia_Adm2_153:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Dobje
-    shapeID: 79292919B29407068633781
-    country_name: Slovenia
-  Slovenia_Adm2_154:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Labko
-    shapeID: 79292919B51659604970826
-    country_name: Slovenia
-  Slovenia_Adm2_155:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ltore
-    shapeID: 79292919B4658103719865
-    country_name: Slovenia
-  Slovenia_Adm2_156:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kozje
-    shapeID: 79292919B66551424540050
-    country_name: Slovenia
-  Slovenia_Adm2_157:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Mokronog-Trebelno
-    shapeID: 79292919B5263161053697
-    country_name: Slovenia
-  Slovenia_Adm2_158:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Sevnica
-    shapeID: 79292919B84985106263092
-    country_name: Slovenia
-  Slovenia_Adm2_159:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Sentrupert
-    shapeID: 79292919B19893257567915
-    country_name: Slovenia
-  Slovenia_Adm2_16:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: CrnanaKoroakem
-    shapeID: 79292919B74602913806737
-    country_name: Slovenia
-  Slovenia_Adm2_160:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: SmarjepkeToplice
-    shapeID: 79292919B85077344195583
-    country_name: Slovenia
-  Slovenia_Adm2_161:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Hrastnik
-    shapeID: 79292919B70401622485565
-    country_name: Slovenia
-  Slovenia_Adm2_162:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Trbovlje
-    shapeID: 79292919B42169805406116
-    country_name: Slovenia
-  Slovenia_Adm2_163:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: ZagorjeobSavi
-    shapeID: 79292919B28674460961917
-    country_name: Slovenia
-  Slovenia_Adm2_164:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Litija
-    shapeID: 79292919B58499217619100
-    country_name: Slovenia
-  Slovenia_Adm2_165:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Radece
-    shapeID: 79292919B65954548052510
-    country_name: Slovenia
-  Slovenia_Adm2_166:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: RmartnopriLitiji
-    shapeID: 79292919B41680562738857
-    country_name: Slovenia
-  Slovenia_Adm2_167:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: MirnaPec
-    shapeID: 79292919B25119004251705
-    country_name: Slovenia
-  Slovenia_Adm2_168:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Mirna
-    shapeID: 79292919B34913721930318
-    country_name: Slovenia
-  Slovenia_Adm2_169:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Trebnje
-    shapeID: 79292919B79858494954122
-    country_name: Slovenia
-  Slovenia_Adm2_17:
-    iso3c: SVN
-    admin_level: Adm2
+  SVN.1.1_1_Adm2:
+    GID: SVN.1.1_1
     admin_name: Bled
-    shapeID: 79292919B79215650955530
-    country_name: Slovenia
-  Slovenia_Adm2_170:
     iso3c: SVN
-    admin_level: Adm2
-    admin_name: DolenjskeToplice
-    shapeID: 79292919B44452756623355
     country_name: Slovenia
-  Slovenia_Adm2_171:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Semic
-    shapeID: 79292919B67121642820296
-    country_name: Slovenia
-  Slovenia_Adm2_172:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Straca
-    shapeID: 79292919B43187654305214
-    country_name: Slovenia
-  Slovenia_Adm2_173:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Suremberk
-    shapeID: 79292919B99171533039052
-    country_name: Slovenia
-  Slovenia_Adm2_174:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Siri
-    shapeID: 79292919B550141556557
-    country_name: Slovenia
-  Slovenia_Adm2_175:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Dobrepolje
-    shapeID: 79292919B52043613597600
-    country_name: Slovenia
-  Slovenia_Adm2_176:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Grosuplje
-    shapeID: 79292919B57556680540527
-    country_name: Slovenia
-  Slovenia_Adm2_177:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ig
-    shapeID: 79292919B97520000235765
-    country_name: Slovenia
-  Slovenia_Adm2_178:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ikofljica
-    shapeID: 79292919B40236159589403
-    country_name: Slovenia
-  Slovenia_Adm2_179:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ribnica
-    shapeID: 79292919B95244060489547
-    country_name: Slovenia
-  Slovenia_Adm2_18:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Gorje
-    shapeID: 79292919B50482201813392
-    country_name: Slovenia
-  Slovenia_Adm2_180:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Sodracica
-    shapeID: 79292919B88661184998894
-    country_name: Slovenia
-  Slovenia_Adm2_181:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: VelikeLa
-    shapeID: 79292919B24232853487661
-    country_name: Slovenia
-  Slovenia_Adm2_182:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Bloke
-    shapeID: 79292919B19554174708410
-    country_name: Slovenia
-  Slovenia_Adm2_183:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Borovnica
-    shapeID: 79292919B34194033071409
-    country_name: Slovenia
-  Slovenia_Adm2_184:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Cerknica
-    shapeID: 79292919B16697278472922
-    country_name: Slovenia
-  Slovenia_Adm2_185:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Lenart
-    shapeID: 79292919B4868877307069
-    country_name: Slovenia
-  Slovenia_Adm2_186:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: IvancnaGorica
-    shapeID: 79292919B27778695189905
-    country_name: Slovenia
-  Slovenia_Adm2_187:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: BistricaobSotli
-    shapeID: 79292919B56965840682388
-    country_name: Slovenia
-  Slovenia_Adm2_188:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Bretice
-    shapeID: 79292919B98620751360041
-    country_name: Slovenia
-  Slovenia_Adm2_189:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Cirkulane
-    shapeID: 79292919B88940641264659
-    country_name: Slovenia
-  Slovenia_Adm2_19:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Radovljica
-    shapeID: 79292919B86785101309204
-    country_name: Slovenia
-  Slovenia_Adm2_190:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Goriunica
-    shapeID: 79292919B53548294602396
-    country_name: Slovenia
-  Slovenia_Adm2_191:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: KostanjevicanaKrki
-    shapeID: 79292919B51761670212143
-    country_name: Slovenia
-  Slovenia_Adm2_192:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kocevje
-    shapeID: 79292919B498052112362
-    country_name: Slovenia
-  Slovenia_Adm2_193:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Krcko
-    shapeID: 79292919B24234918778023
-    country_name: Slovenia
-  Slovenia_Adm2_194:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ljutomer
-    shapeID: 79292919B33877949100449
-    country_name: Slovenia
-  Slovenia_Adm2_195:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Metlika
-    shapeID: 79292919B62022101989929
-    country_name: Slovenia
-  Slovenia_Adm2_196:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Novomesto
-    shapeID: 79292919B80716725852317
-    country_name: Slovenia
-  Slovenia_Adm2_197:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ormo
-    shapeID: 79292919B61887521642572
-    country_name: Slovenia
-  Slovenia_Adm2_198:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Osilnica
-    shapeID: 79292919B9065795682566
-    country_name: Slovenia
-  Slovenia_Adm2_199:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Podlehnik
-    shapeID: 79292919B38199087253638
-    country_name: Slovenia
-  Slovenia_Adm2_2:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: LoskiPotok
-    shapeID: 79292919B39693147843964
-    country_name: Slovenia
-  Slovenia_Adm2_20:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: CerkljenaGorenjskem
-    shapeID: 79292919B37768336296363
-    country_name: Slovenia
-  Slovenia_Adm2_200:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Podcetrtek
-    shapeID: 79292919B60071296224047
-    country_name: Slovenia
-  Slovenia_Adm2_201:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Razkrirje
-    shapeID: 79292919B64708895890629
-    country_name: Slovenia
-  Slovenia_Adm2_202:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Rogatec
-    shapeID: 79292919B94212371594312
-    country_name: Slovenia
-  Slovenia_Adm2_203:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: RogatkaSlatina
-    shapeID: 79292919B37217694614402
-    country_name: Slovenia
-  Slovenia_Adm2_204:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: SredikceobDravi
-    shapeID: 79292919B72046348709828
-    country_name: Slovenia
-  Slovenia_Adm2_205:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Videm
-    shapeID: 79292919B8177360660202
-    country_name: Slovenia
-  Slovenia_Adm2_206:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Zavrc
-    shapeID: 79292919B98073049457255
-    country_name: Slovenia
-  Slovenia_Adm2_207:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Crencovci
-    shapeID: 79292919B39454020264245
-    country_name: Slovenia
-  Slovenia_Adm2_208:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Crnomelj
-    shapeID: 79292919B21032222166117
-    country_name: Slovenia
-  Slovenia_Adm2_209:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Centjernej
-    shapeID: 79292919B34418813957407
-    country_name: Slovenia
-  Slovenia_Adm2_21:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kamnik
-    shapeID: 79292919B28618537144130
-    country_name: Slovenia
-  Slovenia_Adm2_210:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ckocjan
-    shapeID: 79292919B14844764164504
-    country_name: Slovenia
-  Slovenia_Adm2_211:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Cetale
-    shapeID: 79292919B76966153673191
-    country_name: Slovenia
-  Slovenia_Adm2_212:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ankaran/Ancarano
-    shapeID: 79292919B51493819354721
-    country_name: Slovenia
-  Slovenia_Adm2_213:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Maribor
-    shapeID: 79292919B38849654156102
-    country_name: Slovenia
-  Slovenia_Adm2_22:
-    iso3c: SVN
-    admin_level: Adm2
+  SVN.1.10_1_Adm2:
+    GID: SVN.1.10_1
     admin_name: Preddvor
-    shapeID: 79292919B44403242047841
-    country_name: Slovenia
-  Slovenia_Adm2_23:
     iso3c: SVN
-    admin_level: Adm2
-    admin_name: Kranj
-    shapeID: 79292919B33367980136781
     country_name: Slovenia
-  Slovenia_Adm2_24:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Naklo
-    shapeID: 79292919B68997182169017
+  SVN.1.11_1_Adm2:
+    GID: SVN.1.11_1
+    admin_name: Radovljica
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_25:
-    iso3c: SVN
     admin_level: Adm2
+  SVN.1.12_1_Adm2:
+    GID: SVN.1.12_1
+    admin_name: Šenčur
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.1.13_1_Adm2:
+    GID: SVN.1.13_1
+    admin_name: Škofja Loka
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.1.14_1_Adm2:
+    GID: SVN.1.14_1
+    admin_name: Tržič
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.1.15_1_Adm2:
+    GID: SVN.1.15_1
+    admin_name: Železniki
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.1.16_1_Adm2:
+    GID: SVN.1.16_1
+    admin_name: Žiri
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.1.17_1_Adm2:
+    GID: SVN.1.17_1
+    admin_name: Žirovnica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.1.2_1_Adm2:
+    GID: SVN.1.2_1
     admin_name: Bohinj
-    shapeID: 79292919B51410917011519
-    country_name: Slovenia
-  Slovenia_Adm2_26:
     iso3c: SVN
-    admin_level: Adm2
-    admin_name: Bovec
-    shapeID: 79292919B35788097524008
     country_name: Slovenia
-  Slovenia_Adm2_27:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Kobarid
-    shapeID: 79292919B55663791680632
+  SVN.1.3_1_Adm2:
+    GID: SVN.1.3_1
+    admin_name: Cerklje na Gorenjskem
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_28:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Tolmin
-    shapeID: 79292919B81848351263414
+  SVN.1.4_1_Adm2:
+    GID: SVN.1.4_1
+    admin_name: Gorenja Vas-Poljane
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_29:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Brda
-    shapeID: 79292919B39846175999715
+  SVN.1.5_1_Adm2:
+    GID: SVN.1.5_1
+    admin_name: Jesenice
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_3:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: LoskaDolina
-    shapeID: 79292919B86153234432481
+  SVN.1.6_1_Adm2:
+    GID: SVN.1.6_1
+    admin_name: Jezersko
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_30:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Kanal
-    shapeID: 79292919B20125823421856
+  SVN.1.7_1_Adm2:
+    GID: SVN.1.7_1
+    admin_name: Kranj
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_31:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: NovaGorica
-    shapeID: 79292919B29555628324738
+  SVN.1.8_1_Adm2:
+    GID: SVN.1.8_1
+    admin_name: Kranjska Gora
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_32:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Nempeter-Vrtojba
-    shapeID: 79292919B90781452828589
+  SVN.1.9_1_Adm2:
+    GID: SVN.1.9_1
+    admin_name: Naklo
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_33:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Ajdovtcina
-    shapeID: 79292919B27119869854741
+  SVN.10_1_Adm1:
+    GID: SVN.10_1
+    admin_name: Savinjska
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_34:
+    admin_level: Adm1
+  SVN.10.1_1_Adm2:
+    GID: SVN.10.1_1
+    admin_name: Bistrica ob Sotli
     iso3c: SVN
-    admin_level: Adm2
-    admin_name: Komen
-    shapeID: 79292919B6442933378541
     country_name: Slovenia
-  Slovenia_Adm2_35:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Miren-Kostanjevica
-    shapeID: 79292919B57675423448535
-    country_name: Slovenia
-  Slovenia_Adm2_36:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Rence-Vogrsko
-    shapeID: 79292919B48110406263312
-    country_name: Slovenia
-  Slovenia_Adm2_37:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Senana
-    shapeID: 79292919B41699436206095
-    country_name: Slovenia
-  Slovenia_Adm2_38:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Idrija
-    shapeID: 79292919B981383838705
-    country_name: Slovenia
-  Slovenia_Adm2_39:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Vipava
-    shapeID: 79292919B79099230575749
-    country_name: Slovenia
-  Slovenia_Adm2_4:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: IlirskaBistrica
-    shapeID: 79292919B32570371692046
-    country_name: Slovenia
-  Slovenia_Adm2_40:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Cerkno
-    shapeID: 79292919B4785548638944
-    country_name: Slovenia
-  Slovenia_Adm2_41:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Gorenjavas-Poljane
-    shapeID: 79292919B31119784706660
-    country_name: Slovenia
-  Slovenia_Adm2_42:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Gelezniki
-    shapeID: 79292919B31270316639781
-    country_name: Slovenia
-  Slovenia_Adm2_43:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Divaca
-    shapeID: 79292919B76344569856824
-    country_name: Slovenia
-  Slovenia_Adm2_44:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Logatec
-    shapeID: 79292919B12536990489023
-    country_name: Slovenia
-  Slovenia_Adm2_45:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Pivka
-    shapeID: 79292919B70479288725933
-    country_name: Slovenia
-  Slovenia_Adm2_46:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Postojna
-    shapeID: 79292919B30079585867882
-    country_name: Slovenia
-  Slovenia_Adm2_47:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Vrhnika
-    shapeID: 79292919B89384442748590
-    country_name: Slovenia
-  Slovenia_Adm2_48:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Brezovica
-    shapeID: 79292919B29549095110537
-    country_name: Slovenia
-  Slovenia_Adm2_49:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Dobrova-PolhovGradec
-    shapeID: 79292919B39921979367682
-    country_name: Slovenia
-  Slovenia_Adm2_5:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Hrpelje-Kozina
-    shapeID: 79292919B46557097281880
-    country_name: Slovenia
-  Slovenia_Adm2_50:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Horjul
-    shapeID: 79292919B22794042503375
-    country_name: Slovenia
-  Slovenia_Adm2_51:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Log-Dragomer
-    shapeID: 79292919B42859316129943
-    country_name: Slovenia
-  Slovenia_Adm2_52:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Medvode
-    shapeID: 79292919B14916534662578
-    country_name: Slovenia
-  Slovenia_Adm2_53:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: MkofjaLoka
-    shapeID: 79292919B95549890377821
-    country_name: Slovenia
-  Slovenia_Adm2_54:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Komenda
-    shapeID: 79292919B22864266892838
-    country_name: Slovenia
-  Slovenia_Adm2_55:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Vodice
-    shapeID: 79292919B4693678747174
-    country_name: Slovenia
-  Slovenia_Adm2_56:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Vencur
-    shapeID: 79292919B72096121739234
-    country_name: Slovenia
-  Slovenia_Adm2_57:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Domcale
-    shapeID: 79292919B51703506835671
-    country_name: Slovenia
-  Slovenia_Adm2_58:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Mengel
-    shapeID: 79292919B92459471483438
-    country_name: Slovenia
-  Slovenia_Adm2_59:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Trzin
-    shapeID: 79292919B1438463328740
-    country_name: Slovenia
-  Slovenia_Adm2_6:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Koper/Capodistria
-    shapeID: 79292919B12317235172001
-    country_name: Slovenia
-  Slovenia_Adm2_60:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: DolpriLjubljani
-    shapeID: 79292919B10853611876799
-    country_name: Slovenia
-  Slovenia_Adm2_61:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Lukovica
-    shapeID: 79292919B38910398749783
-    country_name: Slovenia
-  Slovenia_Adm2_62:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Moravce
-    shapeID: 79292919B87990706062865
-    country_name: Slovenia
-  Slovenia_Adm2_63:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: GornjiGrad
-    shapeID: 79292919B33365904768092
-    country_name: Slovenia
-  Slovenia_Adm2_64:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ljubno
-    shapeID: 79292919B36044042519423
-    country_name: Slovenia
-  Slovenia_Adm2_65:
-    iso3c: SVN
-    admin_level: Adm2
+  SVN.10.10_1_Adm2:
+    GID: SVN.10.10_1
     admin_name: Luce
-    shapeID: 79292919B92622831349076
-    country_name: Slovenia
-  Slovenia_Adm2_66:
     iso3c: SVN
-    admin_level: Adm2
-    admin_name: RecicaobSavinji
-    shapeID: 79292919B85316657475600
     country_name: Slovenia
-  Slovenia_Adm2_67:
-    iso3c: SVN
     admin_level: Adm2
+  SVN.10.11_1_Adm2:
+    GID: SVN.10.11_1
     admin_name: Mozirje
-    shapeID: 79292919B15177007453598
-    country_name: Slovenia
-  Slovenia_Adm2_68:
     iso3c: SVN
+    country_name: Slovenia
     admin_level: Adm2
+  SVN.10.12_1_Adm2:
+    GID: SVN.10.12_1
     admin_name: Nazarje
-    shapeID: 79292919B61690987212137
-    country_name: Slovenia
-  Slovenia_Adm2_69:
     iso3c: SVN
-    admin_level: Adm2
-    admin_name: Vransko
-    shapeID: 79292919B70410762382799
     country_name: Slovenia
-  Slovenia_Adm2_7:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Piran/Pirano
-    shapeID: 79292919B28514023631155
+  SVN.10.13_1_Adm2:
+    GID: SVN.10.13_1
+    admin_name: Podcetrtek
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_70:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Voatanj
-    shapeID: 79292919B37893156652188
-    country_name: Slovenia
-  Slovenia_Adm2_71:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Braslovce
-    shapeID: 79292919B79233050268291
-    country_name: Slovenia
-  Slovenia_Adm2_72:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Prebold
-    shapeID: 79292919B50575257026326
-    country_name: Slovenia
-  Slovenia_Adm2_73:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Tabor
-    shapeID: 79292919B35960149873382
-    country_name: Slovenia
-  Slovenia_Adm2_74:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Ljubljana
-    shapeID: 79292919B7825480047349
-    country_name: Slovenia
-  Slovenia_Adm2_75:
-    iso3c: SVN
-    admin_level: Adm2
+  SVN.10.14_1_Adm2:
+    GID: SVN.10.14_1
     admin_name: Polzela
-    shapeID: 79292919B14381762889215
-    country_name: Slovenia
-  Slovenia_Adm2_76:
     iso3c: SVN
-    admin_level: Adm2
-    admin_name: SlovenjGradec
-    shapeID: 79292919B57799176308679
     country_name: Slovenia
-  Slovenia_Adm2_77:
-    iso3c: SVN
     admin_level: Adm2
+  SVN.10.15_1_Adm2:
+    GID: SVN.10.15_1
+    admin_name: Prebold
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.16_1_Adm2:
+    GID: SVN.10.16_1
+    admin_name: Radece
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.17_1_Adm2:
+    GID: SVN.10.17_1
+    admin_name: Rogaška Slatina
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.18_1_Adm2:
+    GID: SVN.10.18_1
+    admin_name: Rogatec
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.19_1_Adm2:
+    GID: SVN.10.19_1
+    admin_name: Šentjur pri Celju
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.2_1_Adm2:
+    GID: SVN.10.2_1
+    admin_name: Braslovce
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.20_1_Adm2:
+    GID: SVN.10.20_1
+    admin_name: Slovenske Konjice
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.21_1_Adm2:
+    GID: SVN.10.21_1
+    admin_name: Šmarje pri Jelšah
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.22_1_Adm2:
+    GID: SVN.10.22_1
+    admin_name: Šmartno ob Paki
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.23_1_Adm2:
+    GID: SVN.10.23_1
+    admin_name: Solcava
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.24_1_Adm2:
+    GID: SVN.10.24_1
+    admin_name: Šoštanj
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.25_1_Adm2:
+    GID: SVN.10.25_1
+    admin_name: Štore
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.26_1_Adm2:
+    GID: SVN.10.26_1
+    admin_name: Tabor
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.27_1_Adm2:
+    GID: SVN.10.27_1
     admin_name: Velenje
-    shapeID: 79292919B51584758650333
-    country_name: Slovenia
-  Slovenia_Adm2_78:
     iso3c: SVN
-    admin_level: Adm2
-    admin_name: VmartnoobPaki
-    shapeID: 79292919B36906673582366
     country_name: Slovenia
-  Slovenia_Adm2_79:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Dravograd
-    shapeID: 79292919B39722410494911
-    country_name: Slovenia
-  Slovenia_Adm2_8:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Izola/Isola
-    shapeID: 79292919B72223984432251
-    country_name: Slovenia
-  Slovenia_Adm2_80:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Prevalje
-    shapeID: 79292919B90989975975405
-    country_name: Slovenia
-  Slovenia_Adm2_81:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: RavnenaKorokkem
-    shapeID: 79292919B606741638743
-    country_name: Slovenia
-  Slovenia_Adm2_82:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Muta
-    shapeID: 79292919B49155088853537
-    country_name: Slovenia
-  Slovenia_Adm2_83:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: RadljeobDravi
-    shapeID: 79292919B81992206074944
-    country_name: Slovenia
-  Slovenia_Adm2_84:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Vuzenica
-    shapeID: 79292919B26599147429564
-    country_name: Slovenia
-  Slovenia_Adm2_85:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: LovrencnaPohorju
-    shapeID: 79292919B88707251437710
-    country_name: Slovenia
-  Slovenia_Adm2_86:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Podvelka
-    shapeID: 79292919B46619839935428
-    country_name: Slovenia
-  Slovenia_Adm2_87:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: RibnicanaPohorju
-    shapeID: 79292919B93960610463717
-    country_name: Slovenia
-  Slovenia_Adm2_88:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Rube
-    shapeID: 79292919B54937293403521
-    country_name: Slovenia
-  Slovenia_Adm2_89:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: SelnicaobDravi
-    shapeID: 79292919B81711743958947
-    country_name: Slovenia
-  Slovenia_Adm2_9:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: KranjskaGora
-    shapeID: 79292919B55832145101271
-    country_name: Slovenia
-  Slovenia_Adm2_90:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Celje
-    shapeID: 79292919B12600571869621
-    country_name: Slovenia
-  Slovenia_Adm2_91:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Dobrna
-    shapeID: 79292919B2228407425151
-    country_name: Slovenia
-  Slovenia_Adm2_92:
-    iso3c: SVN
-    admin_level: Adm2
-    admin_name: Mislinja
-    shapeID: 79292919B83309532698125
-    country_name: Slovenia
-  Slovenia_Adm2_93:
-    iso3c: SVN
-    admin_level: Adm2
+  SVN.10.28_1_Adm2:
+    GID: SVN.10.28_1
     admin_name: Vitanje
-    shapeID: 79292919B72941335229348
-    country_name: Slovenia
-  Slovenia_Adm2_94:
     iso3c: SVN
+    country_name: Slovenia
     admin_level: Adm2
+  SVN.10.29_1_Adm2:
+    GID: SVN.10.29_1
     admin_name: Vojnik
-    shapeID: 79292919B58972374929448
-    country_name: Slovenia
-  Slovenia_Adm2_95:
     iso3c: SVN
-    admin_level: Adm2
-    admin_name: Valec
-    shapeID: 79292919B36449465355430
     country_name: Slovenia
-  Slovenia_Adm2_96:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: Oplotnica
-    shapeID: 79292919B88344779245061
+  SVN.10.3_1_Adm2:
+    GID: SVN.10.3_1
+    admin_name: Celje
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_97:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: SlovenskaBistrica
-    shapeID: 79292919B14550971026052
+  SVN.10.30_1_Adm2:
+    GID: SVN.10.30_1
+    admin_name: Vransko
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_98:
-    iso3c: SVN
     admin_level: Adm2
-    admin_name: SlovenskeKonjice
-    shapeID: 79292919B19910440809713
+  SVN.10.31_1_Adm2:
+    GID: SVN.10.31_1
+    admin_name: Žalec
+    iso3c: SVN
     country_name: Slovenia
-  Slovenia_Adm2_99:
-    iso3c: SVN
     admin_level: Adm2
+  SVN.10.32_1_Adm2:
+    GID: SVN.10.32_1
     admin_name: Zrece
-    shapeID: 79292919B50314709463834
+    iso3c: SVN
     country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.4_1_Adm2:
+    GID: SVN.10.4_1
+    admin_name: Dobje
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.5_1_Adm2:
+    GID: SVN.10.5_1
+    admin_name: Dobrna
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.6_1_Adm2:
+    GID: SVN.10.6_1
+    admin_name: Gornji Grad
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.7_1_Adm2:
+    GID: SVN.10.7_1
+    admin_name: Kozje
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.8_1_Adm2:
+    GID: SVN.10.8_1
+    admin_name: Laško
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.10.9_1_Adm2:
+    GID: SVN.10.9_1
+    admin_name: Ljubno
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.11_1_Adm1:
+    GID: SVN.11_1
+    admin_name: Spodnjeposavska
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm1
+  SVN.11.1_1_Adm2:
+    GID: SVN.11.1_1
+    admin_name: Brežice
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.11.2_1_Adm2:
+    GID: SVN.11.2_1
+    admin_name: Krško
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.11.3_1_Adm2:
+    GID: SVN.11.3_1
+    admin_name: Sevnica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.12_1_Adm1:
+    GID: SVN.12_1
+    admin_name: Zasavska
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm1
+  SVN.12.1_1_Adm2:
+    GID: SVN.12.1_1
+    admin_name: Hrastnik
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.12.2_1_Adm2:
+    GID: SVN.12.2_1
+    admin_name: Trbovlje
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.12.3_1_Adm2:
+    GID: SVN.12.3_1
+    admin_name: Zagorje ob Savi
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2_1_Adm1:
+    GID: SVN.2_1
+    admin_name: Goriška
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm1
+  SVN.2.1_1_Adm2:
+    GID: SVN.2.1_1
+    admin_name: Ajdovščina
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.10_1_Adm2:
+    GID: SVN.2.10_1
+    admin_name: Šempeter-Vrtojba
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.11_1_Adm2:
+    GID: SVN.2.11_1
+    admin_name: Tolmin
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.12_1_Adm2:
+    GID: SVN.2.12_1
+    admin_name: Vipava
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.2_1_Adm2:
+    GID: SVN.2.2_1
+    admin_name: Bovec
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.3_1_Adm2:
+    GID: SVN.2.3_1
+    admin_name: Brda
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.4_1_Adm2:
+    GID: SVN.2.4_1
+    admin_name: Cerkno
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.5_1_Adm2:
+    GID: SVN.2.5_1
+    admin_name: Idrija
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.6_1_Adm2:
+    GID: SVN.2.6_1
+    admin_name: Kanal
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.7_1_Adm2:
+    GID: SVN.2.7_1
+    admin_name: Kobarid
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.8_1_Adm2:
+    GID: SVN.2.8_1
+    admin_name: Miren-Kostanjevica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.2.9_1_Adm2:
+    GID: SVN.2.9_1
+    admin_name: Nova Gorica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3_1_Adm1:
+    GID: SVN.3_1
+    admin_name: Jugovzhodna Slovenija
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm1
+  SVN.3.1_1_Adm2:
+    GID: SVN.3.1_1
+    admin_name: Crnomelj
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.10_1_Adm2:
+    GID: SVN.3.10_1
+    admin_name: Ribnica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.11_1_Adm2:
+    GID: SVN.3.11_1
+    admin_name: Semic
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.12_1_Adm2:
+    GID: SVN.3.12_1
+    admin_name: Šentjernej
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.13_1_Adm2:
+    GID: SVN.3.13_1
+    admin_name: Škocjan
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.14_1_Adm2:
+    GID: SVN.3.14_1
+    admin_name: Sodražica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.15_1_Adm2:
+    GID: SVN.3.15_1
+    admin_name: Trebnje
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.16_1_Adm2:
+    GID: SVN.3.16_1
+    admin_name: Žužemberk
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.2_1_Adm2:
+    GID: SVN.3.2_1
+    admin_name: Dolenjske Toplice
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.3_1_Adm2:
+    GID: SVN.3.3_1
+    admin_name: Kocevje
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.4_1_Adm2:
+    GID: SVN.3.4_1
+    admin_name: Kostel
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.5_1_Adm2:
+    GID: SVN.3.5_1
+    admin_name: Loški Potok
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.6_1_Adm2:
+    GID: SVN.3.6_1
+    admin_name: Metlika
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.7_1_Adm2:
+    GID: SVN.3.7_1
+    admin_name: Mirna Pec
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.8_1_Adm2:
+    GID: SVN.3.8_1
+    admin_name: Novo Mesto
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.3.9_1_Adm2:
+    GID: SVN.3.9_1
+    admin_name: Osilnica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4_1_Adm1:
+    GID: SVN.4_1
+    admin_name: Koroška
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm1
+  SVN.4.1_1_Adm2:
+    GID: SVN.4.1_1
+    admin_name: Črna na Koroškem
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.10_1_Adm2:
+    GID: SVN.4.10_1
+    admin_name: Ribnica na Pohorju
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.11_1_Adm2:
+    GID: SVN.4.11_1
+    admin_name: Slovenj Gradec
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.12_1_Adm2:
+    GID: SVN.4.12_1
+    admin_name: Vuzenica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.2_1_Adm2:
+    GID: SVN.4.2_1
+    admin_name: Dravograd
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.3_1_Adm2:
+    GID: SVN.4.3_1
+    admin_name: Mežica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.4_1_Adm2:
+    GID: SVN.4.4_1
+    admin_name: Mislinja
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.5_1_Adm2:
+    GID: SVN.4.5_1
+    admin_name: Muta
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.6_1_Adm2:
+    GID: SVN.4.6_1
+    admin_name: Podvelka
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.7_1_Adm2:
+    GID: SVN.4.7_1
+    admin_name: Prevalje
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.8_1_Adm2:
+    GID: SVN.4.8_1
+    admin_name: Radlje ob Dravi
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.4.9_1_Adm2:
+    GID: SVN.4.9_1
+    admin_name: Ravne na Koroškem
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.5_1_Adm1:
+    GID: SVN.5_1
+    admin_name: Notranjsko-kraška
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm1
+  SVN.5.1_1_Adm2:
+    GID: SVN.5.1_1
+    admin_name: Bloke
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.5.2_1_Adm2:
+    GID: SVN.5.2_1
+    admin_name: Cerknica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.5.3_1_Adm2:
+    GID: SVN.5.3_1
+    admin_name: Ilirska Bistrica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.5.4_1_Adm2:
+    GID: SVN.5.4_1
+    admin_name: Loška Dolina
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.5.5_1_Adm2:
+    GID: SVN.5.5_1
+    admin_name: Pivka
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.5.6_1_Adm2:
+    GID: SVN.5.6_1
+    admin_name: Postojna
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.6_1_Adm1:
+    GID: SVN.6_1
+    admin_name: Obalno-kraška
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm1
+  SVN.6.1_1_Adm2:
+    GID: SVN.6.1_1
+    admin_name: Divaca
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.6.2_1_Adm2:
+    GID: SVN.6.2_1
+    admin_name: Hrpelje-Kozina
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.6.3_1_Adm2:
+    GID: SVN.6.3_1
+    admin_name: Izola
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.6.4_1_Adm2:
+    GID: SVN.6.4_1
+    admin_name: Komen
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.6.5_1_Adm2:
+    GID: SVN.6.5_1
+    admin_name: Koper
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.6.6_1_Adm2:
+    GID: SVN.6.6_1
+    admin_name: Piran
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.6.7_1_Adm2:
+    GID: SVN.6.7_1
+    admin_name: Sežana
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7_1_Adm1:
+    GID: SVN.7_1
+    admin_name: Osrednjeslovenska
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm1
+  SVN.7.1_1_Adm2:
+    GID: SVN.7.1_1
+    admin_name: Borovnica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.10_1_Adm2:
+    GID: SVN.7.10_1
+    admin_name: Ivancna Gorica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.11_1_Adm2:
+    GID: SVN.7.11_1
+    admin_name: Kamnik
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.12_1_Adm2:
+    GID: SVN.7.12_1
+    admin_name: Komenda
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.13_1_Adm2:
+    GID: SVN.7.13_1
+    admin_name: Litija
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.14_1_Adm2:
+    GID: SVN.7.14_1
+    admin_name: Ljubljana
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.15_1_Adm2:
+    GID: SVN.7.15_1
+    admin_name: Logatec
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.16_1_Adm2:
+    GID: SVN.7.16_1
+    admin_name: Lukovica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.17_1_Adm2:
+    GID: SVN.7.17_1
+    admin_name: Medvode
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.18_1_Adm2:
+    GID: SVN.7.18_1
+    admin_name: Mengeš
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.19_1_Adm2:
+    GID: SVN.7.19_1
+    admin_name: Moravce
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.2_1_Adm2:
+    GID: SVN.7.2_1
+    admin_name: Brezovica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.20_1_Adm2:
+    GID: SVN.7.20_1
+    admin_name: Škofljica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.21_1_Adm2:
+    GID: SVN.7.21_1
+    admin_name: Trzin
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.22_1_Adm2:
+    GID: SVN.7.22_1
+    admin_name: Velike Lašče
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.23_1_Adm2:
+    GID: SVN.7.23_1
+    admin_name: Vodice
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.24_1_Adm2:
+    GID: SVN.7.24_1
+    admin_name: Vrhnika
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.3_1_Adm2:
+    GID: SVN.7.3_1
+    admin_name: Dobrepolje
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.4_1_Adm2:
+    GID: SVN.7.4_1
+    admin_name: Dobrova-Polhov Gradec
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.5_1_Adm2:
+    GID: SVN.7.5_1
+    admin_name: Dol pri Ljubljani
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.6_1_Adm2:
+    GID: SVN.7.6_1
+    admin_name: Domžale
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.7_1_Adm2:
+    GID: SVN.7.7_1
+    admin_name: Grosuplje
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.8_1_Adm2:
+    GID: SVN.7.8_1
+    admin_name: Horjul
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.7.9_1_Adm2:
+    GID: SVN.7.9_1
+    admin_name: Ig
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8_1_Adm1:
+    GID: SVN.8_1
+    admin_name: Podravska
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm1
+  SVN.8.1_1_Adm2:
+    GID: SVN.8.1_1
+    admin_name: Benedikt
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.10_1_Adm2:
+    GID: SVN.8.10_1
+    admin_name: Kidricevo
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.11_1_Adm2:
+    GID: SVN.8.11_1
+    admin_name: Kungota
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.12_1_Adm2:
+    GID: SVN.8.12_1
+    admin_name: Lenart
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.13_1_Adm2:
+    GID: SVN.8.13_1
+    admin_name: Lovrenc na Pohorju
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.14_1_Adm2:
+    GID: SVN.8.14_1
+    admin_name: Majšperk
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.15_1_Adm2:
+    GID: SVN.8.15_1
+    admin_name: Maribor
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.16_1_Adm2:
+    GID: SVN.8.16_1
+    admin_name: Markovci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.17_1_Adm2:
+    GID: SVN.8.17_1
+    admin_name: Miklavž na Dravskem Polju
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.18_1_Adm2:
+    GID: SVN.8.18_1
+    admin_name: Oplotnica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.19_1_Adm2:
+    GID: SVN.8.19_1
+    admin_name: Ormož
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.2_1_Adm2:
+    GID: SVN.8.2_1
+    admin_name: Cerkvenjak
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.20_1_Adm2:
+    GID: SVN.8.20_1
+    admin_name: Pesnica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.21_1_Adm2:
+    GID: SVN.8.21_1
+    admin_name: Podlehnik
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.22_1_Adm2:
+    GID: SVN.8.22_1
+    admin_name: Ptuj
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.23_1_Adm2:
+    GID: SVN.8.23_1
+    admin_name: Race-Fram
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.24_1_Adm2:
+    GID: SVN.8.24_1
+    admin_name: Ruše
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.25_1_Adm2:
+    GID: SVN.8.25_1
+    admin_name: Selnica ob Dravi
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.26_1_Adm2:
+    GID: SVN.8.26_1
+    admin_name: Šentilj
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.27_1_Adm2:
+    GID: SVN.8.27_1
+    admin_name: Slovenska Bistrica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.28_1_Adm2:
+    GID: SVN.8.28_1
+    admin_name: Starše
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.29_1_Adm2:
+    GID: SVN.8.29_1
+    admin_name: Sveta Ana
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.3_1_Adm2:
+    GID: SVN.8.3_1
+    admin_name: Destrnik
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.30_1_Adm2:
+    GID: SVN.8.30_1
+    admin_name: Sveti Andraž v Slovenskih Gorica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.31_1_Adm2:
+    GID: SVN.8.31_1
+    admin_name: Trnovska Vas
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.32_1_Adm2:
+    GID: SVN.8.32_1
+    admin_name: Videm
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.33_1_Adm2:
+    GID: SVN.8.33_1
+    admin_name: Zavrc
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.34_1_Adm2:
+    GID: SVN.8.34_1
+    admin_name: Žetale
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.4_1_Adm2:
+    GID: SVN.8.4_1
+    admin_name: Dornava
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.5_1_Adm2:
+    GID: SVN.8.5_1
+    admin_name: Duplek
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.6_1_Adm2:
+    GID: SVN.8.6_1
+    admin_name: Gorišnica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.7_1_Adm2:
+    GID: SVN.8.7_1
+    admin_name: Hajdina
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.8_1_Adm2:
+    GID: SVN.8.8_1
+    admin_name: Hoce-Slivnica
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.8.9_1_Adm2:
+    GID: SVN.8.9_1
+    admin_name: Juršinci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9_1_Adm1:
+    GID: SVN.9_1
+    admin_name: Pomurska
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm1
+  SVN.9.1_1_Adm2:
+    GID: SVN.9.1_1
+    admin_name: Beltinci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.10_1_Adm2:
+    GID: SVN.9.10_1
+    admin_name: Križevci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.11_1_Adm2:
+    GID: SVN.9.11_1
+    admin_name: Kuzma
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.12_1_Adm2:
+    GID: SVN.9.12_1
+    admin_name: Lendava
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.13_1_Adm2:
+    GID: SVN.9.13_1
+    admin_name: Ljutomer
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.14_1_Adm2:
+    GID: SVN.9.14_1
+    admin_name: Moravske Toplice
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.15_1_Adm2:
+    GID: SVN.9.15_1
+    admin_name: Murska Sobota
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.16_1_Adm2:
+    GID: SVN.9.16_1
+    admin_name: Odranci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.17_1_Adm2:
+    GID: SVN.9.17_1
+    admin_name: Puconci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.18_1_Adm2:
+    GID: SVN.9.18_1
+    admin_name: Radenci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.19_1_Adm2:
+    GID: SVN.9.19_1
+    admin_name: Razkrižje
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.2_1_Adm2:
+    GID: SVN.9.2_1
+    admin_name: Cankova
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.20_1_Adm2:
+    GID: SVN.9.20_1
+    admin_name: Rogašovci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.21_1_Adm2:
+    GID: SVN.9.21_1
+    admin_name: Šalovci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.22_1_Adm2:
+    GID: SVN.9.22_1
+    admin_name: Sveti Jurij
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.23_1_Adm2:
+    GID: SVN.9.23_1
+    admin_name: Tišina
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.24_1_Adm2:
+    GID: SVN.9.24_1
+    admin_name: Turnišče
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.25_1_Adm2:
+    GID: SVN.9.25_1
+    admin_name: Velika Polana
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.26_1_Adm2:
+    GID: SVN.9.26_1
+    admin_name: Veržej
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.3_1_Adm2:
+    GID: SVN.9.3_1
+    admin_name: Črenšovci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.4_1_Adm2:
+    GID: SVN.9.4_1
+    admin_name: Dobrovnik
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.5_1_Adm2:
+    GID: SVN.9.5_1
+    admin_name: Gornja Radgona
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.6_1_Adm2:
+    GID: SVN.9.6_1
+    admin_name: Gornji Petrovci
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.7_1_Adm2:
+    GID: SVN.9.7_1
+    admin_name: Grad
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.8_1_Adm2:
+    GID: SVN.9.8_1
+    admin_name: Hodoš
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2
+  SVN.9.9_1_Adm2:
+    GID: SVN.9.9_1
+    admin_name: Kobilje
+    iso3c: SVN
+    country_name: Slovenia
+    admin_level: Adm2

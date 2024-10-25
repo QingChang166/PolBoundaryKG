@@ -1,139 +1,139 @@
 concepts:
-  Greece_Adm0:
-    iso3c: GRC
-    admin_level: Adm0
+  GRC.0_Adm0:
+    GID: GRC
     admin_name: Greece
-    shapeID: 45001669B68221593029632
-    country_name: Greece
-  Greece_Adm1_1:
     iso3c: GRC
-    admin_level: Adm1
-    admin_name: AgionOros
-    shapeID: 93993887B40019078264500
     country_name: Greece
-  Greece_Adm1_2:
+    admin_level: Adm0
+  GRC.1_1_Adm1:
+    GID: GRC.1_1
+    admin_name: Aegean
     iso3c: GRC
-    admin_level: Adm1
-    admin_name: Crete
-    shapeID: 93993887B64949910323779
     country_name: Greece
-  Greece_Adm1_3:
-    iso3c: GRC
     admin_level: Adm1
+  GRC.1.1_1_Adm2:
+    GID: GRC.1.1_1
+    admin_name: North Aegean
+    iso3c: GRC
+    country_name: Greece
+    admin_level: Adm2
+  GRC.1.2_1_Adm2:
+    GID: GRC.1.2_1
+    admin_name: South Aegean
+    iso3c: GRC
+    country_name: Greece
+    admin_level: Adm2
+  GRC.2_1_Adm1:
+    GID: GRC.2_1
+    admin_name: Athos
+    iso3c: GRC
+    country_name: Greece
+    admin_level: Adm1
+  GRC.2.1_1_Adm2:
+    GID: GRC.2.1_1
+    admin_name: Athos
+    iso3c: GRC
+    country_name: Greece
+    admin_level: Adm2
+  GRC.3_1_Adm1:
+    GID: GRC.3_1
     admin_name: Attica
-    shapeID: 93993887B88980272284763
-    country_name: Greece
-  Greece_Adm1_4:
     iso3c: GRC
+    country_name: Greece
     admin_level: Adm1
-    admin_name: Macedonia-Thrace
-    shapeID: 93993887B93147517098288
-    country_name: Greece
-  Greece_Adm1_5:
+  GRC.3.1_1_Adm2:
+    GID: GRC.3.1_1
+    admin_name: Attica
     iso3c: GRC
+    country_name: Greece
+    admin_level: Adm2
+  GRC.4_1_Adm1:
+    GID: GRC.4_1
+    admin_name: Crete
+    iso3c: GRC
+    country_name: Greece
     admin_level: Adm1
-    admin_name: Epirus-WesternMacedonia
-    shapeID: 93993887B75841959134679
-    country_name: Greece
-  Greece_Adm1_6:
+  GRC.4.1_1_Adm2:
+    GID: GRC.4.1_1
+    admin_name: Crete
     iso3c: GRC
+    country_name: Greece
+    admin_level: Adm2
+  GRC.5_1_Adm1:
+    GID: GRC.5_1
+    admin_name: Epirus and Western Macedonia
+    iso3c: GRC
+    country_name: Greece
     admin_level: Adm1
-    admin_name: Peloponisos-W.Greece&Ionian
-    shapeID: 93993887B43116936981453
-    country_name: Greece
-  Greece_Adm1_7:
+  GRC.5.1_1_Adm2:
+    GID: GRC.5.1_1
+    admin_name: Epirus
     iso3c: GRC
+    country_name: Greece
+    admin_level: Adm2
+  GRC.5.2_1_Adm2:
+    GID: GRC.5.2_1
+    admin_name: West Macedonia
+    iso3c: GRC
+    country_name: Greece
+    admin_level: Adm2
+  GRC.6_1_Adm1:
+    GID: GRC.6_1
+    admin_name: Macedonia and Thrace
+    iso3c: GRC
+    country_name: Greece
     admin_level: Adm1
-    admin_name: Egean
-    shapeID: 93993887B85814589700959
-    country_name: Greece
-  Greece_Adm1_8:
+  GRC.6.1_1_Adm2:
+    GID: GRC.6.1_1
+    admin_name: Central Macedonia
     iso3c: GRC
+    country_name: Greece
+    admin_level: Adm2
+  GRC.6.2_1_Adm2:
+    GID: GRC.6.2_1
+    admin_name: East Macedonia and Thrace
+    iso3c: GRC
+    country_name: Greece
+    admin_level: Adm2
+  GRC.7_1_Adm1:
+    GID: GRC.7_1
+    admin_name: Peloponnese, Western Greece and
+    iso3c: GRC
+    country_name: Greece
     admin_level: Adm1
-    admin_name: Thessalia-CentralGreece
-    shapeID: 93993887B20638565859558
-    country_name: Greece
-  Greece_Adm2_1:
+  GRC.7.1_1_Adm2:
+    GID: GRC.7.1_1
+    admin_name: Ionian Islands
     iso3c: GRC
-    admin_level: Adm2
-    admin_name: AnatolikisMakedoniaskaiThr*
-    shapeID: 26713481B84884565940454
     country_name: Greece
-  Greece_Adm2_10:
+    admin_level: Adm2
+  GRC.7.2_1_Adm2:
+    GID: GRC.7.2_1
+    admin_name: Peloponnese
     iso3c: GRC
-    admin_level: Adm2
-    admin_name: Attikis
-    shapeID: 26713481B5850386890635
     country_name: Greece
-  Greece_Adm2_11:
+    admin_level: Adm2
+  GRC.7.3_1_Adm2:
+    GID: GRC.7.3_1
+    admin_name: West Greece
     iso3c: GRC
-    admin_level: Adm2
-    admin_name: VoreioyAigaioy
-    shapeID: 26713481B43979888680650
     country_name: Greece
-  Greece_Adm2_12:
+    admin_level: Adm2
+  GRC.8_1_Adm1:
+    GID: GRC.8_1
+    admin_name: Thessaly and Central Greece
     iso3c: GRC
-    admin_level: Adm2
-    admin_name: NotioyAigaioy
-    shapeID: 26713481B52894455575268
     country_name: Greece
-  Greece_Adm2_13:
+    admin_level: Adm1
+  GRC.8.1_1_Adm2:
+    GID: GRC.8.1_1
+    admin_name: Central Greece
     iso3c: GRC
-    admin_level: Adm2
-    admin_name: Kritis
-    shapeID: 26713481B79456911033966
     country_name: Greece
-  Greece_Adm2_14:
+    admin_level: Adm2
+  GRC.8.2_1_Adm2:
+    GID: GRC.8.2_1
+    admin_name: Thessaly
     iso3c: GRC
-    admin_level: Adm2
-    admin_name: AgionOros
-    shapeID: 26713481B40019078264500
     country_name: Greece
-  Greece_Adm2_2:
-    iso3c: GRC
     admin_level: Adm2
-    admin_name: KentrikisMakedonias
-    shapeID: 26713481B13719921321351
-    country_name: Greece
-  Greece_Adm2_3:
-    iso3c: GRC
-    admin_level: Adm2
-    admin_name: DytikisMakedonias
-    shapeID: 26713481B79624114853188
-    country_name: Greece
-  Greece_Adm2_4:
-    iso3c: GRC
-    admin_level: Adm2
-    admin_name: Ipeiroy
-    shapeID: 26713481B784345685192
-    country_name: Greece
-  Greece_Adm2_5:
-    iso3c: GRC
-    admin_level: Adm2
-    admin_name: Thessalias
-    shapeID: 26713481B23289270995723
-    country_name: Greece
-  Greece_Adm2_6:
-    iso3c: GRC
-    admin_level: Adm2
-    admin_name: StereasElladas
-    shapeID: 26713481B15414951167649
-    country_name: Greece
-  Greece_Adm2_7:
-    iso3c: GRC
-    admin_level: Adm2
-    admin_name: IonionNison
-    shapeID: 26713481B82557054028644
-    country_name: Greece
-  Greece_Adm2_8:
-    iso3c: GRC
-    admin_level: Adm2
-    admin_name: DytikisElladas
-    shapeID: 26713481B45081925310995
-    country_name: Greece
-  Greece_Adm2_9:
-    iso3c: GRC
-    admin_level: Adm2
-    admin_name: Peloponnisoy
-    shapeID: 26713481B43531359458460
-    country_name: Greece

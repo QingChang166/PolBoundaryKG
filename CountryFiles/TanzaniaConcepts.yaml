@@ -1,1207 +1,1309 @@
 concepts:
-  Tanzania_Adm0:
-    iso3c: TZA
-    admin_level: Adm0
+  TZA.0_Adm0:
+    GID: TZA
     admin_name: Tanzania
-    shapeID: 36199320B23719009376906
-    country_name: Tanzania
-  Tanzania_Adm1_1:
     iso3c: TZA
-    admin_level: Adm1
-    admin_name: Kilimanjaro
-    shapeID: 36957248B55328686942733
     country_name: Tanzania
-  Tanzania_Adm1_10:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: DaresSalaam
-    shapeID: 36957248B2633782293100
-    country_name: Tanzania
-  Tanzania_Adm1_11:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Lindi
-    shapeID: 36957248B69769580879919
-    country_name: Tanzania
-  Tanzania_Adm1_12:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Tabora
-    shapeID: 36957248B64143865471040
-    country_name: Tanzania
-  Tanzania_Adm1_13:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Pwani
-    shapeID: 36957248B83801093286412
-    country_name: Tanzania
-  Tanzania_Adm1_14:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Ruvuma
-    shapeID: 36957248B86098654739756
-    country_name: Tanzania
-  Tanzania_Adm1_15:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Morogoro
-    shapeID: 36957248B51202481578817
-    country_name: Tanzania
-  Tanzania_Adm1_16:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Rukwa
-    shapeID: 36957248B68200678446738
-    country_name: Tanzania
-  Tanzania_Adm1_17:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Kigoma
-    shapeID: 36957248B11692782910073
-    country_name: Tanzania
-  Tanzania_Adm1_18:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Tanga
-    shapeID: 36957248B96174950507772
-    country_name: Tanzania
-  Tanzania_Adm1_19:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Dodoma
-    shapeID: 36957248B94171853380228
-    country_name: Tanzania
-  Tanzania_Adm1_2:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Mara
-    shapeID: 36957248B94562559517692
-    country_name: Tanzania
-  Tanzania_Adm1_20:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: ZanzibarSouth&Central
-    shapeID: 36957248B39816127207897
-    country_name: Tanzania
-  Tanzania_Adm1_21:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: NorthPemba
-    shapeID: 36957248B13188202009922
-    country_name: Tanzania
-  Tanzania_Adm1_22:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: ZanzibarNorth
-    shapeID: 36957248B81638677744414
-    country_name: Tanzania
-  Tanzania_Adm1_23:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: ZanzibarUrban/West
-    shapeID: 36957248B66874645654546
-    country_name: Tanzania
-  Tanzania_Adm1_24:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: SouthPemba
-    shapeID: 36957248B25003810903493
-    country_name: Tanzania
-  Tanzania_Adm1_25:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Katavi
-    shapeID: 36957248B34051677343112
-    country_name: Tanzania
-  Tanzania_Adm1_26:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Njombe
-    shapeID: 36957248B16645806994912
-    country_name: Tanzania
-  Tanzania_Adm1_27:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Geita
-    shapeID: 36957248B67527021942185
-    country_name: Tanzania
-  Tanzania_Adm1_28:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Simiyu
-    shapeID: 36957248B66492463379082
-    country_name: Tanzania
-  Tanzania_Adm1_29:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Mwanza
-    shapeID: 36957248B97200142584881
-    country_name: Tanzania
-  Tanzania_Adm1_3:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Manyara
-    shapeID: 36957248B99133684808243
-    country_name: Tanzania
-  Tanzania_Adm1_30:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Shinyanga
-    shapeID: 36957248B79115240070229
-    country_name: Tanzania
-  Tanzania_Adm1_4:
-    iso3c: TZA
-    admin_level: Adm1
+    admin_level: Adm0
+  TZA.1_1_Adm1:
+    GID: TZA.1_1
     admin_name: Arusha
-    shapeID: 36957248B12876867554617
-    country_name: Tanzania
-  Tanzania_Adm1_5:
     iso3c: TZA
+    country_name: Tanzania
     admin_level: Adm1
-    admin_name: Kagera
-    shapeID: 36957248B48065738140082
-    country_name: Tanzania
-  Tanzania_Adm1_6:
+  TZA.1.1_1_Adm2:
+    GID: TZA.1.1_1
+    admin_name: Arusha Urban
     iso3c: TZA
-    admin_level: Adm1
-    admin_name: Mbeya
-    shapeID: 36957248B75876472342648
     country_name: Tanzania
-  Tanzania_Adm1_7:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Singida
-    shapeID: 36957248B4897898165843
-    country_name: Tanzania
-  Tanzania_Adm1_8:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Mtwara
-    shapeID: 36957248B12364491601158
-    country_name: Tanzania
-  Tanzania_Adm1_9:
-    iso3c: TZA
-    admin_level: Adm1
-    admin_name: Iringa
-    shapeID: 36957248B77241623821364
-    country_name: Tanzania
-  Tanzania_Adm2_1:
-    iso3c: TZA
     admin_level: Adm2
+  TZA.1.2_1_Adm2:
+    GID: TZA.1.2_1
     admin_name: Arusha
-    shapeID: 72390352B32479700182608
-    country_name: Tanzania
-  Tanzania_Adm2_10:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Temeke
-    shapeID: 72390352B94835751472469
-    country_name: Tanzania
-  Tanzania_Adm2_100:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Nanyumbu
-    shapeID: 72390352B85678020314776
-    country_name: Tanzania
-  Tanzania_Adm2_101:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Newala
-    shapeID: 72390352B96178710336492
-    country_name: Tanzania
-  Tanzania_Adm2_102:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Tandahimba
-    shapeID: 72390352B76468761426294
-    country_name: Tanzania
-  Tanzania_Adm2_103:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Ilemela
-    shapeID: 72390352B90588253427027
-    country_name: Tanzania
-  Tanzania_Adm2_104:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kwimba
-    shapeID: 72390352B45509194301574
-    country_name: Tanzania
-  Tanzania_Adm2_105:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Magu
-    shapeID: 72390352B80484439449184
-    country_name: Tanzania
-  Tanzania_Adm2_106:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Misungwi
-    shapeID: 72390352B3687042598615
-    country_name: Tanzania
-  Tanzania_Adm2_107:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Nyamagana
-    shapeID: 72390352B17873975087440
-    country_name: Tanzania
-  Tanzania_Adm2_108:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Sengerema
-    shapeID: 72390352B95612948822264
-    country_name: Tanzania
-  Tanzania_Adm2_109:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Ukerewe
-    shapeID: 72390352B65036310172855
-    country_name: Tanzania
-  Tanzania_Adm2_11:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Bahi
-    shapeID: 72390352B69303654086019
-    country_name: Tanzania
-  Tanzania_Adm2_110:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Ludewa
-    shapeID: 72390352B43391507115191
-    country_name: Tanzania
-  Tanzania_Adm2_111:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: MakambakoTownshipAuthority
-    shapeID: 72390352B34261430797900
-    country_name: Tanzania
-  Tanzania_Adm2_112:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Makete
-    shapeID: 72390352B51873582002434
-    country_name: Tanzania
-  Tanzania_Adm2_113:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Njombe
-    shapeID: 72390352B62498272724852
-    country_name: Tanzania
-  Tanzania_Adm2_114:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: NjombeUrban
-    shapeID: 72390352B92677179016540
-    country_name: Tanzania
-  Tanzania_Adm2_115:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Wanging'ombe
-    shapeID: 72390352B33528420406675
-    country_name: Tanzania
-  Tanzania_Adm2_116:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Bagamoyo
-    shapeID: 72390352B29680200356010
-    country_name: Tanzania
-  Tanzania_Adm2_117:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kibaha
-    shapeID: 72390352B76192804660906
-    country_name: Tanzania
-  Tanzania_Adm2_118:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: KibahaUrban
-    shapeID: 72390352B56720706839933
-    country_name: Tanzania
-  Tanzania_Adm2_119:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kisarawe
-    shapeID: 72390352B52983476562666
-    country_name: Tanzania
-  Tanzania_Adm2_12:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Chamwino
-    shapeID: 72390352B28140161055022
-    country_name: Tanzania
-  Tanzania_Adm2_120:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mafia
-    shapeID: 72390352B74532147136856
-    country_name: Tanzania
-  Tanzania_Adm2_121:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mkuranga
-    shapeID: 72390352B89793068246762
-    country_name: Tanzania
-  Tanzania_Adm2_122:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Rufiji
-    shapeID: 72390352B25336426084217
-    country_name: Tanzania
-  Tanzania_Adm2_123:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kalambo
-    shapeID: 72390352B91916326383066
-    country_name: Tanzania
-  Tanzania_Adm2_124:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Nkasi
-    shapeID: 72390352B34861075189695
-    country_name: Tanzania
-  Tanzania_Adm2_125:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Sumbawanga
-    shapeID: 72390352B27717411944051
-    country_name: Tanzania
-  Tanzania_Adm2_126:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: SumbawangaUrban
-    shapeID: 72390352B60773938386935
-    country_name: Tanzania
-  Tanzania_Adm2_127:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mbinga
-    shapeID: 72390352B96762734199587
-    country_name: Tanzania
-  Tanzania_Adm2_128:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Namtumbo
-    shapeID: 72390352B4837835329020
-    country_name: Tanzania
-  Tanzania_Adm2_129:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Nyasa
-    shapeID: 72390352B51604936414420
-    country_name: Tanzania
-  Tanzania_Adm2_13:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Chemba
-    shapeID: 72390352B30961702846084
-    country_name: Tanzania
-  Tanzania_Adm2_130:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Songea
-    shapeID: 72390352B68324313293973
-    country_name: Tanzania
-  Tanzania_Adm2_131:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: SongeaUrban
-    shapeID: 72390352B83796809810419
-    country_name: Tanzania
-  Tanzania_Adm2_132:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Tunduru
-    shapeID: 72390352B58168894275482
-    country_name: Tanzania
-  Tanzania_Adm2_133:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kahama
-    shapeID: 72390352B22692962057204
-    country_name: Tanzania
-  Tanzania_Adm2_134:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: KahamaTownshipAuthority
-    shapeID: 72390352B16659808480234
-    country_name: Tanzania
-  Tanzania_Adm2_135:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kishapu
-    shapeID: 72390352B32869277898143
-    country_name: Tanzania
-  Tanzania_Adm2_136:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Shinyanga
-    shapeID: 72390352B3732768371218
-    country_name: Tanzania
-  Tanzania_Adm2_137:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: ShinyangaUrban
-    shapeID: 72390352B93356288072561
-    country_name: Tanzania
-  Tanzania_Adm2_138:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Bariadi
-    shapeID: 72390352B92057106188413
-    country_name: Tanzania
-  Tanzania_Adm2_139:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Busega
-    shapeID: 72390352B70559618037175
-    country_name: Tanzania
-  Tanzania_Adm2_14:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: DodomaUrban
-    shapeID: 72390352B24669678050336
-    country_name: Tanzania
-  Tanzania_Adm2_140:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Itilima
-    shapeID: 72390352B56378812232391
-    country_name: Tanzania
-  Tanzania_Adm2_141:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Maswa
-    shapeID: 72390352B27931879401730
-    country_name: Tanzania
-  Tanzania_Adm2_142:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Meatu
-    shapeID: 72390352B64411652351957
-    country_name: Tanzania
-  Tanzania_Adm2_143:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Ikungi
-    shapeID: 72390352B5494870713744
-    country_name: Tanzania
-  Tanzania_Adm2_144:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Iramba
-    shapeID: 72390352B66961871173396
-    country_name: Tanzania
-  Tanzania_Adm2_145:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Manyoni
-    shapeID: 72390352B73180368039512
-    country_name: Tanzania
-  Tanzania_Adm2_146:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mkalama
-    shapeID: 72390352B53166842903656
-    country_name: Tanzania
-  Tanzania_Adm2_147:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Singida
-    shapeID: 72390352B6504298719524
-    country_name: Tanzania
-  Tanzania_Adm2_148:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: SingidaUrban
-    shapeID: 72390352B67063144918279
-    country_name: Tanzania
-  Tanzania_Adm2_149:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Ileje
-    shapeID: 72390352B17520994539919
-    country_name: Tanzania
-  Tanzania_Adm2_15:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kondoa
-    shapeID: 72390352B62044183520375
-    country_name: Tanzania
-  Tanzania_Adm2_150:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mbozi
-    shapeID: 72390352B44769786141856
-    country_name: Tanzania
-  Tanzania_Adm2_151:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Momba
-    shapeID: 72390352B95240342657452
-    country_name: Tanzania
-  Tanzania_Adm2_152:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Songwe
-    shapeID: 72390352B69788666323478
-    country_name: Tanzania
-  Tanzania_Adm2_153:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Tunduma
-    shapeID: 72390352B1593050996578
-    country_name: Tanzania
-  Tanzania_Adm2_154:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Igunga
-    shapeID: 72390352B54001884070734
-    country_name: Tanzania
-  Tanzania_Adm2_155:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kaliua
-    shapeID: 72390352B29601163251764
-    country_name: Tanzania
-  Tanzania_Adm2_156:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Nzega
-    shapeID: 72390352B4567455644907
-    country_name: Tanzania
-  Tanzania_Adm2_157:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Sikonge
-    shapeID: 72390352B96655451787370
-    country_name: Tanzania
-  Tanzania_Adm2_158:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: TaboraUrban
-    shapeID: 72390352B61754038708822
-    country_name: Tanzania
-  Tanzania_Adm2_159:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Urambo
-    shapeID: 72390352B58709749757029
-    country_name: Tanzania
-  Tanzania_Adm2_16:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kongwa
-    shapeID: 72390352B66245716936383
-    country_name: Tanzania
-  Tanzania_Adm2_160:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Uyui
-    shapeID: 72390352B28683809474818
-    country_name: Tanzania
-  Tanzania_Adm2_161:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Handeni
-    shapeID: 72390352B54290670955979
-    country_name: Tanzania
-  Tanzania_Adm2_162:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: HandeniMji
-    shapeID: 72390352B73978463558570
-    country_name: Tanzania
-  Tanzania_Adm2_163:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kilindi
-    shapeID: 72390352B98761165374808
-    country_name: Tanzania
-  Tanzania_Adm2_164:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Korogwe
-    shapeID: 72390352B3133588656991
-    country_name: Tanzania
-  Tanzania_Adm2_165:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: KorogweTownshipAuthority
-    shapeID: 72390352B41893572728253
-    country_name: Tanzania
-  Tanzania_Adm2_166:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Lushoto
-    shapeID: 72390352B30242417713864
-    country_name: Tanzania
-  Tanzania_Adm2_167:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mkinga
-    shapeID: 72390352B38372573514065
-    country_name: Tanzania
-  Tanzania_Adm2_168:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Muheza
-    shapeID: 72390352B38576032693201
-    country_name: Tanzania
-  Tanzania_Adm2_169:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Pangani
-    shapeID: 72390352B29030119078393
-    country_name: Tanzania
-  Tanzania_Adm2_17:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mpwapwa
-    shapeID: 72390352B74757309381442
-    country_name: Tanzania
-  Tanzania_Adm2_170:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: TangaUrban
-    shapeID: 72390352B10610893489740
-    country_name: Tanzania
-  Tanzania_Adm2_18:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Bukombe
-    shapeID: 72390352B18842274411831
-    country_name: Tanzania
-  Tanzania_Adm2_19:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: Chato
-    shapeID: 72390352B63706364179884
-    country_name: Tanzania
-  Tanzania_Adm2_2:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: ArushaUrban
-    shapeID: 72390352B90906351205470
-    country_name: Tanzania
-  Tanzania_Adm2_20:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Geita
-    shapeID: 72390352B97667671873629
-    country_name: Tanzania
-  Tanzania_Adm2_21:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mbogwe
-    shapeID: 72390352B61326482335333
-    country_name: Tanzania
-  Tanzania_Adm2_22:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Nyang'hwale
-    shapeID: 72390352B96686223722654
-    country_name: Tanzania
-  Tanzania_Adm2_23:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Iringa
-    shapeID: 72390352B92646008536074
-    country_name: Tanzania
-  Tanzania_Adm2_24:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: IringaUrban
-    shapeID: 72390352B98765493528957
-    country_name: Tanzania
-  Tanzania_Adm2_25:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kilolo
-    shapeID: 72390352B38467377597679
-    country_name: Tanzania
-  Tanzania_Adm2_26:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: MafingaTownshipAuthority
-    shapeID: 72390352B55502751216619
-    country_name: Tanzania
-  Tanzania_Adm2_27:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mufindi
-    shapeID: 72390352B52349151211707
-    country_name: Tanzania
-  Tanzania_Adm2_28:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Biharamulo
-    shapeID: 72390352B49618457772181
-    country_name: Tanzania
-  Tanzania_Adm2_29:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Bukoba
-    shapeID: 72390352B68293795880239
     country_name: Tanzania
-  Tanzania_Adm2_3:
-    iso3c: TZA
     admin_level: Adm2
+  TZA.1.3_1_Adm2:
+    GID: TZA.1.3_1
     admin_name: Karatu
-    shapeID: 72390352B22674606658861
-    country_name: Tanzania
-  Tanzania_Adm2_30:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: BukobaUrban
-    shapeID: 72390352B77165247512892
     country_name: Tanzania
-  Tanzania_Adm2_31:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Karagwe
-    shapeID: 72390352B65686612592635
+  TZA.1.4_1_Adm2:
+    GID: TZA.1.4_1
+    admin_name: Lake Eyasi
+    iso3c: TZA
     country_name: Tanzania
-  Tanzania_Adm2_32:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Kyerwa
-    shapeID: 72390352B12398012816015
+  TZA.1.5_1_Adm2:
+    GID: TZA.1.5_1
+    admin_name: Lake Manyara
+    iso3c: TZA
     country_name: Tanzania
-  Tanzania_Adm2_33:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Missenyi
-    shapeID: 72390352B46245922571369
-    country_name: Tanzania
-  Tanzania_Adm2_34:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Muleba
-    shapeID: 72390352B90711717616381
-    country_name: Tanzania
-  Tanzania_Adm2_35:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Ngara
-    shapeID: 72390352B68533256720623
-    country_name: Tanzania
-  Tanzania_Adm2_36:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Micheweni
-    shapeID: 72390352B10041948883658
-    country_name: Tanzania
-  Tanzania_Adm2_37:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Wete
-    shapeID: 72390352B34611789685005
-    country_name: Tanzania
-  Tanzania_Adm2_38:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: KaskaziniA
-    shapeID: 72390352B77186952625716
-    country_name: Tanzania
-  Tanzania_Adm2_39:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: KaskaziniB
-    shapeID: 72390352B15073652071238
-    country_name: Tanzania
-  Tanzania_Adm2_4:
-    iso3c: TZA
-    admin_level: Adm2
+  TZA.1.6_1_Adm2:
+    GID: TZA.1.6_1
     admin_name: Longido
-    shapeID: 72390352B95731720096997
-    country_name: Tanzania
-  Tanzania_Adm2_40:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mlele
-    shapeID: 72390352B12905062635487
     country_name: Tanzania
-  Tanzania_Adm2_41:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Mpanda
-    shapeID: 72390352B28587760392267
-    country_name: Tanzania
-  Tanzania_Adm2_42:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: MpandaUrban
-    shapeID: 72390352B31642859672055
-    country_name: Tanzania
-  Tanzania_Adm2_43:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Buhigwe
-    shapeID: 72390352B43433883631580
-    country_name: Tanzania
-  Tanzania_Adm2_44:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kakonko
-    shapeID: 72390352B1364689767312
-    country_name: Tanzania
-  Tanzania_Adm2_45:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kasulu
-    shapeID: 72390352B21750015500578
-    country_name: Tanzania
-  Tanzania_Adm2_46:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: KasuluTownshipAuthority
-    shapeID: 72390352B60593007856017
-    country_name: Tanzania
-  Tanzania_Adm2_47:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kibondo
-    shapeID: 72390352B58332556482444
-    country_name: Tanzania
-  Tanzania_Adm2_48:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kigoma
-    shapeID: 72390352B30674118715659
-    country_name: Tanzania
-  Tanzania_Adm2_49:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: KigomaUrban
-    shapeID: 72390352B17759889395693
-    country_name: Tanzania
-  Tanzania_Adm2_5:
-    iso3c: TZA
-    admin_level: Adm2
+  TZA.1.7_1_Adm2:
+    GID: TZA.1.7_1
     admin_name: Meru
-    shapeID: 72390352B99598192663387
-    country_name: Tanzania
-  Tanzania_Adm2_50:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: Uvinza
-    shapeID: 72390352B15676475935925
     country_name: Tanzania
-  Tanzania_Adm2_51:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Hai
-    shapeID: 72390352B77483544974211
-    country_name: Tanzania
-  Tanzania_Adm2_52:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Moshi
-    shapeID: 72390352B4446234130359
-    country_name: Tanzania
-  Tanzania_Adm2_53:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: MoshiUrban
-    shapeID: 72390352B76512132105243
-    country_name: Tanzania
-  Tanzania_Adm2_54:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mwanga
-    shapeID: 72390352B15719315121224
-    country_name: Tanzania
-  Tanzania_Adm2_55:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Rombo
-    shapeID: 72390352B49231532539034
-    country_name: Tanzania
-  Tanzania_Adm2_56:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Same
-    shapeID: 72390352B83063272545753
-    country_name: Tanzania
-  Tanzania_Adm2_57:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Siha
-    shapeID: 72390352B52159147893976
-    country_name: Tanzania
-  Tanzania_Adm2_58:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: ChakeChake
-    shapeID: 72390352B74660811526984
-    country_name: Tanzania
-  Tanzania_Adm2_59:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mkoani
-    shapeID: 72390352B13842693360807
-    country_name: Tanzania
-  Tanzania_Adm2_6:
-    iso3c: TZA
-    admin_level: Adm2
+  TZA.1.8_1_Adm2:
+    GID: TZA.1.8_1
     admin_name: Monduli
-    shapeID: 72390352B11439822404473
-    country_name: Tanzania
-  Tanzania_Adm2_60:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kati
-    shapeID: 72390352B68738670078554
     country_name: Tanzania
-  Tanzania_Adm2_61:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Kusini
-    shapeID: 72390352B36829534131483
-    country_name: Tanzania
-  Tanzania_Adm2_62:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Kilwa
-    shapeID: 72390352B7880721655308
-    country_name: Tanzania
-  Tanzania_Adm2_63:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Lindi
-    shapeID: 72390352B7713188541433
-    country_name: Tanzania
-  Tanzania_Adm2_64:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: LindiUrban
-    shapeID: 72390352B58883595926721
-    country_name: Tanzania
-  Tanzania_Adm2_65:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Liwale
-    shapeID: 72390352B80391364217442
-    country_name: Tanzania
-  Tanzania_Adm2_66:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Nachingwea
-    shapeID: 72390352B76457855664867
-    country_name: Tanzania
-  Tanzania_Adm2_67:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Ruangwa
-    shapeID: 72390352B35310074637090
-    country_name: Tanzania
-  Tanzania_Adm2_68:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Babati
-    shapeID: 72390352B12207219772126
-    country_name: Tanzania
-  Tanzania_Adm2_69:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: BabatiUrbanBabatiUrban
-    shapeID: 72390352B90089128995390
-    country_name: Tanzania
-  Tanzania_Adm2_7:
-    iso3c: TZA
-    admin_level: Adm2
+  TZA.1.9_1_Adm2:
+    GID: TZA.1.9_1
     admin_name: Ngorongoro
-    shapeID: 72390352B42279830137418
-    country_name: Tanzania
-  Tanzania_Adm2_70:
     iso3c: TZA
+    country_name: Tanzania
     admin_level: Adm2
+  TZA.10_1_Adm1:
+    GID: TZA.10_1
+    admin_name: Lindi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.10.1_1_Adm2:
+    GID: TZA.10.1_1
+    admin_name: Kilwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10.2_1_Adm2:
+    GID: TZA.10.2_1
+    admin_name: Lindi Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10.3_1_Adm2:
+    GID: TZA.10.3_1
+    admin_name: Lindi Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10.4_1_Adm2:
+    GID: TZA.10.4_1
+    admin_name: Liwale
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10.5_1_Adm2:
+    GID: TZA.10.5_1
+    admin_name: Nachingwea
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10.6_1_Adm2:
+    GID: TZA.10.6_1
+    admin_name: Ruangwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11_1_Adm1:
+    GID: TZA.11_1
+    admin_name: Manyara
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.11.1_1_Adm2:
+    GID: TZA.11.1_1
+    admin_name: Babati Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11.2_1_Adm2:
+    GID: TZA.11.2_1
+    admin_name: Babati
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11.3_1_Adm2:
+    GID: TZA.11.3_1
     admin_name: Hanang
-    shapeID: 72390352B73734578830609
-    country_name: Tanzania
-  Tanzania_Adm2_71:
     iso3c: TZA
+    country_name: Tanzania
     admin_level: Adm2
+  TZA.11.4_1_Adm2:
+    GID: TZA.11.4_1
     admin_name: Kiteto
-    shapeID: 72390352B80776151350042
-    country_name: Tanzania
-  Tanzania_Adm2_72:
     iso3c: TZA
+    country_name: Tanzania
     admin_level: Adm2
+  TZA.11.5_1_Adm2:
+    GID: TZA.11.5_1
+    admin_name: Lake Manyara
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11.6_1_Adm2:
+    GID: TZA.11.6_1
     admin_name: Mbulu
-    shapeID: 72390352B2366371930573
-    country_name: Tanzania
-  Tanzania_Adm2_73:
     iso3c: TZA
+    country_name: Tanzania
     admin_level: Adm2
+  TZA.11.7_1_Adm2:
+    GID: TZA.11.7_1
     admin_name: Simanjiro
-    shapeID: 72390352B2790991966076
-    country_name: Tanzania
-  Tanzania_Adm2_74:
     iso3c: TZA
+    country_name: Tanzania
     admin_level: Adm2
+  TZA.12_1_Adm1:
+    GID: TZA.12_1
+    admin_name: Mara
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.12.1_1_Adm2:
+    GID: TZA.12.1_1
     admin_name: Bunda
-    shapeID: 72390352B35806479810351
-    country_name: Tanzania
-  Tanzania_Adm2_75:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: Butiam
-    shapeID: 72390352B35299561044003
     country_name: Tanzania
-  Tanzania_Adm2_76:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Musoma
-    shapeID: 72390352B7456768278221
+  TZA.12.2_1_Adm2:
+    GID: TZA.12.2_1
+    admin_name: Butiama
+    iso3c: TZA
     country_name: Tanzania
-  Tanzania_Adm2_77:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: MusomaUrban
-    shapeID: 72390352B68648514157418
+  TZA.12.3_1_Adm2:
+    GID: TZA.12.3_1
+    admin_name: Lake Victoria
+    iso3c: TZA
     country_name: Tanzania
-  Tanzania_Adm2_78:
-    iso3c: TZA
     admin_level: Adm2
+  TZA.12.4_1_Adm2:
+    GID: TZA.12.4_1
+    admin_name: Musoma Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.12.5_1_Adm2:
+    GID: TZA.12.5_1
+    admin_name: Musoma Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.12.6_1_Adm2:
+    GID: TZA.12.6_1
     admin_name: Rorya
-    shapeID: 72390352B17164070988815
-    country_name: Tanzania
-  Tanzania_Adm2_79:
     iso3c: TZA
+    country_name: Tanzania
     admin_level: Adm2
+  TZA.12.7_1_Adm2:
+    GID: TZA.12.7_1
     admin_name: Serengeti
-    shapeID: 72390352B48676394939092
-    country_name: Tanzania
-  Tanzania_Adm2_8:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: Ilala
-    shapeID: 72390352B40584164885098
     country_name: Tanzania
-  Tanzania_Adm2_80:
-    iso3c: TZA
     admin_level: Adm2
+  TZA.12.8_1_Adm2:
+    GID: TZA.12.8_1
     admin_name: Tarime
-    shapeID: 72390352B9041864776563
-    country_name: Tanzania
-  Tanzania_Adm2_81:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: Chunya
-    shapeID: 72390352B92011686492741
     country_name: Tanzania
-  Tanzania_Adm2_82:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Kyela
-    shapeID: 72390352B41643980878870
-    country_name: Tanzania
-  Tanzania_Adm2_83:
-    iso3c: TZA
-    admin_level: Adm2
-    admin_name: Mbarali
-    shapeID: 72390352B36245556910711
-    country_name: Tanzania
-  Tanzania_Adm2_84:
-    iso3c: TZA
-    admin_level: Adm2
+  TZA.13_1_Adm1:
+    GID: TZA.13_1
     admin_name: Mbeya
-    shapeID: 72390352B82808491826054
-    country_name: Tanzania
-  Tanzania_Adm2_85:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: MbeyaUrban
-    shapeID: 72390352B25057310038558
     country_name: Tanzania
-  Tanzania_Adm2_86:
+    admin_level: Adm1
+  TZA.13.1_1_Adm2:
+    GID: TZA.13.1_1
+    admin_name: Chunya
     iso3c: TZA
+    country_name: Tanzania
     admin_level: Adm2
+  TZA.13.10_1_Adm2:
+    GID: TZA.13.10_1
     admin_name: Rungwe
-    shapeID: 72390352B86695961679763
-    country_name: Tanzania
-  Tanzania_Adm2_87:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: Magharibi
-    shapeID: 72390352B70436774950451
     country_name: Tanzania
-  Tanzania_Adm2_88:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Mjini
-    shapeID: 72390352B88201413510937
+  TZA.13.3_1_Adm2:
+    GID: TZA.13.3_1
+    admin_name: Kyela
+    iso3c: TZA
     country_name: Tanzania
-  Tanzania_Adm2_89:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Gairo
-    shapeID: 72390352B71030681800047
+  TZA.13.5_1_Adm2:
+    GID: TZA.13.5_1
+    admin_name: Mbarali
+    iso3c: TZA
     country_name: Tanzania
-  Tanzania_Adm2_9:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Kinondoni
-    shapeID: 72390352B66429416458525
+  TZA.13.6_1_Adm2:
+    GID: TZA.13.6_1
+    admin_name: Mbeya Rural
+    iso3c: TZA
     country_name: Tanzania
-  Tanzania_Adm2_90:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Kilombero
-    shapeID: 72390352B25590445201102
+  TZA.13.7_1_Adm2:
+    GID: TZA.13.7_1
+    admin_name: Mbeya Urban
+    iso3c: TZA
     country_name: Tanzania
-  Tanzania_Adm2_91:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: Kilosa
-    shapeID: 72390352B53131574128845
-    country_name: Tanzania
-  Tanzania_Adm2_92:
-    iso3c: TZA
-    admin_level: Adm2
+  TZA.14_1_Adm1:
+    GID: TZA.14_1
     admin_name: Morogoro
-    shapeID: 72390352B24110633153516
-    country_name: Tanzania
-  Tanzania_Adm2_93:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: MorogoroUrban
-    shapeID: 72390352B88942039906388
     country_name: Tanzania
-  Tanzania_Adm2_94:
+    admin_level: Adm1
+  TZA.14.1_1_Adm2:
+    GID: TZA.14.1_1
+    admin_name: Gairo
     iso3c: TZA
+    country_name: Tanzania
     admin_level: Adm2
+  TZA.14.2_1_Adm2:
+    GID: TZA.14.2_1
+    admin_name: Kilombero
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14.3_1_Adm2:
+    GID: TZA.14.3_1
+    admin_name: Kilosa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14.4_1_Adm2:
+    GID: TZA.14.4_1
+    admin_name: Morogoro Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14.5_1_Adm2:
+    GID: TZA.14.5_1
+    admin_name: Morogoro Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14.6_1_Adm2:
+    GID: TZA.14.6_1
     admin_name: Mvomero
-    shapeID: 72390352B62121337619186
-    country_name: Tanzania
-  Tanzania_Adm2_95:
     iso3c: TZA
+    country_name: Tanzania
     admin_level: Adm2
+  TZA.14.7_1_Adm2:
+    GID: TZA.14.7_1
     admin_name: Ulanga
-    shapeID: 72390352B93515871634078
-    country_name: Tanzania
-  Tanzania_Adm2_96:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: Masasi
-    shapeID: 72390352B56058142056871
     country_name: Tanzania
-  Tanzania_Adm2_97:
-    iso3c: TZA
     admin_level: Adm2
-    admin_name: MasasiTownshipAuthority
-    shapeID: 72390352B27431607141265
-    country_name: Tanzania
-  Tanzania_Adm2_98:
-    iso3c: TZA
-    admin_level: Adm2
+  TZA.15_1_Adm1:
+    GID: TZA.15_1
     admin_name: Mtwara
-    shapeID: 72390352B92435052932896
-    country_name: Tanzania
-  Tanzania_Adm2_99:
     iso3c: TZA
-    admin_level: Adm2
-    admin_name: MtwaraUrban
-    shapeID: 72390352B87015028421250
     country_name: Tanzania
+    admin_level: Adm1
+  TZA.15.1_1_Adm2:
+    GID: TZA.15.1_1
+    admin_name: Masasi Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.2_1_Adm2:
+    GID: TZA.15.2_1
+    admin_name: Masasi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.3_1_Adm2:
+    GID: TZA.15.3_1
+    admin_name: Mtwara Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.4_1_Adm2:
+    GID: TZA.15.4_1
+    admin_name: Mtwara Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.5_1_Adm2:
+    GID: TZA.15.5_1
+    admin_name: Nanyumbu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.6_1_Adm2:
+    GID: TZA.15.6_1
+    admin_name: Newala
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.7_1_Adm2:
+    GID: TZA.15.7_1
+    admin_name: Tandahimba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16_1_Adm1:
+    GID: TZA.16_1
+    admin_name: Mwanza
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.16.1_1_Adm2:
+    GID: TZA.16.1_1
+    admin_name: Ilemela
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.2_1_Adm2:
+    GID: TZA.16.2_1
+    admin_name: Kwimba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.3_1_Adm2:
+    GID: TZA.16.3_1
+    admin_name: Lake Victoria
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.4_1_Adm2:
+    GID: TZA.16.4_1
+    admin_name: Magu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.5_1_Adm2:
+    GID: TZA.16.5_1
+    admin_name: Misungwi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.6_1_Adm2:
+    GID: TZA.16.6_1
+    admin_name: Nyamagana
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.7_1_Adm2:
+    GID: TZA.16.7_1
+    admin_name: Sengerema
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.8_1_Adm2:
+    GID: TZA.16.8_1
+    admin_name: Ukerewe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17_1_Adm1:
+    GID: TZA.17_1
+    admin_name: Njombe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.17.1_1_Adm2:
+    GID: TZA.17.1_1
+    admin_name: Ludewa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17.2_1_Adm2:
+    GID: TZA.17.2_1
+    admin_name: Makambako Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17.3_1_Adm2:
+    GID: TZA.17.3_1
+    admin_name: Makete
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17.4_1_Adm2:
+    GID: TZA.17.4_1
+    admin_name: Njombe Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17.5_1_Adm2:
+    GID: TZA.17.5_1
+    admin_name: Njombe Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17.6_1_Adm2:
+    GID: TZA.17.6_1
+    admin_name: Wanging'ombe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.18_1_Adm1:
+    GID: TZA.18_1
+    admin_name: Kaskazini Pemba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.18.1_1_Adm2:
+    GID: TZA.18.1_1
+    admin_name: Micheweni
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.18.2_1_Adm2:
+    GID: TZA.18.2_1
+    admin_name: Wete
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.19_1_Adm1:
+    GID: TZA.19_1
+    admin_name: Kusini Pemba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.19.1_1_Adm2:
+    GID: TZA.19.1_1
+    admin_name: Chake
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.19.2_1_Adm2:
+    GID: TZA.19.2_1
+    admin_name: Mkoani
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.2_1_Adm1:
+    GID: TZA.2_1
+    admin_name: Dar es Salaam
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.2.1_1_Adm2:
+    GID: TZA.2.1_1
+    admin_name: Ilala
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.2.2_1_Adm2:
+    GID: TZA.2.2_1
+    admin_name: Kinondoni
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.2.3_1_Adm2:
+    GID: TZA.2.3_1
+    admin_name: Temeke
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20_1_Adm1:
+    GID: TZA.20_1
+    admin_name: Pwani
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.20.1_1_Adm2:
+    GID: TZA.20.1_1
+    admin_name: Bagamoyo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.2_1_Adm2:
+    GID: TZA.20.2_1
+    admin_name: Kibaha Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.3_1_Adm2:
+    GID: TZA.20.3_1
+    admin_name: Kibaha
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.4_1_Adm2:
+    GID: TZA.20.4_1
+    admin_name: Kisarawe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.5_1_Adm2:
+    GID: TZA.20.5_1
+    admin_name: Mafia
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.6_1_Adm2:
+    GID: TZA.20.6_1
+    admin_name: Mkuranga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.7_1_Adm2:
+    GID: TZA.20.7_1
+    admin_name: Rufiji
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21_1_Adm1:
+    GID: TZA.21_1
+    admin_name: Rukwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.21.1_1_Adm2:
+    GID: TZA.21.1_1
+    admin_name: Kalambo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21.2_1_Adm2:
+    GID: TZA.21.2_1
+    admin_name: Lake Rukwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21.3_1_Adm2:
+    GID: TZA.21.3_1
+    admin_name: Lake Tanganyika
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21.4_1_Adm2:
+    GID: TZA.21.4_1
+    admin_name: Nkasi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21.5_1_Adm2:
+    GID: TZA.21.5_1
+    admin_name: Sumbawanga Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21.6_1_Adm2:
+    GID: TZA.21.6_1
+    admin_name: Sumbawanga Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22_1_Adm1:
+    GID: TZA.22_1
+    admin_name: Ruvuma
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.22.1_1_Adm2:
+    GID: TZA.22.1_1
+    admin_name: Mbinga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22.2_1_Adm2:
+    GID: TZA.22.2_1
+    admin_name: Namtumbo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22.3_1_Adm2:
+    GID: TZA.22.3_1
+    admin_name: Nyasa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22.4_1_Adm2:
+    GID: TZA.22.4_1
+    admin_name: Songea Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22.5_1_Adm2:
+    GID: TZA.22.5_1
+    admin_name: Songea Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22.6_1_Adm2:
+    GID: TZA.22.6_1
+    admin_name: Tunduru
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.23_1_Adm1:
+    GID: TZA.23_1
+    admin_name: Shinyanga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.23.1_1_Adm2:
+    GID: TZA.23.1_1
+    admin_name: Kahama Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.23.2_1_Adm2:
+    GID: TZA.23.2_1
+    admin_name: Kahama
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.23.3_1_Adm2:
+    GID: TZA.23.3_1
+    admin_name: Kishapu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.23.4_1_Adm2:
+    GID: TZA.23.4_1
+    admin_name: Shinyanga Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.23.5_1_Adm2:
+    GID: TZA.23.5_1
+    admin_name: Shinyanga Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24_1_Adm1:
+    GID: TZA.24_1
+    admin_name: Simiyu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.24.1_1_Adm2:
+    GID: TZA.24.1_1
+    admin_name: Bariadi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.2_1_Adm2:
+    GID: TZA.24.2_1
+    admin_name: Busega
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.3_1_Adm2:
+    GID: TZA.24.3_1
+    admin_name: Itilima
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.4_1_Adm2:
+    GID: TZA.24.4_1
+    admin_name: Lake Eyasi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.5_1_Adm2:
+    GID: TZA.24.5_1
+    admin_name: Lake Victoria
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.6_1_Adm2:
+    GID: TZA.24.6_1
+    admin_name: Maswa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.7_1_Adm2:
+    GID: TZA.24.7_1
+    admin_name: Meatu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25_1_Adm1:
+    GID: TZA.25_1
+    admin_name: Singida
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.25.1_1_Adm2:
+    GID: TZA.25.1_1
+    admin_name: Ikungi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25.2_1_Adm2:
+    GID: TZA.25.2_1
+    admin_name: Iramba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25.3_1_Adm2:
+    GID: TZA.25.3_1
+    admin_name: Manyoni
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25.4_1_Adm2:
+    GID: TZA.25.4_1
+    admin_name: Mkalama
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25.5_1_Adm2:
+    GID: TZA.25.5_1
+    admin_name: Singida Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25.6_1_Adm2:
+    GID: TZA.25.6_1
+    admin_name: Singida Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26_1_Adm1:
+    GID: TZA.26_1
+    admin_name: Tabora
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.26.1_1_Adm2:
+    GID: TZA.26.1_1
+    admin_name: Igunga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.2_1_Adm2:
+    GID: TZA.26.2_1
+    admin_name: Kaliua
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.3_1_Adm2:
+    GID: TZA.26.3_1
+    admin_name: Nzega
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.4_1_Adm2:
+    GID: TZA.26.4_1
+    admin_name: Sikonge
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.5_1_Adm2:
+    GID: TZA.26.5_1
+    admin_name: Tabora
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.6_1_Adm2:
+    GID: TZA.26.6_1
+    admin_name: Urambo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.7_1_Adm2:
+    GID: TZA.26.7_1
+    admin_name: Uyui
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27_1_Adm1:
+    GID: TZA.27_1
+    admin_name: Tanga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.27.1_1_Adm2:
+    GID: TZA.27.1_1
+    admin_name: Handeni Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.10_1_Adm2:
+    GID: TZA.27.10_1
+    admin_name: Tanga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.2_1_Adm2:
+    GID: TZA.27.2_1
+    admin_name: Handeni
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.3_1_Adm2:
+    GID: TZA.27.3_1
+    admin_name: Kilindi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.4_1_Adm2:
+    GID: TZA.27.4_1
+    admin_name: Korogwe Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.5_1_Adm2:
+    GID: TZA.27.5_1
+    admin_name: Korogwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.6_1_Adm2:
+    GID: TZA.27.6_1
+    admin_name: Lushoto
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.7_1_Adm2:
+    GID: TZA.27.7_1
+    admin_name: Mkinga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.8_1_Adm2:
+    GID: TZA.27.8_1
+    admin_name: Muheza
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.9_1_Adm2:
+    GID: TZA.27.9_1
+    admin_name: Pangani
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.28_1_Adm1:
+    GID: TZA.28_1
+    admin_name: Kaskazini Unguja
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.28.1_1_Adm2:
+    GID: TZA.28.1_1
+    admin_name: Kaskazini 'A'
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.28.2_1_Adm2:
+    GID: TZA.28.2_1
+    admin_name: Kaskazini 'B'
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.29_1_Adm1:
+    GID: TZA.29_1
+    admin_name: Kusini Unguja
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.29.1_1_Adm2:
+    GID: TZA.29.1_1
+    admin_name: Kati
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.29.2_1_Adm2:
+    GID: TZA.29.2_1
+    admin_name: Kusini
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3_1_Adm1:
+    GID: TZA.3_1
+    admin_name: Dodoma
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.3.1_1_Adm2:
+    GID: TZA.3.1_1
+    admin_name: Bahi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.2_1_Adm2:
+    GID: TZA.3.2_1
+    admin_name: Chamwino
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.3_1_Adm2:
+    GID: TZA.3.3_1
+    admin_name: Chemba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.4_1_Adm2:
+    GID: TZA.3.4_1
+    admin_name: Dodoma Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.5_1_Adm2:
+    GID: TZA.3.5_1
+    admin_name: Kondoa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.6_1_Adm2:
+    GID: TZA.3.6_1
+    admin_name: Kongwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.7_1_Adm2:
+    GID: TZA.3.7_1
+    admin_name: Mpwapwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.30_1_Adm1:
+    GID: TZA.30_1
+    admin_name: Mjini Magharibi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.30.2_1_Adm2:
+    GID: TZA.30.2_1
+    admin_name: Mjini
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.30.3_1_Adm2:
+    GID: TZA.30.3_1
+    admin_name: Magharibi A
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.30.4_1_Adm2:
+    GID: TZA.30.4_1
+    admin_name: Magharibi B
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31_1_Adm1:
+    GID: TZA.31_1
+    admin_name: Songwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.31.1_1_Adm2:
+    GID: TZA.31.1_1
+    admin_name: Songwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31.11_1_Adm2:
+    GID: TZA.31.11_1
+    admin_name: Tunduma
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31.2_1_Adm2:
+    GID: TZA.31.2_1
+    admin_name: Ileje
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31.4_1_Adm2:
+    GID: TZA.31.4_1
+    admin_name: Lake Rukwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31.8_1_Adm2:
+    GID: TZA.31.8_1
+    admin_name: Mbozi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31.9_1_Adm2:
+    GID: TZA.31.9_1
+    admin_name: Momba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4_1_Adm1:
+    GID: TZA.4_1
+    admin_name: Geita
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.4.1_1_Adm2:
+    GID: TZA.4.1_1
+    admin_name: Bukombe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4.2_1_Adm2:
+    GID: TZA.4.2_1
+    admin_name: Chato
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4.3_1_Adm2:
+    GID: TZA.4.3_1
+    admin_name: Geita
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4.4_1_Adm2:
+    GID: TZA.4.4_1
+    admin_name: Mbogwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4.5_1_Adm2:
+    GID: TZA.4.5_1
+    admin_name: Nyang'hwale
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4.6_1_Adm2:
+    GID: TZA.4.6_1
+    admin_name: Lake Victoria
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.5_1_Adm1:
+    GID: TZA.5_1
+    admin_name: Iringa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.5.1_1_Adm2:
+    GID: TZA.5.1_1
+    admin_name: Iringa Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.5.2_1_Adm2:
+    GID: TZA.5.2_1
+    admin_name: Iringa Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.5.3_1_Adm2:
+    GID: TZA.5.3_1
+    admin_name: Kilolo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.5.4_1_Adm2:
+    GID: TZA.5.4_1
+    admin_name: Mafinga Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.5.5_1_Adm2:
+    GID: TZA.5.5_1
+    admin_name: Mufindi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6_1_Adm1:
+    GID: TZA.6_1
+    admin_name: Kagera
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.6.1_1_Adm2:
+    GID: TZA.6.1_1
+    admin_name: Biharamulo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.2_1_Adm2:
+    GID: TZA.6.2_1
+    admin_name: Bukoba Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.3_1_Adm2:
+    GID: TZA.6.3_1
+    admin_name: Bukoba Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.4_1_Adm2:
+    GID: TZA.6.4_1
+    admin_name: Karagwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.5_1_Adm2:
+    GID: TZA.6.5_1
+    admin_name: Kyerwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.6_1_Adm2:
+    GID: TZA.6.6_1
+    admin_name: Lake Victoria
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.7_1_Adm2:
+    GID: TZA.6.7_1
+    admin_name: Missenyi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.8_1_Adm2:
+    GID: TZA.6.8_1
+    admin_name: Muleba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.9_1_Adm2:
+    GID: TZA.6.9_1
+    admin_name: Ngara
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.7_1_Adm1:
+    GID: TZA.7_1
+    admin_name: Katavi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.7.1_1_Adm2:
+    GID: TZA.7.1_1
+    admin_name: Lake Rukwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.7.2_1_Adm2:
+    GID: TZA.7.2_1
+    admin_name: Lake Tanganyika
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.7.3_1_Adm2:
+    GID: TZA.7.3_1
+    admin_name: Mlele
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.7.4_1_Adm2:
+    GID: TZA.7.4_1
+    admin_name: Mpanda Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.7.5_1_Adm2:
+    GID: TZA.7.5_1
+    admin_name: Mpanda Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8_1_Adm1:
+    GID: TZA.8_1
+    admin_name: Kigoma
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.8.1_1_Adm2:
+    GID: TZA.8.1_1
+    admin_name: Buhigwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.2_1_Adm2:
+    GID: TZA.8.2_1
+    admin_name: Kakonko
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.3_1_Adm2:
+    GID: TZA.8.3_1
+    admin_name: Kasulu Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.4_1_Adm2:
+    GID: TZA.8.4_1
+    admin_name: Kasulu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.5_1_Adm2:
+    GID: TZA.8.5_1
+    admin_name: Kibondo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.6_1_Adm2:
+    GID: TZA.8.6_1
+    admin_name: Kigoma Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.7_1_Adm2:
+    GID: TZA.8.7_1
+    admin_name: Kigoma Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.8_1_Adm2:
+    GID: TZA.8.8_1
+    admin_name: Lake Tanganyika
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.9_1_Adm2:
+    GID: TZA.8.9_1
+    admin_name: Uvinza
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9_1_Adm1:
+    GID: TZA.9_1
+    admin_name: Kilimanjaro
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.9.1_1_Adm2:
+    GID: TZA.9.1_1
+    admin_name: Hai
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.2_1_Adm2:
+    GID: TZA.9.2_1
+    admin_name: Moshi Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.3_1_Adm2:
+    GID: TZA.9.3_1
+    admin_name: Moshi Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.4_1_Adm2:
+    GID: TZA.9.4_1
+    admin_name: Mwanga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.5_1_Adm2:
+    GID: TZA.9.5_1
+    admin_name: Rombo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.6_1_Adm2:
+    GID: TZA.9.6_1
+    admin_name: Same
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.7_1_Adm2:
+    GID: TZA.9.7_1
+    admin_name: Siha
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2

@@ -1,853 +1,175 @@
 concepts:
-  Madagascar_Adm0:
-    iso3c: MDG
-    admin_level: Adm0
+  MDG.0_Adm0:
+    GID: MDG
     admin_name: Madagascar
-    shapeID: 34563404B32462921680697
-    country_name: Madagascar
-  Madagascar_Adm1_1:
     iso3c: MDG
-    admin_level: Adm1
-    admin_name: Diana
-    shapeID: 27540722B39676432794686
     country_name: Madagascar
-  Madagascar_Adm1_10:
+    admin_level: Adm0
+  MDG.1_1_Adm1:
+    GID: MDG.1_1
+    admin_name: Antananarivo
     iso3c: MDG
-    admin_level: Adm1
-    admin_name: Alaotra-Mangoro
-    shapeID: 27540722B20631024421355
     country_name: Madagascar
-  Madagascar_Adm1_11:
-    iso3c: MDG
     admin_level: Adm1
-    admin_name: Sofia
-    shapeID: 27540722B38694577181717
-    country_name: Madagascar
-  Madagascar_Adm1_12:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Anosy
-    shapeID: 27540722B69979521515872
-    country_name: Madagascar
-  Madagascar_Adm1_13:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Boeny
-    shapeID: 27540722B20664439648320
-    country_name: Madagascar
-  Madagascar_Adm1_14:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Betsiboka
-    shapeID: 27540722B63964985004787
-    country_name: Madagascar
-  Madagascar_Adm1_15:
-    iso3c: MDG
-    admin_level: Adm1
+  MDG.1.1_1_Adm2:
+    GID: MDG.1.1_1
     admin_name: Analamanga
-    shapeID: 27540722B10144800929043
-    country_name: Madagascar
-  Madagascar_Adm1_16:
     iso3c: MDG
-    admin_level: Adm1
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.1.2_1_Adm2:
+    GID: MDG.1.2_1
     admin_name: Bongolava
-    shapeID: 27540722B68546220644411
-    country_name: Madagascar
-  Madagascar_Adm1_17:
     iso3c: MDG
-    admin_level: Adm1
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.1.3_1_Adm2:
+    GID: MDG.1.3_1
     admin_name: Itasy
-    shapeID: 27540722B8147071737362
-    country_name: Madagascar
-  Madagascar_Adm1_18:
     iso3c: MDG
-    admin_level: Adm1
-    admin_name: Atsimo-Andrefana
-    shapeID: 27540722B7206368911185
     country_name: Madagascar
-  Madagascar_Adm1_19:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Androy
-    shapeID: 27540722B38453733722382
-    country_name: Madagascar
-  Madagascar_Adm1_2:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Sava
-    shapeID: 27540722B96967449701393
-    country_name: Madagascar
-  Madagascar_Adm1_20:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Atsimo-Atsinanana
-    shapeID: 27540722B82031840289091
-    country_name: Madagascar
-  Madagascar_Adm1_21:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: MatsiatraAmbony
-    shapeID: 27540722B35082115892485
-    country_name: Madagascar
-  Madagascar_Adm1_22:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Vatovavy-Fitovinany
-    shapeID: 27540722B59950383788875
-    country_name: Madagascar
-  Madagascar_Adm1_3:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Analanjirofo
-    shapeID: 27540722B29762949035073
-    country_name: Madagascar
-  Madagascar_Adm1_4:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Amoron'iMania
-    shapeID: 27540722B26835460634378
-    country_name: Madagascar
-  Madagascar_Adm1_5:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Ihorombe
-    shapeID: 27540722B59079602855311
-    country_name: Madagascar
-  Madagascar_Adm1_6:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Melaky
-    shapeID: 27540722B85261442939952
-    country_name: Madagascar
-  Madagascar_Adm1_7:
-    iso3c: MDG
-    admin_level: Adm1
-    admin_name: Menabe
-    shapeID: 27540722B66660932242608
-    country_name: Madagascar
-  Madagascar_Adm1_8:
-    iso3c: MDG
-    admin_level: Adm1
+    admin_level: Adm2
+  MDG.1.4_1_Adm2:
+    GID: MDG.1.4_1
     admin_name: Vakinankaratra
-    shapeID: 27540722B16458597550107
-    country_name: Madagascar
-  Madagascar_Adm1_9:
     iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.2_1_Adm1:
+    GID: MDG.2_1
+    admin_name: Antsiranana
+    iso3c: MDG
+    country_name: Madagascar
     admin_level: Adm1
+  MDG.2.1_1_Adm2:
+    GID: MDG.2.1_1
+    admin_name: Diana
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.2.2_1_Adm2:
+    GID: MDG.2.2_1
+    admin_name: Sava
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.3_1_Adm1:
+    GID: MDG.3_1
+    admin_name: Fianarantsoa
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm1
+  MDG.3.1_1_Adm2:
+    GID: MDG.3.1_1
+    admin_name: Amoron'i mania
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.3.2_1_Adm2:
+    GID: MDG.3.2_1
+    admin_name: Atsimo-Atsinana
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.3.3_1_Adm2:
+    GID: MDG.3.3_1
+    admin_name: Haute matsiatra
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.3.4_1_Adm2:
+    GID: MDG.3.4_1
+    admin_name: Ihorombe
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.3.5_1_Adm2:
+    GID: MDG.3.5_1
+    admin_name: Vatovavy Fitovinany
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.4_1_Adm1:
+    GID: MDG.4_1
+    admin_name: Mahajanga
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm1
+  MDG.4.1_1_Adm2:
+    GID: MDG.4.1_1
+    admin_name: Betsiboka
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.4.2_1_Adm2:
+    GID: MDG.4.2_1
+    admin_name: Boeny
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.4.3_1_Adm2:
+    GID: MDG.4.3_1
+    admin_name: Melaky
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.4.4_1_Adm2:
+    GID: MDG.4.4_1
+    admin_name: Sofia
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.5_1_Adm1:
+    GID: MDG.5_1
+    admin_name: Toamasina
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm1
+  MDG.5.1_1_Adm2:
+    GID: MDG.5.1_1
+    admin_name: Alaotra-Mangoro
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.5.2_1_Adm2:
+    GID: MDG.5.2_1
+    admin_name: Analanjirofo
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.5.3_1_Adm2:
+    GID: MDG.5.3_1
     admin_name: Atsinanana
-    shapeID: 27540722B68428456346892
-    country_name: Madagascar
-  Madagascar_Adm2_1:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: 1erArrondissement
-    shapeID: 10022922B83786714905046
-    country_name: Madagascar
-  Madagascar_Adm2_10:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Manjakandriana
-    shapeID: 10022922B50774823120221
-    country_name: Madagascar
-  Madagascar_Adm2_100:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Tsihombe
-    shapeID: 10022922B95964642483948
-    country_name: Madagascar
-  Madagascar_Adm2_101:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambovombe-Androy
-    shapeID: 10022922B3330352702203
-    country_name: Madagascar
-  Madagascar_Adm2_102:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Bekily
-    shapeID: 10022922B6580820782603
-    country_name: Madagascar
-  Madagascar_Adm2_103:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Taolagnaro
-    shapeID: 10022922B85658862424992
-    country_name: Madagascar
-  Madagascar_Adm2_104:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Betroka
-    shapeID: 10022922B59412081262724
-    country_name: Madagascar
-  Madagascar_Adm2_105:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Amboasary-Atsimo
-    shapeID: 10022922B61088153240222
-    country_name: Madagascar
-  Madagascar_Adm2_106:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Manja
-    shapeID: 10022922B70385192089273
-    country_name: Madagascar
-  Madagascar_Adm2_107:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Morondava
-    shapeID: 10022922B91714644312966
-    country_name: Madagascar
-  Madagascar_Adm2_108:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Mahabo
-    shapeID: 10022922B70120442307447
-    country_name: Madagascar
-  Madagascar_Adm2_109:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: BeloSurTsiribihina
-    shapeID: 10022922B50417492685621
-    country_name: Madagascar
-  Madagascar_Adm2_11:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Anjozorobe
-    shapeID: 10022922B1306198900476
-    country_name: Madagascar
-  Madagascar_Adm2_110:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Miandrivazo
-    shapeID: 10022922B2580716977723
-    country_name: Madagascar
-  Madagascar_Adm2_111:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: AntsirananaII
-    shapeID: 10022922B22775533170221
-    country_name: Madagascar
-  Madagascar_Adm2_112:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: AntsirananaI
-    shapeID: 10022922B77517626674469
-    country_name: Madagascar
-  Madagascar_Adm2_113:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambilobe
-    shapeID: 10022922B52521872200932
-    country_name: Madagascar
-  Madagascar_Adm2_114:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Nosy-Be
-    shapeID: 10022922B66036521727834
-    country_name: Madagascar
-  Madagascar_Adm2_115:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambanja
-    shapeID: 10022922B10293113814705
-    country_name: Madagascar
-  Madagascar_Adm2_116:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Antalaha
-    shapeID: 10022922B15279482214677
-    country_name: Madagascar
-  Madagascar_Adm2_117:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Sambava
-    shapeID: 10022922B78580830473532
-    country_name: Madagascar
-  Madagascar_Adm2_118:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Andapa
-    shapeID: 10022922B40357207342555
-    country_name: Madagascar
-  Madagascar_Adm2_119:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Vohemar
-    shapeID: 10022922B16213196407560
-    country_name: Madagascar
-  Madagascar_Adm2_12:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Andramasina
-    shapeID: 10022922B11040894453097
-    country_name: Madagascar
-  Madagascar_Adm2_13:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: AntananarivoAtsimondrano
-    shapeID: 10022922B82805843876956
-    country_name: Madagascar
-  Madagascar_Adm2_14:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: AntsirabeI
-    shapeID: 10022922B38771191417556
-    country_name: Madagascar
-  Madagascar_Adm2_15:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Betafo
-    shapeID: 10022922B74688195218658
-    country_name: Madagascar
-  Madagascar_Adm2_16:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambatolampy
-    shapeID: 10022922B90393204210047
-    country_name: Madagascar
-  Madagascar_Adm2_17:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Antanifotsy
-    shapeID: 10022922B69082959012584
-    country_name: Madagascar
-  Madagascar_Adm2_18:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Faratsiho
-    shapeID: 10022922B80317071360034
-    country_name: Madagascar
-  Madagascar_Adm2_19:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: AntsirabeII
-    shapeID: 10022922B65379850816186
-    country_name: Madagascar
-  Madagascar_Adm2_2:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: 2eArrondissement
-    shapeID: 10022922B64856352127888
-    country_name: Madagascar
-  Madagascar_Adm2_20:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Mandoto
-    shapeID: 10022922B69129581267436
-    country_name: Madagascar
-  Madagascar_Adm2_21:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Arivonimamo
-    shapeID: 10022922B99194691228489
-    country_name: Madagascar
-  Madagascar_Adm2_22:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Miarinarivo
-    shapeID: 10022922B79563685419763
-    country_name: Madagascar
-  Madagascar_Adm2_23:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Soavinandriana
-    shapeID: 10022922B59328070281510
-    country_name: Madagascar
-  Madagascar_Adm2_24:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Tsiroanomandidy
-    shapeID: 10022922B70813515121555
-    country_name: Madagascar
-  Madagascar_Adm2_25:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Fenoarivobe
-    shapeID: 10022922B23923498940873
-    country_name: Madagascar
-  Madagascar_Adm2_26:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: FianarantsoaI
-    shapeID: 10022922B21478747844721
-    country_name: Madagascar
-  Madagascar_Adm2_27:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambalavao
-    shapeID: 10022922B7475622417535
-    country_name: Madagascar
-  Madagascar_Adm2_28:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambohimahasoa
-    shapeID: 10022922B34392392155891
-    country_name: Madagascar
-  Madagascar_Adm2_29:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ikalamavony
-    shapeID: 10022922B85703559853082
-    country_name: Madagascar
-  Madagascar_Adm2_3:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: 3eArrondissement
-    shapeID: 10022922B59270450060951
-    country_name: Madagascar
-  Madagascar_Adm2_30:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Lalangina
-    shapeID: 10022922B72540367204165
-    country_name: Madagascar
-  Madagascar_Adm2_31:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Vohibato
-    shapeID: 10022922B39439372576611
-    country_name: Madagascar
-  Madagascar_Adm2_32:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Isandra
-    shapeID: 10022922B29889196912325
-    country_name: Madagascar
-  Madagascar_Adm2_33:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambatofinandrahana
-    shapeID: 10022922B11162683268422
-    country_name: Madagascar
-  Madagascar_Adm2_34:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambositra
-    shapeID: 10022922B13687813160362
-    country_name: Madagascar
-  Madagascar_Adm2_35:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Fandriana
-    shapeID: 10022922B23434626058692
-    country_name: Madagascar
-  Madagascar_Adm2_36:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Manandriana
-    shapeID: 10022922B47245353926014
-    country_name: Madagascar
-  Madagascar_Adm2_37:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ifanadiana
-    shapeID: 10022922B31790128040616
-    country_name: Madagascar
-  Madagascar_Adm2_38:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Nosy-Varika
-    shapeID: 10022922B12403701465046
-    country_name: Madagascar
-  Madagascar_Adm2_39:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Mananjary
-    shapeID: 10022922B52512193010711
-    country_name: Madagascar
-  Madagascar_Adm2_4:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: 4eArrondissement
-    shapeID: 10022922B42847936410668
-    country_name: Madagascar
-  Madagascar_Adm2_40:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: ManakaraAtsimo
-    shapeID: 10022922B29911348985828
-    country_name: Madagascar
-  Madagascar_Adm2_41:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ikongo
-    shapeID: 10022922B6018255004858
-    country_name: Madagascar
-  Madagascar_Adm2_42:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Vohipeno
-    shapeID: 10022922B81120329184352
-    country_name: Madagascar
-  Madagascar_Adm2_43:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ihosy
-    shapeID: 10022922B7074189327891
-    country_name: Madagascar
-  Madagascar_Adm2_44:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ivohibe
-    shapeID: 10022922B57896428715958
-    country_name: Madagascar
-  Madagascar_Adm2_45:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Iakora
-    shapeID: 10022922B30377745880071
-    country_name: Madagascar
-  Madagascar_Adm2_46:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Farafangana
-    shapeID: 10022922B75046296685916
-    country_name: Madagascar
-  Madagascar_Adm2_47:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Vangaindrano
-    shapeID: 10022922B74242760889111
-    country_name: Madagascar
-  Madagascar_Adm2_48:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Midongy-Atsimo
-    shapeID: 10022922B72475763343132
-    country_name: Madagascar
-  Madagascar_Adm2_49:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Vondrozo
-    shapeID: 10022922B86038713071830
-    country_name: Madagascar
-  Madagascar_Adm2_5:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: 5eArrondissement
-    shapeID: 10022922B36895306051586
-    country_name: Madagascar
-  Madagascar_Adm2_50:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Befotaka
-    shapeID: 10022922B11101019287712
-    country_name: Madagascar
-  Madagascar_Adm2_51:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: ToamasinaI
-    shapeID: 10022922B32937301443957
-    country_name: Madagascar
-  Madagascar_Adm2_52:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Brickaville
-    shapeID: 10022922B71585303896889
-    country_name: Madagascar
-  Madagascar_Adm2_53:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Vatomandry
-    shapeID: 10022922B31178585124685
-    country_name: Madagascar
-  Madagascar_Adm2_54:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Mahanoro
-    shapeID: 10022922B42807663031303
-    country_name: Madagascar
-  Madagascar_Adm2_55:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Marolambo
-    shapeID: 10022922B10629043557873
-    country_name: Madagascar
-  Madagascar_Adm2_56:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: ToamasinaII
-    shapeID: 10022922B55539380638871
-    country_name: Madagascar
-  Madagascar_Adm2_57:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: AntanambaoManampontsy
-    shapeID: 10022922B63046975451138
-    country_name: Madagascar
-  Madagascar_Adm2_58:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: SainteMarie
-    shapeID: 10022922B25342620887316
-    country_name: Madagascar
-  Madagascar_Adm2_59:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Maroantsetra
-    shapeID: 10022922B79548799707119
-    country_name: Madagascar
-  Madagascar_Adm2_6:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: 6eArrondissement
-    shapeID: 10022922B53755400100934
-    country_name: Madagascar
-  Madagascar_Adm2_60:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Mananara-Avaratra
-    shapeID: 10022922B77596397547877
-    country_name: Madagascar
-  Madagascar_Adm2_61:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: FeneriveEst
-    shapeID: 10022922B92224420422748
-    country_name: Madagascar
-  Madagascar_Adm2_62:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Vavatenina
-    shapeID: 10022922B54073545298219
-    country_name: Madagascar
-  Madagascar_Adm2_63:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: SoanieranaIvongo
-    shapeID: 10022922B56427545477040
-    country_name: Madagascar
-  Madagascar_Adm2_64:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Amparafaravola
-    shapeID: 10022922B80147144228565
-    country_name: Madagascar
-  Madagascar_Adm2_65:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambatondrazaka
-    shapeID: 10022922B15285270155057
-    country_name: Madagascar
-  Madagascar_Adm2_66:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Moramanga
-    shapeID: 10022922B82658288648411
-    country_name: Madagascar
-  Madagascar_Adm2_67:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Andilamena
-    shapeID: 10022922B97539486376385
-    country_name: Madagascar
-  Madagascar_Adm2_68:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Anosibe-An'ala
-    shapeID: 10022922B56031688474611
-    country_name: Madagascar
-  Madagascar_Adm2_69:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: MahajangaI
-    shapeID: 10022922B60996293868186
-    country_name: Madagascar
-  Madagascar_Adm2_7:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: AntananarivoAvaradrano
-    shapeID: 10022922B99940912082943
-    country_name: Madagascar
-  Madagascar_Adm2_70:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Soalala
-    shapeID: 10022922B91378939255033
-    country_name: Madagascar
-  Madagascar_Adm2_71:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: AmbatoBoeni
-    shapeID: 10022922B29824664852903
-    country_name: Madagascar
-  Madagascar_Adm2_72:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Marovoay
-    shapeID: 10022922B7387017022835
-    country_name: Madagascar
-  Madagascar_Adm2_73:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Mitsinjo
-    shapeID: 10022922B34339999190032
-    country_name: Madagascar
-  Madagascar_Adm2_74:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: MahajangaII
-    shapeID: 10022922B51504984909978
-    country_name: Madagascar
-  Madagascar_Adm2_75:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Port-Berge(Boriziny-Vaovao)
-    shapeID: 10022922B55197674782137
-    country_name: Madagascar
-  Madagascar_Adm2_76:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Mandritsara
-    shapeID: 10022922B13687974105922
-    country_name: Madagascar
-  Madagascar_Adm2_77:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Analalava
-    shapeID: 10022922B21608854890468
-    country_name: Madagascar
-  Madagascar_Adm2_78:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: BefandrianaNord
-    shapeID: 10022922B32579750162608
-    country_name: Madagascar
-  Madagascar_Adm2_79:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Antsohihy
-    shapeID: 10022922B54557741887580
-    country_name: Madagascar
-  Madagascar_Adm2_8:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambohidratrimo
-    shapeID: 10022922B52736847594449
-    country_name: Madagascar
-  Madagascar_Adm2_80:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Bealanana
-    shapeID: 10022922B56468572037030
-    country_name: Madagascar
-  Madagascar_Adm2_81:
     iso3c: MDG
-    admin_level: Adm2
-    admin_name: Mampikony
-    shapeID: 10022922B54995100782210
-    country_name: Madagascar
-  Madagascar_Adm2_82:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Maevatanana
-    shapeID: 10022922B61824869015313
-    country_name: Madagascar
-  Madagascar_Adm2_83:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Tsaratanana
-    shapeID: 10022922B96360954496738
-    country_name: Madagascar
-  Madagascar_Adm2_84:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Kandreho
-    shapeID: 10022922B38821373259374
-    country_name: Madagascar
-  Madagascar_Adm2_85:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Besalampy
-    shapeID: 10022922B83460232588272
-    country_name: Madagascar
-  Madagascar_Adm2_86:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ambatomainty
-    shapeID: 10022922B59098628147577
-    country_name: Madagascar
-  Madagascar_Adm2_87:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Antsalova
-    shapeID: 10022922B48021466276127
-    country_name: Madagascar
-  Madagascar_Adm2_88:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Maintirano
-    shapeID: 10022922B40533998311047
-    country_name: Madagascar
-  Madagascar_Adm2_89:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Morafenobe
-    shapeID: 10022922B27026898293410
-    country_name: Madagascar
-  Madagascar_Adm2_9:
-    iso3c: MDG
-    admin_level: Adm2
-    admin_name: Ankazobe
-    shapeID: 10022922B97289291498871
     country_name: Madagascar
-  Madagascar_Adm2_90:
-    iso3c: MDG
     admin_level: Adm2
-    admin_name: Toliary-I
-    shapeID: 10022922B36331574429859
-    country_name: Madagascar
-  Madagascar_Adm2_91:
+  MDG.6_1_Adm1:
+    GID: MDG.6_1
+    admin_name: Toliary
     iso3c: MDG
-    admin_level: Adm2
-    admin_name: Beroroha
-    shapeID: 10022922B39697778193382
     country_name: Madagascar
-  Madagascar_Adm2_92:
+    admin_level: Adm1
+  MDG.6.1_1_Adm2:
+    GID: MDG.6.1_1
+    admin_name: Androy
     iso3c: MDG
-    admin_level: Adm2
-    admin_name: Morombe
-    shapeID: 10022922B72547257848133
     country_name: Madagascar
-  Madagascar_Adm2_93:
-    iso3c: MDG
     admin_level: Adm2
-    admin_name: Ankazoabo
-    shapeID: 10022922B67140219559440
-    country_name: Madagascar
-  Madagascar_Adm2_94:
+  MDG.6.2_1_Adm2:
+    GID: MDG.6.2_1
+    admin_name: Anosy
     iso3c: MDG
-    admin_level: Adm2
-    admin_name: BetiokyAtsimo
-    shapeID: 10022922B63491232053463
     country_name: Madagascar
-  Madagascar_Adm2_95:
-    iso3c: MDG
     admin_level: Adm2
-    admin_name: AmpanihyOuest
-    shapeID: 10022922B9355726550011
-    country_name: Madagascar
-  Madagascar_Adm2_96:
+  MDG.6.3_1_Adm2:
+    GID: MDG.6.3_1
+    admin_name: Atsimo-Andrefana
     iso3c: MDG
-    admin_level: Adm2
-    admin_name: Sakaraha
-    shapeID: 10022922B49716742274905
     country_name: Madagascar
-  Madagascar_Adm2_97:
-    iso3c: MDG
     admin_level: Adm2
-    admin_name: Toliary-II
-    shapeID: 10022922B75767771564463
-    country_name: Madagascar
-  Madagascar_Adm2_98:
+  MDG.6.4_1_Adm2:
+    GID: MDG.6.4_1
+    admin_name: Menabe
     iso3c: MDG
-    admin_level: Adm2
-    admin_name: Benenitra
-    shapeID: 10022922B93003724204974
     country_name: Madagascar
-  Madagascar_Adm2_99:
-    iso3c: MDG
     admin_level: Adm2
-    admin_name: Beloha
-    shapeID: 10022922B63714971659336
-    country_name: Madagascar

@@ -1,757 +1,757 @@
 concepts:
-  Belarus_Adm0:
-    iso3c: BLR
-    admin_level: Adm0
+  BLR.0_Adm0:
+    GID: BLR
     admin_name: Belarus
-    shapeID: 10690812B6439167788480
-    country_name: Belarus
-  Belarus_Adm1_1:
     iso3c: BLR
-    admin_level: Adm1
-    admin_name: Gomel
-    shapeID: 45462678B94500211462696
     country_name: Belarus
-  Belarus_Adm1_2:
-    iso3c: BLR
-    admin_level: Adm1
-    admin_name: Vitebsk
-    shapeID: 45462678B24636394065255
-    country_name: Belarus
-  Belarus_Adm1_3:
-    iso3c: BLR
-    admin_level: Adm1
-    admin_name: Grodno
-    shapeID: 45462678B41589714648574
-    country_name: Belarus
-  Belarus_Adm1_4:
-    iso3c: BLR
-    admin_level: Adm1
+    admin_level: Adm0
+  BLR.1_1_Adm1:
+    GID: BLR.1_1
     admin_name: Brest
-    shapeID: 45462678B29468378769629
-    country_name: Belarus
-  Belarus_Adm1_5:
     iso3c: BLR
+    country_name: Belarus
     admin_level: Adm1
-    admin_name: Mogilev
-    shapeID: 45462678B58682879627750
-    country_name: Belarus
-  Belarus_Adm1_6:
+  BLR.1.1_1_Adm2:
+    GID: BLR.1.1_1
+    admin_name: Baranavichy
     iso3c: BLR
-    admin_level: Adm1
-    admin_name: Minsk
-    shapeID: 45462678B52111461583443
     country_name: Belarus
-  Belarus_Adm1_7:
-    iso3c: BLR
-    admin_level: Adm1
-    admin_name: MinskCity
-    shapeID: 45462678B57724394311820
-    country_name: Belarus
-  Belarus_Adm2_1:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Zhlobin
-    shapeID: 67162791B87321103764300
-    country_name: Belarus
-  Belarus_Adm2_10:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Ashmyany
-    shapeID: 67162791B18933715013959
-    country_name: Belarus
-  Belarus_Adm2_100:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Valozhyn
-    shapeID: 67162791B19881563690612
-    country_name: Belarus
-  Belarus_Adm2_101:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Maladzyechna
-    shapeID: 67162791B22380901430791
-    country_name: Belarus
-  Belarus_Adm2_102:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Barysaw
-    shapeID: 67162791B39606099444015
-    country_name: Belarus
-  Belarus_Adm2_103:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Byerazino
-    shapeID: 67162791B55727051267470
-    country_name: Belarus
-  Belarus_Adm2_104:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Chervyen
-    shapeID: 67162791B52884935059856
-    country_name: Belarus
-  Belarus_Adm2_105:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Kapyl
-    shapeID: 67162791B49789732024983
-    country_name: Belarus
-  Belarus_Adm2_106:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Kletsk
-    shapeID: 67162791B94687657655016
-    country_name: Belarus
-  Belarus_Adm2_107:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Krupki
-    shapeID: 67162791B85718992399445
-    country_name: Belarus
-  Belarus_Adm2_108:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Lahoysk
-    shapeID: 67162791B73059269727639
-    country_name: Belarus
-  Belarus_Adm2_109:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Lyuban
-    shapeID: 67162791B60458568388386
-    country_name: Belarus
-  Belarus_Adm2_11:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Voranava
-    shapeID: 67162791B43104058935452
-    country_name: Belarus
-  Belarus_Adm2_110:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Minsk
-    shapeID: 67162791B84471344127718
-    country_name: Belarus
-  Belarus_Adm2_111:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Nyasvizh
-    shapeID: 67162791B10653728732828
-    country_name: Belarus
-  Belarus_Adm2_112:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Puchavičy
-    shapeID: 67162791B58974730621112
-    country_name: Belarus
-  Belarus_Adm2_113:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Slutsk
-    shapeID: 67162791B93573624741448
-    country_name: Belarus
-  Belarus_Adm2_114:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Smalyavichy
-    shapeID: 67162791B46914171064537
-    country_name: Belarus
-  Belarus_Adm2_115:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: StaryyaDarohi
-    shapeID: 67162791B98065545782790
-    country_name: Belarus
-  Belarus_Adm2_116:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Stowbtsy
-    shapeID: 67162791B19818766020383
-    country_name: Belarus
-  Belarus_Adm2_117:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Uzda
-    shapeID: 67162791B57084664446232
-    country_name: Belarus
-  Belarus_Adm2_118:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Salihorsk
-    shapeID: 67162791B12460087089540
-    country_name: Belarus
-  Belarus_Adm2_12:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Iwye
-    shapeID: 67162791B89656925241953
-    country_name: Belarus
-  Belarus_Adm2_13:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Karelichy
-    shapeID: 67162791B39609385147896
-    country_name: Belarus
-  Belarus_Adm2_14:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Novogrudok
-    shapeID: 67162791B21439902878143
-    country_name: Belarus
-  Belarus_Adm2_15:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Lida
-    shapeID: 67162791B46145411949360
-    country_name: Belarus
-  Belarus_Adm2_16:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Dzyatlava
-    shapeID: 67162791B37208014069458
-    country_name: Belarus
-  Belarus_Adm2_17:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Slonim
-    shapeID: 67162791B56929358145249
-    country_name: Belarus
-  Belarus_Adm2_18:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Zel'va
-    shapeID: 67162791B91505134452571
-    country_name: Belarus
-  Belarus_Adm2_19:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Svislach
-    shapeID: 67162791B1668576645583
-    country_name: Belarus
-  Belarus_Adm2_2:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Vitebsk
-    shapeID: 67162791B85815486219336
-    country_name: Belarus
-  Belarus_Adm2_20:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Vawkavysk
-    shapeID: 67162791B87198261111694
-    country_name: Belarus
-  Belarus_Adm2_21:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Byerastavitsa
-    shapeID: 67162791B90230438084188
-    country_name: Belarus
-  Belarus_Adm2_22:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Masty
-    shapeID: 67162791B96733958179229
-    country_name: Belarus
-  Belarus_Adm2_23:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Shchuchyn
-    shapeID: 67162791B66420794580046
-    country_name: Belarus
-  Belarus_Adm2_24:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Lyelchytsy
-    shapeID: 67162791B62905803070856
-    country_name: Belarus
-  Belarus_Adm2_25:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Zhytkavichy
-    shapeID: 67162791B281573745440
-    country_name: Belarus
-  Belarus_Adm2_26:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Akciabrski
-    shapeID: 67162791B76840313346110
-    country_name: Belarus
-  Belarus_Adm2_27:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Pyetrykaw
-    shapeID: 67162791B78152292733501
-    country_name: Belarus
-  Belarus_Adm2_28:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Vietka
-    shapeID: 67162791B72598168140482
-    country_name: Belarus
-  Belarus_Adm2_29:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Dobrush
-    shapeID: 67162791B17030122378697
-    country_name: Belarus
-  Belarus_Adm2_3:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Grodno
-    shapeID: 67162791B13547290723272
-    country_name: Belarus
-  Belarus_Adm2_30:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Gomel
-    shapeID: 67162791B13261784360532
-    country_name: Belarus
-  Belarus_Adm2_31:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Chachersk
-    shapeID: 67162791B26710857863794
-    country_name: Belarus
-  Belarus_Adm2_32:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Karma
-    shapeID: 67162791B17316516711258
-    country_name: Belarus
-  Belarus_Adm2_33:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Rahachow
-    shapeID: 67162791B93010244041694
-    country_name: Belarus
-  Belarus_Adm2_34:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Buda-Kashalyova
-    shapeID: 67162791B74774527984565
-    country_name: Belarus
-  Belarus_Adm2_35:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Naroulia
-    shapeID: 67162791B29889808776469
-    country_name: Belarus
-  Belarus_Adm2_36:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Mazyr
-    shapeID: 67162791B88851399193905
-    country_name: Belarus
-  Belarus_Adm2_37:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Rechytsa
-    shapeID: 67162791B36955231142498
-    country_name: Belarus
-  Belarus_Adm2_38:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Svietlahorsk
-    shapeID: 67162791B63369954237676
-    country_name: Belarus
-  Belarus_Adm2_39:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Brahin
-    shapeID: 67162791B77344314095023
-    country_name: Belarus
-  Belarus_Adm2_4:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Brest
-    shapeID: 67162791B30498032594927
-    country_name: Belarus
-  Belarus_Adm2_40:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Yelʹsk
-    shapeID: 67162791B11100068414031
-    country_name: Belarus
-  Belarus_Adm2_41:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Kalinkavichy
-    shapeID: 67162791B95934163913722
-    country_name: Belarus
-  Belarus_Adm2_42:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Khoiniki
-    shapeID: 67162791B63950130624576
-    country_name: Belarus
-  Belarus_Adm2_43:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Loyew
-    shapeID: 67162791B2494752626310
-    country_name: Belarus
-  Belarus_Adm2_44:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Stolin
-    shapeID: 67162791B20391469538668
-    country_name: Belarus
-  Belarus_Adm2_45:
-    iso3c: BLR
-    admin_level: Adm2
+  BLR.1.10_1_Adm2:
+    GID: BLR.1.10_1
     admin_name: Luninets
-    shapeID: 67162791B41216407156673
-    country_name: Belarus
-  Belarus_Adm2_46:
     iso3c: BLR
-    admin_level: Adm2
-    admin_name: Pinsk
-    shapeID: 67162791B61405599198646
     country_name: Belarus
-  Belarus_Adm2_47:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Hantsavichy
-    shapeID: 67162791B6713137002494
-    country_name: Belarus
-  Belarus_Adm2_48:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Baranovichy
-    shapeID: 67162791B97838850570601
-    country_name: Belarus
-  Belarus_Adm2_49:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Byaroza
-    shapeID: 67162791B6222300561744
-    country_name: Belarus
-  Belarus_Adm2_5:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Bykhaw
-    shapeID: 67162791B64614066939299
-    country_name: Belarus
-  Belarus_Adm2_50:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Drahichyn
-    shapeID: 67162791B13228782215285
-    country_name: Belarus
-  Belarus_Adm2_51:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Ivanava
-    shapeID: 67162791B27498157405440
-    country_name: Belarus
-  Belarus_Adm2_52:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Ivatsevichy
-    shapeID: 67162791B15775504283911
-    country_name: Belarus
-  Belarus_Adm2_53:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Kamenets
-    shapeID: 67162791B59963656038120
-    country_name: Belarus
-  Belarus_Adm2_54:
-    iso3c: BLR
-    admin_level: Adm2
-    admin_name: Kobryn
-    shapeID: 67162791B1192676397695
-    country_name: Belarus
-  Belarus_Adm2_55:
-    iso3c: BLR
-    admin_level: Adm2
+  BLR.1.11_1_Adm2:
+    GID: BLR.1.11_1
     admin_name: Lyakhavichy
-    shapeID: 67162791B80813457147779
-    country_name: Belarus
-  Belarus_Adm2_56:
     iso3c: BLR
+    country_name: Belarus
     admin_level: Adm2
+  BLR.1.12_1_Adm2:
+    GID: BLR.1.12_1
     admin_name: Malaryta
-    shapeID: 67162791B17752609820062
-    country_name: Belarus
-  Belarus_Adm2_57:
     iso3c: BLR
+    country_name: Belarus
     admin_level: Adm2
+  BLR.1.13_1_Adm2:
+    GID: BLR.1.13_1
+    admin_name: Pinsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.1.14_1_Adm2:
+    GID: BLR.1.14_1
     admin_name: Pruzhany
-    shapeID: 67162791B13478011403583
-    country_name: Belarus
-  Belarus_Adm2_58:
     iso3c: BLR
+    country_name: Belarus
     admin_level: Adm2
+  BLR.1.15_1_Adm2:
+    GID: BLR.1.15_1
+    admin_name: Stolin
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.1.16_1_Adm2:
+    GID: BLR.1.16_1
     admin_name: Zhabinka
-    shapeID: 67162791B54933494059720
-    country_name: Belarus
-  Belarus_Adm2_59:
     iso3c: BLR
-    admin_level: Adm2
-    admin_name: Khotsimsk
-    shapeID: 67162791B11584975294724
     country_name: Belarus
-  Belarus_Adm2_6:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Dzyarzhynsk
-    shapeID: 67162791B81421428715601
+  BLR.1.2_1_Adm2:
+    GID: BLR.1.2_1
+    admin_name: Biaroza
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_60:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Kastsyukovichy
-    shapeID: 67162791B14569635979911
+  BLR.1.3_1_Adm2:
+    GID: BLR.1.3_1
+    admin_name: Brest
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_61:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Krasnapolle
-    shapeID: 67162791B52564132020414
+  BLR.1.4_1_Adm2:
+    GID: BLR.1.4_1
+    admin_name: Drahichyn
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_62:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Klimavichy
-    shapeID: 67162791B58533541453403
+  BLR.1.5_1_Adm2:
+    GID: BLR.1.5_1
+    admin_name: Hancavichy
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_63:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Krychaw
-    shapeID: 67162791B56678014739115
+  BLR.1.6_1_Adm2:
+    GID: BLR.1.6_1
+    admin_name: Ivanaw
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_64:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Cherykaw
-    shapeID: 67162791B83279044546130
+  BLR.1.7_1_Adm2:
+    GID: BLR.1.7_1
+    admin_name: Ivatsevichy
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_65:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Mstsislaw
-    shapeID: 67162791B4778855273895
+  BLR.1.8_1_Adm2:
+    GID: BLR.1.8_1
+    admin_name: Kamyanyets
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_66:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Slawharad
-    shapeID: 67162791B95045439516357
+  BLR.1.9_1_Adm2:
+    GID: BLR.1.9_1
+    admin_name: Kobryn
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_67:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Horki
-    shapeID: 67162791B10713618148259
+  BLR.2_1_Adm1:
+    GID: BLR.2_1
+    admin_name: Gomel
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_68:
+    admin_level: Adm1
+  BLR.2.1_1_Adm2:
+    GID: BLR.2.1_1
+    admin_name: Aktsyabar
     iso3c: BLR
-    admin_level: Adm2
-    admin_name: Shklow
-    shapeID: 67162791B50878075194487
     country_name: Belarus
-  Belarus_Adm2_69:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Kruhlaye
-    shapeID: 67162791B94243355622129
+  BLR.2.10_1_Adm2:
+    GID: BLR.2.10_1
+    admin_name: Loyew
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_7:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: MinskCity
-    shapeID: 67162791B57724394311820
+  BLR.2.11_1_Adm2:
+    GID: BLR.2.11_1
+    admin_name: Lyelchytsy
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_70:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Chavusy
-    shapeID: 67162791B68481301764251
+  BLR.2.12_1_Adm2:
+    GID: BLR.2.12_1
+    admin_name: Mazyr
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_71:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Mogilev
-    shapeID: 67162791B13586571917215
+  BLR.2.13_1_Adm2:
+    GID: BLR.2.13_1
+    admin_name: Naroulya
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_72:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Byalynichy
-    shapeID: 67162791B99339401725810
+  BLR.2.14_1_Adm2:
+    GID: BLR.2.14_1
+    admin_name: Pyetrykaw
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_73:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Hlusk
-    shapeID: 67162791B26256964844328
+  BLR.2.15_1_Adm2:
+    GID: BLR.2.15_1
+    admin_name: Rahachow
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_74:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Babruysk
-    shapeID: 67162791B49466941565536
+  BLR.2.16_1_Adm2:
+    GID: BLR.2.16_1
+    admin_name: Rechytsa
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_75:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Asipovichy
-    shapeID: 67162791B915008440335
+  BLR.2.17_1_Adm2:
+    GID: BLR.2.17_1
+    admin_name: Svyetlahorsk
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_76:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Kirawsk
-    shapeID: 67162791B61593564131840
+  BLR.2.18_1_Adm2:
+    GID: BLR.2.18_1
+    admin_name: Vyetka
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_77:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Klichaw
-    shapeID: 67162791B97539600295477
+  BLR.2.19_1_Adm2:
+    GID: BLR.2.19_1
+    admin_name: Yel'sk
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_78:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Beshankovichy
-    shapeID: 67162791B20127655381780
+  BLR.2.2_1_Adm2:
+    GID: BLR.2.2_1
+    admin_name: Brahin
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_79:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Braslaw
-    shapeID: 67162791B18102707107362
+  BLR.2.20_1_Adm2:
+    GID: BLR.2.20_1
+    admin_name: Žlobin
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_8:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Astravyets
-    shapeID: 67162791B54270193950847
+  BLR.2.21_1_Adm2:
+    GID: BLR.2.21_1
+    admin_name: Žytkavičy
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_80:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Chashniki
-    shapeID: 67162791B63587233546026
+  BLR.2.3_1_Adm2:
+    GID: BLR.2.3_1
+    admin_name: Buda-Kashalyowa
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_81:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Dokshytsy
-    shapeID: 67162791B61932293276792
+  BLR.2.4_1_Adm2:
+    GID: BLR.2.4_1
+    admin_name: Chachersk
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_82:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Dubrowna
-    shapeID: 67162791B1773631612848
+  BLR.2.5_1_Adm2:
+    GID: BLR.2.5_1
+    admin_name: Dobruš
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_83:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Haradok
-    shapeID: 67162791B30546828632542
+  BLR.2.6_1_Adm2:
+    GID: BLR.2.6_1
+    admin_name: Gomyel
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_84:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Hlybokaye
-    shapeID: 67162791B12228546801080
+  BLR.2.7_1_Adm2:
+    GID: BLR.2.7_1
+    admin_name: Kalinkavichy
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_85:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Lyepyel
-    shapeID: 67162791B29799454608156
+  BLR.2.8_1_Adm2:
+    GID: BLR.2.8_1
+    admin_name: Karma
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_86:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Liozna
-    shapeID: 67162791B19917337499758
+  BLR.2.9_1_Adm2:
+    GID: BLR.2.9_1
+    admin_name: Khoyniki
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_87:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Miory
-    shapeID: 67162791B84307245476990
+  BLR.3_1_Adm1:
+    GID: BLR.3_1
+    admin_name: Grodno
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_88:
+    admin_level: Adm1
+  BLR.3.1_1_Adm2:
+    GID: BLR.3.1_1
+    admin_name: Ashmyany
     iso3c: BLR
-    admin_level: Adm2
-    admin_name: Orsha
-    shapeID: 67162791B52368794321360
     country_name: Belarus
-  Belarus_Adm2_89:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Pastavy
-    shapeID: 67162791B41761210959552
+  BLR.3.10_1_Adm2:
+    GID: BLR.3.10_1
+    admin_name: Navahradak
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_9:
-    iso3c: BLR
     admin_level: Adm2
+  BLR.3.11_1_Adm2:
+    GID: BLR.3.11_1
+    admin_name: Svislach
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.3.12_1_Adm2:
+    GID: BLR.3.12_1
+    admin_name: Shchuchyn
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.3.13_1_Adm2:
+    GID: BLR.3.13_1
+    admin_name: Slonim
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.3.14_1_Adm2:
+    GID: BLR.3.14_1
     admin_name: Smarhon
-    shapeID: 67162791B9257777977100
-    country_name: Belarus
-  Belarus_Adm2_90:
     iso3c: BLR
-    admin_level: Adm2
-    admin_name: Polotsk
-    shapeID: 67162791B45929653886900
     country_name: Belarus
-  Belarus_Adm2_91:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Rasony
-    shapeID: 67162791B65560195088656
+  BLR.3.15_1_Adm2:
+    GID: BLR.3.15_1
+    admin_name: Vawkavysk
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_92:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Sharkawshchyna
-    shapeID: 67162791B8322834804347
+  BLR.3.16_1_Adm2:
+    GID: BLR.3.16_1
+    admin_name: Voranava
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_93:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Shumilina
-    shapeID: 67162791B70451788382486
+  BLR.3.17_1_Adm2:
+    GID: BLR.3.17_1
+    admin_name: Zel'va
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_94:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Syanno
-    shapeID: 67162791B30203465956125
+  BLR.3.2_1_Adm2:
+    GID: BLR.3.2_1
+    admin_name: Astravyets
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_95:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Talachyn
-    shapeID: 67162791B51675752120435
+  BLR.3.3_1_Adm2:
+    GID: BLR.3.3_1
+    admin_name: Byerastavitsa
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_96:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Ushachy
-    shapeID: 67162791B55947192119521
+  BLR.3.4_1_Adm2:
+    GID: BLR.3.4_1
+    admin_name: Dzyatlava
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_97:
-    iso3c: BLR
     admin_level: Adm2
-    admin_name: Verkhnyadzvinsk
-    shapeID: 67162791B82603429459213
+  BLR.3.5_1_Adm2:
+    GID: BLR.3.5_1
+    admin_name: Hrodna
+    iso3c: BLR
     country_name: Belarus
-  Belarus_Adm2_98:
-    iso3c: BLR
     admin_level: Adm2
+  BLR.3.6_1_Adm2:
+    GID: BLR.3.6_1
+    admin_name: Iwye
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.3.7_1_Adm2:
+    GID: BLR.3.7_1
+    admin_name: Karelichy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.3.8_1_Adm2:
+    GID: BLR.3.8_1
+    admin_name: Lida
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.3.9_1_Adm2:
+    GID: BLR.3.9_1
+    admin_name: Masty
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4_1_Adm1:
+    GID: BLR.4_1
+    admin_name: Mogilev
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm1
+  BLR.4.1_1_Adm2:
+    GID: BLR.4.1_1
+    admin_name: Asipovichy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.10_1_Adm2:
+    GID: BLR.4.10_1
+    admin_name: Kastsyukovichy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.11_1_Adm2:
+    GID: BLR.4.11_1
+    admin_name: Khotsimsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.12_1_Adm2:
+    GID: BLR.4.12_1
+    admin_name: Kirawsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.13_1_Adm2:
+    GID: BLR.4.13_1
+    admin_name: Klichaw
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.14_1_Adm2:
+    GID: BLR.4.14_1
+    admin_name: Klimavichy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.15_1_Adm2:
+    GID: BLR.4.15_1
+    admin_name: Krasnapolle
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.16_1_Adm2:
+    GID: BLR.4.16_1
+    admin_name: Kruhlaye
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.17_1_Adm2:
+    GID: BLR.4.17_1
+    admin_name: Krychaw
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.18_1_Adm2:
+    GID: BLR.4.18_1
+    admin_name: Mogilev
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.19_1_Adm2:
+    GID: BLR.4.19_1
+    admin_name: Ms'tsislaw
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.2_1_Adm2:
+    GID: BLR.4.2_1
+    admin_name: Babruysk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.20_1_Adm2:
+    GID: BLR.4.20_1
+    admin_name: Shklow
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.21_1_Adm2:
+    GID: BLR.4.21_1
+    admin_name: Slawharad
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.3_1_Adm2:
+    GID: BLR.4.3_1
+    admin_name: Bialynichy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.4_1_Adm2:
+    GID: BLR.4.4_1
+    admin_name: Bykhaw
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.5_1_Adm2:
+    GID: BLR.4.5_1
+    admin_name: Chavusy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.6_1_Adm2:
+    GID: BLR.4.6_1
+    admin_name: Cherykaw
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.7_1_Adm2:
+    GID: BLR.4.7_1
+    admin_name: Drybin
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.8_1_Adm2:
+    GID: BLR.4.8_1
+    admin_name: Hlusk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.4.9_1_Adm2:
+    GID: BLR.4.9_1
+    admin_name: Horki
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5_1_Adm1:
+    GID: BLR.5_1
+    admin_name: Minsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm1
+  BLR.5.1_1_Adm2:
+    GID: BLR.5.1_1
+    admin_name: Barysaw
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.10_1_Adm2:
+    GID: BLR.5.10_1
+    admin_name: Maladechna
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.11_1_Adm2:
+    GID: BLR.5.11_1
+    admin_name: Minsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.12_1_Adm2:
+    GID: BLR.5.12_1
     admin_name: Myadzyel
-    shapeID: 67162791B89573771278316
-    country_name: Belarus
-  Belarus_Adm2_99:
     iso3c: BLR
-    admin_level: Adm2
-    admin_name: Vileyka
-    shapeID: 67162791B71807573158689
     country_name: Belarus
+    admin_level: Adm2
+  BLR.5.13_1_Adm2:
+    GID: BLR.5.13_1
+    admin_name: Nyasvizh
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.14_1_Adm2:
+    GID: BLR.5.14_1
+    admin_name: Pukhavichy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.15_1_Adm2:
+    GID: BLR.5.15_1
+    admin_name: Salihorsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.16_1_Adm2:
+    GID: BLR.5.16_1
+    admin_name: Slutsak
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.17_1_Adm2:
+    GID: BLR.5.17_1
+    admin_name: Smalyavichy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.18_1_Adm2:
+    GID: BLR.5.18_1
+    admin_name: Staryya Darohi
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.19_1_Adm2:
+    GID: BLR.5.19_1
+    admin_name: Stowbtsy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.2_1_Adm2:
+    GID: BLR.5.2_1
+    admin_name: Byarezino
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.20_1_Adm2:
+    GID: BLR.5.20_1
+    admin_name: Uzda
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.21_1_Adm2:
+    GID: BLR.5.21_1
+    admin_name: Valozhyn
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.22_1_Adm2:
+    GID: BLR.5.22_1
+    admin_name: Vileyka
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.3_1_Adm2:
+    GID: BLR.5.3_1
+    admin_name: Chervyen
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.4_1_Adm2:
+    GID: BLR.5.4_1
+    admin_name: Dzyarzhynsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.5_1_Adm2:
+    GID: BLR.5.5_1
+    admin_name: Kapyl
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.6_1_Adm2:
+    GID: BLR.5.6_1
+    admin_name: Klyetsak
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.7_1_Adm2:
+    GID: BLR.5.7_1
+    admin_name: Krupki
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.8_1_Adm2:
+    GID: BLR.5.8_1
+    admin_name: Lahoysk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.5.9_1_Adm2:
+    GID: BLR.5.9_1
+    admin_name: Lyuban
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6_1_Adm1:
+    GID: BLR.6_1
+    admin_name: Vitebsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm1
+  BLR.6.1_1_Adm2:
+    GID: BLR.6.1_1
+    admin_name: Arsha
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.10_1_Adm2:
+    GID: BLR.6.10_1
+    admin_name: Lyozna
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.11_1_Adm2:
+    GID: BLR.6.11_1
+    admin_name: Myory
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.12_1_Adm2:
+    GID: BLR.6.12_1
+    admin_name: Pastavy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.13_1_Adm2:
+    GID: BLR.6.13_1
+    admin_name: Polatsak
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.14_1_Adm2:
+    GID: BLR.6.14_1
+    admin_name: Rasony
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.15_1_Adm2:
+    GID: BLR.6.15_1
+    admin_name: Sharkawshchyna
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.16_1_Adm2:
+    GID: BLR.6.16_1
+    admin_name: Shumilina
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.17_1_Adm2:
+    GID: BLR.6.17_1
+    admin_name: Syanno
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.18_1_Adm2:
+    GID: BLR.6.18_1
+    admin_name: Talachyn
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.19_1_Adm2:
+    GID: BLR.6.19_1
+    admin_name: Ushat
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.2_1_Adm2:
+    GID: BLR.6.2_1
+    admin_name: Braslaw
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.20_1_Adm2:
+    GID: BLR.6.20_1
+    admin_name: Vitebsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.21_1_Adm2:
+    GID: BLR.6.21_1
+    admin_name: Vyerkhnyazdvinsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.3_1_Adm2:
+    GID: BLR.6.3_1
+    admin_name: Byeshankovichy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.4_1_Adm2:
+    GID: BLR.6.4_1
+    admin_name: Chashniki
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.5_1_Adm2:
+    GID: BLR.6.5_1
+    admin_name: Dokshytsy
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.6_1_Adm2:
+    GID: BLR.6.6_1
+    admin_name: Dubrowna
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.7_1_Adm2:
+    GID: BLR.6.7_1
+    admin_name: Haradok
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.8_1_Adm2:
+    GID: BLR.6.8_1
+    admin_name: Hlybokaye
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.6.9_1_Adm2:
+    GID: BLR.6.9_1
+    admin_name: Lyepyel
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm2
+  BLR.7_1_Adm1:
+    GID: BLR.7_1
+    admin_name: Minsk
+    iso3c: BLR
+    country_name: Belarus
+    admin_level: Adm1

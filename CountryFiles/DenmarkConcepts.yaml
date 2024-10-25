@@ -1,625 +1,631 @@
 concepts:
-  Denmark_Adm0:
-    iso3c: DNK
-    admin_level: Adm0
+  DNK.0_Adm0:
+    GID: DNK
     admin_name: Denmark
-    shapeID: 41277480B51967986096680
-    country_name: Denmark
-  Denmark_Adm1_1:
     iso3c: DNK
-    admin_level: Adm1
-    admin_name: Nordjylland
-    shapeID: 84455774B84842167963849
     country_name: Denmark
-  Denmark_Adm1_2:
-    iso3c: DNK
-    admin_level: Adm1
-    admin_name: Midtjylland
-    shapeID: 84455774B58555105451238
-    country_name: Denmark
-  Denmark_Adm1_3:
-    iso3c: DNK
-    admin_level: Adm1
-    admin_name: Sjælland
-    shapeID: 84455774B92412385890269
-    country_name: Denmark
-  Denmark_Adm1_4:
-    iso3c: DNK
-    admin_level: Adm1
+    admin_level: Adm0
+  DNK.1_1_Adm1:
+    GID: DNK.1_1
     admin_name: Hovedstaden
-    shapeID: 84455774B63592985071065
-    country_name: Denmark
-  Denmark_Adm1_5:
     iso3c: DNK
+    country_name: Denmark
     admin_level: Adm1
-    admin_name: Syddanmark
-    shapeID: 84455774B68755790009873
-    country_name: Denmark
-  Denmark_Adm2_1:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Lolland
-    shapeID: 71786716B63500106048247
-    country_name: Denmark
-  Denmark_Adm2_10:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Slagelse
-    shapeID: 71786716B32972196165212
-    country_name: Denmark
-  Denmark_Adm2_11:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Assens
-    shapeID: 71786716B65540528804322
-    country_name: Denmark
-  Denmark_Adm2_12:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Næstved
-    shapeID: 71786716B67811636615197
-    country_name: Denmark
-  Denmark_Adm2_13:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Tønder
-    shapeID: 71786716B76174594185827
-    country_name: Denmark
-  Denmark_Adm2_14:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Bornholm
-    shapeID: 71786716B33031054619724
-    country_name: Denmark
-  Denmark_Adm2_15:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Middelfart
-    shapeID: 71786716B86094483146336
-    country_name: Denmark
-  Denmark_Adm2_16:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Haderslev
-    shapeID: 71786716B2638221370026
-    country_name: Denmark
-  Denmark_Adm2_17:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Faxe
-    shapeID: 71786716B45041800869669
-    country_name: Denmark
-  Denmark_Adm2_18:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Stevns
-    shapeID: 71786716B98245585766658
-    country_name: Denmark
-  Denmark_Adm2_19:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Nyborg
-    shapeID: 71786716B14316823735839
-    country_name: Denmark
-  Denmark_Adm2_2:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Guldborgsund
-    shapeID: 71786716B32401712412850
-    country_name: Denmark
-  Denmark_Adm2_20:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Fanø
-    shapeID: 71786716B51826106160484
-    country_name: Denmark
-  Denmark_Adm2_21:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Odense
-    shapeID: 71786716B91062148245888
-    country_name: Denmark
-  Denmark_Adm2_22:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Kerteminde
-    shapeID: 71786716B45706286685972
-    country_name: Denmark
-  Denmark_Adm2_23:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Køge
-    shapeID: 71786716B2511855224045
-    country_name: Denmark
-  Denmark_Adm2_24:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Ringsted
-    shapeID: 71786716B98057254885273
-    country_name: Denmark
-  Denmark_Adm2_25:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Solrød
-    shapeID: 71786716B40153436417240
-    country_name: Denmark
-  Denmark_Adm2_26:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Sorø
-    shapeID: 71786716B94282367677525
-    country_name: Denmark
-  Denmark_Adm2_27:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Esbjerg
-    shapeID: 71786716B6967543231569
-    country_name: Denmark
-  Denmark_Adm2_28:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Dragør
-    shapeID: 71786716B8451397458066
-    country_name: Denmark
-  Denmark_Adm2_29:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Greve
-    shapeID: 71786716B88423540640223
-    country_name: Denmark
-  Denmark_Adm2_3:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Langeland
-    shapeID: 71786716B45944384032152
-    country_name: Denmark
-  Denmark_Adm2_30:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Nordfyn
-    shapeID: 71786716B94140568065229
-    country_name: Denmark
-  Denmark_Adm2_31:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Fredericia
-    shapeID: 71786716B82112898444320
-    country_name: Denmark
-  Denmark_Adm2_32:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Kolding
-    shapeID: 71786716B1982958908427
-    country_name: Denmark
-  Denmark_Adm2_33:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Vejen
-    shapeID: 71786716B99436986743793
-    country_name: Denmark
-  Denmark_Adm2_34:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Ishøj
-    shapeID: 71786716B54697214973088
-    country_name: Denmark
-  Denmark_Adm2_35:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Vallensbæk
-    shapeID: 71786716B41815139440907
-    country_name: Denmark
-  Denmark_Adm2_36:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Tårnby
-    shapeID: 71786716B34155480621965
-    country_name: Denmark
-  Denmark_Adm2_37:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Hvidovre
-    shapeID: 71786716B96315335718138
-    country_name: Denmark
-  Denmark_Adm2_38:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Brøndby
-    shapeID: 71786716B57593819644291
-    country_name: Denmark
-  Denmark_Adm2_39:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Frederiksberg
-    shapeID: 71786716B96110524527409
-    country_name: Denmark
-  Denmark_Adm2_4:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Ærø
-    shapeID: 71786716B90858178482348
-    country_name: Denmark
-  Denmark_Adm2_40:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Copenhagen
-    shapeID: 71786716B81020738772022
-    country_name: Denmark
-  Denmark_Adm2_41:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Høje-Taastrup
-    shapeID: 71786716B42272868765696
-    country_name: Denmark
-  Denmark_Adm2_42:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Rødovre
-    shapeID: 71786716B94034131707530
-    country_name: Denmark
-  Denmark_Adm2_43:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Glostrup
-    shapeID: 71786716B94689568032643
-    country_name: Denmark
-  Denmark_Adm2_44:
-    iso3c: DNK
-    admin_level: Adm2
+  DNK.1.1_1_Adm2:
+    GID: DNK.1.1_1
     admin_name: Albertslund
-    shapeID: 71786716B52259600676323
-    country_name: Denmark
-  Denmark_Adm2_45:
     iso3c: DNK
-    admin_level: Adm2
-    admin_name: Lejre
-    shapeID: 71786716B9584980796535
     country_name: Denmark
-  Denmark_Adm2_46:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Herlev
-    shapeID: 71786716B11041135225736
+  DNK.1.10_1_Adm2:
+    GID: DNK.1.10_1
+    admin_name: Frederiksberg
+    iso3c: DNK
     country_name: Denmark
-  Denmark_Adm2_47:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Ballerup
-    shapeID: 71786716B39657663077774
-    country_name: Denmark
-  Denmark_Adm2_48:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Kalundborg
-    shapeID: 71786716B42683939496467
-    country_name: Denmark
-  Denmark_Adm2_49:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Gentofte
-    shapeID: 71786716B53270433009438
-    country_name: Denmark
-  Denmark_Adm2_5:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Vordingborg
-    shapeID: 71786716B59118439676977
-    country_name: Denmark
-  Denmark_Adm2_50:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Gladsaxe
-    shapeID: 71786716B38121687618802
-    country_name: Denmark
-  Denmark_Adm2_51:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Roskilde
-    shapeID: 71786716B8217347854635
-    country_name: Denmark
-  Denmark_Adm2_52:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Horsens
-    shapeID: 71786716B65113762150251
-    country_name: Denmark
-  Denmark_Adm2_53:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Holbæk
-    shapeID: 71786716B65993177657172
-    country_name: Denmark
-  Denmark_Adm2_54:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Lyngby-Taarbæk
-    shapeID: 71786716B60882746740321
-    country_name: Denmark
-  Denmark_Adm2_55:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Egedal
-    shapeID: 71786716B46121035431506
-    country_name: Denmark
-  Denmark_Adm2_56:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Furesø
-    shapeID: 71786716B96319125747184
-    country_name: Denmark
-  Denmark_Adm2_57:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Varde
-    shapeID: 71786716B29460567915272
-    country_name: Denmark
-  Denmark_Adm2_58:
-    iso3c: DNK
-    admin_level: Adm2
+  DNK.1.11_1_Adm2:
+    GID: DNK.1.11_1
     admin_name: Frederikssund
-    shapeID: 71786716B23852349760420
-    country_name: Denmark
-  Denmark_Adm2_59:
     iso3c: DNK
-    admin_level: Adm2
-    admin_name: Rudersdal
-    shapeID: 71786716B12088833667766
     country_name: Denmark
-  Denmark_Adm2_6:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Svendborg
-    shapeID: 71786716B34966856505407
+  DNK.1.12_1_Adm2:
+    GID: DNK.1.12_1
+    admin_name: Furesø
+    iso3c: DNK
     country_name: Denmark
-  Denmark_Adm2_60:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Hørsholm
-    shapeID: 71786716B49302352621351
+  DNK.1.13_1_Adm2:
+    GID: DNK.1.13_1
+    admin_name: Gentofte
+    iso3c: DNK
     country_name: Denmark
-  Denmark_Adm2_61:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Billund
-    shapeID: 71786716B53245715843786
+  DNK.1.14_1_Adm2:
+    GID: DNK.1.14_1
+    admin_name: Gladsaxe
+    iso3c: DNK
     country_name: Denmark
-  Denmark_Adm2_62:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Hedensted
-    shapeID: 71786716B62179325616663
+  DNK.1.15_1_Adm2:
+    GID: DNK.1.15_1
+    admin_name: Glostrup
+    iso3c: DNK
     country_name: Denmark
-  Denmark_Adm2_63:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Odder
-    shapeID: 71786716B43620076453863
-    country_name: Denmark
-  Denmark_Adm2_64:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Vejle
-    shapeID: 71786716B25626345005287
-    country_name: Denmark
-  Denmark_Adm2_65:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Hillerød
-    shapeID: 71786716B87133991415535
-    country_name: Denmark
-  Denmark_Adm2_66:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Samsø
-    shapeID: 71786716B53109750697969
-    country_name: Denmark
-  Denmark_Adm2_67:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Odsherred
-    shapeID: 71786716B40980494570781
-    country_name: Denmark
-  Denmark_Adm2_68:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Halsnæs
-    shapeID: 71786716B96997928459710
-    country_name: Denmark
-  Denmark_Adm2_69:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Fredensborg
-    shapeID: 71786716B33394291945176
-    country_name: Denmark
-  Denmark_Adm2_7:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Sønderborg
-    shapeID: 71786716B72299351601619
-    country_name: Denmark
-  Denmark_Adm2_70:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Helsingør
-    shapeID: 71786716B97058706593659
-    country_name: Denmark
-  Denmark_Adm2_71:
-    iso3c: DNK
-    admin_level: Adm2
+  DNK.1.16_1_Adm2:
+    GID: DNK.1.16_1
     admin_name: Gribskov
-    shapeID: 71786716B26630627548335
-    country_name: Denmark
-  Denmark_Adm2_72:
     iso3c: DNK
-    admin_level: Adm2
-    admin_name: Syddjurs
-    shapeID: 71786716B20787037821184
     country_name: Denmark
-  Denmark_Adm2_73:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Skanderborg
-    shapeID: 71786716B49765526069388
+  DNK.1.17_1_Adm2:
+    GID: DNK.1.17_1
+    admin_name: Halsnæs
+    iso3c: DNK
     country_name: Denmark
-  Denmark_Adm2_74:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Ringkøbing-Skjern
-    shapeID: 71786716B34761600297143
+  DNK.1.18_1_Adm2:
+    GID: DNK.1.18_1
+    admin_name: Helsingør
+    iso3c: DNK
     country_name: Denmark
-  Denmark_Adm2_75:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Ikast-Brande
-    shapeID: 71786716B46362927982111
+  DNK.1.19_1_Adm2:
+    GID: DNK.1.19_1
+    admin_name: Herlev
+    iso3c: DNK
     country_name: Denmark
-  Denmark_Adm2_76:
-    iso3c: DNK
     admin_level: Adm2
-    admin_name: Aarhus
-    shapeID: 71786716B54938770362357
-    country_name: Denmark
-  Denmark_Adm2_77:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Silkeborg
-    shapeID: 71786716B56541521256220
-    country_name: Denmark
-  Denmark_Adm2_78:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Herning
-    shapeID: 71786716B23663037575971
-    country_name: Denmark
-  Denmark_Adm2_79:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Favrskov
-    shapeID: 71786716B27809903235433
-    country_name: Denmark
-  Denmark_Adm2_8:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Faaborg-Midtfyn
-    shapeID: 71786716B25765023105800
-    country_name: Denmark
-  Denmark_Adm2_80:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Struer
-    shapeID: 71786716B94194061920718
-    country_name: Denmark
-  Denmark_Adm2_81:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Holstebro
-    shapeID: 71786716B58016217336700
-    country_name: Denmark
-  Denmark_Adm2_82:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Norddjurs
-    shapeID: 71786716B68566026973001
-    country_name: Denmark
-  Denmark_Adm2_83:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Viborg
-    shapeID: 71786716B21087296928926
-    country_name: Denmark
-  Denmark_Adm2_84:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Lemvig
-    shapeID: 71786716B9806363865609
-    country_name: Denmark
-  Denmark_Adm2_85:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Randers
-    shapeID: 71786716B48627086580811
-    country_name: Denmark
-  Denmark_Adm2_86:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Skive
-    shapeID: 71786716B69433812533005
-    country_name: Denmark
-  Denmark_Adm2_87:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Mariagerfjord
-    shapeID: 71786716B20459048637380
-    country_name: Denmark
-  Denmark_Adm2_88:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Vesthimmerland
-    shapeID: 71786716B16948230614219
-    country_name: Denmark
-  Denmark_Adm2_89:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Rebild
-    shapeID: 71786716B49847933148159
-    country_name: Denmark
-  Denmark_Adm2_9:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Aabenraa
-    shapeID: 71786716B46678336638205
-    country_name: Denmark
-  Denmark_Adm2_90:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Morsø
-    shapeID: 71786716B69774565938083
-    country_name: Denmark
-  Denmark_Adm2_91:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Aalborg
-    shapeID: 71786716B34564018913551
-    country_name: Denmark
-  Denmark_Adm2_92:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Thisted
-    shapeID: 71786716B56383958265758
-    country_name: Denmark
-  Denmark_Adm2_93:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Læsø
-    shapeID: 71786716B75086220402227
-    country_name: Denmark
-  Denmark_Adm2_94:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Brønderslev
-    shapeID: 71786716B79370302577150
-    country_name: Denmark
-  Denmark_Adm2_95:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Jammerbugt
-    shapeID: 71786716B51925893320851
-    country_name: Denmark
-  Denmark_Adm2_96:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Frederikshavn
-    shapeID: 71786716B75417410603706
-    country_name: Denmark
-  Denmark_Adm2_97:
-    iso3c: DNK
-    admin_level: Adm2
-    admin_name: Hjørring
-    shapeID: 71786716B422224300956
-    country_name: Denmark
-  Denmark_Adm2_98:
-    iso3c: DNK
-    admin_level: Adm2
+  DNK.1.2_1_Adm2:
+    GID: DNK.1.2_1
     admin_name: Allerød
-    shapeID: 71786716B69351216790603
+    iso3c: DNK
     country_name: Denmark
+    admin_level: Adm2
+  DNK.1.20_1_Adm2:
+    GID: DNK.1.20_1
+    admin_name: Hillerød
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.21_1_Adm2:
+    GID: DNK.1.21_1
+    admin_name: Høje Taastrup
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.22_1_Adm2:
+    GID: DNK.1.22_1
+    admin_name: Hørsholm
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.23_1_Adm2:
+    GID: DNK.1.23_1
+    admin_name: Hvidovre
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.24_1_Adm2:
+    GID: DNK.1.24_1
+    admin_name: Ishøj
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.25_1_Adm2:
+    GID: DNK.1.25_1
+    admin_name: København
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.26_1_Adm2:
+    GID: DNK.1.26_1
+    admin_name: Lyngby-Taarbæk
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.27_1_Adm2:
+    GID: DNK.1.27_1
+    admin_name: Rødovre
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.28_1_Adm2:
+    GID: DNK.1.28_1
+    admin_name: Rudersdal
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.29_1_Adm2:
+    GID: DNK.1.29_1
+    admin_name: Tårnby
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.3_1_Adm2:
+    GID: DNK.1.3_1
+    admin_name: Ballerup
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.30_1_Adm2:
+    GID: DNK.1.30_1
+    admin_name: Vallensbæk
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.4_1_Adm2:
+    GID: DNK.1.4_1
+    admin_name: Bornholm
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.5_1_Adm2:
+    GID: DNK.1.5_1
+    admin_name: Brøndby
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.6_1_Adm2:
+    GID: DNK.1.6_1
+    admin_name: Christiansø
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.7_1_Adm2:
+    GID: DNK.1.7_1
+    admin_name: Dragør
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.8_1_Adm2:
+    GID: DNK.1.8_1
+    admin_name: Egedal
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.1.9_1_Adm2:
+    GID: DNK.1.9_1
+    admin_name: Fredensborg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2_1_Adm1:
+    GID: DNK.2_1
+    admin_name: Midtjylland
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm1
+  DNK.2.1_1_Adm2:
+    GID: DNK.2.1_1
+    admin_name: Århus
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.10_1_Adm2:
+    GID: DNK.2.10_1
+    admin_name: Odder
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.11_1_Adm2:
+    GID: DNK.2.11_1
+    admin_name: Randers
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.12_1_Adm2:
+    GID: DNK.2.12_1
+    admin_name: Ringkøbing-Skjern
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.13_1_Adm2:
+    GID: DNK.2.13_1
+    admin_name: Samsø
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.14_1_Adm2:
+    GID: DNK.2.14_1
+    admin_name: Silkeborg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.15_1_Adm2:
+    GID: DNK.2.15_1
+    admin_name: Skanderborg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.16_1_Adm2:
+    GID: DNK.2.16_1
+    admin_name: Skive
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.17_1_Adm2:
+    GID: DNK.2.17_1
+    admin_name: Struer
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.18_1_Adm2:
+    GID: DNK.2.18_1
+    admin_name: Syddjurs
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.19_1_Adm2:
+    GID: DNK.2.19_1
+    admin_name: Viborg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.2_1_Adm2:
+    GID: DNK.2.2_1
+    admin_name: Favrskov
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.3_1_Adm2:
+    GID: DNK.2.3_1
+    admin_name: Hedensted
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.4_1_Adm2:
+    GID: DNK.2.4_1
+    admin_name: Herning
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.5_1_Adm2:
+    GID: DNK.2.5_1
+    admin_name: Holstebro
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.6_1_Adm2:
+    GID: DNK.2.6_1
+    admin_name: Horsens
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.7_1_Adm2:
+    GID: DNK.2.7_1
+    admin_name: Ikast-Brande
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.8_1_Adm2:
+    GID: DNK.2.8_1
+    admin_name: Lemvig
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.2.9_1_Adm2:
+    GID: DNK.2.9_1
+    admin_name: Norddjurs
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3_1_Adm1:
+    GID: DNK.3_1
+    admin_name: Nordjylland
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm1
+  DNK.3.1_1_Adm2:
+    GID: DNK.3.1_1
+    admin_name: Aalborg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3.10_1_Adm2:
+    GID: DNK.3.10_1
+    admin_name: Thisted
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3.11_1_Adm2:
+    GID: DNK.3.11_1
+    admin_name: Vesthimmerland
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3.2_1_Adm2:
+    GID: DNK.3.2_1
+    admin_name: Brønderslev
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3.3_1_Adm2:
+    GID: DNK.3.3_1
+    admin_name: Frederikshavn
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3.4_1_Adm2:
+    GID: DNK.3.4_1
+    admin_name: Hjørring
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3.5_1_Adm2:
+    GID: DNK.3.5_1
+    admin_name: Jammerbugt
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3.6_1_Adm2:
+    GID: DNK.3.6_1
+    admin_name: Læsø
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3.7_1_Adm2:
+    GID: DNK.3.7_1
+    admin_name: Mariagerfjord
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3.8_1_Adm2:
+    GID: DNK.3.8_1
+    admin_name: Morsø
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.3.9_1_Adm2:
+    GID: DNK.3.9_1
+    admin_name: Rebild
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4_1_Adm1:
+    GID: DNK.4_1
+    admin_name: Sjælland
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm1
+  DNK.4.1_1_Adm2:
+    GID: DNK.4.1_1
+    admin_name: Faxe
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.10_1_Adm2:
+    GID: DNK.4.10_1
+    admin_name: Odsherred
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.11_1_Adm2:
+    GID: DNK.4.11_1
+    admin_name: Ringsted
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.12_1_Adm2:
+    GID: DNK.4.12_1
+    admin_name: Roskilde
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.13_1_Adm2:
+    GID: DNK.4.13_1
+    admin_name: Slagelse
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.14_1_Adm2:
+    GID: DNK.4.14_1
+    admin_name: Solrød
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.15_1_Adm2:
+    GID: DNK.4.15_1
+    admin_name: Sorø
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.16_1_Adm2:
+    GID: DNK.4.16_1
+    admin_name: Stevns
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.17_1_Adm2:
+    GID: DNK.4.17_1
+    admin_name: Vordingborg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.2_1_Adm2:
+    GID: DNK.4.2_1
+    admin_name: Greve
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.3_1_Adm2:
+    GID: DNK.4.3_1
+    admin_name: Guldborgsund
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.4_1_Adm2:
+    GID: DNK.4.4_1
+    admin_name: Holbæk
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.5_1_Adm2:
+    GID: DNK.4.5_1
+    admin_name: Kalundborg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.6_1_Adm2:
+    GID: DNK.4.6_1
+    admin_name: Køge
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.7_1_Adm2:
+    GID: DNK.4.7_1
+    admin_name: Lejre
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.8_1_Adm2:
+    GID: DNK.4.8_1
+    admin_name: Lolland
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.4.9_1_Adm2:
+    GID: DNK.4.9_1
+    admin_name: Næstved
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5_1_Adm1:
+    GID: DNK.5_1
+    admin_name: Syddanmark
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm1
+  DNK.5.1_1_Adm2:
+    GID: DNK.5.1_1
+    admin_name: Aabenraa
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.10_1_Adm2:
+    GID: DNK.5.10_1
+    admin_name: Kerteminde
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.11_1_Adm2:
+    GID: DNK.5.11_1
+    admin_name: Kolding
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.12_1_Adm2:
+    GID: DNK.5.12_1
+    admin_name: Langeland
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.13_1_Adm2:
+    GID: DNK.5.13_1
+    admin_name: Middelfart
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.14_1_Adm2:
+    GID: DNK.5.14_1
+    admin_name: Nordfyns
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.15_1_Adm2:
+    GID: DNK.5.15_1
+    admin_name: Nyborg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.16_1_Adm2:
+    GID: DNK.5.16_1
+    admin_name: Odense
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.17_1_Adm2:
+    GID: DNK.5.17_1
+    admin_name: Sønderborg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.18_1_Adm2:
+    GID: DNK.5.18_1
+    admin_name: Svendborg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.19_1_Adm2:
+    GID: DNK.5.19_1
+    admin_name: Tønder
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.2_1_Adm2:
+    GID: DNK.5.2_1
+    admin_name: Ærø
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.20_1_Adm2:
+    GID: DNK.5.20_1
+    admin_name: Varde
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.21_1_Adm2:
+    GID: DNK.5.21_1
+    admin_name: Vejen
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.22_1_Adm2:
+    GID: DNK.5.22_1
+    admin_name: Vejle
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.3_1_Adm2:
+    GID: DNK.5.3_1
+    admin_name: Assens
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.4_1_Adm2:
+    GID: DNK.5.4_1
+    admin_name: Billund
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.5_1_Adm2:
+    GID: DNK.5.5_1
+    admin_name: Esbjerg
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.6_1_Adm2:
+    GID: DNK.5.6_1
+    admin_name: Faaborg-Midtfyn
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.7_1_Adm2:
+    GID: DNK.5.7_1
+    admin_name: Fanø
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.8_1_Adm2:
+    GID: DNK.5.8_1
+    admin_name: Fredericia
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2
+  DNK.5.9_1_Adm2:
+    GID: DNK.5.9_1
+    admin_name: Haderslev
+    iso3c: DNK
+    country_name: Denmark
+    admin_level: Adm2

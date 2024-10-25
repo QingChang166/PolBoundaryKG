@@ -1,0 +1,10 @@
+relations:
+    - (STP.0_Adm0, STP.1_1_Adm1)
+    - (STP.0_Adm0, STP.2_1_Adm1)
+    - (STP.1_1_Adm1, STP.1.1_1_Adm2)
+    - (STP.2_1_Adm1, STP.2.1_1_Adm2)
+    - (STP.2_1_Adm1, STP.2.2_1_Adm2)
+    - (STP.2_1_Adm1, STP.2.3_1_Adm2)
+    - (STP.2_1_Adm1, STP.2.4_1_Adm2)
+    - (STP.2_1_Adm1, STP.2.5_1_Adm2)
+    - (STP.2_1_Adm1, STP.2.6_1_Adm2)

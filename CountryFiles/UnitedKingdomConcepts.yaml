@@ -1,1327 +1,1129 @@
 concepts:
-  UnitedKingdom_Adm0:
+  GBR.0_Adm0:
+    GID: GBR
+    admin_name: United Kingdom
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm0
-    admin_name: UnitedKingdom
-    shapeID: 16061897B30381131082543
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm1_1:
-    iso3c: GBR
-    admin_level: Adm1
-    admin_name: NorthernIreland
-    shapeID: 14339913B6930312138089
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm1_2:
-    iso3c: GBR
-    admin_level: Adm1
+  GBR.1_1_Adm1:
+    GID: GBR.1_1
     admin_name: England
-    shapeID: 14339913B95766344400054
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm1_3:
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm1
-    admin_name: Scotland
-    shapeID: 14339913B23556801435424
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm1_4:
+  GBR.1.1_1_Adm2:
+    GID: GBR.1.1_1
+    admin_name: Un-namedArea
     iso3c: GBR
-    admin_level: Adm1
-    admin_name: Wales
-    shapeID: 14339913B89763821047858
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_1:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Hartlepool
-    shapeID: 9080712B85828081186623
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_10:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: KingstonuponHull,Cityof
-    shapeID: 9080712B56986734231358
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_100:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Croydon
-    shapeID: 9080712B54972646687738
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_101:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Ealing
-    shapeID: 9080712B48606994457952
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_102:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Enfield
-    shapeID: 9080712B27244151555615
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_103:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Greenwich
-    shapeID: 9080712B64588414247228
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_104:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Hackney
-    shapeID: 9080712B81123650494794
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_105:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: HammersmithandFulham
-    shapeID: 9080712B6991151074246
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_106:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Haringey
-    shapeID: 9080712B98331752183955
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_107:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Harrow
-    shapeID: 9080712B85229688010924
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_108:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Havering
-    shapeID: 9080712B13607306368601
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_109:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Hillingdon
-    shapeID: 9080712B45194275403121
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_11:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: EastRidingofYorkshire
-    shapeID: 9080712B28971928404108
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_110:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Hounslow
-    shapeID: 9080712B85959270461063
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_111:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Islington
-    shapeID: 9080712B49045247202114
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_112:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: KensingtonandChelsea
-    shapeID: 9080712B39473788331099
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_113:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: KingstonuponThames
-    shapeID: 9080712B89177385119631
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_114:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Lambeth
-    shapeID: 9080712B40540283796062
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_115:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Lewisham
-    shapeID: 9080712B25883423000924
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_116:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Merton
-    shapeID: 9080712B31505825113523
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_117:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Newham
-    shapeID: 9080712B98999290586969
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_118:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Redbridge
-    shapeID: 9080712B26905607212870
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_119:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: RichmonduponThames
-    shapeID: 9080712B29790766461311
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_12:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: NorthEastLincolnshire
-    shapeID: 9080712B12342579002925
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_120:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Southwark
-    shapeID: 9080712B52245663238426
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_121:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Sutton
-    shapeID: 9080712B3334907750367
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_122:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: TowerHamlets
-    shapeID: 9080712B53792364084436
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_123:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: WalthamForest
-    shapeID: 9080712B6382316371033
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_124:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Wandsworth
-    shapeID: 9080712B56158297313901
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_125:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Westminster
-    shapeID: 9080712B54935279696040
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_126:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Buckinghamshire
-    shapeID: 9080712B36857766137746
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_127:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Cambridgeshire
-    shapeID: 9080712B4246065068944
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_128:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Cumbria
-    shapeID: 9080712B6175013023687
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_129:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Derbyshire
-    shapeID: 9080712B74961375967872
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_13:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: NorthLincolnshire
-    shapeID: 9080712B98057919128788
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_130:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Devon
-    shapeID: 9080712B40461513313000
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_131:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: EastSussex
-    shapeID: 9080712B49710830872213
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_132:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Essex
-    shapeID: 9080712B25638337328506
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_133:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Gloucestershire
-    shapeID: 9080712B66020945008942
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_134:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Hampshire
-    shapeID: 9080712B82982752923250
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_135:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Hertfordshire
-    shapeID: 9080712B77152843970873
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_136:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Kent
-    shapeID: 9080712B50502218108090
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_137:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Lancashire
-    shapeID: 9080712B59490743406981
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_138:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Leicestershire
-    shapeID: 9080712B79420428964989
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_139:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Lincolnshire
-    shapeID: 9080712B90248628602253
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_14:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: York
-    shapeID: 9080712B71139559915773
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_140:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Norfolk
-    shapeID: 9080712B83077014043228
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_141:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Northamptonshire
-    shapeID: 9080712B11141313508988
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_142:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: NorthYorkshire
-    shapeID: 9080712B35554323277661
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_143:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Nottinghamshire
-    shapeID: 9080712B41579914196826
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_144:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Oxfordshire
-    shapeID: 9080712B80551480535536
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_145:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Somerset
-    shapeID: 9080712B37427777231285
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_146:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Staffordshire
-    shapeID: 9080712B65780734394683
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_147:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Suffolk
-    shapeID: 9080712B36657010499477
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_148:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Surrey
-    shapeID: 9080712B28065602717884
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_149:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Warwickshire
-    shapeID: 9080712B45484448191926
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_15:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Derby
-    shapeID: 9080712B32467801340280
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_150:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: WestSussex
-    shapeID: 9080712B8322367437762
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_151:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Worcestershire
-    shapeID: 9080712B7142008744258
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_152:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: AntrimandNewtownabbey
-    shapeID: 9080712B89184827117381
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_153:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: ArmaghCity,BanbridgeandCraigavon
-    shapeID: 9080712B2696242106213
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_154:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Belfast
-    shapeID: 9080712B3525939255113
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_155:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: CausewayCoastandGlens
-    shapeID: 9080712B10379595920788
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_156:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: DerryCityandStrabane
-    shapeID: 9080712B49734305235119
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_157:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: FermanaghandOmagh
-    shapeID: 9080712B62714260736365
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_158:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: LisburnandCastlereagh
-    shapeID: 9080712B9143936598786
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_159:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: MidandEastAntrim
-    shapeID: 9080712B28598685825084
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_16:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Leicester
-    shapeID: 9080712B47135883289090
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_160:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: MidUlster
-    shapeID: 9080712B21956478421018
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_161:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Newry,MourneandDown
-    shapeID: 9080712B31055162860413
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_162:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: ArdsandNorthDown
-    shapeID: 9080712B7932686865756
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_163:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Clackmannanshire
-    shapeID: 9080712B38440699506222
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_164:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: DumfriesandGalloway
-    shapeID: 9080712B59577127146209
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_165:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: EastAyrshire
-    shapeID: 9080712B42083415128674
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_166:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: EastLothian
-    shapeID: 9080712B46190908677710
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_167:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: EastRenfrewshire
-    shapeID: 9080712B79311717082917
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_168:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Nah-EileananSiar
-    shapeID: 9080712B88283028070578
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_169:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Falkirk
-    shapeID: 9080712B52642862033865
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_17:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Rutland
-    shapeID: 9080712B73406686460432
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_170:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Highland
-    shapeID: 9080712B91815969558421
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_171:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Inverclyde
-    shapeID: 9080712B15817911955776
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_172:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Midlothian
-    shapeID: 9080712B81121647411187
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_173:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Moray
-    shapeID: 9080712B86559204581792
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_174:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: NorthAyrshire
-    shapeID: 9080712B36728770903523
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_175:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: OrkneyIslands
-    shapeID: 9080712B10902750514558
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_176:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: ScottishBorders
-    shapeID: 9080712B19053725173599
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_177:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: ShetlandIslands
-    shapeID: 9080712B55246028514226
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_178:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: SouthAyrshire
-    shapeID: 9080712B98945924735770
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_179:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: SouthLanarkshire
-    shapeID: 9080712B16357572195959
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_18:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Nottingham
-    shapeID: 9080712B68933313347611
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_180:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Stirling
-    shapeID: 9080712B54756394112344
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_181:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: AberdeenCity
-    shapeID: 9080712B69395336637105
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_182:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Aberdeenshire
-    shapeID: 9080712B52971041074481
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_183:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: ArgyllandBute
-    shapeID: 9080712B25370122996382
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_184:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: CityofEdinburgh
-    shapeID: 9080712B66869919487356
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_185:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Renfrewshire
-    shapeID: 9080712B56111689743265
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_186:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: WestDunbartonshire
-    shapeID: 9080712B85348255985817
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_187:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: WestLothian
-    shapeID: 9080712B85446341431548
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_188:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Angus
-    shapeID: 9080712B36084717029338
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_189:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: DundeeCity
-    shapeID: 9080712B78429963709327
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_19:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Herefordshire,Countyof
-    shapeID: 9080712B5594507413041
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_190:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: EastDunbartonshire
-    shapeID: 9080712B91055386237905
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_191:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Fife
-    shapeID: 9080712B66154945568348
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_192:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: PerthandKinross
-    shapeID: 9080712B7748136752415
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_193:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: GlasgowCity
-    shapeID: 9080712B55197068501600
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_194:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: NorthLanarkshire
-    shapeID: 9080712B69676153783016
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_195:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: IsleofAnglesey
-    shapeID: 9080712B15924150199921
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_196:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Gwynedd
-    shapeID: 9080712B16572211542142
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_197:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Conwy
-    shapeID: 9080712B48550997087693
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_198:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Denbighshire
-    shapeID: 9080712B21023064751221
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_199:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Flintshire
-    shapeID: 9080712B22270450131797
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_2:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Middlesbrough
-    shapeID: 9080712B54771853646183
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_20:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: TelfordandWrekin
-    shapeID: 9080712B62596959688734
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_200:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Wrexham
-    shapeID: 9080712B59470533264950
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_201:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Ceredigion
-    shapeID: 9080712B80842466042481
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_202:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Pembrokeshire
-    shapeID: 9080712B36001150789343
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_203:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Carmarthenshire
-    shapeID: 9080712B87157839876770
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_204:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Swansea
-    shapeID: 9080712B37144090362745
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_205:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: NeathPortTalbot
-    shapeID: 9080712B46320351698050
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_206:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Bridgend
-    shapeID: 9080712B76343097183385
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_207:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: ValeofGlamorgan
-    shapeID: 9080712B65892771938338
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_208:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Cardiff
-    shapeID: 9080712B81959387268883
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_209:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: RhonddaCynonTaf
-    shapeID: 9080712B86479073269736
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_21:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Stoke-on-Trent
-    shapeID: 9080712B71816088812668
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_210:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Caerphilly
-    shapeID: 9080712B28109040189769
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_211:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: BlaenauGwent
-    shapeID: 9080712B1934102491611
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_212:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Torfaen
-    shapeID: 9080712B72120355157145
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_213:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Monmouthshire
-    shapeID: 9080712B23643149504284
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_214:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Newport
-    shapeID: 9080712B95574283757937
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_215:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Powys
-    shapeID: 9080712B19665394937089
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_216:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: MerthyrTydfil
-    shapeID: 9080712B53025975773445
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_22:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: BathandNorthEastSomerset
-    shapeID: 9080712B9983033008018
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_23:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Bristol,Cityof
-    shapeID: 9080712B10494943031822
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_24:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: NorthSomerset
-    shapeID: 9080712B76508115164917
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_25:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: SouthGloucestershire
-    shapeID: 9080712B15930172924849
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_26:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Plymouth
-    shapeID: 9080712B87516054474396
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_27:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Torbay
-    shapeID: 9080712B51297890528855
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_28:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Swindon
-    shapeID: 9080712B7263019231598
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_29:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Peterborough
-    shapeID: 9080712B4855529337749
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_3:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: RedcarandCleveland
-    shapeID: 9080712B22025454221821
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_30:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Luton
-    shapeID: 9080712B46742375662988
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_31:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Southend-on-Sea
-    shapeID: 9080712B47278631126332
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_32:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Thurrock
-    shapeID: 9080712B87926195520176
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_33:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Medway
-    shapeID: 9080712B90512601892505
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_34:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: BracknellForest
-    shapeID: 9080712B96176542594177
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_35:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: WestBerkshire
-    shapeID: 9080712B61960711063879
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_36:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Reading
-    shapeID: 9080712B93971223877788
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_37:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Slough
-    shapeID: 9080712B22478548835512
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_38:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: WindsorandMaidenhead
-    shapeID: 9080712B6821814533908
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_39:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Wokingham
-    shapeID: 9080712B70395567962126
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_4:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Stockton-on-Tees
-    shapeID: 9080712B97653147824640
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_40:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: MiltonKeynes
-    shapeID: 9080712B88448712790613
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_41:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: BrightonandHove
-    shapeID: 9080712B43205947123995
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_42:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Portsmouth
-    shapeID: 9080712B92506212242541
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_43:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Southampton
-    shapeID: 9080712B73113130044871
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_44:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: IsleofWight
-    shapeID: 9080712B78405188412125
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_45:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: CountyDurham
-    shapeID: 9080712B53048697166448
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_46:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: CheshireEast
-    shapeID: 9080712B31316334032792
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_47:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: CheshireWestandChester
-    shapeID: 9080712B12877752368476
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_48:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Shropshire
-    shapeID: 9080712B55803343495584
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_49:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Cornwall
-    shapeID: 9080712B98094820769769
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_5:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Darlington
-    shapeID: 9080712B89266027185106
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_50:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: IslesofScilly
-    shapeID: 9080712B23650621580823
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_51:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Wiltshire
-    shapeID: 9080712B26415072681887
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_52:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Bedford
-    shapeID: 9080712B13475745568199
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_53:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: CentralBedfordshire
-    shapeID: 9080712B60024212351077
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_54:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Northumberland
-    shapeID: 9080712B7447903754756
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_55:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Bournemouth,ChristchurchandPoole
-    shapeID: 9080712B40703473834354
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_56:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Dorset
-    shapeID: 9080712B78235082436645
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_57:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Bolton
-    shapeID: 9080712B22531050101095
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_58:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Bury
-    shapeID: 9080712B83069320891793
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_59:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Manchester
-    shapeID: 9080712B20393636496486
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_6:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Halton
-    shapeID: 9080712B51460389892119
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_60:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Oldham
-    shapeID: 9080712B4133396952261
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_61:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Rochdale
-    shapeID: 9080712B16183166657262
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_62:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Salford
-    shapeID: 9080712B15005694696398
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_63:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Stockport
-    shapeID: 9080712B60430436170387
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_64:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Tameside
-    shapeID: 9080712B12556953600805
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_65:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Trafford
-    shapeID: 9080712B55874049977973
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_66:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Wigan
-    shapeID: 9080712B31567540756481
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_67:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Knowsley
-    shapeID: 9080712B12767275988339
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_68:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Liverpool
-    shapeID: 9080712B96150168023464
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_69:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: St.Helens
-    shapeID: 9080712B4740307637574
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_7:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Warrington
-    shapeID: 9080712B26308767875419
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_70:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Sefton
-    shapeID: 9080712B54053191384380
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_71:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Wirral
-    shapeID: 9080712B56467558784278
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_72:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Barnsley
-    shapeID: 9080712B3282712316304
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_73:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Doncaster
-    shapeID: 9080712B63045965946923
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_74:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Rotherham
-    shapeID: 9080712B32197267489799
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_75:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Sheffield
-    shapeID: 9080712B81701554326999
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_76:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: NewcastleuponTyne
-    shapeID: 9080712B62740831619911
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_77:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: NorthTyneside
-    shapeID: 9080712B17423214226317
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_78:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: SouthTyneside
-    shapeID: 9080712B62643231913665
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_79:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Sunderland
-    shapeID: 9080712B98965500414849
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_8:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: BlackburnwithDarwen
-    shapeID: 9080712B32751289600863
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_80:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Birmingham
-    shapeID: 9080712B21869275799194
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_81:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Coventry
-    shapeID: 9080712B38310041330511
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_82:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Dudley
-    shapeID: 9080712B44533972228842
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_83:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Sandwell
-    shapeID: 9080712B47230865000916
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_84:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Solihull
-    shapeID: 9080712B1828811301066
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_85:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Walsall
-    shapeID: 9080712B32663712859434
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_86:
-    iso3c: GBR
-    admin_level: Adm2
-    admin_name: Wolverhampton
-    shapeID: 9080712B12207688808427
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_87:
-    iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
+  GBR.1.10_1_Adm2:
+    GID: GBR.1.10_1
     admin_name: Bradford
-    shapeID: 9080712B23771476284084
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_88:
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: Calderdale
-    shapeID: 9080712B8704755387481
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_89:
+  GBR.1.100_1_Adm2:
+    GID: GBR.1.100_1
+    admin_name: Un-namedArea
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: Kirklees
-    shapeID: 9080712B97607393689303
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_9:
+  GBR.1.101_1_Adm2:
+    GID: GBR.1.101_1
+    admin_name: Telford and Wrekin
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: Blackpool
-    shapeID: 9080712B37944261721885
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_90:
+  GBR.1.102_1_Adm2:
+    GID: GBR.1.102_1
+    admin_name: Thurrock
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: Leeds
-    shapeID: 9080712B71751850087335
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_91:
+  GBR.1.103_1_Adm2:
+    GID: GBR.1.103_1
+    admin_name: Torbay
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
+  GBR.1.104_1_Adm2:
+    GID: GBR.1.104_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.105_1_Adm2:
+    GID: GBR.1.105_1
     admin_name: Wakefield
-    shapeID: 9080712B70108318673900
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_92:
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
+  GBR.1.106_1_Adm2:
+    GID: GBR.1.106_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.107_1_Adm2:
+    GID: GBR.1.107_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.108_1_Adm2:
+    GID: GBR.1.108_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.109_1_Adm2:
+    GID: GBR.1.109_1
+    admin_name: West Berkshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.11_1_Adm2:
+    GID: GBR.1.11_1
+    admin_name: Brighton and Hove
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.110_1_Adm2:
+    GID: GBR.1.110_1
+    admin_name: West Sussex
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.111_1_Adm2:
+    GID: GBR.1.111_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.112_1_Adm2:
+    GID: GBR.1.112_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.113_1_Adm2:
+    GID: GBR.1.113_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.114_1_Adm2:
+    GID: GBR.1.114_1
+    admin_name: Wirral
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.115_1_Adm2:
+    GID: GBR.1.115_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.116_1_Adm2:
+    GID: GBR.1.116_1
+    admin_name: Wolverhampton
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.117_1_Adm2:
+    GID: GBR.1.117_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.118_1_Adm2:
+    GID: GBR.1.118_1
+    admin_name: York
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.12_1_Adm2:
+    GID: GBR.1.12_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.13_1_Adm2:
+    GID: GBR.1.13_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.14_1_Adm2:
+    GID: GBR.1.14_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.15_1_Adm2:
+    GID: GBR.1.15_1
+    admin_name: Calderdale
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.16_1_Adm2:
+    GID: GBR.1.16_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.17_1_Adm2:
+    GID: GBR.1.17_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.18_1_Adm2:
+    GID: GBR.1.18_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.19_1_Adm2:
+    GID: GBR.1.19_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.2_1_Adm2:
+    GID: GBR.1.2_1
+    admin_name: Bath and North East Somerset
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.20_1_Adm2:
+    GID: GBR.1.20_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.21_1_Adm2:
+    GID: GBR.1.21_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.22_1_Adm2:
+    GID: GBR.1.22_1
+    admin_name: Cumbria
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.23_1_Adm2:
+    GID: GBR.1.23_1
+    admin_name: Darlington
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.24_1_Adm2:
+    GID: GBR.1.24_1
+    admin_name: Derby
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.25_1_Adm2:
+    GID: GBR.1.25_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.26_1_Adm2:
+    GID: GBR.1.26_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.27_1_Adm2:
+    GID: GBR.1.27_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.28_1_Adm2:
+    GID: GBR.1.28_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.29_1_Adm2:
+    GID: GBR.1.29_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.3_1_Adm2:
+    GID: GBR.1.3_1
+    admin_name: Bedford
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.30_1_Adm2:
+    GID: GBR.1.30_1
+    admin_name: County Durham
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.31_1_Adm2:
+    GID: GBR.1.31_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.32_1_Adm2:
+    GID: GBR.1.32_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.33_1_Adm2:
+    GID: GBR.1.33_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.34_1_Adm2:
+    GID: GBR.1.34_1
     admin_name: Gateshead
-    shapeID: 9080712B2437499004309
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_93:
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: CityofLondon
-    shapeID: 9080712B97999030763342
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_94:
+  GBR.1.35_1_Adm2:
+    GID: GBR.1.35_1
+    admin_name: Un-namedArea
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: BarkingandDagenham
-    shapeID: 9080712B32800787628045
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_95:
+  GBR.1.36_1_Adm2:
+    GID: GBR.1.36_1
+    admin_name: Un-namedArea
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: Barnet
-    shapeID: 9080712B71536097625899
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_96:
+  GBR.1.37_1_Adm2:
+    GID: GBR.1.37_1
+    admin_name: Halton
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: Bexley
-    shapeID: 9080712B42809460048540
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_97:
+  GBR.1.38_1_Adm2:
+    GID: GBR.1.38_1
+    admin_name: Un-namedArea
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: Brent
-    shapeID: 9080712B99403255709140
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_98:
+  GBR.1.39_1_Adm2:
+    GID: GBR.1.39_1
+    admin_name: Hartlepool
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: Bromley
-    shapeID: 9080712B62294642180343
-    country_name: UnitedKingdom
-  UnitedKingdom_Adm2_99:
+  GBR.1.4_1_Adm2:
+    GID: GBR.1.4_1
+    admin_name: Un-namedArea
     iso3c: GBR
+    country_name: United Kingdom
     admin_level: Adm2
-    admin_name: Camden
-    shapeID: 9080712B44623990435361
-    country_name: UnitedKingdom
+  GBR.1.40_1_Adm2:
+    GID: GBR.1.40_1
+    admin_name: Herefordshire, County of
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.41_1_Adm2:
+    GID: GBR.1.41_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.42_1_Adm2:
+    GID: GBR.1.42_1
+    admin_name: Isle of Wight
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.43_1_Adm2:
+    GID: GBR.1.43_1
+    admin_name: Isles of Scilly
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.44_1_Adm2:
+    GID: GBR.1.44_1
+    admin_name: Kent
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.45_1_Adm2:
+    GID: GBR.1.45_1
+    admin_name: Kingston upon Hull, City of
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.46_1_Adm2:
+    GID: GBR.1.46_1
+    admin_name: Kirklees
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.47_1_Adm2:
+    GID: GBR.1.47_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.48_1_Adm2:
+    GID: GBR.1.48_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.49_1_Adm2:
+    GID: GBR.1.49_1
+    admin_name: Leeds
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.5_1_Adm2:
+    GID: GBR.1.5_1
+    admin_name: Blackburn with Darwen
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.50_1_Adm2:
+    GID: GBR.1.50_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.51_1_Adm2:
+    GID: GBR.1.51_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.52_1_Adm2:
+    GID: GBR.1.52_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.53_1_Adm2:
+    GID: GBR.1.53_1
+    admin_name: Luton
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.54_1_Adm2:
+    GID: GBR.1.54_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.55_1_Adm2:
+    GID: GBR.1.55_1
+    admin_name: Medway
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.56_1_Adm2:
+    GID: GBR.1.56_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.57_1_Adm2:
+    GID: GBR.1.57_1
+    admin_name: Milton Keynes
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.58_1_Adm2:
+    GID: GBR.1.58_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.59_1_Adm2:
+    GID: GBR.1.59_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.6_1_Adm2:
+    GID: GBR.1.6_1
+    admin_name: Blackpool
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.60_1_Adm2:
+    GID: GBR.1.60_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.61_1_Adm2:
+    GID: GBR.1.61_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.62_1_Adm2:
+    GID: GBR.1.62_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.63_1_Adm2:
+    GID: GBR.1.63_1
+    admin_name: North Yorkshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.64_1_Adm2:
+    GID: GBR.1.64_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.65_1_Adm2:
+    GID: GBR.1.65_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.66_1_Adm2:
+    GID: GBR.1.66_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.67_1_Adm2:
+    GID: GBR.1.67_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.68_1_Adm2:
+    GID: GBR.1.68_1
+    admin_name: Oldham
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.69_1_Adm2:
+    GID: GBR.1.69_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.7_1_Adm2:
+    GID: GBR.1.7_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.70_1_Adm2:
+    GID: GBR.1.70_1
+    admin_name: Peterborough
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.71_1_Adm2:
+    GID: GBR.1.71_1
+    admin_name: Plymouth
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.72_1_Adm2:
+    GID: GBR.1.72_1
+    admin_name: Bournemouth, Christchurch and Po
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.73_1_Adm2:
+    GID: GBR.1.73_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.74_1_Adm2:
+    GID: GBR.1.74_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.75_1_Adm2:
+    GID: GBR.1.75_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.76_1_Adm2:
+    GID: GBR.1.76_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.77_1_Adm2:
+    GID: GBR.1.77_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.78_1_Adm2:
+    GID: GBR.1.78_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.79_1_Adm2:
+    GID: GBR.1.79_1
+    admin_name: St. Helens
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.8_1_Adm2:
+    GID: GBR.1.8_1
+    admin_name: Bournemouth, Christchurch and Po
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.80_1_Adm2:
+    GID: GBR.1.80_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.81_1_Adm2:
+    GID: GBR.1.81_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.82_1_Adm2:
+    GID: GBR.1.82_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.83_1_Adm2:
+    GID: GBR.1.83_1
+    admin_name: Sheffield
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.84_1_Adm2:
+    GID: GBR.1.84_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.85_1_Adm2:
+    GID: GBR.1.85_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.86_1_Adm2:
+    GID: GBR.1.86_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.87_1_Adm2:
+    GID: GBR.1.87_1
+    admin_name: Somerset
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.88_1_Adm2:
+    GID: GBR.1.88_1
+    admin_name: South Gloucestershire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.89_1_Adm2:
+    GID: GBR.1.89_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.9_1_Adm2:
+    GID: GBR.1.9_1
+    admin_name: Bracknell Forest
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.90_1_Adm2:
+    GID: GBR.1.90_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.91_1_Adm2:
+    GID: GBR.1.91_1
+    admin_name: Southend-on-Sea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.92_1_Adm2:
+    GID: GBR.1.92_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.93_1_Adm2:
+    GID: GBR.1.93_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.94_1_Adm2:
+    GID: GBR.1.94_1
+    admin_name: Stockton-on-Tees
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.95_1_Adm2:
+    GID: GBR.1.95_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.96_1_Adm2:
+    GID: GBR.1.96_1
+    admin_name: Suffolk
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.97_1_Adm2:
+    GID: GBR.1.97_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.98_1_Adm2:
+    GID: GBR.1.98_1
+    admin_name: Surrey
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.1.99_1_Adm2:
+    GID: GBR.1.99_1
+    admin_name: Swindon
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2_1_Adm1:
+    GID: GBR.2_1
+    admin_name: Northern Ireland
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm1
+  GBR.2.1_1_Adm2:
+    GID: GBR.2.1_1
+    admin_name: Antrim and Newtownabbey
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2.10_1_Adm2:
+    GID: GBR.2.10_1
+    admin_name: Newry, Mourne and Down
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2.11_1_Adm2:
+    GID: GBR.2.11_1
+    admin_name: Ards and North Down
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2.2_1_Adm2:
+    GID: GBR.2.2_1
+    admin_name: Armagh City, Banbridge and Craig
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2.3_1_Adm2:
+    GID: GBR.2.3_1
+    admin_name: Belfast
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2.4_1_Adm2:
+    GID: GBR.2.4_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2.5_1_Adm2:
+    GID: GBR.2.5_1
+    admin_name: Derry City and Strabane
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2.6_1_Adm2:
+    GID: GBR.2.6_1
+    admin_name: Fermanagh and Omagh
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2.7_1_Adm2:
+    GID: GBR.2.7_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2.8_1_Adm2:
+    GID: GBR.2.8_1
+    admin_name: Mid and East Antrim
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.2.9_1_Adm2:
+    GID: GBR.2.9_1
+    admin_name: Mid Ulster
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3_1_Adm1:
+    GID: GBR.3_1
+    admin_name: Scotland
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm1
+  GBR.3.1_1_Adm2:
+    GID: GBR.3.1_1
+    admin_name: Aberdeen City
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.10_1_Adm2:
+    GID: GBR.3.10_1
+    admin_name: East Lothian
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.11_1_Adm2:
+    GID: GBR.3.11_1
+    admin_name: East Renfrewshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.12_1_Adm2:
+    GID: GBR.3.12_1
+    admin_name: City of Edinburgh
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.13_1_Adm2:
+    GID: GBR.3.13_1
+    admin_name: Na h-Eileanan Siar
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.14_1_Adm2:
+    GID: GBR.3.14_1
+    admin_name: Falkirk
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.15_1_Adm2:
+    GID: GBR.3.15_1
+    admin_name: Fife
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.16_1_Adm2:
+    GID: GBR.3.16_1
+    admin_name: Glasgow City
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.17_1_Adm2:
+    GID: GBR.3.17_1
+    admin_name: Highland
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.18_1_Adm2:
+    GID: GBR.3.18_1
+    admin_name: Inverclyde
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.19_1_Adm2:
+    GID: GBR.3.19_1
+    admin_name: Midlothian
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.2_1_Adm2:
+    GID: GBR.3.2_1
+    admin_name: Aberdeenshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.20_1_Adm2:
+    GID: GBR.3.20_1
+    admin_name: Moray
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.21_1_Adm2:
+    GID: GBR.3.21_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.22_1_Adm2:
+    GID: GBR.3.22_1
+    admin_name: North Lanarkshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.23_1_Adm2:
+    GID: GBR.3.23_1
+    admin_name: Orkney Islands
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.24_1_Adm2:
+    GID: GBR.3.24_1
+    admin_name: Perth and Kinross
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.25_1_Adm2:
+    GID: GBR.3.25_1
+    admin_name: Renfrewshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.26_1_Adm2:
+    GID: GBR.3.26_1
+    admin_name: Scottish Borders
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.27_1_Adm2:
+    GID: GBR.3.27_1
+    admin_name: Shetland Islands
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.28_1_Adm2:
+    GID: GBR.3.28_1
+    admin_name: South Ayrshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.29_1_Adm2:
+    GID: GBR.3.29_1
+    admin_name: South Lanarkshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.3_1_Adm2:
+    GID: GBR.3.3_1
+    admin_name: Angus
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.30_1_Adm2:
+    GID: GBR.3.30_1
+    admin_name: Stirling
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.31_1_Adm2:
+    GID: GBR.3.31_1
+    admin_name: West Dunbartonshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.32_1_Adm2:
+    GID: GBR.3.32_1
+    admin_name: West Lothian
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.4_1_Adm2:
+    GID: GBR.3.4_1
+    admin_name: Argyll and Bute
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.5_1_Adm2:
+    GID: GBR.3.5_1
+    admin_name: Clackmannanshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.6_1_Adm2:
+    GID: GBR.3.6_1
+    admin_name: Dumfries and Galloway
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.7_1_Adm2:
+    GID: GBR.3.7_1
+    admin_name: Dundee City
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.8_1_Adm2:
+    GID: GBR.3.8_1
+    admin_name: East Ayrshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.3.9_1_Adm2:
+    GID: GBR.3.9_1
+    admin_name: East Dunbartonshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4_1_Adm1:
+    GID: GBR.4_1
+    admin_name: Wales
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm1
+  GBR.4.1_1_Adm2:
+    GID: GBR.4.1_1
+    admin_name: Isle of Anglesey
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.10_1_Adm2:
+    GID: GBR.4.10_1
+    admin_name: Flintshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.11_1_Adm2:
+    GID: GBR.4.11_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.12_1_Adm2:
+    GID: GBR.4.12_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.13_1_Adm2:
+    GID: GBR.4.13_1
+    admin_name: Monmouthshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.14_1_Adm2:
+    GID: GBR.4.14_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.15_1_Adm2:
+    GID: GBR.4.15_1
+    admin_name: Newport
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.16_1_Adm2:
+    GID: GBR.4.16_1
+    admin_name: Pembrokeshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.17_1_Adm2:
+    GID: GBR.4.17_1
+    admin_name: Powys
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.18_1_Adm2:
+    GID: GBR.4.18_1
+    admin_name: Rhondda Cynon Taf
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.19_1_Adm2:
+    GID: GBR.4.19_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.2_1_Adm2:
+    GID: GBR.4.2_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.20_1_Adm2:
+    GID: GBR.4.20_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.21_1_Adm2:
+    GID: GBR.4.21_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.22_1_Adm2:
+    GID: GBR.4.22_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.3_1_Adm2:
+    GID: GBR.4.3_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.4_1_Adm2:
+    GID: GBR.4.4_1
+    admin_name: Caerphilly
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.5_1_Adm2:
+    GID: GBR.4.5_1
+    admin_name: Cardiff
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.6_1_Adm2:
+    GID: GBR.4.6_1
+    admin_name: Carmarthenshire
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.7_1_Adm2:
+    GID: GBR.4.7_1
+    admin_name: Ceredigion
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.8_1_Adm2:
+    GID: GBR.4.8_1
+    admin_name: Conwy
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2
+  GBR.4.9_1_Adm2:
+    GID: GBR.4.9_1
+    admin_name: Un-namedArea
+    iso3c: GBR
+    country_name: United Kingdom
+    admin_level: Adm2

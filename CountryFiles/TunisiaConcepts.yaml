@@ -1,1735 +1,1759 @@
 concepts:
-  Tunisia_Adm0:
-    iso3c: TUN
-    admin_level: Adm0
+  TUN.0_Adm0:
+    GID: TUN
     admin_name: Tunisia
-    shapeID: 74400859B135783422298
-    country_name: Tunisia
-  Tunisia_Adm1_1:
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Tunis
-    shapeID: 13205935B88806172084765
     country_name: Tunisia
-  Tunisia_Adm1_10:
-    iso3c: TUN
-    admin_level: Adm1
-    admin_name: Manouba
-    shapeID: 13205935B47286197858453
-    country_name: Tunisia
-  Tunisia_Adm1_11:
-    iso3c: TUN
-    admin_level: Adm1
-    admin_name: SidiBouzid
-    shapeID: 13205935B988461082754
-    country_name: Tunisia
-  Tunisia_Adm1_12:
-    iso3c: TUN
-    admin_level: Adm1
-    admin_name: Kébili
-    shapeID: 13205935B11721331776240
-    country_name: Tunisia
-  Tunisia_Adm1_13:
-    iso3c: TUN
-    admin_level: Adm1
-    admin_name: Béja
-    shapeID: 13205935B67114336122672
-    country_name: Tunisia
-  Tunisia_Adm1_14:
-    iso3c: TUN
-    admin_level: Adm1
-    admin_name: Tataouine
-    shapeID: 13205935B85172640982228
-    country_name: Tunisia
-  Tunisia_Adm1_15:
-    iso3c: TUN
-    admin_level: Adm1
-    admin_name: Gabès
-    shapeID: 13205935B69181748376292
-    country_name: Tunisia
-  Tunisia_Adm1_16:
-    iso3c: TUN
-    admin_level: Adm1
-    admin_name: Bizerte
-    shapeID: 13205935B29646166511918
-    country_name: Tunisia
-  Tunisia_Adm1_17:
-    iso3c: TUN
-    admin_level: Adm1
+    admin_level: Adm0
+  TUN.1_1_Adm1:
+    GID: TUN.1_1
     admin_name: Ariana
-    shapeID: 13205935B58390004509121
-    country_name: Tunisia
-  Tunisia_Adm1_18:
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Nabeul
-    shapeID: 13205935B21712567795690
     country_name: Tunisia
-  Tunisia_Adm1_19:
-    iso3c: TUN
     admin_level: Adm1
-    admin_name: Monastir
-    shapeID: 13205935B50453639335401
+  TUN.1.1_1_Adm2:
+    GID: TUN.1.1_1
+    admin_name: Ariana Médina
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm1_2:
+    admin_level: Adm2
+  TUN.1.2_1_Adm2:
+    GID: TUN.1.2_1
+    admin_name: Ettadhamen
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: BenArous
-    shapeID: 13205935B75715054307065
     country_name: Tunisia
-  Tunisia_Adm1_20:
+    admin_level: Adm2
+  TUN.1.3_1_Adm2:
+    GID: TUN.1.3_1
+    admin_name: Kalaat El Andalous
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Siliana
-    shapeID: 13205935B74205220895681
     country_name: Tunisia
-  Tunisia_Adm1_21:
+    admin_level: Adm2
+  TUN.1.4_1_Adm2:
+    GID: TUN.1.4_1
+    admin_name: Mnihla
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Zaghouan
-    shapeID: 13205935B3129194497982
     country_name: Tunisia
-  Tunisia_Adm1_22:
+    admin_level: Adm2
+  TUN.1.5_1_Adm2:
+    GID: TUN.1.5_1
+    admin_name: Raoued
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Gafsa
-    shapeID: 13205935B54080015312342
     country_name: Tunisia
-  Tunisia_Adm1_23:
+    admin_level: Adm2
+  TUN.1.6_1_Adm2:
+    GID: TUN.1.6_1
+    admin_name: Sebkhet Ariana
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Médenine
-    shapeID: 13205935B11392830158982
     country_name: Tunisia
-  Tunisia_Adm1_24:
+    admin_level: Adm2
+  TUN.1.7_1_Adm2:
+    GID: TUN.1.7_1
+    admin_name: Sidi Thabet
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Tozeur
-    shapeID: 13205935B95771050896452
     country_name: Tunisia
-  Tunisia_Adm1_3:
+    admin_level: Adm2
+  TUN.1.8_1_Adm2:
+    GID: TUN.1.8_1
+    admin_name: Soukra
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: ElKef
-    shapeID: 13205935B49538157477352
     country_name: Tunisia
-  Tunisia_Adm1_4:
+    admin_level: Adm2
+  TUN.10_1_Adm1:
+    GID: TUN.10_1
+    admin_name: Kebili
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Sousse
-    shapeID: 13205935B49970022939178
     country_name: Tunisia
-  Tunisia_Adm1_5:
-    iso3c: TUN
     admin_level: Adm1
-    admin_name: Sfax
-    shapeID: 13205935B27259873852948
+  TUN.10.1_1_Adm2:
+    GID: TUN.10.1_1
+    admin_name: Douz
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm1_6:
+    admin_level: Adm2
+  TUN.10.2_1_Adm2:
+    GID: TUN.10.2_1
+    admin_name: Faouar
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Jendouba
-    shapeID: 13205935B57742642676849
     country_name: Tunisia
-  Tunisia_Adm1_7:
+    admin_level: Adm2
+  TUN.10.3_1_Adm2:
+    GID: TUN.10.3_1
+    admin_name: Kebili Nord
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Kairouan
-    shapeID: 13205935B9888826763551
     country_name: Tunisia
-  Tunisia_Adm1_8:
+    admin_level: Adm2
+  TUN.10.4_1_Adm2:
+    GID: TUN.10.4_1
+    admin_name: Kebili Sud
     iso3c: TUN
-    admin_level: Adm1
-    admin_name: Kasserine
-    shapeID: 13205935B52637504718586
     country_name: Tunisia
-  Tunisia_Adm1_9:
+    admin_level: Adm2
+  TUN.10.5_1_Adm2:
+    GID: TUN.10.5_1
+    admin_name: Souk El Ahed
     iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11_1_Adm1:
+    GID: TUN.11_1
+    admin_name: Le Kef
+    iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm1
+  TUN.11.1_1_Adm2:
+    GID: TUN.11.1_1
+    admin_name: Dahmani
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.10_1_Adm2:
+    GID: TUN.11.10_1
+    admin_name: Sakiet Sidi Youssef
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.11_1_Adm2:
+    GID: TUN.11.11_1
+    admin_name: Tajerouine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.2_1_Adm2:
+    GID: TUN.11.2_1
+    admin_name: Es Sers
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.3_1_Adm2:
+    GID: TUN.11.3_1
+    admin_name: Jerissa
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.4_1_Adm2:
+    GID: TUN.11.4_1
+    admin_name: Kalaa Khesba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.5_1_Adm2:
+    GID: TUN.11.5_1
+    admin_name: Kalaat Senan
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.6_1_Adm2:
+    GID: TUN.11.6_1
+    admin_name: Kef Est
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.7_1_Adm2:
+    GID: TUN.11.7_1
+    admin_name: Kef Ouest
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.8_1_Adm2:
+    GID: TUN.11.8_1
+    admin_name: Ksour
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.9_1_Adm2:
+    GID: TUN.11.9_1
+    admin_name: Nebeur
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12_1_Adm1:
+    GID: TUN.12_1
     admin_name: Mahdia
-    shapeID: 13205935B953488337212
-    country_name: Tunisia
-  Tunisia_Adm2_1:
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: القصور
-    shapeID: 11933810B37215570160824
     country_name: Tunisia
-  Tunisia_Adm2_10:
+    admin_level: Adm1
+  TUN.12.1_1_Adm2:
+    GID: TUN.12.1_1
+    admin_name: Boumerdès
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الشبيكة
-    shapeID: 11933810B46466927285708
     country_name: Tunisia
-  Tunisia_Adm2_100:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: صيادة-لمطة-بوحجر
-    shapeID: 11933810B10641809578431
-    country_name: Tunisia
-  Tunisia_Adm2_101:
+  TUN.12.10_1_Adm2:
+    GID: TUN.12.10_1
+    admin_name: Sidi Alouane
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: سوسةجوهرة
-    shapeID: 11933810B93819416666054
     country_name: Tunisia
-  Tunisia_Adm2_102:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: رأسالجبل
-    shapeID: 11933810B21860369421282
-    country_name: Tunisia
-  Tunisia_Adm2_103:
+  TUN.12.11_1_Adm2:
+    GID: TUN.12.11_1
+    admin_name: Souassi
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: صفاقسالغربية
-    shapeID: 11933810B55404586431180
     country_name: Tunisia
-  Tunisia_Adm2_104:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: قصيبةالمديوني
-    shapeID: 11933810B91827641175132
-    country_name: Tunisia
-  Tunisia_Adm2_105:
+  TUN.12.2_1_Adm2:
+    GID: TUN.12.2_1
+    admin_name: Chebba
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: بوعرادة
-    shapeID: 11933810B81652618880798
     country_name: Tunisia
-  Tunisia_Adm2_106:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سيديبوعلي
-    shapeID: 11933810B45632571730396
-    country_name: Tunisia
-  Tunisia_Adm2_107:
+  TUN.12.3_1_Adm2:
+    GID: TUN.12.3_1
+    admin_name: Chorbane
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: سيديالهاني
-    shapeID: 11933810B19204281524577
     country_name: Tunisia
-  Tunisia_Adm2_108:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سيديالبشير
-    shapeID: 11933810B13786823130754
-    country_name: Tunisia
-  Tunisia_Adm2_109:
+  TUN.12.4_1_Adm2:
+    GID: TUN.12.4_1
+    admin_name: El Jem
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: باجةالشمالية
-    shapeID: 11933810B12415666618118
     country_name: Tunisia
-  Tunisia_Adm2_11:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: تطاوينالشمالية
-    shapeID: 11933810B49203985770178
-    country_name: Tunisia
-  Tunisia_Adm2_110:
+  TUN.12.5_1_Adm2:
+    GID: TUN.12.5_1
+    admin_name: Hbira
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: قعفور
-    shapeID: 11933810B21725458188720
     country_name: Tunisia
-  Tunisia_Adm2_111:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: المتلوي
-    shapeID: 11933810B54708226655560
-    country_name: Tunisia
-  Tunisia_Adm2_112:
+  TUN.12.6_1_Adm2:
+    GID: TUN.12.6_1
+    admin_name: Ksour Essef
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: ‫الصخیرة‬
-    shapeID: 11933810B97114621769355
     country_name: Tunisia
-  Tunisia_Adm2_113:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الزاويةقصيبةالثريات
-    shapeID: 11933810B76195291286542
-    country_name: Tunisia
-  Tunisia_Adm2_114:
+  TUN.12.7_1_Adm2:
+    GID: TUN.12.7_1
+    admin_name: Mahdia
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: المدينةالجديدة
-    shapeID: 11933810B97530891468779
     country_name: Tunisia
-  Tunisia_Adm2_115:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سوسةالرياض
-    shapeID: 11933810B40013450318318
-    country_name: Tunisia
-  Tunisia_Adm2_116:
+  TUN.12.8_1_Adm2:
+    GID: TUN.12.8_1
+    admin_name: Melloulech
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: نفطة
-    shapeID: 11933810B9968739853543
     country_name: Tunisia
-  Tunisia_Adm2_117:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: هبيرة
-    shapeID: 11933810B18034425554259
-    country_name: Tunisia
-  Tunisia_Adm2_118:
+  TUN.12.9_1_Adm2:
+    GID: TUN.12.9_1
+    admin_name: Ouled Chamekh
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: البطان
-    shapeID: 11933810B2611958153952
     country_name: Tunisia
-  Tunisia_Adm2_119:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الحمامات
-    shapeID: 11933810B25147295271575
-    country_name: Tunisia
-  Tunisia_Adm2_12:
+  TUN.13_1_Adm1:
+    GID: TUN.13_1
+    admin_name: Manubah
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: رمادة
-    shapeID: 11933810B42878076535883
     country_name: Tunisia
-  Tunisia_Adm2_120:
+    admin_level: Adm1
+  TUN.13.1_1_Adm2:
+    GID: TUN.13.1_1
+    admin_name: Borj El Amri
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: السرس
-    shapeID: 11933810B34035527934296
     country_name: Tunisia
-  Tunisia_Adm2_121:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: العمرانالأعلى
-    shapeID: 11933810B96784549406628
-    country_name: Tunisia
-  Tunisia_Adm2_122:
+  TUN.13.2_1_Adm2:
+    GID: TUN.13.2_1
+    admin_name: Douar Hicher
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: العيون
-    shapeID: 11933810B58410238411456
     country_name: Tunisia
-  Tunisia_Adm2_123:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الكبارية
-    shapeID: 11933810B56753019610878
-    country_name: Tunisia
-  Tunisia_Adm2_124:
+  TUN.13.3_1_Adm2:
+    GID: TUN.13.3_1
+    admin_name: El Battan
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: المروج
-    shapeID: 11933810B70692418830632
     country_name: Tunisia
-  Tunisia_Adm2_125:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: بنقردان
-    shapeID: 11933810B18047024672055
-    country_name: Tunisia
-  Tunisia_Adm2_126:
+  TUN.13.4_1_Adm2:
+    GID: TUN.13.4_1
+    admin_name: Jedaida
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: جربةاجيم
-    shapeID: 11933810B71937428341343
     country_name: Tunisia
-  Tunisia_Adm2_127:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: جربةحومةالسوق
-    shapeID: 11933810B22764087432985
-    country_name: Tunisia
-  Tunisia_Adm2_128:
+  TUN.13.5_1_Adm2:
+    GID: TUN.13.5_1
+    admin_name: Manouba
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: حزوة
-    shapeID: 11933810B67956509398297
     country_name: Tunisia
-  Tunisia_Adm2_129:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: زغوان
-    shapeID: 11933810B81607479948477
-    country_name: Tunisia
-  Tunisia_Adm2_13:
+  TUN.13.6_1_Adm2:
+    GID: TUN.13.6_1
+    admin_name: Mornaguia
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الصمار
-    shapeID: 11933810B83498935151337
     country_name: Tunisia
-  Tunisia_Adm2_130:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سليانةالجنوبية
-    shapeID: 11933810B21220731511134
-    country_name: Tunisia
-  Tunisia_Adm2_131:
+  TUN.13.7_1_Adm2:
+    GID: TUN.13.7_1
+    admin_name: Oued Ellil
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: سيديبوزيدالغربية
-    shapeID: 11933810B70280449703815
     country_name: Tunisia
-  Tunisia_Adm2_132:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: غمراسن
-    shapeID: 11933810B49417994468433
-    country_name: Tunisia
-  Tunisia_Adm2_133:
+  TUN.13.8_1_Adm2:
+    GID: TUN.13.8_1
+    admin_name: Tebourba
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: قابسالجنوبية
-    shapeID: 11933810B60005514770048
     country_name: Tunisia
-  Tunisia_Adm2_134:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الشابة
-    shapeID: 11933810B64556610249653
-    country_name: Tunisia
-  Tunisia_Adm2_135:
+  TUN.14_1_Adm1:
+    GID: TUN.14_1
+    admin_name: Médenine
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: طبرقة‎
-    shapeID: 11933810B13305423353951
     country_name: Tunisia
-  Tunisia_Adm2_136:
+    admin_level: Adm1
+  TUN.14.1_1_Adm2:
+    GID: TUN.14.1_1
+    admin_name: Ben Guerdane
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: سوقالجديد
-    shapeID: 11933810B30023985357701
     country_name: Tunisia
-  Tunisia_Adm2_137:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سوقالأحد
-    shapeID: 11933810B8106113048091
-    country_name: Tunisia
-  Tunisia_Adm2_138:
+  TUN.14.2_1_Adm2:
+    GID: TUN.14.2_1
+    admin_name: Beni Khedache
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: سوسةسيديعبدالحميد
-    shapeID: 11933810B8352609818393
     country_name: Tunisia
-  Tunisia_Adm2_139:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سوسةالمدينة
-    shapeID: 11933810B4615556416921
-    country_name: Tunisia
-  Tunisia_Adm2_14:
+  TUN.14.3_1_Adm2:
+    GID: TUN.14.3_1
+    admin_name: Djerba Ajim
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: سليمان
-    shapeID: 11933810B11827339972029
     country_name: Tunisia
-  Tunisia_Adm2_140:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سكرة
-    shapeID: 11933810B69163376090757
-    country_name: Tunisia
-  Tunisia_Adm2_141:
+  TUN.14.4_1_Adm2:
+    GID: TUN.14.4_1
+    admin_name: Djerba Midoun
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: ساقيةسيدييوسف
-    shapeID: 11933810B55515778364888
     country_name: Tunisia
-  Tunisia_Adm2_142:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: ساقيةالزيت
-    shapeID: 11933810B89439185484115
-    country_name: Tunisia
-  Tunisia_Adm2_143:
+  TUN.14.5_1_Adm2:
+    GID: TUN.14.5_1
+    admin_name: Houmt Souk
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: ساقيةالدائر
-    shapeID: 11933810B13645243771423
     country_name: Tunisia
-  Tunisia_Adm2_144:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: رواد
-    shapeID: 11933810B90990960542190
-    country_name: Tunisia
-  Tunisia_Adm2_145:
+  TUN.14.6_1_Adm2:
+    GID: TUN.14.6_1
+    admin_name: Médenine Nord
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: دوزالشمالية
-    shapeID: 11933810B4282823233173
     country_name: Tunisia
-  Tunisia_Adm2_146:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: دوزالجنوبية
-    shapeID: 11933810B49944749177942
-    country_name: Tunisia
-  Tunisia_Adm2_147:
+  TUN.14.7_1_Adm2:
+    GID: TUN.14.7_1
+    admin_name: Médenine Sud
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: دوارهيشر
-    shapeID: 11933810B69098282317118
     country_name: Tunisia
-  Tunisia_Adm2_148:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: دارشعبانالفهري
-    shapeID: 11933810B9429743875970
-    country_name: Tunisia
-  Tunisia_Adm2_149:
+  TUN.14.8_1_Adm2:
+    GID: TUN.14.8_1
+    admin_name: Sidi Makhlouf
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: حيالتضامن
-    shapeID: 11933810B96031064721664
     country_name: Tunisia
-  Tunisia_Adm2_15:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: أولادحفوز
-    shapeID: 11933810B93669853270617
-    country_name: Tunisia
-  Tunisia_Adm2_150:
+  TUN.14.9_1_Adm2:
+    GID: TUN.14.9_1
+    admin_name: Zarzis
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: حمامسوسة
-    shapeID: 11933810B92430147648185
     country_name: Tunisia
-  Tunisia_Adm2_151:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: حلقالوادي
-    shapeID: 11933810B65786338139889
-    country_name: Tunisia
-  Tunisia_Adm2_152:
+  TUN.15_1_Adm1:
+    GID: TUN.15_1
+    admin_name: Monastir
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: جرزونة
-    shapeID: 11933810B70107776875396
     country_name: Tunisia
-  Tunisia_Adm2_153:
+    admin_level: Adm1
+  TUN.15.1_1_Adm2:
+    GID: TUN.15.1_1
+    admin_name: Bekalta
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: جدليان
-    shapeID: 11933810B38507486646045
     country_name: Tunisia
-  Tunisia_Adm2_154:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: جبلالجلود
-    shapeID: 11933810B63287447977470
-    country_name: Tunisia
-  Tunisia_Adm2_155:
+  TUN.15.10_1_Adm2:
+    GID: TUN.15.10_1
+    admin_name: Sahline
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: تينجة
-    shapeID: 11933810B92881576006474
     country_name: Tunisia
-  Tunisia_Adm2_156:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: توزر
-    shapeID: 11933810B62164441904454
-    country_name: Tunisia
-  Tunisia_Adm2_157:
+  TUN.15.11_1_Adm2:
+    GID: TUN.15.11_1
+    admin_name: Sayada-Lamta-Bou Hjar
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: تمغزة
-    shapeID: 11933810B67504768334789
     country_name: Tunisia
-  Tunisia_Adm2_158:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: تطاوينالجنوبية
-    shapeID: 11933810B41543815367913
-    country_name: Tunisia
-  Tunisia_Adm2_159:
+  TUN.15.12_1_Adm2:
+    GID: TUN.15.12_1
+    admin_name: Sebkhet El Moknine
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: تاجروين
-    shapeID: 11933810B76558874378908
     country_name: Tunisia
-  Tunisia_Adm2_16:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الرديف
-    shapeID: 11933810B54153099076840
-    country_name: Tunisia
-  Tunisia_Adm2_160:
+  TUN.15.13_1_Adm2:
+    GID: TUN.15.13_1
+    admin_name: Teboulba
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: بئرعليبنخليفة
-    shapeID: 11933810B84931460768485
     country_name: Tunisia
-  Tunisia_Adm2_161:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: بئرالأحمر
-    shapeID: 11933810B19780106503049
-    country_name: Tunisia
-  Tunisia_Adm2_162:
+  TUN.15.14_1_Adm2:
+    GID: TUN.15.14_1
+    admin_name: Unknown1
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: بوفيشة
-    shapeID: 11933810B69037134075078
     country_name: Tunisia
-  Tunisia_Adm2_163:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: بوعرقوب
-    shapeID: 11933810B70885239011208
-    country_name: Tunisia
-  Tunisia_Adm2_164:
+  TUN.15.15_1_Adm2:
+    GID: TUN.15.15_1
+    admin_name: Zeramdine
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: بنيخلاد
-    shapeID: 11933810B39767465855300
     country_name: Tunisia
-  Tunisia_Adm2_165:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: برقو
-    shapeID: 11933810B3817841111611
-    country_name: Tunisia
-  Tunisia_Adm2_166:
+  TUN.15.2_1_Adm2:
+    GID: TUN.15.2_1
+    admin_name: Bembla
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: برجالعامري
-    shapeID: 11933810B17084695603021
     country_name: Tunisia
-  Tunisia_Adm2_167:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الوردية
-    shapeID: 11933810B61318752024090
-    country_name: Tunisia
-  Tunisia_Adm2_168:
+  TUN.15.3_1_Adm2:
+    GID: TUN.15.3_1
+    admin_name: Beni Hassen
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الوردانين
-    shapeID: 11933810B40616905411348
     country_name: Tunisia
-  Tunisia_Adm2_169:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: المنزه
-    shapeID: 11933810B72032041676540
-    country_name: Tunisia
-  Tunisia_Adm2_17:
+  TUN.15.4_1_Adm2:
+    GID: TUN.15.4_1
+    admin_name: Jammel
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الناظور
-    shapeID: 11933810B17149479798456
     country_name: Tunisia
-  Tunisia_Adm2_170:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الكرم
-    shapeID: 11933810B15261795399084
-    country_name: Tunisia
-  Tunisia_Adm2_171:
+  TUN.15.5_1_Adm2:
+    GID: TUN.15.5_1
+    admin_name: Ksar Hellal
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: القلعةالكبرى
-    shapeID: 11933810B46924105449942
     country_name: Tunisia
-  Tunisia_Adm2_172:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: القلعةالصغرى
-    shapeID: 11933810B31167158349382
-    country_name: Tunisia
-  Tunisia_Adm2_173:
+  TUN.15.6_1_Adm2:
+    GID: TUN.15.6_1
+    admin_name: Ksibet El Mediouni
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: القلعةالخصباء
-    shapeID: 11933810B49043051728800
     country_name: Tunisia
-  Tunisia_Adm2_174:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الفوار‬
-    shapeID: 11933810B67570722535168
-    country_name: Tunisia
-  Tunisia_Adm2_175:
+  TUN.15.7_1_Adm2:
+    GID: TUN.15.7_1
+    admin_name: Moknine
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الفحص
-    shapeID: 11933810B99487931603822
     country_name: Tunisia
-  Tunisia_Adm2_176:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الغريبة
-    shapeID: 11933810B8760132099835
-    country_name: Tunisia
-  Tunisia_Adm2_177:
+  TUN.15.8_1_Adm2:
+    GID: TUN.15.8_1
+    admin_name: Monastir
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: السبيخة
-    shapeID: 11933810B5953362566301
     country_name: Tunisia
-  Tunisia_Adm2_178:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الساحلين
-    shapeID: 11933810B1906058680343
-    country_name: Tunisia
-  Tunisia_Adm2_179:
+  TUN.15.9_1_Adm2:
+    GID: TUN.15.9_1
+    admin_name: Ouerdanine
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الدهماني
-    shapeID: 11933810B82782291879884
     country_name: Tunisia
-  Tunisia_Adm2_18:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: زرمدين
-    shapeID: 11933810B3957312331643
-    country_name: Tunisia
-  Tunisia_Adm2_180:
+  TUN.16_1_Adm1:
+    GID: TUN.16_1
+    admin_name: Nabeul
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الحرائرية
-    shapeID: 11933810B93810808295366
     country_name: Tunisia
-  Tunisia_Adm2_181:
+    admin_level: Adm1
+  TUN.16.1_1_Adm2:
+    GID: TUN.16.1_1
+    admin_name: Beni Khalled
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الجريصة
-    shapeID: 11933810B26016099352541
     country_name: Tunisia
-  Tunisia_Adm2_182:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: البقالطة
-    shapeID: 11933810B19311233217993
-    country_name: Tunisia
-  Tunisia_Adm2_183:
+  TUN.16.10_1_Adm2:
+    GID: TUN.16.10_1
+    admin_name: Kelibia
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: أكودة
-    shapeID: 11933810B52939615202666
     country_name: Tunisia
-  Tunisia_Adm2_184:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: أريانةالمدينة
-    shapeID: 11933810B85991761590163
-    country_name: Tunisia
-  Tunisia_Adm2_185:
+  TUN.16.11_1_Adm2:
+    GID: TUN.16.11_1
+    admin_name: Korba
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: MenzelChaker
-    shapeID: 11933810B91048903383845
     country_name: Tunisia
-  Tunisia_Adm2_186:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: ElHencha
-    shapeID: 11933810B64295465131340
-    country_name: Tunisia
-  Tunisia_Adm2_187:
+  TUN.16.12_1_Adm2:
+    GID: TUN.16.12_1
+    admin_name: Menzel Bouzelfa
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: Carthage
-    shapeID: 11933810B39381734454792
     country_name: Tunisia
-  Tunisia_Adm2_188:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: BouSalem
-    shapeID: 11933810B27500273818749
-    country_name: Tunisia
-  Tunisia_Adm2_189:
+  TUN.16.13_1_Adm2:
+    GID: TUN.16.13_1
+    admin_name: Menzel Temime
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: BaltaBouawene
-    shapeID: 11933810B50492442899568
     country_name: Tunisia
-  Tunisia_Adm2_19:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: القيروانالجنوبية
-    shapeID: 11933810B51337682918507
-    country_name: Tunisia
-  Tunisia_Adm2_190:
+  TUN.16.14_1_Adm2:
+    GID: TUN.16.14_1
+    admin_name: Nabeul
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: غارالملح
-    shapeID: 11933810B69695767821716
     country_name: Tunisia
-  Tunisia_Adm2_191:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: وادياللیل‬
-    shapeID: 11933810B79768086949873
-    country_name: Tunisia
-  Tunisia_Adm2_192:
+  TUN.16.15_1_Adm2:
+    GID: TUN.16.15_1
+    admin_name: Soliman
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: وادمليز
-    shapeID: 11933810B94389885221206
     country_name: Tunisia
-  Tunisia_Adm2_193:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: هرقلة
-    shapeID: 11933810B20916595248179
-    country_name: Tunisia
-  Tunisia_Adm2_194:
+  TUN.16.16_1_Adm2:
+    GID: TUN.16.16_1
+    admin_name: Takelsa
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: العالية
-    shapeID: 11933810B90101987139089
     country_name: Tunisia
-  Tunisia_Adm2_195:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الشراردة
-    shapeID: 11933810B20445335117262
-    country_name: Tunisia
-  Tunisia_Adm2_196:
+  TUN.16.2_1_Adm2:
+    GID: TUN.16.2_1
+    admin_name: Beni Khiar
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: حمامالشط
-    shapeID: 11933810B77374835127738
     country_name: Tunisia
-  Tunisia_Adm2_197:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: تيبار
-    shapeID: 11933810B69090870616601
-    country_name: Tunisia
-  Tunisia_Adm2_198:
+  TUN.16.3_1_Adm2:
+    GID: TUN.16.3_1
+    admin_name: Bou Argoub
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: ‫المحرس‬
-    shapeID: 11933810B93719080710322
     country_name: Tunisia
-  Tunisia_Adm2_199:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: بلخير
-    shapeID: 11933810B77110081230007
-    country_name: Tunisia
-  Tunisia_Adm2_2:
+  TUN.16.4_1_Adm2:
+    GID: TUN.16.4_1
+    admin_name: Dar Chaabane El Fehri
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: المزونة
-    shapeID: 11933810B66585629816917
     country_name: Tunisia
-  Tunisia_Adm2_20:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: قابسالغربية
-    shapeID: 11933810B93089307586019
-    country_name: Tunisia
-  Tunisia_Adm2_200:
+  TUN.16.5_1_Adm2:
+    GID: TUN.16.5_1
+    admin_name: El Mida
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: العامرة
-    shapeID: 11933810B27365957956997
     country_name: Tunisia
-  Tunisia_Adm2_201:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الكريب
-    shapeID: 11933810B63201722786618
-    country_name: Tunisia
-  Tunisia_Adm2_202:
+  TUN.16.6_1_Adm2:
+    GID: TUN.16.6_1
+    admin_name: Grombalia
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: باببحر
-    shapeID: 11933810B80970548575435
     country_name: Tunisia
-  Tunisia_Adm2_203:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الزهراء
-    shapeID: 11933810B4327996675990
-    country_name: Tunisia
-  Tunisia_Adm2_204:
+  TUN.16.7_1_Adm2:
+    GID: TUN.16.7_1
+    admin_name: Hammam Ghezaz
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: العمران
-    shapeID: 11933810B23225476199680
     country_name: Tunisia
-  Tunisia_Adm2_205:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: مقرين
-    shapeID: 11933810B16314159892818
-    country_name: Tunisia
-  Tunisia_Adm2_206:
+  TUN.16.8_1_Adm2:
+    GID: TUN.16.8_1
+    admin_name: Hammamet
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: بومهلالبساتين
-    shapeID: 11933810B99011573109347
     country_name: Tunisia
-  Tunisia_Adm2_207:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: جربةميدون
-    shapeID: 11933810B49298312402477
-    country_name: Tunisia
-  Tunisia_Adm2_208:
+  TUN.16.9_1_Adm2:
+    GID: TUN.16.9_1
+    admin_name: Haouaria
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: حيالخضراء
-    shapeID: 11933810B14386581864910
     country_name: Tunisia
-  Tunisia_Adm2_209:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: المرناقية
-    shapeID: 11933810B30705450500253
-    country_name: Tunisia
-  Tunisia_Adm2_21:
+  TUN.17_1_Adm1:
+    GID: TUN.17_1
+    admin_name: Sfax
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: أوتيك
-    shapeID: 11933810B87788045325558
     country_name: Tunisia
-  Tunisia_Adm2_210:
+    admin_level: Adm1
+  TUN.17.1_1_Adm2:
+    GID: TUN.17.1_1
+    admin_name: Agareb
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: بنبلة
-    shapeID: 11933810B74832609224245
     country_name: Tunisia
-  Tunisia_Adm2_211:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سيديبوزيدالشرقية
-    shapeID: 11933810B54416453623
-    country_name: Tunisia
-  Tunisia_Adm2_212:
+  TUN.17.10_1_Adm2:
+    GID: TUN.17.10_1
+    admin_name: Sakiet Eddaier
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: سيديثابت
-    shapeID: 11933810B98016623241881
     country_name: Tunisia
-  Tunisia_Adm2_213:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سيديحسين
-    shapeID: 11933810B21257507323383
-    country_name: Tunisia
-  Tunisia_Adm2_214:
+  TUN.17.11_1_Adm2:
+    GID: TUN.17.11_1
+    admin_name: Sakiet Ezzit
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: سبيطلة
-    shapeID: 11933810B7200177865373
     country_name: Tunisia
-  Tunisia_Adm2_215:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: حمامالأنف
-    shapeID: 11933810B17375886890417
-    country_name: Tunisia
-  Tunisia_Adm2_216:
+  TUN.17.12_1_Adm2:
+    GID: TUN.17.12_1
+    admin_name: Sfax Médina
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: فريانة
-    shapeID: 11933810B52074179872789
     country_name: Tunisia
-  Tunisia_Adm2_217:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: تستور
-    shapeID: 11933810B3034727793195
-    country_name: Tunisia
-  Tunisia_Adm2_218:
+  TUN.17.13_1_Adm2:
+    GID: TUN.17.13_1
+    admin_name: Sfax Ouest
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: حاجبالعيون
-    shapeID: 11933810B37862088791511
     country_name: Tunisia
-  Tunisia_Adm2_219:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: حاسيالفريد
-    shapeID: 11933810B10014638911734
-    country_name: Tunisia
-  Tunisia_Adm2_22:
+  TUN.17.14_1_Adm2:
+    GID: TUN.17.14_1
+    admin_name: Sfax Sud
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: سيديمخلوف
-    shapeID: 11933810B95745204086870
+  TUN.17.15_1_Adm2:
+    GID: TUN.17.15_1
+    admin_name: Skhira
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_220:
+    admin_level: Adm2
+  TUN.17.2_1_Adm2:
+    GID: TUN.17.2_1
+    admin_name: Bir Ali Ben Khélifa
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: بئرمشارقة
-    shapeID: 11933810B29864184441707
+  TUN.17.3_1_Adm2:
+    GID: TUN.17.3_1
+    admin_name: El Amra
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_221:
+    admin_level: Adm2
+  TUN.17.4_1_Adm2:
+    GID: TUN.17.4_1
+    admin_name: El Ghraiba
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: JendoubaSud
-    shapeID: 11933810B5291941008457
+  TUN.17.5_1_Adm2:
+    GID: TUN.17.5_1
+    admin_name: Hencha
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_222:
+    admin_level: Adm2
+  TUN.17.6_1_Adm2:
+    GID: TUN.17.6_1
+    admin_name: Jebeniana
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
+  TUN.17.7_1_Adm2:
+    GID: TUN.17.7_1
     admin_name: Kerkennah
-    shapeID: 11933810B48763821279010
-    country_name: Tunisia
-  Tunisia_Adm2_223:
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الروحية
-    shapeID: 11933810B23318166280957
     country_name: Tunisia
-  Tunisia_Adm2_224:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: السيجومي
-    shapeID: 11933810B792600527731
-    country_name: Tunisia
-  Tunisia_Adm2_225:
+  TUN.17.8_1_Adm2:
+    GID: TUN.17.8_1
+    admin_name: Mahres
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: أمالعرائس
-    shapeID: 11933810B49393262252767
     country_name: Tunisia
-  Tunisia_Adm2_226:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سليانةالشمالية
-    shapeID: 11933810B59766353296810
-    country_name: Tunisia
-  Tunisia_Adm2_227:
+  TUN.17.9_1_Adm2:
+    GID: TUN.17.9_1
+    admin_name: Menzel Chaker
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: ذهيبة
-    shapeID: 11933810B38672190318546
     country_name: Tunisia
-  Tunisia_Adm2_228:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: جومين
-    shapeID: 11933810B45404698681959
-    country_name: Tunisia
-  Tunisia_Adm2_229:
+  TUN.18_1_Adm1:
+    GID: TUN.18_1
+    admin_name: Sidi Bou Zid
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: بومرداس
-    shapeID: 11933810B14634667217503
     country_name: Tunisia
-  Tunisia_Adm2_23:
+    admin_level: Adm1
+  TUN.18.1_1_Adm2:
+    GID: TUN.18.1_1
+    admin_name: Bir El Hfay
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: مارث
-    shapeID: 11933810B61155262377860
     country_name: Tunisia
-  Tunisia_Adm2_230:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: بنيخيار
-    shapeID: 11933810B855044538504
-    country_name: Tunisia
-  Tunisia_Adm2_231:
+  TUN.18.10_1_Adm2:
+    GID: TUN.18.10_1
+    admin_name: Sidi Bouzid Est
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: بوحجلة
-    shapeID: 11933810B10530629108425
     country_name: Tunisia
-  Tunisia_Adm2_232:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الهوارية
-    shapeID: 11933810B94035776455507
-    country_name: Tunisia
-  Tunisia_Adm2_233:
+  TUN.18.11_1_Adm2:
+    GID: TUN.18.11_1
+    admin_name: Sidi Bouzid Ouest
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: صواف
-    shapeID: 11933810B85459320583034
     country_name: Tunisia
-  Tunisia_Adm2_234:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: بئرالحفي
-    shapeID: 11933810B73279713716236
-    country_name: Tunisia
-  Tunisia_Adm2_235:
+  TUN.18.12_1_Adm2:
+    GID: TUN.18.12_1
+    admin_name: Souk Jedid
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الجديدة
-    shapeID: 11933810B41984965215358
     country_name: Tunisia
-  Tunisia_Adm2_236:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: المحمدية
-    shapeID: 11933810B94695140482222
-    country_name: Tunisia
-  Tunisia_Adm2_237:
+  TUN.18.2_1_Adm2:
+    GID: TUN.18.2_1
+    admin_name: Jelma
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: القيروانالشمالية
-    shapeID: 11933810B14836095916482
     country_name: Tunisia
-  Tunisia_Adm2_238:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الكافالغربية
-    shapeID: 11933810B63421014427866
-    country_name: Tunisia
-  Tunisia_Adm2_239:
+  TUN.18.3_1_Adm2:
+    GID: TUN.18.3_1
+    admin_name: Mazzouna
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: نبر
-    shapeID: 11933810B49902378284824
     country_name: Tunisia
-  Tunisia_Adm2_24:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: تالة
-    shapeID: 11933810B61814585339016
-    country_name: Tunisia
-  Tunisia_Adm2_240:
+  TUN.18.4_1_Adm2:
+    GID: TUN.18.4_1
+    admin_name: Meknassi
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: ملولش
-    shapeID: 11933810B14406608577982
     country_name: Tunisia
-  Tunisia_Adm2_241:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: منزلبوزيان
-    shapeID: 11933810B90184807818123
-    country_name: Tunisia
-  Tunisia_Adm2_242:
+  TUN.18.5_1_Adm2:
+    GID: TUN.18.5_1
+    admin_name: Menzel Bouzaiene
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: جمال
-    shapeID: 11933810B99005067592963
     country_name: Tunisia
-  Tunisia_Adm2_243:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: بنيخداش
-    shapeID: 11933810B7896937975348
-    country_name: Tunisia
-  Tunisia_Adm2_244:
+  TUN.18.6_1_Adm2:
+    GID: TUN.18.6_1
+    admin_name: Ouled Haffouz
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: تبرسق
-    shapeID: 11933810B80105937964230
     country_name: Tunisia
-  Tunisia_Adm2_245:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: المكنين
-    shapeID: 11933810B23550451682072
-    country_name: Tunisia
-  Tunisia_Adm2_246:
+  TUN.18.7_1_Adm2:
+    GID: TUN.18.7_1
+    admin_name: Regueb
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: المنستير
-    shapeID: 11933810B26778140305408
     country_name: Tunisia
-  Tunisia_Adm2_247:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: والدشامخ
-    shapeID: 11933810B93469460723803
-    country_name: Tunisia
-  Tunisia_Adm2_248:
+  TUN.18.8_1_Adm2:
+    GID: TUN.18.8_1
+    admin_name: Sabalat Ouled Asker
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: قفصةالجنوبية
-    shapeID: 11933810B66279865706920
     country_name: Tunisia
-  Tunisia_Adm2_249:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سيديعلوان
-    shapeID: 11933810B57085806890021
-    country_name: Tunisia
-  Tunisia_Adm2_25:
+  TUN.18.9_1_Adm2:
+    GID: TUN.18.9_1
+    admin_name: Sidi Ali Ben Aoun
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: بنزرتالجنوبية
-    shapeID: 11933810B10637834163678
     country_name: Tunisia
-  Tunisia_Adm2_250:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: الرقاب
-    shapeID: 11933810B48053950180724
-    country_name: Tunisia
-  Tunisia_Adm2_251:
+  TUN.19_1_Adm1:
+    GID: TUN.19_1
+    admin_name: Siliana
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: نفزة
-    shapeID: 11933810B22312000664115
     country_name: Tunisia
-  Tunisia_Adm2_252:
+    admin_level: Adm1
+  TUN.19.1_1_Adm2:
+    GID: TUN.19.1_1
+    admin_name: Bargou
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: سيديعليبنعون
-    shapeID: 11933810B84544107883303
     country_name: Tunisia
-  Tunisia_Adm2_253:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: سجنان
-    shapeID: 11933810B88650874660140
-    country_name: Tunisia
-  Tunisia_Adm2_254:
+  TUN.19.10_1_Adm2:
+    GID: TUN.19.10_1
+    admin_name: Siliana Nord
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: رادس
-    shapeID: 11933810B70866189338214
     country_name: Tunisia
-  Tunisia_Adm2_255:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: حمامالغزاز
-    shapeID: 11933810B57309520880620
-    country_name: Tunisia
-  Tunisia_Adm2_256:
+  TUN.19.11_1_Adm2:
+    GID: TUN.19.11_1
+    admin_name: Siliana Sud
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: تاكلسة
-    shapeID: 11933810B56579355102022
     country_name: Tunisia
-  Tunisia_Adm2_257:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: منزلالحبيب
-    shapeID: 11933810B71477976393658
-    country_name: Tunisia
-  Tunisia_Adm2_258:
+  TUN.19.2_1_Adm2:
+    GID: TUN.19.2_1
+    admin_name: Bouarada
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الحامة
-    shapeID: 11933810B10318624738248
     country_name: Tunisia
-  Tunisia_Adm2_259:
-    iso3c: TUN
     admin_level: Adm2
-    admin_name: مطماطة
-    shapeID: 11933810B21643194978673
-    country_name: Tunisia
-  Tunisia_Adm2_26:
+  TUN.19.3_1_Adm2:
+    GID: TUN.19.3_1
+    admin_name: Bourouis
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: الكافالشرقية
-    shapeID: 11933810B59009288682307
+  TUN.19.4_1_Adm2:
+    GID: TUN.19.4_1
+    admin_name: El Krib
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_260:
+    admin_level: Adm2
+  TUN.19.5_1_Adm2:
+    GID: TUN.19.5_1
+    admin_name: Gaafour
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: منزلبوزلفة
-    shapeID: 11933810B54928628318578
+  TUN.19.6_1_Adm2:
+    GID: TUN.19.6_1
+    admin_name: Kesra
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_261:
+    admin_level: Adm2
+  TUN.19.7_1_Adm2:
+    GID: TUN.19.7_1
+    admin_name: Laroussa
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: نصرالله
-    shapeID: 11933810B10041539297974
+  TUN.19.8_1_Adm2:
+    GID: TUN.19.8_1
+    admin_name: Makthar
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_262:
+    admin_level: Adm2
+  TUN.19.9_1_Adm2:
+    GID: TUN.19.9_1
+    admin_name: Rouhia
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قليبية
-    shapeID: 11933810B17792419290785
+  TUN.2_1_Adm1:
+    GID: TUN.2_1
+    admin_name: Béja
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_263:
+    admin_level: Adm1
+  TUN.2.1_1_Adm2:
+    GID: TUN.2.1_1
+    admin_name: Amdoun
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: كسرى
-    shapeID: 11933810B54717657919008
+  TUN.2.2_1_Adm2:
+    GID: TUN.2.2_1
+    admin_name: Béja Nord
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_264:
+    admin_level: Adm2
+  TUN.2.3_1_Adm2:
+    GID: TUN.2.3_1
+    admin_name: Béja Sud
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: منزلتميم
-    shapeID: 11933810B45961681846987
+  TUN.2.4_1_Adm2:
+    GID: TUN.2.4_1
+    admin_name: Goubellat
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_27:
+    admin_level: Adm2
+  TUN.2.5_1_Adm2:
+    GID: TUN.2.5_1
+    admin_name: Mejez El Bab
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: جبنيانة
-    shapeID: 11933810B77828978418448
+  TUN.2.6_1_Adm2:
+    GID: TUN.2.6_1
+    admin_name: Nefza
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_28:
+    admin_level: Adm2
+  TUN.2.7_1_Adm2:
+    GID: TUN.2.7_1
+    admin_name: Téboursouk
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: مطماطةالجديدة
-    shapeID: 11933810B2147309578114
+  TUN.2.8_1_Adm2:
+    GID: TUN.2.8_1
+    admin_name: Testour
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_29:
+    admin_level: Adm2
+  TUN.2.9_1_Adm2:
+    GID: TUN.2.9_1
+    admin_name: Thibar
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: عيندراهم
-    shapeID: 11933810B84977870340871
+  TUN.20_1_Adm1:
+    GID: TUN.20_1
+    admin_name: Sousse
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_3:
+    admin_level: Adm1
+  TUN.20.1_1_Adm2:
+    GID: TUN.20.1_1
+    admin_name: Akouda
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: العروسة
-    shapeID: 11933810B82124432646139
+  TUN.20.10_1_Adm2:
+    GID: TUN.20.10_1
+    admin_name: Sebkhat Sidi El Hani
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_30:
+    admin_level: Adm2
+  TUN.20.11_1_Adm2:
+    GID: TUN.20.11_1
+    admin_name: Sebkhit El Kabla
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: السند
-    shapeID: 11933810B24565531401721
+  TUN.20.12_1_Adm2:
+    GID: TUN.20.12_1
+    admin_name: Sidi Bou Ali
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_31:
+    admin_level: Adm2
+  TUN.20.13_1_Adm2:
+    GID: TUN.20.13_1
+    admin_name: Sidi El Heni
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: التحرير
-    shapeID: 11933810B45442684753250
+  TUN.20.14_1_Adm2:
+    GID: TUN.20.14_1
+    admin_name: Sousse Jaouhara
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_32:
+    admin_level: Adm2
+  TUN.20.15_1_Adm2:
+    GID: TUN.20.15_1
+    admin_name: Sousse Médina
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: جلمة
-    shapeID: 11933810B21943551709100
+  TUN.20.16_1_Adm2:
+    GID: TUN.20.16_1
+    admin_name: Sousse Riadh
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_33:
+    admin_level: Adm2
+  TUN.20.17_1_Adm2:
+    GID: TUN.20.17_1
+    admin_name: Sousse Sidi Abdelhamid
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: الزهور
-    shapeID: 11933810B27074780106305
+  TUN.20.2_1_Adm2:
+    GID: TUN.20.2_1
+    admin_name: Bouficha
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_34:
+    admin_level: Adm2
+  TUN.20.3_1_Adm2:
+    GID: TUN.20.3_1
+    admin_name: Enfidha
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: حيدرة
-    shapeID: 11933810B6714146070039
+  TUN.20.4_1_Adm2:
+    GID: TUN.20.4_1
+    admin_name: Hammam Sousse
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_35:
+    admin_level: Adm2
+  TUN.20.5_1_Adm2:
+    GID: TUN.20.5_1
+    admin_name: Hergla
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: المدينة
-    shapeID: 11933810B18230049002493
+  TUN.20.6_1_Adm2:
+    GID: TUN.20.6_1
+    admin_name: Kalaa Kebira
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_36:
+    admin_level: Adm2
+  TUN.20.7_1_Adm2:
+    GID: TUN.20.7_1
+    admin_name: Kalaa Sghira
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: النفيضة
-    shapeID: 11933810B70158392681362
+  TUN.20.8_1_Adm2:
+    GID: TUN.20.8_1
+    admin_name: Kondar
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_37:
+    admin_level: Adm2
+  TUN.20.9_1_Adm2:
+    GID: TUN.20.9_1
+    admin_name: M'Saken
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: بابسويقة
-    shapeID: 11933810B78138707020335
+  TUN.21_1_Adm1:
+    GID: TUN.21_1
+    admin_name: Tataouine
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_38:
+    admin_level: Adm1
+  TUN.21.1_1_Adm2:
+    GID: TUN.21.1_1
+    admin_name: Bir Lahmar
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: بنزرتالشمالية
-    shapeID: 11933810B79340019170790
+  TUN.21.2_1_Adm2:
+    GID: TUN.21.2_1
+    admin_name: Dhiba
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_39:
+    admin_level: Adm2
+  TUN.21.3_1_Adm2:
+    GID: TUN.21.3_1
+    admin_name: Ghomrassen
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: الزريبة
-    shapeID: 11933810B49530197885075
+  TUN.21.4_1_Adm2:
+    GID: TUN.21.4_1
+    admin_name: Remada
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_4:
+    admin_level: Adm2
+  TUN.21.5_1_Adm2:
+    GID: TUN.21.5_1
+    admin_name: Samar
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: ماطر
-    shapeID: 11933810B80183977842330
+  TUN.21.6_1_Adm2:
+    GID: TUN.21.6_1
+    admin_name: Tataouine Nord
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_40:
+    admin_level: Adm2
+  TUN.21.7_1_Adm2:
+    GID: TUN.21.7_1
+    admin_name: Tataouine Sud
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: مدنيناالجنوبية
-    shapeID: 11933810B5079624698745
+  TUN.22_1_Adm1:
+    GID: TUN.22_1
+    admin_name: Tozeur
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_41:
+    admin_level: Adm1
+  TUN.22.1_1_Adm2:
+    GID: TUN.22.1_1
+    admin_name: Degueche
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: السواسي
-    shapeID: 11933810B55082969984596
+  TUN.22.2_1_Adm2:
+    GID: TUN.22.2_1
+    admin_name: Hazoua
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_42:
+    admin_level: Adm2
+  TUN.22.3_1_Adm2:
+    GID: TUN.22.3_1
+    admin_name: Nefta
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: فوشانة
-    shapeID: 11933810B3203162636288
+  TUN.22.4_1_Adm2:
+    GID: TUN.22.4_1
+    admin_name: Tamaghza
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_43:
+    admin_level: Adm2
+  TUN.22.5_1_Adm2:
+    GID: TUN.22.5_1
+    admin_name: Tozeur
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: مجازالباب
-    shapeID: 11933810B75310279086219
+  TUN.23_1_Adm1:
+    GID: TUN.23_1
+    admin_name: Tunis
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_44:
+    admin_level: Adm1
+  TUN.23.1_1_Adm2:
+    GID: TUN.23.1_1
+    admin_name: Bab Bhar
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: مرناق
-    shapeID: 11933810B2824472069390
+  TUN.23.10_1_Adm2:
+    GID: TUN.23.10_1
+    admin_name: Ezzouhour
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_45:
+    admin_level: Adm2
+  TUN.23.11_1_Adm2:
+    GID: TUN.23.11_1
+    admin_name: Hrairia
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: المرسى
-    shapeID: 11933810B89916598335200
+  TUN.23.12_1_Adm2:
+    GID: TUN.23.12_1
+    admin_name: Jebel Jelloud
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_46:
+    admin_level: Adm2
+  TUN.23.13_1_Adm2:
+    GID: TUN.23.13_1
+    admin_name: Kabaria
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: المطوية
-    shapeID: 11933810B30611491582390
+  TUN.23.14_1_Adm2:
+    GID: TUN.23.14_1
+    admin_name: La Goulette
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_47:
+    admin_level: Adm2
+  TUN.23.15_1_Adm2:
+    GID: TUN.23.15_1
+    admin_name: La Marsa
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: المضيلة
-    shapeID: 11933810B38388231155929
+  TUN.23.16_1_Adm2:
+    GID: TUN.23.16_1
+    admin_name: Médina
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_48:
+    admin_level: Adm2
+  TUN.23.17_1_Adm2:
+    GID: TUN.23.17_1
+    admin_name: Omrane
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: القطار
-    shapeID: 11933810B11969920480260
+  TUN.23.18_1_Adm2:
+    GID: TUN.23.18_1
+    admin_name: Omrane Supérieur
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_49:
+    admin_level: Adm2
+  TUN.23.19_1_Adm2:
+    GID: TUN.23.19_1
+    admin_name: Sabkhet Sijoumi
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قبليالشمالية
-    shapeID: 11933810B88432623246130
+  TUN.23.2_1_Adm2:
+    GID: TUN.23.2_1
+    admin_name: Bab Souika
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_5:
+    admin_level: Adm2
+  TUN.23.20_1_Adm2:
+    GID: TUN.23.20_1
+    admin_name: Sidi El Béchir
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: الجم
-    shapeID: 11933810B43888701821775
+  TUN.23.21_1_Adm2:
+    GID: TUN.23.21_1
+    admin_name: Sidi Hassine
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_50:
+    admin_level: Adm2
+  TUN.23.22_1_Adm2:
+    GID: TUN.23.22_1
+    admin_name: Sijoumi
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: باجةالجنوبية
-    shapeID: 11933810B29604582719412
+  TUN.23.23_1_Adm2:
+    GID: TUN.23.23_1
+    admin_name: Unknown
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_51:
+    admin_level: Adm2
+  TUN.23.3_1_Adm2:
+    GID: TUN.23.3_1
+    admin_name: Bardo
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: القصرينالشمالية
-    shapeID: 11933810B6535547360334
+  TUN.23.4_1_Adm2:
+    GID: TUN.23.4_1
+    admin_name: Bouhaira
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_52:
+    admin_level: Adm2
+  TUN.23.5_1_Adm2:
+    GID: TUN.23.5_1
+    admin_name: Carthage
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: باردو
-    shapeID: 11933810B95103152566623
+  TUN.23.6_1_Adm2:
+    GID: TUN.23.6_1
+    admin_name: Cité El Khadra
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_53:
+    admin_level: Adm2
+  TUN.23.7_1_Adm2:
+    GID: TUN.23.7_1
+    admin_name: El Menzah
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: الميدة
-    shapeID: 11933810B5544515796376
+  TUN.23.8_1_Adm2:
+    GID: TUN.23.8_1
+    admin_name: El Ouardia
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_54:
+    admin_level: Adm2
+  TUN.23.9_1_Adm2:
+    GID: TUN.23.9_1
+    admin_name: El Tahrir
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: حفوز
-    shapeID: 11933810B20435458440644
+  TUN.24_1_Adm1:
+    GID: TUN.24_1
+    admin_name: Zaghouan
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_55:
+    admin_level: Adm1
+  TUN.24.1_1_Adm2:
+    GID: TUN.24.1_1
+    admin_name: Bir Mchergua
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: شربان
-    shapeID: 11933810B76458029989338
     country_name: Tunisia
-  Tunisia_Adm2_56:
+    admin_level: Adm2
+  TUN.24.2_1_Adm2:
+    GID: TUN.24.2_1
+    admin_name: Fahs
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: مكثر
-    shapeID: 11933810B30403367882459
+  TUN.24.3_1_Adm2:
+    GID: TUN.24.3_1
+    admin_name: Nadhour
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_57:
+    admin_level: Adm2
+  TUN.24.4_1_Adm2:
+    GID: TUN.24.4_1
+    admin_name: Saouaf
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: بنعروس
-    shapeID: 11933810B81248278761241
+  TUN.24.5_1_Adm2:
+    GID: TUN.24.5_1
+    admin_name: Zaghouan
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_58:
+    admin_level: Adm2
+  TUN.24.6_1_Adm2:
+    GID: TUN.24.6_1
+    admin_name: Zriba
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: سبيبة
-    shapeID: 11933810B81805450499121
+  TUN.3_1_Adm1:
+    GID: TUN.3_1
+    admin_name: Ben Arous (Tunis Sud)
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_59:
+    admin_level: Adm1
+  TUN.3.1_1_Adm2:
+    GID: TUN.3.1_1
+    admin_name: Ben Arous
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: المكناسي
-    shapeID: 11933810B37574036497971
     country_name: Tunisia
-  Tunisia_Adm2_6:
+    admin_level: Adm2
+  TUN.3.10_1_Adm2:
+    GID: TUN.3.10_1
+    admin_name: Mornag
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: القصر
-    shapeID: 11933810B93906060339366
+  TUN.3.11_1_Adm2:
+    GID: TUN.3.11_1
+    admin_name: Nouvelle Médina
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_60:
+    admin_level: Adm2
+  TUN.3.12_1_Adm2:
+    GID: TUN.3.12_1
+    admin_name: Radès
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: غارالدماء
-    shapeID: 11933810B72846800304376
+  TUN.3.2_1_Adm2:
+    GID: TUN.3.2_1
+    admin_name: Boumhel
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_61:
+    admin_level: Adm2
+  TUN.3.3_1_Adm2:
+    GID: TUN.3.3_1
+    admin_name: El Mourouj
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: سبالةأوالدعسكر
-    shapeID: 11933810B91924190982808
+  TUN.3.4_1_Adm2:
+    GID: TUN.3.4_1
+    admin_name: Ezzahra
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_62:
+    admin_level: Adm2
+  TUN.3.5_1_Adm2:
+    GID: TUN.3.5_1
+    admin_name: Fouchana
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: بورويس
-    shapeID: 11933810B4781158018226
+  TUN.3.6_1_Adm2:
+    GID: TUN.3.6_1
+    admin_name: Hammam Chott
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_63:
+    admin_level: Adm2
+  TUN.3.7_1_Adm2:
+    GID: TUN.3.7_1
+    admin_name: Hammam Lif
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قفصةالشمالية
-    shapeID: 11933810B50994391352057
+  TUN.3.8_1_Adm2:
+    GID: TUN.3.8_1
+    admin_name: M'Hamdia
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_64:
+    admin_level: Adm2
+  TUN.3.9_1_Adm2:
+    GID: TUN.3.9_1
+    admin_name: Mégrine
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: مدنينالشمالية
-    shapeID: 11933810B36279508615628
+  TUN.4_1_Adm1:
+    GID: TUN.4_1
+    admin_name: Bizerte
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_65:
+    admin_level: Adm1
+  TUN.4.1_1_Adm2:
+    GID: TUN.4.1_1
+    admin_name: Bizerte Nord
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: الوسلاتية
-    shapeID: 11933810B83603965964672
     country_name: Tunisia
-  Tunisia_Adm2_66:
+    admin_level: Adm2
+  TUN.4.10_1_Adm2:
+    GID: TUN.4.10_1
+    admin_name: Menzel Jemil
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: بنيحسان
-    shapeID: 11933810B8202711908587
+  TUN.4.11_1_Adm2:
+    GID: TUN.4.11_1
+    admin_name: Ras Jebel
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_67:
+    admin_level: Adm2
+  TUN.4.12_1_Adm2:
+    GID: TUN.4.12_1
+    admin_name: Sejnane
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: القصرينالجنوبية
-    shapeID: 11933810B14631424416912
+  TUN.4.13_1_Adm2:
+    GID: TUN.4.13_1
+    admin_name: Tinja
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_68:
+    admin_level: Adm2
+  TUN.4.14_1_Adm2:
+    GID: TUN.4.14_1
+    admin_name: Utique
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: فوسانة
-    shapeID: 11933810B87757841010951
+  TUN.4.2_1_Adm2:
+    GID: TUN.4.2_1
+    admin_name: Bizerte Sud
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_69:
+    admin_level: Adm2
+  TUN.4.3_1_Adm2:
+    GID: TUN.4.3_1
+    admin_name: El Alia
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: منزلبورقيبة
-    shapeID: 11933810B6690726234201
+  TUN.4.4_1_Adm2:
+    GID: TUN.4.4_1
+    admin_name: Ghar El Melh
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_7:
+    admin_level: Adm2
+  TUN.4.5_1_Adm2:
+    GID: TUN.4.5_1
+    admin_name: Ghazala
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: صفاقسالجنوبية
-    shapeID: 11933810B57127812574337
+  TUN.4.6_1_Adm2:
+    GID: TUN.4.6_1
+    admin_name: Joumine
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_70:
+    admin_level: Adm2
+  TUN.4.7_1_Adm2:
+    GID: TUN.4.7_1
+    admin_name: Lake Ichkeul
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قصورالساف
-    shapeID: 11933810B33888578945237
+  TUN.4.8_1_Adm2:
+    GID: TUN.4.8_1
+    admin_name: Mateur
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_71:
+    admin_level: Adm2
+  TUN.4.9_1_Adm2:
+    GID: TUN.4.9_1
+    admin_name: Menzel Bourguiba
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قربة
-    shapeID: 11933810B16609511598620
+  TUN.5_1_Adm1:
+    GID: TUN.5_1
+    admin_name: Gabès
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_72:
+    admin_level: Adm1
+  TUN.5.1_1_Adm2:
+    GID: TUN.5.1_1
+    admin_name: Gabès Médina
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: عمدون
-    shapeID: 11933810B43224810674441
     country_name: Tunisia
-  Tunisia_Adm2_73:
+    admin_level: Adm2
+  TUN.5.10_1_Adm2:
+    GID: TUN.5.10_1
+    admin_name: Metouia
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: المهدية
-    shapeID: 11933810B58495148677727
+  TUN.5.2_1_Adm2:
+    GID: TUN.5.2_1
+    admin_name: Gabès Ouest
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_74:
+    admin_level: Adm2
+  TUN.5.3_1_Adm2:
+    GID: TUN.5.3_1
+    admin_name: Gabès Sud
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: الزهور
-    shapeID: 11933810B21305509879120
+  TUN.5.4_1_Adm2:
+    GID: TUN.5.4_1
+    admin_name: Ghannouch
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_75:
+    admin_level: Adm2
+  TUN.5.5_1_Adm2:
+    GID: TUN.5.5_1
+    admin_name: Hamma
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: العلاء
-    shapeID: 11933810B9843874857613
+  TUN.5.6_1_Adm2:
+    GID: TUN.5.6_1
+    admin_name: Mareth
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_76:
+    admin_level: Adm2
+  TUN.5.7_1_Adm2:
+    GID: TUN.5.7_1
+    admin_name: Matmata
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: جرجيس
-    shapeID: 11933810B85460766663298
+  TUN.5.8_1_Adm2:
+    GID: TUN.5.8_1
+    admin_name: Matmata Nouvelle
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_77:
+    admin_level: Adm2
+  TUN.5.9_1_Adm2:
+    GID: TUN.5.9_1
+    admin_name: Menzel Habib
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: JendoubaNord
-    shapeID: 11933810B63769477321457
+  TUN.6_1_Adm1:
+    GID: TUN.6_1
+    admin_name: Gafsa
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_78:
+    admin_level: Adm1
+  TUN.6.1_1_Adm2:
+    GID: TUN.6.1_1
+    admin_name: Belkhir
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: دقاش
-    shapeID: 11933810B76554962247664
+  TUN.6.10_1_Adm2:
+    GID: TUN.6.10_1
+    admin_name: Sened
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_79:
+    admin_level: Adm2
+  TUN.6.11_1_Adm2:
+    GID: TUN.6.11_1
+    admin_name: Sidi Aich
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: طبربة
-    shapeID: 11933810B30823561868472
+  TUN.6.2_1_Adm2:
+    GID: TUN.6.2_1
+    admin_name: Gafsa Nord
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_8:
+    admin_level: Adm2
+  TUN.6.3_1_Adm2:
+    GID: TUN.6.3_1
+    admin_name: Gafsa Sud
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: غزالة
-    shapeID: 11933810B10905453653895
+  TUN.6.4_1_Adm2:
+    GID: TUN.6.4_1
+    admin_name: Guetar
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_80:
+    admin_level: Adm2
+  TUN.6.5_1_Adm2:
+    GID: TUN.6.5_1
+    admin_name: Ksar
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: صفاقسالمدينة
-    shapeID: 11933810B61776975949609
+  TUN.6.6_1_Adm2:
+    GID: TUN.6.6_1
+    admin_name: Mdhilla
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_81:
+    admin_level: Adm2
+  TUN.6.7_1_Adm2:
+    GID: TUN.6.7_1
+    admin_name: Metlaoui
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قبلاط
-    shapeID: 11933810B38819723902176
+  TUN.6.8_1_Adm2:
+    GID: TUN.6.8_1
+    admin_name: Oum Larais
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_82:
+    admin_level: Adm2
+  TUN.6.9_1_Adm2:
+    GID: TUN.6.9_1
+    admin_name: Redeyef
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: نابل
-    shapeID: 11933810B33504132443060
+  TUN.7_1_Adm1:
+    GID: TUN.7_1
+    admin_name: Jendouba
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_83:
+    admin_level: Adm1
+  TUN.7.1_1_Adm2:
+    GID: TUN.7.1_1
+    admin_name: Aïn Draham
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: منيهلة
-    shapeID: 11933810B24040773299461
+  TUN.7.2_1_Adm2:
+    GID: TUN.7.2_1
+    admin_name: Balta Bou Aouane
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_84:
+    admin_level: Adm2
+  TUN.7.3_1_Adm2:
+    GID: TUN.7.3_1
+    admin_name: Bousalem
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: منوبة‬
-    shapeID: 11933810B74384837832426
+  TUN.7.4_1_Adm2:
+    GID: TUN.7.4_1
+    admin_name: Fernana
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_85:
+    admin_level: Adm2
+  TUN.7.5_1_Adm2:
+    GID: TUN.7.5_1
+    admin_name: Ghardimaou
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: منزلجميل
-    shapeID: 11933810B33126972723663
+  TUN.7.6_1_Adm2:
+    GID: TUN.7.6_1
+    admin_name: Jendouba Nord
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_86:
+    admin_level: Adm2
+  TUN.7.7_1_Adm2:
+    GID: TUN.7.7_1
+    admin_name: Jendouba Sud
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: مساكن
-    shapeID: 11933810B84840502063502
+  TUN.7.8_1_Adm2:
+    GID: TUN.7.8_1
+    admin_name: Oued Mliz
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_87:
+    admin_level: Adm2
+  TUN.7.9_1_Adm2:
+    GID: TUN.7.9_1
+    admin_name: Tabarka
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: ماجلبالعباس
-    shapeID: 11933810B37259719331002
+  TUN.8_1_Adm1:
+    GID: TUN.8_1
+    admin_name: Kairouan
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_88:
+    admin_level: Adm1
+  TUN.8.1_1_Adm2:
+    GID: TUN.8.1_1
+    admin_name: Alaa
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: كندار
-    shapeID: 11933810B95892911712161
+  TUN.8.10_1_Adm2:
+    GID: TUN.8.10_1
+    admin_name: Oueslatia
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_89:
+    admin_level: Adm2
+  TUN.8.11_1_Adm2:
+    GID: TUN.8.11_1
+    admin_name: Sbikha
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قلعةسنان
-    shapeID: 11933810B44054307576941
+  TUN.8.2_1_Adm2:
+    GID: TUN.8.2_1
+    admin_name: Bouhajla
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_9:
+    admin_level: Adm2
+  TUN.8.3_1_Adm2:
+    GID: TUN.8.3_1
+    admin_name: Chebika
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: سيديعيش
-    shapeID: 11933810B38600373367169
+  TUN.8.4_1_Adm2:
+    GID: TUN.8.4_1
+    admin_name: Chrarda
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_90:
+    admin_level: Adm2
+  TUN.8.5_1_Adm2:
+    GID: TUN.8.5_1
+    admin_name: Haffouz
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قلعةالأندلس
-    shapeID: 11933810B62465925468138
+  TUN.8.6_1_Adm2:
+    GID: TUN.8.6_1
+    admin_name: Hajeb El Ayoun
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_91:
+    admin_level: Adm2
+  TUN.8.7_1_Adm2:
+    GID: TUN.8.7_1
+    admin_name: Kairouan Nord
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قصرهلال
-    shapeID: 11933810B35489062673947
+  TUN.8.8_1_Adm2:
+    GID: TUN.8.8_1
+    admin_name: Kairouan Sud
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_92:
+    admin_level: Adm2
+  TUN.8.9_1_Adm2:
+    GID: TUN.8.9_1
+    admin_name: Nasrallah
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قرمبالية
-    shapeID: 11933810B27831601054676
+  TUN.9_1_Adm1:
+    GID: TUN.9_1
+    admin_name: Kassérine
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_93:
+    admin_level: Adm1
+  TUN.9.1_1_Adm2:
+    GID: TUN.9.1_1
+    admin_name: Ayoun
     iso3c: TUN
-    admin_level: Adm2
-    admin_name: قبليالجنوبية
-    shapeID: 11933810B33023449768384
     country_name: Tunisia
-  Tunisia_Adm2_94:
+    admin_level: Adm2
+  TUN.9.10_1_Adm2:
+    GID: TUN.9.10_1
+    admin_name: Majel Belabbes
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: قابسالمدينة
-    shapeID: 11933810B10126944429848
+  TUN.9.11_1_Adm2:
+    GID: TUN.9.11_1
+    admin_name: Sbeitla
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_95:
+    admin_level: Adm2
+  TUN.9.12_1_Adm2:
+    GID: TUN.9.12_1
+    admin_name: Sbiba
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: فرنانة
-    shapeID: 11933810B98066234289129
+  TUN.9.13_1_Adm2:
+    GID: TUN.9.13_1
+    admin_name: Thala
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_96:
+    admin_level: Adm2
+  TUN.9.2_1_Adm2:
+    GID: TUN.9.2_1
+    admin_name: Ezzouhour
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: غنوش
-    shapeID: 11933810B83790658636329
+  TUN.9.3_1_Adm2:
+    GID: TUN.9.3_1
+    admin_name: Feriana
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_97:
+    admin_level: Adm2
+  TUN.9.4_1_Adm2:
+    GID: TUN.9.4_1
+    admin_name: Foussana
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: ‫عقارب‬
-    shapeID: 11933810B65727884052892
+  TUN.9.5_1_Adm2:
+    GID: TUN.9.5_1
+    admin_name: Hassi El Ferid
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_98:
+    admin_level: Adm2
+  TUN.9.6_1_Adm2:
+    GID: TUN.9.6_1
+    admin_name: Hidra
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: طينة
-    shapeID: 11933810B89464736925123
+  TUN.9.7_1_Adm2:
+    GID: TUN.9.7_1
+    admin_name: Jedeliane
+    iso3c: TUN
     country_name: Tunisia
-  Tunisia_Adm2_99:
+    admin_level: Adm2
+  TUN.9.8_1_Adm2:
+    GID: TUN.9.8_1
+    admin_name: Kasserine Nord
     iso3c: TUN
+    country_name: Tunisia
     admin_level: Adm2
-    admin_name: طبلبة
-    shapeID: 11933810B49609226357839
+  TUN.9.9_1_Adm2:
+    GID: TUN.9.9_1
+    admin_name: Kasserine Sud
+    iso3c: TUN
     country_name: Tunisia
+    admin_level: Adm2

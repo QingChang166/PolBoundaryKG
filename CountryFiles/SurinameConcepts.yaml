@@ -1,415 +1,439 @@
 concepts:
-  Suriname_Adm0:
-    iso3c: SUR
-    admin_level: Adm0
+  SUR.0_Adm0:
+    GID: SUR
     admin_name: Suriname
-    shapeID: 90644646B75256786933063
-    country_name: Suriname
-  Suriname_Adm1_1:
     iso3c: SUR
-    admin_level: Adm1
+    country_name: Suriname
+    admin_level: Adm0
+  SUR.1_1_Adm1:
+    GID: SUR.1_1
     admin_name: Brokopondo
-    shapeID: 93550828B96522578976801
-    country_name: Suriname
-  Suriname_Adm1_10:
     iso3c: SUR
+    country_name: Suriname
     admin_level: Adm1
-    admin_name: Wanica
-    shapeID: 93550828B69998957246771
-    country_name: Suriname
-  Suriname_Adm1_2:
+  SUR.1.1_1_Adm2:
+    GID: SUR.1.1_1
+    admin_name: Brownsweg
     iso3c: SUR
-    admin_level: Adm1
-    admin_name: Commewijne
-    shapeID: 93550828B58991910935434
     country_name: Suriname
-  Suriname_Adm1_3:
-    iso3c: SUR
-    admin_level: Adm1
-    admin_name: Coronie
-    shapeID: 93550828B7327447609620
-    country_name: Suriname
-  Suriname_Adm1_4:
-    iso3c: SUR
-    admin_level: Adm1
-    admin_name: Marowijne
-    shapeID: 93550828B14879660189767
-    country_name: Suriname
-  Suriname_Adm1_5:
-    iso3c: SUR
-    admin_level: Adm1
-    admin_name: Nickerie
-    shapeID: 93550828B24363513819677
-    country_name: Suriname
-  Suriname_Adm1_6:
-    iso3c: SUR
-    admin_level: Adm1
-    admin_name: Para
-    shapeID: 93550828B25693187591601
-    country_name: Suriname
-  Suriname_Adm1_7:
-    iso3c: SUR
-    admin_level: Adm1
-    admin_name: Paramaribo
-    shapeID: 93550828B84160656428348
-    country_name: Suriname
-  Suriname_Adm1_8:
-    iso3c: SUR
-    admin_level: Adm1
-    admin_name: Saramacca
-    shapeID: 93550828B82794982350584
-    country_name: Suriname
-  Suriname_Adm1_9:
-    iso3c: SUR
-    admin_level: Adm1
-    admin_name: Sipaliwini
-    shapeID: 93550828B83086528091097
-    country_name: Suriname
-  Suriname_Adm2_1:
-    iso3c: SUR
     admin_level: Adm2
-    admin_name: WegNaarSee
-    shapeID: 93971198B55832706288336
-    country_name: Suriname
-  Suriname_Adm2_10:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: BovenSaramacca
-    shapeID: 93971198B46869777654486
-    country_name: Suriname
-  Suriname_Adm2_11:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: BovenSuriname
-    shapeID: 93971198B39782155326528
-    country_name: Suriname
-  Suriname_Adm2_12:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Tapanahony
-    shapeID: 93971198B58608400996115
-    country_name: Suriname
-  Suriname_Adm2_13:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: BigiPoika
-    shapeID: 93971198B76485498216743
-    country_name: Suriname
-  Suriname_Adm2_14:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Zuid
-    shapeID: 93971198B35927993757014
-    country_name: Suriname
-  Suriname_Adm2_15:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Noord
-    shapeID: 93971198B90069721487789
-    country_name: Suriname
-  Suriname_Adm2_16:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Oost
-    shapeID: 93971198B94445050916405
-    country_name: Suriname
-  Suriname_Adm2_17:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Carolina
-    shapeID: 93971198B31918784658993
-    country_name: Suriname
-  Suriname_Adm2_18:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: JohannaMaria
-    shapeID: 93971198B30813945070392
-    country_name: Suriname
-  Suriname_Adm2_19:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Totness
-    shapeID: 93971198B69078943336327
-    country_name: Suriname
-  Suriname_Adm2_2:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: WestelijkePolders
-    shapeID: 93971198B80225832499652
-    country_name: Suriname
-  Suriname_Adm2_20:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Welgelegen
-    shapeID: 93971198B5728059707518
-    country_name: Suriname
-  Suriname_Adm2_21:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Sarakreet
-    shapeID: 93971198B36157323571507
-    country_name: Suriname
-  Suriname_Adm2_22:
-    iso3c: SUR
-    admin_level: Adm2
+  SUR.1.2_1_Adm2:
+    GID: SUR.1.2_1
     admin_name: Centrum
-    shapeID: 93971198B67299458321601
-    country_name: Suriname
-  Suriname_Adm2_23:
     iso3c: SUR
-    admin_level: Adm2
-    admin_name: BrownSweg
-    shapeID: 93971198B42151889919298
     country_name: Suriname
-  Suriname_Adm2_24:
-    iso3c: SUR
     admin_level: Adm2
+  SUR.1.3_1_Adm2:
+    GID: SUR.1.3_1
     admin_name: Klaaskreek
-    shapeID: 93971198B88217520842745
-    country_name: Suriname
-  Suriname_Adm2_25:
     iso3c: SUR
-    admin_level: Adm2
-    admin_name: Marshallkreek
-    shapeID: 93971198B1585930264110
     country_name: Suriname
-  Suriname_Adm2_26:
-    iso3c: SUR
     admin_level: Adm2
+  SUR.1.4_1_Adm2:
+    GID: SUR.1.4_1
     admin_name: Kwakoegron
-    shapeID: 93971198B32357559574331
-    country_name: Suriname
-  Suriname_Adm2_27:
     iso3c: SUR
-    admin_level: Adm2
-    admin_name: Margaretha
-    shapeID: 93971198B51080798731868
     country_name: Suriname
-  Suriname_Adm2_28:
-    iso3c: SUR
     admin_level: Adm2
-    admin_name: Bakkie
-    shapeID: 93971198B42981087538347
+  SUR.1.5_1_Adm2:
+    GID: SUR.1.5_1
+    admin_name: Marechalskreek
+    iso3c: SUR
     country_name: Suriname
-  Suriname_Adm2_29:
-    iso3c: SUR
     admin_level: Adm2
-    admin_name: Almaar
-    shapeID: 93971198B3219809848629
+  SUR.1.6_1_Adm2:
+    GID: SUR.1.6_1
+    admin_name: Sarakreek
+    iso3c: SUR
     country_name: Suriname
-  Suriname_Adm2_3:
-    iso3c: SUR
     admin_level: Adm2
-    admin_name: NieuwNickerie
-    shapeID: 93971198B22310393483030
+  SUR.10_1_Adm1:
+    GID: SUR.10_1
+    admin_name: Wanica
+    iso3c: SUR
     country_name: Suriname
-  Suriname_Adm2_30:
+    admin_level: Adm1
+  SUR.10.1_1_Adm2:
+    GID: SUR.10.1_1
+    admin_name: De Nieuwe Grond
     iso3c: SUR
-    admin_level: Adm2
-    admin_name: NieuwAmsterdam
-    shapeID: 93971198B39717830243745
     country_name: Suriname
-  Suriname_Adm2_31:
-    iso3c: SUR
     admin_level: Adm2
-    admin_name: Tamanredjo
-    shapeID: 93971198B9703952996753
-    country_name: Suriname
-  Suriname_Adm2_32:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Meerzorg
-    shapeID: 93971198B92210653043495
-    country_name: Suriname
-  Suriname_Adm2_33:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Galibi
-    shapeID: 93971198B48007723073023
-    country_name: Suriname
-  Suriname_Adm2_34:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Albina
-    shapeID: 93971198B8075185621590
-    country_name: Suriname
-  Suriname_Adm2_35:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Moengotapoe
-    shapeID: 93971198B59024113358190
-    country_name: Suriname
-  Suriname_Adm2_36:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Patamacca
-    shapeID: 93971198B71150220201851
-    country_name: Suriname
-  Suriname_Adm2_37:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Wanhatti
-    shapeID: 93971198B26814124309823
-    country_name: Suriname
-  Suriname_Adm2_38:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Moengo
-    shapeID: 93971198B20856406880104
-    country_name: Suriname
-  Suriname_Adm2_39:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Munder
-    shapeID: 93971198B65668744282627
-    country_name: Suriname
-  Suriname_Adm2_4:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: OostelijkePolders
-    shapeID: 93971198B64591647456497
-    country_name: Suriname
-  Suriname_Adm2_40:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Rainville
-    shapeID: 93971198B89671256308393
-    country_name: Suriname
-  Suriname_Adm2_41:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Blauwgrond
-    shapeID: 93971198B56648857464016
-    country_name: Suriname
-  Suriname_Adm2_42:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Flora
-    shapeID: 93971198B54086577669133
-    country_name: Suriname
-  Suriname_Adm2_43:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Centrum
-    shapeID: 93971198B59726276873513
-    country_name: Suriname
-  Suriname_Adm2_44:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Pontibuiten
-    shapeID: 93971198B33771230340661
-    country_name: Suriname
-  Suriname_Adm2_45:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Livornio
-    shapeID: 93971198B37830600094273
-    country_name: Suriname
-  Suriname_Adm2_46:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Calcutta
-    shapeID: 93971198B85277795494184
-    country_name: Suriname
-  Suriname_Adm2_47:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Tijgerkreek
-    shapeID: 93971198B48960256202941
-    country_name: Suriname
-  Suriname_Adm2_48:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Groningen
-    shapeID: 93971198B74436417809264
-    country_name: Suriname
-  Suriname_Adm2_49:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Jarikaba
-    shapeID: 93971198B41549192400182
-    country_name: Suriname
-  Suriname_Adm2_5:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: GrootHenar
-    shapeID: 93971198B23386052659438
-    country_name: Suriname
-  Suriname_Adm2_50:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Wayamboweg
-    shapeID: 93971198B6398497569253
-    country_name: Suriname
-  Suriname_Adm2_51:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: KampongBaroe
-    shapeID: 93971198B39924248316405
-    country_name: Suriname
-  Suriname_Adm2_52:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Kwatta
-    shapeID: 93971198B97783973915980
-    country_name: Suriname
-  Suriname_Adm2_53:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: SaramaccaPolder
-    shapeID: 93971198B62899333828464
-    country_name: Suriname
-  Suriname_Adm2_54:
-    iso3c: SUR
-    admin_level: Adm2
-    admin_name: Koewarasan
-    shapeID: 93971198B6923625999642
-    country_name: Suriname
-  Suriname_Adm2_55:
-    iso3c: SUR
-    admin_level: Adm2
+  SUR.10.2_1_Adm2:
+    GID: SUR.10.2_1
     admin_name: Domburg
-    shapeID: 93971198B63054852933738
-    country_name: Suriname
-  Suriname_Adm2_56:
     iso3c: SUR
+    country_name: Suriname
     admin_level: Adm2
+  SUR.10.3_1_Adm2:
+    GID: SUR.10.3_1
     admin_name: Houttuin
-    shapeID: 93971198B84478829429785
-    country_name: Suriname
-  Suriname_Adm2_57:
     iso3c: SUR
-    admin_level: Adm2
-    admin_name: DeNieuweGrond
-    shapeID: 93971198B87571320518547
     country_name: Suriname
-  Suriname_Adm2_58:
-    iso3c: SUR
     admin_level: Adm2
+  SUR.10.4_1_Adm2:
+    GID: SUR.10.4_1
+    admin_name: Koewarasan
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.10.5_1_Adm2:
+    GID: SUR.10.5_1
+    admin_name: Kwatta
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.10.6_1_Adm2:
+    GID: SUR.10.6_1
     admin_name: Lelydorp
-    shapeID: 93971198B51186528794975
-    country_name: Suriname
-  Suriname_Adm2_6:
     iso3c: SUR
+    country_name: Suriname
     admin_level: Adm2
+  SUR.10.7_1_Adm2:
+    GID: SUR.10.7_1
+    admin_name: Saramaccapolder
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.2_1_Adm1:
+    GID: SUR.2_1
+    admin_name: Commewijne
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm1
+  SUR.2.1_1_Adm2:
+    GID: SUR.2.1_1
+    admin_name: Alkmaar
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.2.2_1_Adm2:
+    GID: SUR.2.2_1
+    admin_name: Bakki
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.2.3_1_Adm2:
+    GID: SUR.2.3_1
+    admin_name: Margaretha
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.2.4_1_Adm2:
+    GID: SUR.2.4_1
+    admin_name: Meerzorg
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.2.5_1_Adm2:
+    GID: SUR.2.5_1
+    admin_name: Nw. Amsterdam
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.2.6_1_Adm2:
+    GID: SUR.2.6_1
+    admin_name: Tamanredjo
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.3_1_Adm1:
+    GID: SUR.3_1
+    admin_name: Coronie
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm1
+  SUR.3.1_1_Adm2:
+    GID: SUR.3.1_1
+    admin_name: Johanna Maria
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.3.2_1_Adm2:
+    GID: SUR.3.2_1
+    admin_name: Totness
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.3.3_1_Adm2:
+    GID: SUR.3.3_1
+    admin_name: Welgelegen
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.4_1_Adm1:
+    GID: SUR.4_1
+    admin_name: Marowijne
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm1
+  SUR.4.1_1_Adm2:
+    GID: SUR.4.1_1
+    admin_name: Albina
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.4.2_1_Adm2:
+    GID: SUR.4.2_1
+    admin_name: Galibi
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.4.3_1_Adm2:
+    GID: SUR.4.3_1
+    admin_name: Moengo
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.4.4_1_Adm2:
+    GID: SUR.4.4_1
+    admin_name: Moengotapoe
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.4.5_1_Adm2:
+    GID: SUR.4.5_1
+    admin_name: Patamacca
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.4.6_1_Adm2:
+    GID: SUR.4.6_1
+    admin_name: Wanhatti
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.5_1_Adm1:
+    GID: SUR.5_1
+    admin_name: Nickerie
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm1
+  SUR.5.1_1_Adm2:
+    GID: SUR.5.1_1
+    admin_name: Groot Henar
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.5.2_1_Adm2:
+    GID: SUR.5.2_1
+    admin_name: Nw . Nickerie
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.5.3_1_Adm2:
+    GID: SUR.5.3_1
+    admin_name: Oostelijke Polders
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.5.4_1_Adm2:
+    GID: SUR.5.4_1
     admin_name: Wageningen
-    shapeID: 93971198B34414051922750
-    country_name: Suriname
-  Suriname_Adm2_7:
     iso3c: SUR
-    admin_level: Adm2
-    admin_name: Kabalebo
-    shapeID: 93971198B81328580196700
     country_name: Suriname
-  Suriname_Adm2_8:
-    iso3c: SUR
     admin_level: Adm2
+  SUR.5.5_1_Adm2:
+    GID: SUR.5.5_1
+    admin_name: Westelijke Polders
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.6_1_Adm1:
+    GID: SUR.6_1
+    admin_name: Para
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm1
+  SUR.6.1_1_Adm2:
+    GID: SUR.6.1_1
+    admin_name: Bigi Poika
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.6.2_1_Adm2:
+    GID: SUR.6.2_1
+    admin_name: Carolina
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.6.3_1_Adm2:
+    GID: SUR.6.3_1
+    admin_name: Noord
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.6.4_1_Adm2:
+    GID: SUR.6.4_1
+    admin_name: Oost
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.6.5_1_Adm2:
+    GID: SUR.6.5_1
+    admin_name: Zuid
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7_1_Adm1:
+    GID: SUR.7_1
+    admin_name: Paramaribo
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm1
+  SUR.7.1_1_Adm2:
+    GID: SUR.7.1_1
+    admin_name: Beekhuizen
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.10_1_Adm2:
+    GID: SUR.7.10_1
+    admin_name: Tammenga
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.11_1_Adm2:
+    GID: SUR.7.11_1
+    admin_name: Weg Naar Zee
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.12_1_Adm2:
+    GID: SUR.7.12_1
+    admin_name: Welgelegen
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.2_1_Adm2:
+    GID: SUR.7.2_1
+    admin_name: Blauwgrond
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.3_1_Adm2:
+    GID: SUR.7.3_1
+    admin_name: Centrum
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.4_1_Adm2:
+    GID: SUR.7.4_1
+    admin_name: Flora
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.5_1_Adm2:
+    GID: SUR.7.5_1
+    admin_name: Latour
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.6_1_Adm2:
+    GID: SUR.7.6_1
+    admin_name: Livorno
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.7_1_Adm2:
+    GID: SUR.7.7_1
+    admin_name: Munder
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.8_1_Adm2:
+    GID: SUR.7.8_1
+    admin_name: Pontbuiten
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.7.9_1_Adm2:
+    GID: SUR.7.9_1
+    admin_name: Rainville
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.8_1_Adm1:
+    GID: SUR.8_1
+    admin_name: Saramacca
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm1
+  SUR.8.1_1_Adm2:
+    GID: SUR.8.1_1
+    admin_name: Calcutta
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.8.2_1_Adm2:
+    GID: SUR.8.2_1
+    admin_name: Groningen
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.8.3_1_Adm2:
+    GID: SUR.8.3_1
+    admin_name: Jarikaba
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.8.4_1_Adm2:
+    GID: SUR.8.4_1
+    admin_name: Kampong Baroe
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.8.5_1_Adm2:
+    GID: SUR.8.5_1
+    admin_name: Tijgerkreek
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.8.6_1_Adm2:
+    GID: SUR.8.6_1
+    admin_name: Wayambo Weg
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.9_1_Adm1:
+    GID: SUR.9_1
+    admin_name: Sipaliwini
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm1
+  SUR.9.1_1_Adm2:
+    GID: SUR.9.1_1
+    admin_name: Boven Suriname
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.9.2_1_Adm2:
+    GID: SUR.9.2_1
+    admin_name: Bven Saramacca
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.9.3_1_Adm2:
+    GID: SUR.9.3_1
     admin_name: Coeroeni
-    shapeID: 93971198B23871026357608
-    country_name: Suriname
-  Suriname_Adm2_9:
     iso3c: SUR
-    admin_level: Adm2
-    admin_name: BovenCoppename
-    shapeID: 93971198B62732710904404
     country_name: Suriname
+    admin_level: Adm2
+  SUR.9.4_1_Adm2:
+    GID: SUR.9.4_1
+    admin_name: Coppename
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.9.5_1_Adm2:
+    GID: SUR.9.5_1
+    admin_name: Kabalebo
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2
+  SUR.9.6_1_Adm2:
+    GID: SUR.9.6_1
+    admin_name: Tapanahony
+    iso3c: SUR
+    country_name: Suriname
+    admin_level: Adm2

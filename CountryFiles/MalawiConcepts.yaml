@@ -1,193 +1,1711 @@
 concepts:
-  Malawi_Adm0:
-    iso3c: MWI
-    admin_level: Adm0
+  MWI.0_Adm0:
+    GID: MWI
     admin_name: Malawi
-    shapeID: 68747529B76746634687414
-    country_name: Malawi
-  Malawi_Adm1_1:
     iso3c: MWI
-    admin_level: Adm1
-    admin_name: CentralRegion
-    shapeID: 82672581B12520625652479
     country_name: Malawi
-  Malawi_Adm1_2:
-    iso3c: MWI
-    admin_level: Adm1
-    admin_name: SouthernRegion
-    shapeID: 82672581B71595037145626
-    country_name: Malawi
-  Malawi_Adm1_3:
-    iso3c: MWI
-    admin_level: Adm1
-    admin_name: NorthernRegion
-    shapeID: 82672581B33227208107325
-    country_name: Malawi
-  Malawi_Adm2_1:
-    iso3c: MWI
-    admin_level: Adm2
+    admin_level: Adm0
+  MWI.1_1_Adm1:
+    GID: MWI.1_1
     admin_name: Balaka
-    shapeID: 42251766B20450933672567
-    country_name: Malawi
-  Malawi_Adm2_10:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.1.1_1_Adm2:
+    GID: MWI.1.1_1
+    admin_name: Balaka Town
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.1.2_1_Adm2:
+    GID: MWI.1.2_1
+    admin_name: TA Kalembo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.1.3_1_Adm2:
+    GID: MWI.1.3_1
+    admin_name: TA Nsamala
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.10_1_Adm1:
+    GID: MWI.10_1
     admin_name: Likoma
-    shapeID: 42251766B55477981037231
-    country_name: Malawi
-  Malawi_Adm2_11:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.10.1_1_Adm2:
+    GID: MWI.10.1_1
+    admin_name: Lake Malawi
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.11_1_Adm1:
+    GID: MWI.11_1
     admin_name: Lilongwe
-    shapeID: 42251766B26147222520266
-    country_name: Malawi
-  Malawi_Adm2_12:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.11.1_1_Adm2:
+    GID: MWI.11.1_1
+    admin_name: Lilongwe City
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.11.10_1_Adm2:
+    GID: MWI.11.10_1
+    admin_name: TA Kabudula
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.11_1_Adm2:
+    GID: MWI.11.11_1
+    admin_name: TA Kalolo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.12_1_Adm2:
+    GID: MWI.11.12_1
+    admin_name: TA Kalumba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.13_1_Adm2:
+    GID: MWI.11.13_1
+    admin_name: TA Kalumbu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.14_1_Adm2:
+    GID: MWI.11.14_1
+    admin_name: TA Khongoni
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.15_1_Adm2:
+    GID: MWI.11.15_1
+    admin_name: TA Malili
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.16_1_Adm2:
+    GID: MWI.11.16_1
+    admin_name: TA Mazengera
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.2_1_Adm2:
+    GID: MWI.11.2_1
+    admin_name: SC Chitekwele
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.3_1_Adm2:
+    GID: MWI.11.3_1
+    admin_name: SC Mtema
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.4_1_Adm2:
+    GID: MWI.11.4_1
+    admin_name: SC Njewa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.5_1_Adm2:
+    GID: MWI.11.5_1
+    admin_name: SC Tsabango
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.6_1_Adm2:
+    GID: MWI.11.6_1
+    admin_name: TA Chadza
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.7_1_Adm2:
+    GID: MWI.11.7_1
+    admin_name: TA Chimutu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.8_1_Adm2:
+    GID: MWI.11.8_1
+    admin_name: TA Chiseka
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.11.9_1_Adm2:
+    GID: MWI.11.9_1
+    admin_name: TA Chitukula
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12_1_Adm1:
+    GID: MWI.12_1
     admin_name: Machinga
-    shapeID: 42251766B63150381936487
-    country_name: Malawi
-  Malawi_Adm2_13:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.12.1_1_Adm2:
+    GID: MWI.12.1_1
+    admin_name: Lake Chilwa
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.12.10_1_Adm2:
+    GID: MWI.12.10_1
+    admin_name: SC Ngokwe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.11_1_Adm2:
+    GID: MWI.12.11_1
+    admin_name: SC Sitola
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.12_1_Adm2:
+    GID: MWI.12.12_1
+    admin_name: TA Kawinga
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.13_1_Adm2:
+    GID: MWI.12.13_1
+    admin_name: TA Liwonde
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.14_1_Adm2:
+    GID: MWI.12.14_1
+    admin_name: TA Nyambi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.2_1_Adm2:
+    GID: MWI.12.2_1
+    admin_name: Lake Chiuta
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.3_1_Adm2:
+    GID: MWI.12.3_1
+    admin_name: Liwonda National Park
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.4_1_Adm2:
+    GID: MWI.12.4_1
+    admin_name: Liwonde Town
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.5_1_Adm2:
+    GID: MWI.12.5_1
+    admin_name: SC Chamba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.6_1_Adm2:
+    GID: MWI.12.6_1
+    admin_name: SC Chikweo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.7_1_Adm2:
+    GID: MWI.12.7_1
+    admin_name: SC Chiwalo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.8_1_Adm2:
+    GID: MWI.12.8_1
+    admin_name: SC Mlomba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.12.9_1_Adm2:
+    GID: MWI.12.9_1
+    admin_name: SC Mposa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13_1_Adm1:
+    GID: MWI.13_1
     admin_name: Mangochi
-    shapeID: 42251766B89682559169951
-    country_name: Malawi
-  Malawi_Adm2_14:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.13.1_1_Adm2:
+    GID: MWI.13.1_1
+    admin_name: Lake Malawi
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.13.10_1_Adm2:
+    GID: MWI.13.10_1
+    admin_name: TA Katuli
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.11_1_Adm2:
+    GID: MWI.13.11_1
+    admin_name: TA Makanjila
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.12_1_Adm2:
+    GID: MWI.13.12_1
+    admin_name: TA Mponda
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.13_1_Adm2:
+    GID: MWI.13.13_1
+    admin_name: TA Nankumba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.2_1_Adm2:
+    GID: MWI.13.2_1
+    admin_name: Lake Malombe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.3_1_Adm2:
+    GID: MWI.13.3_1
+    admin_name: Mangochi Town
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.4_1_Adm2:
+    GID: MWI.13.4_1
+    admin_name: Monkey Bay Urban
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.5_1_Adm2:
+    GID: MWI.13.5_1
+    admin_name: SC Chowe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.6_1_Adm2:
+    GID: MWI.13.6_1
+    admin_name: SC Mbwana Nyambi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.7_1_Adm2:
+    GID: MWI.13.7_1
+    admin_name: SC Namabvi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.8_1_Adm2:
+    GID: MWI.13.8_1
+    admin_name: TA Chimwala
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.13.9_1_Adm2:
+    GID: MWI.13.9_1
+    admin_name: TA Jalasi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.14_1_Adm1:
+    GID: MWI.14_1
     admin_name: Mchinji
-    shapeID: 42251766B46471952803478
-    country_name: Malawi
-  Malawi_Adm2_15:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.14.1_1_Adm2:
+    GID: MWI.14.1_1
+    admin_name: Mchinji Boma
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.14.2_1_Adm2:
+    GID: MWI.14.2_1
+    admin_name: SC Dambe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.14.3_1_Adm2:
+    GID: MWI.14.3_1
+    admin_name: SC Mavwere
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.14.4_1_Adm2:
+    GID: MWI.14.4_1
+    admin_name: SC Mduwa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.14.5_1_Adm2:
+    GID: MWI.14.5_1
+    admin_name: TA Mkanda
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.14.6_1_Adm2:
+    GID: MWI.14.6_1
+    admin_name: TA Mlonyeni
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.14.7_1_Adm2:
+    GID: MWI.14.7_1
+    admin_name: TA Zulu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.15_1_Adm1:
+    GID: MWI.15_1
     admin_name: Mulanje
-    shapeID: 42251766B75579143939980
-    country_name: Malawi
-  Malawi_Adm2_16:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.15.1_1_Adm2:
+    GID: MWI.15.1_1
+    admin_name: Mulanje Boma
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.15.2_1_Adm2:
+    GID: MWI.15.2_1
+    admin_name: Mulanje Mountain Forest Reserve
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.15.3_1_Adm2:
+    GID: MWI.15.3_1
+    admin_name: SC Juma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.15.4_1_Adm2:
+    GID: MWI.15.4_1
+    admin_name: SC Laston Njema
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.15.5_1_Adm2:
+    GID: MWI.15.5_1
+    admin_name: TA Chikumbu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.15.6_1_Adm2:
+    GID: MWI.15.6_1
+    admin_name: TA Mabuka
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.15.7_1_Adm2:
+    GID: MWI.15.7_1
+    admin_name: TA Nkanda
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.15.8_1_Adm2:
+    GID: MWI.15.8_1
+    admin_name: TA Nthiramanja
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.16_1_Adm1:
+    GID: MWI.16_1
     admin_name: Mwanza
-    shapeID: 42251766B31446962769453
-    country_name: Malawi
-  Malawi_Adm2_17:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.16.1_1_Adm2:
+    GID: MWI.16.1_1
+    admin_name: Majete Game Reserve - Mwanza
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.16.2_1_Adm2:
+    GID: MWI.16.2_1
+    admin_name: Mwanza Boma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.16.3_1_Adm2:
+    GID: MWI.16.3_1
+    admin_name: TA Kanduku
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.16.4_1_Adm2:
+    GID: MWI.16.4_1
+    admin_name: TA Nthache
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17_1_Adm1:
+    GID: MWI.17_1
     admin_name: Mzimba
-    shapeID: 42251766B77624810989827
-    country_name: Malawi
-  Malawi_Adm2_18:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.17.1_1_Adm2:
+    GID: MWI.17.1_1
+    admin_name: Mzimba Boma
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.17.10_1_Adm2:
+    GID: MWI.17.10_1
+    admin_name: TA Mtwalo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.11_1_Adm2:
+    GID: MWI.17.11_1
+    admin_name: TA Mzikubola
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.12_1_Adm2:
+    GID: MWI.17.12_1
+    admin_name: TA Mzukuzuku
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.13_1_Adm2:
+    GID: MWI.17.13_1
+    admin_name: Vwaza Marsh Game Reserve - Mzimb
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.2_1_Adm2:
+    GID: MWI.17.2_1
+    admin_name: Mzuzu City
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.3_1_Adm2:
+    GID: MWI.17.3_1
+    admin_name: SC Jaravikuba Munthali
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.4_1_Adm2:
+    GID: MWI.17.4_1
+    admin_name: SC Kampingo Sibande
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.5_1_Adm2:
+    GID: MWI.17.5_1
+    admin_name: SC Khosolo Gwaza Jere
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.6_1_Adm2:
+    GID: MWI.17.6_1
+    admin_name: TA Chindi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.7_1_Adm2:
+    GID: MWI.17.7_1
+    admin_name: TA M'Mbelwa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.8_1_Adm2:
+    GID: MWI.17.8_1
+    admin_name: TA Mabulabo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.17.9_1_Adm2:
+    GID: MWI.17.9_1
+    admin_name: TA Mpherembe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.18_1_Adm1:
+    GID: MWI.18_1
     admin_name: Neno
-    shapeID: 42251766B14168102698524
-    country_name: Malawi
-  Malawi_Adm2_19:
     iso3c: MWI
-    admin_level: Adm2
-    admin_name: NkhataBay
-    shapeID: 42251766B11922581525025
     country_name: Malawi
-  Malawi_Adm2_2:
+    admin_level: Adm1
+  MWI.18.1_1_Adm2:
+    GID: MWI.18.1_1
+    admin_name: Majete Game Reserve - Neno
     iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.18.2_1_Adm2:
+    GID: MWI.18.2_1
+    admin_name: TA Dambe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.18.3_1_Adm2:
+    GID: MWI.18.3_1
+    admin_name: TA Mlauli
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.18.4_1_Adm2:
+    GID: MWI.18.4_1
+    admin_name: TA Ngozi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.18.5_1_Adm2:
+    GID: MWI.18.5_1
+    admin_name: TA Symon
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.19_1_Adm1:
+    GID: MWI.19_1
+    admin_name: Nkhata Bay
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.19.1_1_Adm2:
+    GID: MWI.19.1_1
+    admin_name: Lake Malawi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.19.10_1_Adm2:
+    GID: MWI.19.10_1
+    admin_name: TA Timbiri
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.19.2_1_Adm2:
+    GID: MWI.19.2_1
+    admin_name: SC Fukamalaza
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.19.3_1_Adm2:
+    GID: MWI.19.3_1
+    admin_name: SC Malanda
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.19.4_1_Adm2:
+    GID: MWI.19.4_1
+    admin_name: SC Nyaluwanga
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.19.5_1_Adm2:
+    GID: MWI.19.5_1
+    admin_name: SC Zilakoma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.19.6_1_Adm2:
+    GID: MWI.19.6_1
+    admin_name: TA Fukamapiri
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.19.7_1_Adm2:
+    GID: MWI.19.7_1
+    admin_name: TA Kabunduli
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.19.8_1_Adm2:
+    GID: MWI.19.8_1
+    admin_name: TA Malenga Mzoma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.19.9_1_Adm2:
+    GID: MWI.19.9_1
+    admin_name: TA Musisya
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.2_1_Adm1:
+    GID: MWI.2_1
     admin_name: Blantyre
-    shapeID: 42251766B636776762176
-    country_name: Malawi
-  Malawi_Adm2_20:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.2.1_1_Adm2:
+    GID: MWI.2.1_1
+    admin_name: Blantyre City
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.2.2_1_Adm2:
+    GID: MWI.2.2_1
+    admin_name: TA Chigaru
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.2.3_1_Adm2:
+    GID: MWI.2.3_1
+    admin_name: TA Kapeni
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.2.4_1_Adm2:
+    GID: MWI.2.4_1
+    admin_name: TA Kuntaja
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.2.5_1_Adm2:
+    GID: MWI.2.5_1
+    admin_name: TA Kunthembwe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.2.6_1_Adm2:
+    GID: MWI.2.6_1
+    admin_name: TA Lundu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.2.7_1_Adm2:
+    GID: MWI.2.7_1
+    admin_name: TA Machinjili
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.2.8_1_Adm2:
+    GID: MWI.2.8_1
+    admin_name: TA Makata
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.2.9_1_Adm2:
+    GID: MWI.2.9_1
+    admin_name: TA Somba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.20_1_Adm1:
+    GID: MWI.20_1
     admin_name: Nkhotakota
-    shapeID: 42251766B56128896232398
-    country_name: Malawi
-  Malawi_Adm2_21:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.20.1_1_Adm2:
+    GID: MWI.20.1_1
+    admin_name: Lake Malawi
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.20.2_1_Adm2:
+    GID: MWI.20.2_1
+    admin_name: Nkhotakota Boma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.20.3_1_Adm2:
+    GID: MWI.20.3_1
+    admin_name: Nkhotakota Game Reserve
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.20.4_1_Adm2:
+    GID: MWI.20.4_1
+    admin_name: SC Kafuzila
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.20.5_1_Adm2:
+    GID: MWI.20.5_1
+    admin_name: SC Mphonde
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.20.6_1_Adm2:
+    GID: MWI.20.6_1
+    admin_name: SC Mwansambo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.20.7_1_Adm2:
+    GID: MWI.20.7_1
+    admin_name: TA Kanyenda
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.20.8_1_Adm2:
+    GID: MWI.20.8_1
+    admin_name: TA Malenga Chanzi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.20.9_1_Adm2:
+    GID: MWI.20.9_1
+    admin_name: TA Mwadzama
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.21_1_Adm1:
+    GID: MWI.21_1
     admin_name: Nsanje
-    shapeID: 42251766B55445306782248
-    country_name: Malawi
-  Malawi_Adm2_22:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.21.1_1_Adm2:
+    GID: MWI.21.1_1
+    admin_name: Mwabvi Game Reserve
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.21.10_1_Adm2:
+    GID: MWI.21.10_1
+    admin_name: TA Nyachikadza
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.21.11_1_Adm2:
+    GID: MWI.21.11_1
+    admin_name: TA Tengani
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.21.2_1_Adm2:
+    GID: MWI.21.2_1
+    admin_name: Nsanje Boma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.21.3_1_Adm2:
+    GID: MWI.21.3_1
+    admin_name: SC Makoka
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.21.4_1_Adm2:
+    GID: MWI.21.4_1
+    admin_name: SC Mbenje
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.21.5_1_Adm2:
+    GID: MWI.21.5_1
+    admin_name: TA Chimombo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.21.6_1_Adm2:
+    GID: MWI.21.6_1
+    admin_name: TA Malemia
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.21.7_1_Adm2:
+    GID: MWI.21.7_1
+    admin_name: TA Mlolo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.21.8_1_Adm2:
+    GID: MWI.21.8_1
+    admin_name: TA Ndamera
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.21.9_1_Adm2:
+    GID: MWI.21.9_1
+    admin_name: TA Ngabu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.22_1_Adm1:
+    GID: MWI.22_1
     admin_name: Ntcheu
-    shapeID: 42251766B4706820893431
-    country_name: Malawi
-  Malawi_Adm2_23:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.22.1_1_Adm2:
+    GID: MWI.22.1_1
+    admin_name: Ntcheu Boma
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.22.10_1_Adm2:
+    GID: MWI.22.10_1
+    admin_name: TA Phambala
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.22.2_1_Adm2:
+    GID: MWI.22.2_1
+    admin_name: SC Champiti
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.22.3_1_Adm2:
+    GID: MWI.22.3_1
+    admin_name: SC Goodson Ganya
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.22.4_1_Adm2:
+    GID: MWI.22.4_1
+    admin_name: SC Makwangwala
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.22.5_1_Adm2:
+    GID: MWI.22.5_1
+    admin_name: TA Chakhumbira
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.22.6_1_Adm2:
+    GID: MWI.22.6_1
+    admin_name: TA Kwataine
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.22.7_1_Adm2:
+    GID: MWI.22.7_1
+    admin_name: TA Masasa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.22.8_1_Adm2:
+    GID: MWI.22.8_1
+    admin_name: TA Mpando
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.22.9_1_Adm2:
+    GID: MWI.22.9_1
+    admin_name: TA Njolomole
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.23_1_Adm1:
+    GID: MWI.23_1
     admin_name: Ntchisi
-    shapeID: 42251766B52093988372546
-    country_name: Malawi
-  Malawi_Adm2_24:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.23.1_1_Adm2:
+    GID: MWI.23.1_1
+    admin_name: Ntchisi Boma
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.23.2_1_Adm2:
+    GID: MWI.23.2_1
+    admin_name: SC Chilooko
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.23.3_1_Adm2:
+    GID: MWI.23.3_1
+    admin_name: SC Nthondo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.23.4_1_Adm2:
+    GID: MWI.23.4_1
+    admin_name: TA Chikho
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.23.5_1_Adm2:
+    GID: MWI.23.5_1
+    admin_name: TA Kalumo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.23.6_1_Adm2:
+    GID: MWI.23.6_1
+    admin_name: TA Kasakula
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.23.7_1_Adm2:
+    GID: MWI.23.7_1
+    admin_name: TA Kasukula
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.24_1_Adm1:
+    GID: MWI.24_1
     admin_name: Phalombe
-    shapeID: 42251766B10434937590290
-    country_name: Malawi
-  Malawi_Adm2_25:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.24.1_1_Adm2:
+    GID: MWI.24.1_1
+    admin_name: Lake Chilwa
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.24.2_1_Adm2:
+    GID: MWI.24.2_1
+    admin_name: TA Mkhumba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.24.3_1_Adm2:
+    GID: MWI.24.3_1
+    admin_name: TA Nazombe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25_1_Adm1:
+    GID: MWI.25_1
     admin_name: Rumphi
-    shapeID: 42251766B19667920055188
-    country_name: Malawi
-  Malawi_Adm2_26:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.25.1_1_Adm2:
+    GID: MWI.25.1_1
+    admin_name: Lake Malawi
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.25.10_1_Adm2:
+    GID: MWI.25.10_1
+    admin_name: TA Katumbi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25.11_1_Adm2:
+    GID: MWI.25.11_1
+    admin_name: TA Mwamlowe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25.12_1_Adm2:
+    GID: MWI.25.12_1
+    admin_name: Vwaza Marsh Game Reserve - Rumph
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25.2_1_Adm2:
+    GID: MWI.25.2_1
+    admin_name: Nyika National Park - Rumphi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25.3_1_Adm2:
+    GID: MWI.25.3_1
+    admin_name: Rumphi Boma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25.4_1_Adm2:
+    GID: MWI.25.4_1
+    admin_name: SC Chapinduka
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25.5_1_Adm2:
+    GID: MWI.25.5_1
+    admin_name: SC Kachulu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25.6_1_Adm2:
+    GID: MWI.25.6_1
+    admin_name: SC Mwahenga
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25.7_1_Adm2:
+    GID: MWI.25.7_1
+    admin_name: SC Mwalweni
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25.8_1_Adm2:
+    GID: MWI.25.8_1
+    admin_name: SC Mwankhunikira
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.25.9_1_Adm2:
+    GID: MWI.25.9_1
+    admin_name: TA Chikulamayembe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.26_1_Adm1:
+    GID: MWI.26_1
     admin_name: Salima
-    shapeID: 42251766B16377643813547
-    country_name: Malawi
-  Malawi_Adm2_27:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.26.1_1_Adm2:
+    GID: MWI.26.1_1
+    admin_name: Lake Malawi
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.26.10_1_Adm2:
+    GID: MWI.26.10_1
+    admin_name: TA Ndindi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.26.11_1_Adm2:
+    GID: MWI.26.11_1
+    admin_name: TA Pemba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.26.2_1_Adm2:
+    GID: MWI.26.2_1
+    admin_name: Salima Town
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.26.3_1_Adm2:
+    GID: MWI.26.3_1
+    admin_name: SC Kambalame
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.26.4_1_Adm2:
+    GID: MWI.26.4_1
+    admin_name: SC Kambwiri
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.26.5_1_Adm2:
+    GID: MWI.26.5_1
+    admin_name: SC Mwanza
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.26.6_1_Adm2:
+    GID: MWI.26.6_1
+    admin_name: TA Karonga
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.26.7_1_Adm2:
+    GID: MWI.26.7_1
+    admin_name: TA Khombedza
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.26.8_1_Adm2:
+    GID: MWI.26.8_1
+    admin_name: TA Kuluunda
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.26.9_1_Adm2:
+    GID: MWI.26.9_1
+    admin_name: TA Maganga
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27_1_Adm1:
+    GID: MWI.27_1
     admin_name: Thyolo
-    shapeID: 42251766B18929072887304
-    country_name: Malawi
-  Malawi_Adm2_28:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.27.1_1_Adm2:
+    GID: MWI.27.1_1
+    admin_name: Luchenza Town
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.27.10_1_Adm2:
+    GID: MWI.27.10_1
+    admin_name: TA Nchilamwela
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.11_1_Adm2:
+    GID: MWI.27.11_1
+    admin_name: TA Nsabwe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.12_1_Adm2:
+    GID: MWI.27.12_1
+    admin_name: TA Thomas
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.13_1_Adm2:
+    GID: MWI.27.13_1
+    admin_name: Thyolo Boma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.2_1_Adm2:
+    GID: MWI.27.2_1
+    admin_name: SC Kwethemule
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.3_1_Adm2:
+    GID: MWI.27.3_1
+    admin_name: SC Mbawela
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.4_1_Adm2:
+    GID: MWI.27.4_1
+    admin_name: SC Mphuka
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.5_1_Adm2:
+    GID: MWI.27.5_1
+    admin_name: SC Thukuta
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.6_1_Adm2:
+    GID: MWI.27.6_1
+    admin_name: TA Bvumbwe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.7_1_Adm2:
+    GID: MWI.27.7_1
+    admin_name: TA Changata
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.8_1_Adm2:
+    GID: MWI.27.8_1
+    admin_name: TA Chimaliro
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.27.9_1_Adm2:
+    GID: MWI.27.9_1
+    admin_name: TA Kapichi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.28_1_Adm1:
+    GID: MWI.28_1
     admin_name: Zomba
-    shapeID: 42251766B13881881574545
-    country_name: Malawi
-  Malawi_Adm2_3:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.28.1_1_Adm2:
+    GID: MWI.28.1_1
+    admin_name: Lake Chilwa
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.28.2_1_Adm2:
+    GID: MWI.28.2_1
+    admin_name: SC Mbiza
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.28.3_1_Adm2:
+    GID: MWI.28.3_1
+    admin_name: SC Mkumbira
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.28.4_1_Adm2:
+    GID: MWI.28.4_1
+    admin_name: TA Chikowi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.28.5_1_Adm2:
+    GID: MWI.28.5_1
+    admin_name: TA Kuntumanji
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.28.6_1_Adm2:
+    GID: MWI.28.6_1
+    admin_name: TA Malemia
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.28.7_1_Adm2:
+    GID: MWI.28.7_1
+    admin_name: TA Mlumbe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.28.8_1_Adm2:
+    GID: MWI.28.8_1
+    admin_name: TA Mwambo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.28.9_1_Adm2:
+    GID: MWI.28.9_1
+    admin_name: Zomba City
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.3_1_Adm1:
+    GID: MWI.3_1
     admin_name: Chikwawa
-    shapeID: 42251766B28594103932184
-    country_name: Malawi
-  Malawi_Adm2_4:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.3.1_1_Adm2:
+    GID: MWI.3.1_1
+    admin_name: Chikwawa Boma
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.3.10_1_Adm2:
+    GID: MWI.3.10_1
+    admin_name: TA Maseya
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.3.11_1_Adm2:
+    GID: MWI.3.11_1
+    admin_name: TA Ngabu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.3.2_1_Adm2:
+    GID: MWI.3.2_1
+    admin_name: Lengwe National Park
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.3.3_1_Adm2:
+    GID: MWI.3.3_1
+    admin_name: Majete Game Reserve - Chikwawa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.3.4_1_Adm2:
+    GID: MWI.3.4_1
+    admin_name: Ngabu Urban
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.3.5_1_Adm2:
+    GID: MWI.3.5_1
+    admin_name: TA Chapananga
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.3.6_1_Adm2:
+    GID: MWI.3.6_1
+    admin_name: TA Kasisi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.3.7_1_Adm2:
+    GID: MWI.3.7_1
+    admin_name: TA Katunga
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.3.8_1_Adm2:
+    GID: MWI.3.8_1
+    admin_name: TA Lundu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.3.9_1_Adm2:
+    GID: MWI.3.9_1
+    admin_name: TA Makhwira
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.4_1_Adm1:
+    GID: MWI.4_1
     admin_name: Chiradzulu
-    shapeID: 42251766B78568245260433
-    country_name: Malawi
-  Malawi_Adm2_5:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.4.1_1_Adm2:
+    GID: MWI.4.1_1
+    admin_name: Chiradzulu Boma
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.4.2_1_Adm2:
+    GID: MWI.4.2_1
+    admin_name: TA Chitera
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.4.3_1_Adm2:
+    GID: MWI.4.3_1
+    admin_name: TA Kadewere
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.4.4_1_Adm2:
+    GID: MWI.4.4_1
+    admin_name: TA Likoswe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.4.5_1_Adm2:
+    GID: MWI.4.5_1
+    admin_name: TA Mpama
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.4.6_1_Adm2:
+    GID: MWI.4.6_1
+    admin_name: TA Nchema
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.4.7_1_Adm2:
+    GID: MWI.4.7_1
+    admin_name: TA Nkalo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.5_1_Adm1:
+    GID: MWI.5_1
     admin_name: Chitipa
-    shapeID: 42251766B85605316960959
-    country_name: Malawi
-  Malawi_Adm2_6:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.5.1_1_Adm2:
+    GID: MWI.5.1_1
+    admin_name: Chitipa Boma
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.5.2_1_Adm2:
+    GID: MWI.5.2_1
+    admin_name: Nyika N.P. - Chitipa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.5.3_1_Adm2:
+    GID: MWI.5.3_1
+    admin_name: TA Kameme
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.5.4_1_Adm2:
+    GID: MWI.5.4_1
+    admin_name: TA Mwabulambya
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.5.5_1_Adm2:
+    GID: MWI.5.5_1
+    admin_name: TA Mwenemisuku
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.5.6_1_Adm2:
+    GID: MWI.5.6_1
+    admin_name: TA Mwenewenya
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.5.7_1_Adm2:
+    GID: MWI.5.7_1
+    admin_name: TA Nthalire
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.6_1_Adm1:
+    GID: MWI.6_1
     admin_name: Dedza
-    shapeID: 42251766B66225457753973
-    country_name: Malawi
-  Malawi_Adm2_7:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.6.1_1_Adm2:
+    GID: MWI.6.1_1
+    admin_name: Dedza Boma
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.6.10_1_Adm2:
+    GID: MWI.6.10_1
+    admin_name: TA Tambala
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.6.2_1_Adm2:
+    GID: MWI.6.2_1
+    admin_name: Lake Malawi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.6.3_1_Adm2:
+    GID: MWI.6.3_1
+    admin_name: SC Chauma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.6.4_1_Adm2:
+    GID: MWI.6.4_1
+    admin_name: SC Chilikumwendo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.6.5_1_Adm2:
+    GID: MWI.6.5_1
+    admin_name: SC Kamenya Gwaza
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.6.6_1_Adm2:
+    GID: MWI.6.6_1
+    admin_name: TA Kachindamoto
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.6.7_1_Adm2:
+    GID: MWI.6.7_1
+    admin_name: TA Kaphuka
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.6.8_1_Adm2:
+    GID: MWI.6.8_1
+    admin_name: TA Kasumbu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.6.9_1_Adm2:
+    GID: MWI.6.9_1
+    admin_name: TA Pemba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.7_1_Adm1:
+    GID: MWI.7_1
     admin_name: Dowa
-    shapeID: 42251766B75153645982813
-    country_name: Malawi
-  Malawi_Adm2_8:
     iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.7.1_1_Adm2:
+    GID: MWI.7.1_1
+    admin_name: Dowa Boma
+    iso3c: MWI
+    country_name: Malawi
     admin_level: Adm2
+  MWI.7.2_1_Adm2:
+    GID: MWI.7.2_1
+    admin_name: Mponela Urban
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.7.3_1_Adm2:
+    GID: MWI.7.3_1
+    admin_name: SC Chakhaza
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.7.4_1_Adm2:
+    GID: MWI.7.4_1
+    admin_name: SC Kayembe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.7.5_1_Adm2:
+    GID: MWI.7.5_1
+    admin_name: SC Mkukula
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.7.6_1_Adm2:
+    GID: MWI.7.6_1
+    admin_name: SC Mponela
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.7.7_1_Adm2:
+    GID: MWI.7.7_1
+    admin_name: TA Chiwere
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.7.8_1_Adm2:
+    GID: MWI.7.8_1
+    admin_name: TA Dzoole
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.7.9_1_Adm2:
+    GID: MWI.7.9_1
+    admin_name: TA Msakambewa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.8_1_Adm1:
+    GID: MWI.8_1
     admin_name: Karonga
-    shapeID: 42251766B7861013170277
-    country_name: Malawi
-  Malawi_Adm2_9:
     iso3c: MWI
-    admin_level: Adm2
-    admin_name: Kasungu
-    shapeID: 42251766B4237185447418
     country_name: Malawi
+    admin_level: Adm1
+  MWI.8.1_1_Adm2:
+    GID: MWI.8.1_1
+    admin_name: Karonga Town
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.8.2_1_Adm2:
+    GID: MWI.8.2_1
+    admin_name: Lake Malawi
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.8.3_1_Adm2:
+    GID: MWI.8.3_1
+    admin_name: Nyipa N. P. - Karonga
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.8.4_1_Adm2:
+    GID: MWI.8.4_1
+    admin_name: SC Mwakaboko
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.8.5_1_Adm2:
+    GID: MWI.8.5_1
+    admin_name: SC Mwirang'ombe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.8.6_1_Adm2:
+    GID: MWI.8.6_1
+    admin_name: TA Kilupula
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.8.7_1_Adm2:
+    GID: MWI.8.7_1
+    admin_name: TA Kyungu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.8.8_1_Adm2:
+    GID: MWI.8.8_1
+    admin_name: TA Wasambo
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9_1_Adm1:
+    GID: MWI.9_1
+    admin_name: Kasungu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm1
+  MWI.9.1_1_Adm2:
+    GID: MWI.9.1_1
+    admin_name: Kasungu Boma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.10_1_Adm2:
+    GID: MWI.9.10_1
+    admin_name: TA Chulu
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.11_1_Adm2:
+    GID: MWI.9.11_1
+    admin_name: TA Kaluluma
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.12_1_Adm2:
+    GID: MWI.9.12_1
+    admin_name: TA Kaomba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.13_1_Adm2:
+    GID: MWI.9.13_1
+    admin_name: TA Kapelula
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.14_1_Adm2:
+    GID: MWI.9.14_1
+    admin_name: TA Mwase
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.15_1_Adm2:
+    GID: MWI.9.15_1
+    admin_name: TA Santhe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.16_1_Adm2:
+    GID: MWI.9.16_1
+    admin_name: TA Wimbe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.2_1_Adm2:
+    GID: MWI.9.2_1
+    admin_name: Kasungu National Park
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.3_1_Adm2:
+    GID: MWI.9.3_1
+    admin_name: SC Chilowamatambe
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.4_1_Adm2:
+    GID: MWI.9.4_1
+    admin_name: SC Chisikwa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.5_1_Adm2:
+    GID: MWI.9.5_1
+    admin_name: SC Kawamba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.6_1_Adm2:
+    GID: MWI.9.6_1
+    admin_name: SC Lukwa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.7_1_Adm2:
+    GID: MWI.9.7_1
+    admin_name: SC M'nyanja
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.8_1_Adm2:
+    GID: MWI.9.8_1
+    admin_name: SC Njombwa
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2
+  MWI.9.9_1_Adm2:
+    GID: MWI.9.9_1
+    admin_name: SC Simlemba
+    iso3c: MWI
+    country_name: Malawi
+    admin_level: Adm2

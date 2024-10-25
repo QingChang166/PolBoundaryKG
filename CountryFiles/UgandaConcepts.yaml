@@ -1,937 +1,1351 @@
 concepts:
-  Uganda_Adm0:
-    iso3c: UGA
-    admin_level: Adm0
+  UGA.0_Adm0:
+    GID: UGA
     admin_name: Uganda
-    shapeID: 62106908B38903582654399
-    country_name: Uganda
-  Uganda_Adm1_1:
     iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm0
+  UGA.1_1_Adm1:
+    GID: UGA.1_1
+    admin_name: Adjumani
+    iso3c: UGA
+    country_name: Uganda
     admin_level: Adm1
-    admin_name: NorthernRegion
-    shapeID: 17295835B80141219017784
-    country_name: Uganda
-  Uganda_Adm1_2:
+  UGA.1.1_1_Adm2:
+    GID: UGA.1.1_1
+    admin_name: East Moyo
     iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.10_1_Adm1:
+    GID: UGA.10_1
+    admin_name: Iganga
+    iso3c: UGA
+    country_name: Uganda
     admin_level: Adm1
-    admin_name: EasternRegion
-    shapeID: 17295835B57878138064711
-    country_name: Uganda
-  Uganda_Adm1_3:
-    iso3c: UGA
-    admin_level: Adm1
-    admin_name: CentralRegion
-    shapeID: 17295835B48340970483027
-    country_name: Uganda
-  Uganda_Adm1_4:
-    iso3c: UGA
-    admin_level: Adm1
-    admin_name: WesternRegion
-    shapeID: 17295835B91329899113986
-    country_name: Uganda
-  Uganda_Adm2_1:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Dodoth
-    shapeID: 47994165B4837390146164
-    country_name: Uganda
-  Uganda_Adm2_10:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Pian
-    shapeID: 47994165B22240361323581
-    country_name: Uganda
-  Uganda_Adm2_100:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bunyangabu
-    shapeID: 47994165B11721893458190
-    country_name: Uganda
-  Uganda_Adm2_101:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bughendra
-    shapeID: 47994165B11452154134589
-    country_name: Uganda
-  Uganda_Adm2_102:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Ntoroko
-    shapeID: 47994165B6683335913560
-    country_name: Uganda
-  Uganda_Adm2_103:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Ibanda
-    shapeID: 47994165B63410985341096
-    country_name: Uganda
-  Uganda_Adm2_104:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Busongora
-    shapeID: 47994165B17746304388431
-    country_name: Uganda
-  Uganda_Adm2_105:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bukonjo
-    shapeID: 47994165B33706557437921
-    country_name: Uganda
-  Uganda_Adm2_106:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kazo
-    shapeID: 47994165B24748680846243
-    country_name: Uganda
-  Uganda_Adm2_107:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Nyabushozi
-    shapeID: 47994165B6241508458979
-    country_name: Uganda
-  Uganda_Adm2_108:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Lwemiyaga
-    shapeID: 47994165B37773698387343
-    country_name: Uganda
-  Uganda_Adm2_109:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Mawogola
-    shapeID: 47994165B97901592069991
-    country_name: Uganda
-  Uganda_Adm2_11:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Chekwii
-    shapeID: 47994165B56208747589297
-    country_name: Uganda
-  Uganda_Adm2_110:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kagoma
-    shapeID: 47994165B29030563175808
-    country_name: Uganda
-  Uganda_Adm2_111:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Butembe
-    shapeID: 47994165B27757339786209
-    country_name: Uganda
-  Uganda_Adm2_112:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bunya
-    shapeID: 47994165B29778202541114
-    country_name: Uganda
-  Uganda_Adm2_113:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bunyaruguru
-    shapeID: 47994165B31113025447965
-    country_name: Uganda
-  Uganda_Adm2_114:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Buhweju
-    shapeID: 47994165B43798322080680
-    country_name: Uganda
-  Uganda_Adm2_115:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Sheema
-    shapeID: 47994165B26325362501667
-    country_name: Uganda
-  Uganda_Adm2_116:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Igara
-    shapeID: 47994165B92927391049004
-    country_name: Uganda
-  Uganda_Adm2_117:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Ruhinda
-    shapeID: 47994165B84895370971255
-    country_name: Uganda
-  Uganda_Adm2_118:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kashari
-    shapeID: 47994165B48268751645511
-    country_name: Uganda
-  Uganda_Adm2_119:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Rwampara
-    shapeID: 47994165B31232091804297
-    country_name: Uganda
-  Uganda_Adm2_12:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Pokot
-    shapeID: 47994165B62865726932923
-    country_name: Uganda
-  Uganda_Adm2_120:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bujumbura
-    shapeID: 47994165B34585576880018
-    country_name: Uganda
-  Uganda_Adm2_121:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Rubabo
-    shapeID: 47994165B44661751467195
-    country_name: Uganda
-  Uganda_Adm2_122:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kinkiizi
-    shapeID: 47994165B13656364891086
-    country_name: Uganda
-  Uganda_Adm2_123:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bufumbira
-    shapeID: 47994165B70493584211425
-    country_name: Uganda
-  Uganda_Adm2_124:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Rubanda
-    shapeID: 47994165B8009354139702
-    country_name: Uganda
-  Uganda_Adm2_125:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Rukiga
-    shapeID: 47994165B81051513806104
-    country_name: Uganda
-  Uganda_Adm2_126:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Ndorwa
-    shapeID: 47994165B87135499009730
-    country_name: Uganda
-  Uganda_Adm2_127:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Rushenyi
-    shapeID: 47994165B78443213575962
-    country_name: Uganda
-  Uganda_Adm2_128:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kajara
-    shapeID: 47994165B5370592709245
-    country_name: Uganda
-  Uganda_Adm2_129:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Ruhaama
-    shapeID: 47994165B38391299649672
-    country_name: Uganda
-  Uganda_Adm2_13:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Usuk
-    shapeID: 47994165B21646999801356
-    country_name: Uganda
-  Uganda_Adm2_130:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Isingiro
-    shapeID: 47994165B31608073741271
-    country_name: Uganda
-  Uganda_Adm2_131:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bukanga
-    shapeID: 47994165B66721291741884
-    country_name: Uganda
-  Uganda_Adm2_132:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kabula
-    shapeID: 47994165B38718344318021
-    country_name: Uganda
-  Uganda_Adm2_133:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kooki
-    shapeID: 47994165B7560944849987
-    country_name: Uganda
-  Uganda_Adm2_134:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kakuuto
-    shapeID: 47994165B82422100714593
-    country_name: Uganda
-  Uganda_Adm2_135:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kyotera
-    shapeID: 47994165B21715380423840
-    country_name: Uganda
-  Uganda_Adm2_136:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bukuto
-    shapeID: 47994165B51876264217150
-    country_name: Uganda
-  Uganda_Adm2_137:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bukomansimbi
-    shapeID: 47994165B10999178688233
-    country_name: Uganda
-  Uganda_Adm2_138:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kalungu
-    shapeID: 47994165B11605468614002
-    country_name: Uganda
-  Uganda_Adm2_139:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Gomba
-    shapeID: 47994165B99789703761817
-    country_name: Uganda
-  Uganda_Adm2_14:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Soroti
-    shapeID: 47994165B8099782863608
-    country_name: Uganda
-  Uganda_Adm2_140:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Butambala
-    shapeID: 47994165B24232061225094
-    country_name: Uganda
-  Uganda_Adm2_141:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Mawokota
-    shapeID: 47994165B21649077875075
-    country_name: Uganda
-  Uganda_Adm2_142:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Busiro
-    shapeID: 47994165B22960344442703
-    country_name: Uganda
-  Uganda_Adm2_143:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kyadondo
-    shapeID: 47994165B50134135343616
-    country_name: Uganda
-  Uganda_Adm2_144:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kampala
-    shapeID: 47994165B16286500452212
-    country_name: Uganda
-  Uganda_Adm2_145:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Nakifuma
-    shapeID: 47994165B45375916338342
-    country_name: Uganda
-  Uganda_Adm2_146:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Mukono
-    shapeID: 47994165B89759933687529
-    country_name: Uganda
-  Uganda_Adm2_147:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Buikwe
-    shapeID: 47994165B96029758291375
-    country_name: Uganda
-  Uganda_Adm2_148:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kyamuswa
-    shapeID: 47994165B73004169365400
-    country_name: Uganda
-  Uganda_Adm2_149:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bujjumba
-    shapeID: 47994165B90613881451638
-    country_name: Uganda
-  Uganda_Adm2_15:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Amuria
-    shapeID: 47994165B16908800154052
-    country_name: Uganda
-  Uganda_Adm2_150:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Mukono
-    shapeID: 47994165B98080040988734
-    country_name: Uganda
-  Uganda_Adm2_151:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Buvuma
-    shapeID: 47994165B9859706646942
-    country_name: Uganda
-  Uganda_Adm2_16:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Otuke
-    shapeID: 47994165B10700512776787
-    country_name: Uganda
-  Uganda_Adm2_17:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Moroto
-    shapeID: 47994165B76258969942575
-    country_name: Uganda
-  Uganda_Adm2_18:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Erute
-    shapeID: 47994165B60823564237207
-    country_name: Uganda
-  Uganda_Adm2_19:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kole
-    shapeID: 47994165B12447044132108
-    country_name: Uganda
-  Uganda_Adm2_2:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Chua
-    shapeID: 47994165B96271856998333
-    country_name: Uganda
-  Uganda_Adm2_20:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Maruzi
-    shapeID: 47994165B34973305717373
-    country_name: Uganda
-  Uganda_Adm2_21:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kwania
-    shapeID: 47994165B60801811357860
-    country_name: Uganda
-  Uganda_Adm2_22:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Oyam
-    shapeID: 47994165B74891165492587
-    country_name: Uganda
-  Uganda_Adm2_23:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Omoro
-    shapeID: 47994165B994646399882
-    country_name: Uganda
-  Uganda_Adm2_24:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Aswa
-    shapeID: 47994165B67304928066156
-    country_name: Uganda
-  Uganda_Adm2_25:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Dokolo
-    shapeID: 47994165B88415518747117
-    country_name: Uganda
-  Uganda_Adm2_26:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kalaki
-    shapeID: 47994165B47733876177687
-    country_name: Uganda
-  Uganda_Adm2_27:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kaberamaido
-    shapeID: 47994165B45261633624927
-    country_name: Uganda
-  Uganda_Adm2_28:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kasilo
-    shapeID: 47994165B3162512256822
-    country_name: Uganda
-  Uganda_Adm2_29:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kioga
-    shapeID: 47994165B94890268111599
-    country_name: Uganda
-  Uganda_Adm2_3:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Lamwo
-    shapeID: 47994165B96818667529958
-    country_name: Uganda
-  Uganda_Adm2_30:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Serere
-    shapeID: 47994165B20913720061072
-    country_name: Uganda
-  Uganda_Adm2_31:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Soroti
-    shapeID: 47994165B98524578813070
-    country_name: Uganda
-  Uganda_Adm2_32:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Ngora
-    shapeID: 47994165B3926647194046
-    country_name: Uganda
-  Uganda_Adm2_33:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kumi
-    shapeID: 47994165B5785370496570
-    country_name: Uganda
-  Uganda_Adm2_34:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bukedea
-    shapeID: 47994165B84551843907837
-    country_name: Uganda
-  Uganda_Adm2_35:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bulambuli
-    shapeID: 47994165B13948699459529
-    country_name: Uganda
-  Uganda_Adm2_36:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Tingey
-    shapeID: 47994165B18254739821586
-    country_name: Uganda
-  Uganda_Adm2_37:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kween
-    shapeID: 47994165B23169852214817
-    country_name: Uganda
-  Uganda_Adm2_38:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kongasis
-    shapeID: 47994165B90341384150702
-    country_name: Uganda
-  Uganda_Adm2_39:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Budadiri
-    shapeID: 47994165B3113361799554
-    country_name: Uganda
-  Uganda_Adm2_4:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Aruu
-    shapeID: 47994165B56342809461630
-    country_name: Uganda
-  Uganda_Adm2_40:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Manjiya
-    shapeID: 47994165B68778999410521
-    country_name: Uganda
-  Uganda_Adm2_41:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bubulo
-    shapeID: 47994165B89650562708032
-    country_name: Uganda
-  Uganda_Adm2_42:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bungokho
-    shapeID: 47994165B99308193569988
-    country_name: Uganda
-  Uganda_Adm2_43:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Butebo
-    shapeID: 47994165B53168099118732
-    country_name: Uganda
-  Uganda_Adm2_44:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Budaka
-    shapeID: 47994165B89785898288101
-    country_name: Uganda
-  Uganda_Adm2_45:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Pallisa
-    shapeID: 47994165B18693228751796
-    country_name: Uganda
-  Uganda_Adm2_46:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kibuku
-    shapeID: 47994165B21419778448231
-    country_name: Uganda
-  Uganda_Adm2_47:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bunyole
-    shapeID: 47994165B61533694327481
-    country_name: Uganda
-  Uganda_Adm2_48:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Tororo
-    shapeID: 47994165B11164765344071
-    country_name: Uganda
-  Uganda_Adm2_49:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: WestBudama
-    shapeID: 47994165B86428300038461
-    country_name: Uganda
-  Uganda_Adm2_5:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Agago
-    shapeID: 47994165B69868161530690
-    country_name: Uganda
-  Uganda_Adm2_50:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Busiki
-    shapeID: 47994165B63760788376193
-    country_name: Uganda
-  Uganda_Adm2_51:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bulamogi
-    shapeID: 47994165B99812853970537
-    country_name: Uganda
-  Uganda_Adm2_52:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kilak
-    shapeID: 47994165B70719248408693
-    country_name: Uganda
-  Uganda_Adm2_53:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Nwoya
-    shapeID: 47994165B12111387495879
-    country_name: Uganda
-  Uganda_Adm2_54:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: EastMoyo
-    shapeID: 47994165B33231894396929
-    country_name: Uganda
-  Uganda_Adm2_55:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: WestMoyo
-    shapeID: 47994165B18082180372450
-    country_name: Uganda
-  Uganda_Adm2_56:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Obongi
-    shapeID: 47994165B27399302838777
-    country_name: Uganda
-  Uganda_Adm2_57:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Aringa
-    shapeID: 47994165B72229648359475
-    country_name: Uganda
-  Uganda_Adm2_58:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Koboko
-    shapeID: 47994165B18629173559965
-    country_name: Uganda
-  Uganda_Adm2_59:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Maracha
-    shapeID: 47994165B51818816351694
-    country_name: Uganda
-  Uganda_Adm2_6:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Jie
-    shapeID: 47994165B3911985594780
-    country_name: Uganda
-  Uganda_Adm2_60:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Terego
-    shapeID: 47994165B75534969186170
-    country_name: Uganda
-  Uganda_Adm2_61:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Ayivu
-    shapeID: 47994165B64790493286849
-    country_name: Uganda
-  Uganda_Adm2_62:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Vurra
-    shapeID: 47994165B92141857832480
-    country_name: Uganda
-  Uganda_Adm2_63:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Madi-Okollo
-    shapeID: 47994165B20901550230314
-    country_name: Uganda
-  Uganda_Adm2_64:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Okoro
-    shapeID: 47994165B72215977726895
-    country_name: Uganda
-  Uganda_Adm2_65:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Padyere
-    shapeID: 47994165B98583791721874
-    country_name: Uganda
-  Uganda_Adm2_66:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Jonam
-    shapeID: 47994165B82358514726491
-    country_name: Uganda
-  Uganda_Adm2_67:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Samia-Bugwe
-    shapeID: 47994165B10893310093346
-    country_name: Uganda
-  Uganda_Adm2_68:
-    iso3c: UGA
-    admin_level: Adm2
+  UGA.10.1_1_Adm2:
+    GID: UGA.10.1_1
     admin_name: Bugweri
-    shapeID: 47994165B20760665917659
-    country_name: Uganda
-  Uganda_Adm2_69:
     iso3c: UGA
+    country_name: Uganda
     admin_level: Adm2
+  UGA.10.2_1_Adm2:
+    GID: UGA.10.2_1
+    admin_name: Busiki
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.10.3_1_Adm2:
+    GID: UGA.10.3_1
     admin_name: Kigulu
-    shapeID: 47994165B78850695856698
-    country_name: Uganda
-  Uganda_Adm2_7:
     iso3c: UGA
-    admin_level: Adm2
-    admin_name: Labwor
-    shapeID: 47994165B64132571931325
     country_name: Uganda
-  Uganda_Adm2_70:
-    iso3c: UGA
     admin_level: Adm2
+  UGA.10.4_1_Adm2:
+    GID: UGA.10.4_1
     admin_name: Luuka
-    shapeID: 47994165B36988780589750
-    country_name: Uganda
-  Uganda_Adm2_71:
     iso3c: UGA
-    admin_level: Adm2
-    admin_name: Budiope
-    shapeID: 47994165B97848148013516
     country_name: Uganda
-  Uganda_Adm2_72:
-    iso3c: UGA
     admin_level: Adm2
-    admin_name: Bugabula
-    shapeID: 47994165B81905252056509
+  UGA.11_1_Adm1:
+    GID: UGA.11_1
+    admin_name: Jinja
+    iso3c: UGA
     country_name: Uganda
-  Uganda_Adm2_73:
+    admin_level: Adm1
+  UGA.11.1_1_Adm2:
+    GID: UGA.11.1_1
+    admin_name: Butembe
     iso3c: UGA
-    admin_level: Adm2
-    admin_name: Buzaaya
-    shapeID: 47994165B31542685200678
     country_name: Uganda
-  Uganda_Adm2_74:
-    iso3c: UGA
     admin_level: Adm2
-    admin_name: Bbaale
-    shapeID: 47994165B42239206569952
+  UGA.11.2_1_Adm2:
+    GID: UGA.11.2_1
+    admin_name: Jinja
+    iso3c: UGA
     country_name: Uganda
-  Uganda_Adm2_75:
-    iso3c: UGA
     admin_level: Adm2
-    admin_name: Ntenjeru
-    shapeID: 47994165B60619713855646
+  UGA.11.3_1_Adm2:
+    GID: UGA.11.3_1
+    admin_name: Kagoma
+    iso3c: UGA
     country_name: Uganda
-  Uganda_Adm2_76:
-    iso3c: UGA
     admin_level: Adm2
-    admin_name: Buruli
-    shapeID: 47994165B79895845203755
+  UGA.12_1_Adm1:
+    GID: UGA.12_1
+    admin_name: Kabale
+    iso3c: UGA
     country_name: Uganda
-  Uganda_Adm2_77:
+    admin_level: Adm1
+  UGA.12.1_1_Adm2:
+    GID: UGA.12.1_1
+    admin_name: Kabale
     iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kibanda
-    shapeID: 47994165B14290887607301
     country_name: Uganda
-  Uganda_Adm2_78:
-    iso3c: UGA
     admin_level: Adm2
-    admin_name: Buruuli
-    shapeID: 47994165B39129884067999
+  UGA.12.2_1_Adm2:
+    GID: UGA.12.2_1
+    admin_name: Ndorwa
+    iso3c: UGA
     country_name: Uganda
-  Uganda_Adm2_79:
-    iso3c: UGA
     admin_level: Adm2
-    admin_name: Bujenje
-    shapeID: 47994165B50691253396030
+  UGA.12.3_1_Adm2:
+    GID: UGA.12.3_1
+    admin_name: Rubanda
+    iso3c: UGA
     country_name: Uganda
-  Uganda_Adm2_8:
-    iso3c: UGA
     admin_level: Adm2
-    admin_name: Matheniko
-    shapeID: 47994165B54104585672972
+  UGA.12.4_1_Adm2:
+    GID: UGA.12.4_1
+    admin_name: Rukiga
+    iso3c: UGA
     country_name: Uganda
-  Uganda_Adm2_80:
-    iso3c: UGA
     admin_level: Adm2
-    admin_name: Buliisa
-    shapeID: 47994165B54861886476760
+  UGA.13_1_Adm1:
+    GID: UGA.13_1
+    admin_name: Kabarole
+    iso3c: UGA
     country_name: Uganda
-  Uganda_Adm2_81:
+    admin_level: Adm1
+  UGA.13.1_1_Adm2:
+    GID: UGA.13.1_1
+    admin_name: Bunyangabu
     iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bukooli
-    shapeID: 47994165B53582052488113
     country_name: Uganda
-  Uganda_Adm2_82:
-    iso3c: UGA
     admin_level: Adm2
-    admin_name: Nakaseke
-    shapeID: 47994165B70745997951619
-    country_name: Uganda
-  Uganda_Adm2_83:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Katikamu
-    shapeID: 47994165B81778624417030
-    country_name: Uganda
-  Uganda_Adm2_84:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bamunanika
-    shapeID: 47994165B21872772059494
-    country_name: Uganda
-  Uganda_Adm2_85:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kiboga
-    shapeID: 47994165B88376902859288
-    country_name: Uganda
-  Uganda_Adm2_86:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bugahya
-    shapeID: 47994165B50184791272452
-    country_name: Uganda
-  Uganda_Adm2_87:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Buhaguzi
-    shapeID: 47994165B25063311461714
-    country_name: Uganda
-  Uganda_Adm2_88:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bugangaizi
-    shapeID: 47994165B34489902123210
-    country_name: Uganda
-  Uganda_Adm2_89:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Buyaga
-    shapeID: 47994165B22989190111925
-    country_name: Uganda
-  Uganda_Adm2_9:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Bokora
-    shapeID: 47994165B53659181203636
-    country_name: Uganda
-  Uganda_Adm2_90:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Buyanja
-    shapeID: 47994165B56924699209128
-    country_name: Uganda
-  Uganda_Adm2_91:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Buwekula
-    shapeID: 47994165B66547934642478
-    country_name: Uganda
-  Uganda_Adm2_92:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kassanda
-    shapeID: 47994165B76380418026499
-    country_name: Uganda
-  Uganda_Adm2_93:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Mityana
-    shapeID: 47994165B25067051253579
-    country_name: Uganda
-  Uganda_Adm2_94:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Busujju
-    shapeID: 47994165B3352038782506
-    country_name: Uganda
-  Uganda_Adm2_95:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Mwenge
-    shapeID: 47994165B8256906368680
-    country_name: Uganda
-  Uganda_Adm2_96:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kyaka
-    shapeID: 47994165B62938984296920
-    country_name: Uganda
-  Uganda_Adm2_97:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kibale
-    shapeID: 47994165B39061876769815
-    country_name: Uganda
-  Uganda_Adm2_98:
-    iso3c: UGA
-    admin_level: Adm2
-    admin_name: Kitagwenda
-    shapeID: 47994165B73404797657815
-    country_name: Uganda
-  Uganda_Adm2_99:
-    iso3c: UGA
-    admin_level: Adm2
+  UGA.13.2_1_Adm2:
+    GID: UGA.13.2_1
     admin_name: Burahya
-    shapeID: 47994165B30266788778311
+    iso3c: UGA
     country_name: Uganda
+    admin_level: Adm2
+  UGA.13.3_1_Adm2:
+    GID: UGA.13.3_1
+    admin_name: Fort Portal
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.14_1_Adm1:
+    GID: UGA.14_1
+    admin_name: Kaberamaido
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.14.1_1_Adm2:
+    GID: UGA.14.1_1
+    admin_name: Kaberamaido
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.14.2_1_Adm2:
+    GID: UGA.14.2_1
+    admin_name: Kalaki
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.15_1_Adm1:
+    GID: UGA.15_1
+    admin_name: Kalangala
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.15.1_1_Adm2:
+    GID: UGA.15.1_1
+    admin_name: Bujumba
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.15.2_1_Adm2:
+    GID: UGA.15.2_1
+    admin_name: Kyamuswa
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.16_1_Adm1:
+    GID: UGA.16_1
+    admin_name: Kampala
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.16.1_1_Adm2:
+    GID: UGA.16.1_1
+    admin_name: Kampala
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.17_1_Adm1:
+    GID: UGA.17_1
+    admin_name: Kamuli
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.17.1_1_Adm2:
+    GID: UGA.17.1_1
+    admin_name: Budiope
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.17.2_1_Adm2:
+    GID: UGA.17.2_1
+    admin_name: Bugabula
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.17.3_1_Adm2:
+    GID: UGA.17.3_1
+    admin_name: Bulamogi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.17.4_1_Adm2:
+    GID: UGA.17.4_1
+    admin_name: Buzaaya
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.18_1_Adm1:
+    GID: UGA.18_1
+    admin_name: Kamwenge
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.18.1_1_Adm2:
+    GID: UGA.18.1_1
+    admin_name: Kibale
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.18.2_1_Adm2:
+    GID: UGA.18.2_1
+    admin_name: Kitagwenda
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.19_1_Adm1:
+    GID: UGA.19_1
+    admin_name: Kanungu
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.19.1_1_Adm2:
+    GID: UGA.19.1_1
+    admin_name: Kinkiizi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.2_1_Adm1:
+    GID: UGA.2_1
+    admin_name: Apac
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.2.1_1_Adm2:
+    GID: UGA.2.1_1
+    admin_name: Kole
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.2.2_1_Adm2:
+    GID: UGA.2.2_1
+    admin_name: Kwania
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.2.3_1_Adm2:
+    GID: UGA.2.3_1
+    admin_name: Maruzi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.2.4_1_Adm2:
+    GID: UGA.2.4_1
+    admin_name: Oyam
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.20_1_Adm1:
+    GID: UGA.20_1
+    admin_name: Kapchorwa
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.20.1_1_Adm2:
+    GID: UGA.20.1_1
+    admin_name: Kongasis
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.20.2_1_Adm2:
+    GID: UGA.20.2_1
+    admin_name: Kween
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.20.3_1_Adm2:
+    GID: UGA.20.3_1
+    admin_name: Tingey
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.21_1_Adm1:
+    GID: UGA.21_1
+    admin_name: Kasese
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.21.1_1_Adm2:
+    GID: UGA.21.1_1
+    admin_name: Bukonjo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.21.2_1_Adm2:
+    GID: UGA.21.2_1
+    admin_name: Busongora
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.22_1_Adm1:
+    GID: UGA.22_1
+    admin_name: Katakwi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.22.1_1_Adm2:
+    GID: UGA.22.1_1
+    admin_name: Amuria
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.22.2_1_Adm2:
+    GID: UGA.22.2_1
+    admin_name: Kapelebyong
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.22.3_1_Adm2:
+    GID: UGA.22.3_1
+    admin_name: Usuk
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.23_1_Adm1:
+    GID: UGA.23_1
+    admin_name: Kayunga
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.23.1_1_Adm2:
+    GID: UGA.23.1_1
+    admin_name: Bbaale
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.23.2_1_Adm2:
+    GID: UGA.23.2_1
+    admin_name: Ntenjeru
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.24_1_Adm1:
+    GID: UGA.24_1
+    admin_name: Kibale
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.24.1_1_Adm2:
+    GID: UGA.24.1_1
+    admin_name: Bugangaizi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.24.2_1_Adm2:
+    GID: UGA.24.2_1
+    admin_name: Buyaga
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.24.3_1_Adm2:
+    GID: UGA.24.3_1
+    admin_name: Buyanja
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.25_1_Adm1:
+    GID: UGA.25_1
+    admin_name: Kiboga
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.25.1_1_Adm2:
+    GID: UGA.25.1_1
+    admin_name: Kiboga
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.26_1_Adm1:
+    GID: UGA.26_1
+    admin_name: Kisoro
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.26.1_1_Adm2:
+    GID: UGA.26.1_1
+    admin_name: Kisoro
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.27_1_Adm1:
+    GID: UGA.27_1
+    admin_name: Kitgum
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.27.1_1_Adm2:
+    GID: UGA.27.1_1
+    admin_name: Chua
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.27.2_1_Adm2:
+    GID: UGA.27.2_1
+    admin_name: Lamwo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.28_1_Adm1:
+    GID: UGA.28_1
+    admin_name: Kotido
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.28.1_1_Adm2:
+    GID: UGA.28.1_1
+    admin_name: Dodoth
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.28.2_1_Adm2:
+    GID: UGA.28.2_1
+    admin_name: Jie
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.28.3_1_Adm2:
+    GID: UGA.28.3_1
+    admin_name: Labwor
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.29_1_Adm1:
+    GID: UGA.29_1
+    admin_name: Kumi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.29.1_1_Adm2:
+    GID: UGA.29.1_1
+    admin_name: Bukedea
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.29.2_1_Adm2:
+    GID: UGA.29.2_1
+    admin_name: Kumi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.29.3_1_Adm2:
+    GID: UGA.29.3_1
+    admin_name: Ngora
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.3_1_Adm1:
+    GID: UGA.3_1
+    admin_name: Arua
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.3.1_1_Adm2:
+    GID: UGA.3.1_1
+    admin_name: Arua Municipality
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.3.2_1_Adm2:
+    GID: UGA.3.2_1
+    admin_name: Ayivu
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.3.3_1_Adm2:
+    GID: UGA.3.3_1
+    admin_name: Koboko
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.3.4_1_Adm2:
+    GID: UGA.3.4_1
+    admin_name: Madi-Okollo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.3.5_1_Adm2:
+    GID: UGA.3.5_1
+    admin_name: Maracha
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.3.6_1_Adm2:
+    GID: UGA.3.6_1
+    admin_name: Terego
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.3.7_1_Adm2:
+    GID: UGA.3.7_1
+    admin_name: Vurra
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.30_1_Adm1:
+    GID: UGA.30_1
+    admin_name: Kyenjojo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.30.1_1_Adm2:
+    GID: UGA.30.1_1
+    admin_name: Kyaka
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.30.2_1_Adm2:
+    GID: UGA.30.2_1
+    admin_name: Mwenge
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.31_1_Adm1:
+    GID: UGA.31_1
+    admin_name: Lake Albert
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.31.1_1_Adm2:
+    GID: UGA.31.1_1
+    admin_name: Lake Albert
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.32_1_Adm1:
+    GID: UGA.32_1
+    admin_name: Lake Victoria
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.32.1_1_Adm2:
+    GID: UGA.32.1_1
+    admin_name: Lake Victoria
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.33_1_Adm1:
+    GID: UGA.33_1
+    admin_name: Lira
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.33.1_1_Adm2:
+    GID: UGA.33.1_1
+    admin_name: Dokolo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.33.2_1_Adm2:
+    GID: UGA.33.2_1
+    admin_name: Erute
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.33.3_1_Adm2:
+    GID: UGA.33.3_1
+    admin_name: Kyoga
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.33.4_1_Adm2:
+    GID: UGA.33.4_1
+    admin_name: Lira
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.33.5_1_Adm2:
+    GID: UGA.33.5_1
+    admin_name: Moroto
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.33.6_1_Adm2:
+    GID: UGA.33.6_1
+    admin_name: Otuke
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.34_1_Adm1:
+    GID: UGA.34_1
+    admin_name: Luwero
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.34.1_1_Adm2:
+    GID: UGA.34.1_1
+    admin_name: Bamunanika
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.34.2_1_Adm2:
+    GID: UGA.34.2_1
+    admin_name: Katikamu
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.34.3_1_Adm2:
+    GID: UGA.34.3_1
+    admin_name: Nakaseke
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.35_1_Adm1:
+    GID: UGA.35_1
+    admin_name: Masaka
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.35.1_1_Adm2:
+    GID: UGA.35.1_1
+    admin_name: Bukomansimbi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.35.2_1_Adm2:
+    GID: UGA.35.2_1
+    admin_name: Bukoto
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.35.3_1_Adm2:
+    GID: UGA.35.3_1
+    admin_name: Kalungu
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.35.4_1_Adm2:
+    GID: UGA.35.4_1
+    admin_name: Masaka
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.36_1_Adm1:
+    GID: UGA.36_1
+    admin_name: Masindi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.36.1_1_Adm2:
+    GID: UGA.36.1_1
+    admin_name: Un-namedArea
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.36.2_1_Adm2:
+    GID: UGA.36.2_1
+    admin_name: Bujenje
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.36.3_1_Adm2:
+    GID: UGA.36.3_1
+    admin_name: Buruli
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.36.4_1_Adm2:
+    GID: UGA.36.4_1
+    admin_name: Kibanda
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.37_1_Adm1:
+    GID: UGA.37_1
+    admin_name: Mayuge
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.37.1_1_Adm2:
+    GID: UGA.37.1_1
+    admin_name: Bunya
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.38_1_Adm1:
+    GID: UGA.38_1
+    admin_name: Mbale
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.38.1_1_Adm2:
+    GID: UGA.38.1_1
+    admin_name: Bubulo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.38.2_1_Adm2:
+    GID: UGA.38.2_1
+    admin_name: Bungokho
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.38.3_1_Adm2:
+    GID: UGA.38.3_1
+    admin_name: Manjiya
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.38.4_1_Adm2:
+    GID: UGA.38.4_1
+    admin_name: Mbale
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.39_1_Adm1:
+    GID: UGA.39_1
+    admin_name: Mbarara
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.39.1_1_Adm2:
+    GID: UGA.39.1_1
+    admin_name: Bukanga
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.39.2_1_Adm2:
+    GID: UGA.39.2_1
+    admin_name: Ibanda
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.39.3_1_Adm2:
+    GID: UGA.39.3_1
+    admin_name: Isingiro
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.39.4_1_Adm2:
+    GID: UGA.39.4_1
+    admin_name: Kashari
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.39.5_1_Adm2:
+    GID: UGA.39.5_1
+    admin_name: Kazo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.39.6_1_Adm2:
+    GID: UGA.39.6_1
+    admin_name: Mbarara
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.39.7_1_Adm2:
+    GID: UGA.39.7_1
+    admin_name: Nyabushozi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.39.8_1_Adm2:
+    GID: UGA.39.8_1
+    admin_name: Rwampara
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.4_1_Adm1:
+    GID: UGA.4_1
+    admin_name: Bugiri
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.4.1_1_Adm2:
+    GID: UGA.4.1_1
+    admin_name: Bukooli
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.40_1_Adm1:
+    GID: UGA.40_1
+    admin_name: Moroto
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.40.1_1_Adm2:
+    GID: UGA.40.1_1
+    admin_name: Bokora
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.40.2_1_Adm2:
+    GID: UGA.40.2_1
+    admin_name: Matheniko
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.40.3_1_Adm2:
+    GID: UGA.40.3_1
+    admin_name: Moroto
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.41_1_Adm1:
+    GID: UGA.41_1
+    admin_name: Moyo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.41.1_1_Adm2:
+    GID: UGA.41.1_1
+    admin_name: Obongi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.41.2_1_Adm2:
+    GID: UGA.41.2_1
+    admin_name: West Moyo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.42_1_Adm1:
+    GID: UGA.42_1
+    admin_name: Mpigi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.42.1_1_Adm2:
+    GID: UGA.42.1_1
+    admin_name: Butambala
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.42.2_1_Adm2:
+    GID: UGA.42.2_1
+    admin_name: Gomba
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.42.3_1_Adm2:
+    GID: UGA.42.3_1
+    admin_name: Mawokota
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.43_1_Adm1:
+    GID: UGA.43_1
+    admin_name: Mubende
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.43.1_1_Adm2:
+    GID: UGA.43.1_1
+    admin_name: Busujju
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.43.2_1_Adm2:
+    GID: UGA.43.2_1
+    admin_name: Buwekula
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.43.3_1_Adm2:
+    GID: UGA.43.3_1
+    admin_name: Kassanda
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.43.4_1_Adm2:
+    GID: UGA.43.4_1
+    admin_name: Mityana
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.44_1_Adm1:
+    GID: UGA.44_1
+    admin_name: Mukono
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.44.1_1_Adm2:
+    GID: UGA.44.1_1
+    admin_name: Buikwe
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.44.2_1_Adm2:
+    GID: UGA.44.2_1
+    admin_name: Buvuma Islands
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.44.3_1_Adm2:
+    GID: UGA.44.3_1
+    admin_name: Mukono
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.44.4_1_Adm2:
+    GID: UGA.44.4_1
+    admin_name: Nakifuma
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.45_1_Adm1:
+    GID: UGA.45_1
+    admin_name: Nakapiripirit
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.45.1_1_Adm2:
+    GID: UGA.45.1_1
+    admin_name: Chekwii
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.45.2_1_Adm2:
+    GID: UGA.45.2_1
+    admin_name: Pian
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.45.3_1_Adm2:
+    GID: UGA.45.3_1
+    admin_name: Pokot
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.46_1_Adm1:
+    GID: UGA.46_1
+    admin_name: Nakasongola
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.46.1_1_Adm2:
+    GID: UGA.46.1_1
+    admin_name: Buruli
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.47_1_Adm1:
+    GID: UGA.47_1
+    admin_name: Nebbi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.47.1_1_Adm2:
+    GID: UGA.47.1_1
+    admin_name: Jonam
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.47.2_1_Adm2:
+    GID: UGA.47.2_1
+    admin_name: Okoro
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.47.3_1_Adm2:
+    GID: UGA.47.3_1
+    admin_name: Padyere
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.48_1_Adm1:
+    GID: UGA.48_1
+    admin_name: Ntungamo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.48.1_1_Adm2:
+    GID: UGA.48.1_1
+    admin_name: Kajara
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.48.2_1_Adm2:
+    GID: UGA.48.2_1
+    admin_name: Ruhaama
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.48.3_1_Adm2:
+    GID: UGA.48.3_1
+    admin_name: Rushenyi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.49_1_Adm1:
+    GID: UGA.49_1
+    admin_name: Pader
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.49.1_1_Adm2:
+    GID: UGA.49.1_1
+    admin_name: Agago
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.49.2_1_Adm2:
+    GID: UGA.49.2_1
+    admin_name: Aruu
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.5_1_Adm1:
+    GID: UGA.5_1
+    admin_name: Bundibugyo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.5.1_1_Adm2:
+    GID: UGA.5.1_1
+    admin_name: Bwamba
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.5.2_1_Adm2:
+    GID: UGA.5.2_1
+    admin_name: Ntoroko
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.50_1_Adm1:
+    GID: UGA.50_1
+    admin_name: Pallisa
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.50.1_1_Adm2:
+    GID: UGA.50.1_1
+    admin_name: Budaka
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.50.2_1_Adm2:
+    GID: UGA.50.2_1
+    admin_name: Butebo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.50.3_1_Adm2:
+    GID: UGA.50.3_1
+    admin_name: Kibuku
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.50.4_1_Adm2:
+    GID: UGA.50.4_1
+    admin_name: Pallisa
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.51_1_Adm1:
+    GID: UGA.51_1
+    admin_name: Rakai
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.51.1_1_Adm2:
+    GID: UGA.51.1_1
+    admin_name: Kabula
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.51.2_1_Adm2:
+    GID: UGA.51.2_1
+    admin_name: Kakuuto
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.51.3_1_Adm2:
+    GID: UGA.51.3_1
+    admin_name: Kooki
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.51.4_1_Adm2:
+    GID: UGA.51.4_1
+    admin_name: Kyotera
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.52_1_Adm1:
+    GID: UGA.52_1
+    admin_name: Rukungiri
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.52.1_1_Adm2:
+    GID: UGA.52.1_1
+    admin_name: Bufumbira
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.52.2_1_Adm2:
+    GID: UGA.52.2_1
+    admin_name: Rubabo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.53_1_Adm1:
+    GID: UGA.53_1
+    admin_name: Sembabule
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.53.1_1_Adm2:
+    GID: UGA.53.1_1
+    admin_name: Lwemiyaga
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.53.2_1_Adm2:
+    GID: UGA.53.2_1
+    admin_name: Mawogola
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.54_1_Adm1:
+    GID: UGA.54_1
+    admin_name: Sironko
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.54.1_1_Adm2:
+    GID: UGA.54.1_1
+    admin_name: Budadiri
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.54.2_1_Adm2:
+    GID: UGA.54.2_1
+    admin_name: Bulambuli
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.54.3_1_Adm2:
+    GID: UGA.54.3_1
+    admin_name: Mt. Elgon Np
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.55_1_Adm1:
+    GID: UGA.55_1
+    admin_name: Soroti
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.55.1_1_Adm2:
+    GID: UGA.55.1_1
+    admin_name: Kasilo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.55.2_1_Adm2:
+    GID: UGA.55.2_1
+    admin_name: Serere
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.55.3_1_Adm2:
+    GID: UGA.55.3_1
+    admin_name: Soroti (Municipality)
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.55.4_1_Adm2:
+    GID: UGA.55.4_1
+    admin_name: Soroti
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.56_1_Adm1:
+    GID: UGA.56_1
+    admin_name: Tororo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.56.1_1_Adm2:
+    GID: UGA.56.1_1
+    admin_name: Bunyole
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.56.2_1_Adm2:
+    GID: UGA.56.2_1
+    admin_name: Kisoko (West Budama)
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.56.3_1_Adm2:
+    GID: UGA.56.3_1
+    admin_name: Tororo (Municipality)
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.56.4_1_Adm2:
+    GID: UGA.56.4_1
+    admin_name: Tororo
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.57_1_Adm1:
+    GID: UGA.57_1
+    admin_name: Wakiso
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.57.1_1_Adm2:
+    GID: UGA.57.1_1
+    admin_name: Busiiro
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.57.2_1_Adm2:
+    GID: UGA.57.2_1
+    admin_name: Entebbe
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.57.3_1_Adm2:
+    GID: UGA.57.3_1
+    admin_name: Jinja
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.58_1_Adm1:
+    GID: UGA.58_1
+    admin_name: Yumbe
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.58.1_1_Adm2:
+    GID: UGA.58.1_1
+    admin_name: Aringa
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.6_1_Adm1:
+    GID: UGA.6_1
+    admin_name: Bushenyi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.6.1_1_Adm2:
+    GID: UGA.6.1_1
+    admin_name: Buhweju
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.6.2_1_Adm2:
+    GID: UGA.6.2_1
+    admin_name: Bunyaruguru
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.6.3_1_Adm2:
+    GID: UGA.6.3_1
+    admin_name: Igara
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.6.4_1_Adm2:
+    GID: UGA.6.4_1
+    admin_name: Ruhinda
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.6.5_1_Adm2:
+    GID: UGA.6.5_1
+    admin_name: Sheema
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.7_1_Adm1:
+    GID: UGA.7_1
+    admin_name: Busia
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.7.1_1_Adm2:
+    GID: UGA.7.1_1
+    admin_name: Samia-Bugwe
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.8_1_Adm1:
+    GID: UGA.8_1
+    admin_name: Gulu
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.8.1_1_Adm2:
+    GID: UGA.8.1_1
+    admin_name: Aswa
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.8.2_1_Adm2:
+    GID: UGA.8.2_1
+    admin_name: Gulu
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.8.3_1_Adm2:
+    GID: UGA.8.3_1
+    admin_name: Kilak
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.8.4_1_Adm2:
+    GID: UGA.8.4_1
+    admin_name: Nwoya
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.8.5_1_Adm2:
+    GID: UGA.8.5_1
+    admin_name: Omoro
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.9_1_Adm1:
+    GID: UGA.9_1
+    admin_name: Hoima
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm1
+  UGA.9.1_1_Adm2:
+    GID: UGA.9.1_1
+    admin_name: Bugahya
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2
+  UGA.9.2_1_Adm2:
+    GID: UGA.9.2_1
+    admin_name: Buhaguzi
+    iso3c: UGA
+    country_name: Uganda
+    admin_level: Adm2

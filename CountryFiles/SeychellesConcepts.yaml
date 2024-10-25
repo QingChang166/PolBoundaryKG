@@ -1,211 +1,163 @@
 concepts:
-  Seychelles_Adm0:
-    iso3c: SYC
-    admin_level: Adm0
+  SYC.0_Adm0:
+    GID: SYC
     admin_name: Seychelles
-    shapeID: 56145704B89763856057018
-    country_name: Seychelles
-  Seychelles_Adm1_1:
     iso3c: SYC
-    admin_level: Adm1
-    admin_name: OuterIsla
-    shapeID: 4304713B25967812410873
     country_name: Seychelles
-  Seychelles_Adm1_10:
+    admin_level: Adm0
+  SYC.1_1_Adm1:
+    GID: SYC.1_1
+    admin_name: Anse aux Pins
     iso3c: SYC
-    admin_level: Adm1
-    admin_name: BaieLazar
-    shapeID: 4304713B38530476923333
     country_name: Seychelles
-  Seychelles_Adm1_11:
-    iso3c: SYC
     admin_level: Adm1
-    admin_name: BeauVallo
-    shapeID: 4304713B88598061182448
+  SYC.10_1_Adm1:
+    GID: SYC.10_1
+    admin_name: Belombre
+    iso3c: SYC
     country_name: Seychelles
-  Seychelles_Adm1_12:
-    iso3c: SYC
     admin_level: Adm1
-    admin_name: BelAir
-    shapeID: 4304713B54769404218422
-    country_name: Seychelles
-  Seychelles_Adm1_13:
-    iso3c: SYC
-    admin_level: Adm1
-    admin_name: BelOmbre
-    shapeID: 4304713B26716977032117
-    country_name: Seychelles
-  Seychelles_Adm1_14:
-    iso3c: SYC
-    admin_level: Adm1
+  SYC.11_1_Adm1:
+    GID: SYC.11_1
     admin_name: Cascade
-    shapeID: 4304713B24501722208733
-    country_name: Seychelles
-  Seychelles_Adm1_15:
     iso3c: SYC
+    country_name: Seychelles
     admin_level: Adm1
+  SYC.12_1_Adm1:
+    GID: SYC.12_1
+    admin_name: English River
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.13_1_Adm1:
+    GID: SYC.13_1
     admin_name: Glacis
-    shapeID: 4304713B70505016322555
-    country_name: Seychelles
-  Seychelles_Adm1_16:
     iso3c: SYC
-    admin_level: Adm1
-    admin_name: Grand'Anse
-    shapeID: 4304713B44273626822256
     country_name: Seychelles
-  Seychelles_Adm1_17:
-    iso3c: SYC
     admin_level: Adm1
-    admin_name: LaRiviÃ¨re
-    shapeID: 4304713B99498664822858
+  SYC.14_1_Adm1:
+    GID: SYC.14_1
+    admin_name: Grand' Anse
+    iso3c: SYC
     country_name: Seychelles
-  Seychelles_Adm1_18:
-    iso3c: SYC
     admin_level: Adm1
-    admin_name: LesMamell
-    shapeID: 4304713B85899211000067
+  SYC.15_1_Adm1:
+    GID: SYC.15_1
+    admin_name: Grand'Anse Praslin
+    iso3c: SYC
     country_name: Seychelles
-  Seychelles_Adm1_19:
-    iso3c: SYC
     admin_level: Adm1
-    admin_name: MontBuxto
-    shapeID: 4304713B48375430986897
+  SYC.16_1_Adm1:
+    GID: SYC.16_1
+    admin_name: La Digue and Inner Islands
+    iso3c: SYC
     country_name: Seychelles
-  Seychelles_Adm1_2:
-    iso3c: SYC
     admin_level: Adm1
-    admin_name: BaieSaint
-    shapeID: 4304713B68430641477456
+  SYC.17_1_Adm1:
+    GID: SYC.17_1
+    admin_name: Les Mamelles
+    iso3c: SYC
     country_name: Seychelles
-  Seychelles_Adm1_20:
-    iso3c: SYC
     admin_level: Adm1
-    admin_name: MontFleur
-    shapeID: 4304713B90252608075096
+  SYC.18_1_Adm1:
+    GID: SYC.18_1
+    admin_name: Mont Buxton
+    iso3c: SYC
     country_name: Seychelles
-  Seychelles_Adm1_21:
-    iso3c: SYC
     admin_level: Adm1
+  SYC.19_1_Adm1:
+    GID: SYC.19_1
+    admin_name: Mont Fleuri
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.2_1_Adm1:
+    GID: SYC.2_1
+    admin_name: Anse Boileau
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.20_1_Adm1:
+    GID: SYC.20_1
+    admin_name: Outer Islands
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.21_1_Adm1:
+    GID: SYC.21_1
     admin_name: Plaisance
-    shapeID: 4304713B73485441343177
-    country_name: Seychelles
-  Seychelles_Adm1_22:
     iso3c: SYC
-    admin_level: Adm1
-    admin_name: PointeLa
-    shapeID: 4304713B83277674209167
     country_name: Seychelles
-  Seychelles_Adm1_23:
-    iso3c: SYC
     admin_level: Adm1
-    admin_name: PortGlaud
-    shapeID: 4304713B13397871657541
+  SYC.22_1_Adm1:
+    GID: SYC.22_1
+    admin_name: Pointe La Rue
+    iso3c: SYC
     country_name: Seychelles
-  Seychelles_Adm1_24:
-    iso3c: SYC
     admin_level: Adm1
-    admin_name: RocheCaÃ¯m
-    shapeID: 4304713B64732243105598
+  SYC.23_1_Adm1:
+    GID: SYC.23_1
+    admin_name: Port Glaud
+    iso3c: SYC
     country_name: Seychelles
-  Seychelles_Adm1_25:
-    iso3c: SYC
     admin_level: Adm1
-    admin_name: SaintLoui
-    shapeID: 4304713B99490362371976
+  SYC.24_1_Adm1:
+    GID: SYC.24_1
+    admin_name: Roche Caïman
+    iso3c: SYC
     country_name: Seychelles
-  Seychelles_Adm1_26:
-    iso3c: SYC
     admin_level: Adm1
+  SYC.25_1_Adm1:
+    GID: SYC.25_1
+    admin_name: Saint Louis
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.26_1_Adm1:
+    GID: SYC.26_1
     admin_name: Takamaka
-    shapeID: 4304713B51488395510296
-    country_name: Seychelles
-  Seychelles_Adm1_3:
     iso3c: SYC
+    country_name: Seychelles
     admin_level: Adm1
-    admin_name: GrandAnse
-    shapeID: 4304713B30823539589951
-    country_name: Seychelles
-  Seychelles_Adm1_4:
+  SYC.3_1_Adm1:
+    GID: SYC.3_1
+    admin_name: Anse Étoile
     iso3c: SYC
+    country_name: Seychelles
     admin_level: Adm1
-    admin_name: LaDiguea
-    shapeID: 4304713B61373702137462
-    country_name: Seychelles
-  Seychelles_Adm1_5:
+  SYC.4_1_Adm1:
+    GID: SYC.4_1
+    admin_name: Anse Royale
     iso3c: SYC
+    country_name: Seychelles
     admin_level: Adm1
-    admin_name: AnseAuxP
-    shapeID: 4304713B37030743125890
-    country_name: Seychelles
-  Seychelles_Adm1_6:
+  SYC.5_1_Adm1:
+    GID: SYC.5_1
+    admin_name: Au Cap
     iso3c: SYC
+    country_name: Seychelles
     admin_level: Adm1
-    admin_name: AnseBoile
-    shapeID: 4304713B33324691861484
-    country_name: Seychelles
-  Seychelles_Adm1_7:
+  SYC.6_1_Adm1:
+    GID: SYC.6_1
+    admin_name: Baie Lazare
     iso3c: SYC
+    country_name: Seychelles
     admin_level: Adm1
-    admin_name: AnseEtoil
-    shapeID: 4304713B87843643892528
-    country_name: Seychelles
-  Seychelles_Adm1_8:
+  SYC.7_1_Adm1:
+    GID: SYC.7_1
+    admin_name: Baie Sainte Anne
     iso3c: SYC
+    country_name: Seychelles
     admin_level: Adm1
-    admin_name: AnseRoyal
-    shapeID: 4304713B89376585633127
-    country_name: Seychelles
-  Seychelles_Adm1_9:
+  SYC.8_1_Adm1:
+    GID: SYC.8_1
+    admin_name: Beau Vallon
     iso3c: SYC
+    country_name: Seychelles
     admin_level: Adm1
-    admin_name: AuCap
-    shapeID: 4304713B21107318630465
-    country_name: Seychelles
-  Seychelles_Adm2_1:
+  SYC.9_1_Adm1:
+    GID: SYC.9_1
+    admin_name: Bel Air
     iso3c: SYC
-    admin_level: Adm2
-    admin_name: LaDigue
-    shapeID: 34574756B18865708954128
     country_name: Seychelles
-  Seychelles_Adm2_2:
-    iso3c: SYC
-    admin_level: Adm2
-    admin_name: Central1Mahe
-    shapeID: 34574756B27990728867894
-    country_name: Seychelles
-  Seychelles_Adm2_3:
-    iso3c: SYC
-    admin_level: Adm2
-    admin_name: Central2Mahe
-    shapeID: 34574756B38092183622343
-    country_name: Seychelles
-  Seychelles_Adm2_4:
-    iso3c: SYC
-    admin_level: Adm2
-    admin_name: EastMahe
-    shapeID: 34574756B49819614716360
-    country_name: Seychelles
-  Seychelles_Adm2_5:
-    iso3c: SYC
-    admin_level: Adm2
-    admin_name: NorthMahe
-    shapeID: 34574756B41664711494427
-    country_name: Seychelles
-  Seychelles_Adm2_6:
-    iso3c: SYC
-    admin_level: Adm2
-    admin_name: WestMahe
-    shapeID: 34574756B14018612202061
-    country_name: Seychelles
-  Seychelles_Adm2_7:
-    iso3c: SYC
-    admin_level: Adm2
-    admin_name: OtherIslands
-    shapeID: 34574756B54247629098598
-    country_name: Seychelles
-  Seychelles_Adm2_8:
-    iso3c: SYC
-    admin_level: Adm2
-    admin_name: Praslin
-    shapeID: 34574756B43978553392406
-    country_name: Seychelles
+    admin_level: Adm1

@@ -1,91 +1,91 @@
 concepts:
-  Belgium_Adm0:
-    iso3c: BEL
-    admin_level: Adm0
+  BEL.0_Adm0:
+    GID: BEL
     admin_name: Belgium
-    shapeID: 47090850B60186614447007
-    country_name: Belgium
-  Belgium_Adm1_1:
     iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm0
+  BEL.1_1_Adm1:
+    GID: BEL.1_1
+    admin_name: Bruxelles
+    iso3c: BEL
+    country_name: Belgium
     admin_level: Adm1
-    admin_name: BrusselsHoofdstedelijk
-    shapeID: 27649430B17719898407236
-    country_name: Belgium
-  Belgium_Adm1_2:
+  BEL.1.1_1_Adm2:
+    GID: BEL.1.1_1
+    admin_name: Bruxelles
     iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.2_1_Adm1:
+    GID: BEL.2_1
+    admin_name: Vlaanderen
+    iso3c: BEL
+    country_name: Belgium
     admin_level: Adm1
-    admin_name: VlaamsGewest
-    shapeID: 27649430B69989386836371
-    country_name: Belgium
-  Belgium_Adm1_3:
-    iso3c: BEL
-    admin_level: Adm1
-    admin_name: WallonneGewest
-    shapeID: 27649430B38670918582344
-    country_name: Belgium
-  Belgium_Adm2_1:
-    iso3c: BEL
-    admin_level: Adm2
-    admin_name: Brussels
-    shapeID: 21686613B18913386279163
-    country_name: Belgium
-  Belgium_Adm2_10:
-    iso3c: BEL
-    admin_level: Adm2
-    admin_name: Waals-Brabant
-    shapeID: 21686613B69139919320544
-    country_name: Belgium
-  Belgium_Adm2_11:
-    iso3c: BEL
-    admin_level: Adm2
-    admin_name: West-Vlaanderen
-    shapeID: 21686613B39448605328026
-    country_name: Belgium
-  Belgium_Adm2_2:
-    iso3c: BEL
-    admin_level: Adm2
+  BEL.2.1_1_Adm2:
+    GID: BEL.2.1_1
     admin_name: Antwerpen
-    shapeID: 21686613B2396966306431
-    country_name: Belgium
-  Belgium_Adm2_3:
     iso3c: BEL
-    admin_level: Adm2
-    admin_name: Henegouwen
-    shapeID: 21686613B73119179556728
     country_name: Belgium
-  Belgium_Adm2_4:
-    iso3c: BEL
     admin_level: Adm2
+  BEL.2.2_1_Adm2:
+    GID: BEL.2.2_1
     admin_name: Limburg
-    shapeID: 21686613B67770072661487
-    country_name: Belgium
-  Belgium_Adm2_5:
     iso3c: BEL
-    admin_level: Adm2
-    admin_name: Luik
-    shapeID: 21686613B30775418393346
     country_name: Belgium
-  Belgium_Adm2_6:
-    iso3c: BEL
     admin_level: Adm2
-    admin_name: Luxemburg
-    shapeID: 21686613B13309387984844
-    country_name: Belgium
-  Belgium_Adm2_7:
-    iso3c: BEL
-    admin_level: Adm2
-    admin_name: Namen
-    shapeID: 21686613B39201499637991
-    country_name: Belgium
-  Belgium_Adm2_8:
-    iso3c: BEL
-    admin_level: Adm2
+  BEL.2.3_1_Adm2:
+    GID: BEL.2.3_1
     admin_name: Oost-Vlaanderen
-    shapeID: 21686613B82996872575786
-    country_name: Belgium
-  Belgium_Adm2_9:
     iso3c: BEL
-    admin_level: Adm2
-    admin_name: Vlaams-Brabant
-    shapeID: 21686613B83431002442680
     country_name: Belgium
+    admin_level: Adm2
+  BEL.2.4_1_Adm2:
+    GID: BEL.2.4_1
+    admin_name: Vlaams Brabant
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.2.5_1_Adm2:
+    GID: BEL.2.5_1
+    admin_name: West-Vlaanderen
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.3_1_Adm1:
+    GID: BEL.3_1
+    admin_name: Wallonie
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm1
+  BEL.3.1_1_Adm2:
+    GID: BEL.3.1_1
+    admin_name: Brabant Wallon
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.3.2_1_Adm2:
+    GID: BEL.3.2_1
+    admin_name: Hainaut
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.3.3_1_Adm2:
+    GID: BEL.3.3_1
+    admin_name: Liège
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.3.4_1_Adm2:
+    GID: BEL.3.4_1
+    admin_name: Luxembourg
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.3.5_1_Adm2:
+    GID: BEL.3.5_1
+    admin_name: Namur
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2

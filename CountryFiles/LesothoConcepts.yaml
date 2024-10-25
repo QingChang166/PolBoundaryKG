@@ -1,535 +1,67 @@
 concepts:
-  Lesotho_Adm0:
-    iso3c: LSO
-    admin_level: Adm0
+  LSO.0_Adm0:
+    GID: LSO
     admin_name: Lesotho
-    shapeID: 30824560B44233711400612
-    country_name: Lesotho
-  Lesotho_Adm1_1:
     iso3c: LSO
+    country_name: Lesotho
+    admin_level: Adm0
+  LSO.1_1_Adm1:
+    GID: LSO.1_1
+    admin_name: Berea
+    iso3c: LSO
+    country_name: Lesotho
     admin_level: Adm1
-    admin_name: MokhotlongDistrict
-    shapeID: 63558799B62052207870559
-    country_name: Lesotho
-  Lesotho_Adm1_10:
-    iso3c: LSO
-    admin_level: Adm1
-    admin_name: LeribeDistrict
-    shapeID: 63558799B58245420334254
-    country_name: Lesotho
-  Lesotho_Adm1_2:
-    iso3c: LSO
-    admin_level: Adm1
-    admin_name: MaseruDistrict
-    shapeID: 63558799B83139219064193
-    country_name: Lesotho
-  Lesotho_Adm1_3:
-    iso3c: LSO
-    admin_level: Adm1
-    admin_name: Butha-ButheDistrict
-    shapeID: 63558799B80267127102175
-    country_name: Lesotho
-  Lesotho_Adm1_4:
-    iso3c: LSO
-    admin_level: Adm1
-    admin_name: Mohale'sHoekDistrict
-    shapeID: 63558799B8829159228001
-    country_name: Lesotho
-  Lesotho_Adm1_5:
-    iso3c: LSO
-    admin_level: Adm1
-    admin_name: MafetengDistrict
-    shapeID: 63558799B33254441338778
-    country_name: Lesotho
-  Lesotho_Adm1_6:
-    iso3c: LSO
-    admin_level: Adm1
-    admin_name: QuthingDistrict
-    shapeID: 63558799B90026421394578
-    country_name: Lesotho
-  Lesotho_Adm1_7:
-    iso3c: LSO
-    admin_level: Adm1
-    admin_name: BereaDistrict
-    shapeID: 63558799B64035332832072
-    country_name: Lesotho
-  Lesotho_Adm1_8:
-    iso3c: LSO
-    admin_level: Adm1
-    admin_name: Thaba-TsekaDistrict
-    shapeID: 63558799B97764260128978
-    country_name: Lesotho
-  Lesotho_Adm1_9:
-    iso3c: LSO
-    admin_level: Adm1
-    admin_name: Qacha'sNekDistrict
-    shapeID: 63558799B57972026302791
-    country_name: Lesotho
-  Lesotho_Adm2_1:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Mjanyane
-    shapeID: 5366337B93918121901392
-    country_name: Lesotho
-  Lesotho_Adm2_10:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Thaba-Mokhele
-    shapeID: 5366337B93418008192528
-    country_name: Lesotho
-  Lesotho_Adm2_11:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Siloe
-    shapeID: 5366337B49038686470651
-    country_name: Lesotho
-  Lesotho_Adm2_12:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Qhoasing
-    shapeID: 5366337B8464119840521
-    country_name: Lesotho
-  Lesotho_Adm2_13:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Makoabating
-    shapeID: 5366337B10709831324049
-    country_name: Lesotho
-  Lesotho_Adm2_14:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Senqunyane
-    shapeID: 5366337B33484632256232
-    country_name: Lesotho
-  Lesotho_Adm2_15:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Ntsupe
-    shapeID: 5366337B15703644997437
-    country_name: Lesotho
-  Lesotho_Adm2_16:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Tsoelikana
-    shapeID: 5366337B78317491468351
-    country_name: Lesotho
-  Lesotho_Adm2_17:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Ramoetsana
-    shapeID: 5366337B15591495914188
-    country_name: Lesotho
-  Lesotho_Adm2_18:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Tsana-Talana
-    shapeID: 5366337B43460203285745
-    country_name: Lesotho
-  Lesotho_Adm2_19:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Lehlakaneng
-    shapeID: 5366337B94978153293499
-    country_name: Lesotho
-  Lesotho_Adm2_2:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Qomoqomong
-    shapeID: 5366337B91724059499872
-    country_name: Lesotho
-  Lesotho_Adm2_20:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Qibing
-    shapeID: 5366337B9328437172826
-    country_name: Lesotho
-  Lesotho_Adm2_21:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Makhoalipana
-    shapeID: 5366337B32036214751587
-    country_name: Lesotho
-  Lesotho_Adm2_22:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Litsoetse
-    shapeID: 5366337B64574994028715
-    country_name: Lesotho
-  Lesotho_Adm2_23:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Mamants'o
-    shapeID: 5366337B49454872209470
-    country_name: Lesotho
-  Lesotho_Adm2_24:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Metsi-Maholo
-    shapeID: 5366337B55767639194071
-    country_name: Lesotho
-  Lesotho_Adm2_25:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Linakeng
-    shapeID: 5366337B53729511602766
-    country_name: Lesotho
-  Lesotho_Adm2_26:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Kubake
-    shapeID: 5366337B67565393962303
-    country_name: Lesotho
-  Lesotho_Adm2_27:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Makhoarane
-    shapeID: 5366337B32255205566264
-    country_name: Lesotho
-  Lesotho_Adm2_28:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Khutlo-se-Metsi
-    shapeID: 5366337B67147005930942
-    country_name: Lesotho
-  Lesotho_Adm2_29:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Manonyane
-    shapeID: 5366337B83171462701560
-    country_name: Lesotho
-  Lesotho_Adm2_3:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Tosing
-    shapeID: 5366337B57402845150405
-    country_name: Lesotho
-  Lesotho_Adm2_30:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Mohlakeng
-    shapeID: 5366337B47747757162469
-    country_name: Lesotho
-  Lesotho_Adm2_31:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Thota-ea-Moli
-    shapeID: 5366337B11591763594047
-    country_name: Lesotho
-  Lesotho_Adm2_32:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Lilala
-    shapeID: 5366337B93833812873267
-    country_name: Lesotho
-  Lesotho_Adm2_33:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Menoaneng
-    shapeID: 5366337B74637186434694
-    country_name: Lesotho
-  Lesotho_Adm2_34:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Qiloane
-    shapeID: 5366337B33510041242454
-    country_name: Lesotho
-  Lesotho_Adm2_35:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Ratau
-    shapeID: 5366337B91346461785811
-    country_name: Lesotho
-  Lesotho_Adm2_36:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Likolobeng
-    shapeID: 5366337B98429078950414
-    country_name: Lesotho
-  Lesotho_Adm2_37:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Bokong
-    shapeID: 5366337B35229058377929
-    country_name: Lesotho
-  Lesotho_Adm2_38:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Kanana
-    shapeID: 5366337B51375862346998
-    country_name: Lesotho
-  Lesotho_Adm2_39:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Tebe-Tebe
-    shapeID: 5366337B30705161784886
-    country_name: Lesotho
-  Lesotho_Adm2_4:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Khoelenya
-    shapeID: 5366337B9644670448784
-    country_name: Lesotho
-  Lesotho_Adm2_40:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Motanasela
-    shapeID: 5366337B76858512274815
-    country_name: Lesotho
-  Lesotho_Adm2_41:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Tenesolo
-    shapeID: 5366337B90416114409115
-    country_name: Lesotho
-  Lesotho_Adm2_42:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Sanqebethu
-    shapeID: 5366337B9113351497763
-    country_name: Lesotho
-  Lesotho_Adm2_43:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Senekane
-    shapeID: 5366337B41059399300258
-    country_name: Lesotho
-  Lesotho_Adm2_44:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Makeoana
-    shapeID: 5366337B60128688215612
-    country_name: Lesotho
-  Lesotho_Adm2_45:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Phuthiatsana
-    shapeID: 5366337B52577174059761
-    country_name: Lesotho
-  Lesotho_Adm2_46:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Mapoteng
-    shapeID: 5366337B76101580531091
-    country_name: Lesotho
-  Lesotho_Adm2_47:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Tsuili-Tsuili
-    shapeID: 5366337B67330505907526
-    country_name: Lesotho
-  Lesotho_Adm2_48:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Kueneng
-    shapeID: 5366337B11149165517433
-    country_name: Lesotho
-  Lesotho_Adm2_49:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Bolahla
-    shapeID: 5366337B26434863829569
-    country_name: Lesotho
-  Lesotho_Adm2_5:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Lithipeng
-    shapeID: 5366337B6317633557829
-    country_name: Lesotho
-  Lesotho_Adm2_50:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Matsoku
-    shapeID: 5366337B96273842849421
-    country_name: Lesotho
-  Lesotho_Adm2_51:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Hleoheng
-    shapeID: 5366337B95493361127464
-    country_name: Lesotho
-  Lesotho_Adm2_52:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Manka
-    shapeID: 5366337B27297723813
-    country_name: Lesotho
-  Lesotho_Adm2_53:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: '''Maoa-Mafubelu'
-    shapeID: 5366337B41194073686106
-    country_name: Lesotho
-  Lesotho_Adm2_54:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Ramapepe
-    shapeID: 5366337B9822317619474
-    country_name: Lesotho
-  Lesotho_Adm2_55:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Litjotjela
-    shapeID: 5366337B63854375495217
-    country_name: Lesotho
-  Lesotho_Adm2_56:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Menkhoaneng
-    shapeID: 5366337B76816657583233
-    country_name: Lesotho
-  Lesotho_Adm2_57:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Mphokojoana
-    shapeID: 5366337B60583276922456
-    country_name: Lesotho
-  Lesotho_Adm2_58:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Seate
-    shapeID: 5366337B91839727568065
-    country_name: Lesotho
-  Lesotho_Adm2_59:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Sephokong
-    shapeID: 5366337B15377139877013
-    country_name: Lesotho
-  Lesotho_Adm2_6:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Telle
-    shapeID: 5366337B55047013089331
-    country_name: Lesotho
-  Lesotho_Adm2_60:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Maisa-Phoka
-    shapeID: 5366337B86145787410070
-    country_name: Lesotho
-  Lesotho_Adm2_61:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Tsa-le-Moleka
-    shapeID: 5366337B25108724147301
-    country_name: Lesotho
-  Lesotho_Adm2_62:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Nqoe
-    shapeID: 5366337B84603329335542
-    country_name: Lesotho
-  Lesotho_Adm2_63:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Likila
-    shapeID: 5366337B33433866284044
-    country_name: Lesotho
-  Lesotho_Adm2_64:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Ngoajane
-    shapeID: 5366337B97344543067917
-    country_name: Lesotho
-  Lesotho_Adm2_65:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Quthing
-    shapeID: 5366337B136764020744
-    country_name: Lesotho
-  Lesotho_Adm2_66:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Mohale'sHoek
-    shapeID: 5366337B50833634565448
-    country_name: Lesotho
-  Lesotho_Adm2_67:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Qacha'sNek
-    shapeID: 5366337B29714874400852
-    country_name: Lesotho
-  Lesotho_Adm2_68:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Semonkong
-    shapeID: 5366337B2664328548096
-    country_name: Lesotho
-  Lesotho_Adm2_69:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Mafeteng
-    shapeID: 5366337B69820143482286
-    country_name: Lesotho
-  Lesotho_Adm2_7:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Mphaki
-    shapeID: 5366337B73026559585968
-    country_name: Lesotho
-  Lesotho_Adm2_70:
-    iso3c: LSO
-    admin_level: Adm2
+  LSO.10_1_Adm1:
+    GID: LSO.10_1
     admin_name: Thaba-Tseka
-    shapeID: 5366337B12676471094494
-    country_name: Lesotho
-  Lesotho_Adm2_71:
     iso3c: LSO
-    admin_level: Adm2
-    admin_name: Maseru(MaseruDistrict)
-    shapeID: 5366337B82586937750220
     country_name: Lesotho
-  Lesotho_Adm2_72:
+    admin_level: Adm1
+  LSO.2_1_Adm1:
+    GID: LSO.2_1
+    admin_name: Butha-Buthe
     iso3c: LSO
-    admin_level: Adm2
-    admin_name: Mokhotlong
-    shapeID: 5366337B57238161912633
     country_name: Lesotho
-  Lesotho_Adm2_73:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Maseru(BereaDistict)
-    shapeID: 5366337B16311168562684
-    country_name: Lesotho
-  Lesotho_Adm2_74:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Tayateyaneng
-    shapeID: 5366337B60059477935755
-    country_name: Lesotho
-  Lesotho_Adm2_75:
-    iso3c: LSO
-    admin_level: Adm2
-    admin_name: Maputsoe
-    shapeID: 5366337B94933282431909
-    country_name: Lesotho
-  Lesotho_Adm2_76:
-    iso3c: LSO
-    admin_level: Adm2
+    admin_level: Adm1
+  LSO.3_1_Adm1:
+    GID: LSO.3_1
     admin_name: Leribe
-    shapeID: 5366337B97368011547382
-    country_name: Lesotho
-  Lesotho_Adm2_77:
     iso3c: LSO
-    admin_level: Adm2
-    admin_name: Butha-Buthe(LeribeDistrict)
-    shapeID: 5366337B16917796092700
     country_name: Lesotho
-  Lesotho_Adm2_78:
+    admin_level: Adm1
+  LSO.4_1_Adm1:
+    GID: LSO.4_1
+    admin_name: Mafeteng
     iso3c: LSO
-    admin_level: Adm2
-    admin_name: Butha-Buthe(Butha-ButheDistrict)
-    shapeID: 5366337B51987065811788
     country_name: Lesotho
-  Lesotho_Adm2_8:
+    admin_level: Adm1
+  LSO.5_1_Adm1:
+    GID: LSO.5_1
+    admin_name: Maseru
     iso3c: LSO
-    admin_level: Adm2
-    admin_name: Mashaleng
-    shapeID: 5366337B32794114479913
     country_name: Lesotho
-  Lesotho_Adm2_9:
+    admin_level: Adm1
+  LSO.6_1_Adm1:
+    GID: LSO.6_1
+    admin_name: Mohale's Hoek
     iso3c: LSO
-    admin_level: Adm2
-    admin_name: Qanya
-    shapeID: 5366337B93749016515077
     country_name: Lesotho
+    admin_level: Adm1
+  LSO.7_1_Adm1:
+    GID: LSO.7_1
+    admin_name: Mokhotlong
+    iso3c: LSO
+    country_name: Lesotho
+    admin_level: Adm1
+  LSO.8_1_Adm1:
+    GID: LSO.8_1
+    admin_name: Qacha's Nek
+    iso3c: LSO
+    country_name: Lesotho
+    admin_level: Adm1
+  LSO.9_1_Adm1:
+    GID: LSO.9_1
+    admin_name: Quthing
+    iso3c: LSO
+    country_name: Lesotho
+    admin_level: Adm1

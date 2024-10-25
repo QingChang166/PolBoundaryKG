@@ -1,331 +1,2521 @@
 concepts:
-  Germany_Adm0:
+  DEU.0_Adm0:
+    GID: DEU
+    admin_name: Germany
     iso3c: DEU
+    country_name: Germany
     admin_level: Adm0
-    admin_name: theFederalRepublicofGermany
-    shapeID: 19620994B64591758255713
-    country_name: Germany
-  Germany_Adm1_1:
-    iso3c: DEU
-    admin_level: Adm1
+  DEU.1_1_Adm1:
+    GID: DEU.1_1
     admin_name: Baden-Württemberg
-    shapeID: 10402087B60055985875400
-    country_name: Germany
-  Germany_Adm1_10:
     iso3c: DEU
+    country_name: Germany
     admin_level: Adm1
-    admin_name: Nordrhein-Westfalen
-    shapeID: 10402087B86022102756745
-    country_name: Germany
-  Germany_Adm1_11:
+  DEU.1.1_1_Adm2:
+    GID: DEU.1.1_1
+    admin_name: Alb-Donau-Kreis
     iso3c: DEU
-    admin_level: Adm1
-    admin_name: Rheinland-Pfalz
-    shapeID: 10402087B42728698084544
     country_name: Germany
-  Germany_Adm1_12:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Saarland
-    shapeID: 10402087B83775792336645
-    country_name: Germany
-  Germany_Adm1_13:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Sachsen
-    shapeID: 10402087B89016843004490
-    country_name: Germany
-  Germany_Adm1_14:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Sachsen-Anhalt
-    shapeID: 10402087B23625801106445
-    country_name: Germany
-  Germany_Adm1_15:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Schleswig-Holstein
-    shapeID: 10402087B46069870964378
-    country_name: Germany
-  Germany_Adm1_16:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Thüringen
-    shapeID: 10402087B67217417145666
-    country_name: Germany
-  Germany_Adm1_2:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Bayern
-    shapeID: 10402087B60477050509260
-    country_name: Germany
-  Germany_Adm1_3:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Berlin
-    shapeID: 10402087B20892132820961
-    country_name: Germany
-  Germany_Adm1_4:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Brandenburg
-    shapeID: 10402087B40185768535592
-    country_name: Germany
-  Germany_Adm1_5:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Bremen
-    shapeID: 10402087B44391416804171
-    country_name: Germany
-  Germany_Adm1_6:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Hamburg
-    shapeID: 10402087B45896528657515
-    country_name: Germany
-  Germany_Adm1_7:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Hessen
-    shapeID: 10402087B85226028911536
-    country_name: Germany
-  Germany_Adm1_8:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Mecklenburg-Vorpommern
-    shapeID: 10402087B60782008682549
-    country_name: Germany
-  Germany_Adm1_9:
-    iso3c: DEU
-    admin_level: Adm1
-    admin_name: Niedersachsen
-    shapeID: 10402087B38053019909436
-    country_name: Germany
-  Germany_Adm2_1:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Stuttgart
-    shapeID: 9070358B86745718691241
-    country_name: Germany
-  Germany_Adm2_10:
+  DEU.1.10_1_Adm2:
+    GID: DEU.1.10_1
+    admin_name: Enzkreis
     iso3c: DEU
-    admin_level: Adm2
-    admin_name: Unterfranken
-    shapeID: 9070358B89448690772082
     country_name: Germany
-  Germany_Adm2_11:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Schwaben
-    shapeID: 9070358B65596861168427
+  DEU.1.11_1_Adm2:
+    GID: DEU.1.11_1
+    admin_name: Esslingen
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_12:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Berlin
-    shapeID: 9070358B20892132820961
+  DEU.1.12_1_Adm2:
+    GID: DEU.1.12_1
+    admin_name: Freiburg im Breisgau
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_13:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Brandenburg
-    shapeID: 9070358B40185768535592
+  DEU.1.13_1_Adm2:
+    GID: DEU.1.13_1
+    admin_name: Freudenstadt
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_14:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Bremen
-    shapeID: 9070358B44391416804171
+  DEU.1.14_1_Adm2:
+    GID: DEU.1.14_1
+    admin_name: Göppingen
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_15:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Hamburg
-    shapeID: 9070358B45896528657515
+  DEU.1.15_1_Adm2:
+    GID: DEU.1.15_1
+    admin_name: Heidelberg
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_16:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Darmstadt
-    shapeID: 9070358B42560167255242
+  DEU.1.16_1_Adm2:
+    GID: DEU.1.16_1
+    admin_name: Heidenheim
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_17:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Gießen
-    shapeID: 9070358B56635429978008
+  DEU.1.17_1_Adm2:
+    GID: DEU.1.17_1
+    admin_name: Heilbronn (Stadtkreis)
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_18:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Kassel
-    shapeID: 9070358B5760978041875
+  DEU.1.18_1_Adm2:
+    GID: DEU.1.18_1
+    admin_name: Heilbronn
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_19:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Mecklenburg-Vorpommern
-    shapeID: 9070358B60782008682549
+  DEU.1.19_1_Adm2:
+    GID: DEU.1.19_1
+    admin_name: Hohenlohekreis
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_2:
-    iso3c: DEU
     admin_level: Adm2
+  DEU.1.2_1_Adm2:
+    GID: DEU.1.2_1
+    admin_name: Baden-Baden
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.1.20_1_Adm2:
+    GID: DEU.1.20_1
+    admin_name: Karlsruhe (Stadtkreis)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.1.21_1_Adm2:
+    GID: DEU.1.21_1
     admin_name: Karlsruhe
-    shapeID: 9070358B19876986675637
-    country_name: Germany
-  Germany_Adm2_20:
     iso3c: DEU
-    admin_level: Adm2
-    admin_name: Braunschweig
-    shapeID: 9070358B23702346475723
     country_name: Germany
-  Germany_Adm2_21:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Hannover
-    shapeID: 9070358B94432643063062
+  DEU.1.22_1_Adm2:
+    GID: DEU.1.22_1
+    admin_name: Konstanz
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_22:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Lüneburg
-    shapeID: 9070358B4064771181754
+  DEU.1.23_1_Adm2:
+    GID: DEU.1.23_1
+    admin_name: Lörrach
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_23:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Weser-Ems
-    shapeID: 9070358B2639969244614
+  DEU.1.24_1_Adm2:
+    GID: DEU.1.24_1
+    admin_name: Ludwigsburg
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_24:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Düsseldorf
-    shapeID: 9070358B16138204042833
+  DEU.1.25_1_Adm2:
+    GID: DEU.1.25_1
+    admin_name: Main-Tauber-Kreis
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_25:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Köln
-    shapeID: 9070358B57109950257038
+  DEU.1.26_1_Adm2:
+    GID: DEU.1.26_1
+    admin_name: Mannheim
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_26:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Münster
-    shapeID: 9070358B93499833428165
+  DEU.1.27_1_Adm2:
+    GID: DEU.1.27_1
+    admin_name: Neckar-Odenwald-Kreis
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_27:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Detmold
-    shapeID: 9070358B64982818747725
+  DEU.1.28_1_Adm2:
+    GID: DEU.1.28_1
+    admin_name: Ortenaukreis
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_28:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Arnsberg
-    shapeID: 9070358B40774776719210
+  DEU.1.29_1_Adm2:
+    GID: DEU.1.29_1
+    admin_name: Ostalbkreis
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_29:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Koblenz
-    shapeID: 9070358B14573642950642
+  DEU.1.3_1_Adm2:
+    GID: DEU.1.3_1
+    admin_name: Biberach
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_3:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Freiburg
-    shapeID: 9070358B61051204169762
+  DEU.1.30_1_Adm2:
+    GID: DEU.1.30_1
+    admin_name: Pforzheim
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_30:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Trier
-    shapeID: 9070358B88105018400154
+  DEU.1.31_1_Adm2:
+    GID: DEU.1.31_1
+    admin_name: Rastatt
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_31:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Rheinhessen-Pfalz
-    shapeID: 9070358B81909410124776
+  DEU.1.32_1_Adm2:
+    GID: DEU.1.32_1
+    admin_name: Ravensburg
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_32:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Saarland
-    shapeID: 9070358B83775792336645
+  DEU.1.33_1_Adm2:
+    GID: DEU.1.33_1
+    admin_name: Rems-Murr-Kreis
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_33:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Dresden
-    shapeID: 9070358B71091673137763
+  DEU.1.34_1_Adm2:
+    GID: DEU.1.34_1
+    admin_name: Reutlingen
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_34:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Chemnitz
-    shapeID: 9070358B71894413182695
+  DEU.1.35_1_Adm2:
+    GID: DEU.1.35_1
+    admin_name: Rhein-Neckar-Kreis
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_35:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Leipzig
-    shapeID: 9070358B77675294704498
+  DEU.1.36_1_Adm2:
+    GID: DEU.1.36_1
+    admin_name: Rottweil
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_36:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Sachsen-Anhalt
-    shapeID: 9070358B23625801106445
+  DEU.1.37_1_Adm2:
+    GID: DEU.1.37_1
+    admin_name: Schwäbisch Hall
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_37:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Schleswig-Holstein
-    shapeID: 9070358B46069870964378
+  DEU.1.38_1_Adm2:
+    GID: DEU.1.38_1
+    admin_name: Schwarzwald-Baar-Kreis
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_38:
-    iso3c: DEU
     admin_level: Adm2
-    admin_name: Thüringen
-    shapeID: 9070358B67217417145666
+  DEU.1.39_1_Adm2:
+    GID: DEU.1.39_1
+    admin_name: Sigmaringen
+    iso3c: DEU
     country_name: Germany
-  Germany_Adm2_4:
-    iso3c: DEU
     admin_level: Adm2
+  DEU.1.4_1_Adm2:
+    GID: DEU.1.4_1
+    admin_name: Böblingen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.1.40_1_Adm2:
+    GID: DEU.1.40_1
+    admin_name: Stuttgart
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.1.41_1_Adm2:
+    GID: DEU.1.41_1
     admin_name: Tübingen
-    shapeID: 9070358B15022388296844
-    country_name: Germany
-  Germany_Adm2_5:
     iso3c: DEU
-    admin_level: Adm2
-    admin_name: Oberbayern
-    shapeID: 9070358B1315543690610
     country_name: Germany
-  Germany_Adm2_6:
+    admin_level: Adm2
+  DEU.1.42_1_Adm2:
+    GID: DEU.1.42_1
+    admin_name: Tuttlingen
     iso3c: DEU
-    admin_level: Adm2
-    admin_name: Niederbayern
-    shapeID: 9070358B22007842747726
     country_name: Germany
-  Germany_Adm2_7:
+    admin_level: Adm2
+  DEU.1.43_1_Adm2:
+    GID: DEU.1.43_1
+    admin_name: Ulm
     iso3c: DEU
-    admin_level: Adm2
-    admin_name: Oberpfalz
-    shapeID: 9070358B44987229854715
     country_name: Germany
-  Germany_Adm2_8:
+    admin_level: Adm2
+  DEU.1.44_1_Adm2:
+    GID: DEU.1.44_1
+    admin_name: Waldshut
     iso3c: DEU
-    admin_level: Adm2
-    admin_name: Oberfranken
-    shapeID: 9070358B72727683862663
     country_name: Germany
-  Germany_Adm2_9:
+    admin_level: Adm2
+  DEU.1.45_1_Adm2:
+    GID: DEU.1.45_1
+    admin_name: Zollernalbkreis
     iso3c: DEU
-    admin_level: Adm2
-    admin_name: Mittelfranken
-    shapeID: 9070358B15061347548929
     country_name: Germany
+    admin_level: Adm2
+  DEU.1.5_1_Adm2:
+    GID: DEU.1.5_1
+    admin_name: Bodensee
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.1.6_1_Adm2:
+    GID: DEU.1.6_1
+    admin_name: Bodenseekreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.1.7_1_Adm2:
+    GID: DEU.1.7_1
+    admin_name: Breisgau-Hochschwarzwald
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.1.8_1_Adm2:
+    GID: DEU.1.8_1
+    admin_name: Calw
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.1.9_1_Adm2:
+    GID: DEU.1.9_1
+    admin_name: Emmendingen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10_1_Adm1:
+    GID: DEU.10_1
+    admin_name: Nordrhein-Westfalen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.10.1_1_Adm2:
+    GID: DEU.10.1_1
+    admin_name: Bielefeld
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.10_1_Adm2:
+    GID: DEU.10.10_1
+    admin_name: Düsseldorf
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.11_1_Adm2:
+    GID: DEU.10.11_1
+    admin_name: Ennepe-Ruhr-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.12_1_Adm2:
+    GID: DEU.10.12_1
+    admin_name: Essen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.13_1_Adm2:
+    GID: DEU.10.13_1
+    admin_name: Euskirchen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.14_1_Adm2:
+    GID: DEU.10.14_1
+    admin_name: Gelsenkirchen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.15_1_Adm2:
+    GID: DEU.10.15_1
+    admin_name: Gütersloh
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.16_1_Adm2:
+    GID: DEU.10.16_1
+    admin_name: Hagen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.17_1_Adm2:
+    GID: DEU.10.17_1
+    admin_name: Hamm
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.18_1_Adm2:
+    GID: DEU.10.18_1
+    admin_name: Heinsberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.19_1_Adm2:
+    GID: DEU.10.19_1
+    admin_name: Herford
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.2_1_Adm2:
+    GID: DEU.10.2_1
+    admin_name: Bochum
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.20_1_Adm2:
+    GID: DEU.10.20_1
+    admin_name: Herne
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.21_1_Adm2:
+    GID: DEU.10.21_1
+    admin_name: Hochsauerlandkreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.22_1_Adm2:
+    GID: DEU.10.22_1
+    admin_name: Höxter
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.23_1_Adm2:
+    GID: DEU.10.23_1
+    admin_name: Kleve
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.24_1_Adm2:
+    GID: DEU.10.24_1
+    admin_name: Köln
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.25_1_Adm2:
+    GID: DEU.10.25_1
+    admin_name: Krefeld
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.26_1_Adm2:
+    GID: DEU.10.26_1
+    admin_name: Leverkusen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.27_1_Adm2:
+    GID: DEU.10.27_1
+    admin_name: Lippe
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.28_1_Adm2:
+    GID: DEU.10.28_1
+    admin_name: Märkischer Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.29_1_Adm2:
+    GID: DEU.10.29_1
+    admin_name: Mettmann
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.3_1_Adm2:
+    GID: DEU.10.3_1
+    admin_name: Bonn
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.30_1_Adm2:
+    GID: DEU.10.30_1
+    admin_name: Minden-Lübbecke
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.31_1_Adm2:
+    GID: DEU.10.31_1
+    admin_name: Mönchengladbach
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.32_1_Adm2:
+    GID: DEU.10.32_1
+    admin_name: Mülheim an der Ruhr
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.33_1_Adm2:
+    GID: DEU.10.33_1
+    admin_name: Münster
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.34_1_Adm2:
+    GID: DEU.10.34_1
+    admin_name: Oberbergischer Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.35_1_Adm2:
+    GID: DEU.10.35_1
+    admin_name: Oberhausen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.36_1_Adm2:
+    GID: DEU.10.36_1
+    admin_name: Olpe
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.37_1_Adm2:
+    GID: DEU.10.37_1
+    admin_name: Paderborn
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.38_1_Adm2:
+    GID: DEU.10.38_1
+    admin_name: Recklinghausen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.39_1_Adm2:
+    GID: DEU.10.39_1
+    admin_name: Remscheid
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.4_1_Adm2:
+    GID: DEU.10.4_1
+    admin_name: Borken
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.40_1_Adm2:
+    GID: DEU.10.40_1
+    admin_name: Rhein-Erft-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.41_1_Adm2:
+    GID: DEU.10.41_1
+    admin_name: Rhein-Kreis Neuss
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.42_1_Adm2:
+    GID: DEU.10.42_1
+    admin_name: Rhein-Sieg-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.43_1_Adm2:
+    GID: DEU.10.43_1
+    admin_name: Rheinisch-Bergischer Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.44_1_Adm2:
+    GID: DEU.10.44_1
+    admin_name: Siegen-Wittgenstein
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.45_1_Adm2:
+    GID: DEU.10.45_1
+    admin_name: Soest
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.46_1_Adm2:
+    GID: DEU.10.46_1
+    admin_name: Solingen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.47_1_Adm2:
+    GID: DEU.10.47_1
+    admin_name: Städteregion Aachen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.48_1_Adm2:
+    GID: DEU.10.48_1
+    admin_name: Steinfurt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.49_1_Adm2:
+    GID: DEU.10.49_1
+    admin_name: Unna
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.5_1_Adm2:
+    GID: DEU.10.5_1
+    admin_name: Bottrop
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.50_1_Adm2:
+    GID: DEU.10.50_1
+    admin_name: Viersen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.51_1_Adm2:
+    GID: DEU.10.51_1
+    admin_name: Warendorf
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.52_1_Adm2:
+    GID: DEU.10.52_1
+    admin_name: Wesel
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.53_1_Adm2:
+    GID: DEU.10.53_1
+    admin_name: Wuppertal
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.6_1_Adm2:
+    GID: DEU.10.6_1
+    admin_name: Coesfeld
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.7_1_Adm2:
+    GID: DEU.10.7_1
+    admin_name: Dortmund
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.8_1_Adm2:
+    GID: DEU.10.8_1
+    admin_name: Duisburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.10.9_1_Adm2:
+    GID: DEU.10.9_1
+    admin_name: Düren
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11_1_Adm1:
+    GID: DEU.11_1
+    admin_name: Rheinland-Pfalz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.11.1_1_Adm2:
+    GID: DEU.11.1_1
+    admin_name: Ahrweiler
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.10_1_Adm2:
+    GID: DEU.11.10_1
+    admin_name: Eifelkreis Bitburg-Prüm
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.11_1_Adm2:
+    GID: DEU.11.11_1
+    admin_name: Frankenthal (Pfalz)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.12_1_Adm2:
+    GID: DEU.11.12_1
+    admin_name: Germersheim
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.13_1_Adm2:
+    GID: DEU.11.13_1
+    admin_name: Kaiserslautern (Kreisfreie Stadt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.14_1_Adm2:
+    GID: DEU.11.14_1
+    admin_name: Kaiserslautern
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.15_1_Adm2:
+    GID: DEU.11.15_1
+    admin_name: Koblenz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.16_1_Adm2:
+    GID: DEU.11.16_1
+    admin_name: Kusel
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.17_1_Adm2:
+    GID: DEU.11.17_1
+    admin_name: Landau in der Pfalz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.18_1_Adm2:
+    GID: DEU.11.18_1
+    admin_name: Ludwigshafen am Rhein
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.19_1_Adm2:
+    GID: DEU.11.19_1
+    admin_name: Mainz-Bingen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.2_1_Adm2:
+    GID: DEU.11.2_1
+    admin_name: Altenkirchen (Westerwald)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.20_1_Adm2:
+    GID: DEU.11.20_1
+    admin_name: Mainz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.21_1_Adm2:
+    GID: DEU.11.21_1
+    admin_name: Mayen-Koblenz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.22_1_Adm2:
+    GID: DEU.11.22_1
+    admin_name: Neustadt an der Weinstraße
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.23_1_Adm2:
+    GID: DEU.11.23_1
+    admin_name: Neuwied
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.24_1_Adm2:
+    GID: DEU.11.24_1
+    admin_name: Pirmasens
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.25_1_Adm2:
+    GID: DEU.11.25_1
+    admin_name: Rhein-Hunsrück-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.26_1_Adm2:
+    GID: DEU.11.26_1
+    admin_name: Rhein-Lahn-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.27_1_Adm2:
+    GID: DEU.11.27_1
+    admin_name: Rhein-Pfalz-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.28_1_Adm2:
+    GID: DEU.11.28_1
+    admin_name: Speyer
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.29_1_Adm2:
+    GID: DEU.11.29_1
+    admin_name: Südliche Weinstraße
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.3_1_Adm2:
+    GID: DEU.11.3_1
+    admin_name: Alzey-Worms
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.30_1_Adm2:
+    GID: DEU.11.30_1
+    admin_name: Südwestpfalz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.31_1_Adm2:
+    GID: DEU.11.31_1
+    admin_name: Trier-Saarburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.32_1_Adm2:
+    GID: DEU.11.32_1
+    admin_name: Trier
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.33_1_Adm2:
+    GID: DEU.11.33_1
+    admin_name: Vulkaneifel
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.34_1_Adm2:
+    GID: DEU.11.34_1
+    admin_name: Westerwaldkreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.35_1_Adm2:
+    GID: DEU.11.35_1
+    admin_name: Worms
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.36_1_Adm2:
+    GID: DEU.11.36_1
+    admin_name: Zweibrücken
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.4_1_Adm2:
+    GID: DEU.11.4_1
+    admin_name: Bad Dürkheim
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.5_1_Adm2:
+    GID: DEU.11.5_1
+    admin_name: Bad Kreuznach
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.6_1_Adm2:
+    GID: DEU.11.6_1
+    admin_name: Bernkastel-Wittlich
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.7_1_Adm2:
+    GID: DEU.11.7_1
+    admin_name: Birkenfeld
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.8_1_Adm2:
+    GID: DEU.11.8_1
+    admin_name: Cochem-Zell
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.11.9_1_Adm2:
+    GID: DEU.11.9_1
+    admin_name: Donnersbergkreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.12_1_Adm1:
+    GID: DEU.12_1
+    admin_name: Saarland
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.12.1_1_Adm2:
+    GID: DEU.12.1_1
+    admin_name: Merzig-Wadern
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.12.2_1_Adm2:
+    GID: DEU.12.2_1
+    admin_name: Neunkirchen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.12.3_1_Adm2:
+    GID: DEU.12.3_1
+    admin_name: Regionalverband Saarbrücken
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.12.4_1_Adm2:
+    GID: DEU.12.4_1
+    admin_name: Saarlouis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.12.5_1_Adm2:
+    GID: DEU.12.5_1
+    admin_name: Saarpfalz-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.12.6_1_Adm2:
+    GID: DEU.12.6_1
+    admin_name: St. Wendel
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13_1_Adm1:
+    GID: DEU.13_1
+    admin_name: Sachsen-Anhalt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.13.1_1_Adm2:
+    GID: DEU.13.1_1
+    admin_name: Altmarkkreis Salzwedel
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.10_1_Adm2:
+    GID: DEU.13.10_1
+    admin_name: Mansfeld-Südharz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.11_1_Adm2:
+    GID: DEU.13.11_1
+    admin_name: Saalekreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.12_1_Adm2:
+    GID: DEU.13.12_1
+    admin_name: Salzlandkreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.13_1_Adm2:
+    GID: DEU.13.13_1
+    admin_name: Stendal
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.14_1_Adm2:
+    GID: DEU.13.14_1
+    admin_name: Wittenberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.2_1_Adm2:
+    GID: DEU.13.2_1
+    admin_name: Anhalt-Bitterfeld
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.3_1_Adm2:
+    GID: DEU.13.3_1
+    admin_name: Börde
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.4_1_Adm2:
+    GID: DEU.13.4_1
+    admin_name: Burgenlandkreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.5_1_Adm2:
+    GID: DEU.13.5_1
+    admin_name: Dessau-Roßlau
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.6_1_Adm2:
+    GID: DEU.13.6_1
+    admin_name: Halle (Saale)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.7_1_Adm2:
+    GID: DEU.13.7_1
+    admin_name: Harz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.8_1_Adm2:
+    GID: DEU.13.8_1
+    admin_name: Jerichower Land
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.13.9_1_Adm2:
+    GID: DEU.13.9_1
+    admin_name: Magdeburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14_1_Adm1:
+    GID: DEU.14_1
+    admin_name: Sachsen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.14.1_1_Adm2:
+    GID: DEU.14.1_1
+    admin_name: Bautzen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.10_1_Adm2:
+    GID: DEU.14.10_1
+    admin_name: Nordsachsen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.11_1_Adm2:
+    GID: DEU.14.11_1
+    admin_name: Sächsische Schweiz-Osterzgebirge
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.12_1_Adm2:
+    GID: DEU.14.12_1
+    admin_name: Vogtlandkreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.13_1_Adm2:
+    GID: DEU.14.13_1
+    admin_name: Zwickau
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.2_1_Adm2:
+    GID: DEU.14.2_1
+    admin_name: Chemnitz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.3_1_Adm2:
+    GID: DEU.14.3_1
+    admin_name: Dresden
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.4_1_Adm2:
+    GID: DEU.14.4_1
+    admin_name: Erzgebirgskreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.5_1_Adm2:
+    GID: DEU.14.5_1
+    admin_name: Görlitz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.6_1_Adm2:
+    GID: DEU.14.6_1
+    admin_name: Leipzig (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.7_1_Adm2:
+    GID: DEU.14.7_1
+    admin_name: Leipzig
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.8_1_Adm2:
+    GID: DEU.14.8_1
+    admin_name: Meißen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.14.9_1_Adm2:
+    GID: DEU.14.9_1
+    admin_name: Mittelsachsen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15_1_Adm1:
+    GID: DEU.15_1
+    admin_name: Schleswig-Holstein
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.15.1_1_Adm2:
+    GID: DEU.15.1_1
+    admin_name: Dithmarschen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.10_1_Adm2:
+    GID: DEU.15.10_1
+    admin_name: Plön
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.11_1_Adm2:
+    GID: DEU.15.11_1
+    admin_name: Rendsburg-Eckernförde
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.12_1_Adm2:
+    GID: DEU.15.12_1
+    admin_name: Schleswig-Flensburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.13_1_Adm2:
+    GID: DEU.15.13_1
+    admin_name: Segeberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.14_1_Adm2:
+    GID: DEU.15.14_1
+    admin_name: Steinburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.15_1_Adm2:
+    GID: DEU.15.15_1
+    admin_name: Stormarn
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.2_1_Adm2:
+    GID: DEU.15.2_1
+    admin_name: Flensburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.3_1_Adm2:
+    GID: DEU.15.3_1
+    admin_name: Herzogtum Lauenburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.4_1_Adm2:
+    GID: DEU.15.4_1
+    admin_name: Kiel
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.5_1_Adm2:
+    GID: DEU.15.5_1
+    admin_name: Lübeck
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.6_1_Adm2:
+    GID: DEU.15.6_1
+    admin_name: Neumünster
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.7_1_Adm2:
+    GID: DEU.15.7_1
+    admin_name: Nordfriesland
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.8_1_Adm2:
+    GID: DEU.15.8_1
+    admin_name: Ostholstein
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.15.9_1_Adm2:
+    GID: DEU.15.9_1
+    admin_name: Pinneberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16_1_Adm1:
+    GID: DEU.16_1
+    admin_name: Thüringen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.16.1_1_Adm2:
+    GID: DEU.16.1_1
+    admin_name: Altenburger Land
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.10_1_Adm2:
+    GID: DEU.16.10_1
+    admin_name: Jena
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.11_1_Adm2:
+    GID: DEU.16.11_1
+    admin_name: Kyffhäuserkreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.12_1_Adm2:
+    GID: DEU.16.12_1
+    admin_name: Nordhausen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.13_1_Adm2:
+    GID: DEU.16.13_1
+    admin_name: Saale-Holzland-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.14_1_Adm2:
+    GID: DEU.16.14_1
+    admin_name: Saale-Orla-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.15_1_Adm2:
+    GID: DEU.16.15_1
+    admin_name: Saalfeld-Rudolstadt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.16_1_Adm2:
+    GID: DEU.16.16_1
+    admin_name: Schmalkalden-Meiningen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.17_1_Adm2:
+    GID: DEU.16.17_1
+    admin_name: Sömmerda
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.18_1_Adm2:
+    GID: DEU.16.18_1
+    admin_name: Sonneberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.19_1_Adm2:
+    GID: DEU.16.19_1
+    admin_name: Suhl
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.2_1_Adm2:
+    GID: DEU.16.2_1
+    admin_name: Eichsfeld
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.20_1_Adm2:
+    GID: DEU.16.20_1
+    admin_name: Unstrut-Hainich-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.21_1_Adm2:
+    GID: DEU.16.21_1
+    admin_name: Wartburgkreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.22_1_Adm2:
+    GID: DEU.16.22_1
+    admin_name: Weimarer Land
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.23_1_Adm2:
+    GID: DEU.16.23_1
+    admin_name: Weimar
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.3_1_Adm2:
+    GID: DEU.16.3_1
+    admin_name: Eisenach
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.4_1_Adm2:
+    GID: DEU.16.4_1
+    admin_name: Erfurt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.5_1_Adm2:
+    GID: DEU.16.5_1
+    admin_name: Gera
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.6_1_Adm2:
+    GID: DEU.16.6_1
+    admin_name: Gotha
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.7_1_Adm2:
+    GID: DEU.16.7_1
+    admin_name: Greiz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.8_1_Adm2:
+    GID: DEU.16.8_1
+    admin_name: Hildburghausen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.16.9_1_Adm2:
+    GID: DEU.16.9_1
+    admin_name: Ilm-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2_1_Adm1:
+    GID: DEU.2_1
+    admin_name: Bayern
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.2.1_1_Adm2:
+    GID: DEU.2.1_1
+    admin_name: Aichach-Friedberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.10_1_Adm2:
+    GID: DEU.2.10_1
+    admin_name: Augsburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.11_1_Adm2:
+    GID: DEU.2.11_1
+    admin_name: Bad Kissingen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.12_1_Adm2:
+    GID: DEU.2.12_1
+    admin_name: Bad Tölz-Wolfratshausen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.13_1_Adm2:
+    GID: DEU.2.13_1
+    admin_name: Bamberg (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.14_1_Adm2:
+    GID: DEU.2.14_1
+    admin_name: Bamberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.15_1_Adm2:
+    GID: DEU.2.15_1
+    admin_name: Bayreuth (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.16_1_Adm2:
+    GID: DEU.2.16_1
+    admin_name: Bayreuth
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.17_1_Adm2:
+    GID: DEU.2.17_1
+    admin_name: Berchtesgadener Land
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.18_1_Adm2:
+    GID: DEU.2.18_1
+    admin_name: Cham
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.19_1_Adm2:
+    GID: DEU.2.19_1
+    admin_name: Coburg (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.2_1_Adm2:
+    GID: DEU.2.2_1
+    admin_name: Altötting
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.20_1_Adm2:
+    GID: DEU.2.20_1
+    admin_name: Coburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.21_1_Adm2:
+    GID: DEU.2.21_1
+    admin_name: Dachau
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.22_1_Adm2:
+    GID: DEU.2.22_1
+    admin_name: Deggendorf
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.23_1_Adm2:
+    GID: DEU.2.23_1
+    admin_name: Dillingen an der Donau
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.24_1_Adm2:
+    GID: DEU.2.24_1
+    admin_name: Dingolfing-Landau
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.25_1_Adm2:
+    GID: DEU.2.25_1
+    admin_name: Donau-Ries
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.26_1_Adm2:
+    GID: DEU.2.26_1
+    admin_name: Ebersberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.27_1_Adm2:
+    GID: DEU.2.27_1
+    admin_name: Eichstätt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.28_1_Adm2:
+    GID: DEU.2.28_1
+    admin_name: Erding
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.29_1_Adm2:
+    GID: DEU.2.29_1
+    admin_name: Erlangen-Höchstadt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.3_1_Adm2:
+    GID: DEU.2.3_1
+    admin_name: Amberg-Sulzbach
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.30_1_Adm2:
+    GID: DEU.2.30_1
+    admin_name: Erlangen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.31_1_Adm2:
+    GID: DEU.2.31_1
+    admin_name: Fürth (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.32_1_Adm2:
+    GID: DEU.2.32_1
+    admin_name: Forchheim
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.33_1_Adm2:
+    GID: DEU.2.33_1
+    admin_name: Freising
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.34_1_Adm2:
+    GID: DEU.2.34_1
+    admin_name: Freyung-Grafenau
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.35_1_Adm2:
+    GID: DEU.2.35_1
+    admin_name: Fürstenfeldbruck
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.36_1_Adm2:
+    GID: DEU.2.36_1
+    admin_name: Fürth
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.37_1_Adm2:
+    GID: DEU.2.37_1
+    admin_name: Garmisch-Partenkirchen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.38_1_Adm2:
+    GID: DEU.2.38_1
+    admin_name: Günzburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.39_1_Adm2:
+    GID: DEU.2.39_1
+    admin_name: Haßberge
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.4_1_Adm2:
+    GID: DEU.2.4_1
+    admin_name: Amberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.40_1_Adm2:
+    GID: DEU.2.40_1
+    admin_name: Hof (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.41_1_Adm2:
+    GID: DEU.2.41_1
+    admin_name: Hof
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.42_1_Adm2:
+    GID: DEU.2.42_1
+    admin_name: Ingolstadt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.43_1_Adm2:
+    GID: DEU.2.43_1
+    admin_name: Kaufbeuren
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.44_1_Adm2:
+    GID: DEU.2.44_1
+    admin_name: Kelheim
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.45_1_Adm2:
+    GID: DEU.2.45_1
+    admin_name: Kempten (Allgäu)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.46_1_Adm2:
+    GID: DEU.2.46_1
+    admin_name: Kitzingen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.47_1_Adm2:
+    GID: DEU.2.47_1
+    admin_name: Kronach
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.48_1_Adm2:
+    GID: DEU.2.48_1
+    admin_name: Kulmbach
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.49_1_Adm2:
+    GID: DEU.2.49_1
+    admin_name: Landsberg am Lech
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.5_1_Adm2:
+    GID: DEU.2.5_1
+    admin_name: Ansbach (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.50_1_Adm2:
+    GID: DEU.2.50_1
+    admin_name: Landshut (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.51_1_Adm2:
+    GID: DEU.2.51_1
+    admin_name: Landshut
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.52_1_Adm2:
+    GID: DEU.2.52_1
+    admin_name: Lichtenfels
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.53_1_Adm2:
+    GID: DEU.2.53_1
+    admin_name: Lindau (Bodensee)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.54_1_Adm2:
+    GID: DEU.2.54_1
+    admin_name: München (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.55_1_Adm2:
+    GID: DEU.2.55_1
+    admin_name: Main-Spessart
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.56_1_Adm2:
+    GID: DEU.2.56_1
+    admin_name: Memmingen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.57_1_Adm2:
+    GID: DEU.2.57_1
+    admin_name: Miesbach
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.58_1_Adm2:
+    GID: DEU.2.58_1
+    admin_name: Miltenberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.59_1_Adm2:
+    GID: DEU.2.59_1
+    admin_name: Mühldorf am Inn
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.6_1_Adm2:
+    GID: DEU.2.6_1
+    admin_name: Ansbach
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.60_1_Adm2:
+    GID: DEU.2.60_1
+    admin_name: München
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.61_1_Adm2:
+    GID: DEU.2.61_1
+    admin_name: Neu-Ulm
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.62_1_Adm2:
+    GID: DEU.2.62_1
+    admin_name: Neuburg-Schrobenhausen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.63_1_Adm2:
+    GID: DEU.2.63_1
+    admin_name: Neumarkt in der Oberpfalz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.64_1_Adm2:
+    GID: DEU.2.64_1
+    admin_name: Neustadt an der Aisch-Bad Windsh
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.65_1_Adm2:
+    GID: DEU.2.65_1
+    admin_name: Neustadt an der Waldnaab
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.66_1_Adm2:
+    GID: DEU.2.66_1
+    admin_name: Nürnberger Land
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.67_1_Adm2:
+    GID: DEU.2.67_1
+    admin_name: Nürnberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.68_1_Adm2:
+    GID: DEU.2.68_1
+    admin_name: Oberallgäu
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.69_1_Adm2:
+    GID: DEU.2.69_1
+    admin_name: Ostallgäu
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.7_1_Adm2:
+    GID: DEU.2.7_1
+    admin_name: Aschaffenburg (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.70_1_Adm2:
+    GID: DEU.2.70_1
+    admin_name: Passau (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.71_1_Adm2:
+    GID: DEU.2.71_1
+    admin_name: Passau
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.72_1_Adm2:
+    GID: DEU.2.72_1
+    admin_name: Pfaffenhofen an der Ilm
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.73_1_Adm2:
+    GID: DEU.2.73_1
+    admin_name: Regen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.74_1_Adm2:
+    GID: DEU.2.74_1
+    admin_name: Regensburg (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.75_1_Adm2:
+    GID: DEU.2.75_1
+    admin_name: Regensburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.76_1_Adm2:
+    GID: DEU.2.76_1
+    admin_name: Rhön-Grabfeld
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.77_1_Adm2:
+    GID: DEU.2.77_1
+    admin_name: Rosenheim (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.78_1_Adm2:
+    GID: DEU.2.78_1
+    admin_name: Rosenheim
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.79_1_Adm2:
+    GID: DEU.2.79_1
+    admin_name: Roth
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.8_1_Adm2:
+    GID: DEU.2.8_1
+    admin_name: Aschaffenburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.80_1_Adm2:
+    GID: DEU.2.80_1
+    admin_name: Rottal-Inn
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.81_1_Adm2:
+    GID: DEU.2.81_1
+    admin_name: Schwabach
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.82_1_Adm2:
+    GID: DEU.2.82_1
+    admin_name: Schwandorf
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.83_1_Adm2:
+    GID: DEU.2.83_1
+    admin_name: Schweinfurt (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.84_1_Adm2:
+    GID: DEU.2.84_1
+    admin_name: Schweinfurt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.85_1_Adm2:
+    GID: DEU.2.85_1
+    admin_name: Starnberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.86_1_Adm2:
+    GID: DEU.2.86_1
+    admin_name: Straubing-Bogen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.87_1_Adm2:
+    GID: DEU.2.87_1
+    admin_name: Straubing
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.88_1_Adm2:
+    GID: DEU.2.88_1
+    admin_name: Tirschenreuth
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.89_1_Adm2:
+    GID: DEU.2.89_1
+    admin_name: Traunstein
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.9_1_Adm2:
+    GID: DEU.2.9_1
+    admin_name: Augsburg (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.90_1_Adm2:
+    GID: DEU.2.90_1
+    admin_name: Unterallgäu
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.91_1_Adm2:
+    GID: DEU.2.91_1
+    admin_name: Würzburg (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.92_1_Adm2:
+    GID: DEU.2.92_1
+    admin_name: Weiden in der Oberpfalz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.93_1_Adm2:
+    GID: DEU.2.93_1
+    admin_name: Weilheim-Schongau
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.94_1_Adm2:
+    GID: DEU.2.94_1
+    admin_name: Weißenburg-Gunzenhausen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.95_1_Adm2:
+    GID: DEU.2.95_1
+    admin_name: Wunsiedel im Fichtelgebirge
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.2.96_1_Adm2:
+    GID: DEU.2.96_1
+    admin_name: Würzburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.3_1_Adm1:
+    GID: DEU.3_1
+    admin_name: Berlin
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.3.1_1_Adm2:
+    GID: DEU.3.1_1
+    admin_name: Berlin
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4_1_Adm1:
+    GID: DEU.4_1
+    admin_name: Brandenburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.4.1_1_Adm2:
+    GID: DEU.4.1_1
+    admin_name: Barnim
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.10_1_Adm2:
+    GID: DEU.4.10_1
+    admin_name: Oberspreewald-Lausitz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.11_1_Adm2:
+    GID: DEU.4.11_1
+    admin_name: Oder-Spree
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.12_1_Adm2:
+    GID: DEU.4.12_1
+    admin_name: Ostprignitz-Ruppin
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.13_1_Adm2:
+    GID: DEU.4.13_1
+    admin_name: Potsdam-Mittelmark
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.14_1_Adm2:
+    GID: DEU.4.14_1
+    admin_name: Potsdam
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.15_1_Adm2:
+    GID: DEU.4.15_1
+    admin_name: Prignitz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.16_1_Adm2:
+    GID: DEU.4.16_1
+    admin_name: Spree-Neiße
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.17_1_Adm2:
+    GID: DEU.4.17_1
+    admin_name: Teltow-Fläming
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.18_1_Adm2:
+    GID: DEU.4.18_1
+    admin_name: Uckermark
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.2_1_Adm2:
+    GID: DEU.4.2_1
+    admin_name: Brandenburg an der Havel
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.3_1_Adm2:
+    GID: DEU.4.3_1
+    admin_name: Cottbus
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.4_1_Adm2:
+    GID: DEU.4.4_1
+    admin_name: Dahme-Spreewald
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.5_1_Adm2:
+    GID: DEU.4.5_1
+    admin_name: Elbe-Elster
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.6_1_Adm2:
+    GID: DEU.4.6_1
+    admin_name: Frankfurt (Oder)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.7_1_Adm2:
+    GID: DEU.4.7_1
+    admin_name: Havelland
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.8_1_Adm2:
+    GID: DEU.4.8_1
+    admin_name: Märkisch-Oderland
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.4.9_1_Adm2:
+    GID: DEU.4.9_1
+    admin_name: Oberhavel
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.5_1_Adm1:
+    GID: DEU.5_1
+    admin_name: Bremen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.5.1_1_Adm2:
+    GID: DEU.5.1_1
+    admin_name: Bremen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.5.2_1_Adm2:
+    GID: DEU.5.2_1
+    admin_name: Bremerhaven
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.6_1_Adm1:
+    GID: DEU.6_1
+    admin_name: Hamburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.6.1_1_Adm2:
+    GID: DEU.6.1_1
+    admin_name: Hamburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7_1_Adm1:
+    GID: DEU.7_1
+    admin_name: Hessen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.7.1_1_Adm2:
+    GID: DEU.7.1_1
+    admin_name: Bergstraße
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.10_1_Adm2:
+    GID: DEU.7.10_1
+    admin_name: Kassel (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.11_1_Adm2:
+    GID: DEU.7.11_1
+    admin_name: Kassel
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.12_1_Adm2:
+    GID: DEU.7.12_1
+    admin_name: Lahn-Dill-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.13_1_Adm2:
+    GID: DEU.7.13_1
+    admin_name: Limburg-Weilburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.14_1_Adm2:
+    GID: DEU.7.14_1
+    admin_name: Main-Kinzig-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.15_1_Adm2:
+    GID: DEU.7.15_1
+    admin_name: Main-Taunus-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.16_1_Adm2:
+    GID: DEU.7.16_1
+    admin_name: Marburg-Biedenkopf
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.17_1_Adm2:
+    GID: DEU.7.17_1
+    admin_name: Odenwaldkreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.18_1_Adm2:
+    GID: DEU.7.18_1
+    admin_name: Offenbach am Main
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.19_1_Adm2:
+    GID: DEU.7.19_1
+    admin_name: Offenbach
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.2_1_Adm2:
+    GID: DEU.7.2_1
+    admin_name: Darmstadt-Dieburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.20_1_Adm2:
+    GID: DEU.7.20_1
+    admin_name: Rheingau-Taunus-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.21_1_Adm2:
+    GID: DEU.7.21_1
+    admin_name: Schwalm-Eder-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.22_1_Adm2:
+    GID: DEU.7.22_1
+    admin_name: Vogelsbergkreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.23_1_Adm2:
+    GID: DEU.7.23_1
+    admin_name: Waldeck-Frankenberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.24_1_Adm2:
+    GID: DEU.7.24_1
+    admin_name: Werra-Meißner-Kreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.25_1_Adm2:
+    GID: DEU.7.25_1
+    admin_name: Wetteraukreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.26_1_Adm2:
+    GID: DEU.7.26_1
+    admin_name: Wiesbaden
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.3_1_Adm2:
+    GID: DEU.7.3_1
+    admin_name: Darmstadt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.4_1_Adm2:
+    GID: DEU.7.4_1
+    admin_name: Frankfurt am Main
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.5_1_Adm2:
+    GID: DEU.7.5_1
+    admin_name: Fulda
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.6_1_Adm2:
+    GID: DEU.7.6_1
+    admin_name: Gießen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.7_1_Adm2:
+    GID: DEU.7.7_1
+    admin_name: Groß-Gerau
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.8_1_Adm2:
+    GID: DEU.7.8_1
+    admin_name: Hersfeld-Rotenburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.7.9_1_Adm2:
+    GID: DEU.7.9_1
+    admin_name: Hochtaunuskreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.8_1_Adm1:
+    GID: DEU.8_1
+    admin_name: Mecklenburg-Vorpommern
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.8.1_1_Adm2:
+    GID: DEU.8.1_1
+    admin_name: Ludwigslust-Parchim
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.8.2_1_Adm2:
+    GID: DEU.8.2_1
+    admin_name: Mecklenburgische Seenplatte
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.8.3_1_Adm2:
+    GID: DEU.8.3_1
+    admin_name: Nordwestmecklenburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.8.4_1_Adm2:
+    GID: DEU.8.4_1
+    admin_name: Rostock (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.8.5_1_Adm2:
+    GID: DEU.8.5_1
+    admin_name: Rostock
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.8.6_1_Adm2:
+    GID: DEU.8.6_1
+    admin_name: Schwerin
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.8.7_1_Adm2:
+    GID: DEU.8.7_1
+    admin_name: Vorpommern-Greifswald
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.8.8_1_Adm2:
+    GID: DEU.8.8_1
+    admin_name: Vorpommern-Rügen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9_1_Adm1:
+    GID: DEU.9_1
+    admin_name: Niedersachsen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm1
+  DEU.9.1_1_Adm2:
+    GID: DEU.9.1_1
+    admin_name: Ammerland
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.10_1_Adm2:
+    GID: DEU.9.10_1
+    admin_name: Emsland
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.11_1_Adm2:
+    GID: DEU.9.11_1
+    admin_name: Friesland
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.12_1_Adm2:
+    GID: DEU.9.12_1
+    admin_name: Gifhorn
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.13_1_Adm2:
+    GID: DEU.9.13_1
+    admin_name: Goslar
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.14_1_Adm2:
+    GID: DEU.9.14_1
+    admin_name: Göttingen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.15_1_Adm2:
+    GID: DEU.9.15_1
+    admin_name: Grafschaft Bentheim
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.16_1_Adm2:
+    GID: DEU.9.16_1
+    admin_name: Hameln-Pyrmont
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.17_1_Adm2:
+    GID: DEU.9.17_1
+    admin_name: Harburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.18_1_Adm2:
+    GID: DEU.9.18_1
+    admin_name: Heidekreis
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.19_1_Adm2:
+    GID: DEU.9.19_1
+    admin_name: Helmstedt
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.2_1_Adm2:
+    GID: DEU.9.2_1
+    admin_name: Aurich
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.20_1_Adm2:
+    GID: DEU.9.20_1
+    admin_name: Hildesheim
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.21_1_Adm2:
+    GID: DEU.9.21_1
+    admin_name: Holzminden
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.22_1_Adm2:
+    GID: DEU.9.22_1
+    admin_name: Leer
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.23_1_Adm2:
+    GID: DEU.9.23_1
+    admin_name: Lüchow-Dannenberg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.24_1_Adm2:
+    GID: DEU.9.24_1
+    admin_name: Lüneburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.25_1_Adm2:
+    GID: DEU.9.25_1
+    admin_name: Nienburg (Weser)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.26_1_Adm2:
+    GID: DEU.9.26_1
+    admin_name: Northeim
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.27_1_Adm2:
+    GID: DEU.9.27_1
+    admin_name: Oldenburg (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.28_1_Adm2:
+    GID: DEU.9.28_1
+    admin_name: Oldenburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.29_1_Adm2:
+    GID: DEU.9.29_1
+    admin_name: Osnabrück (Kreisfreie Stadt)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.3_1_Adm2:
+    GID: DEU.9.3_1
+    admin_name: Braunschweig
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.30_1_Adm2:
+    GID: DEU.9.30_1
+    admin_name: Osnabrück
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.31_1_Adm2:
+    GID: DEU.9.31_1
+    admin_name: Osterholz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.32_1_Adm2:
+    GID: DEU.9.32_1
+    admin_name: Osterode am Harz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.33_1_Adm2:
+    GID: DEU.9.33_1
+    admin_name: Peine
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.34_1_Adm2:
+    GID: DEU.9.34_1
+    admin_name: Region Hannover
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.35_1_Adm2:
+    GID: DEU.9.35_1
+    admin_name: Rotenburg (Wümme)
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.36_1_Adm2:
+    GID: DEU.9.36_1
+    admin_name: Salzgitter
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.37_1_Adm2:
+    GID: DEU.9.37_1
+    admin_name: Schaumburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.38_1_Adm2:
+    GID: DEU.9.38_1
+    admin_name: Stade
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.39_1_Adm2:
+    GID: DEU.9.39_1
+    admin_name: Uelzen
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.4_1_Adm2:
+    GID: DEU.9.4_1
+    admin_name: Celle
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.40_1_Adm2:
+    GID: DEU.9.40_1
+    admin_name: Vechta
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.41_1_Adm2:
+    GID: DEU.9.41_1
+    admin_name: Verden
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.42_1_Adm2:
+    GID: DEU.9.42_1
+    admin_name: Wesermarsch
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.43_1_Adm2:
+    GID: DEU.9.43_1
+    admin_name: Wilhelmshaven
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.44_1_Adm2:
+    GID: DEU.9.44_1
+    admin_name: Wittmund
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.45_1_Adm2:
+    GID: DEU.9.45_1
+    admin_name: Wolfenbüttel
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.46_1_Adm2:
+    GID: DEU.9.46_1
+    admin_name: Wolfsburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.5_1_Adm2:
+    GID: DEU.9.5_1
+    admin_name: Cloppenburg
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.6_1_Adm2:
+    GID: DEU.9.6_1
+    admin_name: Cuxhaven
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.7_1_Adm2:
+    GID: DEU.9.7_1
+    admin_name: Delmenhorst
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.8_1_Adm2:
+    GID: DEU.9.8_1
+    admin_name: Diepholz
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2
+  DEU.9.9_1_Adm2:
+    GID: DEU.9.9_1
+    admin_name: Emden
+    iso3c: DEU
+    country_name: Germany
+    admin_level: Adm2

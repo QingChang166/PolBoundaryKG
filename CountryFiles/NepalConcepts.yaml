@@ -1,499 +1,121 @@
 concepts:
-  Nepal_Adm0:
+  NPL.0_Adm0:
+    GID: NPL
+    admin_name: Nepal
     iso3c: NPL
+    country_name: Nepal
     admin_level: Adm0
-    admin_name: NEPAL
-    shapeID: 63295607B89032319438996
-    country_name: Nepal
-  Nepal_Adm1_1:
+  NPL.1_1_Adm1:
+    GID: NPL.1_1
+    admin_name: Central
     iso3c: NPL
-    admin_level: Adm1
-    admin_name: Province1
-    shapeID: 38925275B86793894515453
     country_name: Nepal
-  Nepal_Adm1_2:
-    iso3c: NPL
     admin_level: Adm1
-    admin_name: Province2
-    shapeID: 38925275B32852473043531
-    country_name: Nepal
-  Nepal_Adm1_3:
-    iso3c: NPL
-    admin_level: Adm1
+  NPL.1.1_1_Adm2:
+    GID: NPL.1.1_1
     admin_name: Bagmati
-    shapeID: 38925275B1624743257395
-    country_name: Nepal
-  Nepal_Adm1_4:
     iso3c: NPL
-    admin_level: Adm1
-    admin_name: Gandaki
-    shapeID: 38925275B44970447822435
     country_name: Nepal
-  Nepal_Adm1_5:
+    admin_level: Adm2
+  NPL.1.2_1_Adm2:
+    GID: NPL.1.2_1
+    admin_name: Janakpur
     iso3c: NPL
-    admin_level: Adm1
-    admin_name: Lumbini
-    shapeID: 38925275B41812398098692
     country_name: Nepal
-  Nepal_Adm1_6:
+    admin_level: Adm2
+  NPL.1.3_1_Adm2:
+    GID: NPL.1.3_1
+    admin_name: Narayani
     iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.2_1_Adm1:
+    GID: NPL.2_1
+    admin_name: East
+    iso3c: NPL
+    country_name: Nepal
     admin_level: Adm1
+  NPL.2.1_1_Adm2:
+    GID: NPL.2.1_1
+    admin_name: Koshi
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.2.2_1_Adm2:
+    GID: NPL.2.2_1
+    admin_name: Mechi
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.2.3_1_Adm2:
+    GID: NPL.2.3_1
+    admin_name: Sagarmatha
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.3_1_Adm1:
+    GID: NPL.3_1
+    admin_name: Far-Western
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm1
+  NPL.3.1_1_Adm2:
+    GID: NPL.3.1_1
+    admin_name: Mahakali
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.3.2_1_Adm2:
+    GID: NPL.3.2_1
+    admin_name: Seti
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.4_1_Adm1:
+    GID: NPL.4_1
+    admin_name: Mid-Western
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm1
+  NPL.4.1_1_Adm2:
+    GID: NPL.4.1_1
+    admin_name: Bheri
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.4.2_1_Adm2:
+    GID: NPL.4.2_1
     admin_name: Karnali
-    shapeID: 38925275B76883637113030
-    country_name: Nepal
-  Nepal_Adm1_7:
     iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.4.3_1_Adm2:
+    GID: NPL.4.3_1
+    admin_name: Rapti
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.5_1_Adm1:
+    GID: NPL.5_1
+    admin_name: West
+    iso3c: NPL
+    country_name: Nepal
     admin_level: Adm1
-    admin_name: Sudurpaschim
-    shapeID: 38925275B37881943378158
-    country_name: Nepal
-  Nepal_Adm2_1:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Saptari
-    shapeID: 79688334B4946100078623
-    country_name: Nepal
-  Nepal_Adm2_10:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Kaski
-    shapeID: 79688334B51705960872508
-    country_name: Nepal
-  Nepal_Adm2_11:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Nawalapur
-    shapeID: 79688334B17767934844471
-    country_name: Nepal
-  Nepal_Adm2_12:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Palpa
-    shapeID: 79688334B23419571027876
-    country_name: Nepal
-  Nepal_Adm2_13:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Synagja
-    shapeID: 79688334B96987688238633
-    country_name: Nepal
-  Nepal_Adm2_14:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Kapilbastu
-    shapeID: 79688334B7787687755663
-    country_name: Nepal
-  Nepal_Adm2_15:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Arghakhanchi
-    shapeID: 79688334B25519916259767
-    country_name: Nepal
-  Nepal_Adm2_16:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Parbat
-    shapeID: 79688334B54926812711642
-    country_name: Nepal
-  Nepal_Adm2_17:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Gulmi
-    shapeID: 79688334B41423953387869
-    country_name: Nepal
-  Nepal_Adm2_18:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Baglung
-    shapeID: 79688334B67954640065490
-    country_name: Nepal
-  Nepal_Adm2_19:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Myagdi
-    shapeID: 79688334B74772932609037
-    country_name: Nepal
-  Nepal_Adm2_2:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Sindhupalchok
-    shapeID: 79688334B45086844065391
-    country_name: Nepal
-  Nepal_Adm2_20:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Mustang
-    shapeID: 79688334B73312243480989
-    country_name: Nepal
-  Nepal_Adm2_21:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Dang
-    shapeID: 79688334B21232771958326
-    country_name: Nepal
-  Nepal_Adm2_22:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Pyuthan
-    shapeID: 79688334B74725038936658
-    country_name: Nepal
-  Nepal_Adm2_23:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Rolpa
-    shapeID: 79688334B20911860961651
-    country_name: Nepal
-  Nepal_Adm2_24:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Dolpa
-    shapeID: 79688334B78921072212136
-    country_name: Nepal
-  Nepal_Adm2_25:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Rukum_E
-    shapeID: 79688334B6316349348825
-    country_name: Nepal
-  Nepal_Adm2_26:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Banke
-    shapeID: 79688334B65166067985613
-    country_name: Nepal
-  Nepal_Adm2_27:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Salyan
-    shapeID: 79688334B49601462528216
-    country_name: Nepal
-  Nepal_Adm2_28:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Bardiya
-    shapeID: 79688334B42581855207757
-    country_name: Nepal
-  Nepal_Adm2_29:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Surkhet
-    shapeID: 79688334B26373509514373
-    country_name: Nepal
-  Nepal_Adm2_3:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Bara
-    shapeID: 79688334B75970147852459
-    country_name: Nepal
-  Nepal_Adm2_30:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Rukum_W
-    shapeID: 79688334B34133508701345
-    country_name: Nepal
-  Nepal_Adm2_31:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Jajarkot
-    shapeID: 79688334B23259783147235
-    country_name: Nepal
-  Nepal_Adm2_32:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Jumla
-    shapeID: 79688334B51056142894180
-    country_name: Nepal
-  Nepal_Adm2_33:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Mugu
-    shapeID: 79688334B47020654466521
-    country_name: Nepal
-  Nepal_Adm2_34:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Kalikot
-    shapeID: 79688334B55093491548564
-    country_name: Nepal
-  Nepal_Adm2_35:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Achham
-    shapeID: 79688334B22569764928102
-    country_name: Nepal
-  Nepal_Adm2_36:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Kailali
-    shapeID: 79688334B92674154876378
-    country_name: Nepal
-  Nepal_Adm2_37:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Humla
-    shapeID: 79688334B54517632819416
-    country_name: Nepal
-  Nepal_Adm2_38:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Baijura
-    shapeID: 79688334B97946202169470
-    country_name: Nepal
-  Nepal_Adm2_39:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Kanchanpur
-    shapeID: 79688334B95323632068313
-    country_name: Nepal
-  Nepal_Adm2_4:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Nuwakot
-    shapeID: 79688334B17077666187877
-    country_name: Nepal
-  Nepal_Adm2_40:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Doti
-    shapeID: 79688334B42542710106007
-    country_name: Nepal
-  Nepal_Adm2_41:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Dadeidhura
-    shapeID: 79688334B96988603655579
-    country_name: Nepal
-  Nepal_Adm2_42:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Bajhang
-    shapeID: 79688334B93309047431112
-    country_name: Nepal
-  Nepal_Adm2_43:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Baitadi
-    shapeID: 79688334B91870171519943
-    country_name: Nepal
-  Nepal_Adm2_44:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Darchula
-    shapeID: 79688334B29370928347153
-    country_name: Nepal
-  Nepal_Adm2_45:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Chitawan
-    shapeID: 79688334B4548911343314
-    country_name: Nepal
-  Nepal_Adm2_46:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Bara
-    shapeID: 79688334B59716070388160
-    country_name: Nepal
-  Nepal_Adm2_47:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Dhading
-    shapeID: 79688334B79703604543181
-    country_name: Nepal
-  Nepal_Adm2_48:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Rasuwa
-    shapeID: 79688334B50883418539268
-    country_name: Nepal
-  Nepal_Adm2_49:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Kathmandu
-    shapeID: 79688334B75108943206003
-    country_name: Nepal
-  Nepal_Adm2_5:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Gorkha
-    shapeID: 79688334B93802880856426
-    country_name: Nepal
-  Nepal_Adm2_50:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Makawanpur
-    shapeID: 79688334B4770070965791
-    country_name: Nepal
-  Nepal_Adm2_51:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Lalitpur
-    shapeID: 79688334B56442296246471
-    country_name: Nepal
-  Nepal_Adm2_52:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Bhaktapur
-    shapeID: 79688334B89468852374463
-    country_name: Nepal
-  Nepal_Adm2_53:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Rautahat
-    shapeID: 79688334B59578652050640
-    country_name: Nepal
-  Nepal_Adm2_54:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Kabherepalanchok
-    shapeID: 79688334B6633706619717
-    country_name: Nepal
-  Nepal_Adm2_55:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Sarlahi
-    shapeID: 79688334B19196424171029
-    country_name: Nepal
-  Nepal_Adm2_56:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Sindhuli
-    shapeID: 79688334B98864242576983
-    country_name: Nepal
-  Nepal_Adm2_57:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Mahottari
-    shapeID: 79688334B2864822891274
-    country_name: Nepal
-  Nepal_Adm2_58:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Dhanusha
-    shapeID: 79688334B31965115417772
-    country_name: Nepal
-  Nepal_Adm2_59:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Ramechhap
-    shapeID: 79688334B71451270703127
-    country_name: Nepal
-  Nepal_Adm2_6:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Nawalparasi
-    shapeID: 79688334B71878033214617
-    country_name: Nepal
-  Nepal_Adm2_60:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Dolakha
-    shapeID: 79688334B63648782731009
-    country_name: Nepal
-  Nepal_Adm2_61:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Solukhumbu
-    shapeID: 79688334B91934658935516
-    country_name: Nepal
-  Nepal_Adm2_62:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Sankhuwasabha
-    shapeID: 79688334B42588683939124
-    country_name: Nepal
-  Nepal_Adm2_63:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Okhaldhunga
-    shapeID: 79688334B37255875594651
-    country_name: Nepal
-  Nepal_Adm2_64:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Saptari
-    shapeID: 79688334B89786345808010
-    country_name: Nepal
-  Nepal_Adm2_65:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Udayapur
-    shapeID: 79688334B21616169419050
-    country_name: Nepal
-  Nepal_Adm2_66:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Khotang
-    shapeID: 79688334B49682124537548
-    country_name: Nepal
-  Nepal_Adm2_67:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Bhojpur
-    shapeID: 79688334B25911812019859
-    country_name: Nepal
-  Nepal_Adm2_68:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Taplejung
-    shapeID: 79688334B77093948026586
-    country_name: Nepal
-  Nepal_Adm2_69:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Sunsari
-    shapeID: 79688334B3483584571464
-    country_name: Nepal
-  Nepal_Adm2_7:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Tanahu
-    shapeID: 79688334B55235398820876
-    country_name: Nepal
-  Nepal_Adm2_70:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Dhankuta
-    shapeID: 79688334B56950980955815
-    country_name: Nepal
-  Nepal_Adm2_71:
-    iso3c: NPL
-    admin_level: Adm2
-    admin_name: Morang
-    shapeID: 79688334B51407925774152
-    country_name: Nepal
-  Nepal_Adm2_72:
+  NPL.5.1_1_Adm2:
+    GID: NPL.5.1_1
+    admin_name: Dhaualagiri
     iso3c: NPL
-    admin_level: Adm2
-    admin_name: Terhathum
-    shapeID: 79688334B38810939127870
     country_name: Nepal
-  Nepal_Adm2_73:
-    iso3c: NPL
     admin_level: Adm2
-    admin_name: Panchthar
-    shapeID: 79688334B4331434147150
-    country_name: Nepal
-  Nepal_Adm2_74:
+  NPL.5.2_1_Adm2:
+    GID: NPL.5.2_1
+    admin_name: Gandaki
     iso3c: NPL
-    admin_level: Adm2
-    admin_name: Ilam
-    shapeID: 79688334B6151505937554
     country_name: Nepal
-  Nepal_Adm2_75:
-    iso3c: NPL
     admin_level: Adm2
-    admin_name: Jhapa
-    shapeID: 79688334B86384437878658
-    country_name: Nepal
-  Nepal_Adm2_8:
+  NPL.5.3_1_Adm2:
+    GID: NPL.5.3_1
+    admin_name: Lumbini
     iso3c: NPL
-    admin_level: Adm2
-    admin_name: Lamjung
-    shapeID: 79688334B1042132615369
     country_name: Nepal
-  Nepal_Adm2_9:
-    iso3c: NPL
     admin_level: Adm2
-    admin_name: Manang
-    shapeID: 79688334B24106117496420
-    country_name: Nepal

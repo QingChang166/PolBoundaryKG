@@ -1,805 +1,247 @@
 concepts:
-  Pakistan_Adm0:
-    iso3c: PAK
-    admin_level: Adm0
+  PAK.0_Adm0:
+    GID: PAK
     admin_name: Pakistan
-    shapeID: 80972501B79610057257386
-    country_name: Pakistan
-  Pakistan_Adm1_1:
     iso3c: PAK
-    admin_level: Adm1
+    country_name: Pakistan
+    admin_level: Adm0
+  PAK.2_1_Adm1:
+    GID: PAK.2_1
     admin_name: Balochistan
-    shapeID: 70912109B90439427603182
-    country_name: Pakistan
-  Pakistan_Adm1_2:
     iso3c: PAK
+    country_name: Pakistan
     admin_level: Adm1
-    admin_name: Sindh
-    shapeID: 70912109B8393927546319
-    country_name: Pakistan
-  Pakistan_Adm1_3:
-    iso3c: PAK
-    admin_level: Adm1
-    admin_name: Gilgit-Baltistan
-    shapeID: 70912109B54485417915534
-    country_name: Pakistan
-  Pakistan_Adm1_4:
-    iso3c: PAK
-    admin_level: Adm1
-    admin_name: AzadKashmir
-    shapeID: 70912109B7720427584286
-    country_name: Pakistan
-  Pakistan_Adm1_5:
-    iso3c: PAK
-    admin_level: Adm1
-    admin_name: KhyberPakhtunkhwa
-    shapeID: 70912109B89717923239242
-    country_name: Pakistan
-  Pakistan_Adm1_6:
-    iso3c: PAK
-    admin_level: Adm1
-    admin_name: Punjab
-    shapeID: 70912109B12169979015230
-    country_name: Pakistan
-  Pakistan_Adm1_7:
-    iso3c: PAK
-    admin_level: Adm1
-    admin_name: IslamabadCapitalTerritory
-    shapeID: 70912109B38683933016378
-    country_name: Pakistan
-  Pakistan_Adm2_1:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Khuzdar
-    shapeID: 60131773B93066332735048
-    country_name: Pakistan
-  Pakistan_Adm2_10:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: QillaAbdullah
-    shapeID: 60131773B86178318026607
-    country_name: Pakistan
-  Pakistan_Adm2_100:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Charsadda
-    shapeID: 60131773B23022038026088
-    country_name: Pakistan
-  Pakistan_Adm2_101:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Nowshera
-    shapeID: 60131773B18598484376654
-    country_name: Pakistan
-  Pakistan_Adm2_102:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Chitral
-    shapeID: 60131773B54641049915201
-    country_name: Pakistan
-  Pakistan_Adm2_103:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: UpperDir
-    shapeID: 60131773B29446283722767
-    country_name: Pakistan
-  Pakistan_Adm2_104:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: LowerDir
-    shapeID: 60131773B54543999554058
-    country_name: Pakistan
-  Pakistan_Adm2_105:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Malakand
-    shapeID: 60131773B9705850748557
-    country_name: Pakistan
-  Pakistan_Adm2_106:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Swat
-    shapeID: 60131773B1823729187559
-    country_name: Pakistan
-  Pakistan_Adm2_107:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Kohistan
-    shapeID: 60131773B14801046863917
-    country_name: Pakistan
-  Pakistan_Adm2_108:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Mardan
-    shapeID: 60131773B5290989463048
-    country_name: Pakistan
-  Pakistan_Adm2_109:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Swabi
-    shapeID: 60131773B50890866292234
-    country_name: Pakistan
-  Pakistan_Adm2_11:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Quetta
-    shapeID: 60131773B85525148994618
-    country_name: Pakistan
-  Pakistan_Adm2_110:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Buner
-    shapeID: 60131773B22387790384986
-    country_name: Pakistan
-  Pakistan_Adm2_111:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Haripur
-    shapeID: 60131773B42646674386444
-    country_name: Pakistan
-  Pakistan_Adm2_112:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Abbottabad
-    shapeID: 60131773B72099397094801
-    country_name: Pakistan
-  Pakistan_Adm2_113:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Battagram
-    shapeID: 60131773B7493488405198
-    country_name: Pakistan
-  Pakistan_Adm2_114:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Shangla
-    shapeID: 60131773B76224452680958
-    country_name: Pakistan
-  Pakistan_Adm2_115:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Diamer
-    shapeID: 60131773B87989471415056
-    country_name: Pakistan
-  Pakistan_Adm2_116:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Ghizer
-    shapeID: 60131773B93676834347854
-    country_name: Pakistan
-  Pakistan_Adm2_117:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Hunza
-    shapeID: 60131773B26859334855917
-    country_name: Pakistan
-  Pakistan_Adm2_118:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Gilgit
-    shapeID: 60131773B69357780596584
-    country_name: Pakistan
-  Pakistan_Adm2_119:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Nagar
-    shapeID: 60131773B61639308877263
-    country_name: Pakistan
-  Pakistan_Adm2_12:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Pishin
-    shapeID: 60131773B59869695415818
-    country_name: Pakistan
-  Pakistan_Adm2_120:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Astore
-    shapeID: 60131773B26577032556552
-    country_name: Pakistan
-  Pakistan_Adm2_121:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Kharmang
-    shapeID: 60131773B13103305311428
-    country_name: Pakistan
-  Pakistan_Adm2_122:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Skardu
-    shapeID: 60131773B32215659556771
-    country_name: Pakistan
-  Pakistan_Adm2_123:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Ghanche
-    shapeID: 60131773B51759395267564
-    country_name: Pakistan
-  Pakistan_Adm2_124:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Okara
-    shapeID: 60131773B44161758981040
-    country_name: Pakistan
-  Pakistan_Adm2_125:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Narowal
-    shapeID: 60131773B82668365972315
-    country_name: Pakistan
-  Pakistan_Adm2_126:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Gujranwala
-    shapeID: 60131773B88946568603143
-    country_name: Pakistan
-  Pakistan_Adm2_13:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Kharan
-    shapeID: 60131773B27830056943813
-    country_name: Pakistan
-  Pakistan_Adm2_14:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Mastung
-    shapeID: 60131773B16229286740920
-    country_name: Pakistan
-  Pakistan_Adm2_15:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Ziarat
-    shapeID: 60131773B4501326709334
-    country_name: Pakistan
-  Pakistan_Adm2_16:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: QillaSaifullah
-    shapeID: 60131773B38322767851144
-    country_name: Pakistan
-  Pakistan_Adm2_17:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Gwadar
-    shapeID: 60131773B21768890659919
-    country_name: Pakistan
-  Pakistan_Adm2_18:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Kech
-    shapeID: 60131773B90188516769392
-    country_name: Pakistan
-  Pakistan_Adm2_19:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Panjgur
-    shapeID: 60131773B78019453337506
-    country_name: Pakistan
-  Pakistan_Adm2_2:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Khairpur
-    shapeID: 60131773B73341627633867
-    country_name: Pakistan
-  Pakistan_Adm2_20:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Zhob
-    shapeID: 60131773B56660655916531
-    country_name: Pakistan
-  Pakistan_Adm2_21:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Musakhel
-    shapeID: 60131773B63600208820336
-    country_name: Pakistan
-  Pakistan_Adm2_22:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Loralai
-    shapeID: 60131773B26464882384366
-    country_name: Pakistan
-  Pakistan_Adm2_23:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Sibi
-    shapeID: 60131773B4455678944208
-    country_name: Pakistan
-  Pakistan_Adm2_24:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Barkhan
-    shapeID: 60131773B5489538040587
-    country_name: Pakistan
-  Pakistan_Adm2_25:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Kohlu
-    shapeID: 60131773B23239720560539
-    country_name: Pakistan
-  Pakistan_Adm2_26:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: DeraBugti
-    shapeID: 60131773B98660593522909
-    country_name: Pakistan
-  Pakistan_Adm2_27:
-    iso3c: PAK
-    admin_level: Adm2
+  PAK.2.1_1_Adm2:
+    GID: PAK.2.1_1
     admin_name: Kalat
-    shapeID: 60131773B73183566855264
-    country_name: Pakistan
-  Pakistan_Adm2_28:
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: Jafarabad
-    shapeID: 60131773B9223657476240
     country_name: Pakistan
-  Pakistan_Adm2_29:
-    iso3c: PAK
     admin_level: Adm2
+  PAK.2.2_1_Adm2:
+    GID: PAK.2.2_1
+    admin_name: Makran
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.2.3_1_Adm2:
+    GID: PAK.2.3_1
     admin_name: Nasirabad
-    shapeID: 60131773B26719874374651
-    country_name: Pakistan
-  Pakistan_Adm2_3:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Shigar
-    shapeID: 60131773B80474055533549
-    country_name: Pakistan
-  Pakistan_Adm2_30:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: JhalMagsi
-    shapeID: 60131773B34411943019080
-    country_name: Pakistan
-  Pakistan_Adm2_31:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Kachhi
-    shapeID: 60131773B21915843923455
-    country_name: Pakistan
-  Pakistan_Adm2_32:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Awaran
-    shapeID: 60131773B83658797775488
-    country_name: Pakistan
-  Pakistan_Adm2_33:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Lasbela
-    shapeID: 60131773B42304807802578
-    country_name: Pakistan
-  Pakistan_Adm2_34:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Karachi
-    shapeID: 60131773B89354468833127
-    country_name: Pakistan
-  Pakistan_Adm2_35:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Thatta
-    shapeID: 60131773B60768586772273
-    country_name: Pakistan
-  Pakistan_Adm2_36:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Tharparkar
-    shapeID: 60131773B67519654827672
-    country_name: Pakistan
-  Pakistan_Adm2_37:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Umerkot
-    shapeID: 60131773B28622897485714
-    country_name: Pakistan
-  Pakistan_Adm2_38:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Jamshoro
-    shapeID: 60131773B94762561978549
-    country_name: Pakistan
-  Pakistan_Adm2_39:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Dadu
-    shapeID: 60131773B38030723714004
-    country_name: Pakistan
-  Pakistan_Adm2_4:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: AzadKashmir
-    shapeID: 60131773B7720427584286
-    country_name: Pakistan
-  Pakistan_Adm2_40:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: TandoMuhammadKhan
-    shapeID: 60131773B98253139907552
-    country_name: Pakistan
-  Pakistan_Adm2_41:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Hyderabad
-    shapeID: 60131773B34805202457071
-    country_name: Pakistan
-  Pakistan_Adm2_42:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: TandoAllahyar
-    shapeID: 60131773B20597403673155
-    country_name: Pakistan
-  Pakistan_Adm2_43:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Badin
-    shapeID: 60131773B83330290497883
-    country_name: Pakistan
-  Pakistan_Adm2_44:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Mirpurkhas
-    shapeID: 60131773B59402591516435
-    country_name: Pakistan
-  Pakistan_Adm2_45:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Matiari
-    shapeID: 60131773B2308432859426
-    country_name: Pakistan
-  Pakistan_Adm2_46:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Nawabshah
-    shapeID: 60131773B8268700226497
-    country_name: Pakistan
-  Pakistan_Adm2_47:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Sanghar
-    shapeID: 60131773B69228625055363
-    country_name: Pakistan
-  Pakistan_Adm2_48:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: NaushehroFeroze
-    shapeID: 60131773B29754005745018
-    country_name: Pakistan
-  Pakistan_Adm2_49:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: QambarShahdadkot
-    shapeID: 60131773B25298003092130
-    country_name: Pakistan
-  Pakistan_Adm2_5:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Mansehra
-    shapeID: 60131773B60197431758635
-    country_name: Pakistan
-  Pakistan_Adm2_50:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Jacobabad
-    shapeID: 60131773B51859318553172
-    country_name: Pakistan
-  Pakistan_Adm2_51:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Shikarpur
-    shapeID: 60131773B71710273368216
-    country_name: Pakistan
-  Pakistan_Adm2_52:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Ghotki
-    shapeID: 60131773B41234063564687
-    country_name: Pakistan
-  Pakistan_Adm2_53:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Sukkur
-    shapeID: 60131773B6836012758055
-    country_name: Pakistan
-  Pakistan_Adm2_54:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Kashmore
-    shapeID: 60131773B9433452201095
-    country_name: Pakistan
-  Pakistan_Adm2_55:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Rajanpur
-    shapeID: 60131773B20865875838110
-    country_name: Pakistan
-  Pakistan_Adm2_56:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: DeraGhaziKhan
-    shapeID: 60131773B30596908956193
-    country_name: Pakistan
-  Pakistan_Adm2_57:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: RahimYarKhan
-    shapeID: 60131773B62209958986210
-    country_name: Pakistan
-  Pakistan_Adm2_58:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Bahawalpur
-    shapeID: 60131773B1682888309057
-    country_name: Pakistan
-  Pakistan_Adm2_59:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Bahawalnagar
-    shapeID: 60131773B87869837926518
-    country_name: Pakistan
-  Pakistan_Adm2_6:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Sheikhpura
-    shapeID: 60131773B77924130965412
-    country_name: Pakistan
-  Pakistan_Adm2_60:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Muzaffargarh
-    shapeID: 60131773B35391658041951
-    country_name: Pakistan
-  Pakistan_Adm2_61:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Multan
-    shapeID: 60131773B23430003294099
-    country_name: Pakistan
-  Pakistan_Adm2_62:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Lodhran
-    shapeID: 60131773B70654897803928
-    country_name: Pakistan
-  Pakistan_Adm2_63:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Vihari
-    shapeID: 60131773B88575836455909
-    country_name: Pakistan
-  Pakistan_Adm2_64:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Pakpattan
-    shapeID: 60131773B14200626987030
-    country_name: Pakistan
-  Pakistan_Adm2_65:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Khanewal
-    shapeID: 60131773B65225606899244
-    country_name: Pakistan
-  Pakistan_Adm2_66:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Layyah
-    shapeID: 60131773B48638774730553
-    country_name: Pakistan
-  Pakistan_Adm2_67:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Bhakkar
-    shapeID: 60131773B30767037286038
-    country_name: Pakistan
-  Pakistan_Adm2_68:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Mianwali
-    shapeID: 60131773B23862504488885
-    country_name: Pakistan
-  Pakistan_Adm2_69:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Attock
-    shapeID: 60131773B58775414711985
-    country_name: Pakistan
-  Pakistan_Adm2_7:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: IslamabadCapitalTerritory
-    shapeID: 60131773B38683933016378
-    country_name: Pakistan
-  Pakistan_Adm2_70:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Rawalpindi
-    shapeID: 60131773B42622960326962
-    country_name: Pakistan
-  Pakistan_Adm2_71:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Chakwal
-    shapeID: 60131773B38629666189036
-    country_name: Pakistan
-  Pakistan_Adm2_72:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Jhelum
-    shapeID: 60131773B97221044670338
-    country_name: Pakistan
-  Pakistan_Adm2_73:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Khushab
-    shapeID: 60131773B32751067519836
-    country_name: Pakistan
-  Pakistan_Adm2_74:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Jhang
-    shapeID: 60131773B16642002578662
-    country_name: Pakistan
-  Pakistan_Adm2_75:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Sargodha
-    shapeID: 60131773B43291036971702
-    country_name: Pakistan
-  Pakistan_Adm2_76:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: MandiBahauddin
-    shapeID: 60131773B54820968474924
-    country_name: Pakistan
-  Pakistan_Adm2_77:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Gujrat
-    shapeID: 60131773B28972514409475
-    country_name: Pakistan
-  Pakistan_Adm2_78:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Sialkot
-    shapeID: 60131773B32204184346600
-    country_name: Pakistan
-  Pakistan_Adm2_79:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: TobaTekSingh
-    shapeID: 60131773B31739669029238
-    country_name: Pakistan
-  Pakistan_Adm2_8:
-    iso3c: PAK
-    admin_level: Adm2
-    admin_name: Chagai
-    shapeID: 60131773B36839649837975
-    country_name: Pakistan
-  Pakistan_Adm2_80:
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: Sahiwal
-    shapeID: 60131773B90085622971238
     country_name: Pakistan
-  Pakistan_Adm2_81:
-    iso3c: PAK
     admin_level: Adm2
-    admin_name: Kasur
-    shapeID: 60131773B44072502651200
-    country_name: Pakistan
-  Pakistan_Adm2_82:
+  PAK.2.4_1_Adm2:
+    GID: PAK.2.4_1
+    admin_name: Quetta
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: Faisalabad
-    shapeID: 60131773B82635502895377
     country_name: Pakistan
-  Pakistan_Adm2_83:
-    iso3c: PAK
     admin_level: Adm2
-    admin_name: Lahore
-    shapeID: 60131773B12131197496886
-    country_name: Pakistan
-  Pakistan_Adm2_84:
+  PAK.2.5_1_Adm2:
+    GID: PAK.2.5_1
+    admin_name: Sibi
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: Hafizabad
-    shapeID: 60131773B95498631357926
     country_name: Pakistan
-  Pakistan_Adm2_85:
-    iso3c: PAK
     admin_level: Adm2
-    admin_name: DeraIsmailKhan
-    shapeID: 60131773B67546626351137
-    country_name: Pakistan
-  Pakistan_Adm2_86:
+  PAK.2.6_1_Adm2:
+    GID: PAK.2.6_1
+    admin_name: Zhob
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: Mohmand
-    shapeID: 60131773B96871248049810
     country_name: Pakistan
-  Pakistan_Adm2_87:
-    iso3c: PAK
     admin_level: Adm2
-    admin_name: SouthWaziristan
-    shapeID: 60131773B50446487473862
-    country_name: Pakistan
-  Pakistan_Adm2_88:
+  PAK.3_1_Adm1:
+    GID: PAK.3_1
+    admin_name: Federally Administered Tribal Ar
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: NorthWaziristan
-    shapeID: 60131773B58460659990096
     country_name: Pakistan
-  Pakistan_Adm2_89:
+    admin_level: Adm1
+  PAK.3.1_1_Adm2:
+    GID: PAK.3.1_1
+    admin_name: F.A.T.A.
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: Kurram
-    shapeID: 60131773B15400988410735
     country_name: Pakistan
-  Pakistan_Adm2_9:
-    iso3c: PAK
     admin_level: Adm2
-    admin_name: Nushki
-    shapeID: 60131773B72319484655962
-    country_name: Pakistan
-  Pakistan_Adm2_90:
+  PAK.4_1_Adm1:
+    GID: PAK.4_1
+    admin_name: Islamabad
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: Orakzai
-    shapeID: 60131773B96807968308184
     country_name: Pakistan
-  Pakistan_Adm2_91:
+    admin_level: Adm1
+  PAK.4.1_1_Adm2:
+    GID: PAK.4.1_1
+    admin_name: Islamabad
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: Khyber
-    shapeID: 60131773B27649716403559
     country_name: Pakistan
-  Pakistan_Adm2_92:
-    iso3c: PAK
     admin_level: Adm2
-    admin_name: Bajaur
-    shapeID: 60131773B91759385923899
-    country_name: Pakistan
-  Pakistan_Adm2_93:
+  PAK.5_1_Adm1:
+    GID: PAK.5_1
+    admin_name: Khyber-Pakhtunkhwa
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: Tank
-    shapeID: 60131773B96238824435085
     country_name: Pakistan
-  Pakistan_Adm2_94:
-    iso3c: PAK
-    admin_level: Adm2
+    admin_level: Adm1
+  PAK.5.1_1_Adm2:
+    GID: PAK.5.1_1
     admin_name: Bannu
-    shapeID: 60131773B17299889022075
-    country_name: Pakistan
-  Pakistan_Adm2_95:
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: LakkiMarwat
-    shapeID: 60131773B15772684086405
     country_name: Pakistan
-  Pakistan_Adm2_96:
-    iso3c: PAK
     admin_level: Adm2
-    admin_name: Hangu
-    shapeID: 60131773B32191549390646
+  PAK.5.2_1_Adm2:
+    GID: PAK.5.2_1
+    admin_name: Dera Ismail Khan
+    iso3c: PAK
     country_name: Pakistan
-  Pakistan_Adm2_97:
-    iso3c: PAK
     admin_level: Adm2
-    admin_name: Karak
-    shapeID: 60131773B8650972083895
+  PAK.5.3_1_Adm2:
+    GID: PAK.5.3_1
+    admin_name: F.A.T.A.
+    iso3c: PAK
     country_name: Pakistan
-  Pakistan_Adm2_98:
-    iso3c: PAK
     admin_level: Adm2
+  PAK.5.4_1_Adm2:
+    GID: PAK.5.4_1
+    admin_name: Hazara
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.5.5_1_Adm2:
+    GID: PAK.5.5_1
     admin_name: Kohat
-    shapeID: 60131773B76176565270219
-    country_name: Pakistan
-  Pakistan_Adm2_99:
     iso3c: PAK
-    admin_level: Adm2
-    admin_name: Peshawar
-    shapeID: 60131773B69285996327123
     country_name: Pakistan
+    admin_level: Adm2
+  PAK.5.6_1_Adm2:
+    GID: PAK.5.6_1
+    admin_name: Malakand
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.5.7_1_Adm2:
+    GID: PAK.5.7_1
+    admin_name: Mardan
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.5.8_1_Adm2:
+    GID: PAK.5.8_1
+    admin_name: Peshawar
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.7_1_Adm1:
+    GID: PAK.7_1
+    admin_name: Punjab
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm1
+  PAK.7.1_1_Adm2:
+    GID: PAK.7.1_1
+    admin_name: Bahawalpur
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.7.2_1_Adm2:
+    GID: PAK.7.2_1
+    admin_name: Dera Ghazi Khan
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.7.3_1_Adm2:
+    GID: PAK.7.3_1
+    admin_name: Faisalabad
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.7.4_1_Adm2:
+    GID: PAK.7.4_1
+    admin_name: Gujranwala
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.7.5_1_Adm2:
+    GID: PAK.7.5_1
+    admin_name: Lahore
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.7.6_1_Adm2:
+    GID: PAK.7.6_1
+    admin_name: Multan
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.7.7_1_Adm2:
+    GID: PAK.7.7_1
+    admin_name: Rawalpindi
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.7.8_1_Adm2:
+    GID: PAK.7.8_1
+    admin_name: Sargodha
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.8_1_Adm1:
+    GID: PAK.8_1
+    admin_name: Sindh
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm1
+  PAK.8.1_1_Adm2:
+    GID: PAK.8.1_1
+    admin_name: Hyderabad
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.8.2_1_Adm2:
+    GID: PAK.8.2_1
+    admin_name: Karachi
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.8.3_1_Adm2:
+    GID: PAK.8.3_1
+    admin_name: Larkana
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.8.4_1_Adm2:
+    GID: PAK.8.4_1
+    admin_name: Mirpur Khas
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.8.5_1_Adm2:
+    GID: PAK.8.5_1
+    admin_name: Rann of Kutch
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  PAK.8.6_1_Adm2:
+    GID: PAK.8.6_1
+    admin_name: Sukkur
+    iso3c: PAK
+    country_name: Pakistan
+    admin_level: Adm2
+  Z06.1_1_Adm1:
+    GID: Z06.1_1
+    admin_name: Azad Kashmir
+    iso3c: Z06
+    country_name: Pakistan
+    admin_level: Adm1
+  Z06.1.1_1_Adm2:
+    GID: Z06.1.1_1
+    admin_name: Azad Kashmir
+    iso3c: Z06
+    country_name: Pakistan
+    admin_level: Adm2
+  Z06.6_1_Adm1:
+    GID: Z06.6_1
+    admin_name: Gilgit-Baltistan
+    iso3c: Z06
+    country_name: Pakistan
+    admin_level: Adm1
+  Z06.6.1_1_Adm2:
+    GID: Z06.6.1_1
+    admin_name: Northern Areas
+    iso3c: Z06
+    country_name: Pakistan
+    admin_level: Adm2

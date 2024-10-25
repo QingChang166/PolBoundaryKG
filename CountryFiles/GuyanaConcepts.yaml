@@ -1,229 +1,763 @@
 concepts:
-  Guyana_Adm0:
-    iso3c: GUY
-    admin_level: Adm0
+  GUY.0_Adm0:
+    GID: GUY
     admin_name: Guyana
-    shapeID: 53426202B65757774977118
-    country_name: Guyana
-  Guyana_Adm1_1:
     iso3c: GUY
-    admin_level: Adm1
-    admin_name: Barina-Waini
-    shapeID: 73500413B35208227968900
     country_name: Guyana
-  Guyana_Adm1_10:
+    admin_level: Adm0
+  GUY.1_1_Adm1:
+    GID: GUY.1_1
+    admin_name: Barima-Waini
     iso3c: GUY
-    admin_level: Adm1
-    admin_name: UpperDemerara-Berbice
-    shapeID: 73500413B72922726177356
     country_name: Guyana
-  Guyana_Adm1_2:
-    iso3c: GUY
     admin_level: Adm1
-    admin_name: Pomeroon-Supenaam
-    shapeID: 73500413B77355957241998
+  GUY.1.1_1_Adm2:
+    GID: GUY.1.1_1
+    admin_name: Barima / Amakura
+    iso3c: GUY
     country_name: Guyana
-  Guyana_Adm1_3:
+    admin_level: Adm2
+  GUY.1.2_1_Adm2:
+    GID: GUY.1.2_1
+    admin_name: Mabaruma / Kumaka / Hosororo
     iso3c: GUY
-    admin_level: Adm1
-    admin_name: EssequiboIslands-WestDemerara
-    shapeID: 73500413B61038187736836
     country_name: Guyana
-  Guyana_Adm1_4:
+    admin_level: Adm2
+  GUY.1.3_1_Adm2:
+    GID: GUY.1.3_1
+    admin_name: Matthews Ridge / Arakaka (Mataka
     iso3c: GUY
-    admin_level: Adm1
-    admin_name: Demerara-Mahaica
-    shapeID: 73500413B28210658685043
     country_name: Guyana
-  Guyana_Adm1_5:
+    admin_level: Adm2
+  GUY.1.4_1_Adm2:
+    GID: GUY.1.4_1
+    admin_name: Rest of Region 1
     iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.1.5_1_Adm2:
+    GID: GUY.1.5_1
+    admin_name: Waini
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.10_1_Adm1:
+    GID: GUY.10_1
+    admin_name: Upper Takutu-Upper Essequibo
+    iso3c: GUY
+    country_name: Guyana
     admin_level: Adm1
+  GUY.10.1_1_Adm2:
+    GID: GUY.10.1_1
+    admin_name: Aishalton - Karaudanawa, Achiwib
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.10.2_1_Adm2:
+    GID: GUY.10.2_1
+    admin_name: Ireng / Sawariwau (Including St.
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.10.3_1_Adm2:
+    GID: GUY.10.3_1
+    admin_name: Marudi
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.10.4_1_Adm2:
+    GID: GUY.10.4_1
+    admin_name: Rest of Region 9
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.10.5_1_Adm2:
+    GID: GUY.10.5_1
+    admin_name: Sand Creek - Dadanawa, Catunarib
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.10.6_1_Adm2:
+    GID: GUY.10.6_1
+    admin_name: Toka - Jakaretinga
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.10.7_1_Adm2:
+    GID: GUY.10.7_1
+    admin_name: Yakarinta - Wowetta, Surama
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.10.8_1_Adm2:
+    GID: GUY.10.8_1
+    admin_name: Yarong Paru - Good Hope
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.2_1_Adm1:
+    GID: GUY.2_1
     admin_name: Cuyuni-Mazaruni
-    shapeID: 73500413B42913807349964
-    country_name: Guyana
-  Guyana_Adm1_6:
     iso3c: GUY
-    admin_level: Adm1
-    admin_name: Potaro-Siparuni
-    shapeID: 73500413B80201159559449
     country_name: Guyana
-  Guyana_Adm1_7:
-    iso3c: GUY
     admin_level: Adm1
-    admin_name: UpperTakutu-UpperEssequibo
-    shapeID: 73500413B44928754933782
+  GUY.2.1_1_Adm2:
+    GID: GUY.2.1_1
+    admin_name: Agatash
+    iso3c: GUY
     country_name: Guyana
-  Guyana_Adm1_8:
+    admin_level: Adm2
+  GUY.2.2_1_Adm2:
+    GID: GUY.2.2_1
+    admin_name: Arau
     iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.2.3_1_Adm2:
+    GID: GUY.2.3_1
+    admin_name: Bartica
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.2.4_1_Adm2:
+    GID: GUY.2.4_1
+    admin_name: Jawalla, Kubenang River
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.2.5_1_Adm2:
+    GID: GUY.2.5_1
+    admin_name: Kamarang
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.2.6_1_Adm2:
+    GID: GUY.2.6_1
+    admin_name: Karambaru to Kukui River + Phill
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.2.7_1_Adm2:
+    GID: GUY.2.7_1
+    admin_name: Paruima
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.2.8_1_Adm2:
+    GID: GUY.2.8_1
+    admin_name: Rest of Region 7
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.2.9_1_Adm2:
+    GID: GUY.2.9_1
+    admin_name: Waramadan
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3_1_Adm1:
+    GID: GUY.3_1
+    admin_name: Demerara-Mahaica
+    iso3c: GUY
+    country_name: Guyana
     admin_level: Adm1
+  GUY.3.1_1_Adm2:
+    GID: GUY.3.1_1
+    admin_name: Cane Grove Land Development Sche
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.10_1_Adm2:
+    GID: GUY.3.10_1
+    admin_name: Herstelling / Little Diamond
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.11_1_Adm2:
+    GID: GUY.3.11_1
+    admin_name: La Bonne Intention / Better Hope
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.12_1_Adm2:
+    GID: GUY.3.12_1
+    admin_name: La Reconnaissance / Mon Repos
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.13_1_Adm2:
+    GID: GUY.3.13_1
+    admin_name: Mocha / Arcadia
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.14_1_Adm2:
+    GID: GUY.3.14_1
+    admin_name: Plaisance / Industry
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.15_1_Adm2:
+    GID: GUY.3.15_1
+    admin_name: Soesdyke-Linden highway (includi
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.16_1_Adm2:
+    GID: GUY.3.16_1
+    admin_name: St. Cuthberts / Orange Nassau (M
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.17_1_Adm2:
+    GID: GUY.3.17_1
+    admin_name: Te Huist Coverden / Soesdyke
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.18_1_Adm2:
+    GID: GUY.3.18_1
+    admin_name: Triumph / Beterverwagting
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.19_1_Adm2:
+    GID: GUY.3.19_1
+    admin_name: Vereeniging / Unity
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.2_1_Adm2:
+    GID: GUY.3.2_1
+    admin_name: City of Georgetown
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.3_1_Adm2:
+    GID: GUY.3.3_1
+    admin_name: Demerara Conservancy
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.4_1_Adm2:
+    GID: GUY.3.4_1
+    admin_name: Diamond / Golden Grove
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.5_1_Adm2:
+    GID: GUY.3.5_1
+    admin_name: Eccles / Ramsburg
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.6_1_Adm2:
+    GID: GUY.3.6_1
+    admin_name: Enmore / Hope
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.7_1_Adm2:
+    GID: GUY.3.7_1
+    admin_name: Foulis / Buxton
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.8_1_Adm2:
+    GID: GUY.3.8_1
+    admin_name: Good Success / Caledonia
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.3.9_1_Adm2:
+    GID: GUY.3.9_1
+    admin_name: Grove / Haslington
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4_1_Adm1:
+    GID: GUY.4_1
+    admin_name: East Berbice-Corentyne
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm1
+  GUY.4.1_1_Adm2:
+    GID: GUY.4.1_1
+    admin_name: Black Bush Polder land Developme
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.10_1_Adm2:
+    GID: GUY.4.10_1
+    admin_name: Hampshire / Kilcoy
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.11_1_Adm2:
+    GID: GUY.4.11_1
+    admin_name: Hogstye / Lancaster
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.12_1_Adm2:
+    GID: GUY.4.12_1
+    admin_name: Jackson Creek / Crabwood Creek
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.13_1_Adm2:
+    GID: GUY.4.13_1
+    admin_name: John / Port Mourant
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.14_1_Adm2:
+    GID: GUY.4.14_1
+    admin_name: Joppa / Macedonia
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.15_1_Adm2:
+    GID: GUY.4.15_1
+    admin_name: New Amsterdam
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.16_1_Adm2:
+    GID: GUY.4.16_1
+    admin_name: No. 38 / Ordnance Fortlands
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.17_1_Adm2:
+    GID: GUY.4.17_1
+    admin_name: No.51 Village / Good Hope
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.18_1_Adm2:
+    GID: GUY.4.18_1
+    admin_name: No.74 Village / No.52 Village
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.19_1_Adm2:
+    GID: GUY.4.19_1
+    admin_name: Rose Hall
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.2_1_Adm2:
+    GID: GUY.4.2_1
+    admin_name: Borlam ( No.37 ) / Kintyre
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.20_1_Adm2:
+    GID: GUY.4.20_1
+    admin_name: Tarlogie / Maida
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.21_1_Adm2:
+    GID: GUY.4.21_1
+    admin_name: Whim / Bloomfield
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.3_1_Adm2:
+    GID: GUY.4.3_1
+    admin_name: Bush Lot / Adventure
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.4_1_Adm2:
+    GID: GUY.4.4_1
+    admin_name: Cane Field / Enterprise
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.5_1_Adm2:
+    GID: GUY.4.5_1
+    admin_name: Corentyne River
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.6_1_Adm2:
+    GID: GUY.4.6_1
+    admin_name: Corriverton
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.7_1_Adm2:
+    GID: GUY.4.7_1
+    admin_name: East Bank Berbice
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.8_1_Adm2:
+    GID: GUY.4.8_1
+    admin_name: Enfield / New Doe Park
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.4.9_1_Adm2:
+    GID: GUY.4.9_1
+    admin_name: Fyrish / Gibraltar
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5_1_Adm1:
+    GID: GUY.5_1
+    admin_name: Essequibo Islands-West Demerara
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm1
+  GUY.5.1_1_Adm2:
+    GID: GUY.5.1_1
+    admin_name: Amsterdam (Demerara River) / Vri
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.10_1_Adm2:
+    GID: GUY.5.10_1
+    admin_name: Lower West Demerara
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.11_1_Adm2:
+    GID: GUY.5.11_1
+    admin_name: Meer Zorgen / Malgre Tout
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.12_1_Adm2:
+    GID: GUY.5.12_1
+    admin_name: Nismes / La Grange
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.13_1_Adm2:
+    GID: GUY.5.13_1
+    admin_name: Nouvelle Flanders / La Jalousie
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.14_1_Adm2:
+    GID: GUY.5.14_1
+    admin_name: Parika / Mora
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.15_1_Adm2:
+    GID: GUY.5.15_1
+    admin_name: Patentia / Toevlugt
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.16_1_Adm2:
+    GID: GUY.5.16_1
+    admin_name: Sparta / Bonasika and Rest of Es
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.17_1_Adm2:
+    GID: GUY.5.17_1
+    admin_name: Uitvlugt / Tuschen
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.18_1_Adm2:
+    GID: GUY.5.18_1
+    admin_name: Vergenoegen / Greenwich Park
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.19_1_Adm2:
+    GID: GUY.5.19_1
+    admin_name: Wakenaam (Essequibo Islands)
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.2_1_Adm2:
+    GID: GUY.5.2_1
+    admin_name: Blankenburg / Hague
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.3_1_Adm2:
+    GID: GUY.5.3_1
+    admin_name: Bonasika / Boerasirie
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.4_1_Adm2:
+    GID: GUY.5.4_1
+    admin_name: Canal No. 2 (part) + The Belle +
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.5_1_Adm2:
+    GID: GUY.5.5_1
+    admin_name: Canals Polder
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.6_1_Adm2:
+    GID: GUY.5.6_1
+    admin_name: Cornelia Ida / Stewartville
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.7_1_Adm2:
+    GID: GUY.5.7_1
+    admin_name: Good Hope / Hydronie
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.8_1_Adm2:
+    GID: GUY.5.8_1
+    admin_name: Klein Pouderoyen / Best
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.5.9_1_Adm2:
+    GID: GUY.5.9_1
+    admin_name: Leguan (Essequibo Islands )
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.6_1_Adm1:
+    GID: GUY.6_1
     admin_name: Mahaica-Berbice
-    shapeID: 73500413B27249657307617
-    country_name: Guyana
-  Guyana_Adm1_9:
     iso3c: GUY
+    country_name: Guyana
     admin_level: Adm1
-    admin_name: EastBerbice-Corentyne
-    shapeID: 73500413B7170020273928
-    country_name: Guyana
-  Guyana_Adm2_1:
+  GUY.6.1_1_Adm2:
+    GID: GUY.6.1_1
+    admin_name: Abary / Mahaicony
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: III-1EssequiboIslands
-    shapeID: 73187651B403858167670
     country_name: Guyana
-  Guyana_Adm2_10:
+    admin_level: Adm2
+  GUY.6.10_1_Adm2:
+    GID: GUY.6.10_1
+    admin_name: Tempe / Seafield
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: IV-1Moblissa/LaReconnai
-    shapeID: 73187651B62691017600789
     country_name: Guyana
-  Guyana_Adm2_11:
+    admin_level: Adm2
+  GUY.6.11_1_Adm2:
+    GID: GUY.6.11_1
+    admin_name: West bank Berbice
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: V-1Mahaica/Mahaicony
-    shapeID: 73187651B37503921444880
     country_name: Guyana
-  Guyana_Adm2_12:
+    admin_level: Adm2
+  GUY.6.12_1_Adm2:
+    GID: GUY.6.12_1
+    admin_name: Woodley Park / Bath
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: IV-2Buxton/Mahaica
-    shapeID: 73187651B35939089598366
     country_name: Guyana
-  Guyana_Adm2_13:
+    admin_level: Adm2
+  GUY.6.2_1_Adm2:
+    GID: GUY.6.2_1
+    admin_name: Bel Air / Woodlands
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VI-4LowerCorentyneRive
-    shapeID: 73187651B56094109517329
     country_name: Guyana
-  Guyana_Adm2_14:
+    admin_level: Adm2
+  GUY.6.3_1_Adm2:
+    GID: GUY.6.3_1
+    admin_name: Chance / Hamlet
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VI-5LeftBankUpperCanj
-    shapeID: 73187651B6333666971836
     country_name: Guyana
-  Guyana_Adm2_15:
+    admin_level: Adm2
+  GUY.6.4_1_Adm2:
+    GID: GUY.6.4_1
+    admin_name: Farm / Woodlands
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VI-1EastBerbice/W.Canje
-    shapeID: 73187651B47242148474539
     country_name: Guyana
-  Guyana_Adm2_16:
+    admin_level: Adm2
+  GUY.6.5_1_Adm2:
+    GID: GUY.6.5_1
+    admin_name: Gelderland / No. 3
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: V-2Mahaicony/Berbice
-    shapeID: 73187651B73006016371738
     country_name: Guyana
-  Guyana_Adm2_17:
+    admin_level: Adm2
+  GUY.6.6_1_Adm2:
+    GID: GUY.6.6_1
+    admin_name: Naarstigheid / Union
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VI-3BlackBushPolder
-    shapeID: 73187651B65372022493743
     country_name: Guyana
-  Guyana_Adm2_18:
+    admin_level: Adm2
+  GUY.6.7_1_Adm2:
+    GID: GUY.6.7_1
+    admin_name: Rising Sun / Profit
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VI-2EastCanje/E.C.Berb
-    shapeID: 73187651B18433747523923
     country_name: Guyana
-  Guyana_Adm2_19:
+    admin_level: Adm2
+  GUY.6.8_1_Adm2:
+    GID: GUY.6.8_1
+    admin_name: Rosignol / Zeelust
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: EssequiboI./L.B.E.River
-    shapeID: 73187651B51062108887281
     country_name: Guyana
-  Guyana_Adm2_2:
+    admin_level: Adm2
+  GUY.6.9_1_Adm2:
+    GID: GUY.6.9_1
+    admin_name: St. Francis Mission
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: X-1RightBankEssequibo
-    shapeID: 73187651B95579298937311
     country_name: Guyana
-  Guyana_Adm2_20:
+    admin_level: Adm2
+  GUY.7_1_Adm1:
+    GID: GUY.7_1
+    admin_name: Pomeroon-Supenaam
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: III-2Bonasika/Boerasirie
-    shapeID: 73187651B69188247216871
     country_name: Guyana
-  Guyana_Adm2_21:
+    admin_level: Adm1
+  GUY.7.1_1_Adm2:
+    GID: GUY.7.1_1
+    admin_name: Anna Regina
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VI-7UpperCorentyne
-    shapeID: 73187651B49855956252830
     country_name: Guyana
-  Guyana_Adm2_22:
+    admin_level: Adm2
+  GUY.7.2_1_Adm2:
+    GID: GUY.7.2_1
+    admin_name: Charity / Urasara
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: IX-2Rewa(Illiwa)/U.E
-    shapeID: 73187651B68809145182680
     country_name: Guyana
-  Guyana_Adm2_23:
+    admin_level: Adm2
+  GUY.7.3_1_Adm2:
+    GID: GUY.7.3_1
+    admin_name: Good Hope / Pomona
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: IX-1RupununiWest
-    shapeID: 73187651B14852666038275
     country_name: Guyana
-  Guyana_Adm2_24:
+    admin_level: Adm2
+  GUY.7.4_1_Adm2:
+    GID: GUY.7.4_1
+    admin_name: Paradise / Evergreen (including
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VIII-1Ireng/UpperPotaro
-    shapeID: 73187651B95779409673376
     country_name: Guyana
-  Guyana_Adm2_25:
+    admin_level: Adm2
+  GUY.7.5_1_Adm2:
+    GID: GUY.7.5_1
+    admin_name: Riverstown / Annandale
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VII-2Mazaruni/L.B.E.Rive
-    shapeID: 73187651B61605631045653
     country_name: Guyana
-  Guyana_Adm2_26:
+    admin_level: Adm2
+  GUY.7.6_1_Adm2:
+    GID: GUY.7.6_1
+    admin_name: Supernaam River, Bethany and Mas
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VII-1Cuyuni
-    shapeID: 73187651B99697298922199
     country_name: Guyana
-  Guyana_Adm2_27:
+    admin_level: Adm2
+  GUY.7.7_1_Adm2:
+    GID: GUY.7.7_1
+    admin_name: Zorg-en-Vlygt / Aberdeen
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: I-1Barima
-    shapeID: 73187651B60550575754674
     country_name: Guyana
-  Guyana_Adm2_3:
+    admin_level: Adm2
+  GUY.8_1_Adm1:
+    GID: GUY.8_1
+    admin_name: Potaro-Siparuni
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VIII-2LowerPotaro/Ladsm
-    shapeID: 73187651B19999842805850
     country_name: Guyana
-  Guyana_Adm2_4:
+    admin_level: Adm1
+  GUY.8.1_1_Adm2:
+    GID: GUY.8.1_1
+    admin_name: Chenapau River
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: II-2SomersetAndBerks
-    shapeID: 73187651B32807906119363
     country_name: Guyana
-  Guyana_Adm2_5:
+    admin_level: Adm2
+  GUY.8.2_1_Adm2:
+    GID: GUY.8.2_1
+    admin_name: Kaibarupai
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: I-2Waini
-    shapeID: 73187651B25125705574502
     country_name: Guyana
-  Guyana_Adm2_6:
+    admin_level: Adm2
+  GUY.8.3_1_Adm2:
+    GID: GUY.8.3_1
+    admin_name: Kopanang, Waipa, Kenepai
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: II-1Moruka/Pomeroon
-    shapeID: 73187651B89852633315
     country_name: Guyana
-  Guyana_Adm2_7:
+    admin_level: Adm2
+  GUY.8.4_1_Adm2:
+    GID: GUY.8.4_1
+    admin_name: Madhia + Kurubrong River + Mona
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: III-3LowerWestDemerara
-    shapeID: 73187651B37275521975426
     country_name: Guyana
-  Guyana_Adm2_8:
+    admin_level: Adm2
+  GUY.8.5_1_Adm2:
+    GID: GUY.8.5_1
+    admin_name: Maripari River + Kurukabaru
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: VI-6UpperCanje/Corentyn
-    shapeID: 73187651B40141145905740
     country_name: Guyana
-  Guyana_Adm2_9:
+    admin_level: Adm2
+  GUY.8.6_1_Adm2:
+    GID: GUY.8.6_1
+    admin_name: Monkey Mountain
     iso3c: GUY
-    admin_level: Adm2
-    admin_name: X-2Torani/Bulletwood
-    shapeID: 73187651B8767068866486
     country_name: Guyana
+    admin_level: Adm2
+  GUY.8.7_1_Adm2:
+    GID: GUY.8.7_1
+    admin_name: Paramakatoi
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.8.8_1_Adm2:
+    GID: GUY.8.8_1
+    admin_name: Rest of Region 8
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.9_1_Adm1:
+    GID: GUY.9_1
+    admin_name: Upper Demerara-Berbice
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm1
+  GUY.9.1_1_Adm2:
+    GID: GUY.9.1_1
+    admin_name: Berbice River Settlements
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.9.2_1_Adm2:
+    GID: GUY.9.2_1
+    admin_name: Coomaka Lands
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.9.3_1_Adm2:
+    GID: GUY.9.3_1
+    admin_name: Ituni
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.9.4_1_Adm2:
+    GID: GUY.9.4_1
+    admin_name: Kwakwani
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.9.5_1_Adm2:
+    GID: GUY.9.5_1
+    admin_name: Linden
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.9.6_1_Adm2:
+    GID: GUY.9.6_1
+    admin_name: Mabura Hills
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.9.7_1_Adm2:
+    GID: GUY.9.7_1
+    admin_name: Makouria River
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2
+  GUY.9.8_1_Adm2:
+    GID: GUY.9.8_1
+    admin_name: Rest of Region 10
+    iso3c: GUY
+    country_name: Guyana
+    admin_level: Adm2

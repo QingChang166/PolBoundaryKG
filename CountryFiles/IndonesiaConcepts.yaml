@@ -1,3325 +1,3223 @@
 concepts:
-  Indonesia_Adm0:
-    iso3c: IDN
-    admin_level: Adm0
+  IDN.0_Adm0:
+    GID: IDN
     admin_name: Indonesia
-    shapeID: 11942859B47275810722289
-    country_name: Indonesia
-  Indonesia_Adm1_1:
     iso3c: IDN
-    admin_level: Adm1
-    admin_name: Bali
-    shapeID: 65028918B6690755070061
     country_name: Indonesia
-  Indonesia_Adm1_10:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: Gorontalo
-    shapeID: 65028918B94020759558104
-    country_name: Indonesia
-  Indonesia_Adm1_11:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: NorthSulawesi
-    shapeID: 65028918B26897900130576
-    country_name: Indonesia
-  Indonesia_Adm1_12:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: SouthSulawesi
-    shapeID: 65028918B17554737605304
-    country_name: Indonesia
-  Indonesia_Adm1_13:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: SoutheastSulawesi
-    shapeID: 65028918B94007491868798
-    country_name: Indonesia
-  Indonesia_Adm1_14:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: WestSulawesi
-    shapeID: 65028918B46678513676023
-    country_name: Indonesia
-  Indonesia_Adm1_15:
-    iso3c: IDN
-    admin_level: Adm1
+    admin_level: Adm0
+  IDN.1_1_Adm1:
+    GID: IDN.1_1
     admin_name: Aceh
-    shapeID: 65028918B93184959873838
-    country_name: Indonesia
-  Indonesia_Adm1_16:
     iso3c: IDN
+    country_name: Indonesia
     admin_level: Adm1
-    admin_name: Bengkulu
-    shapeID: 65028918B30999004822283
-    country_name: Indonesia
-  Indonesia_Adm1_17:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: Jambi
-    shapeID: 65028918B29194895292819
-    country_name: Indonesia
-  Indonesia_Adm1_18:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: Lampung
-    shapeID: 65028918B88589358118692
-    country_name: Indonesia
-  Indonesia_Adm1_19:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: Riau
-    shapeID: 65028918B11286430647546
-    country_name: Indonesia
-  Indonesia_Adm1_2:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: WestNusaTenggara
-    shapeID: 65028918B98829509874887
-    country_name: Indonesia
-  Indonesia_Adm1_20:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: WestSumatra
-    shapeID: 65028918B4119458748300
-    country_name: Indonesia
-  Indonesia_Adm1_21:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: SouthSumatra
-    shapeID: 65028918B9551391119865
-    country_name: Indonesia
-  Indonesia_Adm1_22:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: NorthSumatra
-    shapeID: 65028918B37605681672150
-    country_name: Indonesia
-  Indonesia_Adm1_23:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: EastNusaTenggara
-    shapeID: 65028918B90323071856071
-    country_name: Indonesia
-  Indonesia_Adm1_24:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: Maluku
-    shapeID: 65028918B48178230554278
-    country_name: Indonesia
-  Indonesia_Adm1_25:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: NorthMaluku
-    shapeID: 65028918B51364455052819
-    country_name: Indonesia
-  Indonesia_Adm1_26:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: EastJava
-    shapeID: 65028918B43243108525571
-    country_name: Indonesia
-  Indonesia_Adm1_27:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: Bangka-BelitungIslands
-    shapeID: 65028918B10722647473585
-    country_name: Indonesia
-  Indonesia_Adm1_28:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: RiauIslands
-    shapeID: 65028918B90123187256494
-    country_name: Indonesia
-  Indonesia_Adm1_29:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: Papua
-    shapeID: 65028918B16658067687714
-    country_name: Indonesia
-  Indonesia_Adm1_3:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: Banten
-    shapeID: 65028918B99918739720671
-    country_name: Indonesia
-  Indonesia_Adm1_30:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: WestPapua
-    shapeID: 65028918B84835514626455
-    country_name: Indonesia
-  Indonesia_Adm1_31:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: EastKalimantan
-    shapeID: 65028918B68445169823185
-    country_name: Indonesia
-  Indonesia_Adm1_32:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: NorthKalimantan
-    shapeID: 65028918B52923737893214
-    country_name: Indonesia
-  Indonesia_Adm1_33:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: SpecialRegionofYogyakarta
-    shapeID: 65028918B6070530336190
-    country_name: Indonesia
-  Indonesia_Adm1_34:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: JakartaSpecialCapitalRegion
-    shapeID: 65028918B14696209246677
-    country_name: Indonesia
-  Indonesia_Adm1_4:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: CentralJava
-    shapeID: 65028918B13838862025135
-    country_name: Indonesia
-  Indonesia_Adm1_5:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: WestJava
-    shapeID: 65028918B28366581005022
-    country_name: Indonesia
-  Indonesia_Adm1_6:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: CentralKalimantan
-    shapeID: 65028918B28198720309323
-    country_name: Indonesia
-  Indonesia_Adm1_7:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: SouthKalimantan
-    shapeID: 65028918B30993740608215
-    country_name: Indonesia
-  Indonesia_Adm1_8:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: WestKalimantan
-    shapeID: 65028918B19721185942402
-    country_name: Indonesia
-  Indonesia_Adm1_9:
-    iso3c: IDN
-    admin_level: Adm1
-    admin_name: CentralSulawesi
-    shapeID: 65028918B55787629749874
-    country_name: Indonesia
-  Indonesia_Adm2_1:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: AcehBarat
-    shapeID: 22746128B65593111718524
-    country_name: Indonesia
-  Indonesia_Adm2_10:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: AcehTimur
-    shapeID: 22746128B94735591859977
-    country_name: Indonesia
-  Indonesia_Adm2_100:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: EmpatLawang
-    shapeID: 22746128B47089116764549
-    country_name: Indonesia
-  Indonesia_Adm2_101:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Ende
-    shapeID: 22746128B46201528673681
-    country_name: Indonesia
-  Indonesia_Adm2_102:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Enrekang
-    shapeID: 22746128B73854324401708
-    country_name: Indonesia
-  Indonesia_Adm2_103:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Fakfak
-    shapeID: 22746128B79106566109504
-    country_name: Indonesia
-  Indonesia_Adm2_104:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: FloresTimur
-    shapeID: 22746128B68993103553012
-    country_name: Indonesia
-  Indonesia_Adm2_105:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Garut
-    shapeID: 22746128B66421464971893
-    country_name: Indonesia
-  Indonesia_Adm2_106:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: GayoLues
-    shapeID: 22746128B71384327775718
-    country_name: Indonesia
-  Indonesia_Adm2_107:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Gianyar
-    shapeID: 22746128B44616450347238
-    country_name: Indonesia
-  Indonesia_Adm2_108:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Gorontalo
-    shapeID: 22746128B1660874628525
-    country_name: Indonesia
-  Indonesia_Adm2_109:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: GorontaloUtara
-    shapeID: 22746128B78667545948550
-    country_name: Indonesia
-  Indonesia_Adm2_11:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: AcehUtara
-    shapeID: 22746128B43339434023645
-    country_name: Indonesia
-  Indonesia_Adm2_110:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Gowa
-    shapeID: 22746128B57887954309635
-    country_name: Indonesia
-  Indonesia_Adm2_111:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Gresik
-    shapeID: 22746128B46933486274006
-    country_name: Indonesia
-  Indonesia_Adm2_112:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Grobogan
-    shapeID: 22746128B71964042918672
-    country_name: Indonesia
-  Indonesia_Adm2_113:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: GunungKidul
-    shapeID: 22746128B54859500646728
-    country_name: Indonesia
-  Indonesia_Adm2_114:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: GunungMas
-    shapeID: 22746128B12491014044373
-    country_name: Indonesia
-  Indonesia_Adm2_115:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: HalmaheraBarat
-    shapeID: 22746128B52341022582766
-    country_name: Indonesia
-  Indonesia_Adm2_116:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: HalmaheraSelatan
-    shapeID: 22746128B2838702785556
-    country_name: Indonesia
-  Indonesia_Adm2_117:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: HalmaheraTengah
-    shapeID: 22746128B46636453933041
-    country_name: Indonesia
-  Indonesia_Adm2_118:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: HalmaheraTimur
-    shapeID: 22746128B70343351071090
-    country_name: Indonesia
-  Indonesia_Adm2_119:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: HalmaheraUtara
-    shapeID: 22746128B41252486574655
-    country_name: Indonesia
-  Indonesia_Adm2_12:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Agam
-    shapeID: 22746128B89220130199878
-    country_name: Indonesia
-  Indonesia_Adm2_120:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: HuluSungaiSelatan
-    shapeID: 22746128B37889128386884
-    country_name: Indonesia
-  Indonesia_Adm2_121:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: HuluSungaiTengah
-    shapeID: 22746128B20472072190374
-    country_name: Indonesia
-  Indonesia_Adm2_122:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: HuluSungaiUtara
-    shapeID: 22746128B21492383155838
-    country_name: Indonesia
-  Indonesia_Adm2_123:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: HumbangHasundutan
-    shapeID: 22746128B305851071948
-    country_name: Indonesia
-  Indonesia_Adm2_124:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Hutan
-    shapeID: 22746128B69994664325988
-    country_name: Indonesia
-  Indonesia_Adm2_125:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: IndragiriHilir
-    shapeID: 22746128B36468792556341
-    country_name: Indonesia
-  Indonesia_Adm2_126:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: IndragiriHulu
-    shapeID: 22746128B72920479258091
-    country_name: Indonesia
-  Indonesia_Adm2_127:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Indramayu
-    shapeID: 22746128B59462811669242
-    country_name: Indonesia
-  Indonesia_Adm2_128:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: IntanJaya
-    shapeID: 22746128B83440404091664
-    country_name: Indonesia
-  Indonesia_Adm2_129:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Jayapura
-    shapeID: 22746128B71103770185906
-    country_name: Indonesia
-  Indonesia_Adm2_13:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Alor
-    shapeID: 22746128B1117135414899
-    country_name: Indonesia
-  Indonesia_Adm2_130:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Jayawijaya
-    shapeID: 22746128B40741333574981
-    country_name: Indonesia
-  Indonesia_Adm2_131:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Jember
-    shapeID: 22746128B56085237319005
-    country_name: Indonesia
-  Indonesia_Adm2_132:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Jembrana
-    shapeID: 22746128B85592790675198
-    country_name: Indonesia
-  Indonesia_Adm2_133:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Jeneponto
-    shapeID: 22746128B64050318598962
-    country_name: Indonesia
-  Indonesia_Adm2_134:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Jepara
-    shapeID: 22746128B68650893607060
-    country_name: Indonesia
-  Indonesia_Adm2_135:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Jombang
-    shapeID: 22746128B39847330151566
-    country_name: Indonesia
-  Indonesia_Adm2_136:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kaimana
-    shapeID: 22746128B93097528927367
-    country_name: Indonesia
-  Indonesia_Adm2_137:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kampar
-    shapeID: 22746128B8837306932395
-    country_name: Indonesia
-  Indonesia_Adm2_138:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kapuas
-    shapeID: 22746128B40136746216216
-    country_name: Indonesia
-  Indonesia_Adm2_139:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KapuasHulu
-    shapeID: 22746128B82886709098386
-    country_name: Indonesia
-  Indonesia_Adm2_14:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Asahan
-    shapeID: 22746128B26461090721788
-    country_name: Indonesia
-  Indonesia_Adm2_140:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KarangAsem
-    shapeID: 22746128B60715781377305
-    country_name: Indonesia
-  Indonesia_Adm2_141:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Karanganyar
-    shapeID: 22746128B38192287274107
-    country_name: Indonesia
-  Indonesia_Adm2_142:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Karawang
-    shapeID: 22746128B53840275251202
-    country_name: Indonesia
-  Indonesia_Adm2_143:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Karimun
-    shapeID: 22746128B38340908247842
-    country_name: Indonesia
-  Indonesia_Adm2_144:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Karo
-    shapeID: 22746128B49947212525753
-    country_name: Indonesia
-  Indonesia_Adm2_145:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Katingan
-    shapeID: 22746128B40819362853427
-    country_name: Indonesia
-  Indonesia_Adm2_146:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kaur
-    shapeID: 22746128B79405855452274
-    country_name: Indonesia
-  Indonesia_Adm2_147:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KayongUtara
-    shapeID: 22746128B56151469580770
-    country_name: Indonesia
-  Indonesia_Adm2_148:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kebumen
-    shapeID: 22746128B26305825050369
-    country_name: Indonesia
-  Indonesia_Adm2_149:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kediri
-    shapeID: 22746128B82286187836997
-    country_name: Indonesia
-  Indonesia_Adm2_15:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Asmat
-    shapeID: 22746128B62198228854475
-    country_name: Indonesia
-  Indonesia_Adm2_150:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Keerom
-    shapeID: 22746128B17774751253690
-    country_name: Indonesia
-  Indonesia_Adm2_151:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kendal
-    shapeID: 22746128B21241240008354
-    country_name: Indonesia
-  Indonesia_Adm2_152:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kepahiang
-    shapeID: 22746128B30869437307727
-    country_name: Indonesia
-  Indonesia_Adm2_153:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KepulauanAnambas
-    shapeID: 22746128B99951880476592
-    country_name: Indonesia
-  Indonesia_Adm2_154:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KepulauanAru
-    shapeID: 22746128B17511076551422
-    country_name: Indonesia
-  Indonesia_Adm2_155:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KepulauanMentawai
-    shapeID: 22746128B86355072671334
-    country_name: Indonesia
-  Indonesia_Adm2_156:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KepulauanMeranti
-    shapeID: 22746128B32802105420608
-    country_name: Indonesia
-  Indonesia_Adm2_157:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KepulauanSangihe
-    shapeID: 22746128B28296608330436
-    country_name: Indonesia
-  Indonesia_Adm2_158:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KepulauanSelayar
-    shapeID: 22746128B1615833901652
-    country_name: Indonesia
-  Indonesia_Adm2_159:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KepulauanSeribu
-    shapeID: 22746128B63742079715926
-    country_name: Indonesia
-  Indonesia_Adm2_16:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Badung
-    shapeID: 22746128B76986430159502
-    country_name: Indonesia
-  Indonesia_Adm2_160:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KepulauanSula
-    shapeID: 22746128B81791072961966
-    country_name: Indonesia
-  Indonesia_Adm2_161:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KepulauanTalaud
-    shapeID: 22746128B45484540858108
-    country_name: Indonesia
-  Indonesia_Adm2_162:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KepulauanYapen
-    shapeID: 22746128B96094928872069
-    country_name: Indonesia
-  Indonesia_Adm2_163:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kerinci
-    shapeID: 22746128B64633952285861
-    country_name: Indonesia
-  Indonesia_Adm2_164:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Ketapang
-    shapeID: 22746128B56277764926455
-    country_name: Indonesia
-  Indonesia_Adm2_165:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Klaten
-    shapeID: 22746128B24447956326165
-    country_name: Indonesia
-  Indonesia_Adm2_166:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Klungkung
-    shapeID: 22746128B73073409478343
-    country_name: Indonesia
-  Indonesia_Adm2_167:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kolaka
-    shapeID: 22746128B69202393010200
-    country_name: Indonesia
-  Indonesia_Adm2_168:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KolakaTimur
-    shapeID: 22746128B88028223529334
-    country_name: Indonesia
-  Indonesia_Adm2_169:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KolakaUtara
-    shapeID: 22746128B11198700179718
-    country_name: Indonesia
-  Indonesia_Adm2_17:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Balangan
-    shapeID: 22746128B67876608948387
-    country_name: Indonesia
-  Indonesia_Adm2_170:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Konawe
-    shapeID: 22746128B78249855862414
-    country_name: Indonesia
-  Indonesia_Adm2_171:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KonaweKepulauan
-    shapeID: 22746128B22870517920414
-    country_name: Indonesia
-  Indonesia_Adm2_172:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KonaweSelatan
-    shapeID: 22746128B90195550492320
-    country_name: Indonesia
-  Indonesia_Adm2_173:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KonaweUtara
-    shapeID: 22746128B68991025063444
-    country_name: Indonesia
-  Indonesia_Adm2_174:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaAmbon
-    shapeID: 22746128B58388026658287
-    country_name: Indonesia
-  Indonesia_Adm2_175:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBalikpapan
-    shapeID: 22746128B66626446070966
-    country_name: Indonesia
-  Indonesia_Adm2_176:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBandaAceh
-    shapeID: 22746128B56363132836699
-    country_name: Indonesia
-  Indonesia_Adm2_177:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBandarLampung
-    shapeID: 22746128B13880384963573
-    country_name: Indonesia
-  Indonesia_Adm2_178:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBandung
-    shapeID: 22746128B71762235135177
-    country_name: Indonesia
-  Indonesia_Adm2_179:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBanjar
-    shapeID: 22746128B64728543729693
-    country_name: Indonesia
-  Indonesia_Adm2_18:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bandung
-    shapeID: 22746128B73297609500416
-    country_name: Indonesia
-  Indonesia_Adm2_180:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBanjarBaru
-    shapeID: 22746128B6711072078761
-    country_name: Indonesia
-  Indonesia_Adm2_181:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBanjarmasin
-    shapeID: 22746128B37126944555810
-    country_name: Indonesia
-  Indonesia_Adm2_182:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBaru
-    shapeID: 22746128B85816588264471
-    country_name: Indonesia
-  Indonesia_Adm2_183:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBatam
-    shapeID: 22746128B16651418017337
-    country_name: Indonesia
-  Indonesia_Adm2_184:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBatu
-    shapeID: 22746128B69457994360094
-    country_name: Indonesia
-  Indonesia_Adm2_185:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBaubau
-    shapeID: 22746128B66779214231616
-    country_name: Indonesia
-  Indonesia_Adm2_186:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBekasi
-    shapeID: 22746128B54763839112631
-    country_name: Indonesia
-  Indonesia_Adm2_187:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBengkulu
-    shapeID: 22746128B322693337562
-    country_name: Indonesia
-  Indonesia_Adm2_188:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBima
-    shapeID: 22746128B33789977192923
-    country_name: Indonesia
-  Indonesia_Adm2_189:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBinjai
-    shapeID: 22746128B66679629138785
-    country_name: Indonesia
-  Indonesia_Adm2_19:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BandungBarat
-    shapeID: 22746128B79756617117888
-    country_name: Indonesia
-  Indonesia_Adm2_190:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBitung
-    shapeID: 22746128B20507278995893
-    country_name: Indonesia
-  Indonesia_Adm2_191:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBlitar
-    shapeID: 22746128B15123001204790
-    country_name: Indonesia
-  Indonesia_Adm2_192:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBogor
-    shapeID: 22746128B63896883204987
-    country_name: Indonesia
-  Indonesia_Adm2_193:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBontang
-    shapeID: 22746128B2679722836886
-    country_name: Indonesia
-  Indonesia_Adm2_194:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaBukittinggi
-    shapeID: 22746128B12322141134935
-    country_name: Indonesia
-  Indonesia_Adm2_195:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaCilegon
-    shapeID: 22746128B25933583546422
-    country_name: Indonesia
-  Indonesia_Adm2_196:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaCimahi
-    shapeID: 22746128B53430054982428
-    country_name: Indonesia
-  Indonesia_Adm2_197:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaCirebon
-    shapeID: 22746128B80288264799633
-    country_name: Indonesia
-  Indonesia_Adm2_198:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaDenpasar
-    shapeID: 22746128B89164850776530
-    country_name: Indonesia
-  Indonesia_Adm2_199:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaDepok
-    shapeID: 22746128B73481124779947
-    country_name: Indonesia
-  Indonesia_Adm2_2:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: AcehBaratDaya
-    shapeID: 22746128B227561513795
-    country_name: Indonesia
-  Indonesia_Adm2_20:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Banggai
-    shapeID: 22746128B48169474795911
-    country_name: Indonesia
-  Indonesia_Adm2_200:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaDumai
-    shapeID: 22746128B18875576502901
-    country_name: Indonesia
-  Indonesia_Adm2_201:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaGorontalo
-    shapeID: 22746128B66202348563483
-    country_name: Indonesia
-  Indonesia_Adm2_202:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaGunungsitoli
-    shapeID: 22746128B74256869593133
-    country_name: Indonesia
-  Indonesia_Adm2_203:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaJakartaBarat
-    shapeID: 22746128B58252967349746
-    country_name: Indonesia
-  Indonesia_Adm2_204:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaJakartaPusat
-    shapeID: 22746128B21128962092426
-    country_name: Indonesia
-  Indonesia_Adm2_205:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaJakartaSelatan
-    shapeID: 22746128B93686700937380
-    country_name: Indonesia
-  Indonesia_Adm2_206:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaJakartaTimur
-    shapeID: 22746128B5353616278909
-    country_name: Indonesia
-  Indonesia_Adm2_207:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaJakartaUtara
-    shapeID: 22746128B85966169947265
-    country_name: Indonesia
-  Indonesia_Adm2_208:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaJambi
-    shapeID: 22746128B99667418524197
-    country_name: Indonesia
-  Indonesia_Adm2_209:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaJayapura
-    shapeID: 22746128B85346986276333
-    country_name: Indonesia
-  Indonesia_Adm2_21:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BanggaiKepulauan
-    shapeID: 22746128B2571336805106
-    country_name: Indonesia
-  Indonesia_Adm2_210:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaKediri
-    shapeID: 22746128B79918158306090
-    country_name: Indonesia
-  Indonesia_Adm2_211:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaKendari
-    shapeID: 22746128B80961359079738
-    country_name: Indonesia
-  Indonesia_Adm2_212:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaKotamobagu
-    shapeID: 22746128B93986330379000
-    country_name: Indonesia
-  Indonesia_Adm2_213:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaKupang
-    shapeID: 22746128B56606429525327
-    country_name: Indonesia
-  Indonesia_Adm2_214:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaLangsa
-    shapeID: 22746128B69628984727954
-    country_name: Indonesia
-  Indonesia_Adm2_215:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaLhokseumawe
-    shapeID: 22746128B88010078110453
-    country_name: Indonesia
-  Indonesia_Adm2_216:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaLubuklinggau
-    shapeID: 22746128B74548717001691
-    country_name: Indonesia
-  Indonesia_Adm2_217:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaMadiun
-    shapeID: 22746128B30166819315055
-    country_name: Indonesia
-  Indonesia_Adm2_218:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaMagelang
-    shapeID: 22746128B66141272433758
-    country_name: Indonesia
-  Indonesia_Adm2_219:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaMakassar
-    shapeID: 22746128B73854317646589
-    country_name: Indonesia
-  Indonesia_Adm2_22:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BanggaiLaut
-    shapeID: 22746128B78411617556279
-    country_name: Indonesia
-  Indonesia_Adm2_220:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaMalang
-    shapeID: 22746128B9724218643478
-    country_name: Indonesia
-  Indonesia_Adm2_221:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaManado
-    shapeID: 22746128B83673204362612
-    country_name: Indonesia
-  Indonesia_Adm2_222:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaMataram
-    shapeID: 22746128B34810169298981
-    country_name: Indonesia
-  Indonesia_Adm2_223:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaMedan
-    shapeID: 22746128B40654739963843
-    country_name: Indonesia
-  Indonesia_Adm2_224:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaMetro
-    shapeID: 22746128B64737377738458
-    country_name: Indonesia
-  Indonesia_Adm2_225:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaMojokerto
-    shapeID: 22746128B53956788697299
-    country_name: Indonesia
-  Indonesia_Adm2_226:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPadang
-    shapeID: 22746128B51925287869213
-    country_name: Indonesia
-  Indonesia_Adm2_227:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPadangPanjang
-    shapeID: 22746128B34977061629525
-    country_name: Indonesia
-  Indonesia_Adm2_228:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPadangsidimpuan
-    shapeID: 22746128B81378642761445
-    country_name: Indonesia
-  Indonesia_Adm2_229:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPagarAlam
-    shapeID: 22746128B19740076763731
-    country_name: Indonesia
-  Indonesia_Adm2_23:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bangka
-    shapeID: 22746128B27585215741432
-    country_name: Indonesia
-  Indonesia_Adm2_230:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPalangkaRaya
-    shapeID: 22746128B5087893857208
-    country_name: Indonesia
-  Indonesia_Adm2_231:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPalembang
-    shapeID: 22746128B87825164980488
-    country_name: Indonesia
-  Indonesia_Adm2_232:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPalopo
-    shapeID: 22746128B54354608226928
-    country_name: Indonesia
-  Indonesia_Adm2_233:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPalu
-    shapeID: 22746128B23229204425516
-    country_name: Indonesia
-  Indonesia_Adm2_234:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPangkalPinang
-    shapeID: 22746128B92282941938888
-    country_name: Indonesia
-  Indonesia_Adm2_235:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaParepare
-    shapeID: 22746128B37987509465042
-    country_name: Indonesia
-  Indonesia_Adm2_236:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPariaman
-    shapeID: 22746128B94413576870843
-    country_name: Indonesia
-  Indonesia_Adm2_237:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPasuruan
-    shapeID: 22746128B86769429493629
-    country_name: Indonesia
-  Indonesia_Adm2_238:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPayakumbuh
-    shapeID: 22746128B75816793285642
-    country_name: Indonesia
-  Indonesia_Adm2_239:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPekalongan
-    shapeID: 22746128B98453198956040
-    country_name: Indonesia
-  Indonesia_Adm2_24:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BangkaBarat
-    shapeID: 22746128B47433230053131
-    country_name: Indonesia
-  Indonesia_Adm2_240:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPekanbaru
-    shapeID: 22746128B3549150233660
-    country_name: Indonesia
-  Indonesia_Adm2_241:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPematangSiantar
-    shapeID: 22746128B46755595316405
-    country_name: Indonesia
-  Indonesia_Adm2_242:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPontianak
-    shapeID: 22746128B68403360613456
-    country_name: Indonesia
-  Indonesia_Adm2_243:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaPrabumulih
-    shapeID: 22746128B13695709263199
-    country_name: Indonesia
-  Indonesia_Adm2_244:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaProbolinggo
-    shapeID: 22746128B48742890195125
-    country_name: Indonesia
-  Indonesia_Adm2_245:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSabang
-    shapeID: 22746128B78398648082643
-    country_name: Indonesia
-  Indonesia_Adm2_246:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSalatiga
-    shapeID: 22746128B99456803569608
-    country_name: Indonesia
-  Indonesia_Adm2_247:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSamarinda
-    shapeID: 22746128B87893249930832
-    country_name: Indonesia
-  Indonesia_Adm2_248:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSawahLunto
-    shapeID: 22746128B93370341632229
-    country_name: Indonesia
-  Indonesia_Adm2_249:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSemarang
-    shapeID: 22746128B5783483209745
-    country_name: Indonesia
-  Indonesia_Adm2_25:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BangkaSelatan
-    shapeID: 22746128B19321376976921
-    country_name: Indonesia
-  Indonesia_Adm2_250:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSerang
-    shapeID: 22746128B38845978082923
-    country_name: Indonesia
-  Indonesia_Adm2_251:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSibolga
-    shapeID: 22746128B47009036461165
-    country_name: Indonesia
-  Indonesia_Adm2_252:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSingkawang
-    shapeID: 22746128B18670307275317
-    country_name: Indonesia
-  Indonesia_Adm2_253:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSolok
-    shapeID: 22746128B30699524960223
-    country_name: Indonesia
-  Indonesia_Adm2_254:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSorong
-    shapeID: 22746128B11366688050704
-    country_name: Indonesia
-  Indonesia_Adm2_255:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSubulussalam
-    shapeID: 22746128B20185680371825
-    country_name: Indonesia
-  Indonesia_Adm2_256:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSukabumi
-    shapeID: 22746128B82825120895999
-    country_name: Indonesia
-  Indonesia_Adm2_257:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSungaiPenuh
-    shapeID: 22746128B31453944142504
-    country_name: Indonesia
-  Indonesia_Adm2_258:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSurabaya
-    shapeID: 22746128B68603538827891
-    country_name: Indonesia
-  Indonesia_Adm2_259:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaSurakarta
-    shapeID: 22746128B33460906687482
-    country_name: Indonesia
-  Indonesia_Adm2_26:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BangkaTengah
-    shapeID: 22746128B66707258567489
-    country_name: Indonesia
-  Indonesia_Adm2_260:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTangerang
-    shapeID: 22746128B7613374511026
-    country_name: Indonesia
-  Indonesia_Adm2_261:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTangerangSelatan
-    shapeID: 22746128B62533997811788
-    country_name: Indonesia
-  Indonesia_Adm2_262:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTanjungBalai
-    shapeID: 22746128B91306693093612
-    country_name: Indonesia
-  Indonesia_Adm2_263:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTanjungPinang
-    shapeID: 22746128B73074683492420
-    country_name: Indonesia
-  Indonesia_Adm2_264:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTarakan
-    shapeID: 22746128B97983454808676
-    country_name: Indonesia
-  Indonesia_Adm2_265:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTasikmalaya
-    shapeID: 22746128B57000549481658
-    country_name: Indonesia
-  Indonesia_Adm2_266:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTebingTinggi
-    shapeID: 22746128B29639616204280
-    country_name: Indonesia
-  Indonesia_Adm2_267:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTegal
-    shapeID: 22746128B85080883644541
-    country_name: Indonesia
-  Indonesia_Adm2_268:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTernate
-    shapeID: 22746128B36781349389855
-    country_name: Indonesia
-  Indonesia_Adm2_269:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTidoreKepulauan
-    shapeID: 22746128B24002479708791
-    country_name: Indonesia
-  Indonesia_Adm2_27:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bangkalan
-    shapeID: 22746128B23347682239441
-    country_name: Indonesia
-  Indonesia_Adm2_270:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTomohon
-    shapeID: 22746128B12552284418793
-    country_name: Indonesia
-  Indonesia_Adm2_271:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaTual
-    shapeID: 22746128B79752231805890
-    country_name: Indonesia
-  Indonesia_Adm2_272:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotaYogyakarta
-    shapeID: 22746128B9761158776103
-    country_name: Indonesia
-  Indonesia_Adm2_273:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotawaringinBarat
-    shapeID: 22746128B93777795819955
-    country_name: Indonesia
-  Indonesia_Adm2_274:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KotawaringinTimur
-    shapeID: 22746128B94284518008212
-    country_name: Indonesia
-  Indonesia_Adm2_275:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KuantanSingingi
-    shapeID: 22746128B8182037452639
-    country_name: Indonesia
-  Indonesia_Adm2_276:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KubuRaya
-    shapeID: 22746128B69090577702614
-    country_name: Indonesia
-  Indonesia_Adm2_277:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kudus
-    shapeID: 22746128B61967707401144
-    country_name: Indonesia
-  Indonesia_Adm2_278:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KulonProgo
-    shapeID: 22746128B43033686501526
-    country_name: Indonesia
-  Indonesia_Adm2_279:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kuningan
-    shapeID: 22746128B44289127403365
-    country_name: Indonesia
-  Indonesia_Adm2_28:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bangli
-    shapeID: 22746128B25936754669599
-    country_name: Indonesia
-  Indonesia_Adm2_280:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Kupang
-    shapeID: 22746128B27765258797580
-    country_name: Indonesia
-  Indonesia_Adm2_281:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KutaiBarat
-    shapeID: 22746128B93368126922918
-    country_name: Indonesia
-  Indonesia_Adm2_282:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KutaiKartanegara
-    shapeID: 22746128B55621143702768
-    country_name: Indonesia
-  Indonesia_Adm2_283:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: KutaiTimur
-    shapeID: 22746128B75924443266043
-    country_name: Indonesia
-  Indonesia_Adm2_284:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LabuhanBatu
-    shapeID: 22746128B75065966155231
-    country_name: Indonesia
-  Indonesia_Adm2_285:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LabuhanBatuSelatan
-    shapeID: 22746128B23995987640193
-    country_name: Indonesia
-  Indonesia_Adm2_286:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LabuhanBatuUtara
-    shapeID: 22746128B7095356521044
-    country_name: Indonesia
-  Indonesia_Adm2_287:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Lahat
-    shapeID: 22746128B84107388414918
-    country_name: Indonesia
-  Indonesia_Adm2_288:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Lamandau
-    shapeID: 22746128B62127435888540
-    country_name: Indonesia
-  Indonesia_Adm2_289:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Lamongan
-    shapeID: 22746128B62762388436916
-    country_name: Indonesia
-  Indonesia_Adm2_29:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Banjar
-    shapeID: 22746128B79736905882971
-    country_name: Indonesia
-  Indonesia_Adm2_290:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LampungBarat
-    shapeID: 22746128B74428971192525
-    country_name: Indonesia
-  Indonesia_Adm2_291:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LampungSelatan
-    shapeID: 22746128B4401734887211
-    country_name: Indonesia
-  Indonesia_Adm2_292:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LampungTengah
-    shapeID: 22746128B57273633041967
-    country_name: Indonesia
-  Indonesia_Adm2_293:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LampungTimur
-    shapeID: 22746128B49036162018248
-    country_name: Indonesia
-  Indonesia_Adm2_294:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LampungUtara
-    shapeID: 22746128B16659764843822
-    country_name: Indonesia
-  Indonesia_Adm2_295:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Landak
-    shapeID: 22746128B55433427549228
-    country_name: Indonesia
-  Indonesia_Adm2_296:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Langkat
-    shapeID: 22746128B45262154134474
-    country_name: Indonesia
-  Indonesia_Adm2_297:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LannyJaya
-    shapeID: 22746128B21145180666794
-    country_name: Indonesia
-  Indonesia_Adm2_298:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Lebak
-    shapeID: 22746128B73767534141998
-    country_name: Indonesia
-  Indonesia_Adm2_299:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Lebong
-    shapeID: 22746128B6914990948320
-    country_name: Indonesia
-  Indonesia_Adm2_3:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: AcehBesar
-    shapeID: 22746128B90547447297479
-    country_name: Indonesia
-  Indonesia_Adm2_30:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Banjarnegara
-    shapeID: 22746128B31481808975183
-    country_name: Indonesia
-  Indonesia_Adm2_300:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Lembata
-    shapeID: 22746128B62947944336237
-    country_name: Indonesia
-  Indonesia_Adm2_301:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LimaPuluhKota
-    shapeID: 22746128B97954273808268
-    country_name: Indonesia
-  Indonesia_Adm2_302:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Lingga
-    shapeID: 22746128B41866695352092
-    country_name: Indonesia
-  Indonesia_Adm2_303:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LombokBarat
-    shapeID: 22746128B38668827904245
-    country_name: Indonesia
-  Indonesia_Adm2_304:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LombokTengah
-    shapeID: 22746128B98880758851169
-    country_name: Indonesia
-  Indonesia_Adm2_305:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LombokTimur
-    shapeID: 22746128B55307338459902
-    country_name: Indonesia
-  Indonesia_Adm2_306:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LombokUtara
-    shapeID: 22746128B90862663975631
-    country_name: Indonesia
-  Indonesia_Adm2_307:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Lumajang
-    shapeID: 22746128B76070527787319
-    country_name: Indonesia
-  Indonesia_Adm2_308:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Luwu
-    shapeID: 22746128B94521952332625
-    country_name: Indonesia
-  Indonesia_Adm2_309:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LuwuTimur
-    shapeID: 22746128B1110744719374
-    country_name: Indonesia
-  Indonesia_Adm2_31:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bantaeng
-    shapeID: 22746128B71175962379658
-    country_name: Indonesia
-  Indonesia_Adm2_310:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: LuwuUtara
-    shapeID: 22746128B26232805086319
-    country_name: Indonesia
-  Indonesia_Adm2_311:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Madiun
-    shapeID: 22746128B56340035124164
-    country_name: Indonesia
-  Indonesia_Adm2_312:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Magelang
-    shapeID: 22746128B50341569898666
-    country_name: Indonesia
-  Indonesia_Adm2_313:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Magetan
-    shapeID: 22746128B43524249433579
-    country_name: Indonesia
-  Indonesia_Adm2_314:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MahakamHulu
-    shapeID: 22746128B30313932055345
-    country_name: Indonesia
-  Indonesia_Adm2_315:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Majalengka
-    shapeID: 22746128B87647472826371
-    country_name: Indonesia
-  Indonesia_Adm2_316:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Majene
-    shapeID: 22746128B56869239776422
-    country_name: Indonesia
-  Indonesia_Adm2_317:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Malaka
-    shapeID: 22746128B56140662064287
-    country_name: Indonesia
-  Indonesia_Adm2_318:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Malang
-    shapeID: 22746128B8866265958554
-    country_name: Indonesia
-  Indonesia_Adm2_319:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Malinau
-    shapeID: 22746128B54632748429230
-    country_name: Indonesia
-  Indonesia_Adm2_32:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bantul
-    shapeID: 22746128B15956982783625
-    country_name: Indonesia
-  Indonesia_Adm2_320:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MalukuBaratDaya
-    shapeID: 22746128B88480653802061
-    country_name: Indonesia
-  Indonesia_Adm2_321:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MalukuTengah
-    shapeID: 22746128B41463091507887
-    country_name: Indonesia
-  Indonesia_Adm2_322:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MalukuTenggara
-    shapeID: 22746128B6545713511337
-    country_name: Indonesia
-  Indonesia_Adm2_323:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MalukuTenggaraBarat
-    shapeID: 22746128B78864950196660
-    country_name: Indonesia
-  Indonesia_Adm2_324:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Mamasa
-    shapeID: 22746128B65559589019405
-    country_name: Indonesia
-  Indonesia_Adm2_325:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MamberamoRaya
-    shapeID: 22746128B39960960221771
-    country_name: Indonesia
-  Indonesia_Adm2_326:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MamberamoTengah
-    shapeID: 22746128B2349164731379
-    country_name: Indonesia
-  Indonesia_Adm2_327:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Mamuju
-    shapeID: 22746128B65468173429736
-    country_name: Indonesia
-  Indonesia_Adm2_328:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MamujuTengah
-    shapeID: 22746128B49136567123703
-    country_name: Indonesia
-  Indonesia_Adm2_329:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MamujuUtara
-    shapeID: 22746128B5634485200629
-    country_name: Indonesia
-  Indonesia_Adm2_33:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BanyuAsin
-    shapeID: 22746128B71070720422540
-    country_name: Indonesia
-  Indonesia_Adm2_330:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MandailingNatal
-    shapeID: 22746128B80893459197040
-    country_name: Indonesia
-  Indonesia_Adm2_331:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Manggarai
-    shapeID: 22746128B41361424069199
-    country_name: Indonesia
-  Indonesia_Adm2_332:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: ManggaraiBarat
-    shapeID: 22746128B27819456459641
-    country_name: Indonesia
-  Indonesia_Adm2_333:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: ManggaraiTimur
-    shapeID: 22746128B57997288446056
-    country_name: Indonesia
-  Indonesia_Adm2_334:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Manokwari
-    shapeID: 22746128B58641314112332
-    country_name: Indonesia
-  Indonesia_Adm2_335:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: ManokwariSelatan
-    shapeID: 22746128B90822416479405
-    country_name: Indonesia
-  Indonesia_Adm2_336:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Mappi
-    shapeID: 22746128B63262525003276
-    country_name: Indonesia
-  Indonesia_Adm2_337:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Maros
-    shapeID: 22746128B73491405172020
-    country_name: Indonesia
-  Indonesia_Adm2_338:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Maybrat
-    shapeID: 22746128B44891092584435
-    country_name: Indonesia
-  Indonesia_Adm2_339:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Melawi
-    shapeID: 22746128B3341090541732
-    country_name: Indonesia
-  Indonesia_Adm2_34:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Banyumas
-    shapeID: 22746128B18933963724988
-    country_name: Indonesia
-  Indonesia_Adm2_340:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Mempawah
-    shapeID: 22746128B13218426778114
-    country_name: Indonesia
-  Indonesia_Adm2_341:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Merangin
-    shapeID: 22746128B71403115718321
-    country_name: Indonesia
-  Indonesia_Adm2_342:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Merauke
-    shapeID: 22746128B65756496772256
-    country_name: Indonesia
-  Indonesia_Adm2_343:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Mesuji
-    shapeID: 22746128B5734020897269
-    country_name: Indonesia
-  Indonesia_Adm2_344:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Mimika
-    shapeID: 22746128B99426029309213
-    country_name: Indonesia
-  Indonesia_Adm2_345:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Minahasa
-    shapeID: 22746128B63895215577583
-    country_name: Indonesia
-  Indonesia_Adm2_346:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MinahasaSelatan
-    shapeID: 22746128B98133955192071
-    country_name: Indonesia
-  Indonesia_Adm2_347:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MinahasaTenggara
-    shapeID: 22746128B38105670760260
-    country_name: Indonesia
-  Indonesia_Adm2_348:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MinahasaUtara
-    shapeID: 22746128B90516172699691
-    country_name: Indonesia
-  Indonesia_Adm2_349:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Mojokerto
-    shapeID: 22746128B795310620233
-    country_name: Indonesia
-  Indonesia_Adm2_35:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Banyuwangi
-    shapeID: 22746128B51270543903443
-    country_name: Indonesia
-  Indonesia_Adm2_350:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Morowali
-    shapeID: 22746128B26432903559283
-    country_name: Indonesia
-  Indonesia_Adm2_351:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MorowaliUtara
-    shapeID: 22746128B96188894812390
-    country_name: Indonesia
-  Indonesia_Adm2_352:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MuaraEnim
-    shapeID: 22746128B32446581498560
-    country_name: Indonesia
-  Indonesia_Adm2_353:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MuaroJambi
-    shapeID: 22746128B29274337249674
-    country_name: Indonesia
-  Indonesia_Adm2_354:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Mukomuko
-    shapeID: 22746128B39825953538573
-    country_name: Indonesia
-  Indonesia_Adm2_355:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Muna
-    shapeID: 22746128B70372019871554
-    country_name: Indonesia
-  Indonesia_Adm2_356:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MunaBarat
-    shapeID: 22746128B23924471266348
-    country_name: Indonesia
-  Indonesia_Adm2_357:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MurungRaya
-    shapeID: 22746128B54866510421393
-    country_name: Indonesia
-  Indonesia_Adm2_358:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MusiBanyuasin
-    shapeID: 22746128B84212736337013
-    country_name: Indonesia
-  Indonesia_Adm2_359:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MusiRawas
-    shapeID: 22746128B56500782521831
-    country_name: Indonesia
-  Indonesia_Adm2_36:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BaritoKuala
-    shapeID: 22746128B88870484763637
-    country_name: Indonesia
-  Indonesia_Adm2_360:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: MusiRawasUtara
-    shapeID: 22746128B26074251210079
-    country_name: Indonesia
-  Indonesia_Adm2_361:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Nabire
-    shapeID: 22746128B29146649309875
-    country_name: Indonesia
-  Indonesia_Adm2_362:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: NaganRaya
-    shapeID: 22746128B8237986094994
-    country_name: Indonesia
-  Indonesia_Adm2_363:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Nagekeo
-    shapeID: 22746128B97494513966687
-    country_name: Indonesia
-  Indonesia_Adm2_364:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Natuna
-    shapeID: 22746128B6637644559706
-    country_name: Indonesia
-  Indonesia_Adm2_365:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Nduga
-    shapeID: 22746128B7624163664321
-    country_name: Indonesia
-  Indonesia_Adm2_366:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Ngada
-    shapeID: 22746128B33181363193361
-    country_name: Indonesia
-  Indonesia_Adm2_367:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Nganjuk
-    shapeID: 22746128B46559606025688
-    country_name: Indonesia
-  Indonesia_Adm2_368:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Ngawi
-    shapeID: 22746128B17210029520680
-    country_name: Indonesia
-  Indonesia_Adm2_369:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Nias
-    shapeID: 22746128B114560941686
-    country_name: Indonesia
-  Indonesia_Adm2_37:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BaritoSelatan
-    shapeID: 22746128B74191069780867
-    country_name: Indonesia
-  Indonesia_Adm2_370:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: NiasBarat
-    shapeID: 22746128B23007358779926
-    country_name: Indonesia
-  Indonesia_Adm2_371:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: NiasSelatan
-    shapeID: 22746128B70987165350034
-    country_name: Indonesia
-  Indonesia_Adm2_372:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: NiasUtara
-    shapeID: 22746128B50601239773602
-    country_name: Indonesia
-  Indonesia_Adm2_373:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Nunukan
-    shapeID: 22746128B24707766174966
-    country_name: Indonesia
-  Indonesia_Adm2_374:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: OganIlir
-    shapeID: 22746128B50783491652131
-    country_name: Indonesia
-  Indonesia_Adm2_375:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: OganKomeringIlir
-    shapeID: 22746128B6554957987252
-    country_name: Indonesia
-  Indonesia_Adm2_376:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: OganKomeringUlu
-    shapeID: 22746128B55651065226017
-    country_name: Indonesia
-  Indonesia_Adm2_377:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: OganKomeringUluSelatan
-    shapeID: 22746128B38683854456350
-    country_name: Indonesia
-  Indonesia_Adm2_378:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: OganKomeringUluTimur
-    shapeID: 22746128B29719145941035
-    country_name: Indonesia
-  Indonesia_Adm2_379:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pacitan
-    shapeID: 22746128B46377021687256
-    country_name: Indonesia
-  Indonesia_Adm2_38:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BaritoTimur
-    shapeID: 22746128B29529230943245
-    country_name: Indonesia
-  Indonesia_Adm2_380:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PadangLawas
-    shapeID: 22746128B18337582481574
-    country_name: Indonesia
-  Indonesia_Adm2_381:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PadangLawasUtara
-    shapeID: 22746128B6160471216736
-    country_name: Indonesia
-  Indonesia_Adm2_382:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PadangPariaman
-    shapeID: 22746128B3683779023382
-    country_name: Indonesia
-  Indonesia_Adm2_383:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PakpakBharat
-    shapeID: 22746128B12751431115951
-    country_name: Indonesia
-  Indonesia_Adm2_384:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pamekasan
-    shapeID: 22746128B37926964335633
-    country_name: Indonesia
-  Indonesia_Adm2_385:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pandeglang
-    shapeID: 22746128B79755996911998
-    country_name: Indonesia
-  Indonesia_Adm2_386:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pangandaran
-    shapeID: 22746128B59857718615465
-    country_name: Indonesia
-  Indonesia_Adm2_387:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PangkajeneDanKepulauan
-    shapeID: 22746128B84288456023840
-    country_name: Indonesia
-  Indonesia_Adm2_388:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Paniai
-    shapeID: 22746128B72382312298600
-    country_name: Indonesia
-  Indonesia_Adm2_389:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: ParigiMoutong
-    shapeID: 22746128B5854376167403
-    country_name: Indonesia
-  Indonesia_Adm2_39:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BaritoUtara
-    shapeID: 22746128B89680104320053
-    country_name: Indonesia
-  Indonesia_Adm2_390:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pasaman
-    shapeID: 22746128B82897046958257
-    country_name: Indonesia
-  Indonesia_Adm2_391:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PasamanBarat
-    shapeID: 22746128B95220206981522
-    country_name: Indonesia
-  Indonesia_Adm2_392:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Paser
-    shapeID: 22746128B17746000623405
-    country_name: Indonesia
-  Indonesia_Adm2_393:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pasuruan
-    shapeID: 22746128B81373906315979
-    country_name: Indonesia
-  Indonesia_Adm2_394:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pati
-    shapeID: 22746128B37789509782125
-    country_name: Indonesia
-  Indonesia_Adm2_395:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PegununganArfak
-    shapeID: 22746128B30560862468368
-    country_name: Indonesia
-  Indonesia_Adm2_396:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PegununganBintang
-    shapeID: 22746128B40289792856685
-    country_name: Indonesia
-  Indonesia_Adm2_397:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pekalongan
-    shapeID: 22746128B43405552393366
-    country_name: Indonesia
-  Indonesia_Adm2_398:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pelalawan
-    shapeID: 22746128B44055596539945
-    country_name: Indonesia
-  Indonesia_Adm2_399:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pemalang
-    shapeID: 22746128B43122306499336
-    country_name: Indonesia
-  Indonesia_Adm2_4:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: AcehJaya
-    shapeID: 22746128B21424895456858
-    country_name: Indonesia
-  Indonesia_Adm2_40:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Barru
-    shapeID: 22746128B81694843903641
-    country_name: Indonesia
-  Indonesia_Adm2_400:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PenajamPaserUtara
-    shapeID: 22746128B96540112180119
-    country_name: Indonesia
-  Indonesia_Adm2_401:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PenukalAbabLematangIlir
-    shapeID: 22746128B2393542990028
-    country_name: Indonesia
-  Indonesia_Adm2_402:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pesawaran
-    shapeID: 22746128B94381737455512
-    country_name: Indonesia
-  Indonesia_Adm2_403:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PesisirBarat
-    shapeID: 22746128B87029922352837
-    country_name: Indonesia
-  Indonesia_Adm2_404:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PesisirSelatan
-    shapeID: 22746128B35993392452682
-    country_name: Indonesia
-  Indonesia_Adm2_405:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pidie
-    shapeID: 22746128B35853530005037
-    country_name: Indonesia
-  Indonesia_Adm2_406:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PidieJaya
-    shapeID: 22746128B77747107542596
-    country_name: Indonesia
-  Indonesia_Adm2_407:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pinrang
-    shapeID: 22746128B71783882222616
-    country_name: Indonesia
-  Indonesia_Adm2_408:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pohuwato
-    shapeID: 22746128B36723886609479
-    country_name: Indonesia
-  Indonesia_Adm2_409:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PolewaliMandar
-    shapeID: 22746128B50766380968306
-    country_name: Indonesia
-  Indonesia_Adm2_41:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Batang
-    shapeID: 22746128B4894534477686
-    country_name: Indonesia
-  Indonesia_Adm2_410:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Ponorogo
-    shapeID: 22746128B39928875112308
-    country_name: Indonesia
-  Indonesia_Adm2_411:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Poso
-    shapeID: 22746128B71918225941207
-    country_name: Indonesia
-  Indonesia_Adm2_412:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Pringsewu
-    shapeID: 22746128B80903663444835
-    country_name: Indonesia
-  Indonesia_Adm2_413:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Probolinggo
-    shapeID: 22746128B57336658570108
-    country_name: Indonesia
-  Indonesia_Adm2_414:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PulangPisau
-    shapeID: 22746128B75083695068268
-    country_name: Indonesia
-  Indonesia_Adm2_415:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PulauMorotai
-    shapeID: 22746128B67952855762127
-    country_name: Indonesia
-  Indonesia_Adm2_416:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PulauTaliabu
-    shapeID: 22746128B98781354669228
-    country_name: Indonesia
-  Indonesia_Adm2_417:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Puncak
-    shapeID: 22746128B1222572676249
-    country_name: Indonesia
-  Indonesia_Adm2_418:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: PuncakJaya
-    shapeID: 22746128B50358350022934
-    country_name: Indonesia
-  Indonesia_Adm2_419:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Purbalingga
-    shapeID: 22746128B86887436396051
-    country_name: Indonesia
-  Indonesia_Adm2_42:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BatangHari
-    shapeID: 22746128B80000441774097
-    country_name: Indonesia
-  Indonesia_Adm2_420:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Purwakarta
-    shapeID: 22746128B43709097539954
-    country_name: Indonesia
-  Indonesia_Adm2_421:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Purworejo
-    shapeID: 22746128B47019757463267
-    country_name: Indonesia
-  Indonesia_Adm2_422:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: RajaAmpat
-    shapeID: 22746128B90221566890304
-    country_name: Indonesia
-  Indonesia_Adm2_423:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: RejangLebong
-    shapeID: 22746128B47928451075254
-    country_name: Indonesia
-  Indonesia_Adm2_424:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Rembang
-    shapeID: 22746128B94981829239468
-    country_name: Indonesia
-  Indonesia_Adm2_425:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: RokanHilir
-    shapeID: 22746128B71759944188311
-    country_name: Indonesia
-  Indonesia_Adm2_426:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: RokanHulu
-    shapeID: 22746128B35208725321264
-    country_name: Indonesia
-  Indonesia_Adm2_427:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: RoteNdao
-    shapeID: 22746128B61006797400672
-    country_name: Indonesia
-  Indonesia_Adm2_428:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SabuRaijua
-    shapeID: 22746128B67076907647447
-    country_name: Indonesia
-  Indonesia_Adm2_429:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sambas
-    shapeID: 22746128B87993072617697
-    country_name: Indonesia
-  Indonesia_Adm2_43:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BatuBara
-    shapeID: 22746128B96384374000902
-    country_name: Indonesia
-  Indonesia_Adm2_430:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Samosir
-    shapeID: 22746128B81816662901100
-    country_name: Indonesia
-  Indonesia_Adm2_431:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sampang
-    shapeID: 22746128B2542813239591
-    country_name: Indonesia
-  Indonesia_Adm2_432:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sanggau
-    shapeID: 22746128B74989070523542
-    country_name: Indonesia
-  Indonesia_Adm2_433:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sarmi
-    shapeID: 22746128B27261093121909
-    country_name: Indonesia
-  Indonesia_Adm2_434:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sarolangun
-    shapeID: 22746128B44731308508060
-    country_name: Indonesia
-  Indonesia_Adm2_435:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sekadau
-    shapeID: 22746128B16160803458764
-    country_name: Indonesia
-  Indonesia_Adm2_436:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Seluma
-    shapeID: 22746128B87861638449066
-    country_name: Indonesia
-  Indonesia_Adm2_437:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Semarang
-    shapeID: 22746128B46914217687538
-    country_name: Indonesia
-  Indonesia_Adm2_438:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SeramBagianBarat
-    shapeID: 22746128B92585048181027
-    country_name: Indonesia
-  Indonesia_Adm2_439:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SeramBagianTimur
-    shapeID: 22746128B38603798591380
-    country_name: Indonesia
-  Indonesia_Adm2_44:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bekasi
-    shapeID: 22746128B74302729610221
-    country_name: Indonesia
-  Indonesia_Adm2_440:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Serang
-    shapeID: 22746128B3242616561013
-    country_name: Indonesia
-  Indonesia_Adm2_441:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SerdangBedagai
-    shapeID: 22746128B52277249956552
-    country_name: Indonesia
-  Indonesia_Adm2_442:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Seruyan
-    shapeID: 22746128B10156150641021
-    country_name: Indonesia
-  Indonesia_Adm2_443:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Siak
-    shapeID: 22746128B48036345674071
-    country_name: Indonesia
-  Indonesia_Adm2_444:
+  IDN.1.1_1_Adm2:
+    GID: IDN.1.1_1
+    admin_name: Aceh Barat Daya
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: SiauTagulandangBiaro
-    shapeID: 22746128B24839603722983
-    country_name: Indonesia
-  Indonesia_Adm2_445:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SidenrengRappang
-    shapeID: 22746128B89870320898123
-    country_name: Indonesia
-  Indonesia_Adm2_446:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sidoarjo
-    shapeID: 22746128B7257810863239
-    country_name: Indonesia
-  Indonesia_Adm2_447:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sigi
-    shapeID: 22746128B27078250924142
-    country_name: Indonesia
-  Indonesia_Adm2_448:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sijunjung
-    shapeID: 22746128B5140836931072
-    country_name: Indonesia
-  Indonesia_Adm2_449:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sikka
-    shapeID: 22746128B25889265457696
-    country_name: Indonesia
-  Indonesia_Adm2_45:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Belitung
-    shapeID: 22746128B80009106787015
-    country_name: Indonesia
-  Indonesia_Adm2_450:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Simalungun
-    shapeID: 22746128B18371020983209
-    country_name: Indonesia
-  Indonesia_Adm2_451:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Simeulue
-    shapeID: 22746128B32199422560180
-    country_name: Indonesia
-  Indonesia_Adm2_452:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sinjai
-    shapeID: 22746128B62270956264702
-    country_name: Indonesia
-  Indonesia_Adm2_453:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sintang
-    shapeID: 22746128B74245273608062
-    country_name: Indonesia
-  Indonesia_Adm2_454:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Situbondo
-    shapeID: 22746128B65817775308435
-    country_name: Indonesia
-  Indonesia_Adm2_455:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sleman
-    shapeID: 22746128B68764842139539
-    country_name: Indonesia
-  Indonesia_Adm2_456:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Solok
-    shapeID: 22746128B59065860162276
-    country_name: Indonesia
-  Indonesia_Adm2_457:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SolokSelatan
-    shapeID: 22746128B25846553351835
-    country_name: Indonesia
-  Indonesia_Adm2_458:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Soppeng
-    shapeID: 22746128B93867843889604
-    country_name: Indonesia
-  Indonesia_Adm2_459:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sorong
-    shapeID: 22746128B25112391877259
-    country_name: Indonesia
-  Indonesia_Adm2_46:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BelitungTimur
-    shapeID: 22746128B98690900191937
-    country_name: Indonesia
-  Indonesia_Adm2_460:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SorongSelatan
-    shapeID: 22746128B99267537228675
-    country_name: Indonesia
-  Indonesia_Adm2_461:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sragen
-    shapeID: 22746128B28263166501815
-    country_name: Indonesia
-  Indonesia_Adm2_462:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Subang
-    shapeID: 22746128B90150108137034
-    country_name: Indonesia
-  Indonesia_Adm2_463:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sukabumi
-    shapeID: 22746128B66929526216355
-    country_name: Indonesia
-  Indonesia_Adm2_464:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sukamara
-    shapeID: 22746128B44365111458704
-    country_name: Indonesia
-  Indonesia_Adm2_465:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sukoharjo
-    shapeID: 22746128B41417259813102
-    country_name: Indonesia
-  Indonesia_Adm2_466:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SumbaBarat
-    shapeID: 22746128B3578697728098
-    country_name: Indonesia
-  Indonesia_Adm2_467:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SumbaBaratDaya
-    shapeID: 22746128B80160169684098
-    country_name: Indonesia
-  Indonesia_Adm2_468:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SumbaTengah
-    shapeID: 22746128B11743482298506
-    country_name: Indonesia
-  Indonesia_Adm2_469:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SumbaTimur
-    shapeID: 22746128B15873256673931
-    country_name: Indonesia
-  Indonesia_Adm2_47:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Belu
-    shapeID: 22746128B36840991830224
-    country_name: Indonesia
-  Indonesia_Adm2_470:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sumbawa
-    shapeID: 22746128B848155691224
-    country_name: Indonesia
-  Indonesia_Adm2_471:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: SumbawaBarat
-    shapeID: 22746128B87271379033569
-    country_name: Indonesia
-  Indonesia_Adm2_472:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sumedang
-    shapeID: 22746128B19624873108228
-    country_name: Indonesia
-  Indonesia_Adm2_473:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Sumenep
-    shapeID: 22746128B46307112426649
-    country_name: Indonesia
-  Indonesia_Adm2_474:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Supiori
-    shapeID: 22746128B73598541988454
-    country_name: Indonesia
-  Indonesia_Adm2_475:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tabalong
-    shapeID: 22746128B29828162207979
-    country_name: Indonesia
-  Indonesia_Adm2_476:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tabanan
-    shapeID: 22746128B4646422714630
-    country_name: Indonesia
-  Indonesia_Adm2_477:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Takalar
-    shapeID: 22746128B33549586615312
-    country_name: Indonesia
-  Indonesia_Adm2_478:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tambrauw
-    shapeID: 22746128B68810971865676
-    country_name: Indonesia
-  Indonesia_Adm2_479:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TanaTidung
-    shapeID: 22746128B22343651246279
-    country_name: Indonesia
-  Indonesia_Adm2_48:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BenerMeriah
-    shapeID: 22746128B4257100474226
-    country_name: Indonesia
-  Indonesia_Adm2_480:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TanaToraja
-    shapeID: 22746128B55477646801661
-    country_name: Indonesia
-  Indonesia_Adm2_481:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TanahBumbu
-    shapeID: 22746128B5843223707622
-    country_name: Indonesia
-  Indonesia_Adm2_482:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TanahDatar
-    shapeID: 22746128B43985885623603
-    country_name: Indonesia
-  Indonesia_Adm2_483:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TanahLaut
-    shapeID: 22746128B54914598899185
-    country_name: Indonesia
-  Indonesia_Adm2_484:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tangerang
-    shapeID: 22746128B62876177397182
-    country_name: Indonesia
-  Indonesia_Adm2_485:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tanggamus
-    shapeID: 22746128B69666188283297
-    country_name: Indonesia
-  Indonesia_Adm2_486:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TanjungJabungBarat
-    shapeID: 22746128B97653119007289
-    country_name: Indonesia
-  Indonesia_Adm2_487:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TanjungJabungTimur
-    shapeID: 22746128B13468366985120
-    country_name: Indonesia
-  Indonesia_Adm2_488:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TapanuliSelatan
-    shapeID: 22746128B22210082667393
-    country_name: Indonesia
-  Indonesia_Adm2_489:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TapanuliTengah
-    shapeID: 22746128B86210793324026
-    country_name: Indonesia
-  Indonesia_Adm2_49:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bengkalis
-    shapeID: 22746128B45456061674897
-    country_name: Indonesia
-  Indonesia_Adm2_490:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TapanuliUtara
-    shapeID: 22746128B99937545443202
-    country_name: Indonesia
-  Indonesia_Adm2_491:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tapin
-    shapeID: 22746128B54842505361870
-    country_name: Indonesia
-  Indonesia_Adm2_492:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tasikmalaya
-    shapeID: 22746128B89217704079934
-    country_name: Indonesia
-  Indonesia_Adm2_493:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tebo
-    shapeID: 22746128B61304276790881
-    country_name: Indonesia
-  Indonesia_Adm2_494:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tegal
-    shapeID: 22746128B39713682939315
-    country_name: Indonesia
-  Indonesia_Adm2_495:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TelukBintuni
-    shapeID: 22746128B11480476919105
-    country_name: Indonesia
-  Indonesia_Adm2_496:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TelukWondama
-    shapeID: 22746128B47515282892276
-    country_name: Indonesia
-  Indonesia_Adm2_497:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Temanggung
-    shapeID: 22746128B37534287210764
-    country_name: Indonesia
-  Indonesia_Adm2_498:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TimorTengahSelatan
-    shapeID: 22746128B39495189442435
-    country_name: Indonesia
-  Indonesia_Adm2_499:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TimorTengahUtara
-    shapeID: 22746128B66987763142599
-    country_name: Indonesia
-  Indonesia_Adm2_5:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: AcehSelatan
-    shapeID: 22746128B12428400263117
-    country_name: Indonesia
-  Indonesia_Adm2_50:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bengkayang
-    shapeID: 22746128B96004883426087
-    country_name: Indonesia
-  Indonesia_Adm2_500:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TobaSamosir
-    shapeID: 22746128B48431928866564
-    country_name: Indonesia
-  Indonesia_Adm2_501:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TojoUna-Una
-    shapeID: 22746128B20933115656615
-    country_name: Indonesia
-  Indonesia_Adm2_502:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Toli-Toli
-    shapeID: 22746128B86630799177927
-    country_name: Indonesia
-  Indonesia_Adm2_503:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tolikara
-    shapeID: 22746128B10432975654062
-    country_name: Indonesia
-  Indonesia_Adm2_504:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TorajaUtara
-    shapeID: 22746128B99951949618583
-    country_name: Indonesia
-  Indonesia_Adm2_505:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Trenggalek
-    shapeID: 22746128B86316028646138
-    country_name: Indonesia
-  Indonesia_Adm2_506:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tuban
-    shapeID: 22746128B21203406788524
-    country_name: Indonesia
-  Indonesia_Adm2_507:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: TulangBawangBarat
-    shapeID: 22746128B7348236235073
-    country_name: Indonesia
-  Indonesia_Adm2_508:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tulangbawang
-    shapeID: 22746128B49188423555547
-    country_name: Indonesia
-  Indonesia_Adm2_509:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Tulungagung
-    shapeID: 22746128B2754392863745
-    country_name: Indonesia
-  Indonesia_Adm2_51:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BengkuluSelatan
-    shapeID: 22746128B78254403614329
-    country_name: Indonesia
-  Indonesia_Adm2_510:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: WadukCirata
-    shapeID: 22746128B76055711701199
-    country_name: Indonesia
-  Indonesia_Adm2_511:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: WadungKedungombo
-    shapeID: 22746128B86942252851890
-    country_name: Indonesia
-  Indonesia_Adm2_512:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Wajo
-    shapeID: 22746128B4429389080756
-    country_name: Indonesia
-  Indonesia_Adm2_513:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Wakatobi
-    shapeID: 22746128B42553963392557
-    country_name: Indonesia
-  Indonesia_Adm2_514:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Waropen
-    shapeID: 22746128B12986554349068
-    country_name: Indonesia
-  Indonesia_Adm2_515:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: WayKanan
-    shapeID: 22746128B8708218473228
-    country_name: Indonesia
-  Indonesia_Adm2_516:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Wonogiri
-    shapeID: 22746128B32217084331074
-    country_name: Indonesia
-  Indonesia_Adm2_517:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Wonosobo
-    shapeID: 22746128B92173297199140
     country_name: Indonesia
-  Indonesia_Adm2_518:
-    iso3c: IDN
     admin_level: Adm2
-    admin_name: Yahukimo
-    shapeID: 22746128B87177062694316
-    country_name: Indonesia
-  Indonesia_Adm2_519:
+  IDN.1.10_1_Adm2:
+    GID: IDN.1.10_1
+    admin_name: Aceh Timur
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: Yalimo
-    shapeID: 22746128B10188501962211
     country_name: Indonesia
-  Indonesia_Adm2_52:
-    iso3c: IDN
     admin_level: Adm2
-    admin_name: BengkuluTengah
-    shapeID: 22746128B16836972822517
-    country_name: Indonesia
-  Indonesia_Adm2_53:
+  IDN.1.11_1_Adm2:
+    GID: IDN.1.11_1
+    admin_name: Aceh Utara
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: BengkuluUtara
-    shapeID: 22746128B39887218554518
     country_name: Indonesia
-  Indonesia_Adm2_54:
-    iso3c: IDN
     admin_level: Adm2
-    admin_name: Berau
-    shapeID: 22746128B34069275840087
-    country_name: Indonesia
-  Indonesia_Adm2_55:
+  IDN.1.12_1_Adm2:
+    GID: IDN.1.12_1
+    admin_name: Banda Aceh
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: BiakNumfor
-    shapeID: 22746128B19254678251292
     country_name: Indonesia
-  Indonesia_Adm2_56:
-    iso3c: IDN
     admin_level: Adm2
-    admin_name: Bima
-    shapeID: 22746128B14082340634491
-    country_name: Indonesia
-  Indonesia_Adm2_57:
+  IDN.1.13_1_Adm2:
+    GID: IDN.1.13_1
+    admin_name: Bener Meriah
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bintan
-    shapeID: 22746128B62804497316712
     country_name: Indonesia
-  Indonesia_Adm2_58:
-    iso3c: IDN
     admin_level: Adm2
+  IDN.1.14_1_Adm2:
+    GID: IDN.1.14_1
     admin_name: Bireuen
-    shapeID: 22746128B71427834061478
-    country_name: Indonesia
-  Indonesia_Adm2_59:
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: Blitar
-    shapeID: 22746128B45235083091424
     country_name: Indonesia
-  Indonesia_Adm2_6:
-    iso3c: IDN
     admin_level: Adm2
-    admin_name: AcehSingkil
-    shapeID: 22746128B17710719872214
+  IDN.1.15_1_Adm2:
+    GID: IDN.1.15_1
+    admin_name: Gayo Lues
+    iso3c: IDN
     country_name: Indonesia
-  Indonesia_Adm2_60:
-    iso3c: IDN
     admin_level: Adm2
+  IDN.1.16_1_Adm2:
+    GID: IDN.1.16_1
+    admin_name: Langsa
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.17_1_Adm2:
+    GID: IDN.1.17_1
+    admin_name: Lhokseumawe
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.18_1_Adm2:
+    GID: IDN.1.18_1
+    admin_name: Nagan Raya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.19_1_Adm2:
+    GID: IDN.1.19_1
+    admin_name: Pidie Jaya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.2_1_Adm2:
+    GID: IDN.1.2_1
+    admin_name: Aceh Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.20_1_Adm2:
+    GID: IDN.1.20_1
+    admin_name: Pidie
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.21_1_Adm2:
+    GID: IDN.1.21_1
+    admin_name: Sabang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.22_1_Adm2:
+    GID: IDN.1.22_1
+    admin_name: Simeulue
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.23_1_Adm2:
+    GID: IDN.1.23_1
+    admin_name: Subulussalam
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.3_1_Adm2:
+    GID: IDN.1.3_1
+    admin_name: Aceh Besar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.4_1_Adm2:
+    GID: IDN.1.4_1
+    admin_name: Aceh Jaya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.5_1_Adm2:
+    GID: IDN.1.5_1
+    admin_name: Aceh Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.6_1_Adm2:
+    GID: IDN.1.6_1
+    admin_name: Aceh Singkil
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.7_1_Adm2:
+    GID: IDN.1.7_1
+    admin_name: Aceh Tamiang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.8_1_Adm2:
+    GID: IDN.1.8_1
+    admin_name: Aceh Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.1.9_1_Adm2:
+    GID: IDN.1.9_1
+    admin_name: Aceh Tenggara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10_1_Adm1:
+    GID: IDN.10_1
+    admin_name: Jawa Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.10.1_1_Adm2:
+    GID: IDN.10.1_1
+    admin_name: Banjarnegara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.10_1_Adm2:
+    GID: IDN.10.10_1
+    admin_name: Jepara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.11_1_Adm2:
+    GID: IDN.10.11_1
+    admin_name: Karanganyar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.12_1_Adm2:
+    GID: IDN.10.12_1
+    admin_name: Kebumen
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.13_1_Adm2:
+    GID: IDN.10.13_1
+    admin_name: Kendal
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.14_1_Adm2:
+    GID: IDN.10.14_1
+    admin_name: Klaten
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.15_1_Adm2:
+    GID: IDN.10.15_1
+    admin_name: Kota Magelang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.16_1_Adm2:
+    GID: IDN.10.16_1
+    admin_name: Kota Pekalongan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.17_1_Adm2:
+    GID: IDN.10.17_1
+    admin_name: Kota Semarang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.18_1_Adm2:
+    GID: IDN.10.18_1
+    admin_name: Kota Tegal
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.19_1_Adm2:
+    GID: IDN.10.19_1
+    admin_name: Kudus
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.2_1_Adm2:
+    GID: IDN.10.2_1
+    admin_name: Banyumas
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.20_1_Adm2:
+    GID: IDN.10.20_1
+    admin_name: Magelang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.21_1_Adm2:
+    GID: IDN.10.21_1
+    admin_name: Pati
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.22_1_Adm2:
+    GID: IDN.10.22_1
+    admin_name: Pekalongan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.23_1_Adm2:
+    GID: IDN.10.23_1
+    admin_name: Pemalang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.24_1_Adm2:
+    GID: IDN.10.24_1
+    admin_name: Purbalingga
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.25_1_Adm2:
+    GID: IDN.10.25_1
+    admin_name: Purworejo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.26_1_Adm2:
+    GID: IDN.10.26_1
+    admin_name: Rembang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.27_1_Adm2:
+    GID: IDN.10.27_1
+    admin_name: Salatiga
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.28_1_Adm2:
+    GID: IDN.10.28_1
+    admin_name: Semarang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.29_1_Adm2:
+    GID: IDN.10.29_1
+    admin_name: Sragen
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.3_1_Adm2:
+    GID: IDN.10.3_1
+    admin_name: Batang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.30_1_Adm2:
+    GID: IDN.10.30_1
+    admin_name: Sukoharjo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.31_1_Adm2:
+    GID: IDN.10.31_1
+    admin_name: Surakarta
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.32_1_Adm2:
+    GID: IDN.10.32_1
+    admin_name: Tegal
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.33_1_Adm2:
+    GID: IDN.10.33_1
+    admin_name: Temanggung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.34_1_Adm2:
+    GID: IDN.10.34_1
+    admin_name: Waduk Kedungombo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.35_1_Adm2:
+    GID: IDN.10.35_1
+    admin_name: Wonogiri
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.36_1_Adm2:
+    GID: IDN.10.36_1
+    admin_name: Wonosobo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.10.4_1_Adm2:
+    GID: IDN.10.4_1
     admin_name: Blora
-    shapeID: 22746128B85780086903212
-    country_name: Indonesia
-  Indonesia_Adm2_61:
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: Boalemo
-    shapeID: 22746128B1718153682633
     country_name: Indonesia
-  Indonesia_Adm2_62:
-    iso3c: IDN
     admin_level: Adm2
-    admin_name: Bogor
-    shapeID: 22746128B99423643145371
-    country_name: Indonesia
-  Indonesia_Adm2_63:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bojonegoro
-    shapeID: 22746128B62232019301027
-    country_name: Indonesia
-  Indonesia_Adm2_64:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BolaangMongondow
-    shapeID: 22746128B99982169683342
-    country_name: Indonesia
-  Indonesia_Adm2_65:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BolaangMongondowSelatan
-    shapeID: 22746128B14720240696101
-    country_name: Indonesia
-  Indonesia_Adm2_66:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BolaangMongondowTimur
-    shapeID: 22746128B26195600949416
-    country_name: Indonesia
-  Indonesia_Adm2_67:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BolaangMongondowUtara
-    shapeID: 22746128B96389329417801
-    country_name: Indonesia
-  Indonesia_Adm2_68:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bombana
-    shapeID: 22746128B28760414544557
-    country_name: Indonesia
-  Indonesia_Adm2_69:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bondowoso
-    shapeID: 22746128B61555758059649
-    country_name: Indonesia
-  Indonesia_Adm2_7:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: AcehTamiang
-    shapeID: 22746128B57620394058931
-    country_name: Indonesia
-  Indonesia_Adm2_70:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bone
-    shapeID: 22746128B25468135680533
-    country_name: Indonesia
-  Indonesia_Adm2_71:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BoneBolango
-    shapeID: 22746128B41707288718561
-    country_name: Indonesia
-  Indonesia_Adm2_72:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BovenDigoel
-    shapeID: 22746128B21273779065212
-    country_name: Indonesia
-  Indonesia_Adm2_73:
-    iso3c: IDN
-    admin_level: Adm2
+  IDN.10.5_1_Adm2:
+    GID: IDN.10.5_1
     admin_name: Boyolali
-    shapeID: 22746128B51975137382727
-    country_name: Indonesia
-  Indonesia_Adm2_74:
     iso3c: IDN
+    country_name: Indonesia
     admin_level: Adm2
+  IDN.10.6_1_Adm2:
+    GID: IDN.10.6_1
     admin_name: Brebes
-    shapeID: 22746128B82312103386068
-    country_name: Indonesia
-  Indonesia_Adm2_75:
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: Buleleng
-    shapeID: 22746128B19337828575841
     country_name: Indonesia
-  Indonesia_Adm2_76:
-    iso3c: IDN
     admin_level: Adm2
-    admin_name: Bulukumba
-    shapeID: 22746128B72639885395673
-    country_name: Indonesia
-  Indonesia_Adm2_77:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bulungan
-    shapeID: 22746128B10941975158621
-    country_name: Indonesia
-  Indonesia_Adm2_78:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Bungo
-    shapeID: 22746128B28569646979400
-    country_name: Indonesia
-  Indonesia_Adm2_79:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Buol
-    shapeID: 22746128B60636029206407
-    country_name: Indonesia
-  Indonesia_Adm2_8:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: AcehTengah
-    shapeID: 22746128B89023327523654
-    country_name: Indonesia
-  Indonesia_Adm2_80:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Buru
-    shapeID: 22746128B29167244459072
-    country_name: Indonesia
-  Indonesia_Adm2_81:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: BuruSelatan
-    shapeID: 22746128B90083339512512
-    country_name: Indonesia
-  Indonesia_Adm2_82:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Buton
-    shapeID: 22746128B86741169633217
-    country_name: Indonesia
-  Indonesia_Adm2_83:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: ButonSelatan
-    shapeID: 22746128B94245100908076
-    country_name: Indonesia
-  Indonesia_Adm2_84:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: ButonTengah
-    shapeID: 22746128B6718763508294
-    country_name: Indonesia
-  Indonesia_Adm2_85:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: ButonUtara
-    shapeID: 22746128B51044624823813
-    country_name: Indonesia
-  Indonesia_Adm2_86:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Ciamis
-    shapeID: 22746128B17121530580660
-    country_name: Indonesia
-  Indonesia_Adm2_87:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Cianjur
-    shapeID: 22746128B34542084533901
-    country_name: Indonesia
-  Indonesia_Adm2_88:
-    iso3c: IDN
-    admin_level: Adm2
+  IDN.10.7_1_Adm2:
+    GID: IDN.10.7_1
     admin_name: Cilacap
-    shapeID: 22746128B37209370352000
-    country_name: Indonesia
-  Indonesia_Adm2_89:
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: Cirebon
-    shapeID: 22746128B77544549346240
     country_name: Indonesia
-  Indonesia_Adm2_9:
-    iso3c: IDN
     admin_level: Adm2
-    admin_name: AcehTenggara
-    shapeID: 22746128B65780821536148
-    country_name: Indonesia
-  Indonesia_Adm2_90:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Dairi
-    shapeID: 22746128B7455670127099
-    country_name: Indonesia
-  Indonesia_Adm2_91:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Danau
-    shapeID: 22746128B15758871990616
-    country_name: Indonesia
-  Indonesia_Adm2_92:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: DanauToba
-    shapeID: 22746128B58041142516585
-    country_name: Indonesia
-  Indonesia_Adm2_93:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: Deiyai
-    shapeID: 22746128B51921656212420
-    country_name: Indonesia
-  Indonesia_Adm2_94:
-    iso3c: IDN
-    admin_level: Adm2
-    admin_name: DeliSerdang
-    shapeID: 22746128B17104196518473
-    country_name: Indonesia
-  Indonesia_Adm2_95:
-    iso3c: IDN
-    admin_level: Adm2
+  IDN.10.8_1_Adm2:
+    GID: IDN.10.8_1
     admin_name: Demak
-    shapeID: 22746128B71519500232359
-    country_name: Indonesia
-  Indonesia_Adm2_96:
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: Dharmasraya
-    shapeID: 22746128B7219534805401
     country_name: Indonesia
-  Indonesia_Adm2_97:
-    iso3c: IDN
     admin_level: Adm2
-    admin_name: Dogiyai
-    shapeID: 22746128B76462588476684
+  IDN.10.9_1_Adm2:
+    GID: IDN.10.9_1
+    admin_name: Grobogan
+    iso3c: IDN
     country_name: Indonesia
-  Indonesia_Adm2_98:
-    iso3c: IDN
     admin_level: Adm2
+  IDN.11_1_Adm1:
+    GID: IDN.11_1
+    admin_name: Jawa Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.11.1_1_Adm2:
+    GID: IDN.11.1_1
+    admin_name: Bangkalan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.10_1_Adm2:
+    GID: IDN.11.10_1
+    admin_name: Kediri
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.11_1_Adm2:
+    GID: IDN.11.11_1
+    admin_name: Kota Blitar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.12_1_Adm2:
+    GID: IDN.11.12_1
+    admin_name: Kota Kediri
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.13_1_Adm2:
+    GID: IDN.11.13_1
+    admin_name: Kota Madiun
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.14_1_Adm2:
+    GID: IDN.11.14_1
+    admin_name: Kota Malang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.15_1_Adm2:
+    GID: IDN.11.15_1
+    admin_name: Kota Mojokerto
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.16_1_Adm2:
+    GID: IDN.11.16_1
+    admin_name: Kota Pasuruan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.17_1_Adm2:
+    GID: IDN.11.17_1
+    admin_name: Kota Probolinggo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.18_1_Adm2:
+    GID: IDN.11.18_1
+    admin_name: Lamongan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.19_1_Adm2:
+    GID: IDN.11.19_1
+    admin_name: Lumajang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.2_1_Adm2:
+    GID: IDN.11.2_1
+    admin_name: Banyuwangi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.20_1_Adm2:
+    GID: IDN.11.20_1
+    admin_name: Madiun
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.21_1_Adm2:
+    GID: IDN.11.21_1
+    admin_name: Magetan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.22_1_Adm2:
+    GID: IDN.11.22_1
+    admin_name: Malang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.23_1_Adm2:
+    GID: IDN.11.23_1
+    admin_name: Mojokerto
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.24_1_Adm2:
+    GID: IDN.11.24_1
+    admin_name: Nganjuk
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.25_1_Adm2:
+    GID: IDN.11.25_1
+    admin_name: Ngawi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.26_1_Adm2:
+    GID: IDN.11.26_1
+    admin_name: Pacitan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.27_1_Adm2:
+    GID: IDN.11.27_1
+    admin_name: Pamekasan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.28_1_Adm2:
+    GID: IDN.11.28_1
+    admin_name: Pasuruan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.29_1_Adm2:
+    GID: IDN.11.29_1
+    admin_name: Ponorogo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.3_1_Adm2:
+    GID: IDN.11.3_1
+    admin_name: Batu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.30_1_Adm2:
+    GID: IDN.11.30_1
+    admin_name: Probolinggo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.31_1_Adm2:
+    GID: IDN.11.31_1
+    admin_name: Sampang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.32_1_Adm2:
+    GID: IDN.11.32_1
+    admin_name: Sidoarjo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.33_1_Adm2:
+    GID: IDN.11.33_1
+    admin_name: Situbondo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.34_1_Adm2:
+    GID: IDN.11.34_1
+    admin_name: Sumenep
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.35_1_Adm2:
+    GID: IDN.11.35_1
+    admin_name: Surabaya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.36_1_Adm2:
+    GID: IDN.11.36_1
+    admin_name: Trenggalek
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.37_1_Adm2:
+    GID: IDN.11.37_1
+    admin_name: Tuban
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.38_1_Adm2:
+    GID: IDN.11.38_1
+    admin_name: Tulungagung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.4_1_Adm2:
+    GID: IDN.11.4_1
+    admin_name: Blitar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.5_1_Adm2:
+    GID: IDN.11.5_1
+    admin_name: Bojonegoro
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.6_1_Adm2:
+    GID: IDN.11.6_1
+    admin_name: Bondowoso
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.7_1_Adm2:
+    GID: IDN.11.7_1
+    admin_name: Gresik
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.8_1_Adm2:
+    GID: IDN.11.8_1
+    admin_name: Jember
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.11.9_1_Adm2:
+    GID: IDN.11.9_1
+    admin_name: Jombang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12_1_Adm1:
+    GID: IDN.12_1
+    admin_name: Kalimantan Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.12.1_1_Adm2:
+    GID: IDN.12.1_1
+    admin_name: Bengkayang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.10_1_Adm2:
+    GID: IDN.12.10_1
+    admin_name: Sambas
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.11_1_Adm2:
+    GID: IDN.12.11_1
+    admin_name: Sanggau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.12_1_Adm2:
+    GID: IDN.12.12_1
+    admin_name: Sekadau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.13_1_Adm2:
+    GID: IDN.12.13_1
+    admin_name: Singkawang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.14_1_Adm2:
+    GID: IDN.12.14_1
+    admin_name: Sintang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.2_1_Adm2:
+    GID: IDN.12.2_1
+    admin_name: Kapuas Hulu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.3_1_Adm2:
+    GID: IDN.12.3_1
+    admin_name: Kayong Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.4_1_Adm2:
+    GID: IDN.12.4_1
+    admin_name: Ketapang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.5_1_Adm2:
+    GID: IDN.12.5_1
+    admin_name: Kota Pontianak
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.6_1_Adm2:
+    GID: IDN.12.6_1
+    admin_name: Kubu Raya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.7_1_Adm2:
+    GID: IDN.12.7_1
+    admin_name: Landak
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.8_1_Adm2:
+    GID: IDN.12.8_1
+    admin_name: Melawi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.12.9_1_Adm2:
+    GID: IDN.12.9_1
+    admin_name: Pontianak
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13_1_Adm1:
+    GID: IDN.13_1
+    admin_name: Kalimantan Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.13.1_1_Adm2:
+    GID: IDN.13.1_1
+    admin_name: Balangan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.10_1_Adm2:
+    GID: IDN.13.10_1
+    admin_name: Tabalong
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.11_1_Adm2:
+    GID: IDN.13.11_1
+    admin_name: Tanah Bumbu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.12_1_Adm2:
+    GID: IDN.13.12_1
+    admin_name: Tanah Laut
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.13_1_Adm2:
+    GID: IDN.13.13_1
+    admin_name: Tapin
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.2_1_Adm2:
+    GID: IDN.13.2_1
+    admin_name: Banjar Baru
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.3_1_Adm2:
+    GID: IDN.13.3_1
+    admin_name: Banjar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.4_1_Adm2:
+    GID: IDN.13.4_1
+    admin_name: Banjarmasin
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.5_1_Adm2:
+    GID: IDN.13.5_1
+    admin_name: Barito Kuala
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.6_1_Adm2:
+    GID: IDN.13.6_1
+    admin_name: Hulu Sungai Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.7_1_Adm2:
+    GID: IDN.13.7_1
+    admin_name: Hulu Sungai Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.8_1_Adm2:
+    GID: IDN.13.8_1
+    admin_name: Hulu Sungai Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.13.9_1_Adm2:
+    GID: IDN.13.9_1
+    admin_name: Kota Baru
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14_1_Adm1:
+    GID: IDN.14_1
+    admin_name: Kalimantan Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.14.1_1_Adm2:
+    GID: IDN.14.1_1
+    admin_name: Barito Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.10_1_Adm2:
+    GID: IDN.14.10_1
+    admin_name: Murung Raya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.11_1_Adm2:
+    GID: IDN.14.11_1
+    admin_name: Palangka Raya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.12_1_Adm2:
+    GID: IDN.14.12_1
+    admin_name: Pulang Pisau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.13_1_Adm2:
+    GID: IDN.14.13_1
+    admin_name: Seruyan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.14_1_Adm2:
+    GID: IDN.14.14_1
+    admin_name: Sukamara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.2_1_Adm2:
+    GID: IDN.14.2_1
+    admin_name: Barito Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.3_1_Adm2:
+    GID: IDN.14.3_1
+    admin_name: Barito Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.4_1_Adm2:
+    GID: IDN.14.4_1
+    admin_name: Gunung Mas
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.5_1_Adm2:
+    GID: IDN.14.5_1
+    admin_name: Kapuas
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.6_1_Adm2:
+    GID: IDN.14.6_1
+    admin_name: Katingan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.7_1_Adm2:
+    GID: IDN.14.7_1
+    admin_name: Kotawaringin Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.8_1_Adm2:
+    GID: IDN.14.8_1
+    admin_name: Kotawaringin Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.14.9_1_Adm2:
+    GID: IDN.14.9_1
+    admin_name: Lamandau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.16_1_Adm1:
+    GID: IDN.16_1
+    admin_name: Kepulauan Riau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.16.1_1_Adm2:
+    GID: IDN.16.1_1
+    admin_name: Batam
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.16.2_1_Adm2:
+    GID: IDN.16.2_1
+    admin_name: Bintan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.16.3_1_Adm2:
+    GID: IDN.16.3_1
+    admin_name: Karimun
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.16.4_1_Adm2:
+    GID: IDN.16.4_1
+    admin_name: Kepulauan Anambas
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.16.5_1_Adm2:
+    GID: IDN.16.5_1
+    admin_name: Lingga
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.16.6_1_Adm2:
+    GID: IDN.16.6_1
+    admin_name: Natuna
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.16.7_1_Adm2:
+    GID: IDN.16.7_1
+    admin_name: Tanjungpinang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17_1_Adm1:
+    GID: IDN.17_1
+    admin_name: Lampung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.17.1_1_Adm2:
+    GID: IDN.17.1_1
+    admin_name: Bandar Lampung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.10_1_Adm2:
+    GID: IDN.17.10_1
+    admin_name: Pringsewu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.11_1_Adm2:
+    GID: IDN.17.11_1
+    admin_name: Tanggamus
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.12_1_Adm2:
+    GID: IDN.17.12_1
+    admin_name: Tulang Bawang Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.13_1_Adm2:
+    GID: IDN.17.13_1
+    admin_name: Tulangbawang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.14_1_Adm2:
+    GID: IDN.17.14_1
+    admin_name: Way Kanan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.2_1_Adm2:
+    GID: IDN.17.2_1
+    admin_name: Lampung Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.3_1_Adm2:
+    GID: IDN.17.3_1
+    admin_name: Lampung Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.4_1_Adm2:
+    GID: IDN.17.4_1
+    admin_name: Lampung Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.5_1_Adm2:
+    GID: IDN.17.5_1
+    admin_name: Lampung Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.6_1_Adm2:
+    GID: IDN.17.6_1
+    admin_name: Lampung Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.7_1_Adm2:
+    GID: IDN.17.7_1
+    admin_name: Mesuji
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.8_1_Adm2:
+    GID: IDN.17.8_1
+    admin_name: Metro
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.17.9_1_Adm2:
+    GID: IDN.17.9_1
+    admin_name: Pesawaran
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.18_1_Adm1:
+    GID: IDN.18_1
+    admin_name: Maluku Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.18.1_1_Adm2:
+    GID: IDN.18.1_1
+    admin_name: Halmahera Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.18.2_1_Adm2:
+    GID: IDN.18.2_1
+    admin_name: Halmahera Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.18.3_1_Adm2:
+    GID: IDN.18.3_1
+    admin_name: Halmahera Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.18.4_1_Adm2:
+    GID: IDN.18.4_1
+    admin_name: Halmahera Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.18.5_1_Adm2:
+    GID: IDN.18.5_1
+    admin_name: Halmahera Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.18.6_1_Adm2:
+    GID: IDN.18.6_1
+    admin_name: Kepulauan Sula
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.18.7_1_Adm2:
+    GID: IDN.18.7_1
+    admin_name: Pulau Morotai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.18.8_1_Adm2:
+    GID: IDN.18.8_1
+    admin_name: Ternate
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.18.9_1_Adm2:
+    GID: IDN.18.9_1
+    admin_name: Tidore Kepulauan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19_1_Adm1:
+    GID: IDN.19_1
+    admin_name: Maluku
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.19.1_1_Adm2:
+    GID: IDN.19.1_1
+    admin_name: Ambon
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19.10_1_Adm2:
+    GID: IDN.19.10_1
+    admin_name: Seram Bagian Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19.11_1_Adm2:
+    GID: IDN.19.11_1
+    admin_name: Tual
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19.2_1_Adm2:
+    GID: IDN.19.2_1
+    admin_name: Buru Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19.3_1_Adm2:
+    GID: IDN.19.3_1
+    admin_name: Buru
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19.4_1_Adm2:
+    GID: IDN.19.4_1
+    admin_name: Kepulauan Aru
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19.5_1_Adm2:
+    GID: IDN.19.5_1
+    admin_name: Maluku Barat Daya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19.6_1_Adm2:
+    GID: IDN.19.6_1
+    admin_name: Maluku Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19.7_1_Adm2:
+    GID: IDN.19.7_1
+    admin_name: Maluku Tenggara Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19.8_1_Adm2:
+    GID: IDN.19.8_1
+    admin_name: Maluku Tenggara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.19.9_1_Adm2:
+    GID: IDN.19.9_1
+    admin_name: Seram Bagian Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.2_1_Adm1:
+    GID: IDN.2_1
+    admin_name: Bali
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.2.1_1_Adm2:
+    GID: IDN.2.1_1
+    admin_name: Badung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.2.2_1_Adm2:
+    GID: IDN.2.2_1
+    admin_name: Bangli
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.2.3_1_Adm2:
+    GID: IDN.2.3_1
+    admin_name: Buleleng
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.2.4_1_Adm2:
+    GID: IDN.2.4_1
+    admin_name: Denpasar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.2.5_1_Adm2:
+    GID: IDN.2.5_1
+    admin_name: Gianyar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.2.6_1_Adm2:
+    GID: IDN.2.6_1
+    admin_name: Jembrana
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.2.7_1_Adm2:
+    GID: IDN.2.7_1
+    admin_name: Karangasem
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.2.8_1_Adm2:
+    GID: IDN.2.8_1
+    admin_name: Klungkung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.2.9_1_Adm2:
+    GID: IDN.2.9_1
+    admin_name: Tabanan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.20_1_Adm1:
+    GID: IDN.20_1
+    admin_name: Nusa Tenggara Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.20.1_1_Adm2:
+    GID: IDN.20.1_1
+    admin_name: Bima
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.20.10_1_Adm2:
+    GID: IDN.20.10_1
+    admin_name: Sumbawa
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.20.2_1_Adm2:
+    GID: IDN.20.2_1
     admin_name: Dompu
-    shapeID: 22746128B31420255543838
-    country_name: Indonesia
-  Indonesia_Adm2_99:
     iso3c: IDN
-    admin_level: Adm2
-    admin_name: Donggala
-    shapeID: 22746128B11403753934380
     country_name: Indonesia
+    admin_level: Adm2
+  IDN.20.3_1_Adm2:
+    GID: IDN.20.3_1
+    admin_name: Kota Bima
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.20.4_1_Adm2:
+    GID: IDN.20.4_1
+    admin_name: Lombok Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.20.5_1_Adm2:
+    GID: IDN.20.5_1
+    admin_name: Lombok Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.20.6_1_Adm2:
+    GID: IDN.20.6_1
+    admin_name: Lombok Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.20.7_1_Adm2:
+    GID: IDN.20.7_1
+    admin_name: Lombok Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.20.8_1_Adm2:
+    GID: IDN.20.8_1
+    admin_name: Mataram
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.20.9_1_Adm2:
+    GID: IDN.20.9_1
+    admin_name: Sumbawa Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21_1_Adm1:
+    GID: IDN.21_1
+    admin_name: Nusa Tenggara Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.21.1_1_Adm2:
+    GID: IDN.21.1_1
+    admin_name: Alor
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.10_1_Adm2:
+    GID: IDN.21.10_1
+    admin_name: Manggarai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.11_1_Adm2:
+    GID: IDN.21.11_1
+    admin_name: Nagekeo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.12_1_Adm2:
+    GID: IDN.21.12_1
+    admin_name: Ngada
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.13_1_Adm2:
+    GID: IDN.21.13_1
+    admin_name: Rote Ndao
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.14_1_Adm2:
+    GID: IDN.21.14_1
+    admin_name: Sabu Raijua
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.15_1_Adm2:
+    GID: IDN.21.15_1
+    admin_name: Sikka
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.16_1_Adm2:
+    GID: IDN.21.16_1
+    admin_name: Sumba Barat Daya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.17_1_Adm2:
+    GID: IDN.21.17_1
+    admin_name: Sumba Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.18_1_Adm2:
+    GID: IDN.21.18_1
+    admin_name: Sumba Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.19_1_Adm2:
+    GID: IDN.21.19_1
+    admin_name: Sumba Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.2_1_Adm2:
+    GID: IDN.21.2_1
+    admin_name: Belu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.20_1_Adm2:
+    GID: IDN.21.20_1
+    admin_name: Timor Tengah Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.21_1_Adm2:
+    GID: IDN.21.21_1
+    admin_name: Timor Tengah Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.3_1_Adm2:
+    GID: IDN.21.3_1
+    admin_name: Ende
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.4_1_Adm2:
+    GID: IDN.21.4_1
+    admin_name: Flores Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.5_1_Adm2:
+    GID: IDN.21.5_1
+    admin_name: Kota Kupang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.6_1_Adm2:
+    GID: IDN.21.6_1
+    admin_name: Kupang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.7_1_Adm2:
+    GID: IDN.21.7_1
+    admin_name: Lembata
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.8_1_Adm2:
+    GID: IDN.21.8_1
+    admin_name: Manggarai Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.21.9_1_Adm2:
+    GID: IDN.21.9_1
+    admin_name: Manggarai Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22_1_Adm1:
+    GID: IDN.22_1
+    admin_name: Papua Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.22.1_1_Adm2:
+    GID: IDN.22.1_1
+    admin_name: Fakfak
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22.10_1_Adm2:
+    GID: IDN.22.10_1
+    admin_name: Teluk Bintuni
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22.11_1_Adm2:
+    GID: IDN.22.11_1
+    admin_name: Teluk Wondama
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22.2_1_Adm2:
+    GID: IDN.22.2_1
+    admin_name: Kaimana
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22.3_1_Adm2:
+    GID: IDN.22.3_1
+    admin_name: Kota Sorong
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22.4_1_Adm2:
+    GID: IDN.22.4_1
+    admin_name: Manokwari
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22.5_1_Adm2:
+    GID: IDN.22.5_1
+    admin_name: Maybrat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22.6_1_Adm2:
+    GID: IDN.22.6_1
+    admin_name: Raja Ampat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22.7_1_Adm2:
+    GID: IDN.22.7_1
+    admin_name: Sorong Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22.8_1_Adm2:
+    GID: IDN.22.8_1
+    admin_name: Sorong
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.22.9_1_Adm2:
+    GID: IDN.22.9_1
+    admin_name: Tambrauw
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23_1_Adm1:
+    GID: IDN.23_1
+    admin_name: Papua
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.23.1_1_Adm2:
+    GID: IDN.23.1_1
+    admin_name: Asmat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.10_1_Adm2:
+    GID: IDN.23.10_1
+    admin_name: Kepulauan Yapen
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.11_1_Adm2:
+    GID: IDN.23.11_1
+    admin_name: Kota Jayapura
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.12_1_Adm2:
+    GID: IDN.23.12_1
+    admin_name: Lanny Jaya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.13_1_Adm2:
+    GID: IDN.23.13_1
+    admin_name: Mamberamo Raya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.14_1_Adm2:
+    GID: IDN.23.14_1
+    admin_name: Mamberamo Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.15_1_Adm2:
+    GID: IDN.23.15_1
+    admin_name: Mappi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.16_1_Adm2:
+    GID: IDN.23.16_1
+    admin_name: Merauke
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.17_1_Adm2:
+    GID: IDN.23.17_1
+    admin_name: Mimika
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.18_1_Adm2:
+    GID: IDN.23.18_1
+    admin_name: Nabire
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.19_1_Adm2:
+    GID: IDN.23.19_1
+    admin_name: Nduga
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.2_1_Adm2:
+    GID: IDN.23.2_1
+    admin_name: Biak Numfor
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.20_1_Adm2:
+    GID: IDN.23.20_1
+    admin_name: Paniai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.21_1_Adm2:
+    GID: IDN.23.21_1
+    admin_name: Pegunungan Bintang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.22_1_Adm2:
+    GID: IDN.23.22_1
+    admin_name: Puncak Jaya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.23_1_Adm2:
+    GID: IDN.23.23_1
+    admin_name: Puncak
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.24_1_Adm2:
+    GID: IDN.23.24_1
+    admin_name: Sarmi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.25_1_Adm2:
+    GID: IDN.23.25_1
+    admin_name: Supiori
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.26_1_Adm2:
+    GID: IDN.23.26_1
+    admin_name: Tolikara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.27_1_Adm2:
+    GID: IDN.23.27_1
+    admin_name: Waropen
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.28_1_Adm2:
+    GID: IDN.23.28_1
+    admin_name: Yahukimo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.29_1_Adm2:
+    GID: IDN.23.29_1
+    admin_name: Yalimo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.3_1_Adm2:
+    GID: IDN.23.3_1
+    admin_name: Boven Digoel
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.4_1_Adm2:
+    GID: IDN.23.4_1
+    admin_name: Deiyai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.5_1_Adm2:
+    GID: IDN.23.5_1
+    admin_name: Dogiyai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.6_1_Adm2:
+    GID: IDN.23.6_1
+    admin_name: Intan Jaya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.7_1_Adm2:
+    GID: IDN.23.7_1
+    admin_name: Jayapura
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.8_1_Adm2:
+    GID: IDN.23.8_1
+    admin_name: Jayawijaya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.23.9_1_Adm2:
+    GID: IDN.23.9_1
+    admin_name: Keerom
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24_1_Adm1:
+    GID: IDN.24_1
+    admin_name: Riau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.24.1_1_Adm2:
+    GID: IDN.24.1_1
+    admin_name: Bengkalis
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.10_1_Adm2:
+    GID: IDN.24.10_1
+    admin_name: Rokan Hilir
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.11_1_Adm2:
+    GID: IDN.24.11_1
+    admin_name: Rokan Hulu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.12_1_Adm2:
+    GID: IDN.24.12_1
+    admin_name: Siak
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.2_1_Adm2:
+    GID: IDN.24.2_1
+    admin_name: Dumai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.3_1_Adm2:
+    GID: IDN.24.3_1
+    admin_name: Indragiri Hilir
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.4_1_Adm2:
+    GID: IDN.24.4_1
+    admin_name: Indragiri Hulu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.5_1_Adm2:
+    GID: IDN.24.5_1
+    admin_name: Kampar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.6_1_Adm2:
+    GID: IDN.24.6_1
+    admin_name: Kepulauan Meranti
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.7_1_Adm2:
+    GID: IDN.24.7_1
+    admin_name: Kuantan Singingi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.8_1_Adm2:
+    GID: IDN.24.8_1
+    admin_name: Pekanbaru
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.24.9_1_Adm2:
+    GID: IDN.24.9_1
+    admin_name: Pelalawan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.25_1_Adm1:
+    GID: IDN.25_1
+    admin_name: Sulawesi Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.25.1_1_Adm2:
+    GID: IDN.25.1_1
+    admin_name: Majene
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.25.2_1_Adm2:
+    GID: IDN.25.2_1
+    admin_name: Mamasa
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.25.3_1_Adm2:
+    GID: IDN.25.3_1
+    admin_name: Mamuju Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.25.4_1_Adm2:
+    GID: IDN.25.4_1
+    admin_name: Mamuju
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.25.5_1_Adm2:
+    GID: IDN.25.5_1
+    admin_name: Polewali Mandar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26_1_Adm1:
+    GID: IDN.26_1
+    admin_name: Sulawesi Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.26.1_1_Adm2:
+    GID: IDN.26.1_1
+    admin_name: Bantaeng
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.10_1_Adm2:
+    GID: IDN.26.10_1
+    admin_name: Luwu Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.11_1_Adm2:
+    GID: IDN.26.11_1
+    admin_name: Luwu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.12_1_Adm2:
+    GID: IDN.26.12_1
+    admin_name: Makassar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.13_1_Adm2:
+    GID: IDN.26.13_1
+    admin_name: Maros
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.14_1_Adm2:
+    GID: IDN.26.14_1
+    admin_name: Palopo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.15_1_Adm2:
+    GID: IDN.26.15_1
+    admin_name: Pangkajene Dan Kepulauan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.16_1_Adm2:
+    GID: IDN.26.16_1
+    admin_name: Parepare
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.17_1_Adm2:
+    GID: IDN.26.17_1
+    admin_name: Pinrang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.18_1_Adm2:
+    GID: IDN.26.18_1
+    admin_name: Sidenreng Rappang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.19_1_Adm2:
+    GID: IDN.26.19_1
+    admin_name: Sinjai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.2_1_Adm2:
+    GID: IDN.26.2_1
+    admin_name: Barru
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.20_1_Adm2:
+    GID: IDN.26.20_1
+    admin_name: Soppeng
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.21_1_Adm2:
+    GID: IDN.26.21_1
+    admin_name: Takalar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.22_1_Adm2:
+    GID: IDN.26.22_1
+    admin_name: Tana Toraja
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.23_1_Adm2:
+    GID: IDN.26.23_1
+    admin_name: Toraja Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.24_1_Adm2:
+    GID: IDN.26.24_1
+    admin_name: Wajo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.3_1_Adm2:
+    GID: IDN.26.3_1
+    admin_name: Bone
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.4_1_Adm2:
+    GID: IDN.26.4_1
+    admin_name: Bulukumba
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.5_1_Adm2:
+    GID: IDN.26.5_1
+    admin_name: Enrekang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.6_1_Adm2:
+    GID: IDN.26.6_1
+    admin_name: Gowa
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.7_1_Adm2:
+    GID: IDN.26.7_1
+    admin_name: Jeneponto
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.8_1_Adm2:
+    GID: IDN.26.8_1
+    admin_name: Kepulauan Selayar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.26.9_1_Adm2:
+    GID: IDN.26.9_1
+    admin_name: Luwu Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27_1_Adm1:
+    GID: IDN.27_1
+    admin_name: Sulawesi Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.27.1_1_Adm2:
+    GID: IDN.27.1_1
+    admin_name: Banggai Kepulauan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27.10_1_Adm2:
+    GID: IDN.27.10_1
+    admin_name: Tojo Una-Una
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27.11_1_Adm2:
+    GID: IDN.27.11_1
+    admin_name: Toli-Toli
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27.2_1_Adm2:
+    GID: IDN.27.2_1
+    admin_name: Banggai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27.3_1_Adm2:
+    GID: IDN.27.3_1
+    admin_name: Buol
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27.4_1_Adm2:
+    GID: IDN.27.4_1
+    admin_name: Donggala
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27.5_1_Adm2:
+    GID: IDN.27.5_1
+    admin_name: Morowali
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27.6_1_Adm2:
+    GID: IDN.27.6_1
+    admin_name: Palu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27.7_1_Adm2:
+    GID: IDN.27.7_1
+    admin_name: Parigi Moutong
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27.8_1_Adm2:
+    GID: IDN.27.8_1
+    admin_name: Poso
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.27.9_1_Adm2:
+    GID: IDN.27.9_1
+    admin_name: Sigi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28_1_Adm1:
+    GID: IDN.28_1
+    admin_name: Sulawesi Tenggara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.28.1_1_Adm2:
+    GID: IDN.28.1_1
+    admin_name: Bau-Bau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.10_1_Adm2:
+    GID: IDN.28.10_1
+    admin_name: Konawe
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.11_1_Adm2:
+    GID: IDN.28.11_1
+    admin_name: Muna
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.12_1_Adm2:
+    GID: IDN.28.12_1
+    admin_name: Wakatobi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.2_1_Adm2:
+    GID: IDN.28.2_1
+    admin_name: Bombana
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.3_1_Adm2:
+    GID: IDN.28.3_1
+    admin_name: Buton Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.4_1_Adm2:
+    GID: IDN.28.4_1
+    admin_name: Buton
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.5_1_Adm2:
+    GID: IDN.28.5_1
+    admin_name: Kendari
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.6_1_Adm2:
+    GID: IDN.28.6_1
+    admin_name: Kolaka Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.7_1_Adm2:
+    GID: IDN.28.7_1
+    admin_name: Kolaka
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.8_1_Adm2:
+    GID: IDN.28.8_1
+    admin_name: Konawe Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.28.9_1_Adm2:
+    GID: IDN.28.9_1
+    admin_name: Konawe Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29_1_Adm1:
+    GID: IDN.29_1
+    admin_name: Sulawesi Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.29.1_1_Adm2:
+    GID: IDN.29.1_1
+    admin_name: Bitung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.10_1_Adm2:
+    GID: IDN.29.10_1
+    admin_name: Minahasa Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.11_1_Adm2:
+    GID: IDN.29.11_1
+    admin_name: Minahasa Tenggara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.12_1_Adm2:
+    GID: IDN.29.12_1
+    admin_name: Minahasa Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.13_1_Adm2:
+    GID: IDN.29.13_1
+    admin_name: Minahasa
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.14_1_Adm2:
+    GID: IDN.29.14_1
+    admin_name: Siau Tagulandang Biaro
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.15_1_Adm2:
+    GID: IDN.29.15_1
+    admin_name: Tomohon
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.2_1_Adm2:
+    GID: IDN.29.2_1
+    admin_name: Bolaang Mongondow Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.3_1_Adm2:
+    GID: IDN.29.3_1
+    admin_name: Bolaang Mongondow Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.4_1_Adm2:
+    GID: IDN.29.4_1
+    admin_name: Bolaang Mongondow Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.5_1_Adm2:
+    GID: IDN.29.5_1
+    admin_name: Bolaang Mongondow
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.6_1_Adm2:
+    GID: IDN.29.6_1
+    admin_name: Kepulauan Sangihe
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.7_1_Adm2:
+    GID: IDN.29.7_1
+    admin_name: Kepulauan Talaud
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.8_1_Adm2:
+    GID: IDN.29.8_1
+    admin_name: Kotamobagu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.29.9_1_Adm2:
+    GID: IDN.29.9_1
+    admin_name: Manado
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.3_1_Adm1:
+    GID: IDN.3_1
+    admin_name: Bangka Belitung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.3.1_1_Adm2:
+    GID: IDN.3.1_1
+    admin_name: Bangka Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.3.2_1_Adm2:
+    GID: IDN.3.2_1
+    admin_name: Bangka Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.3.3_1_Adm2:
+    GID: IDN.3.3_1
+    admin_name: Bangka Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.3.4_1_Adm2:
+    GID: IDN.3.4_1
+    admin_name: Bangka
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.3.5_1_Adm2:
+    GID: IDN.3.5_1
+    admin_name: Belitung Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.3.6_1_Adm2:
+    GID: IDN.3.6_1
+    admin_name: Belitung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.3.7_1_Adm2:
+    GID: IDN.3.7_1
+    admin_name: Pangkalpinang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30_1_Adm1:
+    GID: IDN.30_1
+    admin_name: Sumatera Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.30.1_1_Adm2:
+    GID: IDN.30.1_1
+    admin_name: Agam
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.10_1_Adm2:
+    GID: IDN.30.10_1
+    admin_name: Padang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.11_1_Adm2:
+    GID: IDN.30.11_1
+    admin_name: Pariaman
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.12_1_Adm2:
+    GID: IDN.30.12_1
+    admin_name: Pasaman Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.13_1_Adm2:
+    GID: IDN.30.13_1
+    admin_name: Pasaman
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.14_1_Adm2:
+    GID: IDN.30.14_1
+    admin_name: Payakumbuh
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.15_1_Adm2:
+    GID: IDN.30.15_1
+    admin_name: Pesisir Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.16_1_Adm2:
+    GID: IDN.30.16_1
+    admin_name: Sawahlunto
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.17_1_Adm2:
+    GID: IDN.30.17_1
+    admin_name: Sijunjung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.18_1_Adm2:
+    GID: IDN.30.18_1
+    admin_name: Solok Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.19_1_Adm2:
+    GID: IDN.30.19_1
+    admin_name: Solok
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.2_1_Adm2:
+    GID: IDN.30.2_1
+    admin_name: Bukittinggi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.20_1_Adm2:
+    GID: IDN.30.20_1
+    admin_name: Tanah Datar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.3_1_Adm2:
+    GID: IDN.30.3_1
+    admin_name: Danau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.4_1_Adm2:
+    GID: IDN.30.4_1
+    admin_name: Dharmasraya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.5_1_Adm2:
+    GID: IDN.30.5_1
+    admin_name: Kepulauan Mentawai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.6_1_Adm2:
+    GID: IDN.30.6_1
+    admin_name: Kota Solok
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.7_1_Adm2:
+    GID: IDN.30.7_1
+    admin_name: Lima Puluh Kota
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.8_1_Adm2:
+    GID: IDN.30.8_1
+    admin_name: Padang Panjang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.30.9_1_Adm2:
+    GID: IDN.30.9_1
+    admin_name: Padang Pariaman
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31_1_Adm1:
+    GID: IDN.31_1
+    admin_name: Sumatera Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.31.1_1_Adm2:
+    GID: IDN.31.1_1
+    admin_name: Banyu Asin
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.10_1_Adm2:
+    GID: IDN.31.10_1
+    admin_name: Ogan Komering Ulu Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.11_1_Adm2:
+    GID: IDN.31.11_1
+    admin_name: Ogan Komering Ulu Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.12_1_Adm2:
+    GID: IDN.31.12_1
+    admin_name: Ogan Komering Ulu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.13_1_Adm2:
+    GID: IDN.31.13_1
+    admin_name: Pagar Alam
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.14_1_Adm2:
+    GID: IDN.31.14_1
+    admin_name: Palembang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.15_1_Adm2:
+    GID: IDN.31.15_1
+    admin_name: Prabumulih
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.2_1_Adm2:
+    GID: IDN.31.2_1
+    admin_name: Empat Lawang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.3_1_Adm2:
+    GID: IDN.31.3_1
+    admin_name: Lahat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.4_1_Adm2:
+    GID: IDN.31.4_1
+    admin_name: Lubuklinggau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.5_1_Adm2:
+    GID: IDN.31.5_1
+    admin_name: Muara Enim
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.6_1_Adm2:
+    GID: IDN.31.6_1
+    admin_name: Musi Banyuasin
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.7_1_Adm2:
+    GID: IDN.31.7_1
+    admin_name: Musi Rawas
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.8_1_Adm2:
+    GID: IDN.31.8_1
+    admin_name: Ogan Ilir
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.31.9_1_Adm2:
+    GID: IDN.31.9_1
+    admin_name: Ogan Komering Ilir
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32_1_Adm1:
+    GID: IDN.32_1
+    admin_name: Sumatera Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.32.1_1_Adm2:
+    GID: IDN.32.1_1
+    admin_name: Asahan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.10_1_Adm2:
+    GID: IDN.32.10_1
+    admin_name: Kota Tanjungbalai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.11_1_Adm2:
+    GID: IDN.32.11_1
+    admin_name: Labuhanbatu Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.12_1_Adm2:
+    GID: IDN.32.12_1
+    admin_name: Labuhanbatu Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.13_1_Adm2:
+    GID: IDN.32.13_1
+    admin_name: Labuhanbatu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.14_1_Adm2:
+    GID: IDN.32.14_1
+    admin_name: Lake Toba
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.15_1_Adm2:
+    GID: IDN.32.15_1
+    admin_name: Langkat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.16_1_Adm2:
+    GID: IDN.32.16_1
+    admin_name: Mandailing Natal
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.17_1_Adm2:
+    GID: IDN.32.17_1
+    admin_name: Nias Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.18_1_Adm2:
+    GID: IDN.32.18_1
+    admin_name: Nias Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.19_1_Adm2:
+    GID: IDN.32.19_1
+    admin_name: Nias Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.2_1_Adm2:
+    GID: IDN.32.2_1
+    admin_name: Batu Bara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.20_1_Adm2:
+    GID: IDN.32.20_1
+    admin_name: Nias
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.21_1_Adm2:
+    GID: IDN.32.21_1
+    admin_name: Padang Lawas Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.22_1_Adm2:
+    GID: IDN.32.22_1
+    admin_name: Padang Lawas
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.23_1_Adm2:
+    GID: IDN.32.23_1
+    admin_name: Padangsidimpuan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.24_1_Adm2:
+    GID: IDN.32.24_1
+    admin_name: Pakpak Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.25_1_Adm2:
+    GID: IDN.32.25_1
+    admin_name: Pematangsiantar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.26_1_Adm2:
+    GID: IDN.32.26_1
+    admin_name: Samosir
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.27_1_Adm2:
+    GID: IDN.32.27_1
+    admin_name: Serdang Bedagai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.28_1_Adm2:
+    GID: IDN.32.28_1
+    admin_name: Sibolga
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.29_1_Adm2:
+    GID: IDN.32.29_1
+    admin_name: Simalungun
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.3_1_Adm2:
+    GID: IDN.32.3_1
+    admin_name: Dairi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.30_1_Adm2:
+    GID: IDN.32.30_1
+    admin_name: Tapanuli Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.31_1_Adm2:
+    GID: IDN.32.31_1
+    admin_name: Tapanuli Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.32_1_Adm2:
+    GID: IDN.32.32_1
+    admin_name: Tapanuli Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.33_1_Adm2:
+    GID: IDN.32.33_1
+    admin_name: Tebingtinggi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.34_1_Adm2:
+    GID: IDN.32.34_1
+    admin_name: Toba Samosir
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.4_1_Adm2:
+    GID: IDN.32.4_1
+    admin_name: Deli Serdang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.5_1_Adm2:
+    GID: IDN.32.5_1
+    admin_name: Gunungsitoli
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.6_1_Adm2:
+    GID: IDN.32.6_1
+    admin_name: Humbang Hasundutan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.7_1_Adm2:
+    GID: IDN.32.7_1
+    admin_name: Karo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.8_1_Adm2:
+    GID: IDN.32.8_1
+    admin_name: Kota Binjai
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.32.9_1_Adm2:
+    GID: IDN.32.9_1
+    admin_name: Kota Medan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.33_1_Adm1:
+    GID: IDN.33_1
+    admin_name: Yogyakarta
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.33.1_1_Adm2:
+    GID: IDN.33.1_1
+    admin_name: Bantul
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.33.2_1_Adm2:
+    GID: IDN.33.2_1
+    admin_name: Gunung Kidul
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.33.3_1_Adm2:
+    GID: IDN.33.3_1
+    admin_name: Kota Yogyakarta
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.33.4_1_Adm2:
+    GID: IDN.33.4_1
+    admin_name: Kulon Progo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.33.5_1_Adm2:
+    GID: IDN.33.5_1
+    admin_name: Sleman
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.34_1_Adm1:
+    GID: IDN.34_1
+    admin_name: Kalimantan Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.34.1_1_Adm2:
+    GID: IDN.34.1_1
+    admin_name: Balikpapan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.34.10_1_Adm2:
+    GID: IDN.34.10_1
+    admin_name: Paser
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.34.11_1_Adm2:
+    GID: IDN.34.11_1
+    admin_name: Penajam Paser Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.34.12_1_Adm2:
+    GID: IDN.34.12_1
+    admin_name: Samarinda
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.34.2_1_Adm2:
+    GID: IDN.34.2_1
+    admin_name: Berau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.34.3_1_Adm2:
+    GID: IDN.34.3_1
+    admin_name: Bontang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.34.5_1_Adm2:
+    GID: IDN.34.5_1
+    admin_name: Kutai Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.34.6_1_Adm2:
+    GID: IDN.34.6_1
+    admin_name: Kutai Kartanegara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.34.7_1_Adm2:
+    GID: IDN.34.7_1
+    admin_name: Kutai Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.35_1_Adm1:
+    GID: IDN.35_1
+    admin_name: Kalimantan Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.35.13_Adm2:
+    GID: IDN.35.13
+    admin_name: Tana Tidung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.35.14_Adm2:
+    GID: IDN.35.14
+    admin_name: Tarakan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.35.4_Adm2:
+    GID: IDN.35.4
+    admin_name: Bulungan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.35.8_Adm2:
+    GID: IDN.35.8
+    admin_name: Malinau
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.35.9_Adm2:
+    GID: IDN.35.9
+    admin_name: Nunukan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.4_1_Adm1:
+    GID: IDN.4_1
+    admin_name: Banten
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.4.1_1_Adm2:
+    GID: IDN.4.1_1
+    admin_name: Cilegon
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.4.2_1_Adm2:
+    GID: IDN.4.2_1
+    admin_name: Kota Serang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.4.3_1_Adm2:
+    GID: IDN.4.3_1
+    admin_name: Kota Tangerang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.4.4_1_Adm2:
+    GID: IDN.4.4_1
+    admin_name: Lebak
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.4.5_1_Adm2:
+    GID: IDN.4.5_1
+    admin_name: Pandeglang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.4.6_1_Adm2:
+    GID: IDN.4.6_1
+    admin_name: Serang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.4.7_1_Adm2:
+    GID: IDN.4.7_1
+    admin_name: Tangerang Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.4.8_1_Adm2:
+    GID: IDN.4.8_1
+    admin_name: Tangerang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.5_1_Adm1:
+    GID: IDN.5_1
+    admin_name: Bengkulu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.5.1_1_Adm2:
+    GID: IDN.5.1_1
+    admin_name: Bengkulu Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.5.10_1_Adm2:
+    GID: IDN.5.10_1
+    admin_name: Seluma
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.5.2_1_Adm2:
+    GID: IDN.5.2_1
+    admin_name: Bengkulu Tengah
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.5.3_1_Adm2:
+    GID: IDN.5.3_1
+    admin_name: Bengkulu Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.5.4_1_Adm2:
+    GID: IDN.5.4_1
+    admin_name: Bengkulu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.5.5_1_Adm2:
+    GID: IDN.5.5_1
+    admin_name: Kaur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.5.6_1_Adm2:
+    GID: IDN.5.6_1
+    admin_name: Kepahiang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.5.7_1_Adm2:
+    GID: IDN.5.7_1
+    admin_name: Lebong
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.5.8_1_Adm2:
+    GID: IDN.5.8_1
+    admin_name: Mukomuko
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.5.9_1_Adm2:
+    GID: IDN.5.9_1
+    admin_name: Rejang Lebong
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.6_1_Adm1:
+    GID: IDN.6_1
+    admin_name: Gorontalo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.6.1_1_Adm2:
+    GID: IDN.6.1_1
+    admin_name: Boalemo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.6.2_1_Adm2:
+    GID: IDN.6.2_1
+    admin_name: Bone Bolango
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.6.3_1_Adm2:
+    GID: IDN.6.3_1
+    admin_name: Danau Limboto
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.6.4_1_Adm2:
+    GID: IDN.6.4_1
+    admin_name: Gorontalo Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.6.5_1_Adm2:
+    GID: IDN.6.5_1
+    admin_name: Gorontalo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.6.6_1_Adm2:
+    GID: IDN.6.6_1
+    admin_name: Kota Gorontalo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.6.7_1_Adm2:
+    GID: IDN.6.7_1
+    admin_name: Pohuwato
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.7_1_Adm1:
+    GID: IDN.7_1
+    admin_name: Jakarta Raya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.7.1_1_Adm2:
+    GID: IDN.7.1_1
+    admin_name: Jakarta Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.7.2_1_Adm2:
+    GID: IDN.7.2_1
+    admin_name: Jakarta Pusat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.7.3_1_Adm2:
+    GID: IDN.7.3_1
+    admin_name: Jakarta Selatan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.7.4_1_Adm2:
+    GID: IDN.7.4_1
+    admin_name: Jakarta Timur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.7.5_1_Adm2:
+    GID: IDN.7.5_1
+    admin_name: Jakarta Utara
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.7.6_1_Adm2:
+    GID: IDN.7.6_1
+    admin_name: Kepulauan Seribu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8_1_Adm1:
+    GID: IDN.8_1
+    admin_name: Jambi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.8.1_1_Adm2:
+    GID: IDN.8.1_1
+    admin_name: Batang Hari
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8.10_1_Adm2:
+    GID: IDN.8.10_1
+    admin_name: Tanjung Jabung T
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8.11_1_Adm2:
+    GID: IDN.8.11_1
+    admin_name: Tebo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8.2_1_Adm2:
+    GID: IDN.8.2_1
+    admin_name: Bungo
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8.3_1_Adm2:
+    GID: IDN.8.3_1
+    admin_name: Jambi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8.4_1_Adm2:
+    GID: IDN.8.4_1
+    admin_name: Kerinci
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8.5_1_Adm2:
+    GID: IDN.8.5_1
+    admin_name: Merangin
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8.6_1_Adm2:
+    GID: IDN.8.6_1
+    admin_name: Muaro Jambi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8.7_1_Adm2:
+    GID: IDN.8.7_1
+    admin_name: Sarolangun
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8.8_1_Adm2:
+    GID: IDN.8.8_1
+    admin_name: Sungai Penuh
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.8.9_1_Adm2:
+    GID: IDN.8.9_1
+    admin_name: Tanjung Jabung B
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9_1_Adm1:
+    GID: IDN.9_1
+    admin_name: Jawa Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm1
+  IDN.9.1_1_Adm2:
+    GID: IDN.9.1_1
+    admin_name: Bandung Barat
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.10_1_Adm2:
+    GID: IDN.9.10_1
+    admin_name: Depok
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.11_1_Adm2:
+    GID: IDN.9.11_1
+    admin_name: Garut
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.12_1_Adm2:
+    GID: IDN.9.12_1
+    admin_name: Indramayu
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.13_1_Adm2:
+    GID: IDN.9.13_1
+    admin_name: Karawang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.14_1_Adm2:
+    GID: IDN.9.14_1
+    admin_name: Kota Bandung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.15_1_Adm2:
+    GID: IDN.9.15_1
+    admin_name: Kota Bekasi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.16_1_Adm2:
+    GID: IDN.9.16_1
+    admin_name: Kota Bogor
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.17_1_Adm2:
+    GID: IDN.9.17_1
+    admin_name: Kota Cirebon
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.18_1_Adm2:
+    GID: IDN.9.18_1
+    admin_name: Kota Sukabumi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.19_1_Adm2:
+    GID: IDN.9.19_1
+    admin_name: Kota Tasikmalaya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.2_1_Adm2:
+    GID: IDN.9.2_1
+    admin_name: Bandung
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.20_1_Adm2:
+    GID: IDN.9.20_1
+    admin_name: Kuningan
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.21_1_Adm2:
+    GID: IDN.9.21_1
+    admin_name: Majalengka
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.22_1_Adm2:
+    GID: IDN.9.22_1
+    admin_name: Purwakarta
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.23_1_Adm2:
+    GID: IDN.9.23_1
+    admin_name: Subang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.24_1_Adm2:
+    GID: IDN.9.24_1
+    admin_name: Sukabumi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.25_1_Adm2:
+    GID: IDN.9.25_1
+    admin_name: Sumedang
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.26_1_Adm2:
+    GID: IDN.9.26_1
+    admin_name: Tasikmalaya
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.27_1_Adm2:
+    GID: IDN.9.27_1
+    admin_name: Waduk Cirata
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.3_1_Adm2:
+    GID: IDN.9.3_1
+    admin_name: Banjar
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.4_1_Adm2:
+    GID: IDN.9.4_1
+    admin_name: Bekasi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.5_1_Adm2:
+    GID: IDN.9.5_1
+    admin_name: Bogor
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.6_1_Adm2:
+    GID: IDN.9.6_1
+    admin_name: Ciamis
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.7_1_Adm2:
+    GID: IDN.9.7_1
+    admin_name: Cianjur
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.8_1_Adm2:
+    GID: IDN.9.8_1
+    admin_name: Cimahi
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2
+  IDN.9.9_1_Adm2:
+    GID: IDN.9.9_1
+    admin_name: Cirebon
+    iso3c: IDN
+    country_name: Indonesia
+    admin_level: Adm2

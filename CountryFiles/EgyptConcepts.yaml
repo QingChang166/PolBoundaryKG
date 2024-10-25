@@ -1,2359 +1,2227 @@
 concepts:
-  Egypt_Adm0:
-    iso3c: EGY
-    admin_level: Adm0
+  EGY.0_Adm0:
+    GID: EGY
     admin_name: Egypt
-    shapeID: 61154384B95693638953194
-    country_name: Egypt
-  Egypt_Adm1_1:
     iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm0
+  EGY.1_1_Adm1:
+    GID: EGY.1_1
+    admin_name: Ad Daqahliyah
+    iso3c: EGY
+    country_name: Egypt
     admin_level: Adm1
-    admin_name: NorthSinaiGovernorate
-    shapeID: 46179711B72666466596415
-    country_name: Egypt
-  Egypt_Adm1_10:
+  EGY.1.1_1_Adm2:
+    GID: EGY.1.1_1
+    admin_name: Aja
     iso3c: EGY
-    admin_level: Adm1
-    admin_name: GharbiyyaGovernorate
-    shapeID: 46179711B78983565091897
     country_name: Egypt
-  Egypt_Adm1_11:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: FaiyumGovernorate
-    shapeID: 46179711B43356691250297
-    country_name: Egypt
-  Egypt_Adm1_12:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: BeniSuefGovernorate
-    shapeID: 46179711B35449682454923
-    country_name: Egypt
-  Egypt_Adm1_13:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: MinyaGovernate
-    shapeID: 46179711B7819508184782
-    country_name: Egypt
-  Egypt_Adm1_14:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: AsyutGovernorate
-    shapeID: 46179711B93993738941206
-    country_name: Egypt
-  Egypt_Adm1_15:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: SohagGovernorate
-    shapeID: 46179711B46271687964482
-    country_name: Egypt
-  Egypt_Adm1_16:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: QenaGovernorate
-    shapeID: 46179711B60822011452178
-    country_name: Egypt
-  Egypt_Adm1_17:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: LuxorGovernate
-    shapeID: 46179711B25362750888095
-    country_name: Egypt
-  Egypt_Adm1_18:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: GizaGovernorate
-    shapeID: 46179711B67626682469511
-    country_name: Egypt
-  Egypt_Adm1_19:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: MonufiaGovernorate
-    shapeID: 46179711B49513585270152
-    country_name: Egypt
-  Egypt_Adm1_2:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: SouthSinaiGovernorate
-    shapeID: 46179711B69358139854301
-    country_name: Egypt
-  Egypt_Adm1_20:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: BeheiraGovernorate
-    shapeID: 46179711B92366752825200
-    country_name: Egypt
-  Egypt_Adm1_21:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: CairoGovernorate
-    shapeID: 46179711B66630674459803
-    country_name: Egypt
-  Egypt_Adm1_22:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: QalyubiaGovernorate
-    shapeID: 46179711B47059775380229
-    country_name: Egypt
-  Egypt_Adm1_23:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: DakahliaGovernorate
-    shapeID: 46179711B98212466425872
-    country_name: Egypt
-  Egypt_Adm1_24:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: DamiettaGovernorate
-    shapeID: 46179711B66765744751824
-    country_name: Egypt
-  Egypt_Adm1_25:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: Kafrel-SheikhGovernorate
-    shapeID: 46179711B94393740490008
-    country_name: Egypt
-  Egypt_Adm1_26:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: PortSaidGovernorate
-    shapeID: 46179711B71025405794943
-    country_name: Egypt
-  Egypt_Adm1_27:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: AlSharqiaGovernorate
-    shapeID: 46179711B99510320348427
-    country_name: Egypt
-  Egypt_Adm1_3:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: AswanGovernorate
-    shapeID: 46179711B96058986091554
-    country_name: Egypt
-  Egypt_Adm1_4:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: RedSeaGovernorate
-    shapeID: 46179711B94144647788557
-    country_name: Egypt
-  Egypt_Adm1_5:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: MatrouhGovernorate
-    shapeID: 46179711B33216026370082
-    country_name: Egypt
-  Egypt_Adm1_6:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: NewValleyGovernorate
-    shapeID: 46179711B64218004276609
-    country_name: Egypt
-  Egypt_Adm1_7:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: AlexandriaGovernorate
-    shapeID: 46179711B99776351599397
-    country_name: Egypt
-  Egypt_Adm1_8:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: IsmailiaGovernorate
-    shapeID: 46179711B4202910882635
-    country_name: Egypt
-  Egypt_Adm1_9:
-    iso3c: EGY
-    admin_level: Adm1
-    admin_name: SuezGovernorate
-    shapeID: 46179711B81451673929301
-    country_name: Egypt
-  Egypt_Adm2_1:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: 10Ramadan1
-    shapeID: 37247803B47496652532681
-    country_name: Egypt
-  Egypt_Adm2_10:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Abour
-    shapeID: 37247803B53826434992934
-    country_name: Egypt
-  Egypt_Adm2_100:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: BahariyaOasis
-    shapeID: 37247803B96885043093668
-    country_name: Egypt
-  Egypt_Adm2_101:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Banha
-    shapeID: 37247803B4989882956634
-    country_name: Egypt
-  Egypt_Adm2_102:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Banha
-    shapeID: 37247803B8473784659060
-    country_name: Egypt
-  Egypt_Adm2_103:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: BaniSwayf
-    shapeID: 37247803B61298803193986
-    country_name: Egypt
-  Egypt_Adm2_104:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: BaniSwayf
-    shapeID: 37247803B71974120040815
-    country_name: Egypt
-  Egypt_Adm2_105:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: BaniSwayfCity
-    shapeID: 37247803B55078919918818
-    country_name: Egypt
-  Egypt_Adm2_106:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: BanyAbeed
-    shapeID: 37247803B85878422276791
-    country_name: Egypt
-  Egypt_Adm2_107:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Basatin
-    shapeID: 37247803B92056872151518
-    country_name: Egypt
-  Egypt_Adm2_108:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Basyun
-    shapeID: 37247803B14729269607977
-    country_name: Egypt
-  Egypt_Adm2_109:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Biba
-    shapeID: 37247803B33717646792475
-    country_name: Egypt
-  Egypt_Adm2_11:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Abshaway
-    shapeID: 37247803B9213477235230
-    country_name: Egypt
-  Egypt_Adm2_110:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Bilbis
-    shapeID: 37247803B42171035160974
-    country_name: Egypt
-  Egypt_Adm2_111:
-    iso3c: EGY
-    admin_level: Adm2
+  EGY.1.10_1_Adm2:
+    GID: EGY.1.10_1
     admin_name: Bilqas
-    shapeID: 37247803B88078543557483
-    country_name: Egypt
-  Egypt_Adm2_112:
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: BirAl-Abd
-    shapeID: 37247803B3069705007202
     country_name: Egypt
-  Egypt_Adm2_113:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: BirkatAl-Sab
-    shapeID: 37247803B30511282692114
-    country_name: Egypt
-  Egypt_Adm2_114:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Biyalu
-    shapeID: 37247803B81724678096325
-    country_name: Egypt
-  Egypt_Adm2_115:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Bulaq
-    shapeID: 37247803B29547542469056
-    country_name: Egypt
-  Egypt_Adm2_116:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: BulaqAl-DakrUr
-    shapeID: 37247803B34210539192827
-    country_name: Egypt
-  Egypt_Adm2_117:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Burgal-Arab
-    shapeID: 37247803B42052057109088
-    country_name: Egypt
-  Egypt_Adm2_118:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: BurgAl-ArabCity
-    shapeID: 37247803B47778858868079
-    country_name: Egypt
-  Egypt_Adm2_119:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Burullus
-    shapeID: 37247803B81519659380298
-    country_name: Egypt
-  Egypt_Adm2_12:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Abu-l-Matamir
-    shapeID: 37247803B42865985960585
-    country_name: Egypt
-  Egypt_Adm2_120:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Daba
-    shapeID: 37247803B11415934472050
-    country_name: Egypt
-  Egypt_Adm2_121:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Dahab
-    shapeID: 37247803B99399074441335
-    country_name: Egypt
-  Egypt_Adm2_122:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Damanhur
-    shapeID: 37247803B7643312094608
-    country_name: Egypt
-  Egypt_Adm2_123:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Damanhur
-    shapeID: 37247803B72315750145926
-    country_name: Egypt
-  Egypt_Adm2_124:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Daral-Salam
-    shapeID: 37247803B4319107870519
-    country_name: Egypt
-  Egypt_Adm2_125:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Daraw
-    shapeID: 37247803B19070372883194
-    country_name: Egypt
-  Egypt_Adm2_126:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Dayrut
-    shapeID: 37247803B43857760448777
-    country_name: Egypt
-  Egypt_Adm2_127:
-    iso3c: EGY
-    admin_level: Adm2
+  EGY.1.11_1_Adm2:
+    GID: EGY.1.11_1
     admin_name: Dikirnis
-    shapeID: 37247803B48136170412055
-    country_name: Egypt
-  Egypt_Adm2_128:
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Dishna
-    shapeID: 37247803B58798403168141
     country_name: Egypt
-  Egypt_Adm2_129:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Disuq
-    shapeID: 37247803B31091771651272
-    country_name: Egypt
-  Egypt_Adm2_13:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AbuHammad
-    shapeID: 37247803B30253280006981
-    country_name: Egypt
-  Egypt_Adm2_130:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Disuq
-    shapeID: 37247803B5020556280365
-    country_name: Egypt
-  Egypt_Adm2_131:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Dumyat
-    shapeID: 37247803B80197492831052
-    country_name: Egypt
-  Egypt_Adm2_132:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Dumyat1
-    shapeID: 37247803B95914699067070
-    country_name: Egypt
-  Egypt_Adm2_133:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Dumyat2
-    shapeID: 37247803B80860993707274
-    country_name: Egypt
-  Egypt_Adm2_134:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: DumyatAl-Gadida
-    shapeID: 37247803B6997097478011
-    country_name: Egypt
-  Egypt_Adm2_135:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: DuqqI
-    shapeID: 37247803B46347292779018
-    country_name: Egypt
-  Egypt_Adm2_136:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: DyarbNigm
-    shapeID: 37247803B60189516177334
-    country_name: Egypt
-  Egypt_Adm2_137:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: EMansora2
-    shapeID: 37247803B17472786437270
-    country_name: Egypt
-  Egypt_Adm2_138:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: El-Ibrahimiya
-    shapeID: 37247803B97743479870089
-    country_name: Egypt
-  Egypt_Adm2_139:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ElArish1
-    shapeID: 37247803B82765364508611
-    country_name: Egypt
-  Egypt_Adm2_14:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AbuHummus
-    shapeID: 37247803B15817250169024
-    country_name: Egypt
-  Egypt_Adm2_140:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ElArish2
-    shapeID: 37247803B92931346383246
-    country_name: Egypt
-  Egypt_Adm2_141:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ElArish3
-    shapeID: 37247803B18293726613988
-    country_name: Egypt
-  Egypt_Adm2_142:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ElArish4
-    shapeID: 37247803B14702199074319
-    country_name: Egypt
-  Egypt_Adm2_143:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ElMahallaElKobra
-    shapeID: 37247803B79184551516010
-    country_name: Egypt
-  Egypt_Adm2_144:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ElMahallaElKobra1
-    shapeID: 37247803B33449651537702
-    country_name: Egypt
-  Egypt_Adm2_145:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ElMahallaElKobra2
-    shapeID: 37247803B13399468350664
-    country_name: Egypt
-  Egypt_Adm2_146:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ElMansora
-    shapeID: 37247803B83073428854351
-    country_name: Egypt
-  Egypt_Adm2_147:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ElMansora1
-    shapeID: 37247803B85247487045844
-    country_name: Egypt
-  Egypt_Adm2_148:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Faqus
-    shapeID: 37247803B81892076694929
-    country_name: Egypt
-  Egypt_Adm2_149:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Faqus
-    shapeID: 37247803B31970739059734
-    country_name: Egypt
-  Egypt_Adm2_15:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AbuKabir
-    shapeID: 37247803B57835659409223
-    country_name: Egypt
-  Egypt_Adm2_150:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Fariskur
-    shapeID: 37247803B71323814972136
-    country_name: Egypt
-  Egypt_Adm2_151:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Farshut
-    shapeID: 37247803B34364320668484
-    country_name: Egypt
-  Egypt_Adm2_152:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Fayid
-    shapeID: 37247803B37861588601733
-    country_name: Egypt
-  Egypt_Adm2_153:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Faysal
-    shapeID: 37247803B30609980444918
-    country_name: Egypt
-  Egypt_Adm2_154:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Fayyum
-    shapeID: 37247803B19900063663669
-    country_name: Egypt
-  Egypt_Adm2_155:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Fayyum
-    shapeID: 37247803B48268032297871
-    country_name: Egypt
-  Egypt_Adm2_156:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: FayyumCity
-    shapeID: 37247803B49261326337106
-    country_name: Egypt
-  Egypt_Adm2_157:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Fuwwa
-    shapeID: 37247803B18830247212538
-    country_name: Egypt
-  Egypt_Adm2_158:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Gamaliyya
-    shapeID: 37247803B35159038955302
-    country_name: Egypt
-  Egypt_Adm2_159:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Gamaliyya
-    shapeID: 37247803B61815005603813
-    country_name: Egypt
-  Egypt_Adm2_16:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AbuRadis
-    shapeID: 37247803B44606701734202
-    country_name: Egypt
-  Egypt_Adm2_160:
-    iso3c: EGY
-    admin_level: Adm2
+  EGY.1.12_1_Adm2:
+    GID: EGY.1.12_1
     admin_name: Gamsa
-    shapeID: 37247803B6242604579963
-    country_name: Egypt
-  Egypt_Adm2_161:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Girga
-    shapeID: 37247803B10377703685184
-    country_name: Egypt
-  Egypt_Adm2_162:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Girga
-    shapeID: 37247803B67165443918142
-    country_name: Egypt
-  Egypt_Adm2_163:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Giza
-    shapeID: 37247803B55829024150134
-    country_name: Egypt
-  Egypt_Adm2_164:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Giza
-    shapeID: 37247803B59036266241246
-    country_name: Egypt
-  Egypt_Adm2_165:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: GuhaynaAl-Gharbiyya
-    shapeID: 37247803B67659065091710
-    country_name: Egypt
-  Egypt_Adm2_166:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: HadaiqAl-Qubba
-    shapeID: 37247803B1921003738807
-    country_name: Egypt
-  Egypt_Adm2_167:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Halayib
-    shapeID: 37247803B74067375685147
-    country_name: Egypt
-  Egypt_Adm2_168:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Hihya
-    shapeID: 37247803B80618316463204
-    country_name: Egypt
-  Egypt_Adm2_169:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Hilwan
-    shapeID: 37247803B18472339316050
-    country_name: Egypt
-  Egypt_Adm2_17:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AbuSimbel
-    shapeID: 37247803B4771380676281
-    country_name: Egypt
-  Egypt_Adm2_170:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Hurghada1
-    shapeID: 37247803B61358518780197
-    country_name: Egypt
-  Egypt_Adm2_171:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Hurghada2
-    shapeID: 37247803B98457599359411
-    country_name: Egypt
-  Egypt_Adm2_172:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: HushIsa
-    shapeID: 37247803B77234514351972
-    country_name: Egypt
-  Egypt_Adm2_173:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Hwamdeia
-    shapeID: 37247803B31369022265166
-    country_name: Egypt
-  Egypt_Adm2_174:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Idku
-    shapeID: 37247803B4110362295427
-    country_name: Egypt
-  Egypt_Adm2_175:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Imbaba
-    shapeID: 37247803B14597497558400
-    country_name: Egypt
-  Egypt_Adm2_176:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Imbaba
-    shapeID: 37247803B76869719120733
-    country_name: Egypt
-  Egypt_Adm2_177:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Ismailiyya
-    shapeID: 37247803B77757966140043
-    country_name: Egypt
-  Egypt_Adm2_178:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Ismailiyya1
-    shapeID: 37247803B86792300989473
-    country_name: Egypt
-  Egypt_Adm2_179:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Ismailiyya2
-    shapeID: 37247803B84345161552096
-    country_name: Egypt
-  Egypt_Adm2_18:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AbuTig
-    shapeID: 37247803B24325700494067
-    country_name: Egypt
-  Egypt_Adm2_180:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Ismailiyya3
-    shapeID: 37247803B16335235875864
-    country_name: Egypt
-  Egypt_Adm2_181:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Isna
-    shapeID: 37247803B29149830762978
-    country_name: Egypt
-  Egypt_Adm2_182:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ItayAl-Barud
-    shapeID: 37247803B96571076642873
-    country_name: Egypt
-  Egypt_Adm2_183:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KafrAl-Dawwar
-    shapeID: 37247803B70717043240627
-    country_name: Egypt
-  Egypt_Adm2_184:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KafrAl-Dawwar
-    shapeID: 37247803B13171530844779
-    country_name: Egypt
-  Egypt_Adm2_185:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KafrAl-Shaykh
-    shapeID: 37247803B88656028982840
-    country_name: Egypt
-  Egypt_Adm2_186:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KafrAl-Shaykh
-    shapeID: 37247803B58059087530492
-    country_name: Egypt
-  Egypt_Adm2_187:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KafrAl-Zayyat
-    shapeID: 37247803B98548852573050
-    country_name: Egypt
-  Egypt_Adm2_188:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KafrSad
-    shapeID: 37247803B5447548481781
-    country_name: Egypt
-  Egypt_Adm2_189:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KafrSaqr
-    shapeID: 37247803B80912790531935
-    country_name: Egypt
-  Egypt_Adm2_19:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AbuTisht
-    shapeID: 37247803B97823956456767
-    country_name: Egypt
-  Egypt_Adm2_190:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KafrShukr
-    shapeID: 37247803B61393331220836
-    country_name: Egypt
-  Egypt_Adm2_191:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Kardasa
-    shapeID: 37247803B74669546915316
-    country_name: Egypt
-  Egypt_Adm2_192:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Karmuz
-    shapeID: 37247803B60489712487225
-    country_name: Egypt
-  Egypt_Adm2_193:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Kawther
-    shapeID: 37247803B38602183359422
-    country_name: Egypt
-  Egypt_Adm2_194:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KesmAl-minya
-    shapeID: 37247803B97028957261557
-    country_name: Egypt
-  Egypt_Adm2_195:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KesmAwalAssuit
-    shapeID: 37247803B33059704038679
-    country_name: Egypt
-  Egypt_Adm2_196:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KesmMallawi
-    shapeID: 37247803B87955288089668
-    country_name: Egypt
-  Egypt_Adm2_197:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KesmTahta
-    shapeID: 37247803B59901173509251
-    country_name: Egypt
-  Egypt_Adm2_198:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KesmthanAlRaml
-    shapeID: 37247803B61972877463363
-    country_name: Egypt
-  Egypt_Adm2_199:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KesmThanAssuit
-    shapeID: 37247803B53748377361433
-    country_name: Egypt
-  Egypt_Adm2_2:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: 10Ramadan2
-    shapeID: 37247803B93568001164514
-    country_name: Egypt
-  Egypt_Adm2_20:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Adfu
-    shapeID: 37247803B96122561755956
-    country_name: Egypt
-  Egypt_Adm2_200:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Khsos
-    shapeID: 37247803B74269871636707
-    country_name: Egypt
-  Egypt_Adm2_201:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KumHamada
-    shapeID: 37247803B37481118609375
-    country_name: Egypt
-  Egypt_Adm2_202:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: KumUmbu
-    shapeID: 37247803B5042289926655
-    country_name: Egypt
-  Egypt_Adm2_203:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Luxor
-    shapeID: 37247803B96963536963151
-    country_name: Egypt
-  Egypt_Adm2_204:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Luxor
-    shapeID: 37247803B46466496002040
-    country_name: Egypt
-  Egypt_Adm2_205:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Maadi
-    shapeID: 37247803B90563077233192
-    country_name: Egypt
-  Egypt_Adm2_206:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MadinatNasr-2
-    shapeID: 37247803B60267904610722
-    country_name: Egypt
-  Egypt_Adm2_207:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MahaletDemna
-    shapeID: 37247803B51586038654960
-    country_name: Egypt
-  Egypt_Adm2_208:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Manfalut
-    shapeID: 37247803B38708414170128
-    country_name: Egypt
-  Egypt_Adm2_209:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Manzala
-    shapeID: 37247803B21688775597596
-    country_name: Egypt
-  Egypt_Adm2_21:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Aga
-    shapeID: 37247803B31879405836913
-    country_name: Egypt
-  Egypt_Adm2_210:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Marg
-    shapeID: 37247803B51665438591487
-    country_name: Egypt
-  Egypt_Adm2_211:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarkzAbuQurqas
-    shapeID: 37247803B9734537557155
-    country_name: Egypt
-  Egypt_Adm2_212:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarkzAlIdwa
-    shapeID: 37247803B26025252880900
-    country_name: Egypt
-  Egypt_Adm2_213:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarkzAlMinya
-    shapeID: 37247803B71676379887746
-    country_name: Egypt
-  Egypt_Adm2_214:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarkzBaniMazar
-    shapeID: 37247803B20583905741630
-    country_name: Egypt
-  Egypt_Adm2_215:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarkzDirMawas
-    shapeID: 37247803B40134172984025
-    country_name: Egypt
-  Egypt_Adm2_216:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarkzMaghagha
-    shapeID: 37247803B21152276423955
-    country_name: Egypt
-  Egypt_Adm2_217:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarkzMallawi
-    shapeID: 37247803B90937698610862
-    country_name: Egypt
-  Egypt_Adm2_218:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarkzMatay
-    shapeID: 37247803B33553459827704
-    country_name: Egypt
-  Egypt_Adm2_219:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarkzSamalut
-    shapeID: 37247803B46419468197970
-    country_name: Egypt
-  Egypt_Adm2_22:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Ahnasya
-    shapeID: 37247803B37545732740300
-    country_name: Egypt
-  Egypt_Adm2_220:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarsaAlam
-    shapeID: 37247803B19297711577028
-    country_name: Egypt
-  Egypt_Adm2_221:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MarsaMatruh
-    shapeID: 37247803B7137912263252
-    country_name: Egypt
-  Egypt_Adm2_222:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MashtulAl-Suq
-    shapeID: 37247803B39026546430649
-    country_name: Egypt
-  Egypt_Adm2_223:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Matariyya
-    shapeID: 37247803B28167369066586
-    country_name: Egypt
-  Egypt_Adm2_224:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MinaAl-Basal
-    shapeID: 37247803B6072823038125
-    country_name: Egypt
-  Egypt_Adm2_225:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MinshatNasir
-    shapeID: 37247803B62139513677683
-    country_name: Egypt
-  Egypt_Adm2_226:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Minuf
-    shapeID: 37247803B35886288843325
-    country_name: Egypt
-  Egypt_Adm2_227:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MinufCity
-    shapeID: 37247803B55746965305944
-    country_name: Egypt
-  Egypt_Adm2_228:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MinyaAl-Nasr
-    shapeID: 37247803B87041728070842
-    country_name: Egypt
-  Egypt_Adm2_229:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Minyaal-Qamh
-    shapeID: 37247803B22128077926758
-    country_name: Egypt
-  Egypt_Adm2_23:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AinShams
-    shapeID: 37247803B66210800118153
-    country_name: Egypt
-  Egypt_Adm2_230:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Misral-Gadida
-    shapeID: 37247803B70915432571750
-    country_name: Egypt
-  Egypt_Adm2_231:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MisrAl-Qadima
-    shapeID: 37247803B34541492244214
-    country_name: Egypt
-  Egypt_Adm2_232:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MitGhamr
-    shapeID: 37247803B10909701940084
-    country_name: Egypt
-  Egypt_Adm2_233:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MitGhamr
-    shapeID: 37247803B25153322962327
-    country_name: Egypt
-  Egypt_Adm2_234:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MItSalsil
-    shapeID: 37247803B51096510617520
-    country_name: Egypt
-  Egypt_Adm2_235:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Mitubas
-    shapeID: 37247803B73956026156280
-    country_name: Egypt
-  Egypt_Adm2_236:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Mubark-SharqTafrea
-    shapeID: 37247803B27460825727162
-    country_name: Egypt
-  Egypt_Adm2_237:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: MuharamBik
-    shapeID: 37247803B18141858630320
-    country_name: Egypt
-  Egypt_Adm2_238:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Muntazah
-    shapeID: 37247803B90463856595624
-    country_name: Egypt
-  Egypt_Adm2_239:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Muski
-    shapeID: 37247803B88500614059504
-    country_name: Egypt
-  Egypt_Adm2_24:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Akhmim
-    shapeID: 37247803B62515716527778
-    country_name: Egypt
-  Egypt_Adm2_240:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: NagHammadi
-    shapeID: 37247803B20461221508658
-    country_name: Egypt
-  Egypt_Adm2_241:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Nakhl
-    shapeID: 37247803B50825531526089
-    country_name: Egypt
-  Egypt_Adm2_242:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Naqada
-    shapeID: 37247803B87719226438942
-    country_name: Egypt
-  Egypt_Adm2_243:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Nasir
-    shapeID: 37247803B95648929265509
-    country_name: Egypt
-  Egypt_Adm2_244:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Nasr
-    shapeID: 37247803B32135052764998
-    country_name: Egypt
-  Egypt_Adm2_245:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: NasrCity
-    shapeID: 37247803B64528254011318
-    country_name: Egypt
-  Egypt_Adm2_246:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Nebro
-    shapeID: 37247803B57477737935705
-    country_name: Egypt
-  Egypt_Adm2_247:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: NewCairo-1
-    shapeID: 37247803B99181648743437
-    country_name: Egypt
-  Egypt_Adm2_248:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: NewCairo-2
-    shapeID: 37247803B58056872224952
-    country_name: Egypt
-  Egypt_Adm2_249:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: NewCairo-3
-    shapeID: 37247803B49811870233448
-    country_name: Egypt
-  Egypt_Adm2_25:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AkhmimCity
-    shapeID: 37247803B43234746614791
-    country_name: Egypt
-  Egypt_Adm2_250:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: NewMinya
-    shapeID: 37247803B40620949995251
-    country_name: Egypt
-  Egypt_Adm2_251:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: NorthCoast
-    shapeID: 37247803B38142631960117
-    country_name: Egypt
-  Egypt_Adm2_252:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: NorthCoast
-    shapeID: 37247803B36627997079635
-    country_name: Egypt
-  Egypt_Adm2_253:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: NubariyyaWest
-    shapeID: 37247803B65833428461725
-    country_name: Egypt
-  Egypt_Adm2_254:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Nuweiba
-    shapeID: 37247803B27009685632556
-    country_name: Egypt
-  Egypt_Adm2_255:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Nuzha
-    shapeID: 37247803B21469576264473
-    country_name: Egypt
-  Egypt_Adm2_256:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ParisParis
-    shapeID: 37247803B13722182372819
-    country_name: Egypt
-  Egypt_Adm2_257:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: PoliceDepartmentPortofDamietta
-    shapeID: 37247803B59643082406240
-    country_name: Egypt
-  Egypt_Adm2_258:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: PoliceDepartmentPortSaidPort
-    shapeID: 37247803B70757387881176
-    country_name: Egypt
-  Egypt_Adm2_259:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: PortAlexandriaPoliceDepartment
-    shapeID: 37247803B3923529194747
-    country_name: Egypt
-  Egypt_Adm2_26:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Badari
-    shapeID: 37247803B32615858974663
-    country_name: Egypt
-  Egypt_Adm2_260:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: PortFuad
-    shapeID: 37247803B75399963690534
-    country_name: Egypt
-  Egypt_Adm2_261:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: PortFuad2
-    shapeID: 37247803B45623855174262
-    country_name: Egypt
-  Egypt_Adm2_262:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: PortSuezPoliceDepartment
-    shapeID: 37247803B57319556498410
-    country_name: Egypt
-  Egypt_Adm2_263:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qaha
-    shapeID: 37247803B19157845766633
-    country_name: Egypt
-  Egypt_Adm2_264:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qalyub
-    shapeID: 37247803B29662728717232
-    country_name: Egypt
-  Egypt_Adm2_265:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qalyub
-    shapeID: 37247803B25886032732937
-    country_name: Egypt
-  Egypt_Adm2_266:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: QanatirAl-Khayriyya
-    shapeID: 37247803B61234943331501
-    country_name: Egypt
-  Egypt_Adm2_267:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: QantaraGharb,al-
-    shapeID: 37247803B15873621471618
-    country_name: Egypt
-  Egypt_Adm2_268:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: QantaraSharq,al-
-    shapeID: 37247803B91574784842387
-    country_name: Egypt
-  Egypt_Adm2_269:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qasima
-    shapeID: 37247803B24800496222401
-    country_name: Egypt
-  Egypt_Adm2_27:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Aguza
-    shapeID: 37247803B56780050438943
-    country_name: Egypt
-  Egypt_Adm2_270:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: QasrAl-Nile
-    shapeID: 37247803B52731964573716
-    country_name: Egypt
-  Egypt_Adm2_271:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qift
-    shapeID: 37247803B3351007317987
-    country_name: Egypt
-  Egypt_Adm2_272:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qillin
-    shapeID: 37247803B73362886902816
-    country_name: Egypt
-  Egypt_Adm2_273:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qina
-    shapeID: 37247803B63367317087021
-    country_name: Egypt
-  Egypt_Adm2_274:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qina
-    shapeID: 37247803B17837872993253
-    country_name: Egypt
-  Egypt_Adm2_275:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: QinaCity
-    shapeID: 37247803B94417968817411
-    country_name: Egypt
-  Egypt_Adm2_276:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qurin
-    shapeID: 37247803B18399614023642
-    country_name: Egypt
-  Egypt_Adm2_277:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qus
-    shapeID: 37247803B95427647060127
-    country_name: Egypt
-  Egypt_Adm2_278:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qusir
-    shapeID: 37247803B34734253794751
-    country_name: Egypt
-  Egypt_Adm2_279:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Qutur
-    shapeID: 37247803B52105005453844
-    country_name: Egypt
-  Egypt_Adm2_28:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Ahram
-    shapeID: 37247803B9687639154335
-    country_name: Egypt
-  Egypt_Adm2_280:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Quwisna
-    shapeID: 37247803B73326223517768
-    country_name: Egypt
-  Egypt_Adm2_281:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Rafah
-    shapeID: 37247803B35204215208430
-    country_name: Egypt
-  Egypt_Adm2_282:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Rasal-Bar
-    shapeID: 37247803B87284090425389
-    country_name: Egypt
-  Egypt_Adm2_283:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: RasGharib
-    shapeID: 37247803B82534825994477
-    country_name: Egypt
-  Egypt_Adm2_284:
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: RasSidr
-    shapeID: 37247803B11741715008069
-    country_name: Egypt
-  Egypt_Adm2_285:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Rashid
-    shapeID: 37247803B15072818430421
-    country_name: Egypt
-  Egypt_Adm2_286:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Riyad
-    shapeID: 37247803B2291437615199
-    country_name: Egypt
-  Egypt_Adm2_287:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: RudAl-Farag
-    shapeID: 37247803B92272311463105
-    country_name: Egypt
-  Egypt_Adm2_288:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Rummana
-    shapeID: 37247803B2824633862511
-    country_name: Egypt
-  Egypt_Adm2_289:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: SadatCity
-    shapeID: 37247803B47904528840221
-    country_name: Egypt
-  Egypt_Adm2_29:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Arab
-    shapeID: 37247803B56705679670206
-    country_name: Egypt
-  Egypt_Adm2_290:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Saf
-    shapeID: 37247803B22185494316404
-    country_name: Egypt
-  Egypt_Adm2_291:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Safaga
-    shapeID: 37247803B18851026884182
-    country_name: Egypt
-  Egypt_Adm2_292:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: SahilSilim
-    shapeID: 37247803B82943552263009
-    country_name: Egypt
-  Egypt_Adm2_293:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Salloum
-    shapeID: 37247803B99889104547734
-    country_name: Egypt
-  Egypt_Adm2_294:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Samannud
-    shapeID: 37247803B28688372464969
-    country_name: Egypt
-  Egypt_Adm2_295:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: SantKatrin
-    shapeID: 37247803B38427943153509
-    country_name: Egypt
-  Egypt_Adm2_296:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Santa
-    shapeID: 37247803B92664797200587
     country_name: Egypt
-  Egypt_Adm2_297:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Saqulta
-    shapeID: 37247803B11540085647408
-    country_name: Egypt
-  Egypt_Adm2_298:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: SayyidaZainab
-    shapeID: 37247803B41278628102289
-    country_name: Egypt
-  Egypt_Adm2_299:
+  EGY.1.13_1_Adm2:
+    GID: EGY.1.13_1
+    admin_name: Mahalat Dimnah
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Shallatin
-    shapeID: 37247803B26246524516343
     country_name: Egypt
-  Egypt_Adm2_3:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: 15Mayu
-    shapeID: 37247803B58448533869188
-    country_name: Egypt
-  Egypt_Adm2_30:
+  EGY.1.14_1_Adm2:
+    GID: EGY.1.14_1
+    admin_name: Minyat an-Nasr
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Arbiin
-    shapeID: 37247803B66278795403604
     country_name: Egypt
-  Egypt_Adm2_300:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Sharmel-Sheikh
-    shapeID: 37247803B39887765706268
-    country_name: Egypt
-  Egypt_Adm2_301:
+  EGY.1.15_1_Adm2:
+    GID: EGY.1.15_1
+    admin_name: Mit Ghamr
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: ShaykhZayed
-    shapeID: 37247803B86158206640686
     country_name: Egypt
-  Egypt_Adm2_302:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: ShaykhZuwayd
-    shapeID: 37247803B84548629991625
-    country_name: Egypt
-  Egypt_Adm2_303:
+  EGY.1.16_1_Adm2:
+    GID: EGY.1.16_1
+    admin_name: Mit Salsil
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Shibinal-Kum
-    shapeID: 37247803B46387157880741
     country_name: Egypt
-  Egypt_Adm2_304:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Shibinal-Kum
-    shapeID: 37247803B79022336260348
-    country_name: Egypt
-  Egypt_Adm2_305:
+  EGY.1.17_1_Adm2:
+    GID: EGY.1.17_1
+    admin_name: Nabaruh
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Shibinal-Qanatir
-    shapeID: 37247803B12662956160688
     country_name: Egypt
-  Egypt_Adm2_306:
-    iso3c: EGY
     admin_level: Adm2
+  EGY.1.18_1_Adm2:
+    GID: EGY.1.18_1
     admin_name: Shirbin
-    shapeID: 37247803B76793683664752
-    country_name: Egypt
-  Egypt_Adm2_307:
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Shroq
-    shapeID: 37247803B54771343993886
     country_name: Egypt
-  Egypt_Adm2_308:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Shubra
-    shapeID: 37247803B2980274366801
-    country_name: Egypt
-  Egypt_Adm2_309:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ShubraAl-Khayma1
-    shapeID: 37247803B87868406017087
-    country_name: Egypt
-  Egypt_Adm2_31:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Bagur
-    shapeID: 37247803B46685873859675
-    country_name: Egypt
-  Egypt_Adm2_310:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ShubraAl-Khayma2
-    shapeID: 37247803B84983151070332
-    country_name: Egypt
-  Egypt_Adm2_311:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ShubraKhît
-    shapeID: 37247803B97013363059523
-    country_name: Egypt
-  Egypt_Adm2_312:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Sidfa
-    shapeID: 37247803B72914028370389
-    country_name: Egypt
-  Egypt_Adm2_313:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: SidiBarani
-    shapeID: 37247803B34514127980105
-    country_name: Egypt
-  Egypt_Adm2_314:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: SidiGabir
-    shapeID: 37247803B76316502393625
-    country_name: Egypt
-  Egypt_Adm2_315:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: SidiSalim
-    shapeID: 37247803B12762735296795
-    country_name: Egypt
-  Egypt_Adm2_316:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Sinbillawin
-    shapeID: 37247803B43017025732324
-    country_name: Egypt
-  Egypt_Adm2_317:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Sinuras
-    shapeID: 37247803B57049820860179
-    country_name: Egypt
-  Egypt_Adm2_318:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: SirsAl-LayyanaCity
-    shapeID: 37247803B52946313788554
-    country_name: Egypt
-  Egypt_Adm2_319:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Siwa
-    shapeID: 37247803B75450946768070
-    country_name: Egypt
-  Egypt_Adm2_32:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Balyana
-    shapeID: 37247803B40738105773266
-    country_name: Egypt
-  Egypt_Adm2_320:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Suez
-    shapeID: 37247803B22529416419300
-    country_name: Egypt
-  Egypt_Adm2_321:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Suhag
-    shapeID: 37247803B36599937729420
-    country_name: Egypt
-  Egypt_Adm2_322:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Suhag
-    shapeID: 37247803B47370411243252
-    country_name: Egypt
-  Egypt_Adm2_323:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Suhag-2
-    shapeID: 37247803B53988405424911
-    country_name: Egypt
-  Egypt_Adm2_324:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: SuhagCity
-    shapeID: 37247803B45887361748458
-    country_name: Egypt
-  Egypt_Adm2_325:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Sumusta
-    shapeID: 37247803B50724482845491
-    country_name: Egypt
-  Egypt_Adm2_326:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Taba
-    shapeID: 37247803B8228928204650
-    country_name: Egypt
-  Egypt_Adm2_327:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Tahta
-    shapeID: 37247803B8272861874741
-    country_name: Egypt
-  Egypt_Adm2_328:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Talal-Kabir,al-
-    shapeID: 37247803B71444962307175
-    country_name: Egypt
-  Egypt_Adm2_329:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Tala
-    shapeID: 37247803B52680576777799
-    country_name: Egypt
-  Egypt_Adm2_33:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Dawahy
-    shapeID: 37247803B10876030245945
-    country_name: Egypt
-  Egypt_Adm2_330:
-    iso3c: EGY
-    admin_level: Adm2
+  EGY.1.19_1_Adm2:
+    GID: EGY.1.19_1
     admin_name: Talkha
-    shapeID: 37247803B18011904824806
-    country_name: Egypt
-  Egypt_Adm2_331:
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Tama
-    shapeID: 37247803B5321471482777
     country_name: Egypt
-  Egypt_Adm2_332:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: TamyAl-Amdid
-    shapeID: 37247803B352337860507
+  EGY.1.2_1_Adm2:
+    GID: EGY.1.2_1
+    admin_name: Al-Jamaliyah
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_333:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Tamya
-    shapeID: 37247803B840289217117
+  EGY.1.20_1_Adm2:
+    GID: EGY.1.20_1
+    admin_name: Timay al-Imdid
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_334:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Tanta
-    shapeID: 37247803B22733539273982
+  EGY.1.3_1_Adm2:
+    GID: EGY.1.3_1
+    admin_name: Al-Mansurah
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_335:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Tanta1
-    shapeID: 37247803B50363997957176
+  EGY.1.4_1_Adm2:
+    GID: EGY.1.4_1
+    admin_name: Al-Mansurah 1
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_336:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Tanta2
-    shapeID: 37247803B26296956455174
+  EGY.1.5_1_Adm2:
+    GID: EGY.1.5_1
+    admin_name: Al-Mansurah 2
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_337:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Tibapolicestation
-    shapeID: 37247803B46763181924450
+  EGY.1.6_1_Adm2:
+    GID: EGY.1.6_1
+    admin_name: Al-Manzilah
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_338:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Tukh
-    shapeID: 37247803B54771061850383
+  EGY.1.7_1_Adm2:
+    GID: EGY.1.7_1
+    admin_name: Al-Matariyah
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_339:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Tura
-    shapeID: 37247803B1884066406604
+  EGY.1.8_1_Adm2:
+    GID: EGY.1.8_1
+    admin_name: As-Sinbillawayn
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_34:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Al-Dilingat
-    shapeID: 37247803B72725893374762
+  EGY.1.9_1_Adm2:
+    GID: EGY.1.9_1
+    admin_name: Bani Ubayd
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_340:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Tushaka
-    shapeID: 37247803B52387591644217
+  EGY.10_1_Adm1:
+    GID: EGY.10_1
+    admin_name: Al Minya
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_341:
+    admin_level: Adm1
+  EGY.10.1_1_Adm2:
+    GID: EGY.10.1_1
+    admin_name: Abu Qurqas
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Umraniyya
-    shapeID: 37247803B30889137034133
     country_name: Egypt
-  Egypt_Adm2_342:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: WadiAl-NatrUn
-    shapeID: 37247803B8184364272320
+  EGY.10.10_1_Adm2:
+    GID: EGY.10.10_1
+    admin_name: Matay
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_343:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Waraq
-    shapeID: 37247803B78325352338503
+  EGY.10.11_1_Adm2:
+    GID: EGY.10.11_1
+    admin_name: New Minya City
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_344:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: YousefElsadeq
-    shapeID: 37247803B96193438521946
+  EGY.10.12_1_Adm2:
+    GID: EGY.10.12_1
+    admin_name: Samalut
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_345:
-    iso3c: EGY
     admin_level: Adm2
+  EGY.10.13_1_Adm2:
+    GID: EGY.10.13_1
+    admin_name: Unorganized in Al Minya
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.10.2_1_Adm2:
+    GID: EGY.10.2_1
+    admin_name: Al-'Idwah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.10.3_1_Adm2:
+    GID: EGY.10.3_1
+    admin_name: Al-Minya
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.10.4_1_Adm2:
+    GID: EGY.10.4_1
+    admin_name: Al-Minya City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.10.5_1_Adm2:
+    GID: EGY.10.5_1
+    admin_name: Bani Mazar
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.10.6_1_Adm2:
+    GID: EGY.10.6_1
+    admin_name: Dayr Mawas
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.10.7_1_Adm2:
+    GID: EGY.10.7_1
+    admin_name: Maghaghah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.10.8_1_Adm2:
+    GID: EGY.10.8_1
+    admin_name: Mallawi
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.10.9_1_Adm2:
+    GID: EGY.10.9_1
+    admin_name: Mallawi City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11_1_Adm1:
+    GID: EGY.11_1
+    admin_name: Al Qahirah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.11.1_1_Adm2:
+    GID: EGY.11.1_1
+    admin_name: '''Abdin'
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.10_1_Adm2:
+    GID: EGY.11.10_1
+    admin_name: Al-Marj
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.11_1_Adm2:
+    GID: EGY.11.11_1
+    admin_name: Al-Matariyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.12_1_Adm2:
+    GID: EGY.11.12_1
+    admin_name: Al-Muski
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.13_1_Adm2:
+    GID: EGY.11.13_1
+    admin_name: Al-Waili
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.14_1_Adm2:
+    GID: EGY.11.14_1
+    admin_name: An-Nuzhah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.15_1_Adm2:
+    GID: EGY.11.15_1
+    admin_name: Ancient Cairo
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.16_1_Adm2:
+    GID: EGY.11.16_1
+    admin_name: As-Sajil
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.17_1_Adm2:
+    GID: EGY.11.17_1
+    admin_name: As-Salam
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.18_1_Adm2:
+    GID: EGY.11.18_1
+    admin_name: As-Sayidah Zaynab
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.19_1_Adm2:
+    GID: EGY.11.19_1
+    admin_name: Ash-Sharabiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.2_1_Adm2:
+    GID: EGY.11.2_1
+    admin_name: '''Ain Schams'
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.20_1_Adm2:
+    GID: EGY.11.20_1
+    admin_name: Ash-Shruq
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.21_1_Adm2:
+    GID: EGY.11.21_1
+    admin_name: At-Tebin
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.22_1_Adm2:
+    GID: EGY.11.22_1
+    admin_name: Az-Zahir
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.23_1_Adm2:
+    GID: EGY.11.23_1
+    admin_name: Az-Zaytun
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.24_1_Adm2:
+    GID: EGY.11.24_1
+    admin_name: Bab ash-Sha'riyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.25_1_Adm2:
+    GID: EGY.11.25_1
+    admin_name: Badr
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.26_1_Adm2:
+    GID: EGY.11.26_1
+    admin_name: Bulaq
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.27_1_Adm2:
+    GID: EGY.11.27_1
+    admin_name: Hada'iq al-Qubbah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.28_1_Adm2:
+    GID: EGY.11.28_1
+    admin_name: Heliopolis
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.29_1_Adm2:
+    GID: EGY.11.29_1
+    admin_name: Helwan
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.3_1_Adm2:
+    GID: EGY.11.3_1
+    admin_name: 15 Mayu
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.30_1_Adm2:
+    GID: EGY.11.30_1
+    admin_name: Monshat Nasr
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.31_1_Adm2:
+    GID: EGY.11.31_1
+    admin_name: Nasr City 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.32_1_Adm2:
+    GID: EGY.11.32_1
+    admin_name: Nasr City 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.33_1_Adm2:
+    GID: EGY.11.33_1
+    admin_name: New Cairo 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.34_1_Adm2:
+    GID: EGY.11.34_1
+    admin_name: New Cairo 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.35_1_Adm2:
+    GID: EGY.11.35_1
+    admin_name: New Cairo 3
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.36_1_Adm2:
+    GID: EGY.11.36_1
+    admin_name: Qasr an-Nil
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.37_1_Adm2:
+    GID: EGY.11.37_1
+    admin_name: Rud al-Faraj
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.38_1_Adm2:
+    GID: EGY.11.38_1
+    admin_name: Shubra
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.39_1_Adm2:
+    GID: EGY.11.39_1
+    admin_name: Turah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.4_1_Adm2:
+    GID: EGY.11.4_1
+    admin_name: Ad-Darb al-Ahmar
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.40_1_Adm2:
+    GID: EGY.11.40_1
+    admin_name: Unorganized in Al Qahirah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.41_1_Adm2:
+    GID: EGY.11.41_1
     admin_name: Zamalik
-    shapeID: 37247803B72756565577460
-    country_name: Egypt
-  Egypt_Adm2_346:
     iso3c: EGY
+    country_name: Egypt
     admin_level: Adm2
+  EGY.11.42_1_Adm2:
+    GID: EGY.11.42_1
+    admin_name: Zawiyya Al-Hamra
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.5_1_Adm2:
+    GID: EGY.11.5_1
+    admin_name: Al-Azbakiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.6_1_Adm2:
+    GID: EGY.11.6_1
+    admin_name: Al-Basatin
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.7_1_Adm2:
+    GID: EGY.11.7_1
+    admin_name: Al-Jamaliyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.8_1_Adm2:
+    GID: EGY.11.8_1
+    admin_name: Al-Khalifa
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.11.9_1_Adm2:
+    GID: EGY.11.9_1
+    admin_name: Al-Ma'adi
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12_1_Adm1:
+    GID: EGY.12_1
+    admin_name: Al Qalyubiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.12.1_1_Adm2:
+    GID: EGY.12.1_1
+    admin_name: Al-'Ubur
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.10_1_Adm2:
+    GID: EGY.12.10_1
+    admin_name: Shubra al-Khaymah 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.11_1_Adm2:
+    GID: EGY.12.11_1
+    admin_name: Shubra al-Khaymah 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.12_1_Adm2:
+    GID: EGY.12.12_1
+    admin_name: Tukh
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.13_1_Adm2:
+    GID: EGY.12.13_1
+    admin_name: Unorganized in Al Qalyubiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.2_1_Adm2:
+    GID: EGY.12.2_1
+    admin_name: Al-Khankah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.3_1_Adm2:
+    GID: EGY.12.3_1
+    admin_name: Al-Khusus
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.4_1_Adm2:
+    GID: EGY.12.4_1
+    admin_name: Al-Qanatir al-Khayriyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.5_1_Adm2:
+    GID: EGY.12.5_1
+    admin_name: Banha
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.6_1_Adm2:
+    GID: EGY.12.6_1
+    admin_name: Kafr Shukr
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.7_1_Adm2:
+    GID: EGY.12.7_1
+    admin_name: Qaha
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.8_1_Adm2:
+    GID: EGY.12.8_1
+    admin_name: Qalyub
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.12.9_1_Adm2:
+    GID: EGY.12.9_1
+    admin_name: Shibin al-Qanatir
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.13_1_Adm1:
+    GID: EGY.13_1
+    admin_name: Al Uqsur
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.13.1_1_Adm2:
+    GID: EGY.13.1_1
+    admin_name: Luxor
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.13.2_1_Adm2:
+    GID: EGY.13.2_1
+    admin_name: Tibah Police Dept.
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.13.3_1_Adm2:
+    GID: EGY.13.3_1
+    admin_name: Unorganized in Al Uqsur
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.14_1_Adm1:
+    GID: EGY.14_1
+    admin_name: Al Wadi al Jadid
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.14.1_1_Adm2:
+    GID: EGY.14.1_1
+    admin_name: Al-Wahat al-Kharijah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.14.2_1_Adm2:
+    GID: EGY.14.2_1
+    admin_name: Baris Shurtah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.14.3_1_Adm2:
+    GID: EGY.14.3_1
+    admin_name: Shurtah al-Dakhlah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.14.4_1_Adm2:
+    GID: EGY.14.4_1
+    admin_name: Shurtah al-Farafirah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.15_1_Adm1:
+    GID: EGY.15_1
+    admin_name: As Suways
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.15.1_1_Adm2:
+    GID: EGY.15.1_1
+    admin_name: '''Ataqah'
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.15.2_1_Adm2:
+    GID: EGY.15.2_1
+    admin_name: Al-Arb'in
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.15.3_1_Adm2:
+    GID: EGY.15.3_1
+    admin_name: Al-Janayin
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.15.4_1_Adm2:
+    GID: EGY.15.4_1
+    admin_name: Faisal
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.15.5_1_Adm2:
+    GID: EGY.15.5_1
+    admin_name: Port Suez Police Department
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.15.6_1_Adm2:
+    GID: EGY.15.6_1
+    admin_name: Suez
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16_1_Adm1:
+    GID: EGY.16_1
+    admin_name: Ash Sharqiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.16.1_1_Adm2:
+    GID: EGY.16.1_1
+    admin_name: 10 Ramadan 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16.10_1_Adm2:
+    GID: EGY.16.10_1
+    admin_name: Bilbays
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16.11_1_Adm2:
+    GID: EGY.16.11_1
+    admin_name: Diyarb Najm
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16.12_1_Adm2:
+    GID: EGY.16.12_1
+    admin_name: Faqus
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16.13_1_Adm2:
+    GID: EGY.16.13_1
+    admin_name: Hihya
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16.14_1_Adm2:
+    GID: EGY.16.14_1
+    admin_name: Kafr Saqr
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16.15_1_Adm2:
+    GID: EGY.16.15_1
+    admin_name: Mashtul as-Suq
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16.16_1_Adm2:
+    GID: EGY.16.16_1
+    admin_name: Minya al-Qamh
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16.17_1_Adm2:
+    GID: EGY.16.17_1
+    admin_name: New Salhiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16.18_1_Adm2:
+    GID: EGY.16.18_1
+    admin_name: Unorganized in Ash Sharqiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.16.19_1_Adm2:
+    GID: EGY.16.19_1
     admin_name: Zaqaziq
-    shapeID: 37247803B86566880158535
-    country_name: Egypt
-  Egypt_Adm2_347:
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Zaqaziq1
-    shapeID: 37247803B90697971403179
     country_name: Egypt
-  Egypt_Adm2_348:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Zaqaziq2
-    shapeID: 37247803B33284186287576
+  EGY.16.2_1_Adm2:
+    GID: EGY.16.2_1
+    admin_name: 10 Ramadan 2
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_349:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Zarqa
-    shapeID: 37247803B96389835129643
+  EGY.16.20_1_Adm2:
+    GID: EGY.16.20_1
+    admin_name: Zaqaziq 1
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_35:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Al-Ganayin
-    shapeID: 37247803B61862544009771
+  EGY.16.21_1_Adm2:
+    GID: EGY.16.21_1
+    admin_name: Zaqaziq 2
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_350:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: ZawiyyaAl-Hamra
-    shapeID: 37247803B37865224267935
+  EGY.16.3_1_Adm2:
+    GID: EGY.16.3_1
+    admin_name: Abu Hammad
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_351:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B46264859714526
+  EGY.16.4_1_Adm2:
+    GID: EGY.16.4_1
+    admin_name: Abu Kabir
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_352:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B99104887182997
+  EGY.16.5_1_Adm2:
+    GID: EGY.16.5_1
+    admin_name: Al-Husayniyah
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_353:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B97784107411787
+  EGY.16.6_1_Adm2:
+    GID: EGY.16.6_1
+    admin_name: Al-Ibrahimiyah
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_354:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B42023857067519
-    country_name: Egypt
-  Egypt_Adm2_355:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B42276960376835
-    country_name: Egypt
-  Egypt_Adm2_356:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B81980397210132
-    country_name: Egypt
-  Egypt_Adm2_357:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B53216268294562
-    country_name: Egypt
-  Egypt_Adm2_358:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B45128523411897
-    country_name: Egypt
-  Egypt_Adm2_359:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B6993574009783
-    country_name: Egypt
-  Egypt_Adm2_36:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Ganoub
-    shapeID: 37247803B91562573257971
-    country_name: Egypt
-  Egypt_Adm2_360:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B74353300773864
-    country_name: Egypt
-  Egypt_Adm2_361:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B68668933434677
-    country_name: Egypt
-  Egypt_Adm2_362:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B70127900746184
-    country_name: Egypt
-  Egypt_Adm2_363:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B22410072002885
-    country_name: Egypt
-  Egypt_Adm2_364:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ZemamOut
-    shapeID: 37247803B70962807620148
-    country_name: Egypt
-  Egypt_Adm2_365:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Zifta
-    shapeID: 37247803B22072181231059
-    country_name: Egypt
-  Egypt_Adm2_37:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Ganoub2
-    shapeID: 37247803B49247378717422
-    country_name: Egypt
-  Egypt_Adm2_38:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Ghanayem
-    shapeID: 37247803B60942546572959
-    country_name: Egypt
-  Egypt_Adm2_39:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Hammam
-    shapeID: 37247803B30384422366927
-    country_name: Egypt
-  Egypt_Adm2_4:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: 6October-1
-    shapeID: 37247803B48784531357995
-    country_name: Egypt
-  Egypt_Adm2_40:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Hasna
-    shapeID: 37247803B43495383669597
-    country_name: Egypt
-  Egypt_Adm2_41:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Husayniya
-    shapeID: 37247803B51599084555013
-    country_name: Egypt
-  Egypt_Adm2_42:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-KhargaOasis
-    shapeID: 37247803B20145410144228
-    country_name: Egypt
-  Egypt_Adm2_43:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Mahmudiyya
-    shapeID: 37247803B49167572517761
-    country_name: Egypt
-  Egypt_Adm2_44:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Manasra
-    shapeID: 37247803B61040397145628
-    country_name: Egypt
-  Egypt_Adm2_45:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Maragha
-    shapeID: 37247803B96203293605859
-    country_name: Egypt
-  Egypt_Adm2_46:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Minshat
-    shapeID: 37247803B33567976679520
-    country_name: Egypt
-  Egypt_Adm2_47:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Munakh
-    shapeID: 37247803B61340660401138
-    country_name: Egypt
-  Egypt_Adm2_48:
-    iso3c: EGY
-    admin_level: Adm2
+  EGY.16.7_1_Adm2:
+    GID: EGY.16.7_1
     admin_name: Al-Qanayat
-    shapeID: 37247803B43840027244949
-    country_name: Egypt
-  Egypt_Adm2_49:
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Qusia
-    shapeID: 37247803B63984136807861
     country_name: Egypt
-  Egypt_Adm2_5:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: 6October-2
-    shapeID: 37247803B57962000824705
+  EGY.16.8_1_Adm2:
+    GID: EGY.16.8_1
+    admin_name: Al-Qurayn
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_50:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Al-Rahmaniyya
-    shapeID: 37247803B62002284809719
+  EGY.16.9_1_Adm2:
+    GID: EGY.16.9_1
+    admin_name: Awlad Saqr
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_51:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Al-Salhiyya
-    shapeID: 37247803B28046922888397
-    country_name: Egypt
-  Egypt_Adm2_52:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Sharq
-    shapeID: 37247803B90790546702269
-    country_name: Egypt
-  Egypt_Adm2_53:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Shuhada
-    shapeID: 37247803B57305898539534
-    country_name: Egypt
-  Egypt_Adm2_54:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Tur
-    shapeID: 37247803B51826009871737
-    country_name: Egypt
-  Egypt_Adm2_55:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Al-Zohour
-    shapeID: 37247803B87412130883557
-    country_name: Egypt
-  Egypt_Adm2_56:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlAmreia
-    shapeID: 37247803B92926604097979
-    country_name: Egypt
-  Egypt_Adm2_57:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlAttarin
-    shapeID: 37247803B2309887607754
-    country_name: Egypt
-  Egypt_Adm2_58:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlAzbakiyya
-    shapeID: 37247803B6267278220516
-    country_name: Egypt
-  Egypt_Adm2_59:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlDarbal-Ahmar
-    shapeID: 37247803B66957331642315
-    country_name: Egypt
-  Egypt_Adm2_6:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: A-DakhlaOasis
-    shapeID: 37247803B63195966732086
-    country_name: Egypt
-  Egypt_Adm2_60:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlDikhila
-    shapeID: 37247803B81947016112808
-    country_name: Egypt
-  Egypt_Adm2_61:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlFarafraOasis
-    shapeID: 37247803B67299056810507
-    country_name: Egypt
-  Egypt_Adm2_62:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlFashn
-    shapeID: 37247803B34846492708063
-    country_name: Egypt
-  Egypt_Adm2_63:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlGumruk
-    shapeID: 37247803B59433804182787
-    country_name: Egypt
-  Egypt_Adm2_64:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlHamul
-    shapeID: 37247803B81871138986317
-    country_name: Egypt
-  Egypt_Adm2_65:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlKhalifa
-    shapeID: 37247803B15392203431980
-    country_name: Egypt
-  Egypt_Adm2_66:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlKhanka
-    shapeID: 37247803B26389200974070
-    country_name: Egypt
-  Egypt_Adm2_67:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlManshiyya
-    shapeID: 37247803B47768996612794
-    country_name: Egypt
-  Egypt_Adm2_68:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlMatariyya
-    shapeID: 37247803B27962965783351
-    country_name: Egypt
-  Egypt_Adm2_69:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlRaml
-    shapeID: 37247803B98787115048764
-    country_name: Egypt
-  Egypt_Adm2_7:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: ALLabban
-    shapeID: 37247803B27556754464057
-    country_name: Egypt
-  Egypt_Adm2_70:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlSahil
-    shapeID: 37247803B54164801772616
-    country_name: Egypt
-  Egypt_Adm2_71:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlSalam
-    shapeID: 37247803B59541002076203
-    country_name: Egypt
-  Egypt_Adm2_72:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlSharabiyya
-    shapeID: 37247803B22012205190656
-    country_name: Egypt
-  Egypt_Adm2_73:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlTibbin
-    shapeID: 37247803B18410334160069
-    country_name: Egypt
-  Egypt_Adm2_74:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlUsayrat
-    shapeID: 37247803B53334820254906
-    country_name: Egypt
-  Egypt_Adm2_75:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlWaqf
-    shapeID: 37247803B80470796626605
-    country_name: Egypt
-  Egypt_Adm2_76:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlWasta
-    shapeID: 37247803B53497462847633
-    country_name: Egypt
-  Egypt_Adm2_77:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlWayli
-    shapeID: 37247803B46837021628067
-    country_name: Egypt
-  Egypt_Adm2_78:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlZahir
-    shapeID: 37247803B28746183260819
-    country_name: Egypt
-  Egypt_Adm2_79:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AlZaytun
-    shapeID: 37247803B62499095418831
-    country_name: Egypt
-  Egypt_Adm2_8:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Abdin
-    shapeID: 37247803B10880133914548
-    country_name: Egypt
-  Egypt_Adm2_80:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Alamn
-    shapeID: 37247803B41250479572628
-    country_name: Egypt
-  Egypt_Adm2_81:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Alfath
-    shapeID: 37247803B50219622339720
-    country_name: Egypt
-  Egypt_Adm2_82:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Armant
-    shapeID: 37247803B28192113145833
-    country_name: Egypt
-  Egypt_Adm2_83:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Ashmun
-    shapeID: 37247803B18007255516355
-    country_name: Egypt
-  Egypt_Adm2_84:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: Assuit
-    shapeID: 37247803B81923803494172
-    country_name: Egypt
-  Egypt_Adm2_85:
-    iso3c: EGY
-    admin_level: Adm2
-    admin_name: AssuitCity
-    shapeID: 37247803B89417957828076
-    country_name: Egypt
-  Egypt_Adm2_86:
-    iso3c: EGY
-    admin_level: Adm2
+  EGY.17_1_Adm1:
+    GID: EGY.17_1
     admin_name: Aswan
-    shapeID: 37247803B76296882951531
-    country_name: Egypt
-  Egypt_Adm2_87:
     iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.17.1_1_Adm2:
+    GID: EGY.17.1_1
+    admin_name: Abu Simbel
+    iso3c: EGY
+    country_name: Egypt
     admin_level: Adm2
+  EGY.17.2_1_Adm2:
+    GID: EGY.17.2_1
     admin_name: Aswan
-    shapeID: 37247803B17658865613215
-    country_name: Egypt
-  Egypt_Adm2_88:
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: AswanCity
-    shapeID: 37247803B88895964793077
     country_name: Egypt
-  Egypt_Adm2_89:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Ataqa
-    shapeID: 37247803B89602955599025
+  EGY.17.3_1_Adm2:
+    GID: EGY.17.3_1
+    admin_name: Aswan City
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_9:
-    iso3c: EGY
     admin_level: Adm2
+  EGY.17.4_1_Adm2:
+    GID: EGY.17.4_1
+    admin_name: Daraw
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.17.5_1_Adm2:
+    GID: EGY.17.5_1
+    admin_name: Idfu
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.17.6_1_Adm2:
+    GID: EGY.17.6_1
+    admin_name: Kawm Umbu
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.17.7_1_Adm2:
+    GID: EGY.17.7_1
+    admin_name: Nasr
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.17.8_1_Adm2:
+    GID: EGY.17.8_1
+    admin_name: New Tushka City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.17.9_1_Adm2:
+    GID: EGY.17.9_1
+    admin_name: Unorganized in Aswan
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.18_1_Adm1:
+    GID: EGY.18_1
+    admin_name: Asyut
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.18.1_1_Adm2:
+    GID: EGY.18.1_1
     admin_name: Abnub
-    shapeID: 37247803B63981628133809
-    country_name: Egypt
-  Egypt_Adm2_90:
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Atfeh
-    shapeID: 37247803B7335021436895
     country_name: Egypt
-  Egypt_Adm2_91:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Atsa
-    shapeID: 37247803B59509070430414
+  EGY.18.10_1_Adm2:
+    GID: EGY.18.10_1
+    admin_name: Dayrut
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_92:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Auseem
-    shapeID: 37247803B16391777329697
+  EGY.18.11_1_Adm2:
+    GID: EGY.18.11_1
+    admin_name: Manfalut
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_93:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: AwladSaqr
-    shapeID: 37247803B9128423140503
+  EGY.18.12_1_Adm2:
+    GID: EGY.18.12_1
+    admin_name: New Asyut City
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_94:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: Ayat
-    shapeID: 37247803B7250727301439
+  EGY.18.13_1_Adm2:
+    GID: EGY.18.13_1
+    admin_name: Sahil Salim
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_95:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: BabAl-Shariyya
-    shapeID: 37247803B36275264085145
+  EGY.18.14_1_Adm2:
+    GID: EGY.18.14_1
+    admin_name: Sidfa
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_96:
-    iso3c: EGY
     admin_level: Adm2
-    admin_name: BabSharqi
-    shapeID: 37247803B50327552497363
+  EGY.18.15_1_Adm2:
+    GID: EGY.18.15_1
+    admin_name: Unorganized in Asyut
+    iso3c: EGY
     country_name: Egypt
-  Egypt_Adm2_97:
-    iso3c: EGY
     admin_level: Adm2
+  EGY.18.2_1_Adm2:
+    GID: EGY.18.2_1
+    admin_name: Abu Tij
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.18.3_1_Adm2:
+    GID: EGY.18.3_1
+    admin_name: Al-Badari
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.18.4_1_Adm2:
+    GID: EGY.18.4_1
+    admin_name: Al-Fath
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.18.5_1_Adm2:
+    GID: EGY.18.5_1
+    admin_name: Al-Ghanayim
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.18.6_1_Adm2:
+    GID: EGY.18.6_1
+    admin_name: Al-Qusiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.18.7_1_Adm2:
+    GID: EGY.18.7_1
+    admin_name: Asyut
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.18.8_1_Adm2:
+    GID: EGY.18.8_1
+    admin_name: Asyut 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.18.9_1_Adm2:
+    GID: EGY.18.9_1
+    admin_name: Asyut 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.19_1_Adm1:
+    GID: EGY.19_1
+    admin_name: Bani Suwayf
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.19.1_1_Adm2:
+    GID: EGY.19.1_1
+    admin_name: Al-Fashn
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.19.2_1_Adm2:
+    GID: EGY.19.2_1
+    admin_name: Al-Wasta
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.19.3_1_Adm2:
+    GID: EGY.19.3_1
+    admin_name: Bani Suwayf
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.19.4_1_Adm2:
+    GID: EGY.19.4_1
+    admin_name: Bani Suwayf City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.19.5_1_Adm2:
+    GID: EGY.19.5_1
+    admin_name: Biba
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.19.6_1_Adm2:
+    GID: EGY.19.6_1
+    admin_name: Ihnasiya
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.19.7_1_Adm2:
+    GID: EGY.19.7_1
+    admin_name: Nasir Bush
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.19.8_1_Adm2:
+    GID: EGY.19.8_1
+    admin_name: Sumusta al-Waqf
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.19.9_1_Adm2:
+    GID: EGY.19.9_1
+    admin_name: Unorganized in Bani Suwayf
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.2_1_Adm1:
+    GID: EGY.2_1
+    admin_name: Al Bahr al Ahmar
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.2.1_1_Adm2:
+    GID: EGY.2.1_1
+    admin_name: Al-Ghurdaqah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.2.2_1_Adm2:
+    GID: EGY.2.2_1
+    admin_name: Al-Ghurdaqah 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.2.3_1_Adm2:
+    GID: EGY.2.3_1
+    admin_name: Al-Qusayr
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.2.4_1_Adm2:
+    GID: EGY.2.4_1
+    admin_name: Ash-Shalatin
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.2.5_1_Adm2:
+    GID: EGY.2.5_1
+    admin_name: Marsa 'Alam
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.2.6_1_Adm2:
+    GID: EGY.2.6_1
+    admin_name: Ras Gharib
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.2.7_1_Adm2:
+    GID: EGY.2.7_1
+    admin_name: Safaja
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20_1_Adm1:
+    GID: EGY.20_1
+    admin_name: Bur Sa`id
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.20.1_1_Adm2:
+    GID: EGY.20.1_1
+    admin_name: Ad-Dawahy
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.10_1_Adm2:
+    GID: EGY.20.10_1
+    admin_name: Port Fuad
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.11_1_Adm2:
+    GID: EGY.20.11_1
+    admin_name: Port Fuad 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.12_1_Adm2:
+    GID: EGY.20.12_1
+    admin_name: Port Sa'id Police Department
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.2_1_Adm2:
+    GID: EGY.20.2_1
+    admin_name: Al-'Arab
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.3_1_Adm2:
+    GID: EGY.20.3_1
+    admin_name: Al-Ganoub
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.4_1_Adm2:
+    GID: EGY.20.4_1
+    admin_name: Al-Ganoub 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.5_1_Adm2:
+    GID: EGY.20.5_1
+    admin_name: Al-Manakh
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.6_1_Adm2:
+    GID: EGY.20.6_1
+    admin_name: Al-Manasrah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.7_1_Adm2:
+    GID: EGY.20.7_1
+    admin_name: Ash-Sharq
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.8_1_Adm2:
+    GID: EGY.20.8_1
+    admin_name: Az-Zohur
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.20.9_1_Adm2:
+    GID: EGY.20.9_1
+    admin_name: Mubarak - Sharq at-Tafri'tah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.21_1_Adm1:
+    GID: EGY.21_1
+    admin_name: Dumyat
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.21.1_1_Adm2:
+    GID: EGY.21.1_1
+    admin_name: Damietta
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.21.2_1_Adm2:
+    GID: EGY.21.2_1
+    admin_name: Damietta 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.21.3_1_Adm2:
+    GID: EGY.21.3_1
+    admin_name: Damietta 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.21.4_1_Adm2:
+    GID: EGY.21.4_1
+    admin_name: Faraskur
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.21.5_1_Adm2:
+    GID: EGY.21.5_1
+    admin_name: Kafr Sa'd
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.21.6_1_Adm2:
+    GID: EGY.21.6_1
+    admin_name: New Damietta City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.21.7_1_Adm2:
+    GID: EGY.21.7_1
+    admin_name: Port of Damietta Police Departme
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.21.8_1_Adm2:
+    GID: EGY.21.8_1
+    admin_name: Zarqa
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.22_1_Adm1:
+    GID: EGY.22_1
+    admin_name: Janub Sina'
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.22.1_1_Adm2:
+    GID: EGY.22.1_1
+    admin_name: Abu Radis
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.22.2_1_Adm2:
+    GID: EGY.22.2_1
+    admin_name: Abu Zenima
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.22.3_1_Adm2:
+    GID: EGY.22.3_1
+    admin_name: At-Tur
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.22.4_1_Adm2:
+    GID: EGY.22.4_1
+    admin_name: Dahab
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.22.5_1_Adm2:
+    GID: EGY.22.5_1
+    admin_name: Nuweiba'
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.22.6_1_Adm2:
+    GID: EGY.22.6_1
+    admin_name: Ras Sidr
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.22.7_1_Adm2:
+    GID: EGY.22.7_1
+    admin_name: Sant Katrin
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.22.8_1_Adm2:
+    GID: EGY.22.8_1
+    admin_name: Sharm el-Sheikh
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.22.9_1_Adm2:
+    GID: EGY.22.9_1
+    admin_name: Taba
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.23_1_Adm1:
+    GID: EGY.23_1
+    admin_name: Kafr ash Shaykh
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.23.1_1_Adm2:
+    GID: EGY.23.1_1
+    admin_name: Al-Burulus
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.23.10_1_Adm2:
+    GID: EGY.23.10_1
+    admin_name: Sidi Salim
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.23.2_1_Adm2:
+    GID: EGY.23.2_1
+    admin_name: Al-Hamul
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.23.3_1_Adm2:
+    GID: EGY.23.3_1
+    admin_name: Ar-Riyad
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.23.4_1_Adm2:
+    GID: EGY.23.4_1
+    admin_name: Biyala
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.23.5_1_Adm2:
+    GID: EGY.23.5_1
+    admin_name: Disuq
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.23.6_1_Adm2:
+    GID: EGY.23.6_1
+    admin_name: Fuwah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.23.7_1_Adm2:
+    GID: EGY.23.7_1
+    admin_name: Kafr ash-Shaykh
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.23.8_1_Adm2:
+    GID: EGY.23.8_1
+    admin_name: Mutubis
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.23.9_1_Adm2:
+    GID: EGY.23.9_1
+    admin_name: Qallin
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.24_1_Adm1:
+    GID: EGY.24_1
+    admin_name: Matrouh
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.24.1_1_Adm2:
+    GID: EGY.24.1_1
+    admin_name: Ad-Dab'ah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.24.2_1_Adm2:
+    GID: EGY.24.2_1
+    admin_name: Al-Hammam
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.24.3_1_Adm2:
+    GID: EGY.24.3_1
+    admin_name: As-Salum
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.24.4_1_Adm2:
+    GID: EGY.24.4_1
+    admin_name: Marina al-'Alamayn as-Siyahiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.24.5_1_Adm2:
+    GID: EGY.24.5_1
+    admin_name: Marsa Matruh
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.24.6_1_Adm2:
+    GID: EGY.24.6_1
+    admin_name: Sidi Barrani
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.24.7_1_Adm2:
+    GID: EGY.24.7_1
+    admin_name: Siwa
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25_1_Adm1:
+    GID: EGY.25_1
+    admin_name: Qina
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.25.1_1_Adm2:
+    GID: EGY.25.1_1
+    admin_name: Abu Tisht
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.10_1_Adm2:
+    GID: EGY.25.10_1
+    admin_name: Qina
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.11_1_Adm2:
+    GID: EGY.25.11_1
+    admin_name: Qina City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.12_1_Adm2:
+    GID: EGY.25.12_1
+    admin_name: Qus
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.13_1_Adm2:
+    GID: EGY.25.13_1
+    admin_name: Unorganized in Qina
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.2_1_Adm2:
+    GID: EGY.25.2_1
+    admin_name: Al-Waqf
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.3_1_Adm2:
+    GID: EGY.25.3_1
+    admin_name: Armant
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.4_1_Adm2:
+    GID: EGY.25.4_1
+    admin_name: Dishna
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.5_1_Adm2:
+    GID: EGY.25.5_1
+    admin_name: Farshut
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.6_1_Adm2:
+    GID: EGY.25.6_1
+    admin_name: Isna
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.7_1_Adm2:
+    GID: EGY.25.7_1
+    admin_name: Naj' Hammadi
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.8_1_Adm2:
+    GID: EGY.25.8_1
+    admin_name: Naqadah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.25.9_1_Adm2:
+    GID: EGY.25.9_1
+    admin_name: Qift
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26_1_Adm1:
+    GID: EGY.26_1
+    admin_name: Shamal Sina'
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.26.1_1_Adm2:
+    GID: EGY.26.1_1
+    admin_name: Al-'Arish 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26.10_1_Adm2:
+    GID: EGY.26.10_1
+    admin_name: Shurtah al-Qasimah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26.11_1_Adm2:
+    GID: EGY.26.11_1
+    admin_name: Shurtah Rumanah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26.2_1_Adm2:
+    GID: EGY.26.2_1
+    admin_name: Al-'Arish 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26.3_1_Adm2:
+    GID: EGY.26.3_1
+    admin_name: Al-'Arish 3
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26.4_1_Adm2:
+    GID: EGY.26.4_1
+    admin_name: Al-'Arish 4
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26.5_1_Adm2:
+    GID: EGY.26.5_1
+    admin_name: Al-Hasanah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26.6_1_Adm2:
+    GID: EGY.26.6_1
+    admin_name: Bir al-'Abd
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26.7_1_Adm2:
+    GID: EGY.26.7_1
+    admin_name: Nakhl
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26.8_1_Adm2:
+    GID: EGY.26.8_1
+    admin_name: Rafah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.26.9_1_Adm2:
+    GID: EGY.26.9_1
+    admin_name: Sheikh Zawid
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27_1_Adm1:
+    GID: EGY.27_1
+    admin_name: Suhaj
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.27.1_1_Adm2:
+    GID: EGY.27.1_1
+    admin_name: Akhmim
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.10_1_Adm2:
+    GID: EGY.27.10_1
+    admin_name: New Akhmim City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.11_1_Adm2:
+    GID: EGY.27.11_1
+    admin_name: New Sawhaj City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.12_1_Adm2:
+    GID: EGY.27.12_1
+    admin_name: Saqultah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.13_1_Adm2:
+    GID: EGY.27.13_1
+    admin_name: Sawhaj
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.14_1_Adm2:
+    GID: EGY.27.14_1
+    admin_name: Sawhaj 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.15_1_Adm2:
+    GID: EGY.27.15_1
+    admin_name: Tahta
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.16_1_Adm2:
+    GID: EGY.27.16_1
+    admin_name: Tahta City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.17_1_Adm2:
+    GID: EGY.27.17_1
+    admin_name: Tima
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.18_1_Adm2:
+    GID: EGY.27.18_1
+    admin_name: Unorganized in Suhaj
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.2_1_Adm2:
+    GID: EGY.27.2_1
+    admin_name: Al-'Usayrat
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.3_1_Adm2:
+    GID: EGY.27.3_1
+    admin_name: Al-Baliyana
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.4_1_Adm2:
+    GID: EGY.27.4_1
+    admin_name: Al-Kawtar
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.5_1_Adm2:
+    GID: EGY.27.5_1
+    admin_name: Al-Manshah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.6_1_Adm2:
+    GID: EGY.27.6_1
+    admin_name: Al-Maraghah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.7_1_Adm2:
+    GID: EGY.27.7_1
+    admin_name: Dar as-Salam
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.8_1_Adm2:
+    GID: EGY.27.8_1
+    admin_name: Jirja
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.27.9_1_Adm2:
+    GID: EGY.27.9_1
+    admin_name: Juhaynah al-Gharbiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3_1_Adm1:
+    GID: EGY.3_1
+    admin_name: Al Buhayrah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.3.1_1_Adm2:
+    GID: EGY.3.1_1
+    admin_name: Abu al-Matamir
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.10_1_Adm2:
+    GID: EGY.3.10_1
+    admin_name: Ityay al-Barud
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.11_1_Adm2:
+    GID: EGY.3.11_1
+    admin_name: Kafr ad-Dawwar
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.12_1_Adm2:
+    GID: EGY.3.12_1
+    admin_name: Kawm Hamadah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.13_1_Adm2:
+    GID: EGY.3.13_1
+    admin_name: Rosetta
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.14_1_Adm2:
+    GID: EGY.3.14_1
+    admin_name: Shubra Khit
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.15_1_Adm2:
+    GID: EGY.3.15_1
+    admin_name: Unorganized in Al Buhayrah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.16_1_Adm2:
+    GID: EGY.3.16_1
+    admin_name: Wadi Al-Natron
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.17_1_Adm2:
+    GID: EGY.3.17_1
+    admin_name: West Nubariyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.2_1_Adm2:
+    GID: EGY.3.2_1
+    admin_name: Abu Hummus
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.3_1_Adm2:
+    GID: EGY.3.3_1
+    admin_name: Ad-Dilinat
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.4_1_Adm2:
+    GID: EGY.3.4_1
+    admin_name: Al-Mahmudiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.5_1_Adm2:
+    GID: EGY.3.5_1
+    admin_name: Ar-Rahmaniyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.6_1_Adm2:
+    GID: EGY.3.6_1
     admin_name: Badr
-    shapeID: 37247803B98610862498628
-    country_name: Egypt
-  Egypt_Adm2_98:
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Badr
-    shapeID: 37247803B14038420995681
     country_name: Egypt
-  Egypt_Adm2_99:
+    admin_level: Adm2
+  EGY.3.7_1_Adm2:
+    GID: EGY.3.7_1
+    admin_name: Damanhur
     iso3c: EGY
-    admin_level: Adm2
-    admin_name: Badrashain
-    shapeID: 37247803B45225516611894
     country_name: Egypt
+    admin_level: Adm2
+  EGY.3.8_1_Adm2:
+    GID: EGY.3.8_1
+    admin_name: Hawsh 'Isa
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.3.9_1_Adm2:
+    GID: EGY.3.9_1
+    admin_name: Idku
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.4_1_Adm1:
+    GID: EGY.4_1
+    admin_name: Al Fayyum
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.4.1_1_Adm2:
+    GID: EGY.4.1_1
+    admin_name: Al-Fayyum
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.4.2_1_Adm2:
+    GID: EGY.4.2_1
+    admin_name: Al-Fayyum City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.4.3_1_Adm2:
+    GID: EGY.4.3_1
+    admin_name: Ibshaway
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.4.4_1_Adm2:
+    GID: EGY.4.4_1
+    admin_name: Itsa
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.4.5_1_Adm2:
+    GID: EGY.4.5_1
+    admin_name: Sinnuris
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.4.6_1_Adm2:
+    GID: EGY.4.6_1
+    admin_name: Tamiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.4.7_1_Adm2:
+    GID: EGY.4.7_1
+    admin_name: Unorganized in Al Fayoum
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.4.8_1_Adm2:
+    GID: EGY.4.8_1
+    admin_name: Yusuf as-Sidiq
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5_1_Adm1:
+    GID: EGY.5_1
+    admin_name: Al Gharbiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.5.1_1_Adm2:
+    GID: EGY.5.1_1
+    admin_name: Al-Mahallah al-Kubra
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.10_1_Adm2:
+    GID: EGY.5.10_1
+    admin_name: Tanta 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.11_1_Adm2:
+    GID: EGY.5.11_1
+    admin_name: Tanta 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.12_1_Adm2:
+    GID: EGY.5.12_1
+    admin_name: Zifta
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.2_1_Adm2:
+    GID: EGY.5.2_1
+    admin_name: Al-Mahallah al-Kubra 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.3_1_Adm2:
+    GID: EGY.5.3_1
+    admin_name: Al-Mahallah al-Kubra 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.4_1_Adm2:
+    GID: EGY.5.4_1
+    admin_name: As-Santah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.5_1_Adm2:
+    GID: EGY.5.5_1
+    admin_name: Basyun
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.6_1_Adm2:
+    GID: EGY.5.6_1
+    admin_name: Kafr az-Zayyat
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.7_1_Adm2:
+    GID: EGY.5.7_1
+    admin_name: Qutur
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.8_1_Adm2:
+    GID: EGY.5.8_1
+    admin_name: Samannud
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.5.9_1_Adm2:
+    GID: EGY.5.9_1
+    admin_name: Tanta
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6_1_Adm1:
+    GID: EGY.6_1
+    admin_name: Al Iskandariyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.6.1_1_Adm2:
+    GID: EGY.6.1_1
+    admin_name: Ad-Dukhaylah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.10_1_Adm2:
+    GID: EGY.6.10_1
+    admin_name: Bab Sharqi
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.11_1_Adm2:
+    GID: EGY.6.11_1
+    admin_name: Burj al-'Arab
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.12_1_Adm2:
+    GID: EGY.6.12_1
+    admin_name: Karmuz
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.13_1_Adm2:
+    GID: EGY.6.13_1
+    admin_name: Muharam Bik
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.14_1_Adm2:
+    GID: EGY.6.14_1
+    admin_name: New Burj al-'Arab City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.15_1_Adm2:
+    GID: EGY.6.15_1
+    admin_name: Port al-Basal
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.16_1_Adm2:
+    GID: EGY.6.16_1
+    admin_name: Port Alexandria Police Departmen
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.17_1_Adm2:
+    GID: EGY.6.17_1
+    admin_name: Sidi Jabir
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.18_1_Adm2:
+    GID: EGY.6.18_1
+    admin_name: Unorganized in Al Iskandariyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.2_1_Adm2:
+    GID: EGY.6.2_1
+    admin_name: Al-'Amriyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.3_1_Adm2:
+    GID: EGY.6.3_1
+    admin_name: Al-'Atarin
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.4_1_Adm2:
+    GID: EGY.6.4_1
+    admin_name: Al-Jumruk
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.5_1_Adm2:
+    GID: EGY.6.5_1
+    admin_name: Al-Laban
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.6_1_Adm2:
+    GID: EGY.6.6_1
+    admin_name: Al-Manshiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.7_1_Adm2:
+    GID: EGY.6.7_1
+    admin_name: Al-Muntazah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.8_1_Adm2:
+    GID: EGY.6.8_1
+    admin_name: Ar-Raml 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.6.9_1_Adm2:
+    GID: EGY.6.9_1
+    admin_name: Ar-Raml 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.7_1_Adm1:
+    GID: EGY.7_1
+    admin_name: Al Isma`iliyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.7.1_1_Adm2:
+    GID: EGY.7.1_1
+    admin_name: Al-Qantarah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.7.2_1_Adm2:
+    GID: EGY.7.2_1
+    admin_name: Al-Qantarah ash-Sharqiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.7.3_1_Adm2:
+    GID: EGY.7.3_1
+    admin_name: At-Tall al-Kabir
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.7.4_1_Adm2:
+    GID: EGY.7.4_1
+    admin_name: Fa'id
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.7.5_1_Adm2:
+    GID: EGY.7.5_1
+    admin_name: Ismailia
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.7.6_1_Adm2:
+    GID: EGY.7.6_1
+    admin_name: Ismailia 1
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.7.7_1_Adm2:
+    GID: EGY.7.7_1
+    admin_name: Ismailia 2
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.7.8_1_Adm2:
+    GID: EGY.7.8_1
+    admin_name: Ismailia 3
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8_1_Adm1:
+    GID: EGY.8_1
+    admin_name: Al Jizah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.8.1_1_Adm2:
+    GID: EGY.8.1_1
+    admin_name: Ad-Duqi
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.10_1_Adm2:
+    GID: EGY.8.10_1
+    admin_name: As-Saff
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.11_1_Adm2:
+    GID: EGY.8.11_1
+    admin_name: Atfih
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.12_1_Adm2:
+    GID: EGY.8.12_1
+    admin_name: Bulaq al-Dakrur
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.13_1_Adm2:
+    GID: EGY.8.13_1
+    admin_name: Giza
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.14_1_Adm2:
+    GID: EGY.8.14_1
+    admin_name: Imbabah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.15_1_Adm2:
+    GID: EGY.8.15_1
+    admin_name: Kirdasah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.16_1_Adm2:
+    GID: EGY.8.16_1
+    admin_name: Sheikh Zayed
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.17_1_Adm2:
+    GID: EGY.8.17_1
+    admin_name: Sixth of October 1 City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.18_1_Adm2:
+    GID: EGY.8.18_1
+    admin_name: Sixth of October 2 City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.19_1_Adm2:
+    GID: EGY.8.19_1
+    admin_name: Unorganized in Al Jizah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.2_1_Adm2:
+    GID: EGY.8.2_1
+    admin_name: Al-'Ajuzah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.3_1_Adm2:
+    GID: EGY.8.3_1
+    admin_name: Al-'Ayyat
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.4_1_Adm2:
+    GID: EGY.8.4_1
+    admin_name: Al-'Umraniyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.5_1_Adm2:
+    GID: EGY.8.5_1
+    admin_name: Al-Ahram
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.6_1_Adm2:
+    GID: EGY.8.6_1
+    admin_name: Al-Badrashayn
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.7_1_Adm2:
+    GID: EGY.8.7_1
+    admin_name: Al-Hawamidiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.8_1_Adm2:
+    GID: EGY.8.8_1
+    admin_name: Al-Wahat al-Bahariyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.8.9_1_Adm2:
+    GID: EGY.8.9_1
+    admin_name: Al-Warraq
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9_1_Adm1:
+    GID: EGY.9_1
+    admin_name: Al Minufiyah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm1
+  EGY.9.1_1_Adm2:
+    GID: EGY.9.1_1
+    admin_name: Al-Bajur
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9.10_1_Adm2:
+    GID: EGY.9.10_1
+    admin_name: Sirs al-Layyanah
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9.11_1_Adm2:
+    GID: EGY.9.11_1
+    admin_name: Tala
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9.2_1_Adm2:
+    GID: EGY.9.2_1
+    admin_name: Ash-Shuhada
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9.3_1_Adm2:
+    GID: EGY.9.3_1
+    admin_name: Ashmun
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9.4_1_Adm2:
+    GID: EGY.9.4_1
+    admin_name: Birkat as-Sab'
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9.5_1_Adm2:
+    GID: EGY.9.5_1
+    admin_name: Minuf
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9.6_1_Adm2:
+    GID: EGY.9.6_1
+    admin_name: Minuf City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9.7_1_Adm2:
+    GID: EGY.9.7_1
+    admin_name: Quwaysina
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9.8_1_Adm2:
+    GID: EGY.9.8_1
+    admin_name: Sadat City
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2
+  EGY.9.9_1_Adm2:
+    GID: EGY.9.9_1
+    admin_name: Shibin al-Kawm
+    iso3c: EGY
+    country_name: Egypt
+    admin_level: Adm2

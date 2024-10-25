@@ -1,217 +1,235 @@
 concepts:
-  Lebanon_Adm0:
+  LBN.0_Adm0:
+    GID: LBN
+    admin_name: Lebanon
     iso3c: LBN
+    country_name: Lebanon
     admin_level: Adm0
-    admin_name: RepublicofLebanon
-    shapeID: 18678258B39466436101806
-    country_name: Lebanon
-  Lebanon_Adm1_1:
-    iso3c: LBN
-    admin_level: Adm1
-    admin_name: Baalbek-Hermel
-    shapeID: 68408151B19672163648714
-    country_name: Lebanon
-  Lebanon_Adm1_2:
-    iso3c: LBN
-    admin_level: Adm1
-    admin_name: Beyrouth
-    shapeID: 68408151B13555465262434
-    country_name: Lebanon
-  Lebanon_Adm1_3:
-    iso3c: LBN
-    admin_level: Adm1
-    admin_name: Liban-Nord
-    shapeID: 68408151B65529488220063
-    country_name: Lebanon
-  Lebanon_Adm1_4:
-    iso3c: LBN
-    admin_level: Adm1
-    admin_name: Mont-Liban
-    shapeID: 68408151B78911970066467
-    country_name: Lebanon
-  Lebanon_Adm1_5:
-    iso3c: LBN
-    admin_level: Adm1
-    admin_name: Liban-Sud
-    shapeID: 68408151B17317068268844
-    country_name: Lebanon
-  Lebanon_Adm1_6:
-    iso3c: LBN
-    admin_level: Adm1
-    admin_name: Nabatîyé
-    shapeID: 68408151B46493486830483
-    country_name: Lebanon
-  Lebanon_Adm1_7:
-    iso3c: LBN
-    admin_level: Adm1
-    admin_name: Béqaa
-    shapeID: 68408151B59549752014872
-    country_name: Lebanon
-  Lebanon_Adm1_8:
-    iso3c: LBN
-    admin_level: Adm1
-    admin_name: Aakkâr
-    shapeID: 68408151B85296590469481
-    country_name: Lebanon
-  Lebanon_Adm1_9:
-    iso3c: LBN
-    admin_level: Adm1
-    admin_name: Keserwan-Jbeil
-    shapeID: 68408151B4671352582534
-    country_name: Lebanon
-  Lebanon_Adm2_1:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: BentJbail
-    shapeID: 6925839B74640193916916
-    country_name: Lebanon
-  Lebanon_Adm2_10:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Zahle
-    shapeID: 6925839B31149323573129
-    country_name: Lebanon
-  Lebanon_Adm2_11:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Chouf
-    shapeID: 6925839B22224450252528
-    country_name: Lebanon
-  Lebanon_Adm2_12:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Aley
-    shapeID: 6925839B64789983329466
-    country_name: Lebanon
-  Lebanon_Adm2_13:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Baabda
-    shapeID: 6925839B63468798885318
-    country_name: Lebanon
-  Lebanon_Adm2_14:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Beirut
-    shapeID: 6925839B60872420025543
-    country_name: Lebanon
-  Lebanon_Adm2_15:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: ElMetn
-    shapeID: 6925839B978992545808
-    country_name: Lebanon
-  Lebanon_Adm2_16:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Kesrouan
-    shapeID: 6925839B71215768953802
-    country_name: Lebanon
-  Lebanon_Adm2_17:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Jbail
-    shapeID: 6925839B71735997192739
-    country_name: Lebanon
-  Lebanon_Adm2_18:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Batroun
-    shapeID: 6925839B96562179351486
-    country_name: Lebanon
-  Lebanon_Adm2_19:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Koura
-    shapeID: 6925839B38007173727278
-    country_name: Lebanon
-  Lebanon_Adm2_2:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Sour
-    shapeID: 6925839B77249045158285
-    country_name: Lebanon
-  Lebanon_Adm2_20:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Tripoli
-    shapeID: 6925839B99718329093557
-    country_name: Lebanon
-  Lebanon_Adm2_21:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Bcharre
-    shapeID: 6925839B40760308631941
-    country_name: Lebanon
-  Lebanon_Adm2_22:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Zgharta
-    shapeID: 6925839B15174750350375
-    country_name: Lebanon
-  Lebanon_Adm2_23:
-    iso3c: LBN
-    admin_level: Adm2
-    admin_name: Minieh-Dinnieh
-    shapeID: 6925839B71643877987616
-    country_name: Lebanon
-  Lebanon_Adm2_24:
-    iso3c: LBN
-    admin_level: Adm2
+  LBN.1_1_Adm1:
+    GID: LBN.1_1
     admin_name: Akkar
-    shapeID: 6925839B28822850251568
-    country_name: Lebanon
-  Lebanon_Adm2_25:
     iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm1
+  LBN.1.1_1_Adm2:
+    GID: LBN.1.1_1
+    admin_name: Akkar
+    iso3c: LBN
+    country_name: Lebanon
     admin_level: Adm2
+  LBN.1.2_1_Adm2:
+    GID: LBN.1.2_1
+    admin_name: Minieh-Danieh
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.2_1_Adm1:
+    GID: LBN.2_1
+    admin_name: Baalbak - Hermel
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm1
+  LBN.2.1_1_Adm2:
+    GID: LBN.2.1_1
+    admin_name: Baalbeck
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.2.2_1_Adm2:
+    GID: LBN.2.2_1
     admin_name: Hermel
-    shapeID: 6925839B79875972026239
-    country_name: Lebanon
-  Lebanon_Adm2_26:
     iso3c: LBN
-    admin_level: Adm2
-    admin_name: Baalbek
-    shapeID: 6925839B96972958912663
     country_name: Lebanon
-  Lebanon_Adm2_3:
-    iso3c: LBN
     admin_level: Adm2
-    admin_name: Marjaayoun
-    shapeID: 6925839B57733890920365
+  LBN.3_1_Adm1:
+    GID: LBN.3_1
+    admin_name: Beirut
+    iso3c: LBN
     country_name: Lebanon
-  Lebanon_Adm2_4:
+    admin_level: Adm1
+  LBN.3.1_1_Adm2:
+    GID: LBN.3.1_1
+    admin_name: Beirut
     iso3c: LBN
-    admin_level: Adm2
-    admin_name: Hasbaya
-    shapeID: 6925839B87816606095601
     country_name: Lebanon
-  Lebanon_Adm2_5:
-    iso3c: LBN
     admin_level: Adm2
-    admin_name: Nabatiye
-    shapeID: 6925839B53479738564512
+  LBN.4_1_Adm1:
+    GID: LBN.4_1
+    admin_name: Bekaa
+    iso3c: LBN
     country_name: Lebanon
-  Lebanon_Adm2_6:
+    admin_level: Adm1
+  LBN.4.1_1_Adm2:
+    GID: LBN.4.1_1
+    admin_name: Rachiaya
     iso3c: LBN
+    country_name: Lebanon
     admin_level: Adm2
+  LBN.4.2_1_Adm2:
+    GID: LBN.4.2_1
+    admin_name: West Bekaa
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.4.3_1_Adm2:
+    GID: LBN.4.3_1
+    admin_name: Zahleh
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.5_1_Adm1:
+    GID: LBN.5_1
+    admin_name: Mount Lebanon
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm1
+  LBN.5.1_1_Adm2:
+    GID: LBN.5.1_1
+    admin_name: Aley
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.5.2_1_Adm2:
+    GID: LBN.5.2_1
+    admin_name: Baabda
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.5.3_1_Adm2:
+    GID: LBN.5.3_1
+    admin_name: Batroun
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.5.4_1_Adm2:
+    GID: LBN.5.4_1
+    admin_name: Chouf
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.5.5_1_Adm2:
+    GID: LBN.5.5_1
+    admin_name: El Metn
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.5.6_1_Adm2:
+    GID: LBN.5.6_1
     admin_name: Jezzine
-    shapeID: 6925839B23310202718855
-    country_name: Lebanon
-  Lebanon_Adm2_7:
     iso3c: LBN
+    country_name: Lebanon
     admin_level: Adm2
+  LBN.5.7_1_Adm2:
+    GID: LBN.5.7_1
+    admin_name: Jubail
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.5.8_1_Adm2:
+    GID: LBN.5.8_1
+    admin_name: Kasrouane
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.6_1_Adm1:
+    GID: LBN.6_1
+    admin_name: Nabatiyeh
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm1
+  LBN.6.1_1_Adm2:
+    GID: LBN.6.1_1
+    admin_name: Bint Jbayl
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.6.2_1_Adm2:
+    GID: LBN.6.2_1
+    admin_name: Hasbaya
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.6.3_1_Adm2:
+    GID: LBN.6.3_1
+    admin_name: Marjaayoun
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.6.4_1_Adm2:
+    GID: LBN.6.4_1
+    admin_name: Nabatiyeh
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.7_1_Adm1:
+    GID: LBN.7_1
+    admin_name: North
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm1
+  LBN.7.1_1_Adm2:
+    GID: LBN.7.1_1
+    admin_name: Batroun
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.7.2_1_Adm2:
+    GID: LBN.7.2_1
+    admin_name: Bcharre
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.7.3_1_Adm2:
+    GID: LBN.7.3_1
+    admin_name: Koura
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.7.4_1_Adm2:
+    GID: LBN.7.4_1
+    admin_name: Minieh-Danieh
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.7.5_1_Adm2:
+    GID: LBN.7.5_1
+    admin_name: Tripoli
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.7.6_1_Adm2:
+    GID: LBN.7.6_1
+    admin_name: Zgharta
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.8_1_Adm1:
+    GID: LBN.8_1
+    admin_name: South
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm1
+  LBN.8.1_1_Adm2:
+    GID: LBN.8.1_1
+    admin_name: Jezzine
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.8.2_1_Adm2:
+    GID: LBN.8.2_1
+    admin_name: Nabatiyeh
+    iso3c: LBN
+    country_name: Lebanon
+    admin_level: Adm2
+  LBN.8.3_1_Adm2:
+    GID: LBN.8.3_1
     admin_name: Saida
-    shapeID: 6925839B37776772134920
-    country_name: Lebanon
-  Lebanon_Adm2_8:
     iso3c: LBN
-    admin_level: Adm2
-    admin_name: Rachaya
-    shapeID: 6925839B61839988636559
     country_name: Lebanon
-  Lebanon_Adm2_9:
+    admin_level: Adm2
+  LBN.8.4_1_Adm2:
+    GID: LBN.8.4_1
+    admin_name: Sour
     iso3c: LBN
-    admin_level: Adm2
-    admin_name: WestBekaa
-    shapeID: 6925839B74004510975279
     country_name: Lebanon
+    admin_level: Adm2

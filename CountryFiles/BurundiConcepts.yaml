@@ -1,829 +1,907 @@
 concepts:
-  Burundi_Adm0:
-    iso3c: BDI
-    admin_level: Adm0
+  BDI.0_Adm0:
+    GID: BDI
     admin_name: Burundi
-    shapeID: 31105016B92882777335892
-    country_name: Burundi
-  Burundi_Adm1_1:
     iso3c: BDI
-    admin_level: Adm1
-    admin_name: Gitega
-    shapeID: 87207978B95213924600823
     country_name: Burundi
-  Burundi_Adm1_10:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Cibitoke
-    shapeID: 87207978B68487327478732
-    country_name: Burundi
-  Burundi_Adm1_11:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Kayanza
-    shapeID: 87207978B90339845453995
-    country_name: Burundi
-  Burundi_Adm1_12:
-    iso3c: BDI
-    admin_level: Adm1
+    admin_level: Adm0
+  BDI.1_1_Adm1:
+    GID: BDI.1_1
     admin_name: Bubanza
-    shapeID: 87207978B36636371084075
-    country_name: Burundi
-  Burundi_Adm1_13:
     iso3c: BDI
+    country_name: Burundi
     admin_level: Adm1
-    admin_name: Muramvya
-    shapeID: 87207978B78895752231307
-    country_name: Burundi
-  Burundi_Adm1_14:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: BujumburaRural
-    shapeID: 87207978B39611815861631
-    country_name: Burundi
-  Burundi_Adm1_15:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: BujumburaMairie
-    shapeID: 87207978B47636051590360
-    country_name: Burundi
-  Burundi_Adm1_16:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Bururi
-    shapeID: 87207978B31722215463268
-    country_name: Burundi
-  Burundi_Adm1_17:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Mwaro
-    shapeID: 87207978B17615748265547
-    country_name: Burundi
-  Burundi_Adm1_18:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Rumonge
-    shapeID: 87207978B49849916836933
-    country_name: Burundi
-  Burundi_Adm1_2:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Kirundo
-    shapeID: 87207978B16018837471159
-    country_name: Burundi
-  Burundi_Adm1_3:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Muyinga
-    shapeID: 87207978B26491438187770
-    country_name: Burundi
-  Burundi_Adm1_4:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Ngozi
-    shapeID: 87207978B61642532121810
-    country_name: Burundi
-  Burundi_Adm1_5:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Makamba
-    shapeID: 87207978B35376687740120
-    country_name: Burundi
-  Burundi_Adm1_6:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Rutana
-    shapeID: 87207978B60452886876050
-    country_name: Burundi
-  Burundi_Adm1_7:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Ruyigi
-    shapeID: 87207978B85164203636576
-    country_name: Burundi
-  Burundi_Adm1_8:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Cankuzo
-    shapeID: 87207978B60812330206497
-    country_name: Burundi
-  Burundi_Adm1_9:
-    iso3c: BDI
-    admin_level: Adm1
-    admin_name: Karuzi
-    shapeID: 87207978B19413274687877
-    country_name: Burundi
-  Burundi_Adm2_1:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Ryansoro
-    shapeID: 21766830B51581455705264
-    country_name: Burundi
-  Burundi_Adm2_10:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mukike
-    shapeID: 21766830B24780978451442
-    country_name: Burundi
-  Burundi_Adm2_100:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gisuru
-    shapeID: 21766830B39450952647031
-    country_name: Burundi
-  Burundi_Adm2_101:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Cendajuru
-    shapeID: 21766830B5675183686685
-    country_name: Burundi
-  Burundi_Adm2_102:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gisagara
-    shapeID: 21766830B1729082638594
-    country_name: Burundi
-  Burundi_Adm2_103:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mishiha
-    shapeID: 21766830B80223800900582
-    country_name: Burundi
-  Burundi_Adm2_104:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kigamba
-    shapeID: 21766830B44986812705529
-    country_name: Burundi
-  Burundi_Adm2_105:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Buhinyuza
-    shapeID: 21766830B3809417619483
-    country_name: Burundi
-  Burundi_Adm2_106:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Muyinga
-    shapeID: 21766830B41528201457160
-    country_name: Burundi
-  Burundi_Adm2_107:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Butihinda
-    shapeID: 21766830B20307269846045
-    country_name: Burundi
-  Burundi_Adm2_108:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Giteranyi
-    shapeID: 21766830B83765633898760
-    country_name: Burundi
-  Burundi_Adm2_109:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Busoni
-    shapeID: 21766830B78190696569930
-    country_name: Burundi
-  Burundi_Adm2_11:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mutambu
-    shapeID: 21766830B26172674635426
-    country_name: Burundi
-  Burundi_Adm2_110:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bugabira
-    shapeID: 21766830B53810177315638
-    country_name: Burundi
-  Burundi_Adm2_111:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kayogoro
-    shapeID: 21766830B93103585159294
-    country_name: Burundi
-  Burundi_Adm2_112:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bukemba
-    shapeID: 21766830B33206260721673
-    country_name: Burundi
-  Burundi_Adm2_113:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Matongo
-    shapeID: 21766830B70902227945627
-    country_name: Burundi
-  Burundi_Adm2_114:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Muruta
-    shapeID: 21766830B99657937177591
-    country_name: Burundi
-  Burundi_Adm2_115:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Musigati
-    shapeID: 21766830B9951429704486
-    country_name: Burundi
-  Burundi_Adm2_116:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Muha
-    shapeID: 21766830B84199363749171
-    country_name: Burundi
-  Burundi_Adm2_117:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mukaza
-    shapeID: 21766830B10562197966638
-    country_name: Burundi
-  Burundi_Adm2_118:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Ntahangwa
-    shapeID: 21766830B87038696970617
-    country_name: Burundi
-  Burundi_Adm2_119:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kibago
-    shapeID: 21766830B23200126988104
-    country_name: Burundi
-  Burundi_Adm2_12:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Nyabiraba
-    shapeID: 21766830B65855218165696
-    country_name: Burundi
-  Burundi_Adm2_13:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bururi
-    shapeID: 21766830B40262547233983
-    country_name: Burundi
-  Burundi_Adm2_14:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Vugizo
-    shapeID: 21766830B72373703869549
-    country_name: Burundi
-  Burundi_Adm2_15:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Vyanda
-    shapeID: 21766830B58261819569057
-    country_name: Burundi
-  Burundi_Adm2_16:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Rusaka
-    shapeID: 21766830B4360406366219
-    country_name: Burundi
-  Burundi_Adm2_17:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mugamba
-    shapeID: 21766830B94080264403798
-    country_name: Burundi
-  Burundi_Adm2_18:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Songa
-    shapeID: 21766830B2637956321101
-    country_name: Burundi
-  Burundi_Adm2_19:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mugongoman
-    shapeID: 21766830B4857646374703
-    country_name: Burundi
-  Burundi_Adm2_2:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Ndava
-    shapeID: 21766830B24037016071048
-    country_name: Burundi
-  Burundi_Adm2_20:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gisozi
-    shapeID: 21766830B19333977175167
-    country_name: Burundi
-  Burundi_Adm2_21:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bisoro
-    shapeID: 21766830B89840065497772
-    country_name: Burundi
-  Burundi_Adm2_22:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Matana
-    shapeID: 21766830B18921295675400
-    country_name: Burundi
-  Burundi_Adm2_23:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kayokwe
-    shapeID: 21766830B55907977289604
-    country_name: Burundi
-  Burundi_Adm2_24:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mpanda
-    shapeID: 21766830B27994781295310
-    country_name: Burundi
-  Burundi_Adm2_25:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Murwi
-    shapeID: 21766830B66237815735217
-    country_name: Burundi
-  Burundi_Adm2_26:
-    iso3c: BDI
-    admin_level: Adm2
+  BDI.1.1_1_Adm2:
+    GID: BDI.1.1_1
     admin_name: Bubanza
-    shapeID: 21766830B70249907645493
-    country_name: Burundi
-  Burundi_Adm2_27:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Rango
-    shapeID: 21766830B52252554978419
-    country_name: Burundi
-  Burundi_Adm2_28:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bukeye
-    shapeID: 21766830B89600323039153
-    country_name: Burundi
-  Burundi_Adm2_29:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Muramvya
-    shapeID: 21766830B75311935252649
-    country_name: Burundi
-  Burundi_Adm2_3:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Buyengero
-    shapeID: 21766830B72694279365930
-    country_name: Burundi
-  Burundi_Adm2_30:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Isale
-    shapeID: 21766830B17268150669588
-    country_name: Burundi
-  Burundi_Adm2_31:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Rugazi
-    shapeID: 21766830B29868880431968
-    country_name: Burundi
-  Burundi_Adm2_32:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mubimbi
-    shapeID: 21766830B38784521668340
-    country_name: Burundi
-  Burundi_Adm2_33:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Rutegama
-    shapeID: 21766830B72733606015225
-    country_name: Burundi
-  Burundi_Adm2_34:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kiganda
-    shapeID: 21766830B86275018260755
-    country_name: Burundi
-  Burundi_Adm2_35:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mbuye
-    shapeID: 21766830B36103898428570
-    country_name: Burundi
-  Burundi_Adm2_36:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gahombo
-    shapeID: 21766830B38836808291040
-    country_name: Burundi
-  Burundi_Adm2_37:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gatara
-    shapeID: 21766830B25707783862584
-    country_name: Burundi
-  Burundi_Adm2_38:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Butaganzwa
-    shapeID: 21766830B87758575998638
-    country_name: Burundi
-  Burundi_Adm2_39:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kayanza
-    shapeID: 21766830B84106347559317
-    country_name: Burundi
-  Burundi_Adm2_4:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bugarama
-    shapeID: 21766830B31049489476840
-    country_name: Burundi
-  Burundi_Adm2_40:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bugendana
-    shapeID: 21766830B71062038912102
-    country_name: Burundi
-  Burundi_Adm2_41:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Musongati
-    shapeID: 21766830B89324425383518
-    country_name: Burundi
-  Burundi_Adm2_42:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Rutana
-    shapeID: 21766830B95746888860763
-    country_name: Burundi
-  Burundi_Adm2_43:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gitanga
-    shapeID: 21766830B87895722039818
-    country_name: Burundi
-  Burundi_Adm2_44:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Makamba
-    shapeID: 21766830B66939921424101
-    country_name: Burundi
-  Burundi_Adm2_45:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Rutovu
-    shapeID: 21766830B25905143515438
-    country_name: Burundi
-  Burundi_Adm2_46:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Buraza
-    shapeID: 21766830B3303123993236
-    country_name: Burundi
-  Burundi_Adm2_47:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Nyanrusang
-    shapeID: 21766830B73562224956549
-    country_name: Burundi
-  Burundi_Adm2_48:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gishubi
-    shapeID: 21766830B32665034860455
-    country_name: Burundi
-  Burundi_Adm2_49:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Nyabihanga
-    shapeID: 21766830B17486429962760
-    country_name: Burundi
-  Burundi_Adm2_5:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Rumonge
-    shapeID: 21766830B32777890626704
-    country_name: Burundi
-  Burundi_Adm2_50:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Giheta
-    shapeID: 21766830B76485672774701
-    country_name: Burundi
-  Burundi_Adm2_51:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Itaba
-    shapeID: 21766830B81399712036677
-    country_name: Burundi
-  Burundi_Adm2_52:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bukirasazi
-    shapeID: 21766830B80629459024639
-    country_name: Burundi
-  Burundi_Adm2_53:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gitega
-    shapeID: 21766830B69591063381574
-    country_name: Burundi
-  Burundi_Adm2_54:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Makebuko
-    shapeID: 21766830B15811078155518
-    country_name: Burundi
-  Burundi_Adm2_55:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Butaganzwa
-    shapeID: 21766830B11414555561270
-    country_name: Burundi
-  Burundi_Adm2_56:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mpinga-Kay
-    shapeID: 21766830B77564167498805
-    country_name: Burundi
-  Burundi_Adm2_57:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Nyabitsind
-    shapeID: 21766830B24825002042526
-    country_name: Burundi
-  Burundi_Adm2_58:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Ruyigi
-    shapeID: 21766830B17506602240665
-    country_name: Burundi
-  Burundi_Adm2_59:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Shombo
-    shapeID: 21766830B50673772074896
-    country_name: Burundi
-  Burundi_Adm2_6:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Burambi
-    shapeID: 21766830B13270332643198
-    country_name: Burundi
-  Burundi_Adm2_60:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Butezi
-    shapeID: 21766830B26044748371423
-    country_name: Burundi
-  Burundi_Adm2_61:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Nyabikere
-    shapeID: 21766830B35176009375128
-    country_name: Burundi
-  Burundi_Adm2_62:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bweru
-    shapeID: 21766830B39870041079987
-    country_name: Burundi
-  Burundi_Adm2_63:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gitaramuka
-    shapeID: 21766830B2211499884350
-    country_name: Burundi
-  Burundi_Adm2_64:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gashikanwa
-    shapeID: 21766830B95738875058381
-    country_name: Burundi
-  Burundi_Adm2_65:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mutaho
-    shapeID: 21766830B29011409096617
-    country_name: Burundi
-  Burundi_Adm2_66:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Muhanga
-    shapeID: 21766830B24961695434412
-    country_name: Burundi
-  Burundi_Adm2_67:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Ngozi
-    shapeID: 21766830B35301506436742
-    country_name: Burundi
-  Burundi_Adm2_68:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bugenyuzi
-    shapeID: 21766830B66626516446695
-    country_name: Burundi
-  Burundi_Adm2_69:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gihogazi
-    shapeID: 21766830B47881609362439
-    country_name: Burundi
-  Burundi_Adm2_7:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kanyosha1
-    shapeID: 21766830B91002704780807
-    country_name: Burundi
-  Burundi_Adm2_70:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Ruhororo
-    shapeID: 21766830B83078145904206
-    country_name: Burundi
-  Burundi_Adm2_71:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Tangara
-    shapeID: 21766830B4667325104587
-    country_name: Burundi
-  Burundi_Adm2_72:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Vumbi
-    shapeID: 21766830B60116589238707
-    country_name: Burundi
-  Burundi_Adm2_73:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kiremba
-    shapeID: 21766830B44237759334809
-    country_name: Burundi
-  Burundi_Adm2_74:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kirundo
-    shapeID: 21766830B26549611972725
-    country_name: Burundi
-  Burundi_Adm2_75:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Cankuzo
-    shapeID: 21766830B23756713917278
-    country_name: Burundi
-  Burundi_Adm2_76:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mutumba
-    shapeID: 21766830B82901968055666
-    country_name: Burundi
-  Burundi_Adm2_77:
     iso3c: BDI
-    admin_level: Adm2
-    admin_name: Buhiga
-    shapeID: 21766830B23511682723630
-    country_name: Burundi
-  Burundi_Adm2_78:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mwakiro
-    shapeID: 21766830B10181595189520
-    country_name: Burundi
-  Burundi_Adm2_79:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gasorwe
-    shapeID: 21766830B82611116745094
-    country_name: Burundi
-  Burundi_Adm2_8:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kabezi
-    shapeID: 21766830B36835382033084
-    country_name: Burundi
-  Burundi_Adm2_80:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gashoho
-    shapeID: 21766830B49899566949034
-    country_name: Burundi
-  Burundi_Adm2_81:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Gitobe
-    shapeID: 21766830B58356129382648
-    country_name: Burundi
-  Burundi_Adm2_82:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bwambarang
-    shapeID: 21766830B10882929904233
-    country_name: Burundi
-  Burundi_Adm2_83:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Ntega
-    shapeID: 21766830B46224156448041
-    country_name: Burundi
-  Burundi_Adm2_84:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Marangara
-    shapeID: 21766830B34593389282909
-    country_name: Burundi
-  Burundi_Adm2_85:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Nyamurenza
-    shapeID: 21766830B14713025325915
     country_name: Burundi
-  Burundi_Adm2_86:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mwumba
-    shapeID: 21766830B13058774962077
-    country_name: Burundi
-  Burundi_Adm2_87:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Busiga
-    shapeID: 21766830B1882461017579
-    country_name: Burundi
-  Burundi_Adm2_88:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kabarore
-    shapeID: 21766830B63780958565723
-    country_name: Burundi
-  Burundi_Adm2_89:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Bukinanyan
-    shapeID: 21766830B75549003528399
-    country_name: Burundi
-  Burundi_Adm2_9:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Muhuta
-    shapeID: 21766830B14140898215143
-    country_name: Burundi
-  Burundi_Adm2_90:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mabayi
-    shapeID: 21766830B12025098844752
-    country_name: Burundi
-  Burundi_Adm2_91:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mugina
-    shapeID: 21766830B421358417112
-    country_name: Burundi
-  Burundi_Adm2_92:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Rugombo
-    shapeID: 21766830B51540876931984
-    country_name: Burundi
-  Burundi_Adm2_93:
-    iso3c: BDI
-    admin_level: Adm2
-    admin_name: Buganda
-    shapeID: 21766830B2147150443328
-    country_name: Burundi
-  Burundi_Adm2_94:
-    iso3c: BDI
     admin_level: Adm2
+  BDI.1.2_1_Adm2:
+    GID: BDI.1.2_1
     admin_name: Gihanga
-    shapeID: 21766830B78591112120307
-    country_name: Burundi
-  Burundi_Adm2_95:
     iso3c: BDI
-    admin_level: Adm2
-    admin_name: Mutimbuzi
-    shapeID: 21766830B6345718789328
     country_name: Burundi
-  Burundi_Adm2_96:
-    iso3c: BDI
     admin_level: Adm2
-    admin_name: Nyanza-Lac
-    shapeID: 21766830B74257208244788
+  BDI.1.3_1_Adm2:
+    GID: BDI.1.3_1
+    admin_name: Mpanda
+    iso3c: BDI
     country_name: Burundi
-  Burundi_Adm2_97:
-    iso3c: BDI
     admin_level: Adm2
+  BDI.1.4_1_Adm2:
+    GID: BDI.1.4_1
+    admin_name: Musigati
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.1.5_1_Adm2:
+    GID: BDI.1.5_1
+    admin_name: Rugazi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.10_1_Adm1:
+    GID: BDI.10_1
+    admin_name: Kirundo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.10.1_1_Adm2:
+    GID: BDI.10.1_1
+    admin_name: Bugabira
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.10.2_1_Adm2:
+    GID: BDI.10.2_1
+    admin_name: Busoni
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.10.3_1_Adm2:
+    GID: BDI.10.3_1
+    admin_name: Bwambarangwe
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.10.4_1_Adm2:
+    GID: BDI.10.4_1
+    admin_name: Gitobe
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.10.5_1_Adm2:
+    GID: BDI.10.5_1
+    admin_name: Kirundo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.10.6_1_Adm2:
+    GID: BDI.10.6_1
+    admin_name: Ntega
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.10.7_1_Adm2:
+    GID: BDI.10.7_1
+    admin_name: Vumbi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.11_1_Adm1:
+    GID: BDI.11_1
+    admin_name: Makamba
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.11.1_1_Adm2:
+    GID: BDI.11.1_1
+    admin_name: Kayogoro
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.11.2_1_Adm2:
+    GID: BDI.11.2_1
+    admin_name: Kibago
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.11.3_1_Adm2:
+    GID: BDI.11.3_1
+    admin_name: Lake Tanganyika
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.11.4_1_Adm2:
+    GID: BDI.11.4_1
     admin_name: Mabanda
-    shapeID: 21766830B71257741300393
-    country_name: Burundi
-  Burundi_Adm2_98:
     iso3c: BDI
+    country_name: Burundi
     admin_level: Adm2
+  BDI.11.5_1_Adm2:
+    GID: BDI.11.5_1
+    admin_name: Makamba
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.11.6_1_Adm2:
+    GID: BDI.11.6_1
+    admin_name: Nyanza-Lac
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.11.7_1_Adm2:
+    GID: BDI.11.7_1
+    admin_name: Vugizo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.12_1_Adm1:
+    GID: BDI.12_1
+    admin_name: Muramvya
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.12.1_1_Adm2:
+    GID: BDI.12.1_1
+    admin_name: Bukeye
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.12.2_1_Adm2:
+    GID: BDI.12.2_1
+    admin_name: Kiganda
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.12.3_1_Adm2:
+    GID: BDI.12.3_1
+    admin_name: Mbuye
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.12.4_1_Adm2:
+    GID: BDI.12.4_1
+    admin_name: Muramvya
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.12.5_1_Adm2:
+    GID: BDI.12.5_1
+    admin_name: Rutegama
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.13_1_Adm1:
+    GID: BDI.13_1
+    admin_name: Muyinga
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.13.1_1_Adm2:
+    GID: BDI.13.1_1
+    admin_name: Buhinyuza
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.13.2_1_Adm2:
+    GID: BDI.13.2_1
+    admin_name: Butihinda
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.13.3_1_Adm2:
+    GID: BDI.13.3_1
+    admin_name: Gashoho
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.13.4_1_Adm2:
+    GID: BDI.13.4_1
+    admin_name: Gasorwe
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.13.5_1_Adm2:
+    GID: BDI.13.5_1
+    admin_name: Giteranyi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.13.6_1_Adm2:
+    GID: BDI.13.6_1
+    admin_name: Muyinga
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.13.7_1_Adm2:
+    GID: BDI.13.7_1
+    admin_name: Mwakiro
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.14_1_Adm1:
+    GID: BDI.14_1
+    admin_name: Mwaro
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.14.1_1_Adm2:
+    GID: BDI.14.1_1
+    admin_name: Bisoro
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.14.2_1_Adm2:
+    GID: BDI.14.2_1
+    admin_name: Gisozi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.14.3_1_Adm2:
+    GID: BDI.14.3_1
+    admin_name: Kayokwe
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.14.4_1_Adm2:
+    GID: BDI.14.4_1
+    admin_name: Ndava
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.14.5_1_Adm2:
+    GID: BDI.14.5_1
+    admin_name: Nyabihanga
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.14.6_1_Adm2:
+    GID: BDI.14.6_1
+    admin_name: Rusaka
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.15_1_Adm1:
+    GID: BDI.15_1
+    admin_name: Ngozi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.15.1_1_Adm2:
+    GID: BDI.15.1_1
+    admin_name: Busiga
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.15.2_1_Adm2:
+    GID: BDI.15.2_1
+    admin_name: Gashikanwa
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.15.3_1_Adm2:
+    GID: BDI.15.3_1
+    admin_name: Kiremba
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.15.4_1_Adm2:
+    GID: BDI.15.4_1
+    admin_name: Marangara
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.15.5_1_Adm2:
+    GID: BDI.15.5_1
+    admin_name: Mwumba
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.15.6_1_Adm2:
+    GID: BDI.15.6_1
+    admin_name: Ngozi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.15.7_1_Adm2:
+    GID: BDI.15.7_1
+    admin_name: Nyamurenza
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.15.8_1_Adm2:
+    GID: BDI.15.8_1
+    admin_name: Ruhororo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.15.9_1_Adm2:
+    GID: BDI.15.9_1
+    admin_name: Tangara
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.16_1_Adm1:
+    GID: BDI.16_1
+    admin_name: Rutana
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.16.1_1_Adm2:
+    GID: BDI.16.1_1
+    admin_name: Bukemba
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.16.2_1_Adm2:
+    GID: BDI.16.2_1
     admin_name: Giharo
-    shapeID: 21766830B38172137244003
-    country_name: Burundi
-  Burundi_Adm2_99:
     iso3c: BDI
-    admin_level: Adm2
-    admin_name: Kinyinya
-    shapeID: 21766830B54937037916307
     country_name: Burundi
+    admin_level: Adm2
+  BDI.16.3_1_Adm2:
+    GID: BDI.16.3_1
+    admin_name: Gitanga
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.16.4_1_Adm2:
+    GID: BDI.16.4_1
+    admin_name: Mpinga-Kayove
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.16.5_1_Adm2:
+    GID: BDI.16.5_1
+    admin_name: Musongati
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.16.6_1_Adm2:
+    GID: BDI.16.6_1
+    admin_name: Rutana
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.17_1_Adm1:
+    GID: BDI.17_1
+    admin_name: Ruyigi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.17.1_1_Adm2:
+    GID: BDI.17.1_1
+    admin_name: Butaganzwa2
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.17.2_1_Adm2:
+    GID: BDI.17.2_1
+    admin_name: Butezi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.17.3_1_Adm2:
+    GID: BDI.17.3_1
+    admin_name: Bweru
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.17.4_1_Adm2:
+    GID: BDI.17.4_1
+    admin_name: Gisuru
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.17.5_1_Adm2:
+    GID: BDI.17.5_1
+    admin_name: Kinyinya
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.17.6_1_Adm2:
+    GID: BDI.17.6_1
+    admin_name: Nyabitsinda
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.17.7_1_Adm2:
+    GID: BDI.17.7_1
+    admin_name: Ruyigi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2_1_Adm1:
+    GID: BDI.2_1
+    admin_name: Bujumbura Mairie
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.2.1_1_Adm2:
+    GID: BDI.2.1_1
+    admin_name: Buterere
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.10_1_Adm2:
+    GID: BDI.2.10_1
+    admin_name: Lake Tanganyika
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.11_1_Adm2:
+    GID: BDI.2.11_1
+    admin_name: Musaga
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.12_1_Adm2:
+    GID: BDI.2.12_1
+    admin_name: Ngagara
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.13_1_Adm2:
+    GID: BDI.2.13_1
+    admin_name: Nyakabiga
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.14_1_Adm2:
+    GID: BDI.2.14_1
+    admin_name: Roherero
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.2_1_Adm2:
+    GID: BDI.2.2_1
+    admin_name: Buyenze
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.3_1_Adm2:
+    GID: BDI.2.3_1
+    admin_name: Bwiza
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.4_1_Adm2:
+    GID: BDI.2.4_1
+    admin_name: Cibitoke
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.5_1_Adm2:
+    GID: BDI.2.5_1
+    admin_name: Gihosha
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.6_1_Adm2:
+    GID: BDI.2.6_1
+    admin_name: Kamenge
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.7_1_Adm2:
+    GID: BDI.2.7_1
+    admin_name: Kanyosha2
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.8_1_Adm2:
+    GID: BDI.2.8_1
+    admin_name: Kinama
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.2.9_1_Adm2:
+    GID: BDI.2.9_1
+    admin_name: Kinindo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3_1_Adm1:
+    GID: BDI.3_1
+    admin_name: Bujumbura Rural
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.3.1_1_Adm2:
+    GID: BDI.3.1_1
+    admin_name: Bugarama
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.10_1_Adm2:
+    GID: BDI.3.10_1
+    admin_name: Mutambu
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.11_1_Adm2:
+    GID: BDI.3.11_1
+    admin_name: Mutimbuzi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.12_1_Adm2:
+    GID: BDI.3.12_1
+    admin_name: Nyabiraba
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.2_1_Adm2:
+    GID: BDI.3.2_1
+    admin_name: Isale
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.3_1_Adm2:
+    GID: BDI.3.3_1
+    admin_name: Kabezi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.4_1_Adm2:
+    GID: BDI.3.4_1
+    admin_name: Kanyosha1
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.5_1_Adm2:
+    GID: BDI.3.5_1
+    admin_name: Lake Tanganyika
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.6_1_Adm2:
+    GID: BDI.3.6_1
+    admin_name: Mubimbi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.7_1_Adm2:
+    GID: BDI.3.7_1
+    admin_name: Mugongomanga
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.8_1_Adm2:
+    GID: BDI.3.8_1
+    admin_name: Muhuta
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.3.9_1_Adm2:
+    GID: BDI.3.9_1
+    admin_name: Mukike
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.4_1_Adm1:
+    GID: BDI.4_1
+    admin_name: Bururi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.4.1_1_Adm2:
+    GID: BDI.4.1_1
+    admin_name: Burambi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.4.10_1_Adm2:
+    GID: BDI.4.10_1
+    admin_name: Vyanda
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.4.2_1_Adm2:
+    GID: BDI.4.2_1
+    admin_name: Bururi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.4.3_1_Adm2:
+    GID: BDI.4.3_1
+    admin_name: Buyengero
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.4.4_1_Adm2:
+    GID: BDI.4.4_1
+    admin_name: Lake Tanganyika
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.4.5_1_Adm2:
+    GID: BDI.4.5_1
+    admin_name: Matana
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.4.6_1_Adm2:
+    GID: BDI.4.6_1
+    admin_name: Mugamba
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.4.7_1_Adm2:
+    GID: BDI.4.7_1
+    admin_name: Rumonge
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.4.8_1_Adm2:
+    GID: BDI.4.8_1
+    admin_name: Rutovu
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.4.9_1_Adm2:
+    GID: BDI.4.9_1
+    admin_name: Songa
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.5_1_Adm1:
+    GID: BDI.5_1
+    admin_name: Cankuzo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.5.1_1_Adm2:
+    GID: BDI.5.1_1
+    admin_name: Cankuzo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.5.2_1_Adm2:
+    GID: BDI.5.2_1
+    admin_name: Cendajuru
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.5.3_1_Adm2:
+    GID: BDI.5.3_1
+    admin_name: Gisagara
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.5.4_1_Adm2:
+    GID: BDI.5.4_1
+    admin_name: Kigamba
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.5.5_1_Adm2:
+    GID: BDI.5.5_1
+    admin_name: Mishiha
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.6_1_Adm1:
+    GID: BDI.6_1
+    admin_name: Cibitoke
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.6.1_1_Adm2:
+    GID: BDI.6.1_1
+    admin_name: Buganda
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.6.2_1_Adm2:
+    GID: BDI.6.2_1
+    admin_name: Bukinanyana
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.6.3_1_Adm2:
+    GID: BDI.6.3_1
+    admin_name: Mabayi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.6.4_1_Adm2:
+    GID: BDI.6.4_1
+    admin_name: Mugina
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.6.5_1_Adm2:
+    GID: BDI.6.5_1
+    admin_name: Murwi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.6.6_1_Adm2:
+    GID: BDI.6.6_1
+    admin_name: Rugombo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7_1_Adm1:
+    GID: BDI.7_1
+    admin_name: Gitega
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.7.1_1_Adm2:
+    GID: BDI.7.1_1
+    admin_name: Bugendana
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7.10_1_Adm2:
+    GID: BDI.7.10_1
+    admin_name: Nyanrusange
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7.11_1_Adm2:
+    GID: BDI.7.11_1
+    admin_name: Ryansoro
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7.2_1_Adm2:
+    GID: BDI.7.2_1
+    admin_name: Bukirasazi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7.3_1_Adm2:
+    GID: BDI.7.3_1
+    admin_name: Buraza
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7.4_1_Adm2:
+    GID: BDI.7.4_1
+    admin_name: Giheta
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7.5_1_Adm2:
+    GID: BDI.7.5_1
+    admin_name: Gishubi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7.6_1_Adm2:
+    GID: BDI.7.6_1
+    admin_name: Gitega
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7.7_1_Adm2:
+    GID: BDI.7.7_1
+    admin_name: Itaba
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7.8_1_Adm2:
+    GID: BDI.7.8_1
+    admin_name: Makebuko
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.7.9_1_Adm2:
+    GID: BDI.7.9_1
+    admin_name: Mutaho
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.8_1_Adm1:
+    GID: BDI.8_1
+    admin_name: Karuzi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.8.1_1_Adm2:
+    GID: BDI.8.1_1
+    admin_name: Bugenyuzi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.8.2_1_Adm2:
+    GID: BDI.8.2_1
+    admin_name: Buhiga
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.8.3_1_Adm2:
+    GID: BDI.8.3_1
+    admin_name: Gihogazi
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.8.4_1_Adm2:
+    GID: BDI.8.4_1
+    admin_name: Gitaramuka
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.8.5_1_Adm2:
+    GID: BDI.8.5_1
+    admin_name: Mutumba
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.8.6_1_Adm2:
+    GID: BDI.8.6_1
+    admin_name: Nyabikere
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.8.7_1_Adm2:
+    GID: BDI.8.7_1
+    admin_name: Shombo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.9_1_Adm1:
+    GID: BDI.9_1
+    admin_name: Kayanza
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm1
+  BDI.9.1_1_Adm2:
+    GID: BDI.9.1_1
+    admin_name: Butaganzwa1
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.9.2_1_Adm2:
+    GID: BDI.9.2_1
+    admin_name: Gahombo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.9.3_1_Adm2:
+    GID: BDI.9.3_1
+    admin_name: Gatara
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.9.4_1_Adm2:
+    GID: BDI.9.4_1
+    admin_name: Kabarore
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.9.5_1_Adm2:
+    GID: BDI.9.5_1
+    admin_name: Kayanza
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.9.6_1_Adm2:
+    GID: BDI.9.6_1
+    admin_name: Matongo
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.9.7_1_Adm2:
+    GID: BDI.9.7_1
+    admin_name: Muhanga
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.9.8_1_Adm2:
+    GID: BDI.9.8_1
+    admin_name: Muruta
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2
+  BDI.9.9_1_Adm2:
+    GID: BDI.9.9_1
+    admin_name: Rango
+    iso3c: BDI
+    country_name: Burundi
+    admin_level: Adm2

@@ -1,433 +1,427 @@
 concepts:
-  Spain_Adm0:
-    iso3c: ESP
-    admin_level: Adm0
+  ESP.0_Adm0:
+    GID: ESP
     admin_name: Spain
-    shapeID: 43220588B53825046256317
-    country_name: Spain
-  Spain_Adm1_1:
     iso3c: ESP
-    admin_level: Adm1
-    admin_name: Canarias
-    shapeID: 25490228B84620027724461
     country_name: Spain
-  Spain_Adm1_10:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: Extremadura
-    shapeID: 25490228B86140490400531
-    country_name: Spain
-  Spain_Adm1_11:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: ComunitatValenciana
-    shapeID: 25490228B14384488423733
-    country_name: Spain
-  Spain_Adm1_12:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: Cataluña/Catalunya
-    shapeID: 25490228B80227492032103
-    country_name: Spain
-  Spain_Adm1_13:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: Castilla-LaMancha
-    shapeID: 25490228B94630301010512
-    country_name: Spain
-  Spain_Adm1_14:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: CastillayLeón
-    shapeID: 25490228B8471183517505
-    country_name: Spain
-  Spain_Adm1_15:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: Cantabria
-    shapeID: 25490228B37069901476290
-    country_name: Spain
-  Spain_Adm1_16:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: IllesBalears
-    shapeID: 25490228B26609846683583
-    country_name: Spain
-  Spain_Adm1_17:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: PrincipadodeAsturias
-    shapeID: 25490228B24314700704920
-    country_name: Spain
-  Spain_Adm1_18:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: Aragón
-    shapeID: 25490228B61325010384209
-    country_name: Spain
-  Spain_Adm1_19:
-    iso3c: ESP
-    admin_level: Adm1
+    admin_level: Adm0
+  ESP.1_1_Adm1:
+    GID: ESP.1_1
     admin_name: Andalucía
-    shapeID: 25490228B88831207743232
-    country_name: Spain
-  Spain_Adm1_2:
     iso3c: ESP
+    country_name: Spain
     admin_level: Adm1
-    admin_name: CiudadAutónomadeMelilla
-    shapeID: 25490228B18225280299410
-    country_name: Spain
-  Spain_Adm1_3:
+  ESP.1.1_1_Adm2:
+    GID: ESP.1.1_1
+    admin_name: Almería
     iso3c: ESP
-    admin_level: Adm1
-    admin_name: CiudadAutónomadeCeuta
-    shapeID: 25490228B48808997991554
     country_name: Spain
-  Spain_Adm1_4:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: LaRioja
-    shapeID: 25490228B81978515469630
-    country_name: Spain
-  Spain_Adm1_5:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: PaísVasco/Euskadi
-    shapeID: 25490228B56567998760255
-    country_name: Spain
-  Spain_Adm1_6:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: ComunidadForaldeNavarra
-    shapeID: 25490228B33348776534112
-    country_name: Spain
-  Spain_Adm1_7:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: RegióndeMurcia
-    shapeID: 25490228B27950689864224
-    country_name: Spain
-  Spain_Adm1_8:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: ComunidaddeMadrid
-    shapeID: 25490228B43154843394848
-    country_name: Spain
-  Spain_Adm1_9:
-    iso3c: ESP
-    admin_level: Adm1
-    admin_name: Galicia
-    shapeID: 25490228B94236519555378
-    country_name: Spain
-  Spain_Adm2_1:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Alava
-    shapeID: 93216281B53177073729370
-    country_name: Spain
-  Spain_Adm2_10:
+  ESP.1.2_1_Adm2:
+    GID: ESP.1.2_1
+    admin_name: Cádiz
     iso3c: ESP
-    admin_level: Adm2
-    admin_name: Caceres
-    shapeID: 93216281B7928865067192
     country_name: Spain
-  Spain_Adm2_11:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Cadiz
-    shapeID: 93216281B35096300622019
+  ESP.1.3_1_Adm2:
+    GID: ESP.1.3_1
+    admin_name: Córdoba
+    iso3c: ESP
     country_name: Spain
-  Spain_Adm2_12:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Castellon
-    shapeID: 93216281B3412943625053
-    country_name: Spain
-  Spain_Adm2_13:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: CiudadReal
-    shapeID: 93216281B65036692111554
-    country_name: Spain
-  Spain_Adm2_14:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Cordoba
-    shapeID: 93216281B12389879423062
-    country_name: Spain
-  Spain_Adm2_15:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Coruna
-    shapeID: 93216281B51396366921995
-    country_name: Spain
-  Spain_Adm2_16:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Cuenca
-    shapeID: 93216281B51090048381722
-    country_name: Spain
-  Spain_Adm2_17:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Girona
-    shapeID: 93216281B12743856325627
-    country_name: Spain
-  Spain_Adm2_18:
-    iso3c: ESP
-    admin_level: Adm2
+  ESP.1.4_1_Adm2:
+    GID: ESP.1.4_1
     admin_name: Granada
-    shapeID: 93216281B95730866813440
-    country_name: Spain
-  Spain_Adm2_19:
     iso3c: ESP
-    admin_level: Adm2
-    admin_name: Guadalajara
-    shapeID: 93216281B1735947308012
     country_name: Spain
-  Spain_Adm2_2:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Albacete
-    shapeID: 93216281B92677822901232
-    country_name: Spain
-  Spain_Adm2_20:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Gipuzkoa
-    shapeID: 93216281B76527566643208
-    country_name: Spain
-  Spain_Adm2_21:
-    iso3c: ESP
-    admin_level: Adm2
+  ESP.1.5_1_Adm2:
+    GID: ESP.1.5_1
     admin_name: Huelva
-    shapeID: 93216281B63381236244230
-    country_name: Spain
-  Spain_Adm2_22:
     iso3c: ESP
-    admin_level: Adm2
-    admin_name: Huesca
-    shapeID: 93216281B88766590901676
     country_name: Spain
-  Spain_Adm2_23:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Jaen
-    shapeID: 93216281B69719065969001
+  ESP.1.6_1_Adm2:
+    GID: ESP.1.6_1
+    admin_name: Jaén
+    iso3c: ESP
     country_name: Spain
-  Spain_Adm2_24:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Leon
-    shapeID: 93216281B52060503612479
+  ESP.1.7_1_Adm2:
+    GID: ESP.1.7_1
+    admin_name: Málaga
+    iso3c: ESP
     country_name: Spain
-  Spain_Adm2_25:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Lleida
-    shapeID: 93216281B77878961012946
-    country_name: Spain
-  Spain_Adm2_26:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Rioja,La
-    shapeID: 93216281B63633419505726
-    country_name: Spain
-  Spain_Adm2_27:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Lugo
-    shapeID: 93216281B81853390501709
-    country_name: Spain
-  Spain_Adm2_28:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Madrid
-    shapeID: 93216281B77569616952792
-    country_name: Spain
-  Spain_Adm2_29:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Malaga
-    shapeID: 93216281B36696750331962
-    country_name: Spain
-  Spain_Adm2_3:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Alicante
-    shapeID: 93216281B51510323833102
-    country_name: Spain
-  Spain_Adm2_30:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Murcia
-    shapeID: 93216281B8477859939200
-    country_name: Spain
-  Spain_Adm2_31:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Navarra
-    shapeID: 93216281B65631550750635
-    country_name: Spain
-  Spain_Adm2_32:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Ourense
-    shapeID: 93216281B32314821802104
-    country_name: Spain
-  Spain_Adm2_33:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Asturias
-    shapeID: 93216281B3621351927787
-    country_name: Spain
-  Spain_Adm2_34:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Palencia
-    shapeID: 93216281B23466456183864
-    country_name: Spain
-  Spain_Adm2_35:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Palmas,Las
-    shapeID: 93216281B54089872197538
-    country_name: Spain
-  Spain_Adm2_36:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Pontevedra
-    shapeID: 93216281B43695015348250
-    country_name: Spain
-  Spain_Adm2_37:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Salamanca
-    shapeID: 93216281B37232824113658
-    country_name: Spain
-  Spain_Adm2_38:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: SantaCruzdeTenerife
-    shapeID: 93216281B89945777125881
-    country_name: Spain
-  Spain_Adm2_39:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Cantabria
-    shapeID: 93216281B67737622455841
-    country_name: Spain
-  Spain_Adm2_4:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Almeria
-    shapeID: 93216281B39621848146831
-    country_name: Spain
-  Spain_Adm2_40:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Segovia
-    shapeID: 93216281B42344641928582
-    country_name: Spain
-  Spain_Adm2_41:
-    iso3c: ESP
-    admin_level: Adm2
+  ESP.1.8_1_Adm2:
+    GID: ESP.1.8_1
     admin_name: Sevilla
-    shapeID: 93216281B72129419312860
-    country_name: Spain
-  Spain_Adm2_42:
     iso3c: ESP
-    admin_level: Adm2
-    admin_name: Soria
-    shapeID: 93216281B61104224606423
     country_name: Spain
-  Spain_Adm2_43:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Tarragona
-    shapeID: 93216281B93269883088590
+  ESP.10_1_Adm1:
+    GID: ESP.10_1
+    admin_name: Comunidad Valenciana
+    iso3c: ESP
     country_name: Spain
-  Spain_Adm2_44:
+    admin_level: Adm1
+  ESP.10.1_1_Adm2:
+    GID: ESP.10.1_1
+    admin_name: Alicante
     iso3c: ESP
-    admin_level: Adm2
-    admin_name: Teruel
-    shapeID: 93216281B52305087283901
     country_name: Spain
-  Spain_Adm2_45:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Toledo
-    shapeID: 93216281B48824658388314
+  ESP.10.2_1_Adm2:
+    GID: ESP.10.2_1
+    admin_name: Castellón
+    iso3c: ESP
     country_name: Spain
-  Spain_Adm2_46:
-    iso3c: ESP
     admin_level: Adm2
+  ESP.10.3_1_Adm2:
+    GID: ESP.10.3_1
     admin_name: Valencia
-    shapeID: 93216281B60002663510944
-    country_name: Spain
-  Spain_Adm2_47:
     iso3c: ESP
-    admin_level: Adm2
-    admin_name: Valladolid
-    shapeID: 93216281B16607484586717
     country_name: Spain
-  Spain_Adm2_48:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Bizkaia
-    shapeID: 93216281B43945081388394
+  ESP.11_1_Adm1:
+    GID: ESP.11_1
+    admin_name: Extremadura
+    iso3c: ESP
     country_name: Spain
-  Spain_Adm2_49:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Zamora
-    shapeID: 93216281B64882863235857
-    country_name: Spain
-  Spain_Adm2_5:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Avila
-    shapeID: 93216281B93286542911772
-    country_name: Spain
-  Spain_Adm2_50:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Zaragoza
-    shapeID: 93216281B58713858274405
-    country_name: Spain
-  Spain_Adm2_51:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Ceuta
-    shapeID: 93216281B56288010526092
-    country_name: Spain
-  Spain_Adm2_52:
-    iso3c: ESP
-    admin_level: Adm2
-    admin_name: Melilla
-    shapeID: 93216281B716335689712
-    country_name: Spain
-  Spain_Adm2_6:
-    iso3c: ESP
-    admin_level: Adm2
+    admin_level: Adm1
+  ESP.11.1_1_Adm2:
+    GID: ESP.11.1_1
     admin_name: Badajoz
-    shapeID: 93216281B51523306154914
-    country_name: Spain
-  Spain_Adm2_7:
     iso3c: ESP
-    admin_level: Adm2
-    admin_name: Balears,Illes
-    shapeID: 93216281B25565777220884
     country_name: Spain
-  Spain_Adm2_8:
-    iso3c: ESP
     admin_level: Adm2
-    admin_name: Barcelona
-    shapeID: 93216281B38817874256440
+  ESP.11.2_1_Adm2:
+    GID: ESP.11.2_1
+    admin_name: Cáceres
+    iso3c: ESP
     country_name: Spain
-  Spain_Adm2_9:
-    iso3c: ESP
     admin_level: Adm2
+  ESP.12_1_Adm1:
+    GID: ESP.12_1
+    admin_name: Galicia
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.12.1_1_Adm2:
+    GID: ESP.12.1_1
+    admin_name: A Coruña
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.12.2_1_Adm2:
+    GID: ESP.12.2_1
+    admin_name: Lugo
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.12.3_1_Adm2:
+    GID: ESP.12.3_1
+    admin_name: Ourense
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.12.4_1_Adm2:
+    GID: ESP.12.4_1
+    admin_name: Pontevedra
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.13_1_Adm1:
+    GID: ESP.13_1
+    admin_name: Islas Baleares
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.13.1_1_Adm2:
+    GID: ESP.13.1_1
+    admin_name: Baleares
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.14_1_Adm1:
+    GID: ESP.14_1
+    admin_name: Islas Canarias
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.14.1_1_Adm2:
+    GID: ESP.14.1_1
+    admin_name: Las Palmas
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.14.2_1_Adm2:
+    GID: ESP.14.2_1
+    admin_name: Santa Cruz de Tenerife
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.15_1_Adm1:
+    GID: ESP.15_1
+    admin_name: La Rioja
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.15.1_1_Adm2:
+    GID: ESP.15.1_1
+    admin_name: La Rioja
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.16_1_Adm1:
+    GID: ESP.16_1
+    admin_name: País Vasco
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.16.1_1_Adm2:
+    GID: ESP.16.1_1
+    admin_name: Álava
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.16.2_1_Adm2:
+    GID: ESP.16.2_1
+    admin_name: Guipúzcoa
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.16.3_1_Adm2:
+    GID: ESP.16.3_1
+    admin_name: Vizcaya
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.17_1_Adm1:
+    GID: ESP.17_1
+    admin_name: Principado de Asturias
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.17.1_1_Adm2:
+    GID: ESP.17.1_1
+    admin_name: Asturias
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.18_1_Adm1:
+    GID: ESP.18_1
+    admin_name: Región de Murcia
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.18.1_1_Adm2:
+    GID: ESP.18.1_1
+    admin_name: Murcia
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.2_1_Adm1:
+    GID: ESP.2_1
+    admin_name: Aragón
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.2.1_1_Adm2:
+    GID: ESP.2.1_1
+    admin_name: Huesca
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.2.2_1_Adm2:
+    GID: ESP.2.2_1
+    admin_name: Teruel
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.2.3_1_Adm2:
+    GID: ESP.2.3_1
+    admin_name: Zaragoza
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.3_1_Adm1:
+    GID: ESP.3_1
+    admin_name: Cantabria
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.3.1_1_Adm2:
+    GID: ESP.3.1_1
+    admin_name: Cantabria
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.4_1_Adm1:
+    GID: ESP.4_1
+    admin_name: Castilla-La Mancha
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.4.1_1_Adm2:
+    GID: ESP.4.1_1
+    admin_name: Albacete
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.4.2_1_Adm2:
+    GID: ESP.4.2_1
+    admin_name: Ciudad Real
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.4.3_1_Adm2:
+    GID: ESP.4.3_1
+    admin_name: Cuenca
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.4.4_1_Adm2:
+    GID: ESP.4.4_1
+    admin_name: Guadalajara
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.4.5_1_Adm2:
+    GID: ESP.4.5_1
+    admin_name: Toledo
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.5_1_Adm1:
+    GID: ESP.5_1
+    admin_name: Castilla y León
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.5.1_1_Adm2:
+    GID: ESP.5.1_1
+    admin_name: Ávila
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.5.2_1_Adm2:
+    GID: ESP.5.2_1
     admin_name: Burgos
-    shapeID: 93216281B87022961233437
+    iso3c: ESP
     country_name: Spain
+    admin_level: Adm2
+  ESP.5.3_1_Adm2:
+    GID: ESP.5.3_1
+    admin_name: León
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.5.4_1_Adm2:
+    GID: ESP.5.4_1
+    admin_name: Palencia
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.5.5_1_Adm2:
+    GID: ESP.5.5_1
+    admin_name: Salamanca
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.5.6_1_Adm2:
+    GID: ESP.5.6_1
+    admin_name: Segovia
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.5.7_1_Adm2:
+    GID: ESP.5.7_1
+    admin_name: Soria
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.5.8_1_Adm2:
+    GID: ESP.5.8_1
+    admin_name: Valladolid
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.5.9_1_Adm2:
+    GID: ESP.5.9_1
+    admin_name: Zamora
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.6_1_Adm1:
+    GID: ESP.6_1
+    admin_name: Cataluña
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.6.1_1_Adm2:
+    GID: ESP.6.1_1
+    admin_name: Barcelona
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.6.2_1_Adm2:
+    GID: ESP.6.2_1
+    admin_name: Girona
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.6.3_1_Adm2:
+    GID: ESP.6.3_1
+    admin_name: Lleida
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.6.4_1_Adm2:
+    GID: ESP.6.4_1
+    admin_name: Tarragona
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.7_1_Adm1:
+    GID: ESP.7_1
+    admin_name: Ceuta y Melilla
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.7.1_1_Adm2:
+    GID: ESP.7.1_1
+    admin_name: Ceuta
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.7.2_1_Adm2:
+    GID: ESP.7.2_1
+    admin_name: Melilla
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.8_1_Adm1:
+    GID: ESP.8_1
+    admin_name: Comunidad de Madrid
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.8.1_1_Adm2:
+    GID: ESP.8.1_1
+    admin_name: Madrid
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2
+  ESP.9_1_Adm1:
+    GID: ESP.9_1
+    admin_name: Comunidad Foral de Navarra
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm1
+  ESP.9.1_1_Adm2:
+    GID: ESP.9.1_1
+    admin_name: Navarra
+    iso3c: ESP
+    country_name: Spain
+    admin_level: Adm2

@@ -1,307 +1,73 @@
 concepts:
-  Armenia_Adm0:
+  ARM.0_Adm0:
+    GID: ARM
+    admin_name: Armenia
     iso3c: ARM
+    country_name: Armenia
     admin_level: Adm0
-    admin_name: TheRepublicofArmenia
-    shapeID: 83012948B33275177430490
-    country_name: Armenia
-  Armenia_Adm1_1:
-    iso3c: ARM
-    admin_level: Adm1
-    admin_name: Gegharkunik
-    shapeID: 6114869B91778422332839
-    country_name: Armenia
-  Armenia_Adm1_10:
-    iso3c: ARM
-    admin_level: Adm1
-    admin_name: Yerevan
-    shapeID: 6114869B51735422330893
-    country_name: Armenia
-  Armenia_Adm1_11:
-    iso3c: ARM
-    admin_level: Adm1
-    admin_name: Ararat
-    shapeID: 6114869B31075086997569
-    country_name: Armenia
-  Armenia_Adm1_2:
-    iso3c: ARM
-    admin_level: Adm1
-    admin_name: Syunik
-    shapeID: 6114869B3680049481024
-    country_name: Armenia
-  Armenia_Adm1_3:
-    iso3c: ARM
-    admin_level: Adm1
-    admin_name: Tavush
-    shapeID: 6114869B33842112003829
-    country_name: Armenia
-  Armenia_Adm1_4:
-    iso3c: ARM
-    admin_level: Adm1
-    admin_name: Shirak
-    shapeID: 6114869B14983463018500
-    country_name: Armenia
-  Armenia_Adm1_5:
-    iso3c: ARM
-    admin_level: Adm1
-    admin_name: Lori
-    shapeID: 6114869B99267739496878
-    country_name: Armenia
-  Armenia_Adm1_6:
-    iso3c: ARM
-    admin_level: Adm1
-    admin_name: Kotayk
-    shapeID: 6114869B17514330158920
-    country_name: Armenia
-  Armenia_Adm1_7:
-    iso3c: ARM
-    admin_level: Adm1
-    admin_name: VayotsDzor
-    shapeID: 6114869B77774582045190
-    country_name: Armenia
-  Armenia_Adm1_8:
-    iso3c: ARM
-    admin_level: Adm1
-    admin_name: Armavir
-    shapeID: 6114869B3426889126469
-    country_name: Armenia
-  Armenia_Adm1_9:
-    iso3c: ARM
-    admin_level: Adm1
+  ARM.1_1_Adm1:
+    GID: ARM.1_1
     admin_name: Aragatsotn
-    shapeID: 6114869B21685892816693
-    country_name: Armenia
-  Armenia_Adm2_1:
     iso3c: ARM
-    admin_level: Adm2
-    admin_name: Spitak
-    shapeID: 60910142B11544314699708
     country_name: Armenia
-  Armenia_Adm2_10:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Hrazdan
-    shapeID: 60910142B83182140550987
-    country_name: Armenia
-  Armenia_Adm2_11:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Nairi
-    shapeID: 60910142B7641071119746
-    country_name: Armenia
-  Armenia_Adm2_12:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Kotayk
-    shapeID: 60910142B65902605375404
-    country_name: Armenia
-  Armenia_Adm2_13:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Sevan
-    shapeID: 60910142B15035126722219
-    country_name: Armenia
-  Armenia_Adm2_14:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Vardenis
-    shapeID: 60910142B47699978592235
-    country_name: Armenia
-  Armenia_Adm2_15:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Gavar
-    shapeID: 60910142B84133064151767
-    country_name: Armenia
-  Armenia_Adm2_16:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Martuni
-    shapeID: 60910142B51830261443364
-    country_name: Armenia
-  Armenia_Adm2_17:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Meghri
-    shapeID: 60910142B11471935685487
-    country_name: Armenia
-  Armenia_Adm2_18:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Kapan
-    shapeID: 60910142B29805693167255
-    country_name: Armenia
-  Armenia_Adm2_19:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Goris
-    shapeID: 60910142B47365915654778
-    country_name: Armenia
-  Armenia_Adm2_2:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Gugark
-    shapeID: 60910142B52468279407156
-    country_name: Armenia
-  Armenia_Adm2_20:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Sisian
-    shapeID: 60910142B80201990300088
-    country_name: Armenia
-  Armenia_Adm2_21:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Vayk
-    shapeID: 60910142B94475548001671
-    country_name: Armenia
-  Armenia_Adm2_22:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Yeghegnadzor
-    shapeID: 60910142B44226366137907
-    country_name: Armenia
-  Armenia_Adm2_23:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Ararat
-    shapeID: 60910142B40679447151714
-    country_name: Armenia
-  Armenia_Adm2_24:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Ashtarak
-    shapeID: 60910142B60496138313868
-    country_name: Armenia
-  Armenia_Adm2_25:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Talin
-    shapeID: 60910142B71936783282931
-    country_name: Armenia
-  Armenia_Adm2_26:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Ani
-    shapeID: 60910142B59809350478166
-    country_name: Armenia
-  Armenia_Adm2_27:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Artik
-    shapeID: 60910142B49287471238977
-    country_name: Armenia
-  Armenia_Adm2_28:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Vagharshapat
-    shapeID: 60910142B22907916528063
-    country_name: Armenia
-  Armenia_Adm2_29:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Baghramyan
-    shapeID: 60910142B71267049635208
-    country_name: Armenia
-  Armenia_Adm2_3:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Tashir
-    shapeID: 60910142B89278047993376
-    country_name: Armenia
-  Armenia_Adm2_30:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Masis
-    shapeID: 60910142B27028379066482
-    country_name: Armenia
-  Armenia_Adm2_31:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Dilidjan
-    shapeID: 60910142B8230197687251
-    country_name: Armenia
-  Armenia_Adm2_32:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Aragats
-    shapeID: 60910142B49896327156791
-    country_name: Armenia
-  Armenia_Adm2_33:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Artashat
-    shapeID: 60910142B55787107844216
-    country_name: Armenia
-  Armenia_Adm2_34:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Armavir
-    shapeID: 60910142B93001765228002
-    country_name: Armenia
-  Armenia_Adm2_35:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Aparan
-    shapeID: 60910142B63179365684578
-    country_name: Armenia
-  Armenia_Adm2_36:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Idjevan
-    shapeID: 60910142B72545422404248
-    country_name: Armenia
-  Armenia_Adm2_37:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Yerevan
-    shapeID: 60910142B16508502425174
-    country_name: Armenia
-  Armenia_Adm2_38:
-    iso3c: ARM
-    admin_level: Adm2
-    admin_name: Karmir
-    shapeID: 60910142B15108555986017
-    country_name: Armenia
-  Armenia_Adm2_39:
-    iso3c: ARM
-    admin_level: Adm2
+    admin_level: Adm1
+  ARM.10_1_Adm1:
+    GID: ARM.10_1
     admin_name: Tavush
-    shapeID: 60910142B36326069456860
-    country_name: Armenia
-  Armenia_Adm2_4:
     iso3c: ARM
-    admin_level: Adm2
-    admin_name: Stepanavan
-    shapeID: 60910142B88969695120828
     country_name: Armenia
-  Armenia_Adm2_5:
+    admin_level: Adm1
+  ARM.11_1_Adm1:
+    GID: ARM.11_1
+    admin_name: Vayots Dzor
     iso3c: ARM
-    admin_level: Adm2
-    admin_name: Tumanian
-    shapeID: 60910142B61749773094319
     country_name: Armenia
-  Armenia_Adm2_6:
+    admin_level: Adm1
+  ARM.2_1_Adm1:
+    GID: ARM.2_1
+    admin_name: Ararat
     iso3c: ARM
-    admin_level: Adm2
-    admin_name: Ashotck
-    shapeID: 60910142B45158711902694
     country_name: Armenia
-  Armenia_Adm2_7:
+    admin_level: Adm1
+  ARM.3_1_Adm1:
+    GID: ARM.3_1
+    admin_name: Armavir
     iso3c: ARM
-    admin_level: Adm2
-    admin_name: Amasia
-    shapeID: 60910142B34664375079844
     country_name: Armenia
-  Armenia_Adm2_8:
+    admin_level: Adm1
+  ARM.4_1_Adm1:
+    GID: ARM.4_1
+    admin_name: Erevan
     iso3c: ARM
-    admin_level: Adm2
-    admin_name: Akhuryan
-    shapeID: 60910142B74255853155978
     country_name: Armenia
-  Armenia_Adm2_9:
+    admin_level: Adm1
+  ARM.5_1_Adm1:
+    GID: ARM.5_1
+    admin_name: Gegharkunik
     iso3c: ARM
-    admin_level: Adm2
-    admin_name: Noyemberyan
-    shapeID: 60910142B63366479111492
     country_name: Armenia
+    admin_level: Adm1
+  ARM.6_1_Adm1:
+    GID: ARM.6_1
+    admin_name: Kotayk
+    iso3c: ARM
+    country_name: Armenia
+    admin_level: Adm1
+  ARM.7_1_Adm1:
+    GID: ARM.7_1
+    admin_name: Lori
+    iso3c: ARM
+    country_name: Armenia
+    admin_level: Adm1
+  ARM.8_1_Adm1:
+    GID: ARM.8_1
+    admin_name: Shirak
+    iso3c: ARM
+    country_name: Armenia
+    admin_level: Adm1
+  ARM.9_1_Adm1:
+    GID: ARM.9_1
+    admin_name: Syunik
+    iso3c: ARM
+    country_name: Armenia
+    admin_level: Adm1

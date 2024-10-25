@@ -1,31 +1,31 @@
 concepts:
-  Bahrain_Adm0:
-    iso3c: BHR
-    admin_level: Adm0
+  BHR.0_Adm0:
+    GID: BHR
     admin_name: Bahrain
-    shapeID: 88433195B15643945511679
-    country_name: Bahrain
-  Bahrain_Adm1_1:
     iso3c: BHR
-    admin_level: Adm1
-    admin_name: NorthernGovernorate
-    shapeID: 46075475B93510634474911
     country_name: Bahrain
-  Bahrain_Adm1_2:
+    admin_level: Adm0
+  BHR.1_1_Adm1:
+    GID: BHR.1_1
+    admin_name: Capital
     iso3c: BHR
-    admin_level: Adm1
-    admin_name: SouthernGovernorate
-    shapeID: 46075475B435983987357
     country_name: Bahrain
-  Bahrain_Adm1_3:
+    admin_level: Adm1
+  BHR.3_1_Adm1:
+    GID: BHR.3_1
+    admin_name: Muharraq
     iso3c: BHR
-    admin_level: Adm1
-    admin_name: CapitalGovernorate
-    shapeID: 46075475B55467070984053
     country_name: Bahrain
-  Bahrain_Adm1_4:
+    admin_level: Adm1
+  BHR.4_1_Adm1:
+    GID: BHR.4_1
+    admin_name: Northern
     iso3c: BHR
-    admin_level: Adm1
-    admin_name: MuharraqGovernorate
-    shapeID: 46075475B51781384290981
     country_name: Bahrain
+    admin_level: Adm1
+  BHR.5_1_Adm1:
+    GID: BHR.5_1
+    admin_name: Southern
+    iso3c: BHR
+    country_name: Bahrain
+    admin_level: Adm1

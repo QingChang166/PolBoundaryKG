@@ -1,0 +1,679 @@
+concepts:
+  CZE.0_Adm0:
+    GID: CZE
+    admin_name: Czechia
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm0
+  CZE.1_1_Adm1:
+    GID: CZE.1_1
+    admin_name: Jihočeský
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.1.1_1_Adm2:
+    GID: CZE.1.1_1
+    admin_name: České Budějovice
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.1.2_1_Adm2:
+    GID: CZE.1.2_1
+    admin_name: Český Krumlov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.1.3_1_Adm2:
+    GID: CZE.1.3_1
+    admin_name: Jindřichův Hradec
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.1.4_1_Adm2:
+    GID: CZE.1.4_1
+    admin_name: Písek
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.1.5_1_Adm2:
+    GID: CZE.1.5_1
+    admin_name: Prachatice
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.1.6_1_Adm2:
+    GID: CZE.1.6_1
+    admin_name: Strakonice
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.1.7_1_Adm2:
+    GID: CZE.1.7_1
+    admin_name: Tábor
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.10_1_Adm1:
+    GID: CZE.10_1
+    admin_name: Plzeňský
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.10.1_1_Adm2:
+    GID: CZE.10.1_1
+    admin_name: Domažlice
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.10.2_1_Adm2:
+    GID: CZE.10.2_1
+    admin_name: Klatovy
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.10.3_1_Adm2:
+    GID: CZE.10.3_1
+    admin_name: Plzeň
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.10.4_1_Adm2:
+    GID: CZE.10.4_1
+    admin_name: Plzeň - jih
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.10.5_1_Adm2:
+    GID: CZE.10.5_1
+    admin_name: Plzeň - sever
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.10.6_1_Adm2:
+    GID: CZE.10.6_1
+    admin_name: Rokycany
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.10.7_1_Adm2:
+    GID: CZE.10.7_1
+    admin_name: Tachov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11_1_Adm1:
+    GID: CZE.11_1
+    admin_name: Prague
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.11.1_1_Adm2:
+    GID: CZE.11.1_1
+    admin_name: Praha 1
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.10_1_Adm2:
+    GID: CZE.11.10_1
+    admin_name: Praha 18
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.11_1_Adm2:
+    GID: CZE.11.11_1
+    admin_name: Praha 19
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.12_1_Adm2:
+    GID: CZE.11.12_1
+    admin_name: Praha 2
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.13_1_Adm2:
+    GID: CZE.11.13_1
+    admin_name: Praha 20
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.14_1_Adm2:
+    GID: CZE.11.14_1
+    admin_name: Praha 21
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.15_1_Adm2:
+    GID: CZE.11.15_1
+    admin_name: Praha 22
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.16_1_Adm2:
+    GID: CZE.11.16_1
+    admin_name: Praha 3
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.17_1_Adm2:
+    GID: CZE.11.17_1
+    admin_name: Praha 4
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.18_1_Adm2:
+    GID: CZE.11.18_1
+    admin_name: Praha 5
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.19_1_Adm2:
+    GID: CZE.11.19_1
+    admin_name: Praha 6
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.2_1_Adm2:
+    GID: CZE.11.2_1
+    admin_name: Praha 10
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.20_1_Adm2:
+    GID: CZE.11.20_1
+    admin_name: Praha 7
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.21_1_Adm2:
+    GID: CZE.11.21_1
+    admin_name: Praha 8
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.22_1_Adm2:
+    GID: CZE.11.22_1
+    admin_name: Praha 9
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.3_1_Adm2:
+    GID: CZE.11.3_1
+    admin_name: Praha 11
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.4_1_Adm2:
+    GID: CZE.11.4_1
+    admin_name: Praha 12
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.5_1_Adm2:
+    GID: CZE.11.5_1
+    admin_name: Praha 13
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.6_1_Adm2:
+    GID: CZE.11.6_1
+    admin_name: Praha 14
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.7_1_Adm2:
+    GID: CZE.11.7_1
+    admin_name: Praha 15
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.8_1_Adm2:
+    GID: CZE.11.8_1
+    admin_name: Praha 16
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.11.9_1_Adm2:
+    GID: CZE.11.9_1
+    admin_name: Praha 17
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12_1_Adm1:
+    GID: CZE.12_1
+    admin_name: Středočeský
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.12.1_1_Adm2:
+    GID: CZE.12.1_1
+    admin_name: Benešov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.10_1_Adm2:
+    GID: CZE.12.10_1
+    admin_name: Praha - západ
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.11_1_Adm2:
+    GID: CZE.12.11_1
+    admin_name: Příbram
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.12_1_Adm2:
+    GID: CZE.12.12_1
+    admin_name: Rakovník
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.2_1_Adm2:
+    GID: CZE.12.2_1
+    admin_name: Beroun
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.3_1_Adm2:
+    GID: CZE.12.3_1
+    admin_name: Kladno
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.4_1_Adm2:
+    GID: CZE.12.4_1
+    admin_name: Kolín
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.5_1_Adm2:
+    GID: CZE.12.5_1
+    admin_name: Kutná Hora
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.6_1_Adm2:
+    GID: CZE.12.6_1
+    admin_name: Mělník
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.7_1_Adm2:
+    GID: CZE.12.7_1
+    admin_name: Mladá Boleslav
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.8_1_Adm2:
+    GID: CZE.12.8_1
+    admin_name: Nymburk
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.12.9_1_Adm2:
+    GID: CZE.12.9_1
+    admin_name: Praha - východ
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.13_1_Adm1:
+    GID: CZE.13_1
+    admin_name: Ústecký
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.13.1_1_Adm2:
+    GID: CZE.13.1_1
+    admin_name: Chomutov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.13.2_1_Adm2:
+    GID: CZE.13.2_1
+    admin_name: Děčín
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.13.3_1_Adm2:
+    GID: CZE.13.3_1
+    admin_name: Litoměřice
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.13.4_1_Adm2:
+    GID: CZE.13.4_1
+    admin_name: Louny
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.13.5_1_Adm2:
+    GID: CZE.13.5_1
+    admin_name: Most
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.13.6_1_Adm2:
+    GID: CZE.13.6_1
+    admin_name: Teplice
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.13.7_1_Adm2:
+    GID: CZE.13.7_1
+    admin_name: Ústí nad Labem
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.14_1_Adm1:
+    GID: CZE.14_1
+    admin_name: Zlínský
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.14.1_1_Adm2:
+    GID: CZE.14.1_1
+    admin_name: Kroměříž
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.14.2_1_Adm2:
+    GID: CZE.14.2_1
+    admin_name: Uherské Hradiště
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.14.3_1_Adm2:
+    GID: CZE.14.3_1
+    admin_name: Vsetín
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.14.4_1_Adm2:
+    GID: CZE.14.4_1
+    admin_name: Zlín
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.2_1_Adm1:
+    GID: CZE.2_1
+    admin_name: Jihomoravský
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.2.1_1_Adm2:
+    GID: CZE.2.1_1
+    admin_name: Blansko
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.2.2_1_Adm2:
+    GID: CZE.2.2_1
+    admin_name: Břeclav
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.2.3_1_Adm2:
+    GID: CZE.2.3_1
+    admin_name: Brno
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.2.4_1_Adm2:
+    GID: CZE.2.4_1
+    admin_name: Brno-Venkov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.2.5_1_Adm2:
+    GID: CZE.2.5_1
+    admin_name: Hodonín
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.2.6_1_Adm2:
+    GID: CZE.2.6_1
+    admin_name: Vyškov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.2.7_1_Adm2:
+    GID: CZE.2.7_1
+    admin_name: Znojmo
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.3_1_Adm1:
+    GID: CZE.3_1
+    admin_name: Karlovarský
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.3.1_1_Adm2:
+    GID: CZE.3.1_1
+    admin_name: Cheb
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.3.2_1_Adm2:
+    GID: CZE.3.2_1
+    admin_name: Karlovy Vary
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.3.3_1_Adm2:
+    GID: CZE.3.3_1
+    admin_name: Sokolov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.4_1_Adm1:
+    GID: CZE.4_1
+    admin_name: Kraj Vysočina
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.4.1_1_Adm2:
+    GID: CZE.4.1_1
+    admin_name: Havlíčkův Brod
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.4.2_1_Adm2:
+    GID: CZE.4.2_1
+    admin_name: Jihlava
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.4.3_1_Adm2:
+    GID: CZE.4.3_1
+    admin_name: Pelhřimov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.4.4_1_Adm2:
+    GID: CZE.4.4_1
+    admin_name: Třebíč
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.4.5_1_Adm2:
+    GID: CZE.4.5_1
+    admin_name: Žďár nad Sázavou
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.5_1_Adm1:
+    GID: CZE.5_1
+    admin_name: Královéhradecký
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.5.1_1_Adm2:
+    GID: CZE.5.1_1
+    admin_name: Hradec Králové
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.5.2_1_Adm2:
+    GID: CZE.5.2_1
+    admin_name: Jičín
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.5.3_1_Adm2:
+    GID: CZE.5.3_1
+    admin_name: Náchod
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.5.4_1_Adm2:
+    GID: CZE.5.4_1
+    admin_name: Rychnov nad Kněžnou
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.5.5_1_Adm2:
+    GID: CZE.5.5_1
+    admin_name: Trutnov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.6_1_Adm1:
+    GID: CZE.6_1
+    admin_name: Liberecký
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.6.1_1_Adm2:
+    GID: CZE.6.1_1
+    admin_name: Česká Lípa
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.6.2_1_Adm2:
+    GID: CZE.6.2_1
+    admin_name: Jablonec nad Nisou
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.6.3_1_Adm2:
+    GID: CZE.6.3_1
+    admin_name: Liberec
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.6.4_1_Adm2:
+    GID: CZE.6.4_1
+    admin_name: Semily
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.7_1_Adm1:
+    GID: CZE.7_1
+    admin_name: Moravskoslezský
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.7.1_1_Adm2:
+    GID: CZE.7.1_1
+    admin_name: Bruntál
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.7.2_1_Adm2:
+    GID: CZE.7.2_1
+    admin_name: Frýdek-Místek
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.7.3_1_Adm2:
+    GID: CZE.7.3_1
+    admin_name: Karviná
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.7.4_1_Adm2:
+    GID: CZE.7.4_1
+    admin_name: Nový Jičín
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.7.5_1_Adm2:
+    GID: CZE.7.5_1
+    admin_name: Opava
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.7.6_1_Adm2:
+    GID: CZE.7.6_1
+    admin_name: Ostrava
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.8_1_Adm1:
+    GID: CZE.8_1
+    admin_name: Olomoucký
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.8.1_1_Adm2:
+    GID: CZE.8.1_1
+    admin_name: Jeseník
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.8.2_1_Adm2:
+    GID: CZE.8.2_1
+    admin_name: Olomouc
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.8.3_1_Adm2:
+    GID: CZE.8.3_1
+    admin_name: Přerov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.8.4_1_Adm2:
+    GID: CZE.8.4_1
+    admin_name: Prostějov
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.8.5_1_Adm2:
+    GID: CZE.8.5_1
+    admin_name: Šumperk
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.9_1_Adm1:
+    GID: CZE.9_1
+    admin_name: Pardubický
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm1
+  CZE.9.1_1_Adm2:
+    GID: CZE.9.1_1
+    admin_name: Chrudim
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.9.2_1_Adm2:
+    GID: CZE.9.2_1
+    admin_name: Pardubice
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.9.3_1_Adm2:
+    GID: CZE.9.3_1
+    admin_name: Svitavy
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2
+  CZE.9.4_1_Adm2:
+    GID: CZE.9.4_1
+    admin_name: Ústí nad Orlicí
+    iso3c: CZE
+    country_name: Czechia
+    admin_level: Adm2

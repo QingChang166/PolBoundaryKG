@@ -1,565 +1,475 @@
 concepts:
-  Chad_Adm0:
-    iso3c: TCD
-    admin_level: Adm0
+  TCD.0_Adm0:
+    GID: TCD
     admin_name: Chad
-    shapeID: 68238479B95800789829433
-    country_name: Chad
-  Chad_Adm1_1:
     iso3c: TCD
-    admin_level: Adm1
-    admin_name: Tibesti
-    shapeID: 23847190B76461278489523
     country_name: Chad
-  Chad_Adm1_10:
+    admin_level: Adm0
+  TCD.1_1_Adm1:
+    GID: TCD.1_1
+    admin_name: Barh el Ghazel
     iso3c: TCD
-    admin_level: Adm1
-    admin_name: Hadjer-Lamis
-    shapeID: 23847190B62369995372725
     country_name: Chad
-  Chad_Adm1_11:
-    iso3c: TCD
     admin_level: Adm1
-    admin_name: BahrelGazel
-    shapeID: 23847190B86845512760819
+  TCD.1.1_1_Adm2:
+    GID: TCD.1.1_1
+    admin_name: Barh El Gazel
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm1_12:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Kanem
-    shapeID: 23847190B36105987279194
-    country_name: Chad
-  Chad_Adm1_13:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Chari-Baguirmi
-    shapeID: 23847190B26801534542350
-    country_name: Chad
-  Chad_Adm1_14:
-    iso3c: TCD
-    admin_level: Adm1
+    admin_level: Adm2
+  TCD.10_1_Adm1:
+    GID: TCD.10_1
     admin_name: Lac
-    shapeID: 23847190B4179112565003
-    country_name: Chad
-  Chad_Adm1_15:
     iso3c: TCD
+    country_name: Chad
     admin_level: Adm1
-    admin_name: LogoneOccidental
-    shapeID: 23847190B3193897628622
-    country_name: Chad
-  Chad_Adm1_16:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: LogoneOriental
-    shapeID: 23847190B88704211588167
-    country_name: Chad
-  Chad_Adm1_17:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Mandoul
-    shapeID: 23847190B9655016434554
-    country_name: Chad
-  Chad_Adm1_18:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Mayo-KebbiEst
-    shapeID: 23847190B50411308984007
-    country_name: Chad
-  Chad_Adm1_19:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Mayo-KebbiOuest
-    shapeID: 23847190B16040038484355
-    country_name: Chad
-  Chad_Adm1_2:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Borkou
-    shapeID: 23847190B42201300909064
-    country_name: Chad
-  Chad_Adm1_20:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Moyen-Chari
-    shapeID: 23847190B97640124965572
-    country_name: Chad
-  Chad_Adm1_21:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Tandjilé
-    shapeID: 23847190B20750693231580
-    country_name: Chad
-  Chad_Adm1_22:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: N'DjamenaRegion
-    shapeID: 23847190B51844892814608
-    country_name: Chad
-  Chad_Adm1_23:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Ennedi-Est
-    shapeID: 23847190B43219597202588
-    country_name: Chad
-  Chad_Adm1_3:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Ennedi-Ouest
-    shapeID: 23847190B77249644038093
-    country_name: Chad
-  Chad_Adm1_4:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: WadiFira
-    shapeID: 23847190B87163061266246
-    country_name: Chad
-  Chad_Adm1_5:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Salamat
-    shapeID: 23847190B13389621272768
-    country_name: Chad
-  Chad_Adm1_6:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Sila
-    shapeID: 23847190B78936858597948
-    country_name: Chad
-  Chad_Adm1_7:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Ouaddaï
-    shapeID: 23847190B50657270888212
-    country_name: Chad
-  Chad_Adm1_8:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Guéra
-    shapeID: 23847190B67442151938208
-    country_name: Chad
-  Chad_Adm1_9:
-    iso3c: TCD
-    admin_level: Adm1
-    admin_name: Batha
-    shapeID: 23847190B10962291388144
-    country_name: Chad
-  Chad_Adm2_1:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: BathaOuest
-    shapeID: 50815135B78939282341988
-    country_name: Chad
-  Chad_Adm2_10:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Barh-Signaka
-    shapeID: 50815135B50589595383303
-    country_name: Chad
-  Chad_Adm2_11:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Mangalmé
-    shapeID: 50815135B54463089232866
-    country_name: Chad
-  Chad_Adm2_12:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Dagana
-    shapeID: 50815135B82618270305421
-    country_name: Chad
-  Chad_Adm2_13:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Dababa
-    shapeID: 50815135B80092252042653
-    country_name: Chad
-  Chad_Adm2_14:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Haraze-Al-Biar
-    shapeID: 50815135B49730685193773
-    country_name: Chad
-  Chad_Adm2_15:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Kanem
-    shapeID: 50815135B90270246712933
-    country_name: Chad
-  Chad_Adm2_16:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: NordKanem
-    shapeID: 50815135B74780249962770
-    country_name: Chad
-  Chad_Adm2_17:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: WadiBissam
-    shapeID: 50815135B97156808183777
-    country_name: Chad
-  Chad_Adm2_18:
-    iso3c: TCD
-    admin_level: Adm2
+  TCD.10.1_1_Adm2:
+    GID: TCD.10.1_1
     admin_name: Mamdi
-    shapeID: 50815135B65244945482941
-    country_name: Chad
-  Chad_Adm2_19:
     iso3c: TCD
+    country_name: Chad
     admin_level: Adm2
+  TCD.10.2_1_Adm2:
+    GID: TCD.10.2_1
     admin_name: Wayi
-    shapeID: 50815135B86238137663719
-    country_name: Chad
-  Chad_Adm2_2:
     iso3c: TCD
-    admin_level: Adm2
-    admin_name: BathaEst
-    shapeID: 50815135B79604505945545
     country_name: Chad
-  Chad_Adm2_20:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: LacWey
-    shapeID: 50815135B84328468709684
+  TCD.11_1_Adm1:
+    GID: TCD.11_1
+    admin_name: Logone Occidental
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_21:
-    iso3c: TCD
-    admin_level: Adm2
+    admin_level: Adm1
+  TCD.11.1_1_Adm2:
+    GID: TCD.11.1_1
     admin_name: Dodjé
-    shapeID: 50815135B21432441174008
-    country_name: Chad
-  Chad_Adm2_22:
     iso3c: TCD
-    admin_level: Adm2
-    admin_name: Guéni
-    shapeID: 50815135B88319439398100
     country_name: Chad
-  Chad_Adm2_23:
-    iso3c: TCD
     admin_level: Adm2
+  TCD.11.2_1_Adm2:
+    GID: TCD.11.2_1
+    admin_name: Lac Wey
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.11.3_1_Adm2:
+    GID: TCD.11.3_1
     admin_name: Ngourkosso
-    shapeID: 50815135B58104899779962
-    country_name: Chad
-  Chad_Adm2_24:
     iso3c: TCD
-    admin_level: Adm2
-    admin_name: LaPendé
-    shapeID: 50815135B99305267844407
     country_name: Chad
-  Chad_Adm2_25:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: KouhEst
-    shapeID: 50815135B98764858098702
+  TCD.12_1_Adm1:
+    GID: TCD.12_1
+    admin_name: Logone Oriental
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_26:
+    admin_level: Adm1
+  TCD.12.1_1_Adm2:
+    GID: TCD.12.1_1
+    admin_name: Lanya
     iso3c: TCD
-    admin_level: Adm2
-    admin_name: KouhOuest
-    shapeID: 50815135B27112556056018
     country_name: Chad
-  Chad_Adm2_27:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: LaNya
-    shapeID: 50815135B28220035440725
+  TCD.12.2_1_Adm2:
+    GID: TCD.12.2_1
+    admin_name: Monts de Lam
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_28:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: LaNyaPendé
-    shapeID: 50815135B51143570982343
+  TCD.12.3_1_Adm2:
+    GID: TCD.12.3_1
+    admin_name: Nya Pendé
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_29:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: MontsdeLam
-    shapeID: 50815135B14191552615898
+  TCD.12.4_1_Adm2:
+    GID: TCD.12.4_1
+    admin_name: Pendé
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_3:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: Fitri
-    shapeID: 50815135B60006364885554
+  TCD.13_1_Adm1:
+    GID: TCD.13_1
+    admin_name: Mandoul
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_30:
+    admin_level: Adm1
+  TCD.13.1_1_Adm2:
+    GID: TCD.13.1_1
+    admin_name: Barh Sara
     iso3c: TCD
-    admin_level: Adm2
-    admin_name: MandoulOriental
-    shapeID: 50815135B49309888435923
     country_name: Chad
-  Chad_Adm2_31:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: Barh-Sara
-    shapeID: 50815135B19223233714044
+  TCD.13.2_1_Adm2:
+    GID: TCD.13.2_1
+    admin_name: Mandoul Occidental
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_32:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: MandoulOccidental
-    shapeID: 50815135B23154120961269
+  TCD.13.3_1_Adm2:
+    GID: TCD.13.3_1
+    admin_name: Mandoul Oriental
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_33:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: Mayo-Boneye
-    shapeID: 50815135B64807508580818
+  TCD.14_1_Adm1:
+    GID: TCD.14_1
+    admin_name: Mayo-Kebbi Est
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_34:
-    iso3c: TCD
-    admin_level: Adm2
+    admin_level: Adm1
+  TCD.14.1_1_Adm2:
+    GID: TCD.14.1_1
     admin_name: Kabbia
-    shapeID: 50815135B59741228858752
-    country_name: Chad
-  Chad_Adm2_35:
     iso3c: TCD
-    admin_level: Adm2
-    admin_name: Mayo-Lemié
-    shapeID: 50815135B13713715101650
     country_name: Chad
-  Chad_Adm2_36:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: MontIlli
-    shapeID: 50815135B57632005694692
+  TCD.14.2_1_Adm2:
+    GID: TCD.14.2_1
+    admin_name: Mayo-Boneye
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_37:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: LacLéré
-    shapeID: 50815135B81119267829848
+  TCD.14.3_1_Adm2:
+    GID: TCD.14.3_1
+    admin_name: Mont Illi
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_38:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: Mayo-Binder
-    shapeID: 50815135B24188788926450
+  TCD.15_1_Adm1:
+    GID: TCD.15_1
+    admin_name: Mayo-Kebbi Ouest
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_39:
+    admin_level: Adm1
+  TCD.15.1_1_Adm2:
+    GID: TCD.15.1_1
+    admin_name: Lac Léré
     iso3c: TCD
-    admin_level: Adm2
-    admin_name: GrandeSido
-    shapeID: 50815135B5443465425830
     country_name: Chad
-  Chad_Adm2_4:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: Borkou
-    shapeID: 50815135B4564368173337
-    country_name: Chad
-  Chad_Adm2_40:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: LacIro
-    shapeID: 50815135B94662216566844
-    country_name: Chad
-  Chad_Adm2_41:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Ouara
-    shapeID: 50815135B92277339053304
-    country_name: Chad
-  Chad_Adm2_42:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Abdi
-    shapeID: 50815135B4539380481876
-    country_name: Chad
-  Chad_Adm2_43:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Assoungha
-    shapeID: 50815135B12284790062818
-    country_name: Chad
-  Chad_Adm2_44:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Bahr-Azoum
-    shapeID: 50815135B73615292321578
-    country_name: Chad
-  Chad_Adm2_45:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Aboudéia
-    shapeID: 50815135B13353907786726
-    country_name: Chad
-  Chad_Adm2_46:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Haraze-Mangueigne
-    shapeID: 50815135B51440340925469
-    country_name: Chad
-  Chad_Adm2_47:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: TandjiléEst
-    shapeID: 50815135B89886025568853
-    country_name: Chad
-  Chad_Adm2_48:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Biltine
-    shapeID: 50815135B98948114650625
-    country_name: Chad
-  Chad_Adm2_49:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Dar-Tama
-    shapeID: 50815135B35128958764518
-    country_name: Chad
-  Chad_Adm2_5:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Baguirmi
-    shapeID: 50815135B83477967363059
-    country_name: Chad
-  Chad_Adm2_50:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Kobé
-    shapeID: 50815135B20529104749764
-    country_name: Chad
-  Chad_Adm2_51:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: N'Djaména
-    shapeID: 50815135B39277656442366
-    country_name: Chad
-  Chad_Adm2_52:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Barh-El-GazelSud
-    shapeID: 50815135B11223303174297
-    country_name: Chad
-  Chad_Adm2_53:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Barh-El-GazelOuest
-    shapeID: 50815135B59767652467514
-    country_name: Chad
-  Chad_Adm2_54:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Am-Djarass
-    shapeID: 50815135B96833037498211
-    country_name: Chad
-  Chad_Adm2_55:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: WadiHawar
-    shapeID: 50815135B62585523695590
-    country_name: Chad
-  Chad_Adm2_56:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Kimiti
-    shapeID: 50815135B66817745888418
-    country_name: Chad
-  Chad_Adm2_57:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: DjourfAlAhmar
-    shapeID: 50815135B90510100968968
-    country_name: Chad
-  Chad_Adm2_58:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: TibestiEst
-    shapeID: 50815135B39039287340708
-    country_name: Chad
-  Chad_Adm2_59:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: TibestiOuest
-    shapeID: 50815135B44379234996248
-    country_name: Chad
-  Chad_Adm2_6:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Chari
-    shapeID: 50815135B55510615891344
-    country_name: Chad
-  Chad_Adm2_60:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Fada
-    shapeID: 50815135B99861554638026
-    country_name: Chad
-  Chad_Adm2_61:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Mourtcha
-    shapeID: 50815135B12013942151217
-    country_name: Chad
-  Chad_Adm2_62:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Bahr-Köh
-    shapeID: 50815135B48101754695472
-    country_name: Chad
-  Chad_Adm2_63:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: TandjileOuest
-    shapeID: 50815135B85738495348243
-    country_name: Chad
-  Chad_Adm2_64:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: TandjiléCentre
-    shapeID: 50815135B21537967756666
-    country_name: Chad
-  Chad_Adm2_65:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: BorkouYala
-    shapeID: 50815135B13621547433724
-    country_name: Chad
-  Chad_Adm2_66:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Barh-El-GazelNord
-    shapeID: 50815135B23579173703051
-    country_name: Chad
-  Chad_Adm2_67:
-    iso3c: TCD
-    admin_level: Adm2
-    admin_name: Mégri
-    shapeID: 50815135B12471481376218
-    country_name: Chad
-  Chad_Adm2_68:
-    iso3c: TCD
-    admin_level: Adm2
+  TCD.15.2_1_Adm2:
+    GID: TCD.15.2_1
     admin_name: Mayo-Dallah
-    shapeID: 50815135B58245995276010
-    country_name: Chad
-  Chad_Adm2_69:
     iso3c: TCD
-    admin_level: Adm2
-    admin_name: Fouli
-    shapeID: 50815135B95453652867262
     country_name: Chad
-  Chad_Adm2_7:
-    iso3c: TCD
     admin_level: Adm2
-    admin_name: Loug-Chari
-    shapeID: 50815135B30125763845581
+  TCD.16_1_Adm1:
+    GID: TCD.16_1
+    admin_name: Moyen-Chari
+    iso3c: TCD
     country_name: Chad
-  Chad_Adm2_70:
+    admin_level: Adm1
+  TCD.16.1_1_Adm2:
+    GID: TCD.16.1_1
+    admin_name: Barh Köh
     iso3c: TCD
-    admin_level: Adm2
-    admin_name: Kaya
-    shapeID: 50815135B89390943871593
     country_name: Chad
-  Chad_Adm2_8:
-    iso3c: TCD
     admin_level: Adm2
+  TCD.16.2_1_Adm2:
+    GID: TCD.16.2_1
+    admin_name: Grande Sido
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.16.3_1_Adm2:
+    GID: TCD.16.3_1
+    admin_name: Lac Iro
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.17_1_Adm1:
+    GID: TCD.17_1
+    admin_name: Ouaddaï
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.17.1_1_Adm2:
+    GID: TCD.17.1_1
+    admin_name: Assoungha
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.17.2_1_Adm2:
+    GID: TCD.17.2_1
+    admin_name: Djourf Al Ahmar
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.17.3_1_Adm2:
+    GID: TCD.17.3_1
+    admin_name: Ouara
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.18_1_Adm1:
+    GID: TCD.18_1
+    admin_name: Salamat
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.18.1_1_Adm2:
+    GID: TCD.18.1_1
+    admin_name: Aboudeïa
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.18.2_1_Adm2:
+    GID: TCD.18.2_1
+    admin_name: Barh Azoum
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.18.3_1_Adm2:
+    GID: TCD.18.3_1
+    admin_name: Haraze Mangueigne
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.19_1_Adm1:
+    GID: TCD.19_1
+    admin_name: Sila
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.19.1_1_Adm2:
+    GID: TCD.19.1_1
+    admin_name: Djourf Al Ahmar
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.19.2_1_Adm2:
+    GID: TCD.19.2_1
+    admin_name: Sila
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.2_1_Adm1:
+    GID: TCD.2_1
+    admin_name: Batha
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.2.1_1_Adm2:
+    GID: TCD.2.1_1
+    admin_name: Batha Est
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.2.2_1_Adm2:
+    GID: TCD.2.2_1
+    admin_name: Batha Oues
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.2.3_1_Adm2:
+    GID: TCD.2.3_1
+    admin_name: Fitri
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.20_1_Adm1:
+    GID: TCD.20_1
+    admin_name: Tandjilé
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.20.1_1_Adm2:
+    GID: TCD.20.1_1
+    admin_name: Béré
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.20.2_1_Adm2:
+    GID: TCD.20.2_1
+    admin_name: Tandjilé Est
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.20.3_1_Adm2:
+    GID: TCD.20.3_1
+    admin_name: Tandjilé Ouest
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.21_1_Adm1:
+    GID: TCD.21_1
+    admin_name: Tibesti
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.21.1_1_Adm2:
+    GID: TCD.21.1_1
+    admin_name: Tibesti
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.22_1_Adm1:
+    GID: TCD.22_1
+    admin_name: Ville de N'Djamena
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.22.1_1_Adm2:
+    GID: TCD.22.1_1
+    admin_name: N'Djamena
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.23_1_Adm1:
+    GID: TCD.23_1
+    admin_name: Wadi Fira
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.23.1_1_Adm2:
+    GID: TCD.23.1_1
+    admin_name: Biltine
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.23.2_1_Adm2:
+    GID: TCD.23.2_1
+    admin_name: Dar Tama
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.23.3_1_Adm2:
+    GID: TCD.23.3_1
+    admin_name: Kobé
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.3_1_Adm1:
+    GID: TCD.3_1
+    admin_name: Borkou
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.3.1_1_Adm2:
+    GID: TCD.3.1_1
+    admin_name: Borkou
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.4_1_Adm1:
+    GID: TCD.4_1
+    admin_name: Chari-Baguirmi
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.4.1_1_Adm2:
+    GID: TCD.4.1_1
+    admin_name: Baguirmi
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.4.2_1_Adm2:
+    GID: TCD.4.2_1
+    admin_name: Loug Chari
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.4.3_1_Adm2:
+    GID: TCD.4.3_1
+    admin_name: N'Djamena
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.5_1_Adm1:
+    GID: TCD.5_1
+    admin_name: Ennedi Est
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.5.1_1_Adm2:
+    GID: TCD.5.1_1
+    admin_name: Ennedi Est
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.6_1_Adm1:
+    GID: TCD.6_1
+    admin_name: Ennedi Ouest
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.6.1_1_Adm2:
+    GID: TCD.6.1_1
+    admin_name: Ennedi Ouest
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.7_1_Adm1:
+    GID: TCD.7_1
     admin_name: Guéra
-    shapeID: 50815135B83117027765697
-    country_name: Chad
-  Chad_Adm2_9:
     iso3c: TCD
-    admin_level: Adm2
-    admin_name: Abtouyour
-    shapeID: 50815135B86536624745263
     country_name: Chad
+    admin_level: Adm1
+  TCD.7.1_1_Adm2:
+    GID: TCD.7.1_1
+    admin_name: Barh Signaka
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.7.2_1_Adm2:
+    GID: TCD.7.2_1
+    admin_name: Bitkine
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.7.3_1_Adm2:
+    GID: TCD.7.3_1
+    admin_name: Guéra
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.7.4_1_Adm2:
+    GID: TCD.7.4_1
+    admin_name: Mangalmé
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.8_1_Adm1:
+    GID: TCD.8_1
+    admin_name: Hadjer-Lamis
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.8.1_1_Adm2:
+    GID: TCD.8.1_1
+    admin_name: Dababa
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.8.2_1_Adm2:
+    GID: TCD.8.2_1
+    admin_name: Dagana
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.8.3_1_Adm2:
+    GID: TCD.8.3_1
+    admin_name: Haraze Al Biar
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.9_1_Adm1:
+    GID: TCD.9_1
+    admin_name: Kanem
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm1
+  TCD.9.1_1_Adm2:
+    GID: TCD.9.1_1
+    admin_name: Kanem
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2
+  TCD.9.2_1_Adm2:
+    GID: TCD.9.2_1
+    admin_name: Nokou
+    iso3c: TCD
+    country_name: Chad
+    admin_level: Adm2

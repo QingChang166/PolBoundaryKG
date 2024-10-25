@@ -1,7 +1,31 @@
 concepts:
-  WesternSahara_Disp:
+  ESH.0_Adm0:
+    GID: ESH
+    admin_name: Western Sahara
     iso3c: ESH
-    admin_level: Disp
-    admin_name: WesternSahara
-    shapeID: DIS020
-    country_name: WesternSahara
+    country_name: Western Sahara
+    admin_level: Adm0
+  ESH.1_1_Adm1:
+    GID: ESH.1_1
+    admin_name: Boujdour
+    iso3c: ESH
+    country_name: Western Sahara
+    admin_level: Adm1
+  ESH.2_1_Adm1:
+    GID: ESH.2_1
+    admin_name: Es Semara
+    iso3c: ESH
+    country_name: Western Sahara
+    admin_level: Adm1
+  ESH.3_1_Adm1:
+    GID: ESH.3_1
+    admin_name: Laayoune
+    iso3c: ESH
+    country_name: Western Sahara
+    admin_level: Adm1
+  ESH.4_1_Adm1:
+    GID: ESH.4_1
+    admin_name: Oued el Dahab
+    iso3c: ESH
+    country_name: Western Sahara
+    admin_level: Adm1

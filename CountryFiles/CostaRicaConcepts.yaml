@@ -1,547 +1,541 @@
 concepts:
-  CostaRica_Adm0:
+  CRI.0_Adm0:
+    GID: CRI
+    admin_name: Costa Rica
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm0
-    admin_name: CostaRica
-    shapeID: 71097903B43429010550872
-    country_name: CostaRica
-  CostaRica_Adm1_1:
-    iso3c: CRI
-    admin_level: Adm1
-    admin_name: ProvinciaHeredia
-    shapeID: 80129987B30917059240714
-    country_name: CostaRica
-  CostaRica_Adm1_2:
-    iso3c: CRI
-    admin_level: Adm1
-    admin_name: ProvinciaGuanacaste
-    shapeID: 80129987B99098477815223
-    country_name: CostaRica
-  CostaRica_Adm1_3:
-    iso3c: CRI
-    admin_level: Adm1
-    admin_name: ProvinciaAlajuela
-    shapeID: 80129987B16009817839121
-    country_name: CostaRica
-  CostaRica_Adm1_4:
-    iso3c: CRI
-    admin_level: Adm1
-    admin_name: ProvinciaSanJosé
-    shapeID: 80129987B28144345958142
-    country_name: CostaRica
-  CostaRica_Adm1_5:
-    iso3c: CRI
-    admin_level: Adm1
-    admin_name: ProvinciaPuntarenas
-    shapeID: 80129987B82779638600484
-    country_name: CostaRica
-  CostaRica_Adm1_6:
-    iso3c: CRI
-    admin_level: Adm1
-    admin_name: ProvinciaCartago
-    shapeID: 80129987B41200343148036
-    country_name: CostaRica
-  CostaRica_Adm1_7:
-    iso3c: CRI
-    admin_level: Adm1
-    admin_name: ProvinciaLimón
-    shapeID: 80129987B40271573243189
-    country_name: CostaRica
-  CostaRica_Adm2_1:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: PuertoJimenez
-    shapeID: 36466004B12090025276311
-    country_name: CostaRica
-  CostaRica_Adm2_10:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Matina
-    shapeID: 36466004B83376986375247
-    country_name: CostaRica
-  CostaRica_Adm2_11:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Turrialba
-    shapeID: 36466004B38119903555726
-    country_name: CostaRica
-  CostaRica_Adm2_12:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Jimenez
-    shapeID: 36466004B31180817365439
-    country_name: CostaRica
-  CostaRica_Adm2_13:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Alvarado
-    shapeID: 36466004B14644895644866
-    country_name: CostaRica
-  CostaRica_Adm2_14:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Siquirres
-    shapeID: 36466004B47231661736374
-    country_name: CostaRica
-  CostaRica_Adm2_15:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Guacimo
-    shapeID: 36466004B32500402146996
-    country_name: CostaRica
-  CostaRica_Adm2_16:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Paraiso
-    shapeID: 36466004B34064705280782
-    country_name: CostaRica
-  CostaRica_Adm2_17:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Oreamuno
-    shapeID: 36466004B47119988095233
-    country_name: CostaRica
-  CostaRica_Adm2_18:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: VazquezdeCoronado
-    shapeID: 36466004B47934258203273
-    country_name: CostaRica
-  CostaRica_Adm2_19:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Goicoechea
-    shapeID: 36466004B79132997728490
-    country_name: CostaRica
-  CostaRica_Adm2_2:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Osa
-    shapeID: 36466004B23652443238408
-    country_name: CostaRica
-  CostaRica_Adm2_20:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Dota
-    shapeID: 36466004B86060640293430
-    country_name: CostaRica
-  CostaRica_Adm2_21:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: ElGuarco
-    shapeID: 36466004B87567829139505
-    country_name: CostaRica
-  CostaRica_Adm2_22:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Cartago
-    shapeID: 36466004B19971785414820
-    country_name: CostaRica
-  CostaRica_Adm2_23:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: LaUnion
-    shapeID: 36466004B23984119166299
-    country_name: CostaRica
-  CostaRica_Adm2_24:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Curridabat
-    shapeID: 36466004B71445254022700
-    country_name: CostaRica
-  CostaRica_Adm2_25:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: MontesdeOca
-    shapeID: 36466004B49166054866519
-    country_name: CostaRica
-  CostaRica_Adm2_26:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Moravia
-    shapeID: 36466004B8745227271040
-    country_name: CostaRica
-  CostaRica_Adm2_27:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: SanIsidro
-    shapeID: 36466004B23001731443143
-    country_name: CostaRica
-  CostaRica_Adm2_28:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Tibas
-    shapeID: 36466004B13959019821859
-    country_name: CostaRica
-  CostaRica_Adm2_29:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: SantoDomingo
-    shapeID: 36466004B42528660936066
-    country_name: CostaRica
-  CostaRica_Adm2_3:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: BuenosAires
-    shapeID: 36466004B75428693831232
-    country_name: CostaRica
-  CostaRica_Adm2_30:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: SanPablo
-    shapeID: 36466004B49814687345557
-    country_name: CostaRica
-  CostaRica_Adm2_31:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: SanRafael
-    shapeID: 36466004B33619943127012
-    country_name: CostaRica
-  CostaRica_Adm2_32:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Heredia
-    shapeID: 36466004B27145305633617
-    country_name: CostaRica
-  CostaRica_Adm2_33:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Flores
-    shapeID: 36466004B75019906256139
-    country_name: CostaRica
-  CostaRica_Adm2_34:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Belen
-    shapeID: 36466004B97828735780055
-    country_name: CostaRica
-  CostaRica_Adm2_35:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: SanJose
-    shapeID: 36466004B17043328523941
-    country_name: CostaRica
-  CostaRica_Adm2_36:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Barva
-    shapeID: 36466004B93518789602304
-    country_name: CostaRica
-  CostaRica_Adm2_37:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: SantaBarbara
-    shapeID: 36466004B69757092766150
-    country_name: CostaRica
-  CostaRica_Adm2_38:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Desamparados
-    shapeID: 36466004B53955295164101
-    country_name: CostaRica
-  CostaRica_Adm2_39:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: LeonCortesCastro
-    shapeID: 36466004B70383874576114
-    country_name: CostaRica
-  CostaRica_Adm2_4:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: CotoBrus
-    shapeID: 36466004B67962139153797
-    country_name: CostaRica
-  CostaRica_Adm2_40:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Aserri
-    shapeID: 36466004B1589353169511
-    country_name: CostaRica
-  CostaRica_Adm2_41:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Tarrazu
-    shapeID: 36466004B83189782085425
-    country_name: CostaRica
-  CostaRica_Adm2_42:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Alajuelita
-    shapeID: 36466004B46063821008241
-    country_name: CostaRica
-  CostaRica_Adm2_43:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Escazu
-    shapeID: 36466004B13672837232461
-    country_name: CostaRica
-  CostaRica_Adm2_44:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: SantaAna
-    shapeID: 36466004B14800778897380
-    country_name: CostaRica
-  CostaRica_Adm2_45:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Acosta
-    shapeID: 36466004B86670924775866
-    country_name: CostaRica
-  CostaRica_Adm2_46:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Mora
-    shapeID: 36466004B40218222859815
-    country_name: CostaRica
-  CostaRica_Adm2_47:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Pococi
-    shapeID: 36466004B96368575688704
-    country_name: CostaRica
-  CostaRica_Adm2_48:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Sarapiqui
-    shapeID: 36466004B54791236061025
-    country_name: CostaRica
-  CostaRica_Adm2_49:
-    iso3c: CRI
-    admin_level: Adm2
+  CRI.1_1_Adm1:
+    GID: CRI.1_1
     admin_name: Alajuela
-    shapeID: 36466004B67061549070759
-    country_name: CostaRica
-  CostaRica_Adm2_5:
     iso3c: CRI
-    admin_level: Adm2
-    admin_name: Golfito
-    shapeID: 36466004B12763689767454
-    country_name: CostaRica
-  CostaRica_Adm2_50:
+    country_name: Costa Rica
+    admin_level: Adm1
+  CRI.1.1_1_Adm2:
+    GID: CRI.1.1_1
+    admin_name: Alajuela
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Poas
-    shapeID: 36466004B26047404335903
-    country_name: CostaRica
-  CostaRica_Adm2_51:
+  CRI.1.10_1_Adm2:
+    GID: CRI.1.10_1
+    admin_name: Poás
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: RioCuarto
-    shapeID: 36466004B916692676755
-    country_name: CostaRica
-  CostaRica_Adm2_52:
+  CRI.1.11_1_Adm2:
+    GID: CRI.1.11_1
+    admin_name: San Carlos
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Grecia
-    shapeID: 36466004B60213245209904
-    country_name: CostaRica
-  CostaRica_Adm2_53:
+  CRI.1.12_1_Adm2:
+    GID: CRI.1.12_1
+    admin_name: San Mateo
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Sarchi
-    shapeID: 36466004B48608079710211
-    country_name: CostaRica
-  CostaRica_Adm2_54:
+  CRI.1.13_1_Adm2:
+    GID: CRI.1.13_1
+    admin_name: San Ramón
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Naranjo
-    shapeID: 36466004B12549595917957
-    country_name: CostaRica
-  CostaRica_Adm2_55:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Zarcero
-    shapeID: 36466004B69998662066275
-    country_name: CostaRica
-  CostaRica_Adm2_56:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Palmeras
-    shapeID: 36466004B65263454965640
-    country_name: CostaRica
-  CostaRica_Adm2_57:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Atenas
-    shapeID: 36466004B19113363200971
-    country_name: CostaRica
-  CostaRica_Adm2_58:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Puriscal
-    shapeID: 36466004B36005628367911
-    country_name: CostaRica
-  CostaRica_Adm2_59:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Turrubares
-    shapeID: 36466004B44597277334716
-    country_name: CostaRica
-  CostaRica_Adm2_6:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Corredores
-    shapeID: 36466004B38265631296352
-    country_name: CostaRica
-  CostaRica_Adm2_60:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Orotina
-    shapeID: 36466004B51019647816434
-    country_name: CostaRica
-  CostaRica_Adm2_61:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: SanMateo
-    shapeID: 36466004B56019207244783
-    country_name: CostaRica
-  CostaRica_Adm2_62:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: SanRamon
-    shapeID: 36466004B75539048151546
-    country_name: CostaRica
-  CostaRica_Adm2_63:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Esparza
-    shapeID: 36466004B94446731774240
-    country_name: CostaRica
-  CostaRica_Adm2_64:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: MontesdeOro
-    shapeID: 36466004B99490544719136
-    country_name: CostaRica
-  CostaRica_Adm2_65:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: SanCarlos
-    shapeID: 36466004B93009353653886
-    country_name: CostaRica
-  CostaRica_Adm2_66:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: LosChiles
-    shapeID: 36466004B82753262426654
-    country_name: CostaRica
-  CostaRica_Adm2_67:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Guatuso
-    shapeID: 36466004B87915732060573
-    country_name: CostaRica
-  CostaRica_Adm2_68:
-    iso3c: CRI
-    admin_level: Adm2
-    admin_name: Tilaran
-    shapeID: 36466004B12916636175246
-    country_name: CostaRica
-  CostaRica_Adm2_69:
-    iso3c: CRI
-    admin_level: Adm2
+  CRI.1.14_1_Adm2:
+    GID: CRI.1.14_1
     admin_name: Upala
-    shapeID: 36466004B97209373697434
-    country_name: CostaRica
-  CostaRica_Adm2_7:
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: PerezZeledon
-    shapeID: 36466004B81779324435882
-    country_name: CostaRica
-  CostaRica_Adm2_70:
+  CRI.1.15_1_Adm2:
+    GID: CRI.1.15_1
+    admin_name: Sarchí
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Puntarenas
-    shapeID: 36466004B9758970649099
-    country_name: CostaRica
-  CostaRica_Adm2_71:
+  CRI.1.16_1_Adm2:
+    GID: CRI.1.16_1
+    admin_name: Zarcero
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Canas
-    shapeID: 36466004B65281330352027
-    country_name: CostaRica
-  CostaRica_Adm2_72:
+  CRI.1.17_1_Adm2:
+    GID: CRI.1.17_1
+    admin_name: Río Cuarto
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Bagaces
-    shapeID: 36466004B76041075166072
-    country_name: CostaRica
-  CostaRica_Adm2_73:
+  CRI.1.3_1_Adm2:
+    GID: CRI.1.3_1
+    admin_name: Atenas
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Liberia
-    shapeID: 36466004B57161008538161
-    country_name: CostaRica
-  CostaRica_Adm2_74:
+  CRI.1.4_1_Adm2:
+    GID: CRI.1.4_1
+    admin_name: Grecia
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: LaCruz
-    shapeID: 36466004B52146458356886
-    country_name: CostaRica
-  CostaRica_Adm2_75:
+  CRI.1.5_1_Adm2:
+    GID: CRI.1.5_1
+    admin_name: Guatuso
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Carrillo
-    shapeID: 36466004B81157491697278
-    country_name: CostaRica
-  CostaRica_Adm2_76:
+  CRI.1.6_1_Adm2:
+    GID: CRI.1.6_1
+    admin_name: Los Chiles
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: SantaCruz
-    shapeID: 36466004B7119067190129
-    country_name: CostaRica
-  CostaRica_Adm2_77:
+  CRI.1.7_1_Adm2:
+    GID: CRI.1.7_1
+    admin_name: Naranjo
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Nicoya
-    shapeID: 36466004B54508558874137
-    country_name: CostaRica
-  CostaRica_Adm2_78:
+  CRI.1.8_1_Adm2:
+    GID: CRI.1.8_1
+    admin_name: Orotina
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Hojancha
-    shapeID: 36466004B12403637236294
-    country_name: CostaRica
-  CostaRica_Adm2_79:
+  CRI.1.9_1_Adm2:
+    GID: CRI.1.9_1
+    admin_name: Palmares
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Nandayure
-    shapeID: 36466004B45904534583509
-    country_name: CostaRica
-  CostaRica_Adm2_8:
+  CRI.2_1_Adm1:
+    GID: CRI.2_1
+    admin_name: Cartago
     iso3c: CRI
-    admin_level: Adm2
-    admin_name: Talamanca
-    shapeID: 36466004B17277375937001
-    country_name: CostaRica
-  CostaRica_Adm2_80:
+    country_name: Costa Rica
+    admin_level: Adm1
+  CRI.2.1_1_Adm2:
+    GID: CRI.2.1_1
+    admin_name: Alvarado
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
+  CRI.2.2_1_Adm2:
+    GID: CRI.2.2_1
+    admin_name: Cartago
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.2.3_1_Adm2:
+    GID: CRI.2.3_1
+    admin_name: El Guarco
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.2.4_1_Adm2:
+    GID: CRI.2.4_1
+    admin_name: Jiménez
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.2.5_1_Adm2:
+    GID: CRI.2.5_1
+    admin_name: La Unión
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.2.6_1_Adm2:
+    GID: CRI.2.6_1
+    admin_name: Oreamuno
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.2.7_1_Adm2:
+    GID: CRI.2.7_1
+    admin_name: Paraíso
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.2.8_1_Adm2:
+    GID: CRI.2.8_1
+    admin_name: Turrialba
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.3_1_Adm1:
+    GID: CRI.3_1
+    admin_name: Guanacaste
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm1
+  CRI.3.1_1_Adm2:
+    GID: CRI.3.1_1
     admin_name: Abangares
-    shapeID: 36466004B17800837418236
-    country_name: CostaRica
-  CostaRica_Adm2_81:
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Garabito
-    shapeID: 36466004B76673798564195
-    country_name: CostaRica
-  CostaRica_Adm2_82:
+  CRI.3.10_1_Adm2:
+    GID: CRI.3.10_1
+    admin_name: Santa Cruz
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Quepos
-    shapeID: 36466004B16992586441876
-    country_name: CostaRica
-  CostaRica_Adm2_83:
+  CRI.3.11_1_Adm2:
+    GID: CRI.3.11_1
+    admin_name: Tilarán
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
+  CRI.3.2_1_Adm2:
+    GID: CRI.3.2_1
+    admin_name: Bagaces
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.3.3_1_Adm2:
+    GID: CRI.3.3_1
+    admin_name: Cañas
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.3.4_1_Adm2:
+    GID: CRI.3.4_1
+    admin_name: Carrillo
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.3.5_1_Adm2:
+    GID: CRI.3.5_1
+    admin_name: Hojancha
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.3.6_1_Adm2:
+    GID: CRI.3.6_1
+    admin_name: La Cruz
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.3.7_1_Adm2:
+    GID: CRI.3.7_1
+    admin_name: Liberia
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.3.8_1_Adm2:
+    GID: CRI.3.8_1
+    admin_name: Nandayure
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.3.9_1_Adm2:
+    GID: CRI.3.9_1
+    admin_name: Nicoya
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.4_1_Adm1:
+    GID: CRI.4_1
+    admin_name: Heredia
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm1
+  CRI.4.1_1_Adm2:
+    GID: CRI.4.1_1
+    admin_name: Barva
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.4.10_1_Adm2:
+    GID: CRI.4.10_1
+    admin_name: Sarapiquí
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.4.2_1_Adm2:
+    GID: CRI.4.2_1
+    admin_name: Belén
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.4.3_1_Adm2:
+    GID: CRI.4.3_1
+    admin_name: Flores
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.4.4_1_Adm2:
+    GID: CRI.4.4_1
+    admin_name: Heredia
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.4.5_1_Adm2:
+    GID: CRI.4.5_1
+    admin_name: San Isidro
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.4.6_1_Adm2:
+    GID: CRI.4.6_1
+    admin_name: San Pablo
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.4.7_1_Adm2:
+    GID: CRI.4.7_1
+    admin_name: San Rafael
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.4.8_1_Adm2:
+    GID: CRI.4.8_1
+    admin_name: Santa Bárbara
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.4.9_1_Adm2:
+    GID: CRI.4.9_1
+    admin_name: Santo Domingo
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.5_1_Adm1:
+    GID: CRI.5_1
+    admin_name: Limón
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm1
+  CRI.5.1_1_Adm2:
+    GID: CRI.5.1_1
+    admin_name: Guácimo
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.5.2_1_Adm2:
+    GID: CRI.5.2_1
+    admin_name: Limón
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.5.3_1_Adm2:
+    GID: CRI.5.3_1
+    admin_name: Matina
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.5.4_1_Adm2:
+    GID: CRI.5.4_1
+    admin_name: Pococí
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.5.5_1_Adm2:
+    GID: CRI.5.5_1
+    admin_name: Siquirres
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.5.6_1_Adm2:
+    GID: CRI.5.6_1
+    admin_name: Talamanca
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.6_1_Adm1:
+    GID: CRI.6_1
+    admin_name: Puntarenas
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm1
+  CRI.6.10_1_Adm2:
+    GID: CRI.6.10_1
     admin_name: Parrita
-    shapeID: 36466004B95019586049956
-    country_name: CostaRica
-  CostaRica_Adm2_9:
     iso3c: CRI
+    country_name: Costa Rica
     admin_level: Adm2
-    admin_name: Limon
-    shapeID: 36466004B50274844038256
-    country_name: CostaRica
+  CRI.6.11_1_Adm2:
+    GID: CRI.6.11_1
+    admin_name: Puntarenas
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.6.12_1_Adm2:
+    GID: CRI.6.12_1
+    admin_name: Quepos
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.6.2_1_Adm2:
+    GID: CRI.6.2_1
+    admin_name: Buenos Aires
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.6.3_1_Adm2:
+    GID: CRI.6.3_1
+    admin_name: Corredores
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.6.4_1_Adm2:
+    GID: CRI.6.4_1
+    admin_name: Coto Brus
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.6.5_1_Adm2:
+    GID: CRI.6.5_1
+    admin_name: Esparza
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.6.6_1_Adm2:
+    GID: CRI.6.6_1
+    admin_name: Garabito
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.6.7_1_Adm2:
+    GID: CRI.6.7_1
+    admin_name: Golfito
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.6.8_1_Adm2:
+    GID: CRI.6.8_1
+    admin_name: Montes de Oro
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.6.9_1_Adm2:
+    GID: CRI.6.9_1
+    admin_name: Osa
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7_1_Adm1:
+    GID: CRI.7_1
+    admin_name: San José
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm1
+  CRI.7.1_1_Adm2:
+    GID: CRI.7.1_1
+    admin_name: Acosta
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.10_1_Adm2:
+    GID: CRI.7.10_1
+    admin_name: Montes de Oca
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.11_1_Adm2:
+    GID: CRI.7.11_1
+    admin_name: Mora
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.12_1_Adm2:
+    GID: CRI.7.12_1
+    admin_name: Moravia
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.13_1_Adm2:
+    GID: CRI.7.13_1
+    admin_name: Pérez Zeledón
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.14_1_Adm2:
+    GID: CRI.7.14_1
+    admin_name: Puriscal
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.15_1_Adm2:
+    GID: CRI.7.15_1
+    admin_name: San José
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.16_1_Adm2:
+    GID: CRI.7.16_1
+    admin_name: Santa Ana
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.17_1_Adm2:
+    GID: CRI.7.17_1
+    admin_name: Tarrazú
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.18_1_Adm2:
+    GID: CRI.7.18_1
+    admin_name: Tibás
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.19_1_Adm2:
+    GID: CRI.7.19_1
+    admin_name: Turrubares
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.2_1_Adm2:
+    GID: CRI.7.2_1
+    admin_name: Alajuelita
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.20_1_Adm2:
+    GID: CRI.7.20_1
+    admin_name: Vázquez de Coronado
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.3_1_Adm2:
+    GID: CRI.7.3_1
+    admin_name: Aserrí
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.4_1_Adm2:
+    GID: CRI.7.4_1
+    admin_name: Curridabat
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.5_1_Adm2:
+    GID: CRI.7.5_1
+    admin_name: Desamparados
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.6_1_Adm2:
+    GID: CRI.7.6_1
+    admin_name: Dota
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.7_1_Adm2:
+    GID: CRI.7.7_1
+    admin_name: Escazú
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.8_1_Adm2:
+    GID: CRI.7.8_1
+    admin_name: Goicoechea
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2
+  CRI.7.9_1_Adm2:
+    GID: CRI.7.9_1
+    admin_name: León Cortés Castro
+    iso3c: CRI
+    country_name: Costa Rica
+    admin_level: Adm2

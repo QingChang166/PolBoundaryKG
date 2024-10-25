@@ -1,109 +1,169 @@
 concepts:
-  Djibouti_Adm0:
+  DJI.0_Adm0:
+    GID: DJI
+    admin_name: Djibouti
     iso3c: DJI
+    country_name: Djibouti
     admin_level: Adm0
-    admin_name: TheRepubicofDjibouti
-    shapeID: 68745449B48312656270320
-    country_name: Djibouti
-  Djibouti_Adm1_1:
+  DJI.1_2_Adm1:
+    GID: DJI.1_2
+    admin_name: Ali Sabieh
     iso3c: DJI
-    admin_level: Adm1
-    admin_name: AliSabieh
-    shapeID: 25444519B7681288134121
     country_name: Djibouti
-  Djibouti_Adm1_2:
-    iso3c: DJI
     admin_level: Adm1
-    admin_name: Arta
-    shapeID: 25444519B1274960689098
+  DJI.1.1_2_Adm2:
+    GID: DJI.1.1_2
+    admin_name: Ali Adde
+    iso3c: DJI
     country_name: Djibouti
-  Djibouti_Adm1_3:
+    admin_level: Adm2
+  DJI.1.2_2_Adm2:
+    GID: DJI.1.2_2
+    admin_name: Ali Sabieh
     iso3c: DJI
-    admin_level: Adm1
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.1.3_2_Adm2:
+    GID: DJI.1.3_2
+    admin_name: Holhol
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.2_1_Adm1:
+    GID: DJI.2_1
     admin_name: Dikhil
-    shapeID: 25444519B52373268249817
-    country_name: Djibouti
-  Djibouti_Adm1_4:
     iso3c: DJI
-    admin_level: Adm1
-    admin_name: Tadjourah
-    shapeID: 25444519B6046592555533
     country_name: Djibouti
-  Djibouti_Adm1_5:
-    iso3c: DJI
     admin_level: Adm1
+  DJI.2.1_2_Adm2:
+    GID: DJI.2.1_2
+    admin_name: As Eyla
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.2.2_2_Adm2:
+    GID: DJI.2.2_2
+    admin_name: Dikhil
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.2.3_2_Adm2:
+    GID: DJI.2.3_2
+    admin_name: Galafi
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.2.4_2_Adm2:
+    GID: DJI.2.4_2
+    admin_name: Yuboki
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.3_1_Adm1:
+    GID: DJI.3_1
+    admin_name: Djiboutii
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm1
+  DJI.3.1_2_Adm2:
+    GID: DJI.3.1_2
+    admin_name: Djiboutii
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.4_1_Adm1:
+    GID: DJI.4_1
     admin_name: Obock
-    shapeID: 25444519B8926294731251
-    country_name: Djibouti
-  Djibouti_Adm1_6:
     iso3c: DJI
+    country_name: Djibouti
     admin_level: Adm1
-    admin_name: Djibouti
-    shapeID: 25444519B34443348585704
-    country_name: Djibouti
-  Djibouti_Adm2_1:
+  DJI.4.1_2_Adm2:
+    GID: DJI.4.1_2
+    admin_name: Adailou
     iso3c: DJI
-    admin_level: Adm2
-    admin_name: AlailiDadda
-    shapeID: 41766387B98599288227121
     country_name: Djibouti
-  Djibouti_Adm2_10:
-    iso3c: DJI
     admin_level: Adm2
-    admin_name: AliSabeh
-    shapeID: 41766387B65421474667097
+  DJI.4.2_2_Adm2:
+    GID: DJI.4.2_2
+    admin_name: Dadda'to
+    iso3c: DJI
     country_name: Djibouti
-  Djibouti_Adm2_11:
-    iso3c: DJI
     admin_level: Adm2
-    admin_name: AsEyla
-    shapeID: 41766387B73347270872705
+  DJI.4.3_2_Adm2:
+    GID: DJI.4.3_2
+    admin_name: Khôr 'Angar
+    iso3c: DJI
     country_name: Djibouti
-  Djibouti_Adm2_2:
-    iso3c: DJI
     admin_level: Adm2
+  DJI.4.4_2_Adm2:
+    GID: DJI.4.4_2
+    admin_name: Moulhoule
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.4.5_2_Adm2:
+    GID: DJI.4.5_2
+    admin_name: Obock
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.5_1_Adm1:
+    GID: DJI.5_1
+    admin_name: Tadjoura
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm1
+  DJI.5.1_2_Adm2:
+    GID: DJI.5.1_2
+    admin_name: Balho
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.5.2_2_Adm2:
+    GID: DJI.5.2_2
     admin_name: Dorra
-    shapeID: 41766387B22586556456338
-    country_name: Djibouti
-  Djibouti_Adm2_3:
     iso3c: DJI
-    admin_level: Adm2
-    admin_name: Obock
-    shapeID: 41766387B51204577272085
     country_name: Djibouti
-  Djibouti_Adm2_4:
-    iso3c: DJI
     admin_level: Adm2
+  DJI.5.3_2_Adm2:
+    GID: DJI.5.3_2
+    admin_name: Lac 'Assal
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.5.4_2_Adm2:
+    GID: DJI.5.4_2
+    admin_name: Mousa Ali
+    iso3c: DJI
+    country_name: Djibouti
+    admin_level: Adm2
+  DJI.5.5_2_Adm2:
+    GID: DJI.5.5_2
     admin_name: Randa
-    shapeID: 41766387B54529132802745
-    country_name: Djibouti
-  Djibouti_Adm2_5:
     iso3c: DJI
-    admin_level: Adm2
-    admin_name: Balha
-    shapeID: 41766387B97155389424645
     country_name: Djibouti
-  Djibouti_Adm2_6:
+    admin_level: Adm2
+  DJI.5.6_2_Adm2:
+    GID: DJI.5.6_2
+    admin_name: Tadjoura
     iso3c: DJI
-    admin_level: Adm2
-    admin_name: Tadjourah
-    shapeID: 41766387B13463549189785
     country_name: Djibouti
-  Djibouti_Adm2_7:
+    admin_level: Adm2
+  DJI.6_1_Adm1:
+    GID: DJI.6_1
+    admin_name: Arta
     iso3c: DJI
-    admin_level: Adm2
-    admin_name: YobokiI
-    shapeID: 41766387B74076707162819
     country_name: Djibouti
-  Djibouti_Adm2_8:
+    admin_level: Adm1
+  DJI.6.1_2_Adm2:
+    GID: DJI.6.1_2
+    admin_name: Arta
     iso3c: DJI
-    admin_level: Adm2
-    admin_name: Djibouti
-    shapeID: 41766387B83981523687012
     country_name: Djibouti
-  Djibouti_Adm2_9:
+    admin_level: Adm2
+  DJI.6.2_2_Adm2:
+    GID: DJI.6.2_2
+    admin_name: Yuboki
     iso3c: DJI
-    admin_level: Adm2
-    admin_name: Dilkhil
-    shapeID: 41766387B9467441741428
     country_name: Djibouti
+    admin_level: Adm2

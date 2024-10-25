@@ -1,0 +1,9 @@
+relations:
+    - (WLF.0_Adm0, WLF.1_1_Adm1)
+    - (WLF.0_Adm0, WLF.2_1_Adm1)
+    - (WLF.0_Adm0, WLF.3_1_Adm1)
+    - (WLF.1_1_Adm1, WLF.1.1_1_Adm2)
+    - (WLF.2_1_Adm1, WLF.2.1_1_Adm2)
+    - (WLF.3_1_Adm1, WLF.3.1_1_Adm2)
+    - (WLF.3_1_Adm1, WLF.3.2_1_Adm2)
+    - (WLF.3_1_Adm1, WLF.3.3_1_Adm2)

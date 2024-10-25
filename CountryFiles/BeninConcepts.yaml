@@ -1,541 +1,547 @@
 concepts:
-  Benin_Adm0:
+  BEN.0_Adm0:
+    GID: BEN
+    admin_name: Benin
     iso3c: BEN
+    country_name: Benin
     admin_level: Adm0
-    admin_name: TheRepublicofBenin
-    shapeID: 84139743B99999625492710
-    country_name: Benin
-  Benin_Adm1_1:
-    iso3c: BEN
-    admin_level: Adm1
-    admin_name: Borgou
-    shapeID: 11314189B6086502013331
-    country_name: Benin
-  Benin_Adm1_10:
-    iso3c: BEN
-    admin_level: Adm1
-    admin_name: Oueme
-    shapeID: 11314189B51984097201256
-    country_name: Benin
-  Benin_Adm1_11:
-    iso3c: BEN
-    admin_level: Adm1
-    admin_name: Atlanique
-    shapeID: 11314189B92184841279532
-    country_name: Benin
-  Benin_Adm1_12:
-    iso3c: BEN
-    admin_level: Adm1
-    admin_name: Mono
-    shapeID: 11314189B32238589455429
-    country_name: Benin
-  Benin_Adm1_2:
-    iso3c: BEN
-    admin_level: Adm1
+  BEN.1_1_Adm1:
+    GID: BEN.1_1
     admin_name: Alibori
-    shapeID: 11314189B84365908568321
-    country_name: Benin
-  Benin_Adm1_3:
     iso3c: BEN
+    country_name: Benin
     admin_level: Adm1
-    admin_name: Atakora
-    shapeID: 11314189B98234112011604
-    country_name: Benin
-  Benin_Adm1_4:
-    iso3c: BEN
-    admin_level: Adm1
-    admin_name: Donga
-    shapeID: 11314189B13023113934095
-    country_name: Benin
-  Benin_Adm1_5:
-    iso3c: BEN
-    admin_level: Adm1
-    admin_name: Collines
-    shapeID: 11314189B64147716128567
-    country_name: Benin
-  Benin_Adm1_6:
-    iso3c: BEN
-    admin_level: Adm1
-    admin_name: Plateau
-    shapeID: 11314189B63929627317717
-    country_name: Benin
-  Benin_Adm1_7:
-    iso3c: BEN
-    admin_level: Adm1
-    admin_name: Zou
-    shapeID: 11314189B15837635829289
-    country_name: Benin
-  Benin_Adm1_8:
-    iso3c: BEN
-    admin_level: Adm1
-    admin_name: Littoral
-    shapeID: 11314189B51785125282818
-    country_name: Benin
-  Benin_Adm1_9:
-    iso3c: BEN
-    admin_level: Adm1
-    admin_name: Kouffo
-    shapeID: 11314189B98727282609866
-    country_name: Benin
-  Benin_Adm2_1:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Abomey
-    shapeID: 17685819B36696986957740
-    country_name: Benin
-  Benin_Adm2_10:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Aplahoue
-    shapeID: 17685819B24804117588339
-    country_name: Benin
-  Benin_Adm2_11:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Athieme
-    shapeID: 17685819B69046773697304
-    country_name: Benin
-  Benin_Adm2_12:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Avrankou
-    shapeID: 17685819B15816629354661
-    country_name: Benin
-  Benin_Adm2_13:
-    iso3c: BEN
-    admin_level: Adm2
+  BEN.1.1_1_Adm2:
+    GID: BEN.1.1_1
     admin_name: Banikoara
-    shapeID: 17685819B57139564746449
-    country_name: Benin
-  Benin_Adm2_14:
     iso3c: BEN
-    admin_level: Adm2
-    admin_name: Bante
-    shapeID: 17685819B31481778008604
     country_name: Benin
-  Benin_Adm2_15:
-    iso3c: BEN
     admin_level: Adm2
-    admin_name: Bassila
-    shapeID: 17685819B94511677610410
-    country_name: Benin
-  Benin_Adm2_16:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Bembereke
-    shapeID: 17685819B44038505687321
-    country_name: Benin
-  Benin_Adm2_17:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Bohicon
-    shapeID: 17685819B15106537416311
-    country_name: Benin
-  Benin_Adm2_18:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Bonou
-    shapeID: 17685819B32706375807456
-    country_name: Benin
-  Benin_Adm2_19:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Bopa
-    shapeID: 17685819B20513081200557
-    country_name: Benin
-  Benin_Adm2_2:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Abomey-Calavi
-    shapeID: 17685819B50728061848372
-    country_name: Benin
-  Benin_Adm2_20:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Boukombe
-    shapeID: 17685819B99804537894120
-    country_name: Benin
-  Benin_Adm2_21:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Kobli
-    shapeID: 17685819B4092451643280
-    country_name: Benin
-  Benin_Adm2_22:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Come
-    shapeID: 17685819B27582361148713
-    country_name: Benin
-  Benin_Adm2_23:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Copargo
-    shapeID: 17685819B95850649576266
-    country_name: Benin
-  Benin_Adm2_24:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Cotonou
-    shapeID: 17685819B58605420666587
-    country_name: Benin
-  Benin_Adm2_25:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Cove
-    shapeID: 17685819B69592983793811
-    country_name: Benin
-  Benin_Adm2_26:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Dangbo
-    shapeID: 17685819B52071067315918
-    country_name: Benin
-  Benin_Adm2_27:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Dassa-Zoume
-    shapeID: 17685819B57031298313635
-    country_name: Benin
-  Benin_Adm2_28:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Djakotomey
-    shapeID: 17685819B33333613616473
-    country_name: Benin
-  Benin_Adm2_29:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Djidja
-    shapeID: 17685819B67930032483199
-    country_name: Benin
-  Benin_Adm2_3:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Adja-Ouere
-    shapeID: 17685819B3857845768140
-    country_name: Benin
-  Benin_Adm2_30:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Dogbo
-    shapeID: 17685819B88590181370069
-    country_name: Benin
-  Benin_Adm2_31:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Glazoue
-    shapeID: 17685819B86631365550325
-    country_name: Benin
-  Benin_Adm2_32:
-    iso3c: BEN
-    admin_level: Adm2
+  BEN.1.2_1_Adm2:
+    GID: BEN.1.2_1
     admin_name: Gogounou
-    shapeID: 17685819B47850119626851
-    country_name: Benin
-  Benin_Adm2_33:
     iso3c: BEN
-    admin_level: Adm2
-    admin_name: Grand-Popo
-    shapeID: 17685819B53348586225757
     country_name: Benin
-  Benin_Adm2_34:
-    iso3c: BEN
     admin_level: Adm2
-    admin_name: Houeyogbe
-    shapeID: 17685819B14284481019860
-    country_name: Benin
-  Benin_Adm2_35:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Ifangni
-    shapeID: 17685819B36498320143439
-    country_name: Benin
-  Benin_Adm2_36:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Kalale
-    shapeID: 17685819B22505126398074
-    country_name: Benin
-  Benin_Adm2_37:
-    iso3c: BEN
-    admin_level: Adm2
+  BEN.1.3_1_Adm2:
+    GID: BEN.1.3_1
     admin_name: Kandi
-    shapeID: 17685819B31910055772004
-    country_name: Benin
-  Benin_Adm2_38:
     iso3c: BEN
-    admin_level: Adm2
-    admin_name: Kerou
-    shapeID: 17685819B98321853839803
     country_name: Benin
-  Benin_Adm2_39:
-    iso3c: BEN
     admin_level: Adm2
-    admin_name: Ketou
-    shapeID: 17685819B61468565661274
-    country_name: Benin
-  Benin_Adm2_4:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Adjarra
-    shapeID: 17685819B66402044537068
-    country_name: Benin
-  Benin_Adm2_40:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Klouekanme
-    shapeID: 17685819B74075406499118
-    country_name: Benin
-  Benin_Adm2_41:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Kouande
-    shapeID: 17685819B73911627176990
-    country_name: Benin
-  Benin_Adm2_42:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Kpomasse
-    shapeID: 17685819B13654727190048
-    country_name: Benin
-  Benin_Adm2_43:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Lalo
-    shapeID: 17685819B4559503573339
-    country_name: Benin
-  Benin_Adm2_44:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Lokossa
-    shapeID: 17685819B68764251362376
-    country_name: Benin
-  Benin_Adm2_45:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: N'dali
-    shapeID: 17685819B79860756135863
-    country_name: Benin
-  Benin_Adm2_46:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Natitingou
-    shapeID: 17685819B66349454131554
-    country_name: Benin
-  Benin_Adm2_47:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Nikki
-    shapeID: 17685819B92421826245631
-    country_name: Benin
-  Benin_Adm2_48:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Ouake
-    shapeID: 17685819B25851007312804
-    country_name: Benin
-  Benin_Adm2_49:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Ouesse
-    shapeID: 17685819B6698534807541
-    country_name: Benin
-  Benin_Adm2_5:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Adjohoun
-    shapeID: 17685819B34979669430532
-    country_name: Benin
-  Benin_Adm2_50:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Ouidah
-    shapeID: 17685819B59667857223414
-    country_name: Benin
-  Benin_Adm2_51:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Ouinhi
-    shapeID: 17685819B27727011440945
-    country_name: Benin
-  Benin_Adm2_52:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Parakou
-    shapeID: 17685819B32176770628240
-    country_name: Benin
-  Benin_Adm2_53:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Pehunco
-    shapeID: 17685819B12843899137908
-    country_name: Benin
-  Benin_Adm2_54:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Perere
-    shapeID: 17685819B73457125885179
-    country_name: Benin
-  Benin_Adm2_55:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Pobe
-    shapeID: 17685819B21167128046214
-    country_name: Benin
-  Benin_Adm2_56:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Porto-Novo
-    shapeID: 17685819B68474195135253
-    country_name: Benin
-  Benin_Adm2_57:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Sakete
-    shapeID: 17685819B6397671477640
-    country_name: Benin
-  Benin_Adm2_58:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Savalou
-    shapeID: 17685819B6734193751411
-    country_name: Benin
-  Benin_Adm2_59:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Save
-    shapeID: 17685819B5479142895221
-    country_name: Benin
-  Benin_Adm2_6:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Agbangnizoun
-    shapeID: 17685819B54194513987818
-    country_name: Benin
-  Benin_Adm2_60:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Segbana
-    shapeID: 17685819B25902777071239
-    country_name: Benin
-  Benin_Adm2_61:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Seme-Kpodji
-    shapeID: 17685819B13440574347317
-    country_name: Benin
-  Benin_Adm2_62:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Sinende
-    shapeID: 17685819B44866040554021
-    country_name: Benin
-  Benin_Adm2_63:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: So-Ava
-    shapeID: 17685819B57130091553848
-    country_name: Benin
-  Benin_Adm2_64:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Tchaourou
-    shapeID: 17685819B56321809459452
-    country_name: Benin
-  Benin_Adm2_65:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Toffo
-    shapeID: 17685819B42315243749993
-    country_name: Benin
-  Benin_Adm2_66:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Tori-Bossito
-    shapeID: 17685819B70132266072899
-    country_name: Benin
-  Benin_Adm2_67:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Toucountouna
-    shapeID: 17685819B76954688832254
-    country_name: Benin
-  Benin_Adm2_68:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Toviklin
-    shapeID: 17685819B54561297103056
-    country_name: Benin
-  Benin_Adm2_69:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Zagnanado
-    shapeID: 17685819B16235974739823
-    country_name: Benin
-  Benin_Adm2_7:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Aguegues
-    shapeID: 17685819B55066990993617
-    country_name: Benin
-  Benin_Adm2_70:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Za-Kpota
-    shapeID: 17685819B78854505931864
-    country_name: Benin
-  Benin_Adm2_71:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Ze
-    shapeID: 17685819B72435311571007
-    country_name: Benin
-  Benin_Adm2_72:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Zogbodomey
-    shapeID: 17685819B53288119636086
-    country_name: Benin
-  Benin_Adm2_73:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Djougou
-    shapeID: 17685819B31222842827733
-    country_name: Benin
-  Benin_Adm2_74:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Tanguieta
-    shapeID: 17685819B98348434447391
-    country_name: Benin
-  Benin_Adm2_75:
-    iso3c: BEN
-    admin_level: Adm2
-    admin_name: Materi
-    shapeID: 17685819B2600041724770
-    country_name: Benin
-  Benin_Adm2_76:
-    iso3c: BEN
-    admin_level: Adm2
+  BEN.1.4_1_Adm2:
+    GID: BEN.1.4_1
     admin_name: Karimama
-    shapeID: 17685819B85973060374162
-    country_name: Benin
-  Benin_Adm2_77:
     iso3c: BEN
+    country_name: Benin
     admin_level: Adm2
+  BEN.1.5_1_Adm2:
+    GID: BEN.1.5_1
     admin_name: Malanville
-    shapeID: 17685819B18003775101914
-    country_name: Benin
-  Benin_Adm2_8:
     iso3c: BEN
-    admin_level: Adm2
-    admin_name: Akpo-Misserete
-    shapeID: 17685819B47795371701587
     country_name: Benin
-  Benin_Adm2_9:
-    iso3c: BEN
     admin_level: Adm2
+  BEN.1.6_1_Adm2:
+    GID: BEN.1.6_1
+    admin_name: Ségbana
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.10_1_Adm1:
+    GID: BEN.10_1
+    admin_name: Ouémé
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.10.1_1_Adm2:
+    GID: BEN.10.1_1
+    admin_name: Adjarra
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.10.2_1_Adm2:
+    GID: BEN.10.2_1
+    admin_name: Adjohoun
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.10.3_1_Adm2:
+    GID: BEN.10.3_1
+    admin_name: Aguégués
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.10.4_1_Adm2:
+    GID: BEN.10.4_1
+    admin_name: Akpro-Missérété
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.10.5_1_Adm2:
+    GID: BEN.10.5_1
+    admin_name: Avrankou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.10.6_1_Adm2:
+    GID: BEN.10.6_1
+    admin_name: Bonou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.10.7_1_Adm2:
+    GID: BEN.10.7_1
+    admin_name: Dangbo
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.10.8_1_Adm2:
+    GID: BEN.10.8_1
+    admin_name: Porto-Novo
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.10.9_1_Adm2:
+    GID: BEN.10.9_1
+    admin_name: Sèmè-Kpodji
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.11_1_Adm1:
+    GID: BEN.11_1
+    admin_name: Plateau
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.11.1_1_Adm2:
+    GID: BEN.11.1_1
+    admin_name: Adja-Ouèrè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.11.2_1_Adm2:
+    GID: BEN.11.2_1
+    admin_name: Ifangni
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.11.3_1_Adm2:
+    GID: BEN.11.3_1
+    admin_name: Kétou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.11.4_1_Adm2:
+    GID: BEN.11.4_1
+    admin_name: Pobè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.11.5_1_Adm2:
+    GID: BEN.11.5_1
+    admin_name: Sakété
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.12_1_Adm1:
+    GID: BEN.12_1
+    admin_name: Zou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.12.1_1_Adm2:
+    GID: BEN.12.1_1
+    admin_name: Abomey
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.12.2_1_Adm2:
+    GID: BEN.12.2_1
+    admin_name: Agbangnizoun
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.12.3_1_Adm2:
+    GID: BEN.12.3_1
+    admin_name: Bohicon
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.12.4_1_Adm2:
+    GID: BEN.12.4_1
+    admin_name: Covè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.12.5_1_Adm2:
+    GID: BEN.12.5_1
+    admin_name: Djidja
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.12.6_1_Adm2:
+    GID: BEN.12.6_1
+    admin_name: Ouinhi
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.12.7_1_Adm2:
+    GID: BEN.12.7_1
+    admin_name: Za-Kpota
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.12.8_1_Adm2:
+    GID: BEN.12.8_1
+    admin_name: Zagnanado
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.12.9_1_Adm2:
+    GID: BEN.12.9_1
+    admin_name: Zogbodomey
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.2_1_Adm1:
+    GID: BEN.2_1
+    admin_name: Atakora
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.2.1_1_Adm2:
+    GID: BEN.2.1_1
+    admin_name: Boukoumbé
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.2.2_1_Adm2:
+    GID: BEN.2.2_1
+    admin_name: Cobly
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.2.3_1_Adm2:
+    GID: BEN.2.3_1
+    admin_name: Kérou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.2.4_1_Adm2:
+    GID: BEN.2.4_1
+    admin_name: Kouandé
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.2.5_1_Adm2:
+    GID: BEN.2.5_1
+    admin_name: Matéri
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.2.6_1_Adm2:
+    GID: BEN.2.6_1
+    admin_name: Natitingou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.2.7_1_Adm2:
+    GID: BEN.2.7_1
+    admin_name: Péhunco
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.2.8_1_Adm2:
+    GID: BEN.2.8_1
+    admin_name: Tanguiéta
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.2.9_1_Adm2:
+    GID: BEN.2.9_1
+    admin_name: Toucountouna
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.3_1_Adm1:
+    GID: BEN.3_1
+    admin_name: Atlantique
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.3.1_1_Adm2:
+    GID: BEN.3.1_1
+    admin_name: Abomey-Calavi
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.3.2_1_Adm2:
+    GID: BEN.3.2_1
     admin_name: Allada
-    shapeID: 17685819B11652159225436
+    iso3c: BEN
     country_name: Benin
+    admin_level: Adm2
+  BEN.3.3_1_Adm2:
+    GID: BEN.3.3_1
+    admin_name: Kpomassè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.3.4_1_Adm2:
+    GID: BEN.3.4_1
+    admin_name: Ouidah
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.3.5_1_Adm2:
+    GID: BEN.3.5_1
+    admin_name: Sô-Ava
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.3.6_1_Adm2:
+    GID: BEN.3.6_1
+    admin_name: Toffo
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.3.7_1_Adm2:
+    GID: BEN.3.7_1
+    admin_name: Tori-Bossito
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.3.8_1_Adm2:
+    GID: BEN.3.8_1
+    admin_name: Zè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.4_1_Adm1:
+    GID: BEN.4_1
+    admin_name: Borgou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.4.1_1_Adm2:
+    GID: BEN.4.1_1
+    admin_name: Bembèrèkè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.4.2_1_Adm2:
+    GID: BEN.4.2_1
+    admin_name: Kalalé
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.4.3_1_Adm2:
+    GID: BEN.4.3_1
+    admin_name: N'Dali
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.4.4_1_Adm2:
+    GID: BEN.4.4_1
+    admin_name: Nikki
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.4.5_1_Adm2:
+    GID: BEN.4.5_1
+    admin_name: Parakou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.4.6_1_Adm2:
+    GID: BEN.4.6_1
+    admin_name: Pèrèrè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.4.7_1_Adm2:
+    GID: BEN.4.7_1
+    admin_name: Sinendé
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.4.8_1_Adm2:
+    GID: BEN.4.8_1
+    admin_name: Tchaourou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.5_1_Adm1:
+    GID: BEN.5_1
+    admin_name: Collines
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.5.1_1_Adm2:
+    GID: BEN.5.1_1
+    admin_name: Bantè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.5.2_1_Adm2:
+    GID: BEN.5.2_1
+    admin_name: Dassa-Zoumè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.5.3_1_Adm2:
+    GID: BEN.5.3_1
+    admin_name: Glazoué
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.5.4_1_Adm2:
+    GID: BEN.5.4_1
+    admin_name: Ouèssè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.5.5_1_Adm2:
+    GID: BEN.5.5_1
+    admin_name: Savalou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.5.6_1_Adm2:
+    GID: BEN.5.6_1
+    admin_name: Savè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.6_1_Adm1:
+    GID: BEN.6_1
+    admin_name: Donga
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.6.1_1_Adm2:
+    GID: BEN.6.1_1
+    admin_name: Bassila
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.6.2_1_Adm2:
+    GID: BEN.6.2_1
+    admin_name: Copargo
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.6.4_1_Adm2:
+    GID: BEN.6.4_1
+    admin_name: Ouaké
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.6.5_1_Adm2:
+    GID: BEN.6.5_1
+    admin_name: Djougou Rural
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.6.6_1_Adm2:
+    GID: BEN.6.6_1
+    admin_name: Djougou Urbain
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.7_1_Adm1:
+    GID: BEN.7_1
+    admin_name: Kouffo
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.7.1_1_Adm2:
+    GID: BEN.7.1_1
+    admin_name: Aplahoué
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.7.2_1_Adm2:
+    GID: BEN.7.2_1
+    admin_name: Djakotomey
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.7.4_1_Adm2:
+    GID: BEN.7.4_1
+    admin_name: Klouékanmè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.7.5_1_Adm2:
+    GID: BEN.7.5_1
+    admin_name: Lalo
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.7.6_1_Adm2:
+    GID: BEN.7.6_1
+    admin_name: Toviklin
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.8_1_Adm1:
+    GID: BEN.8_1
+    admin_name: Littoral
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.8.1_1_Adm2:
+    GID: BEN.8.1_1
+    admin_name: Cotonou
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.9_1_Adm1:
+    GID: BEN.9_1
+    admin_name: Mono
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm1
+  BEN.9.1_1_Adm2:
+    GID: BEN.9.1_1
+    admin_name: Athiémè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.9.2_1_Adm2:
+    GID: BEN.9.2_1
+    admin_name: Bopa
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.9.3_1_Adm2:
+    GID: BEN.9.3_1
+    admin_name: Comè
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.9.4_1_Adm2:
+    GID: BEN.9.4_1
+    admin_name: Grand-Popo
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.9.5_1_Adm2:
+    GID: BEN.9.5_1
+    admin_name: Houéyogbé
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.9.6_1_Adm2:
+    GID: BEN.9.6_1
+    admin_name: Dogbo
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2
+  BEN.9.7_1_Adm2:
+    GID: BEN.9.7_1
+    admin_name: Lokossa
+    iso3c: BEN
+    country_name: Benin
+    admin_level: Adm2

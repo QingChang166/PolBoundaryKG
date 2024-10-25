@@ -1,913 +1,493 @@
 concepts:
-  Liberia_Adm0:
-    iso3c: LBR
-    admin_level: Adm0
+  LBR.0_Adm0:
+    GID: LBR
     admin_name: Liberia
-    shapeID: 59954213B27899056136822
-    country_name: Liberia
-  Liberia_Adm1_1:
     iso3c: LBR
-    admin_level: Adm1
+    country_name: Liberia
+    admin_level: Adm0
+  LBR.1_1_Adm1:
+    GID: LBR.1_1
     admin_name: Bomi
-    shapeID: 1627179B80972729563959
-    country_name: Liberia
-  Liberia_Adm1_10:
     iso3c: LBR
+    country_name: Liberia
     admin_level: Adm1
-    admin_name: Maryland
-    shapeID: 1627179B42926997018975
-    country_name: Liberia
-  Liberia_Adm1_11:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: Montserrado
-    shapeID: 1627179B44982627598129
-    country_name: Liberia
-  Liberia_Adm1_12:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: Nimba
-    shapeID: 1627179B84371361469065
-    country_name: Liberia
-  Liberia_Adm1_13:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: RiverGee
-    shapeID: 1627179B79218106656993
-    country_name: Liberia
-  Liberia_Adm1_14:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: Rivercess
-    shapeID: 1627179B71095179953326
-    country_name: Liberia
-  Liberia_Adm1_15:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: Sinoe
-    shapeID: 1627179B77023488056889
-    country_name: Liberia
-  Liberia_Adm1_2:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: Bong
-    shapeID: 1627179B61083292869492
-    country_name: Liberia
-  Liberia_Adm1_3:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: Gbarpolu
-    shapeID: 1627179B68944354302681
-    country_name: Liberia
-  Liberia_Adm1_4:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: GrandBassa
-    shapeID: 1627179B88241484252267
-    country_name: Liberia
-  Liberia_Adm1_5:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: GrandCapeMount
-    shapeID: 1627179B74258959251724
-    country_name: Liberia
-  Liberia_Adm1_6:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: GrandGedeh
-    shapeID: 1627179B37296174914995
-    country_name: Liberia
-  Liberia_Adm1_7:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: GrandKru
-    shapeID: 1627179B73218899246114
-    country_name: Liberia
-  Liberia_Adm1_8:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: Lofa
-    shapeID: 1627179B56799731812869
-    country_name: Liberia
-  Liberia_Adm1_9:
-    iso3c: LBR
-    admin_level: Adm1
-    admin_name: Margibi
-    shapeID: 1627179B42027709959095
-    country_name: Liberia
-  Liberia_Adm2_1:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: B'hai
-    shapeID: 62588387B62156042060365
-    country_name: Liberia
-  Liberia_Adm2_10:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Bokon
-    shapeID: 62588387B4912984440097
-    country_name: Liberia
-  Liberia_Adm2_100:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Salala
-    shapeID: 62588387B82841165757499
-    country_name: Liberia
-  Liberia_Adm2_101:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Salayea
-    shapeID: 62588387B29328841835384
-    country_name: Liberia
-  Liberia_Adm2_102:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: SamGbalor
-    shapeID: 62588387B40614732140726
-    country_name: Liberia
-  Liberia_Adm2_103:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: SanniquellieMahn
-    shapeID: 62588387B26498986950089
-    country_name: Liberia
-  Liberia_Adm2_104:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Sanoyeah
-    shapeID: 62588387B99544432637290
-    country_name: Liberia
-  Liberia_Adm2_105:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: SanquinDist#1
-    shapeID: 62588387B9002390323622
-    country_name: Liberia
-  Liberia_Adm2_106:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: SanquinDist#2
-    shapeID: 62588387B29712288551419
-    country_name: Liberia
-  Liberia_Adm2_107:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: SanquinDist#3
-    shapeID: 62588387B80156561530658
-    country_name: Liberia
-  Liberia_Adm2_108:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Sarbo
-    shapeID: 62588387B52564280766994
-    country_name: Liberia
-  Liberia_Adm2_109:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Seekon
-    shapeID: 62588387B87591253137556
-    country_name: Liberia
-  Liberia_Adm2_11:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Bolloh
-    shapeID: 62588387B86571798658395
-    country_name: Liberia
-  Liberia_Adm2_110:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Senjeh
-    shapeID: 62588387B88523823709040
-    country_name: Liberia
-  Liberia_Adm2_111:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: St.JohnRiverCity
-    shapeID: 62588387B7916938294123
-    country_name: Liberia
-  Liberia_Adm2_112:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: St.PaulRiver
-    shapeID: 62588387B63326242332262
-    country_name: Liberia
-  Liberia_Adm2_113:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Suakoko
-    shapeID: 62588387B13478865264863
-    country_name: Liberia
-  Liberia_Adm2_114:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: SuehnMecca
-    shapeID: 62588387B34365926899718
-    country_name: Liberia
-  Liberia_Adm2_115:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Tchien
-    shapeID: 62588387B79134287051190
-    country_name: Liberia
-  Liberia_Adm2_116:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Tewor
-    shapeID: 62588387B21593373041420
-    country_name: Liberia
-  Liberia_Adm2_117:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Todee
-    shapeID: 62588387B18343621802172
-    country_name: Liberia
-  Liberia_Adm2_118:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Trenbo
-    shapeID: 62588387B53229219679368
-    country_name: Liberia
-  Liberia_Adm2_119:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Tukpahblee
-    shapeID: 62588387B55119976119769
-    country_name: Liberia
-  Liberia_Adm2_12:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Bopolu
-    shapeID: 62588387B82153656109433
-    country_name: Liberia
-  Liberia_Adm2_120:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Tuobo
-    shapeID: 62588387B28588993408977
-    country_name: Liberia
-  Liberia_Adm2_121:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: TwanRiver
-    shapeID: 62588387B61657259363442
-    country_name: Liberia
-  Liberia_Adm2_122:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: UpperJloh
-    shapeID: 62588387B65725534392235
-    country_name: Liberia
-  Liberia_Adm2_123:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Vahun
-    shapeID: 62588387B17909685690178
-    country_name: Liberia
-  Liberia_Adm2_124:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Voinjama
-    shapeID: 62588387B81783560061544
-    country_name: Liberia
-  Liberia_Adm2_125:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Wedjah
-    shapeID: 62588387B38040387852125
-    country_name: Liberia
-  Liberia_Adm2_126:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Wee-Gbehyi-Mahn
-    shapeID: 62588387B71258849496296
-    country_name: Liberia
-  Liberia_Adm2_127:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Whojah
-    shapeID: 62588387B36010153941862
-    country_name: Liberia
-  Liberia_Adm2_128:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Wlogba
-    shapeID: 62588387B63880548555579
-    country_name: Liberia
-  Liberia_Adm2_129:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Yarmein
-    shapeID: 62588387B94510923567486
-    country_name: Liberia
-  Liberia_Adm2_13:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Buah
-    shapeID: 62588387B84481919127843
-    country_name: Liberia
-  Liberia_Adm2_130:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: YarpeaMahn
-    shapeID: 62588387B64952289701703
-    country_name: Liberia
-  Liberia_Adm2_131:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: YarweinMehnsonnoh
-    shapeID: 62588387B90260404265556
-    country_name: Liberia
-  Liberia_Adm2_132:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Yeallequelleh
-    shapeID: 62588387B10021882083615
-    country_name: Liberia
-  Liberia_Adm2_133:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Zarflahn
-    shapeID: 62588387B27438362743371
-    country_name: Liberia
-  Liberia_Adm2_134:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Zoe-Gbao
-    shapeID: 62588387B27641742881305
-    country_name: Liberia
-  Liberia_Adm2_135:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Zorzor
-    shapeID: 62588387B39118473724395
-    country_name: Liberia
-  Liberia_Adm2_136:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Zota
-    shapeID: 62588387B17056544161092
-    country_name: Liberia
-  Liberia_Adm2_14:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Butaw
-    shapeID: 62588387B58471335034652
-    country_name: Liberia
-  Liberia_Adm2_15:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Buu-Yao
-    shapeID: 62588387B45934307689461
-    country_name: Liberia
-  Liberia_Adm2_16:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Careysburg
-    shapeID: 62588387B2159992345918
-    country_name: Liberia
-  Liberia_Adm2_17:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Cavala
-    shapeID: 62588387B63271162227743
-    country_name: Liberia
-  Liberia_Adm2_18:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: CentralRivercess
-    shapeID: 62588387B65596489935901
-    country_name: Liberia
-  Liberia_Adm2_19:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Chedepo
-    shapeID: 62588387B99879349198662
-    country_name: Liberia
-  Liberia_Adm2_2:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Barclayville
-    shapeID: 62588387B34130334496008
-    country_name: Liberia
-  Liberia_Adm2_20:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Commonwealth
-    shapeID: 62588387B80584494728088
-    country_name: Liberia
-  Liberia_Adm2_21:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Commonwealth1
-    shapeID: 62588387B86192689871255
-    country_name: Liberia
-  Liberia_Adm2_22:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Commonwealth2
-    shapeID: 62588387B22492671376188
-    country_name: Liberia
-  Liberia_Adm2_23:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: District#1
-    shapeID: 62588387B32884824633153
-    country_name: Liberia
-  Liberia_Adm2_24:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: District#2
-    shapeID: 62588387B28377115536759
-    country_name: Liberia
-  Liberia_Adm2_25:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: District#3
-    shapeID: 62588387B53220692513074
-    country_name: Liberia
-  Liberia_Adm2_26:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: District#4
-    shapeID: 62588387B61310853787803
-    country_name: Liberia
-  Liberia_Adm2_27:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Doe
-    shapeID: 62588387B53345215693508
-    country_name: Liberia
-  Liberia_Adm2_28:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Doedain
-    shapeID: 62588387B34334652858528
-    country_name: Liberia
-  Liberia_Adm2_29:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Dorbor
-    shapeID: 62588387B97917112158690
-    country_name: Liberia
-  Liberia_Adm2_3:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Beawor
-    shapeID: 62588387B88645489379872
-    country_name: Liberia
-  Liberia_Adm2_30:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Dowein
-    shapeID: 62588387B7448810269647
-    country_name: Liberia
-  Liberia_Adm2_31:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: DugbeRiver
-    shapeID: 62588387B59492535947478
-    country_name: Liberia
-  Liberia_Adm2_32:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Dweh
-    shapeID: 62588387B41100614633328
-    country_name: Liberia
-  Liberia_Adm2_33:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Felo-Jekwi
-    shapeID: 62588387B92809240343923
-    country_name: Liberia
-  Liberia_Adm2_34:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: FenRiver
-    shapeID: 62588387B6652087258063
-    country_name: Liberia
-  Liberia_Adm2_35:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Fenetoe
-    shapeID: 62588387B87662048762198
-    country_name: Liberia
-  Liberia_Adm2_36:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Firestone
-    shapeID: 62588387B74380915330894
-    country_name: Liberia
-  Liberia_Adm2_37:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Forpoh
-    shapeID: 62588387B83711466952292
-    country_name: Liberia
-  Liberia_Adm2_38:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Foya
-    shapeID: 62588387B94896309973685
-    country_name: Liberia
-  Liberia_Adm2_39:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Fuamah
-    shapeID: 62588387B99058243343156
-    country_name: Liberia
-  Liberia_Adm2_4:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Belleh
-    shapeID: 62588387B94232483093280
-    country_name: Liberia
-  Liberia_Adm2_40:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Garr-Bain
-    shapeID: 62588387B82144239475407
-    country_name: Liberia
-  Liberia_Adm2_41:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Garraway
-    shapeID: 62588387B63754413826366
-    country_name: Liberia
-  Liberia_Adm2_42:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Garwula
-    shapeID: 62588387B58887581868104
-    country_name: Liberia
-  Liberia_Adm2_43:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gbao
-    shapeID: 62588387B49218131763508
-    country_name: Liberia
-  Liberia_Adm2_44:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gbarma
-    shapeID: 62588387B9251982733395
-    country_name: Liberia
-  Liberia_Adm2_45:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gbeapo
-    shapeID: 62588387B88320605520745
-    country_name: Liberia
-  Liberia_Adm2_46:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gbehlay-Geh
-    shapeID: 62588387B4114270001160
-    country_name: Liberia
-  Liberia_Adm2_47:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gbi&Doru
-    shapeID: 62588387B4230579459991
-    country_name: Liberia
-  Liberia_Adm2_48:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gboe-Ploe
-    shapeID: 62588387B47381315935072
-    country_name: Liberia
-  Liberia_Adm2_49:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gbor
-    shapeID: 62588387B71745180805277
-    country_name: Liberia
-  Liberia_Adm2_5:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Bleebo
-    shapeID: 62588387B93469506869608
-    country_name: Liberia
-  Liberia_Adm2_50:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gee
-    shapeID: 62588387B93003043713282
-    country_name: Liberia
-  Liberia_Adm2_51:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gibi
-    shapeID: 62588387B31480436327445
-    country_name: Liberia
-  Liberia_Adm2_52:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Glaro
-    shapeID: 62588387B27164468507335
-    country_name: Liberia
-  Liberia_Adm2_53:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Glio-Twarbo
-    shapeID: 62588387B48887094579275
-    country_name: Liberia
-  Liberia_Adm2_54:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Golakonneh
-    shapeID: 62588387B70898832426748
-    country_name: Liberia
-  Liberia_Adm2_55:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gounwolaila
-    shapeID: 62588387B55137864763124
-    country_name: Liberia
-  Liberia_Adm2_56:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: GrandCessWedabo
-    shapeID: 62588387B28167569470031
-    country_name: Liberia
-  Liberia_Adm2_57:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: GreaterMonrovia
-    shapeID: 62588387B62702599090886
-    country_name: Liberia
-  Liberia_Adm2_58:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Greenville
-    shapeID: 62588387B68895676065239
-    country_name: Liberia
-  Liberia_Adm2_59:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Gwelekpoken
-    shapeID: 62588387B88590052314441
-    country_name: Liberia
-  Liberia_Adm2_6:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Bodae
-    shapeID: 62588387B10493983903288
-    country_name: Liberia
-  Liberia_Adm2_60:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Harper
-    shapeID: 62588387B65193305891299
-    country_name: Liberia
-  Liberia_Adm2_61:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Jaedae
-    shapeID: 62588387B27805419534049
-    country_name: Liberia
-  Liberia_Adm2_62:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Jeadepo
-    shapeID: 62588387B74933582499482
-    country_name: Liberia
-  Liberia_Adm2_63:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: JoRiver
-    shapeID: 62588387B78382325144882
-    country_name: Liberia
-  Liberia_Adm2_64:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Jorquelleh
-    shapeID: 62588387B10332133917800
-    country_name: Liberia
-  Liberia_Adm2_65:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Juarzon
-    shapeID: 62588387B89490647958390
-    country_name: Liberia
-  Liberia_Adm2_66:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Kakata
-    shapeID: 62588387B63407074353739
-    country_name: Liberia
-  Liberia_Adm2_67:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Karforh
-    shapeID: 62588387B52645090696794
-    country_name: Liberia
-  Liberia_Adm2_68:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Karluway#1
-    shapeID: 62588387B21181915979204
-    country_name: Liberia
-  Liberia_Adm2_69:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Karluway#2
-    shapeID: 62588387B3504103493017
-    country_name: Liberia
-  Liberia_Adm2_7:
-    iso3c: LBR
-    admin_level: Adm2
-    admin_name: Boe&Quilla
-    shapeID: 62588387B21067170743113
-    country_name: Liberia
-  Liberia_Adm2_70:
-    iso3c: LBR
-    admin_level: Adm2
+  LBR.1.1_1_Adm2:
+    GID: LBR.1.1_1
     admin_name: Klay
-    shapeID: 62588387B44236806524966
-    country_name: Liberia
-  Liberia_Adm2_71:
     iso3c: LBR
-    admin_level: Adm2
-    admin_name: Kokoyah
-    shapeID: 62588387B51807838510700
     country_name: Liberia
-  Liberia_Adm2_72:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Kolahun
-    shapeID: 62588387B25205457381815
+  LBR.1.2_1_Adm2:
+    GID: LBR.1.2_1
+    admin_name: Mecca
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_73:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Kongba
-    shapeID: 62588387B18809430914172
+  LBR.10_1_Adm1:
+    GID: LBR.10_1
+    admin_name: Maryland
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_74:
+    admin_level: Adm1
+  LBR.10.1_1_Adm2:
+    GID: LBR.10.1_1
+    admin_name: Barrobo
     iso3c: LBR
-    admin_level: Adm2
-    admin_name: Konobo
-    shapeID: 62588387B20671280647544
     country_name: Liberia
-  Liberia_Adm2_75:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Kpaai
-    shapeID: 62588387B85752437288892
+  LBR.10.2_1_Adm2:
+    GID: LBR.10.2_1
+    admin_name: Pleebo/Sodeken
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_76:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Kparblee
-    shapeID: 62588387B31416079447902
+  LBR.11_1_Adm1:
+    GID: LBR.11_1
+    admin_name: Montserrado
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_77:
+    admin_level: Adm1
+  LBR.11.1_1_Adm2:
+    GID: LBR.11.1_1
+    admin_name: Careysburg
     iso3c: LBR
+    country_name: Liberia
     admin_level: Adm2
+  LBR.11.2_1_Adm2:
+    GID: LBR.11.2_1
+    admin_name: Greater Monrovia
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.11.3_1_Adm2:
+    GID: LBR.11.3_1
+    admin_name: St Paul River
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.11.4_1_Adm2:
+    GID: LBR.11.4_1
+    admin_name: Todee
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12_1_Adm1:
+    GID: LBR.12_1
+    admin_name: Nimba
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.12.1_1_Adm2:
+    GID: LBR.12.1_1
+    admin_name: Gbehlageh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12.2_1_Adm2:
+    GID: LBR.12.2_1
+    admin_name: Saclepea
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12.3_1_Adm2:
+    GID: LBR.12.3_1
+    admin_name: Sanniquelleh-Mahn
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12.4_1_Adm2:
+    GID: LBR.12.4_1
+    admin_name: Tappita
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12.5_1_Adm2:
+    GID: LBR.12.5_1
+    admin_name: Yarwein-Mehnsohnne
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12.6_1_Adm2:
+    GID: LBR.12.6_1
+    admin_name: Zoegeh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.13_1_Adm1:
+    GID: LBR.13_1
+    admin_name: Rivercess
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.13.1_1_Adm2:
+    GID: LBR.13.1_1
+    admin_name: Morweh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.13.2_1_Adm2:
+    GID: LBR.13.2_1
+    admin_name: Timbo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.14_1_Adm1:
+    GID: LBR.14_1
+    admin_name: River Gee
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.14.1_1_Adm2:
+    GID: LBR.14.1_1
+    admin_name: Gbeapo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.14.2_1_Adm2:
+    GID: LBR.14.2_1
+    admin_name: Webbo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15_1_Adm1:
+    GID: LBR.15_1
+    admin_name: Sinoe
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.15.1_1_Adm2:
+    GID: LBR.15.1_1
+    admin_name: Butaw
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.2_1_Adm2:
+    GID: LBR.15.2_1
+    admin_name: Dugbe River
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.3_1_Adm2:
+    GID: LBR.15.3_1
+    admin_name: Greenville
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.4_1_Adm2:
+    GID: LBR.15.4_1
+    admin_name: Jaedae Jaedepo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.5_1_Adm2:
+    GID: LBR.15.5_1
+    admin_name: Juarzon
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.6_1_Adm2:
+    GID: LBR.15.6_1
     admin_name: Kpayan
-    shapeID: 62588387B5166019461138
-    country_name: Liberia
-  Liberia_Adm2_78:
     iso3c: LBR
-    admin_level: Adm2
-    admin_name: Kpi
-    shapeID: 62588387B64851496201268
     country_name: Liberia
-  Liberia_Adm2_79:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: KuluShawBoe
-    shapeID: 62588387B37465422358714
+  LBR.15.7_1_Adm2:
+    GID: LBR.15.7_1
+    admin_name: Pyneston
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_8:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Boinsen
-    shapeID: 62588387B25170598917016
+  LBR.2_1_Adm1:
+    GID: LBR.2_1
+    admin_name: Bong
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_80:
+    admin_level: Adm1
+  LBR.2.1_1_Adm2:
+    GID: LBR.2.1_1
+    admin_name: Fuamah
     iso3c: LBR
-    admin_level: Adm2
-    admin_name: Leewehpea-Mahn
-    shapeID: 62588387B51124182778876
     country_name: Liberia
-  Liberia_Adm2_81:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: LowerJloh
-    shapeID: 62588387B79313023095428
+  LBR.2.2_1_Adm2:
+    GID: LBR.2.2_1
+    admin_name: Jorquelleh
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_82:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: MambahKaba
-    shapeID: 62588387B59975354142856
+  LBR.2.3_1_Adm2:
+    GID: LBR.2.3_1
+    admin_name: Kokoyah
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_83:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Meinpea-Mahn
-    shapeID: 62588387B99870761463073
+  LBR.2.4_1_Adm2:
+    GID: LBR.2.4_1
+    admin_name: Panta-Kpa
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_84:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Nanee
-    shapeID: 62588387B68127744098501
+  LBR.2.5_1_Adm2:
+    GID: LBR.2.5_1
+    admin_name: Salala
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_85:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Neekreen
-    shapeID: 62588387B67611028502926
+  LBR.2.6_1_Adm2:
+    GID: LBR.2.6_1
+    admin_name: Sanayea
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_86:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Norwein
-    shapeID: 62588387B87205642323712
+  LBR.2.7_1_Adm2:
+    GID: LBR.2.7_1
+    admin_name: Suakoko
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_87:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Nrokwia-Wesldow
-    shapeID: 62588387B98873845016712
+  LBR.2.8_1_Adm2:
+    GID: LBR.2.8_1
+    admin_name: Zota
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_88:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Nyenawliken
-    shapeID: 62588387B90652682225930
+  LBR.3_1_Adm1:
+    GID: LBR.3_1
+    admin_name: Gbapolu
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_89:
+    admin_level: Adm1
+  LBR.3.1_1_Adm2:
+    GID: LBR.3.1_1
+    admin_name: Belleh
     iso3c: LBR
-    admin_level: Adm2
-    admin_name: Nyenebo
-    shapeID: 62588387B68728641169413
     country_name: Liberia
-  Liberia_Adm2_9:
-    iso3c: LBR
     admin_level: Adm2
+  LBR.3.2_1_Adm2:
+    GID: LBR.3.2_1
     admin_name: Bokomu
-    shapeID: 62588387B58325877345443
-    country_name: Liberia
-  Liberia_Adm2_90:
     iso3c: LBR
-    admin_level: Adm2
-    admin_name: Nyorken
-    shapeID: 62588387B79277340487156
     country_name: Liberia
-  Liberia_Adm2_91:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Owensgrove
-    shapeID: 62588387B80284911734552
+  LBR.3.3_1_Adm2:
+    GID: LBR.3.3_1
+    admin_name: Bopolu
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_92:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Panta
-    shapeID: 62588387B50517390877930
+  LBR.3.4_1_Adm2:
+    GID: LBR.3.4_1
+    admin_name: Gbarma
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_93:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: PlahnNyarn
-    shapeID: 62588387B77612051850083
+  LBR.3.5_1_Adm2:
+    GID: LBR.3.5_1
+    admin_name: Kongba
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_94:
-    iso3c: LBR
     admin_level: Adm2
-    admin_name: Pleebo/Sodoken
-    shapeID: 62588387B59551016114373
+  LBR.4_1_Adm1:
+    GID: LBR.4_1
+    admin_name: Grand Cape Mount
+    iso3c: LBR
     country_name: Liberia
-  Liberia_Adm2_95:
+    admin_level: Adm1
+  LBR.4.1_1_Adm2:
+    GID: LBR.4.1_1
+    admin_name: Commnwealth
     iso3c: LBR
+    country_name: Liberia
     admin_level: Adm2
+  LBR.4.2_1_Adm2:
+    GID: LBR.4.2_1
+    admin_name: Garwula
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.4.3_1_Adm2:
+    GID: LBR.4.3_1
+    admin_name: Golakonneh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.4.4_1_Adm2:
+    GID: LBR.4.4_1
     admin_name: Porkpa
-    shapeID: 62588387B76680524179510
-    country_name: Liberia
-  Liberia_Adm2_96:
     iso3c: LBR
-    admin_level: Adm2
-    admin_name: Potupo
-    shapeID: 62588387B58359330496040
     country_name: Liberia
-  Liberia_Adm2_97:
+    admin_level: Adm2
+  LBR.4.5_1_Adm2:
+    GID: LBR.4.5_1
+    admin_name: Tewor
     iso3c: LBR
-    admin_level: Adm2
-    admin_name: Putu
-    shapeID: 62588387B18265546179194
     country_name: Liberia
-  Liberia_Adm2_98:
+    admin_level: Adm2
+  LBR.5_1_Adm1:
+    GID: LBR.5_1
+    admin_name: Grand Bassa
     iso3c: LBR
-    admin_level: Adm2
-    admin_name: PynesTown
-    shapeID: 62588387B44747363578735
     country_name: Liberia
-  Liberia_Adm2_99:
+    admin_level: Adm1
+  LBR.5.1_1_Adm2:
+    GID: LBR.5.1_1
+    admin_name: 'District # 1'
     iso3c: LBR
-    admin_level: Adm2
-    admin_name: QuarduBoundi
-    shapeID: 62588387B13670701840793
     country_name: Liberia
+    admin_level: Adm2
+  LBR.5.2_1_Adm2:
+    GID: LBR.5.2_1
+    admin_name: 'District # 2'
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.5.3_1_Adm2:
+    GID: LBR.5.3_1
+    admin_name: 'District # 3'
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.5.4_1_Adm2:
+    GID: LBR.5.4_1
+    admin_name: 'District # 4'
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.5.5_1_Adm2:
+    GID: LBR.5.5_1
+    admin_name: Owensgrove
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.5.6_1_Adm2:
+    GID: LBR.5.6_1
+    admin_name: Stjohnriver
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.6_1_Adm1:
+    GID: LBR.6_1
+    admin_name: Grand Gedeh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.6.1_1_Adm2:
+    GID: LBR.6.1_1
+    admin_name: Gbarzon
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.6.2_1_Adm2:
+    GID: LBR.6.2_1
+    admin_name: Konobo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.6.3_1_Adm2:
+    GID: LBR.6.3_1
+    admin_name: Tchien
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.7_1_Adm1:
+    GID: LBR.7_1
+    admin_name: Grand Kru
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.7.1_1_Adm2:
+    GID: LBR.7.1_1
+    admin_name: Buah
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.7.2_1_Adm2:
+    GID: LBR.7.2_1
+    admin_name: Lower Kru Coast
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.7.3_1_Adm2:
+    GID: LBR.7.3_1
+    admin_name: Sasstown 180606
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.7.4_1_Adm2:
+    GID: LBR.7.4_1
+    admin_name: Upperkrucoast
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8_1_Adm1:
+    GID: LBR.8_1
+    admin_name: Lofa
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.8.1_1_Adm2:
+    GID: LBR.8.1_1
+    admin_name: Foya
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8.2_1_Adm2:
+    GID: LBR.8.2_1
+    admin_name: Kolahun
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8.3_1_Adm2:
+    GID: LBR.8.3_1
+    admin_name: Lower Kru Coast
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8.4_1_Adm2:
+    GID: LBR.8.4_1
+    admin_name: Salayea
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8.5_1_Adm2:
+    GID: LBR.8.5_1
+    admin_name: Voinjama
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8.6_1_Adm2:
+    GID: LBR.8.6_1
+    admin_name: Zorzor
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.9_1_Adm1:
+    GID: LBR.9_1
+    admin_name: Margibi
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.9.1_1_Adm2:
+    GID: LBR.9.1_1
+    admin_name: Firestone
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.9.2_1_Adm2:
+    GID: LBR.9.2_1
+    admin_name: Gibi
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.9.3_1_Adm2:
+    GID: LBR.9.3_1
+    admin_name: Kakata
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.9.4_1_Adm2:
+    GID: LBR.9.4_1
+    admin_name: Mambah-Kaba
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2

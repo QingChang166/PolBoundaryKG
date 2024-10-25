@@ -1,529 +1,421 @@
 concepts:
-  Morocco_Adm0:
-    iso3c: MAR
-    admin_level: Adm0
+  MAR.0_Adm0:
+    GID: MAR
     admin_name: Morocco
-    shapeID: 5654995B609903263945
-    country_name: Morocco
-  Morocco_Adm1_1:
     iso3c: MAR
-    admin_level: Adm1
-    admin_name: Laâyoune-SakiaElHamra
-    shapeID: 70788906B89532291078161
     country_name: Morocco
-  Morocco_Adm1_10:
+    admin_level: Adm0
+  MAR.1_1_Adm1:
+    GID: MAR.1_1
+    admin_name: Chaouia - Ouardigha
     iso3c: MAR
-    admin_level: Adm1
-    admin_name: Rabat-Salé-Kenitra
-    shapeID: 70788906B15955360211262
     country_name: Morocco
-  Morocco_Adm1_11:
-    iso3c: MAR
     admin_level: Adm1
-    admin_name: Fez-Meknes
-    shapeID: 70788906B83815134303720
+  MAR.1.1_1_Adm2:
+    GID: MAR.1.1_1
+    admin_name: Ben Slimane
+    iso3c: MAR
     country_name: Morocco
-  Morocco_Adm1_12:
+    admin_level: Adm2
+  MAR.1.2_1_Adm2:
+    GID: MAR.1.2_1
+    admin_name: Khouribga
     iso3c: MAR
-    admin_level: Adm1
-    admin_name: BéniMellal-Khénifra
-    shapeID: 70788906B63032885328780
     country_name: Morocco
-  Morocco_Adm1_2:
+    admin_level: Adm2
+  MAR.1.3_1_Adm2:
+    GID: MAR.1.3_1
+    admin_name: Settat
     iso3c: MAR
-    admin_level: Adm1
-    admin_name: Tangier-Tetouan-AlHoceima
-    shapeID: 70788906B66040098455254
     country_name: Morocco
-  Morocco_Adm1_3:
-    iso3c: MAR
-    admin_level: Adm1
+    admin_level: Adm2
+  MAR.10_1_Adm1:
+    GID: MAR.10_1
     admin_name: Oriental
-    shapeID: 70788906B40056535803135
-    country_name: Morocco
-  Morocco_Adm1_4:
     iso3c: MAR
+    country_name: Morocco
     admin_level: Adm1
-    admin_name: Drâa-Tafilalet
-    shapeID: 70788906B26242154300952
-    country_name: Morocco
-  Morocco_Adm1_5:
+  MAR.10.1_1_Adm2:
+    GID: MAR.10.1_1
+    admin_name: Berkane Taourirt
     iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.10.2_1_Adm2:
+    GID: MAR.10.2_1
+    admin_name: Figuig
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.10.3_1_Adm2:
+    GID: MAR.10.3_1
+    admin_name: Jerada
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.10.4_1_Adm2:
+    GID: MAR.10.4_1
+    admin_name: Nador
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.10.5_1_Adm2:
+    GID: MAR.10.5_1
+    admin_name: Oujda Angad
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.11_1_Adm1:
+    GID: MAR.11_1
+    admin_name: Rabat - Salé - Zemmour - Zaer
+    iso3c: MAR
+    country_name: Morocco
     admin_level: Adm1
-    admin_name: Souss-Massa
-    shapeID: 70788906B1820144472977
-    country_name: Morocco
-  Morocco_Adm1_6:
+  MAR.11.1_1_Adm2:
+    GID: MAR.11.1_1
+    admin_name: Khémisset
     iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.11.2_1_Adm2:
+    GID: MAR.11.2_1
+    admin_name: Rabat
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.11.3_1_Adm2:
+    GID: MAR.11.3_1
+    admin_name: Salé
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.11.4_1_Adm2:
+    GID: MAR.11.4_1
+    admin_name: Skhirate-Témara
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.12_1_Adm1:
+    GID: MAR.12_1
+    admin_name: Souss - Massa - Draâ
+    iso3c: MAR
+    country_name: Morocco
     admin_level: Adm1
-    admin_name: Guelmim-OuedNoun
-    shapeID: 70788906B64069740334949
-    country_name: Morocco
-  Morocco_Adm1_7:
+  MAR.12.1_1_Adm2:
+    GID: MAR.12.1_1
+    admin_name: Agadir-Ida ou Tanane
     iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.12.2_1_Adm2:
+    GID: MAR.12.2_1
+    admin_name: Chtouka-Aït Baha
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.12.3_1_Adm2:
+    GID: MAR.12.3_1
+    admin_name: Inezgane-Aït Melloul
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.12.4_1_Adm2:
+    GID: MAR.12.4_1
+    admin_name: Ouarzazate
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.12.5_1_Adm2:
+    GID: MAR.12.5_1
+    admin_name: Taroudannt
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.12.6_1_Adm2:
+    GID: MAR.12.6_1
+    admin_name: Tiznit
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.12.7_1_Adm2:
+    GID: MAR.12.7_1
+    admin_name: Zagora
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.13_1_Adm1:
+    GID: MAR.13_1
+    admin_name: Tadla - Azilal
+    iso3c: MAR
+    country_name: Morocco
     admin_level: Adm1
-    admin_name: Casablanca-Settat
-    shapeID: 70788906B33851053053385
-    country_name: Morocco
-  Morocco_Adm1_8:
+  MAR.13.1_1_Adm2:
+    GID: MAR.13.1_1
+    admin_name: Azilal
     iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.13.2_1_Adm2:
+    GID: MAR.13.2_1
+    admin_name: Béni Mellal
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.14_1_Adm1:
+    GID: MAR.14_1
+    admin_name: Tanger - Tétouan
+    iso3c: MAR
+    country_name: Morocco
     admin_level: Adm1
-    admin_name: Marrakech-Safi
-    shapeID: 70788906B60308563647099
-    country_name: Morocco
-  Morocco_Adm1_9:
+  MAR.14.1_1_Adm2:
+    GID: MAR.14.1_1
+    admin_name: Chefchaouen
     iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.14.2_1_Adm2:
+    GID: MAR.14.2_1
+    admin_name: Fahs Anjra
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.14.3_1_Adm2:
+    GID: MAR.14.3_1
+    admin_name: Larache
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.14.4_1_Adm2:
+    GID: MAR.14.4_1
+    admin_name: Tanger-Assilah
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.14.5_1_Adm2:
+    GID: MAR.14.5_1
+    admin_name: Tétouan
+    iso3c: MAR
+    country_name: Morocco
+    admin_level: Adm2
+  MAR.15_1_Adm1:
+    GID: MAR.15_1
+    admin_name: Taza - Al Hoceima - Taounate
+    iso3c: MAR
+    country_name: Morocco
     admin_level: Adm1
-    admin_name: Dakhla-OuedEd-Dahab
-    shapeID: 70788906B40522022577718
-    country_name: Morocco
-  Morocco_Adm2_1:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeKhémissetإقليمالخميسات
-    shapeID: 96644757B24539393832458
-    country_name: Morocco
-  Morocco_Adm2_10:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeSafiإقليمأسفي
-    shapeID: 96644757B23117375948520
-    country_name: Morocco
-  Morocco_Adm2_11:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeYoussoufiaإقليماليوسفية
-    shapeID: 96644757B54259280648674
-    country_name: Morocco
-  Morocco_Adm2_12:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeMoulayYacoubإقليممولاييعقوب
-    shapeID: 96644757B42104761334354
-    country_name: Morocco
-  Morocco_Adm2_13:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeNadorإقليمالناظور
-    shapeID: 96644757B25654465299878
-    country_name: Morocco
-  Morocco_Adm2_14:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: ChefchaouenProvince
-    shapeID: 96644757B54306876372793
-    country_name: Morocco
-  Morocco_Adm2_15:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: PréfecturedeSkhirate-Témaraعمالةالصخيرات-تمارة
-    shapeID: 96644757B91342156363380
-    country_name: Morocco
-  Morocco_Adm2_16:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: SettatProvince
-    shapeID: 96644757B9799798831472
-    country_name: Morocco
-  Morocco_Adm2_17:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: Chtouka-AitBahaProvince
-    shapeID: 96644757B99021473747258
-    country_name: Morocco
-  Morocco_Adm2_18:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: PréfecturedeM'diq-Fnideqعمالةالمضيقالفنيدق
-    shapeID: 96644757B89687162507810
-    country_name: Morocco
-  Morocco_Adm2_19:
+  MAR.15.1_1_Adm2:
+    GID: MAR.15.1_1
+    admin_name: Al Hoceïma
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeTazaاقليمتازة
-    shapeID: 96644757B85287588144355
-    country_name: Morocco
-  Morocco_Adm2_2:
-    iso3c: MAR
-    admin_level: Adm2
-    admin_name: RhamnaProvince
-    shapeID: 96644757B21316479060137
     country_name: Morocco
-  Morocco_Adm2_20:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: Provinced'Ouezzaneإقليموزان
-    shapeID: 96644757B93440982531475
-    country_name: Morocco
-  Morocco_Adm2_21:
+  MAR.15.2_1_Adm2:
+    GID: MAR.15.2_1
+    admin_name: Taounate
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: Fahs-AnjraProvince
-    shapeID: 96644757B56432502406176
     country_name: Morocco
-  Morocco_Adm2_22:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: AlHoceimaProvince
-    shapeID: 96644757B99920267922653
-    country_name: Morocco
-  Morocco_Adm2_23:
+  MAR.15.3_1_Adm2:
+    GID: MAR.15.3_1
+    admin_name: Taza
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeBenslimaneإقليمبنسليمان
-    shapeID: 96644757B34372354169334
     country_name: Morocco
-  Morocco_Adm2_24:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: TarfayaProvince
-    shapeID: 96644757B75888110493475
-    country_name: Morocco
-  Morocco_Adm2_25:
+  MAR.2_1_Adm1:
+    GID: MAR.2_1
+    admin_name: Doukkala - Abda
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeFiguigإقليمالناظور
-    shapeID: 96644757B25874170222857
     country_name: Morocco
-  Morocco_Adm2_26:
+    admin_level: Adm1
+  MAR.2.1_1_Adm2:
+    GID: MAR.2.1_1
+    admin_name: El Jadida
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeSidiKacemإقليمسيديقاسم
-    shapeID: 96644757B9718685225615
     country_name: Morocco
-  Morocco_Adm2_27:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: MédiounaProvince
-    shapeID: 96644757B92138134403299
-    country_name: Morocco
-  Morocco_Adm2_28:
+  MAR.2.2_1_Adm2:
+    GID: MAR.2.2_1
+    admin_name: Safi
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: Préfectured'Oujda-Angadعمالةوجدة-أنجاد
-    shapeID: 96644757B53695376753874
     country_name: Morocco
-  Morocco_Adm2_29:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: ProvincedeKhouribgaإقليمخريبكة
-    shapeID: 96644757B15248572972708
-    country_name: Morocco
-  Morocco_Adm2_3:
+  MAR.3_1_Adm1:
+    GID: MAR.3_1
+    admin_name: Fès - Boulemane
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeSidiSlimaneإقليمسيديسليمان
-    shapeID: 96644757B64432809888793
     country_name: Morocco
-  Morocco_Adm2_30:
+    admin_level: Adm1
+  MAR.3.1_1_Adm2:
+    GID: MAR.3.1_1
+    admin_name: Boulemane
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeTan-Tanإقليمطانطان
-    shapeID: 96644757B8060198419886
     country_name: Morocco
-  Morocco_Adm2_31:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: TiznitProvince
-    shapeID: 96644757B52167870329218
-    country_name: Morocco
-  Morocco_Adm2_32:
+  MAR.3.2_1_Adm2:
+    GID: MAR.3.2_1
+    admin_name: Fès
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ChichaouaProvince
-    shapeID: 96644757B46616002618727
     country_name: Morocco
-  Morocco_Adm2_33:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: ProvincedeSidiBennourإقليمسيديبنور
-    shapeID: 96644757B30309850889145
-    country_name: Morocco
-  Morocco_Adm2_34:
+  MAR.3.3_1_Adm2:
+    GID: MAR.3.3_1
+    admin_name: Sefrou
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: GuelmimProvince
-    shapeID: 96644757B36466177595872
     country_name: Morocco
-  Morocco_Adm2_35:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: AgadirIda-OutananePrefecture
-    shapeID: 96644757B63187791317705
-    country_name: Morocco
-  Morocco_Adm2_36:
+  MAR.3.4_1_Adm2:
+    GID: MAR.3.4_1
+    admin_name: Zouagha-Moulay Yacoub
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: AlHaouzProvince
-    shapeID: 96644757B698999344864
     country_name: Morocco
-  Morocco_Adm2_37:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: Inezgane-AitMelloulPrefecture
-    shapeID: 96644757B99662254658575
-    country_name: Morocco
-  Morocco_Adm2_38:
+  MAR.4_1_Adm1:
+    GID: MAR.4_1
+    admin_name: Gharb - Chrarda - Béni Hssen
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: LaracheProvince
-    shapeID: 96644757B18768670389586
     country_name: Morocco
-  Morocco_Adm2_39:
+    admin_level: Adm1
+  MAR.4.1_1_Adm2:
+    GID: MAR.4.1_1
+    admin_name: Kénitra
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: NouaceurProvince
-    shapeID: 96644757B89345886069248
     country_name: Morocco
-  Morocco_Adm2_4:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: ProvincedeKenitraإقليمالقنيطرة
-    shapeID: 96644757B12662883146655
-    country_name: Morocco
-  Morocco_Adm2_40:
+  MAR.4.2_1_Adm2:
+    GID: MAR.4.2_1
+    admin_name: Sidi Kacem
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: OuarzazateProvince
-    shapeID: 96644757B41522516415054
     country_name: Morocco
-  Morocco_Adm2_41:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: PréfecturedeFèsعمالةفاس
-    shapeID: 96644757B2759448404756
-    country_name: Morocco
-  Morocco_Adm2_42:
+  MAR.5_1_Adm1:
+    GID: MAR.5_1
+    admin_name: Grand Casablanca
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: PréfecturedeMarrakechعمالةمراكش
-    shapeID: 96644757B80339347175881
     country_name: Morocco
-  Morocco_Adm2_43:
+    admin_level: Adm1
+  MAR.5.1_1_Adm2:
+    GID: MAR.5.1_1
+    admin_name: Casablanca
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: PrefectureofMohammédia
-    shapeID: 96644757B27397508075839
     country_name: Morocco
-  Morocco_Adm2_44:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: EssaouiraProvince
-    shapeID: 96644757B53936679900609
-    country_name: Morocco
-  Morocco_Adm2_45:
+  MAR.5.2_1_Adm2:
+    GID: MAR.5.2_1
+    admin_name: Mohammedia
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: PrefectureofRabat
-    shapeID: 96644757B91545835536411
     country_name: Morocco
-  Morocco_Adm2_46:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: Provinced'Azilalإقليمأزيلال
-    shapeID: 96644757B10773066300421
-    country_name: Morocco
-  Morocco_Adm2_47:
+  MAR.6_1_Adm1:
+    GID: MAR.6_1
+    admin_name: Guelmim - Es-Semara
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeBeniMellalإقليمبنيملال
-    shapeID: 96644757B40957387644980
     country_name: Morocco
-  Morocco_Adm2_48:
+    admin_level: Adm1
+  MAR.6.1_1_Adm2:
+    GID: MAR.6.1_1
+    admin_name: Assa-Zag
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: Assa-ZagProvince
-    shapeID: 96644757B62254917052717
     country_name: Morocco
-  Morocco_Adm2_49:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: ProvincedeBoulemaneإقليمبولمان
-    shapeID: 96644757B81090244987905
-    country_name: Morocco
-  Morocco_Adm2_5:
+  MAR.6.2_1_Adm2:
+    GID: MAR.6.2_1
+    admin_name: Guelmim
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: TaroudantProvince
-    shapeID: 96644757B53703826618026
     country_name: Morocco
-  Morocco_Adm2_50:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: ProvincedeFquihBenSalehإقليمالفقيهبنصالح
-    shapeID: 96644757B50122508033550
-    country_name: Morocco
-  Morocco_Adm2_51:
+  MAR.6.3_1_Adm2:
+    GID: MAR.6.3_1
+    admin_name: Tan-Tan
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeGuercifإقليمجرسيف
-    shapeID: 96644757B63064605054668
     country_name: Morocco
-  Morocco_Adm2_52:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: ProvincedeJeradaإقليمجرادة
-    shapeID: 96644757B21390270390615
-    country_name: Morocco
-  Morocco_Adm2_53:
+  MAR.6.4_1_Adm2:
+    GID: MAR.6.4_1
+    admin_name: Tata
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeKhénifraإقليمخنيفرة
-    shapeID: 96644757B52871738396395
     country_name: Morocco
-  Morocco_Adm2_54:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: Provinced'ElHajebإقليمالحاجب
-    shapeID: 96644757B90056368806308
-    country_name: Morocco
-  Morocco_Adm2_55:
+  MAR.7_1_Adm1:
+    GID: MAR.7_1
+    admin_name: Laâyoune - Boujdour - Sakia El H
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: Provinced'ElKelâatEs-Sraghnaإقليمقلعةالسراغنة
-    shapeID: 96644757B21870556317795
     country_name: Morocco
-  Morocco_Adm2_56:
+    admin_level: Adm1
+  MAR.7.1_1_Adm2:
+    GID: MAR.7.1_1
+    admin_name: Laâyoune
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeMideltإقليمميدلت
-    shapeID: 96644757B71822601453569
     country_name: Morocco
-  Morocco_Adm2_57:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: ProvincedeSefrouإقليمصفرو
-    shapeID: 96644757B1478822582790
-    country_name: Morocco
-  Morocco_Adm2_58:
+  MAR.8_1_Adm1:
+    GID: MAR.8_1
+    admin_name: Marrakech - Tensift - Al Haouz
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: Provinced'Es-Semaraإقليمالسمارة
-    shapeID: 96644757B70524131405695
     country_name: Morocco
-  Morocco_Adm2_59:
+    admin_level: Adm1
+  MAR.8.1_1_Adm2:
+    GID: MAR.8.1_1
+    admin_name: Al Haouz
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeTaourirtإقليمتاوريرت
-    shapeID: 96644757B4563753155162
     country_name: Morocco
-  Morocco_Adm2_6:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: SidiIfniProvince
-    shapeID: 96644757B51161748863193
-    country_name: Morocco
-  Morocco_Adm2_60:
+  MAR.8.2_1_Adm2:
+    GID: MAR.8.2_1
+    admin_name: Chichaoua
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeTinghirإقليمتنغير
-    shapeID: 96644757B39685617616684
     country_name: Morocco
-  Morocco_Adm2_61:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: Provinced'Ifraneⵜⴰⵙⴳⴰⵏⵉⴼⵔⴰⵏإقليمإفران
-    shapeID: 96644757B64717664824106
-    country_name: Morocco
-  Morocco_Adm2_62:
+  MAR.8.3_1_Adm2:
+    GID: MAR.8.3_1
+    admin_name: El Kelaâ des Sraghna
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: TetouanProvince
-    shapeID: 96644757B84561517472973
     country_name: Morocco
-  Morocco_Adm2_63:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: ZagoraProvince
-    shapeID: 96644757B83322507681707
-    country_name: Morocco
-  Morocco_Adm2_64:
+  MAR.8.4_1_Adm2:
+    GID: MAR.8.4_1
+    admin_name: Essaouira
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: LaayouneProvince
-    shapeID: 96644757B90795389022281
     country_name: Morocco
-  Morocco_Adm2_65:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: PrefecturedeMeknèsعمالةمكناس
-    shapeID: 96644757B60043813814440
-    country_name: Morocco
-  Morocco_Adm2_66:
+  MAR.8.5_1_Adm2:
+    GID: MAR.8.5_1
+    admin_name: Marrakech
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: PrefectureofTangier-Assilah
-    shapeID: 96644757B99361415702964
     country_name: Morocco
-  Morocco_Adm2_67:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: ProvincedeBerkaneإقليمبركان
-    shapeID: 96644757B69343874835814
-    country_name: Morocco
-  Morocco_Adm2_68:
+  MAR.9_1_Adm1:
+    GID: MAR.9_1
+    admin_name: Meknès - Tafilalet
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeDriouchإقليمالدريوش
-    shapeID: 96644757B88930410593624
     country_name: Morocco
-  Morocco_Adm2_69:
+    admin_level: Adm1
+  MAR.9.1_1_Adm2:
+    GID: MAR.9.1_1
+    admin_name: El Hajeb
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ProvincedeTaounateإقليمتاونات
-    shapeID: 96644757B36967765471663
     country_name: Morocco
-  Morocco_Adm2_7:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: TataProvince
-    shapeID: 96644757B26550498921337
-    country_name: Morocco
-  Morocco_Adm2_70:
+  MAR.9.2_1_Adm2:
+    GID: MAR.9.2_1
+    admin_name: Errachidia
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: PrefectureofSalé
-    shapeID: 96644757B6720908192283
     country_name: Morocco
-  Morocco_Adm2_71:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: Provinced'Aousserdإقليمأوسرد
-    shapeID: 96644757B25593504689486
-    country_name: Morocco
-  Morocco_Adm2_72:
+  MAR.9.3_1_Adm2:
+    GID: MAR.9.3_1
+    admin_name: Ifrane
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: PrefectureofCasablanca
-    shapeID: 96644757B69656421663665
     country_name: Morocco
-  Morocco_Adm2_73:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: BerrechidProvince
-    shapeID: 96644757B26045285741175
-    country_name: Morocco
-  Morocco_Adm2_74:
+  MAR.9.4_1_Adm2:
+    GID: MAR.9.4_1
+    admin_name: Khénifra
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: ElJadidaProvince
-    shapeID: 96644757B5863178934624
     country_name: Morocco
-  Morocco_Adm2_75:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: OuedEd-DahabProvince
-    shapeID: 96644757B78111329468616
-    country_name: Morocco
-  Morocco_Adm2_8:
+  MAR.9.5_1_Adm2:
+    GID: MAR.9.5_1
+    admin_name: Meknès
     iso3c: MAR
-    admin_level: Adm2
-    admin_name: Provinced'Errachidiaإقليمالرشيدية
-    shapeID: 96644757B35891480133263
     country_name: Morocco
-  Morocco_Adm2_9:
-    iso3c: MAR
     admin_level: Adm2
-    admin_name: BoujdourProvince
-    shapeID: 96644757B48127384361052
-    country_name: Morocco

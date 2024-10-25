@@ -1,3343 +1,3481 @@
 concepts:
-  Australia_Adm0:
-    iso3c: AUS
-    admin_level: Adm0
+  AUS.0_Adm0:
+    GID: AUS
     admin_name: Australia
-    shapeID: 85198719B13759021872828
-    country_name: Australia
-  Australia_Adm1_1:
     iso3c: AUS
-    admin_level: Adm1
-    admin_name: NewSouthWales
-    shapeID: 82085004B21656044714531
     country_name: Australia
-  Australia_Adm1_2:
+    admin_level: Adm0
+  AUS.1_1_Adm1:
+    GID: AUS.1_1
+    admin_name: Ashmore and Cartier Islands
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm1
+  AUS.1.1_1_Adm2:
+    GID: AUS.1.1_1
+    admin_name: Ashmore and Cartier Islands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10_1_Adm1:
+    GID: AUS.10_1
     admin_name: Victoria
-    shapeID: 82085004B60194602145168
-    country_name: Australia
-  Australia_Adm1_3:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm1
-    admin_name: Queensland
-    shapeID: 82085004B13995298844162
-    country_name: Australia
-  Australia_Adm1_4:
-    iso3c: AUS
-    admin_level: Adm1
-    admin_name: SouthAustralia
-    shapeID: 82085004B14973555098025
-    country_name: Australia
-  Australia_Adm1_5:
-    iso3c: AUS
-    admin_level: Adm1
-    admin_name: WesternAustralia
-    shapeID: 82085004B93533858076668
-    country_name: Australia
-  Australia_Adm1_6:
-    iso3c: AUS
-    admin_level: Adm1
-    admin_name: Tasmania
-    shapeID: 82085004B70793016411369
-    country_name: Australia
-  Australia_Adm1_7:
-    iso3c: AUS
-    admin_level: Adm1
-    admin_name: NorthernTerritory
-    shapeID: 82085004B70364588595557
-    country_name: Australia
-  Australia_Adm1_8:
-    iso3c: AUS
-    admin_level: Adm1
-    admin_name: AustralianCapitalTerritory
-    shapeID: 82085004B40257551482390
-    country_name: Australia
-  Australia_Adm1_9:
-    iso3c: AUS
-    admin_level: Adm1
-    admin_name: OtherTerritories
-    shapeID: 82085004B12086860067424
-    country_name: Australia
-  Australia_Adm2_1:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Albury
-    shapeID: 25037944B24790092852260
-    country_name: Australia
-  Australia_Adm2_10:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Blacktown
-    shapeID: 25037944B57460012888659
-    country_name: Australia
-  Australia_Adm2_100:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Shoalhaven
-    shapeID: 25037944B24149747688554
-    country_name: Australia
-  Australia_Adm2_101:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Singleton
-    shapeID: 25037944B56685676634678
-    country_name: Australia
-  Australia_Adm2_102:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: SnowyMonaro
-    shapeID: 25037944B85069153423068
-    country_name: Australia
-  Australia_Adm2_103:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: SnowyValleys
-    shapeID: 25037944B29882714445476
-    country_name: Australia
-  Australia_Adm2_104:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Strathfield
-    shapeID: 25037944B1137671739470
-    country_name: Australia
-  Australia_Adm2_105:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Sutherland
-    shapeID: 25037944B61744382554137
-    country_name: Australia
-  Australia_Adm2_106:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Sydney
-    shapeID: 25037944B98854570895907
-    country_name: Australia
-  Australia_Adm2_107:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Tamworth
-    shapeID: 25037944B76870107962046
-    country_name: Australia
-  Australia_Adm2_108:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Temora
-    shapeID: 25037944B57482962875901
-    country_name: Australia
-  Australia_Adm2_109:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Tenterfield
-    shapeID: 25037944B39208221478861
-    country_name: Australia
-  Australia_Adm2_11:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bland
-    shapeID: 25037944B54195415642362
-    country_name: Australia
-  Australia_Adm2_110:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: TheHills
-    shapeID: 25037944B61801605957585
-    country_name: Australia
-  Australia_Adm2_111:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Tweed
-    shapeID: 25037944B14398404968325
-    country_name: Australia
-  Australia_Adm2_112:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: UpperHunter
-    shapeID: 25037944B30189264259012
-    country_name: Australia
-  Australia_Adm2_113:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: UpperLachlan
-    shapeID: 25037944B54834386088268
-    country_name: Australia
-  Australia_Adm2_114:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Uralla
-    shapeID: 25037944B63393422883772
-    country_name: Australia
-  Australia_Adm2_115:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: WaggaWagga
-    shapeID: 25037944B76630671058420
-    country_name: Australia
-  Australia_Adm2_116:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Walcha
-    shapeID: 25037944B3824833794033
-    country_name: Australia
-  Australia_Adm2_117:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Walgett
-    shapeID: 25037944B85732743205299
-    country_name: Australia
-  Australia_Adm2_118:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Warren
-    shapeID: 25037944B92926148840872
-    country_name: Australia
-  Australia_Adm2_119:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Warrumbungle
-    shapeID: 25037944B19485668266020
-    country_name: Australia
-  Australia_Adm2_12:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Blayney
-    shapeID: 25037944B69063028114827
-    country_name: Australia
-  Australia_Adm2_120:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Waverley
-    shapeID: 25037944B61039645174942
-    country_name: Australia
-  Australia_Adm2_121:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Weddin
-    shapeID: 25037944B42386149342522
-    country_name: Australia
-  Australia_Adm2_122:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Wentworth
-    shapeID: 25037944B48452017149194
-    country_name: Australia
-  Australia_Adm2_123:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Willoughby
-    shapeID: 25037944B78861208186776
-    country_name: Australia
-  Australia_Adm2_124:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Wingecarribee
-    shapeID: 25037944B71438306812596
-    country_name: Australia
-  Australia_Adm2_125:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Wollondilly
-    shapeID: 25037944B50548000085953
-    country_name: Australia
-  Australia_Adm2_126:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Wollongong
-    shapeID: 25037944B78024073086928
-    country_name: Australia
-  Australia_Adm2_127:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Woollahra
-    shapeID: 25037944B50824863548632
-    country_name: Australia
-  Australia_Adm2_128:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: YassValley
-    shapeID: 25037944B7628366145494
-    country_name: Australia
-  Australia_Adm2_129:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: UnincorporatedNSW
-    shapeID: 25037944B59579883363479
-    country_name: Australia
-  Australia_Adm2_13:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: BlueMountains
-    shapeID: 25037944B17662775697590
-    country_name: Australia
-  Australia_Adm2_130:
-    iso3c: AUS
-    admin_level: Adm2
+  AUS.10.1_1_Adm2:
+    GID: AUS.10.1_1
     admin_name: Alpine
-    shapeID: 25037944B21518620554178
-    country_name: Australia
-  Australia_Adm2_131:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Ararat
-    shapeID: 25037944B36221284354416
     country_name: Australia
-  Australia_Adm2_132:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Ballarat
-    shapeID: 25037944B10145309156113
-    country_name: Australia
-  Australia_Adm2_133:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Banyule
-    shapeID: 25037944B35750934340746
-    country_name: Australia
-  Australia_Adm2_134:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: BassCoast
-    shapeID: 25037944B92127790017854
-    country_name: Australia
-  Australia_Adm2_135:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: BawBaw
-    shapeID: 25037944B5488167520198
-    country_name: Australia
-  Australia_Adm2_136:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bayside(Vic.)
-    shapeID: 25037944B24270951064752
-    country_name: Australia
-  Australia_Adm2_137:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Benalla
-    shapeID: 25037944B90980309349747
-    country_name: Australia
-  Australia_Adm2_138:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Boroondara
-    shapeID: 25037944B53457392645615
-    country_name: Australia
-  Australia_Adm2_139:
-    iso3c: AUS
-    admin_level: Adm2
+  AUS.10.10_1_Adm2:
+    GID: AUS.10.10_1
     admin_name: Brimbank
-    shapeID: 25037944B23246777843178
-    country_name: Australia
-  Australia_Adm2_14:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bogan
-    shapeID: 25037944B35156214632360
     country_name: Australia
-  Australia_Adm2_140:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.11_1_Adm2:
+    GID: AUS.10.11_1
     admin_name: Buloke
-    shapeID: 25037944B21796127243371
-    country_name: Australia
-  Australia_Adm2_141:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.12_1_Adm2:
+    GID: AUS.10.12_1
     admin_name: Campaspe
-    shapeID: 25037944B18187162419032
-    country_name: Australia
-  Australia_Adm2_142:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.13_1_Adm2:
+    GID: AUS.10.13_1
     admin_name: Cardinia
-    shapeID: 25037944B56409622243598
-    country_name: Australia
-  Australia_Adm2_143:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.14_1_Adm2:
+    GID: AUS.10.14_1
     admin_name: Casey
-    shapeID: 25037944B44962811090312
-    country_name: Australia
-  Australia_Adm2_144:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: CentralGoldfields
-    shapeID: 25037944B6031326285684
     country_name: Australia
-  Australia_Adm2_145:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: ColacOtway
-    shapeID: 25037944B58594911461534
+  AUS.10.15_1_Adm2:
+    GID: AUS.10.15_1
+    admin_name: Central Goldfields
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_146:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.16_1_Adm2:
+    GID: AUS.10.16_1
+    admin_name: Colac-Otway
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.17_1_Adm2:
+    GID: AUS.10.17_1
     admin_name: Corangamite
-    shapeID: 25037944B62573329843514
-    country_name: Australia
-  Australia_Adm2_147:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.18_1_Adm2:
+    GID: AUS.10.18_1
     admin_name: Darebin
-    shapeID: 25037944B70656955995006
-    country_name: Australia
-  Australia_Adm2_148:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: EastGippsland
-    shapeID: 25037944B19226887893594
     country_name: Australia
-  Australia_Adm2_149:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.19_1_Adm2:
+    GID: AUS.10.19_1
+    admin_name: East Gippsland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.2_1_Adm2:
+    GID: AUS.10.2_1
+    admin_name: Ararat
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.20_1_Adm2:
+    GID: AUS.10.20_1
     admin_name: Frankston
-    shapeID: 25037944B48660808239770
-    country_name: Australia
-  Australia_Adm2_15:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bourke
-    shapeID: 25037944B48990901921332
     country_name: Australia
-  Australia_Adm2_150:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.21_1_Adm2:
+    GID: AUS.10.21_1
     admin_name: Gannawarra
-    shapeID: 25037944B50058704827939
-    country_name: Australia
-  Australia_Adm2_151:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: GlenEira
-    shapeID: 25037944B56718384218889
     country_name: Australia
-  Australia_Adm2_152:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.22_1_Adm2:
+    GID: AUS.10.22_1
+    admin_name: Glen Eira
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.23_1_Adm2:
+    GID: AUS.10.23_1
     admin_name: Glenelg
-    shapeID: 25037944B68247262621131
-    country_name: Australia
-  Australia_Adm2_153:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: GoldenPlains
-    shapeID: 25037944B31372279830401
     country_name: Australia
-  Australia_Adm2_154:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: GreaterBendigo
-    shapeID: 25037944B4073485904680
+  AUS.10.24_1_Adm2:
+    GID: AUS.10.24_1
+    admin_name: Golden Plains
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_155:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: GreaterDandenong
-    shapeID: 25037944B63075132073997
+  AUS.10.25_1_Adm2:
+    GID: AUS.10.25_1
+    admin_name: Greater Bendigo
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_156:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: GreaterGeelong
-    shapeID: 25037944B24812283687541
+  AUS.10.26_1_Adm2:
+    GID: AUS.10.26_1
+    admin_name: Greater Dandenong
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_157:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: GreaterShepparton
-    shapeID: 25037944B15813892804113
+  AUS.10.27_1_Adm2:
+    GID: AUS.10.27_1
+    admin_name: Greater Geelong
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_158:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.28_1_Adm2:
+    GID: AUS.10.28_1
+    admin_name: Greater Shepparton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.29_1_Adm2:
+    GID: AUS.10.29_1
     admin_name: Hepburn
-    shapeID: 25037944B22879671704108
-    country_name: Australia
-  Australia_Adm2_159:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.3_1_Adm2:
+    GID: AUS.10.3_1
+    admin_name: Ballarat
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.30_1_Adm2:
+    GID: AUS.10.30_1
     admin_name: Hindmarsh
-    shapeID: 25037944B30828491037515
-    country_name: Australia
-  Australia_Adm2_16:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Brewarrina
-    shapeID: 25037944B28138275471855
     country_name: Australia
-  Australia_Adm2_160:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: HobsonsBay
-    shapeID: 25037944B90171787297249
+  AUS.10.31_1_Adm2:
+    GID: AUS.10.31_1
+    admin_name: Hobsons Bay
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_161:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.32_1_Adm2:
+    GID: AUS.10.32_1
     admin_name: Horsham
-    shapeID: 25037944B92361056365890
-    country_name: Australia
-  Australia_Adm2_162:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.33_1_Adm2:
+    GID: AUS.10.33_1
     admin_name: Hume
-    shapeID: 25037944B10619545343998
-    country_name: Australia
-  Australia_Adm2_163:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.34_1_Adm2:
+    GID: AUS.10.34_1
     admin_name: Indigo
-    shapeID: 25037944B29539471298626
-    country_name: Australia
-  Australia_Adm2_164:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kingston(Vic.)
-    shapeID: 25037944B58220940224419
     country_name: Australia
-  Australia_Adm2_165:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.35_1_Adm2:
+    GID: AUS.10.35_1
+    admin_name: Kingston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.36_1_Adm2:
+    GID: AUS.10.36_1
     admin_name: Knox
-    shapeID: 25037944B93608479315967
-    country_name: Australia
-  Australia_Adm2_166:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Latrobe(Vic.)
-    shapeID: 25037944B78078629114467
     country_name: Australia
-  Australia_Adm2_167:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.37_1_Adm2:
+    GID: AUS.10.37_1
+    admin_name: Latrobe
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.38_1_Adm2:
+    GID: AUS.10.38_1
     admin_name: Loddon
-    shapeID: 25037944B85643834616367
-    country_name: Australia
-  Australia_Adm2_168:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: MacedonRanges
-    shapeID: 25037944B22463121274190
     country_name: Australia
-  Australia_Adm2_169:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.39_1_Adm2:
+    GID: AUS.10.39_1
+    admin_name: Macedon Ranges
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.4_1_Adm2:
+    GID: AUS.10.4_1
+    admin_name: Banyule
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.40_1_Adm2:
+    GID: AUS.10.40_1
     admin_name: Manningham
-    shapeID: 25037944B66764167138958
-    country_name: Australia
-  Australia_Adm2_17:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: BrokenHill
-    shapeID: 25037944B37547853464186
     country_name: Australia
-  Australia_Adm2_170:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.41_1_Adm2:
+    GID: AUS.10.41_1
     admin_name: Mansfield
-    shapeID: 25037944B49622483033966
-    country_name: Australia
-  Australia_Adm2_171:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.42_1_Adm2:
+    GID: AUS.10.42_1
     admin_name: Maribyrnong
-    shapeID: 25037944B56618295646151
-    country_name: Australia
-  Australia_Adm2_172:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.43_1_Adm2:
+    GID: AUS.10.43_1
     admin_name: Maroondah
-    shapeID: 25037944B31367314847764
-    country_name: Australia
-  Australia_Adm2_173:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.44_1_Adm2:
+    GID: AUS.10.44_1
     admin_name: Melbourne
-    shapeID: 25037944B74771981745191
-    country_name: Australia
-  Australia_Adm2_174:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.45_1_Adm2:
+    GID: AUS.10.45_1
     admin_name: Melton
-    shapeID: 25037944B20594454480773
-    country_name: Australia
-  Australia_Adm2_175:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.46_1_Adm2:
+    GID: AUS.10.46_1
     admin_name: Mildura
-    shapeID: 25037944B71441363107667
-    country_name: Australia
-  Australia_Adm2_176:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.47_1_Adm2:
+    GID: AUS.10.47_1
     admin_name: Mitchell
-    shapeID: 25037944B63787272509894
-    country_name: Australia
-  Australia_Adm2_177:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.48_1_Adm2:
+    GID: AUS.10.48_1
     admin_name: Moira
-    shapeID: 25037944B99849949120083
-    country_name: Australia
-  Australia_Adm2_178:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.49_1_Adm2:
+    GID: AUS.10.49_1
     admin_name: Monash
-    shapeID: 25037944B65284638011134
-    country_name: Australia
-  Australia_Adm2_179:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: MooneeValley
-    shapeID: 25037944B9436355571028
     country_name: Australia
-  Australia_Adm2_18:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Burwood
-    shapeID: 25037944B28335850506337
+  AUS.10.5_1_Adm2:
+    GID: AUS.10.5_1
+    admin_name: Bass Coast
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_180:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.50_1_Adm2:
+    GID: AUS.10.50_1
+    admin_name: Moonee Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.51_1_Adm2:
+    GID: AUS.10.51_1
     admin_name: Moorabool
-    shapeID: 25037944B6902911043133
-    country_name: Australia
-  Australia_Adm2_181:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.52_1_Adm2:
+    GID: AUS.10.52_1
     admin_name: Moreland
-    shapeID: 25037944B23324068897437
-    country_name: Australia
-  Australia_Adm2_182:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: MorningtonPeninsula
-    shapeID: 25037944B38646980032426
     country_name: Australia
-  Australia_Adm2_183:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: MountAlexander
-    shapeID: 25037944B33361376852028
+  AUS.10.53_1_Adm2:
+    GID: AUS.10.53_1
+    admin_name: Mornington Peninsula
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_184:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.54_1_Adm2:
+    GID: AUS.10.54_1
+    admin_name: Mount Alexander
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.55_1_Adm2:
+    GID: AUS.10.55_1
     admin_name: Moyne
-    shapeID: 25037944B46844675944162
-    country_name: Australia
-  Australia_Adm2_185:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.56_1_Adm2:
+    GID: AUS.10.56_1
     admin_name: Murrindindi
-    shapeID: 25037944B67422185849488
-    country_name: Australia
-  Australia_Adm2_186:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.57_1_Adm2:
+    GID: AUS.10.57_1
     admin_name: Nillumbik
-    shapeID: 25037944B37493883083174
-    country_name: Australia
-  Australia_Adm2_187:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: NorthernGrampians
-    shapeID: 25037944B95428670663886
     country_name: Australia
-  Australia_Adm2_188:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: PortPhillip
-    shapeID: 25037944B19605677345756
+  AUS.10.58_1_Adm2:
+    GID: AUS.10.58_1
+    admin_name: Northern Grampians
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_189:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.59_1_Adm2:
+    GID: AUS.10.59_1
+    admin_name: Port Phillip
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.6_1_Adm2:
+    GID: AUS.10.6_1
+    admin_name: Baw Baw
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.60_1_Adm2:
+    GID: AUS.10.60_1
     admin_name: Pyrenees
-    shapeID: 25037944B34836506967909
-    country_name: Australia
-  Australia_Adm2_19:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Byron
-    shapeID: 25037944B26997804636733
     country_name: Australia
-  Australia_Adm2_190:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.61_1_Adm2:
+    GID: AUS.10.61_1
     admin_name: Queenscliffe
-    shapeID: 25037944B23801424172448
-    country_name: Australia
-  Australia_Adm2_191:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: SouthGippsland
-    shapeID: 25037944B76361191538419
     country_name: Australia
-  Australia_Adm2_192:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: SouthernGrampians
-    shapeID: 25037944B54836880156068
+  AUS.10.62_1_Adm2:
+    GID: AUS.10.62_1
+    admin_name: South Gippsland
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_193:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.63_1_Adm2:
+    GID: AUS.10.63_1
+    admin_name: Southern Grampians
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.64_1_Adm2:
+    GID: AUS.10.64_1
     admin_name: Stonnington
-    shapeID: 25037944B5658593283329
-    country_name: Australia
-  Australia_Adm2_194:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.65_1_Adm2:
+    GID: AUS.10.65_1
     admin_name: Strathbogie
-    shapeID: 25037944B88873459559234
-    country_name: Australia
-  Australia_Adm2_195:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: SurfCoast
-    shapeID: 25037944B61768543919434
     country_name: Australia
-  Australia_Adm2_196:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: SwanHill
-    shapeID: 25037944B58383707208646
+  AUS.10.66_1_Adm2:
+    GID: AUS.10.66_1
+    admin_name: Surf Coast
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_197:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.67_1_Adm2:
+    GID: AUS.10.67_1
+    admin_name: Swan Hill
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.68_1_Adm2:
+    GID: AUS.10.68_1
     admin_name: Towong
-    shapeID: 25037944B17734063205402
-    country_name: Australia
-  Australia_Adm2_198:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.69_1_Adm2:
+    GID: AUS.10.69_1
+    admin_name: Unincorporated Victoria
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.7_1_Adm2:
+    GID: AUS.10.7_1
+    admin_name: Bayside
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.70_1_Adm2:
+    GID: AUS.10.70_1
     admin_name: Wangaratta
-    shapeID: 25037944B46502413321481
-    country_name: Australia
-  Australia_Adm2_199:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.71_1_Adm2:
+    GID: AUS.10.71_1
     admin_name: Warrnambool
-    shapeID: 25037944B46822546280655
-    country_name: Australia
-  Australia_Adm2_2:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Armidale
-    shapeID: 25037944B44637712818530
     country_name: Australia
-  Australia_Adm2_20:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Cabonne
-    shapeID: 25037944B28032354001178
-    country_name: Australia
-  Australia_Adm2_200:
-    iso3c: AUS
-    admin_level: Adm2
+  AUS.10.72_1_Adm2:
+    GID: AUS.10.72_1
     admin_name: Wellington
-    shapeID: 25037944B69891051906105
-    country_name: Australia
-  Australia_Adm2_201:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: WestWimmera
-    shapeID: 25037944B702157588032
     country_name: Australia
-  Australia_Adm2_202:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.73_1_Adm2:
+    GID: AUS.10.73_1
+    admin_name: West Wimmera
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.74_1_Adm2:
+    GID: AUS.10.74_1
     admin_name: Whitehorse
-    shapeID: 25037944B93635537501367
-    country_name: Australia
-  Australia_Adm2_203:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.75_1_Adm2:
+    GID: AUS.10.75_1
     admin_name: Whittlesea
-    shapeID: 25037944B28600424223398
-    country_name: Australia
-  Australia_Adm2_204:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.76_1_Adm2:
+    GID: AUS.10.76_1
     admin_name: Wodonga
-    shapeID: 25037944B99055337236234
-    country_name: Australia
-  Australia_Adm2_205:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.77_1_Adm2:
+    GID: AUS.10.77_1
     admin_name: Wyndham
-    shapeID: 25037944B15313699759774
-    country_name: Australia
-  Australia_Adm2_206:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.10.78_1_Adm2:
+    GID: AUS.10.78_1
     admin_name: Yarra
-    shapeID: 25037944B16645516556899
-    country_name: Australia
-  Australia_Adm2_207:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: YarraRanges
-    shapeID: 25037944B70077936823133
     country_name: Australia
-  Australia_Adm2_208:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.10.79_1_Adm2:
+    GID: AUS.10.79_1
+    admin_name: Yarra Ranges
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.8_1_Adm2:
+    GID: AUS.10.8_1
+    admin_name: Benalla
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.80_1_Adm2:
+    GID: AUS.10.80_1
     admin_name: Yarriambiack
-    shapeID: 25037944B93002214322562
-    country_name: Australia
-  Australia_Adm2_209:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: UnincorporatedVic
-    shapeID: 25037944B89965825243629
-    country_name: Australia
-  Australia_Adm2_21:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Camden
-    shapeID: 25037944B29927872698138
-    country_name: Australia
-  Australia_Adm2_210:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Aurukun
-    shapeID: 25037944B73642390976852
-    country_name: Australia
-  Australia_Adm2_211:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Balonne
-    shapeID: 25037944B99375808826492
-    country_name: Australia
-  Australia_Adm2_212:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Banana
-    shapeID: 25037944B6409140573096
-    country_name: Australia
-  Australia_Adm2_213:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Barcaldine
-    shapeID: 25037944B32668450975374
-    country_name: Australia
-  Australia_Adm2_214:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Barcoo
-    shapeID: 25037944B38568063774568
-    country_name: Australia
-  Australia_Adm2_215:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: BlackallTambo
-    shapeID: 25037944B98295779161883
-    country_name: Australia
-  Australia_Adm2_216:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Boulia
-    shapeID: 25037944B33105605540770
-    country_name: Australia
-  Australia_Adm2_217:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Brisbane
-    shapeID: 25037944B26487143019559
-    country_name: Australia
-  Australia_Adm2_218:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bulloo
-    shapeID: 25037944B79296808644120
-    country_name: Australia
-  Australia_Adm2_219:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bundaberg
-    shapeID: 25037944B53664742087650
-    country_name: Australia
-  Australia_Adm2_22:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Campbelltown(NSW)
-    shapeID: 25037944B45643684874460
-    country_name: Australia
-  Australia_Adm2_220:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Burdekin
-    shapeID: 25037944B77283019061987
-    country_name: Australia
-  Australia_Adm2_221:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Burke
-    shapeID: 25037944B14025919363288
-    country_name: Australia
-  Australia_Adm2_222:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cairns
-    shapeID: 25037944B34353436415485
-    country_name: Australia
-  Australia_Adm2_223:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Carpentaria
-    shapeID: 25037944B42158127814454
-    country_name: Australia
-  Australia_Adm2_224:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: CassowaryCoast
-    shapeID: 25037944B15390433377666
-    country_name: Australia
-  Australia_Adm2_225:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: CentralHighlands(Qld)
-    shapeID: 25037944B88333903625107
-    country_name: Australia
-  Australia_Adm2_226:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: ChartersTowers
-    shapeID: 25037944B10597176528862
-    country_name: Australia
-  Australia_Adm2_227:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cherbourg
-    shapeID: 25037944B27259655099788
-    country_name: Australia
-  Australia_Adm2_228:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cloncurry
-    shapeID: 25037944B6261933942264
-    country_name: Australia
-  Australia_Adm2_229:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cook
-    shapeID: 25037944B35622910690770
-    country_name: Australia
-  Australia_Adm2_23:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: CanadaBay
-    shapeID: 25037944B91720609998953
-    country_name: Australia
-  Australia_Adm2_230:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Croydon
-    shapeID: 25037944B33150906552836
-    country_name: Australia
-  Australia_Adm2_231:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Diamantina
-    shapeID: 25037944B3552129947749
-    country_name: Australia
-  Australia_Adm2_232:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Doomadgee
-    shapeID: 25037944B37268575436611
-    country_name: Australia
-  Australia_Adm2_233:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Douglas
-    shapeID: 25037944B93362533996498
-    country_name: Australia
-  Australia_Adm2_234:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Etheridge
-    shapeID: 25037944B75577230273205
-    country_name: Australia
-  Australia_Adm2_235:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Flinders(Qld)
-    shapeID: 25037944B81088097646541
-    country_name: Australia
-  Australia_Adm2_236:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: FraserCoast
-    shapeID: 25037944B97488266373518
-    country_name: Australia
-  Australia_Adm2_237:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Gladstone
-    shapeID: 25037944B21166714819483
-    country_name: Australia
-  Australia_Adm2_238:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: GoldCoast
-    shapeID: 25037944B76061046607907
-    country_name: Australia
-  Australia_Adm2_239:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Goondiwindi
-    shapeID: 25037944B7624735907381
-    country_name: Australia
-  Australia_Adm2_24:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Canterbury-Bankstown
-    shapeID: 25037944B74578967995842
-    country_name: Australia
-  Australia_Adm2_240:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Gympie
-    shapeID: 25037944B82919316631597
-    country_name: Australia
-  Australia_Adm2_241:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Hinchinbrook
-    shapeID: 25037944B17459590153092
-    country_name: Australia
-  Australia_Adm2_242:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: HopeVale
-    shapeID: 25037944B25466476596436
-    country_name: Australia
-  Australia_Adm2_243:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Ipswich
-    shapeID: 25037944B52648858671508
-    country_name: Australia
-  Australia_Adm2_244:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Isaac
-    shapeID: 25037944B43894874276355
-    country_name: Australia
-  Australia_Adm2_245:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kowanyama
-    shapeID: 25037944B1656499074776
-    country_name: Australia
-  Australia_Adm2_246:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Livingstone
-    shapeID: 25037944B91391383703186
-    country_name: Australia
-  Australia_Adm2_247:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: LockhartRiver
-    shapeID: 25037944B30530613092043
-    country_name: Australia
-  Australia_Adm2_248:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: LockyerValley
-    shapeID: 25037944B69715811070998
-    country_name: Australia
-  Australia_Adm2_249:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Logan
-    shapeID: 25037944B44262560811074
-    country_name: Australia
-  Australia_Adm2_25:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Carrathool
-    shapeID: 25037944B9270414762897
-    country_name: Australia
-  Australia_Adm2_250:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Longreach
-    shapeID: 25037944B74261156915694
-    country_name: Australia
-  Australia_Adm2_251:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Mackay
-    shapeID: 25037944B90195923531970
-    country_name: Australia
-  Australia_Adm2_252:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: McKinlay
-    shapeID: 25037944B31801469695154
-    country_name: Australia
-  Australia_Adm2_253:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Mapoon
-    shapeID: 25037944B16136262303417
-    country_name: Australia
-  Australia_Adm2_254:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Maranoa
-    shapeID: 25037944B80919931419893
-    country_name: Australia
-  Australia_Adm2_255:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Mareeba
-    shapeID: 25037944B55743987265110
-    country_name: Australia
-  Australia_Adm2_256:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MoretonBay
-    shapeID: 25037944B19400187923346
-    country_name: Australia
-  Australia_Adm2_257:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Mornington
-    shapeID: 25037944B95382354250521
-    country_name: Australia
-  Australia_Adm2_258:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MountIsa
-    shapeID: 25037944B13114344079677
-    country_name: Australia
-  Australia_Adm2_259:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Murweh
-    shapeID: 25037944B20792422717007
-    country_name: Australia
-  Australia_Adm2_26:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: CentralCoast(NSW)
-    shapeID: 25037944B67888909972324
-    country_name: Australia
-  Australia_Adm2_260:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Napranum
-    shapeID: 25037944B72297710108089
-    country_name: Australia
-  Australia_Adm2_261:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Noosa
-    shapeID: 25037944B90533392045393
-    country_name: Australia
-  Australia_Adm2_262:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: NorthBurnett
-    shapeID: 25037944B97560087028013
-    country_name: Australia
-  Australia_Adm2_263:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: NorthernPeninsulaArea
-    shapeID: 25037944B13244512579669
-    country_name: Australia
-  Australia_Adm2_264:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: PalmIsland
-    shapeID: 25037944B36323732446250
-    country_name: Australia
-  Australia_Adm2_265:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Paroo
-    shapeID: 25037944B13506382949724
-    country_name: Australia
-  Australia_Adm2_266:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Pormpuraaw
-    shapeID: 25037944B5517287997374
-    country_name: Australia
-  Australia_Adm2_267:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Quilpie
-    shapeID: 25037944B55337411871300
-    country_name: Australia
-  Australia_Adm2_268:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Redland
-    shapeID: 25037944B35450059513963
-    country_name: Australia
-  Australia_Adm2_269:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Richmond
-    shapeID: 25037944B62712341328684
-    country_name: Australia
-  Australia_Adm2_27:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: CentralDarling
-    shapeID: 25037944B50105666035452
-    country_name: Australia
-  Australia_Adm2_270:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Rockhampton
-    shapeID: 25037944B96392818490355
-    country_name: Australia
-  Australia_Adm2_271:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: ScenicRim
-    shapeID: 25037944B99333709196563
-    country_name: Australia
-  Australia_Adm2_272:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Somerset
-    shapeID: 25037944B77651628616749
-    country_name: Australia
-  Australia_Adm2_273:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: SouthBurnett
-    shapeID: 25037944B91914901383533
-    country_name: Australia
-  Australia_Adm2_274:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: SouthernDowns
-    shapeID: 25037944B10938266492584
-    country_name: Australia
-  Australia_Adm2_275:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: SunshineCoast
-    shapeID: 25037944B96271376045080
-    country_name: Australia
-  Australia_Adm2_276:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Tablelands
-    shapeID: 25037944B5935933559707
-    country_name: Australia
-  Australia_Adm2_277:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Toowoomba
-    shapeID: 25037944B99590448240631
-    country_name: Australia
-  Australia_Adm2_278:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Torres
-    shapeID: 25037944B43303794043608
-    country_name: Australia
-  Australia_Adm2_279:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: TorresStraitIsland
-    shapeID: 25037944B93306496735140
-    country_name: Australia
-  Australia_Adm2_28:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cessnock
-    shapeID: 25037944B68071810644037
-    country_name: Australia
-  Australia_Adm2_280:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Townsville
-    shapeID: 25037944B93557893838922
-    country_name: Australia
-  Australia_Adm2_281:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Weipa
-    shapeID: 25037944B24701814738895
-    country_name: Australia
-  Australia_Adm2_282:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: WesternDowns
-    shapeID: 25037944B15079852191884
-    country_name: Australia
-  Australia_Adm2_283:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Whitsunday
-    shapeID: 25037944B87142005071762
-    country_name: Australia
-  Australia_Adm2_284:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Winton
-    shapeID: 25037944B95324883935739
-    country_name: Australia
-  Australia_Adm2_285:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Woorabinda
-    shapeID: 25037944B71447631493326
-    country_name: Australia
-  Australia_Adm2_286:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: WujalWujal
-    shapeID: 25037944B81164112312357
-    country_name: Australia
-  Australia_Adm2_287:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Yarrabah
-    shapeID: 25037944B68165922230856
-    country_name: Australia
-  Australia_Adm2_288:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Adelaide
-    shapeID: 25037944B32453744991132
-    country_name: Australia
-  Australia_Adm2_289:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: AdelaideHills
-    shapeID: 25037944B81795940513405
-    country_name: Australia
-  Australia_Adm2_29:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: ClarenceValley
-    shapeID: 25037944B11916296746250
-    country_name: Australia
-  Australia_Adm2_290:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: AdelaidePlains
-    shapeID: 25037944B85276451636106
-    country_name: Australia
-  Australia_Adm2_291:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Alexandrina
-    shapeID: 25037944B24690359827006
-    country_name: Australia
-  Australia_Adm2_292:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: AnanguPitjantjatjaraYunkunytjatjara
-    shapeID: 25037944B76937209298521
-    country_name: Australia
-  Australia_Adm2_293:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Barossa
-    shapeID: 25037944B31531764292735
-    country_name: Australia
-  Australia_Adm2_294:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: BarungaWest
-    shapeID: 25037944B23405884319913
-    country_name: Australia
-  Australia_Adm2_295:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: BerriBarmera
-    shapeID: 25037944B16571921668942
-    country_name: Australia
-  Australia_Adm2_296:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Burnside
-    shapeID: 25037944B2025658304279
-    country_name: Australia
-  Australia_Adm2_297:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Campbelltown(SA)
-    shapeID: 25037944B38277479897228
-    country_name: Australia
-  Australia_Adm2_298:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Ceduna
-    shapeID: 25037944B93610458864606
-    country_name: Australia
-  Australia_Adm2_299:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: CharlesSturt
-    shapeID: 25037944B64238988080325
-    country_name: Australia
-  Australia_Adm2_3:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Ballina
-    shapeID: 25037944B45717157651515
-    country_name: Australia
-  Australia_Adm2_30:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cobar
-    shapeID: 25037944B19938962930750
-    country_name: Australia
-  Australia_Adm2_300:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: ClareandGilbertValleys
-    shapeID: 25037944B42711318671021
-    country_name: Australia
-  Australia_Adm2_301:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cleve
-    shapeID: 25037944B98257545318432
-    country_name: Australia
-  Australia_Adm2_302:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: CooberPedy
-    shapeID: 25037944B54111637534658
-    country_name: Australia
-  Australia_Adm2_303:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: CopperCoast
-    shapeID: 25037944B48925496758456
-    country_name: Australia
-  Australia_Adm2_304:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Elliston
-    shapeID: 25037944B88670568151833
-    country_name: Australia
-  Australia_Adm2_305:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: FlindersRanges
-    shapeID: 25037944B48952282466613
-    country_name: Australia
-  Australia_Adm2_306:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: FranklinHarbour
-    shapeID: 25037944B7803908509786
-    country_name: Australia
-  Australia_Adm2_307:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Gawler
-    shapeID: 25037944B32211395389119
-    country_name: Australia
-  Australia_Adm2_308:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Goyder
-    shapeID: 25037944B76718204715141
-    country_name: Australia
-  Australia_Adm2_309:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Grant
-    shapeID: 25037944B24842060506409
-    country_name: Australia
-  Australia_Adm2_31:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: CoffsHarbour
-    shapeID: 25037944B5888724581246
-    country_name: Australia
-  Australia_Adm2_310:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: HoldfastBay
-    shapeID: 25037944B39543590028882
-    country_name: Australia
-  Australia_Adm2_311:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: KangarooIsland
-    shapeID: 25037944B21501160534360
-    country_name: Australia
-  Australia_Adm2_312:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: KaroondaEastMurray
-    shapeID: 25037944B45596854652330
-    country_name: Australia
-  Australia_Adm2_313:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kimba
-    shapeID: 25037944B98652038613248
-    country_name: Australia
-  Australia_Adm2_314:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kingston(SA)
-    shapeID: 25037944B29779306176871
-    country_name: Australia
-  Australia_Adm2_315:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Light
-    shapeID: 25037944B8971178176615
-    country_name: Australia
-  Australia_Adm2_316:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: LowerEyrePeninsula
-    shapeID: 25037944B64122646541538
-    country_name: Australia
-  Australia_Adm2_317:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: LoxtonWaikerie
-    shapeID: 25037944B91781040485830
-    country_name: Australia
-  Australia_Adm2_318:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MaralingaTjarutja
-    shapeID: 25037944B7661444660063
-    country_name: Australia
-  Australia_Adm2_319:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Marion
-    shapeID: 25037944B19747941889194
-    country_name: Australia
-  Australia_Adm2_32:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Coolamon
-    shapeID: 25037944B40233060499011
-    country_name: Australia
-  Australia_Adm2_320:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MidMurray
-    shapeID: 25037944B98973302778113
-    country_name: Australia
-  Australia_Adm2_321:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Mitcham
-    shapeID: 25037944B96315201731576
-    country_name: Australia
-  Australia_Adm2_322:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MountBarker
-    shapeID: 25037944B83528217861906
-    country_name: Australia
-  Australia_Adm2_323:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MountGambier
-    shapeID: 25037944B55090185866802
-    country_name: Australia
-  Australia_Adm2_324:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MountRemarkable
-    shapeID: 25037944B97955965068321
-    country_name: Australia
-  Australia_Adm2_325:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MurrayBridge
-    shapeID: 25037944B7394804053319
-    country_name: Australia
-  Australia_Adm2_326:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: NaracoorteLucindale
-    shapeID: 25037944B94364154888431
-    country_name: Australia
-  Australia_Adm2_327:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: NorthernAreas
-    shapeID: 25037944B38569575724277
-    country_name: Australia
-  Australia_Adm2_328:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: NorwoodPaynehamandStPeters
-    shapeID: 25037944B5908676794620
-    country_name: Australia
-  Australia_Adm2_329:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Onkaparinga
-    shapeID: 25037944B62747843124796
-    country_name: Australia
-  Australia_Adm2_33:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Coonamble
-    shapeID: 25037944B2591711256956
-    country_name: Australia
-  Australia_Adm2_330:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: OrrorooCarrieton
-    shapeID: 25037944B41363903956940
-    country_name: Australia
-  Australia_Adm2_331:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Peterborough
-    shapeID: 25037944B63042885451223
-    country_name: Australia
-  Australia_Adm2_332:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Playford
-    shapeID: 25037944B16955456805205
-    country_name: Australia
-  Australia_Adm2_333:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: PortAdelaideEnfield
-    shapeID: 25037944B47979939025085
-    country_name: Australia
-  Australia_Adm2_334:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: PortAugusta
-    shapeID: 25037944B82439387593982
-    country_name: Australia
-  Australia_Adm2_335:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: PortLincoln
-    shapeID: 25037944B26241388024664
-    country_name: Australia
-  Australia_Adm2_336:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: PortPirie
-    shapeID: 25037944B53650156153507
-    country_name: Australia
-  Australia_Adm2_337:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Prospect
-    shapeID: 25037944B26135803940358
-    country_name: Australia
-  Australia_Adm2_338:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: RenmarkParinga
-    shapeID: 25037944B48526955129661
-    country_name: Australia
-  Australia_Adm2_339:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Robe
-    shapeID: 25037944B13028513234480
-    country_name: Australia
-  Australia_Adm2_34:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cootamundra-Gundagai
-    shapeID: 25037944B16131127641558
-    country_name: Australia
-  Australia_Adm2_340:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: RoxbyDowns
-    shapeID: 25037944B85106510810268
-    country_name: Australia
-  Australia_Adm2_341:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Salisbury
-    shapeID: 25037944B95616539853674
-    country_name: Australia
-  Australia_Adm2_342:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: SouthernMallee
-    shapeID: 25037944B47874528632088
-    country_name: Australia
-  Australia_Adm2_343:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: StreakyBay
-    shapeID: 25037944B67387382130548
-    country_name: Australia
-  Australia_Adm2_344:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Tatiara
-    shapeID: 25037944B1672021896244
-    country_name: Australia
-  Australia_Adm2_345:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: TeaTreeGully
-    shapeID: 25037944B97586454911655
-    country_name: Australia
-  Australia_Adm2_346:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Coorong
-    shapeID: 25037944B88075036338207
-    country_name: Australia
-  Australia_Adm2_347:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: TumbyBay
-    shapeID: 25037944B80191544000233
-    country_name: Australia
-  Australia_Adm2_348:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Unley
-    shapeID: 25037944B81627065680382
-    country_name: Australia
-  Australia_Adm2_349:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: VictorHarbor
-    shapeID: 25037944B26153550017793
-    country_name: Australia
-  Australia_Adm2_35:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cowra
-    shapeID: 25037944B9471741195126
-    country_name: Australia
-  Australia_Adm2_350:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Wakefield
-    shapeID: 25037944B28741170589797
-    country_name: Australia
-  Australia_Adm2_351:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Walkerville
-    shapeID: 25037944B33474506304148
-    country_name: Australia
-  Australia_Adm2_352:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: WattleRange
-    shapeID: 25037944B1081142143908
-    country_name: Australia
-  Australia_Adm2_353:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: WestTorrens
-    shapeID: 25037944B76769094445269
-    country_name: Australia
-  Australia_Adm2_354:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Whyalla
-    shapeID: 25037944B64884179183706
     country_name: Australia
-  Australia_Adm2_355:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Wudinna
-    shapeID: 25037944B74799247287960
-    country_name: Australia
-  Australia_Adm2_356:
+  AUS.10.9_1_Adm2:
+    GID: AUS.10.9_1
+    admin_name: Boroondara
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Yankalilla
-    shapeID: 25037944B56627334914518
     country_name: Australia
-  Australia_Adm2_357:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: YorkePeninsula
-    shapeID: 25037944B39877699410120
-    country_name: Australia
-  Australia_Adm2_358:
+  AUS.11_1_Adm1:
+    GID: AUS.11_1
+    admin_name: Western Australia
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: UnincorporatedSA
-    shapeID: 25037944B19571193858150
     country_name: Australia
-  Australia_Adm2_359:
-    iso3c: AUS
-    admin_level: Adm2
+    admin_level: Adm1
+  AUS.11.1_1_Adm2:
+    GID: AUS.11.1_1
     admin_name: Albany
-    shapeID: 25037944B82098291834434
-    country_name: Australia
-  Australia_Adm2_36:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cumberland
-    shapeID: 25037944B74007778337807
-    country_name: Australia
-  Australia_Adm2_360:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Armadale
-    shapeID: 25037944B45600387855719
-    country_name: Australia
-  Australia_Adm2_361:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Ashburton
-    shapeID: 25037944B95548638033328
-    country_name: Australia
-  Australia_Adm2_362:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: AugustaMargaretRiver
-    shapeID: 25037944B11828737752872
-    country_name: Australia
-  Australia_Adm2_363:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bassendean
-    shapeID: 25037944B70302192671386
-    country_name: Australia
-  Australia_Adm2_364:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bayswater
-    shapeID: 25037944B12143686182506
-    country_name: Australia
-  Australia_Adm2_365:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Belmont
-    shapeID: 25037944B8488281546819
-    country_name: Australia
-  Australia_Adm2_366:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Beverley
-    shapeID: 25037944B89171502248139
-    country_name: Australia
-  Australia_Adm2_367:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Boddington
-    shapeID: 25037944B46034099777028
-    country_name: Australia
-  Australia_Adm2_368:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: BoyupBrook
-    shapeID: 25037944B18504039205701
-    country_name: Australia
-  Australia_Adm2_369:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bridgetown-Greenbushes
-    shapeID: 25037944B12129239120455
-    country_name: Australia
-  Australia_Adm2_37:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Dubbo
-    shapeID: 25037944B69125352721348
-    country_name: Australia
-  Australia_Adm2_370:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Brookton
-    shapeID: 25037944B61457505310320
-    country_name: Australia
-  Australia_Adm2_371:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Broome
-    shapeID: 25037944B66848731281736
-    country_name: Australia
-  Australia_Adm2_372:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Broomehill-Tambellup
-    shapeID: 25037944B2745809655475
-    country_name: Australia
-  Australia_Adm2_373:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: BruceRock
-    shapeID: 25037944B90464299025642
-    country_name: Australia
-  Australia_Adm2_374:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bunbury
-    shapeID: 25037944B68706686187302
-    country_name: Australia
-  Australia_Adm2_375:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Busselton
-    shapeID: 25037944B46798430259876
-    country_name: Australia
-  Australia_Adm2_376:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cambridge
-    shapeID: 25037944B66566842359979
-    country_name: Australia
-  Australia_Adm2_377:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Canning
-    shapeID: 25037944B2496866637958
-    country_name: Australia
-  Australia_Adm2_378:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Capel
-    shapeID: 25037944B63911738750692
-    country_name: Australia
-  Australia_Adm2_379:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Carnamah
-    shapeID: 25037944B79646276692029
-    country_name: Australia
-  Australia_Adm2_38:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Dungog
-    shapeID: 25037944B39236446518145
-    country_name: Australia
-  Australia_Adm2_380:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Carnarvon
-    shapeID: 25037944B73025640718230
-    country_name: Australia
-  Australia_Adm2_381:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: ChapmanValley
-    shapeID: 25037944B4139819915576
-    country_name: Australia
-  Australia_Adm2_382:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Chittering
-    shapeID: 25037944B8066772871928
-    country_name: Australia
-  Australia_Adm2_383:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: ChristmasIsland
-    shapeID: 25037944B52215188187413
-    country_name: Australia
-  Australia_Adm2_384:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Claremont
-    shapeID: 25037944B95117000304737
-    country_name: Australia
-  Australia_Adm2_385:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cockburn
-    shapeID: 25037944B92381930700505
-    country_name: Australia
-  Australia_Adm2_386:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: CocosIslands
-    shapeID: 25037944B17338277063313
-    country_name: Australia
-  Australia_Adm2_387:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Collie
-    shapeID: 25037944B67416490528235
-    country_name: Australia
-  Australia_Adm2_388:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Coolgardie
-    shapeID: 25037944B30748912552839
-    country_name: Australia
-  Australia_Adm2_389:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Coorow
-    shapeID: 25037944B10831634124389
-    country_name: Australia
-  Australia_Adm2_39:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: EdwardRiver
-    shapeID: 25037944B16722839752740
-    country_name: Australia
-  Australia_Adm2_390:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Corrigin
-    shapeID: 25037944B17845862979070
-    country_name: Australia
-  Australia_Adm2_391:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cottesloe
-    shapeID: 25037944B28116798937362
-    country_name: Australia
-  Australia_Adm2_392:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cranbrook
-    shapeID: 25037944B20309273511019
-    country_name: Australia
-  Australia_Adm2_393:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cuballing
-    shapeID: 25037944B92991223821328
-    country_name: Australia
-  Australia_Adm2_394:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cue
-    shapeID: 25037944B79165272170091
-    country_name: Australia
-  Australia_Adm2_395:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Cunderdin
-    shapeID: 25037944B27165515239628
-    country_name: Australia
-  Australia_Adm2_396:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Dalwallinu
-    shapeID: 25037944B57812572751517
-    country_name: Australia
-  Australia_Adm2_397:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Dandaragan
-    shapeID: 25037944B25957721357526
-    country_name: Australia
-  Australia_Adm2_398:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Dardanup
-    shapeID: 25037944B56639802047851
-    country_name: Australia
-  Australia_Adm2_399:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Denmark
-    shapeID: 25037944B90574007914814
-    country_name: Australia
-  Australia_Adm2_4:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Balranald
-    shapeID: 25037944B43785864788030
-    country_name: Australia
-  Australia_Adm2_40:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Eurobodalla
-    shapeID: 25037944B87455208948659
-    country_name: Australia
-  Australia_Adm2_400:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Derby-WestKimberley
-    shapeID: 25037944B76695994650709
-    country_name: Australia
-  Australia_Adm2_401:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Donnybrook-Balingup
-    shapeID: 25037944B94844051789605
-    country_name: Australia
-  Australia_Adm2_402:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Dowerin
-    shapeID: 25037944B58207809126055
-    country_name: Australia
-  Australia_Adm2_403:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Dumbleyung
-    shapeID: 25037944B51137520992535
-    country_name: Australia
-  Australia_Adm2_404:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Dundas
-    shapeID: 25037944B97036074912579
-    country_name: Australia
-  Australia_Adm2_405:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: EastFremantle
-    shapeID: 25037944B65528874584429
-    country_name: Australia
-  Australia_Adm2_406:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: EastPilbara
-    shapeID: 25037944B14743311013482
-    country_name: Australia
-  Australia_Adm2_407:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Esperance
-    shapeID: 25037944B71614254655380
-    country_name: Australia
-  Australia_Adm2_408:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Exmouth
-    shapeID: 25037944B77099976714827
-    country_name: Australia
-  Australia_Adm2_409:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Fremantle
-    shapeID: 25037944B1530675969406
-    country_name: Australia
-  Australia_Adm2_41:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Fairfield
-    shapeID: 25037944B49484594449228
-    country_name: Australia
-  Australia_Adm2_410:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Gingin
-    shapeID: 25037944B53188273537939
-    country_name: Australia
-  Australia_Adm2_411:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Gnowangerup
-    shapeID: 25037944B50241547651602
-    country_name: Australia
-  Australia_Adm2_412:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Goomalling
-    shapeID: 25037944B4799895230449
-    country_name: Australia
-  Australia_Adm2_413:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Gosnells
-    shapeID: 25037944B22326870513085
-    country_name: Australia
-  Australia_Adm2_414:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: GreaterGeraldton
-    shapeID: 25037944B20957215446412
-    country_name: Australia
-  Australia_Adm2_415:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: HallsCreek
-    shapeID: 25037944B45139039746134
-    country_name: Australia
-  Australia_Adm2_416:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Harvey
-    shapeID: 25037944B91209319772795
-    country_name: Australia
-  Australia_Adm2_417:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Irwin
-    shapeID: 25037944B44454952814800
-    country_name: Australia
-  Australia_Adm2_418:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Jerramungup
-    shapeID: 25037944B23551861043119
-    country_name: Australia
-  Australia_Adm2_419:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Joondalup
-    shapeID: 25037944B62034941870385
-    country_name: Australia
-  Australia_Adm2_42:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Federation
-    shapeID: 25037944B19057969948609
-    country_name: Australia
-  Australia_Adm2_420:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kalamunda
-    shapeID: 25037944B74850979375149
-    country_name: Australia
-  Australia_Adm2_421:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kalgoorlie-Boulder
-    shapeID: 25037944B94303413523862
-    country_name: Australia
-  Australia_Adm2_422:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Karratha
-    shapeID: 25037944B65347816419811
-    country_name: Australia
-  Australia_Adm2_423:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Katanning
-    shapeID: 25037944B94110641032660
-    country_name: Australia
-  Australia_Adm2_424:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kellerberrin
-    shapeID: 25037944B15582539719607
-    country_name: Australia
-  Australia_Adm2_425:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kent
-    shapeID: 25037944B61750008694929
-    country_name: Australia
-  Australia_Adm2_426:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kojonup
-    shapeID: 25037944B18898865249121
-    country_name: Australia
-  Australia_Adm2_427:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kondinin
-    shapeID: 25037944B57185706761007
-    country_name: Australia
-  Australia_Adm2_428:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Koorda
-    shapeID: 25037944B75420720277181
-    country_name: Australia
-  Australia_Adm2_429:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kulin
-    shapeID: 25037944B90327134540623
-    country_name: Australia
-  Australia_Adm2_43:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Forbes
-    shapeID: 25037944B5205782179519
-    country_name: Australia
-  Australia_Adm2_430:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Kwinana
-    shapeID: 25037944B63650800772080
-    country_name: Australia
-  Australia_Adm2_431:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: LakeGrace
-    shapeID: 25037944B30102722037957
-    country_name: Australia
-  Australia_Adm2_432:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Laverton
-    shapeID: 25037944B80817080024086
     country_name: Australia
-  Australia_Adm2_433:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Leonora
-    shapeID: 25037944B70988604830145
-    country_name: Australia
-  Australia_Adm2_434:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Mandurah
-    shapeID: 25037944B7523913669113
-    country_name: Australia
-  Australia_Adm2_435:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Manjimup
-    shapeID: 25037944B58524535883846
-    country_name: Australia
-  Australia_Adm2_436:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Meekatharra
-    shapeID: 25037944B5193502600366
-    country_name: Australia
-  Australia_Adm2_437:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Melville
-    shapeID: 25037944B89194743408802
-    country_name: Australia
-  Australia_Adm2_438:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Menzies
-    shapeID: 25037944B67042441314136
-    country_name: Australia
-  Australia_Adm2_439:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Merredin
-    shapeID: 25037944B40039133464345
-    country_name: Australia
-  Australia_Adm2_44:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: GeorgesRiver
-    shapeID: 25037944B98162521374910
-    country_name: Australia
-  Australia_Adm2_440:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Mingenew
-    shapeID: 25037944B46578815208654
-    country_name: Australia
-  Australia_Adm2_441:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Moora
-    shapeID: 25037944B54845573421137
-    country_name: Australia
-  Australia_Adm2_442:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Morawa
-    shapeID: 25037944B80693108839344
-    country_name: Australia
-  Australia_Adm2_443:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MosmanPark
-    shapeID: 25037944B67942507441975
-    country_name: Australia
-  Australia_Adm2_444:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MountMagnet
-    shapeID: 25037944B8385607479474
-    country_name: Australia
-  Australia_Adm2_445:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: MountMarshall
-    shapeID: 25037944B9675874244357
-    country_name: Australia
-  Australia_Adm2_446:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Mukinbudin
-    shapeID: 25037944B31087465274776
-    country_name: Australia
-  Australia_Adm2_447:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Mundaring
-    shapeID: 25037944B64529810539086
-    country_name: Australia
-  Australia_Adm2_448:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Murchison
-    shapeID: 25037944B75354234976201
-    country_name: Australia
-  Australia_Adm2_449:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Murray
-    shapeID: 25037944B25972327200509
-    country_name: Australia
-  Australia_Adm2_45:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Gilgandra
-    shapeID: 25037944B57868667695206
-    country_name: Australia
-  Australia_Adm2_450:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Nannup
-    shapeID: 25037944B96867361654532
-    country_name: Australia
-  Australia_Adm2_451:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Narembeen
-    shapeID: 25037944B21858000962433
-    country_name: Australia
-  Australia_Adm2_452:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Narrogin
-    shapeID: 25037944B27145137337674
-    country_name: Australia
-  Australia_Adm2_453:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Nedlands
-    shapeID: 25037944B80247248268591
-    country_name: Australia
-  Australia_Adm2_454:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Ngaanyatjarraku
-    shapeID: 25037944B86885707589826
-    country_name: Australia
-  Australia_Adm2_455:
+  AUS.11.10_1_Adm2:
+    GID: AUS.11.10_1
+    admin_name: Boyup Brook
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Northam
-    shapeID: 25037944B49536287471778
-    country_name: Australia
-  Australia_Adm2_456:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Northampton
-    shapeID: 25037944B43886071852017
-    country_name: Australia
-  Australia_Adm2_457:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Nungarin
-    shapeID: 25037944B34284730981486
-    country_name: Australia
-  Australia_Adm2_458:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: PeppermintGrove
-    shapeID: 25037944B88199537818715
     country_name: Australia
-  Australia_Adm2_459:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.11.100_1_Adm2:
+    GID: AUS.11.100_1
     admin_name: Perenjori
-    shapeID: 25037944B82153403198712
-    country_name: Australia
-  Australia_Adm2_46:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: GlenInnesSevern
-    shapeID: 25037944B18987498065819
     country_name: Australia
-  Australia_Adm2_460:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.11.101_1_Adm2:
+    GID: AUS.11.101_1
     admin_name: Perth
-    shapeID: 25037944B64781294564969
-    country_name: Australia
-  Australia_Adm2_461:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.102_1_Adm2:
+    GID: AUS.11.102_1
     admin_name: Pingelly
-    shapeID: 25037944B83412079426782
-    country_name: Australia
-  Australia_Adm2_462:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.103_1_Adm2:
+    GID: AUS.11.103_1
     admin_name: Plantagenet
-    shapeID: 25037944B3535860838783
-    country_name: Australia
-  Australia_Adm2_463:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: PortHedland
-    shapeID: 25037944B61185375235969
     country_name: Australia
-  Australia_Adm2_464:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.11.104_1_Adm2:
+    GID: AUS.11.104_1
+    admin_name: Port Hedland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.105_1_Adm2:
+    GID: AUS.11.105_1
     admin_name: Quairading
-    shapeID: 25037944B17943761568072
-    country_name: Australia
-  Australia_Adm2_465:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.106_1_Adm2:
+    GID: AUS.11.106_1
     admin_name: Ravensthorpe
-    shapeID: 25037944B73720065991414
-    country_name: Australia
-  Australia_Adm2_466:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.107_1_Adm2:
+    GID: AUS.11.107_1
     admin_name: Rockingham
-    shapeID: 25037944B36908504302594
-    country_name: Australia
-  Australia_Adm2_467:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.108_1_Adm2:
+    GID: AUS.11.108_1
+    admin_name: Roebourne
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.109_1_Adm2:
+    GID: AUS.11.109_1
     admin_name: Sandstone
-    shapeID: 25037944B59235958721533
-    country_name: Australia
-  Australia_Adm2_468:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.11_1_Adm2:
+    GID: AUS.11.11_1
+    admin_name: Bridgetown-Greenbushes
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.110_1_Adm2:
+    GID: AUS.11.110_1
+    admin_name: Scott and Seringapatam Reefs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.111_1_Adm2:
+    GID: AUS.11.111_1
     admin_name: Serpentine-Jarrahdale
-    shapeID: 25037944B73163589668910
-    country_name: Australia
-  Australia_Adm2_469:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: SharkBay
-    shapeID: 25037944B60313460254351
     country_name: Australia
-  Australia_Adm2_47:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: GoulburnMulwaree
-    shapeID: 25037944B47240806764449
+  AUS.11.112_1_Adm2:
+    GID: AUS.11.112_1
+    admin_name: Shark Bay
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_470:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: SouthPerth
-    shapeID: 25037944B33468423524116
+  AUS.11.113_1_Adm2:
+    GID: AUS.11.113_1
+    admin_name: South Perth
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_471:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.11.114_1_Adm2:
+    GID: AUS.11.114_1
     admin_name: Stirling
-    shapeID: 25037944B32793785148952
-    country_name: Australia
-  Australia_Adm2_472:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.115_1_Adm2:
+    GID: AUS.11.115_1
     admin_name: Subiaco
-    shapeID: 25037944B24614013246759
-    country_name: Australia
-  Australia_Adm2_473:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.116_1_Adm2:
+    GID: AUS.11.116_1
     admin_name: Swan
-    shapeID: 25037944B80977400134390
-    country_name: Australia
-  Australia_Adm2_474:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.117_1_Adm2:
+    GID: AUS.11.117_1
     admin_name: Tammin
-    shapeID: 25037944B7078020583356
-    country_name: Australia
-  Australia_Adm2_475:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: ThreeSprings
-    shapeID: 25037944B87416382826718
     country_name: Australia
-  Australia_Adm2_476:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.11.118_1_Adm2:
+    GID: AUS.11.118_1
+    admin_name: Three Springs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.119_1_Adm2:
+    GID: AUS.11.119_1
     admin_name: Toodyay
-    shapeID: 25037944B97460463632510
-    country_name: Australia
-  Australia_Adm2_477:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.12_1_Adm2:
+    GID: AUS.11.12_1
+    admin_name: Brookton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.120_1_Adm2:
+    GID: AUS.11.120_1
     admin_name: Trayning
-    shapeID: 25037944B98291984831496
-    country_name: Australia
-  Australia_Adm2_478:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: UpperGascoyne
-    shapeID: 25037944B28786779473224
     country_name: Australia
-  Australia_Adm2_479:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: VictoriaPark
-    shapeID: 25037944B59054376052464
+  AUS.11.121_1_Adm2:
+    GID: AUS.11.121_1
+    admin_name: Upper Gascoyne
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_48:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: GreaterHume
-    shapeID: 25037944B5872723036943
+  AUS.11.122_1_Adm2:
+    GID: AUS.11.122_1
+    admin_name: Victoria Park
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_480:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: VictoriaPlains
-    shapeID: 25037944B36470505967652
+  AUS.11.123_1_Adm2:
+    GID: AUS.11.123_1
+    admin_name: Victoria Plains
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_481:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.11.124_1_Adm2:
+    GID: AUS.11.124_1
     admin_name: Vincent
-    shapeID: 25037944B82328591625586
-    country_name: Australia
-  Australia_Adm2_482:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.125_1_Adm2:
+    GID: AUS.11.125_1
     admin_name: Wagin
-    shapeID: 25037944B63512656480867
-    country_name: Australia
-  Australia_Adm2_483:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.126_1_Adm2:
+    GID: AUS.11.126_1
     admin_name: Wandering
-    shapeID: 25037944B32288278809201
-    country_name: Australia
-  Australia_Adm2_484:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.127_1_Adm2:
+    GID: AUS.11.127_1
     admin_name: Wanneroo
-    shapeID: 25037944B9363307042095
-    country_name: Australia
-  Australia_Adm2_485:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.128_1_Adm2:
+    GID: AUS.11.128_1
     admin_name: Waroona
-    shapeID: 25037944B30802850607008
-    country_name: Australia
-  Australia_Adm2_486:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: WestArthur
-    shapeID: 25037944B89790845522775
     country_name: Australia
-  Australia_Adm2_487:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.11.129_1_Adm2:
+    GID: AUS.11.129_1
+    admin_name: West Arthur
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.13_1_Adm2:
+    GID: AUS.11.13_1
+    admin_name: Broome
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.130_1_Adm2:
+    GID: AUS.11.130_1
     admin_name: Westonia
-    shapeID: 25037944B31947016083721
-    country_name: Australia
-  Australia_Adm2_488:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.131_1_Adm2:
+    GID: AUS.11.131_1
     admin_name: Wickepin
-    shapeID: 25037944B57924194295774
-    country_name: Australia
-  Australia_Adm2_489:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.132_1_Adm2:
+    GID: AUS.11.132_1
     admin_name: Williams
-    shapeID: 25037944B87064425958741
-    country_name: Australia
-  Australia_Adm2_49:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Griffith
-    shapeID: 25037944B92431338165184
     country_name: Australia
-  Australia_Adm2_490:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.11.133_1_Adm2:
+    GID: AUS.11.133_1
     admin_name: Wiluna
-    shapeID: 25037944B27628401872150
-    country_name: Australia
-  Australia_Adm2_491:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.134_1_Adm2:
+    GID: AUS.11.134_1
     admin_name: Wongan-Ballidu
-    shapeID: 25037944B4040834169290
-    country_name: Australia
-  Australia_Adm2_492:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.135_1_Adm2:
+    GID: AUS.11.135_1
     admin_name: Woodanilling
-    shapeID: 25037944B81892326519969
-    country_name: Australia
-  Australia_Adm2_493:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.136_1_Adm2:
+    GID: AUS.11.136_1
     admin_name: Wyalkatchem
-    shapeID: 25037944B8068903410129
-    country_name: Australia
-  Australia_Adm2_494:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Wyndham-EastKimberley
-    shapeID: 25037944B52727077839859
     country_name: Australia
-  Australia_Adm2_495:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.11.137_1_Adm2:
+    GID: AUS.11.137_1
+    admin_name: Wyndham-East Kimberley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.138_1_Adm2:
+    GID: AUS.11.138_1
     admin_name: Yalgoo
-    shapeID: 25037944B40013954886351
-    country_name: Australia
-  Australia_Adm2_496:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.139_1_Adm2:
+    GID: AUS.11.139_1
     admin_name: Yilgarn
-    shapeID: 25037944B56581938984526
-    country_name: Australia
-  Australia_Adm2_497:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.11.14_1_Adm2:
+    GID: AUS.11.14_1
+    admin_name: Broomehill-Tambellup
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.140_1_Adm2:
+    GID: AUS.11.140_1
     admin_name: York
-    shapeID: 25037944B97234562917936
-    country_name: Australia
-  Australia_Adm2_498:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: BreakO'Day
-    shapeID: 25037944B7589359748935
     country_name: Australia
-  Australia_Adm2_499:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Brighton
-    shapeID: 25037944B48970679767962
-    country_name: Australia
-  Australia_Adm2_5:
+  AUS.11.15_1_Adm2:
+    GID: AUS.11.15_1
+    admin_name: Bruce Rock
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Bathurst
-    shapeID: 25037944B26387144583263
     country_name: Australia
-  Australia_Adm2_50:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Gunnedah
-    shapeID: 25037944B84147386402076
-    country_name: Australia
-  Australia_Adm2_500:
+  AUS.11.16_1_Adm2:
+    GID: AUS.11.16_1
+    admin_name: Bunbury
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Burnie
-    shapeID: 25037944B77423054355343
     country_name: Australia
-  Australia_Adm2_501:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: CentralCoast(Tas.)
-    shapeID: 25037944B34694615904571
-    country_name: Australia
-  Australia_Adm2_502:
+  AUS.11.17_1_Adm2:
+    GID: AUS.11.17_1
+    admin_name: Busselton
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: CentralHighlands(Tas.)
-    shapeID: 25037944B68362175930798
     country_name: Australia
-  Australia_Adm2_503:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: CircularHead
-    shapeID: 25037944B64479708811178
-    country_name: Australia
-  Australia_Adm2_504:
+  AUS.11.18_1_Adm2:
+    GID: AUS.11.18_1
+    admin_name: Cambridge
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Clarence
-    shapeID: 25037944B57151940201314
     country_name: Australia
-  Australia_Adm2_505:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: DerwentValley
-    shapeID: 25037944B77062531378131
-    country_name: Australia
-  Australia_Adm2_506:
+  AUS.11.19_1_Adm2:
+    GID: AUS.11.19_1
+    admin_name: Canning
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Devonport
-    shapeID: 25037944B44278737612916
     country_name: Australia
-  Australia_Adm2_507:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Dorset
-    shapeID: 25037944B7753328322432
-    country_name: Australia
-  Australia_Adm2_508:
+  AUS.11.2_1_Adm2:
+    GID: AUS.11.2_1
+    admin_name: Armadale
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Flinders(Tas.)
-    shapeID: 25037944B15550630319657
     country_name: Australia
-  Australia_Adm2_509:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: GeorgeTown
-    shapeID: 25037944B54594589896924
-    country_name: Australia
-  Australia_Adm2_51:
+  AUS.11.20_1_Adm2:
+    GID: AUS.11.20_1
+    admin_name: Capel
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Gwydir
-    shapeID: 25037944B33520850609711
     country_name: Australia
-  Australia_Adm2_510:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Glamorgan-SpringBay
-    shapeID: 25037944B36269977330964
-    country_name: Australia
-  Australia_Adm2_511:
+  AUS.11.21_1_Adm2:
+    GID: AUS.11.21_1
+    admin_name: Carnamah
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Glenorchy
-    shapeID: 25037944B30082174620136
     country_name: Australia
-  Australia_Adm2_512:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Hobart
-    shapeID: 25037944B41007206704884
-    country_name: Australia
-  Australia_Adm2_513:
+  AUS.11.22_1_Adm2:
+    GID: AUS.11.22_1
+    admin_name: Carnarvon
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: HuonValley
-    shapeID: 25037944B40163460524303
     country_name: Australia
-  Australia_Adm2_514:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Kentish
-    shapeID: 25037944B6865905771327
-    country_name: Australia
-  Australia_Adm2_515:
+  AUS.11.23_1_Adm2:
+    GID: AUS.11.23_1
+    admin_name: Chapman Valley
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: KingIsland
-    shapeID: 25037944B96070195853153
     country_name: Australia
-  Australia_Adm2_516:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Kingborough
-    shapeID: 25037944B97802920285494
-    country_name: Australia
-  Australia_Adm2_517:
+  AUS.11.24_1_Adm2:
+    GID: AUS.11.24_1
+    admin_name: Chittering
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Latrobe(Tas.)
-    shapeID: 25037944B83996664476279
     country_name: Australia
-  Australia_Adm2_518:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Launceston
-    shapeID: 25037944B58577428038391
-    country_name: Australia
-  Australia_Adm2_519:
+  AUS.11.25_1_Adm2:
+    GID: AUS.11.25_1
+    admin_name: Claremont
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: MeanderValley
-    shapeID: 25037944B18161391001525
     country_name: Australia
-  Australia_Adm2_52:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Hawkesbury
-    shapeID: 25037944B69069268480762
-    country_name: Australia
-  Australia_Adm2_520:
+  AUS.11.26_1_Adm2:
+    GID: AUS.11.26_1
+    admin_name: Cockburn
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: NorthernMidlands
-    shapeID: 25037944B94548184912338
     country_name: Australia
-  Australia_Adm2_521:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Sorell
-    shapeID: 25037944B32706868282963
-    country_name: Australia
-  Australia_Adm2_522:
+  AUS.11.27_1_Adm2:
+    GID: AUS.11.27_1
+    admin_name: Collie
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: SouthernMidlands
-    shapeID: 25037944B17356947881143
     country_name: Australia
-  Australia_Adm2_523:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Tasman
-    shapeID: 25037944B3196758006224
-    country_name: Australia
-  Australia_Adm2_524:
+  AUS.11.28_1_Adm2:
+    GID: AUS.11.28_1
+    admin_name: Coolgardie
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Waratah-Wynyard
-    shapeID: 25037944B19706345556765
     country_name: Australia
-  Australia_Adm2_525:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: WestCoast
-    shapeID: 25037944B97850876136128
-    country_name: Australia
-  Australia_Adm2_526:
+  AUS.11.29_1_Adm2:
+    GID: AUS.11.29_1
+    admin_name: Coorow
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: WestTamar
-    shapeID: 25037944B75055977098300
     country_name: Australia
-  Australia_Adm2_527:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: AliceSprings
-    shapeID: 25037944B49978280072491
-    country_name: Australia
-  Australia_Adm2_528:
+  AUS.11.3_1_Adm2:
+    GID: AUS.11.3_1
+    admin_name: Ashburton
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Barkly
-    shapeID: 25037944B87984246529450
     country_name: Australia
-  Australia_Adm2_529:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Belyuen
-    shapeID: 25037944B37494903355321
-    country_name: Australia
-  Australia_Adm2_53:
+  AUS.11.30_1_Adm2:
+    GID: AUS.11.30_1
+    admin_name: Corrigin
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Hay
-    shapeID: 25037944B78300731498703
     country_name: Australia
-  Australia_Adm2_530:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: CentralDesert
-    shapeID: 25037944B81249572637263
-    country_name: Australia
-  Australia_Adm2_531:
+  AUS.11.31_1_Adm2:
+    GID: AUS.11.31_1
+    admin_name: Cottesloe
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Coomalie
-    shapeID: 25037944B16759006021093
     country_name: Australia
-  Australia_Adm2_532:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Darwin
-    shapeID: 25037944B80188408210929
-    country_name: Australia
-  Australia_Adm2_533:
+  AUS.11.32_1_Adm2:
+    GID: AUS.11.32_1
+    admin_name: Cranbrook
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: DarwinWaterfrontPrecinct
-    shapeID: 25037944B77006542086789
     country_name: Australia
-  Australia_Adm2_534:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: EastArnhem
-    shapeID: 25037944B47305351718046
-    country_name: Australia
-  Australia_Adm2_535:
+  AUS.11.33_1_Adm2:
+    GID: AUS.11.33_1
+    admin_name: Cuballing
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Katherine
-    shapeID: 25037944B85754900082747
     country_name: Australia
-  Australia_Adm2_536:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Litchfield
-    shapeID: 25037944B87513158470011
+  AUS.11.34_1_Adm2:
+    GID: AUS.11.34_1
+    admin_name: Cue
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_537:
+    admin_level: Adm2
+  AUS.11.35_1_Adm2:
+    GID: AUS.11.35_1
+    admin_name: Cunderdin
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: MacDonnell
-    shapeID: 25037944B32264354424251
+  AUS.11.36_1_Adm2:
+    GID: AUS.11.36_1
+    admin_name: Dalwallinu
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_538:
+    admin_level: Adm2
+  AUS.11.37_1_Adm2:
+    GID: AUS.11.37_1
+    admin_name: Dandaragan
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Palmerston
-    shapeID: 25037944B38638552543628
+  AUS.11.38_1_Adm2:
+    GID: AUS.11.38_1
+    admin_name: Dardanup
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_539:
+    admin_level: Adm2
+  AUS.11.39_1_Adm2:
+    GID: AUS.11.39_1
+    admin_name: Denmark
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: RoperGulf
-    shapeID: 25037944B80645640934935
+  AUS.11.4_1_Adm2:
+    GID: AUS.11.4_1
+    admin_name: Augusta-Margaret River
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_54:
+    admin_level: Adm2
+  AUS.11.40_1_Adm2:
+    GID: AUS.11.40_1
+    admin_name: Derby-West Kimberley
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Hilltops
-    shapeID: 25037944B92973083305975
+  AUS.11.41_1_Adm2:
+    GID: AUS.11.41_1
+    admin_name: Donnybrook-Balingup
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_540:
+    admin_level: Adm2
+  AUS.11.42_1_Adm2:
+    GID: AUS.11.42_1
+    admin_name: Dowerin
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: TiwiIslands
-    shapeID: 25037944B62285809064209
+  AUS.11.43_1_Adm2:
+    GID: AUS.11.43_1
+    admin_name: Dumbleyung
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_541:
+    admin_level: Adm2
+  AUS.11.44_1_Adm2:
+    GID: AUS.11.44_1
+    admin_name: Dundas
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: VictoriaDaly
-    shapeID: 25037944B16072859725230
+  AUS.11.45_1_Adm2:
+    GID: AUS.11.45_1
+    admin_name: East Fremantle
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_542:
+    admin_level: Adm2
+  AUS.11.46_1_Adm2:
+    GID: AUS.11.46_1
+    admin_name: East Pilbara
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Wagait
-    shapeID: 25037944B50083435969321
+  AUS.11.47_1_Adm2:
+    GID: AUS.11.47_1
+    admin_name: Esperance
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_543:
+    admin_level: Adm2
+  AUS.11.48_1_Adm2:
+    GID: AUS.11.48_1
+    admin_name: Exmouth
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: WestArnhem
-    shapeID: 25037944B28082311396997
+  AUS.11.49_1_Adm2:
+    GID: AUS.11.49_1
+    admin_name: Fremantle
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_544:
+    admin_level: Adm2
+  AUS.11.5_1_Adm2:
+    GID: AUS.11.5_1
+    admin_name: Bassendean
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: WestDaly
-    shapeID: 25037944B73531494726593
+  AUS.11.50_1_Adm2:
+    GID: AUS.11.50_1
+    admin_name: Geraldton-Greenough
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_545:
+    admin_level: Adm2
+  AUS.11.51_1_Adm2:
+    GID: AUS.11.51_1
+    admin_name: Gingin
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: UnincorporatedNT
-    shapeID: 25037944B66789818675827
+  AUS.11.52_1_Adm2:
+    GID: AUS.11.52_1
+    admin_name: Gnowangerup
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_546:
+    admin_level: Adm2
+  AUS.11.53_1_Adm2:
+    GID: AUS.11.53_1
+    admin_name: Goomalling
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: UnincorporatedACT
-    shapeID: 25037944B15172244637897
+  AUS.11.54_1_Adm2:
+    GID: AUS.11.54_1
+    admin_name: Gosnells
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_547:
+    admin_level: Adm2
+  AUS.11.55_1_Adm2:
+    GID: AUS.11.55_1
+    admin_name: Halls Creek
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Unincorp.OtherTerritories
-    shapeID: 25037944B57060386363407
+  AUS.11.56_1_Adm2:
+    GID: AUS.11.56_1
+    admin_name: Harvey
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_55:
+    admin_level: Adm2
+  AUS.11.57_1_Adm2:
+    GID: AUS.11.57_1
+    admin_name: Irwin
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Hornsby
-    shapeID: 25037944B15233431502175
+  AUS.11.58_1_Adm2:
+    GID: AUS.11.58_1
+    admin_name: Jerramungup
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_56:
+    admin_level: Adm2
+  AUS.11.59_1_Adm2:
+    GID: AUS.11.59_1
+    admin_name: Joondalup
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: HuntersHill
-    shapeID: 25037944B34296859753223
+  AUS.11.6_1_Adm2:
+    GID: AUS.11.6_1
+    admin_name: Bayswater
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_57:
+    admin_level: Adm2
+  AUS.11.60_1_Adm2:
+    GID: AUS.11.60_1
+    admin_name: Kalamunda
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: InnerWest
-    shapeID: 25037944B74627164094069
+  AUS.11.61_1_Adm2:
+    GID: AUS.11.61_1
+    admin_name: Kalgoorlie/Boulder
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_58:
+    admin_level: Adm2
+  AUS.11.62_1_Adm2:
+    GID: AUS.11.62_1
+    admin_name: Katanning
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Inverell
-    shapeID: 25037944B83825062814696
+  AUS.11.63_1_Adm2:
+    GID: AUS.11.63_1
+    admin_name: Kellerberrin
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_59:
+    admin_level: Adm2
+  AUS.11.64_1_Adm2:
+    GID: AUS.11.64_1
+    admin_name: Kent
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Junee
-    shapeID: 25037944B78152286064279
+  AUS.11.65_1_Adm2:
+    GID: AUS.11.65_1
+    admin_name: Kojonup
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_6:
+    admin_level: Adm2
+  AUS.11.66_1_Adm2:
+    GID: AUS.11.66_1
+    admin_name: Kondinin
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Bayside(NSW)
-    shapeID: 25037944B57870334231273
+  AUS.11.67_1_Adm2:
+    GID: AUS.11.67_1
+    admin_name: Koorda
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_60:
+    admin_level: Adm2
+  AUS.11.68_1_Adm2:
+    GID: AUS.11.68_1
+    admin_name: Kulin
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Kempsey
-    shapeID: 25037944B28322742618410
+  AUS.11.69_1_Adm2:
+    GID: AUS.11.69_1
+    admin_name: Kwinana
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_61:
+    admin_level: Adm2
+  AUS.11.7_1_Adm2:
+    GID: AUS.11.7_1
+    admin_name: Belmont
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Kiama
-    shapeID: 25037944B41308394801248
+  AUS.11.70_1_Adm2:
+    GID: AUS.11.70_1
+    admin_name: Lake Grace
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_62:
+    admin_level: Adm2
+  AUS.11.71_1_Adm2:
+    GID: AUS.11.71_1
+    admin_name: Laverton
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Ku-ring-gai
-    shapeID: 25037944B69948285060259
+  AUS.11.72_1_Adm2:
+    GID: AUS.11.72_1
+    admin_name: Leonora
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_63:
+    admin_level: Adm2
+  AUS.11.73_1_Adm2:
+    GID: AUS.11.73_1
+    admin_name: Mandurah
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Kyogle
-    shapeID: 25037944B88748338867232
+  AUS.11.74_1_Adm2:
+    GID: AUS.11.74_1
+    admin_name: Manjimup
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_64:
+    admin_level: Adm2
+  AUS.11.75_1_Adm2:
+    GID: AUS.11.75_1
+    admin_name: Meekatharra
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Lachlan
-    shapeID: 25037944B93105500759341
+  AUS.11.76_1_Adm2:
+    GID: AUS.11.76_1
+    admin_name: Melville
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_65:
+    admin_level: Adm2
+  AUS.11.77_1_Adm2:
+    GID: AUS.11.77_1
+    admin_name: Menzies
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: LakeMacquarie
-    shapeID: 25037944B40753124190116
+  AUS.11.78_1_Adm2:
+    GID: AUS.11.78_1
+    admin_name: Merredin
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_66:
+    admin_level: Adm2
+  AUS.11.79_1_Adm2:
+    GID: AUS.11.79_1
+    admin_name: Mingenew
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: LaneCove
-    shapeID: 25037944B47816389357030
+  AUS.11.8_1_Adm2:
+    GID: AUS.11.8_1
+    admin_name: Beverley
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_67:
+    admin_level: Adm2
+  AUS.11.80_1_Adm2:
+    GID: AUS.11.80_1
+    admin_name: Moora
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Leeton
-    shapeID: 25037944B57687505469181
+  AUS.11.81_1_Adm2:
+    GID: AUS.11.81_1
+    admin_name: Morawa
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_68:
+    admin_level: Adm2
+  AUS.11.82_1_Adm2:
+    GID: AUS.11.82_1
+    admin_name: Mosman Park
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Lismore
-    shapeID: 25037944B52457612567816
+  AUS.11.83_1_Adm2:
+    GID: AUS.11.83_1
+    admin_name: Mount Magnet
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_69:
+    admin_level: Adm2
+  AUS.11.84_1_Adm2:
+    GID: AUS.11.84_1
+    admin_name: Mount Marshall
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Lithgow
-    shapeID: 25037944B76556859341208
+  AUS.11.85_1_Adm2:
+    GID: AUS.11.85_1
+    admin_name: Mukinbudin
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_7:
+    admin_level: Adm2
+  AUS.11.86_1_Adm2:
+    GID: AUS.11.86_1
+    admin_name: Mullewa
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: BegaValley
-    shapeID: 25037944B16891547173569
+  AUS.11.87_1_Adm2:
+    GID: AUS.11.87_1
+    admin_name: Mundaring
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_70:
+    admin_level: Adm2
+  AUS.11.88_1_Adm2:
+    GID: AUS.11.88_1
+    admin_name: Murchison
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Liverpool
-    shapeID: 25037944B81685478885528
+  AUS.11.89_1_Adm2:
+    GID: AUS.11.89_1
+    admin_name: Murray
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_71:
+    admin_level: Adm2
+  AUS.11.9_1_Adm2:
+    GID: AUS.11.9_1
+    admin_name: Boddington
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: LiverpoolPlains
-    shapeID: 25037944B45289981242640
+  AUS.11.90_1_Adm2:
+    GID: AUS.11.90_1
+    admin_name: Nannup
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_72:
+    admin_level: Adm2
+  AUS.11.91_1_Adm2:
+    GID: AUS.11.91_1
+    admin_name: Narembeen
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Lockhart
-    shapeID: 25037944B87274721652905
+  AUS.11.92_1_Adm2:
+    GID: AUS.11.92_1
+    admin_name: Narrogin (Shire)
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_73:
+    admin_level: Adm2
+  AUS.11.93_1_Adm2:
+    GID: AUS.11.93_1
+    admin_name: Narrogin (Town)
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Maitland
-    shapeID: 25037944B62637049608158
+  AUS.11.94_1_Adm2:
+    GID: AUS.11.94_1
+    admin_name: Nedlands
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_74:
+    admin_level: Adm2
+  AUS.11.95_1_Adm2:
+    GID: AUS.11.95_1
+    admin_name: Ngaanyatjarraku
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Mid-Coast
-    shapeID: 25037944B78442704405462
+  AUS.11.96_1_Adm2:
+    GID: AUS.11.96_1
+    admin_name: Northam
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_75:
+    admin_level: Adm2
+  AUS.11.97_1_Adm2:
+    GID: AUS.11.97_1
+    admin_name: Northampton
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Mid-Western
-    shapeID: 25037944B76580037794190
+  AUS.11.98_1_Adm2:
+    GID: AUS.11.98_1
+    admin_name: Nungarin
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_76:
+    admin_level: Adm2
+  AUS.11.99_1_Adm2:
+    GID: AUS.11.99_1
+    admin_name: Peppermint Grove
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: MoreePlains
-    shapeID: 25037944B16767086981220
+  AUS.2_1_Adm1:
+    GID: AUS.2_1
+    admin_name: Australian Capital Territory
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_77:
+    admin_level: Adm1
+  AUS.2.1_1_Adm2:
+    GID: AUS.2.1_1
+    admin_name: Unincorporated Australian Capita
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Mosman
-    shapeID: 25037944B9039648932577
+  AUS.3_1_Adm1:
+    GID: AUS.3_1
+    admin_name: Coral Sea Islands Territory
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_78:
+    admin_level: Adm1
+  AUS.3.1_1_Adm2:
+    GID: AUS.3.1_1
+    admin_name: Coral Sea Islands
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: MurrayRiver
-    shapeID: 25037944B78114295205688
+  AUS.4_1_Adm1:
+    GID: AUS.4_1
+    admin_name: Jervis Bay Territory
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_79:
+    admin_level: Adm1
+  AUS.4.1_1_Adm2:
+    GID: AUS.4.1_1
+    admin_name: Jervis Bay
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
-    admin_name: Murrumbidgee
-    shapeID: 25037944B53831779764710
+  AUS.5_1_Adm1:
+    GID: AUS.5_1
+    admin_name: New South Wales
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_8:
+    admin_level: Adm1
+  AUS.5.1_1_Adm2:
+    GID: AUS.5.1_1
+    admin_name: Albury
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.5.10_1_Adm2:
+    GID: AUS.5.10_1
     admin_name: Bellingen
-    shapeID: 25037944B1782787006296
-    country_name: Australia
-  Australia_Adm2_80:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Muswellbrook
-    shapeID: 25037944B88537048948574
     country_name: Australia
-  Australia_Adm2_81:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: NambuccaValley
-    shapeID: 25037944B440592647056
-    country_name: Australia
-  Australia_Adm2_82:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Narrabri
-    shapeID: 25037944B38691483406712
-    country_name: Australia
-  Australia_Adm2_83:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Narrandera
-    shapeID: 25037944B16840847352668
-    country_name: Australia
-  Australia_Adm2_84:
-    iso3c: AUS
-    admin_level: Adm2
-    admin_name: Narromine
-    shapeID: 25037944B72215071742446
-    country_name: Australia
-  Australia_Adm2_85:
-    iso3c: AUS
-    admin_level: Adm2
+  AUS.5.100_1_Adm2:
+    GID: AUS.5.100_1
     admin_name: Newcastle
-    shapeID: 25037944B69528063359333
-    country_name: Australia
-  Australia_Adm2_86:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: NorthSydney
-    shapeID: 25037944B70017345976481
     country_name: Australia
-  Australia_Adm2_87:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: NorthernBeaches
-    shapeID: 25037944B81755283628627
+  AUS.5.101_1_Adm2:
+    GID: AUS.5.101_1
+    admin_name: North Sydney
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_88:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.5.102_1_Adm2:
+    GID: AUS.5.102_1
     admin_name: Oberon
-    shapeID: 25037944B83786043255817
-    country_name: Australia
-  Australia_Adm2_89:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.5.103_1_Adm2:
+    GID: AUS.5.103_1
     admin_name: Orange
-    shapeID: 25037944B16030223882467
-    country_name: Australia
-  Australia_Adm2_9:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Berrigan
-    shapeID: 25037944B79892386490083
     country_name: Australia
-  Australia_Adm2_90:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.5.104_1_Adm2:
+    GID: AUS.5.104_1
+    admin_name: Palerang
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.105_1_Adm2:
+    GID: AUS.5.105_1
     admin_name: Parkes
-    shapeID: 25037944B17305446148962
-    country_name: Australia
-  Australia_Adm2_91:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.5.106_1_Adm2:
+    GID: AUS.5.106_1
     admin_name: Parramatta
-    shapeID: 25037944B24816754384688
-    country_name: Australia
-  Australia_Adm2_92:
     iso3c: AUS
+    country_name: Australia
     admin_level: Adm2
+  AUS.5.107_1_Adm2:
+    GID: AUS.5.107_1
     admin_name: Penrith
-    shapeID: 25037944B77698637071191
-    country_name: Australia
-  Australia_Adm2_93:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: PortMacquarie-Hastings
-    shapeID: 25037944B90970778714828
     country_name: Australia
-  Australia_Adm2_94:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: PortStephens
-    shapeID: 25037944B52772221720298
+  AUS.5.108_1_Adm2:
+    GID: AUS.5.108_1
+    admin_name: Pittwater
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_95:
-    iso3c: AUS
     admin_level: Adm2
-    admin_name: Queanbeyan-Palerang
-    shapeID: 25037944B93129192801754
+  AUS.5.109_1_Adm2:
+    GID: AUS.5.109_1
+    admin_name: Port Macquarie-Hastings
+    iso3c: AUS
     country_name: Australia
-  Australia_Adm2_96:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.5.11_1_Adm2:
+    GID: AUS.5.11_1
+    admin_name: Berrigan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.110_1_Adm2:
+    GID: AUS.5.110_1
+    admin_name: Port Stephens
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.111_1_Adm2:
+    GID: AUS.5.111_1
+    admin_name: Queanbeyan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.112_1_Adm2:
+    GID: AUS.5.112_1
     admin_name: Randwick
-    shapeID: 25037944B39404082196295
-    country_name: Australia
-  Australia_Adm2_97:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: RichmondValley
-    shapeID: 25037944B67552272844427
     country_name: Australia
-  Australia_Adm2_98:
-    iso3c: AUS
     admin_level: Adm2
+  AUS.5.113_1_Adm2:
+    GID: AUS.5.113_1
+    admin_name: Richmond Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.114_1_Adm2:
+    GID: AUS.5.114_1
+    admin_name: Rockdale
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.115_1_Adm2:
+    GID: AUS.5.115_1
     admin_name: Ryde
-    shapeID: 25037944B17324059091414
-    country_name: Australia
-  Australia_Adm2_99:
     iso3c: AUS
-    admin_level: Adm2
-    admin_name: Shellharbour
-    shapeID: 25037944B55724853403969
     country_name: Australia
+    admin_level: Adm2
+  AUS.5.116_1_Adm2:
+    GID: AUS.5.116_1
+    admin_name: Shellharbour
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.117_1_Adm2:
+    GID: AUS.5.117_1
+    admin_name: Shoalhaven
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.118_1_Adm2:
+    GID: AUS.5.118_1
+    admin_name: Singleton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.119_1_Adm2:
+    GID: AUS.5.119_1
+    admin_name: Snowy River
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.12_1_Adm2:
+    GID: AUS.5.12_1
+    admin_name: Blacktown
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.120_1_Adm2:
+    GID: AUS.5.120_1
+    admin_name: Strathfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.121_1_Adm2:
+    GID: AUS.5.121_1
+    admin_name: Sutherland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.122_1_Adm2:
+    GID: AUS.5.122_1
+    admin_name: Sydney
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.123_1_Adm2:
+    GID: AUS.5.123_1
+    admin_name: Tamworth Regional
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.124_1_Adm2:
+    GID: AUS.5.124_1
+    admin_name: Temora
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.125_1_Adm2:
+    GID: AUS.5.125_1
+    admin_name: Tenterfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.126_1_Adm2:
+    GID: AUS.5.126_1
+    admin_name: The Hills
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.127_1_Adm2:
+    GID: AUS.5.127_1
+    admin_name: Tumbarumba
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.128_1_Adm2:
+    GID: AUS.5.128_1
+    admin_name: Tumut
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.129_1_Adm2:
+    GID: AUS.5.129_1
+    admin_name: Tweed
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.13_1_Adm2:
+    GID: AUS.5.13_1
+    admin_name: Bland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.130_1_Adm2:
+    GID: AUS.5.130_1
+    admin_name: Unincorporated New South Wales
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.131_1_Adm2:
+    GID: AUS.5.131_1
+    admin_name: Upper Hunter
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.132_1_Adm2:
+    GID: AUS.5.132_1
+    admin_name: Upper Lachlan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.133_1_Adm2:
+    GID: AUS.5.133_1
+    admin_name: Uralla
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.134_1_Adm2:
+    GID: AUS.5.134_1
+    admin_name: Urana
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.135_1_Adm2:
+    GID: AUS.5.135_1
+    admin_name: Wagga Wagga
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.136_1_Adm2:
+    GID: AUS.5.136_1
+    admin_name: Wakool
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.137_1_Adm2:
+    GID: AUS.5.137_1
+    admin_name: Walcha
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.138_1_Adm2:
+    GID: AUS.5.138_1
+    admin_name: Walgett
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.139_1_Adm2:
+    GID: AUS.5.139_1
+    admin_name: Warren
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.14_1_Adm2:
+    GID: AUS.5.14_1
+    admin_name: Blayney
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.140_1_Adm2:
+    GID: AUS.5.140_1
+    admin_name: Warringah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.141_1_Adm2:
+    GID: AUS.5.141_1
+    admin_name: Warrumbungle
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.142_1_Adm2:
+    GID: AUS.5.142_1
+    admin_name: Waverley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.143_1_Adm2:
+    GID: AUS.5.143_1
+    admin_name: Weddin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.144_1_Adm2:
+    GID: AUS.5.144_1
+    admin_name: Wellington
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.145_1_Adm2:
+    GID: AUS.5.145_1
+    admin_name: Wentworth
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.146_1_Adm2:
+    GID: AUS.5.146_1
+    admin_name: Willoughby
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.147_1_Adm2:
+    GID: AUS.5.147_1
+    admin_name: Wingecarribee
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.148_1_Adm2:
+    GID: AUS.5.148_1
+    admin_name: Wollondilly
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.149_1_Adm2:
+    GID: AUS.5.149_1
+    admin_name: Wollongong
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.15_1_Adm2:
+    GID: AUS.5.15_1
+    admin_name: Blue Mountains
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.150_1_Adm2:
+    GID: AUS.5.150_1
+    admin_name: Woollahra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.151_1_Adm2:
+    GID: AUS.5.151_1
+    admin_name: Wyong
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.152_1_Adm2:
+    GID: AUS.5.152_1
+    admin_name: Yass Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.153_1_Adm2:
+    GID: AUS.5.153_1
+    admin_name: Young
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.16_1_Adm2:
+    GID: AUS.5.16_1
+    admin_name: Bogan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.17_1_Adm2:
+    GID: AUS.5.17_1
+    admin_name: Bombala
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.18_1_Adm2:
+    GID: AUS.5.18_1
+    admin_name: Boorowa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.19_1_Adm2:
+    GID: AUS.5.19_1
+    admin_name: Botany Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.2_1_Adm2:
+    GID: AUS.5.2_1
+    admin_name: Armidale Dumaresq
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.20_1_Adm2:
+    GID: AUS.5.20_1
+    admin_name: Bourke
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.21_1_Adm2:
+    GID: AUS.5.21_1
+    admin_name: Brewarrina
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.22_1_Adm2:
+    GID: AUS.5.22_1
+    admin_name: Broken Hill
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.23_1_Adm2:
+    GID: AUS.5.23_1
+    admin_name: Burwood
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.24_1_Adm2:
+    GID: AUS.5.24_1
+    admin_name: Byron
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.25_1_Adm2:
+    GID: AUS.5.25_1
+    admin_name: Cabonne
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.26_1_Adm2:
+    GID: AUS.5.26_1
+    admin_name: Camden
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.27_1_Adm2:
+    GID: AUS.5.27_1
+    admin_name: Campbelltown
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.28_1_Adm2:
+    GID: AUS.5.28_1
+    admin_name: Canada Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.29_1_Adm2:
+    GID: AUS.5.29_1
+    admin_name: Canterbury
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.3_1_Adm2:
+    GID: AUS.5.3_1
+    admin_name: Ashfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.30_1_Adm2:
+    GID: AUS.5.30_1
+    admin_name: Carrathool
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.31_1_Adm2:
+    GID: AUS.5.31_1
+    admin_name: Central Darling
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.32_1_Adm2:
+    GID: AUS.5.32_1
+    admin_name: Cessnock
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.33_1_Adm2:
+    GID: AUS.5.33_1
+    admin_name: Clarence Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.34_1_Adm2:
+    GID: AUS.5.34_1
+    admin_name: Cobar
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.35_1_Adm2:
+    GID: AUS.5.35_1
+    admin_name: Coffs Harbour
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.36_1_Adm2:
+    GID: AUS.5.36_1
+    admin_name: Conargo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.37_1_Adm2:
+    GID: AUS.5.37_1
+    admin_name: Coolamon
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.38_1_Adm2:
+    GID: AUS.5.38_1
+    admin_name: Cooma-Monaro
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.39_1_Adm2:
+    GID: AUS.5.39_1
+    admin_name: Coonamble
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.4_1_Adm2:
+    GID: AUS.5.4_1
+    admin_name: Auburn
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.40_1_Adm2:
+    GID: AUS.5.40_1
+    admin_name: Cootamundra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.41_1_Adm2:
+    GID: AUS.5.41_1
+    admin_name: Corowa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.42_1_Adm2:
+    GID: AUS.5.42_1
+    admin_name: Cowra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.43_1_Adm2:
+    GID: AUS.5.43_1
+    admin_name: Deniliquin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.44_1_Adm2:
+    GID: AUS.5.44_1
+    admin_name: Dubbo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.45_1_Adm2:
+    GID: AUS.5.45_1
+    admin_name: Dungog
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.46_1_Adm2:
+    GID: AUS.5.46_1
+    admin_name: Eurobodalla
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.47_1_Adm2:
+    GID: AUS.5.47_1
+    admin_name: Fairfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.48_1_Adm2:
+    GID: AUS.5.48_1
+    admin_name: Forbes
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.49_1_Adm2:
+    GID: AUS.5.49_1
+    admin_name: Gilgandra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.5_1_Adm2:
+    GID: AUS.5.5_1
+    admin_name: Ballina
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.50_1_Adm2:
+    GID: AUS.5.50_1
+    admin_name: Glen Innes Severn
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.51_1_Adm2:
+    GID: AUS.5.51_1
+    admin_name: Gloucester
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.52_1_Adm2:
+    GID: AUS.5.52_1
+    admin_name: Gosford
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.53_1_Adm2:
+    GID: AUS.5.53_1
+    admin_name: Goulburn Mulwaree
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.54_1_Adm2:
+    GID: AUS.5.54_1
+    admin_name: Great Lakes
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.55_1_Adm2:
+    GID: AUS.5.55_1
+    admin_name: Greater Hume
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.56_1_Adm2:
+    GID: AUS.5.56_1
+    admin_name: Greater Taree
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.57_1_Adm2:
+    GID: AUS.5.57_1
+    admin_name: Griffith
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.58_1_Adm2:
+    GID: AUS.5.58_1
+    admin_name: Gundagai
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.59_1_Adm2:
+    GID: AUS.5.59_1
+    admin_name: Gunnedah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.6_1_Adm2:
+    GID: AUS.5.6_1
+    admin_name: Balranald
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.60_1_Adm2:
+    GID: AUS.5.60_1
+    admin_name: Guyra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.61_1_Adm2:
+    GID: AUS.5.61_1
+    admin_name: Gwydir
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.62_1_Adm2:
+    GID: AUS.5.62_1
+    admin_name: Harden
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.63_1_Adm2:
+    GID: AUS.5.63_1
+    admin_name: Hawkesbury
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.64_1_Adm2:
+    GID: AUS.5.64_1
+    admin_name: Hay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.65_1_Adm2:
+    GID: AUS.5.65_1
+    admin_name: Holroyd
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.66_1_Adm2:
+    GID: AUS.5.66_1
+    admin_name: Hornsby
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.67_1_Adm2:
+    GID: AUS.5.67_1
+    admin_name: Hunters Hill
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.68_1_Adm2:
+    GID: AUS.5.68_1
+    admin_name: Hurstville
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.69_1_Adm2:
+    GID: AUS.5.69_1
+    admin_name: Inverell
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.7_1_Adm2:
+    GID: AUS.5.7_1
+    admin_name: Bankstown
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.70_1_Adm2:
+    GID: AUS.5.70_1
+    admin_name: Jerilderie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.71_1_Adm2:
+    GID: AUS.5.71_1
+    admin_name: Junee
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.72_1_Adm2:
+    GID: AUS.5.72_1
+    admin_name: Kempsey
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.73_1_Adm2:
+    GID: AUS.5.73_1
+    admin_name: Kiama
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.74_1_Adm2:
+    GID: AUS.5.74_1
+    admin_name: Kogarah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.75_1_Adm2:
+    GID: AUS.5.75_1
+    admin_name: Ku-ring-gai
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.76_1_Adm2:
+    GID: AUS.5.76_1
+    admin_name: Kyogle
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.77_1_Adm2:
+    GID: AUS.5.77_1
+    admin_name: Lachlan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.78_1_Adm2:
+    GID: AUS.5.78_1
+    admin_name: Lake Macquarie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.79_1_Adm2:
+    GID: AUS.5.79_1
+    admin_name: Lane Cove
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.8_1_Adm2:
+    GID: AUS.5.8_1
+    admin_name: Bathurst
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.80_1_Adm2:
+    GID: AUS.5.80_1
+    admin_name: Leeton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.81_1_Adm2:
+    GID: AUS.5.81_1
+    admin_name: Leichhardt
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.82_1_Adm2:
+    GID: AUS.5.82_1
+    admin_name: Lismore
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.83_1_Adm2:
+    GID: AUS.5.83_1
+    admin_name: Lithgow
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.84_1_Adm2:
+    GID: AUS.5.84_1
+    admin_name: Liverpool
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.85_1_Adm2:
+    GID: AUS.5.85_1
+    admin_name: Liverpool Plains
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.86_1_Adm2:
+    GID: AUS.5.86_1
+    admin_name: Lockhart
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.87_1_Adm2:
+    GID: AUS.5.87_1
+    admin_name: Maitland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.88_1_Adm2:
+    GID: AUS.5.88_1
+    admin_name: Manly
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.89_1_Adm2:
+    GID: AUS.5.89_1
+    admin_name: Marrickville
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.9_1_Adm2:
+    GID: AUS.5.9_1
+    admin_name: Bega Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.90_1_Adm2:
+    GID: AUS.5.90_1
+    admin_name: Mid-Western Regional
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.91_1_Adm2:
+    GID: AUS.5.91_1
+    admin_name: Moree Plains
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.92_1_Adm2:
+    GID: AUS.5.92_1
+    admin_name: Mosman
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.93_1_Adm2:
+    GID: AUS.5.93_1
+    admin_name: Murray
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.94_1_Adm2:
+    GID: AUS.5.94_1
+    admin_name: Murrumbidgee
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.95_1_Adm2:
+    GID: AUS.5.95_1
+    admin_name: Muswellbrook
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.96_1_Adm2:
+    GID: AUS.5.96_1
+    admin_name: Nambucca
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.97_1_Adm2:
+    GID: AUS.5.97_1
+    admin_name: Narrabri
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.98_1_Adm2:
+    GID: AUS.5.98_1
+    admin_name: Narrandera
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.99_1_Adm2:
+    GID: AUS.5.99_1
+    admin_name: Narromine
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6_1_Adm1:
+    GID: AUS.6_1
+    admin_name: Northern Territory
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.6.1_1_Adm2:
+    GID: AUS.6.1_1
+    admin_name: Alice Springs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.10_1_Adm2:
+    GID: AUS.6.10_1
+    admin_name: MacDonnell
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.11_1_Adm2:
+    GID: AUS.6.11_1
+    admin_name: Palmerston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.12_1_Adm2:
+    GID: AUS.6.12_1
+    admin_name: Roper Gulf
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.13_1_Adm2:
+    GID: AUS.6.13_1
+    admin_name: Tiwi Islands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.14_1_Adm2:
+    GID: AUS.6.14_1
+    admin_name: Unincorporated Norther Territori
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.15_1_Adm2:
+    GID: AUS.6.15_1
+    admin_name: Victoria-Daly
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.16_1_Adm2:
+    GID: AUS.6.16_1
+    admin_name: Wagait
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.17_1_Adm2:
+    GID: AUS.6.17_1
+    admin_name: West Arnhem
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.2_1_Adm2:
+    GID: AUS.6.2_1
+    admin_name: Barkly
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.3_1_Adm2:
+    GID: AUS.6.3_1
+    admin_name: Belyuen
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.4_1_Adm2:
+    GID: AUS.6.4_1
+    admin_name: Central Desert
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.5_1_Adm2:
+    GID: AUS.6.5_1
+    admin_name: Coomalie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.6_1_Adm2:
+    GID: AUS.6.6_1
+    admin_name: Darwin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.7_1_Adm2:
+    GID: AUS.6.7_1
+    admin_name: East Arnhem
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.8_1_Adm2:
+    GID: AUS.6.8_1
+    admin_name: Katherine
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.9_1_Adm2:
+    GID: AUS.6.9_1
+    admin_name: Litchfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7_1_Adm1:
+    GID: AUS.7_1
+    admin_name: Queensland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.7.1_1_Adm2:
+    GID: AUS.7.1_1
+    admin_name: Aurukun
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.10_1_Adm2:
+    GID: AUS.7.10_1
+    admin_name: Bundaberg
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.11_1_Adm2:
+    GID: AUS.7.11_1
+    admin_name: Burdekin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.12_1_Adm2:
+    GID: AUS.7.12_1
+    admin_name: Burke
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.13_1_Adm2:
+    GID: AUS.7.13_1
+    admin_name: Cairns
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.14_1_Adm2:
+    GID: AUS.7.14_1
+    admin_name: Carpentaria
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.15_1_Adm2:
+    GID: AUS.7.15_1
+    admin_name: Cassowary Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.16_1_Adm2:
+    GID: AUS.7.16_1
+    admin_name: Central Highlands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.17_1_Adm2:
+    GID: AUS.7.17_1
+    admin_name: Charters Towers
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.18_1_Adm2:
+    GID: AUS.7.18_1
+    admin_name: Cherbourg
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.19_1_Adm2:
+    GID: AUS.7.19_1
+    admin_name: Cloncurry
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.2_1_Adm2:
+    GID: AUS.7.2_1
+    admin_name: Balonne
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.20_1_Adm2:
+    GID: AUS.7.20_1
+    admin_name: Cook
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.21_1_Adm2:
+    GID: AUS.7.21_1
+    admin_name: Croydon
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.22_1_Adm2:
+    GID: AUS.7.22_1
+    admin_name: Diamantina
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.23_1_Adm2:
+    GID: AUS.7.23_1
+    admin_name: Doomadgee
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.24_1_Adm2:
+    GID: AUS.7.24_1
+    admin_name: Etheridge
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.25_1_Adm2:
+    GID: AUS.7.25_1
+    admin_name: Flinders
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.26_1_Adm2:
+    GID: AUS.7.26_1
+    admin_name: Fraser Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.27_1_Adm2:
+    GID: AUS.7.27_1
+    admin_name: Gladstone
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.28_1_Adm2:
+    GID: AUS.7.28_1
+    admin_name: Gold Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.29_1_Adm2:
+    GID: AUS.7.29_1
+    admin_name: Goondiwindi
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.3_1_Adm2:
+    GID: AUS.7.3_1
+    admin_name: Banana
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.30_1_Adm2:
+    GID: AUS.7.30_1
+    admin_name: Gympie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.31_1_Adm2:
+    GID: AUS.7.31_1
+    admin_name: Hinchinbrook
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.32_1_Adm2:
+    GID: AUS.7.32_1
+    admin_name: Hope Vale
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.33_1_Adm2:
+    GID: AUS.7.33_1
+    admin_name: Ipswich
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.34_1_Adm2:
+    GID: AUS.7.34_1
+    admin_name: Isaac
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.35_1_Adm2:
+    GID: AUS.7.35_1
+    admin_name: Kowanyama
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.36_1_Adm2:
+    GID: AUS.7.36_1
+    admin_name: Lockhart River
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.37_1_Adm2:
+    GID: AUS.7.37_1
+    admin_name: Lockyer Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.38_1_Adm2:
+    GID: AUS.7.38_1
+    admin_name: Logan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.39_1_Adm2:
+    GID: AUS.7.39_1
+    admin_name: Longreach
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.4_1_Adm2:
+    GID: AUS.7.4_1
+    admin_name: Barcaldine
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.40_1_Adm2:
+    GID: AUS.7.40_1
+    admin_name: Mackay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.41_1_Adm2:
+    GID: AUS.7.41_1
+    admin_name: Mapoon
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.42_1_Adm2:
+    GID: AUS.7.42_1
+    admin_name: Maranoa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.43_1_Adm2:
+    GID: AUS.7.43_1
+    admin_name: McKinlay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.44_1_Adm2:
+    GID: AUS.7.44_1
+    admin_name: Moreton Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.45_1_Adm2:
+    GID: AUS.7.45_1
+    admin_name: Mornington
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.46_1_Adm2:
+    GID: AUS.7.46_1
+    admin_name: Mount Isa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.47_1_Adm2:
+    GID: AUS.7.47_1
+    admin_name: Murweh
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.48_1_Adm2:
+    GID: AUS.7.48_1
+    admin_name: Napranum
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.49_1_Adm2:
+    GID: AUS.7.49_1
+    admin_name: North Burnett
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.5_1_Adm2:
+    GID: AUS.7.5_1
+    admin_name: Barcoo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.50_1_Adm2:
+    GID: AUS.7.50_1
+    admin_name: Northern Peninsula Area
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.51_1_Adm2:
+    GID: AUS.7.51_1
+    admin_name: Palm Island
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.52_1_Adm2:
+    GID: AUS.7.52_1
+    admin_name: Paroo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.53_1_Adm2:
+    GID: AUS.7.53_1
+    admin_name: Pormpuraaw
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.54_1_Adm2:
+    GID: AUS.7.54_1
+    admin_name: Quilpie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.55_1_Adm2:
+    GID: AUS.7.55_1
+    admin_name: Redland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.56_1_Adm2:
+    GID: AUS.7.56_1
+    admin_name: Richmond
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.57_1_Adm2:
+    GID: AUS.7.57_1
+    admin_name: Rockhampton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.58_1_Adm2:
+    GID: AUS.7.58_1
+    admin_name: Scenic Rim
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.59_1_Adm2:
+    GID: AUS.7.59_1
+    admin_name: Somerset
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.6_1_Adm2:
+    GID: AUS.7.6_1
+    admin_name: Blackall Tambo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.60_1_Adm2:
+    GID: AUS.7.60_1
+    admin_name: South Burnett
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.61_1_Adm2:
+    GID: AUS.7.61_1
+    admin_name: Southern Downs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.62_1_Adm2:
+    GID: AUS.7.62_1
+    admin_name: Sunshine Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.63_1_Adm2:
+    GID: AUS.7.63_1
+    admin_name: Tablelands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.64_1_Adm2:
+    GID: AUS.7.64_1
+    admin_name: Toowoomba
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.66_1_Adm2:
+    GID: AUS.7.66_1
+    admin_name: Torres Strait Islands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.67_1_Adm2:
+    GID: AUS.7.67_1
+    admin_name: Townsville
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.68_1_Adm2:
+    GID: AUS.7.68_1
+    admin_name: Weipa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.69_1_Adm2:
+    GID: AUS.7.69_1
+    admin_name: Western Downs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.7_1_Adm2:
+    GID: AUS.7.7_1
+    admin_name: Boulia
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.70_1_Adm2:
+    GID: AUS.7.70_1
+    admin_name: Whitsunday
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.71_1_Adm2:
+    GID: AUS.7.71_1
+    admin_name: Winton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.72_1_Adm2:
+    GID: AUS.7.72_1
+    admin_name: Woorabinda
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.73_1_Adm2:
+    GID: AUS.7.73_1
+    admin_name: Wujal Wujal
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.74_1_Adm2:
+    GID: AUS.7.74_1
+    admin_name: Yarrabah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.8_1_Adm2:
+    GID: AUS.7.8_1
+    admin_name: Brisbane
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.9_1_Adm2:
+    GID: AUS.7.9_1
+    admin_name: Bulloo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8_1_Adm1:
+    GID: AUS.8_1
+    admin_name: South Australia
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.8.1_1_Adm2:
+    GID: AUS.8.1_1
+    admin_name: Adelaide
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.10_1_Adm2:
+    GID: AUS.8.10_1
+    admin_name: Ceduna
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.11_1_Adm2:
+    GID: AUS.8.11_1
+    admin_name: Charles Sturt
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.12_1_Adm2:
+    GID: AUS.8.12_1
+    admin_name: Clare and Gilbert Valleys
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.13_1_Adm2:
+    GID: AUS.8.13_1
+    admin_name: Cleve
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.14_1_Adm2:
+    GID: AUS.8.14_1
+    admin_name: Coober Pedy
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.15_1_Adm2:
+    GID: AUS.8.15_1
+    admin_name: Copper Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.16_1_Adm2:
+    GID: AUS.8.16_1
+    admin_name: Elliston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.17_1_Adm2:
+    GID: AUS.8.17_1
+    admin_name: Flinders Ranges
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.18_1_Adm2:
+    GID: AUS.8.18_1
+    admin_name: Franklin Harbour
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.19_1_Adm2:
+    GID: AUS.8.19_1
+    admin_name: Gawler
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.2_1_Adm2:
+    GID: AUS.8.2_1
+    admin_name: Adelaide Hills
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.20_1_Adm2:
+    GID: AUS.8.20_1
+    admin_name: Goyder
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.21_1_Adm2:
+    GID: AUS.8.21_1
+    admin_name: Grant
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.22_1_Adm2:
+    GID: AUS.8.22_1
+    admin_name: Holdfast Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.23_1_Adm2:
+    GID: AUS.8.23_1
+    admin_name: Kangaroo Island
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.24_1_Adm2:
+    GID: AUS.8.24_1
+    admin_name: Karoonda East Murray
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.25_1_Adm2:
+    GID: AUS.8.25_1
+    admin_name: Kimba
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.26_1_Adm2:
+    GID: AUS.8.26_1
+    admin_name: Kingston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.27_1_Adm2:
+    GID: AUS.8.27_1
+    admin_name: Light
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.28_1_Adm2:
+    GID: AUS.8.28_1
+    admin_name: Lower Eyre Peninsula
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.29_1_Adm2:
+    GID: AUS.8.29_1
+    admin_name: Loxton Waikerie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.3_1_Adm2:
+    GID: AUS.8.3_1
+    admin_name: Alexandrina
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.30_1_Adm2:
+    GID: AUS.8.30_1
+    admin_name: Mallala
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.31_1_Adm2:
+    GID: AUS.8.31_1
+    admin_name: Maralinga Tjarutja
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.32_1_Adm2:
+    GID: AUS.8.32_1
+    admin_name: Marion
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.33_1_Adm2:
+    GID: AUS.8.33_1
+    admin_name: Mid Murray
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.34_1_Adm2:
+    GID: AUS.8.34_1
+    admin_name: Mitcham
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.35_1_Adm2:
+    GID: AUS.8.35_1
+    admin_name: Mount Barker
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.36_1_Adm2:
+    GID: AUS.8.36_1
+    admin_name: Mount Gambier
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.37_1_Adm2:
+    GID: AUS.8.37_1
+    admin_name: Mount Remarkable
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.38_1_Adm2:
+    GID: AUS.8.38_1
+    admin_name: Murray Bridge
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.39_1_Adm2:
+    GID: AUS.8.39_1
+    admin_name: Naracoorte and Lucindale
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.4_1_Adm2:
+    GID: AUS.8.4_1
+    admin_name: Anangu Pitjantjatjara
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.40_1_Adm2:
+    GID: AUS.8.40_1
+    admin_name: Northern Areas
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.41_1_Adm2:
+    GID: AUS.8.41_1
+    admin_name: Norwood Payneham St Peters
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.42_1_Adm2:
+    GID: AUS.8.42_1
+    admin_name: Onkaparinga
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.43_1_Adm2:
+    GID: AUS.8.43_1
+    admin_name: Orroroo/Carrieton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.44_1_Adm2:
+    GID: AUS.8.44_1
+    admin_name: Peterborough
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.45_1_Adm2:
+    GID: AUS.8.45_1
+    admin_name: Playford
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.46_1_Adm2:
+    GID: AUS.8.46_1
+    admin_name: Port Adelaide Enfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.47_1_Adm2:
+    GID: AUS.8.47_1
+    admin_name: Port Augusta
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.48_1_Adm2:
+    GID: AUS.8.48_1
+    admin_name: Port Lincoln
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.49_1_Adm2:
+    GID: AUS.8.49_1
+    admin_name: Port Pirie City and Dists
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.5_1_Adm2:
+    GID: AUS.8.5_1
+    admin_name: Barossa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.50_1_Adm2:
+    GID: AUS.8.50_1
+    admin_name: Prospect
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.51_1_Adm2:
+    GID: AUS.8.51_1
+    admin_name: Renmark Paringa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.52_1_Adm2:
+    GID: AUS.8.52_1
+    admin_name: Robe
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.53_1_Adm2:
+    GID: AUS.8.53_1
+    admin_name: Roxby Downs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.54_1_Adm2:
+    GID: AUS.8.54_1
+    admin_name: Salisbury
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.55_1_Adm2:
+    GID: AUS.8.55_1
+    admin_name: Southern Mallee
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.56_1_Adm2:
+    GID: AUS.8.56_1
+    admin_name: Streaky Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.57_1_Adm2:
+    GID: AUS.8.57_1
+    admin_name: Tatiara
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.58_1_Adm2:
+    GID: AUS.8.58_1
+    admin_name: Tea Tree Gully
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.59_1_Adm2:
+    GID: AUS.8.59_1
+    admin_name: The Coorong
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.6_1_Adm2:
+    GID: AUS.8.6_1
+    admin_name: Barunga West
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.60_1_Adm2:
+    GID: AUS.8.60_1
+    admin_name: Tumby Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.61_1_Adm2:
+    GID: AUS.8.61_1
+    admin_name: Unincorporated South Australia
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.62_1_Adm2:
+    GID: AUS.8.62_1
+    admin_name: Unley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.63_1_Adm2:
+    GID: AUS.8.63_1
+    admin_name: Victor Harbor
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.64_1_Adm2:
+    GID: AUS.8.64_1
+    admin_name: Wakefield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.65_1_Adm2:
+    GID: AUS.8.65_1
+    admin_name: Walkerville
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.66_1_Adm2:
+    GID: AUS.8.66_1
+    admin_name: Wattle Range
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.67_1_Adm2:
+    GID: AUS.8.67_1
+    admin_name: West Torrens
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.68_1_Adm2:
+    GID: AUS.8.68_1
+    admin_name: Whyalla
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.69_1_Adm2:
+    GID: AUS.8.69_1
+    admin_name: Wudinna
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.7_1_Adm2:
+    GID: AUS.8.7_1
+    admin_name: Berri and Barmera
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.70_1_Adm2:
+    GID: AUS.8.70_1
+    admin_name: Yankalilla
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.71_1_Adm2:
+    GID: AUS.8.71_1
+    admin_name: Yorke Peninsula
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.8_1_Adm2:
+    GID: AUS.8.8_1
+    admin_name: Burnside
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.9_1_Adm2:
+    GID: AUS.8.9_1
+    admin_name: Campbelltown
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9_1_Adm1:
+    GID: AUS.9_1
+    admin_name: Tasmania
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.9.1_1_Adm2:
+    GID: AUS.9.1_1
+    admin_name: Break O'Day
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.10_1_Adm2:
+    GID: AUS.9.10_1
+    admin_name: Dorset
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.11_1_Adm2:
+    GID: AUS.9.11_1
+    admin_name: Flinders
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.12_1_Adm2:
+    GID: AUS.9.12_1
+    admin_name: George Town
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.13_1_Adm2:
+    GID: AUS.9.13_1
+    admin_name: Glamorgan/Spring Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.14_1_Adm2:
+    GID: AUS.9.14_1
+    admin_name: Glenorchy
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.15_1_Adm2:
+    GID: AUS.9.15_1
+    admin_name: Hobart
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.16_1_Adm2:
+    GID: AUS.9.16_1
+    admin_name: Huon Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.17_1_Adm2:
+    GID: AUS.9.17_1
+    admin_name: Kentish
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.18_1_Adm2:
+    GID: AUS.9.18_1
+    admin_name: King Island
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.19_1_Adm2:
+    GID: AUS.9.19_1
+    admin_name: Kingborough
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.2_1_Adm2:
+    GID: AUS.9.2_1
+    admin_name: Brighton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.20_1_Adm2:
+    GID: AUS.9.20_1
+    admin_name: Latrobe
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.21_1_Adm2:
+    GID: AUS.9.21_1
+    admin_name: Launceston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.22_1_Adm2:
+    GID: AUS.9.22_1
+    admin_name: Macquarie Island
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.23_1_Adm2:
+    GID: AUS.9.23_1
+    admin_name: Meander Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.24_1_Adm2:
+    GID: AUS.9.24_1
+    admin_name: Northern Midlands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.25_1_Adm2:
+    GID: AUS.9.25_1
+    admin_name: Sorell
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.26_1_Adm2:
+    GID: AUS.9.26_1
+    admin_name: Southern Midlands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.27_1_Adm2:
+    GID: AUS.9.27_1
+    admin_name: Tasman
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.28_1_Adm2:
+    GID: AUS.9.28_1
+    admin_name: Waratah/Wynyard
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.29_1_Adm2:
+    GID: AUS.9.29_1
+    admin_name: West Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.3_1_Adm2:
+    GID: AUS.9.3_1
+    admin_name: Burnie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.30_1_Adm2:
+    GID: AUS.9.30_1
+    admin_name: West Tamar
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.4_1_Adm2:
+    GID: AUS.9.4_1
+    admin_name: Central Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.5_1_Adm2:
+    GID: AUS.9.5_1
+    admin_name: Central Highlands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.6_1_Adm2:
+    GID: AUS.9.6_1
+    admin_name: Circular Head
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.7_1_Adm2:
+    GID: AUS.9.7_1
+    admin_name: Clarence
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.8_1_Adm2:
+    GID: AUS.9.8_1
+    admin_name: Derwent Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.9_1_Adm2:
+    GID: AUS.9.9_1
+    admin_name: Devonport
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2

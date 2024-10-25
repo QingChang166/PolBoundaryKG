@@ -1,613 +1,613 @@
 concepts:
-  Zimbabwe_Adm0:
-    iso3c: ZWE
-    admin_level: Adm0
+  ZWE.0_Adm0:
+    GID: ZWE
     admin_name: Zimbabwe
-    shapeID: 69731989B4459939763490
-    country_name: Zimbabwe
-  Zimbabwe_Adm1_1:
     iso3c: ZWE
-    admin_level: Adm1
+    country_name: Zimbabwe
+    admin_level: Adm0
+  ZWE.1_1_Adm1:
+    GID: ZWE.1_1
     admin_name: Bulawayo
-    shapeID: 88200057B51719638002761
-    country_name: Zimbabwe
-  Zimbabwe_Adm1_10:
     iso3c: ZWE
+    country_name: Zimbabwe
     admin_level: Adm1
+  ZWE.1.1_2_Adm2:
+    GID: ZWE.1.1_2
+    admin_name: Bulawayo
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.10_1_Adm1:
+    GID: ZWE.10_1
     admin_name: Midlands
-    shapeID: 88200057B27236199640876
-    country_name: Zimbabwe
-  Zimbabwe_Adm1_2:
     iso3c: ZWE
+    country_name: Zimbabwe
     admin_level: Adm1
-    admin_name: Harare
-    shapeID: 88200057B87996012089813
-    country_name: Zimbabwe
-  Zimbabwe_Adm1_3:
-    iso3c: ZWE
-    admin_level: Adm1
-    admin_name: Manicaland
-    shapeID: 88200057B32763847551562
-    country_name: Zimbabwe
-  Zimbabwe_Adm1_4:
-    iso3c: ZWE
-    admin_level: Adm1
-    admin_name: MashonalandCentral
-    shapeID: 88200057B2601963641625
-    country_name: Zimbabwe
-  Zimbabwe_Adm1_5:
-    iso3c: ZWE
-    admin_level: Adm1
-    admin_name: MashonalandEast
-    shapeID: 88200057B49508968932773
-    country_name: Zimbabwe
-  Zimbabwe_Adm1_6:
-    iso3c: ZWE
-    admin_level: Adm1
-    admin_name: MashonalandWest
-    shapeID: 88200057B70993266842589
-    country_name: Zimbabwe
-  Zimbabwe_Adm1_7:
-    iso3c: ZWE
-    admin_level: Adm1
-    admin_name: Masvingo
-    shapeID: 88200057B85209083975104
-    country_name: Zimbabwe
-  Zimbabwe_Adm1_8:
-    iso3c: ZWE
-    admin_level: Adm1
-    admin_name: MatabelelandNorth
-    shapeID: 88200057B11544283676020
-    country_name: Zimbabwe
-  Zimbabwe_Adm1_9:
-    iso3c: ZWE
-    admin_level: Adm1
-    admin_name: MatabelelandSouth
-    shapeID: 88200057B5014357533485
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_1:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Beitbridge
-    shapeID: 62879985B95307090216295
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_10:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Bulilima
-    shapeID: 62879985B39326733261715
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_11:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Centenary/Muzarabani
-    shapeID: 62879985B33993196799610
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_12:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Chegutu
-    shapeID: 62879985B20095614329171
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_13:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: ChegutuUrban
-    shapeID: 62879985B25835202040787
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_14:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Chikomba
-    shapeID: 62879985B62139417575129
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_15:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Chimanimani
-    shapeID: 62879985B88663690016764
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_16:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Chinhoyi
-    shapeID: 62879985B33346343467018
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_17:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Chipinge
-    shapeID: 62879985B99568881619892
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_18:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: ChipingeUrban
-    shapeID: 62879985B32287047423365
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_19:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Chiredzi
-    shapeID: 62879985B37979176120849
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_2:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: BeitbridgeUrban
-    shapeID: 62879985B8135663934724
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_20:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: ChiredziUrban
-    shapeID: 62879985B81925630456869
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_21:
-    iso3c: ZWE
-    admin_level: Adm2
+  ZWE.10.1_2_Adm2:
+    GID: ZWE.10.1_2
     admin_name: Chirumhanzu
-    shapeID: 62879985B8175030067165
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_22:
     iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Chitungwiza
-    shapeID: 62879985B31454704835515
     country_name: Zimbabwe
-  Zimbabwe_Adm2_23:
-    iso3c: ZWE
     admin_level: Adm2
-    admin_name: Chivi
-    shapeID: 62879985B12004776276546
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_24:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Epworth
-    shapeID: 62879985B25596949610081
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_25:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: GokweNorth
-    shapeID: 62879985B87269615821372
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_26:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: GokweSouth
-    shapeID: 62879985B62286453442238
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_27:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: GokweSouthUrban
-    shapeID: 62879985B9450607738823
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_28:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Goromonzi
-    shapeID: 62879985B13905566839040
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_29:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Guruve
-    shapeID: 62879985B94788523957313
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_3:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Bikita
-    shapeID: 62879985B26822606878793
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_30:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Gutu
-    shapeID: 62879985B73698916591345
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_31:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Gwanda
-    shapeID: 62879985B81037274427079
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_32:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: GwandaUrban
-    shapeID: 62879985B63510140227201
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_33:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Gweru
-    shapeID: 62879985B38074336306054
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_34:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: GweruUrban
-    shapeID: 62879985B64547719639207
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_35:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Harare
-    shapeID: 62879985B33947363062254
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_36:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: HarareRural
-    shapeID: 62879985B75244512710705
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_37:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Hurungwe
-    shapeID: 62879985B85730198836463
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_38:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Hwange
-    shapeID: 62879985B77670672881921
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_39:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: HwangeUrban
-    shapeID: 62879985B63106535588765
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_4:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Bindura
-    shapeID: 62879985B50430993830170
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_40:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Hwedza
-    shapeID: 62879985B61982490553927
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_41:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Insiza
-    shapeID: 62879985B6112756891378
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_42:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: KadomaUrban
-    shapeID: 62879985B53444954846030
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_43:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Kariba
-    shapeID: 62879985B94385115404707
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_44:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: KaribaUrban
-    shapeID: 62879985B80856032780976
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_45:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Karoi
-    shapeID: 62879985B2724410998329
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_46:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Kwekwe
-    shapeID: 62879985B25079588336993
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_47:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: KwekweUrban
-    shapeID: 62879985B80414783582816
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_48:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Lupane
-    shapeID: 62879985B9904230629136
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_49:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Makonde
-    shapeID: 62879985B9452203972303
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_5:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: BinduraUrban
-    shapeID: 62879985B95649455057602
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_50:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Makoni
-    shapeID: 62879985B27116987268551
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_51:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mangwe
-    shapeID: 62879985B72758591248620
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_52:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Marondera
-    shapeID: 62879985B19621940565976
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_53:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: MaronderaUrban
-    shapeID: 62879985B19801447956475
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_54:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Masvingo
-    shapeID: 62879985B11590561680965
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_55:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: MasvingoUrban
-    shapeID: 62879985B82265466456290
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_56:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Matobo
-    shapeID: 62879985B11044582115440
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_57:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mazowe
-    shapeID: 62879985B76003628227782
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_58:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mberengwa
-    shapeID: 62879985B72104982716343
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_59:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mbire
-    shapeID: 62879985B94368680034661
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_6:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Binga
-    shapeID: 62879985B54181646880786
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_60:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mhondoro-Ngezi
-    shapeID: 62879985B70697135902781
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_61:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: MountDarwin
-    shapeID: 62879985B29850987700829
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_62:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mudzi
-    shapeID: 62879985B77595643638308
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_63:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Murehwa
-    shapeID: 62879985B35130574204282
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_64:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mutare
-    shapeID: 62879985B35185654442710
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_65:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: MutareUrban
-    shapeID: 62879985B34329227357286
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_66:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mutasa
-    shapeID: 62879985B28116741742257
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_67:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mutoko
-    shapeID: 62879985B11813721132111
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_68:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mvurwi
-    shapeID: 62879985B19451757525909
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_69:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Mwenezi
-    shapeID: 62879985B12430304395671
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_7:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Bubi
-    shapeID: 62879985B291328644758
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_70:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Nkayi
-    shapeID: 62879985B68584159333685
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_71:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Norton
-    shapeID: 62879985B7429577065299
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_72:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Nyanga
-    shapeID: 62879985B16821678583413
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_73:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Plumtree
-    shapeID: 62879985B2376154175895
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_74:
-    iso3c: ZWE
-    admin_level: Adm2
+  ZWE.10.10_2_Adm2:
+    GID: ZWE.10.10_2
     admin_name: Redcliff
-    shapeID: 62879985B17872129948675
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_75:
     iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Rusape
-    shapeID: 62879985B51591282802552
     country_name: Zimbabwe
-  Zimbabwe_Adm2_76:
-    iso3c: ZWE
     admin_level: Adm2
-    admin_name: Rushinga
-    shapeID: 62879985B22521901004108
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_77:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Ruwa
-    shapeID: 62879985B71976011533530
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_78:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Sanyati
-    shapeID: 62879985B67434637878842
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_79:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Seke
-    shapeID: 62879985B71906244719276
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_8:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Buhera
-    shapeID: 62879985B49874859197959
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_80:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Shamva
-    shapeID: 62879985B93379184763454
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_81:
-    iso3c: ZWE
-    admin_level: Adm2
+  ZWE.10.11_2_Adm2:
+    GID: ZWE.10.11_2
     admin_name: Shurugwi
-    shapeID: 62879985B74735389049647
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_82:
     iso3c: ZWE
-    admin_level: Adm2
-    admin_name: ShurugwiTown
-    shapeID: 62879985B16966915887003
     country_name: Zimbabwe
-  Zimbabwe_Adm2_83:
-    iso3c: ZWE
     admin_level: Adm2
-    admin_name: Tsholotsho
-    shapeID: 62879985B28907517418650
+  ZWE.10.12_2_Adm2:
+    GID: ZWE.10.12_2
+    admin_name: Shurugwi Town
+    iso3c: ZWE
     country_name: Zimbabwe
-  Zimbabwe_Adm2_84:
-    iso3c: ZWE
     admin_level: Adm2
-    admin_name: Umguza
-    shapeID: 62879985B92853728292751
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_85:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Umzingwane
-    shapeID: 62879985B43566873745809
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_86:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: UzumbaMarambaPfungwe
-    shapeID: 62879985B20819792882543
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_87:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: VictoriaFalls
-    shapeID: 62879985B6381696170590
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_88:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Zaka
-    shapeID: 62879985B3510020236883
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_89:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Zvimba
-    shapeID: 62879985B3462136177187
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_9:
-    iso3c: ZWE
-    admin_level: Adm2
-    admin_name: Bulawayo
-    shapeID: 62879985B51719638002761
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_90:
-    iso3c: ZWE
-    admin_level: Adm2
+  ZWE.10.13_2_Adm2:
+    GID: ZWE.10.13_2
     admin_name: Zvishavane
-    shapeID: 62879985B59782036697495
-    country_name: Zimbabwe
-  Zimbabwe_Adm2_91:
     iso3c: ZWE
-    admin_level: Adm2
-    admin_name: ZvishavaneUrban
-    shapeID: 62879985B32453879798080
     country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.10.14_2_Adm2:
+    GID: ZWE.10.14_2
+    admin_name: Zvishavane Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.10.2_2_Adm2:
+    GID: ZWE.10.2_2
+    admin_name: Gokwe North
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.10.3_2_Adm2:
+    GID: ZWE.10.3_2
+    admin_name: Gokwe South
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.10.4_2_Adm2:
+    GID: ZWE.10.4_2
+    admin_name: Gokwe South Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.10.5_2_Adm2:
+    GID: ZWE.10.5_2
+    admin_name: Gweru
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.10.6_2_Adm2:
+    GID: ZWE.10.6_2
+    admin_name: Gweru Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.10.7_2_Adm2:
+    GID: ZWE.10.7_2
+    admin_name: Kwekwe
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.10.8_2_Adm2:
+    GID: ZWE.10.8_2
+    admin_name: Kwekwe Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.10.9_2_Adm2:
+    GID: ZWE.10.9_2
+    admin_name: Mberengwa
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.2_1_Adm1:
+    GID: ZWE.2_1
+    admin_name: Harare
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm1
+  ZWE.2.1_2_Adm2:
+    GID: ZWE.2.1_2
+    admin_name: Chitungwiza
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.2.2_2_Adm2:
+    GID: ZWE.2.2_2
+    admin_name: Epworth
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.2.3_2_Adm2:
+    GID: ZWE.2.3_2
+    admin_name: Harare
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.2.4_2_Adm2:
+    GID: ZWE.2.4_2
+    admin_name: Harare Rural
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.3_1_Adm1:
+    GID: ZWE.3_1
+    admin_name: Manicaland
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm1
+  ZWE.3.1_2_Adm2:
+    GID: ZWE.3.1_2
+    admin_name: Buhera
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.3.10_2_Adm2:
+    GID: ZWE.3.10_2
+    admin_name: Rusape
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.3.2_2_Adm2:
+    GID: ZWE.3.2_2
+    admin_name: Chimanimani
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.3.3_2_Adm2:
+    GID: ZWE.3.3_2
+    admin_name: Chipinge
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.3.4_2_Adm2:
+    GID: ZWE.3.4_2
+    admin_name: Chipinge Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.3.5_2_Adm2:
+    GID: ZWE.3.5_2
+    admin_name: Makoni
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.3.6_2_Adm2:
+    GID: ZWE.3.6_2
+    admin_name: Mutare
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.3.7_2_Adm2:
+    GID: ZWE.3.7_2
+    admin_name: Mutare Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.3.8_2_Adm2:
+    GID: ZWE.3.8_2
+    admin_name: Mutasa
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.3.9_2_Adm2:
+    GID: ZWE.3.9_2
+    admin_name: Nyanga
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.4_1_Adm1:
+    GID: ZWE.4_1
+    admin_name: Mashonaland Central
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm1
+  ZWE.4.1_2_Adm2:
+    GID: ZWE.4.1_2
+    admin_name: Bindura
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.4.10_2_Adm2:
+    GID: ZWE.4.10_2
+    admin_name: Shamva
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.4.2_2_Adm2:
+    GID: ZWE.4.2_2
+    admin_name: Bindura Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.4.3_2_Adm2:
+    GID: ZWE.4.3_2
+    admin_name: Centenary/ Muzarabani
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.4.4_2_Adm2:
+    GID: ZWE.4.4_2
+    admin_name: Guruve
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.4.5_2_Adm2:
+    GID: ZWE.4.5_2
+    admin_name: Mazowe
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.4.6_2_Adm2:
+    GID: ZWE.4.6_2
+    admin_name: Mbire
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.4.7_2_Adm2:
+    GID: ZWE.4.7_2
+    admin_name: Mount Darwin
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.4.8_2_Adm2:
+    GID: ZWE.4.8_2
+    admin_name: Mvurwi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.4.9_2_Adm2:
+    GID: ZWE.4.9_2
+    admin_name: Rushinga
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5_1_Adm1:
+    GID: ZWE.5_1
+    admin_name: Mashonaland East
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm1
+  ZWE.5.1_2_Adm2:
+    GID: ZWE.5.1_2
+    admin_name: Chikomba
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5.10_2_Adm2:
+    GID: ZWE.5.10_2
+    admin_name: Seke
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5.11_2_Adm2:
+    GID: ZWE.5.11_2
+    admin_name: Uzumba Maramba Pfungwe
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5.2_2_Adm2:
+    GID: ZWE.5.2_2
+    admin_name: Goromonzi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5.3_2_Adm2:
+    GID: ZWE.5.3_2
+    admin_name: Hwedza
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5.4_2_Adm2:
+    GID: ZWE.5.4_2
+    admin_name: Marondera
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5.5_2_Adm2:
+    GID: ZWE.5.5_2
+    admin_name: Marondera Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5.6_2_Adm2:
+    GID: ZWE.5.6_2
+    admin_name: Mudzi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5.7_2_Adm2:
+    GID: ZWE.5.7_2
+    admin_name: Murehwa
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5.8_2_Adm2:
+    GID: ZWE.5.8_2
+    admin_name: Mutoko
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.5.9_2_Adm2:
+    GID: ZWE.5.9_2
+    admin_name: Ruwa
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6_1_Adm1:
+    GID: ZWE.6_1
+    admin_name: Mashonaland West
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm1
+  ZWE.6.1_2_Adm2:
+    GID: ZWE.6.1_2
+    admin_name: Chegutu
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.10_2_Adm2:
+    GID: ZWE.6.10_2
+    admin_name: Mhondoro-Ngezi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.11_2_Adm2:
+    GID: ZWE.6.11_2
+    admin_name: Norton
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.12_2_Adm2:
+    GID: ZWE.6.12_2
+    admin_name: Sanyati
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.13_2_Adm2:
+    GID: ZWE.6.13_2
+    admin_name: Zvimba
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.2_2_Adm2:
+    GID: ZWE.6.2_2
+    admin_name: Chegutu Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.3_2_Adm2:
+    GID: ZWE.6.3_2
+    admin_name: Chinhoyi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.4_2_Adm2:
+    GID: ZWE.6.4_2
+    admin_name: Hurungwe
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.5_2_Adm2:
+    GID: ZWE.6.5_2
+    admin_name: Kadoma Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.6_2_Adm2:
+    GID: ZWE.6.6_2
+    admin_name: Kariba
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.7_2_Adm2:
+    GID: ZWE.6.7_2
+    admin_name: Kariba Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.8_2_Adm2:
+    GID: ZWE.6.8_2
+    admin_name: Karoi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.6.9_2_Adm2:
+    GID: ZWE.6.9_2
+    admin_name: Makonde
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.7_1_Adm1:
+    GID: ZWE.7_1
+    admin_name: Masvingo
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm1
+  ZWE.7.1_2_Adm2:
+    GID: ZWE.7.1_2
+    admin_name: Bikita
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.7.2_2_Adm2:
+    GID: ZWE.7.2_2
+    admin_name: Chiredzi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.7.3_2_Adm2:
+    GID: ZWE.7.3_2
+    admin_name: Chiredzi Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.7.4_2_Adm2:
+    GID: ZWE.7.4_2
+    admin_name: Chivi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.7.5_2_Adm2:
+    GID: ZWE.7.5_2
+    admin_name: Gutu
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.7.6_2_Adm2:
+    GID: ZWE.7.6_2
+    admin_name: Masvingo
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.7.7_2_Adm2:
+    GID: ZWE.7.7_2
+    admin_name: Masvingo Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.7.8_2_Adm2:
+    GID: ZWE.7.8_2
+    admin_name: Mwenezi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.7.9_2_Adm2:
+    GID: ZWE.7.9_2
+    admin_name: Zaka
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.8_1_Adm1:
+    GID: ZWE.8_1
+    admin_name: Matabeleland North
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm1
+  ZWE.8.1_2_Adm2:
+    GID: ZWE.8.1_2
+    admin_name: Binga
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.8.2_2_Adm2:
+    GID: ZWE.8.2_2
+    admin_name: Bubi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.8.3_2_Adm2:
+    GID: ZWE.8.3_2
+    admin_name: Hwange
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.8.4_2_Adm2:
+    GID: ZWE.8.4_2
+    admin_name: Hwange Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.8.5_2_Adm2:
+    GID: ZWE.8.5_2
+    admin_name: Lupane
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.8.6_2_Adm2:
+    GID: ZWE.8.6_2
+    admin_name: Nkayi
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.8.7_2_Adm2:
+    GID: ZWE.8.7_2
+    admin_name: Tsholotsho
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.8.8_2_Adm2:
+    GID: ZWE.8.8_2
+    admin_name: Umguza
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.8.9_2_Adm2:
+    GID: ZWE.8.9_2
+    admin_name: Victoria Falls
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.9_1_Adm1:
+    GID: ZWE.9_1
+    admin_name: Matabeleland South
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm1
+  ZWE.9.1_2_Adm2:
+    GID: ZWE.9.1_2
+    admin_name: Beitbridge
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.9.10_2_Adm2:
+    GID: ZWE.9.10_2
+    admin_name: Umzingwane
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.9.2_2_Adm2:
+    GID: ZWE.9.2_2
+    admin_name: Beitbridge Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.9.3_2_Adm2:
+    GID: ZWE.9.3_2
+    admin_name: Bulilima
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.9.4_2_Adm2:
+    GID: ZWE.9.4_2
+    admin_name: Gwanda
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.9.5_2_Adm2:
+    GID: ZWE.9.5_2
+    admin_name: Gwanda Urban
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.9.6_2_Adm2:
+    GID: ZWE.9.6_2
+    admin_name: Insiza
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.9.7_2_Adm2:
+    GID: ZWE.9.7_2
+    admin_name: Mangwe
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.9.8_2_Adm2:
+    GID: ZWE.9.8_2
+    admin_name: Matobo
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2
+  ZWE.9.9_2_Adm2:
+    GID: ZWE.9.9_2
+    admin_name: Plumtree
+    iso3c: ZWE
+    country_name: Zimbabwe
+    admin_level: Adm2

@@ -1,2599 +1,2179 @@
 concepts:
-  Afghanistan_Adm0:
-    iso3c: AFG
-    admin_level: Adm0
+  AFG.0_Adm0:
+    GID: AFG
     admin_name: Afghanistan
-    shapeID: 77858471B85949265405819
-    country_name: Afghanistan
-  Afghanistan_Adm1_1:
     iso3c: AFG
-    admin_level: Adm1
-    admin_name: Kandahar
-    shapeID: 12653393B40111500734429
     country_name: Afghanistan
-  Afghanistan_Adm1_10:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Wardak
-    shapeID: 12653393B94990201402617
-    country_name: Afghanistan
-  Afghanistan_Adm1_11:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Kabul
-    shapeID: 12653393B60423242182357
-    country_name: Afghanistan
-  Afghanistan_Adm1_12:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Nangarhar
-    shapeID: 12653393B37348667052817
-    country_name: Afghanistan
-  Afghanistan_Adm1_13:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Laghman
-    shapeID: 12653393B74990608680346
-    country_name: Afghanistan
-  Afghanistan_Adm1_14:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Kapisa
-    shapeID: 12653393B3541911159736
-    country_name: Afghanistan
-  Afghanistan_Adm1_15:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Parwan
-    shapeID: 12653393B66863807863315
-    country_name: Afghanistan
-  Afghanistan_Adm1_16:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Panjshir
-    shapeID: 12653393B47875238778335
-    country_name: Afghanistan
-  Afghanistan_Adm1_17:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Kunar
-    shapeID: 12653393B2374338391952
-    country_name: Afghanistan
-  Afghanistan_Adm1_18:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Nuristan
-    shapeID: 12653393B50755551382850
-    country_name: Afghanistan
-  Afghanistan_Adm1_19:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Baghlan
-    shapeID: 12653393B95407416206470
-    country_name: Afghanistan
-  Afghanistan_Adm1_2:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Zabul
-    shapeID: 12653393B56617740339660
-    country_name: Afghanistan
-  Afghanistan_Adm1_20:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Bamyan
-    shapeID: 12653393B40451261903281
-    country_name: Afghanistan
-  Afghanistan_Adm1_21:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Samangan
-    shapeID: 12653393B17428819721147
-    country_name: Afghanistan
-  Afghanistan_Adm1_22:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Kunduz
-    shapeID: 12653393B86260556017558
-    country_name: Afghanistan
-  Afghanistan_Adm1_23:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Takhar
-    shapeID: 12653393B65816425001124
-    country_name: Afghanistan
-  Afghanistan_Adm1_24:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Balkh
-    shapeID: 12653393B32704257785092
-    country_name: Afghanistan
-  Afghanistan_Adm1_25:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Sar-ePol
-    shapeID: 12653393B88420098597995
-    country_name: Afghanistan
-  Afghanistan_Adm1_26:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Jowzjan
-    shapeID: 12653393B68515507308334
-    country_name: Afghanistan
-  Afghanistan_Adm1_27:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Faryab
-    shapeID: 12653393B15327610512620
-    country_name: Afghanistan
-  Afghanistan_Adm1_28:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Badghis
-    shapeID: 12653393B49464330763444
-    country_name: Afghanistan
-  Afghanistan_Adm1_29:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Ghor
-    shapeID: 12653393B10656178064549
-    country_name: Afghanistan
-  Afghanistan_Adm1_3:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Uruzgan
-    shapeID: 12653393B46006342616872
-    country_name: Afghanistan
-  Afghanistan_Adm1_30:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Herat
-    shapeID: 12653393B41529784753429
-    country_name: Afghanistan
-  Afghanistan_Adm1_31:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Farah
-    shapeID: 12653393B38600812522696
-    country_name: Afghanistan
-  Afghanistan_Adm1_32:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Nimruz
-    shapeID: 12653393B2934199951965
-    country_name: Afghanistan
-  Afghanistan_Adm1_33:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Helmand
-    shapeID: 12653393B44617690613931
-    country_name: Afghanistan
-  Afghanistan_Adm1_34:
-    iso3c: AFG
-    admin_level: Adm1
+    admin_level: Adm0
+  AFG.1_1_Adm1:
+    GID: AFG.1_1
     admin_name: Badakhshan
-    shapeID: 12653393B46637216309148
-    country_name: Afghanistan
-  Afghanistan_Adm1_4:
     iso3c: AFG
+    country_name: Afghanistan
     admin_level: Adm1
-    admin_name: Daykundi
-    shapeID: 12653393B78791504725813
-    country_name: Afghanistan
-  Afghanistan_Adm1_5:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Ghanzi
-    shapeID: 12653393B29313712249365
-    country_name: Afghanistan
-  Afghanistan_Adm1_6:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Paktika
-    shapeID: 12653393B93572570471663
-    country_name: Afghanistan
-  Afghanistan_Adm1_7:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Khost
-    shapeID: 12653393B66876919073955
-    country_name: Afghanistan
-  Afghanistan_Adm1_8:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Paktia
-    shapeID: 12653393B16859990709200
-    country_name: Afghanistan
-  Afghanistan_Adm1_9:
-    iso3c: AFG
-    admin_level: Adm1
-    admin_name: Logar
-    shapeID: 12653393B769191277822
-    country_name: Afghanistan
-  Afghanistan_Adm2_1:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DehBala
-    shapeID: 17698898B67359070524975
-    country_name: Afghanistan
-  Afghanistan_Adm2_10:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Ghoryan
-    shapeID: 17698898B30811011988841
-    country_name: Afghanistan
-  Afghanistan_Adm2_100:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nawa-I-BarakZayi
-    shapeID: 17698898B23236612264479
-    country_name: Afghanistan
-  Afghanistan_Adm2_101:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Ghaziabad
-    shapeID: 17698898B49694139697201
-    country_name: Afghanistan
-  Afghanistan_Adm2_102:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khenj(Hese-Awal)
-    shapeID: 17698898B57544196063492
-    country_name: Afghanistan
-  Afghanistan_Adm2_103:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: NadAli
-    shapeID: 17698898B93501902948280
-    country_name: Afghanistan
-  Afghanistan_Adm2_104:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nari
-    shapeID: 17698898B78521415915100
-    country_name: Afghanistan
-  Afghanistan_Adm2_105:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Ziruk
-    shapeID: 17698898B70025799678944
-    country_name: Afghanistan
-  Afghanistan_Adm2_106:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: NahriSarraj
-    shapeID: 17698898B22352554505248
-    country_name: Afghanistan
-  Afghanistan_Adm2_107:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Bazarak
-    shapeID: 17698898B32986423945251
-    country_name: Afghanistan
-  Afghanistan_Adm2_108:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: LashkarGah
-    shapeID: 17698898B167183806480
-    country_name: Afghanistan
-  Afghanistan_Adm2_109:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nika
-    shapeID: 17698898B76017578354726
-    country_name: Afghanistan
-  Afghanistan_Adm2_11:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Hesarak
-    shapeID: 17698898B26698492431192
-    country_name: Afghanistan
-  Afghanistan_Adm2_110:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dara
-    shapeID: 17698898B71703822686681
-    country_name: Afghanistan
-  Afghanistan_Adm2_111:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Sangin
-    shapeID: 17698898B63216716382211
-    country_name: Afghanistan
-  Afghanistan_Adm2_112:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gayan
-    shapeID: 17698898B31718885342690
-    country_name: Afghanistan
-  Afghanistan_Adm2_113:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Rukha
-    shapeID: 17698898B51750891516418
-    country_name: Afghanistan
-  Afghanistan_Adm2_114:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kajaki
-    shapeID: 17698898B29414773205721
-    country_name: Afghanistan
-  Afghanistan_Adm2_115:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Urgun
-    shapeID: 17698898B81639948392076
-    country_name: Afghanistan
-  Afghanistan_Adm2_116:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Unaba
-    shapeID: 17698898B86893454332633
-    country_name: Afghanistan
-  Afghanistan_Adm2_117:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: NawZad
-    shapeID: 17698898B96274707297205
-    country_name: Afghanistan
-  Afghanistan_Adm2_118:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: SarHawza
-    shapeID: 17698898B73657459588515
-    country_name: Afghanistan
-  Afghanistan_Adm2_119:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shutul
-    shapeID: 17698898B27579571424346
-    country_name: Afghanistan
-  Afghanistan_Adm2_12:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ZandaJan
-    shapeID: 17698898B40667895693210
-    country_name: Afghanistan
-  Afghanistan_Adm2_120:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: MusaQala
-    shapeID: 17698898B14674073600616
-    country_name: Afghanistan
-  Afghanistan_Adm2_121:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: MataKhan
-    shapeID: 17698898B70029244120792
-    country_name: Afghanistan
-  Afghanistan_Adm2_122:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Alasay
-    shapeID: 17698898B62190249131225
-    country_name: Afghanistan
-  Afghanistan_Adm2_123:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Sharan
-    shapeID: 17698898B15919803433958
-    country_name: Afghanistan
-  Afghanistan_Adm2_124:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Baghran
-    shapeID: 17698898B34489246879191
-    country_name: Afghanistan
-  Afghanistan_Adm2_125:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Tagab
-    shapeID: 17698898B88758953841617
-    country_name: Afghanistan
-  Afghanistan_Adm2_126:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Barmal
-    shapeID: 17698898B35828896947271
-    country_name: Afghanistan
-  Afghanistan_Adm2_127:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Registan
-    shapeID: 17698898B86043618783876
-    country_name: Afghanistan
-  Afghanistan_Adm2_128:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Sarobi
-    shapeID: 17698898B39301080815863
-    country_name: Afghanistan
-  Afghanistan_Adm2_129:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: MahmudiRaqi
-    shapeID: 17698898B39893624636258
-    country_name: Afghanistan
-  Afghanistan_Adm2_13:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Azra
-    shapeID: 17698898B91002428816885
-    country_name: Afghanistan
-  Afghanistan_Adm2_130:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shorabak
-    shapeID: 17698898B62386399242941
-    country_name: Afghanistan
-  Afghanistan_Adm2_131:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Omna
-    shapeID: 17698898B71465249447941
-    country_name: Afghanistan
-  Afghanistan_Adm2_132:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: YosufKhel
-    shapeID: 17698898B3457791350599
-    country_name: Afghanistan
-  Afghanistan_Adm2_133:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Hisa-i-DuwumiKohistan
-    shapeID: 17698898B90427677065575
-    country_name: Afghanistan
-  Afghanistan_Adm2_134:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: SpinBoldak
-    shapeID: 17698898B16178473007687
-    country_name: Afghanistan
-  Afghanistan_Adm2_135:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: YahyaKhel
-    shapeID: 17698898B76739008753314
-    country_name: Afghanistan
-  Afghanistan_Adm2_136:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Hisa-i-AwaliKohistan
-    shapeID: 17698898B22800261216411
-    country_name: Afghanistan
-  Afghanistan_Adm2_137:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Arghistan
-    shapeID: 17698898B69048224790287
-    country_name: Afghanistan
-  Afghanistan_Adm2_138:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ZarghunShahr
-    shapeID: 17698898B30671190728626
-    country_name: Afghanistan
-  Afghanistan_Adm2_139:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Panjwayi
-    shapeID: 17698898B87789129076781
-    country_name: Afghanistan
-  Afghanistan_Adm2_14:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Guzara
-    shapeID: 17698898B41376487693068
-    country_name: Afghanistan
-  Afghanistan_Adm2_140:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Salang
-    shapeID: 17698898B85596304948243
-    country_name: Afghanistan
-  Afghanistan_Adm2_141:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kandahar
-    shapeID: 17698898B3536630965398
-    country_name: Afghanistan
-  Afghanistan_Adm2_142:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Jabalussaraj
-    shapeID: 17698898B46371415071663
-    country_name: Afghanistan
-  Afghanistan_Adm2_143:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: JaniKhel
-    shapeID: 17698898B85546935814968
-    country_name: Afghanistan
-  Afghanistan_Adm2_144:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Daman
-    shapeID: 17698898B75395514710531
-    country_name: Afghanistan
-  Afghanistan_Adm2_145:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KohiSafi
-    shapeID: 17698898B96190613421572
-    country_name: Afghanistan
-  Afghanistan_Adm2_146:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dila
-    shapeID: 17698898B75574585660656
-    country_name: Afghanistan
-  Afghanistan_Adm2_147:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ShahWaliKot
-    shapeID: 17698898B71321154096819
-    country_name: Afghanistan
-  Afghanistan_Adm2_148:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: WazaKhwa
-    shapeID: 17698898B79363414793444
-    country_name: Afghanistan
-  Afghanistan_Adm2_149:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Bagram
-    shapeID: 17698898B76580774118735
-    country_name: Afghanistan
-  Afghanistan_Adm2_15:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Karukh
-    shapeID: 17698898B76505255120202
-    country_name: Afghanistan
-  Afghanistan_Adm2_150:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: SaydKhel
-    shapeID: 17698898B88854070197950
-    country_name: Afghanistan
-  Afghanistan_Adm2_151:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Arghandab
-    shapeID: 17698898B64879556076818
-    country_name: Afghanistan
-  Afghanistan_Adm2_152:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gomal
-    shapeID: 17698898B48845645829739
-    country_name: Afghanistan
-  Afghanistan_Adm2_153:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Maywand
-    shapeID: 17698898B71155129152352
-    country_name: Afghanistan
-  Afghanistan_Adm2_154:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Chaharikar
-    shapeID: 17698898B78020451669057
-    country_name: Afghanistan
-  Afghanistan_Adm2_155:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Ghorak
-    shapeID: 17698898B45857053631158
-    country_name: Afghanistan
-  Afghanistan_Adm2_156:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Turwo
-    shapeID: 17698898B92535545180031
-    country_name: Afghanistan
-  Afghanistan_Adm2_157:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shinwari
-    shapeID: 17698898B52761168478652
-    country_name: Afghanistan
-  Afghanistan_Adm2_158:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Zhari
-    shapeID: 17698898B43026433871983
-    country_name: Afghanistan
-  Afghanistan_Adm2_159:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: WorMayi
-    shapeID: 17698898B36453114297847
-    country_name: Afghanistan
-  Afghanistan_Adm2_16:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: AliKhail(Jaji)
-    shapeID: 17698898B14177024461677
-    country_name: Afghanistan
-  Afghanistan_Adm2_160:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: SiaGird(Ghorbund)
-    shapeID: 17698898B53460503432272
-    country_name: Afghanistan
-  Afghanistan_Adm2_161:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khakrez
-    shapeID: 17698898B19619181561833
-    country_name: Afghanistan
-  Afghanistan_Adm2_162:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nawa
-    shapeID: 17698898B13684385115275
-    country_name: Afghanistan
-  Afghanistan_Adm2_163:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: SurkhiParsa
-    shapeID: 17698898B76183581414632
-    country_name: Afghanistan
-  Afghanistan_Adm2_164:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: AbKamari
-    shapeID: 17698898B73770643817409
-    country_name: Afghanistan
-  Afghanistan_Adm2_165:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ShekhAli
-    shapeID: 17698898B71956168117358
-    country_name: Afghanistan
-  Afghanistan_Adm2_166:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gelan
-    shapeID: 17698898B95721518303168
-    country_name: Afghanistan
-  Afghanistan_Adm2_167:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Muqur
-    shapeID: 17698898B64553162233341
-    country_name: Afghanistan
-  Afghanistan_Adm2_168:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kaldar
-    shapeID: 17698898B94329436911274
-    country_name: Afghanistan
-  Afghanistan_Adm2_169:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Muqur
-    shapeID: 17698898B49767340950773
-    country_name: Afghanistan
-  Afghanistan_Adm2_17:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DandPatan
-    shapeID: 17698898B13869186183429
-    country_name: Afghanistan
-  Afghanistan_Adm2_170:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dawlatabad
-    shapeID: 17698898B77647475536898
-    country_name: Afghanistan
-  Afghanistan_Adm2_171:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qala-I-Naw
-    shapeID: 17698898B11614254206376
-    country_name: Afghanistan
-  Afghanistan_Adm2_172:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dihrawud
-    shapeID: 17698898B28778258305736
-    country_name: Afghanistan
-  Afghanistan_Adm2_173:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: AbBand
-    shapeID: 17698898B68993560499599
-    country_name: Afghanistan
-  Afghanistan_Adm2_174:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: NahriShahi
-    shapeID: 17698898B92770889491620
-    country_name: Afghanistan
-  Afghanistan_Adm2_175:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Giro
-    shapeID: 17698898B34806360196917
-    country_name: Afghanistan
-  Afghanistan_Adm2_176:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ShahidiHassas
-    shapeID: 17698898B7154367860778
-    country_name: Afghanistan
-  Afghanistan_Adm2_177:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: MazariSharif
-    shapeID: 17698898B70189679586713
-    country_name: Afghanistan
-  Afghanistan_Adm2_178:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Andar
-    shapeID: 17698898B15836335276490
-    country_name: Afghanistan
-  Afghanistan_Adm2_179:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nesh
-    shapeID: 17698898B6361113189303
-    country_name: Afghanistan
-  Afghanistan_Adm2_18:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: PashtunZarghun
-    shapeID: 17698898B48568225140824
-    country_name: Afghanistan
-  Afghanistan_Adm2_180:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KohBand
-    shapeID: 17698898B92627850730576
-    country_name: Afghanistan
-  Afghanistan_Adm2_181:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DihYak
-    shapeID: 17698898B43522428587975
-    country_name: Afghanistan
-  Afghanistan_Adm2_182:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qadis
-    shapeID: 17698898B6337453827047
-    country_name: Afghanistan
-  Afghanistan_Adm2_183:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nijrab
-    shapeID: 17698898B41631519248900
-    country_name: Afghanistan
-  Afghanistan_Adm2_184:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ZanaKhan
-    shapeID: 17698898B21749307466841
-    country_name: Afghanistan
-  Afghanistan_Adm2_185:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Marmul
-    shapeID: 17698898B88855258477888
-    country_name: Afghanistan
-  Afghanistan_Adm2_186:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Tulak
-    shapeID: 17698898B19883224301342
-    country_name: Afghanistan
-  Afghanistan_Adm2_187:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ChaharKint
-    shapeID: 17698898B85275633227328
-    country_name: Afghanistan
-  Afghanistan_Adm2_188:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Ghazni
-    shapeID: 17698898B66989319468531
-    country_name: Afghanistan
-  Afghanistan_Adm2_189:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Saghar
-    shapeID: 17698898B17817856005515
-    country_name: Afghanistan
-  Afghanistan_Adm2_19:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Chamkani
-    shapeID: 17698898B82499644290934
-    country_name: Afghanistan
-  Afghanistan_Adm2_190:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Sholgara
-    shapeID: 17698898B55574996468051
-    country_name: Afghanistan
-  Afghanistan_Adm2_191:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhwajaUmari
-    shapeID: 17698898B91768416079756
-    country_name: Afghanistan
-  Afghanistan_Adm2_192:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dihdadi
-    shapeID: 17698898B12921472973415
-    country_name: Afghanistan
-  Afghanistan_Adm2_193:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Rashidan
-    shapeID: 17698898B58745317907141
-    country_name: Afghanistan
-  Afghanistan_Adm2_194:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: TirinKot
-    shapeID: 17698898B6220132089386
-    country_name: Afghanistan
-  Afghanistan_Adm2_195:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Balkh
-    shapeID: 17698898B77931863880594
-    country_name: Afghanistan
-  Afghanistan_Adm2_196:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Fayzabad
-    shapeID: 17698898B33300576741298
-    country_name: Afghanistan
-  Afghanistan_Adm2_197:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: WaliMuhammadiShahid
-    shapeID: 17698898B1377495574710
-    country_name: Afghanistan
-  Afghanistan_Adm2_198:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ChaharBolak
-    shapeID: 17698898B81421616745366
-    country_name: Afghanistan
-  Afghanistan_Adm2_199:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Mangajek
-    shapeID: 17698898B33311091031062
-    country_name: Afghanistan
-  Afghanistan_Adm2_2:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gulran
-    shapeID: 17698898B98443198567384
-    country_name: Afghanistan
-  Afghanistan_Adm2_20:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: LajaAhmadKhail
-    shapeID: 17698898B63154587164483
-    country_name: Afghanistan
-  Afghanistan_Adm2_200:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Waghaz
-    shapeID: 17698898B94947419719141
-    country_name: Afghanistan
-  Afghanistan_Adm2_201:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhwajaDuKoh
-    shapeID: 17698898B16843161206497
-    country_name: Afghanistan
-  Afghanistan_Adm2_202:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Chimtal
-    shapeID: 17698898B2431624392014
-    country_name: Afghanistan
-  Afghanistan_Adm2_203:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: BahramiShahid(Jaghatu)
-    shapeID: 17698898B48639262347956
-    country_name: Afghanistan
-  Afghanistan_Adm2_204:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shibirghan
-    shapeID: 17698898B53467877879512
-    country_name: Afghanistan
-  Afghanistan_Adm2_205:
+  AFG.1.1_1_Adm2:
+    GID: AFG.1.1_1
+    admin_name: Baharak
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kishindih
-    shapeID: 17698898B65056922872965
-    country_name: Afghanistan
-  Afghanistan_Adm2_206:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qarabagh
-    shapeID: 17698898B40546749525056
-    country_name: Afghanistan
-  Afghanistan_Adm2_207:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Zari
-    shapeID: 17698898B37192900102961
-    country_name: Afghanistan
-  Afghanistan_Adm2_208:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: QushTepa
-    shapeID: 17698898B63288108708260
-    country_name: Afghanistan
-  Afghanistan_Adm2_209:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kamdesh
-    shapeID: 17698898B16169279194462
-    country_name: Afghanistan
-  Afghanistan_Adm2_21:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: SayedKaram
-    shapeID: 17698898B66498358059232
-    country_name: Afghanistan
-  Afghanistan_Adm2_210:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Darzab
-    shapeID: 17698898B18601855151181
-    country_name: Afghanistan
-  Afghanistan_Adm2_211:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: HazratiSultan
-    shapeID: 17698898B97300978442775
-    country_name: Afghanistan
-  Afghanistan_Adm2_212:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Waygal
-    shapeID: 17698898B53177499733328
-    country_name: Afghanistan
-  Afghanistan_Adm2_213:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khaniqa
-    shapeID: 17698898B3221081044108
-    country_name: Afghanistan
-  Afghanistan_Adm2_214:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Aybak
-    shapeID: 17698898B9034512008121
-    country_name: Afghanistan
-  Afghanistan_Adm2_215:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Wama
-    shapeID: 17698898B43074061200029
-    country_name: Afghanistan
-  Afghanistan_Adm2_216:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: SariPul
-    shapeID: 17698898B87621417384436
-    country_name: Afghanistan
-  Afghanistan_Adm2_217:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: RuyiDuAb
-    shapeID: 17698898B6996072822964
-    country_name: Afghanistan
-  Afghanistan_Adm2_218:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Sayyad
-    shapeID: 17698898B83091698293220
-    country_name: Afghanistan
-  Afghanistan_Adm2_219:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nurgaram
-    shapeID: 17698898B7537232997430
-    country_name: Afghanistan
-  Afghanistan_Adm2_22:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: AhmadAbad
-    shapeID: 17698898B88187802806148
-    country_name: Afghanistan
-  Afghanistan_Adm2_220:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhuramWaSarbagh
-    shapeID: 17698898B56476132623567
-    country_name: Afghanistan
-  Afghanistan_Adm2_221:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kohistanat
-    shapeID: 17698898B60638950590338
-    country_name: Afghanistan
-  Afghanistan_Adm2_222:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Alingar
-    shapeID: 17698898B28188212808936
-    country_name: Afghanistan
-  Afghanistan_Adm2_223:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: FerozNakhchir
-    shapeID: 17698898B61408580089249
     country_name: Afghanistan
-  Afghanistan_Adm2_224:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qarghayi
-    shapeID: 17698898B92687367018667
-    country_name: Afghanistan
-  Afghanistan_Adm2_225:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhaniChaharBagh
-    shapeID: 17698898B58243827416032
-    country_name: Afghanistan
-  Afghanistan_Adm2_226:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dara-I-SufiPayin
-    shapeID: 17698898B17027001788279
-    country_name: Afghanistan
-  Afghanistan_Adm2_227:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Mihtarlam
-    shapeID: 17698898B85427598305070
-    country_name: Afghanistan
-  Afghanistan_Adm2_228:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Andkhoy
-    shapeID: 17698898B72434564939727
-    country_name: Afghanistan
-  Afghanistan_Adm2_229:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dara-I-SufiBala
-    shapeID: 17698898B79609876731743
-    country_name: Afghanistan
-  Afghanistan_Adm2_23:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Obe
-    shapeID: 17698898B82424005626981
-    country_name: Afghanistan
-  Afghanistan_Adm2_230:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qurghan
-    shapeID: 17698898B36636403911710
-    country_name: Afghanistan
-  Afghanistan_Adm2_231:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Mardyan
-    shapeID: 17698898B10243065088514
-    country_name: Afghanistan
-  Afghanistan_Adm2_232:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qaramqol
-    shapeID: 17698898B29599265384553
-    country_name: Afghanistan
-  Afghanistan_Adm2_233:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Wakhan
-    shapeID: 17698898B90987170586720
-    country_name: Afghanistan
-  Afghanistan_Adm2_234:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Aqcha
-    shapeID: 17698898B46917889525806
-    country_name: Afghanistan
-  Afghanistan_Adm2_235:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dawlatabad
-    shapeID: 17698898B78823885330812
-    country_name: Afghanistan
-  Afghanistan_Adm2_236:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Balkhab
-    shapeID: 17698898B73489110800958
-    country_name: Afghanistan
-  Afghanistan_Adm2_237:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ShirinTagab
-    shapeID: 17698898B36085950129723
-    country_name: Afghanistan
-  Afghanistan_Adm2_238:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Ishkashiem
-    shapeID: 17698898B72396469505647
-    country_name: Afghanistan
-  Afghanistan_Adm2_239:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gosfandi
-    shapeID: 17698898B49472031583936
-    country_name: Afghanistan
-  Afghanistan_Adm2_24:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: JaniKhail
-    shapeID: 17698898B50071469520952
-    country_name: Afghanistan
-  Afghanistan_Adm2_240:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhwajaSabzPosh
-    shapeID: 17698898B86175881575923
-    country_name: Afghanistan
-  Afghanistan_Adm2_241:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Sangcharak
-    shapeID: 17698898B35985361203914
-    country_name: Afghanistan
-  Afghanistan_Adm2_242:
+  AFG.1.10_1_Adm2:
+    GID: AFG.1.10_1
+    admin_name: Shahri Buzurg
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Maymana
-    shapeID: 17698898B62547569841807
     country_name: Afghanistan
-  Afghanistan_Adm2_243:
-    iso3c: AFG
     admin_level: Adm2
+  AFG.1.11_1_Adm2:
+    GID: AFG.1.11_1
     admin_name: Shighnan
-    shapeID: 17698898B95650823120892
-    country_name: Afghanistan
-  Afghanistan_Adm2_244:
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: SozmaQala
-    shapeID: 17698898B50201186809314
     country_name: Afghanistan
-  Afghanistan_Adm2_245:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Bilchiragh
-    shapeID: 17698898B99148698827275
+  AFG.1.12_1_Adm2:
+    GID: AFG.1.12_1
+    admin_name: Wakhan
+    iso3c: AFG
     country_name: Afghanistan
-  Afghanistan_Adm2_246:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Kahmard
-    shapeID: 17698898B38280205315717
-    country_name: Afghanistan
-  Afghanistan_Adm2_247:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Darwazbala
-    shapeID: 17698898B25739808204727
-    country_name: Afghanistan
-  Afghanistan_Adm2_248:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Bamyan
-    shapeID: 17698898B60484555786592
-    country_name: Afghanistan
-  Afghanistan_Adm2_249:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: PashtunKot
-    shapeID: 17698898B54717162176823
-    country_name: Afghanistan
-  Afghanistan_Adm2_25:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Farsi
-    shapeID: 17698898B70680099642368
-    country_name: Afghanistan
-  Afghanistan_Adm2_250:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Almar
-    shapeID: 17698898B15834343688253
-    country_name: Afghanistan
-  Afghanistan_Adm2_251:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Sayghan
-    shapeID: 17698898B65207327485001
-    country_name: Afghanistan
-  Afghanistan_Adm2_252:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Darwaz
-    shapeID: 17698898B757957454065
-    country_name: Afghanistan
-  Afghanistan_Adm2_253:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qaysar
-    shapeID: 17698898B12348234721190
-    country_name: Afghanistan
-  Afghanistan_Adm2_254:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shibar
-    shapeID: 17698898B92886105415602
-    country_name: Afghanistan
-  Afghanistan_Adm2_255:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shaki
-    shapeID: 17698898B19581778816483
-    country_name: Afghanistan
-  Afghanistan_Adm2_256:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gurziwan
-    shapeID: 17698898B36180835815829
-    country_name: Afghanistan
-  Afghanistan_Adm2_257:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Yakawlang
-    shapeID: 17698898B2066778831749
-    country_name: Afghanistan
-  Afghanistan_Adm2_258:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KufAb
-    shapeID: 17698898B52906026797315
-    country_name: Afghanistan
-  Afghanistan_Adm2_259:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kohistan
-    shapeID: 17698898B67216790829009
-    country_name: Afghanistan
-  Afghanistan_Adm2_26:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gardiz
-    shapeID: 17698898B10808081288517
-    country_name: Afghanistan
-  Afghanistan_Adm2_260:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Panjab
-    shapeID: 17698898B8527713612096
-    country_name: Afghanistan
-  Afghanistan_Adm2_261:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gizab
-    shapeID: 17698898B77867409932082
-    country_name: Afghanistan
-  Afghanistan_Adm2_262:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khwahan
-    shapeID: 17698898B28919940592911
-    country_name: Afghanistan
-  Afghanistan_Adm2_263:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nili
-    shapeID: 17698898B71478968309259
-    country_name: Afghanistan
-  Afghanistan_Adm2_264:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Waras
-    shapeID: 17698898B34980340314796
-    country_name: Afghanistan
-  Afghanistan_Adm2_265:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Raghistan
-    shapeID: 17698898B15363372694269
-    country_name: Afghanistan
-  Afghanistan_Adm2_266:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Ishtarlay
-    shapeID: 17698898B83390857552519
-    country_name: Afghanistan
-  Afghanistan_Adm2_267:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Miramor
-    shapeID: 17698898B99775155489299
-    country_name: Afghanistan
-  Afghanistan_Adm2_268:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: SangiTakht
-    shapeID: 17698898B86995719870790
-    country_name: Afghanistan
-  Afghanistan_Adm2_269:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shahristan
-    shapeID: 17698898B15040398145446
-    country_name: Afghanistan
-  Afghanistan_Adm2_27:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Zurmat
-    shapeID: 17698898B98040886120926
-    country_name: Afghanistan
-  Afghanistan_Adm2_270:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Argo
-    shapeID: 17698898B44605407424991
-    country_name: Afghanistan
-  Afghanistan_Adm2_271:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: LalWaSarjangal
-    shapeID: 17698898B32541112128206
-    country_name: Afghanistan
-  Afghanistan_Adm2_272:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qarabagh
-    shapeID: 17698898B97748995377228
-    country_name: Afghanistan
-  Afghanistan_Adm2_273:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: YaftalSufla
-    shapeID: 17698898B6830111316734
-    country_name: Afghanistan
-  Afghanistan_Adm2_274:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Istalif
-    shapeID: 17698898B12916528031123
-    country_name: Afghanistan
-  Afghanistan_Adm2_275:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DawlatYar
-    shapeID: 17698898B51753935446001
-    country_name: Afghanistan
-  Afghanistan_Adm2_276:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kohistan
-    shapeID: 17698898B26989253690642
-    country_name: Afghanistan
-  Afghanistan_Adm2_277:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Farza
-    shapeID: 17698898B80217603644600
-    country_name: Afghanistan
-  Afghanistan_Adm2_278:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Fayzabad
-    shapeID: 17698898B13673571865374
-    country_name: Afghanistan
-  Afghanistan_Adm2_279:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Chaghcharan
-    shapeID: 17698898B78061514041898
-    country_name: Afghanistan
-  Afghanistan_Adm2_28:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: AnarDara
-    shapeID: 17698898B63284847438017
-    country_name: Afghanistan
-  Afghanistan_Adm2_280:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Guldara
-    shapeID: 17698898B71756880207327
-    country_name: Afghanistan
-  Afghanistan_Adm2_281:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ArghanjKhaw
-    shapeID: 17698898B60025751668674
-    country_name: Afghanistan
-  Afghanistan_Adm2_282:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kalakan
-    shapeID: 17698898B48331598249069
-    country_name: Afghanistan
-  Afghanistan_Adm2_283:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Charsada
-    shapeID: 17698898B8940895568860
-    country_name: Afghanistan
-  Afghanistan_Adm2_284:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shahada
-    shapeID: 17698898B86453350447825
-    country_name: Afghanistan
-  Afghanistan_Adm2_285:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: MirBachaKot
-    shapeID: 17698898B60289592793683
-    country_name: Afghanistan
-  Afghanistan_Adm2_286:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DuLayna
-    shapeID: 17698898B44512241751427
-    country_name: Afghanistan
-  Afghanistan_Adm2_287:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Baharak
-    shapeID: 17698898B92283953739248
-    country_name: Afghanistan
-  Afghanistan_Adm2_288:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shakardara
-    shapeID: 17698898B98539503250013
-    country_name: Afghanistan
-  Afghanistan_Adm2_289:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Ghormach
-    shapeID: 17698898B84996327477794
-    country_name: Afghanistan
-  Afghanistan_Adm2_29:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shawak
-    shapeID: 17698898B57803424859740
-    country_name: Afghanistan
-  Afghanistan_Adm2_290:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Warduj
-    shapeID: 17698898B39229335816242
-    country_name: Afghanistan
-  Afghanistan_Adm2_291:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Paghman
-    shapeID: 17698898B18193137102003
-    country_name: Afghanistan
-  Afghanistan_Adm2_292:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: BalaMurghab
-    shapeID: 17698898B57091539838302
-    country_name: Afghanistan
-  Afghanistan_Adm2_293:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DihSabz
-    shapeID: 17698898B46017522577675
-    country_name: Afghanistan
-  Afghanistan_Adm2_294:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khash
-    shapeID: 17698898B8170759231465
-    country_name: Afghanistan
-  Afghanistan_Adm2_295:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kabul
-    shapeID: 17698898B53195345217503
-    country_name: Afghanistan
-  Afghanistan_Adm2_296:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Jawand
-    shapeID: 17698898B43817755523450
-    country_name: Afghanistan
-  Afghanistan_Adm2_297:
-    iso3c: AFG
-    admin_level: Adm2
+  AFG.1.13_1_Adm2:
+    GID: AFG.1.13_1
     admin_name: Zebak
-    shapeID: 17698898B62998583061214
-    country_name: Afghanistan
-  Afghanistan_Adm2_298:
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Bagrami
-    shapeID: 17698898B21871678766535
     country_name: Afghanistan
-  Afghanistan_Adm2_299:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: ChishtiSharif
-    shapeID: 17698898B84127122841675
+  AFG.1.2_1_Adm2:
+    GID: AFG.1.2_1
+    admin_name: Darwaz
+    iso3c: AFG
     country_name: Afghanistan
-  Afghanistan_Adm2_3:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Koshk
-    shapeID: 17698898B82675281335003
+  AFG.1.3_1_Adm2:
+    GID: AFG.1.3_1
+    admin_name: Fayzabad
+    iso3c: AFG
     country_name: Afghanistan
-  Afghanistan_Adm2_30:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: QalaKa
-    shapeID: 17698898B70788174101538
+  AFG.1.4_1_Adm2:
+    GID: AFG.1.4_1
+    admin_name: Ishkashim
+    iso3c: AFG
     country_name: Afghanistan
-  Afghanistan_Adm2_300:
-    iso3c: AFG
     admin_level: Adm2
+  AFG.1.5_1_Adm2:
+    GID: AFG.1.5_1
     admin_name: Jurm
-    shapeID: 17698898B98024385511002
-    country_name: Afghanistan
-  Afghanistan_Adm2_301:
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: MaydanShahr
-    shapeID: 17698898B8299812932572
     country_name: Afghanistan
-  Afghanistan_Adm2_302:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Darayim
-    shapeID: 17698898B6814893485448
+  AFG.1.6_1_Adm2:
+    GID: AFG.1.6_1
+    admin_name: Khwahan
+    iso3c: AFG
     country_name: Afghanistan
-  Afghanistan_Adm2_303:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Shahrak
-    shapeID: 17698898B24017508247144
-    country_name: Afghanistan
-  Afghanistan_Adm2_304:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Jalrez
-    shapeID: 17698898B40293713134027
-    country_name: Afghanistan
-  Afghanistan_Adm2_305:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Tashkan
-    shapeID: 17698898B22921587278202
-    country_name: Afghanistan
-  Afghanistan_Adm2_306:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Taywara
-    shapeID: 17698898B99964188527696
-    country_name: Afghanistan
-  Afghanistan_Adm2_307:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Hisa-I-AwaliBihsud
-    shapeID: 17698898B39012202863622
-    country_name: Afghanistan
-  Afghanistan_Adm2_308:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Washer
-    shapeID: 17698898B86762050859643
-    country_name: Afghanistan
-  Afghanistan_Adm2_309:
-    iso3c: AFG
-    admin_level: Adm2
+  AFG.1.7_1_Adm2:
+    GID: AFG.1.7_1
     admin_name: Kishim
-    shapeID: 17698898B32376525007973
-    country_name: Afghanistan
-  Afghanistan_Adm2_31:
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhakiSafed
-    shapeID: 17698898B43056583417710
     country_name: Afghanistan
-  Afghanistan_Adm2_310:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: MarkaziBihsud
-    shapeID: 17698898B62516533587531
+  AFG.1.8_1_Adm2:
+    GID: AFG.1.8_1
+    admin_name: Kuran Wa Munjan
+    iso3c: AFG
     country_name: Afghanistan
-  Afghanistan_Adm2_311:
-    iso3c: AFG
     admin_level: Adm2
+  AFG.1.9_1_Adm2:
+    GID: AFG.1.9_1
+    admin_name: Ragh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.10_1_Adm1:
+    GID: AFG.10_1
+    admin_name: Ghor
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.10.1_1_Adm2:
+    GID: AFG.10.1_1
+    admin_name: Chaghcharan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.10.2_1_Adm2:
+    GID: AFG.10.2_1
+    admin_name: Lal Wa Sarjangal
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.10.3_1_Adm2:
+    GID: AFG.10.3_1
     admin_name: Pasaband
-    shapeID: 17698898B90993953751325
-    country_name: Afghanistan
-  Afghanistan_Adm2_312:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DayMirdad
-    shapeID: 17698898B95952614940522
-    country_name: Afghanistan
-  Afghanistan_Adm2_313:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Tagab(KishmiBala)
-    shapeID: 17698898B12331044799427
-    country_name: Afghanistan
-  Afghanistan_Adm2_314:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khadir
-    shapeID: 17698898B85896963055106
-    country_name: Afghanistan
-  Afghanistan_Adm2_315:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: BargiMatal
-    shapeID: 17698898B91812370370798
-    country_name: Afghanistan
-  Afghanistan_Adm2_316:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gaiti
-    shapeID: 17698898B68976671585509
-    country_name: Afghanistan
-  Afghanistan_Adm2_317:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KuranWaMunjan
-    shapeID: 17698898B50007129326451
-    country_name: Afghanistan
-  Afghanistan_Adm2_318:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DuAb
-    shapeID: 17698898B72528920014944
-    country_name: Afghanistan
-  Afghanistan_Adm2_319:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kajran
-    shapeID: 17698898B11793530317199
-    country_name: Afghanistan
-  Afghanistan_Adm2_32:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shindand
-    shapeID: 17698898B23157226416647
-    country_name: Afghanistan
-  Afghanistan_Adm2_320:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Yamgan(Girwan)
-    shapeID: 17698898B77372347309342
-    country_name: Afghanistan
-  Afghanistan_Adm2_321:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Parun
-    shapeID: 17698898B98242564837272
-    country_name: Afghanistan
-  Afghanistan_Adm2_322:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Chora
-    shapeID: 17698898B30857026979621
-    country_name: Afghanistan
-  Afghanistan_Adm2_323:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Rustaq
-    shapeID: 17698898B56243841682349
-    country_name: Afghanistan
-  Afghanistan_Adm2_324:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Mandol
-    shapeID: 17698898B41954644585299
-    country_name: Afghanistan
-  Afghanistan_Adm2_325:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Hirat
-    shapeID: 17698898B52348915786714
-    country_name: Afghanistan
-  Afghanistan_Adm2_326:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kalfagan
-    shapeID: 17698898B6578659675582
-    country_name: Afghanistan
-  Afghanistan_Adm2_327:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Daulatshahi
-    shapeID: 17698898B80278762085258
-    country_name: Afghanistan
-  Afghanistan_Adm2_328:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Injil
-    shapeID: 17698898B10543334848024
-    country_name: Afghanistan
-  Afghanistan_Adm2_329:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Taluqan
-    shapeID: 17698898B41592630019355
-    country_name: Afghanistan
-  Afghanistan_Adm2_33:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Zadran
-    shapeID: 17698898B94993264286601
-    country_name: Afghanistan
-  Afghanistan_Adm2_330:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Alishing
-    shapeID: 17698898B23262153912138
-    country_name: Afghanistan
-  Afghanistan_Adm2_331:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: HazarSumuch
-    shapeID: 17698898B42975993540698
-    country_name: Afghanistan
-  Afghanistan_Adm2_332:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Surobi
-    shapeID: 17698898B2615744519366
-    country_name: Afghanistan
-  Afghanistan_Adm2_333:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Baharak
-    shapeID: 17698898B80624423467641
-    country_name: Afghanistan
-  Afghanistan_Adm2_334:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhakiJabbar
-    shapeID: 17698898B74617180198500
-    country_name: Afghanistan
-  Afghanistan_Adm2_335:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Musayi
-    shapeID: 17698898B32779649275791
-    country_name: Afghanistan
-  Afghanistan_Adm2_336:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Farkhar
-    shapeID: 17698898B42329311601444
-    country_name: Afghanistan
-  Afghanistan_Adm2_337:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ChaharAsyab
-    shapeID: 17698898B20052578515720
-    country_name: Afghanistan
-  Afghanistan_Adm2_338:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Warsaj
-    shapeID: 17698898B63901396703969
-    country_name: Afghanistan
-  Afghanistan_Adm2_339:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: NamakAb
-    shapeID: 17698898B54825742015716
-    country_name: Afghanistan
-  Afghanistan_Adm2_34:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: JajiMaidan
-    shapeID: 17698898B38396690303170
-    country_name: Afghanistan
-  Afghanistan_Adm2_340:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nirkh
-    shapeID: 17698898B73569132273389
-    country_name: Afghanistan
-  Afghanistan_Adm2_341:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Chal
-    shapeID: 17698898B10542195200094
-    country_name: Afghanistan
-  Afghanistan_Adm2_342:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ChakiWardak
-    shapeID: 17698898B26925173869114
-    country_name: Afghanistan
-  Afghanistan_Adm2_343:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Bangi
-    shapeID: 17698898B76311187018184
-    country_name: Afghanistan
-  Afghanistan_Adm2_344:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Adraskan
-    shapeID: 17698898B23166050371692
-    country_name: Afghanistan
-  Afghanistan_Adm2_345:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Saydabad
-    shapeID: 17698898B83186885490435
-    country_name: Afghanistan
-  Afghanistan_Adm2_346:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Ishkamish
-    shapeID: 17698898B29888456693038
-    country_name: Afghanistan
-  Afghanistan_Adm2_347:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: MiyaNishin
-    shapeID: 17698898B54317495727224
-    country_name: Afghanistan
-  Afghanistan_Adm2_348:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhwajaBahawuddin
-    shapeID: 17698898B60646731922830
-    country_name: Afghanistan
-  Afghanistan_Adm2_349:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Mizan
-    shapeID: 17698898B26335447462058
-    country_name: Afghanistan
-  Afghanistan_Adm2_35:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Bak
-    shapeID: 17698898B23350919974293
-    country_name: Afghanistan
-  Afghanistan_Adm2_350:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khanabad
-    shapeID: 17698898B4103502183848
-    country_name: Afghanistan
-  Afghanistan_Adm2_351:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Jaghatu
-    shapeID: 17698898B88117199286775
-    country_name: Afghanistan
-  Afghanistan_Adm2_352:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: TarnakWaJaldak
-    shapeID: 17698898B61039964161642
-    country_name: Afghanistan
-  Afghanistan_Adm2_353:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Aliabad
-    shapeID: 17698898B86734293398191
-    country_name: Afghanistan
-  Afghanistan_Adm2_354:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nawur
-    shapeID: 17698898B93105470278005
-    country_name: Afghanistan
-  Afghanistan_Adm2_355:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Atghar
-    shapeID: 17698898B30924552115619
-    country_name: Afghanistan
-  Afghanistan_Adm2_356:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qalat
-    shapeID: 17698898B215404734211
-    country_name: Afghanistan
-  Afghanistan_Adm2_357:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Jaghuri
-    shapeID: 17698898B41383596061136
-    country_name: Afghanistan
-  Afghanistan_Adm2_358:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Daychopan
-    shapeID: 17698898B96504361187718
-    country_name: Afghanistan
-  Afghanistan_Adm2_359:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Malistan
-    shapeID: 17698898B54445118426490
-    country_name: Afghanistan
-  Afghanistan_Adm2_36:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ShibKoh
-    shapeID: 17698898B4337459540017
-    country_name: Afghanistan
-  Afghanistan_Adm2_360:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Goshta
-    shapeID: 17698898B80655497564577
-    country_name: Afghanistan
-  Afghanistan_Adm2_361:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Ajristan
-    shapeID: 17698898B56570025970807
-    country_name: Afghanistan
-  Afghanistan_Adm2_362:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: LalPor
-    shapeID: 17698898B89300652708023
-    country_name: Afghanistan
-  Afghanistan_Adm2_363:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhasUruzgan
-    shapeID: 17698898B34778403037326
-    country_name: Afghanistan
-  Afghanistan_Adm2_364:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: MuhmandDara
-    shapeID: 17698898B11775537329403
-    country_name: Afghanistan
-  Afghanistan_Adm2_365:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kakar
-    shapeID: 17698898B65527099858560
-    country_name: Afghanistan
-  Afghanistan_Adm2_366:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: BatiKot
-    shapeID: 17698898B34842389530316
-    country_name: Afghanistan
-  Afghanistan_Adm2_367:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Arghandab
-    shapeID: 17698898B65639983209731
-    country_name: Afghanistan
-  Afghanistan_Adm2_368:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shahjoy
-    shapeID: 17698898B33097773516332
-    country_name: Afghanistan
-  Afghanistan_Adm2_369:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kama
-    shapeID: 17698898B68978504686864
-    country_name: Afghanistan
-  Afghanistan_Adm2_37:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Sabri
-    shapeID: 17698898B69525481970606
-    country_name: Afghanistan
-  Afghanistan_Adm2_370:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KuzKunar
-    shapeID: 17698898B40651827730083
-    country_name: Afghanistan
-  Afghanistan_Adm2_371:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shinkay
-    shapeID: 17698898B55948983877195
-    country_name: Afghanistan
-  Afghanistan_Adm2_372:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: NawBahar
-    shapeID: 17698898B69450200493830
-    country_name: Afghanistan
-  Afghanistan_Adm2_373:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dara-I-Nur
-    shapeID: 17698898B3395044113732
-    country_name: Afghanistan
-  Afghanistan_Adm2_374:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Bihsud
-    shapeID: 17698898B49352656840522
-    country_name: Afghanistan
-  Afghanistan_Adm2_375:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shamulzayi
-    shapeID: 17698898B12488155068203
-    country_name: Afghanistan
-  Afghanistan_Adm2_376:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Jalalabad
-    shapeID: 17698898B55913331863660
-    country_name: Afghanistan
-  Afghanistan_Adm2_377:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Yawan
-    shapeID: 17698898B9112322205672
-    country_name: Afghanistan
-  Afghanistan_Adm2_378:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: SurkhRod
-    shapeID: 17698898B62584690937693
-    country_name: Afghanistan
-  Afghanistan_Adm2_379:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ShahriBuzurg
-    shapeID: 17698898B83014236154214
-    country_name: Afghanistan
-  Afghanistan_Adm2_38:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: LashWaJuwayn
-    shapeID: 17698898B12487072568653
-    country_name: Afghanistan
-  Afghanistan_Adm2_380:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ChahAb
-    shapeID: 17698898B49058624531399
-    country_name: Afghanistan
-  Afghanistan_Adm2_381:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DurBaba
-    shapeID: 17698898B83279878098942
-    country_name: Afghanistan
-  Afghanistan_Adm2_382:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shinwar
-    shapeID: 17698898B70414548234356
-    country_name: Afghanistan
-  Afghanistan_Adm2_383:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: YangiQala
-    shapeID: 17698898B77381605069236
-    country_name: Afghanistan
-  Afghanistan_Adm2_384:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nazyan
-    shapeID: 17698898B65772173467801
-    country_name: Afghanistan
-  Afghanistan_Adm2_385:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Darqad
-    shapeID: 17698898B31964799049136
-    country_name: Afghanistan
-  Afghanistan_Adm2_386:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Acheen
-    shapeID: 17698898B14779938213850
-    country_name: Afghanistan
-  Afghanistan_Adm2_387:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DashtiQala
-    shapeID: 17698898B88978758104399
-    country_name: Afghanistan
-  Afghanistan_Adm2_388:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhwajaGhar
-    shapeID: 17698898B17227259683371
-    country_name: Afghanistan
-  Afghanistan_Adm2_389:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kot
-    shapeID: 17698898B10658108836681
-    country_name: Afghanistan
-  Afghanistan_Adm2_39:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: TereZayi
-    shapeID: 17698898B13286214983571
-    country_name: Afghanistan
-  Afghanistan_Adm2_390:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DashteArchi
-    shapeID: 17698898B21333678660273
-    country_name: Afghanistan
-  Afghanistan_Adm2_391:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Rodat
-    shapeID: 17698898B37452568308908
-    country_name: Afghanistan
-  Afghanistan_Adm2_392:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ImamSahib
-    shapeID: 17698898B57330379329878
-    country_name: Afghanistan
-  Afghanistan_Adm2_393:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qalay-I-Zal
-    shapeID: 17698898B46441820846756
-    country_name: Afghanistan
-  Afghanistan_Adm2_394:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khulm
-    shapeID: 17698898B55936753676845
-    country_name: Afghanistan
-  Afghanistan_Adm2_395:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shortepa
-    shapeID: 17698898B96349450413345
-    country_name: Afghanistan
-  Afghanistan_Adm2_396:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qarqin
-    shapeID: 17698898B9912817102687
-    country_name: Afghanistan
-  Afghanistan_Adm2_397:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhamAb
-    shapeID: 17698898B49127881316954
-    country_name: Afghanistan
-  Afghanistan_Adm2_398:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Maruf
-    shapeID: 17698898B10294811949528
-    country_name: Afghanistan
-  Afghanistan_Adm2_4:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Chaparhar
-    shapeID: 17698898B74585757664988
-    country_name: Afghanistan
-  Afghanistan_Adm2_40:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: PushtRod
-    shapeID: 17698898B71599149457148
-    country_name: Afghanistan
-  Afghanistan_Adm2_41:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: MosaKhail
-    shapeID: 17698898B48544319080592
-    country_name: Afghanistan
-  Afghanistan_Adm2_42:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Farah
-    shapeID: 17698898B12847742424468
-    country_name: Afghanistan
-  Afghanistan_Adm2_43:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Qalandar
-    shapeID: 17698898B50021728189298
-    country_name: Afghanistan
-  Afghanistan_Adm2_44:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: BalaBuluk
-    shapeID: 17698898B60738219309416
-    country_name: Afghanistan
-  Afghanistan_Adm2_45:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: NadirShahKot
-    shapeID: 17698898B35159094518715
-    country_name: Afghanistan
-  Afghanistan_Adm2_46:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gulistan
-    shapeID: 17698898B61842936481586
-    country_name: Afghanistan
-  Afghanistan_Adm2_47:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khost(Matun)
-    shapeID: 17698898B7218373032226
-    country_name: Afghanistan
-  Afghanistan_Adm2_48:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Gurbuz
-    shapeID: 17698898B51729905625670
-    country_name: Afghanistan
-  Afghanistan_Adm2_49:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: PurChaman
-    shapeID: 17698898B41043106697334
-    country_name: Afghanistan
-  Afghanistan_Adm2_5:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KoshkiKohna
-    shapeID: 17698898B84066352785355
-    country_name: Afghanistan
-  Afghanistan_Adm2_50:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: MandoZayi
-    shapeID: 17698898B31116405926030
-    country_name: Afghanistan
-  Afghanistan_Adm2_51:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Tani
-    shapeID: 17698898B67472405327916
-    country_name: Afghanistan
-  Afghanistan_Adm2_52:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ChaharDara
-    shapeID: 17698898B50082095746100
-    country_name: Afghanistan
-  Afghanistan_Adm2_53:
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Bakwa
-    shapeID: 17698898B63900733266218
-    country_name: Afghanistan
-  Afghanistan_Adm2_54:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shamal
-    shapeID: 17698898B16828551038730
-    country_name: Afghanistan
-  Afghanistan_Adm2_55:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kunduz
-    shapeID: 17698898B60886536033067
-    country_name: Afghanistan
-  Afghanistan_Adm2_56:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Spira
-    shapeID: 17698898B16660327351788
-    country_name: Afghanistan
-  Afghanistan_Adm2_57:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: GuzargahiNur
-    shapeID: 17698898B59041256807288
-    country_name: Afghanistan
-  Afghanistan_Adm2_58:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: MohammadAgha
-    shapeID: 17698898B22210022467973
-    country_name: Afghanistan
-  Afghanistan_Adm2_59:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khoshi
-    shapeID: 17698898B48695657788361
-    country_name: Afghanistan
-  Afghanistan_Adm2_6:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: PachierAgam
-    shapeID: 17698898B31168234973124
-    country_name: Afghanistan
-  Afghanistan_Adm2_60:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: FarangWaGharu
-    shapeID: 17698898B99069409178709
-    country_name: Afghanistan
-  Afghanistan_Adm2_61:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: PuliAlam
-    shapeID: 17698898B11646874618159
-    country_name: Afghanistan
-  Afghanistan_Adm2_62:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhostWaFiring
-    shapeID: 17698898B6565197896692
-    country_name: Afghanistan
-  Afghanistan_Adm2_63:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: BarakiBarak
-    shapeID: 17698898B34606037215802
-    country_name: Afghanistan
-  Afghanistan_Adm2_64:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: PuliHisar
-    shapeID: 17698898B10942587519321
-    country_name: Afghanistan
-  Afghanistan_Adm2_65:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Charkh
-    shapeID: 17698898B52143357969212
-    country_name: Afghanistan
-  Afghanistan_Adm2_66:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kharwar
-    shapeID: 17698898B82701186075668
-    country_name: Afghanistan
-  Afghanistan_Adm2_67:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Burka
-    shapeID: 17698898B87088675092373
-    country_name: Afghanistan
-  Afghanistan_Adm2_68:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhasKunar
-    shapeID: 17698898B97188555075093
-    country_name: Afghanistan
-  Afghanistan_Adm2_69:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nurgal
-    shapeID: 17698898B50805537510816
-    country_name: Afghanistan
-  Afghanistan_Adm2_7:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kohsan
-    shapeID: 17698898B88962028797570
     country_name: Afghanistan
-  Afghanistan_Adm2_70:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: DihSalah
-    shapeID: 17698898B284678917294
-    country_name: Afghanistan
-  Afghanistan_Adm2_71:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Chawkay
-    shapeID: 17698898B13238252869015
-    country_name: Afghanistan
-  Afghanistan_Adm2_72:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: KhwajaHijran(JilgaNahrin)
-    shapeID: 17698898B633920692247
-    country_name: Afghanistan
-  Afghanistan_Adm2_73:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Narang
-    shapeID: 17698898B49094759287106
-    country_name: Afghanistan
-  Afghanistan_Adm2_74:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Kang
-    shapeID: 17698898B66712247557735
-    country_name: Afghanistan
-  Afghanistan_Adm2_75:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: BaghlaniJadid
-    shapeID: 17698898B32644110556911
-    country_name: Afghanistan
-  Afghanistan_Adm2_76:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: ChapaDara
-    shapeID: 17698898B43925637284130
-    country_name: Afghanistan
-  Afghanistan_Adm2_77:
-    iso3c: AFG
-    admin_level: Adm2
-    admin_name: Zaranj
-    shapeID: 17698898B39156943056373
-    country_name: Afghanistan
-  Afghanistan_Adm2_78:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Asadabad
-    shapeID: 17698898B74946320403220
-    country_name: Afghanistan
-  Afghanistan_Adm2_79:
+  AFG.10.4_1_Adm2:
+    GID: AFG.10.4_1
+    admin_name: Saghar
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: PuliKhumri
-    shapeID: 17698898B34012534665236
     country_name: Afghanistan
-  Afghanistan_Adm2_8:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Khogayani
-    shapeID: 17698898B58246966451205
-    country_name: Afghanistan
-  Afghanistan_Adm2_80:
+  AFG.10.5_1_Adm2:
+    GID: AFG.10.5_1
+    admin_name: Shahrak
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Sarkani
-    shapeID: 17698898B12728543796406
     country_name: Afghanistan
-  Afghanistan_Adm2_81:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: ChaharBurjak
-    shapeID: 17698898B34314103911118
-    country_name: Afghanistan
-  Afghanistan_Adm2_82:
+  AFG.10.6_1_Adm2:
+    GID: AFG.10.6_1
+    admin_name: Taywara
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Nahrin
-    shapeID: 17698898B22383427297645
     country_name: Afghanistan
-  Afghanistan_Adm2_83:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Marawara
-    shapeID: 17698898B77023916462062
-    country_name: Afghanistan
-  Afghanistan_Adm2_84:
+  AFG.10.7_1_Adm2:
+    GID: AFG.10.7_1
+    admin_name: Tulak
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Chakhansur
-    shapeID: 17698898B69274941627579
     country_name: Afghanistan
-  Afghanistan_Adm2_85:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Andarab
-    shapeID: 17698898B69264511161666
-    country_name: Afghanistan
-  Afghanistan_Adm2_86:
+  AFG.11_1_Adm1:
+    GID: AFG.11_1
+    admin_name: Hilmand
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Khinjan
-    shapeID: 17698898B17409379319517
     country_name: Afghanistan
-  Afghanistan_Adm2_87:
+    admin_level: Adm1
+  AFG.11.1_1_Adm2:
+    GID: AFG.11.1_1
+    admin_name: Bughran
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Shaygalwashital
-    shapeID: 17698898B95618579984997
     country_name: Afghanistan
-  Afghanistan_Adm2_88:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: KhashRod
-    shapeID: 17698898B58844392220215
-    country_name: Afghanistan
-  Afghanistan_Adm2_89:
+  AFG.11.10_1_Adm2:
+    GID: AFG.11.10_1
+    admin_name: Nawa-i-Barak Zayi
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dushi
-    shapeID: 17698898B27904956690533
     country_name: Afghanistan
-  Afghanistan_Adm2_9:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Shirzad
-    shapeID: 17698898B9118080572878
-    country_name: Afghanistan
-  Afghanistan_Adm2_90:
+  AFG.11.11_1_Adm2:
+    GID: AFG.11.11_1
+    admin_name: Reg
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dara-I-Pech
-    shapeID: 17698898B49910454876794
     country_name: Afghanistan
-  Afghanistan_Adm2_91:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: Dishu
-    shapeID: 17698898B25309519003719
-    country_name: Afghanistan
-  Afghanistan_Adm2_92:
+  AFG.11.12_1_Adm2:
+    GID: AFG.11.12_1
+    admin_name: Sangin
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dahana-I-Ghuri
-    shapeID: 17698898B98707545256283
     country_name: Afghanistan
-  Afghanistan_Adm2_93:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: WataPur
-    shapeID: 17698898B10413991082827
-    country_name: Afghanistan
-  Afghanistan_Adm2_94:
+  AFG.11.13_1_Adm2:
+    GID: AFG.11.13_1
+    admin_name: Washer
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Reg(Khanshin)
-    shapeID: 17698898B2508287101636
     country_name: Afghanistan
-  Afghanistan_Adm2_95:
-    iso3c: AFG
     admin_level: Adm2
-    admin_name: TalaWaBarfak
-    shapeID: 17698898B52947947135359
-    country_name: Afghanistan
-  Afghanistan_Adm2_96:
+  AFG.11.2_1_Adm2:
+    GID: AFG.11.2_1
+    admin_name: Disho
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Dangam
-    shapeID: 17698898B27007301103583
     country_name: Afghanistan
-  Afghanistan_Adm2_97:
-    iso3c: AFG
     admin_level: Adm2
+  AFG.11.3_1_Adm2:
+    GID: AFG.11.3_1
     admin_name: Garmser
-    shapeID: 17698898B34482796057231
-    country_name: Afghanistan
-  Afghanistan_Adm2_98:
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: BarKunar
-    shapeID: 17698898B82085678459106
     country_name: Afghanistan
-  Afghanistan_Adm2_99:
+    admin_level: Adm2
+  AFG.11.4_1_Adm2:
+    GID: AFG.11.4_1
+    admin_name: Kajaki
     iso3c: AFG
-    admin_level: Adm2
-    admin_name: Paryan
-    shapeID: 17698898B9822156796156
     country_name: Afghanistan
+    admin_level: Adm2
+  AFG.11.5_1_Adm2:
+    GID: AFG.11.5_1
+    admin_name: Lashkargah
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.11.6_1_Adm2:
+    GID: AFG.11.6_1
+    admin_name: Musa Qala
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.11.7_1_Adm2:
+    GID: AFG.11.7_1
+    admin_name: Nad Ali
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.11.8_1_Adm2:
+    GID: AFG.11.8_1
+    admin_name: Nahri Sarraj
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.11.9_1_Adm2:
+    GID: AFG.11.9_1
+    admin_name: Naw Zad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12_1_Adm1:
+    GID: AFG.12_1
+    admin_name: Hirat
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.12.1_1_Adm2:
+    GID: AFG.12.1_1
+    admin_name: Adraskan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.10_1_Adm2:
+    GID: AFG.12.10_1
+    admin_name: Kuhsan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.11_1_Adm2:
+    GID: AFG.12.11_1
+    admin_name: Kushk
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.12_1_Adm2:
+    GID: AFG.12.12_1
+    admin_name: Kushki Kuhna
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.13_1_Adm2:
+    GID: AFG.12.13_1
+    admin_name: Obe
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.14_1_Adm2:
+    GID: AFG.12.14_1
+    admin_name: Pashtun Zarghun
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.15_1_Adm2:
+    GID: AFG.12.15_1
+    admin_name: Shindand
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.16_1_Adm2:
+    GID: AFG.12.16_1
+    admin_name: Zinda Jan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.2_1_Adm2:
+    GID: AFG.12.2_1
+    admin_name: Chishti Sharif
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.3_1_Adm2:
+    GID: AFG.12.3_1
+    admin_name: Farsi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.4_1_Adm2:
+    GID: AFG.12.4_1
+    admin_name: Ghoryan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.5_1_Adm2:
+    GID: AFG.12.5_1
+    admin_name: Gulran
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.6_1_Adm2:
+    GID: AFG.12.6_1
+    admin_name: Guzara
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.7_1_Adm2:
+    GID: AFG.12.7_1
+    admin_name: Hirat City
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.8_1_Adm2:
+    GID: AFG.12.8_1
+    admin_name: Injil
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.12.9_1_Adm2:
+    GID: AFG.12.9_1
+    admin_name: Karukh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.13_1_Adm1:
+    GID: AFG.13_1
+    admin_name: Jawzjan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.13.1_1_Adm2:
+    GID: AFG.13.1_1
+    admin_name: Aqcha
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.13.2_1_Adm2:
+    GID: AFG.13.2_1
+    admin_name: Darzab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.13.3_1_Adm2:
+    GID: AFG.13.3_1
+    admin_name: Fayz abad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.13.4_1_Adm2:
+    GID: AFG.13.4_1
+    admin_name: Khamyab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.13.5_1_Adm2:
+    GID: AFG.13.5_1
+    admin_name: Khwaja Du Koh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.13.6_1_Adm2:
+    GID: AFG.13.6_1
+    admin_name: Mardyan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.13.7_1_Adm2:
+    GID: AFG.13.7_1
+    admin_name: Mingajik
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.13.8_1_Adm2:
+    GID: AFG.13.8_1
+    admin_name: Qarqin
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.13.9_1_Adm2:
+    GID: AFG.13.9_1
+    admin_name: Shibirghan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14_1_Adm1:
+    GID: AFG.14_1
+    admin_name: Kabul
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.14.1_1_Adm2:
+    GID: AFG.14.1_1
+    admin_name: Bagrami
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.10_1_Adm2:
+    GID: AFG.14.10_1
+    admin_name: Musayi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.11_1_Adm2:
+    GID: AFG.14.11_1
+    admin_name: Paghman
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.12_1_Adm2:
+    GID: AFG.14.12_1
+    admin_name: Qarabagh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.13_1_Adm2:
+    GID: AFG.14.13_1
+    admin_name: Shakar Dara
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.14_1_Adm2:
+    GID: AFG.14.14_1
+    admin_name: Surobi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.2_1_Adm2:
+    GID: AFG.14.2_1
+    admin_name: Chahar Asyab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.3_1_Adm2:
+    GID: AFG.14.3_1
+    admin_name: Dih Sabz
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.4_1_Adm2:
+    GID: AFG.14.4_1
+    admin_name: Gul dara
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.5_1_Adm2:
+    GID: AFG.14.5_1
+    admin_name: Istalif
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.6_1_Adm2:
+    GID: AFG.14.6_1
+    admin_name: Kabul City
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.7_1_Adm2:
+    GID: AFG.14.7_1
+    admin_name: Kalakan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.8_1_Adm2:
+    GID: AFG.14.8_1
+    admin_name: Khaki Jabar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.14.9_1_Adm2:
+    GID: AFG.14.9_1
+    admin_name: Mirbacha Kot
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15_1_Adm1:
+    GID: AFG.15_1
+    admin_name: Kandahar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.15.1_1_Adm2:
+    GID: AFG.15.1_1
+    admin_name: Arghandab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.10_1_Adm2:
+    GID: AFG.15.10_1
+    admin_name: Reg
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.11_1_Adm2:
+    GID: AFG.15.11_1
+    admin_name: Shah Wali Kot
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.12_1_Adm2:
+    GID: AFG.15.12_1
+    admin_name: Shorabak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.13_1_Adm2:
+    GID: AFG.15.13_1
+    admin_name: Spin Boldak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.2_1_Adm2:
+    GID: AFG.15.2_1
+    admin_name: Arghistan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.3_1_Adm2:
+    GID: AFG.15.3_1
+    admin_name: Daman
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.4_1_Adm2:
+    GID: AFG.15.4_1
+    admin_name: Ghorak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.5_1_Adm2:
+    GID: AFG.15.5_1
+    admin_name: Kandahar City
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.6_1_Adm2:
+    GID: AFG.15.6_1
+    admin_name: Khakrez
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.7_1_Adm2:
+    GID: AFG.15.7_1
+    admin_name: Maruf
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.8_1_Adm2:
+    GID: AFG.15.8_1
+    admin_name: Maywand
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.15.9_1_Adm2:
+    GID: AFG.15.9_1
+    admin_name: Panjwayi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.16_1_Adm1:
+    GID: AFG.16_1
+    admin_name: Kapisa
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.16.1_1_Adm2:
+    GID: AFG.16.1_1
+    admin_name: Alasay
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.16.2_1_Adm2:
+    GID: AFG.16.2_1
+    admin_name: Kohband
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.16.3_1_Adm2:
+    GID: AFG.16.3_1
+    admin_name: Kohistan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.16.4_1_Adm2:
+    GID: AFG.16.4_1
+    admin_name: Mahmud Raqi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.16.5_1_Adm2:
+    GID: AFG.16.5_1
+    admin_name: Nijrab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.16.6_1_Adm2:
+    GID: AFG.16.6_1
+    admin_name: Tagab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17_1_Adm1:
+    GID: AFG.17_1
+    admin_name: Khost
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.17.1_1_Adm2:
+    GID: AFG.17.1_1
+    admin_name: Bak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.10_1_Adm2:
+    GID: AFG.17.10_1
+    admin_name: Spera
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.11_1_Adm2:
+    GID: AFG.17.11_1
+    admin_name: Tani
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.12_1_Adm2:
+    GID: AFG.17.12_1
+    admin_name: Tere Zayi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.2_1_Adm2:
+    GID: AFG.17.2_1
+    admin_name: Gurbuz
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.3_1_Adm2:
+    GID: AFG.17.3_1
+    admin_name: Jaji Maydan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.4_1_Adm2:
+    GID: AFG.17.4_1
+    admin_name: Khost (Matun)
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.5_1_Adm2:
+    GID: AFG.17.5_1
+    admin_name: Mando Zayi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.6_1_Adm2:
+    GID: AFG.17.6_1
+    admin_name: Musa Khel
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.7_1_Adm2:
+    GID: AFG.17.7_1
+    admin_name: Nadir Shah Kot
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.8_1_Adm2:
+    GID: AFG.17.8_1
+    admin_name: Qalandar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.17.9_1_Adm2:
+    GID: AFG.17.9_1
+    admin_name: Sabari
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18_1_Adm1:
+    GID: AFG.18_1
+    admin_name: Kunar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.18.1_1_Adm2:
+    GID: AFG.18.1_1
+    admin_name: Asad abad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.10_1_Adm2:
+    GID: AFG.18.10_1
+    admin_name: Narang Wa Badil
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.11_1_Adm2:
+    GID: AFG.18.11_1
+    admin_name: Nurgal
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.12_1_Adm2:
+    GID: AFG.18.12_1
+    admin_name: Sirkanay
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.2_1_Adm2:
+    GID: AFG.18.2_1
+    admin_name: Bar Kunar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.3_1_Adm2:
+    GID: AFG.18.3_1
+    admin_name: Chapa Dara
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.4_1_Adm2:
+    GID: AFG.18.4_1
+    admin_name: Chawkay
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.5_1_Adm2:
+    GID: AFG.18.5_1
+    admin_name: Dangam
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.6_1_Adm2:
+    GID: AFG.18.6_1
+    admin_name: Dara-i-Pech
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.7_1_Adm2:
+    GID: AFG.18.7_1
+    admin_name: Khas Kunar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.8_1_Adm2:
+    GID: AFG.18.8_1
+    admin_name: Marwara
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.18.9_1_Adm2:
+    GID: AFG.18.9_1
+    admin_name: Nali
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.19_1_Adm1:
+    GID: AFG.19_1
+    admin_name: Kunduz
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.19.1_1_Adm2:
+    GID: AFG.19.1_1
+    admin_name: Ali abad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.19.2_1_Adm2:
+    GID: AFG.19.2_1
+    admin_name: Char Dara
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.19.3_1_Adm2:
+    GID: AFG.19.3_1
+    admin_name: Dashti Archi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.19.4_1_Adm2:
+    GID: AFG.19.4_1
+    admin_name: Hazrati Imam
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.19.5_1_Adm2:
+    GID: AFG.19.5_1
+    admin_name: Khan Abad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.19.6_1_Adm2:
+    GID: AFG.19.6_1
+    admin_name: Kunduz
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.19.7_1_Adm2:
+    GID: AFG.19.7_1
+    admin_name: Qala-I-Zal
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.2_1_Adm1:
+    GID: AFG.2_1
+    admin_name: Badghis
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.2.1_1_Adm2:
+    GID: AFG.2.1_1
+    admin_name: Ab Kamari
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.2.2_1_Adm2:
+    GID: AFG.2.2_1
+    admin_name: Ghormach
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.2.3_1_Adm2:
+    GID: AFG.2.3_1
+    admin_name: Jawand
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.2.4_1_Adm2:
+    GID: AFG.2.4_1
+    admin_name: Muqur
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.2.5_1_Adm2:
+    GID: AFG.2.5_1
+    admin_name: Murghab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.2.6_1_Adm2:
+    GID: AFG.2.6_1
+    admin_name: Qadis
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.2.7_1_Adm2:
+    GID: AFG.2.7_1
+    admin_name: Qala-I-Naw
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.20_1_Adm1:
+    GID: AFG.20_1
+    admin_name: Laghman
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.20.1_1_Adm2:
+    GID: AFG.20.1_1
+    admin_name: Alingar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.20.2_1_Adm2:
+    GID: AFG.20.2_1
+    admin_name: Alishing
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.20.3_1_Adm2:
+    GID: AFG.20.3_1
+    admin_name: Dawlat Shah
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.20.4_1_Adm2:
+    GID: AFG.20.4_1
+    admin_name: Mihtarlam
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.20.5_1_Adm2:
+    GID: AFG.20.5_1
+    admin_name: Qarghayi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.21_1_Adm1:
+    GID: AFG.21_1
+    admin_name: Logar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.21.1_1_Adm2:
+    GID: AFG.21.1_1
+    admin_name: Baraki Barak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.21.2_1_Adm2:
+    GID: AFG.21.2_1
+    admin_name: Charkh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.21.3_1_Adm2:
+    GID: AFG.21.3_1
+    admin_name: Khushi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.21.4_1_Adm2:
+    GID: AFG.21.4_1
+    admin_name: Muhammad Agha
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.21.5_1_Adm2:
+    GID: AFG.21.5_1
+    admin_name: Puli Alam
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22_1_Adm1:
+    GID: AFG.22_1
+    admin_name: Nangarhar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.22.1_1_Adm2:
+    GID: AFG.22.1_1
+    admin_name: Achin
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.10_1_Adm2:
+    GID: AFG.22.10_1
+    admin_name: Kama
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.11_1_Adm2:
+    GID: AFG.22.11_1
+    admin_name: Khogyani
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.12_1_Adm2:
+    GID: AFG.22.12_1
+    admin_name: Kuz Kunar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.13_1_Adm2:
+    GID: AFG.22.13_1
+    admin_name: Lal Pur
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.14_1_Adm2:
+    GID: AFG.22.14_1
+    admin_name: Muhmand Dara
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.15_1_Adm2:
+    GID: AFG.22.15_1
+    admin_name: Nazyan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.16_1_Adm2:
+    GID: AFG.22.16_1
+    admin_name: Pachir Wa Agam
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.17_1_Adm2:
+    GID: AFG.22.17_1
+    admin_name: Rodat
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.18_1_Adm2:
+    GID: AFG.22.18_1
+    admin_name: Sherzad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.19_1_Adm2:
+    GID: AFG.22.19_1
+    admin_name: Shinwar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.2_1_Adm2:
+    GID: AFG.22.2_1
+    admin_name: Bati Kot
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.20_1_Adm2:
+    GID: AFG.22.20_1
+    admin_name: Surkh Rod
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.3_1_Adm2:
+    GID: AFG.22.3_1
+    admin_name: Chaparhar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.4_1_Adm2:
+    GID: AFG.22.4_1
+    admin_name: Dara-I-Nur
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.5_1_Adm2:
+    GID: AFG.22.5_1
+    admin_name: Dih Bala
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.6_1_Adm2:
+    GID: AFG.22.6_1
+    admin_name: Dur Baba
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.7_1_Adm2:
+    GID: AFG.22.7_1
+    admin_name: Goshta
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.8_1_Adm2:
+    GID: AFG.22.8_1
+    admin_name: Hisarak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.22.9_1_Adm2:
+    GID: AFG.22.9_1
+    admin_name: Jalal abad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.23_1_Adm1:
+    GID: AFG.23_1
+    admin_name: Nimroz
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.23.1_1_Adm2:
+    GID: AFG.23.1_1
+    admin_name: Chakhansur
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.23.2_1_Adm2:
+    GID: AFG.23.2_1
+    admin_name: Char Burjak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.23.3_1_Adm2:
+    GID: AFG.23.3_1
+    admin_name: Kang
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.23.4_1_Adm2:
+    GID: AFG.23.4_1
+    admin_name: Khash Rod
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.23.5_1_Adm2:
+    GID: AFG.23.5_1
+    admin_name: Zaranj
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.24_1_Adm1:
+    GID: AFG.24_1
+    admin_name: Nuristan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.24.1_1_Adm2:
+    GID: AFG.24.1_1
+    admin_name: Bargi Matal
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.24.2_1_Adm2:
+    GID: AFG.24.2_1
+    admin_name: Kamdesh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.24.3_1_Adm2:
+    GID: AFG.24.3_1
+    admin_name: Mandol
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.24.4_1_Adm2:
+    GID: AFG.24.4_1
+    admin_name: Nuristan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.24.5_1_Adm2:
+    GID: AFG.24.5_1
+    admin_name: Wama
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.24.6_1_Adm2:
+    GID: AFG.24.6_1
+    admin_name: Waygal
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25_1_Adm1:
+    GID: AFG.25_1
+    admin_name: Paktika
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.25.1_1_Adm2:
+    GID: AFG.25.1_1
+    admin_name: Burmul
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.10_1_Adm2:
+    GID: AFG.25.10_1
+    admin_name: Sharan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.11_1_Adm2:
+    GID: AFG.25.11_1
+    admin_name: Urgun
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.12_1_Adm2:
+    GID: AFG.25.12_1
+    admin_name: Wazakhwa
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.13_1_Adm2:
+    GID: AFG.25.13_1
+    admin_name: Wolmamay
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.14_1_Adm2:
+    GID: AFG.25.14_1
+    admin_name: Zarghun Shahr
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.15_1_Adm2:
+    GID: AFG.25.15_1
+    admin_name: Ziluk
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.2_1_Adm2:
+    GID: AFG.25.2_1
+    admin_name: Dila
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.3_1_Adm2:
+    GID: AFG.25.3_1
+    admin_name: Gayan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.4_1_Adm2:
+    GID: AFG.25.4_1
+    admin_name: Gomal
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.5_1_Adm2:
+    GID: AFG.25.5_1
+    admin_name: Mata Khan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.6_1_Adm2:
+    GID: AFG.25.6_1
+    admin_name: Nika
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.7_1_Adm2:
+    GID: AFG.25.7_1
+    admin_name: Omna
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.8_1_Adm2:
+    GID: AFG.25.8_1
+    admin_name: Sar Hawza
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.25.9_1_Adm2:
+    GID: AFG.25.9_1
+    admin_name: Sarobi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26_1_Adm1:
+    GID: AFG.26_1
+    admin_name: Paktya
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.26.1_1_Adm2:
+    GID: AFG.26.1_1
+    admin_name: Azro
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.10_1_Adm2:
+    GID: AFG.26.10_1
+    admin_name: Shamul
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.11_1_Adm2:
+    GID: AFG.26.11_1
+    admin_name: Shwak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.12_1_Adm2:
+    GID: AFG.26.12_1
+    admin_name: Zurmat
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.2_1_Adm2:
+    GID: AFG.26.2_1
+    admin_name: Chamkani
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.3_1_Adm2:
+    GID: AFG.26.3_1
+    admin_name: Dand Wa Patan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.4_1_Adm2:
+    GID: AFG.26.4_1
+    admin_name: Gardez
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.5_1_Adm2:
+    GID: AFG.26.5_1
+    admin_name: Jadran
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.6_1_Adm2:
+    GID: AFG.26.6_1
+    admin_name: Jaji
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.7_1_Adm2:
+    GID: AFG.26.7_1
+    admin_name: Jani Khel
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.8_1_Adm2:
+    GID: AFG.26.8_1
+    admin_name: Lija Mangal
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.26.9_1_Adm2:
+    GID: AFG.26.9_1
+    admin_name: Sayid Karam
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.27_1_Adm1:
+    GID: AFG.27_1
+    admin_name: Panjshir
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.27.1_1_Adm2:
+    GID: AFG.27.1_1
+    admin_name: Hisa-I-Awali Panjsher
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.27.2_1_Adm2:
+    GID: AFG.27.2_1
+    admin_name: Hisa-I-Duwum Panjsher
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.27.3_1_Adm2:
+    GID: AFG.27.3_1
+    admin_name: Panjsher
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.28_1_Adm1:
+    GID: AFG.28_1
+    admin_name: Parwan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.28.1_1_Adm2:
+    GID: AFG.28.1_1
+    admin_name: Bagram
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.28.2_1_Adm2:
+    GID: AFG.28.2_1
+    admin_name: Chaharikar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.28.3_1_Adm2:
+    GID: AFG.28.3_1
+    admin_name: Ghorband
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.28.4_1_Adm2:
+    GID: AFG.28.4_1
+    admin_name: Jabalussaraj
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.28.5_1_Adm2:
+    GID: AFG.28.5_1
+    admin_name: Kohi Safi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.28.6_1_Adm2:
+    GID: AFG.28.6_1
+    admin_name: Salang
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.28.7_1_Adm2:
+    GID: AFG.28.7_1
+    admin_name: Shekh Ali
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.28.8_1_Adm2:
+    GID: AFG.28.8_1
+    admin_name: Shinwari
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.28.9_1_Adm2:
+    GID: AFG.28.9_1
+    admin_name: Surkhi Parsa
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.29_1_Adm1:
+    GID: AFG.29_1
+    admin_name: Samangan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.29.1_1_Adm2:
+    GID: AFG.29.1_1
+    admin_name: Aybak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.29.2_1_Adm2:
+    GID: AFG.29.2_1
+    admin_name: Dara-i-Suf
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.29.3_1_Adm2:
+    GID: AFG.29.3_1
+    admin_name: Hazrati Sultan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.29.4_1_Adm2:
+    GID: AFG.29.4_1
+    admin_name: Khuram Wa Sarbagh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.29.5_1_Adm2:
+    GID: AFG.29.5_1
+    admin_name: Royi Du Ab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3_1_Adm1:
+    GID: AFG.3_1
+    admin_name: Baghlan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.3.1_1_Adm2:
+    GID: AFG.3.1_1
+    admin_name: Andarab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.10_1_Adm2:
+    GID: AFG.3.10_1
+    admin_name: Nahrin
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.11_1_Adm2:
+    GID: AFG.3.11_1
+    admin_name: Puli Khumri
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.12_1_Adm2:
+    GID: AFG.3.12_1
+    admin_name: Tala Wa Barfak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.2_1_Adm2:
+    GID: AFG.3.2_1
+    admin_name: Baghlan City
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.3_1_Adm2:
+    GID: AFG.3.3_1
+    admin_name: Baghlani Jadid
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.4_1_Adm2:
+    GID: AFG.3.4_1
+    admin_name: Burka
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.5_1_Adm2:
+    GID: AFG.3.5_1
+    admin_name: Dahana-I-Ghori
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.6_1_Adm2:
+    GID: AFG.3.6_1
+    admin_name: Doshi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.7_1_Adm2:
+    GID: AFG.3.7_1
+    admin_name: Kahmard
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.8_1_Adm2:
+    GID: AFG.3.8_1
+    admin_name: Khinjan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.3.9_1_Adm2:
+    GID: AFG.3.9_1
+    admin_name: Khost Wa Firing
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.30_1_Adm1:
+    GID: AFG.30_1
+    admin_name: Sari Pul
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.30.1_1_Adm2:
+    GID: AFG.30.1_1
+    admin_name: Balkhab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.30.2_1_Adm2:
+    GID: AFG.30.2_1
+    admin_name: Kohistanat
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.30.3_1_Adm2:
+    GID: AFG.30.3_1
+    admin_name: Sangcharak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.30.4_1_Adm2:
+    GID: AFG.30.4_1
+    admin_name: Sar-i-Pul City
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.30.5_1_Adm2:
+    GID: AFG.30.5_1
+    admin_name: Sayyad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.30.6_1_Adm2:
+    GID: AFG.30.6_1
+    admin_name: Sozma Qala
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31_1_Adm1:
+    GID: AFG.31_1
+    admin_name: Takhar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.31.1_1_Adm2:
+    GID: AFG.31.1_1
+    admin_name: Bangi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.10_1_Adm2:
+    GID: AFG.31.10_1
+    admin_name: Taluqan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.11_1_Adm2:
+    GID: AFG.31.11_1
+    admin_name: Warsaj
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.12_1_Adm2:
+    GID: AFG.31.12_1
+    admin_name: Yangi Qala
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.2_1_Adm2:
+    GID: AFG.31.2_1
+    admin_name: Chah Ab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.3_1_Adm2:
+    GID: AFG.31.3_1
+    admin_name: Chal
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.4_1_Adm2:
+    GID: AFG.31.4_1
+    admin_name: Darqad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.5_1_Adm2:
+    GID: AFG.31.5_1
+    admin_name: Farkhar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.6_1_Adm2:
+    GID: AFG.31.6_1
+    admin_name: Ishkamish
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.7_1_Adm2:
+    GID: AFG.31.7_1
+    admin_name: Kalafgan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.8_1_Adm2:
+    GID: AFG.31.8_1
+    admin_name: Khwaja Ghar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.31.9_1_Adm2:
+    GID: AFG.31.9_1
+    admin_name: Rustaq
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.32_1_Adm1:
+    GID: AFG.32_1
+    admin_name: Uruzgan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.32.1_1_Adm2:
+    GID: AFG.32.1_1
+    admin_name: Chora
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.32.2_1_Adm2:
+    GID: AFG.32.2_1
+    admin_name: Dihrawud
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.32.3_1_Adm2:
+    GID: AFG.32.3_1
+    admin_name: Khas Uruzgan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.32.4_1_Adm2:
+    GID: AFG.32.4_1
+    admin_name: Nesh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.32.5_1_Adm2:
+    GID: AFG.32.5_1
+    admin_name: Shahidi Hasas
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.32.6_1_Adm2:
+    GID: AFG.32.6_1
+    admin_name: Tirin Kot
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.33_1_Adm1:
+    GID: AFG.33_1
+    admin_name: Wardak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.33.1_1_Adm2:
+    GID: AFG.33.1_1
+    admin_name: Chak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.33.2_1_Adm2:
+    GID: AFG.33.2_1
+    admin_name: Daymirdad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.33.3_1_Adm2:
+    GID: AFG.33.3_1
+    admin_name: Hisa-i-Awali Bihsud
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.33.4_1_Adm2:
+    GID: AFG.33.4_1
+    admin_name: Jalrez
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.33.5_1_Adm2:
+    GID: AFG.33.5_1
+    admin_name: Markazi Bihsud
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.33.6_1_Adm2:
+    GID: AFG.33.6_1
+    admin_name: Maydan Shahr
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.33.7_1_Adm2:
+    GID: AFG.33.7_1
+    admin_name: Nirkh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.33.8_1_Adm2:
+    GID: AFG.33.8_1
+    admin_name: Sayid Abad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.34_1_Adm1:
+    GID: AFG.34_1
+    admin_name: Zabul
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.34.1_1_Adm2:
+    GID: AFG.34.1_1
+    admin_name: Arghandab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.34.2_1_Adm2:
+    GID: AFG.34.2_1
+    admin_name: Atghar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.34.3_1_Adm2:
+    GID: AFG.34.3_1
+    admin_name: Daychopan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.34.4_1_Adm2:
+    GID: AFG.34.4_1
+    admin_name: Mizan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.34.5_1_Adm2:
+    GID: AFG.34.5_1
+    admin_name: Qalat
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.34.6_1_Adm2:
+    GID: AFG.34.6_1
+    admin_name: Shahjoy
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.34.7_1_Adm2:
+    GID: AFG.34.7_1
+    admin_name: Shamul zayi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.34.8_1_Adm2:
+    GID: AFG.34.8_1
+    admin_name: Shinkay
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.34.9_1_Adm2:
+    GID: AFG.34.9_1
+    admin_name: Tarnak Wa Jaldak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4_1_Adm1:
+    GID: AFG.4_1
+    admin_name: Balkh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.4.1_1_Adm2:
+    GID: AFG.4.1_1
+    admin_name: Balkh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.10_1_Adm2:
+    GID: AFG.4.10_1
+    admin_name: Marmul
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.11_1_Adm2:
+    GID: AFG.4.11_1
+    admin_name: Mazar-i-Sharif
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.12_1_Adm2:
+    GID: AFG.4.12_1
+    admin_name: Nahri Shahi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.13_1_Adm2:
+    GID: AFG.4.13_1
+    admin_name: Sholgara
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.14_1_Adm2:
+    GID: AFG.4.14_1
+    admin_name: Shortepa
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.2_1_Adm2:
+    GID: AFG.4.2_1
+    admin_name: Char Bolak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.3_1_Adm2:
+    GID: AFG.4.3_1
+    admin_name: Charkint
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.4_1_Adm2:
+    GID: AFG.4.4_1
+    admin_name: Chimtal
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.5_1_Adm2:
+    GID: AFG.4.5_1
+    admin_name: Dawlat abad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.6_1_Adm2:
+    GID: AFG.4.6_1
+    admin_name: Dihdadi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.7_1_Adm2:
+    GID: AFG.4.7_1
+    admin_name: Kaldar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.8_1_Adm2:
+    GID: AFG.4.8_1
+    admin_name: Khulm
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.4.9_1_Adm2:
+    GID: AFG.4.9_1
+    admin_name: Kishindih
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.5_1_Adm1:
+    GID: AFG.5_1
+    admin_name: Bamyan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.5.1_1_Adm2:
+    GID: AFG.5.1_1
+    admin_name: Bamyan City
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.5.2_1_Adm2:
+    GID: AFG.5.2_1
+    admin_name: Panjab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.5.3_1_Adm2:
+    GID: AFG.5.3_1
+    admin_name: Shibar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.5.4_1_Adm2:
+    GID: AFG.5.4_1
+    admin_name: Waras
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.5.5_1_Adm2:
+    GID: AFG.5.5_1
+    admin_name: Yakawlang
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.6_1_Adm1:
+    GID: AFG.6_1
+    admin_name: Daykundi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.6.1_1_Adm2:
+    GID: AFG.6.1_1
+    admin_name: Day Kundi
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.6.2_1_Adm2:
+    GID: AFG.6.2_1
+    admin_name: Gizab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.6.3_1_Adm2:
+    GID: AFG.6.3_1
+    admin_name: Kijran
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.6.4_1_Adm2:
+    GID: AFG.6.4_1
+    admin_name: Shahristan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7_1_Adm1:
+    GID: AFG.7_1
+    admin_name: Farah
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.7.1_1_Adm2:
+    GID: AFG.7.1_1
+    admin_name: Anar Dara
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7.10_1_Adm2:
+    GID: AFG.7.10_1
+    admin_name: Qala-I-Kah
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7.11_1_Adm2:
+    GID: AFG.7.11_1
+    admin_name: Shib Koh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7.2_1_Adm2:
+    GID: AFG.7.2_1
+    admin_name: Bakwa
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7.3_1_Adm2:
+    GID: AFG.7.3_1
+    admin_name: Bala Buluk
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7.4_1_Adm2:
+    GID: AFG.7.4_1
+    admin_name: Farah City
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7.5_1_Adm2:
+    GID: AFG.7.5_1
+    admin_name: Gulistan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7.6_1_Adm2:
+    GID: AFG.7.6_1
+    admin_name: Khaki Safed
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7.7_1_Adm2:
+    GID: AFG.7.7_1
+    admin_name: Lash Wa Juwayn
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7.8_1_Adm2:
+    GID: AFG.7.8_1
+    admin_name: Purchaman
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.7.9_1_Adm2:
+    GID: AFG.7.9_1
+    admin_name: Pusht Rod
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8_1_Adm1:
+    GID: AFG.8_1
+    admin_name: Faryab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.8.1_1_Adm2:
+    GID: AFG.8.1_1
+    admin_name: Almar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.10_1_Adm2:
+    GID: AFG.8.10_1
+    admin_name: Qaram Qol
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.11_1_Adm2:
+    GID: AFG.8.11_1
+    admin_name: Qaysar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.12_1_Adm2:
+    GID: AFG.8.12_1
+    admin_name: Shirin Tagab
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.2_1_Adm2:
+    GID: AFG.8.2_1
+    admin_name: Andkhoy
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.3_1_Adm2:
+    GID: AFG.8.3_1
+    admin_name: Bilchiragh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.4_1_Adm2:
+    GID: AFG.8.4_1
+    admin_name: Dawlat abad
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.5_1_Adm2:
+    GID: AFG.8.5_1
+    admin_name: Khan Char Bagh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.6_1_Adm2:
+    GID: AFG.8.6_1
+    admin_name: Khwaja Sabz Posh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.7_1_Adm2:
+    GID: AFG.8.7_1
+    admin_name: Kohistan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.8_1_Adm2:
+    GID: AFG.8.8_1
+    admin_name: Maymana
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.8.9_1_Adm2:
+    GID: AFG.8.9_1
+    admin_name: Pashtun Kot
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9_1_Adm1:
+    GID: AFG.9_1
+    admin_name: Ghazni
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm1
+  AFG.9.1_1_Adm2:
+    GID: AFG.9.1_1
+    admin_name: Ab Band
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.10_1_Adm2:
+    GID: AFG.9.10_1
+    admin_name: Malistan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.11_1_Adm2:
+    GID: AFG.9.11_1
+    admin_name: Muqur
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.12_1_Adm2:
+    GID: AFG.9.12_1
+    admin_name: Nawa
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.13_1_Adm2:
+    GID: AFG.9.13_1
+    admin_name: Nawur
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.14_1_Adm2:
+    GID: AFG.9.14_1
+    admin_name: Qarabagh
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.15_1_Adm2:
+    GID: AFG.9.15_1
+    admin_name: Zana Khan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.2_1_Adm2:
+    GID: AFG.9.2_1
+    admin_name: Ajristan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.3_1_Adm2:
+    GID: AFG.9.3_1
+    admin_name: Andar
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.4_1_Adm2:
+    GID: AFG.9.4_1
+    admin_name: Dihyak
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.5_1_Adm2:
+    GID: AFG.9.5_1
+    admin_name: Gelan
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.6_1_Adm2:
+    GID: AFG.9.6_1
+    admin_name: Ghazni
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.7_1_Adm2:
+    GID: AFG.9.7_1
+    admin_name: Giro
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.8_1_Adm2:
+    GID: AFG.9.8_1
+    admin_name: Jaghatu
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2
+  AFG.9.9_1_Adm2:
+    GID: AFG.9.9_1
+    admin_name: Jaghuri
+    iso3c: AFG
+    country_name: Afghanistan
+    admin_level: Adm2

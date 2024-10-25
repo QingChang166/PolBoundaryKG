@@ -1,121 +1,127 @@
 concepts:
-  Fiji_Adm0:
-    iso3c: FJI
-    admin_level: Adm0
+  FJI.0_Adm0:
+    GID: FJI
     admin_name: Fiji
-    shapeID: 17002246B39000193830991
-    country_name: Fiji
-  Fiji_Adm1_1:
     iso3c: FJI
-    admin_level: Adm1
-    admin_name: Northern
-    shapeID: 53030831B91072554514863
     country_name: Fiji
-  Fiji_Adm1_2:
-    iso3c: FJI
-    admin_level: Adm1
-    admin_name: Eastern
-    shapeID: 53030831B61477600220974
-    country_name: Fiji
-  Fiji_Adm1_3:
-    iso3c: FJI
-    admin_level: Adm1
+    admin_level: Adm0
+  FJI.1_1_Adm1:
+    GID: FJI.1_1
     admin_name: Central
-    shapeID: 53030831B39644845067980
-    country_name: Fiji
-  Fiji_Adm1_4:
     iso3c: FJI
+    country_name: Fiji
     admin_level: Adm1
-    admin_name: Western
-    shapeID: 53030831B88292306460023
-    country_name: Fiji
-  Fiji_Adm2_1:
-    iso3c: FJI
-    admin_level: Adm2
-    admin_name: Ba
-    shapeID: 14151628B98370545668292
-    country_name: Fiji
-  Fiji_Adm2_10:
-    iso3c: FJI
-    admin_level: Adm2
-    admin_name: Kadavu
-    shapeID: 14151628B61046117406534
-    country_name: Fiji
-  Fiji_Adm2_11:
-    iso3c: FJI
-    admin_level: Adm2
-    admin_name: Lau
-    shapeID: 14151628B80423492752803
-    country_name: Fiji
-  Fiji_Adm2_12:
-    iso3c: FJI
-    admin_level: Adm2
-    admin_name: Lomaiviti
-    shapeID: 14151628B20319301670654
-    country_name: Fiji
-  Fiji_Adm2_13:
-    iso3c: FJI
-    admin_level: Adm2
-    admin_name: Macuata
-    shapeID: 14151628B42533076410957
-    country_name: Fiji
-  Fiji_Adm2_14:
-    iso3c: FJI
-    admin_level: Adm2
-    admin_name: Nadroga-Navosa
-    shapeID: 14151628B53702400461405
-    country_name: Fiji
-  Fiji_Adm2_15:
-    iso3c: FJI
-    admin_level: Adm2
+  FJI.1.1_1_Adm2:
+    GID: FJI.1.1_1
     admin_name: Naitasiri
-    shapeID: 14151628B8492423103487
-    country_name: Fiji
-  Fiji_Adm2_2:
     iso3c: FJI
+    country_name: Fiji
     admin_level: Adm2
+  FJI.1.2_1_Adm2:
+    GID: FJI.1.2_1
     admin_name: Namosi
-    shapeID: 14151628B28251361437248
-    country_name: Fiji
-  Fiji_Adm2_3:
     iso3c: FJI
-    admin_level: Adm2
-    admin_name: Ra
-    shapeID: 14151628B53541640625043
     country_name: Fiji
-  Fiji_Adm2_4:
-    iso3c: FJI
     admin_level: Adm2
+  FJI.1.3_1_Adm2:
+    GID: FJI.1.3_1
     admin_name: Rewa
-    shapeID: 14151628B39642918357252
-    country_name: Fiji
-  Fiji_Adm2_5:
     iso3c: FJI
+    country_name: Fiji
     admin_level: Adm2
+  FJI.1.4_1_Adm2:
+    GID: FJI.1.4_1
     admin_name: Serua
-    shapeID: 14151628B68154180840071
-    country_name: Fiji
-  Fiji_Adm2_6:
     iso3c: FJI
+    country_name: Fiji
     admin_level: Adm2
+  FJI.1.5_1_Adm2:
+    GID: FJI.1.5_1
     admin_name: Tailevu
-    shapeID: 14151628B48978228339800
-    country_name: Fiji
-  Fiji_Adm2_7:
     iso3c: FJI
-    admin_level: Adm2
-    admin_name: Rotuma
-    shapeID: 14151628B71764118664060
     country_name: Fiji
-  Fiji_Adm2_8:
-    iso3c: FJI
     admin_level: Adm2
+  FJI.2_1_Adm1:
+    GID: FJI.2_1
+    admin_name: Eastern
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm1
+  FJI.2.1_1_Adm2:
+    GID: FJI.2.1_1
+    admin_name: Kadavu
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm2
+  FJI.2.2_1_Adm2:
+    GID: FJI.2.2_1
+    admin_name: Lau
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm2
+  FJI.2.3_1_Adm2:
+    GID: FJI.2.3_1
+    admin_name: Lomaiviti
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm2
+  FJI.3_1_Adm1:
+    GID: FJI.3_1
+    admin_name: Northern
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm1
+  FJI.3.1_1_Adm2:
+    GID: FJI.3.1_1
     admin_name: Bua
-    shapeID: 14151628B59272471160482
-    country_name: Fiji
-  Fiji_Adm2_9:
     iso3c: FJI
-    admin_level: Adm2
-    admin_name: Cakaudrove
-    shapeID: 14151628B95966095088914
     country_name: Fiji
+    admin_level: Adm2
+  FJI.3.2_1_Adm2:
+    GID: FJI.3.2_1
+    admin_name: Cakaudrove
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm2
+  FJI.3.3_1_Adm2:
+    GID: FJI.3.3_1
+    admin_name: Macuata
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm2
+  FJI.4_1_Adm1:
+    GID: FJI.4_1
+    admin_name: Rotuma
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm1
+  FJI.4.1_1_Adm2:
+    GID: FJI.4.1_1
+    admin_name: Rotuma
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm2
+  FJI.5_1_Adm1:
+    GID: FJI.5_1
+    admin_name: Western
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm1
+  FJI.5.1_1_Adm2:
+    GID: FJI.5.1_1
+    admin_name: Ba
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm2
+  FJI.5.2_1_Adm2:
+    GID: FJI.5.2_1
+    admin_name: Nadroga/Navosa
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm2
+  FJI.5.3_1_Adm2:
+    GID: FJI.5.3_1
+    admin_name: Ra
+    iso3c: FJI
+    country_name: Fiji
+    admin_level: Adm2

@@ -1,873 +1,1260 @@
 concepts:
-  AbyeiAdm0:
-    iso3c: '111'
-    country_name: Abyei
-    continent: Africa
-  AfghanistanAdm0:
-    iso3c: AFG
+  AfricaContinent:
+    Continent_name: Africa
+  AntarcticaContinent:
+    Continent_name: Antarctica
+  AsiaContinent:
+    Continent_name: Asia
+  EuropeContinent:
+    Continent_name: Europe
+  NorthAmericaContinent:
+    Continent_name: North America
+  OceaniaContinent:
+    Continent_name: Oceania
+  SouthAmericaContinent:
+    Continent_name: South America
+  ABW.0_Adm0:
+    GID: ABW
+    country_name: Aruba
+    continents: North America
+    iso3c: ABW
+  AFG.0_Adm0:
+    GID: AFG
     country_name: Afghanistan
-    continent: AsiaContinent
-  Aksai ChinAdm0:
-    iso3c: '112'
-    country_name: Aksai Chin
-    continent: Asia
-  AlbaniaAdm0:
-    iso3c: ALB
-    country_name: Albania
-    continent: EuropeContinent
-  AlgeriaAdm0:
-    iso3c: DZA
-    country_name: Algeria
-    continent: AfricaContinent
-  AndorraAdm0:
-    iso3c: AND
-    country_name: Andorra
-    continent: EuropeContinent
-  AngolaAdm0:
-    iso3c: AGO
+    continents: Asia
+    iso3c: AFG
+  AGO.0_Adm0:
+    GID: AGO
     country_name: Angola
-    continent: AfricaContinent
-  AntarcticaAdm0:
-    iso3c: ATA
-    country_name: Antarctica
-    continent: Antarctica
-  Antigua&BarbudaAdm0:
-    iso3c: ATG
-    country_name: Antigua&Barbuda
-    continent: NorthAmericaContinent
-  ArgentinaAdm0:
-    iso3c: ARG
-    country_name: Argentina
-    continent: SouthAmericaContinent
-  ArmeniaAdm0:
-    iso3c: ARM
-    country_name: Armenia
-    continent: AsiaContinent
-  AustraliaAdm0:
-    iso3c: AUS
-    country_name: Australia
-    continent: OceaniaContinent
-  AustriaAdm0:
-    iso3c: AUT
-    country_name: Austria
-    continent: EuropeContinent
-  AzerbaijanAdm0:
-    iso3c: AZE
-    country_name: Azerbaijan
-    continent: AsiaContinent
-  BahamasAdm0:
-    iso3c: BHS
-    country_name: Bahamas
-    continent: NorthAmericaContinent
-  BahrainAdm0:
-    iso3c: BHR
-    country_name: Bahrain
-    continent: AsiaContinent
-  BangladeshAdm0:
-    iso3c: BGD
-    country_name: Bangladesh
-    continent: AsiaContinent
-  BarbadosAdm0:
-    iso3c: BRB
-    country_name: Barbados
-    continent: NorthAmericaContinent
-  BelarusAdm0:
-    iso3c: BLR
-    country_name: Belarus
-    continent: EuropeContinent
-  BelgiumAdm0:
-    iso3c: BEL
-    country_name: Belgium
-    continent: EuropeContinent
-  BelizeAdm0:
-    iso3c: BLZ
-    country_name: Belize
-    continent: NorthAmericaContinent
-  BeninAdm0:
-    iso3c: BEN
-    country_name: Benin
-    continent: AfricaContinent
-  BhutanAdm0:
-    iso3c: BTN
-    country_name: Bhutan
-    continent: AsiaContinent
-  BoliviaAdm0:
-    iso3c: BOL
-    country_name: Bolivia
-    continent: SouthAmericaContinent
-  BosniaandHerzegovinaAdm0:
-    iso3c: BIH
-    country_name: BosniaandHerzegovina
-    continent: EuropeContinent
-  BotswanaAdm0:
-    iso3c: BWA
-    country_name: Botswana
-    continent: AfricaContinent
-  BrazilAdm0:
-    iso3c: BRA
-    country_name: Brazil
-    continent: SouthAmericaContinent
-  BruneiAdm0:
-    iso3c: BRN
-    country_name: Brunei
-    continent: AsiaContinent
-  BulgariaAdm0:
-    iso3c: BGR
-    country_name: Bulgaria
-    continent: EuropeContinent
-  BurkinaFasoAdm0:
-    iso3c: BFA
-    country_name: BurkinaFaso
-    continent: AfricaContinent
-  BurundiAdm0:
-    iso3c: BDI
-    country_name: Burundi
-    continent: AfricaContinent
-  CambodiaAdm0:
-    iso3c: KHM
-    country_name: Cambodia
-    continent: AsiaContinent
-  CameroonAdm0:
-    iso3c: CMR
-    country_name: Cameroon
-    continent: AfricaContinent
-  CanadaAdm0:
-    iso3c: CAN
-    country_name: Canada
-    continent: NorthAmericaContinent
-  CapeVerdeAdm0:
-    iso3c: CPV
-    country_name: CapeVerde
-    continent: AfricaContinent
-  CentralAfricanRepublicAdm0:
-    iso3c: CAF
-    country_name: CentralAfricanRepublic
-    continent: AfricaContinent
-  CH-INAdm0:
-    iso3c: '113'
-    country_name: CH-IN
-    continent: Asia
-  ChadAdm0:
-    iso3c: TCD
-    country_name: Chad
-    continent: AfricaContinent
-  ChileAdm0:
-    iso3c: CHL
-    country_name: Chile
-    continent: SouthAmericaContinent
-  ChinaAdm0:
-    iso3c: CHN
-    country_name: China
-    continent: AsiaContinent
-  ColombiaAdm0:
-    iso3c: COL
-    country_name: Colombia
-    continent: SouthAmericaContinent
-  ComorosAdm0:
-    iso3c: COM
-    country_name: Comoros
-    continent: AfricaContinent
-  CongoAdm0:
-    iso3c: COG
-    country_name: Congo
-    continent: AfricaContinent
-  CostaRicaAdm0:
-    iso3c: CRI
-    country_name: CostaRica
-    continent: NorthAmericaContinent
-  CroatiaAdm0:
-    iso3c: HRV
-    country_name: Croatia
-    continent: EuropeContinent
-  CubaAdm0:
-    iso3c: CUB
-    country_name: Cuba
-    continent: NorthAmericaContinent
-  CyprusAdm0:
-    iso3c: CYP
-    country_name: Cyprus
-    continent: EuropeContinent
-  CzechRepublicAdm0:
-    iso3c: CZE
-    country_name: CzechRepublic
-    continent: EuropeContinent
-  DemchokAdm0:
-    iso3c: '114'
-    country_name: Demchok
-    continent: Asia
-  DemocraticRepublicoftheCongoAdm0:
-    iso3c: COD
-    country_name: DemocraticRepublicoftheCongo
-    continent: AfricaContinent
-  DenmarkAdm0:
-    iso3c: DNK
-    country_name: Denmark
-    continent: EuropeContinent
-  DjiboutiAdm0:
-    iso3c: DJI
-    country_name: Djibouti
-    continent: AfricaContinent
-  DominicaAdm0:
-    iso3c: DMA
-    country_name: Dominica
-    continent: NorthAmericaContinent
-  DominicanRepublicAdm0:
-    iso3c: DOM
-    country_name: DominicanRepublic
-    continent: NorthAmericaContinent
-  DragonjaAdm0:
-    iso3c: '115'
-    country_name: Dragonja
-    continent: Europe
-  Dramana-ShakatoeAdm0:
-    iso3c: '116'
-    country_name: Dramana-Shakatoe
-    continent: Asia
-  EastTimorAdm0:
-    iso3c: TLS
-    country_name: EastTimor
-    continent: AsiaContinent
-  EcuadorAdm0:
-    iso3c: ECU
-    country_name: Ecuador
-    continent: SouthAmericaContinent
-  EgyptAdm0:
-    iso3c: EGY
-    country_name: Egypt
-    continent: AfricaContinent
-  ElSalvadorAdm0:
-    iso3c: SLV
-    country_name: ElSalvador
-    continent: NorthAmericaContinent
-  EquatorialGuineaAdm0:
-    iso3c: GNQ
-    country_name: EquatorialGuinea
-    continent: AfricaContinent
-  EritreaAdm0:
-    iso3c: ERI
-    country_name: Eritrea
-    continent: AfricaContinent
-  EstoniaAdm0:
-    iso3c: EST
-    country_name: Estonia
-    continent: EuropeContinent
-  EthiopiaAdm0:
-    iso3c: ETH
-    country_name: Ethiopia
-    continent: AfricaContinent
-  FalklandIslands(UK)Adm0:
-    iso3c: '117'
-    country_name: FalklandIslands(UK)
-    continent: .na.character
-  FederatedStatesofMicronesiaAdm0:
-    iso3c: FSM
-    country_name: FederatedStatesofMicronesia
-    continent: OceaniaContinent
-  FijiAdm0:
-    iso3c: FJI
-    country_name: Fiji
-    continent: OceaniaContinent
-  FinlandAdm0:
-    iso3c: FIN
-    country_name: Finland
-    continent: EuropeContinent
-  FranceAdm0:
-    iso3c: FRA
-    country_name: France
-    continent: EuropeContinent
-  GabonAdm0:
-    iso3c: GAB
-    country_name: Gabon
-    continent: AfricaContinent
-  GambiaAdm0:
-    iso3c: GMB
-    country_name: Gambia
-    continent: AfricaContinent
-  Gaza StripAdm0:
-    iso3c: '118'
-    country_name: Gaza Strip
-    continent: Asia
-  GeorgiaAdm0:
-    iso3c: GEO
-    country_name: Georgia
-    continent: EuropeContinent
-  GermanyAdm0:
-    iso3c: DEU
-    country_name: Germany
-    continent: EuropeContinent
-  GhanaAdm0:
-    iso3c: GHA
-    country_name: Ghana
-    continent: AfricaContinent
-  GreeceAdm0:
-    iso3c: GRC
-    country_name: Greece
-    continent: EuropeContinent
-  GreenlandAdm0:
-    iso3c: GRL
-    country_name: Greenland
-    continent: Europe
-  GrenadaAdm0:
-    iso3c: GRD
-    country_name: Grenada
-    continent: NorthAmericaContinent
-  GuatemalaAdm0:
-    iso3c: GTM
-    country_name: Guatemala
-    continent: NorthAmericaContinent
-  Guinea-BissauAdm0:
-    iso3c: GNB
-    country_name: Guinea-Bissau
-    continent: AfricaContinent
-  GuineaAdm0:
-    iso3c: GIN
-    country_name: Guinea
-    continent: AfricaContinent
-  GuyanaAdm0:
-    iso3c: GUY
-    country_name: Guyana
-    continent: SouthAmericaContinent
-  HaitiAdm0:
-    iso3c: HTI
-    country_name: Haiti
-    continent: NorthAmericaContinent
-  HondurasAdm0:
-    iso3c: HND
-    country_name: Honduras
-    continent: NorthAmericaContinent
-  HungaryAdm0:
-    iso3c: HUN
-    country_name: Hungary
-    continent: EuropeContinent
-  IcelandAdm0:
-    iso3c: ISL
-    country_name: Iceland
-    continent: EuropeContinent
-  IndiaAdm0:
-    iso3c: IND
-    country_name: India
-    continent: AsiaContinent
-  IndonesiaAdm0:
-    iso3c: IDN
-    country_name: Indonesia
-    continent: AsiaContinent
-  IranAdm0:
-    iso3c: IRN
-    country_name: Iran
-    continent: AsiaContinent
-  IraqAdm0:
-    iso3c: IRQ
-    country_name: Iraq
-    continent: AsiaContinent
-  IrelandAdm0:
-    iso3c: IRL
-    country_name: Ireland
-    continent: EuropeContinent
-  Isla BrasileraAdm0:
-    iso3c: '120'
-    country_name: Isla Brasilera
-    continent: South America
-  IsraelAdm0:
-    iso3c: ISR
-    country_name: Israel
-    continent: AsiaContinent
-  ItalyAdm0:
-    iso3c: ITA
-    country_name: Italy
-    continent: EuropeContinent
-  IvoryCoastAdm0:
-    iso3c: CIV
-    country_name: IvoryCoast
-    continent: AfricaContinent
-  JamaicaAdm0:
-    iso3c: JAM
-    country_name: Jamaica
-    continent: NorthAmericaContinent
-  JapanAdm0:
-    iso3c: JPN
-    country_name: Japan
-    continent: AsiaContinent
-  JordanAdm0:
-    iso3c: JOR
-    country_name: Jordan
-    continent: AsiaContinent
-  KalapaniAdm0:
-    iso3c: '119'
-    country_name: Kalapani
-    continent: Asia
-  KazakhstanAdm0:
-    iso3c: KAZ
-    country_name: Kazakhstan
-    continent: AsiaContinent
-  KenyaAdm0:
-    iso3c: KEN
-    country_name: Kenya
-    continent: AfricaContinent
-  KiribatiAdm0:
-    iso3c: KIR
-    country_name: Kiribati
-    continent: OceaniaContinent
-  KosovoAdm0:
-    iso3c: XKX
-    country_name: Kosovo
-    continent: Europe
-  KoualouAdm0:
-    iso3c: '122'
-    country_name: Koualou
-    continent: Africa
-  KuwaitAdm0:
-    iso3c: KWT
-    country_name: Kuwait
-    continent: AsiaContinent
-  KyrgyzstanAdm0:
-    iso3c: KGZ
-    country_name: Kyrgyzstan
-    continent: AsiaContinent
-  LaosAdm0:
-    iso3c: LAO
-    country_name: Laos
-    continent: AsiaContinent
-  LatviaAdm0:
-    iso3c: LVA
-    country_name: Latvia
-    continent: EuropeContinent
-  LebanonAdm0:
-    iso3c: LBN
-    country_name: Lebanon
-    continent: AsiaContinent
-  LesothoAdm0:
-    iso3c: LSO
-    country_name: Lesotho
-    continent: AfricaContinent
-  LiancourtRocksAdm0:
-    iso3c: '123'
-    country_name: LiancourtRocks
-    continent: .na.character
-  LiberiaAdm0:
-    iso3c: LBR
-    country_name: Liberia
-    continent: AfricaContinent
-  LibyaAdm0:
-    iso3c: LBY
-    country_name: Libya
-    continent: AfricaContinent
-  LiechtensteinAdm0:
-    iso3c: LIE
-    country_name: Liechtenstein
-    continent: EuropeContinent
-  LithuaniaAdm0:
-    iso3c: LTU
-    country_name: Lithuania
-    continent: EuropeContinent
-  LuxembourgAdm0:
-    iso3c: LUX
-    country_name: Luxembourg
-    continent: EuropeContinent
-  MacedoniaAdm0:
-    iso3c: MKD
-    country_name: Macedonia
-    continent: EuropeContinent
-  MadagascarAdm0:
-    iso3c: MDG
-    country_name: Madagascar
-    continent: AfricaContinent
-  MalawiAdm0:
-    iso3c: MWI
-    country_name: Malawi
-    continent: AfricaContinent
-  MalaysiaAdm0:
-    iso3c: MYS
-    country_name: Malaysia
-    continent: AsiaContinent
-  MaldivesAdm0:
-    iso3c: MDV
-    country_name: Maldives
-    continent: AsiaContinent
-  MaliAdm0:
-    iso3c: MLI
-    country_name: Mali
-    continent: AfricaContinent
-  MaltaAdm0:
-    iso3c: MLT
-    country_name: Malta
-    continent: EuropeContinent
-  MarshallIslandsAdm0:
-    iso3c: MHL
-    country_name: MarshallIslands
-    continent: OceaniaContinent
-  MauritaniaAdm0:
-    iso3c: MRT
-    country_name: Mauritania
-    continent: AfricaContinent
-  MauritiusAdm0:
-    iso3c: MUS
-    country_name: Mauritius
-    continent: AfricaContinent
-  MexicoAdm0:
-    iso3c: MEX
-    country_name: Mexico
-    continent: NorthAmericaContinent
-  MoldovaAdm0:
-    iso3c: MDA
-    country_name: Moldova
-    continent: EuropeContinent
-  MonacoAdm0:
-    iso3c: MCO
-    country_name: Monaco
-    continent: EuropeContinent
-  MongoliaAdm0:
-    iso3c: MNG
-    country_name: Mongolia
-    continent: AsiaContinent
-  MontenegroAdm0:
-    iso3c: MNE
-    country_name: Montenegro
-    continent: EuropeContinent
-  MoroccoAdm0:
-    iso3c: MAR
-    country_name: Morocco
-    continent: AfricaContinent
-  MozambiqueAdm0:
-    iso3c: MOZ
-    country_name: Mozambique
-    continent: AfricaContinent
-  MyanmarAdm0:
-    iso3c: MMR
-    country_name: Myanmar
-    continent: AsiaContinent
-  NamibiaAdm0:
-    iso3c: NAM
-    country_name: Namibia
-    continent: AfricaContinent
-  NauruAdm0:
-    iso3c: NRU
-    country_name: Nauru
-    continent: OceaniaContinent
-  NepalAdm0:
-    iso3c: NPL
-    country_name: Nepal
-    continent: AsiaContinent
-  NetherlandsAdm0:
-    iso3c: NLD
-    country_name: Netherlands
-    continent: EuropeContinent
-  NewZealandAdm0:
-    iso3c: NZL
-    country_name: NewZealand
-    continent: OceaniaContinent
-  NicaraguaAdm0:
-    iso3c: NIC
-    country_name: Nicaragua
-    continent: NorthAmericaContinent
-  NigerAdm0:
-    iso3c: NER
-    country_name: Niger
-    continent: AfricaContinent
-  NigeriaAdm0:
-    iso3c: NGA
-    country_name: Nigeria
-    continent: AfricaContinent
-  No Man's LandAdm0:
-    iso3c: '124'
-    country_name: No Man's Land
-    continent: Asia
-  NorthKoreaAdm0:
-    iso3c: PRK
-    country_name: NorthKorea
-    continent: AsiaContinent
-  NorwayAdm0:
-    iso3c: NOR
-    country_name: Norway
-    continent: EuropeContinent
-  OmanAdm0:
-    iso3c: OMN
-    country_name: Oman
-    continent: AsiaContinent
-  PakistanAdm0:
-    iso3c: PAK
-    country_name: Pakistan
-    continent: AsiaContinent
-  PalauAdm0:
-    iso3c: PLW
-    country_name: Palau
-    continent: OceaniaContinent
-  PanamaAdm0:
-    iso3c: PAN
-    country_name: Panama
-    continent: NorthAmericaContinent
-  PapalStatesAdm0:
-    iso3c: VAT
-    country_name: PapalStates
-    continent: Europe
-  PapuaNewGuineaAdm0:
-    iso3c: PNG
-    country_name: PapuaNewGuinea
-    continent: OceaniaContinent
-  ParacelIsAdm0:
-    iso3c: '125'
-    country_name: ParacelIs
-    continent: .na.character
-  ParaguayAdm0:
-    iso3c: PRY
-    country_name: Paraguay
-    continent: SouthAmericaContinent
-  PeruAdm0:
-    iso3c: PER
-    country_name: Peru
-    continent: SouthAmericaContinent
-  PhilippinesAdm0:
-    iso3c: PHL
-    country_name: Philippines
-    continent: AsiaContinent
-  PolandAdm0:
-    iso3c: POL
-    country_name: Poland
-    continent: EuropeContinent
-  PortugalAdm0:
-    iso3c: PRT
-    country_name: Portugal
-    continent: EuropeContinent
-  QatarAdm0:
-    iso3c: QAT
-    country_name: Qatar
-    continent: AsiaContinent
-  RomaniaAdm0:
-    iso3c: ROU
-    country_name: Romania
-    continent: EuropeContinent
-  RussiaAdm0:
-    iso3c: RUS
-    country_name: Russia
-    continent: EuropeContinent
-  RwandaAdm0:
-    iso3c: RWA
-    country_name: Rwanda
-    continent: AfricaContinent
-  SamoaAdm0:
-    iso3c: WSM
-    country_name: Samoa
-    continent: OceaniaContinent
-  Sanafir&TiranIs.Adm0:
-    iso3c: '126'
-    country_name: Sanafir&TiranIs.
-    continent: .na.character
-  SanMarinoAdm0:
-    iso3c: SMR
-    country_name: SanMarino
-    continent: EuropeContinent
-  SaoTomeandPrincipeAdm0:
-    iso3c: STP
-    country_name: SaoTomeandPrincipe
-    continent: AfricaContinent
-  SaudiArabiaAdm0:
-    iso3c: SAU
-    country_name: SaudiArabia
-    continent: AsiaContinent
-  SenegalAdm0:
-    iso3c: SEN
-    country_name: Senegal
-    continent: AfricaContinent
-  SenkakusAdm0:
-    iso3c: '127'
-    country_name: Senkakus
-    continent: .na.character
-  SerbiaAdm0:
-    iso3c: SRB
-    country_name: Serbia
-    continent: EuropeContinent
-  SeychellesAdm0:
-    iso3c: SYC
-    country_name: Seychelles
-    continent: AfricaContinent
-  Siachen-SaltoroAdm0:
-    iso3c: '121'
-    country_name: Siachen-Saltoro
-    continent: Asia
-  SierraLeoneAdm0:
-    iso3c: SLE
-    country_name: SierraLeone
-    continent: AfricaContinent
-  SingaporeAdm0:
-    iso3c: SGP
-    country_name: Singapore
-    continent: AsiaContinent
-  SlovakiaAdm0:
-    iso3c: SVK
-    country_name: Slovakia
-    continent: EuropeContinent
-  SloveniaAdm0:
-    iso3c: SVN
-    country_name: Slovenia
-    continent: EuropeContinent
-  SolomonIslandsAdm0:
-    iso3c: SLB
-    country_name: SolomonIslands
-    continent: OceaniaContinent
-  SomaliaAdm0:
-    iso3c: SOM
-    country_name: Somalia
-    continent: AfricaContinent
-  SouthAfricaAdm0:
-    iso3c: ZAF
-    country_name: SouthAfrica
-    continent: AfricaContinent
-  SouthKoreaAdm0:
-    iso3c: KOR
-    country_name: SouthKorea
-    continent: AsiaContinent
-  SouthSudanAdm0:
-    iso3c: SSD
-    country_name: SouthSudan
-    continent: AfricaContinent
-  SpainAdm0:
-    iso3c: ESP
-    country_name: Spain
-    continent: EuropeContinent
-  SpratlyIsAdm0:
-    iso3c: '128'
-    country_name: SpratlyIs
-    continent: .na.character
-  SriLankaAdm0:
-    iso3c: LKA
-    country_name: SriLanka
-    continent: AsiaContinent
-  St.KittsandNevisAdm0:
-    iso3c: KNA
-    country_name: St.KittsandNevis
-    continent: NorthAmericaContinent
-  St.LuciaAdm0:
-    iso3c: LCA
-    country_name: St.Lucia
-    continent: NorthAmericaContinent
-  St.VincentandtheGrenadinesAdm0:
-    iso3c: VCT
-    country_name: St.VincentandtheGrenadines
-    continent: NorthAmericaContinent
-  SudanAdm0:
-    iso3c: SDN
-    country_name: Sudan
-    continent: AfricaContinent
-  SurinameAdm0:
-    iso3c: SUR
-    country_name: Suriname
-    continent: SouthAmericaContinent
-  SwazilandAdm0:
-    iso3c: SWZ
-    country_name: Swaziland
-    continent: AfricaContinent
-  SwedenAdm0:
-    iso3c: SWE
-    country_name: Sweden
-    continent: EuropeContinent
-  SwitzerlandAdm0:
-    iso3c: CHE
-    country_name: Switzerland
-    continent: EuropeContinent
-  SyriaAdm0:
-    iso3c: SYR
-    country_name: Syria
-    continent: AsiaContinent
-  TaiwanAdm0:
-    iso3c: TWN
-    country_name: Taiwan
-    continent: AsiaContinent
-  TajikistanAdm0:
-    iso3c: TJK
-    country_name: Tajikistan
-    continent: AsiaContinent
-  TanzaniaAdm0:
-    iso3c: TZA
-    country_name: Tanzania
-    continent: AfricaContinent
-  ThailandAdm0:
-    iso3c: THA
-    country_name: Thailand
-    continent: AsiaContinent
-  TogoAdm0:
-    iso3c: TGO
-    country_name: Togo
-    continent: AfricaContinent
-  TongaAdm0:
-    iso3c: TON
-    country_name: Tonga
-    continent: OceaniaContinent
-  TrinidadandTobagoAdm0:
-    iso3c: TTO
-    country_name: TrinidadandTobago
-    continent: SouthAmericaContinent
-  TunisiaAdm0:
-    iso3c: TUN
-    country_name: Tunisia
-    continent: AfricaContinent
-  TurkeyAdm0:
-    iso3c: TUR
-    country_name: Turkey
-    continent: EuropeContinent
-  TurkmenistanAdm0:
-    iso3c: TKM
-    country_name: Turkmenistan
-    continent: AsiaContinent
-  TuvaluAdm0:
-    iso3c: TUV
-    country_name: Tuvalu
-    continent: OceaniaContinent
-  UgandaAdm0:
-    iso3c: UGA
-    country_name: Uganda
-    continent: AfricaContinent
-  UkraineAdm0:
-    iso3c: UKR
-    country_name: Ukraine
-    continent: EuropeContinent
-  UnitedArabEmiratesAdm0:
+    continents: Africa
+    iso3c: AGO
+  AIA.0_Adm0:
+    GID: AIA
+    country_name: Anguilla
+    continents: North America
+    iso3c: AIA
+  ALA.0_Adm0:
+    GID: ALA
+    country_name: Åland
+    continents: Europe
+    iso3c: ALA
+  ALB.0_Adm0:
+    GID: ALB
+    country_name: Albania
+    continents: Europe
+    iso3c: ALB
+  AND.0_Adm0:
+    GID: AND
+    country_name: Andorra
+    continents: Europe
+    iso3c: AND
+  ARE.0_Adm0:
+    GID: ARE
+    country_name: United Arab Emirates
+    continents: Asia
     iso3c: ARE
-    country_name: UnitedArabEmirates
-    continent: AsiaContinent
-  UnitedKingdomAdm0:
-    iso3c: GBR
-    country_name: UnitedKingdom
-    continent: EuropeContinent
-  UnitedStatesofAmericaAdm0:
-    iso3c: USA
-    country_name: UnitedStatesofAmerica
-    continent: NorthAmericaContinent
-  UruguayAdm0:
-    iso3c: URY
-    country_name: Uruguay
-    continent: SouthAmericaContinent
-  UzbekistanAdm0:
-    iso3c: UZB
-    country_name: Uzbekistan
-    continent: AsiaContinent
-  VanuatuAdm0:
-    iso3c: VUT
-    country_name: Vanuatu
-    continent: OceaniaContinent
-  VenezuelaAdm0:
-    iso3c: VEN
-    country_name: Venezuela
-    continent: SouthAmericaContinent
-  VietnamAdm0:
-    iso3c: VNM
-    country_name: Vietnam
-    continent: AsiaContinent
-  West BankAdm0:
-    iso3c: '129'
-    country_name: West Bank
-    continent: Asia
-  Western SaharaAdm0:
-    iso3c: ESH
+  ARG.0_Adm0:
+    GID: ARG
+    country_name: Argentina
+    continents: South America
+    iso3c: ARG
+  ARM.0_Adm0:
+    GID: ARM
+    country_name: Armenia
+    continents: Asia
+    iso3c: ARM
+  ASM.0_Adm0:
+    GID: ASM
+    country_name: American Samoa
+    continents: Oceania
+    iso3c: ASM
+  ATA.0_Adm0:
+    GID: ATA
+    country_name: Antarctica
+    continents: Antarctica
+    iso3c: ATA
+  ATF.0_Adm0:
+    GID: ATF
+    country_name: French Southern Territories
+    continents: Antarctica
+    iso3c: ATF
+  ATG.0_Adm0:
+    GID: ATG
+    country_name: Antigua and Barbuda
+    continents: North America
+    iso3c: ATG
+  AUS.0_Adm0:
+    GID: AUS
+    country_name: Australia
+    continents: Oceania
+    iso3c: AUS
+  AUT.0_Adm0:
+    GID: AUT
+    country_name: Austria
+    continents: Europe
+    iso3c: AUT
+  AZE.0_Adm0:
+    GID: AZE
+    country_name: Azerbaijan
+    continents: Asia
+    iso3c: AZE
+  BDI.0_Adm0:
+    GID: BDI
+    country_name: Burundi
+    continents: Africa
+    iso3c: BDI
+  BEL.0_Adm0:
+    GID: BEL
+    country_name: Belgium
+    continents: Europe
+    iso3c: BEL
+  BEN.0_Adm0:
+    GID: BEN
+    country_name: Benin
+    continents: Africa
+    iso3c: BEN
+  BES.0_Adm0:
+    GID: BES
+    country_name: Bonaire, Sint Eustatius and Saba
+    continents: North America
+    iso3c: BES
+  BFA.0_Adm0:
+    GID: BFA
+    country_name: Burkina Faso
+    continents: Africa
+    iso3c: BFA
+  BGD.0_Adm0:
+    GID: BGD
+    country_name: Bangladesh
+    continents: Asia
+    iso3c: BGD
+  BGR.0_Adm0:
+    GID: BGR
+    country_name: Bulgaria
+    continents: Europe
+    iso3c: BGR
+  BHR.0_Adm0:
+    GID: BHR
+    country_name: Bahrain
+    continents: Asia
+    iso3c: BHR
+  BHS.0_Adm0:
+    GID: BHS
+    country_name: Bahamas
+    continents: North America
+    iso3c: BHS
+  BIH.0_Adm0:
+    GID: BIH
+    country_name: Bosnia and Herzegovina
+    continents: Europe
+    iso3c: BIH
+  BLM.0_Adm0:
+    GID: BLM
+    country_name: Saint-Barthélemy
+    continents: North America
+    iso3c: BLM
+  BLR.0_Adm0:
+    GID: BLR
+    country_name: Belarus
+    continents: Europe
+    iso3c: BLR
+  BLZ.0_Adm0:
+    GID: BLZ
+    country_name: Belize
+    continents: North America
+    iso3c: BLZ
+  BMU.0_Adm0:
+    GID: BMU
+    country_name: Bermuda
+    continents: North America
+    iso3c: BMU
+  BOL.0_Adm0:
+    GID: BOL
+    country_name: Bolivia
+    continents: South America
+    iso3c: BOL
+  BRA.0_Adm0:
+    GID: BRA
+    country_name: Brazil
+    continents: South America
+    iso3c: BRA
+  BRB.0_Adm0:
+    GID: BRB
+    country_name: Barbados
+    continents: North America
+    iso3c: BRB
+  BRN.0_Adm0:
+    GID: BRN
+    country_name: Brunei
+    continents: Asia
+    iso3c: BRN
+  BTN.0_Adm0:
+    GID: BTN
+    country_name: Bhutan
+    continents: Asia
+    iso3c: BTN
+  BVT.0_Adm0:
+    GID: BVT
+    country_name: Bouvet Island
+    continents: Antarctica
+    iso3c: BVT
+  BWA.0_Adm0:
+    GID: BWA
+    country_name: Botswana
+    continents: Africa
+    iso3c: BWA
+  CAF.0_Adm0:
+    GID: CAF
+    country_name: Central African Republic
+    continents: Africa
+    iso3c: CAF
+  CAN.0_Adm0:
+    GID: CAN
+    country_name: Canada
+    continents: North America
+    iso3c: CAN
+  CHE.0_Adm0:
+    GID: CHE
+    country_name: Switzerland
+    continents: Europe
+    iso3c: CHE
+  CHL.0_Adm0:
+    GID: CHL
+    country_name: Chile
+    continents: South America
+    iso3c: CHL
+  CHN.0_Adm0:
+    GID: CHN
+    country_name: China
+    continents: Asia
+    iso3c: CHN
+  CIV.0_Adm0:
+    GID: CIV
+    country_name: Côte d'Ivoire
+    continents: Africa
+    iso3c: CIV
+  CMR.0_Adm0:
+    GID: CMR
+    country_name: Cameroon
+    continents: Africa
+    iso3c: CMR
+  COD.0_Adm0:
+    GID: COD
+    country_name: Democratic Republic of the Congo
+    continents: Africa
+    iso3c: COD
+  COG.0_Adm0:
+    GID: COG
+    country_name: Republic of the Congo
+    continents: Africa
+    iso3c: COG
+  COK.0_Adm0:
+    GID: COK
+    country_name: Cook Islands
+    continents: Oceania
+    iso3c: COK
+  COL.0_Adm0:
+    GID: COL
+    country_name: Colombia
+    continents: South America
+    iso3c: COL
+  COM.0_Adm0:
+    GID: COM
+    country_name: Comoros
+    continents: Africa
+    iso3c: COM
+  CPV.0_Adm0:
+    GID: CPV
+    country_name: Cabo Verde
+    continents: Africa
+    iso3c: CPV
+  CRI.0_Adm0:
+    GID: CRI
+    country_name: Costa Rica
+    continents: North America
+    iso3c: CRI
+  CUB.0_Adm0:
+    GID: CUB
+    country_name: Cuba
+    continents: North America
+    iso3c: CUB
+  CUW.0_Adm0:
+    GID: CUW
+    country_name: Curaçao
+    continents: North America
+    iso3c: CUW
+  CXR.0_Adm0:
+    GID: CXR
+    country_name: Christmas Island
+    continents: Asia
+    iso3c: CXR
+  CYM.0_Adm0:
+    GID: CYM
+    country_name: Cayman Islands
+    continents: North America
+    iso3c: CYM
+  CYP.0_Adm0:
+    GID: CYP
+    country_name: Cyprus
+    continents: Europe
+    iso3c: CYP
+  CZE.0_Adm0:
+    GID: CZE
+    country_name: Czechia
+    continents: Europe
+    iso3c: CZE
+  DEU.0_Adm0:
+    GID: DEU
+    country_name: Germany
+    continents: Europe
+    iso3c: DEU
+  DJI.0_Adm0:
+    GID: DJI
+    country_name: Djibouti
+    continents: Africa
+    iso3c: DJI
+  DMA.0_Adm0:
+    GID: DMA
+    country_name: Dominica
+    continents: North America
+    iso3c: DMA
+  DNK.0_Adm0:
+    GID: DNK
+    country_name: Denmark
+    continents: Europe
+    iso3c: DNK
+  DOM.0_Adm0:
+    GID: DOM
+    country_name: Dominican Republic
+    continents: North America
+    iso3c: DOM
+  DZA.0_Adm0:
+    GID: DZA
+    country_name: Algeria
+    continents: Africa
+    iso3c: DZA
+  ECU.0_Adm0:
+    GID: ECU
+    country_name: Ecuador
+    continents: South America
+    iso3c: ECU
+  EGY.0_Adm0:
+    GID: EGY
+    country_name: Egypt
+    continents: Africa
+    iso3c: EGY
+  ERI.0_Adm0:
+    GID: ERI
+    country_name: Eritrea
+    continents: Africa
+    iso3c: ERI
+  ESH.0_Adm0:
+    GID: ESH
     country_name: Western Sahara
-    continent: Africa
-  YemenAdm0:
-    iso3c: YEM
+    continents: Africa
+    iso3c: ESH
+  ESP.0_Adm0:
+    GID: ESP
+    country_name: Spain
+    continents: Europe
+    iso3c: ESP
+  EST.0_Adm0:
+    GID: EST
+    country_name: Estonia
+    continents: Europe
+    iso3c: EST
+  ETH.0_Adm0:
+    GID: ETH
+    country_name: Ethiopia
+    continents: Africa
+    iso3c: ETH
+  FIN.0_Adm0:
+    GID: FIN
+    country_name: Finland
+    continents: Europe
+    iso3c: FIN
+  FJI.0_Adm0:
+    GID: FJI
+    country_name: Fiji
+    continents: Oceania
+    iso3c: FJI
+  FLK.0_Adm0:
+    GID: FLK
+    country_name: Falkland Islands
+    continents: South America
+    iso3c: FLK
+  FRA.0_Adm0:
+    GID: FRA
+    country_name: France
+    continents: Europe
+    iso3c: FRA
+  FRO.0_Adm0:
+    GID: FRO
+    country_name: Faroe Islands
+    continents: Europe
+    iso3c: FRO
+  FSM.0_Adm0:
+    GID: FSM
+    country_name: Micronesia
+    continents: Oceania
+    iso3c: FSM
+  GAB.0_Adm0:
+    GID: GAB
+    country_name: Gabon
+    continents: Africa
+    iso3c: GAB
+  GBR.0_Adm0:
+    GID: GBR
+    country_name: United Kingdom
+    continents: Europe
+    iso3c: GBR
+  GEO.0_Adm0:
+    GID: GEO
+    country_name: Georgia
+    continents: Asia
+    iso3c: GEO
+  GGY.0_Adm0:
+    GID: GGY
+    country_name: Guernsey
+    continents: Europe
+    iso3c: GGY
+  GHA.0_Adm0:
+    GID: GHA
+    country_name: Ghana
+    continents: Africa
+    iso3c: GHA
+  GIB.0_Adm0:
+    GID: GIB
+    country_name: Gibraltar
+    continents: Europe
+    iso3c: GIB
+  GIN.0_Adm0:
+    GID: GIN
+    country_name: Guinea
+    continents: Africa
+    iso3c: GIN
+  GLP.0_Adm0:
+    GID: GLP
+    country_name: Guadeloupe
+    continents: North America
+    iso3c: GLP
+  GMB.0_Adm0:
+    GID: GMB
+    country_name: Gambia
+    continents: Africa
+    iso3c: GMB
+  GNB.0_Adm0:
+    GID: GNB
+    country_name: Guinea-Bissau
+    continents: Africa
+    iso3c: GNB
+  GNQ.0_Adm0:
+    GID: GNQ
+    country_name: Equatorial Guinea
+    continents: Africa
+    iso3c: GNQ
+  GRC.0_Adm0:
+    GID: GRC
+    country_name: Greece
+    continents: Europe
+    iso3c: GRC
+  GRD.0_Adm0:
+    GID: GRD
+    country_name: Grenada
+    continents: North America
+    iso3c: GRD
+  GRL.0_Adm0:
+    GID: GRL
+    country_name: Greenland
+    continents: North America
+    iso3c: GRL
+  GTM.0_Adm0:
+    GID: GTM
+    country_name: Guatemala
+    continents: North America
+    iso3c: GTM
+  GUF.0_Adm0:
+    GID: GUF
+    country_name: French Guiana
+    continents: South America
+    iso3c: GUF
+  GUM.0_Adm0:
+    GID: GUM
+    country_name: Guam
+    continents: Oceania
+    iso3c: GUM
+  GUY.0_Adm0:
+    GID: GUY
+    country_name: Guyana
+    continents: South America
+    iso3c: GUY
+  HMD.0_Adm0:
+    GID: HMD
+    country_name: Heard Island and McDonald Island
+    continents: Antarctica
+    iso3c: HMD
+  HND.0_Adm0:
+    GID: HND
+    country_name: Honduras
+    continents: North America
+    iso3c: HND
+  HRV.0_Adm0:
+    GID: HRV
+    country_name: Croatia
+    continents: Europe
+    iso3c: HRV
+  HTI.0_Adm0:
+    GID: HTI
+    country_name: Haiti
+    continents: North America
+    iso3c: HTI
+  HUN.0_Adm0:
+    GID: HUN
+    country_name: Hungary
+    continents: Europe
+    iso3c: HUN
+  IDN.0_Adm0:
+    GID: IDN
+    country_name: Indonesia
+    continents: Asia
+    iso3c: IDN
+  IMN.0_Adm0:
+    GID: IMN
+    country_name: Isle of Man
+    continents: Europe
+    iso3c: IMN
+  IND.0_Adm0:
+    GID: IND
+    country_name: India
+    continents: Asia
+    iso3c: IND
+  IOT.0_Adm0:
+    GID: IOT
+    country_name: British Indian Ocean Territory
+    continents: Asia
+    iso3c: IOT
+  IRL.0_Adm0:
+    GID: IRL
+    country_name: Ireland
+    continents: Europe
+    iso3c: IRL
+  IRN.0_Adm0:
+    GID: IRN
+    country_name: Iran
+    continents: Asia
+    iso3c: IRN
+  IRQ.0_Adm0:
+    GID: IRQ
+    country_name: Iraq
+    continents: Asia
+    iso3c: IRQ
+  ISL.0_Adm0:
+    GID: ISL
+    country_name: Iceland
+    continents: Europe
+    iso3c: ISL
+  ISR.0_Adm0:
+    GID: ISR
+    country_name: Israel
+    continents: Asia
+    iso3c: ISR
+  ITA.0_Adm0:
+    GID: ITA
+    country_name: Italy
+    continents: Europe
+    iso3c: ITA
+  JAM.0_Adm0:
+    GID: JAM
+    country_name: Jamaica
+    continents: North America
+    iso3c: JAM
+  JEY.0_Adm0:
+    GID: JEY
+    country_name: Jersey
+    continents: Europe
+    iso3c: JEY
+  JOR.0_Adm0:
+    GID: JOR
+    country_name: Jordan
+    continents: Asia
+    iso3c: JOR
+  JPN.0_Adm0:
+    GID: JPN
+    country_name: Japan
+    continents: Asia
+    iso3c: JPN
+  KAZ.0_Adm0:
+    GID: KAZ
+    country_name: Kazakhstan
+    continents: Asia
+    iso3c: KAZ
+  KEN.0_Adm0:
+    GID: KEN
+    country_name: Kenya
+    continents: Africa
+    iso3c: KEN
+  KGZ.0_Adm0:
+    GID: KGZ
+    country_name: Kyrgyzstan
+    continents: Asia
+    iso3c: KGZ
+  KHM.0_Adm0:
+    GID: KHM
+    country_name: Cambodia
+    continents: Asia
+    iso3c: KHM
+  KIR.0_Adm0:
+    GID: KIR
+    country_name: Kiribati
+    continents: Oceania
+    iso3c: KIR
+  KNA.0_Adm0:
+    GID: KNA
+    country_name: Saint Kitts and Nevis
+    continents: North America
+    iso3c: KNA
+  KOR.0_Adm0:
+    GID: KOR
+    country_name: South Korea
+    continents: Asia
+    iso3c: KOR
+  KWT.0_Adm0:
+    GID: KWT
+    country_name: Kuwait
+    continents: Asia
+    iso3c: KWT
+  LAO.0_Adm0:
+    GID: LAO
+    country_name: Laos
+    continents: Asia
+    iso3c: LAO
+  LBN.0_Adm0:
+    GID: LBN
+    country_name: Lebanon
+    continents: Asia
+    iso3c: LBN
+  LBR.0_Adm0:
+    GID: LBR
+    country_name: Liberia
+    continents: Africa
+    iso3c: LBR
+  LBY.0_Adm0:
+    GID: LBY
+    country_name: Libya
+    continents: Africa
+    iso3c: LBY
+  LCA.0_Adm0:
+    GID: LCA
+    country_name: Saint Lucia
+    continents: North America
+    iso3c: LCA
+  LIE.0_Adm0:
+    GID: LIE
+    country_name: Liechtenstein
+    continents: Europe
+    iso3c: LIE
+  LKA.0_Adm0:
+    GID: LKA
+    country_name: Sri Lanka
+    continents: Asia
+    iso3c: LKA
+  LSO.0_Adm0:
+    GID: LSO
+    country_name: Lesotho
+    continents: Africa
+    iso3c: LSO
+  LTU.0_Adm0:
+    GID: LTU
+    country_name: Lithuania
+    continents: Europe
+    iso3c: LTU
+  LUX.0_Adm0:
+    GID: LUX
+    country_name: Luxembourg
+    continents: Europe
+    iso3c: LUX
+  LVA.0_Adm0:
+    GID: LVA
+    country_name: Latvia
+    continents: Europe
+    iso3c: LVA
+  MAF.0_Adm0:
+    GID: MAF
+    country_name: Saint-Martin
+    continents: North America
+    iso3c: MAF
+  MAR.0_Adm0:
+    GID: MAR
+    country_name: Morocco
+    continents: Africa
+    iso3c: MAR
+  MCO.0_Adm0:
+    GID: MCO
+    country_name: Monaco
+    continents: Europe
+    iso3c: MCO
+  MDA.0_Adm0:
+    GID: MDA
+    country_name: Moldova
+    continents: Europe
+    iso3c: MDA
+  MDG.0_Adm0:
+    GID: MDG
+    country_name: Madagascar
+    continents: Africa
+    iso3c: MDG
+  MDV.0_Adm0:
+    GID: MDV
+    country_name: Maldives
+    continents: Asia
+    iso3c: MDV
+  MEX.0_Adm0:
+    GID: MEX
+    country_name: México
+    continents: North America
+    iso3c: MEX
+  MHL.0_Adm0:
+    GID: MHL
+    country_name: Marshall Islands
+    continents: Oceania
+    iso3c: MHL
+  MKD.0_Adm0:
+    GID: MKD
+    country_name: North Macedonia
+    continents: Europe
+    iso3c: MKD
+  MLI.0_Adm0:
+    GID: MLI
+    country_name: Mali
+    continents: Africa
+    iso3c: MLI
+  MLT.0_Adm0:
+    GID: MLT
+    country_name: Malta
+    continents: Europe
+    iso3c: MLT
+  MMR.0_Adm0:
+    GID: MMR
+    country_name: Myanmar
+    continents: Asia
+    iso3c: MMR
+  MNE.0_Adm0:
+    GID: MNE
+    country_name: Montenegro
+    continents: Europe
+    iso3c: MNE
+  MNG.0_Adm0:
+    GID: MNG
+    country_name: Mongolia
+    continents: Asia
+    iso3c: MNG
+  MNP.0_Adm0:
+    GID: MNP
+    country_name: Northern Mariana Islands
+    continents: Oceania
+    iso3c: MNP
+  MOZ.0_Adm0:
+    GID: MOZ
+    country_name: Mozambique
+    continents: Africa
+    iso3c: MOZ
+  MRT.0_Adm0:
+    GID: MRT
+    country_name: Mauritania
+    continents: Africa
+    iso3c: MRT
+  MSR.0_Adm0:
+    GID: MSR
+    country_name: Montserrat
+    continents: North America
+    iso3c: MSR
+  MTQ.0_Adm0:
+    GID: MTQ
+    country_name: Martinique
+    continents: North America
+    iso3c: MTQ
+  MUS.0_Adm0:
+    GID: MUS
+    country_name: Mauritius
+    continents: Africa
+    iso3c: MUS
+  MWI.0_Adm0:
+    GID: MWI
+    country_name: Malawi
+    continents: Africa
+    iso3c: MWI
+  MYS.0_Adm0:
+    GID: MYS
+    country_name: Malaysia
+    continents: Asia
+    iso3c: MYS
+  MYT.0_Adm0:
+    GID: MYT
+    country_name: Mayotte
+    continents: Africa
+    iso3c: MYT
+  NAM.0_Adm0:
+    GID: NAM
+    country_name: Namibia
+    continents: Africa
+    iso3c: NAM
+  NCL.0_Adm0:
+    GID: NCL
+    country_name: New Caledonia
+    continents: Oceania
+    iso3c: NCL
+  NER.0_Adm0:
+    GID: NER
+    country_name: Niger
+    continents: Africa
+    iso3c: NER
+  NFK.0_Adm0:
+    GID: NFK
+    country_name: Norfolk Island
+    continents: Oceania
+    iso3c: NFK
+  NGA.0_Adm0:
+    GID: NGA
+    country_name: Nigeria
+    continents: Africa
+    iso3c: NGA
+  NIC.0_Adm0:
+    GID: NIC
+    country_name: Nicaragua
+    continents: North America
+    iso3c: NIC
+  NIU.0_Adm0:
+    GID: NIU
+    country_name: Niue
+    continents: Oceania
+    iso3c: NIU
+  NLD.0_Adm0:
+    GID: NLD
+    country_name: Netherlands
+    continents: Europe
+    iso3c: NLD
+  NOR.0_Adm0:
+    GID: NOR
+    country_name: Norway
+    continents: Europe
+    iso3c: NOR
+  NPL.0_Adm0:
+    GID: NPL
+    country_name: Nepal
+    continents: Asia
+    iso3c: NPL
+  NRU.0_Adm0:
+    GID: NRU
+    country_name: Nauru
+    continents: Oceania
+    iso3c: NRU
+  NZL.0_Adm0:
+    GID: NZL
+    country_name: New Zealand
+    continents: Oceania
+    iso3c: NZL
+  OMN.0_Adm0:
+    GID: OMN
+    country_name: Oman
+    continents: Asia
+    iso3c: OMN
+  PAK.0_Adm0:
+    GID: PAK
+    country_name: Pakistan
+    continents: Asia
+    iso3c: PAK
+  PAN.0_Adm0:
+    GID: PAN
+    country_name: Panama
+    continents: North America
+    iso3c: PAN
+  PCN.0_Adm0:
+    GID: PCN
+    country_name: Pitcairn Islands
+    continents: Oceania
+    iso3c: PCN
+  PER.0_Adm0:
+    GID: PER
+    country_name: Peru
+    continents: South America
+    iso3c: PER
+  PHL.0_Adm0:
+    GID: PHL
+    country_name: Philippines
+    continents: Asia
+    iso3c: PHL
+  PLW.0_Adm0:
+    GID: PLW
+    country_name: Palau
+    continents: Oceania
+    iso3c: PLW
+  PNG.0_Adm0:
+    GID: PNG
+    country_name: Papua New Guinea
+    continents: Oceania
+    iso3c: PNG
+  POL.0_Adm0:
+    GID: POL
+    country_name: Poland
+    continents: Europe
+    iso3c: POL
+  PRI.0_Adm0:
+    GID: PRI
+    country_name: Puerto Rico
+    continents: North America
+    iso3c: PRI
+  PRK.0_Adm0:
+    GID: PRK
+    country_name: North Korea
+    continents: Asia
+    iso3c: PRK
+  PRT.0_Adm0:
+    GID: PRT
+    country_name: Portugal
+    continents: Europe
+    iso3c: PRT
+  PRY.0_Adm0:
+    GID: PRY
+    country_name: Paraguay
+    continents: South America
+    iso3c: PRY
+  PSE.0_Adm0:
+    GID: PSE
+    country_name: Palestine
+    continents: Asia
+    iso3c: PSE
+  PYF.0_Adm0:
+    GID: PYF
+    country_name: French Polynesia
+    continents: Oceania
+    iso3c: PYF
+  QAT.0_Adm0:
+    GID: QAT
+    country_name: Qatar
+    continents: Asia
+    iso3c: QAT
+  REU.0_Adm0:
+    GID: REU
+    country_name: Réunion
+    continents: Africa
+    iso3c: REU
+  ROU.0_Adm0:
+    GID: ROU
+    country_name: Romania
+    continents: Europe
+    iso3c: ROU
+  RUS.0_Adm0:
+    GID: RUS
+    country_name: Russia
+    continents: Asia
+    iso3c: RUS
+  RWA.0_Adm0:
+    GID: RWA
+    country_name: Rwanda
+    continents: Africa
+    iso3c: RWA
+  SAU.0_Adm0:
+    GID: SAU
+    country_name: Saudi Arabia
+    continents: Asia
+    iso3c: SAU
+  SDN.0_Adm0:
+    GID: SDN
+    country_name: Sudan
+    continents: Africa
+    iso3c: SDN
+  SEN.0_Adm0:
+    GID: SEN
+    country_name: Senegal
+    continents: Africa
+    iso3c: SEN
+  SGP.0_Adm0:
+    GID: SGP
+    country_name: Singapore
+    continents: Asia
+    iso3c: SGP
+  SGS.0_Adm0:
+    GID: SGS
+    country_name: South Georgia and the South Sand
+    continents: Antarctica
+    iso3c: SGS
+  SHN.0_Adm0:
+    GID: SHN
+    country_name: Saint Helena, Ascension and Tris
+    continents: Africa
+    iso3c: SHN
+  SJM.0_Adm0:
+    GID: SJM
+    country_name: Svalbard and Jan Mayen
+    continents: Europe
+    iso3c: SJM
+  SLB.0_Adm0:
+    GID: SLB
+    country_name: Solomon Islands
+    continents: Oceania
+    iso3c: SLB
+  SLE.0_Adm0:
+    GID: SLE
+    country_name: Sierra Leone
+    continents: Africa
+    iso3c: SLE
+  SLV.0_Adm0:
+    GID: SLV
+    country_name: El Salvador
+    continents: North America
+    iso3c: SLV
+  SMR.0_Adm0:
+    GID: SMR
+    country_name: San Marino
+    continents: Europe
+    iso3c: SMR
+  SOM.0_Adm0:
+    GID: SOM
+    country_name: Somalia
+    continents: Africa
+    iso3c: SOM
+  SPM.0_Adm0:
+    GID: SPM
+    country_name: Saint Pierre and Miquelon
+    continents: North America
+    iso3c: SPM
+  SRB.0_Adm0:
+    GID: SRB
+    country_name: Serbia
+    continents: Europe
+    iso3c: SRB
+  SSD.0_Adm0:
+    GID: SSD
+    country_name: South Sudan
+    continents: Africa
+    iso3c: SSD
+  STP.0_Adm0:
+    GID: STP
+    country_name: São Tomé and Príncipe
+    continents: Africa
+    iso3c: STP
+  SUR.0_Adm0:
+    GID: SUR
+    country_name: Suriname
+    continents: South America
+    iso3c: SUR
+  SVK.0_Adm0:
+    GID: SVK
+    country_name: Slovakia
+    continents: Europe
+    iso3c: SVK
+  SVN.0_Adm0:
+    GID: SVN
+    country_name: Slovenia
+    continents: Europe
+    iso3c: SVN
+  SWE.0_Adm0:
+    GID: SWE
+    country_name: Sweden
+    continents: Europe
+    iso3c: SWE
+  SWZ.0_Adm0:
+    GID: SWZ
+    country_name: Swaziland
+    continents: Africa
+    iso3c: SWZ
+  SXM.0_Adm0:
+    GID: SXM
+    country_name: Sint Maarten
+    continents: North America
+    iso3c: SXM
+  SYC.0_Adm0:
+    GID: SYC
+    country_name: Seychelles
+    continents: Africa
+    iso3c: SYC
+  SYR.0_Adm0:
+    GID: SYR
+    country_name: Syria
+    continents: Asia
+    iso3c: SYR
+  TCA.0_Adm0:
+    GID: TCA
+    country_name: Turks and Caicos Islands
+    continents: North America
+    iso3c: TCA
+  TCD.0_Adm0:
+    GID: TCD
+    country_name: Chad
+    continents: Africa
+    iso3c: TCD
+  TGO.0_Adm0:
+    GID: TGO
+    country_name: Togo
+    continents: Africa
+    iso3c: TGO
+  THA.0_Adm0:
+    GID: THA
+    country_name: Thailand
+    continents: Asia
+    iso3c: THA
+  TJK.0_Adm0:
+    GID: TJK
+    country_name: Tajikistan
+    continents: Asia
+    iso3c: TJK
+  TKM.0_Adm0:
+    GID: TKM
+    country_name: Turkmenistan
+    continents: Asia
+    iso3c: TKM
+  TLS.0_Adm0:
+    GID: TLS
+    country_name: Timor-Leste
+    continents: Oceania
+    iso3c: TLS
+  TON.0_Adm0:
+    GID: TON
+    country_name: Tonga
+    continents: Oceania
+    iso3c: TON
+  TTO.0_Adm0:
+    GID: TTO
+    country_name: Trinidad and Tobago
+    continents: North America
+    iso3c: TTO
+  TUN.0_Adm0:
+    GID: TUN
+    country_name: Tunisia
+    continents: Africa
+    iso3c: TUN
+  TUR.0_Adm0:
+    GID: TUR
+    country_name: Turkey
+    continents: Asia
+    iso3c: TUR
+  TUV.0_Adm0:
+    GID: TUV
+    country_name: Tuvalu
+    continents: Oceania
+    iso3c: TUV
+  TWN.0_Adm0:
+    GID: TWN
+    country_name: Taiwan
+    continents: Asia
+    iso3c: TWN
+  TZA.0_Adm0:
+    GID: TZA
+    country_name: Tanzania
+    continents: Africa
+    iso3c: TZA
+  UGA.0_Adm0:
+    GID: UGA
+    country_name: Uganda
+    continents: Africa
+    iso3c: UGA
+  UKR.0_Adm0:
+    GID: UKR
+    country_name: Ukraine
+    continents: Europe
+    iso3c: UKR
+  UMI.0_Adm0:
+    GID: UMI
+    country_name: United States Minor Outlying Isl
+    continents: Oceania
+    iso3c: UMI
+  URY.0_Adm0:
+    GID: URY
+    country_name: Uruguay
+    continents: South America
+    iso3c: URY
+  USA.0_Adm0:
+    GID: USA
+    country_name: United States
+    continents: North America
+    iso3c: USA
+  UZB.0_Adm0:
+    GID: UZB
+    country_name: Uzbekistan
+    continents: Asia
+    iso3c: UZB
+  VCT.0_Adm0:
+    GID: VCT
+    country_name: Saint Vincent and the Grenadines
+    continents: North America
+    iso3c: VCT
+  VEN.0_Adm0:
+    GID: VEN
+    country_name: Venezuela
+    continents: South America
+    iso3c: VEN
+  VGB.0_Adm0:
+    GID: VGB
+    country_name: British Virgin Islands
+    continents: North America
+    iso3c: VGB
+  VIR.0_Adm0:
+    GID: VIR
+    country_name: Virgin Islands, U.S.
+    continents: North America
+    iso3c: VIR
+  VNM.0_Adm0:
+    GID: VNM
+    country_name: Vietnam
+    continents: Asia
+    iso3c: VNM
+  VUT.0_Adm0:
+    GID: VUT
+    country_name: Vanuatu
+    continents: Oceania
+    iso3c: VUT
+  WLF.0_Adm0:
+    GID: WLF
+    country_name: Wallis and Futuna
+    continents: Oceania
+    iso3c: WLF
+  WSM.0_Adm0:
+    GID: WSM
+    country_name: Samoa
+    continents: Oceania
+    iso3c: WSM
+  XAD.0_Adm0:
+    GID: XAD
+    country_name: Akrotiri and Dhekelia
+    continents: Europe
+    iso3c: XAD
+  XCA.0_Adm0:
+    GID: XCA
+    country_name: Caspian Sea
+    continents: Europe
+    iso3c: XCA
+  XCL.0_Adm0:
+    GID: XCL
+    country_name: Clipperton Island
+    continents: Oceania
+    iso3c: XCL
+  XKO.0_Adm0:
+    GID: XKO
+    country_name: Kosovo
+    continents: Europe
+    iso3c: XKO
+  XPI.0_Adm0:
+    GID: XPI
+    country_name: Paracel Islands
+    continents: Asia
+    iso3c: XPI
+  YEM.0_Adm0:
+    GID: YEM
     country_name: Yemen
-    continent: EuropeContinent
-  ZambiaAdm0:
-    iso3c: ZMB
+    continents: Asia
+    iso3c: YEM
+  ZAF.0_Adm0:
+    GID: ZAF
+    country_name: South Africa
+    continents: Africa
+    iso3c: ZAF
+  ZMB.0_Adm0:
+    GID: ZMB
     country_name: Zambia
-    continent: AfricaContinent
-  ZimbabweAdm0:
-    iso3c: ZWE
+    continents: Africa
+    iso3c: ZMB
+  ZWE.0_Adm0:
+    GID: ZWE
     country_name: Zimbabwe
-    continent: AfricaContinent
+    continents: Africa
+    iso3c: ZWE

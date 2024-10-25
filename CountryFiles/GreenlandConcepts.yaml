@@ -1,43 +1,37 @@
 concepts:
-  Greenland_Adm0:
-    iso3c: GRL
-    admin_level: Adm0
+  GRL.0_Adm0:
+    GID: GRL
     admin_name: Greenland
-    shapeID: 11091852B46241091315440
-    country_name: Greenland
-  Greenland_Adm1_1:
     iso3c: GRL
-    admin_level: Adm1
-    admin_name: NortheastGreenlandNationalPark
-    shapeID: 42512837B15316814347491
     country_name: Greenland
-  Greenland_Adm1_2:
-    iso3c: GRL
-    admin_level: Adm1
-    admin_name: Avannaata
-    shapeID: 42512837B56880650870693
-    country_name: Greenland
-  Greenland_Adm1_3:
-    iso3c: GRL
-    admin_level: Adm1
-    admin_name: Sermersooq
-    shapeID: 42512837B19798010135006
-    country_name: Greenland
-  Greenland_Adm1_4:
-    iso3c: GRL
-    admin_level: Adm1
+    admin_level: Adm0
+  GRL.1_1_Adm1:
+    GID: GRL.1_1
     admin_name: Kujalleq
-    shapeID: 42512837B76623301896964
-    country_name: Greenland
-  Greenland_Adm1_5:
     iso3c: GRL
+    country_name: Greenland
     admin_level: Adm1
+  GRL.2_1_Adm1:
+    GID: GRL.2_1
+    admin_name: Northeast Greenland National Par
+    iso3c: GRL
+    country_name: Greenland
+    admin_level: Adm1
+  GRL.3_1_Adm1:
+    GID: GRL.3_1
+    admin_name: Qaasuitsup
+    iso3c: GRL
+    country_name: Greenland
+    admin_level: Adm1
+  GRL.4_1_Adm1:
+    GID: GRL.4_1
     admin_name: Qeqqata
-    shapeID: 42512837B89373787162082
-    country_name: Greenland
-  Greenland_Adm1_6:
     iso3c: GRL
-    admin_level: Adm1
-    admin_name: Qeqertalik
-    shapeID: 42512837B82481266018751
     country_name: Greenland
+    admin_level: Adm1
+  GRL.5_1_Adm1:
+    GID: GRL.5_1
+    admin_name: Sermersooq
+    iso3c: GRL
+    country_name: Greenland
+    admin_level: Adm1

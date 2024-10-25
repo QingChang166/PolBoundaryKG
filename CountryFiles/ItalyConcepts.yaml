@@ -1,157 +1,787 @@
 concepts:
-  Italy_Adm0:
+  ITA.0_Adm0:
+    GID: ITA
+    admin_name: Italy
     iso3c: ITA
+    country_name: Italy
     admin_level: Adm0
-    admin_name: Nord-Ovest
-    shapeID: 42024856B85240378613663
-    country_name: Italy
-  Italy_Adm1_1:
-    iso3c: ITA
-    admin_level: Adm1
-    admin_name: Nord-Ovest
-    shapeID: 72843720B99597932318450
-    country_name: Italy
-  Italy_Adm1_2:
-    iso3c: ITA
-    admin_level: Adm1
-    admin_name: Nord-Est
-    shapeID: 72843720B59566147937015
-    country_name: Italy
-  Italy_Adm1_3:
-    iso3c: ITA
-    admin_level: Adm1
-    admin_name: Centro
-    shapeID: 72843720B863019116732
-    country_name: Italy
-  Italy_Adm1_4:
-    iso3c: ITA
-    admin_level: Adm1
-    admin_name: Sud
-    shapeID: 72843720B88210905209841
-    country_name: Italy
-  Italy_Adm1_5:
-    iso3c: ITA
-    admin_level: Adm1
-    admin_name: Isole
-    shapeID: 72843720B81376294924159
-    country_name: Italy
-  Italy_Adm2_1:
-    iso3c: ITA
-    admin_level: Adm2
-    admin_name: Piemonte
-    shapeID: 23120603B83257595874769
-    country_name: Italy
-  Italy_Adm2_10:
-    iso3c: ITA
-    admin_level: Adm2
-    admin_name: Umbria
-    shapeID: 23120603B26790412086965
-    country_name: Italy
-  Italy_Adm2_11:
-    iso3c: ITA
-    admin_level: Adm2
-    admin_name: Marche
-    shapeID: 23120603B49951072422318
-    country_name: Italy
-  Italy_Adm2_12:
-    iso3c: ITA
-    admin_level: Adm2
-    admin_name: Lazio
-    shapeID: 23120603B86473916475875
-    country_name: Italy
-  Italy_Adm2_13:
-    iso3c: ITA
-    admin_level: Adm2
+  ITA.1_1_Adm1:
+    GID: ITA.1_1
     admin_name: Abruzzo
-    shapeID: 23120603B60396852211
-    country_name: Italy
-  Italy_Adm2_14:
     iso3c: ITA
-    admin_level: Adm2
-    admin_name: Molise
-    shapeID: 23120603B60242334488993
     country_name: Italy
-  Italy_Adm2_15:
+    admin_level: Adm1
+  ITA.1.1_1_Adm2:
+    GID: ITA.1.1_1
+    admin_name: Chieti
     iso3c: ITA
-    admin_level: Adm2
-    admin_name: Campania
-    shapeID: 23120603B14973764900567
     country_name: Italy
-  Italy_Adm2_16:
-    iso3c: ITA
     admin_level: Adm2
-    admin_name: Puglia
-    shapeID: 23120603B69806914684511
+  ITA.1.2_1_Adm2:
+    GID: ITA.1.2_1
+    admin_name: L'Aquila
+    iso3c: ITA
     country_name: Italy
-  Italy_Adm2_17:
-    iso3c: ITA
     admin_level: Adm2
-    admin_name: Basilicata
-    shapeID: 23120603B59117294159851
+  ITA.1.3_1_Adm2:
+    GID: ITA.1.3_1
+    admin_name: Pescara
+    iso3c: ITA
     country_name: Italy
-  Italy_Adm2_18:
-    iso3c: ITA
     admin_level: Adm2
-    admin_name: Calabria
-    shapeID: 23120603B55310757134450
+  ITA.1.4_1_Adm2:
+    GID: ITA.1.4_1
+    admin_name: Teramo
+    iso3c: ITA
     country_name: Italy
-  Italy_Adm2_19:
-    iso3c: ITA
     admin_level: Adm2
-    admin_name: Sicilia
-    shapeID: 23120603B91569774900330
-    country_name: Italy
-  Italy_Adm2_2:
-    iso3c: ITA
-    admin_level: Adm2
-    admin_name: Valled'Aosta
-    shapeID: 23120603B46910528128522
-    country_name: Italy
-  Italy_Adm2_20:
-    iso3c: ITA
-    admin_level: Adm2
-    admin_name: Sardegna
-    shapeID: 23120603B31191283857260
-    country_name: Italy
-  Italy_Adm2_3:
-    iso3c: ITA
-    admin_level: Adm2
+  ITA.10_1_Adm1:
+    GID: ITA.10_1
     admin_name: Lombardia
-    shapeID: 23120603B71310509030930
-    country_name: Italy
-  Italy_Adm2_4:
     iso3c: ITA
-    admin_level: Adm2
-    admin_name: Trentino-AltoAdige
-    shapeID: 23120603B10307341449000
     country_name: Italy
-  Italy_Adm2_5:
+    admin_level: Adm1
+  ITA.10.1_1_Adm2:
+    GID: ITA.10.1_1
+    admin_name: Bergamo
     iso3c: ITA
-    admin_level: Adm2
-    admin_name: Veneto
-    shapeID: 23120603B96721879872173
     country_name: Italy
-  Italy_Adm2_6:
-    iso3c: ITA
     admin_level: Adm2
-    admin_name: FriuliVeneziaGiulia
-    shapeID: 23120603B53770696546298
+  ITA.10.10_1_Adm2:
+    GID: ITA.10.10_1
+    admin_name: Pavia
+    iso3c: ITA
     country_name: Italy
-  Italy_Adm2_7:
-    iso3c: ITA
     admin_level: Adm2
-    admin_name: Liguria
-    shapeID: 23120603B90496191820000
+  ITA.10.11_1_Adm2:
+    GID: ITA.10.11_1
+    admin_name: Sondrio
+    iso3c: ITA
     country_name: Italy
-  Italy_Adm2_8:
-    iso3c: ITA
     admin_level: Adm2
-    admin_name: Emilia-Romagna
-    shapeID: 23120603B93883326437068
+  ITA.10.12_1_Adm2:
+    GID: ITA.10.12_1
+    admin_name: Varese
+    iso3c: ITA
     country_name: Italy
-  Italy_Adm2_9:
-    iso3c: ITA
     admin_level: Adm2
+  ITA.10.2_1_Adm2:
+    GID: ITA.10.2_1
+    admin_name: Brescia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.10.3_1_Adm2:
+    GID: ITA.10.3_1
+    admin_name: Como
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.10.4_1_Adm2:
+    GID: ITA.10.4_1
+    admin_name: Cremona
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.10.5_1_Adm2:
+    GID: ITA.10.5_1
+    admin_name: Lecco
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.10.6_1_Adm2:
+    GID: ITA.10.6_1
+    admin_name: Lodi
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.10.7_1_Adm2:
+    GID: ITA.10.7_1
+    admin_name: Mantua
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.10.8_1_Adm2:
+    GID: ITA.10.8_1
+    admin_name: Milano
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.10.9_1_Adm2:
+    GID: ITA.10.9_1
+    admin_name: Monza and Brianza
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.11_1_Adm1:
+    GID: ITA.11_1
+    admin_name: Marche
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.11.1_1_Adm2:
+    GID: ITA.11.1_1
+    admin_name: Ancona
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.11.2_1_Adm2:
+    GID: ITA.11.2_1
+    admin_name: Ascoli Piceno
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.11.3_1_Adm2:
+    GID: ITA.11.3_1
+    admin_name: Fermo
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.11.4_1_Adm2:
+    GID: ITA.11.4_1
+    admin_name: Macerata
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.11.5_1_Adm2:
+    GID: ITA.11.5_1
+    admin_name: Pesaro E Urbino
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.12_1_Adm1:
+    GID: ITA.12_1
+    admin_name: Molise
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.12.1_1_Adm2:
+    GID: ITA.12.1_1
+    admin_name: Campobasso
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.12.2_1_Adm2:
+    GID: ITA.12.2_1
+    admin_name: Isernia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.13_1_Adm1:
+    GID: ITA.13_1
+    admin_name: Piemonte
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.13.1_1_Adm2:
+    GID: ITA.13.1_1
+    admin_name: Alessandria
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.13.2_1_Adm2:
+    GID: ITA.13.2_1
+    admin_name: Asti
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.13.3_1_Adm2:
+    GID: ITA.13.3_1
+    admin_name: Biella
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.13.4_1_Adm2:
+    GID: ITA.13.4_1
+    admin_name: Cuneo
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.13.5_1_Adm2:
+    GID: ITA.13.5_1
+    admin_name: Novara
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.13.6_1_Adm2:
+    GID: ITA.13.6_1
+    admin_name: Torino
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.13.7_1_Adm2:
+    GID: ITA.13.7_1
+    admin_name: Verbano-Cusio-Ossola
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.13.8_1_Adm2:
+    GID: ITA.13.8_1
+    admin_name: Vercelli
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.14_1_Adm1:
+    GID: ITA.14_1
+    admin_name: Sardegna
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.14.1_1_Adm2:
+    GID: ITA.14.1_1
+    admin_name: Cagliari
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.14.2_1_Adm2:
+    GID: ITA.14.2_1
+    admin_name: Carbonia-Iglesias
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.14.3_1_Adm2:
+    GID: ITA.14.3_1
+    admin_name: Medio Campidano
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.14.4_1_Adm2:
+    GID: ITA.14.4_1
+    admin_name: Nuoro
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.14.5_1_Adm2:
+    GID: ITA.14.5_1
+    admin_name: Ogliastra
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.14.6_1_Adm2:
+    GID: ITA.14.6_1
+    admin_name: Olbia-Tempio
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.14.7_1_Adm2:
+    GID: ITA.14.7_1
+    admin_name: Oristano
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.14.8_1_Adm2:
+    GID: ITA.14.8_1
+    admin_name: Sassari
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.15_1_Adm1:
+    GID: ITA.15_1
+    admin_name: Sicily
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.15.1_1_Adm2:
+    GID: ITA.15.1_1
+    admin_name: Agrigento
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.15.2_1_Adm2:
+    GID: ITA.15.2_1
+    admin_name: Caltanissetta
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.15.3_1_Adm2:
+    GID: ITA.15.3_1
+    admin_name: Catania
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.15.4_1_Adm2:
+    GID: ITA.15.4_1
+    admin_name: Enna
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.15.5_1_Adm2:
+    GID: ITA.15.5_1
+    admin_name: Messina
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.15.6_1_Adm2:
+    GID: ITA.15.6_1
+    admin_name: Palermo
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.15.7_1_Adm2:
+    GID: ITA.15.7_1
+    admin_name: Ragusa
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.15.8_1_Adm2:
+    GID: ITA.15.8_1
+    admin_name: Syracuse
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.15.9_1_Adm2:
+    GID: ITA.15.9_1
+    admin_name: Trapani
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.16_1_Adm1:
+    GID: ITA.16_1
     admin_name: Toscana
-    shapeID: 23120603B95153686365028
+    iso3c: ITA
     country_name: Italy
+    admin_level: Adm1
+  ITA.16.1_1_Adm2:
+    GID: ITA.16.1_1
+    admin_name: Arezzo
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.16.10_1_Adm2:
+    GID: ITA.16.10_1
+    admin_name: Siena
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.16.2_1_Adm2:
+    GID: ITA.16.2_1
+    admin_name: Florence
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.16.3_1_Adm2:
+    GID: ITA.16.3_1
+    admin_name: Grosseto
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.16.4_1_Adm2:
+    GID: ITA.16.4_1
+    admin_name: Livorno
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.16.5_1_Adm2:
+    GID: ITA.16.5_1
+    admin_name: Lucca
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.16.6_1_Adm2:
+    GID: ITA.16.6_1
+    admin_name: Massa Carrara
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.16.7_1_Adm2:
+    GID: ITA.16.7_1
+    admin_name: Pisa
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.16.8_1_Adm2:
+    GID: ITA.16.8_1
+    admin_name: Pistoia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.16.9_1_Adm2:
+    GID: ITA.16.9_1
+    admin_name: Prato
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.17_1_Adm1:
+    GID: ITA.17_1
+    admin_name: Trentino-Alto Adige
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.17.1_1_Adm2:
+    GID: ITA.17.1_1
+    admin_name: Bolzano
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.17.2_1_Adm2:
+    GID: ITA.17.2_1
+    admin_name: Trento
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.18_1_Adm1:
+    GID: ITA.18_1
+    admin_name: Umbria
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.18.1_1_Adm2:
+    GID: ITA.18.1_1
+    admin_name: Perugia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.18.2_1_Adm2:
+    GID: ITA.18.2_1
+    admin_name: Terni
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.19_1_Adm1:
+    GID: ITA.19_1
+    admin_name: Valle d'Aosta
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.19.1_1_Adm2:
+    GID: ITA.19.1_1
+    admin_name: Aosta
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.2_1_Adm1:
+    GID: ITA.2_1
+    admin_name: Apulia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.2.1_1_Adm2:
+    GID: ITA.2.1_1
+    admin_name: Bari
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.2.2_1_Adm2:
+    GID: ITA.2.2_1
+    admin_name: Barletta-Andria-Trani
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.2.3_1_Adm2:
+    GID: ITA.2.3_1
+    admin_name: Brindisi
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.2.4_1_Adm2:
+    GID: ITA.2.4_1
+    admin_name: Foggia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.2.5_1_Adm2:
+    GID: ITA.2.5_1
+    admin_name: Lecce
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.2.6_1_Adm2:
+    GID: ITA.2.6_1
+    admin_name: Taranto
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.20_1_Adm1:
+    GID: ITA.20_1
+    admin_name: Veneto
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.20.1_1_Adm2:
+    GID: ITA.20.1_1
+    admin_name: Belluno
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.20.2_1_Adm2:
+    GID: ITA.20.2_1
+    admin_name: Padua
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.20.3_1_Adm2:
+    GID: ITA.20.3_1
+    admin_name: Rovigo
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.20.4_1_Adm2:
+    GID: ITA.20.4_1
+    admin_name: Treviso
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.20.5_1_Adm2:
+    GID: ITA.20.5_1
+    admin_name: Venezia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.20.6_1_Adm2:
+    GID: ITA.20.6_1
+    admin_name: Verona
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.20.7_1_Adm2:
+    GID: ITA.20.7_1
+    admin_name: Vicenza
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.3_1_Adm1:
+    GID: ITA.3_1
+    admin_name: Basilicata
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.3.1_1_Adm2:
+    GID: ITA.3.1_1
+    admin_name: Matera
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.3.2_1_Adm2:
+    GID: ITA.3.2_1
+    admin_name: Potenza
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.4_1_Adm1:
+    GID: ITA.4_1
+    admin_name: Calabria
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.4.1_1_Adm2:
+    GID: ITA.4.1_1
+    admin_name: Catanzaro
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.4.2_1_Adm2:
+    GID: ITA.4.2_1
+    admin_name: Cosenza
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.4.3_1_Adm2:
+    GID: ITA.4.3_1
+    admin_name: Crotone
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.4.4_1_Adm2:
+    GID: ITA.4.4_1
+    admin_name: Reggio Di Calabria
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.4.5_1_Adm2:
+    GID: ITA.4.5_1
+    admin_name: Vibo Valentia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.5_1_Adm1:
+    GID: ITA.5_1
+    admin_name: Campania
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.5.1_1_Adm2:
+    GID: ITA.5.1_1
+    admin_name: Avellino
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.5.2_1_Adm2:
+    GID: ITA.5.2_1
+    admin_name: Benevento
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.5.3_1_Adm2:
+    GID: ITA.5.3_1
+    admin_name: Caserta
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.5.4_1_Adm2:
+    GID: ITA.5.4_1
+    admin_name: Napoli
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.5.5_1_Adm2:
+    GID: ITA.5.5_1
+    admin_name: Salerno
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.6_1_Adm1:
+    GID: ITA.6_1
+    admin_name: Emilia-Romagna
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.6.1_1_Adm2:
+    GID: ITA.6.1_1
+    admin_name: Bologna
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.6.2_1_Adm2:
+    GID: ITA.6.2_1
+    admin_name: Ferrara
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.6.3_1_Adm2:
+    GID: ITA.6.3_1
+    admin_name: Forli' - Cesena
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.6.4_1_Adm2:
+    GID: ITA.6.4_1
+    admin_name: Modena
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.6.5_1_Adm2:
+    GID: ITA.6.5_1
+    admin_name: Parma
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.6.6_1_Adm2:
+    GID: ITA.6.6_1
+    admin_name: Piacenza
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.6.7_1_Adm2:
+    GID: ITA.6.7_1
+    admin_name: Ravenna
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.6.8_1_Adm2:
+    GID: ITA.6.8_1
+    admin_name: Reggio Nell'Emilia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.6.9_1_Adm2:
+    GID: ITA.6.9_1
+    admin_name: Rimini
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.7_1_Adm1:
+    GID: ITA.7_1
+    admin_name: Friuli-Venezia Giulia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.7.1_1_Adm2:
+    GID: ITA.7.1_1
+    admin_name: Gorizia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.7.2_1_Adm2:
+    GID: ITA.7.2_1
+    admin_name: Pordenone
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.7.3_1_Adm2:
+    GID: ITA.7.3_1
+    admin_name: Trieste
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.7.4_1_Adm2:
+    GID: ITA.7.4_1
+    admin_name: Udine
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.8_1_Adm1:
+    GID: ITA.8_1
+    admin_name: Lazio
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.8.1_1_Adm2:
+    GID: ITA.8.1_1
+    admin_name: Frosinone
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.8.2_1_Adm2:
+    GID: ITA.8.2_1
+    admin_name: Latina
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.8.3_1_Adm2:
+    GID: ITA.8.3_1
+    admin_name: Rieti
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.8.4_1_Adm2:
+    GID: ITA.8.4_1
+    admin_name: Roma
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.8.5_1_Adm2:
+    GID: ITA.8.5_1
+    admin_name: Viterbo
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.9_1_Adm1:
+    GID: ITA.9_1
+    admin_name: Liguria
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm1
+  ITA.9.1_1_Adm2:
+    GID: ITA.9.1_1
+    admin_name: Genova
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.9.2_1_Adm2:
+    GID: ITA.9.2_1
+    admin_name: Imperia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.9.3_1_Adm2:
+    GID: ITA.9.3_1
+    admin_name: La Spezia
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2
+  ITA.9.4_1_Adm2:
+    GID: ITA.9.4_1
+    admin_name: Savona
+    iso3c: ITA
+    country_name: Italy
+    admin_level: Adm2

@@ -1,259 +1,265 @@
 concepts:
-  Brunei_Adm0:
-    iso3c: BRN
-    admin_level: Adm0
+  BRN.0_Adm0:
+    GID: BRN
     admin_name: Brunei
-    shapeID: 51999400B40896605223228
-    country_name: Brunei
-  Brunei_Adm1_1:
     iso3c: BRN
-    admin_level: Adm1
+    country_name: Brunei
+    admin_level: Adm0
+  BRN.1_1_Adm1:
+    GID: BRN.1_1
     admin_name: Belait
-    shapeID: 89281809B69825435871977
-    country_name: Brunei
-  Brunei_Adm1_2:
     iso3c: BRN
+    country_name: Brunei
     admin_level: Adm1
-    admin_name: Tutong
-    shapeID: 89281809B59327831149370
-    country_name: Brunei
-  Brunei_Adm1_3:
+  BRN.1.1_1_Adm2:
+    GID: BRN.1.1_1
+    admin_name: Bukit Sawat
     iso3c: BRN
-    admin_level: Adm1
-    admin_name: Brunei-Muara
-    shapeID: 89281809B42057356743122
     country_name: Brunei
-  Brunei_Adm1_4:
-    iso3c: BRN
-    admin_level: Adm1
-    admin_name: Temburong
-    shapeID: 89281809B70839875343945
-    country_name: Brunei
-  Brunei_Adm2_1:
-    iso3c: BRN
     admin_level: Adm2
-    admin_name: KualaBelait
-    shapeID: 61948251B95286488605038
-    country_name: Brunei
-  Brunei_Adm2_10:
+  BRN.1.2_1_Adm2:
+    GID: BRN.1.2_1
+    admin_name: Kuala Balai
     iso3c: BRN
-    admin_level: Adm2
-    admin_name: Ukong
-    shapeID: 61948251B26721653634836
     country_name: Brunei
-  Brunei_Adm2_11:
-    iso3c: BRN
     admin_level: Adm2
-    admin_name: Rambai
-    shapeID: 61948251B89864279297653
+  BRN.1.3_1_Adm2:
+    GID: BRN.1.3_1
+    admin_name: Kuala Belait
+    iso3c: BRN
     country_name: Brunei
-  Brunei_Adm2_12:
-    iso3c: BRN
     admin_level: Adm2
-    admin_name: Lamunin
-    shapeID: 61948251B75187950654832
-    country_name: Brunei
-  Brunei_Adm2_13:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: TanjongMaya
-    shapeID: 61948251B77268510442515
-    country_name: Brunei
-  Brunei_Adm2_14:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: PekanTutong
-    shapeID: 61948251B61598017150996
-    country_name: Brunei
-  Brunei_Adm2_15:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Kiudang
-    shapeID: 61948251B13205484087176
-    country_name: Brunei
-  Brunei_Adm2_16:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Keriam
-    shapeID: 61948251B38946270105586
-    country_name: Brunei
-  Brunei_Adm2_17:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: PangkalanBatu
-    shapeID: 61948251B94337667782138
-    country_name: Brunei
-  Brunei_Adm2_18:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Sengkurong
-    shapeID: 61948251B32686789537536
-    country_name: Brunei
-  Brunei_Adm2_19:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Kilanas
-    shapeID: 61948251B41564153380884
-    country_name: Brunei
-  Brunei_Adm2_2:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Seria
-    shapeID: 61948251B99242136568828
-    country_name: Brunei
-  Brunei_Adm2_20:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Kianggeh
-    shapeID: 61948251B48556534442907
-    country_name: Brunei
-  Brunei_Adm2_21:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Lumapas
-    shapeID: 61948251B34239578933012
-    country_name: Brunei
-  Brunei_Adm2_22:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: KotaBatu
-    shapeID: 61948251B45101535974167
-    country_name: Brunei
-  Brunei_Adm2_23:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Gadong
-    shapeID: 61948251B55236805074249
-    country_name: Brunei
-  Brunei_Adm2_24:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: BerakasA
-    shapeID: 61948251B12831334132987
-    country_name: Brunei
-  Brunei_Adm2_25:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: BerakasB
-    shapeID: 61948251B67977220530704
-    country_name: Brunei
-  Brunei_Adm2_26:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Mentiri
-    shapeID: 61948251B3233226483045
-    country_name: Brunei
-  Brunei_Adm2_27:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Serasa
-    shapeID: 61948251B30330170332135
-    country_name: Brunei
-  Brunei_Adm2_28:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: SungaiKebun
-    shapeID: 61948251B19223628537644
-    country_name: Brunei
-  Brunei_Adm2_29:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Saba
-    shapeID: 61948251B45352761075123
-    country_name: Brunei
-  Brunei_Adm2_3:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: KualaBalai
-    shapeID: 61948251B1587498973826
-    country_name: Brunei
-  Brunei_Adm2_30:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Peramu
-    shapeID: 61948251B80715943730918
-    country_name: Brunei
-  Brunei_Adm2_31:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Tamoi
-    shapeID: 61948251B57548256602068
-    country_name: Brunei
-  Brunei_Adm2_32:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: SungaiKedayan
-    shapeID: 61948251B47128581689451
-    country_name: Brunei
-  Brunei_Adm2_33:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: BurongPingaiAyer
-    shapeID: 61948251B71669865620299
-    country_name: Brunei
-  Brunei_Adm2_34:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Bangar
-    shapeID: 61948251B45112766204024
-    country_name: Brunei
-  Brunei_Adm2_35:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Labu
-    shapeID: 61948251B75204442156496
-    country_name: Brunei
-  Brunei_Adm2_36:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: BatuApoi
-    shapeID: 61948251B1597109499272
-    country_name: Brunei
-  Brunei_Adm2_37:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Bunkok
-    shapeID: 61948251B95137919607383
-    country_name: Brunei
-  Brunei_Adm2_38:
-    iso3c: BRN
-    admin_level: Adm2
-    admin_name: Amo
-    shapeID: 61948251B53229815406537
-    country_name: Brunei
-  Brunei_Adm2_4:
-    iso3c: BRN
-    admin_level: Adm2
+  BRN.1.4_1_Adm2:
+    GID: BRN.1.4_1
     admin_name: Labi
-    shapeID: 61948251B59256449924949
-    country_name: Brunei
-  Brunei_Adm2_5:
     iso3c: BRN
+    country_name: Brunei
     admin_level: Adm2
+  BRN.1.5_1_Adm2:
+    GID: BRN.1.5_1
     admin_name: Liang
-    shapeID: 61948251B55263008271312
-    country_name: Brunei
-  Brunei_Adm2_6:
     iso3c: BRN
-    admin_level: Adm2
-    admin_name: Sukang
-    shapeID: 61948251B35844628801375
     country_name: Brunei
-  Brunei_Adm2_7:
-    iso3c: BRN
     admin_level: Adm2
+  BRN.1.6_1_Adm2:
+    GID: BRN.1.6_1
     admin_name: Melilas
-    shapeID: 61948251B89020850377024
-    country_name: Brunei
-  Brunei_Adm2_8:
     iso3c: BRN
-    admin_level: Adm2
-    admin_name: BukitSawat
-    shapeID: 61948251B25749467674718
     country_name: Brunei
-  Brunei_Adm2_9:
-    iso3c: BRN
     admin_level: Adm2
+  BRN.1.7_1_Adm2:
+    GID: BRN.1.7_1
+    admin_name: Seria
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.1.8_1_Adm2:
+    GID: BRN.1.8_1
+    admin_name: Sukang
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2_1_Adm1:
+    GID: BRN.2_1
+    admin_name: Brunei and Muara
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm1
+  BRN.2.1_1_Adm2:
+    GID: BRN.2.1_1
+    admin_name: Berakas A
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.10_1_Adm2:
+    GID: BRN.2.10_1
+    admin_name: Sengkurong
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.11_1_Adm2:
+    GID: BRN.2.11_1
+    admin_name: Serasa
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.12_1_Adm2:
+    GID: BRN.2.12_1
+    admin_name: Burong Pingai Ayer
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.13_1_Adm2:
+    GID: BRN.2.13_1
+    admin_name: Gadong 'A'
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.14_1_Adm2:
+    GID: BRN.2.14_1
+    admin_name: Gadong 'B'
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.15_1_Adm2:
+    GID: BRN.2.15_1
+    admin_name: Peramu
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.16_1_Adm2:
+    GID: BRN.2.16_1
+    admin_name: Saba
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.17_1_Adm2:
+    GID: BRN.2.17_1
+    admin_name: Sungai Kebun
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.18_1_Adm2:
+    GID: BRN.2.18_1
+    admin_name: Sungai Kedayan
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.19_1_Adm2:
+    GID: BRN.2.19_1
+    admin_name: Tamoi
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.2_1_Adm2:
+    GID: BRN.2.2_1
+    admin_name: Berakas B
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.4_1_Adm2:
+    GID: BRN.2.4_1
+    admin_name: Kianggeh
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.5_1_Adm2:
+    GID: BRN.2.5_1
+    admin_name: Kilanas
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.6_1_Adm2:
+    GID: BRN.2.6_1
+    admin_name: Kota Batu
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.7_1_Adm2:
+    GID: BRN.2.7_1
+    admin_name: Lumapas
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.8_1_Adm2:
+    GID: BRN.2.8_1
+    admin_name: Mentiri
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.2.9_1_Adm2:
+    GID: BRN.2.9_1
+    admin_name: Pengkalan Batu
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.3_1_Adm1:
+    GID: BRN.3_1
+    admin_name: Temburong
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm1
+  BRN.3.1_1_Adm2:
+    GID: BRN.3.1_1
+    admin_name: Amo
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.3.2_1_Adm2:
+    GID: BRN.3.2_1
+    admin_name: Bangar
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.3.3_1_Adm2:
+    GID: BRN.3.3_1
+    admin_name: Batu Apoi
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.3.4_1_Adm2:
+    GID: BRN.3.4_1
+    admin_name: Bukok
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.3.5_1_Adm2:
+    GID: BRN.3.5_1
+    admin_name: Labu
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.4_1_Adm1:
+    GID: BRN.4_1
+    admin_name: Tutong
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm1
+  BRN.4.1_1_Adm2:
+    GID: BRN.4.1_1
+    admin_name: Keriam
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.4.2_1_Adm2:
+    GID: BRN.4.2_1
+    admin_name: Kiudang
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.4.3_1_Adm2:
+    GID: BRN.4.3_1
+    admin_name: Lamunin
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.4.4_1_Adm2:
+    GID: BRN.4.4_1
+    admin_name: Pekan Tutong
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.4.5_1_Adm2:
+    GID: BRN.4.5_1
+    admin_name: Rambai
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.4.6_1_Adm2:
+    GID: BRN.4.6_1
+    admin_name: Tanjong Maya
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2
+  BRN.4.7_1_Adm2:
+    GID: BRN.4.7_1
     admin_name: Telisai
-    shapeID: 61948251B12096717980097
+    iso3c: BRN
     country_name: Brunei
+    admin_level: Adm2
+  BRN.4.8_1_Adm2:
+    GID: BRN.4.8_1
+    admin_name: Ukong
+    iso3c: BRN
+    country_name: Brunei
+    admin_level: Adm2

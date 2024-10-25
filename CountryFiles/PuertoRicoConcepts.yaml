@@ -1,0 +1,475 @@
+concepts:
+  PRI.0_Adm0:
+    GID: PRI
+    admin_name: Puerto Rico
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm0
+  PRI.1_1_Adm1:
+    GID: PRI.1_1
+    admin_name: Adjuntas
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.10_1_Adm1:
+    GID: PRI.10_1
+    admin_name: Barranquitas
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.11_1_Adm1:
+    GID: PRI.11_1
+    admin_name: Bayamón
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.12_1_Adm1:
+    GID: PRI.12_1
+    admin_name: Cabo Rojo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.13_1_Adm1:
+    GID: PRI.13_1
+    admin_name: Caguas
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.14_1_Adm1:
+    GID: PRI.14_1
+    admin_name: Camuy
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.15_1_Adm1:
+    GID: PRI.15_1
+    admin_name: Canóvanas
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.16_1_Adm1:
+    GID: PRI.16_1
+    admin_name: Carolina
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.17_1_Adm1:
+    GID: PRI.17_1
+    admin_name: Cataño
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.18_1_Adm1:
+    GID: PRI.18_1
+    admin_name: Cayey
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.19_1_Adm1:
+    GID: PRI.19_1
+    admin_name: Ceiba
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.2_1_Adm1:
+    GID: PRI.2_1
+    admin_name: Aguada
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.20_1_Adm1:
+    GID: PRI.20_1
+    admin_name: Ciales
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.21_1_Adm1:
+    GID: PRI.21_1
+    admin_name: Cidra
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.22_1_Adm1:
+    GID: PRI.22_1
+    admin_name: Coamo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.23_1_Adm1:
+    GID: PRI.23_1
+    admin_name: Comerío
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.24_1_Adm1:
+    GID: PRI.24_1
+    admin_name: Corozal
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.25_1_Adm1:
+    GID: PRI.25_1
+    admin_name: Culebra
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.26_1_Adm1:
+    GID: PRI.26_1
+    admin_name: Dorado
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.27_1_Adm1:
+    GID: PRI.27_1
+    admin_name: Fajardo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.28_1_Adm1:
+    GID: PRI.28_1
+    admin_name: Florida
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.29_1_Adm1:
+    GID: PRI.29_1
+    admin_name: Guánica
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.3_1_Adm1:
+    GID: PRI.3_1
+    admin_name: Aguadilla
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.30_1_Adm1:
+    GID: PRI.30_1
+    admin_name: Guayama
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.31_1_Adm1:
+    GID: PRI.31_1
+    admin_name: Guayanilla
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.32_1_Adm1:
+    GID: PRI.32_1
+    admin_name: Guaynabo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.33_1_Adm1:
+    GID: PRI.33_1
+    admin_name: Gurabo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.34_1_Adm1:
+    GID: PRI.34_1
+    admin_name: Hatillo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.35_1_Adm1:
+    GID: PRI.35_1
+    admin_name: Hormigueros
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.36_1_Adm1:
+    GID: PRI.36_1
+    admin_name: Humacao
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.37_1_Adm1:
+    GID: PRI.37_1
+    admin_name: Isabela
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.38_1_Adm1:
+    GID: PRI.38_1
+    admin_name: Jayuya
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.39_1_Adm1:
+    GID: PRI.39_1
+    admin_name: Juana Díaz
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.4_1_Adm1:
+    GID: PRI.4_1
+    admin_name: Aguas Buenas
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.40_1_Adm1:
+    GID: PRI.40_1
+    admin_name: Juncos
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.41_1_Adm1:
+    GID: PRI.41_1
+    admin_name: Lajas
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.42_1_Adm1:
+    GID: PRI.42_1
+    admin_name: Lares
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.43_1_Adm1:
+    GID: PRI.43_1
+    admin_name: Las Marías
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.44_1_Adm1:
+    GID: PRI.44_1
+    admin_name: Las Piedras
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.45_1_Adm1:
+    GID: PRI.45_1
+    admin_name: Loíza
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.46_1_Adm1:
+    GID: PRI.46_1
+    admin_name: Luquillo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.47_1_Adm1:
+    GID: PRI.47_1
+    admin_name: Manatí
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.48_1_Adm1:
+    GID: PRI.48_1
+    admin_name: Maricao
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.49_1_Adm1:
+    GID: PRI.49_1
+    admin_name: Maunabo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.5_1_Adm1:
+    GID: PRI.5_1
+    admin_name: Aibonito
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.50_1_Adm1:
+    GID: PRI.50_1
+    admin_name: Mayagüez
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.51_1_Adm1:
+    GID: PRI.51_1
+    admin_name: Moca
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.52_1_Adm1:
+    GID: PRI.52_1
+    admin_name: Morovis
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.53_1_Adm1:
+    GID: PRI.53_1
+    admin_name: Naguabo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.54_1_Adm1:
+    GID: PRI.54_1
+    admin_name: Naranjito
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.55_1_Adm1:
+    GID: PRI.55_1
+    admin_name: Orocovis
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.56_1_Adm1:
+    GID: PRI.56_1
+    admin_name: Patillas
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.57_1_Adm1:
+    GID: PRI.57_1
+    admin_name: Peñuelas
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.58_1_Adm1:
+    GID: PRI.58_1
+    admin_name: Ponce
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.59_1_Adm1:
+    GID: PRI.59_1
+    admin_name: Quebradillas
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.6_1_Adm1:
+    GID: PRI.6_1
+    admin_name: Añasco
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.60_1_Adm1:
+    GID: PRI.60_1
+    admin_name: Rincón
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.61_1_Adm1:
+    GID: PRI.61_1
+    admin_name: Río Grande
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.62_1_Adm1:
+    GID: PRI.62_1
+    admin_name: Sabana Grande
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.63_1_Adm1:
+    GID: PRI.63_1
+    admin_name: Salinas
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.64_1_Adm1:
+    GID: PRI.64_1
+    admin_name: San Germán
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.65_1_Adm1:
+    GID: PRI.65_1
+    admin_name: San Juan
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.66_1_Adm1:
+    GID: PRI.66_1
+    admin_name: San Lorenzo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.67_1_Adm1:
+    GID: PRI.67_1
+    admin_name: San Sebastián
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.68_1_Adm1:
+    GID: PRI.68_1
+    admin_name: Santa Isabel
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.69_1_Adm1:
+    GID: PRI.69_1
+    admin_name: Toa Alta
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.7_1_Adm1:
+    GID: PRI.7_1
+    admin_name: Arecibo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.70_1_Adm1:
+    GID: PRI.70_1
+    admin_name: Toa Baja
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.71_1_Adm1:
+    GID: PRI.71_1
+    admin_name: Trujillo Alto
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.72_1_Adm1:
+    GID: PRI.72_1
+    admin_name: Utuado
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.73_1_Adm1:
+    GID: PRI.73_1
+    admin_name: Vega Alta
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.74_1_Adm1:
+    GID: PRI.74_1
+    admin_name: Vega Baja
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.75_1_Adm1:
+    GID: PRI.75_1
+    admin_name: Vieques
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.76_1_Adm1:
+    GID: PRI.76_1
+    admin_name: Villalba
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.77_1_Adm1:
+    GID: PRI.77_1
+    admin_name: Yabucoa
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.78_1_Adm1:
+    GID: PRI.78_1
+    admin_name: Yauco
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.8_1_Adm1:
+    GID: PRI.8_1
+    admin_name: Arroyo
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1
+  PRI.9_1_Adm1:
+    GID: PRI.9_1
+    admin_name: Barceloneta
+    iso3c: PRI
+    country_name: Puerto Rico
+    admin_level: Adm1

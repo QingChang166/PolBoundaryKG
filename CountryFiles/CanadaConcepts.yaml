@@ -1,541 +1,1843 @@
 concepts:
-  Canada_Adm0:
-    iso3c: CAN
-    admin_level: Adm0
+  CAN.0_Adm0:
+    GID: CAN
     admin_name: Canada
-    shapeID: 50000805B18704692826824
-    country_name: Canada
-  Canada_Adm1_1:
     iso3c: CAN
-    admin_level: Adm1
-    admin_name: NewfoundlandandLabrador
-    shapeID: 82249235B96958463903898
     country_name: Canada
-  Canada_Adm1_10:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: BritishColumbia
-    shapeID: 82249235B24619009834807
-    country_name: Canada
-  Canada_Adm1_11:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: Yukon
-    shapeID: 82249235B9619254975586
-    country_name: Canada
-  Canada_Adm1_12:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: NorthwestTerritories
-    shapeID: 82249235B82395866892480
-    country_name: Canada
-  Canada_Adm1_13:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: Nunavut
-    shapeID: 82249235B23927232378620
-    country_name: Canada
-  Canada_Adm1_2:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: PrinceEdwardIsland
-    shapeID: 82249235B3191732862561
-    country_name: Canada
-  Canada_Adm1_3:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: NovaScotia
-    shapeID: 82249235B69645938038492
-    country_name: Canada
-  Canada_Adm1_4:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: NewBrunswick
-    shapeID: 82249235B4167839012994
-    country_name: Canada
-  Canada_Adm1_5:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: Quebec
-    shapeID: 82249235B52639524229375
-    country_name: Canada
-  Canada_Adm1_6:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: Ontario
-    shapeID: 82249235B66370767641120
-    country_name: Canada
-  Canada_Adm1_7:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: Manitoba
-    shapeID: 82249235B50381585000441
-    country_name: Canada
-  Canada_Adm1_8:
-    iso3c: CAN
-    admin_level: Adm1
-    admin_name: Saskatchewan
-    shapeID: 82249235B71336988791422
-    country_name: Canada
-  Canada_Adm1_9:
-    iso3c: CAN
-    admin_level: Adm1
+    admin_level: Adm0
+  CAN.1_1_Adm1:
+    GID: CAN.1_1
     admin_name: Alberta
-    shapeID: 82249235B5553315981608
-    country_name: Canada
-  Canada_Adm2_1:
     iso3c: CAN
-    admin_level: Adm2
-    admin_name: AvalonPeninsula
-    shapeID: 811477B25825438233887
     country_name: Canada
-  Canada_Adm2_10:
+    admin_level: Adm1
+  CAN.1.1_1_Adm2:
+    GID: CAN.1.1_1
+    admin_name: Division No. 10
     iso3c: CAN
-    admin_level: Adm2
-    admin_name: Halifax
-    shapeID: 811477B772229677818
     country_name: Canada
-  Canada_Adm2_11:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Campbellton--Miramichi
-    shapeID: 811477B32681806603113
+  CAN.1.10_1_Adm2:
+    GID: CAN.1.10_1
+    admin_name: Division No. 19
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_12:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Moncton--Richibucto
-    shapeID: 811477B10091051232665
+  CAN.1.11_1_Adm2:
+    GID: CAN.1.11_1
+    admin_name: Division No. 1
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_13:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: SaintJohn--St.Stephen
-    shapeID: 811477B20578745802052
+  CAN.1.12_1_Adm2:
+    GID: CAN.1.12_1
+    admin_name: Division No. 2
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_14:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Fredericton--Oromocto
-    shapeID: 811477B77394279181451
+  CAN.1.13_1_Adm2:
+    GID: CAN.1.13_1
+    admin_name: Division No. 3
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_15:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Edmundston--Woodstock
-    shapeID: 811477B2528613177772
+  CAN.1.14_1_Adm2:
+    GID: CAN.1.14_1
+    admin_name: Division No. 4
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_16:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Gaspésie--Îles-de-la-Madelei
-    shapeID: 811477B83690670726478
+  CAN.1.15_1_Adm2:
+    GID: CAN.1.15_1
+    admin_name: Division No. 5
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_17:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Bas-Saint-Laurent
-    shapeID: 811477B72713062491295
+  CAN.1.16_1_Adm2:
+    GID: CAN.1.16_1
+    admin_name: Division No. 6
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_18:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Capitale-Nationale
-    shapeID: 811477B76079196680342
+  CAN.1.17_1_Adm2:
+    GID: CAN.1.17_1
+    admin_name: Division No. 7
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_19:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Chaudière-Appalaches
-    shapeID: 811477B14378531582745
+  CAN.1.18_1_Adm2:
+    GID: CAN.1.18_1
+    admin_name: Division No. 8
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_2:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: SouthCoast--BurinPeninsula*
-    shapeID: 811477B14604882174662
+  CAN.1.19_1_Adm2:
+    GID: CAN.1.19_1
+    admin_name: Division No. 9
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_20:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Estrie
-    shapeID: 811477B23883248376492
+  CAN.1.2_1_Adm2:
+    GID: CAN.1.2_1
+    admin_name: Division No. 11
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_21:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Centre-du-Québec
-    shapeID: 811477B16566430177620
+  CAN.1.3_1_Adm2:
+    GID: CAN.1.3_1
+    admin_name: Division No. 12
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_22:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Montérégie
-    shapeID: 811477B95270130907669
+  CAN.1.4_1_Adm2:
+    GID: CAN.1.4_1
+    admin_name: Division No. 13
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_23:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Montréal
-    shapeID: 811477B39607873934599
+  CAN.1.5_1_Adm2:
+    GID: CAN.1.5_1
+    admin_name: Division No. 14
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_24:
-    iso3c: CAN
     admin_level: Adm2
+  CAN.1.6_1_Adm2:
+    GID: CAN.1.6_1
+    admin_name: Division No. 15
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.1.7_1_Adm2:
+    GID: CAN.1.7_1
+    admin_name: Division No. 16
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.1.8_1_Adm2:
+    GID: CAN.1.8_1
+    admin_name: Division No. 17
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.1.9_1_Adm2:
+    GID: CAN.1.9_1
+    admin_name: Division No. 18
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.10_1_Adm1:
+    GID: CAN.10_1
+    admin_name: Prince Edward Island
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm1
+  CAN.10.1_1_Adm2:
+    GID: CAN.10.1_1
+    admin_name: Kings
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.10.2_1_Adm2:
+    GID: CAN.10.2_1
+    admin_name: Prince
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.10.3_1_Adm2:
+    GID: CAN.10.3_1
+    admin_name: Queens
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11_1_Adm1:
+    GID: CAN.11_1
+    admin_name: Québec
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm1
+  CAN.11.1_1_Adm2:
+    GID: CAN.11.1_1
+    admin_name: Abitibi-Ouest
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.10_1_Adm2:
+    GID: CAN.11.10_1
+    admin_name: Beauharnois-Salaberry
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.11_1_Adm2:
+    GID: CAN.11.11_1
+    admin_name: Bécancour
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.12_1_Adm2:
+    GID: CAN.11.12_1
+    admin_name: Bellechasse
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.13_1_Adm2:
+    GID: CAN.11.13_1
+    admin_name: Bonaventure
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.14_1_Adm2:
+    GID: CAN.11.14_1
+    admin_name: Brome-Missisquoi
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.15_1_Adm2:
+    GID: CAN.11.15_1
+    admin_name: Champlain
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.16_1_Adm2:
+    GID: CAN.11.16_1
+    admin_name: Charlevoix-Est
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.17_1_Adm2:
+    GID: CAN.11.17_1
+    admin_name: Charlevoix
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.18_1_Adm2:
+    GID: CAN.11.18_1
+    admin_name: Coaticook
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.19_1_Adm2:
+    GID: CAN.11.19_1
+    admin_name: Communauté-Urbaine-de-l'Outaouai
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.2_1_Adm2:
+    GID: CAN.11.2_1
+    admin_name: Abitibi
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.20_1_Adm2:
+    GID: CAN.11.20_1
+    admin_name: Communauté-Urbaine-de-Montréal
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.21_1_Adm2:
+    GID: CAN.11.21_1
+    admin_name: Communauté-Urbaine-de-Québec
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.22_1_Adm2:
+    GID: CAN.11.22_1
+    admin_name: D'Autray
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.23_1_Adm2:
+    GID: CAN.11.23_1
+    admin_name: Desjardins
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.24_1_Adm2:
+    GID: CAN.11.24_1
+    admin_name: Deux-Montagnes
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.25_1_Adm2:
+    GID: CAN.11.25_1
+    admin_name: Drummond
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.26_1_Adm2:
+    GID: CAN.11.26_1
+    admin_name: Francheville
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.27_1_Adm2:
+    GID: CAN.11.27_1
+    admin_name: Joliette
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.28_1_Adm2:
+    GID: CAN.11.28_1
+    admin_name: Kamouraska
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.29_1_Adm2:
+    GID: CAN.11.29_1
+    admin_name: L'Amiante
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.3_1_Adm2:
+    GID: CAN.11.3_1
+    admin_name: Acton
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.30_1_Adm2:
+    GID: CAN.11.30_1
+    admin_name: L'Assomption
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.31_1_Adm2:
+    GID: CAN.11.31_1
+    admin_name: L'Érable
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.32_1_Adm2:
+    GID: CAN.11.32_1
+    admin_name: L'Île-d'Orléans
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.33_1_Adm2:
+    GID: CAN.11.33_1
+    admin_name: L'Islet
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.34_1_Adm2:
+    GID: CAN.11.34_1
+    admin_name: La Côte-de-Beaupré
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.35_1_Adm2:
+    GID: CAN.11.35_1
+    admin_name: La Côte-de-Gaspé
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.36_1_Adm2:
+    GID: CAN.11.36_1
+    admin_name: La Haute-Côte-Nord
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.37_1_Adm2:
+    GID: CAN.11.37_1
+    admin_name: La Haute-Gaspésie
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.38_1_Adm2:
+    GID: CAN.11.38_1
+    admin_name: La Haute-Yamaska
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.39_1_Adm2:
+    GID: CAN.11.39_1
+    admin_name: La Jacques-Cartier
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.4_1_Adm2:
+    GID: CAN.11.4_1
+    admin_name: Antoine-Labelle
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.40_1_Adm2:
+    GID: CAN.11.40_1
+    admin_name: La Matapédia
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.41_1_Adm2:
+    GID: CAN.11.41_1
+    admin_name: La Mitis
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.42_1_Adm2:
+    GID: CAN.11.42_1
+    admin_name: La Nouvelle-Beauce
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.43_1_Adm2:
+    GID: CAN.11.43_1
+    admin_name: La Région-Sherbrookoise
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.44_1_Adm2:
+    GID: CAN.11.44_1
+    admin_name: La Rivière-du-Nord
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.45_1_Adm2:
+    GID: CAN.11.45_1
+    admin_name: La Vallée-de-la-Gatineau
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.46_1_Adm2:
+    GID: CAN.11.46_1
+    admin_name: La Vallée-du-Richelieu
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.47_1_Adm2:
+    GID: CAN.11.47_1
+    admin_name: Lac-Saint-Jean-Est
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.48_1_Adm2:
+    GID: CAN.11.48_1
+    admin_name: Lajemmerais
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.49_1_Adm2:
+    GID: CAN.11.49_1
     admin_name: Laval
-    shapeID: 811477B18310257364605
-    country_name: Canada
-  Canada_Adm2_25:
     iso3c: CAN
-    admin_level: Adm2
-    admin_name: Lanaudière
-    shapeID: 811477B25883499067211
     country_name: Canada
-  Canada_Adm2_26:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Laurentides
-    shapeID: 811477B98251236727118
+  CAN.11.5_1_Adm2:
+    GID: CAN.11.5_1
+    admin_name: Argenteuil
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_27:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Outaouais
-    shapeID: 811477B56871273530804
+  CAN.11.50_1_Adm2:
+    GID: CAN.11.50_1
+    admin_name: Le Bas-Richelieu
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_28:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Abitibi-Témiscamingue
-    shapeID: 811477B53502850558917
+  CAN.11.51_1_Adm2:
+    GID: CAN.11.51_1
+    admin_name: Le Centre-de-la-Mauricie
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_29:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Mauricie
-    shapeID: 811477B9927765921058
+  CAN.11.52_1_Adm2:
+    GID: CAN.11.52_1
+    admin_name: Le Domaine-du-Roy
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_3:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: WestCoast--NorthernPeninsul*
-    shapeID: 811477B46540851018078
+  CAN.11.53_1_Adm2:
+    GID: CAN.11.53_1
+    admin_name: Le Fjord-du-Saguenay
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_30:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Saguenay--Lac-Saint-Jean
-    shapeID: 811477B62930517088497
+  CAN.11.54_1_Adm2:
+    GID: CAN.11.54_1
+    admin_name: Le Granit
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_31:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Côte-Nord
-    shapeID: 811477B28478756836533
+  CAN.11.55_1_Adm2:
+    GID: CAN.11.55_1
+    admin_name: Le Haut-Richelieu
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_32:
-    iso3c: CAN
     admin_level: Adm2
+  CAN.11.56_1_Adm2:
+    GID: CAN.11.56_1
+    admin_name: Le Haut-Saint-François
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.57_1_Adm2:
+    GID: CAN.11.57_1
+    admin_name: Le Haut-Saint-Laurent
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.58_1_Adm2:
+    GID: CAN.11.58_1
+    admin_name: Le Haut-Saint-Maurice
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.59_1_Adm2:
+    GID: CAN.11.59_1
+    admin_name: Le Rocher-Percé
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.6_1_Adm2:
+    GID: CAN.11.6_1
+    admin_name: Arthabaska
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.60_1_Adm2:
+    GID: CAN.11.60_1
+    admin_name: Le Val-Saint-François
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.61_1_Adm2:
+    GID: CAN.11.61_1
+    admin_name: Les Basques
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.62_1_Adm2:
+    GID: CAN.11.62_1
+    admin_name: Les Chutes-de-la-Chaudière
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.63_1_Adm2:
+    GID: CAN.11.63_1
+    admin_name: Les Collines-de-l'Outaouais
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.64_1_Adm2:
+    GID: CAN.11.64_1
+    admin_name: Les Etchemins
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.65_1_Adm2:
+    GID: CAN.11.65_1
+    admin_name: Les Îles-de-la-Madeleine
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.66_1_Adm2:
+    GID: CAN.11.66_1
+    admin_name: Les Jardins-de-Napierville
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.67_1_Adm2:
+    GID: CAN.11.67_1
+    admin_name: Les Laurentides
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.68_1_Adm2:
+    GID: CAN.11.68_1
+    admin_name: Les Maskoutains
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.69_1_Adm2:
+    GID: CAN.11.69_1
+    admin_name: Les Moulins
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.7_1_Adm2:
+    GID: CAN.11.7_1
+    admin_name: Asbestos
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.70_1_Adm2:
+    GID: CAN.11.70_1
+    admin_name: Les Pays-d'en-Haut
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.71_1_Adm2:
+    GID: CAN.11.71_1
+    admin_name: Lotbinière
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.72_1_Adm2:
+    GID: CAN.11.72_1
+    admin_name: Manicouagan
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.73_1_Adm2:
+    GID: CAN.11.73_1
+    admin_name: Maria-Chapdelaine
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.74_1_Adm2:
+    GID: CAN.11.74_1
+    admin_name: Maskinongé
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.75_1_Adm2:
+    GID: CAN.11.75_1
+    admin_name: Matane
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.76_1_Adm2:
+    GID: CAN.11.76_1
+    admin_name: Matawinie
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.77_1_Adm2:
+    GID: CAN.11.77_1
+    admin_name: Mékinac
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.78_1_Adm2:
+    GID: CAN.11.78_1
+    admin_name: Memphrémagog
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.79_1_Adm2:
+    GID: CAN.11.79_1
+    admin_name: Minganie--Basse-Côte-Nord
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.8_1_Adm2:
+    GID: CAN.11.8_1
+    admin_name: Avignon
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.80_1_Adm2:
+    GID: CAN.11.80_1
+    admin_name: Mirabel
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.81_1_Adm2:
+    GID: CAN.11.81_1
+    admin_name: Montcalm
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.82_1_Adm2:
+    GID: CAN.11.82_1
+    admin_name: Montmagny
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.83_1_Adm2:
+    GID: CAN.11.83_1
+    admin_name: Nicolet-Yamaska
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.11.84_1_Adm2:
+    GID: CAN.11.84_1
     admin_name: Nord-du-Québec
-    shapeID: 811477B94098391205928
-    country_name: Canada
-  Canada_Adm2_33:
     iso3c: CAN
-    admin_level: Adm2
-    admin_name: Ottawa
-    shapeID: 811477B85931941465938
     country_name: Canada
-  Canada_Adm2_34:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Kingston--Pembroke
-    shapeID: 811477B62189271457838
+  CAN.11.85_1_Adm2:
+    GID: CAN.11.85_1
+    admin_name: Papineau
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_35:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Muskoka--Kawarthas
-    shapeID: 811477B35801915414510
+  CAN.11.86_1_Adm2:
+    GID: CAN.11.86_1
+    admin_name: Pontiac
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_36:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Toronto
-    shapeID: 811477B53273056717807
+  CAN.11.87_1_Adm2:
+    GID: CAN.11.87_1
+    admin_name: Portneuf
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_37:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Kitchener--Waterloo--Barrie
-    shapeID: 811477B58259401373998
+  CAN.11.88_1_Adm2:
+    GID: CAN.11.88_1
+    admin_name: Rimouski-Neigette
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_38:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Hamilton--NiagaraPeninsula
-    shapeID: 811477B46333473777628
+  CAN.11.89_1_Adm2:
+    GID: CAN.11.89_1
+    admin_name: Rivière-du-Loup
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_39:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: London
-    shapeID: 811477B53026526686124
+  CAN.11.9_1_Adm2:
+    GID: CAN.11.9_1
+    admin_name: Beauce-Sartigan
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_4:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: NotreDame--CentralBonavista*
-    shapeID: 811477B90164277950663
+  CAN.11.90_1_Adm2:
+    GID: CAN.11.90_1
+    admin_name: Robert-Cliche
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_40:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Windsor--Sarnia
-    shapeID: 811477B8793422234582
+  CAN.11.91_1_Adm2:
+    GID: CAN.11.91_1
+    admin_name: Roussillon
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_41:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Stratford--BrucePeninsula
-    shapeID: 811477B72757593156703
+  CAN.11.92_1_Adm2:
+    GID: CAN.11.92_1
+    admin_name: Rouville
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_42:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Northeast/Nord-est
-    shapeID: 811477B61209589162148
+  CAN.11.93_1_Adm2:
+    GID: CAN.11.93_1
+    admin_name: Rouyn-Noranda
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_43:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Northwest/Nord-ouest
-    shapeID: 811477B31854329878233
+  CAN.11.94_1_Adm2:
+    GID: CAN.11.94_1
+    admin_name: Sept-Rivières--Caniapiscau
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_44:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Southeast/Sud-est
-    shapeID: 811477B90779498920420
+  CAN.11.95_1_Adm2:
+    GID: CAN.11.95_1
+    admin_name: Témiscamingue
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_45:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: SouthCentral/Centresud
-    shapeID: 811477B19193173809350
+  CAN.11.96_1_Adm2:
+    GID: CAN.11.96_1
+    admin_name: Témiscouata
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_46:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Southwest/Sud-ouest
-    shapeID: 811477B58273447448360
+  CAN.11.97_1_Adm2:
+    GID: CAN.11.97_1
+    admin_name: Thérèse-De Blainville
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_47:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: NorthCentral/Centrenord
-    shapeID: 811477B41271029806166
+  CAN.11.98_1_Adm2:
+    GID: CAN.11.98_1
+    admin_name: Vallée-de-l'Or
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_48:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Winnipeg
-    shapeID: 811477B32893838170945
+  CAN.11.99_1_Adm2:
+    GID: CAN.11.99_1
+    admin_name: Vaudreuil-Soulanges
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_49:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Interlake
-    shapeID: 811477B58370498971014
+  CAN.12_1_Adm1:
+    GID: CAN.12_1
+    admin_name: Saskatchewan
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_5:
+    admin_level: Adm1
+  CAN.12.1_1_Adm2:
+    GID: CAN.12.1_1
+    admin_name: Division No. 10
     iso3c: CAN
-    admin_level: Adm2
-    admin_name: PrinceEdwardIsland/Île-du
-    shapeID: 811477B18636492208722
     country_name: Canada
-  Canada_Adm2_50:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Parklands
-    shapeID: 811477B68585470358091
+  CAN.12.10_1_Adm2:
+    GID: CAN.12.10_1
+    admin_name: Division No. 1
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_51:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: North/Nord
-    shapeID: 811477B37780591803874
+  CAN.12.11_1_Adm2:
+    GID: CAN.12.11_1
+    admin_name: Division No. 2
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_52:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Regina--MooseMountain
-    shapeID: 811477B97144147936178
+  CAN.12.12_1_Adm2:
+    GID: CAN.12.12_1
+    admin_name: Division No. 3
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_53:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: SwiftCurrent--MooseJaw
-    shapeID: 811477B43465870880660
+  CAN.12.13_1_Adm2:
+    GID: CAN.12.13_1
+    admin_name: Division No. 4
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_54:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Saskatoon--Biggar
-    shapeID: 811477B54517357907665
+  CAN.12.14_1_Adm2:
+    GID: CAN.12.14_1
+    admin_name: Division No. 5
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_55:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Yorkton--Melville
-    shapeID: 811477B87665829892242
+  CAN.12.15_1_Adm2:
+    GID: CAN.12.15_1
+    admin_name: Division No. 6
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_56:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: PrinceAlbert
-    shapeID: 811477B12991983427491
+  CAN.12.16_1_Adm2:
+    GID: CAN.12.16_1
+    admin_name: Division No. 7
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_57:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Northern/Nord
-    shapeID: 811477B84145681599203
+  CAN.12.17_1_Adm2:
+    GID: CAN.12.17_1
+    admin_name: Division No. 8
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_58:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Lethbridge--MedicineHat
-    shapeID: 811477B22056200748647
+  CAN.12.18_1_Adm2:
+    GID: CAN.12.18_1
+    admin_name: Division No. 9
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_59:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Camrose--Drumheller
-    shapeID: 811477B18963105531300
+  CAN.12.2_1_Adm2:
+    GID: CAN.12.2_1
+    admin_name: Division No. 11
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_6:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: CapeBreton
-    shapeID: 811477B34653806269140
+  CAN.12.3_1_Adm2:
+    GID: CAN.12.3_1
+    admin_name: Division No. 12
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_60:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Calgary
-    shapeID: 811477B63096276247091
+  CAN.12.4_1_Adm2:
+    GID: CAN.12.4_1
+    admin_name: Division No. 13
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_61:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Banff--Jasper--RockyMountain*
-    shapeID: 811477B6794370445536
+  CAN.12.5_1_Adm2:
+    GID: CAN.12.5_1
+    admin_name: Division No. 14
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_62:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: RedDeer
-    shapeID: 811477B36928320026762
+  CAN.12.6_1_Adm2:
+    GID: CAN.12.6_1
+    admin_name: Division No. 15
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_63:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Edmonton
-    shapeID: 811477B65555147330187
+  CAN.12.7_1_Adm2:
+    GID: CAN.12.7_1
+    admin_name: Division No. 16
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_64:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: Athabasca--GrandePrairie--Pe*
-    shapeID: 811477B52238301703097
+  CAN.12.8_1_Adm2:
+    GID: CAN.12.8_1
+    admin_name: Division No. 17
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_65:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: WoodBuffalo--ColdLake
-    shapeID: 811477B63130221502848
+  CAN.12.9_1_Adm2:
+    GID: CAN.12.9_1
+    admin_name: Division No. 18
+    iso3c: CAN
     country_name: Canada
-  Canada_Adm2_66:
-    iso3c: CAN
     admin_level: Adm2
-    admin_name: VancouverIslandandCoast/*
-    shapeID: 811477B94175417420797
-    country_name: Canada
-  Canada_Adm2_67:
-    iso3c: CAN
-    admin_level: Adm2
-    admin_name: LowerMainland--Southwest/L*
-    shapeID: 811477B92979298111038
-    country_name: Canada
-  Canada_Adm2_68:
-    iso3c: CAN
-    admin_level: Adm2
-    admin_name: Thompson--Okanagan
-    shapeID: 811477B2093292378449
-    country_name: Canada
-  Canada_Adm2_69:
-    iso3c: CAN
-    admin_level: Adm2
-    admin_name: Kootenay
-    shapeID: 811477B17102347998990
-    country_name: Canada
-  Canada_Adm2_7:
-    iso3c: CAN
-    admin_level: Adm2
-    admin_name: NorthShore/Côte-nord
-    shapeID: 811477B41230698537605
-    country_name: Canada
-  Canada_Adm2_70:
-    iso3c: CAN
-    admin_level: Adm2
-    admin_name: Cariboo
-    shapeID: 811477B16322503842714
-    country_name: Canada
-  Canada_Adm2_71:
-    iso3c: CAN
-    admin_level: Adm2
-    admin_name: NorthCoast/Côte-nord
-    shapeID: 811477B51248410947811
-    country_name: Canada
-  Canada_Adm2_72:
-    iso3c: CAN
-    admin_level: Adm2
-    admin_name: Nechako
-    shapeID: 811477B50846318398433
-    country_name: Canada
-  Canada_Adm2_73:
-    iso3c: CAN
-    admin_level: Adm2
-    admin_name: Northeast/Nord-est
-    shapeID: 811477B20348079294456
-    country_name: Canada
-  Canada_Adm2_74:
-    iso3c: CAN
-    admin_level: Adm2
+  CAN.13_1_Adm1:
+    GID: CAN.13_1
     admin_name: Yukon
-    shapeID: 811477B48084920918321
-    country_name: Canada
-  Canada_Adm2_75:
     iso3c: CAN
-    admin_level: Adm2
-    admin_name: NorthwestTerritories/Terri*
-    shapeID: 811477B98274245708554
     country_name: Canada
-  Canada_Adm2_76:
+    admin_level: Adm1
+  CAN.13.1_1_Adm2:
+    GID: CAN.13.1_1
+    admin_name: Yukon
     iso3c: CAN
+    country_name: Canada
     admin_level: Adm2
+  CAN.2_1_Adm1:
+    GID: CAN.2_1
+    admin_name: British Columbia
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm1
+  CAN.2.1_1_Adm2:
+    GID: CAN.2.1_1
+    admin_name: Alberni-Clayoquot
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.10_1_Adm2:
+    GID: CAN.2.10_1
+    admin_name: Cowichan Valley
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.11_1_Adm2:
+    GID: CAN.2.11_1
+    admin_name: East Kootenay
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.12_1_Adm2:
+    GID: CAN.2.12_1
+    admin_name: Fraser-Fort George
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.13_1_Adm2:
+    GID: CAN.2.13_1
+    admin_name: Fraser Valley
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.14_1_Adm2:
+    GID: CAN.2.14_1
+    admin_name: Greater Vancouver
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.15_1_Adm2:
+    GID: CAN.2.15_1
+    admin_name: Kitimat-Stikine
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.16_1_Adm2:
+    GID: CAN.2.16_1
+    admin_name: Kootenay Boundary
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.17_1_Adm2:
+    GID: CAN.2.17_1
+    admin_name: Mount Waddington
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.18_1_Adm2:
+    GID: CAN.2.18_1
+    admin_name: Nanaimo
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.19_1_Adm2:
+    GID: CAN.2.19_1
+    admin_name: North Okanagan
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.2_1_Adm2:
+    GID: CAN.2.2_1
+    admin_name: Bulkley-Nechako
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.20_1_Adm2:
+    GID: CAN.2.20_1
+    admin_name: Northern Rockies
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.21_1_Adm2:
+    GID: CAN.2.21_1
+    admin_name: Okanagan-Similkameen
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.22_1_Adm2:
+    GID: CAN.2.22_1
+    admin_name: Peace River
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.23_1_Adm2:
+    GID: CAN.2.23_1
+    admin_name: Powell River
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.24_1_Adm2:
+    GID: CAN.2.24_1
+    admin_name: Skeena-Queen Charlotte
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.25_1_Adm2:
+    GID: CAN.2.25_1
+    admin_name: Squamish-Lillooet
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.26_1_Adm2:
+    GID: CAN.2.26_1
+    admin_name: Stikine
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.27_1_Adm2:
+    GID: CAN.2.27_1
+    admin_name: Sunshine Coast
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.28_1_Adm2:
+    GID: CAN.2.28_1
+    admin_name: Thompson-Nicola
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.3_1_Adm2:
+    GID: CAN.2.3_1
+    admin_name: Capital
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.4_1_Adm2:
+    GID: CAN.2.4_1
+    admin_name: Cariboo
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.5_1_Adm2:
+    GID: CAN.2.5_1
+    admin_name: Central Coast
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.6_1_Adm2:
+    GID: CAN.2.6_1
+    admin_name: Central Kootenay
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.7_1_Adm2:
+    GID: CAN.2.7_1
+    admin_name: Central Okanagan
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.8_1_Adm2:
+    GID: CAN.2.8_1
+    admin_name: Columbia-Shuswap
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.2.9_1_Adm2:
+    GID: CAN.2.9_1
+    admin_name: Comox-Strathcona
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3_1_Adm1:
+    GID: CAN.3_1
+    admin_name: Manitoba
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm1
+  CAN.3.1_1_Adm2:
+    GID: CAN.3.1_1
+    admin_name: Division No. 10
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.10_1_Adm2:
+    GID: CAN.3.10_1
+    admin_name: Division No. 19
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.11_1_Adm2:
+    GID: CAN.3.11_1
+    admin_name: Division No. 1
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.12_1_Adm2:
+    GID: CAN.3.12_1
+    admin_name: Division No. 20
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.13_1_Adm2:
+    GID: CAN.3.13_1
+    admin_name: Division No. 21
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.14_1_Adm2:
+    GID: CAN.3.14_1
+    admin_name: Division No. 22
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.15_1_Adm2:
+    GID: CAN.3.15_1
+    admin_name: Division No. 23
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.16_1_Adm2:
+    GID: CAN.3.16_1
+    admin_name: Division No. 2
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.17_1_Adm2:
+    GID: CAN.3.17_1
+    admin_name: Division No. 3
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.18_1_Adm2:
+    GID: CAN.3.18_1
+    admin_name: Division No. 4
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.19_1_Adm2:
+    GID: CAN.3.19_1
+    admin_name: Division No. 5
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.2_1_Adm2:
+    GID: CAN.3.2_1
+    admin_name: Division No. 11
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.20_1_Adm2:
+    GID: CAN.3.20_1
+    admin_name: Division No. 6
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.21_1_Adm2:
+    GID: CAN.3.21_1
+    admin_name: Division No. 7
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.22_1_Adm2:
+    GID: CAN.3.22_1
+    admin_name: Division No. 8
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.23_1_Adm2:
+    GID: CAN.3.23_1
+    admin_name: Division No. 9
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.3_1_Adm2:
+    GID: CAN.3.3_1
+    admin_name: Division No. 12
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.4_1_Adm2:
+    GID: CAN.3.4_1
+    admin_name: Division No. 13
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.5_1_Adm2:
+    GID: CAN.3.5_1
+    admin_name: Division No. 14
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.6_1_Adm2:
+    GID: CAN.3.6_1
+    admin_name: Division No. 15
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.7_1_Adm2:
+    GID: CAN.3.7_1
+    admin_name: Division No. 16
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.8_1_Adm2:
+    GID: CAN.3.8_1
+    admin_name: Division No. 17
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.3.9_1_Adm2:
+    GID: CAN.3.9_1
+    admin_name: Division No. 18
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4_1_Adm1:
+    GID: CAN.4_1
+    admin_name: New Brunswick
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm1
+  CAN.4.1_1_Adm2:
+    GID: CAN.4.1_1
+    admin_name: Albert
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.10_1_Adm2:
+    GID: CAN.4.10_1
+    admin_name: Restigouche
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.11_1_Adm2:
+    GID: CAN.4.11_1
+    admin_name: Saint John
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.12_1_Adm2:
+    GID: CAN.4.12_1
+    admin_name: Sunbury
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.13_1_Adm2:
+    GID: CAN.4.13_1
+    admin_name: Victoria
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.14_1_Adm2:
+    GID: CAN.4.14_1
+    admin_name: Westmorland
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.15_1_Adm2:
+    GID: CAN.4.15_1
+    admin_name: York
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.2_1_Adm2:
+    GID: CAN.4.2_1
+    admin_name: Carleton
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.3_1_Adm2:
+    GID: CAN.4.3_1
+    admin_name: Charlotte
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.4_1_Adm2:
+    GID: CAN.4.4_1
+    admin_name: Gloucester
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.5_1_Adm2:
+    GID: CAN.4.5_1
+    admin_name: Kent
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.6_1_Adm2:
+    GID: CAN.4.6_1
+    admin_name: Kings
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.7_1_Adm2:
+    GID: CAN.4.7_1
+    admin_name: Madawaska
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.8_1_Adm2:
+    GID: CAN.4.8_1
+    admin_name: Northumberland
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.4.9_1_Adm2:
+    GID: CAN.4.9_1
+    admin_name: Queens
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5_1_Adm1:
+    GID: CAN.5_1
+    admin_name: Newfoundland and Labrador
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm1
+  CAN.5.1_1_Adm2:
+    GID: CAN.5.1_1
+    admin_name: Division No. 10
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5.10_1_Adm2:
+    GID: CAN.5.10_1
+    admin_name: Division No. 8
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5.11_1_Adm2:
+    GID: CAN.5.11_1
+    admin_name: Division No. 9
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5.2_1_Adm2:
+    GID: CAN.5.2_1
+    admin_name: Division No. 11
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5.3_1_Adm2:
+    GID: CAN.5.3_1
+    admin_name: Division No. 1
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5.4_1_Adm2:
+    GID: CAN.5.4_1
+    admin_name: Division No. 2
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5.5_1_Adm2:
+    GID: CAN.5.5_1
+    admin_name: Division No. 3
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5.6_1_Adm2:
+    GID: CAN.5.6_1
+    admin_name: Division No. 4
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5.7_1_Adm2:
+    GID: CAN.5.7_1
+    admin_name: Division No. 5
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5.8_1_Adm2:
+    GID: CAN.5.8_1
+    admin_name: Division No. 6
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.5.9_1_Adm2:
+    GID: CAN.5.9_1
+    admin_name: Division No. 7
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.6_1_Adm1:
+    GID: CAN.6_1
+    admin_name: Northwest Territories
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm1
+  CAN.6.1_1_Adm2:
+    GID: CAN.6.1_1
+    admin_name: Fort Smith
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.6.2_1_Adm2:
+    GID: CAN.6.2_1
+    admin_name: Inuvik
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7_1_Adm1:
+    GID: CAN.7_1
+    admin_name: Nova Scotia
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm1
+  CAN.7.1_1_Adm2:
+    GID: CAN.7.1_1
+    admin_name: Annapolis
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.10_1_Adm2:
+    GID: CAN.7.10_1
+    admin_name: Inverness
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.11_1_Adm2:
+    GID: CAN.7.11_1
+    admin_name: Kings
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.12_1_Adm2:
+    GID: CAN.7.12_1
+    admin_name: Lunenburg
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.13_1_Adm2:
+    GID: CAN.7.13_1
+    admin_name: Pictou
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.14_1_Adm2:
+    GID: CAN.7.14_1
+    admin_name: Queens
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.15_1_Adm2:
+    GID: CAN.7.15_1
+    admin_name: Richmond
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.16_1_Adm2:
+    GID: CAN.7.16_1
+    admin_name: Shelburne
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.17_1_Adm2:
+    GID: CAN.7.17_1
+    admin_name: Victoria
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.18_1_Adm2:
+    GID: CAN.7.18_1
+    admin_name: Yarmouth
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.2_1_Adm2:
+    GID: CAN.7.2_1
+    admin_name: Antigonish
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.3_1_Adm2:
+    GID: CAN.7.3_1
+    admin_name: Cape Breton
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.4_1_Adm2:
+    GID: CAN.7.4_1
+    admin_name: Colchester
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.5_1_Adm2:
+    GID: CAN.7.5_1
+    admin_name: Cumberland
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.6_1_Adm2:
+    GID: CAN.7.6_1
+    admin_name: Digby
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.7_1_Adm2:
+    GID: CAN.7.7_1
+    admin_name: Guysborough
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.8_1_Adm2:
+    GID: CAN.7.8_1
+    admin_name: Halifax
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.7.9_1_Adm2:
+    GID: CAN.7.9_1
+    admin_name: Hants
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.8_1_Adm1:
+    GID: CAN.8_1
     admin_name: Nunavut
-    shapeID: 811477B26547766372806
-    country_name: Canada
-  Canada_Adm2_8:
     iso3c: CAN
-    admin_level: Adm2
-    admin_name: AnnapolisValley
-    shapeID: 811477B46471323661826
     country_name: Canada
-  Canada_Adm2_9:
+    admin_level: Adm1
+  CAN.8.1_1_Adm2:
+    GID: CAN.8.1_1
+    admin_name: Baffin
     iso3c: CAN
-    admin_level: Adm2
-    admin_name: Southern/Sud
-    shapeID: 811477B76043940988669
     country_name: Canada
+    admin_level: Adm2
+  CAN.8.2_1_Adm2:
+    GID: CAN.8.2_1
+    admin_name: Keewatin
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.8.3_1_Adm2:
+    GID: CAN.8.3_1
+    admin_name: Kitikmeot
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9_1_Adm1:
+    GID: CAN.9_1
+    admin_name: Ontario
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm1
+  CAN.9.1_1_Adm2:
+    GID: CAN.9.1_1
+    admin_name: Algoma
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.10_1_Adm2:
+    GID: CAN.9.10_1
+    admin_name: Frontenac
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.11_1_Adm2:
+    GID: CAN.9.11_1
+    admin_name: Greater Sudbury
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.12_1_Adm2:
+    GID: CAN.9.12_1
+    admin_name: Grey
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.13_1_Adm2:
+    GID: CAN.9.13_1
+    admin_name: Haldimand-Norfolk
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.14_1_Adm2:
+    GID: CAN.9.14_1
+    admin_name: Haliburton
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.15_1_Adm2:
+    GID: CAN.9.15_1
+    admin_name: Halton
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.16_1_Adm2:
+    GID: CAN.9.16_1
+    admin_name: Hamilton
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.17_1_Adm2:
+    GID: CAN.9.17_1
+    admin_name: Hastings
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.18_1_Adm2:
+    GID: CAN.9.18_1
+    admin_name: Huron
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.19_1_Adm2:
+    GID: CAN.9.19_1
+    admin_name: Kawartha Lakes
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.2_1_Adm2:
+    GID: CAN.9.2_1
+    admin_name: Brant
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.20_1_Adm2:
+    GID: CAN.9.20_1
+    admin_name: Kenora
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.21_1_Adm2:
+    GID: CAN.9.21_1
+    admin_name: Lake Erie
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.22_1_Adm2:
+    GID: CAN.9.22_1
+    admin_name: Lake Hurron
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.23_1_Adm2:
+    GID: CAN.9.23_1
+    admin_name: Lake Ontario
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.24_1_Adm2:
+    GID: CAN.9.24_1
+    admin_name: Lake Superior
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.25_1_Adm2:
+    GID: CAN.9.25_1
+    admin_name: Lambton
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.26_1_Adm2:
+    GID: CAN.9.26_1
+    admin_name: Lanark
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.27_1_Adm2:
+    GID: CAN.9.27_1
+    admin_name: Leeds and Grenville
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.28_1_Adm2:
+    GID: CAN.9.28_1
+    admin_name: Lennox and Addington
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.29_1_Adm2:
+    GID: CAN.9.29_1
+    admin_name: Manitoulin
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.3_1_Adm2:
+    GID: CAN.9.3_1
+    admin_name: Bruce
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.30_1_Adm2:
+    GID: CAN.9.30_1
+    admin_name: Middlesex
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.31_1_Adm2:
+    GID: CAN.9.31_1
+    admin_name: Muskoka
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.32_1_Adm2:
+    GID: CAN.9.32_1
+    admin_name: Niagara
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.33_1_Adm2:
+    GID: CAN.9.33_1
+    admin_name: Nipissing
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.34_1_Adm2:
+    GID: CAN.9.34_1
+    admin_name: Northumberland
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.35_1_Adm2:
+    GID: CAN.9.35_1
+    admin_name: Ottawa
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.36_1_Adm2:
+    GID: CAN.9.36_1
+    admin_name: Oxford
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.37_1_Adm2:
+    GID: CAN.9.37_1
+    admin_name: Parry Sound
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.38_1_Adm2:
+    GID: CAN.9.38_1
+    admin_name: Peel
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.39_1_Adm2:
+    GID: CAN.9.39_1
+    admin_name: Perth
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.4_1_Adm2:
+    GID: CAN.9.4_1
+    admin_name: Chatham-Kent
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.40_1_Adm2:
+    GID: CAN.9.40_1
+    admin_name: Peterborough
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.41_1_Adm2:
+    GID: CAN.9.41_1
+    admin_name: Prescott and Russell
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.42_1_Adm2:
+    GID: CAN.9.42_1
+    admin_name: Prince Edward
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.43_1_Adm2:
+    GID: CAN.9.43_1
+    admin_name: Rainy River
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.44_1_Adm2:
+    GID: CAN.9.44_1
+    admin_name: Renfrew
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.45_1_Adm2:
+    GID: CAN.9.45_1
+    admin_name: Simcoe
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.46_1_Adm2:
+    GID: CAN.9.46_1
+    admin_name: Stormont, Dundas and Glengarry
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.47_1_Adm2:
+    GID: CAN.9.47_1
+    admin_name: Sudbury
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.48_1_Adm2:
+    GID: CAN.9.48_1
+    admin_name: Thunder Bay
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.49_1_Adm2:
+    GID: CAN.9.49_1
+    admin_name: Timiskaming
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.5_1_Adm2:
+    GID: CAN.9.5_1
+    admin_name: Cochrane
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.50_1_Adm2:
+    GID: CAN.9.50_1
+    admin_name: Toronto
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.51_1_Adm2:
+    GID: CAN.9.51_1
+    admin_name: Waterloo
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.52_1_Adm2:
+    GID: CAN.9.52_1
+    admin_name: Wellington
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.53_1_Adm2:
+    GID: CAN.9.53_1
+    admin_name: York
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.6_1_Adm2:
+    GID: CAN.9.6_1
+    admin_name: Dufferin
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.7_1_Adm2:
+    GID: CAN.9.7_1
+    admin_name: Durham
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.8_1_Adm2:
+    GID: CAN.9.8_1
+    admin_name: Elgin
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2
+  CAN.9.9_1_Adm2:
+    GID: CAN.9.9_1
+    admin_name: Essex
+    iso3c: CAN
+    country_name: Canada
+    admin_level: Adm2

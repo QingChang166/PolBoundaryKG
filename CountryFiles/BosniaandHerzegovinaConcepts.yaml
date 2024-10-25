@@ -1,97 +1,133 @@
 concepts:
-  BosniaandHerzegovina_Adm0:
+  BIH.0_Adm0:
+    GID: BIH
+    admin_name: Bosnia and Herzegovina
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm0
-    admin_name: BosniaandHerzegovina
-    shapeID: 45210373B24351484340069
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm1_1:
+  BIH.1_1_Adm1:
+    GID: BIH.1_1
+    admin_name: Brčko
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm1
-    admin_name: BrčkoDistrict
-    shapeID: 54001226B82378099338701
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm1_2:
+  BIH.1.1_1_Adm2:
+    GID: BIH.1.1_1
+    admin_name: Brčko
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2_1_Adm1:
+    GID: BIH.2_1
+    admin_name: Federacija Bosna i Hercegovina
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm1
-    admin_name: RepublikaSrpska
-    shapeID: 54001226B66267900922909
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm1_3:
+  BIH.2.1_1_Adm2:
+    GID: BIH.2.1_1
+    admin_name: Bosnian Podrinje
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.10_1_Adm2:
+    GID: BIH.2.10_1
+    admin_name: Zenica-Doboj
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.2_1_Adm2:
+    GID: BIH.2.2_1
+    admin_name: Canton 10
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.3_1_Adm2:
+    GID: BIH.2.3_1
+    admin_name: Central Bosnia
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.4_1_Adm2:
+    GID: BIH.2.4_1
+    admin_name: Herzegovina-Neretva
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.5_1_Adm2:
+    GID: BIH.2.5_1
+    admin_name: Posavina
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.6_1_Adm2:
+    GID: BIH.2.6_1
+    admin_name: Sarajevo
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.7_1_Adm2:
+    GID: BIH.2.7_1
+    admin_name: Tuzla
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.8_1_Adm2:
+    GID: BIH.2.8_1
+    admin_name: Una-Sana
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.9_1_Adm2:
+    GID: BIH.2.9_1
+    admin_name: West Herzegovina
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.3_1_Adm1:
+    GID: BIH.3_1
+    admin_name: Repuplika Srpska
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm1
-    admin_name: FederationofBosniaandHerzegovina
-    shapeID: 54001226B17629474923252
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_1:
+  BIH.3.1_1_Adm2:
+    GID: BIH.3.1_1
+    admin_name: Banja Luka
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm2
-    admin_name: Zenica-DobojCanton
-    shapeID: 40542155B47418273206970
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_10:
+  BIH.3.2_1_Adm2:
+    GID: BIH.3.2_1
+    admin_name: Bijeljina
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm2
-    admin_name: Canton10
-    shapeID: 40542155B38690784165963
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_11:
+  BIH.3.3_1_Adm2:
+    GID: BIH.3.3_1
+    admin_name: Doboj
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm2
-    admin_name: CentralBosniaCanton
-    shapeID: 40542155B88107484912427
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_12:
+  BIH.3.4_1_Adm2:
+    GID: BIH.3.4_1
+    admin_name: Foča
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm2
-    admin_name: SarajevoCanton
-    shapeID: 40542155B32867494329538
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_2:
+  BIH.3.5_1_Adm2:
+    GID: BIH.3.5_1
+    admin_name: Istočno Sarajevo
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm2
-    admin_name: BrckoDistrict
-    shapeID: 40542155B79782904339110
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_3:
+  BIH.3.6_1_Adm2:
+    GID: BIH.3.6_1
+    admin_name: Trebinje
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm2
-    admin_name: PosavinaCanton
-    shapeID: 40542155B39002736091850
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_4:
+  BIH.3.7_1_Adm2:
+    GID: BIH.3.7_1
+    admin_name: Vlasenica
     iso3c: BIH
+    country_name: Bosnia and Herzegovina
     admin_level: Adm2
-    admin_name: RepublikaSrpska
-    shapeID: 40542155B67901979992547
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_5:
-    iso3c: BIH
-    admin_level: Adm2
-    admin_name: Bosnian-PodrinjeCantonGoražde
-    shapeID: 40542155B3404914170098
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_6:
-    iso3c: BIH
-    admin_level: Adm2
-    admin_name: Herzegovina-NeretvaCanton
-    shapeID: 40542155B93668077064367
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_7:
-    iso3c: BIH
-    admin_level: Adm2
-    admin_name: TuzlaCanton
-    shapeID: 40542155B95280327338373
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_8:
-    iso3c: BIH
-    admin_level: Adm2
-    admin_name: WestHerzegovinaCanton
-    shapeID: 40542155B82966258059888
-    country_name: BosniaandHerzegovina
-  BosniaandHerzegovina_Adm2_9:
-    iso3c: BIH
-    admin_level: Adm2
-    admin_name: Una-SanaCanton
-    shapeID: 40542155B45322737222684
-    country_name: BosniaandHerzegovina

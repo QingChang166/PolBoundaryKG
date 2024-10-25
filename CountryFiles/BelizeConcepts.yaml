@@ -1,229 +1,43 @@
 concepts:
-  Belize_Adm0:
+  BLZ.0_Adm0:
+    GID: BLZ
+    admin_name: Belize
     iso3c: BLZ
+    country_name: Belize
     admin_level: Adm0
+  BLZ.1_1_Adm1:
+    GID: BLZ.1_1
     admin_name: Belize
-    shapeID: 71637956B9017087236850
-    country_name: Belize
-  Belize_Adm1_1:
     iso3c: BLZ
-    admin_level: Adm1
-    admin_name: OrangeWalk
-    shapeID: 66346737B60973332075708
     country_name: Belize
-  Belize_Adm1_2:
-    iso3c: BLZ
     admin_level: Adm1
-    admin_name: Corozal
-    shapeID: 66346737B23604924227645
-    country_name: Belize
-  Belize_Adm1_3:
-    iso3c: BLZ
-    admin_level: Adm1
-    admin_name: Belize
-    shapeID: 66346737B58775340764376
-    country_name: Belize
-  Belize_Adm1_4:
-    iso3c: BLZ
-    admin_level: Adm1
+  BLZ.2_1_Adm1:
+    GID: BLZ.2_1
     admin_name: Cayo
-    shapeID: 66346737B25506523624111
-    country_name: Belize
-  Belize_Adm1_5:
     iso3c: BLZ
-    admin_level: Adm1
-    admin_name: StannCreek
-    shapeID: 66346737B48775360277934
     country_name: Belize
-  Belize_Adm1_6:
-    iso3c: BLZ
     admin_level: Adm1
+  BLZ.3_1_Adm1:
+    GID: BLZ.3_1
+    admin_name: Corozal
+    iso3c: BLZ
+    country_name: Belize
+    admin_level: Adm1
+  BLZ.4_1_Adm1:
+    GID: BLZ.4_1
+    admin_name: Orange Walk
+    iso3c: BLZ
+    country_name: Belize
+    admin_level: Adm1
+  BLZ.5_1_Adm1:
+    GID: BLZ.5_1
+    admin_name: Stann Creek
+    iso3c: BLZ
+    country_name: Belize
+    admin_level: Adm1
+  BLZ.6_1_Adm1:
+    GID: BLZ.6_1
     admin_name: Toledo
-    shapeID: 66346737B22858594960980
-    country_name: Belize
-  Belize_Adm2_1:
     iso3c: BLZ
-    admin_level: Adm2
-    admin_name: StannCreekWest
-    shapeID: 1456440B83071961973491
     country_name: Belize
-  Belize_Adm2_10:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: CayoWest
-    shapeID: 1456440B60992682417348
-    country_name: Belize
-  Belize_Adm2_11:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: CayoCentral
-    shapeID: 1456440B94896318880673
-    country_name: Belize
-  Belize_Adm2_12:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: Belmopan
-    shapeID: 1456440B54194515366168
-    country_name: Belize
-  Belize_Adm2_13:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: CorozalBay
-    shapeID: 1456440B17189259529244
-    country_name: Belize
-  Belize_Adm2_14:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: CorozalNorth
-    shapeID: 1456440B5266372606878
-    country_name: Belize
-  Belize_Adm2_15:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: CorozalSouthWest
-    shapeID: 1456440B54087410472023
-    country_name: Belize
-  Belize_Adm2_16:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: OrangeWalkNorth
-    shapeID: 1456440B42858998503900
-    country_name: Belize
-  Belize_Adm2_17:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: OrangeWalkCentral
-    shapeID: 1456440B2347802332561
-    country_name: Belize
-  Belize_Adm2_18:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: OrangeWalkEast
-    shapeID: 1456440B63332510884225
-    country_name: Belize
-  Belize_Adm2_19:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: Freetown
-    shapeID: 1456440B85935550107059
-    country_name: Belize
-  Belize_Adm2_2:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: OrangeWalkSouth
-    shapeID: 1456440B68597198845590
-    country_name: Belize
-  Belize_Adm2_20:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: PortLoyola
-    shapeID: 1456440B62290110422722
-    country_name: Belize
-  Belize_Adm2_21:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: LakeIndependence
-    shapeID: 1456440B59769308078565
-    country_name: Belize
-  Belize_Adm2_22:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: FortGeorge
-    shapeID: 1456440B38299420542047
-    country_name: Belize
-  Belize_Adm2_23:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: Albert
-    shapeID: 1456440B69828690893614
-    country_name: Belize
-  Belize_Adm2_24:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: QueenSquare
-    shapeID: 1456440B41515061278311
-    country_name: Belize
-  Belize_Adm2_25:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: Mesopotamia
-    shapeID: 1456440B30022647812570
-    country_name: Belize
-  Belize_Adm2_26:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: Freetown
-    shapeID: 1456440B45455972514267
-    country_name: Belize
-  Belize_Adm2_27:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: Pickstock
-    shapeID: 1456440B85489993561805
-    country_name: Belize
-  Belize_Adm2_28:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: CaribbeanShores
-    shapeID: 1456440B59944424745172
-    country_name: Belize
-  Belize_Adm2_29:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: Collet
-    shapeID: 1456440B30822357340136
-    country_name: Belize
-  Belize_Adm2_3:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: CorozalSouthEast
-    shapeID: 1456440B92384260503294
-    country_name: Belize
-  Belize_Adm2_30:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: BelizeRuralNorth
-    shapeID: 1456440B3381431616278
-    country_name: Belize
-  Belize_Adm2_31:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: BelizeRuralNorth
-    shapeID: 1456440B76393603142959
-    country_name: Belize
-  Belize_Adm2_4:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: CayoSouth
-    shapeID: 1456440B35586034015504
-    country_name: Belize
-  Belize_Adm2_5:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: ToledoWest
-    shapeID: 1456440B19707016539712
-    country_name: Belize
-  Belize_Adm2_6:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: Dangriga
-    shapeID: 1456440B99535609172770
-    country_name: Belize
-  Belize_Adm2_7:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: ToledoEast
-    shapeID: 1456440B94766097213569
-    country_name: Belize
-  Belize_Adm2_8:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: CayoNorthEast
-    shapeID: 1456440B56382702891578
-    country_name: Belize
-  Belize_Adm2_9:
-    iso3c: BLZ
-    admin_level: Adm2
-    admin_name: CayoNorth
-    shapeID: 1456440B44452540624114
-    country_name: Belize
+    admin_level: Adm1

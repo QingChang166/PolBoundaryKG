@@ -1,1027 +1,799 @@
 concepts:
-  Ireland_Adm0:
-    iso3c: IRL
-    admin_level: Adm0
+  IRL.0_Adm0:
+    GID: IRL
     admin_name: Ireland
-    shapeID: 72752219B63279912944011
-    country_name: Ireland
-  Ireland_Adm1_1:
     iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm0
+  IRL.1_1_Adm1:
+    GID: IRL.1_1
+    admin_name: Carlow
+    iso3c: IRL
+    country_name: Ireland
     admin_level: Adm1
-    admin_name: Ulster
-    shapeID: 36931253B39633918324997
-    country_name: Ireland
-  Ireland_Adm1_2:
+  IRL.1.1_1_Adm2:
+    GID: IRL.1.1_1
+    admin_name: Carlow
     iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.1.2_1_Adm2:
+    GID: IRL.1.2_1
+    admin_name: Muinebeag
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.1.3_1_Adm2:
+    GID: IRL.1.3_1
+    admin_name: Tullow
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.10_1_Adm1:
+    GID: IRL.10_1
+    admin_name: Kilkenny
+    iso3c: IRL
+    country_name: Ireland
     admin_level: Adm1
-    admin_name: Leinster
-    shapeID: 36931253B83705839043930
-    country_name: Ireland
-  Ireland_Adm1_3:
+  IRL.10.1_1_Adm2:
+    GID: IRL.10.1_1
+    admin_name: Callan-Thomastown
     iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.10.2_1_Adm2:
+    GID: IRL.10.2_1
+    admin_name: Castlecomer
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.10.3_1_Adm2:
+    GID: IRL.10.3_1
+    admin_name: Kilkenny City
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.10.4_1_Adm2:
+    GID: IRL.10.4_1
+    admin_name: Piltown
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.11_1_Adm1:
+    GID: IRL.11_1
+    admin_name: Laois
+    iso3c: IRL
+    country_name: Ireland
     admin_level: Adm1
-    admin_name: Munster
-    shapeID: 36931253B96342403647060
-    country_name: Ireland
-  Ireland_Adm1_4:
+  IRL.11.1_1_Adm2:
+    GID: IRL.11.1_1
+    admin_name: Borris-in-Ossory-Mountmellick
     iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.11.2_1_Adm2:
+    GID: IRL.11.2_1
+    admin_name: Graiguecullen-Portarlington
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.11.3_1_Adm2:
+    GID: IRL.11.3_1
+    admin_name: Portlaoise
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.12_1_Adm1:
+    GID: IRL.12_1
+    admin_name: Leitrim
+    iso3c: IRL
+    country_name: Ireland
     admin_level: Adm1
-    admin_name: Connacht
-    shapeID: 36931253B96239511377188
-    country_name: Ireland
-  Ireland_Adm2_1:
+  IRL.12.1_1_Adm2:
+    GID: IRL.12.1_1
+    admin_name: Ballinamore
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: RATOATHLEA-7
-    shapeID: 5873133B53714472852508
     country_name: Ireland
-  Ireland_Adm2_10:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: BALLYBAY-CLONESLEA-5
-    shapeID: 5873133B63636578816304
-    country_name: Ireland
-  Ireland_Adm2_100:
+  IRL.12.2_1_Adm2:
+    GID: IRL.12.2_1
+    admin_name: Carrick-on-Shannon
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: PEMBROKELEA-5
-    shapeID: 5873133B13038954384182
     country_name: Ireland
-  Ireland_Adm2_101:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: LUCANLEA-5
-    shapeID: 5873133B65409503618015
-    country_name: Ireland
-  Ireland_Adm2_102:
+  IRL.12.3_1_Adm2:
+    GID: IRL.12.3_1
+    admin_name: Manorhamilton
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: GREYSTONESLEA-6
-    shapeID: 5873133B55746922495286
     country_name: Ireland
-  Ireland_Adm2_103:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: RATHFARNHAM-TEMPLEOGUELEA-7
-    shapeID: 5873133B53236888047541
-    country_name: Ireland
-  Ireland_Adm2_104:
+  IRL.13_1_Adm1:
+    GID: IRL.13_1
+    admin_name: Limerick
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: MUINEBEAGLEA-5
-    shapeID: 5873133B83238014482062
     country_name: Ireland
-  Ireland_Adm2_105:
+    admin_level: Adm1
+  IRL.13.1_1_Adm2:
+    GID: IRL.13.1_1
+    admin_name: Adare-Rathkeale
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CASTLEISLANDLEA-4
-    shapeID: 5873133B10619392934553
     country_name: Ireland
-  Ireland_Adm2_106:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: LAYTOWNBETTYSTOWN-LEA-7
-    shapeID: 5873133B93482869611851
-    country_name: Ireland
-  Ireland_Adm2_107:
+  IRL.13.2_1_Adm2:
+    GID: IRL.13.2_1
+    admin_name: Cappamore-Kilmallock
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: COBHLEA-6
-    shapeID: 5873133B90074174000916
     country_name: Ireland
-  Ireland_Adm2_108:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: WATERFORDCITYEASTLEA-6
-    shapeID: 5873133B90521383760938
-    country_name: Ireland
-  Ireland_Adm2_109:
+  IRL.13.3_1_Adm2:
+    GID: IRL.13.3_1
+    admin_name: Limerick City
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: GALWAYCITYWESTLEA-6
-    shapeID: 5873133B97398643420992
     country_name: Ireland
-  Ireland_Adm2_11:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CLANELEA-5
-    shapeID: 5873133B16730843557945
-    country_name: Ireland
-  Ireland_Adm2_110:
+  IRL.13.4_1_Adm2:
+    GID: IRL.13.4_1
+    admin_name: Newcastle West
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: MACROOMLEA-6
-    shapeID: 5873133B25756375031462
     country_name: Ireland
-  Ireland_Adm2_111:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: DUNGARVANLEA-6
-    shapeID: 5873133B99301396189175
-    country_name: Ireland
-  Ireland_Adm2_112:
+  IRL.14_1_Adm1:
+    GID: IRL.14_1
+    admin_name: Longford
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BRAYWESTLEA-4
-    shapeID: 5873133B9923799249207
     country_name: Ireland
-  Ireland_Adm2_113:
+    admin_level: Adm1
+  IRL.14.1_1_Adm2:
+    GID: IRL.14.1_1
+    admin_name: Ballymahon
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BALLYJAMESDUFFLEA-6
-    shapeID: 5873133B36799193613940
     country_name: Ireland
-  Ireland_Adm2_114:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: MALLOWLEA-5
-    shapeID: 5873133B25639176820798
-    country_name: Ireland
-  Ireland_Adm2_115:
+  IRL.14.2_1_Adm2:
+    GID: IRL.14.2_1
+    admin_name: Granard
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: NEWBRIDGELEA-6
-    shapeID: 5873133B31018509161138
     country_name: Ireland
-  Ireland_Adm2_116:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: NAVANLEA-7
-    shapeID: 5873133B99485387457029
-    country_name: Ireland
-  Ireland_Adm2_117:
+  IRL.14.3_1_Adm2:
+    GID: IRL.14.3_1
+    admin_name: Longford
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: ATHLONELEA-6
-    shapeID: 5873133B90689891107780
     country_name: Ireland
-  Ireland_Adm2_118:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: BALLYMAHONLEA-6
-    shapeID: 5873133B88406731709637
-    country_name: Ireland
-  Ireland_Adm2_119:
+  IRL.15_1_Adm1:
+    GID: IRL.15_1
+    admin_name: Louth
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: TRALEELEA-7
-    shapeID: 5873133B69138340953371
     country_name: Ireland
-  Ireland_Adm2_12:
+    admin_level: Adm1
+  IRL.15.1_1_Adm2:
+    GID: IRL.15.1_1
+    admin_name: Ardee
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CAVAN-BELTURBETLEA-6
-    shapeID: 5873133B49845781008100
     country_name: Ireland
-  Ireland_Adm2_120:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: GALWAYCITYCENTRALLEA-6
-    shapeID: 5873133B36266904868513
-    country_name: Ireland
-  Ireland_Adm2_121:
+  IRL.15.2_1_Adm2:
+    GID: IRL.15.2_1
+    admin_name: Drogheda
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: KIMMAGE-RATHMINESLEA-6
-    shapeID: 5873133B27711850706283
     country_name: Ireland
-  Ireland_Adm2_122:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: LIMERICKCITYEASTLEA-7
-    shapeID: 5873133B74444247037328
-    country_name: Ireland
-  Ireland_Adm2_123:
+  IRL.15.3_1_Adm2:
+    GID: IRL.15.3_1
+    admin_name: Dundalk
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: THURLESLEA-5
-    shapeID: 5873133B42625878328180
     country_name: Ireland
-  Ireland_Adm2_124:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: ROSCOMMONLEA-6
-    shapeID: 5873133B51577512339475
-    country_name: Ireland
-  Ireland_Adm2_125:
+  IRL.16_1_Adm1:
+    GID: IRL.16_1
+    admin_name: Mayo
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: KILDARELEA-5
-    shapeID: 5873133B34299058506876
     country_name: Ireland
-  Ireland_Adm2_126:
+    admin_level: Adm1
+  IRL.16.1_1_Adm2:
+    GID: IRL.16.1_1
+    admin_name: Ballina
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CARNDONAGHLEA-4
-    shapeID: 5873133B51648159491846
     country_name: Ireland
-  Ireland_Adm2_127:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: KILLALOELEA-5
-    shapeID: 5873133B2483267720769
-    country_name: Ireland
-  Ireland_Adm2_128:
+  IRL.16.2_1_Adm2:
+    GID: IRL.16.2_1
+    admin_name: Castlebar
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BANDON-KINSALELEA-6
-    shapeID: 5873133B71141720266314
     country_name: Ireland
-  Ireland_Adm2_129:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: BOYLELEA-6
-    shapeID: 5873133B69148251137192
-    country_name: Ireland
-  Ireland_Adm2_13:
+  IRL.16.3_1_Adm2:
+    GID: IRL.16.3_1
+    admin_name: Claremorris - Swinford
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: TALLAGHTCENTRALLEA-6
-    shapeID: 5873133B96675921323266
     country_name: Ireland
-  Ireland_Adm2_130:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CLONTARFLEA-6
-    shapeID: 5873133B49648577838284
-    country_name: Ireland
-  Ireland_Adm2_131:
+  IRL.16.4_1_Adm2:
+    GID: IRL.16.4_1
+    admin_name: Westport - Belmullet
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: PORTLAW-KILMACTHOMASLEA-5
-    shapeID: 5873133B10835743668931
     country_name: Ireland
-  Ireland_Adm2_132:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: LISMORELEA-3
-    shapeID: 5873133B19257398273373
-    country_name: Ireland
-  Ireland_Adm2_133:
+  IRL.17_1_Adm1:
+    GID: IRL.17_1
+    admin_name: Meath
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: ATHYLEA-5
-    shapeID: 5873133B78981384303410
     country_name: Ireland
-  Ireland_Adm2_134:
+    admin_level: Adm1
+  IRL.17.1_1_Adm2:
+    GID: IRL.17.1_1
+    admin_name: Ashbourne
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BALLINAMORE-LEA-6
-    shapeID: 5873133B64566250281518
     country_name: Ireland
-  Ireland_Adm2_135:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: LIMERICKCITYWESTLEA-7
-    shapeID: 5873133B63179188649411
-    country_name: Ireland
-  Ireland_Adm2_136:
+  IRL.17.2_1_Adm2:
+    GID: IRL.17.2_1
+    admin_name: Kells
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: ENNISCORTHYLEA-6
-    shapeID: 5873133B47425584420404
     country_name: Ireland
-  Ireland_Adm2_137:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: SWINFORDLEA-4
-    shapeID: 5873133B98662462343086
-    country_name: Ireland
-  Ireland_Adm2_138:
+  IRL.17.3_1_Adm2:
+    GID: IRL.17.3_1
+    admin_name: Laytown - Bettystown
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CORCADHUIBHNELEA-3
-    shapeID: 5873133B90266849375515
     country_name: Ireland
-  Ireland_Adm2_139:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: WESTPORTLEA-4
-    shapeID: 5873133B76630404476162
-    country_name: Ireland
-  Ireland_Adm2_14:
+  IRL.17.4_1_Adm2:
+    GID: IRL.17.4_1
+    admin_name: Navan
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: MOATELEA-4
-    shapeID: 5873133B47178775343132
     country_name: Ireland
-  Ireland_Adm2_140:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CARRICK-ON-SHANNONLEA-6
-    shapeID: 5873133B60046508730190
-    country_name: Ireland
-  Ireland_Adm2_141:
+  IRL.17.5_1_Adm2:
+    GID: IRL.17.5_1
+    admin_name: Ratoath
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: KILLINEY-SHANKILLLEA-7
-    shapeID: 5873133B24997022792264
     country_name: Ireland
-  Ireland_Adm2_142:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: TALLAGHTSOUTHLEA-5
-    shapeID: 5873133B83061459918127
-    country_name: Ireland
-  Ireland_Adm2_143:
+  IRL.17.6_1_Adm2:
+    GID: IRL.17.6_1
+    admin_name: Trim
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CAHIRLEA-4
-    shapeID: 5873133B92286849050160
     country_name: Ireland
-  Ireland_Adm2_144:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: GLENCULLEN-SANDYFORDLEA-7
-    shapeID: 5873133B89010299854845
-    country_name: Ireland
-  Ireland_Adm2_145:
+  IRL.18_1_Adm1:
+    GID: IRL.18_1
+    admin_name: Monaghan
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: ARTANE-WHITEHALLLEA-6
-    shapeID: 5873133B65902327619724
     country_name: Ireland
-  Ireland_Adm2_146:
+    admin_level: Adm1
+  IRL.18.1_1_Adm2:
+    GID: IRL.18.1_1
+    admin_name: Ballybay - Clones
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CARRICKMACROSS-CASTLEBLAYNEYLEA-6
-    shapeID: 5873133B57447435904726
     country_name: Ireland
-  Ireland_Adm2_147:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: SLIGO-DRUMCLIFFLEA-5
-    shapeID: 5873133B89616968350212
-    country_name: Ireland
-  Ireland_Adm2_148:
+  IRL.18.2_1_Adm2:
+    GID: IRL.18.2_1
+    admin_name: Carrickmacross - Castleblayney
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: SWORDSLEA-7
-    shapeID: 5873133B96625316158825
     country_name: Ireland
-  Ireland_Adm2_149:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: SHANNONLEA-7
-    shapeID: 5873133B70608760855162
-    country_name: Ireland
-  Ireland_Adm2_15:
+  IRL.18.3_1_Adm2:
+    GID: IRL.18.3_1
+    admin_name: Monaghan
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: NENAGHLEA-5
-    shapeID: 5873133B70886709487680
     country_name: Ireland
-  Ireland_Adm2_150:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CORKCITYSOUTHCENTRALLEA-6
-    shapeID: 5873133B95001946419270
-    country_name: Ireland
-  Ireland_Adm2_151:
+  IRL.19_1_Adm1:
+    GID: IRL.19_1
+    admin_name: Offaly
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: ONGARLEA-5
-    shapeID: 5873133B74097350408695
     country_name: Ireland
-  Ireland_Adm2_152:
+    admin_level: Adm1
+  IRL.19.1_1_Adm2:
+    GID: IRL.19.1_1
+    admin_name: Birr
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BANTRY-WESTCORKLEA-4
-    shapeID: 5873133B32019280992122
     country_name: Ireland
-  Ireland_Adm2_153:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: ENNISLEA-7
-    shapeID: 5873133B50268153868150
-    country_name: Ireland
-  Ireland_Adm2_154:
+  IRL.19.2_1_Adm2:
+    GID: IRL.19.2_1
+    admin_name: Edenderry
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CASTLEBARLEA-7
-    shapeID: 5873133B79217415432935
     country_name: Ireland
-  Ireland_Adm2_155:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: MULLINGARLEA-6
-    shapeID: 5873133B77871835478253
-    country_name: Ireland
-  Ireland_Adm2_156:
+  IRL.19.3_1_Adm2:
+    GID: IRL.19.3_1
+    admin_name: Tullamore
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CAPPAMORE-KILMALLOCKLEA-7
-    shapeID: 5873133B39771401556272
     country_name: Ireland
-  Ireland_Adm2_157:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: BLACKROCKLEA-6
-    shapeID: 5873133B82062231942837
-    country_name: Ireland
-  Ireland_Adm2_158:
+  IRL.2_1_Adm1:
+    GID: IRL.2_1
+    admin_name: Cavan
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: GLENTIESLEA-6
-    shapeID: 5873133B25090004397750
     country_name: Ireland
-  Ireland_Adm2_159:
+    admin_level: Adm1
+  IRL.2.1_1_Adm2:
+    GID: IRL.2.1_1
+    admin_name: Bailieborough-Cootehill
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BUNCRANALEA-5
-    shapeID: 5873133B98241361012994
     country_name: Ireland
-  Ireland_Adm2_16:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: DUNDALK-CARLINGFORDLEA-6
-    shapeID: 5873133B30233967473277
-    country_name: Ireland
-  Ireland_Adm2_160:
+  IRL.2.2_1_Adm2:
+    GID: IRL.2.2_1
+    admin_name: Ballyjamesduff
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: DÚNLAOGHAIRELEA-7
-    shapeID: 5873133B92378397401252
     country_name: Ireland
-  Ireland_Adm2_161:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: SLIGO-STRANDHILLLEA-6
-    shapeID: 5873133B64230948512776
-    country_name: Ireland
-  Ireland_Adm2_162:
+  IRL.2.3_1_Adm2:
+    GID: IRL.2.3_1
+    admin_name: Cavan-Belturbet
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: LETTERKENNYLEA-7
-    shapeID: 5873133B45829912982707
     country_name: Ireland
-  Ireland_Adm2_163:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CELBRIDGELEA-4
-    shapeID: 5873133B70404185317284
-    country_name: Ireland
-  Ireland_Adm2_164:
+  IRL.20_1_Adm1:
+    GID: IRL.20_1
+    admin_name: Roscommon
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: ENNISTIMONLEA-4
-    shapeID: 5873133B68826952408481
     country_name: Ireland
-  Ireland_Adm2_165:
+    admin_level: Adm1
+  IRL.20.1_1_Adm2:
+    GID: IRL.20.1_1
+    admin_name: Athlone
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: KENMARELEA-6
-    shapeID: 5873133B7020974913459
     country_name: Ireland
-  Ireland_Adm2_166:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: TRIMLEA-6
-    shapeID: 5873133B65979893592853
-    country_name: Ireland
-  Ireland_Adm2_17:
+  IRL.20.2_1_Adm2:
+    GID: IRL.20.2_1
+    admin_name: Boyle
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BALLYFERMOT-DRIMNAGHLEA-5
-    shapeID: 5873133B64258564614963
     country_name: Ireland
-  Ireland_Adm2_18:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: DUNDRUMLEA-7
-    shapeID: 5873133B72160674948779
-    country_name: Ireland
-  Ireland_Adm2_19:
+  IRL.20.3_1_Adm2:
+    GID: IRL.20.3_1
+    admin_name: Roscommon
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: HOWTH-MALAHIDELEA-7
-    shapeID: 5873133B80891439467393
     country_name: Ireland
-  Ireland_Adm2_2:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: ROSCREA-TEMPLEMORELEA-4
-    shapeID: 5873133B40874438019884
-    country_name: Ireland
-  Ireland_Adm2_20:
+  IRL.21_1_Adm1:
+    GID: IRL.21_1
+    admin_name: Sligo
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: PALMERSTOWN-FONTHILLLEA-5
-    shapeID: 5873133B26300601338838
     country_name: Ireland
-  Ireland_Adm2_21:
+    admin_level: Adm1
+  IRL.21.1_1_Adm2:
+    GID: IRL.21.1_1
+    admin_name: Ballymote-Tobercurry
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: WATERFORDCITYSOUTHLEA-6
-    shapeID: 5873133B96567236235028
     country_name: Ireland
-  Ireland_Adm2_22:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: ARDEELEA-6
-    shapeID: 5873133B98086602368419
-    country_name: Ireland
-  Ireland_Adm2_23:
+  IRL.21.2_1_Adm2:
+    GID: IRL.21.2_1
+    admin_name: Sligo
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: DROGHEDARURALLEA-4
-    shapeID: 5873133B41163047838310
     country_name: Ireland
-  Ireland_Adm2_24:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: MANORHAMILTONLEA-6
-    shapeID: 5873133B72319523044240
-    country_name: Ireland
-  Ireland_Adm2_25:
+  IRL.21.3_1_Adm2:
+    GID: IRL.21.3_1
+    admin_name: Sligo-Drumcliff
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: WICKLOWLEA-6
-    shapeID: 5873133B62202788208281
     country_name: Ireland
-  Ireland_Adm2_26:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: ASHBOURNELEA-6
-    shapeID: 5873133B77849268115801
-    country_name: Ireland
-  Ireland_Adm2_27:
+  IRL.22_1_Adm1:
+    GID: IRL.22_1
+    admin_name: Tipperary
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: MONAGHANLEA-7
-    shapeID: 5873133B95060557510976
     country_name: Ireland
-  Ireland_Adm2_28:
+    admin_level: Adm1
+  IRL.22.1_1_Adm2:
+    GID: IRL.22.1_1
+    admin_name: Carrick-on-Suir
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: GRAIGUECULLEN-PORTARLINGTON-LEA-6
-    shapeID: 5873133B32465812463029
     country_name: Ireland
-  Ireland_Adm2_29:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CASHEL-TIPPERARYLEA-7
-    shapeID: 5873133B11959666540716
-    country_name: Ireland
-  Ireland_Adm2_3:
+  IRL.22.2_1_Adm2:
+    GID: IRL.22.2_1
+    admin_name: Clonmel
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: TULLAMORELEA-7
-    shapeID: 5873133B47279722730616
     country_name: Ireland
-  Ireland_Adm2_30:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: BALTINGLASSLEA-6
-    shapeID: 5873133B22148829487271
-    country_name: Ireland
-  Ireland_Adm2_31:
+  IRL.22.3_1_Adm2:
+    GID: IRL.22.3_1
+    admin_name: Nenagh
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BLANCHARDSTOWN-MULHUDDARTLEA-5
-    shapeID: 5873133B33785826163763
     country_name: Ireland
-  Ireland_Adm2_32:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: STILLORGANLEA-6
-    shapeID: 5873133B81162286200234
-    country_name: Ireland
-  Ireland_Adm2_33:
+  IRL.22.4_1_Adm2:
+    GID: IRL.22.4_1
+    admin_name: Thurles
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: SOUTHEASTINNERCITYLEA-5
-    shapeID: 5873133B57887905689291
     country_name: Ireland
-  Ireland_Adm2_34:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CARLOWLEA-7
-    shapeID: 5873133B49983124461260
-    country_name: Ireland
-  Ireland_Adm2_35:
+  IRL.22.5_1_Adm2:
+    GID: IRL.22.5_1
+    admin_name: Tipperary-Cahir-Cashel
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: KANTURKLEA-4
-    shapeID: 5873133B26556088806881
     country_name: Ireland
-  Ireland_Adm2_36:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: PILTOWNLEA-5
-    shapeID: 5873133B76837533212426
-    country_name: Ireland
-  Ireland_Adm2_37:
+  IRL.23_1_Adm1:
+    GID: IRL.23_1
+    admin_name: Waterford
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: NORTHINNERCITYLEA-7
-    shapeID: 5873133B14640921830681
     country_name: Ireland
-  Ireland_Adm2_38:
+    admin_level: Adm1
+  IRL.23.1_1_Adm2:
+    GID: IRL.23.1_1
+    admin_name: Comeragh
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BELMULLET-LEA-3
-    shapeID: 5873133B47562740874876
     country_name: Ireland
-  Ireland_Adm2_39:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: SOUTHWESTINNERCITYLEA-5
-    shapeID: 5873133B41660382449043
-    country_name: Ireland
-  Ireland_Adm2_4:
+  IRL.23.2_1_Adm2:
+    GID: IRL.23.2_1
+    admin_name: Dungarvan-Lismore
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: TUAMLEA-7
-    shapeID: 5873133B37999422461820
     country_name: Ireland
-  Ireland_Adm2_40:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CARRIGALINELEA-6
-    shapeID: 5873133B49467827523795
-    country_name: Ireland
-  Ireland_Adm2_41:
+  IRL.23.3_1_Adm2:
+    GID: IRL.23.3_1
+    admin_name: Waterford City
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CASTLECOMERLEA-6
-    shapeID: 5873133B64283034933999
     country_name: Ireland
-  Ireland_Adm2_42:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: RUSH-LUSKLEA-5
-    shapeID: 5873133B50398048682629
-    country_name: Ireland
-  Ireland_Adm2_43:
+  IRL.24_1_Adm1:
+    GID: IRL.24_1
+    admin_name: Westmeath
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CLAREMORRISLEA-6
-    shapeID: 5873133B40533987579120
     country_name: Ireland
-  Ireland_Adm2_44:
+    admin_level: Adm1
+  IRL.24.1_1_Adm2:
+    GID: IRL.24.1_1
+    admin_name: Athlone - Moate
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: KILLARNEYLEA-7
-    shapeID: 5873133B17042866960097
     country_name: Ireland
-  Ireland_Adm2_45:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: TRAMORE-WATERFORDCITYWESTLEA-6
-    shapeID: 5873133B15646893795596
-    country_name: Ireland
-  Ireland_Adm2_46:
+  IRL.24.2_1_Adm2:
+    GID: IRL.24.2_1
+    admin_name: Mullingar - Kinnegad
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: ATHENRY-ORANMORELEA-7
-    shapeID: 5873133B98830441057243
     country_name: Ireland
-  Ireland_Adm2_47:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CORKCITYSOUTHWESTLEA-7
-    shapeID: 5873133B2000011981509
-    country_name: Ireland
-  Ireland_Adm2_48:
+  IRL.25_1_Adm1:
+    GID: IRL.25_1
+    admin_name: Wexford
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BALLYMOTE-TOBERCURRYLEA-7
-    shapeID: 5873133B63806445794843
     country_name: Ireland
-  Ireland_Adm2_49:
+    admin_level: Adm1
+  IRL.25.1_1_Adm2:
+    GID: IRL.25.1_1
+    admin_name: Enniscorthy
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: LIMERICKCITYNORTHLEA-7
-    shapeID: 5873133B71721430029846
     country_name: Ireland
-  Ireland_Adm2_5:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: BORRIS-IN-OSSORY-MOUNTMELLICKLEA-6
-    shapeID: 5873133B47700529765173
-    country_name: Ireland
-  Ireland_Adm2_50:
+  IRL.25.2_1_Adm2:
+    GID: IRL.25.2_1
+    admin_name: Gorey-Kilmuckridge
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: LOUGHREALEA-5
-    shapeID: 5873133B84872998039455
     country_name: Ireland
-  Ireland_Adm2_51:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CORKCITYNORTHEASTLEA-6
-    shapeID: 5873133B11463526340126
-    country_name: Ireland
-  Ireland_Adm2_52:
+  IRL.25.3_1_Adm2:
+    GID: IRL.25.3_1
+    admin_name: New Ross
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: KELLSLEA-7
-    shapeID: 5873133B57214711560854
     country_name: Ireland
-  Ireland_Adm2_53:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: GOREYLEA-6
-    shapeID: 5873133B62102749120694
-    country_name: Ireland
-  Ireland_Adm2_54:
+  IRL.25.4_1_Adm2:
+    GID: IRL.25.4_1
+    admin_name: Rosslare
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: GORT-KINVARALEA-5
-    shapeID: 5873133B79086862800883
     country_name: Ireland
-  Ireland_Adm2_55:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CLONDALKINLEA-7
-    shapeID: 5873133B52619752343390
-    country_name: Ireland
-  Ireland_Adm2_56:
+  IRL.25.5_1_Adm2:
+    GID: IRL.25.5_1
+    admin_name: Wexford
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BIRRLEA-6
-    shapeID: 5873133B95472927677681
     country_name: Ireland
-  Ireland_Adm2_57:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: BALLYMUN-FINGLASLEA-6
-    shapeID: 5873133B16381399369592
-    country_name: Ireland
-  Ireland_Adm2_58:
+  IRL.26_1_Adm1:
+    GID: IRL.26_1
+    admin_name: Wicklow
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: WEXFORDLEA-7
-    shapeID: 5873133B47724630895547
     country_name: Ireland
-  Ireland_Adm2_59:
+    admin_level: Adm1
+  IRL.26.1_1_Adm2:
+    GID: IRL.26.1_1
+    admin_name: Arklow
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: KILMUCKRIDGELEA-4
-    shapeID: 5873133B64504717779267
     country_name: Ireland
-  Ireland_Adm2_6:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: KINNEGADLEA-5
-    shapeID: 5873133B19400646094396
-    country_name: Ireland
-  Ireland_Adm2_60:
+  IRL.26.2_1_Adm2:
+    GID: IRL.26.2_1
+    admin_name: Baltinglass
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: LISTOWELLEA-6
-    shapeID: 5873133B46430887417549
     country_name: Ireland
-  Ireland_Adm2_61:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: LIFFORD-STRANORLARLEA-6
-    shapeID: 5873133B69749427395931
-    country_name: Ireland
-  Ireland_Adm2_62:
+  IRL.26.3_1_Adm2:
+    GID: IRL.26.3_1
+    admin_name: Bray
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: KILRUSHLEA-5
-    shapeID: 5873133B68451217430396
     country_name: Ireland
-  Ireland_Adm2_63:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: CORKCITYSOUTHEASTLEA-6
-    shapeID: 5873133B31894390357020
-    country_name: Ireland
-  Ireland_Adm2_64:
+  IRL.26.4_1_Adm2:
+    GID: IRL.26.4_1
+    admin_name: Greystones
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: MIDLETONLEA-7
-    shapeID: 5873133B11513938910004
     country_name: Ireland
-  Ireland_Adm2_65:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: NEWCASTLEWESTLEA-6
-    shapeID: 5873133B14454086811136
-    country_name: Ireland
-  Ireland_Adm2_66:
+  IRL.26.5_1_Adm2:
+    GID: IRL.26.5_1
+    admin_name: Wicklow
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: BRAYEASTLEA-4
-    shapeID: 5873133B23130465249545
     country_name: Ireland
-  Ireland_Adm2_67:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: KILKENNYLEA-7
-    shapeID: 5873133B31102930937386
-    country_name: Ireland
-  Ireland_Adm2_68:
+  IRL.3_1_Adm1:
+    GID: IRL.3_1
+    admin_name: Clare
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: LONGFORDLEA-7
-    shapeID: 5873133B83670029874089
     country_name: Ireland
-  Ireland_Adm2_69:
+    admin_level: Adm1
+  IRL.3.1_1_Adm2:
+    GID: IRL.3.1_1
+    admin_name: Ennis
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: MAYNOOTHLEA-5
-    shapeID: 5873133B22694450243518
     country_name: Ireland
-  Ireland_Adm2_7:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: DONAGHMEDELEA-5
-    shapeID: 5873133B22285144111595
-    country_name: Ireland
-  Ireland_Adm2_70:
+  IRL.3.2_1_Adm2:
+    GID: IRL.3.2_1
+    admin_name: Killaloe
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: EDENDERRYLEA-6
-    shapeID: 5873133B48901885331675
     country_name: Ireland
-  Ireland_Adm2_71:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: DROGHEDAURBANLEA-6
-    shapeID: 5873133B90869984679235
-    country_name: Ireland
-  Ireland_Adm2_72:
+  IRL.3.3_1_Adm2:
+    GID: IRL.3.3_1
+    admin_name: Shannon
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: PORTLAOISELEA-7
-    shapeID: 5873133B8866665595403
     country_name: Ireland
-  Ireland_Adm2_73:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: BALBRIGGANLEA-5
-    shapeID: 5873133B84981347333265
-    country_name: Ireland
-  Ireland_Adm2_74:
+  IRL.3.4_1_Adm2:
+    GID: IRL.3.4_1
+    admin_name: West Clare
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: FIRHOUSE-BOHERNABREENALEA-5
-    shapeID: 5873133B21460579019232
     country_name: Ireland
-  Ireland_Adm2_75:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: NAASLEA-7
-    shapeID: 5873133B14255448334282
-    country_name: Ireland
-  Ireland_Adm2_76:
+  IRL.4_1_Adm1:
+    GID: IRL.4_1
+    admin_name: Un-namedArea
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CONAMARANORTHLEA-4
-    shapeID: 5873133B12097804140145
     country_name: Ireland
-  Ireland_Adm2_77:
+    admin_level: Adm1
+  IRL.4.1_1_Adm2:
+    GID: IRL.4.1_1
+    admin_name: Bandon - Kinsale
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CLONMELLEA-6
-    shapeID: 5873133B92234253465118
     country_name: Ireland
-  Ireland_Adm2_78:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: BAILIEBOROUGH-COOTEHILLLEA-6
-    shapeID: 5873133B65696194477644
-    country_name: Ireland
-  Ireland_Adm2_79:
+  IRL.4.2_1_Adm2:
+    GID: IRL.4.2_1
+    admin_name: Carrigaline
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: TULLOWLEA-6
-    shapeID: 5873133B62819927990234
     country_name: Ireland
-  Ireland_Adm2_8:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: MILFORDLEA-3
-    shapeID: 5873133B66186119395880
-    country_name: Ireland
-  Ireland_Adm2_80:
+  IRL.4.3_1_Adm2:
+    GID: IRL.4.3_1
+    admin_name: Cobh
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: CONAMARASOUTHLEA-5
-    shapeID: 5873133B18707060070656
     country_name: Ireland
-  Ireland_Adm2_81:
-    iso3c: IRL
     admin_level: Adm2
-    admin_name: ARKLOWLEA-6
-    shapeID: 5873133B66309830606527
+  IRL.4.4_1_Adm2:
+    GID: IRL.4.4_1
+    admin_name: Cork City
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_82:
+    admin_level: Adm2
+  IRL.4.5_1_Adm2:
+    GID: IRL.4.5_1
+    admin_name: East Cork
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: LEIXLIPLEA-3
-    shapeID: 5873133B28056966648510
+  IRL.4.6_1_Adm2:
+    GID: IRL.4.6_1
+    admin_name: Fermoy
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_83:
+    admin_level: Adm2
+  IRL.4.7_1_Adm2:
+    GID: IRL.4.7_1
+    admin_name: Kanturk - Mallow
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: GRANARDLEA-5
-    shapeID: 5873133B33667997151224
+  IRL.4.8_1_Adm2:
+    GID: IRL.4.8_1
+    admin_name: Macroom
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_84:
+    admin_level: Adm2
+  IRL.4.9_1_Adm2:
+    GID: IRL.4.9_1
+    admin_name: West Cork
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: DUNDALKSOUTHLEA-7
-    shapeID: 5873133B29176849558462
+  IRL.5_1_Adm1:
+    GID: IRL.5_1
+    admin_name: Donegal
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_85:
+    admin_level: Adm1
+  IRL.5.1_1_Adm2:
+    GID: IRL.5.1_1
+    admin_name: Donegal
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: SKIBBEREEN-WESTCORKLEA-5
-    shapeID: 5873133B33035753150692
+  IRL.5.2_1_Adm2:
+    GID: IRL.5.2_1
+    admin_name: Glenties
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_86:
+    admin_level: Adm2
+  IRL.5.3_1_Adm2:
+    GID: IRL.5.3_1
+    admin_name: Inishowen
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: CABRA-GLASNEVINLEA-7
-    shapeID: 5873133B8743652584157
+  IRL.5.4_1_Adm2:
+    GID: IRL.5.4_1
+    admin_name: Letterkenny - Milford
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_87:
+    admin_level: Adm2
+  IRL.5.5_1_Adm2:
+    GID: IRL.5.5_1
+    admin_name: Lifford - Stranorlar
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: CALLAN-THOMASTOWNLEA-6
-    shapeID: 5873133B16918470579073
+  IRL.6_1_Adm1:
+    GID: IRL.6_1
+    admin_name: Dublin
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_88:
+    admin_level: Adm1
+  IRL.6.1_1_Adm2:
+    GID: IRL.6.1_1
+    admin_name: Dublin City
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: NEWROSSLEA-6
-    shapeID: 5873133B16930759140678
     country_name: Ireland
-  Ireland_Adm2_89:
+    admin_level: Adm2
+  IRL.6.2_1_Adm2:
+    GID: IRL.6.2_1
+    admin_name: Dún Laoghaire-Rathdown
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: CARRICK-ON-SUIRLEA-5
-    shapeID: 5873133B72256716491480
+  IRL.6.3_1_Adm2:
+    GID: IRL.6.3_1
+    admin_name: Fingal
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_9:
+    admin_level: Adm2
+  IRL.6.4_1_Adm2:
+    GID: IRL.6.4_1
+    admin_name: South Dublin
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: GALWAYCITYEASTLEA-6
-    shapeID: 5873133B29107056882514
+  IRL.7_1_Adm1:
+    GID: IRL.7_1
+    admin_name: Galway
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_90:
+    admin_level: Adm1
+  IRL.7.1_1_Adm2:
+    GID: IRL.7.1_1
+    admin_name: Athenry
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: ATHLONELEA-5
-    shapeID: 5873133B82984950591493
     country_name: Ireland
-  Ireland_Adm2_91:
+    admin_level: Adm2
+  IRL.7.2_1_Adm2:
+    GID: IRL.7.2_1
+    admin_name: Ballinasloe
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: BALLINALEA-6
-    shapeID: 5873133B94480778200635
+  IRL.7.3_1_Adm2:
+    GID: IRL.7.3_1
+    admin_name: Conamara
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_92:
+    admin_level: Adm2
+  IRL.7.4_1_Adm2:
+    GID: IRL.7.4_1
+    admin_name: Galway City
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: DONEGALLEA-6
-    shapeID: 5873133B96049761393494
+  IRL.7.5_1_Adm2:
+    GID: IRL.7.5_1
+    admin_name: Loughrea
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_93:
+    admin_level: Adm2
+  IRL.7.6_1_Adm2:
+    GID: IRL.7.6_1
+    admin_name: Tuam
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: BALLINASLOELEA-6
-    shapeID: 5873133B97089647818716
+  IRL.8_1_Adm1:
+    GID: IRL.8_1
+    admin_name: Kerry
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_94:
+    admin_level: Adm1
+  IRL.8.1_1_Adm2:
+    GID: IRL.8.1_1
+    admin_name: Castleisland-Corca Dhuibhne
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: NEWPORTLEA-4
-    shapeID: 5873133B73905952621151
+  IRL.8.2_1_Adm2:
+    GID: IRL.8.2_1
+    admin_name: Kenmare
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_95:
+    admin_level: Adm2
+  IRL.8.3_1_Adm2:
+    GID: IRL.8.3_1
+    admin_name: Killarney
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: CASTLEKNOCKLEA-6
-    shapeID: 5873133B47957460219787
+  IRL.8.4_1_Adm2:
+    GID: IRL.8.4_1
+    admin_name: Listowel
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_96:
+    admin_level: Adm2
+  IRL.8.5_1_Adm2:
+    GID: IRL.8.5_1
+    admin_name: Tralee
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: ADARE-RATHKEALELEA-6
-    shapeID: 5873133B54360294204800
+  IRL.9_1_Adm1:
+    GID: IRL.9_1
+    admin_name: Kildare
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_97:
+    admin_level: Adm1
+  IRL.9.1_1_Adm2:
+    GID: IRL.9.1_1
+    admin_name: Athy
     iso3c: IRL
-    admin_level: Adm2
-    admin_name: ROSSLARELEA-5
-    shapeID: 5873133B47995310482599
     country_name: Ireland
-  Ireland_Adm2_98:
+    admin_level: Adm2
+  IRL.9.2_1_Adm2:
+    GID: IRL.9.2_1
+    admin_name: Celbridge-Leixlip
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: CORKCITYNORTHWESTLEA-6
-    shapeID: 5873133B44543417312152
+  IRL.9.3_1_Adm2:
+    GID: IRL.9.3_1
+    admin_name: Clane-Maynooth
+    iso3c: IRL
     country_name: Ireland
-  Ireland_Adm2_99:
+    admin_level: Adm2
+  IRL.9.4_1_Adm2:
+    GID: IRL.9.4_1
+    admin_name: Kildare-Newbridge
     iso3c: IRL
+    country_name: Ireland
     admin_level: Adm2
-    admin_name: FERMOYLEA-6
-    shapeID: 5873133B9082097592121
+  IRL.9.5_1_Adm2:
+    GID: IRL.9.5_1
+    admin_name: Naas
+    iso3c: IRL
     country_name: Ireland
+    admin_level: Adm2

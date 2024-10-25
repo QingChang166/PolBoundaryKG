@@ -1,661 +1,661 @@
 concepts:
-  France_Adm0:
-    iso3c: FRA
-    admin_level: Adm0
+  FRA.0_Adm0:
+    GID: FRA
     admin_name: France
-    shapeID: 40433807B32431433314883
-    country_name: France
-  France_Adm1_1:
     iso3c: FRA
-    admin_level: Adm1
-    admin_name: Île-de-France
-    shapeID: 19338628B22645672383103
     country_name: France
-  France_Adm1_10:
-    iso3c: FRA
-    admin_level: Adm1
-    admin_name: Occitanie
-    shapeID: 19338628B57683459369229
-    country_name: France
-  France_Adm1_11:
-    iso3c: FRA
-    admin_level: Adm1
+    admin_level: Adm0
+  FRA.1_1_Adm1:
+    GID: FRA.1_1
     admin_name: Auvergne-Rhône-Alpes
-    shapeID: 19338628B73800214047876
-    country_name: France
-  France_Adm1_12:
     iso3c: FRA
+    country_name: France
     admin_level: Adm1
-    admin_name: Provence-Alpes-Côted'Azur
-    shapeID: 19338628B95725112529620
-    country_name: France
-  France_Adm1_13:
-    iso3c: FRA
-    admin_level: Adm1
-    admin_name: Corse
-    shapeID: 19338628B22604203385446
-    country_name: France
-  France_Adm1_2:
-    iso3c: FRA
-    admin_level: Adm1
-    admin_name: Centre-ValdeLoire
-    shapeID: 19338628B5758982491638
-    country_name: France
-  France_Adm1_3:
-    iso3c: FRA
-    admin_level: Adm1
-    admin_name: Bourgogne-Franche-Comté
-    shapeID: 19338628B30439183828151
-    country_name: France
-  France_Adm1_4:
-    iso3c: FRA
-    admin_level: Adm1
-    admin_name: Normandie
-    shapeID: 19338628B74885379641265
-    country_name: France
-  France_Adm1_5:
-    iso3c: FRA
-    admin_level: Adm1
-    admin_name: Hauts-de-France
-    shapeID: 19338628B36302232233914
-    country_name: France
-  France_Adm1_6:
-    iso3c: FRA
-    admin_level: Adm1
-    admin_name: GrandEst
-    shapeID: 19338628B74392602121343
-    country_name: France
-  France_Adm1_7:
-    iso3c: FRA
-    admin_level: Adm1
-    admin_name: PaysdelaLoire
-    shapeID: 19338628B99642989531496
-    country_name: France
-  France_Adm1_8:
-    iso3c: FRA
-    admin_level: Adm1
-    admin_name: Bretagne
-    shapeID: 19338628B64983593182368
-    country_name: France
-  France_Adm1_9:
-    iso3c: FRA
-    admin_level: Adm1
-    admin_name: Nouvelle-Aquitaine
-    shapeID: 19338628B12418907782041
-    country_name: France
-  France_Adm2_1:
-    iso3c: FRA
-    admin_level: Adm2
+  FRA.1.1_1_Adm2:
+    GID: FRA.1.1_1
     admin_name: Ain
-    shapeID: 29444166B68738187753831
-    country_name: France
-  France_Adm2_10:
     iso3c: FRA
-    admin_level: Adm2
-    admin_name: Ardennes
-    shapeID: 29444166B82146643431704
     country_name: France
-  France_Adm2_11:
-    iso3c: FRA
     admin_level: Adm2
-    admin_name: Ariège
-    shapeID: 29444166B39237806830896
-    country_name: France
-  France_Adm2_12:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Aube
-    shapeID: 29444166B59009150054618
-    country_name: France
-  France_Adm2_13:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Aude
-    shapeID: 29444166B69755025252743
-    country_name: France
-  France_Adm2_14:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Aveyron
-    shapeID: 29444166B75659216331829
-    country_name: France
-  France_Adm2_15:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Bouches-du-Rhône
-    shapeID: 29444166B17788527993089
-    country_name: France
-  France_Adm2_16:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Calvados
-    shapeID: 29444166B48646093113646
-    country_name: France
-  France_Adm2_17:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Cantal
-    shapeID: 29444166B17636645797139
-    country_name: France
-  France_Adm2_18:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Charente
-    shapeID: 29444166B23450851942643
-    country_name: France
-  France_Adm2_19:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Charente-Maritime
-    shapeID: 29444166B72910508035207
-    country_name: France
-  France_Adm2_2:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Aisne
-    shapeID: 29444166B62247732126362
-    country_name: France
-  France_Adm2_20:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Cher
-    shapeID: 29444166B99899011218746
-    country_name: France
-  France_Adm2_21:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Corrèze
-    shapeID: 29444166B65585012195292
-    country_name: France
-  France_Adm2_22:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Côte-d'Or
-    shapeID: 29444166B37681458471024
-    country_name: France
-  France_Adm2_23:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Côtesd'Armor
-    shapeID: 29444166B88952061285466
-    country_name: France
-  France_Adm2_24:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Creuse
-    shapeID: 29444166B65722517525705
-    country_name: France
-  France_Adm2_25:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Dordogne
-    shapeID: 29444166B3241556097254
-    country_name: France
-  France_Adm2_26:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Doubs
-    shapeID: 29444166B35503960464671
-    country_name: France
-  France_Adm2_27:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Drôme
-    shapeID: 29444166B81319189614535
-    country_name: France
-  France_Adm2_28:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Eure
-    shapeID: 29444166B58139106097457
-    country_name: France
-  France_Adm2_29:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Eure-et-Loir
-    shapeID: 29444166B66992959571509
-    country_name: France
-  France_Adm2_3:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Corse-du-Sud
-    shapeID: 29444166B58069914139647
-    country_name: France
-  France_Adm2_30:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Finistère
-    shapeID: 29444166B28282788434260
-    country_name: France
-  France_Adm2_31:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Gard
-    shapeID: 29444166B65685353516975
-    country_name: France
-  France_Adm2_32:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Haute-Garonne
-    shapeID: 29444166B14857210007928
-    country_name: France
-  France_Adm2_33:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Gers
-    shapeID: 29444166B47069974768565
-    country_name: France
-  France_Adm2_34:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Gironde
-    shapeID: 29444166B86553747081520
-    country_name: France
-  France_Adm2_35:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Hérault
-    shapeID: 29444166B6585722780804
-    country_name: France
-  France_Adm2_36:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Ille-et-Vilaine
-    shapeID: 29444166B68700463469318
-    country_name: France
-  France_Adm2_37:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Indre
-    shapeID: 29444166B54615812601715
-    country_name: France
-  France_Adm2_38:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Indre-et-Loire 
-    shapeID: 29444166B19195541270637
-    country_name: France
-  France_Adm2_39:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Isère
-    shapeID: 29444166B91645868350210
-    country_name: France
-  France_Adm2_4:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Haute-Corse
-    shapeID: 29444166B63382640804813
-    country_name: France
-  France_Adm2_40:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Jura
-    shapeID: 29444166B73543866728585
-    country_name: France
-  France_Adm2_41:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Landes
-    shapeID: 29444166B39932690726806
-    country_name: France
-  France_Adm2_42:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Loir-et-Cher
-    shapeID: 29444166B49073830062787
-    country_name: France
-  France_Adm2_43:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Loire
-    shapeID: 29444166B11036857103617
-    country_name: France
-  France_Adm2_44:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Haute-Loire
-    shapeID: 29444166B92097492937040
-    country_name: France
-  France_Adm2_45:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Loire-Atlantique
-    shapeID: 29444166B39405184226314
-    country_name: France
-  France_Adm2_46:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Loiret
-    shapeID: 29444166B76955339583295
-    country_name: France
-  France_Adm2_47:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Lot
-    shapeID: 29444166B44586442299991
-    country_name: France
-  France_Adm2_48:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Lot-et-Garonne
-    shapeID: 29444166B43955208715015
-    country_name: France
-  France_Adm2_49:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Lozère
-    shapeID: 29444166B39231555768445
-    country_name: France
-  France_Adm2_5:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Allier
-    shapeID: 29444166B93800494358231
-    country_name: France
-  France_Adm2_50:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Maine-et-Loire
-    shapeID: 29444166B93652606552669
-    country_name: France
-  France_Adm2_51:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Manche
-    shapeID: 29444166B25199754609160
-    country_name: France
-  France_Adm2_52:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Marne
-    shapeID: 29444166B88365210161394
-    country_name: France
-  France_Adm2_53:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Haute-Marne
-    shapeID: 29444166B63123006968328
-    country_name: France
-  France_Adm2_54:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Mayenne
-    shapeID: 29444166B79150552688542
-    country_name: France
-  France_Adm2_55:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Meurthe-et-Moselle
-    shapeID: 29444166B55179033691193
-    country_name: France
-  France_Adm2_56:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Meuse
-    shapeID: 29444166B31733296921467
-    country_name: France
-  France_Adm2_57:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Morbihan
-    shapeID: 29444166B27439380359881
-    country_name: France
-  France_Adm2_58:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Moselle
-    shapeID: 29444166B44143395752523
-    country_name: France
-  France_Adm2_59:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Nièvre
-    shapeID: 29444166B85399142595811
-    country_name: France
-  France_Adm2_6:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Alpes-de-Haute-Provence
-    shapeID: 29444166B35951695576760
-    country_name: France
-  France_Adm2_60:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Nord
-    shapeID: 29444166B41843467801289
-    country_name: France
-  France_Adm2_61:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Oise
-    shapeID: 29444166B63675080210399
-    country_name: France
-  France_Adm2_62:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Orne
-    shapeID: 29444166B96504219230077
-    country_name: France
-  France_Adm2_63:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Pas-de-Calais
-    shapeID: 29444166B36983248378212
-    country_name: France
-  France_Adm2_64:
-    iso3c: FRA
-    admin_level: Adm2
+  FRA.1.10_1_Adm2:
+    GID: FRA.1.10_1
     admin_name: Puy-de-Dôme
-    shapeID: 29444166B44853968900127
-    country_name: France
-  France_Adm2_65:
     iso3c: FRA
-    admin_level: Adm2
-    admin_name: Pyrénées-Atlantiques
-    shapeID: 29444166B97877070376653
     country_name: France
-  France_Adm2_66:
-    iso3c: FRA
     admin_level: Adm2
-    admin_name: Hautes-Pyrénées
-    shapeID: 29444166B21169725107025
-    country_name: France
-  France_Adm2_67:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Pyrénées-Orientales
-    shapeID: 29444166B63064653570654
-    country_name: France
-  France_Adm2_68:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Bas-Rhin
-    shapeID: 29444166B31239437168490
-    country_name: France
-  France_Adm2_69:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Haut-Rhin
-    shapeID: 29444166B51480055383033
-    country_name: France
-  France_Adm2_7:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Hautes-Alpes
-    shapeID: 29444166B36939425112061
-    country_name: France
-  France_Adm2_70:
-    iso3c: FRA
-    admin_level: Adm2
+  FRA.1.11_1_Adm2:
+    GID: FRA.1.11_1
     admin_name: Rhône
-    shapeID: 29444166B37867629412878
-    country_name: France
-  France_Adm2_71:
     iso3c: FRA
-    admin_level: Adm2
-    admin_name: Haute-Saône
-    shapeID: 29444166B41622072756868
     country_name: France
-  France_Adm2_72:
-    iso3c: FRA
     admin_level: Adm2
-    admin_name: Saône-et-Loire
-    shapeID: 29444166B17013349851570
-    country_name: France
-  France_Adm2_73:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Sarthe
-    shapeID: 29444166B36367114502918
-    country_name: France
-  France_Adm2_74:
-    iso3c: FRA
-    admin_level: Adm2
+  FRA.1.12_1_Adm2:
+    GID: FRA.1.12_1
     admin_name: Savoie
-    shapeID: 29444166B62265126010794
-    country_name: France
-  France_Adm2_75:
     iso3c: FRA
-    admin_level: Adm2
-    admin_name: Haute-Savoie
-    shapeID: 29444166B73077327330789
     country_name: France
-  France_Adm2_76:
-    iso3c: FRA
     admin_level: Adm2
-    admin_name: Paris
-    shapeID: 29444166B33792924009837
+  FRA.1.2_1_Adm2:
+    GID: FRA.1.2_1
+    admin_name: Allier
+    iso3c: FRA
     country_name: France
-  France_Adm2_77:
-    iso3c: FRA
     admin_level: Adm2
-    admin_name: Seine-Maritime
-    shapeID: 29444166B55885149928258
-    country_name: France
-  France_Adm2_78:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Seine-et-Marne
-    shapeID: 29444166B64437327790506
-    country_name: France
-  France_Adm2_79:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Yvelines
-    shapeID: 29444166B89686889104194
-    country_name: France
-  France_Adm2_8:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Alpes-Maritimes
-    shapeID: 29444166B5209283925001
-    country_name: France
-  France_Adm2_80:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Deux-Sèvres
-    shapeID: 29444166B3130633303914
-    country_name: France
-  France_Adm2_81:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Somme
-    shapeID: 29444166B47374384537090
-    country_name: France
-  France_Adm2_82:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Tarn
-    shapeID: 29444166B69257597057849
-    country_name: France
-  France_Adm2_83:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Tarn-et-Garonne
-    shapeID: 29444166B74037442766285
-    country_name: France
-  France_Adm2_84:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Var
-    shapeID: 29444166B96369043825533
-    country_name: France
-  France_Adm2_85:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Vaucluse
-    shapeID: 29444166B40811589398759
-    country_name: France
-  France_Adm2_86:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Vendée
-    shapeID: 29444166B84862613094844
-    country_name: France
-  France_Adm2_87:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Vienne
-    shapeID: 29444166B96315142170190
-    country_name: France
-  France_Adm2_88:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Haute-Vienne
-    shapeID: 29444166B22545752371567
-    country_name: France
-  France_Adm2_89:
-    iso3c: FRA
-    admin_level: Adm2
-    admin_name: Vosges
-    shapeID: 29444166B15812281755892
-    country_name: France
-  France_Adm2_9:
-    iso3c: FRA
-    admin_level: Adm2
+  FRA.1.3_1_Adm2:
+    GID: FRA.1.3_1
     admin_name: Ardèche
-    shapeID: 29444166B5188880309581
-    country_name: France
-  France_Adm2_90:
     iso3c: FRA
+    country_name: France
     admin_level: Adm2
+  FRA.1.4_1_Adm2:
+    GID: FRA.1.4_1
+    admin_name: Cantal
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.5_1_Adm2:
+    GID: FRA.1.5_1
+    admin_name: Drôme
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.6_1_Adm2:
+    GID: FRA.1.6_1
+    admin_name: Haute-Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.7_1_Adm2:
+    GID: FRA.1.7_1
+    admin_name: Haute-Savoie
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.8_1_Adm2:
+    GID: FRA.1.8_1
+    admin_name: Isère
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.9_1_Adm2:
+    GID: FRA.1.9_1
+    admin_name: Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10_1_Adm1:
+    GID: FRA.10_1
+    admin_name: Nouvelle-Aquitaine
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.10.1_1_Adm2:
+    GID: FRA.10.1_1
+    admin_name: Charente-Maritime
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.10_1_Adm2:
+    GID: FRA.10.10_1
+    admin_name: Lot-et-Garonne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.11_1_Adm2:
+    GID: FRA.10.11_1
+    admin_name: Pyrénées-Atlantiques
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.12_1_Adm2:
+    GID: FRA.10.12_1
+    admin_name: Vienne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.2_1_Adm2:
+    GID: FRA.10.2_1
+    admin_name: Charente
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.3_1_Adm2:
+    GID: FRA.10.3_1
+    admin_name: Corrèze
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.4_1_Adm2:
+    GID: FRA.10.4_1
+    admin_name: Creuse
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.5_1_Adm2:
+    GID: FRA.10.5_1
+    admin_name: Deux-Sèvres
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.6_1_Adm2:
+    GID: FRA.10.6_1
+    admin_name: Dordogne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.7_1_Adm2:
+    GID: FRA.10.7_1
+    admin_name: Gironde
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.8_1_Adm2:
+    GID: FRA.10.8_1
+    admin_name: Haute-Vienne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.9_1_Adm2:
+    GID: FRA.10.9_1
+    admin_name: Landes
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11_1_Adm1:
+    GID: FRA.11_1
+    admin_name: Occitanie
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.11.1_1_Adm2:
+    GID: FRA.11.1_1
+    admin_name: Ariège
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.10_1_Adm2:
+    GID: FRA.11.10_1
+    admin_name: Lozère
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.11_1_Adm2:
+    GID: FRA.11.11_1
+    admin_name: Pyrénées-Orientales
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.12_1_Adm2:
+    GID: FRA.11.12_1
+    admin_name: Tarn-et-Garonne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.13_1_Adm2:
+    GID: FRA.11.13_1
+    admin_name: Tarn
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.2_1_Adm2:
+    GID: FRA.11.2_1
+    admin_name: Aude
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.3_1_Adm2:
+    GID: FRA.11.3_1
+    admin_name: Aveyron
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.4_1_Adm2:
+    GID: FRA.11.4_1
+    admin_name: Gard
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.5_1_Adm2:
+    GID: FRA.11.5_1
+    admin_name: Gers
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.6_1_Adm2:
+    GID: FRA.11.6_1
+    admin_name: Haute-Garonne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.7_1_Adm2:
+    GID: FRA.11.7_1
+    admin_name: Hautes-Pyrénées
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.8_1_Adm2:
+    GID: FRA.11.8_1
+    admin_name: Hérault
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.9_1_Adm2:
+    GID: FRA.11.9_1
+    admin_name: Lot
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.12_1_Adm1:
+    GID: FRA.12_1
+    admin_name: Pays de la Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.12.1_1_Adm2:
+    GID: FRA.12.1_1
+    admin_name: Loire-Atlantique
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.12.2_1_Adm2:
+    GID: FRA.12.2_1
+    admin_name: Maine-et-Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.12.3_1_Adm2:
+    GID: FRA.12.3_1
+    admin_name: Mayenne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.12.4_1_Adm2:
+    GID: FRA.12.4_1
+    admin_name: Sarthe
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.12.5_1_Adm2:
+    GID: FRA.12.5_1
+    admin_name: Vendée
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13_1_Adm1:
+    GID: FRA.13_1
+    admin_name: Provence-Alpes-Côte d'Azur
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.13.1_1_Adm2:
+    GID: FRA.13.1_1
+    admin_name: Alpes-de-Haute-Provence
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13.2_1_Adm2:
+    GID: FRA.13.2_1
+    admin_name: Alpes-Maritimes
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13.3_1_Adm2:
+    GID: FRA.13.3_1
+    admin_name: Bouches-du-Rhône
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13.4_1_Adm2:
+    GID: FRA.13.4_1
+    admin_name: Hautes-Alpes
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13.5_1_Adm2:
+    GID: FRA.13.5_1
+    admin_name: Var
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13.6_1_Adm2:
+    GID: FRA.13.6_1
+    admin_name: Vaucluse
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2_1_Adm1:
+    GID: FRA.2_1
+    admin_name: Bourgogne-Franche-Comté
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.2.1_1_Adm2:
+    GID: FRA.2.1_1
+    admin_name: Côte-d'Or
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.2_1_Adm2:
+    GID: FRA.2.2_1
+    admin_name: Doubs
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.3_1_Adm2:
+    GID: FRA.2.3_1
+    admin_name: Haute-Saône
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.4_1_Adm2:
+    GID: FRA.2.4_1
+    admin_name: Jura
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.5_1_Adm2:
+    GID: FRA.2.5_1
+    admin_name: Nièvre
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.6_1_Adm2:
+    GID: FRA.2.6_1
+    admin_name: Saône-et-Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.7_1_Adm2:
+    GID: FRA.2.7_1
+    admin_name: Territoire de Belfort
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.8_1_Adm2:
+    GID: FRA.2.8_1
     admin_name: Yonne
-    shapeID: 29444166B9446677840281
-    country_name: France
-  France_Adm2_91:
     iso3c: FRA
-    admin_level: Adm2
-    admin_name: TerritoiredeBelfort
-    shapeID: 29444166B23158534197665
     country_name: France
-  France_Adm2_92:
-    iso3c: FRA
     admin_level: Adm2
+  FRA.3_1_Adm1:
+    GID: FRA.3_1
+    admin_name: Bretagne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.3.1_1_Adm2:
+    GID: FRA.3.1_1
+    admin_name: Côtes-d'Armor
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.3.2_1_Adm2:
+    GID: FRA.3.2_1
+    admin_name: Finistère
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.3.3_1_Adm2:
+    GID: FRA.3.3_1
+    admin_name: Ille-et-Vilaine
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.3.4_1_Adm2:
+    GID: FRA.3.4_1
+    admin_name: Morbihan
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4_1_Adm1:
+    GID: FRA.4_1
+    admin_name: Centre-Val de Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.4.1_1_Adm2:
+    GID: FRA.4.1_1
+    admin_name: Cher
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4.2_1_Adm2:
+    GID: FRA.4.2_1
+    admin_name: Eure-et-Loir
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4.3_1_Adm2:
+    GID: FRA.4.3_1
+    admin_name: Indre-et-Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4.4_1_Adm2:
+    GID: FRA.4.4_1
+    admin_name: Indre
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4.5_1_Adm2:
+    GID: FRA.4.5_1
+    admin_name: Loir-et-Cher
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4.6_1_Adm2:
+    GID: FRA.4.6_1
+    admin_name: Loiret
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.5_1_Adm1:
+    GID: FRA.5_1
+    admin_name: Corse
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.5.1_1_Adm2:
+    GID: FRA.5.1_1
+    admin_name: Corse-du-Sud
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.5.2_1_Adm2:
+    GID: FRA.5.2_1
+    admin_name: Haute-Corse
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6_1_Adm1:
+    GID: FRA.6_1
+    admin_name: Grand Est
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.6.1_1_Adm2:
+    GID: FRA.6.1_1
+    admin_name: Ardennes
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.10_1_Adm2:
+    GID: FRA.6.10_1
+    admin_name: Vosges
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.2_1_Adm2:
+    GID: FRA.6.2_1
+    admin_name: Aube
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.3_1_Adm2:
+    GID: FRA.6.3_1
+    admin_name: Bas-Rhin
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.4_1_Adm2:
+    GID: FRA.6.4_1
+    admin_name: Haut-Rhin
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.5_1_Adm2:
+    GID: FRA.6.5_1
+    admin_name: Haute-Marne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.6_1_Adm2:
+    GID: FRA.6.6_1
+    admin_name: Marne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.7_1_Adm2:
+    GID: FRA.6.7_1
+    admin_name: Meurthe-et-Moselle
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.8_1_Adm2:
+    GID: FRA.6.8_1
+    admin_name: Meuse
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.9_1_Adm2:
+    GID: FRA.6.9_1
+    admin_name: Moselle
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.7_1_Adm1:
+    GID: FRA.7_1
+    admin_name: Hauts-de-France
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.7.1_1_Adm2:
+    GID: FRA.7.1_1
+    admin_name: Aisne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.7.2_1_Adm2:
+    GID: FRA.7.2_1
+    admin_name: Nord
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.7.3_1_Adm2:
+    GID: FRA.7.3_1
+    admin_name: Oise
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.7.4_1_Adm2:
+    GID: FRA.7.4_1
+    admin_name: Pas-de-Calais
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.7.5_1_Adm2:
+    GID: FRA.7.5_1
+    admin_name: Somme
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8_1_Adm1:
+    GID: FRA.8_1
+    admin_name: Île-de-France
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.8.1_1_Adm2:
+    GID: FRA.8.1_1
     admin_name: Essonne
-    shapeID: 29444166B9117646007403
-    country_name: France
-  France_Adm2_93:
     iso3c: FRA
+    country_name: France
     admin_level: Adm2
+  FRA.8.2_1_Adm2:
+    GID: FRA.8.2_1
     admin_name: Hauts-de-Seine
-    shapeID: 29444166B3280539319107
-    country_name: France
-  France_Adm2_94:
     iso3c: FRA
+    country_name: France
     admin_level: Adm2
+  FRA.8.3_1_Adm2:
+    GID: FRA.8.3_1
+    admin_name: Paris
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8.4_1_Adm2:
+    GID: FRA.8.4_1
+    admin_name: Seine-et-Marne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8.5_1_Adm2:
+    GID: FRA.8.5_1
     admin_name: Seine-Saint-Denis
-    shapeID: 29444166B11945742862669
-    country_name: France
-  France_Adm2_95:
     iso3c: FRA
-    admin_level: Adm2
-    admin_name: Val-de-Marne
-    shapeID: 29444166B83164575229799
     country_name: France
-  France_Adm2_96:
-    iso3c: FRA
     admin_level: Adm2
+  FRA.8.6_1_Adm2:
+    GID: FRA.8.6_1
     admin_name: Val-d'Oise
-    shapeID: 29444166B99414288339208
+    iso3c: FRA
     country_name: France
+    admin_level: Adm2
+  FRA.8.7_1_Adm2:
+    GID: FRA.8.7_1
+    admin_name: Val-de-Marne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8.8_1_Adm2:
+    GID: FRA.8.8_1
+    admin_name: Yvelines
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.9_1_Adm1:
+    GID: FRA.9_1
+    admin_name: Normandie
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.9.1_1_Adm2:
+    GID: FRA.9.1_1
+    admin_name: Calvados
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.9.2_1_Adm2:
+    GID: FRA.9.2_1
+    admin_name: Eure
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.9.3_1_Adm2:
+    GID: FRA.9.3_1
+    admin_name: Manche
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.9.4_1_Adm2:
+    GID: FRA.9.4_1
+    admin_name: Orne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.9.5_1_Adm2:
+    GID: FRA.9.5_1
+    admin_name: Seine-Maritime
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2

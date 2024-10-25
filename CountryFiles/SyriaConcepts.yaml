@@ -1,457 +1,451 @@
 concepts:
-  Syria_Adm0:
+  SYR.0_Adm0:
+    GID: SYR
+    admin_name: Syria
     iso3c: SYR
+    country_name: Syria
     admin_level: Adm0
-    admin_name: SyrianArabRepublic
-    shapeID: 73488105B26412584829656
-    country_name: Syria
-  Syria_Adm1_1:
+  SYR.1_1_Adm1:
+    GID: SYR.1_1
+    admin_name: Al Ḥasakah
     iso3c: SYR
-    admin_level: Adm1
-    admin_name: Damascus
-    shapeID: 8384693B24866558579919
     country_name: Syria
-  Syria_Adm1_10:
-    iso3c: SYR
     admin_level: Adm1
-    admin_name: Tartous
-    shapeID: 8384693B50697642267539
+  SYR.1.1_1_Adm2:
+    GID: SYR.1.1_1
+    admin_name: Al-Hasakah
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm1_11:
+    admin_level: Adm2
+  SYR.1.2_1_Adm2:
+    GID: SYR.1.2_1
+    admin_name: Al-Malikiyah
     iso3c: SYR
-    admin_level: Adm1
-    admin_name: Ar-Raqqa
-    shapeID: 8384693B44556209506703
     country_name: Syria
-  Syria_Adm1_12:
+    admin_level: Adm2
+  SYR.1.3_1_Adm2:
+    GID: SYR.1.3_1
+    admin_name: Al Qamishli
     iso3c: SYR
-    admin_level: Adm1
-    admin_name: Dar'a
-    shapeID: 8384693B23566608622518
     country_name: Syria
-  Syria_Adm1_13:
+    admin_level: Adm2
+  SYR.1.4_1_Adm2:
+    GID: SYR.1.4_1
+    admin_name: Ra's al-'Ayn
     iso3c: SYR
-    admin_level: Adm1
-    admin_name: As-Sweida
-    shapeID: 8384693B61807023607014
     country_name: Syria
-  Syria_Adm1_14:
+    admin_level: Adm2
+  SYR.10_1_Adm1:
+    GID: SYR.10_1
+    admin_name: Idlib
     iso3c: SYR
-    admin_level: Adm1
-    admin_name: Quneitra
-    shapeID: 8384693B30882548325909
     country_name: Syria
-  Syria_Adm1_2:
-    iso3c: SYR
     admin_level: Adm1
-    admin_name: Aleppo
-    shapeID: 8384693B67178658489877
+  SYR.10.1_1_Adm2:
+    GID: SYR.10.1_1
+    admin_name: Arihah
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm1_3:
+    admin_level: Adm2
+  SYR.10.2_1_Adm2:
+    GID: SYR.10.2_1
+    admin_name: Harem
     iso3c: SYR
-    admin_level: Adm1
-    admin_name: RuralDamascus
-    shapeID: 8384693B89451039606890
     country_name: Syria
-  Syria_Adm1_4:
+    admin_level: Adm2
+  SYR.10.3_1_Adm2:
+    GID: SYR.10.3_1
+    admin_name: Idlib
     iso3c: SYR
-    admin_level: Adm1
-    admin_name: Homs
-    shapeID: 8384693B93490606690779
     country_name: Syria
-  Syria_Adm1_5:
+    admin_level: Adm2
+  SYR.10.4_1_Adm2:
+    GID: SYR.10.4_1
+    admin_name: Jisr ash-Shugur
     iso3c: SYR
-    admin_level: Adm1
-    admin_name: Hama
-    shapeID: 8384693B76753285616287
     country_name: Syria
-  Syria_Adm1_6:
+    admin_level: Adm2
+  SYR.10.5_1_Adm2:
+    GID: SYR.10.5_1
+    admin_name: Ma'arrat al-Numan
     iso3c: SYR
-    admin_level: Adm1
+    country_name: Syria
+    admin_level: Adm2
+  SYR.11_1_Adm1:
+    GID: SYR.11_1
     admin_name: Lattakia
-    shapeID: 8384693B20094101885952
-    country_name: Syria
-  Syria_Adm1_7:
     iso3c: SYR
+    country_name: Syria
     admin_level: Adm1
-    admin_name: Idleb
-    shapeID: 8384693B38455082445791
-    country_name: Syria
-  Syria_Adm1_8:
+  SYR.11.1_1_Adm2:
+    GID: SYR.11.1_1
+    admin_name: Al-Haffah
     iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.11.2_1_Adm2:
+    GID: SYR.11.2_1
+    admin_name: Jableh
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.11.3_1_Adm2:
+    GID: SYR.11.3_1
+    admin_name: Latakia
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.11.4_1_Adm2:
+    GID: SYR.11.4_1
+    admin_name: Qardaha
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.12_1_Adm1:
+    GID: SYR.12_1
+    admin_name: Quneitra
+    iso3c: SYR
+    country_name: Syria
     admin_level: Adm1
-    admin_name: Al-Hasakeh
-    shapeID: 8384693B3351094574159
-    country_name: Syria
-  Syria_Adm1_9:
+  SYR.12.1_1_Adm2:
+    GID: SYR.12.1_1
+    admin_name: Quneitra
     iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.13_1_Adm1:
+    GID: SYR.13_1
+    admin_name: Rif Dimashq
+    iso3c: SYR
+    country_name: Syria
     admin_level: Adm1
-    admin_name: Deir-ez-Zor
-    shapeID: 8384693B56550821124428
-    country_name: Syria
-  Syria_Adm2_1:
+  SYR.13.1_1_Adm2:
+    GID: SYR.13.1_1
+    admin_name: Al-Qutayfah
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: Damascus
-    shapeID: 27442178B22471987034404
     country_name: Syria
-  Syria_Adm2_10:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: RuralDamascus
-    shapeID: 27442178B80699161134092
+  SYR.13.2_1_Adm2:
+    GID: SYR.13.2_1
+    admin_name: An-Nabk
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_11:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: Duma
-    shapeID: 27442178B16442606574703
+  SYR.13.3_1_Adm2:
+    GID: SYR.13.3_1
+    admin_name: At-Tall
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_12:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: AlQutayfah
-    shapeID: 27442178B63021739925615
-    country_name: Syria
-  Syria_Adm2_13:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: AtTall
-    shapeID: 27442178B63006606807907
-    country_name: Syria
-  Syria_Adm2_14:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Yabroud
-    shapeID: 27442178B56496530106269
-    country_name: Syria
-  Syria_Adm2_15:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: AnNabk
-    shapeID: 27442178B81131748986773
-    country_name: Syria
-  Syria_Adm2_16:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Az-Zabdani
-    shapeID: 27442178B59833257068654
-    country_name: Syria
-  Syria_Adm2_17:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Qatana
-    shapeID: 27442178B63011141740515
-    country_name: Syria
-  Syria_Adm2_18:
-    iso3c: SYR
-    admin_level: Adm2
+  SYR.13.4_1_Adm2:
+    GID: SYR.13.4_1
     admin_name: Darayya
-    shapeID: 27442178B13792068888358
-    country_name: Syria
-  Syria_Adm2_19:
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: Homs
-    shapeID: 27442178B91557549439519
     country_name: Syria
-  Syria_Adm2_2:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: JebelSaman
-    shapeID: 27442178B96508006833869
+  SYR.13.5_1_Adm2:
+    GID: SYR.13.5_1
+    admin_name: Duma
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_20:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: Al-Qusayr
-    shapeID: 27442178B51656539269606
+  SYR.13.6_1_Adm2:
+    GID: SYR.13.6_1
+    admin_name: Markaz Rif Dimashq
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_21:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: TallKalakh
-    shapeID: 27442178B60418009452869
+  SYR.13.7_1_Adm2:
+    GID: SYR.13.7_1
+    admin_name: Qatana
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_22:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: Ar-Rastan
-    shapeID: 27442178B10190550865888
+  SYR.13.8_1_Adm2:
+    GID: SYR.13.8_1
+    admin_name: Yabrud
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_23:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: Tadmor
-    shapeID: 27442178B76261641700856
+  SYR.13.9_1_Adm2:
+    GID: SYR.13.9_1
+    admin_name: Zabadani
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_24:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: AlMakhrim
-    shapeID: 27442178B17685723948764
+  SYR.14_1_Adm1:
+    GID: SYR.14_1
+    admin_name: Tartus
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_25:
+    admin_level: Adm1
+  SYR.14.1_1_Adm2:
+    GID: SYR.14.1_1
+    admin_name: Ash-Shaykh Badr
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: Hama
-    shapeID: 27442178B84195179221003
     country_name: Syria
-  Syria_Adm2_26:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: As-Suqaylabiyah
-    shapeID: 27442178B45767266881892
+  SYR.14.2_1_Adm2:
+    GID: SYR.14.2_1
+    admin_name: Baniyas
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_27:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: As-Salamiyeh
-    shapeID: 27442178B43082534172912
+  SYR.14.3_1_Adm2:
+    GID: SYR.14.3_1
+    admin_name: Duraykish
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_28:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: Masyaf
-    shapeID: 27442178B31990643139600
-    country_name: Syria
-  Syria_Adm2_29:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Muhradah
-    shapeID: 27442178B78133098408237
-    country_name: Syria
-  Syria_Adm2_3:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: AlBab
-    shapeID: 27442178B24628051118006
-    country_name: Syria
-  Syria_Adm2_30:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Lattakia
-    shapeID: 27442178B94813764709421
-    country_name: Syria
-  Syria_Adm2_31:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Jablah
-    shapeID: 27442178B5090378365720
-    country_name: Syria
-  Syria_Adm2_32:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Al-Haffa
-    shapeID: 27442178B95231031847739
-    country_name: Syria
-  Syria_Adm2_33:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Al-Qardaha
-    shapeID: 27442178B45607569668873
-    country_name: Syria
-  Syria_Adm2_34:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Idleb
-    shapeID: 27442178B9567094438554
-    country_name: Syria
-  Syria_Adm2_35:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: AlMa'ra
-    shapeID: 27442178B71280190344240
-    country_name: Syria
-  Syria_Adm2_36:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Harim
-    shapeID: 27442178B79082810780972
-    country_name: Syria
-  Syria_Adm2_37:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Jisr-Ash-Shugur
-    shapeID: 27442178B84192320308694
-    country_name: Syria
-  Syria_Adm2_38:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Ariha
-    shapeID: 27442178B18977709066888
-    country_name: Syria
-  Syria_Adm2_39:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Al-Hasakeh
-    shapeID: 27442178B13029247631939
-    country_name: Syria
-  Syria_Adm2_4:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Afrin
-    shapeID: 27442178B88911382861768
-    country_name: Syria
-  Syria_Adm2_40:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Quamishli
-    shapeID: 27442178B53577550578456
-    country_name: Syria
-  Syria_Adm2_41:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Al-Malikeyyeh
-    shapeID: 27442178B99216687489351
-    country_name: Syria
-  Syria_Adm2_42:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: RasAlAin
-    shapeID: 27442178B16567144851356
-    country_name: Syria
-  Syria_Adm2_43:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Deir-ez-Zor
-    shapeID: 27442178B9541206135539
-    country_name: Syria
-  Syria_Adm2_44:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: AbuKamal
-    shapeID: 27442178B22276011833046
-    country_name: Syria
-  Syria_Adm2_45:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: AlMayadin
-    shapeID: 27442178B96470480022323
-    country_name: Syria
-  Syria_Adm2_46:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Tartous
-    shapeID: 27442178B78381061793998
-    country_name: Syria
-  Syria_Adm2_47:
-    iso3c: SYR
-    admin_level: Adm2
-    admin_name: Banyas
-    shapeID: 27442178B62310236233952
-    country_name: Syria
-  Syria_Adm2_48:
-    iso3c: SYR
-    admin_level: Adm2
+  SYR.14.4_1_Adm2:
+    GID: SYR.14.4_1
     admin_name: Safita
-    shapeID: 27442178B1888341304206
-    country_name: Syria
-  Syria_Adm2_49:
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: Dreikish
-    shapeID: 27442178B79430829635583
     country_name: Syria
-  Syria_Adm2_5:
-    iso3c: SYR
     admin_level: Adm2
+  SYR.14.5_1_Adm2:
+    GID: SYR.14.5_1
+    admin_name: Tartus
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2_1_Adm1:
+    GID: SYR.2_1
+    admin_name: Aleppo
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.2.1_1_Adm2:
+    GID: SYR.2.1_1
+    admin_name: '''Ayn al-''Arab'
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.2_1_Adm2:
+    GID: SYR.2.2_1
     admin_name: A'zaz
-    shapeID: 27442178B26836039619487
-    country_name: Syria
-  Syria_Adm2_50:
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: SheikhBadr
-    shapeID: 27442178B44438051869980
     country_name: Syria
-  Syria_Adm2_51:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: Ar-Raqqa
-    shapeID: 27442178B57458390277946
+  SYR.2.3_1_Adm2:
+    GID: SYR.2.3_1
+    admin_name: Afrin
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_52:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: TellAbiad
-    shapeID: 27442178B34075692761550
+  SYR.2.4_1_Adm2:
+    GID: SYR.2.4_1
+    admin_name: Al Bab
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_53:
-    iso3c: SYR
     admin_level: Adm2
+  SYR.2.5_1_Adm2:
+    GID: SYR.2.5_1
+    admin_name: As-Safirah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.6_1_Adm2:
+    GID: SYR.2.6_1
+    admin_name: Jabal Sam'an
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.7_1_Adm2:
+    GID: SYR.2.7_1
+    admin_name: Jarabulus
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.8_1_Adm2:
+    GID: SYR.2.8_1
+    admin_name: Manbij
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.3_1_Adm1:
+    GID: SYR.3_1
+    admin_name: Ar Raqqah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.3.1_1_Adm2:
+    GID: SYR.3.1_1
+    admin_name: Ar-Raqqah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.3.2_1_Adm2:
+    GID: SYR.3.2_1
     admin_name: Ath-Thawrah
-    shapeID: 27442178B46572819209410
-    country_name: Syria
-  Syria_Adm2_54:
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: Dar'a
-    shapeID: 27442178B67726505950673
     country_name: Syria
-  Syria_Adm2_55:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: As-Sanamayn
-    shapeID: 27442178B3893178613366
+  SYR.3.3_1_Adm2:
+    GID: SYR.3.3_1
+    admin_name: Tal Abyad
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_56:
-    iso3c: SYR
     admin_level: Adm2
-    admin_name: Izra'
-    shapeID: 27442178B99944519185371
+  SYR.4_1_Adm1:
+    GID: SYR.4_1
+    admin_name: As Suwayda'
+    iso3c: SYR
     country_name: Syria
-  Syria_Adm2_57:
+    admin_level: Adm1
+  SYR.4.1_1_Adm2:
+    GID: SYR.4.1_1
+    admin_name: As-Suwayda
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: As-Sweida
-    shapeID: 27442178B49241886307156
     country_name: Syria
-  Syria_Adm2_58:
-    iso3c: SYR
     admin_level: Adm2
+  SYR.4.2_1_Adm2:
+    GID: SYR.4.2_1
     admin_name: Salkhad
-    shapeID: 27442178B39967895671995
-    country_name: Syria
-  Syria_Adm2_59:
     iso3c: SYR
+    country_name: Syria
     admin_level: Adm2
+  SYR.4.3_1_Adm2:
+    GID: SYR.4.3_1
     admin_name: Shahba
-    shapeID: 27442178B615257865565
-    country_name: Syria
-  Syria_Adm2_6:
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: Menbij
-    shapeID: 27442178B68936835306318
     country_name: Syria
-  Syria_Adm2_60:
+    admin_level: Adm2
+  SYR.5_1_Adm1:
+    GID: SYR.5_1
+    admin_name: Damascus
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: Quneitra
-    shapeID: 27442178B38649296158741
     country_name: Syria
-  Syria_Adm2_61:
+    admin_level: Adm1
+  SYR.5.1_1_Adm2:
+    GID: SYR.5.1_1
+    admin_name: Damascus
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: AlFiq
-    shapeID: 27442178B98358455064560
     country_name: Syria
-  Syria_Adm2_7:
+    admin_level: Adm2
+  SYR.6_1_Adm1:
+    GID: SYR.6_1
+    admin_name: Dar`a
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: AinAlArab
-    shapeID: 27442178B6640625460328
     country_name: Syria
-  Syria_Adm2_8:
+    admin_level: Adm1
+  SYR.6.1_1_Adm2:
+    GID: SYR.6.1_1
+    admin_name: As-Sanamayn
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: As-Safira
-    shapeID: 27442178B22464389911891
     country_name: Syria
-  Syria_Adm2_9:
+    admin_level: Adm2
+  SYR.6.2_1_Adm2:
+    GID: SYR.6.2_1
+    admin_name: Daraa
     iso3c: SYR
-    admin_level: Adm2
-    admin_name: Jarablus
-    shapeID: 27442178B60985416821817
     country_name: Syria
+    admin_level: Adm2
+  SYR.6.3_1_Adm2:
+    GID: SYR.6.3_1
+    admin_name: Izra'
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.7_1_Adm1:
+    GID: SYR.7_1
+    admin_name: Dayr Az Zawr
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.7.1_1_Adm2:
+    GID: SYR.7.1_1
+    admin_name: Abu Kamal
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.7.2_1_Adm2:
+    GID: SYR.7.2_1
+    admin_name: Deir ez-Zor
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.7.3_1_Adm2:
+    GID: SYR.7.3_1
+    admin_name: Mayadin
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.8_1_Adm1:
+    GID: SYR.8_1
+    admin_name: Hamah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.8.1_1_Adm2:
+    GID: SYR.8.1_1
+    admin_name: As-Suqaylabiyah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.8.2_1_Adm2:
+    GID: SYR.8.2_1
+    admin_name: Hama
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.8.3_1_Adm2:
+    GID: SYR.8.3_1
+    admin_name: Masyaf
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.8.4_1_Adm2:
+    GID: SYR.8.4_1
+    admin_name: Muhardeh
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.8.5_1_Adm2:
+    GID: SYR.8.5_1
+    admin_name: Salamiyah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9_1_Adm1:
+    GID: SYR.9_1
+    admin_name: Hims
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.9.1_1_Adm2:
+    GID: SYR.9.1_1
+    admin_name: Al-Mukharram
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9.2_1_Adm2:
+    GID: SYR.9.2_1
+    admin_name: Al-Qusayr
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9.3_1_Adm2:
+    GID: SYR.9.3_1
+    admin_name: Ar-Rastan
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9.4_1_Adm2:
+    GID: SYR.9.4_1
+    admin_name: Hims
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9.5_1_Adm2:
+    GID: SYR.9.5_1
+    admin_name: Palmyra
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9.6_1_Adm2:
+    GID: SYR.9.6_1
+    admin_name: Talkalakh
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2

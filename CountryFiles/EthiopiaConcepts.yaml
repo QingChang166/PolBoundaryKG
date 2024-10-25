@@ -1,517 +1,547 @@
 concepts:
-  Ethiopia_Adm0:
-    iso3c: ETH
-    admin_level: Adm0
+  ETH.0_Adm0:
+    GID: ETH
     admin_name: Ethiopia
-    shapeID: 96871213B60890837709686
-    country_name: Ethiopia
-  Ethiopia_Adm1_1:
     iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm0
+  ETH.1_1_Adm1:
+    GID: ETH.1_1
+    admin_name: Addis Abeba
+    iso3c: ETH
+    country_name: Ethiopia
     admin_level: Adm1
-    admin_name: AddisAbaba
-    shapeID: 75662566B5378229891244
-    country_name: Ethiopia
-  Ethiopia_Adm1_10:
+  ETH.1.1_1_Adm2:
+    GID: ETH.1.1_1
+    admin_name: Addis Abeba
     iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10_1_Adm1:
+    GID: ETH.10_1
+    admin_name: Southern Nations, Nationalities
+    iso3c: ETH
+    country_name: Ethiopia
     admin_level: Adm1
-    admin_name: Somali
-    shapeID: 75662566B32417772325798
-    country_name: Ethiopia
-  Ethiopia_Adm1_11:
-    iso3c: ETH
-    admin_level: Adm1
-    admin_name: Tigray
-    shapeID: 75662566B45163836206557
-    country_name: Ethiopia
-  Ethiopia_Adm1_2:
-    iso3c: ETH
-    admin_level: Adm1
-    admin_name: Afar
-    shapeID: 75662566B25357223982520
-    country_name: Ethiopia
-  Ethiopia_Adm1_3:
-    iso3c: ETH
-    admin_level: Adm1
-    admin_name: Amhara
-    shapeID: 75662566B52684709481520
-    country_name: Ethiopia
-  Ethiopia_Adm1_4:
-    iso3c: ETH
-    admin_level: Adm1
-    admin_name: BeneshangulGumu
-    shapeID: 75662566B16746670119676
-    country_name: Ethiopia
-  Ethiopia_Adm1_5:
-    iso3c: ETH
-    admin_level: Adm1
-    admin_name: DireDawa
-    shapeID: 75662566B22109266514860
-    country_name: Ethiopia
-  Ethiopia_Adm1_6:
-    iso3c: ETH
-    admin_level: Adm1
-    admin_name: Gambela
-    shapeID: 75662566B92391245038365
-    country_name: Ethiopia
-  Ethiopia_Adm1_7:
-    iso3c: ETH
-    admin_level: Adm1
-    admin_name: Hareri
-    shapeID: 75662566B51121866066295
-    country_name: Ethiopia
-  Ethiopia_Adm1_8:
-    iso3c: ETH
-    admin_level: Adm1
-    admin_name: Oromia
-    shapeID: 75662566B9273833721501
-    country_name: Ethiopia
-  Ethiopia_Adm1_9:
-    iso3c: ETH
-    admin_level: Adm1
-    admin_name: SNNPR
-    shapeID: 75662566B72302855928957
-    country_name: Ethiopia
-  Ethiopia_Adm2_1:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Afder
-    shapeID: 57463737B43250517747981
-    country_name: Ethiopia
-  Ethiopia_Adm2_10:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Borena
-    shapeID: 57463737B436520794921
-    country_name: Ethiopia
-  Ethiopia_Adm2_11:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Central
-    shapeID: 57463737B39814221548700
-    country_name: Ethiopia
-  Ethiopia_Adm2_12:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Dawro
-    shapeID: 57463737B47047900870989
-    country_name: Ethiopia
-  Ethiopia_Adm2_13:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: DireDawa
-    shapeID: 57463737B22109266514860
-    country_name: Ethiopia
-  Ethiopia_Adm2_14:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Doolo
-    shapeID: 57463737B30637581928389
-    country_name: Ethiopia
-  Ethiopia_Adm2_15:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: EastGojam
-    shapeID: 57463737B71037891772162
-    country_name: Ethiopia
-  Ethiopia_Adm2_16:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: EastHarerge
-    shapeID: 57463737B249587140491
-    country_name: Ethiopia
-  Ethiopia_Adm2_17:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: EastShewa
-    shapeID: 57463737B77878883306359
-    country_name: Ethiopia
-  Ethiopia_Adm2_18:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: EastWellega
-    shapeID: 57463737B79125801583063
-    country_name: Ethiopia
-  Ethiopia_Adm2_19:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Eastern
-    shapeID: 57463737B91204154361244
-    country_name: Ethiopia
-  Ethiopia_Adm2_2:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Agnuak
-    shapeID: 57463737B400917035317
-    country_name: Ethiopia
-  Ethiopia_Adm2_20:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Fafan
-    shapeID: 57463737B89594176742126
-    country_name: Ethiopia
-  Ethiopia_Adm2_21:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: GamoGofa
-    shapeID: 57463737B86635569864278
-    country_name: Ethiopia
-  Ethiopia_Adm2_22:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Gedio
-    shapeID: 57463737B31962206171619
-    country_name: Ethiopia
-  Ethiopia_Adm2_23:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Guji
-    shapeID: 57463737B6587793524925
-    country_name: Ethiopia
-  Ethiopia_Adm2_24:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Gurage
-    shapeID: 57463737B1298615116598
-    country_name: Ethiopia
-  Ethiopia_Adm2_25:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Hadiya
-    shapeID: 57463737B63499939283868
-    country_name: Ethiopia
-  Ethiopia_Adm2_26:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Hareri
-    shapeID: 57463737B51121866066295
-    country_name: Ethiopia
-  Ethiopia_Adm2_27:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: HoroGuduru
-    shapeID: 57463737B15837769236873
-    country_name: Ethiopia
-  Ethiopia_Adm2_28:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Ilubabor
-    shapeID: 57463737B22829161726493
-    country_name: Ethiopia
-  Ethiopia_Adm2_29:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Jarar
-    shapeID: 57463737B12747542791958
-    country_name: Ethiopia
-  Ethiopia_Adm2_3:
-    iso3c: ETH
-    admin_level: Adm2
+  ETH.10.1_1_Adm2:
+    GID: ETH.10.1_1
     admin_name: Alaba
-    shapeID: 57463737B42353021919887
-    country_name: Ethiopia
-  Ethiopia_Adm2_30:
     iso3c: ETH
-    admin_level: Adm2
-    admin_name: Jimma
-    shapeID: 57463737B95697256598451
     country_name: Ethiopia
-  Ethiopia_Adm2_31:
-    iso3c: ETH
     admin_level: Adm2
+  ETH.10.10_1_Adm2:
+    GID: ETH.10.10_1
+    admin_name: Gamo Gofa
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10.11_1_Adm2:
+    GID: ETH.10.11_1
+    admin_name: Gedeo
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10.12_1_Adm2:
+    GID: ETH.10.12_1
+    admin_name: Gurage
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10.13_1_Adm2:
+    GID: ETH.10.13_1
+    admin_name: Hadiya
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10.14_1_Adm2:
+    GID: ETH.10.14_1
     admin_name: Keffa
-    shapeID: 57463737B32863879872033
-    country_name: Ethiopia
-  Ethiopia_Adm2_32:
     iso3c: ETH
-    admin_level: Adm2
-    admin_name: KelemWellega
-    shapeID: 57463737B75894737720042
     country_name: Ethiopia
-  Ethiopia_Adm2_33:
-    iso3c: ETH
     admin_level: Adm2
-    admin_name: Kemashi
-    shapeID: 57463737B3908522439812
+  ETH.10.15_1_Adm2:
+    GID: ETH.10.15_1
+    admin_name: Kembata Tembaro
+    iso3c: ETH
     country_name: Ethiopia
-  Ethiopia_Adm2_34:
-    iso3c: ETH
     admin_level: Adm2
+  ETH.10.16_1_Adm2:
+    GID: ETH.10.16_1
+    admin_name: Konso
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10.17_1_Adm2:
+    GID: ETH.10.17_1
     admin_name: Konta
-    shapeID: 57463737B85243758761860
-    country_name: Ethiopia
-  Ethiopia_Adm2_35:
     iso3c: ETH
-    admin_level: Adm2
-    admin_name: Korahe
-    shapeID: 57463737B1594897228976
     country_name: Ethiopia
-  Ethiopia_Adm2_36:
-    iso3c: ETH
     admin_level: Adm2
-    admin_name: KT
-    shapeID: 57463737B7073767873208
-    country_name: Ethiopia
-  Ethiopia_Adm2_37:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Liben
-    shapeID: 57463737B84149246133198
-    country_name: Ethiopia
-  Ethiopia_Adm2_38:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Majang
-    shapeID: 57463737B25474915943822
-    country_name: Ethiopia
-  Ethiopia_Adm2_39:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Metekel
-    shapeID: 57463737B57190037536303
-    country_name: Ethiopia
-  Ethiopia_Adm2_4:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Arsi
-    shapeID: 57463737B25487196396811
-    country_name: Ethiopia
-  Ethiopia_Adm2_40:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Nogob
-    shapeID: 57463737B76500923720199
-    country_name: Ethiopia
-  Ethiopia_Adm2_41:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: NorthGonder
-    shapeID: 57463737B33844308695129
-    country_name: Ethiopia
-  Ethiopia_Adm2_42:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: NorthShewa(R3)
-    shapeID: 57463737B29739464578805
-    country_name: Ethiopia
-  Ethiopia_Adm2_43:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: NorthShewa(R4)
-    shapeID: 57463737B31651758241956
-    country_name: Ethiopia
-  Ethiopia_Adm2_44:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: NorthWestern
-    shapeID: 57463737B89864099179699
-    country_name: Ethiopia
-  Ethiopia_Adm2_45:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: NorthWollo
-    shapeID: 57463737B48822238288228
-    country_name: Ethiopia
-  Ethiopia_Adm2_46:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Nuer
-    shapeID: 57463737B84329108093360
-    country_name: Ethiopia
-  Ethiopia_Adm2_47:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Oromia
-    shapeID: 57463737B14712300908991
-    country_name: Ethiopia
-  Ethiopia_Adm2_48:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Region14
-    shapeID: 57463737B5378229891244
-    country_name: Ethiopia
-  Ethiopia_Adm2_49:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: SegenPeoples'
-    shapeID: 57463737B59192913037223
-    country_name: Ethiopia
-  Ethiopia_Adm2_5:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Asosa
-    shapeID: 57463737B99696038054094
-    country_name: Ethiopia
-  Ethiopia_Adm2_50:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Selti
-    shapeID: 57463737B47845623472468
-    country_name: Ethiopia
-  Ethiopia_Adm2_51:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Shabelle
-    shapeID: 57463737B16105117004736
-    country_name: Ethiopia
-  Ethiopia_Adm2_52:
-    iso3c: ETH
-    admin_level: Adm2
+  ETH.10.18_1_Adm2:
+    GID: ETH.10.18_1
     admin_name: Sheka
-    shapeID: 57463737B63626574921368
-    country_name: Ethiopia
-  Ethiopia_Adm2_53:
     iso3c: ETH
+    country_name: Ethiopia
     admin_level: Adm2
+  ETH.10.19_1_Adm2:
+    GID: ETH.10.19_1
     admin_name: Sidama
-    shapeID: 57463737B92297495098422
-    country_name: Ethiopia
-  Ethiopia_Adm2_54:
     iso3c: ETH
-    admin_level: Adm2
-    admin_name: Siti
-    shapeID: 57463737B50434499514610
     country_name: Ethiopia
-  Ethiopia_Adm2_55:
-    iso3c: ETH
     admin_level: Adm2
-    admin_name: SouthGonder
-    shapeID: 57463737B98964662910033
+  ETH.10.2_1_Adm2:
+    GID: ETH.10.2_1
+    admin_name: Alle
+    iso3c: ETH
     country_name: Ethiopia
-  Ethiopia_Adm2_56:
-    iso3c: ETH
     admin_level: Adm2
-    admin_name: SouthOmo
-    shapeID: 57463737B95170801436908
+  ETH.10.20_1_Adm2:
+    GID: ETH.10.20_1
+    admin_name: Silti
+    iso3c: ETH
     country_name: Ethiopia
-  Ethiopia_Adm2_57:
-    iso3c: ETH
     admin_level: Adm2
-    admin_name: SouthWestShewa
-    shapeID: 57463737B78639560237753
-    country_name: Ethiopia
-  Ethiopia_Adm2_58:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: SouthWollo
-    shapeID: 57463737B70829133861950
-    country_name: Ethiopia
-  Ethiopia_Adm2_59:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Southern
-    shapeID: 57463737B99888121280160
-    country_name: Ethiopia
-  Ethiopia_Adm2_6:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Awi/Agew
-    shapeID: 57463737B64256577014982
-    country_name: Ethiopia
-  Ethiopia_Adm2_60:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: SpecialWoreda
-    shapeID: 57463737B67745192438967
-    country_name: Ethiopia
-  Ethiopia_Adm2_61:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: WagHimra
-    shapeID: 57463737B2754129791816
-    country_name: Ethiopia
-  Ethiopia_Adm2_62:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: WestArsi
-    shapeID: 57463737B70873970034442
-    country_name: Ethiopia
-  Ethiopia_Adm2_63:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: WestGojam
-    shapeID: 57463737B52956719481852
-    country_name: Ethiopia
-  Ethiopia_Adm2_64:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: WestHarerge
-    shapeID: 57463737B54894668037624
-    country_name: Ethiopia
-  Ethiopia_Adm2_65:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: WestShewa
-    shapeID: 57463737B12311921356322
-    country_name: Ethiopia
-  Ethiopia_Adm2_66:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: WestWellega
-    shapeID: 57463737B50553734798288
-    country_name: Ethiopia
-  Ethiopia_Adm2_67:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Western
-    shapeID: 57463737B15825605122203
-    country_name: Ethiopia
-  Ethiopia_Adm2_68:
-    iso3c: ETH
-    admin_level: Adm2
+  ETH.10.21_1_Adm2:
+    GID: ETH.10.21_1
     admin_name: Wolayita
-    shapeID: 57463737B13273048506325
-    country_name: Ethiopia
-  Ethiopia_Adm2_69:
     iso3c: ETH
+    country_name: Ethiopia
     admin_level: Adm2
+  ETH.10.22_1_Adm2:
+    GID: ETH.10.22_1
     admin_name: Yem
-    shapeID: 57463737B71172530098060
-    country_name: Ethiopia
-  Ethiopia_Adm2_7:
     iso3c: ETH
-    admin_level: Adm2
-    admin_name: Bale
-    shapeID: 57463737B60581059142887
     country_name: Ethiopia
-  Ethiopia_Adm2_70:
-    iso3c: ETH
     admin_level: Adm2
-    admin_name: Zone1
-    shapeID: 57463737B91823679317491
+  ETH.10.3_1_Adm2:
+    GID: ETH.10.3_1
+    admin_name: Amaro
+    iso3c: ETH
     country_name: Ethiopia
-  Ethiopia_Adm2_71:
-    iso3c: ETH
     admin_level: Adm2
-    admin_name: Zone2
-    shapeID: 57463737B59365186809272
-    country_name: Ethiopia
-  Ethiopia_Adm2_72:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Zone3
-    shapeID: 57463737B74315162620914
-    country_name: Ethiopia
-  Ethiopia_Adm2_73:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Zone4
-    shapeID: 57463737B38369228192248
-    country_name: Ethiopia
-  Ethiopia_Adm2_74:
-    iso3c: ETH
-    admin_level: Adm2
-    admin_name: Zone5
-    shapeID: 57463737B89952928868477
-    country_name: Ethiopia
-  Ethiopia_Adm2_8:
-    iso3c: ETH
-    admin_level: Adm2
+  ETH.10.4_1_Adm2:
+    GID: ETH.10.4_1
     admin_name: Basketo
-    shapeID: 57463737B27385669654887
-    country_name: Ethiopia
-  Ethiopia_Adm2_9:
     iso3c: ETH
-    admin_level: Adm2
-    admin_name: BenchMaji
-    shapeID: 57463737B29794193200035
     country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10.5_1_Adm2:
+    GID: ETH.10.5_1
+    admin_name: Bench Maji
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10.6_1_Adm2:
+    GID: ETH.10.6_1
+    admin_name: Burji
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10.7_1_Adm2:
+    GID: ETH.10.7_1
+    admin_name: Dawro
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10.8_1_Adm2:
+    GID: ETH.10.8_1
+    admin_name: Debub Omo
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.10.9_1_Adm2:
+    GID: ETH.10.9_1
+    admin_name: Derashe
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.11_1_Adm1:
+    GID: ETH.11_1
+    admin_name: Tigray
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm1
+  ETH.11.1_1_Adm2:
+    GID: ETH.11.1_1
+    admin_name: Debubawi
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.11.2_1_Adm2:
+    GID: ETH.11.2_1
+    admin_name: Mehakelegnaw
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.11.3_1_Adm2:
+    GID: ETH.11.3_1
+    admin_name: Mi'irabawi
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.11.4_1_Adm2:
+    GID: ETH.11.4_1
+    admin_name: Misraqawi
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.11.5_1_Adm2:
+    GID: ETH.11.5_1
+    admin_name: Semien Mi'irabaw
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.2_1_Adm1:
+    GID: ETH.2_1
+    admin_name: Afar
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm1
+  ETH.2.1_1_Adm2:
+    GID: ETH.2.1_1
+    admin_name: Afar Zone 1
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.2.2_1_Adm2:
+    GID: ETH.2.2_1
+    admin_name: Afar Zone 2
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.2.3_1_Adm2:
+    GID: ETH.2.3_1
+    admin_name: Afar Zone 3
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.2.4_1_Adm2:
+    GID: ETH.2.4_1
+    admin_name: Afar Zone 4
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.2.5_1_Adm2:
+    GID: ETH.2.5_1
+    admin_name: Afar Zone 5
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3_1_Adm1:
+    GID: ETH.3_1
+    admin_name: Amhara
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm1
+  ETH.3.1_1_Adm2:
+    GID: ETH.3.1_1
+    admin_name: Agew Awi
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.10_1_Adm2:
+    GID: ETH.3.10_1
+    admin_name: Semen Gondar
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.11_1_Adm2:
+    GID: ETH.3.11_1
+    admin_name: Semen Wello
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.12_1_Adm2:
+    GID: ETH.3.12_1
+    admin_name: Wag Himra
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.2_1_Adm2:
+    GID: ETH.3.2_1
+    admin_name: Argoba
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.3_1_Adm2:
+    GID: ETH.3.3_1
+    admin_name: Bahir Dar Special Zone
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.4_1_Adm2:
+    GID: ETH.3.4_1
+    admin_name: Debub Gondar
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.5_1_Adm2:
+    GID: ETH.3.5_1
+    admin_name: Debub Wollo
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.6_1_Adm2:
+    GID: ETH.3.6_1
+    admin_name: Mirab Gojjam
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.7_1_Adm2:
+    GID: ETH.3.7_1
+    admin_name: Misraq Gojjam
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.8_1_Adm2:
+    GID: ETH.3.8_1
+    admin_name: North Shewa
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.3.9_1_Adm2:
+    GID: ETH.3.9_1
+    admin_name: Oromia
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.4_1_Adm1:
+    GID: ETH.4_1
+    admin_name: Benshangul-Gumaz
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm1
+  ETH.4.1_1_Adm2:
+    GID: ETH.4.1_1
+    admin_name: Asosa
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.4.2_1_Adm2:
+    GID: ETH.4.2_1
+    admin_name: Kemashi
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.4.3_1_Adm2:
+    GID: ETH.4.3_1
+    admin_name: Metekel
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.5_1_Adm1:
+    GID: ETH.5_1
+    admin_name: Dire Dawa
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm1
+  ETH.5.1_1_Adm2:
+    GID: ETH.5.1_1
+    admin_name: Dire Dawa
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.6_1_Adm1:
+    GID: ETH.6_1
+    admin_name: Gambela Peoples
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm1
+  ETH.6.1_1_Adm2:
+    GID: ETH.6.1_1
+    admin_name: Agnuak
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.6.2_1_Adm2:
+    GID: ETH.6.2_1
+    admin_name: Majang
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.6.3_1_Adm2:
+    GID: ETH.6.3_1
+    admin_name: Nuer
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.7_1_Adm1:
+    GID: ETH.7_1
+    admin_name: Harari People
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm1
+  ETH.7.1_1_Adm2:
+    GID: ETH.7.1_1
+    admin_name: Hareri
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8_1_Adm1:
+    GID: ETH.8_1
+    admin_name: Oromia
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm1
+  ETH.8.1_1_Adm2:
+    GID: ETH.8.1_1
+    admin_name: Arsi
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.10_1_Adm2:
+    GID: ETH.8.10_1
+    admin_name: Mirab Arsi
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.11_1_Adm2:
+    GID: ETH.8.11_1
+    admin_name: Mirab Hararghe
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.12_1_Adm2:
+    GID: ETH.8.12_1
+    admin_name: Mirab Shewa
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.13_1_Adm2:
+    GID: ETH.8.13_1
+    admin_name: Mirab Welega
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.14_1_Adm2:
+    GID: ETH.8.14_1
+    admin_name: Misraq Harerge
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.15_1_Adm2:
+    GID: ETH.8.15_1
+    admin_name: Misraq Shewa
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.16_1_Adm2:
+    GID: ETH.8.16_1
+    admin_name: Misraq Wellega
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.17_1_Adm2:
+    GID: ETH.8.17_1
+    admin_name: North Shewa
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.2_1_Adm2:
+    GID: ETH.8.2_1
+    admin_name: Bale
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.3_1_Adm2:
+    GID: ETH.8.3_1
+    admin_name: Borena
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.4_1_Adm2:
+    GID: ETH.8.4_1
+    admin_name: Debub Mirab Shewa
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.5_1_Adm2:
+    GID: ETH.8.5_1
+    admin_name: Guji
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.6_1_Adm2:
+    GID: ETH.8.6_1
+    admin_name: Horo Guduru
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.7_1_Adm2:
+    GID: ETH.8.7_1
+    admin_name: Ilubabor
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.8_1_Adm2:
+    GID: ETH.8.8_1
+    admin_name: Jimma
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.8.9_1_Adm2:
+    GID: ETH.8.9_1
+    admin_name: Kelem Wellega
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.9_1_Adm1:
+    GID: ETH.9_1
+    admin_name: Somali
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm1
+  ETH.9.1_1_Adm2:
+    GID: ETH.9.1_1
+    admin_name: Afder
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.9.2_1_Adm2:
+    GID: ETH.9.2_1
+    admin_name: Doolo
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.9.3_1_Adm2:
+    GID: ETH.9.3_1
+    admin_name: Fafan
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.9.4_1_Adm2:
+    GID: ETH.9.4_1
+    admin_name: Jarar
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.9.5_1_Adm2:
+    GID: ETH.9.5_1
+    admin_name: Korahe
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.9.6_1_Adm2:
+    GID: ETH.9.6_1
+    admin_name: Liben
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.9.7_1_Adm2:
+    GID: ETH.9.7_1
+    admin_name: Nogob
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.9.8_1_Adm2:
+    GID: ETH.9.8_1
+    admin_name: Shabelle
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2
+  ETH.9.9_1_Adm2:
+    GID: ETH.9.9_1
+    admin_name: Siti
+    iso3c: ETH
+    country_name: Ethiopia
+    admin_level: Adm2

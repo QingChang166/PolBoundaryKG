@@ -1,277 +1,229 @@
 concepts:
-  Kosovo_Adm0:
-    iso3c: XKX
-    admin_level: Adm0
+  XKO.0_Adm0:
+    GID: XKO
     admin_name: Kosovo
-    shapeID: 92638718B20240186745593
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm1_1:
-    iso3c: XKX
+    admin_level: Adm0
+  XKO.1_1_Adm1:
+    GID: XKO.1_1
+    admin_name: Đakovica
+    iso3c: XKO
+    country_name: Kosovo
     admin_level: Adm1
-    admin_name: DistrictofPrishtina
-    shapeID: 2360587B5118871504069
+  XKO.1.1_1_Adm2:
+    GID: XKO.1.1_1
+    admin_name: Đakovica
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm1_2:
-    iso3c: XKX
+    admin_level: Adm2
+  XKO.1.2_1_Adm2:
+    GID: XKO.1.2_1
+    admin_name: Dečani
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.1.3_1_Adm2:
+    GID: XKO.1.3_1
+    admin_name: Orahovac
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.2_1_Adm1:
+    GID: XKO.2_1
+    admin_name: Gnjilane
+    iso3c: XKO
+    country_name: Kosovo
     admin_level: Adm1
-    admin_name: DistrictofMitrovica
-    shapeID: 2360587B11570115914955
+  XKO.2.1_1_Adm2:
+    GID: XKO.2.1_1
+    admin_name: Gnjilane
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm1_3:
-    iso3c: XKX
+    admin_level: Adm2
+  XKO.2.2_1_Adm2:
+    GID: XKO.2.2_1
+    admin_name: Kosovska Kamenica
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.2.3_1_Adm2:
+    GID: XKO.2.3_1
+    admin_name: Vitina
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3_1_Adm1:
+    GID: XKO.3_1
+    admin_name: Kosovska Mitrovica
+    iso3c: XKO
+    country_name: Kosovo
     admin_level: Adm1
-    admin_name: DistrictofPeja
-    shapeID: 2360587B15813948402025
+  XKO.3.1_1_Adm2:
+    GID: XKO.3.1_1
+    admin_name: Kosovska Mitrovica
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm1_4:
-    iso3c: XKX
+    admin_level: Adm2
+  XKO.3.2_1_Adm2:
+    GID: XKO.3.2_1
+    admin_name: Leposavić
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3.3_1_Adm2:
+    GID: XKO.3.3_1
+    admin_name: Srbica
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3.4_1_Adm2:
+    GID: XKO.3.4_1
+    admin_name: Vucitrn
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3.5_1_Adm2:
+    GID: XKO.3.5_1
+    admin_name: Zubin Potok
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3.6_1_Adm2:
+    GID: XKO.3.6_1
+    admin_name: Zvečan
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.4_1_Adm1:
+    GID: XKO.4_1
+    admin_name: Pećki
+    iso3c: XKO
+    country_name: Kosovo
     admin_level: Adm1
-    admin_name: DistrictofGjilan
-    shapeID: 2360587B95703323116719
+  XKO.4.1_1_Adm2:
+    GID: XKO.4.1_1
+    admin_name: Istok
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm1_5:
-    iso3c: XKX
+    admin_level: Adm2
+  XKO.4.2_1_Adm2:
+    GID: XKO.4.2_1
+    admin_name: Klina
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.4.3_1_Adm2:
+    GID: XKO.4.3_1
+    admin_name: Peć
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5_1_Adm1:
+    GID: XKO.5_1
+    admin_name: Pristina
+    iso3c: XKO
+    country_name: Kosovo
     admin_level: Adm1
-    admin_name: DistrictofGjakova
-    shapeID: 2360587B9056373484571
+  XKO.5.1_1_Adm2:
+    GID: XKO.5.1_1
+    admin_name: Glogovac
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm1_6:
-    iso3c: XKX
+    admin_level: Adm2
+  XKO.5.2_1_Adm2:
+    GID: XKO.5.2_1
+    admin_name: Kosovo Polje
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.3_1_Adm2:
+    GID: XKO.5.3_1
+    admin_name: Lipljan
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.4_1_Adm2:
+    GID: XKO.5.4_1
+    admin_name: Novo Brdo
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.5_1_Adm2:
+    GID: XKO.5.5_1
+    admin_name: Obilić
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.6_1_Adm2:
+    GID: XKO.5.6_1
+    admin_name: Podujevo
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.7_1_Adm2:
+    GID: XKO.5.7_1
+    admin_name: Priština
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.6_1_Adm1:
+    GID: XKO.6_1
+    admin_name: Prizren
+    iso3c: XKO
+    country_name: Kosovo
     admin_level: Adm1
-    admin_name: DistrictofPrizren
-    shapeID: 2360587B89959345704230
+  XKO.6.1_1_Adm2:
+    GID: XKO.6.1_1
+    admin_name: Dragaš
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm1_7:
-    iso3c: XKX
+    admin_level: Adm2
+  XKO.6.2_1_Adm2:
+    GID: XKO.6.2_1
+    admin_name: Mališevo
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.6.3_1_Adm2:
+    GID: XKO.6.3_1
+    admin_name: Prizren
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.6.4_1_Adm2:
+    GID: XKO.6.4_1
+    admin_name: Suva Reka
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.7_1_Adm1:
+    GID: XKO.7_1
+    admin_name: Uroševac
+    iso3c: XKO
+    country_name: Kosovo
     admin_level: Adm1
-    admin_name: DistrictofFerizaj
-    shapeID: 2360587B74553771763221
+  XKO.7.1_1_Adm2:
+    GID: XKO.7.1_1
+    admin_name: Kačanik
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm2_1:
-    iso3c: XKX
     admin_level: Adm2
-    admin_name: MunicipalityofPartesh
-    shapeID: 46174442B23291947139751
+  XKO.7.2_1_Adm2:
+    GID: XKO.7.2_1
+    admin_name: Štimlje
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm2_10:
-    iso3c: XKX
     admin_level: Adm2
-    admin_name: MunicipalityofPristina
-    shapeID: 46174442B58319520988808
+  XKO.7.3_1_Adm2:
+    GID: XKO.7.3_1
+    admin_name: Štrpce
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm2_11:
-    iso3c: XKX
     admin_level: Adm2
-    admin_name: MunicipalityofHaniElezit
-    shapeID: 46174442B95232969697987
+  XKO.7.4_1_Adm2:
+    GID: XKO.7.4_1
+    admin_name: Uroševac
+    iso3c: XKO
     country_name: Kosovo
-  Kosovo_Adm2_12:
-    iso3c: XKX
     admin_level: Adm2
-    admin_name: MunicipalityofNorthMitrovica
-    shapeID: 46174442B17373685864447
-    country_name: Kosovo
-  Kosovo_Adm2_13:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofKllokot
-    shapeID: 46174442B65389559568884
-    country_name: Kosovo
-  Kosovo_Adm2_14:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofFerizaj
-    shapeID: 46174442B50504664179898
-    country_name: Kosovo
-  Kosovo_Adm2_15:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofDrenas
-    shapeID: 46174442B74420704895761
-    country_name: Kosovo
-  Kosovo_Adm2_16:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofDeçan
-    shapeID: 46174442B68032008118658
-    country_name: Kosovo
-  Kosovo_Adm2_17:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofMitrovica
-    shapeID: 46174442B38204246469907
-    country_name: Kosovo
-  Kosovo_Adm2_18:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofPodujeva
-    shapeID: 46174442B63721873911771
-    country_name: Kosovo
-  Kosovo_Adm2_19:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofSuhareka
-    shapeID: 46174442B35648466163459
-    country_name: Kosovo
-  Kosovo_Adm2_2:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofDragash
-    shapeID: 46174442B18151583601453
-    country_name: Kosovo
-  Kosovo_Adm2_20:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofKaçanik
-    shapeID: 46174442B60774703759595
-    country_name: Kosovo
-  Kosovo_Adm2_21:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofRanillug
-    shapeID: 46174442B71313445631408
-    country_name: Kosovo
-  Kosovo_Adm2_22:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofMalisheva
-    shapeID: 46174442B79482708656316
-    country_name: Kosovo
-  Kosovo_Adm2_23:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofPeja
-    shapeID: 46174442B68655904469874
-    country_name: Kosovo
-  Kosovo_Adm2_24:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofZubinPotok
-    shapeID: 46174442B95673189518219
-    country_name: Kosovo
-  Kosovo_Adm2_25:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofJunik
-    shapeID: 46174442B81410971708141
-    country_name: Kosovo
-  Kosovo_Adm2_26:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofViti
-    shapeID: 46174442B41940277354720
-    country_name: Kosovo
-  Kosovo_Adm2_27:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofGjakova
-    shapeID: 46174442B79854187042416
-    country_name: Kosovo
-  Kosovo_Adm2_28:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofZveçan
-    shapeID: 46174442B40636953799227
-    country_name: Kosovo
-  Kosovo_Adm2_29:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofKlina
-    shapeID: 46174442B8604696050492
-    country_name: Kosovo
-  Kosovo_Adm2_3:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofRahovec
-    shapeID: 46174442B52143291436714
-    country_name: Kosovo
-  Kosovo_Adm2_30:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofGjilan
-    shapeID: 46174442B68038755437200
-    country_name: Kosovo
-  Kosovo_Adm2_31:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofLeposaviq
-    shapeID: 46174442B64591312141190
-    country_name: Kosovo
-  Kosovo_Adm2_32:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofGracanica
-    shapeID: 46174442B17013957884184
-    country_name: Kosovo
-  Kosovo_Adm2_33:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofMamusha
-    shapeID: 46174442B12156416037672
-    country_name: Kosovo
-  Kosovo_Adm2_34:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofVushtrri
-    shapeID: 46174442B77057321033628
-    country_name: Kosovo
-  Kosovo_Adm2_35:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofLipjan
-    shapeID: 46174442B17657766994727
-    country_name: Kosovo
-  Kosovo_Adm2_36:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofSkenderaj
-    shapeID: 46174442B53191794193872
-    country_name: Kosovo
-  Kosovo_Adm2_37:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofObiliq
-    shapeID: 46174442B49644513889020
-    country_name: Kosovo
-  Kosovo_Adm2_38:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofShtime
-    shapeID: 46174442B54761887147398
-    country_name: Kosovo
-  Kosovo_Adm2_4:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofShtërpcë
-    shapeID: 46174442B24119781461305
-    country_name: Kosovo
-  Kosovo_Adm2_5:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofKamenica
-    shapeID: 46174442B30806718241347
-    country_name: Kosovo
-  Kosovo_Adm2_6:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofFushëKosovë
-    shapeID: 46174442B39074565189275
-    country_name: Kosovo
-  Kosovo_Adm2_7:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofNovobërdë
-    shapeID: 46174442B8169694097975
-    country_name: Kosovo
-  Kosovo_Adm2_8:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofIstog
-    shapeID: 46174442B18766315017705
-    country_name: Kosovo
-  Kosovo_Adm2_9:
-    iso3c: XKX
-    admin_level: Adm2
-    admin_name: MunicipalityofPrizren
-    shapeID: 46174442B10291705743842
-    country_name: Kosovo

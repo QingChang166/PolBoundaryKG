@@ -1,529 +1,529 @@
 concepts:
-  Slovakia_Adm0:
-    iso3c: SVK
-    admin_level: Adm0
+  SVK.0_Adm0:
+    GID: SVK
     admin_name: Slovakia
-    shapeID: 12407735B67449727845455
-    country_name: Slovakia
-  Slovakia_Adm1_1:
     iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm0
+  SVK.1_1_Adm1:
+    GID: SVK.1_1
+    admin_name: Banskobystrický
+    iso3c: SVK
+    country_name: Slovakia
     admin_level: Adm1
-    admin_name: RegionofBratislava
-    shapeID: 25762395B46801803338249
-    country_name: Slovakia
-  Slovakia_Adm1_2:
+  SVK.1.1_1_Adm2:
+    GID: SVK.1.1_1
+    admin_name: Banská Bystrica
     iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.10_1_Adm2:
+    GID: SVK.1.10_1
+    admin_name: Velký Krtíš
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.11_1_Adm2:
+    GID: SVK.1.11_1
+    admin_name: Žarnovica
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.12_1_Adm2:
+    GID: SVK.1.12_1
+    admin_name: Žiar nad Hronom
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.13_1_Adm2:
+    GID: SVK.1.13_1
+    admin_name: Zvolen
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.2_1_Adm2:
+    GID: SVK.1.2_1
+    admin_name: Banská Štiavnica
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.3_1_Adm2:
+    GID: SVK.1.3_1
+    admin_name: Brezno
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.4_1_Adm2:
+    GID: SVK.1.4_1
+    admin_name: Detva
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.5_1_Adm2:
+    GID: SVK.1.5_1
+    admin_name: Krupina
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.6_1_Adm2:
+    GID: SVK.1.6_1
+    admin_name: Lucenec
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.7_1_Adm2:
+    GID: SVK.1.7_1
+    admin_name: Poltár
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.8_1_Adm2:
+    GID: SVK.1.8_1
+    admin_name: Revúca
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.1.9_1_Adm2:
+    GID: SVK.1.9_1
+    admin_name: Rimavská Sobota
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.2_1_Adm1:
+    GID: SVK.2_1
+    admin_name: Bratislavský
+    iso3c: SVK
+    country_name: Slovakia
     admin_level: Adm1
-    admin_name: RegionofTrnava
-    shapeID: 25762395B43018944697777
-    country_name: Slovakia
-  Slovakia_Adm1_3:
+  SVK.2.1_1_Adm2:
+    GID: SVK.2.1_1
+    admin_name: Bratislava I
     iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.2.2_1_Adm2:
+    GID: SVK.2.2_1
+    admin_name: Bratislava II
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.2.3_1_Adm2:
+    GID: SVK.2.3_1
+    admin_name: Bratislava III
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.2.4_1_Adm2:
+    GID: SVK.2.4_1
+    admin_name: Bratislava IV
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.2.5_1_Adm2:
+    GID: SVK.2.5_1
+    admin_name: Bratislava V
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.2.6_1_Adm2:
+    GID: SVK.2.6_1
+    admin_name: Malacky
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.2.7_1_Adm2:
+    GID: SVK.2.7_1
+    admin_name: Pezinok
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.2.8_1_Adm2:
+    GID: SVK.2.8_1
+    admin_name: Senec
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3_1_Adm1:
+    GID: SVK.3_1
+    admin_name: Košický
+    iso3c: SVK
+    country_name: Slovakia
     admin_level: Adm1
-    admin_name: RegionofTrenčín
-    shapeID: 25762395B87770954339991
-    country_name: Slovakia
-  Slovakia_Adm1_4:
+  SVK.3.1_1_Adm2:
+    GID: SVK.3.1_1
+    admin_name: Gelnica
     iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3.10_1_Adm2:
+    GID: SVK.3.10_1
+    admin_name: Spišská Nová Ves
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3.11_1_Adm2:
+    GID: SVK.3.11_1
+    admin_name: Trebišov
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3.2_1_Adm2:
+    GID: SVK.3.2_1
+    admin_name: Košice-okolie
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3.3_1_Adm2:
+    GID: SVK.3.3_1
+    admin_name: Košice I
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3.4_1_Adm2:
+    GID: SVK.3.4_1
+    admin_name: Košice II
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3.5_1_Adm2:
+    GID: SVK.3.5_1
+    admin_name: Košice III
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3.6_1_Adm2:
+    GID: SVK.3.6_1
+    admin_name: Košice IV
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3.7_1_Adm2:
+    GID: SVK.3.7_1
+    admin_name: Michalovce
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3.8_1_Adm2:
+    GID: SVK.3.8_1
+    admin_name: Rožnava
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.3.9_1_Adm2:
+    GID: SVK.3.9_1
+    admin_name: Sobrance
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.4_1_Adm1:
+    GID: SVK.4_1
+    admin_name: Nitriansky
+    iso3c: SVK
+    country_name: Slovakia
     admin_level: Adm1
-    admin_name: RegionofNitra
-    shapeID: 25762395B46915118171536
-    country_name: Slovakia
-  Slovakia_Adm1_5:
+  SVK.4.1_1_Adm2:
+    GID: SVK.4.1_1
+    admin_name: Komárno
     iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.4.2_1_Adm2:
+    GID: SVK.4.2_1
+    admin_name: Levice
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.4.3_1_Adm2:
+    GID: SVK.4.3_1
+    admin_name: Nitra
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.4.4_1_Adm2:
+    GID: SVK.4.4_1
+    admin_name: Nové Zámky
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.4.5_1_Adm2:
+    GID: SVK.4.5_1
+    admin_name: Šala
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.4.6_1_Adm2:
+    GID: SVK.4.6_1
+    admin_name: Topolcany
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.4.7_1_Adm2:
+    GID: SVK.4.7_1
+    admin_name: Zlaté Moravce
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5_1_Adm1:
+    GID: SVK.5_1
+    admin_name: Prešovský
+    iso3c: SVK
+    country_name: Slovakia
     admin_level: Adm1
-    admin_name: RegionofŽilina
-    shapeID: 25762395B19733540227871
-    country_name: Slovakia
-  Slovakia_Adm1_6:
+  SVK.5.1_1_Adm2:
+    GID: SVK.5.1_1
+    admin_name: Bardejov
     iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.10_1_Adm2:
+    GID: SVK.5.10_1
+    admin_name: Stará Lubovna
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.11_1_Adm2:
+    GID: SVK.5.11_1
+    admin_name: Stropkov
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.12_1_Adm2:
+    GID: SVK.5.12_1
+    admin_name: Svidník
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.13_1_Adm2:
+    GID: SVK.5.13_1
+    admin_name: Vranov nad Toplou
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.2_1_Adm2:
+    GID: SVK.5.2_1
+    admin_name: Humenné
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.3_1_Adm2:
+    GID: SVK.5.3_1
+    admin_name: Kežmarok
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.4_1_Adm2:
+    GID: SVK.5.4_1
+    admin_name: Levoca
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.5_1_Adm2:
+    GID: SVK.5.5_1
+    admin_name: Medzilaborce
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.6_1_Adm2:
+    GID: SVK.5.6_1
+    admin_name: Poprad
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.7_1_Adm2:
+    GID: SVK.5.7_1
+    admin_name: Prešov
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.8_1_Adm2:
+    GID: SVK.5.8_1
+    admin_name: Sabinov
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.5.9_1_Adm2:
+    GID: SVK.5.9_1
+    admin_name: Snina
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.6_1_Adm1:
+    GID: SVK.6_1
+    admin_name: Trenčiansky
+    iso3c: SVK
+    country_name: Slovakia
     admin_level: Adm1
-    admin_name: RegionofBanskáBystrica
-    shapeID: 25762395B36213439185612
-    country_name: Slovakia
-  Slovakia_Adm1_7:
+  SVK.6.1_1_Adm2:
+    GID: SVK.6.1_1
+    admin_name: Bánovce nad Bebravou
     iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.6.2_1_Adm2:
+    GID: SVK.6.2_1
+    admin_name: Ilava
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.6.3_1_Adm2:
+    GID: SVK.6.3_1
+    admin_name: Myjava
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.6.4_1_Adm2:
+    GID: SVK.6.4_1
+    admin_name: Nové Mesto nad Váhom
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.6.5_1_Adm2:
+    GID: SVK.6.5_1
+    admin_name: Partizánske
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.6.6_1_Adm2:
+    GID: SVK.6.6_1
+    admin_name: Považská Bystrica
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.6.7_1_Adm2:
+    GID: SVK.6.7_1
+    admin_name: Prievidza
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.6.8_1_Adm2:
+    GID: SVK.6.8_1
+    admin_name: Púchov
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.6.9_1_Adm2:
+    GID: SVK.6.9_1
+    admin_name: Trenčín
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.7_1_Adm1:
+    GID: SVK.7_1
+    admin_name: Trnavský
+    iso3c: SVK
+    country_name: Slovakia
     admin_level: Adm1
-    admin_name: RegionofPrešov
-    shapeID: 25762395B99480342603175
-    country_name: Slovakia
-  Slovakia_Adm1_8:
+  SVK.7.1_1_Adm2:
+    GID: SVK.7.1_1
+    admin_name: Dunajská Streda
     iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.7.2_1_Adm2:
+    GID: SVK.7.2_1
+    admin_name: Galanta
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.7.3_1_Adm2:
+    GID: SVK.7.3_1
+    admin_name: Hlohovec
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.7.4_1_Adm2:
+    GID: SVK.7.4_1
+    admin_name: Pieštany
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.7.5_1_Adm2:
+    GID: SVK.7.5_1
+    admin_name: Senica
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.7.6_1_Adm2:
+    GID: SVK.7.6_1
+    admin_name: Skalica
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.7.7_1_Adm2:
+    GID: SVK.7.7_1
+    admin_name: Trnava
+    iso3c: SVK
+    country_name: Slovakia
+    admin_level: Adm2
+  SVK.8_1_Adm1:
+    GID: SVK.8_1
+    admin_name: Žilinský
+    iso3c: SVK
+    country_name: Slovakia
     admin_level: Adm1
-    admin_name: RegionofKošice
-    shapeID: 25762395B28279050649796
-    country_name: Slovakia
-  Slovakia_Adm2_1:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBardejov
-    shapeID: 56367889B18200948818921
-    country_name: Slovakia
-  Slovakia_Adm2_10:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofHlohovec
-    shapeID: 56367889B9717038533065
-    country_name: Slovakia
-  Slovakia_Adm2_11:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBytca
-    shapeID: 56367889B50353875052402
-    country_name: Slovakia
-  Slovakia_Adm2_12:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofSobrance
-    shapeID: 56367889B97606993013938
-    country_name: Slovakia
-  Slovakia_Adm2_13:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofMartin
-    shapeID: 56367889B40145685208334
-    country_name: Slovakia
-  Slovakia_Adm2_14:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofZvolen
-    shapeID: 56367889B81133001321420
-    country_name: Slovakia
-  Slovakia_Adm2_15:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofLiptovsk
-    shapeID: 56367889B36066360363210
-    country_name: Slovakia
-  Slovakia_Adm2_16:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofSenica
-    shapeID: 56367889B65848289259275
-    country_name: Slovakia
-  Slovakia_Adm2_17:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofRonnava
-    shapeID: 56367889B50490339994693
-    country_name: Slovakia
-  Slovakia_Adm2_18:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofTrnava
-    shapeID: 56367889B62739535395269
-    country_name: Slovakia
-  Slovakia_Adm2_19:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofTarnovica
-    shapeID: 56367889B13739678014174
-    country_name: Slovakia
-  Slovakia_Adm2_2:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofDolneKub
-    shapeID: 56367889B88920022363437
-    country_name: Slovakia
-  Slovakia_Adm2_20:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofKysuckiNoviMesto
-    shapeID: 56367889B52678955481324
-    country_name: Slovakia
-  Slovakia_Adm2_21:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofMichalovce
-    shapeID: 56367889B66923754975257
-    country_name: Slovakia
-  Slovakia_Adm2_22:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofSkalica
-    shapeID: 56367889B34538662559621
-    country_name: Slovakia
-  Slovakia_Adm2_23:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofRimavsk
-    shapeID: 56367889B15205076567490
-    country_name: Slovakia
-  Slovakia_Adm2_24:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofNovaZkmky
-    shapeID: 56367889B62553648042075
-    country_name: Slovakia
-  Slovakia_Adm2_25:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofKovice-okolie
-    shapeID: 56367889B1447043738985
-    country_name: Slovakia
-  Slovakia_Adm2_26:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBratislavaV
-    shapeID: 56367889B690835779632
-    country_name: Slovakia
-  Slovakia_Adm2_27:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofPezinok
-    shapeID: 56367889B12595131960891
-    country_name: Slovakia
-  Slovakia_Adm2_28:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofNitra
-    shapeID: 56367889B51514564384482
-    country_name: Slovakia
-  Slovakia_Adm2_29:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofVelkaKrta
-    shapeID: 56367889B96980961358907
-    country_name: Slovakia
-  Slovakia_Adm2_3:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofTrebiov
-    shapeID: 56367889B65708067786299
-    country_name: Slovakia
-  Slovakia_Adm2_30:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofKoliceIV
-    shapeID: 56367889B57985107422825
-    country_name: Slovakia
-  Slovakia_Adm2_31:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofKoliceIII
-    shapeID: 56367889B7741755639355
-    country_name: Slovakia
-  Slovakia_Adm2_32:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofKoliceII
-    shapeID: 56367889B46930466225258
-    country_name: Slovakia
-  Slovakia_Adm2_33:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofZlatcMoravce
-    shapeID: 56367889B42847558326348
-    country_name: Slovakia
-  Slovakia_Adm2_34:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofPoltcr
-    shapeID: 56367889B9282010334294
-    country_name: Slovakia
-  Slovakia_Adm2_35:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofMalacky
-    shapeID: 56367889B58167623425022
-    country_name: Slovakia
-  Slovakia_Adm2_36:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofKoliceI
-    shapeID: 56367889B16879144707830
-    country_name: Slovakia
-  Slovakia_Adm2_37:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofGelnica
-    shapeID: 56367889B37832117679378
-    country_name: Slovakia
-  Slovakia_Adm2_38:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofGala
-    shapeID: 56367889B4918056975771
-    country_name: Slovakia
-  Slovakia_Adm2_39:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofSenec
-    shapeID: 56367889B62094256812316
-    country_name: Slovakia
-  Slovakia_Adm2_4:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofGalanta
-    shapeID: 56367889B94951233476884
-    country_name: Slovakia
-  Slovakia_Adm2_40:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofTopolcany
-    shapeID: 56367889B79782640664984
-    country_name: Slovakia
-  Slovakia_Adm2_41:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofDunajsknStreda
-    shapeID: 56367889B78366861694162
-    country_name: Slovakia
-  Slovakia_Adm2_42:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofSvidnsk
-    shapeID: 56367889B97071895480744
-    country_name: Slovakia
-  Slovakia_Adm2_43:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofVranovnadToplou
-    shapeID: 56367889B89309998682201
-    country_name: Slovakia
-  Slovakia_Adm2_44:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofRevnca
-    shapeID: 56367889B31823009041462
-    country_name: Slovakia
-  Slovakia_Adm2_45:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofPovacsknBystrica
-    shapeID: 56367889B2947656286883
-    country_name: Slovakia
-  Slovakia_Adm2_46:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofLucenec
-    shapeID: 56367889B59585277732331
-    country_name: Slovakia
-  Slovakia_Adm2_47:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofDetva
-    shapeID: 56367889B72151249658777
-    country_name: Slovakia
-  Slovakia_Adm2_48:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofKrupina
-    shapeID: 56367889B57285771161703
-    country_name: Slovakia
-  Slovakia_Adm2_49:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofKomprno
-    shapeID: 56367889B27848609458937
-    country_name: Slovakia
-  Slovakia_Adm2_5:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofGiarnadHronom
-    shapeID: 56367889B61609274598716
-    country_name: Slovakia
-  Slovakia_Adm2_50:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBratislavaI
-    shapeID: 56367889B40480781512108
-    country_name: Slovakia
-  Slovakia_Adm2_51:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofPrievidza
-    shapeID: 56367889B15992044775212
-    country_name: Slovakia
-  Slovakia_Adm2_52:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofStropkov
-    shapeID: 56367889B68595341554064
-    country_name: Slovakia
-  Slovakia_Adm2_53:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBanskkvtiavnica
-    shapeID: 56367889B87068302757109
-    country_name: Slovakia
-  Slovakia_Adm2_54:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofStarkLubovna
-    shapeID: 56367889B24002183790147
-    country_name: Slovakia
-  Slovakia_Adm2_55:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBratislavaII
-    shapeID: 56367889B61252856682831
-    country_name: Slovakia
-  Slovakia_Adm2_56:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBansksBystrica
-    shapeID: 56367889B14109704827124
-    country_name: Slovakia
-  Slovakia_Adm2_57:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBrezno
-    shapeID: 56367889B53553144532917
-    country_name: Slovakia
-  Slovakia_Adm2_58:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBratislavaIII
-    shapeID: 56367889B76322005427385
-    country_name: Slovakia
-  Slovakia_Adm2_59:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofLevice
-    shapeID: 56367889B15407569919112
-    country_name: Slovakia
-  Slovakia_Adm2_6:
+  SVK.8.1_1_Adm2:
+    GID: SVK.8.1_1
+    admin_name: Bytca
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofPiertany
-    shapeID: 56367889B38418286781664
-    country_name: Slovakia
-  Slovakia_Adm2_60:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofSnina
-    shapeID: 56367889B14569056094647
-    country_name: Slovakia
-  Slovakia_Adm2_61:
-    iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBratislavaIV
-    shapeID: 56367889B51237059400968
     country_name: Slovakia
-  Slovakia_Adm2_62:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofSabinov
-    shapeID: 56367889B81744173793240
-    country_name: Slovakia
-  Slovakia_Adm2_63:
+  SVK.8.10_1_Adm2:
+    GID: SVK.8.10_1
+    admin_name: Tvrdošín
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofTrencon
-    shapeID: 56367889B17286119603144
     country_name: Slovakia
-  Slovakia_Adm2_64:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofPrchov
-    shapeID: 56367889B75362220391655
-    country_name: Slovakia
-  Slovakia_Adm2_65:
+  SVK.8.11_1_Adm2:
+    GID: SVK.8.11_1
+    admin_name: Žilina
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofMedzilaborce
-    shapeID: 56367889B99469568447767
     country_name: Slovakia
-  Slovakia_Adm2_66:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofPoprad
-    shapeID: 56367889B94927774956455
-    country_name: Slovakia
-  Slovakia_Adm2_67:
+  SVK.8.2_1_Adm2:
+    GID: SVK.8.2_1
+    admin_name: Cadca
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofBonovcenadBebra*
-    shapeID: 56367889B26614689162342
     country_name: Slovakia
-  Slovakia_Adm2_68:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofLevoca
-    shapeID: 56367889B11470427915377
-    country_name: Slovakia
-  Slovakia_Adm2_69:
+  SVK.8.3_1_Adm2:
+    GID: SVK.8.3_1
+    admin_name: Dolný Kubín
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofIlava
-    shapeID: 56367889B98399677297130
     country_name: Slovakia
-  Slovakia_Adm2_7:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofCadca
-    shapeID: 56367889B62817588919968
-    country_name: Slovakia
-  Slovakia_Adm2_70:
+  SVK.8.4_1_Adm2:
+    GID: SVK.8.4_1
+    admin_name: Kysucké Nové Mesto
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofTvrdo
-    shapeID: 56367889B83569782265262
     country_name: Slovakia
-  Slovakia_Adm2_71:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofPredov
-    shapeID: 56367889B45513137004516
-    country_name: Slovakia
-  Slovakia_Adm2_72:
+  SVK.8.5_1_Adm2:
+    GID: SVK.8.5_1
+    admin_name: Liptovský Mikuláš
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofPilina
-    shapeID: 56367889B48474668858137
     country_name: Slovakia
-  Slovakia_Adm2_73:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofMyjava
-    shapeID: 56367889B91036256885729
-    country_name: Slovakia
-  Slovakia_Adm2_74:
+  SVK.8.6_1_Adm2:
+    GID: SVK.8.6_1
+    admin_name: Martin
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofNovaMestonadVa*
-    shapeID: 56367889B79509103276820
     country_name: Slovakia
-  Slovakia_Adm2_75:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofTurcianskeTeplice
-    shapeID: 56367889B31819457643233
-    country_name: Slovakia
-  Slovakia_Adm2_76:
+  SVK.8.7_1_Adm2:
+    GID: SVK.8.7_1
+    admin_name: Námestovo
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofNumestovo
-    shapeID: 56367889B25974753894430
     country_name: Slovakia
-  Slovakia_Adm2_77:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofPartizonske
-    shapeID: 56367889B98642751890096
-    country_name: Slovakia
-  Slovakia_Adm2_78:
+  SVK.8.8_1_Adm2:
+    GID: SVK.8.8_1
+    admin_name: Ružomberok
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofRuromberok
-    shapeID: 56367889B77247555880458
     country_name: Slovakia
-  Slovakia_Adm2_79:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofKermarok
-    shapeID: 56367889B51496625279666
-    country_name: Slovakia
-  Slovakia_Adm2_8:
+  SVK.8.9_1_Adm2:
+    GID: SVK.8.9_1
+    admin_name: Turcianske Teplice
     iso3c: SVK
-    admin_level: Adm2
-    admin_name: DistrictofHumennn
-    shapeID: 56367889B67356758961124
     country_name: Slovakia
-  Slovakia_Adm2_9:
-    iso3c: SVK
     admin_level: Adm2
-    admin_name: DistrictofSpiesknNovoVes
-    shapeID: 56367889B47622109691322
-    country_name: Slovakia

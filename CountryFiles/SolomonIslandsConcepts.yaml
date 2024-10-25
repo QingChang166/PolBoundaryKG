@@ -1,367 +1,1165 @@
 concepts:
-  SolomonIslands_Adm0:
+  SLB.0_Adm0:
+    GID: SLB
+    admin_name: Solomon Islands
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm0
-    admin_name: SolomonIslands
-    shapeID: 12472743B99117850257981
-    country_name: SolomonIslands
-  SolomonIslands_Adm1_1:
-    iso3c: SLB
-    admin_level: Adm1
-    admin_name: RennellandBellona
-    shapeID: 17018030B84591335552725
-    country_name: SolomonIslands
-  SolomonIslands_Adm1_10:
-    iso3c: SLB
-    admin_level: Adm1
-    admin_name: Choiseul
-    shapeID: 17018030B68013150931387
-    country_name: SolomonIslands
-  SolomonIslands_Adm1_2:
-    iso3c: SLB
-    admin_level: Adm1
-    admin_name: Makira
-    shapeID: 17018030B43755880178831
-    country_name: SolomonIslands
-  SolomonIslands_Adm1_3:
-    iso3c: SLB
-    admin_level: Adm1
-    admin_name: Temotu
-    shapeID: 17018030B19935783635883
-    country_name: SolomonIslands
-  SolomonIslands_Adm1_4:
-    iso3c: SLB
-    admin_level: Adm1
-    admin_name: Malaita
-    shapeID: 17018030B28135645457785
-    country_name: SolomonIslands
-  SolomonIslands_Adm1_5:
-    iso3c: SLB
-    admin_level: Adm1
-    admin_name: CapitalTerritory(Honiara)
-    shapeID: 17018030B49873759306190
-    country_name: SolomonIslands
-  SolomonIslands_Adm1_6:
-    iso3c: SLB
-    admin_level: Adm1
-    admin_name: Guadalcanal
-    shapeID: 17018030B21058058503942
-    country_name: SolomonIslands
-  SolomonIslands_Adm1_7:
-    iso3c: SLB
-    admin_level: Adm1
+  SLB.1_1_Adm1:
+    GID: SLB.1_1
     admin_name: Central
-    shapeID: 17018030B21762340724861
-    country_name: SolomonIslands
-  SolomonIslands_Adm1_8:
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm1
+  SLB.1.1_1_Adm2:
+    GID: SLB.1.1_1
+    admin_name: East Gela
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.10_1_Adm2:
+    GID: SLB.1.10_1
+    admin_name: South Savo
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.11_1_Adm2:
+    GID: SLB.1.11_1
+    admin_name: South West Gela
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.12_1_Adm2:
+    GID: SLB.1.12_1
+    admin_name: Tulagi
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.13_1_Adm2:
+    GID: SLB.1.13_1
+    admin_name: West Gela
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.2_1_Adm2:
+    GID: SLB.1.2_1
+    admin_name: Lovukol
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.3_1_Adm2:
+    GID: SLB.1.3_1
+    admin_name: Mbanika
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.4_1_Adm2:
+    GID: SLB.1.4_1
+    admin_name: North East Gela
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.5_1_Adm2:
+    GID: SLB.1.5_1
+    admin_name: North Savo
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.6_1_Adm2:
+    GID: SLB.1.6_1
+    admin_name: North West Gela
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.7_1_Adm2:
+    GID: SLB.1.7_1
+    admin_name: Pavuvu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.8_1_Adm2:
+    GID: SLB.1.8_1
+    admin_name: Sandfly-Buenavista
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.1.9_1_Adm2:
+    GID: SLB.1.9_1
+    admin_name: South East Gela
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10_1_Adm1:
+    GID: SLB.10_1
     admin_name: Western
-    shapeID: 17018030B8659224027401
-    country_name: SolomonIslands
-  SolomonIslands_Adm1_9:
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm1
+  SLB.10.1_1_Adm2:
+    GID: SLB.10.1_1
+    admin_name: Bilua
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.10_1_Adm2:
+    GID: SLB.10.10_1
+    admin_name: Munda
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.11_1_Adm2:
+    GID: SLB.10.11_1
+    admin_name: Nggatokae
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.12_1_Adm2:
+    GID: SLB.10.12_1
+    admin_name: Nono
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.13_1_Adm2:
+    GID: SLB.10.13_1
+    admin_name: Noro
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.14_1_Adm2:
+    GID: SLB.10.14_1
+    admin_name: North Kolombangara
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.15_1_Adm2:
+    GID: SLB.10.15_1
+    admin_name: North Ranongga
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.16_1_Adm2:
+    GID: SLB.10.16_1
+    admin_name: North Rendova
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.17_1_Adm2:
+    GID: SLB.10.17_1
+    admin_name: North Vangunu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.18_1_Adm2:
+    GID: SLB.10.18_1
+    admin_name: Nusa Roviana
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.19_1_Adm2:
+    GID: SLB.10.19_1
+    admin_name: Outer Shortlands
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.2_1_Adm2:
+    GID: SLB.10.2_1
+    admin_name: Buini Tusu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.20_1_Adm2:
+    GID: SLB.10.20_1
+    admin_name: Roviana Lagoon
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.21_1_Adm2:
+    GID: SLB.10.21_1
+    admin_name: Simbo
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.22_1_Adm2:
+    GID: SLB.10.22_1
+    admin_name: South Kolombangara
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.23_1_Adm2:
+    GID: SLB.10.23_1
+    admin_name: South Ranongga
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.24_1_Adm2:
+    GID: SLB.10.24_1
+    admin_name: South Rendova
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.25_1_Adm2:
+    GID: SLB.10.25_1
+    admin_name: Vonavona
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.26_1_Adm2:
+    GID: SLB.10.26_1
+    admin_name: Vonunu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.3_1_Adm2:
+    GID: SLB.10.3_1
+    admin_name: Central Ranongga
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.4_1_Adm2:
+    GID: SLB.10.4_1
+    admin_name: Dovele
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.5_1_Adm2:
+    GID: SLB.10.5_1
+    admin_name: Gizo
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.6_1_Adm2:
+    GID: SLB.10.6_1
+    admin_name: Inner Shortlands
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.7_1_Adm2:
+    GID: SLB.10.7_1
+    admin_name: Iringgila
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.8_1_Adm2:
+    GID: SLB.10.8_1
+    admin_name: Kolombaghea
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.10.9_1_Adm2:
+    GID: SLB.10.9_1
+    admin_name: Kusaghe
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2_1_Adm1:
+    GID: SLB.2_1
+    admin_name: Choiseul
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm1
+  SLB.2.1_1_Adm2:
+    GID: SLB.2.1_1
+    admin_name: Babatana
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.10_1_Adm2:
+    GID: SLB.2.10_1
+    admin_name: Tavula
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.11_1_Adm2:
+    GID: SLB.2.11_1
+    admin_name: Tepakaza
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.12_1_Adm2:
+    GID: SLB.2.12_1
+    admin_name: Vasiduki
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.13_1_Adm2:
+    GID: SLB.2.13_1
+    admin_name: Viviru
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.14_1_Adm2:
+    GID: SLB.2.14_1
+    admin_name: Waghina
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.2_1_Adm2:
+    GID: SLB.2.2_1
+    admin_name: Bangara
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.3_1_Adm2:
+    GID: SLB.2.3_1
+    admin_name: Batava
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.4_1_Adm2:
+    GID: SLB.2.4_1
+    admin_name: Katupika
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.5_1_Adm2:
+    GID: SLB.2.5_1
+    admin_name: Kerepangara
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.6_1_Adm2:
+    GID: SLB.2.6_1
+    admin_name: Kirugela
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.7_1_Adm2:
+    GID: SLB.2.7_1
+    admin_name: Polo
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.8_1_Adm2:
+    GID: SLB.2.8_1
+    admin_name: Senga
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.2.9_1_Adm2:
+    GID: SLB.2.9_1
+    admin_name: Susuka
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3_1_Adm1:
+    GID: SLB.3_1
+    admin_name: Guadalcanal
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm1
+  SLB.3.1_1_Adm2:
+    GID: SLB.3.1_1
+    admin_name: Aola
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.10_1_Adm2:
+    GID: SLB.3.10_1
+    admin_name: Moli
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.11_1_Adm2:
+    GID: SLB.3.11_1
+    admin_name: Paripao
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.12_1_Adm2:
+    GID: SLB.3.12_1
+    admin_name: Saghalu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.13_1_Adm2:
+    GID: SLB.3.13_1
+    admin_name: Savulei
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.14_1_Adm2:
+    GID: SLB.3.14_1
+    admin_name: Talise
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.15_1_Adm2:
+    GID: SLB.3.15_1
+    admin_name: Tandai
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.16_1_Adm2:
+    GID: SLB.3.16_1
+    admin_name: Tangarare
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.17_1_Adm2:
+    GID: SLB.3.17_1
+    admin_name: Tetekanji
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.18_1_Adm2:
+    GID: SLB.3.18_1
+    admin_name: Valasi
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.19_1_Adm2:
+    GID: SLB.3.19_1
+    admin_name: Vatukulau
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.2_1_Adm2:
+    GID: SLB.3.2_1
+    admin_name: Avuavu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.20_1_Adm2:
+    GID: SLB.3.20_1
+    admin_name: Vulolo
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.21_1_Adm2:
+    GID: SLB.3.21_1
+    admin_name: Wanderer Bay
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.22_1_Adm2:
+    GID: SLB.3.22_1
+    admin_name: West Ghaobata
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.3_1_Adm2:
+    GID: SLB.3.3_1
+    admin_name: Birao
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.4_1_Adm2:
+    GID: SLB.3.4_1
+    admin_name: Duidui
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.5_1_Adm2:
+    GID: SLB.3.5_1
+    admin_name: East Ghaobata
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.6_1_Adm2:
+    GID: SLB.3.6_1
+    admin_name: East Tasimboko
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.7_1_Adm2:
+    GID: SLB.3.7_1
+    admin_name: Kolokarako
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.8_1_Adm2:
+    GID: SLB.3.8_1
+    admin_name: Longgu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.3.9_1_Adm2:
+    GID: SLB.3.9_1
+    admin_name: Malango
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4_1_Adm1:
+    GID: SLB.4_1
+    admin_name: Honiara
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm1
+  SLB.4.1_1_Adm2:
+    GID: SLB.4.1_1
+    admin_name: Cruz
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.10_1_Adm2:
+    GID: SLB.4.10_1
+    admin_name: Vavaea
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.11_1_Adm2:
+    GID: SLB.4.11_1
+    admin_name: Vuhokesa
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.12_1_Adm2:
+    GID: SLB.4.12_1
+    admin_name: Vura
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.2_1_Adm2:
+    GID: SLB.4.2_1
+    admin_name: Kola'a
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.3_1_Adm2:
+    GID: SLB.4.3_1
+    admin_name: Kukum
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.4_1_Adm2:
+    GID: SLB.4.4_1
+    admin_name: Mataniko
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.5_1_Adm2:
+    GID: SLB.4.5_1
+    admin_name: Mbumburu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.6_1_Adm2:
+    GID: SLB.4.6_1
+    admin_name: Naha
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.7_1_Adm2:
+    GID: SLB.4.7_1
+    admin_name: Nggosi
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.8_1_Adm2:
+    GID: SLB.4.8_1
+    admin_name: Panatina
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.4.9_1_Adm2:
+    GID: SLB.4.9_1
+    admin_name: Rove - Lengakiki
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.5_1_Adm1:
+    GID: SLB.5_1
     admin_name: Isabel
-    shapeID: 17018030B36628097040544
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_1:
     iso3c: SLB
-    admin_level: Adm2
-    admin_name: SouthChoiseul
-    shapeID: 97153195B92855886197372
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_10:
+    country_name: Solomon Islands
+    admin_level: Adm1
+  SLB.5.1_1_Adm2:
+    GID: SLB.5.1_1
+    admin_name: Buala
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Ranongga-Simbo
-    shapeID: 97153195B5229435776265
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_11:
+  SLB.5.10_1_Adm2:
+    GID: SLB.5.10_1
+    admin_name: Kolotubi
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Gizo-Kolombangara
-    shapeID: 97153195B6288223256746
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_12:
+  SLB.5.11_1_Adm2:
+    GID: SLB.5.11_1
+    admin_name: Koviloko
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: WestNewGeorgia-Vonavona
-    shapeID: 97153195B60589272182469
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_13:
+  SLB.5.12_1_Adm2:
+    GID: SLB.5.12_1
+    admin_name: Samasodu
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: NorthNewGeorgia
-    shapeID: 97153195B59663356998763
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_14:
+  SLB.5.13_1_Adm2:
+    GID: SLB.5.13_1
+    admin_name: Sigana
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: SouthNewGeorgia-Rendova
-    shapeID: 97153195B70216176300277
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_15:
+  SLB.5.14_1_Adm2:
+    GID: SLB.5.14_1
+    admin_name: Susubona
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Marovo
-    shapeID: 97153195B98406832943487
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_16:
+  SLB.5.15_1_Adm2:
+    GID: SLB.5.15_1
+    admin_name: Tatamba
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Hograno-Kia-Havulei
-    shapeID: 97153195B62958617202697
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_17:
+  SLB.5.16_1_Adm2:
+    GID: SLB.5.16_1
+    admin_name: Tirotonga
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Marigne-Kokota
-    shapeID: 97153195B92946274587204
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_18:
+  SLB.5.2_1_Adm2:
+    GID: SLB.5.2_1
+    admin_name: Havulei
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Gao-Bugotu
-    shapeID: 97153195B92120906809587
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_19:
+  SLB.5.3_1_Adm2:
+    GID: SLB.5.3_1
+    admin_name: Hovukoilo
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Nggela
-    shapeID: 97153195B87016285227025
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_2:
+  SLB.5.4_1_Adm2:
+    GID: SLB.5.4_1
+    admin_name: Japuana
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: NorthWestChoiseul
-    shapeID: 97153195B88202120204491
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_20:
+  SLB.5.5_1_Adm2:
+    GID: SLB.5.5_1
+    admin_name: Kaloka
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Savo-RussullIslands
-    shapeID: 97153195B89982446723092
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_21:
+  SLB.5.6_1_Adm2:
+    GID: SLB.5.6_1
+    admin_name: Kia
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Rennell-Bellona
-    shapeID: 97153195B87172178268345
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_22:
+  SLB.5.7_1_Adm2:
+    GID: SLB.5.7_1
+    admin_name: Kmaga
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: NorthWestGuadalcanl
-    shapeID: 97153195B50711658929087
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_23:
+  SLB.5.8_1_Adm2:
+    GID: SLB.5.8_1
+    admin_name: Kokota
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: WestGuadalcanal
-    shapeID: 97153195B83823462382784
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_24:
+  SLB.5.9_1_Adm2:
+    GID: SLB.5.9_1
+    admin_name: Kolomola
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: SouthGuadalcanal
-    shapeID: 97153195B58101898205888
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_25:
+  SLB.6_1_Adm1:
+    GID: SLB.6_1
+    admin_name: Makira Ulawa
     iso3c: SLB
-    admin_level: Adm2
-    admin_name: EastGuadalcanal
-    shapeID: 97153195B16319119687534
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_26:
+    country_name: Solomon Islands
+    admin_level: Adm1
+  SLB.6.1_1_Adm2:
+    GID: SLB.6.1_1
+    admin_name: Arosi East
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: East-Central
-    shapeID: 97153195B72128513413491
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_27:
+  SLB.6.10_1_Adm2:
+    GID: SLB.6.10_1
+    admin_name: Rawo
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: North-East
-    shapeID: 97153195B83197530845720
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_28:
+  SLB.6.11_1_Adm2:
+    GID: SLB.6.11_1
+    admin_name: Santa Ana
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: NorthGuadalcanal
-    shapeID: 97153195B68303818667914
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_29:
+  SLB.6.12_1_Adm2:
+    GID: SLB.6.12_1
+    admin_name: Santa Catalina
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: CentralGuadalcanal
-    shapeID: 97153195B29965366735238
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_3:
+  SLB.6.13_1_Adm2:
+    GID: SLB.6.13_1
+    admin_name: South Ulawa
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: EastChoiseul
-    shapeID: 97153195B70410485956536
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_30:
+  SLB.6.14_1_Adm2:
+    GID: SLB.6.14_1
+    admin_name: Star Harbour North
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: NorthMalaita
-    shapeID: 97153195B19002980300101
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_31:
+  SLB.6.15_1_Adm2:
+    GID: SLB.6.15_1
+    admin_name: Star Harbour South
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Lau-Mbaelela
-    shapeID: 97153195B87820202711948
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_32:
+  SLB.6.16_1_Adm2:
+    GID: SLB.6.16_1
+    admin_name: Ugi and Pio
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Baegu-Asifola
-    shapeID: 97153195B83644089590295
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_33:
+  SLB.6.17_1_Adm2:
+    GID: SLB.6.17_1
+    admin_name: Wainoni East
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Fataleka
-    shapeID: 97153195B6337807626421
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_34:
+  SLB.6.18_1_Adm2:
+    GID: SLB.6.18_1
+    admin_name: Wainoni West
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: WestKwara'ae
-    shapeID: 97153195B25231511740038
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_35:
+  SLB.6.19_1_Adm2:
+    GID: SLB.6.19_1
+    admin_name: Weather Coast
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: CentralKwara'ae
-    shapeID: 97153195B68911878451033
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_36:
+  SLB.6.2_1_Adm2:
+    GID: SLB.6.2_1
+    admin_name: Arosi North
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: EastMalaita
-    shapeID: 97153195B67887401050589
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_37:
+  SLB.6.20_1_Adm2:
+    GID: SLB.6.20_1
+    admin_name: West Ulawa
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Auki-Langalanga
-    shapeID: 97153195B20176739288406
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_38:
+  SLB.6.3_1_Adm2:
+    GID: SLB.6.3_1
+    admin_name: Arosi South
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: EastKwaio
-    shapeID: 97153195B50400826200425
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_39:
+  SLB.6.4_1_Adm2:
+    GID: SLB.6.4_1
+    admin_name: Arosi West
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: WestKwaio
-    shapeID: 97153195B63477576504683
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_4:
+  SLB.6.5_1_Adm2:
+    GID: SLB.6.5_1
+    admin_name: Bauro Central
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: EastHoniara
-    shapeID: 97153195B54570082610262
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_40:
+  SLB.6.6_1_Adm2:
+    GID: SLB.6.6_1
+    admin_name: Bauro East
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: EastAreAre
-    shapeID: 97153195B49171741806918
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_41:
+  SLB.6.7_1_Adm2:
+    GID: SLB.6.7_1
+    admin_name: Bauro West
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: WestAreare
-    shapeID: 97153195B24972598877483
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_42:
+  SLB.6.8_1_Adm2:
+    GID: SLB.6.8_1
+    admin_name: Haununu
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: SmallMalaita
-    shapeID: 97153195B48441070638838
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_43:
+  SLB.6.9_1_Adm2:
+    GID: SLB.6.9_1
+    admin_name: North Ulawa
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: MalaitaOuterIsland
-    shapeID: 97153195B283418478941
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_44:
+  SLB.7_1_Adm1:
+    GID: SLB.7_1
+    admin_name: Malaita
     iso3c: SLB
-    admin_level: Adm2
-    admin_name: WestMakira
-    shapeID: 97153195B7459502303210
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_45:
+    country_name: Solomon Islands
+    admin_level: Adm1
+  SLB.7.1_1_Adm2:
+    GID: SLB.7.1_1
+    admin_name: Aba - Asimeuru
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: CentralMakira
-    shapeID: 97153195B44789937557003
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_46:
+  SLB.7.10_1_Adm2:
+    GID: SLB.7.10_1
+    admin_name: Faumamanu - Kwai
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: EastMakira
-    shapeID: 97153195B75275546340681
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_47:
+  SLB.7.11_1_Adm2:
+    GID: SLB.7.11_1
+    admin_name: Foondo - Gwaiau
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Ulawa-Ugi
-    shapeID: 97153195B5813678005448
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_48:
+  SLB.7.12_1_Adm2:
+    GID: SLB.7.12_1
+    admin_name: Fouenda
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: TemotuPele
-    shapeID: 97153195B69741272399773
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_49:
+  SLB.7.13_1_Adm2:
+    GID: SLB.7.13_1
+    admin_name: Gulalafou
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: Temotu-Nende
-    shapeID: 97153195B91208568213874
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_5:
+  SLB.7.14_1_Adm2:
+    GID: SLB.7.14_1
+    admin_name: Kwaimela - Radefasu
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: CentralHoniara
-    shapeID: 97153195B38090868085036
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_50:
+  SLB.7.15_1_Adm2:
+    GID: SLB.7.15_1
+    admin_name: Kwarekwareo
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: TemotuVatu
-    shapeID: 97153195B86794958448560
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_6:
+  SLB.7.16_1_Adm2:
+    GID: SLB.7.16_1
+    admin_name: Langalanga
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: WestHoniara
-    shapeID: 97153195B79685360325521
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_7:
+  SLB.7.17_1_Adm2:
+    GID: SLB.7.17_1
+    admin_name: Luaniua
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: ShortlandIslands
-    shapeID: 97153195B13226737525008
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_8:
+  SLB.7.18_1_Adm2:
+    GID: SLB.7.18_1
+    admin_name: Malu'u
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: NorthVellalaVella
-    shapeID: 97153195B19966779892851
-    country_name: SolomonIslands
-  SolomonIslands_Adm2_9:
+  SLB.7.19_1_Adm2:
+    GID: SLB.7.19_1
+    admin_name: Mandalua - Folotana
     iso3c: SLB
+    country_name: Solomon Islands
     admin_level: Adm2
-    admin_name: SouthVellalaVella
-    shapeID: 97153195B32598831162283
-    country_name: SolomonIslands
+  SLB.7.2_1_Adm2:
+    GID: SLB.7.2_1
+    admin_name: Aiaisi
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.20_1_Adm2:
+    GID: SLB.7.20_1
+    admin_name: Mareho
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.21_1_Adm2:
+    GID: SLB.7.21_1
+    admin_name: Matakwalao
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.22_1_Adm2:
+    GID: SLB.7.22_1
+    admin_name: Nafinua
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.23_1_Adm2:
+    GID: SLB.7.23_1
+    admin_name: Pelau
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.24_1_Adm2:
+    GID: SLB.7.24_1
+    admin_name: Raroisuu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.25_1_Adm2:
+    GID: SLB.7.25_1
+    admin_name: Siesie
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.26_1_Adm2:
+    GID: SLB.7.26_1
+    admin_name: Sikaiana
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.27_1_Adm2:
+    GID: SLB.7.27_1
+    admin_name: Sububenu-Burianias
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.28_1_Adm2:
+    GID: SLB.7.28_1
+    admin_name: Sulufou-Kwarande
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.29_1_Adm2:
+    GID: SLB.7.29_1
+    admin_name: Tai
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.3_1_Adm2:
+    GID: SLB.7.3_1
+    admin_name: Aimela
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.30_1_Adm2:
+    GID: SLB.7.30_1
+    admin_name: Takwa
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.31_1_Adm2:
+    GID: SLB.7.31_1
+    admin_name: Waneagu-Taelanasin
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.32_1_Adm2:
+    GID: SLB.7.32_1
+    admin_name: Weagu Silana Sina
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.33_1_Adm2:
+    GID: SLB.7.33_1
+    admin_name: West Baegut-Fatale
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.4_1_Adm2:
+    GID: SLB.7.4_1
+    admin_name: Areare
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.5_1_Adm2:
+    GID: SLB.7.5_1
+    admin_name: Asimae
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.6_1_Adm2:
+    GID: SLB.7.6_1
+    admin_name: Auki
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.7_1_Adm2:
+    GID: SLB.7.7_1
+    admin_name: Buma
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.8_1_Adm2:
+    GID: SLB.7.8_1
+    admin_name: East Baegu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.7.9_1_Adm2:
+    GID: SLB.7.9_1
+    admin_name: Fauabu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.8_1_Adm1:
+    GID: SLB.8_1
+    admin_name: Rennell and Bellona
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm1
+  SLB.8.1_1_Adm2:
+    GID: SLB.8.1_1
+    admin_name: East Ghongau
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.8.10_1_Adm2:
+    GID: SLB.8.10_1
+    admin_name: West Te Nggano
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.8.2_1_Adm2:
+    GID: SLB.8.2_1
+    admin_name: East Te Nggano
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.8.3_1_Adm2:
+    GID: SLB.8.3_1
+    admin_name: Kangava
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.8.4_1_Adm2:
+    GID: SLB.8.4_1
+    admin_name: Lughu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.8.5_1_Adm2:
+    GID: SLB.8.5_1
+    admin_name: Matangi
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.8.6_1_Adm2:
+    GID: SLB.8.6_1
+    admin_name: Mugihenua
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.8.7_1_Adm2:
+    GID: SLB.8.7_1
+    admin_name: Sa'Aiho
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.8.8_1_Adm2:
+    GID: SLB.8.8_1
+    admin_name: Tetau Nangoto
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.8.9_1_Adm2:
+    GID: SLB.8.9_1
+    admin_name: West Ghongau
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9_1_Adm1:
+    GID: SLB.9_1
+    admin_name: Temotu
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm1
+  SLB.9.1_1_Adm2:
+    GID: SLB.9.1_1
+    admin_name: Duff Islands
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.10_1_Adm2:
+    GID: SLB.9.10_1
+    admin_name: Neo
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.11_1_Adm2:
+    GID: SLB.9.11_1
+    admin_name: Nevenema
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.12_1_Adm2:
+    GID: SLB.9.12_1
+    admin_name: Nipua-Nopoli
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.13_1_Adm2:
+    GID: SLB.9.13_1
+    admin_name: North East Santa Cruz
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.14_1_Adm2:
+    GID: SLB.9.14_1
+    admin_name: Polynesian Outer Islands
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.15_1_Adm2:
+    GID: SLB.9.15_1
+    admin_name: Tikopia
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.16_1_Adm2:
+    GID: SLB.9.16_1
+    admin_name: Utupua
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.17_1_Adm2:
+    GID: SLB.9.17_1
+    admin_name: Vanikoro
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.2_1_Adm2:
+    GID: SLB.9.2_1
+    admin_name: Fenualoa
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.3_1_Adm2:
+    GID: SLB.9.3_1
+    admin_name: Graciosa Bay
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.4_1_Adm2:
+    GID: SLB.9.4_1
+    admin_name: Lipe-Temua
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.5_1_Adm2:
+    GID: SLB.9.5_1
+    admin_name: Luva Station
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.6_1_Adm2:
+    GID: SLB.9.6_1
+    admin_name: Manuopo
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.7_1_Adm2:
+    GID: SLB.9.7_1
+    admin_name: Nanggu-Lord Howe
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.8_1_Adm2:
+    GID: SLB.9.8_1
+    admin_name: Nea-Noole
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2
+  SLB.9.9_1_Adm2:
+    GID: SLB.9.9_1
+    admin_name: Nenumpo
+    iso3c: SLB
+    country_name: Solomon Islands
+    admin_level: Adm2

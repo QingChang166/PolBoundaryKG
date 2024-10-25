@@ -1,49 +1,49 @@
 concepts:
-  Grenada_Adm0:
-    iso3c: GRD
-    admin_level: Adm0
+  GRD.0_Adm0:
+    GID: GRD
     admin_name: Grenada
-    shapeID: 78934639B78408271870993
-    country_name: Grenada
-  Grenada_Adm1_1:
     iso3c: GRD
-    admin_level: Adm1
-    admin_name: SaintAndrew
-    shapeID: 93511190B48408833278115
     country_name: Grenada
-  Grenada_Adm1_2:
+    admin_level: Adm0
+  GRD.1_1_Adm1:
+    GID: GRD.1_1
+    admin_name: Carriacou
     iso3c: GRD
-    admin_level: Adm1
-    admin_name: SaintDavid
-    shapeID: 93511190B20758743929628
     country_name: Grenada
-  Grenada_Adm1_3:
+    admin_level: Adm1
+  GRD.2_1_Adm1:
+    GID: GRD.2_1
+    admin_name: Saint Andrew
     iso3c: GRD
-    admin_level: Adm1
-    admin_name: SaintMark
-    shapeID: 93511190B55681603978518
     country_name: Grenada
-  Grenada_Adm1_4:
+    admin_level: Adm1
+  GRD.3_1_Adm1:
+    GID: GRD.3_1
+    admin_name: Saint David
     iso3c: GRD
-    admin_level: Adm1
-    admin_name: SaintJohn
-    shapeID: 93511190B21658762393869
     country_name: Grenada
-  Grenada_Adm1_5:
+    admin_level: Adm1
+  GRD.4_1_Adm1:
+    GID: GRD.4_1
+    admin_name: Saint George
     iso3c: GRD
-    admin_level: Adm1
-    admin_name: SaintGeorge
-    shapeID: 93511190B82420517640996
     country_name: Grenada
-  Grenada_Adm1_6:
+    admin_level: Adm1
+  GRD.5_1_Adm1:
+    GID: GRD.5_1
+    admin_name: Saint John
     iso3c: GRD
-    admin_level: Adm1
-    admin_name: SaintPatrick
-    shapeID: 93511190B28979172348328
     country_name: Grenada
-  Grenada_Adm1_7:
+    admin_level: Adm1
+  GRD.6_1_Adm1:
+    GID: GRD.6_1
+    admin_name: Saint Mark
     iso3c: GRD
-    admin_level: Adm1
-    admin_name: SouthernGrenadineIslands
-    shapeID: 93511190B76376744251170
     country_name: Grenada
+    admin_level: Adm1
+  GRD.7_1_Adm1:
+    GID: GRD.7_1
+    admin_name: Saint Patrick
+    iso3c: GRD
+    country_name: Grenada
+    admin_level: Adm1
