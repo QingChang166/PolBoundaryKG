@@ -3,9 +3,9 @@ concepts:
       SMOD_ID: 22_14063
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_36
+      Admin_name: Rufisque
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16861669195445
+      Admin_geo_ID: SEN.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -37,9 +37,9 @@ concepts:
       SMOD_ID: 22_14064
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -71,9 +71,9 @@ concepts:
       SMOD_ID: 22_14065
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -105,9 +105,9 @@ concepts:
       SMOD_ID: 22_14066
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -139,9 +139,9 @@ concepts:
       SMOD_ID: 22_14067
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -173,9 +173,9 @@ concepts:
       SMOD_ID: 22_14068
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_32
+      Admin_name: Oussouye
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B11051302290888
+      Admin_geo_ID: SEN.14.2_1
       Year:
       - '1975'
       - '1980'
@@ -207,9 +207,9 @@ concepts:
       SMOD_ID: 22_14069
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -241,9 +241,9 @@ concepts:
       SMOD_ID: 22_14070
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_3
+      Admin_name: Bignona
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B19391387689457
+      Admin_geo_ID: SEN.14.1_1
       Year:
       - '1975'
       - '1980'
@@ -275,9 +275,9 @@ concepts:
       SMOD_ID: 22_14071
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_19
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60047071387499
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -309,9 +309,9 @@ concepts:
       SMOD_ID: 22_14072
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -339,13 +339,47 @@ concepts:
       - '10192'
       - '11108'
       Settlement_level: Semi-dense Urban Clusters
+   Senegal_22_14073:
+      SMOD_ID: 22_14073
+      Country_name: Senegal
+      iso3c: SEN
+      Admin_name: Foundiougne
+      Admin_level: Adm2
+      Admin_geo_ID: SEN.3.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '971'
+      - '1104'
+      - '1245'
+      - '1447'
+      - '1958'
+      - '2414'
+      - '2559'
+      - '2712'
+      - '2984'
+      - '3795'
+      - '4320'
+      - '4663'
+      Settlement_level: Semi-dense Urban Clusters
    Senegal_22_14074:
       SMOD_ID: 22_14074
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -377,9 +411,9 @@ concepts:
       SMOD_ID: 22_14075
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_19
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60047071387499
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -411,9 +445,9 @@ concepts:
       SMOD_ID: 22_14076
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_32
+      Admin_name: Oussouye
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B11051302290888
+      Admin_geo_ID: SEN.14.2_1
       Year:
       - '1975'
       - '1980'
@@ -445,9 +479,9 @@ concepts:
       SMOD_ID: 22_14077
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -479,9 +513,9 @@ concepts:
       SMOD_ID: 22_14078
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_32
+      Admin_name: Oussouye
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B11051302290888
+      Admin_geo_ID: SEN.14.2_1
       Year:
       - '1975'
       - '1980'
@@ -513,9 +547,9 @@ concepts:
       SMOD_ID: 22_14079
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_10
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85341589150678
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -547,9 +581,9 @@ concepts:
       SMOD_ID: 22_14080
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_3
+      Admin_name: Bignona
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B19391387689457
+      Admin_geo_ID: SEN.14.1_1
       Year:
       - '1975'
       - '1980'
@@ -581,9 +615,9 @@ concepts:
       SMOD_ID: 22_14081
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_25
+      Admin_name: Louga
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B22933374767599
+      Admin_geo_ID: SEN.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -615,9 +649,9 @@ concepts:
       SMOD_ID: 22_14082
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_25
+      Admin_name: Louga
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B22933374767599
+      Admin_geo_ID: SEN.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -649,9 +683,9 @@ concepts:
       SMOD_ID: 22_14083
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -683,9 +717,9 @@ concepts:
       SMOD_ID: 22_14084
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -717,9 +751,9 @@ concepts:
       SMOD_ID: 22_14085
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_37
+      Admin_name: Saint-Louis
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94115130730188
+      Admin_geo_ID: SEN.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -751,9 +785,9 @@ concepts:
       SMOD_ID: 22_14086
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_3
+      Admin_name: Bignona
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B19391387689457
+      Admin_geo_ID: SEN.14.1_1
       Year:
       - '1975'
       - '1980'
@@ -785,9 +819,9 @@ concepts:
       SMOD_ID: 22_14087
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -819,9 +853,9 @@ concepts:
       SMOD_ID: 22_14088
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_25
+      Admin_name: Louga
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B22933374767599
+      Admin_geo_ID: SEN.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -853,9 +887,9 @@ concepts:
       SMOD_ID: 22_14089
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_44
+      Admin_name: Vélingara
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B9780593325351
+      Admin_geo_ID: SEN.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -883,353 +917,13 @@ concepts:
       - '20'
       - '22'
       Settlement_level: Semi-dense Urban Clusters
-   Senegal_23_65511:
-      SMOD_ID: 23_65511
-      Country_name: Senegal
-      iso3c: SEN
-      Admin_id: Senegal_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      Settlement_level: Dense Urban Clusters
-   Senegal_23_67328:
-      SMOD_ID: 23_67328
-      Country_name: Senegal
-      iso3c: SEN
-      Admin_id: Senegal_Adm2_27
-      Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '643'
-      - '621'
-      - '611'
-      - '584'
-      - '735'
-      - '835'
-      - '827'
-      - '783'
-      - '1090'
-      - '2223'
-      - '2307'
-      - '2409'
-      Settlement_level: Dense Urban Clusters
-   Senegal_23_67340:
-      SMOD_ID: 23_67340
-      Country_name: Senegal
-      iso3c: SEN
-      Admin_id: Senegal_Adm2_17
-      Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '133'
-      - '158'
-      - '198'
-      - '232'
-      - '297'
-      - '348'
-      - '446'
-      - '543'
-      - '849'
-      - '1213'
-      - '1450'
-      - '1514'
-      Settlement_level: Dense Urban Clusters
-   Senegal_23_67342:
-      SMOD_ID: 23_67342
-      Country_name: Senegal
-      iso3c: SEN
-      Admin_id: Senegal_Adm2_17
-      Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '6'
-      - '36'
-      - '39'
-      Settlement_level: Dense Urban Clusters
-   Senegal_23_67346:
-      SMOD_ID: 23_67346
-      Country_name: Senegal
-      iso3c: SEN
-      Admin_id: Senegal_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      Settlement_level: Dense Urban Clusters
-   Senegal_23_67349:
-      SMOD_ID: 23_67349
-      Country_name: Senegal
-      iso3c: SEN
-      Admin_id: Senegal_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      Settlement_level: Dense Urban Clusters
-   Senegal_23_67350:
-      SMOD_ID: 23_67350
-      Country_name: Senegal
-      iso3c: SEN
-      Admin_id: Senegal_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '0'
-      - '1'
-      - '2'
-      - '2'
-      - '3'
-      - '3'
-      - '4'
-      - '4'
-      - '9'
-      - '16'
-      - '18'
-      - '19'
-      Settlement_level: Dense Urban Clusters
-   Senegal_23_67351:
-      SMOD_ID: 23_67351
-      Country_name: Senegal
-      iso3c: SEN
-      Admin_id: Senegal_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '762'
-      - '891'
-      - '1040'
-      - '1297'
-      - '1731'
-      - '2216'
-      - '2454'
-      - '2742'
-      - '3085'
-      - '3476'
-      - '3827'
-      - '4443'
-      Settlement_level: Dense Urban Clusters
-   Senegal_23_67354:
-      SMOD_ID: 23_67354
-      Country_name: Senegal
-      iso3c: SEN
-      Admin_id: Senegal_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '4126'
-      - '4530'
-      - '5095'
-      - '5869'
-      - '7655'
-      - '9103'
-      - '10031'
-      - '10883'
-      - '11742'
-      - '12706'
-      - '13478'
-      - '14798'
-      Settlement_level: Dense Urban Clusters
-   Senegal_23_67359:
-      SMOD_ID: 23_67359
-      Country_name: Senegal
-      iso3c: SEN
-      Admin_id: Senegal_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '2595'
-      - '2802'
-      - '3019'
-      - '3328'
-      - '4317'
-      - '5272'
-      - '6095'
-      - '6916'
-      - '7877'
-      - '8520'
-      - '9051'
-      - '9766'
-      Settlement_level: Dense Urban Clusters
    Senegal_23_80012:
       SMOD_ID: 23_80012
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_36
+      Admin_name: Rufisque
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16861669195445
+      Admin_geo_ID: SEN.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -1261,9 +955,9 @@ concepts:
       SMOD_ID: 23_80013
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_36
+      Admin_name: Rufisque
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16861669195445
+      Admin_geo_ID: SEN.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -1295,9 +989,9 @@ concepts:
       SMOD_ID: 23_80014
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_36
+      Admin_name: Rufisque
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16861669195445
+      Admin_geo_ID: SEN.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -1329,9 +1023,9 @@ concepts:
       SMOD_ID: 23_80015
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_36
+      Admin_name: Rufisque
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16861669195445
+      Admin_geo_ID: SEN.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -1363,9 +1057,9 @@ concepts:
       SMOD_ID: 23_80016
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_36
+      Admin_name: Rufisque
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16861669195445
+      Admin_geo_ID: SEN.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -1397,9 +1091,9 @@ concepts:
       SMOD_ID: 23_80017
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -1431,9 +1125,9 @@ concepts:
       SMOD_ID: 23_80018
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_36
+      Admin_name: Rufisque
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16861669195445
+      Admin_geo_ID: SEN.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -1465,9 +1159,9 @@ concepts:
       SMOD_ID: 23_80019
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -1499,9 +1193,9 @@ concepts:
       SMOD_ID: 23_80020
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -1533,9 +1227,9 @@ concepts:
       SMOD_ID: 23_80021
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_29
+      Admin_name: Mbour
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56533800648606
+      Admin_geo_ID: SEN.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -1567,9 +1261,9 @@ concepts:
       SMOD_ID: 23_80022
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -1601,9 +1295,9 @@ concepts:
       SMOD_ID: 23_80023
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_29
+      Admin_name: Mbour
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56533800648606
+      Admin_geo_ID: SEN.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -1635,9 +1329,9 @@ concepts:
       SMOD_ID: 23_80024
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_29
+      Admin_name: Mbour
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56533800648606
+      Admin_geo_ID: SEN.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -1669,9 +1363,9 @@ concepts:
       SMOD_ID: 23_80025
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -1703,9 +1397,9 @@ concepts:
       SMOD_ID: 23_80026
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_29
+      Admin_name: Mbour
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56533800648606
+      Admin_geo_ID: SEN.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -1737,9 +1431,9 @@ concepts:
       SMOD_ID: 23_80027
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -1771,9 +1465,9 @@ concepts:
       SMOD_ID: 23_80028
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -1805,9 +1499,9 @@ concepts:
       SMOD_ID: 23_80029
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -1839,9 +1533,9 @@ concepts:
       SMOD_ID: 23_80030
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_3
+      Admin_name: Bignona
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B19391387689457
+      Admin_geo_ID: SEN.14.1_1
       Year:
       - '1975'
       - '1980'
@@ -1873,9 +1567,9 @@ concepts:
       SMOD_ID: 23_80031
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_29
+      Admin_name: Mbour
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56533800648606
+      Admin_geo_ID: SEN.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -1907,9 +1601,9 @@ concepts:
       SMOD_ID: 23_80032
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -1941,9 +1635,9 @@ concepts:
       SMOD_ID: 23_80033
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -1975,9 +1669,9 @@ concepts:
       SMOD_ID: 23_80034
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -2009,9 +1703,9 @@ concepts:
       SMOD_ID: 23_80035
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_10
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85341589150678
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -2043,9 +1737,9 @@ concepts:
       SMOD_ID: 23_80036
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -2077,9 +1771,9 @@ concepts:
       SMOD_ID: 23_80037
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -2111,9 +1805,9 @@ concepts:
       SMOD_ID: 23_80038
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -2145,9 +1839,9 @@ concepts:
       SMOD_ID: 23_80039
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_29
+      Admin_name: Mbour
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56533800648606
+      Admin_geo_ID: SEN.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -2179,9 +1873,9 @@ concepts:
       SMOD_ID: 23_80040
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -2213,9 +1907,9 @@ concepts:
       SMOD_ID: 23_80041
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -2247,9 +1941,9 @@ concepts:
       SMOD_ID: 23_80042
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -2281,9 +1975,9 @@ concepts:
       SMOD_ID: 23_80043
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -2315,9 +2009,9 @@ concepts:
       SMOD_ID: 23_80044
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_10
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85341589150678
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -2349,9 +2043,9 @@ concepts:
       SMOD_ID: 23_80045
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_3
+      Admin_name: Bignona
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B19391387689457
+      Admin_geo_ID: SEN.14.1_1
       Year:
       - '1975'
       - '1980'
@@ -2383,9 +2077,9 @@ concepts:
       SMOD_ID: 23_80046
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -2417,9 +2111,9 @@ concepts:
       SMOD_ID: 23_80047
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -2451,9 +2145,9 @@ concepts:
       SMOD_ID: 23_80048
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_2
+      Admin_name: Bambey
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B75300917140294
+      Admin_geo_ID: SEN.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2485,9 +2179,9 @@ concepts:
       SMOD_ID: 23_80049
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -2519,9 +2213,9 @@ concepts:
       SMOD_ID: 23_80050
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_2
+      Admin_name: Bambey
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B75300917140294
+      Admin_geo_ID: SEN.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2553,9 +2247,9 @@ concepts:
       SMOD_ID: 23_80051
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_3
+      Admin_name: Bignona
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B19391387689457
+      Admin_geo_ID: SEN.14.1_1
       Year:
       - '1975'
       - '1980'
@@ -2587,9 +2281,9 @@ concepts:
       SMOD_ID: 23_80052
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_2
+      Admin_name: Bambey
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B75300917140294
+      Admin_geo_ID: SEN.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2621,9 +2315,9 @@ concepts:
       SMOD_ID: 23_80053
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_2
+      Admin_name: Bambey
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B75300917140294
+      Admin_geo_ID: SEN.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2655,9 +2349,9 @@ concepts:
       SMOD_ID: 23_80054
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -2689,9 +2383,9 @@ concepts:
       SMOD_ID: 23_80055
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_10
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85341589150678
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -2723,9 +2417,9 @@ concepts:
       SMOD_ID: 23_80056
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_2
+      Admin_name: Bambey
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B75300917140294
+      Admin_geo_ID: SEN.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2757,9 +2451,9 @@ concepts:
       SMOD_ID: 23_80057
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_2
+      Admin_name: Bambey
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B75300917140294
+      Admin_geo_ID: SEN.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2791,9 +2485,9 @@ concepts:
       SMOD_ID: 23_80058
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_10
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85341589150678
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -2825,9 +2519,9 @@ concepts:
       SMOD_ID: 23_80059
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_19
+      Admin_name: Kébémer
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60047071387499
+      Admin_geo_ID: SEN.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -2859,9 +2553,9 @@ concepts:
       SMOD_ID: 23_80060
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_10
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85341589150678
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -2893,9 +2587,9 @@ concepts:
       SMOD_ID: 23_80061
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_10
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85341589150678
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -2927,9 +2621,9 @@ concepts:
       SMOD_ID: 23_80062
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_2
+      Admin_name: Bambey
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B75300917140294
+      Admin_geo_ID: SEN.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2961,9 +2655,9 @@ concepts:
       SMOD_ID: 23_80063
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -2995,9 +2689,9 @@ concepts:
       SMOD_ID: 23_80064
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_2
+      Admin_name: Bambey
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B75300917140294
+      Admin_geo_ID: SEN.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -3029,9 +2723,9 @@ concepts:
       SMOD_ID: 23_80065
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_10
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85341589150678
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -3063,9 +2757,9 @@ concepts:
       SMOD_ID: 23_80066
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_37
+      Admin_name: Saint-Louis
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94115130730188
+      Admin_geo_ID: SEN.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -3097,9 +2791,9 @@ concepts:
       SMOD_ID: 23_80067
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_37
+      Admin_name: Saint-Louis
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94115130730188
+      Admin_geo_ID: SEN.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -3131,9 +2825,9 @@ concepts:
       SMOD_ID: 23_80068
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_19
+      Admin_name: Kébémer
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60047071387499
+      Admin_geo_ID: SEN.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -3165,9 +2859,9 @@ concepts:
       SMOD_ID: 23_80069
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -3199,9 +2893,9 @@ concepts:
       SMOD_ID: 23_80070
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_10
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85341589150678
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -3233,9 +2927,9 @@ concepts:
       SMOD_ID: 23_80071
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_37
+      Admin_name: Saint-Louis
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94115130730188
+      Admin_geo_ID: SEN.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -3267,9 +2961,9 @@ concepts:
       SMOD_ID: 23_80072
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_37
+      Admin_name: Saint-Louis
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94115130730188
+      Admin_geo_ID: SEN.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -3301,9 +2995,9 @@ concepts:
       SMOD_ID: 23_80073
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_37
+      Admin_name: Saint-Louis
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94115130730188
+      Admin_geo_ID: SEN.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -3335,9 +3029,9 @@ concepts:
       SMOD_ID: 23_80074
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_6
+      Admin_name: Dagana
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94177495754038
+      Admin_geo_ID: SEN.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -3369,9 +3063,9 @@ concepts:
       SMOD_ID: 23_80075
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_6
+      Admin_name: Dagana
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94177495754038
+      Admin_geo_ID: SEN.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -3403,9 +3097,9 @@ concepts:
       SMOD_ID: 23_80076
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_19
+      Admin_name: Kébémer
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60047071387499
+      Admin_geo_ID: SEN.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -3437,9 +3131,9 @@ concepts:
       SMOD_ID: 23_80077
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -3471,9 +3165,9 @@ concepts:
       SMOD_ID: 23_80078
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_18
+      Admin_name: Kaolack
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B15645681951695
+      Admin_geo_ID: SEN.5.2_1
       Year:
       - '1975'
       - '1980'
@@ -3505,9 +3199,9 @@ concepts:
       SMOD_ID: 23_80079
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_10
+      Admin_name: Foundiougne
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85341589150678
+      Admin_geo_ID: SEN.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -3539,9 +3233,9 @@ concepts:
       SMOD_ID: 23_80080
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_37
+      Admin_name: Saint-Louis
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94115130730188
+      Admin_geo_ID: SEN.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -3573,9 +3267,9 @@ concepts:
       SMOD_ID: 23_80081
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_31
+      Admin_name: Nioro du Rip
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B29473400533502
+      Admin_geo_ID: SEN.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -3607,9 +3301,9 @@ concepts:
       SMOD_ID: 23_80082
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_18
+      Admin_name: Kaolack
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B15645681951695
+      Admin_geo_ID: SEN.5.2_1
       Year:
       - '1975'
       - '1980'
@@ -3641,9 +3335,9 @@ concepts:
       SMOD_ID: 23_80083
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_19
+      Admin_name: Kébémer
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60047071387499
+      Admin_geo_ID: SEN.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -3675,9 +3369,9 @@ concepts:
       SMOD_ID: 23_80084
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_19
+      Admin_name: Kébémer
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60047071387499
+      Admin_geo_ID: SEN.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -3709,9 +3403,9 @@ concepts:
       SMOD_ID: 23_80085
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_31
+      Admin_name: Nioro du Rip
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B29473400533502
+      Admin_geo_ID: SEN.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -3743,9 +3437,9 @@ concepts:
       SMOD_ID: 23_80086
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_31
+      Admin_name: Nioro du Rip
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B29473400533502
+      Admin_geo_ID: SEN.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -3777,9 +3471,9 @@ concepts:
       SMOD_ID: 23_80087
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_18
+      Admin_name: Kaolack
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B15645681951695
+      Admin_geo_ID: SEN.5.2_1
       Year:
       - '1975'
       - '1980'
@@ -3811,9 +3505,9 @@ concepts:
       SMOD_ID: 23_80088
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_25
+      Admin_name: Louga
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B22933374767599
+      Admin_geo_ID: SEN.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -3845,9 +3539,9 @@ concepts:
       SMOD_ID: 23_80089
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_6
+      Admin_name: Dagana
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94177495754038
+      Admin_geo_ID: SEN.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -3879,9 +3573,9 @@ concepts:
       SMOD_ID: 23_80090
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_40
+      Admin_name: Sédhiou
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B34006486463131
+      Admin_geo_ID: SEN.11.3_1
       Year:
       - '1975'
       - '1980'
@@ -3913,9 +3607,9 @@ concepts:
       SMOD_ID: 23_80091
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_15
+      Admin_name: Guinguinéo
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B97054679922117
+      Admin_geo_ID: SEN.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -3947,9 +3641,9 @@ concepts:
       SMOD_ID: 23_80092
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_25
+      Admin_name: Louga
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B22933374767599
+      Admin_geo_ID: SEN.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -3981,9 +3675,9 @@ concepts:
       SMOD_ID: 23_80093
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_19
+      Admin_name: Kébémer
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60047071387499
+      Admin_geo_ID: SEN.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -4015,9 +3709,9 @@ concepts:
       SMOD_ID: 23_80094
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_31
+      Admin_name: Nioro du Rip
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B29473400533502
+      Admin_geo_ID: SEN.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -4049,9 +3743,9 @@ concepts:
       SMOD_ID: 23_80095
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_31
+      Admin_name: Nioro du Rip
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B29473400533502
+      Admin_geo_ID: SEN.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -4083,9 +3777,9 @@ concepts:
       SMOD_ID: 23_80096
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_31
+      Admin_name: Nioro du Rip
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B29473400533502
+      Admin_geo_ID: SEN.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -4117,9 +3811,9 @@ concepts:
       SMOD_ID: 23_80097
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_18
+      Admin_name: Kaolack
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B15645681951695
+      Admin_geo_ID: SEN.5.2_1
       Year:
       - '1975'
       - '1980'
@@ -4151,9 +3845,9 @@ concepts:
       SMOD_ID: 23_80098
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_25
+      Admin_name: Louga
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B22933374767599
+      Admin_geo_ID: SEN.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -4185,9 +3879,9 @@ concepts:
       SMOD_ID: 23_80099
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_11
+      Admin_name: Gossas
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B90737446104605
+      Admin_geo_ID: SEN.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -4219,9 +3913,9 @@ concepts:
       SMOD_ID: 23_80100
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_13
+      Admin_name: Goudomp
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B48951494587639
+      Admin_geo_ID: SEN.11.2_1
       Year:
       - '1975'
       - '1980'
@@ -4253,9 +3947,9 @@ concepts:
       SMOD_ID: 23_80101
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_4
+      Admin_name: Birkilane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56779252201559
+      Admin_geo_ID: SEN.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -4287,9 +3981,9 @@ concepts:
       SMOD_ID: 23_80102
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_4
+      Admin_name: Birkilane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56779252201559
+      Admin_geo_ID: SEN.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -4321,9 +4015,9 @@ concepts:
       SMOD_ID: 23_80103
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_4
+      Admin_name: Birkilane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56779252201559
+      Admin_geo_ID: SEN.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -4355,9 +4049,9 @@ concepts:
       SMOD_ID: 23_80104
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_24
+      Admin_name: Linguère
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B14678638932037
+      Admin_geo_ID: SEN.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -4389,9 +4083,9 @@ concepts:
       SMOD_ID: 23_80105
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_5
+      Admin_name: Bounkiling
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B68388966372963
+      Admin_geo_ID: SEN.11.1_1
       Year:
       - '1975'
       - '1980'
@@ -4423,9 +4117,9 @@ concepts:
       SMOD_ID: 23_80106
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_13
+      Admin_name: Goudomp
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B48951494587639
+      Admin_geo_ID: SEN.11.2_1
       Year:
       - '1975'
       - '1980'
@@ -4457,9 +4151,9 @@ concepts:
       SMOD_ID: 23_80107
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_24
+      Admin_name: Linguère
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B14678638932037
+      Admin_geo_ID: SEN.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -4491,9 +4185,9 @@ concepts:
       SMOD_ID: 23_80108
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_13
+      Admin_name: Goudomp
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B48951494587639
+      Admin_geo_ID: SEN.11.2_1
       Year:
       - '1975'
       - '1980'
@@ -4525,9 +4219,9 @@ concepts:
       SMOD_ID: 23_80109
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_4
+      Admin_name: Birkilane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56779252201559
+      Admin_geo_ID: SEN.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -4559,9 +4253,9 @@ concepts:
       SMOD_ID: 23_80110
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_5
+      Admin_name: Bounkiling
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B68388966372963
+      Admin_geo_ID: SEN.11.1_1
       Year:
       - '1975'
       - '1980'
@@ -4593,9 +4287,9 @@ concepts:
       SMOD_ID: 23_80111
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_24
+      Admin_name: Linguère
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B14678638932037
+      Admin_geo_ID: SEN.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -4627,9 +4321,9 @@ concepts:
       SMOD_ID: 23_80112
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_5
+      Admin_name: Bounkiling
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B68388966372963
+      Admin_geo_ID: SEN.11.1_1
       Year:
       - '1975'
       - '1980'
@@ -4661,9 +4355,9 @@ concepts:
       SMOD_ID: 23_80113
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_31
+      Admin_name: Nioro du Rip
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B29473400533502
+      Admin_geo_ID: SEN.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -4695,9 +4389,9 @@ concepts:
       SMOD_ID: 23_80114
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_24
+      Admin_name: Linguère
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B14678638932037
+      Admin_geo_ID: SEN.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -4729,9 +4423,9 @@ concepts:
       SMOD_ID: 23_80115
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_31
+      Admin_name: Nioro du Rip
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B29473400533502
+      Admin_geo_ID: SEN.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -4763,9 +4457,9 @@ concepts:
       SMOD_ID: 23_80116
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_6
+      Admin_name: Dagana
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94177495754038
+      Admin_geo_ID: SEN.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -4797,9 +4491,9 @@ concepts:
       SMOD_ID: 23_80117
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_13
+      Admin_name: Goudomp
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B48951494587639
+      Admin_geo_ID: SEN.11.2_1
       Year:
       - '1975'
       - '1980'
@@ -4831,9 +4525,9 @@ concepts:
       SMOD_ID: 23_80118
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_13
+      Admin_name: Goudomp
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B48951494587639
+      Admin_geo_ID: SEN.11.2_1
       Year:
       - '1975'
       - '1980'
@@ -4865,9 +4559,9 @@ concepts:
       SMOD_ID: 23_80119
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_26
+      Admin_name: Malème Hodar
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B13883389428586
+      Admin_geo_ID: SEN.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -4899,9 +4593,9 @@ concepts:
       SMOD_ID: 23_80120
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_6
+      Admin_name: Dagana
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94177495754038
+      Admin_geo_ID: SEN.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -4933,9 +4627,9 @@ concepts:
       SMOD_ID: 23_80121
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_26
+      Admin_name: Malème Hodar
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B13883389428586
+      Admin_geo_ID: SEN.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -4967,9 +4661,9 @@ concepts:
       SMOD_ID: 23_80122
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_26
+      Admin_name: Malème Hodar
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B13883389428586
+      Admin_geo_ID: SEN.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -5001,9 +4695,9 @@ concepts:
       SMOD_ID: 23_80123
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_30
+      Admin_name: Médina Yoro Foula
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B71056203552440
+      Admin_geo_ID: SEN.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -5035,9 +4729,9 @@ concepts:
       SMOD_ID: 23_80124
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_23
+      Admin_name: Koungheul
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B42114348275286
+      Admin_geo_ID: SEN.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -5069,9 +4763,9 @@ concepts:
       SMOD_ID: 23_80125
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_26
+      Admin_name: Malème Hodar
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B13883389428586
+      Admin_geo_ID: SEN.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -5103,9 +4797,9 @@ concepts:
       SMOD_ID: 23_80126
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_26
+      Admin_name: Malème Hodar
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B13883389428586
+      Admin_geo_ID: SEN.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -5137,9 +4831,9 @@ concepts:
       SMOD_ID: 23_80127
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -5171,9 +4865,9 @@ concepts:
       SMOD_ID: 23_80128
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_24
+      Admin_name: Linguère
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B14678638932037
+      Admin_geo_ID: SEN.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -5205,9 +4899,9 @@ concepts:
       SMOD_ID: 23_80129
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -5239,9 +4933,9 @@ concepts:
       SMOD_ID: 23_80130
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_30
+      Admin_name: Médina Yoro Foula
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B71056203552440
+      Admin_geo_ID: SEN.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -5273,9 +4967,9 @@ concepts:
       SMOD_ID: 23_80131
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_30
+      Admin_name: Médina Yoro Foula
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B71056203552440
+      Admin_geo_ID: SEN.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -5307,9 +5001,9 @@ concepts:
       SMOD_ID: 23_80132
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_30
+      Admin_name: Médina Yoro Foula
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B71056203552440
+      Admin_geo_ID: SEN.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -5341,9 +5035,9 @@ concepts:
       SMOD_ID: 23_80133
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_30
+      Admin_name: Médina Yoro Foula
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B71056203552440
+      Admin_geo_ID: SEN.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -5375,9 +5069,9 @@ concepts:
       SMOD_ID: 23_80134
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -5409,9 +5103,9 @@ concepts:
       SMOD_ID: 23_80135
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_30
+      Admin_name: Médina Yoro Foula
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B71056203552440
+      Admin_geo_ID: SEN.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -5443,9 +5137,9 @@ concepts:
       SMOD_ID: 23_80136
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -5477,9 +5171,9 @@ concepts:
       SMOD_ID: 23_80137
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -5511,9 +5205,9 @@ concepts:
       SMOD_ID: 23_80138
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_22
+      Admin_name: Koupentoum
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60464160168835
+      Admin_geo_ID: SEN.12.3_1
       Year:
       - '1975'
       - '1980'
@@ -5545,9 +5239,9 @@ concepts:
       SMOD_ID: 23_80139
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_30
+      Admin_name: Médina Yoro Foula
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B71056203552440
+      Admin_geo_ID: SEN.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -5579,9 +5273,9 @@ concepts:
       SMOD_ID: 23_80140
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_22
+      Admin_name: Koupentoum
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60464160168835
+      Admin_geo_ID: SEN.12.3_1
       Year:
       - '1975'
       - '1980'
@@ -5613,9 +5307,9 @@ concepts:
       SMOD_ID: 23_80141
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_44
+      Admin_name: Vélingara
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B9780593325351
+      Admin_geo_ID: SEN.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -5647,9 +5341,9 @@ concepts:
       SMOD_ID: 23_80142
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_22
+      Admin_name: Koupentoum
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60464160168835
+      Admin_geo_ID: SEN.12.3_1
       Year:
       - '1975'
       - '1980'
@@ -5681,9 +5375,9 @@ concepts:
       SMOD_ID: 23_80143
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_44
+      Admin_name: Vélingara
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B9780593325351
+      Admin_geo_ID: SEN.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -5715,9 +5409,9 @@ concepts:
       SMOD_ID: 23_80144
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -5749,9 +5443,9 @@ concepts:
       SMOD_ID: 23_80145
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_44
+      Admin_name: Vélingara
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B9780593325351
+      Admin_geo_ID: SEN.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -5783,9 +5477,9 @@ concepts:
       SMOD_ID: 23_80146
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_41
+      Admin_name: Tambacounda
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B74600736318601
+      Admin_geo_ID: SEN.12.4_1
       Year:
       - '1975'
       - '1980'
@@ -5817,9 +5511,9 @@ concepts:
       SMOD_ID: 23_80147
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -5851,9 +5545,9 @@ concepts:
       SMOD_ID: 23_80148
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -5885,9 +5579,9 @@ concepts:
       SMOD_ID: 23_80149
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_35
+      Admin_name: Ranérou Ferlo
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B34306626760019
+      Admin_geo_ID: SEN.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -5919,9 +5613,9 @@ concepts:
       SMOD_ID: 23_80150
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -5953,9 +5647,9 @@ concepts:
       SMOD_ID: 23_80151
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -5987,9 +5681,9 @@ concepts:
       SMOD_ID: 23_80152
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_44
+      Admin_name: Vélingara
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B9780593325351
+      Admin_geo_ID: SEN.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -6021,9 +5715,9 @@ concepts:
       SMOD_ID: 23_80153
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -6055,9 +5749,9 @@ concepts:
       SMOD_ID: 23_80154
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -6089,9 +5783,9 @@ concepts:
       SMOD_ID: 23_80155
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6123,9 +5817,9 @@ concepts:
       SMOD_ID: 23_80156
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6157,9 +5851,9 @@ concepts:
       SMOD_ID: 23_80157
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6191,9 +5885,9 @@ concepts:
       SMOD_ID: 23_80158
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_41
+      Admin_name: Tambacounda
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B74600736318601
+      Admin_geo_ID: SEN.12.4_1
       Year:
       - '1975'
       - '1980'
@@ -6225,9 +5919,9 @@ concepts:
       SMOD_ID: 23_80159
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6259,9 +5953,9 @@ concepts:
       SMOD_ID: 23_80160
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_12
+      Admin_name: Goudiry
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B18390590381778
+      Admin_geo_ID: SEN.12.2_1
       Year:
       - '1975'
       - '1980'
@@ -6293,9 +5987,9 @@ concepts:
       SMOD_ID: 23_80161
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6327,9 +6021,9 @@ concepts:
       SMOD_ID: 23_80162
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6361,9 +6055,9 @@ concepts:
       SMOD_ID: 23_80163
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_12
+      Admin_name: Goudiry
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B18390590381778
+      Admin_geo_ID: SEN.12.2_1
       Year:
       - '1975'
       - '1980'
@@ -6395,9 +6089,9 @@ concepts:
       SMOD_ID: 23_80164
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6429,9 +6123,9 @@ concepts:
       SMOD_ID: 23_80165
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6463,9 +6157,9 @@ concepts:
       SMOD_ID: 23_80166
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6497,9 +6191,9 @@ concepts:
       SMOD_ID: 23_80167
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6531,9 +6225,9 @@ concepts:
       SMOD_ID: 23_80168
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6565,9 +6259,9 @@ concepts:
       SMOD_ID: 23_80169
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_12
+      Admin_name: Goudiry
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B18390590381778
+      Admin_geo_ID: SEN.12.2_1
       Year:
       - '1975'
       - '1980'
@@ -6599,9 +6293,9 @@ concepts:
       SMOD_ID: 23_80170
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6633,9 +6327,9 @@ concepts:
       SMOD_ID: 23_80171
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6667,9 +6361,9 @@ concepts:
       SMOD_ID: 23_80172
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_27
+      Admin_name: Matam
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B95113260184043
+      Admin_geo_ID: SEN.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -6701,9 +6395,9 @@ concepts:
       SMOD_ID: 23_80173
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -6735,9 +6429,9 @@ concepts:
       SMOD_ID: 23_80174
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -6769,9 +6463,9 @@ concepts:
       SMOD_ID: 23_80175
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -6803,9 +6497,9 @@ concepts:
       SMOD_ID: 23_80176
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -6837,9 +6531,9 @@ concepts:
       SMOD_ID: 23_80177
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -6871,9 +6565,9 @@ concepts:
       SMOD_ID: 23_80178
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_12
+      Admin_name: Goudiry
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B18390590381778
+      Admin_geo_ID: SEN.12.2_1
       Year:
       - '1975'
       - '1980'
@@ -6905,9 +6599,9 @@ concepts:
       SMOD_ID: 23_80179
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -6939,9 +6633,9 @@ concepts:
       SMOD_ID: 23_80180
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -6973,9 +6667,9 @@ concepts:
       SMOD_ID: 23_80181
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -7007,9 +6701,9 @@ concepts:
       SMOD_ID: 23_80182
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -7041,9 +6735,9 @@ concepts:
       SMOD_ID: 23_80183
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -7075,9 +6769,9 @@ concepts:
       SMOD_ID: 23_80184
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -7109,9 +6803,9 @@ concepts:
       SMOD_ID: 23_80185
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_12
+      Admin_name: Goudiry
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B18390590381778
+      Admin_geo_ID: SEN.12.2_1
       Year:
       - '1975'
       - '1980'
@@ -7143,9 +6837,9 @@ concepts:
       SMOD_ID: 23_80186
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -7177,9 +6871,9 @@ concepts:
       SMOD_ID: 23_80187
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -7211,9 +6905,9 @@ concepts:
       SMOD_ID: 23_80188
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_1
+      Admin_name: Bakel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
+      Admin_geo_ID: SEN.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -7245,9 +6939,9 @@ concepts:
       SMOD_ID: 23_80189
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_1
+      Admin_name: Bakel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
+      Admin_geo_ID: SEN.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -7279,9 +6973,9 @@ concepts:
       SMOD_ID: 23_80190
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_1
+      Admin_name: Bakel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
+      Admin_geo_ID: SEN.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -7313,9 +7007,9 @@ concepts:
       SMOD_ID: 23_80191
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_1
+      Admin_name: Bakel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
+      Admin_geo_ID: SEN.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -7347,9 +7041,9 @@ concepts:
       SMOD_ID: 23_80192
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_1
+      Admin_name: Bakel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
+      Admin_geo_ID: SEN.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -7381,9 +7075,9 @@ concepts:
       SMOD_ID: 23_80193
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_1
+      Admin_name: Bakel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
+      Admin_geo_ID: SEN.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -7415,9 +7109,9 @@ concepts:
       SMOD_ID: 23_80194
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_1
+      Admin_name: Bakel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
+      Admin_geo_ID: SEN.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -7449,9 +7143,9 @@ concepts:
       SMOD_ID: 23_80195
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_1
+      Admin_name: Bakel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
+      Admin_geo_ID: SEN.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -7483,9 +7177,9 @@ concepts:
       SMOD_ID: 23_80196
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_1
+      Admin_name: Bakel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
+      Admin_geo_ID: SEN.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -7517,9 +7211,9 @@ concepts:
       SMOD_ID: 23_80197
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_39
+      Admin_name: Saraya
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B8770711358016
+      Admin_geo_ID: SEN.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -7551,9 +7245,9 @@ concepts:
       SMOD_ID: 23_80198
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_1
+      Admin_name: Bakel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B16013842146029
+      Admin_geo_ID: SEN.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -7585,9 +7279,9 @@ concepts:
       SMOD_ID: 30_11557
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_33
+      Admin_name: Pikine
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B8601261498481
+      Admin_geo_ID: SEN.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -7619,9 +7313,9 @@ concepts:
       SMOD_ID: 30_11558
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_29
+      Admin_name: Mbour
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B56533800648606
+      Admin_geo_ID: SEN.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -7653,9 +7347,9 @@ concepts:
       SMOD_ID: 30_11559
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_42
+      Admin_name: Thiès
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B65872214095625
+      Admin_geo_ID: SEN.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -7687,9 +7381,9 @@ concepts:
       SMOD_ID: 30_11560
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_43
+      Admin_name: Tivaouane
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B62483410284412
+      Admin_geo_ID: SEN.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -7721,9 +7415,9 @@ concepts:
       SMOD_ID: 30_11561
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_2
+      Admin_name: Bambey
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B75300917140294
+      Admin_geo_ID: SEN.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -7755,9 +7449,9 @@ concepts:
       SMOD_ID: 30_11562
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_37
+      Admin_name: Saint-Louis
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94115130730188
+      Admin_geo_ID: SEN.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -7789,9 +7483,9 @@ concepts:
       SMOD_ID: 30_11563
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_9
+      Admin_name: Fatick
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B55839740763416
+      Admin_geo_ID: SEN.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -7823,9 +7517,9 @@ concepts:
       SMOD_ID: 30_11564
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_45
+      Admin_name: Ziguinchor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B19119296887329
+      Admin_geo_ID: SEN.14.3_1
       Year:
       - '1975'
       - '1980'
@@ -7857,9 +7551,9 @@ concepts:
       SMOD_ID: 30_11565
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_3
+      Admin_name: Bignona
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B19391387689457
+      Admin_geo_ID: SEN.14.1_1
       Year:
       - '1975'
       - '1980'
@@ -7891,9 +7585,9 @@ concepts:
       SMOD_ID: 30_11566
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_8
+      Admin_name: Diourbel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B22549322426328
+      Admin_geo_ID: SEN.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -7925,9 +7619,9 @@ concepts:
       SMOD_ID: 30_11567
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_25
+      Admin_name: Louga
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B22933374767599
+      Admin_geo_ID: SEN.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -7959,9 +7653,9 @@ concepts:
       SMOD_ID: 30_11568
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_18
+      Admin_name: Kaolack
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B15645681951695
+      Admin_geo_ID: SEN.5.2_1
       Year:
       - '1975'
       - '1980'
@@ -7993,9 +7687,9 @@ concepts:
       SMOD_ID: 30_11569
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_31
+      Admin_name: Nioro du Rip
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B29473400533502
+      Admin_geo_ID: SEN.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -8027,9 +7721,9 @@ concepts:
       SMOD_ID: 30_11570
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_11
+      Admin_name: Gossas
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B90737446104605
+      Admin_geo_ID: SEN.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -8061,9 +7755,9 @@ concepts:
       SMOD_ID: 30_11571
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_19
+      Admin_name: Kébémer
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60047071387499
+      Admin_geo_ID: SEN.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -8095,9 +7789,9 @@ concepts:
       SMOD_ID: 30_11572
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_15
+      Admin_name: Guinguinéo
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B97054679922117
+      Admin_geo_ID: SEN.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -8129,9 +7823,9 @@ concepts:
       SMOD_ID: 30_11573
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_13
+      Admin_name: Goudomp
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B48951494587639
+      Admin_geo_ID: SEN.11.2_1
       Year:
       - '1975'
       - '1980'
@@ -8163,9 +7857,9 @@ concepts:
       SMOD_ID: 30_11574
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_28
+      Admin_name: Mbacké
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B63857747785645
+      Admin_geo_ID: SEN.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -8197,9 +7891,9 @@ concepts:
       SMOD_ID: 30_11575
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_31
+      Admin_name: Nioro du Rip
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B29473400533502
+      Admin_geo_ID: SEN.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -8231,9 +7925,9 @@ concepts:
       SMOD_ID: 30_11576
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_40
+      Admin_name: Sédhiou
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B34006486463131
+      Admin_geo_ID: SEN.11.3_1
       Year:
       - '1975'
       - '1980'
@@ -8265,9 +7959,9 @@ concepts:
       SMOD_ID: 30_11577
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_6
+      Admin_name: Dagana
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94177495754038
+      Admin_geo_ID: SEN.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -8299,9 +7993,9 @@ concepts:
       SMOD_ID: 30_11578
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_16
+      Admin_name: Kaffrine
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B43046627101076
+      Admin_geo_ID: SEN.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -8333,9 +8027,9 @@ concepts:
       SMOD_ID: 30_11579
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_24
+      Admin_name: Linguère
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B14678638932037
+      Admin_geo_ID: SEN.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -8367,9 +8061,9 @@ concepts:
       SMOD_ID: 30_11580
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_6
+      Admin_name: Dagana
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B94177495754038
+      Admin_geo_ID: SEN.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -8401,9 +8095,9 @@ concepts:
       SMOD_ID: 30_11581
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_21
+      Admin_name: Kolda
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B77977720497228
+      Admin_geo_ID: SEN.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -8435,9 +8129,9 @@ concepts:
       SMOD_ID: 30_11582
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_34
+      Admin_name: Podor
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B66510054428140
+      Admin_geo_ID: SEN.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -8469,9 +8163,9 @@ concepts:
       SMOD_ID: 30_11583
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_23
+      Admin_name: Koungheul
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B42114348275286
+      Admin_geo_ID: SEN.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -8503,9 +8197,9 @@ concepts:
       SMOD_ID: 30_11584
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_22
+      Admin_name: Koupentoum
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B60464160168835
+      Admin_geo_ID: SEN.12.3_1
       Year:
       - '1975'
       - '1980'
@@ -8537,9 +8231,9 @@ concepts:
       SMOD_ID: 30_11585
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_44
+      Admin_name: Vélingara
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B9780593325351
+      Admin_geo_ID: SEN.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -8571,9 +8265,9 @@ concepts:
       SMOD_ID: 30_11586
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_44
+      Admin_name: Vélingara
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B9780593325351
+      Admin_geo_ID: SEN.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -8605,9 +8299,9 @@ concepts:
       SMOD_ID: 30_11587
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_41
+      Admin_name: Tambacounda
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B74600736318601
+      Admin_geo_ID: SEN.12.4_1
       Year:
       - '1975'
       - '1980'
@@ -8639,9 +8333,9 @@ concepts:
       SMOD_ID: 30_11588
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_17
+      Admin_name: Kanel
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B72122084264725
+      Admin_geo_ID: SEN.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -8673,9 +8367,9 @@ concepts:
       SMOD_ID: 30_11589
       Country_name: Senegal
       iso3c: SEN
-      Admin_id: Senegal_Adm2_20
+      Admin_name: Kédougou
       Admin_level: Adm2
-      geo_admin_shapeID: 50182788B85082652306110
+      Admin_geo_ID: SEN.6.1_1
       Year:
       - '1975'
       - '1980'

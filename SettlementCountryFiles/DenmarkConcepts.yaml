@@ -3,9 +3,9 @@ concepts:
       SMOD_ID: 22_6676
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_84
+      Admin_name: Lemvig
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B9806363865609
+      Admin_geo_ID: DNK.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -37,9 +37,9 @@ concepts:
       SMOD_ID: 22_6677
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_74
+      Admin_name: Ringkøbing-Skjern
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B34761600297143
+      Admin_geo_ID: DNK.2.12_1
       Year:
       - '1975'
       - '1980'
@@ -71,9 +71,9 @@ concepts:
       SMOD_ID: 22_6678
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_57
+      Admin_name: Varde
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B29460567915272
+      Admin_geo_ID: DNK.5.20_1
       Year:
       - '1975'
       - '1980'
@@ -105,9 +105,9 @@ concepts:
       SMOD_ID: 22_6679
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_90
+      Admin_name: Morsø
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B69774565938083
+      Admin_geo_ID: DNK.3.8_1
       Year:
       - '1975'
       - '1980'
@@ -139,9 +139,9 @@ concepts:
       SMOD_ID: 22_6680
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_27
+      Admin_name: Esbjerg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B6967543231569
+      Admin_geo_ID: DNK.5.5_1
       Year:
       - '1975'
       - '1980'
@@ -173,9 +173,9 @@ concepts:
       SMOD_ID: 22_6681
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_27
+      Admin_name: Esbjerg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B6967543231569
+      Admin_geo_ID: DNK.5.5_1
       Year:
       - '1975'
       - '1980'
@@ -207,9 +207,9 @@ concepts:
       SMOD_ID: 22_6682
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_61
+      Admin_name: Billund
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B53245715843786
+      Admin_geo_ID: DNK.5.4_1
       Year:
       - '1975'
       - '1980'
@@ -241,9 +241,9 @@ concepts:
       SMOD_ID: 22_6683
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_13
+      Admin_name: Tønder
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B76174594185827
+      Admin_geo_ID: DNK.5.19_1
       Year:
       - '1975'
       - '1980'
@@ -275,9 +275,9 @@ concepts:
       SMOD_ID: 22_6684
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_75
+      Admin_name: Ikast-Brande
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B46362927982111
+      Admin_geo_ID: DNK.2.7_1
       Year:
       - '1975'
       - '1980'
@@ -309,9 +309,9 @@ concepts:
       SMOD_ID: 22_6685
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_33
+      Admin_name: Vejen
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B99436986743793
+      Admin_geo_ID: DNK.5.21_1
       Year:
       - '1975'
       - '1980'
@@ -343,9 +343,9 @@ concepts:
       SMOD_ID: 22_6686
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_88
+      Admin_name: Vesthimmerland
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B16948230614219
+      Admin_geo_ID: DNK.3.11_1
       Year:
       - '1975'
       - '1980'
@@ -377,9 +377,9 @@ concepts:
       SMOD_ID: 22_6687
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_16
+      Admin_name: Haderslev
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B2638221370026
+      Admin_geo_ID: DNK.5.9_1
       Year:
       - '1975'
       - '1980'
@@ -411,9 +411,9 @@ concepts:
       SMOD_ID: 22_6688
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_83
+      Admin_name: Viborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B21087296928926
+      Admin_geo_ID: DNK.2.19_1
       Year:
       - '1975'
       - '1980'
@@ -445,9 +445,9 @@ concepts:
       SMOD_ID: 22_6689
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_89
+      Admin_name: Rebild
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B49847933148159
+      Admin_geo_ID: DNK.3.9_1
       Year:
       - '1975'
       - '1980'
@@ -475,13 +475,47 @@ concepts:
       - '6520'
       - '6439'
       Settlement_level: Semi-dense Urban Clusters
+   Denmark_22_6690:
+      SMOD_ID: 22_6690
+      Country_name: Denmark
+      iso3c: DNK
+      Admin_name: Hjørring
+      Admin_level: Adm2
+      Admin_geo_ID: DNK.3.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6533'
+      - '6664'
+      - '6567'
+      - '6490'
+      - '6416'
+      - '6334'
+      - '6153'
+      - '5882'
+      - '5661'
+      - '5546'
+      - '5489'
+      - '5472'
+      Settlement_level: Semi-dense Urban Clusters
    Denmark_22_6691:
       SMOD_ID: 22_6691
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_62
+      Admin_name: Hedensted
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B62179325616663
+      Admin_geo_ID: DNK.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -513,9 +547,9 @@ concepts:
       SMOD_ID: 22_6692
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_94
+      Admin_name: Brønderslev
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B79370302577150
+      Admin_geo_ID: DNK.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -547,9 +581,9 @@ concepts:
       SMOD_ID: 22_6693
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_73
+      Admin_name: Skanderborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B49765526069388
+      Admin_geo_ID: DNK.2.15_1
       Year:
       - '1975'
       - '1980'
@@ -581,9 +615,9 @@ concepts:
       SMOD_ID: 22_6694
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_7
+      Admin_name: Sønderborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B72299351601619
+      Admin_geo_ID: DNK.5.17_1
       Year:
       - '1975'
       - '1980'
@@ -615,9 +649,9 @@ concepts:
       SMOD_ID: 22_6695
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_79
+      Admin_name: Favrskov
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B27809903235433
+      Admin_geo_ID: DNK.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -649,9 +683,9 @@ concepts:
       SMOD_ID: 22_6696
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_73
+      Admin_name: Skanderborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B49765526069388
+      Admin_geo_ID: DNK.2.15_1
       Year:
       - '1975'
       - '1980'
@@ -683,9 +717,9 @@ concepts:
       SMOD_ID: 22_6697
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_73
+      Admin_name: Skanderborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B49765526069388
+      Admin_geo_ID: DNK.2.15_1
       Year:
       - '1975'
       - '1980'
@@ -717,9 +751,9 @@ concepts:
       SMOD_ID: 22_6698
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_73
+      Admin_name: Skanderborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B49765526069388
+      Admin_geo_ID: DNK.2.15_1
       Year:
       - '1975'
       - '1980'
@@ -751,9 +785,9 @@ concepts:
       SMOD_ID: 22_6699
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_11
+      Admin_name: Assens
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B65540528804322
+      Admin_geo_ID: DNK.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -785,9 +819,9 @@ concepts:
       SMOD_ID: 22_6700
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_79
+      Admin_name: Favrskov
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B27809903235433
+      Admin_geo_ID: DNK.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -819,9 +853,9 @@ concepts:
       SMOD_ID: 22_6701
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_63
+      Admin_name: Odder
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B43620076453863
+      Admin_geo_ID: DNK.2.10_1
       Year:
       - '1975'
       - '1980'
@@ -853,9 +887,9 @@ concepts:
       SMOD_ID: 22_6702
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_76
+      Admin_name: Århus
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B54938770362357
+      Admin_geo_ID: DNK.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -883,13 +917,47 @@ concepts:
       - '8074'
       - '8308'
       Settlement_level: Semi-dense Urban Clusters
+   Denmark_22_6703:
+      SMOD_ID: 22_6703
+      Country_name: Denmark
+      iso3c: DNK
+      Admin_name: Frederikshavn
+      Admin_level: Adm2
+      Admin_geo_ID: DNK.3.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '10834'
+      - '10930'
+      - '10659'
+      - '10369'
+      - '10067'
+      - '9683'
+      - '9025'
+      - '8115'
+      - '7469'
+      - '7217'
+      - '7051'
+      - '6919'
+      Settlement_level: Semi-dense Urban Clusters
    Denmark_22_6704:
       SMOD_ID: 22_6704
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_96
+      Admin_name: Frederikshavn
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B75417410603706
+      Admin_geo_ID: DNK.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -921,9 +989,9 @@ concepts:
       SMOD_ID: 22_6705
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_8
+      Admin_name: Faaborg-Midtfyn
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B25765023105800
+      Admin_geo_ID: DNK.5.6_1
       Year:
       - '1975'
       - '1980'
@@ -955,9 +1023,9 @@ concepts:
       SMOD_ID: 22_6706
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_8
+      Admin_name: Faaborg-Midtfyn
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B25765023105800
+      Admin_geo_ID: DNK.5.6_1
       Year:
       - '1975'
       - '1980'
@@ -989,9 +1057,9 @@ concepts:
       SMOD_ID: 22_6707
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_22
+      Admin_name: Kerteminde
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B45706286685972
+      Admin_geo_ID: DNK.5.10_1
       Year:
       - '1975'
       - '1980'
@@ -1023,9 +1091,9 @@ concepts:
       SMOD_ID: 22_6708
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_10
+      Admin_name: Slagelse
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B32972196165212
+      Admin_geo_ID: DNK.4.13_1
       Year:
       - '1975'
       - '1980'
@@ -1057,9 +1125,9 @@ concepts:
       SMOD_ID: 22_6709
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_26
+      Admin_name: Sorø
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B94282367677525
+      Admin_geo_ID: DNK.4.15_1
       Year:
       - '1975'
       - '1980'
@@ -1091,9 +1159,9 @@ concepts:
       SMOD_ID: 22_6710
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_67
+      Admin_name: Odsherred
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B40980494570781
+      Admin_geo_ID: DNK.4.10_1
       Year:
       - '1975'
       - '1980'
@@ -1125,9 +1193,9 @@ concepts:
       SMOD_ID: 22_6711
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_5
+      Admin_name: Vordingborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B59118439676977
+      Admin_geo_ID: DNK.4.17_1
       Year:
       - '1975'
       - '1980'
@@ -1159,9 +1227,9 @@ concepts:
       SMOD_ID: 22_6712
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_71
+      Admin_name: Gribskov
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B26630627548335
+      Admin_geo_ID: DNK.1.16_1
       Year:
       - '1975'
       - '1980'
@@ -1193,9 +1261,9 @@ concepts:
       SMOD_ID: 22_6713
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_58
+      Admin_name: Frederikssund
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B23852349760420
+      Admin_geo_ID: DNK.1.11_1
       Year:
       - '1975'
       - '1980'
@@ -1223,13 +1291,47 @@ concepts:
       - '7359'
       - '7469'
       Settlement_level: Semi-dense Urban Clusters
+   Denmark_22_6714:
+      SMOD_ID: 22_6714
+      Country_name: Denmark
+      iso3c: DNK
+      Admin_name: Gribskov
+      Admin_level: Adm2
+      Admin_geo_ID: DNK.1.16_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6648'
+      - '6864'
+      - '6861'
+      - '6891'
+      - '7005'
+      - '7148'
+      - '7266'
+      - '7439'
+      - '7513'
+      - '7560'
+      - '7587'
+      - '7658'
+      Settlement_level: Semi-dense Urban Clusters
    Denmark_22_6715:
       SMOD_ID: 22_6715
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_69
+      Admin_name: Fredensborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B33394291945176
+      Admin_geo_ID: DNK.1.9_1
       Year:
       - '1975'
       - '1980'
@@ -1261,9 +1363,9 @@ concepts:
       SMOD_ID: 23_28875
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_74
+      Admin_name: Ringkøbing-Skjern
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B34761600297143
+      Admin_geo_ID: DNK.2.12_1
       Year:
       - '1975'
       - '1980'
@@ -1295,9 +1397,9 @@ concepts:
       SMOD_ID: 23_28876
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_27
+      Admin_name: Esbjerg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B6967543231569
+      Admin_geo_ID: DNK.5.5_1
       Year:
       - '1975'
       - '1980'
@@ -1329,9 +1431,9 @@ concepts:
       SMOD_ID: 23_28877
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_27
+      Admin_name: Esbjerg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B6967543231569
+      Admin_geo_ID: DNK.5.5_1
       Year:
       - '1975'
       - '1980'
@@ -1363,9 +1465,9 @@ concepts:
       SMOD_ID: 23_28878
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_80
+      Admin_name: Struer
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B94194061920718
+      Admin_geo_ID: DNK.2.17_1
       Year:
       - '1975'
       - '1980'
@@ -1397,9 +1499,9 @@ concepts:
       SMOD_ID: 23_28879
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_92
+      Admin_name: Thisted
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B56383958265758
+      Admin_geo_ID: DNK.3.10_1
       Year:
       - '1975'
       - '1980'
@@ -1431,9 +1533,9 @@ concepts:
       SMOD_ID: 23_28880
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_81
+      Admin_name: Holstebro
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B58016217336700
+      Admin_geo_ID: DNK.2.5_1
       Year:
       - '1975'
       - '1980'
@@ -1465,9 +1567,9 @@ concepts:
       SMOD_ID: 23_28881
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_78
+      Admin_name: Herning
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B23663037575971
+      Admin_geo_ID: DNK.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -1499,9 +1601,9 @@ concepts:
       SMOD_ID: 23_28882
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_86
+      Admin_name: Skive
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B69433812533005
+      Admin_geo_ID: DNK.2.16_1
       Year:
       - '1975'
       - '1980'
@@ -1533,9 +1635,9 @@ concepts:
       SMOD_ID: 23_28883
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_75
+      Admin_name: Ikast-Brande
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B46362927982111
+      Admin_geo_ID: DNK.2.7_1
       Year:
       - '1975'
       - '1980'
@@ -1567,9 +1669,9 @@ concepts:
       SMOD_ID: 23_28884
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_83
+      Admin_name: Viborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B21087296928926
+      Admin_geo_ID: DNK.2.19_1
       Year:
       - '1975'
       - '1980'
@@ -1601,9 +1703,9 @@ concepts:
       SMOD_ID: 23_28885
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_77
+      Admin_name: Silkeborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B56541521256220
+      Admin_geo_ID: DNK.2.14_1
       Year:
       - '1975'
       - '1980'
@@ -1635,9 +1737,9 @@ concepts:
       SMOD_ID: 23_28886
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_32
+      Admin_name: Kolding
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B1982958908427
+      Admin_geo_ID: DNK.5.11_1
       Year:
       - '1975'
       - '1980'
@@ -1669,9 +1771,9 @@ concepts:
       SMOD_ID: 23_28887
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_64
+      Admin_name: Vejle
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B25626345005287
+      Admin_geo_ID: DNK.5.22_1
       Year:
       - '1975'
       - '1980'
@@ -1703,9 +1805,9 @@ concepts:
       SMOD_ID: 23_28888
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_9
+      Admin_name: Aabenraa
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B46678336638205
+      Admin_geo_ID: DNK.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -1737,9 +1839,9 @@ concepts:
       SMOD_ID: 23_28889
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_16
+      Admin_name: Haderslev
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B2638221370026
+      Admin_geo_ID: DNK.5.9_1
       Year:
       - '1975'
       - '1980'
@@ -1771,9 +1873,9 @@ concepts:
       SMOD_ID: 23_28890
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_87
+      Admin_name: Mariagerfjord
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B20459048637380
+      Admin_geo_ID: DNK.3.7_1
       Year:
       - '1975'
       - '1980'
@@ -1805,9 +1907,9 @@ concepts:
       SMOD_ID: 23_28891
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_97
+      Admin_name: Hjørring
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B422224300956
+      Admin_geo_ID: DNK.3.4_1
       Year:
       - '1975'
       - '1980'
@@ -1839,9 +1941,9 @@ concepts:
       SMOD_ID: 23_28892
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_31
+      Admin_name: Fredericia
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B82112898444320
+      Admin_geo_ID: DNK.5.8_1
       Year:
       - '1975'
       - '1980'
@@ -1873,9 +1975,9 @@ concepts:
       SMOD_ID: 23_28893
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_15
+      Admin_name: Middelfart
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B86094483146336
+      Admin_geo_ID: DNK.5.13_1
       Year:
       - '1975'
       - '1980'
@@ -1907,9 +2009,9 @@ concepts:
       SMOD_ID: 23_28894
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_52
+      Admin_name: Horsens
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B65113762150251
+      Admin_geo_ID: DNK.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -1941,9 +2043,9 @@ concepts:
       SMOD_ID: 23_28895
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_85
+      Admin_name: Randers
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B48627086580811
+      Admin_geo_ID: DNK.2.11_1
       Year:
       - '1975'
       - '1980'
@@ -1975,9 +2077,9 @@ concepts:
       SMOD_ID: 23_28896
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_7
+      Admin_name: Sønderborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B72299351601619
+      Admin_geo_ID: DNK.5.17_1
       Year:
       - '1975'
       - '1980'
@@ -2009,9 +2111,9 @@ concepts:
       SMOD_ID: 23_28897
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_79
+      Admin_name: Favrskov
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B27809903235433
+      Admin_geo_ID: DNK.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -2043,9 +2145,9 @@ concepts:
       SMOD_ID: 23_28898
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_76
+      Admin_name: Århus
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B54938770362357
+      Admin_geo_ID: DNK.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2077,9 +2179,9 @@ concepts:
       SMOD_ID: 23_28899
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_76
+      Admin_name: Århus
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B54938770362357
+      Admin_geo_ID: DNK.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2111,9 +2213,9 @@ concepts:
       SMOD_ID: 23_28900
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_96
+      Admin_name: Frederikshavn
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B75417410603706
+      Admin_geo_ID: DNK.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -2145,9 +2247,9 @@ concepts:
       SMOD_ID: 23_28901
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_6
+      Admin_name: Svendborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B34966856505407
+      Admin_geo_ID: DNK.5.18_1
       Year:
       - '1975'
       - '1980'
@@ -2179,9 +2281,9 @@ concepts:
       SMOD_ID: 23_28902
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_82
+      Admin_name: Norddjurs
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B68566026973001
+      Admin_geo_ID: DNK.2.9_1
       Year:
       - '1975'
       - '1980'
@@ -2213,9 +2315,9 @@ concepts:
       SMOD_ID: 23_28903
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_19
+      Admin_name: Nyborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B14316823735839
+      Admin_geo_ID: DNK.5.15_1
       Year:
       - '1975'
       - '1980'
@@ -2247,9 +2349,9 @@ concepts:
       SMOD_ID: 23_28904
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_48
+      Admin_name: Kalundborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B42683939496467
+      Admin_geo_ID: DNK.4.5_1
       Year:
       - '1975'
       - '1980'
@@ -2281,9 +2383,9 @@ concepts:
       SMOD_ID: 23_28905
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_10
+      Admin_name: Slagelse
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B32972196165212
+      Admin_geo_ID: DNK.4.13_1
       Year:
       - '1975'
       - '1980'
@@ -2315,9 +2417,9 @@ concepts:
       SMOD_ID: 23_28906
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_1
+      Admin_name: Lolland
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B63500106048247
+      Admin_geo_ID: DNK.4.8_1
       Year:
       - '1975'
       - '1980'
@@ -2349,9 +2451,9 @@ concepts:
       SMOD_ID: 23_28907
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_10
+      Admin_name: Slagelse
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B32972196165212
+      Admin_geo_ID: DNK.4.13_1
       Year:
       - '1975'
       - '1980'
@@ -2383,9 +2485,9 @@ concepts:
       SMOD_ID: 23_28908
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_53
+      Admin_name: Holbæk
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B65993177657172
+      Admin_geo_ID: DNK.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -2417,9 +2519,9 @@ concepts:
       SMOD_ID: 23_28909
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_68
+      Admin_name: Halsnæs
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B96997928459710
+      Admin_geo_ID: DNK.1.17_1
       Year:
       - '1975'
       - '1980'
@@ -2451,9 +2553,9 @@ concepts:
       SMOD_ID: 23_28910
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_12
+      Admin_name: Næstved
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B67811636615197
+      Admin_geo_ID: DNK.4.9_1
       Year:
       - '1975'
       - '1980'
@@ -2485,9 +2587,9 @@ concepts:
       SMOD_ID: 23_28911
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_24
+      Admin_name: Ringsted
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B98057254885273
+      Admin_geo_ID: DNK.4.11_1
       Year:
       - '1975'
       - '1980'
@@ -2519,9 +2621,9 @@ concepts:
       SMOD_ID: 23_28912
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_68
+      Admin_name: Halsnæs
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B96997928459710
+      Admin_geo_ID: DNK.1.17_1
       Year:
       - '1975'
       - '1980'
@@ -2553,9 +2655,9 @@ concepts:
       SMOD_ID: 23_28913
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_58
+      Admin_name: Frederikssund
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B23852349760420
+      Admin_geo_ID: DNK.1.11_1
       Year:
       - '1975'
       - '1980'
@@ -2587,9 +2689,9 @@ concepts:
       SMOD_ID: 23_28914
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_17
+      Admin_name: Faxe
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B45041800869669
+      Admin_geo_ID: DNK.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -2621,9 +2723,9 @@ concepts:
       SMOD_ID: 23_28915
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_2
+      Admin_name: Guldborgsund
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B32401712412850
+      Admin_geo_ID: DNK.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -2655,9 +2757,9 @@ concepts:
       SMOD_ID: 23_28916
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_51
+      Admin_name: Roskilde
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B8217347854635
+      Admin_geo_ID: DNK.4.12_1
       Year:
       - '1975'
       - '1980'
@@ -2689,9 +2791,9 @@ concepts:
       SMOD_ID: 23_28917
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_55
+      Admin_name: Egedal
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B46121035431506
+      Admin_geo_ID: DNK.1.8_1
       Year:
       - '1975'
       - '1980'
@@ -2723,9 +2825,9 @@ concepts:
       SMOD_ID: 23_28918
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_41
+      Admin_name: Høje Taastrup
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B42272868765696
+      Admin_geo_ID: DNK.1.21_1
       Year:
       - '1975'
       - '1980'
@@ -2757,9 +2859,9 @@ concepts:
       SMOD_ID: 23_28919
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_23
+      Admin_name: Køge
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B2511855224045
+      Admin_geo_ID: DNK.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -2791,9 +2893,9 @@ concepts:
       SMOD_ID: 23_28920
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_65
+      Admin_name: Hillerød
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B87133991415535
+      Admin_geo_ID: DNK.1.20_1
       Year:
       - '1975'
       - '1980'
@@ -2825,9 +2927,9 @@ concepts:
       SMOD_ID: 23_28921
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_25
+      Admin_name: Solrød
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B40153436417240
+      Admin_geo_ID: DNK.4.14_1
       Year:
       - '1975'
       - '1980'
@@ -2859,9 +2961,9 @@ concepts:
       SMOD_ID: 23_28922
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_98
+      Admin_name: Allerød
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B69351216790603
+      Admin_geo_ID: DNK.1.2_1
       Year:
       - '1975'
       - '1980'
@@ -2893,9 +2995,9 @@ concepts:
       SMOD_ID: 23_28923
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_47
+      Admin_name: Ballerup
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B39657663077774
+      Admin_geo_ID: DNK.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -2927,9 +3029,9 @@ concepts:
       SMOD_ID: 23_28924
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_56
+      Admin_name: Furesø
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B96319125747184
+      Admin_geo_ID: DNK.1.12_1
       Year:
       - '1975'
       - '1980'
@@ -2961,9 +3063,9 @@ concepts:
       SMOD_ID: 23_28925
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_56
+      Admin_name: Furesø
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B96319125747184
+      Admin_geo_ID: DNK.1.12_1
       Year:
       - '1975'
       - '1980'
@@ -2995,9 +3097,9 @@ concepts:
       SMOD_ID: 23_28926
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_59
+      Admin_name: Rudersdal
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B12088833667766
+      Admin_geo_ID: DNK.1.28_1
       Year:
       - '1975'
       - '1980'
@@ -3029,9 +3131,9 @@ concepts:
       SMOD_ID: 23_28927
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_69
+      Admin_name: Hørsholm
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B33394291945176
+      Admin_geo_ID: DNK.1.22_1
       Year:
       - '1975'
       - '1980'
@@ -3063,9 +3165,9 @@ concepts:
       SMOD_ID: 23_28928
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_70
+      Admin_name: Helsingør
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B97058706593659
+      Admin_geo_ID: DNK.1.18_1
       Year:
       - '1975'
       - '1980'
@@ -3097,9 +3199,9 @@ concepts:
       SMOD_ID: 23_28929
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_70
+      Admin_name: Helsingør
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B97058706593659
+      Admin_geo_ID: DNK.1.18_1
       Year:
       - '1975'
       - '1980'
@@ -3127,13 +3229,47 @@ concepts:
       - '32032'
       - '32391'
       Settlement_level: Dense Urban Clusters
+   Denmark_23_28930:
+      SMOD_ID: 23_28930
+      Country_name: Denmark
+      iso3c: DNK
+      Admin_name: Dragør
+      Admin_level: Adm2
+      Admin_geo_ID: DNK.1.7_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7597'
+      - '8089'
+      - '8328'
+      - '8633'
+      - '8933'
+      - '9319'
+      - '9543'
+      - '9723'
+      - '9948'
+      - '10248'
+      - '10678'
+      - '11045'
+      Settlement_level: Dense Urban Clusters
    Denmark_23_28931:
       SMOD_ID: 23_28931
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_14
+      Admin_name: Bornholm
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B33031054619724
+      Admin_geo_ID: DNK.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -3165,9 +3301,9 @@ concepts:
       SMOD_ID: 30_3537
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_91
+      Admin_name: Aalborg
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B34564018913551
+      Admin_geo_ID: DNK.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -3199,9 +3335,9 @@ concepts:
       SMOD_ID: 30_3538
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_76
+      Admin_name: Århus
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B54938770362357
+      Admin_geo_ID: DNK.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -3233,9 +3369,9 @@ concepts:
       SMOD_ID: 30_3539
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_21
+      Admin_name: Odense
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B91062148245888
+      Admin_geo_ID: DNK.5.16_1
       Year:
       - '1975'
       - '1980'
@@ -3267,9 +3403,9 @@ concepts:
       SMOD_ID: 30_3540
       Country_name: Denmark
       iso3c: DNK
-      Admin_id: Denmark_Adm2_40
+      Admin_name: København
       Admin_level: Adm2
-      geo_admin_shapeID: 71786716B81020738772022
+      Admin_geo_ID: DNK.1.25_1
       Year:
       - '1975'
       - '1980'

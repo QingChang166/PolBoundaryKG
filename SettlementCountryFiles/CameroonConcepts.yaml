@@ -1,45 +1,11 @@
 concepts:
-   Cameroon_22_1347:
-      SMOD_ID: 22_1347
-      Country_name: Cameroon
-      iso3c: CMR
-      Admin_id: Cameroon_Adm2_16
-      Admin_level: Adm2
-      geo_admin_shapeID: 32672807B40314964499081
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '0'
-      - '0'
-      - '0'
-      - '5'
-      - '4'
-      - '5'
-      - '6'
-      - '6'
-      - '6'
-      - '10'
-      - '8'
-      - '8'
-      Settlement_level: Semi-dense Urban Clusters
    Cameroon_22_5729:
       SMOD_ID: 22_5729
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_59
+      Admin_name: Meme
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48556267066765
+      Admin_geo_ID: CMR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -67,13 +33,47 @@ concepts:
       - '8742'
       - '9222'
       Settlement_level: Semi-dense Urban Clusters
+   Cameroon_22_5730:
+      SMOD_ID: 22_5730
+      Country_name: Cameroon
+      iso3c: CMR
+      Admin_name: Océan
+      Admin_level: Adm2
+      Admin_geo_ID: CMR.10.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '63'
+      - '112'
+      - '184'
+      - '257'
+      - '308'
+      - '361'
+      - '437'
+      - '513'
+      - '590'
+      - '705'
+      - '790'
+      - '892'
+      Settlement_level: Semi-dense Urban Clusters
    Cameroon_22_5731:
       SMOD_ID: 22_5731
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_40
+      Admin_name: Momo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23500574999001
+      Admin_geo_ID: CMR.6.6_1
       Year:
       - '1975'
       - '1980'
@@ -105,9 +105,9 @@ concepts:
       SMOD_ID: 22_5732
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_26
+      Admin_name: Moungo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B47378783864223
+      Admin_geo_ID: CMR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -139,9 +139,9 @@ concepts:
       SMOD_ID: 22_5733
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_46
+      Admin_name: Menoua
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B11213510980510
+      Admin_geo_ID: CMR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -173,9 +173,9 @@ concepts:
       SMOD_ID: 22_5734
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_38
+      Admin_name: Menchum
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B61384913593218
+      Admin_geo_ID: CMR.6.4_1
       Year:
       - '1975'
       - '1980'
@@ -207,9 +207,9 @@ concepts:
       SMOD_ID: 22_5735
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_39
+      Admin_name: Mezam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B13167032786609
+      Admin_geo_ID: CMR.6.5_1
       Year:
       - '1975'
       - '1980'
@@ -241,9 +241,9 @@ concepts:
       SMOD_ID: 22_5736
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_46
+      Admin_name: Menoua
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B11213510980510
+      Admin_geo_ID: CMR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -275,9 +275,9 @@ concepts:
       SMOD_ID: 22_5737
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_42
+      Admin_name: Bamboutos
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7261733805593
+      Admin_geo_ID: CMR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -309,9 +309,9 @@ concepts:
       SMOD_ID: 22_5738
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_42
+      Admin_name: Bamboutos
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7261733805593
+      Admin_geo_ID: CMR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -343,9 +343,9 @@ concepts:
       SMOD_ID: 22_5739
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_43
+      Admin_name: Haut Nkam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B36469761565883
+      Admin_geo_ID: CMR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -377,9 +377,9 @@ concepts:
       SMOD_ID: 22_5740
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_44
+      Admin_name: Hauts Plateaux
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B20400591725657
+      Admin_geo_ID: CMR.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -411,9 +411,9 @@ concepts:
       SMOD_ID: 22_5741
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_45
+      Admin_name: Koung Khi
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B81686658173178
+      Admin_geo_ID: CMR.8.4_1
       Year:
       - '1975'
       - '1980'
@@ -445,9 +445,9 @@ concepts:
       SMOD_ID: 22_5742
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_41
+      Admin_name: Ngo Ketunjia
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B14234433619225
+      Admin_geo_ID: CMR.6.7_1
       Year:
       - '1975'
       - '1980'
@@ -479,9 +479,9 @@ concepts:
       SMOD_ID: 22_5743
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_48
+      Admin_name: Ndé
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B46712188555835
+      Admin_geo_ID: CMR.8.7_1
       Year:
       - '1975'
       - '1980'
@@ -513,9 +513,9 @@ concepts:
       SMOD_ID: 22_5744
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_7
+      Admin_name: Lekié
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B3101876589222
+      Admin_geo_ID: CMR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -547,9 +547,9 @@ concepts:
       SMOD_ID: 22_5745
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_10
+      Admin_name: Mefou et Afamba
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B57773393916452
+      Admin_geo_ID: CMR.2.5_1
       Year:
       - '1975'
       - '1980'
@@ -581,9 +581,9 @@ concepts:
       SMOD_ID: 22_5746
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_6
+      Admin_name: Mefou et Afamba
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B25561230915667
+      Admin_geo_ID: CMR.2.5_1
       Year:
       - '1975'
       - '1980'
@@ -615,9 +615,9 @@ concepts:
       SMOD_ID: 22_5747
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_17
+      Admin_name: Haut Nyong
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B24706785822934
+      Admin_geo_ID: CMR.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -649,9 +649,9 @@ concepts:
       SMOD_ID: 22_5748
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_17
+      Admin_name: Haut Nyong
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B24706785822934
+      Admin_geo_ID: CMR.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -683,9 +683,9 @@ concepts:
       SMOD_ID: 22_5749
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_19
+      Admin_name: Lom et Djerem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B76674513300734
+      Admin_geo_ID: CMR.3.4_1
       Year:
       - '1975'
       - '1980'
@@ -717,9 +717,9 @@ concepts:
       SMOD_ID: 22_5750
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_16
+      Admin_name: Boumba et Ngoko
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B40314964499081
+      Admin_geo_ID: CMR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -747,13 +747,81 @@ concepts:
       - '7377'
       - '7778'
       Settlement_level: Semi-dense Urban Clusters
+   Cameroon_23_25381:
+      SMOD_ID: 23_25381
+      Country_name: Cameroon
+      iso3c: CMR
+      Admin_name: Ndian
+      Admin_level: Adm2
+      Admin_geo_ID: CMR.9.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      Settlement_level: Dense Urban Clusters
+   Cameroon_23_25382:
+      SMOD_ID: 23_25382
+      Country_name: Cameroon
+      iso3c: CMR
+      Admin_name: Ndian
+      Admin_level: Adm2
+      Admin_geo_ID: CMR.9.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7'
+      - '74'
+      - '150'
+      - '226'
+      - '580'
+      - '950'
+      - '1358'
+      - '1888'
+      - '2351'
+      - '2754'
+      - '3109'
+      - '3278'
+      Settlement_level: Dense Urban Clusters
    Cameroon_23_25383:
       SMOD_ID: 23_25383
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_59
+      Admin_name: Ndian
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48556267066765
+      Admin_geo_ID: CMR.9.6_1
       Year:
       - '1975'
       - '1980'
@@ -785,9 +853,9 @@ concepts:
       SMOD_ID: 23_25384
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_59
+      Admin_name: Ndian
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48556267066765
+      Admin_geo_ID: CMR.9.6_1
       Year:
       - '1975'
       - '1980'
@@ -819,9 +887,9 @@ concepts:
       SMOD_ID: 23_25385
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_59
+      Admin_name: Ndian
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48556267066765
+      Admin_geo_ID: CMR.9.6_1
       Year:
       - '1975'
       - '1980'
@@ -853,9 +921,9 @@ concepts:
       SMOD_ID: 23_25386
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -887,9 +955,9 @@ concepts:
       SMOD_ID: 23_25387
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -921,9 +989,9 @@ concepts:
       SMOD_ID: 23_25388
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_57
+      Admin_name: Manyu
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1261524164639
+      Admin_geo_ID: CMR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -955,9 +1023,9 @@ concepts:
       SMOD_ID: 23_25389
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -989,9 +1057,9 @@ concepts:
       SMOD_ID: 23_25390
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_59
+      Admin_name: Meme
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48556267066765
+      Admin_geo_ID: CMR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -1023,9 +1091,9 @@ concepts:
       SMOD_ID: 23_25391
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -1057,9 +1125,9 @@ concepts:
       SMOD_ID: 23_25392
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_57
+      Admin_name: Manyu
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1261524164639
+      Admin_geo_ID: CMR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -1091,9 +1159,9 @@ concepts:
       SMOD_ID: 23_25393
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -1125,9 +1193,9 @@ concepts:
       SMOD_ID: 23_25394
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -1159,9 +1227,9 @@ concepts:
       SMOD_ID: 23_25395
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_58
+      Admin_name: Meme
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B73139620026087
+      Admin_geo_ID: CMR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -1193,9 +1261,9 @@ concepts:
       SMOD_ID: 23_25396
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -1227,9 +1295,9 @@ concepts:
       SMOD_ID: 23_25397
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_57
+      Admin_name: Manyu
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1261524164639
+      Admin_geo_ID: CMR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -1261,9 +1329,9 @@ concepts:
       SMOD_ID: 23_25398
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_58
+      Admin_name: Meme
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B73139620026087
+      Admin_geo_ID: CMR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -1295,9 +1363,9 @@ concepts:
       SMOD_ID: 23_25399
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_58
+      Admin_name: Meme
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B73139620026087
+      Admin_geo_ID: CMR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -1329,9 +1397,9 @@ concepts:
       SMOD_ID: 23_25400
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -1363,9 +1431,9 @@ concepts:
       SMOD_ID: 23_25401
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_58
+      Admin_name: Meme
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B73139620026087
+      Admin_geo_ID: CMR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -1397,9 +1465,9 @@ concepts:
       SMOD_ID: 23_25402
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_58
+      Admin_name: Meme
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B73139620026087
+      Admin_geo_ID: CMR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -1431,9 +1499,9 @@ concepts:
       SMOD_ID: 23_25403
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_58
+      Admin_name: Meme
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B73139620026087
+      Admin_geo_ID: CMR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -1465,9 +1533,9 @@ concepts:
       SMOD_ID: 23_25404
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_58
+      Admin_name: Meme
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B73139620026087
+      Admin_geo_ID: CMR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -1499,9 +1567,9 @@ concepts:
       SMOD_ID: 23_25405
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_26
+      Admin_name: Moungo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B47378783864223
+      Admin_geo_ID: CMR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -1533,9 +1601,9 @@ concepts:
       SMOD_ID: 23_25406
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_55
+      Admin_name: Koupé Manengouba
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45405319599490
+      Admin_geo_ID: CMR.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -1567,9 +1635,9 @@ concepts:
       SMOD_ID: 23_25407
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_26
+      Admin_name: Moungo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B47378783864223
+      Admin_geo_ID: CMR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -1601,9 +1669,9 @@ concepts:
       SMOD_ID: 23_25408
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_55
+      Admin_name: Koupé Manengouba
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45405319599490
+      Admin_geo_ID: CMR.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -1635,9 +1703,9 @@ concepts:
       SMOD_ID: 23_25409
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_26
+      Admin_name: Moungo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B47378783864223
+      Admin_geo_ID: CMR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -1669,9 +1737,9 @@ concepts:
       SMOD_ID: 23_25410
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_29
+      Admin_name: Sanaga Maritime
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95558278906476
+      Admin_geo_ID: CMR.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -1703,9 +1771,9 @@ concepts:
       SMOD_ID: 23_25411
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_55
+      Admin_name: Koupé Manengouba
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45405319599490
+      Admin_geo_ID: CMR.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -1737,9 +1805,9 @@ concepts:
       SMOD_ID: 23_25412
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_26
+      Admin_name: Moungo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B47378783864223
+      Admin_geo_ID: CMR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -1771,9 +1839,9 @@ concepts:
       SMOD_ID: 23_25413
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_57
+      Admin_name: Manyu
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1261524164639
+      Admin_geo_ID: CMR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -1805,9 +1873,9 @@ concepts:
       SMOD_ID: 23_25414
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_26
+      Admin_name: Moungo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B47378783864223
+      Admin_geo_ID: CMR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -1839,9 +1907,9 @@ concepts:
       SMOD_ID: 23_25415
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_40
+      Admin_name: Momo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23500574999001
+      Admin_geo_ID: CMR.6.6_1
       Year:
       - '1975'
       - '1980'
@@ -1873,9 +1941,9 @@ concepts:
       SMOD_ID: 23_25416
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_55
+      Admin_name: Koupé Manengouba
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45405319599490
+      Admin_geo_ID: CMR.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -1907,9 +1975,9 @@ concepts:
       SMOD_ID: 23_25417
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_26
+      Admin_name: Moungo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B47378783864223
+      Admin_geo_ID: CMR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -1941,9 +2009,9 @@ concepts:
       SMOD_ID: 23_25418
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_56
+      Admin_name: Lebialem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23253489436904
+      Admin_geo_ID: CMR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -1975,9 +2043,9 @@ concepts:
       SMOD_ID: 23_25419
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_40
+      Admin_name: Momo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23500574999001
+      Admin_geo_ID: CMR.6.6_1
       Year:
       - '1975'
       - '1980'
@@ -2009,9 +2077,9 @@ concepts:
       SMOD_ID: 23_25420
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_56
+      Admin_name: Lebialem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23253489436904
+      Admin_geo_ID: CMR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -2043,9 +2111,9 @@ concepts:
       SMOD_ID: 23_25421
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_38
+      Admin_name: Menchum
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B61384913593218
+      Admin_geo_ID: CMR.6.4_1
       Year:
       - '1975'
       - '1980'
@@ -2077,9 +2145,9 @@ concepts:
       SMOD_ID: 23_25422
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_56
+      Admin_name: Lebialem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23253489436904
+      Admin_geo_ID: CMR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -2111,9 +2179,9 @@ concepts:
       SMOD_ID: 23_25423
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_56
+      Admin_name: Lebialem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23253489436904
+      Admin_geo_ID: CMR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -2145,9 +2213,9 @@ concepts:
       SMOD_ID: 23_25424
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_56
+      Admin_name: Lebialem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23253489436904
+      Admin_geo_ID: CMR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -2179,9 +2247,9 @@ concepts:
       SMOD_ID: 23_25425
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_26
+      Admin_name: Moungo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B47378783864223
+      Admin_geo_ID: CMR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -2213,9 +2281,9 @@ concepts:
       SMOD_ID: 23_25426
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_46
+      Admin_name: Menoua
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B11213510980510
+      Admin_geo_ID: CMR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -2247,9 +2315,9 @@ concepts:
       SMOD_ID: 23_25427
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_40
+      Admin_name: Momo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23500574999001
+      Admin_geo_ID: CMR.6.6_1
       Year:
       - '1975'
       - '1980'
@@ -2281,9 +2349,9 @@ concepts:
       SMOD_ID: 23_25428
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_52
+      Admin_name: Océan
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B78470526928215
+      Admin_geo_ID: CMR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -2315,9 +2383,9 @@ concepts:
       SMOD_ID: 23_25429
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_39
+      Admin_name: Momo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B13167032786609
+      Admin_geo_ID: CMR.6.6_1
       Year:
       - '1975'
       - '1980'
@@ -2349,9 +2417,9 @@ concepts:
       SMOD_ID: 23_25430
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_39
+      Admin_name: Mezam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B13167032786609
+      Admin_geo_ID: CMR.6.5_1
       Year:
       - '1975'
       - '1980'
@@ -2383,9 +2451,9 @@ concepts:
       SMOD_ID: 23_25431
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_56
+      Admin_name: Lebialem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23253489436904
+      Admin_geo_ID: CMR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -2417,9 +2485,9 @@ concepts:
       SMOD_ID: 23_25432
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_43
+      Admin_name: Haut Nkam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B36469761565883
+      Admin_geo_ID: CMR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -2451,9 +2519,9 @@ concepts:
       SMOD_ID: 23_25433
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_38
+      Admin_name: Menchum
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B61384913593218
+      Admin_geo_ID: CMR.6.4_1
       Year:
       - '1975'
       - '1980'
@@ -2485,9 +2553,9 @@ concepts:
       SMOD_ID: 23_25434
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_39
+      Admin_name: Mezam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B13167032786609
+      Admin_geo_ID: CMR.6.5_1
       Year:
       - '1975'
       - '1980'
@@ -2519,9 +2587,9 @@ concepts:
       SMOD_ID: 23_25435
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_39
+      Admin_name: Mezam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B13167032786609
+      Admin_geo_ID: CMR.6.5_1
       Year:
       - '1975'
       - '1980'
@@ -2553,9 +2621,9 @@ concepts:
       SMOD_ID: 23_25436
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_39
+      Admin_name: Mezam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B13167032786609
+      Admin_geo_ID: CMR.6.5_1
       Year:
       - '1975'
       - '1980'
@@ -2587,9 +2655,9 @@ concepts:
       SMOD_ID: 23_25437
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_39
+      Admin_name: Mezam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B13167032786609
+      Admin_geo_ID: CMR.6.5_1
       Year:
       - '1975'
       - '1980'
@@ -2621,9 +2689,9 @@ concepts:
       SMOD_ID: 23_25438
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_43
+      Admin_name: Haut Nkam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B36469761565883
+      Admin_geo_ID: CMR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -2655,9 +2723,9 @@ concepts:
       SMOD_ID: 23_25439
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_38
+      Admin_name: Menchum
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B61384913593218
+      Admin_geo_ID: CMR.6.4_1
       Year:
       - '1975'
       - '1980'
@@ -2689,9 +2757,9 @@ concepts:
       SMOD_ID: 23_25440
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_42
+      Admin_name: Bamboutos
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7261733805593
+      Admin_geo_ID: CMR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -2723,9 +2791,9 @@ concepts:
       SMOD_ID: 23_25441
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_43
+      Admin_name: Haut Nkam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B36469761565883
+      Admin_geo_ID: CMR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -2757,9 +2825,9 @@ concepts:
       SMOD_ID: 23_25442
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_46
+      Admin_name: Menoua
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B11213510980510
+      Admin_geo_ID: CMR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -2791,9 +2859,9 @@ concepts:
       SMOD_ID: 23_25443
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_39
+      Admin_name: Mezam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B13167032786609
+      Admin_geo_ID: CMR.6.5_1
       Year:
       - '1975'
       - '1980'
@@ -2825,9 +2893,9 @@ concepts:
       SMOD_ID: 23_25444
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_35
+      Admin_name: Boyo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B40523536040617
+      Admin_geo_ID: CMR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -2859,9 +2927,9 @@ concepts:
       SMOD_ID: 23_25445
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_35
+      Admin_name: Boyo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B40523536040617
+      Admin_geo_ID: CMR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -2893,9 +2961,9 @@ concepts:
       SMOD_ID: 23_25446
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_35
+      Admin_name: Boyo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B40523536040617
+      Admin_geo_ID: CMR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -2927,9 +2995,9 @@ concepts:
       SMOD_ID: 23_25447
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_42
+      Admin_name: Bamboutos
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7261733805593
+      Admin_geo_ID: CMR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -2961,9 +3029,9 @@ concepts:
       SMOD_ID: 23_25448
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_43
+      Admin_name: Hauts Plateaux
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B36469761565883
+      Admin_geo_ID: CMR.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -2995,9 +3063,9 @@ concepts:
       SMOD_ID: 23_25449
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_41
+      Admin_name: Ngo Ketunjia
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B14234433619225
+      Admin_geo_ID: CMR.6.7_1
       Year:
       - '1975'
       - '1980'
@@ -3029,9 +3097,9 @@ concepts:
       SMOD_ID: 23_25450
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_44
+      Admin_name: Hauts Plateaux
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B20400591725657
+      Admin_geo_ID: CMR.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -3063,9 +3131,9 @@ concepts:
       SMOD_ID: 23_25451
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_36
+      Admin_name: Bui
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1542757875740
+      Admin_geo_ID: CMR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -3097,9 +3165,9 @@ concepts:
       SMOD_ID: 23_25452
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_41
+      Admin_name: Ngo Ketunjia
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B14234433619225
+      Admin_geo_ID: CMR.6.7_1
       Year:
       - '1975'
       - '1980'
@@ -3131,9 +3199,9 @@ concepts:
       SMOD_ID: 23_25453
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_48
+      Admin_name: Ndé
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B46712188555835
+      Admin_geo_ID: CMR.8.7_1
       Year:
       - '1975'
       - '1980'
@@ -3165,9 +3233,9 @@ concepts:
       SMOD_ID: 23_25454
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_37
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B54432963078560
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -3199,9 +3267,9 @@ concepts:
       SMOD_ID: 23_25455
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_29
+      Admin_name: Sanaga Maritime
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95558278906476
+      Admin_geo_ID: CMR.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -3233,9 +3301,9 @@ concepts:
       SMOD_ID: 23_25456
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_41
+      Admin_name: Ngo Ketunjia
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B14234433619225
+      Admin_geo_ID: CMR.6.7_1
       Year:
       - '1975'
       - '1980'
@@ -3267,9 +3335,9 @@ concepts:
       SMOD_ID: 23_25457
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_36
+      Admin_name: Bui
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1542757875740
+      Admin_geo_ID: CMR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -3301,9 +3369,9 @@ concepts:
       SMOD_ID: 23_25458
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_36
+      Admin_name: Bui
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1542757875740
+      Admin_geo_ID: CMR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -3335,9 +3403,9 @@ concepts:
       SMOD_ID: 23_25459
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_49
+      Admin_name: Noun
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7266662414716
+      Admin_geo_ID: CMR.8.8_1
       Year:
       - '1975'
       - '1980'
@@ -3369,9 +3437,9 @@ concepts:
       SMOD_ID: 23_25460
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_41
+      Admin_name: Ngo Ketunjia
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B14234433619225
+      Admin_geo_ID: CMR.6.7_1
       Year:
       - '1975'
       - '1980'
@@ -3403,9 +3471,9 @@ concepts:
       SMOD_ID: 23_25461
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_36
+      Admin_name: Bui
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1542757875740
+      Admin_geo_ID: CMR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -3437,9 +3505,9 @@ concepts:
       SMOD_ID: 23_25462
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_49
+      Admin_name: Noun
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7266662414716
+      Admin_geo_ID: CMR.8.8_1
       Year:
       - '1975'
       - '1980'
@@ -3471,9 +3539,9 @@ concepts:
       SMOD_ID: 23_25463
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_49
+      Admin_name: Noun
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7266662414716
+      Admin_geo_ID: CMR.8.8_1
       Year:
       - '1975'
       - '1980'
@@ -3505,9 +3573,9 @@ concepts:
       SMOD_ID: 23_25464
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_37
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B54432963078560
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -3539,9 +3607,9 @@ concepts:
       SMOD_ID: 23_25465
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_48
+      Admin_name: Ndé
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B46712188555835
+      Admin_geo_ID: CMR.8.7_1
       Year:
       - '1975'
       - '1980'
@@ -3573,9 +3641,9 @@ concepts:
       SMOD_ID: 23_25466
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_37
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B54432963078560
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -3607,9 +3675,9 @@ concepts:
       SMOD_ID: 23_25467
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_37
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B54432963078560
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -3641,9 +3709,9 @@ concepts:
       SMOD_ID: 23_25468
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_37
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B54432963078560
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -3675,9 +3743,9 @@ concepts:
       SMOD_ID: 23_25469
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_49
+      Admin_name: Noun
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7266662414716
+      Admin_geo_ID: CMR.8.8_1
       Year:
       - '1975'
       - '1980'
@@ -3709,9 +3777,9 @@ concepts:
       SMOD_ID: 23_25470
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_52
+      Admin_name: Océan
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B78470526928215
+      Admin_geo_ID: CMR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -3743,9 +3811,9 @@ concepts:
       SMOD_ID: 23_25471
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_36
+      Admin_name: Bui
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1542757875740
+      Admin_geo_ID: CMR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -3777,9 +3845,9 @@ concepts:
       SMOD_ID: 23_25472
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_49
+      Admin_name: Noun
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7266662414716
+      Admin_geo_ID: CMR.8.8_1
       Year:
       - '1975'
       - '1980'
@@ -3811,9 +3879,9 @@ concepts:
       SMOD_ID: 23_25473
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_37
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B54432963078560
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -3845,9 +3913,9 @@ concepts:
       SMOD_ID: 23_25474
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_37
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B54432963078560
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -3879,9 +3947,9 @@ concepts:
       SMOD_ID: 23_25475
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_8
+      Admin_name: Mbam et Inoubou
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45233775776188
+      Admin_geo_ID: CMR.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -3913,9 +3981,9 @@ concepts:
       SMOD_ID: 23_25476
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_8
+      Admin_name: Mbam et Inoubou
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45233775776188
+      Admin_geo_ID: CMR.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -3947,9 +4015,9 @@ concepts:
       SMOD_ID: 23_25477
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_36
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1542757875740
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -3981,9 +4049,9 @@ concepts:
       SMOD_ID: 23_25478
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_36
+      Admin_name: Bui
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1542757875740
+      Admin_geo_ID: CMR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -4015,9 +4083,9 @@ concepts:
       SMOD_ID: 23_25479
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_13
+      Admin_name: Nyong et Kéllé
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B27096701160694
+      Admin_geo_ID: CMR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -4049,9 +4117,9 @@ concepts:
       SMOD_ID: 23_25480
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_37
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B54432963078560
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -4083,9 +4151,9 @@ concepts:
       SMOD_ID: 23_25481
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_13
+      Admin_name: Nyong et Kéllé
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B27096701160694
+      Admin_geo_ID: CMR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -4117,9 +4185,9 @@ concepts:
       SMOD_ID: 23_25482
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_49
+      Admin_name: Noun
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7266662414716
+      Admin_geo_ID: CMR.8.8_1
       Year:
       - '1975'
       - '1980'
@@ -4151,9 +4219,9 @@ concepts:
       SMOD_ID: 23_25483
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_53
+      Admin_name: Vallée du Ntem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B18543980764744
+      Admin_geo_ID: CMR.10.4_1
       Year:
       - '1975'
       - '1980'
@@ -4185,9 +4253,9 @@ concepts:
       SMOD_ID: 23_25484
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_53
+      Admin_name: Vallée du Ntem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B18543980764744
+      Admin_geo_ID: CMR.10.4_1
       Year:
       - '1975'
       - '1980'
@@ -4219,9 +4287,9 @@ concepts:
       SMOD_ID: 23_25485
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_37
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B54432963078560
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -4253,9 +4321,9 @@ concepts:
       SMOD_ID: 23_25486
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_49
+      Admin_name: Noun
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7266662414716
+      Admin_geo_ID: CMR.8.8_1
       Year:
       - '1975'
       - '1980'
@@ -4287,9 +4355,9 @@ concepts:
       SMOD_ID: 23_25487
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_8
+      Admin_name: Mbam et Inoubou
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45233775776188
+      Admin_geo_ID: CMR.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -4321,9 +4389,9 @@ concepts:
       SMOD_ID: 23_25488
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_3
+      Admin_name: Mayo Banyo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95498803014525
+      Admin_geo_ID: CMR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -4355,9 +4423,9 @@ concepts:
       SMOD_ID: 23_25489
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_11
+      Admin_name: Mefou et Akono
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B65731125326388
+      Admin_geo_ID: CMR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -4389,9 +4457,9 @@ concepts:
       SMOD_ID: 23_25490
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_53
+      Admin_name: Vallée du Ntem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B18543980764744
+      Admin_geo_ID: CMR.10.4_1
       Year:
       - '1975'
       - '1980'
@@ -4419,13 +4487,47 @@ concepts:
       - '19579'
       - '21220'
       Settlement_level: Dense Urban Clusters
+   Cameroon_23_25491:
+      SMOD_ID: 23_25491
+      Country_name: Cameroon
+      iso3c: CMR
+      Admin_name: Mayo Banyo
+      Admin_level: Adm2
+      Admin_geo_ID: CMR.1.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2'
+      - '2'
+      - '2'
+      - '2'
+      - '3'
+      - '3'
+      - '5'
+      - '5'
+      - '5'
+      - '6'
+      - '34'
+      - '56'
+      Settlement_level: Dense Urban Clusters
    Cameroon_23_25492:
       SMOD_ID: 23_25492
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_9
+      Admin_name: Mbam et Kim
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95944109326060
+      Admin_geo_ID: CMR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -4457,9 +4559,9 @@ concepts:
       SMOD_ID: 23_25493
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_11
+      Admin_name: Mefou et Akono
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B65731125326388
+      Admin_geo_ID: CMR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -4491,9 +4593,9 @@ concepts:
       SMOD_ID: 23_25494
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_11
+      Admin_name: Mefou et Akono
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B65731125326388
+      Admin_geo_ID: CMR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -4525,9 +4627,9 @@ concepts:
       SMOD_ID: 23_25495
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_3
+      Admin_name: Mayo Banyo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95498803014525
+      Admin_geo_ID: CMR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -4559,9 +4661,9 @@ concepts:
       SMOD_ID: 23_25496
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_9
+      Admin_name: Mbam et Kim
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95944109326060
+      Admin_geo_ID: CMR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -4589,13 +4691,47 @@ concepts:
       - '6306'
       - '6946'
       Settlement_level: Dense Urban Clusters
+   Cameroon_23_25497:
+      SMOD_ID: 23_25497
+      Country_name: Cameroon
+      iso3c: CMR
+      Admin_name: Mayo Banyo
+      Admin_level: Adm2
+      Admin_geo_ID: CMR.1.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '190'
+      - '253'
+      - '283'
+      - '327'
+      - '427'
+      - '546'
+      - '598'
+      - '674'
+      - '736'
+      - '773'
+      - '762'
+      - '773'
+      Settlement_level: Dense Urban Clusters
    Cameroon_23_25498:
       SMOD_ID: 23_25498
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_3
+      Admin_name: Mayo Banyo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95498803014525
+      Admin_geo_ID: CMR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -4627,9 +4763,9 @@ concepts:
       SMOD_ID: 23_25499
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_7
+      Admin_name: Lekié
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B3101876589222
+      Admin_geo_ID: CMR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -4661,9 +4797,9 @@ concepts:
       SMOD_ID: 23_25500
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_3
+      Admin_name: Mayo Banyo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95498803014525
+      Admin_geo_ID: CMR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -4695,9 +4831,9 @@ concepts:
       SMOD_ID: 23_25501
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_10
+      Admin_name: Mefou et Afamba
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B57773393916452
+      Admin_geo_ID: CMR.2.5_1
       Year:
       - '1975'
       - '1980'
@@ -4729,9 +4865,9 @@ concepts:
       SMOD_ID: 23_25502
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_9
+      Admin_name: Mbam et Kim
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95944109326060
+      Admin_geo_ID: CMR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -4763,9 +4899,9 @@ concepts:
       SMOD_ID: 23_25503
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_3
+      Admin_name: Mayo Banyo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95498803014525
+      Admin_geo_ID: CMR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -4797,9 +4933,9 @@ concepts:
       SMOD_ID: 23_25504
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_9
+      Admin_name: Mbam et Kim
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95944109326060
+      Admin_geo_ID: CMR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -4831,9 +4967,9 @@ concepts:
       SMOD_ID: 23_25505
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_51
+      Admin_name: Mvila
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B58704883317804
+      Admin_geo_ID: CMR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -4865,9 +5001,9 @@ concepts:
       SMOD_ID: 23_25506
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_50
+      Admin_name: Dja et Lobo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B39721432011370
+      Admin_geo_ID: CMR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -4899,9 +5035,9 @@ concepts:
       SMOD_ID: 23_25507
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_6
+      Admin_name: Haute Sanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B25561230915667
+      Admin_geo_ID: CMR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -4933,9 +5069,9 @@ concepts:
       SMOD_ID: 23_25508
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_3
+      Admin_name: Mayo Banyo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95498803014525
+      Admin_geo_ID: CMR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -4967,9 +5103,9 @@ concepts:
       SMOD_ID: 23_25509
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_50
+      Admin_name: Dja et Lobo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B39721432011370
+      Admin_geo_ID: CMR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -5001,9 +5137,9 @@ concepts:
       SMOD_ID: 23_25510
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_6
+      Admin_name: Haute Sanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B25561230915667
+      Admin_geo_ID: CMR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -5035,9 +5171,9 @@ concepts:
       SMOD_ID: 23_25511
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_14
+      Admin_name: Nyong et Mfoumou
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B17257894448554
+      Admin_geo_ID: CMR.2.9_1
       Year:
       - '1975'
       - '1980'
@@ -5069,9 +5205,9 @@ concepts:
       SMOD_ID: 23_25512
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_14
+      Admin_name: Nyong et Mfoumou
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B17257894448554
+      Admin_geo_ID: CMR.2.9_1
       Year:
       - '1975'
       - '1980'
@@ -5103,9 +5239,9 @@ concepts:
       SMOD_ID: 23_25513
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_6
+      Admin_name: Haute Sanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B25561230915667
+      Admin_geo_ID: CMR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -5137,9 +5273,9 @@ concepts:
       SMOD_ID: 23_25514
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_2
+      Admin_name: Faro et Déo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B79440248069412
+      Admin_geo_ID: CMR.1.2_1
       Year:
       - '1975'
       - '1980'
@@ -5171,9 +5307,9 @@ concepts:
       SMOD_ID: 23_25515
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_50
+      Admin_name: Dja et Lobo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B39721432011370
+      Admin_geo_ID: CMR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -5205,9 +5341,9 @@ concepts:
       SMOD_ID: 23_25516
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_14
+      Admin_name: Nyong et Mfoumou
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B17257894448554
+      Admin_geo_ID: CMR.2.9_1
       Year:
       - '1975'
       - '1980'
@@ -5239,9 +5375,9 @@ concepts:
       SMOD_ID: 23_25517
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_2
+      Admin_name: Faro et Déo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B79440248069412
+      Admin_geo_ID: CMR.1.2_1
       Year:
       - '1975'
       - '1980'
@@ -5273,9 +5409,9 @@ concepts:
       SMOD_ID: 23_25518
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_2
+      Admin_name: Djerem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B79440248069412
+      Admin_geo_ID: CMR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -5303,13 +5439,47 @@ concepts:
       - '8625'
       - '9411'
       Settlement_level: Dense Urban Clusters
+   Cameroon_23_25519:
+      SMOD_ID: 23_25519
+      Country_name: Cameroon
+      iso3c: CMR
+      Admin_name: Faro
+      Admin_level: Adm2
+      Admin_geo_ID: CMR.7.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '1'
+      - '3'
+      - '3'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '11'
+      - '17'
+      - '16'
+      - '16'
+      - '22'
+      Settlement_level: Dense Urban Clusters
    Cameroon_23_25520:
       SMOD_ID: 23_25520
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_17
+      Admin_name: Haut Nyong
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B24706785822934
+      Admin_geo_ID: CMR.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -5341,9 +5511,9 @@ concepts:
       SMOD_ID: 23_25521
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_32
+      Admin_name: Faro
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B99512491314233
+      Admin_geo_ID: CMR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -5375,9 +5545,9 @@ concepts:
       SMOD_ID: 23_25522
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_17
+      Admin_name: Haut Nyong
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B24706785822934
+      Admin_geo_ID: CMR.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -5409,9 +5579,9 @@ concepts:
       SMOD_ID: 23_25523
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_31
+      Admin_name: Bénoué
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B41938793250317
+      Admin_geo_ID: CMR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -5443,9 +5613,9 @@ concepts:
       SMOD_ID: 23_25524
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_31
+      Admin_name: Bénoué
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B41938793250317
+      Admin_geo_ID: CMR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -5477,9 +5647,9 @@ concepts:
       SMOD_ID: 23_25525
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_19
+      Admin_name: Lom et Djerem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B76674513300734
+      Admin_geo_ID: CMR.3.4_1
       Year:
       - '1975'
       - '1980'
@@ -5511,9 +5681,9 @@ concepts:
       SMOD_ID: 23_25526
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -5545,9 +5715,9 @@ concepts:
       SMOD_ID: 23_25527
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -5579,9 +5749,9 @@ concepts:
       SMOD_ID: 23_25528
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_17
+      Admin_name: Haut Nyong
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B24706785822934
+      Admin_geo_ID: CMR.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -5613,9 +5783,9 @@ concepts:
       SMOD_ID: 23_25529
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_31
+      Admin_name: Bénoué
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B41938793250317
+      Admin_geo_ID: CMR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -5647,9 +5817,9 @@ concepts:
       SMOD_ID: 23_25530
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -5681,9 +5851,9 @@ concepts:
       SMOD_ID: 23_25531
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -5715,9 +5885,9 @@ concepts:
       SMOD_ID: 23_25532
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_5
+      Admin_name: Vina
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B59264134581656
+      Admin_geo_ID: CMR.1.5_1
       Year:
       - '1975'
       - '1980'
@@ -5749,9 +5919,9 @@ concepts:
       SMOD_ID: 23_25533
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_33
+      Admin_name: Mayo Louti
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B2656917895115
+      Admin_geo_ID: CMR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -5783,9 +5953,9 @@ concepts:
       SMOD_ID: 23_25534
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_4
+      Admin_name: Mbéré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B16068661668461
+      Admin_geo_ID: CMR.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -5817,9 +5987,9 @@ concepts:
       SMOD_ID: 23_25535
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -5851,9 +6021,9 @@ concepts:
       SMOD_ID: 23_25536
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_5
+      Admin_name: Vina
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B59264134581656
+      Admin_geo_ID: CMR.1.5_1
       Year:
       - '1975'
       - '1980'
@@ -5885,9 +6055,9 @@ concepts:
       SMOD_ID: 23_25537
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_17
+      Admin_name: Haut Nyong
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B24706785822934
+      Admin_geo_ID: CMR.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -5919,9 +6089,9 @@ concepts:
       SMOD_ID: 23_25538
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_31
+      Admin_name: Bénoué
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B41938793250317
+      Admin_geo_ID: CMR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -5953,9 +6123,9 @@ concepts:
       SMOD_ID: 23_25539
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -5987,9 +6157,9 @@ concepts:
       SMOD_ID: 23_25540
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -6021,9 +6191,9 @@ concepts:
       SMOD_ID: 23_25541
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_17
+      Admin_name: Haut Nyong
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B24706785822934
+      Admin_geo_ID: CMR.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -6055,9 +6225,9 @@ concepts:
       SMOD_ID: 23_25542
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -6089,9 +6259,9 @@ concepts:
       SMOD_ID: 23_25543
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_31
+      Admin_name: Bénoué
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B41938793250317
+      Admin_geo_ID: CMR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -6123,9 +6293,9 @@ concepts:
       SMOD_ID: 23_25544
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_19
+      Admin_name: Lom et Djerem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B76674513300734
+      Admin_geo_ID: CMR.3.4_1
       Year:
       - '1975'
       - '1980'
@@ -6153,13 +6323,47 @@ concepts:
       - '16641'
       - '17682'
       Settlement_level: Dense Urban Clusters
+   Cameroon_23_25545:
+      SMOD_ID: 23_25545
+      Country_name: Cameroon
+      iso3c: CMR
+      Admin_name: Mayo Tsanaga
+      Admin_level: Adm2
+      Admin_geo_ID: CMR.4.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3892'
+      - '4142'
+      - '4200'
+      - '4244'
+      - '4331'
+      - '4496'
+      - '4990'
+      - '5420'
+      - '5894'
+      - '6243'
+      - '6774'
+      - '7538'
+      Settlement_level: Dense Urban Clusters
    Cameroon_23_25546:
       SMOD_ID: 23_25546
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_24
+      Admin_name: Mayo Sava
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B4790524999002
+      Admin_geo_ID: CMR.4.5_1
       Year:
       - '1975'
       - '1980'
@@ -6191,9 +6395,9 @@ concepts:
       SMOD_ID: 23_25547
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -6225,9 +6429,9 @@ concepts:
       SMOD_ID: 23_25548
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -6259,9 +6463,9 @@ concepts:
       SMOD_ID: 23_25549
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_31
+      Admin_name: Bénoué
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B41938793250317
+      Admin_geo_ID: CMR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -6293,9 +6497,9 @@ concepts:
       SMOD_ID: 23_25550
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Vina
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.1.5_1
       Year:
       - '1975'
       - '1980'
@@ -6327,9 +6531,9 @@ concepts:
       SMOD_ID: 23_25551
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_33
+      Admin_name: Mayo Louti
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B2656917895115
+      Admin_geo_ID: CMR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -6361,9 +6565,9 @@ concepts:
       SMOD_ID: 23_25552
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_33
+      Admin_name: Mayo Louti
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B2656917895115
+      Admin_geo_ID: CMR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -6395,9 +6599,9 @@ concepts:
       SMOD_ID: 23_25553
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_24
+      Admin_name: Mayo Sava
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B4790524999002
+      Admin_geo_ID: CMR.4.5_1
       Year:
       - '1975'
       - '1980'
@@ -6429,9 +6633,9 @@ concepts:
       SMOD_ID: 23_25554
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -6463,9 +6667,9 @@ concepts:
       SMOD_ID: 23_25555
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -6497,9 +6701,9 @@ concepts:
       SMOD_ID: 23_25556
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_33
+      Admin_name: Mayo Louti
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B2656917895115
+      Admin_geo_ID: CMR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -6531,9 +6735,9 @@ concepts:
       SMOD_ID: 23_25557
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_21
+      Admin_name: Logone et Chari
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B53801841297301
+      Admin_geo_ID: CMR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -6565,9 +6769,9 @@ concepts:
       SMOD_ID: 23_25558
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_24
+      Admin_name: Mayo Sava
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B4790524999002
+      Admin_geo_ID: CMR.4.5_1
       Year:
       - '1975'
       - '1980'
@@ -6599,9 +6803,9 @@ concepts:
       SMOD_ID: 23_25559
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_20
+      Admin_name: Diamaré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B30054475581978
+      Admin_geo_ID: CMR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -6633,9 +6837,9 @@ concepts:
       SMOD_ID: 23_25560
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_24
+      Admin_name: Mayo Sava
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B4790524999002
+      Admin_geo_ID: CMR.4.5_1
       Year:
       - '1975'
       - '1980'
@@ -6667,9 +6871,9 @@ concepts:
       SMOD_ID: 23_25561
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_23
+      Admin_name: Mayo Kani
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B89855431664933
+      Admin_geo_ID: CMR.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -6701,9 +6905,9 @@ concepts:
       SMOD_ID: 23_25562
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_19
+      Admin_name: Lom et Djerem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B76674513300734
+      Admin_geo_ID: CMR.3.4_1
       Year:
       - '1975'
       - '1980'
@@ -6735,9 +6939,9 @@ concepts:
       SMOD_ID: 23_25563
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_20
+      Admin_name: Diamaré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B30054475581978
+      Admin_geo_ID: CMR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -6769,9 +6973,9 @@ concepts:
       SMOD_ID: 23_25564
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_20
+      Admin_name: Diamaré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B30054475581978
+      Admin_geo_ID: CMR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -6803,9 +7007,9 @@ concepts:
       SMOD_ID: 23_25565
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -6837,9 +7041,9 @@ concepts:
       SMOD_ID: 23_25566
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_20
+      Admin_name: Diamaré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B30054475581978
+      Admin_geo_ID: CMR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -6871,9 +7075,9 @@ concepts:
       SMOD_ID: 23_25567
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -6905,9 +7109,9 @@ concepts:
       SMOD_ID: 23_25568
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_4
+      Admin_name: Mbéré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B16068661668461
+      Admin_geo_ID: CMR.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -6939,9 +7143,9 @@ concepts:
       SMOD_ID: 23_25569
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_23
+      Admin_name: Mayo Kani
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B89855431664933
+      Admin_geo_ID: CMR.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -6973,9 +7177,9 @@ concepts:
       SMOD_ID: 23_25570
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_21
+      Admin_name: Logone et Chari
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B53801841297301
+      Admin_geo_ID: CMR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -7007,9 +7211,9 @@ concepts:
       SMOD_ID: 23_25571
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_18
+      Admin_name: Kadey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B29047919086815
+      Admin_geo_ID: CMR.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -7041,9 +7245,9 @@ concepts:
       SMOD_ID: 23_25572
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_21
+      Admin_name: Logone et Chari
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B53801841297301
+      Admin_geo_ID: CMR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -7075,9 +7279,9 @@ concepts:
       SMOD_ID: 23_25573
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_23
+      Admin_name: Mayo Kani
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B89855431664933
+      Admin_geo_ID: CMR.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -7109,9 +7313,9 @@ concepts:
       SMOD_ID: 23_25574
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -7143,9 +7347,9 @@ concepts:
       SMOD_ID: 23_25575
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_21
+      Admin_name: Logone et Chari
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B53801841297301
+      Admin_geo_ID: CMR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -7177,9 +7381,9 @@ concepts:
       SMOD_ID: 23_25576
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_20
+      Admin_name: Diamaré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B30054475581978
+      Admin_geo_ID: CMR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -7211,9 +7415,9 @@ concepts:
       SMOD_ID: 23_25577
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_19
+      Admin_name: Lom et Djerem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B76674513300734
+      Admin_geo_ID: CMR.3.4_1
       Year:
       - '1975'
       - '1980'
@@ -7245,9 +7449,9 @@ concepts:
       SMOD_ID: 23_25578
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_23
+      Admin_name: Mayo Kani
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B89855431664933
+      Admin_geo_ID: CMR.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -7279,9 +7483,9 @@ concepts:
       SMOD_ID: 23_25579
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_23
+      Admin_name: Mayo Kani
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B89855431664933
+      Admin_geo_ID: CMR.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -7313,9 +7517,9 @@ concepts:
       SMOD_ID: 23_25580
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_5
+      Admin_name: Vina
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B59264134581656
+      Admin_geo_ID: CMR.1.5_1
       Year:
       - '1975'
       - '1980'
@@ -7347,9 +7551,9 @@ concepts:
       SMOD_ID: 23_25581
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_21
+      Admin_name: Logone et Chari
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B53801841297301
+      Admin_geo_ID: CMR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -7377,13 +7581,47 @@ concepts:
       - '14950'
       - '16249'
       Settlement_level: Dense Urban Clusters
+   Cameroon_23_25582:
+      SMOD_ID: 23_25582
+      Country_name: Cameroon
+      iso3c: CMR
+      Admin_name: Logone et Chari
+      Admin_level: Adm2
+      Admin_geo_ID: CMR.4.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '785'
+      - '931'
+      - '1062'
+      - '1173'
+      - '1337'
+      - '1529'
+      - '1732'
+      - '1867'
+      - '1989'
+      - '2006'
+      - '2085'
+      - '2226'
+      Settlement_level: Dense Urban Clusters
    Cameroon_23_25583:
       SMOD_ID: 23_25583
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -7415,9 +7653,9 @@ concepts:
       SMOD_ID: 23_25584
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_20
+      Admin_name: Diamaré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B30054475581978
+      Admin_geo_ID: CMR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -7449,9 +7687,9 @@ concepts:
       SMOD_ID: 23_25585
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_20
+      Admin_name: Diamaré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B30054475581978
+      Admin_geo_ID: CMR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -7483,9 +7721,9 @@ concepts:
       SMOD_ID: 23_25586
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_18
+      Admin_name: Kadey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B29047919086815
+      Admin_geo_ID: CMR.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -7517,9 +7755,9 @@ concepts:
       SMOD_ID: 23_25587
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -7551,9 +7789,9 @@ concepts:
       SMOD_ID: 23_25588
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -7585,9 +7823,9 @@ concepts:
       SMOD_ID: 23_25589
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_21
+      Admin_name: Logone et Chari
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B53801841297301
+      Admin_geo_ID: CMR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -7619,9 +7857,9 @@ concepts:
       SMOD_ID: 23_25590
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_23
+      Admin_name: Mayo Kani
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B89855431664933
+      Admin_geo_ID: CMR.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -7653,9 +7891,9 @@ concepts:
       SMOD_ID: 23_25591
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_4
+      Admin_name: Mbéré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B16068661668461
+      Admin_geo_ID: CMR.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -7687,9 +7925,9 @@ concepts:
       SMOD_ID: 23_25592
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_21
+      Admin_name: Logone et Chari
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B53801841297301
+      Admin_geo_ID: CMR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -7721,9 +7959,9 @@ concepts:
       SMOD_ID: 23_25593
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_22
+      Admin_name: Mayo Danay
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23743986432811
+      Admin_geo_ID: CMR.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -7755,9 +7993,9 @@ concepts:
       SMOD_ID: 23_25594
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_22
+      Admin_name: Mayo Danay
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23743986432811
+      Admin_geo_ID: CMR.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -7789,9 +8027,9 @@ concepts:
       SMOD_ID: 23_25595
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_22
+      Admin_name: Mayo Danay
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23743986432811
+      Admin_geo_ID: CMR.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -7823,9 +8061,9 @@ concepts:
       SMOD_ID: 23_25596
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_4
+      Admin_name: Mbéré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B16068661668461
+      Admin_geo_ID: CMR.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -7857,9 +8095,9 @@ concepts:
       SMOD_ID: 23_25597
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -7891,9 +8129,9 @@ concepts:
       SMOD_ID: 23_25598
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_21
+      Admin_name: Logone et Chari
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B53801841297301
+      Admin_geo_ID: CMR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -7925,9 +8163,9 @@ concepts:
       SMOD_ID: 23_25599
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -7959,9 +8197,9 @@ concepts:
       SMOD_ID: 23_25600
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_18
+      Admin_name: Kadey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B29047919086815
+      Admin_geo_ID: CMR.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -7993,9 +8231,9 @@ concepts:
       SMOD_ID: 23_25601
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_18
+      Admin_name: Kadey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B29047919086815
+      Admin_geo_ID: CMR.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -8023,13 +8261,47 @@ concepts:
       - '21111'
       - '22526'
       Settlement_level: Dense Urban Clusters
+   Cameroon_23_25602:
+      SMOD_ID: 23_25602
+      Country_name: Cameroon
+      iso3c: CMR
+      Admin_name: Kadey
+      Admin_level: Adm2
+      Admin_geo_ID: CMR.3.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      - '0'
+      Settlement_level: Dense Urban Clusters
    Cameroon_23_25603:
       SMOD_ID: 23_25603
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_16
+      Admin_name: Boumba et Ngoko
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B40314964499081
+      Admin_geo_ID: CMR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -8061,9 +8333,9 @@ concepts:
       SMOD_ID: 23_25604
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_22
+      Admin_name: Mayo Danay
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23743986432811
+      Admin_geo_ID: CMR.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -8095,9 +8367,9 @@ concepts:
       SMOD_ID: 23_25605
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_16
+      Admin_name: Boumba et Ngoko
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B40314964499081
+      Admin_geo_ID: CMR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -8125,149 +8397,13 @@ concepts:
       - '4305'
       - '4620'
       Settlement_level: Dense Urban Clusters
-   Cameroon_23_26868:
-      SMOD_ID: 23_26868
-      Country_name: Cameroon
-      iso3c: CMR
-      Admin_id: Cameroon_Adm2_16
-      Admin_level: Adm2
-      geo_admin_shapeID: 32672807B40314964499081
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      Settlement_level: Dense Urban Clusters
-   Cameroon_23_33613:
-      SMOD_ID: 23_33613
-      Country_name: Cameroon
-      iso3c: CMR
-      Admin_id: Cameroon_Adm2_53
-      Admin_level: Adm2
-      geo_admin_shapeID: 32672807B18543980764744
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '8295'
-      - '7988'
-      - '8393'
-      - '8671'
-      - '9949'
-      - '11502'
-      - '13381'
-      - '15855'
-      - '18670'
-      - '17754'
-      - '19534'
-      - '20639'
-      Settlement_level: Dense Urban Clusters
-   Cameroon_23_33614:
-      SMOD_ID: 23_33614
-      Country_name: Cameroon
-      iso3c: CMR
-      Admin_id: Cameroon_Adm2_53
-      Admin_level: Adm2
-      geo_admin_shapeID: 32672807B18543980764744
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '98'
-      - '106'
-      - '126'
-      - '149'
-      - '176'
-      - '204'
-      - '252'
-      - '302'
-      - '373'
-      - '365'
-      - '398'
-      - '430'
-      Settlement_level: Dense Urban Clusters
-   Cameroon_23_70803:
-      SMOD_ID: 23_70803
-      Country_name: Cameroon
-      iso3c: CMR
-      Admin_id: Cameroon_Adm2_31
-      Admin_level: Adm2
-      geo_admin_shapeID: 32672807B41938793250317
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      Settlement_level: Dense Urban Clusters
    Cameroon_30_3087:
       SMOD_ID: 30_3087
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -8299,9 +8435,9 @@ concepts:
       SMOD_ID: 30_3088
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_57
+      Admin_name: Manyu
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1261524164639
+      Admin_geo_ID: CMR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -8333,9 +8469,9 @@ concepts:
       SMOD_ID: 30_3089
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -8367,9 +8503,9 @@ concepts:
       SMOD_ID: 30_3090
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_54
+      Admin_name: Fako
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B90592144632468
+      Admin_geo_ID: CMR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -8401,9 +8537,9 @@ concepts:
       SMOD_ID: 30_3091
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_58
+      Admin_name: Meme
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B73139620026087
+      Admin_geo_ID: CMR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -8435,9 +8571,9 @@ concepts:
       SMOD_ID: 30_3092
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_30
+      Admin_name: Wouri
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B59545531100821
+      Admin_geo_ID: CMR.5.4_1
       Year:
       - '1975'
       - '1980'
@@ -8469,9 +8605,9 @@ concepts:
       SMOD_ID: 30_3093
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_52
+      Admin_name: Océan
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B78470526928215
+      Admin_geo_ID: CMR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -8503,9 +8639,9 @@ concepts:
       SMOD_ID: 30_3094
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_26
+      Admin_name: Moungo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B47378783864223
+      Admin_geo_ID: CMR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -8537,9 +8673,9 @@ concepts:
       SMOD_ID: 30_3095
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_46
+      Admin_name: Menoua
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B11213510980510
+      Admin_geo_ID: CMR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -8571,9 +8707,9 @@ concepts:
       SMOD_ID: 30_3096
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_38
+      Admin_name: Menchum
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B61384913593218
+      Admin_geo_ID: CMR.6.4_1
       Year:
       - '1975'
       - '1980'
@@ -8605,9 +8741,9 @@ concepts:
       SMOD_ID: 30_3097
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_39
+      Admin_name: Mezam
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B13167032786609
+      Admin_geo_ID: CMR.6.5_1
       Year:
       - '1975'
       - '1980'
@@ -8639,9 +8775,9 @@ concepts:
       SMOD_ID: 30_3098
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_29
+      Admin_name: Sanaga Maritime
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95558278906476
+      Admin_geo_ID: CMR.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -8673,9 +8809,9 @@ concepts:
       SMOD_ID: 30_3099
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_42
+      Admin_name: Bamboutos
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7261733805593
+      Admin_geo_ID: CMR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -8707,9 +8843,9 @@ concepts:
       SMOD_ID: 30_3100
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_47
+      Admin_name: Mifi
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B3469332008383
+      Admin_geo_ID: CMR.8.6_1
       Year:
       - '1975'
       - '1980'
@@ -8741,9 +8877,9 @@ concepts:
       SMOD_ID: 30_3101
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_41
+      Admin_name: Ngo Ketunjia
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B14234433619225
+      Admin_geo_ID: CMR.6.7_1
       Year:
       - '1975'
       - '1980'
@@ -8775,9 +8911,9 @@ concepts:
       SMOD_ID: 30_3102
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_49
+      Admin_name: Noun
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7266662414716
+      Admin_geo_ID: CMR.8.8_1
       Year:
       - '1975'
       - '1980'
@@ -8809,9 +8945,9 @@ concepts:
       SMOD_ID: 30_3103
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_36
+      Admin_name: Bui
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B1542757875740
+      Admin_geo_ID: CMR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -8843,9 +8979,9 @@ concepts:
       SMOD_ID: 30_3104
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_37
+      Admin_name: Donga Mantung
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B54432963078560
+      Admin_geo_ID: CMR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -8877,9 +9013,9 @@ concepts:
       SMOD_ID: 30_3105
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_49
+      Admin_name: Noun
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B7266662414716
+      Admin_geo_ID: CMR.8.8_1
       Year:
       - '1975'
       - '1980'
@@ -8911,9 +9047,9 @@ concepts:
       SMOD_ID: 30_3106
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_13
+      Admin_name: Nyong et Kéllé
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B27096701160694
+      Admin_geo_ID: CMR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -8945,9 +9081,9 @@ concepts:
       SMOD_ID: 30_3107
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_51
+      Admin_name: Mvila
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B58704883317804
+      Admin_geo_ID: CMR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -8979,9 +9115,9 @@ concepts:
       SMOD_ID: 30_3108
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_8
+      Admin_name: Mbam et Inoubou
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45233775776188
+      Admin_geo_ID: CMR.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -9013,9 +9149,9 @@ concepts:
       SMOD_ID: 30_3109
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_12
+      Admin_name: Mfoundi
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B36529963659187
+      Admin_geo_ID: CMR.2.7_1
       Year:
       - '1975'
       - '1980'
@@ -9047,9 +9183,9 @@ concepts:
       SMOD_ID: 30_3110
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_15
+      Admin_name: Nyong et So'o
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23369878558765
+      Admin_geo_ID: CMR.2.10_1
       Year:
       - '1975'
       - '1980'
@@ -9081,9 +9217,9 @@ concepts:
       SMOD_ID: 30_3111
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_3
+      Admin_name: Mayo Banyo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B95498803014525
+      Admin_geo_ID: CMR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -9115,9 +9251,9 @@ concepts:
       SMOD_ID: 30_3112
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_50
+      Admin_name: Dja et Lobo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B39721432011370
+      Admin_geo_ID: CMR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -9149,9 +9285,9 @@ concepts:
       SMOD_ID: 30_3113
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_1
+      Admin_name: Djerem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B72380332498823
+      Admin_geo_ID: CMR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -9183,9 +9319,9 @@ concepts:
       SMOD_ID: 30_3114
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_50
+      Admin_name: Dja et Lobo
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B39721432011370
+      Admin_geo_ID: CMR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -9217,9 +9353,9 @@ concepts:
       SMOD_ID: 30_3115
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_1
+      Admin_name: Djerem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B72380332498823
+      Admin_geo_ID: CMR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -9251,9 +9387,9 @@ concepts:
       SMOD_ID: 30_3116
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_31
+      Admin_name: Bénoué
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B41938793250317
+      Admin_geo_ID: CMR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -9285,9 +9421,9 @@ concepts:
       SMOD_ID: 30_3117
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_31
+      Admin_name: Bénoué
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B41938793250317
+      Admin_geo_ID: CMR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -9319,9 +9455,9 @@ concepts:
       SMOD_ID: 30_3118
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_5
+      Admin_name: Vina
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B59264134581656
+      Admin_geo_ID: CMR.1.5_1
       Year:
       - '1975'
       - '1980'
@@ -9353,9 +9489,9 @@ concepts:
       SMOD_ID: 30_3119
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_19
+      Admin_name: Lom et Djerem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B76674513300734
+      Admin_geo_ID: CMR.3.4_1
       Year:
       - '1975'
       - '1980'
@@ -9387,9 +9523,9 @@ concepts:
       SMOD_ID: 30_3120
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -9421,9 +9557,9 @@ concepts:
       SMOD_ID: 30_3121
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_25
+      Admin_name: Mayo Tsanaga
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B48868778994443
+      Admin_geo_ID: CMR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -9455,9 +9591,9 @@ concepts:
       SMOD_ID: 30_3122
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_33
+      Admin_name: Mayo Louti
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B2656917895115
+      Admin_geo_ID: CMR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -9489,9 +9625,9 @@ concepts:
       SMOD_ID: 30_3123
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_33
+      Admin_name: Mayo Louti
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B2656917895115
+      Admin_geo_ID: CMR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -9523,9 +9659,9 @@ concepts:
       SMOD_ID: 30_3124
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_24
+      Admin_name: Mayo Sava
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B4790524999002
+      Admin_geo_ID: CMR.4.5_1
       Year:
       - '1975'
       - '1980'
@@ -9553,13 +9689,47 @@ concepts:
       - '95375'
       - '101667'
       Settlement_level: Urban Centres
+   Cameroon_30_3125:
+      SMOD_ID: 30_3125
+      Country_name: Cameroon
+      iso3c: CMR
+      Admin_name: Mayo Sava
+      Admin_level: Adm2
+      Admin_geo_ID: CMR.4.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '40360'
+      - '46573'
+      - '52851'
+      - '59770'
+      - '73925'
+      - '87033'
+      - '94964'
+      - '101672'
+      - '106421'
+      - '104413'
+      - '107221'
+      - '113912'
+      Settlement_level: Urban Centres
    Cameroon_30_3127:
       SMOD_ID: 30_3127
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_24
+      Admin_name: Mayo Sava
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B4790524999002
+      Admin_geo_ID: CMR.4.5_1
       Year:
       - '1975'
       - '1980'
@@ -9591,9 +9761,9 @@ concepts:
       SMOD_ID: 30_3128
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -9625,9 +9795,9 @@ concepts:
       SMOD_ID: 30_3129
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'
@@ -9659,9 +9829,9 @@ concepts:
       SMOD_ID: 30_3130
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_20
+      Admin_name: Diamaré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B30054475581978
+      Admin_geo_ID: CMR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -9693,9 +9863,9 @@ concepts:
       SMOD_ID: 30_3131
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_4
+      Admin_name: Mbéré
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B16068661668461
+      Admin_geo_ID: CMR.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -9727,9 +9897,9 @@ concepts:
       SMOD_ID: 30_3132
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_23
+      Admin_name: Mayo Kani
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B89855431664933
+      Admin_geo_ID: CMR.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -9761,9 +9931,9 @@ concepts:
       SMOD_ID: 30_3133
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_18
+      Admin_name: Kadey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B29047919086815
+      Admin_geo_ID: CMR.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -9795,9 +9965,9 @@ concepts:
       SMOD_ID: 30_3134
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_19
+      Admin_name: Lom et Djerem
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B76674513300734
+      Admin_geo_ID: CMR.3.4_1
       Year:
       - '1975'
       - '1980'
@@ -9829,9 +9999,9 @@ concepts:
       SMOD_ID: 30_3135
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_23
+      Admin_name: Mayo Kani
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B89855431664933
+      Admin_geo_ID: CMR.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -9863,9 +10033,9 @@ concepts:
       SMOD_ID: 30_3136
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_22
+      Admin_name: Mayo Danay
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23743986432811
+      Admin_geo_ID: CMR.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -9897,9 +10067,9 @@ concepts:
       SMOD_ID: 30_3137
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_23
+      Admin_name: Mayo Kani
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B89855431664933
+      Admin_geo_ID: CMR.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -9931,9 +10101,9 @@ concepts:
       SMOD_ID: 30_3138
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_22
+      Admin_name: Mayo Danay
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23743986432811
+      Admin_geo_ID: CMR.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -9965,9 +10135,9 @@ concepts:
       SMOD_ID: 30_3139
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_16
+      Admin_name: Boumba et Ngoko
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B40314964499081
+      Admin_geo_ID: CMR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -9999,9 +10169,9 @@ concepts:
       SMOD_ID: 30_3140
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_22
+      Admin_name: Mayo Danay
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B23743986432811
+      Admin_geo_ID: CMR.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -10033,9 +10203,9 @@ concepts:
       SMOD_ID: 30_3141
       Country_name: Cameroon
       iso3c: CMR
-      Admin_id: Cameroon_Adm2_34
+      Admin_name: Mayo Rey
       Admin_level: Adm2
-      geo_admin_shapeID: 32672807B45774164265008
+      Admin_geo_ID: CMR.7.4_1
       Year:
       - '1975'
       - '1980'

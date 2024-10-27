@@ -3,9 +3,9 @@ concepts:
       SMOD_ID: 22_7923
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_4
+      Admin_name: Anna Regina
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B32807906119363
+      Admin_geo_ID: GUY.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -37,9 +37,9 @@ concepts:
       SMOD_ID: 22_7924
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_16
+      Admin_name: Naarstigheid / Union
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B73006016371738
+      Admin_geo_ID: GUY.6.6_1
       Year:
       - '1975'
       - '1980'
@@ -71,9 +71,9 @@ concepts:
       SMOD_ID: 22_7925
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_16
+      Admin_name: Woodley Park / Bath
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B73006016371738
+      Admin_geo_ID: GUY.6.12_1
       Year:
       - '1975'
       - '1980'
@@ -105,9 +105,9 @@ concepts:
       SMOD_ID: 23_35504
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_23
+      Admin_name: Ireng / Sawariwau (Including St.
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B14852666038275
+      Admin_geo_ID: GUY.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -139,9 +139,9 @@ concepts:
       SMOD_ID: 23_35505
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_27
+      Admin_name: Mabaruma / Kumaka / Hosororo
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B60550575754674
+      Admin_geo_ID: GUY.1.2_1
       Year:
       - '1975'
       - '1980'
@@ -173,9 +173,9 @@ concepts:
       SMOD_ID: 23_35506
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_5
+      Admin_name: Waini
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B25125705574502
+      Admin_geo_ID: GUY.1.5_1
       Year:
       - '1975'
       - '1980'
@@ -203,13 +203,47 @@ concepts:
       - '257'
       - '263'
       Settlement_level: Dense Urban Clusters
+   Guyana_23_35507:
+      SMOD_ID: 23_35507
+      Country_name: Guyana
+      iso3c: GUY
+      Admin_name: Bartica
+      Admin_level: Adm2
+      Admin_geo_ID: GUY.2.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4328'
+      - '4849'
+      - '5137'
+      - '5267'
+      - '6229'
+      - '7043'
+      - '7688'
+      - '8183'
+      - '9003'
+      - '10399'
+      - '11530'
+      - '12461'
+      Settlement_level: Dense Urban Clusters
    Guyana_23_35508:
       SMOD_ID: 23_35508
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_6
+      Admin_name: Charity / Urasara
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B89852633315
+      Admin_geo_ID: GUY.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -241,9 +275,9 @@ concepts:
       SMOD_ID: 23_35509
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_2
+      Admin_name: Linden
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B95579298937311
+      Admin_geo_ID: GUY.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -275,9 +309,9 @@ concepts:
       SMOD_ID: 23_35510
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_20
+      Admin_name: Uitvlugt / Tuschen
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B69188247216871
+      Admin_geo_ID: GUY.5.17_1
       Year:
       - '1975'
       - '1980'
@@ -309,9 +343,9 @@ concepts:
       SMOD_ID: 23_35511
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_7
+      Admin_name: Patentia / Toevlugt
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B37275521975426
+      Admin_geo_ID: GUY.5.15_1
       Year:
       - '1975'
       - '1980'
@@ -343,9 +377,9 @@ concepts:
       SMOD_ID: 23_35512
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_7
+      Admin_name: Klein Pouderoyen / Best
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B37275521975426
+      Admin_geo_ID: GUY.5.8_1
       Year:
       - '1975'
       - '1980'
@@ -377,9 +411,9 @@ concepts:
       SMOD_ID: 23_35513
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_15
+      Admin_name: New Amsterdam
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B47242148474539
+      Admin_geo_ID: GUY.4.15_1
       Year:
       - '1975'
       - '1980'
@@ -411,9 +445,9 @@ concepts:
       SMOD_ID: 23_35514
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_15
+      Admin_name: Cane Field / Enterprise
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B47242148474539
+      Admin_geo_ID: GUY.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -445,9 +479,9 @@ concepts:
       SMOD_ID: 23_35515
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_18
+      Admin_name: Hampshire / Kilcoy
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B18433747523923
+      Admin_geo_ID: GUY.4.10_1
       Year:
       - '1975'
       - '1980'
@@ -479,9 +513,9 @@ concepts:
       SMOD_ID: 30_4899
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_10
+      Admin_name: City of Georgetown
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B62691017600789
+      Admin_geo_ID: GUY.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -513,9 +547,9 @@ concepts:
       SMOD_ID: 30_4900
       Country_name: Guyana
       iso3c: GUY
-      Admin_id: Guyana_Adm2_10
+      Admin_name: Foulis / Buxton
       Admin_level: Adm2
-      geo_admin_shapeID: 73187651B62691017600789
+      Admin_geo_ID: GUY.3.7_1
       Year:
       - '1975'
       - '1980'

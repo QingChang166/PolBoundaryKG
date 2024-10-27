@@ -3,9 +3,9 @@ concepts:
       SMOD_ID: 22_9654
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_3
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B11408100439208
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -37,9 +37,9 @@ concepts:
       SMOD_ID: 22_9655
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_11
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B72217003232480
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -71,9 +71,9 @@ concepts:
       SMOD_ID: 22_9656
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -105,9 +105,9 @@ concepts:
       SMOD_ID: 22_9657
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_2
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B86518607604876
+      Admin_name: Jerusalem
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.6_1
       Year:
       - '1975'
       - '1980'
@@ -139,9 +139,9 @@ concepts:
       SMOD_ID: 22_9658
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -169,13 +169,47 @@ concepts:
       - '17522'
       - '18440'
       Settlement_level: Semi-dense Urban Clusters
+   Israel_22_9659:
+      SMOD_ID: 22_9659
+      Country_name: Israel
+      iso3c: ISR
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '58'
+      - '69'
+      - '85'
+      - '92'
+      - '66'
+      - '52'
+      - '53'
+      - '58'
+      - '63'
+      - '72'
+      - '75'
+      - '85'
+      Settlement_level: Semi-dense Urban Clusters
    Israel_22_9660:
       SMOD_ID: 22_9660
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -207,9 +241,9 @@ concepts:
       SMOD_ID: 22_9661
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_15
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B15624900320210
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -241,9 +275,9 @@ concepts:
       SMOD_ID: 22_9662
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_5
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B13386645158990
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -271,81 +305,13 @@ concepts:
       - '6436'
       - '6775'
       Settlement_level: Semi-dense Urban Clusters
-   Israel_22_9663:
-      SMOD_ID: 22_9663
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_5
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B13386645158990
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '103'
-      - '164'
-      - '304'
-      - '624'
-      - '878'
-      - '1090'
-      - '1240'
-      - '1443'
-      - '2218'
-      - '1926'
-      - '1835'
-      - '1848'
-      Settlement_level: Semi-dense Urban Clusters
-   Israel_22_9664:
-      SMOD_ID: 22_9664
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '11'
-      - '11'
-      - '13'
-      - '16'
-      - '23'
-      - '29'
-      - '38'
-      - '46'
-      - '53'
-      - '60'
-      - '80'
-      - '107'
-      Settlement_level: Semi-dense Urban Clusters
    Israel_22_9665:
       SMOD_ID: 22_9665
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_5
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B13386645158990
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -377,9 +343,9 @@ concepts:
       SMOD_ID: 22_9666
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_5
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B13386645158990
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -411,9 +377,9 @@ concepts:
       SMOD_ID: 22_9667
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -445,9 +411,9 @@ concepts:
       SMOD_ID: 22_9668
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_15
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B15624900320210
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -479,9 +445,9 @@ concepts:
       SMOD_ID: 22_9669
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -513,9 +479,9 @@ concepts:
       SMOD_ID: 23_58657
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_3
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B11408100439208
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -547,9 +513,9 @@ concepts:
       SMOD_ID: 23_58658
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_3
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B11408100439208
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -581,9 +547,9 @@ concepts:
       SMOD_ID: 23_58659
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_6
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B25822139954764
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -615,9 +581,9 @@ concepts:
       SMOD_ID: 23_58660
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -649,9 +615,9 @@ concepts:
       SMOD_ID: 23_58661
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_6
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B25822139954764
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -683,9 +649,9 @@ concepts:
       SMOD_ID: 23_58662
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_6
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B25822139954764
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -717,9 +683,9 @@ concepts:
       SMOD_ID: 23_58663
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_11
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B72217003232480
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -751,9 +717,9 @@ concepts:
       SMOD_ID: 23_58664
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_11
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B72217003232480
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -785,9 +751,9 @@ concepts:
       SMOD_ID: 23_58665
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_11
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B72217003232480
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -819,9 +785,9 @@ concepts:
       SMOD_ID: 23_58666
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_3
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B11408100439208
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -853,9 +819,9 @@ concepts:
       SMOD_ID: 23_58667
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_11
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B72217003232480
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -887,9 +853,9 @@ concepts:
       SMOD_ID: 23_58668
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_9
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B61571705909900
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -921,9 +887,9 @@ concepts:
       SMOD_ID: 23_58669
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_6
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B25822139954764
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -955,9 +921,9 @@ concepts:
       SMOD_ID: 23_58670
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_11
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B72217003232480
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -989,9 +955,9 @@ concepts:
       SMOD_ID: 23_58671
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -1023,9 +989,9 @@ concepts:
       SMOD_ID: 23_58672
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -1057,9 +1023,9 @@ concepts:
       SMOD_ID: 23_58673
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_9
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B61571705909900
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -1091,9 +1057,9 @@ concepts:
       SMOD_ID: 23_58674
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_9
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B61571705909900
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -1125,9 +1091,9 @@ concepts:
       SMOD_ID: 23_58675
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_6
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B25822139954764
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -1159,9 +1125,9 @@ concepts:
       SMOD_ID: 23_58676
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_3
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B11408100439208
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -1193,9 +1159,9 @@ concepts:
       SMOD_ID: 23_58677
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_10
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B37321511847561
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -1227,9 +1193,9 @@ concepts:
       SMOD_ID: 23_58678
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_7
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B58948260517771
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -1257,47 +1223,13 @@ concepts:
       - '48281'
       - '52693'
       Settlement_level: Dense Urban Clusters
-   Israel_23_58679:
-      SMOD_ID: 23_58679
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_9
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B61571705909900
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '10326'
-      - '12085'
-      - '14168'
-      - '16620'
-      - '22590'
-      - '26146'
-      - '31550'
-      - '37169'
-      - '44250'
-      - '52519'
-      - '58329'
-      - '63907'
-      Settlement_level: Dense Urban Clusters
    Israel_23_58680:
       SMOD_ID: 23_58680
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -1329,9 +1261,9 @@ concepts:
       SMOD_ID: 23_58681
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_9
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B61571705909900
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -1363,9 +1295,9 @@ concepts:
       SMOD_ID: 23_58682
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_9
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B61571705909900
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -1397,9 +1329,9 @@ concepts:
       SMOD_ID: 23_58683
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -1431,9 +1363,9 @@ concepts:
       SMOD_ID: 23_58684
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_10
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B37321511847561
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -1465,9 +1397,9 @@ concepts:
       SMOD_ID: 23_58685
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_11
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B72217003232480
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -1499,9 +1431,9 @@ concepts:
       SMOD_ID: 23_58686
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -1533,9 +1465,9 @@ concepts:
       SMOD_ID: 23_58687
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_8
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B54386898087809
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -1563,47 +1495,13 @@ concepts:
       - '12842'
       - '14285'
       Settlement_level: Dense Urban Clusters
-   Israel_23_58688:
-      SMOD_ID: 23_58688
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_9
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B61571705909900
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '2832'
-      - '3315'
-      - '3858'
-      - '4525'
-      - '5980'
-      - '6785'
-      - '7702'
-      - '8662'
-      - '9831'
-      - '11017'
-      - '12420'
-      - '13625'
-      Settlement_level: Dense Urban Clusters
    Israel_23_58689:
       SMOD_ID: 23_58689
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_8
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B54386898087809
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -1635,9 +1533,9 @@ concepts:
       SMOD_ID: 23_58690
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -1669,9 +1567,9 @@ concepts:
       SMOD_ID: 23_58691
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -1703,9 +1601,9 @@ concepts:
       SMOD_ID: 23_58692
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_7
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B58948260517771
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -1737,9 +1635,9 @@ concepts:
       SMOD_ID: 23_58693
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -1771,9 +1669,9 @@ concepts:
       SMOD_ID: 23_58694
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -1805,9 +1703,9 @@ concepts:
       SMOD_ID: 23_58695
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -1835,13 +1733,13 @@ concepts:
       - '5822'
       - '6142'
       Settlement_level: Dense Urban Clusters
-   Israel_23_58696:
-      SMOD_ID: 23_58696
+   Israel_23_58697:
+      SMOD_ID: 23_58697
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_11
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B72217003232480
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -1856,26 +1754,26 @@ concepts:
       - '2025'
       - '2030'
       Population:
-      - '589'
-      - '699'
-      - '835'
-      - '994'
-      - '1392'
-      - '1803'
-      - '2208'
-      - '2538'
-      - '2830'
-      - '2907'
-      - '3153'
-      - '3421'
+      - '18'
+      - '23'
+      - '26'
+      - '32'
+      - '38'
+      - '43'
+      - '61'
+      - '74'
+      - '84'
+      - '97'
+      - '105'
+      - '114'
       Settlement_level: Dense Urban Clusters
    Israel_23_58698:
       SMOD_ID: 23_58698
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_7
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B58948260517771
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -1907,9 +1805,9 @@ concepts:
       SMOD_ID: 23_58699
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -1941,9 +1839,9 @@ concepts:
       SMOD_ID: 23_58700
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -1975,9 +1873,9 @@ concepts:
       SMOD_ID: 23_58701
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_11
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B72217003232480
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -2005,47 +1903,13 @@ concepts:
       - '62441'
       - '65555'
       Settlement_level: Dense Urban Clusters
-   Israel_23_58702:
-      SMOD_ID: 23_58702
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_7
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B58948260517771
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '2538'
-      - '3137'
-      - '3837'
-      - '4720'
-      - '3862'
-      - '3586'
-      - '3771'
-      - '4037'
-      - '4413'
-      - '5036'
-      - '5985'
-      - '6958'
-      Settlement_level: Dense Urban Clusters
    Israel_23_58703:
       SMOD_ID: 23_58703
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -2077,9 +1941,9 @@ concepts:
       SMOD_ID: 23_58704
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -2111,9 +1975,9 @@ concepts:
       SMOD_ID: 23_58705
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2145,9 +2009,9 @@ concepts:
       SMOD_ID: 23_58706
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -2179,9 +2043,9 @@ concepts:
       SMOD_ID: 23_58707
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2213,9 +2077,9 @@ concepts:
       SMOD_ID: 23_58708
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_2
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B86518607604876
+      Admin_name: Jerusalem
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.6_1
       Year:
       - '1975'
       - '1980'
@@ -2247,9 +2111,9 @@ concepts:
       SMOD_ID: 23_58709
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2281,9 +2145,9 @@ concepts:
       SMOD_ID: 23_58710
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2315,9 +2179,9 @@ concepts:
       SMOD_ID: 23_58711
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2349,9 +2213,9 @@ concepts:
       SMOD_ID: 23_58712
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2383,9 +2247,9 @@ concepts:
       SMOD_ID: 23_58714
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -2417,9 +2281,9 @@ concepts:
       SMOD_ID: 23_58715
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -2451,9 +2315,9 @@ concepts:
       SMOD_ID: 23_58716
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2485,9 +2349,9 @@ concepts:
       SMOD_ID: 23_58717
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2519,9 +2383,9 @@ concepts:
       SMOD_ID: 23_58718
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83749751332199
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2553,9 +2417,9 @@ concepts:
       SMOD_ID: 23_58719
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2587,9 +2451,9 @@ concepts:
       SMOD_ID: 23_58720
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2617,47 +2481,13 @@ concepts:
       - '10545'
       - '11108'
       Settlement_level: Dense Urban Clusters
-   Israel_23_58721:
-      SMOD_ID: 23_58721
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_2
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B86518607604876
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '2630'
-      - '2981'
-      - '3389'
-      - '3867'
-      - '5714'
-      - '7499'
-      - '9514'
-      - '11931'
-      - '14675'
-      - '17545'
-      - '19647'
-      - '21191'
-      Settlement_level: Dense Urban Clusters
    Israel_23_58722:
       SMOD_ID: 23_58722
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2689,9 +2519,9 @@ concepts:
       SMOD_ID: 23_58723
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2723,9 +2553,9 @@ concepts:
       SMOD_ID: 23_58724
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2753,47 +2583,13 @@ concepts:
       - '11712'
       - '12361'
       Settlement_level: Dense Urban Clusters
-   Israel_23_58725:
-      SMOD_ID: 23_58725
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '131'
-      - '138'
-      - '144'
-      - '170'
-      - '211'
-      - '276'
-      - '410'
-      - '545'
-      - '695'
-      - '731'
-      - '778'
-      - '813'
-      Settlement_level: Dense Urban Clusters
    Israel_23_58726:
       SMOD_ID: 23_58726
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2825,9 +2621,9 @@ concepts:
       SMOD_ID: 23_58728
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -2859,9 +2655,9 @@ concepts:
       SMOD_ID: 23_58729
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -2893,9 +2689,9 @@ concepts:
       SMOD_ID: 23_58730
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_5
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B13386645158990
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2927,9 +2723,9 @@ concepts:
       SMOD_ID: 23_58731
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_5
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B13386645158990
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2961,9 +2757,9 @@ concepts:
       SMOD_ID: 23_58732
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_15
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B15624900320210
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'
@@ -2995,9 +2791,9 @@ concepts:
       SMOD_ID: 23_58733
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -3025,149 +2821,13 @@ concepts:
       - '17293'
       - '18548'
       Settlement_level: Dense Urban Clusters
-   Israel_23_58734:
-      SMOD_ID: 23_58734
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '13384'
-      - '14661'
-      - '16186'
-      - '18104'
-      - '23028'
-      - '28383'
-      - '31323'
-      - '34017'
-      - '36706'
-      - '38591'
-      - '40864'
-      - '43765'
-      Settlement_level: Dense Urban Clusters
-   Israel_23_59751:
-      SMOD_ID: 23_59751
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '45'
-      - '48'
-      - '57'
-      - '70'
-      - '133'
-      - '180'
-      - '180'
-      - '193'
-      - '244'
-      - '219'
-      - '241'
-      - '262'
-      Settlement_level: Dense Urban Clusters
-   Israel_23_77311:
-      SMOD_ID: 23_77311
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_8
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B54386898087809
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '34'
-      - '40'
-      - '48'
-      - '60'
-      - '82'
-      - '103'
-      - '197'
-      - '298'
-      - '421'
-      - '566'
-      - '787'
-      - '856'
-      Settlement_level: Dense Urban Clusters
-   Israel_30_11128:
-      SMOD_ID: 30_11128
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_2
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B86518607604876
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '576357'
-      - '663391'
-      - '777851'
-      - '927709'
-      - '1117685'
-      - '1278526'
-      - '1413582'
-      - '1563963'
-      - '1722173'
-      - '1900799'
-      - '2077027'
-      - '2264772'
-      Settlement_level: Urban Centres
    Israel_30_8863:
       SMOD_ID: 30_8863
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_3
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B11408100439208
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -3199,9 +2859,9 @@ concepts:
       SMOD_ID: 30_8864
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_3
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B11408100439208
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -3229,47 +2889,13 @@ concepts:
       - '282323'
       - '300472'
       Settlement_level: Urban Centres
-   Israel_30_8865:
-      SMOD_ID: 30_8865
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_8
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B54386898087809
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '875239'
-      - '993275'
-      - '1126600'
-      - '1277090'
-      - '1705868'
-      - '1923940'
-      - '2094508'
-      - '2260439'
-      - '2493801'
-      - '2799856'
-      - '3044440'
-      - '3261245'
-      Settlement_level: Urban Centres
    Israel_30_8866:
       SMOD_ID: 30_8866
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_10
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B37321511847561
+      Admin_name: Haifa
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.3_1
       Year:
       - '1975'
       - '1980'
@@ -3301,9 +2927,9 @@ concepts:
       SMOD_ID: 30_8867
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_9
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B61571705909900
+      Admin_name: HaMerkaz
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.4_1
       Year:
       - '1975'
       - '1980'
@@ -3331,47 +2957,13 @@ concepts:
       - '284456'
       - '311322'
       Settlement_level: Urban Centres
-   Israel_30_8868:
-      SMOD_ID: 30_8868
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_11
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B72217003232480
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '14567'
-      - '17713'
-      - '21480'
-      - '25830'
-      - '30777'
-      - '36216'
-      - '43076'
-      - '48595'
-      - '52132'
-      - '53670'
-      - '55223'
-      - '57875'
-      Settlement_level: Urban Centres
    Israel_30_8869:
       SMOD_ID: 30_8869
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B9730835639199
+      Admin_name: HaDarom
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.2_1
       Year:
       - '1975'
       - '1980'
@@ -3399,47 +2991,13 @@ concepts:
       - '216813'
       - '231613'
       Settlement_level: Urban Centres
-   Israel_30_8870:
-      SMOD_ID: 30_8870
-      Country_name: Israel
-      iso3c: ISR
-      Admin_id: Israel_Adm2_7
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B58948260517771
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '49999'
-      - '58161'
-      - '67878'
-      - '79426'
-      - '124082'
-      - '152569'
-      - '177063'
-      - '203380'
-      - '234667'
-      - '272507'
-      - '304334'
-      - '334248'
-      Settlement_level: Urban Centres
    Israel_30_8871:
       SMOD_ID: 30_8871
       Country_name: Israel
       iso3c: ISR
-      Admin_id: Israel_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 584046B83064859640631
+      Admin_name: HaZafon
+      Admin_level: Adm1
+      Admin_geo_ID: ISR.5_1
       Year:
       - '1975'
       - '1980'

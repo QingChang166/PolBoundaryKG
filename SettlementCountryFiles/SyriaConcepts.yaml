@@ -1,45 +1,11 @@
 concepts:
-   Syria_22_10018:
-      SMOD_ID: 22_10018
-      Country_name: Syria
-      iso3c: SYR
-      Admin_id: Syria_Adm2_54
-      Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      - '0'
-      Settlement_level: Semi-dense Urban Clusters
    Syria_22_14373:
       SMOD_ID: 22_14373
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_30
+      Admin_name: Latakia
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B94813764709421
+      Admin_geo_ID: SYR.11.3_1
       Year:
       - '1975'
       - '1980'
@@ -71,9 +37,9 @@ concepts:
       SMOD_ID: 22_14374
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_30
+      Admin_name: Latakia
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B94813764709421
+      Admin_geo_ID: SYR.11.3_1
       Year:
       - '1975'
       - '1980'
@@ -105,9 +71,9 @@ concepts:
       SMOD_ID: 22_14375
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_33
+      Admin_name: Qardaha
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B45607569668873
+      Admin_geo_ID: SYR.11.4_1
       Year:
       - '1975'
       - '1980'
@@ -139,9 +105,9 @@ concepts:
       SMOD_ID: 22_14376
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_32
+      Admin_name: Al-Haffah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B95231031847739
+      Admin_geo_ID: SYR.11.1_1
       Year:
       - '1975'
       - '1980'
@@ -169,13 +135,47 @@ concepts:
       - '6376'
       - '6827'
       Settlement_level: Semi-dense Urban Clusters
+   Syria_22_14377:
+      SMOD_ID: 22_14377
+      Country_name: Syria
+      iso3c: SYR
+      Admin_name: Tartus
+      Admin_level: Adm2
+      Admin_geo_ID: SYR.14.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '996'
+      - '1270'
+      - '1731'
+      - '2380'
+      - '3039'
+      - '3769'
+      - '4607'
+      - '5484'
+      - '4135'
+      - '3509'
+      - '3242'
+      - '3176'
+      Settlement_level: Semi-dense Urban Clusters
    Syria_22_14378:
       SMOD_ID: 22_14378
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_31
+      Admin_name: Qardaha
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B5090378365720
+      Admin_geo_ID: SYR.11.4_1
       Year:
       - '1975'
       - '1980'
@@ -207,9 +207,9 @@ concepts:
       SMOD_ID: 22_14379
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_37
+      Admin_name: Jisr ash-Shugur
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84192320308694
+      Admin_geo_ID: SYR.10.4_1
       Year:
       - '1975'
       - '1980'
@@ -241,9 +241,9 @@ concepts:
       SMOD_ID: 22_14380
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_31
+      Admin_name: Jableh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B5090378365720
+      Admin_geo_ID: SYR.11.2_1
       Year:
       - '1975'
       - '1980'
@@ -275,9 +275,9 @@ concepts:
       SMOD_ID: 22_14381
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_50
+      Admin_name: Ash-Shaykh Badr
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B44438051869980
+      Admin_geo_ID: SYR.14.1_1
       Year:
       - '1975'
       - '1980'
@@ -309,9 +309,9 @@ concepts:
       SMOD_ID: 22_14382
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_36
+      Admin_name: Harem
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B79082810780972
+      Admin_geo_ID: SYR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -343,9 +343,9 @@ concepts:
       SMOD_ID: 22_14383
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_47
+      Admin_name: Baniyas
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B62310236233952
+      Admin_geo_ID: SYR.14.2_1
       Year:
       - '1975'
       - '1980'
@@ -377,9 +377,9 @@ concepts:
       SMOD_ID: 22_14384
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_37
+      Admin_name: Jisr ash-Shugur
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84192320308694
+      Admin_geo_ID: SYR.10.4_1
       Year:
       - '1975'
       - '1980'
@@ -411,9 +411,9 @@ concepts:
       SMOD_ID: 22_14385
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_46
+      Admin_name: Tartus
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B78381061793998
+      Admin_geo_ID: SYR.14.5_1
       Year:
       - '1975'
       - '1980'
@@ -445,9 +445,9 @@ concepts:
       SMOD_ID: 22_14386
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_4
+      Admin_name: Afrin
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B88911382861768
+      Admin_geo_ID: SYR.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -479,9 +479,9 @@ concepts:
       SMOD_ID: 22_14387
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_48
+      Admin_name: Safita
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B1888341304206
+      Admin_geo_ID: SYR.14.4_1
       Year:
       - '1975'
       - '1980'
@@ -513,9 +513,9 @@ concepts:
       SMOD_ID: 22_14388
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_48
+      Admin_name: Safita
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B1888341304206
+      Admin_geo_ID: SYR.14.4_1
       Year:
       - '1975'
       - '1980'
@@ -547,9 +547,9 @@ concepts:
       SMOD_ID: 22_14389
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_38
+      Admin_name: Arihah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B18977709066888
+      Admin_geo_ID: SYR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -581,9 +581,9 @@ concepts:
       SMOD_ID: 22_14390
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_26
+      Admin_name: As-Suqaylabiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B45767266881892
+      Admin_geo_ID: SYR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -615,9 +615,9 @@ concepts:
       SMOD_ID: 22_14391
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_38
+      Admin_name: Arihah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B18977709066888
+      Admin_geo_ID: SYR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -649,9 +649,9 @@ concepts:
       SMOD_ID: 22_14392
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_28
+      Admin_name: Masyaf
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B31990643139600
+      Admin_geo_ID: SYR.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -683,9 +683,9 @@ concepts:
       SMOD_ID: 22_14393
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_48
+      Admin_name: Safita
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B1888341304206
+      Admin_geo_ID: SYR.14.4_1
       Year:
       - '1975'
       - '1980'
@@ -717,9 +717,9 @@ concepts:
       SMOD_ID: 22_14394
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_21
+      Admin_name: Talkalakh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B60418009452869
+      Admin_geo_ID: SYR.9.6_1
       Year:
       - '1975'
       - '1980'
@@ -751,9 +751,9 @@ concepts:
       SMOD_ID: 22_14395
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_21
+      Admin_name: Talkalakh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B60418009452869
+      Admin_geo_ID: SYR.9.6_1
       Year:
       - '1975'
       - '1980'
@@ -785,9 +785,9 @@ concepts:
       SMOD_ID: 22_14396
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_38
+      Admin_name: Arihah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B18977709066888
+      Admin_geo_ID: SYR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -819,9 +819,9 @@ concepts:
       SMOD_ID: 22_14397
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_28
+      Admin_name: Masyaf
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B31990643139600
+      Admin_geo_ID: SYR.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -853,9 +853,9 @@ concepts:
       SMOD_ID: 22_14398
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_28
+      Admin_name: Masyaf
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B31990643139600
+      Admin_geo_ID: SYR.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -887,9 +887,9 @@ concepts:
       SMOD_ID: 22_14399
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_21
+      Admin_name: Talkalakh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B60418009452869
+      Admin_geo_ID: SYR.9.6_1
       Year:
       - '1975'
       - '1980'
@@ -921,9 +921,9 @@ concepts:
       SMOD_ID: 22_14400
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -955,9 +955,9 @@ concepts:
       SMOD_ID: 22_14401
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_28
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B31990643139600
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -989,9 +989,9 @@ concepts:
       SMOD_ID: 22_14402
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -1023,9 +1023,9 @@ concepts:
       SMOD_ID: 22_14403
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_17
+      Admin_name: Qatana
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63011141740515
+      Admin_geo_ID: SYR.13.7_1
       Year:
       - '1975'
       - '1980'
@@ -1057,9 +1057,9 @@ concepts:
       SMOD_ID: 22_14404
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_28
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B31990643139600
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -1091,9 +1091,9 @@ concepts:
       SMOD_ID: 22_14405
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_60
+      Admin_name: Quneitra
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B38649296158741
+      Admin_geo_ID: SYR.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -1125,9 +1125,9 @@ concepts:
       SMOD_ID: 22_14406
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_28
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B31990643139600
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -1159,9 +1159,9 @@ concepts:
       SMOD_ID: 22_14407
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_60
+      Admin_name: Quneitra
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B38649296158741
+      Admin_geo_ID: SYR.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -1193,9 +1193,9 @@ concepts:
       SMOD_ID: 22_14408
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_36
+      Admin_name: Harem
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B79082810780972
+      Admin_geo_ID: SYR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -1227,9 +1227,9 @@ concepts:
       SMOD_ID: 22_14409
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -1261,9 +1261,9 @@ concepts:
       SMOD_ID: 22_14410
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_60
+      Admin_name: Quneitra
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B38649296158741
+      Admin_geo_ID: SYR.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -1295,9 +1295,9 @@ concepts:
       SMOD_ID: 22_14411
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -1329,9 +1329,9 @@ concepts:
       SMOD_ID: 22_14412
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_21
+      Admin_name: Talkalakh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B60418009452869
+      Admin_geo_ID: SYR.9.6_1
       Year:
       - '1975'
       - '1980'
@@ -1363,9 +1363,9 @@ concepts:
       SMOD_ID: 22_14413
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -1397,9 +1397,9 @@ concepts:
       SMOD_ID: 22_14414
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -1431,9 +1431,9 @@ concepts:
       SMOD_ID: 22_14415
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_55
+      Admin_name: Quneitra
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B3893178613366
+      Admin_geo_ID: SYR.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -1465,9 +1465,9 @@ concepts:
       SMOD_ID: 22_14416
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -1499,9 +1499,9 @@ concepts:
       SMOD_ID: 22_14417
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -1533,9 +1533,9 @@ concepts:
       SMOD_ID: 22_14418
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -1567,9 +1567,9 @@ concepts:
       SMOD_ID: 22_14419
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -1601,9 +1601,9 @@ concepts:
       SMOD_ID: 22_14420
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_20
+      Admin_name: Al-Qusayr
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B51656539269606
+      Admin_geo_ID: SYR.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -1635,9 +1635,9 @@ concepts:
       SMOD_ID: 22_14421
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_5
+      Admin_name: A'zaz
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B26836039619487
+      Admin_geo_ID: SYR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -1669,9 +1669,9 @@ concepts:
       SMOD_ID: 22_14422
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -1703,9 +1703,9 @@ concepts:
       SMOD_ID: 22_14423
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -1737,9 +1737,9 @@ concepts:
       SMOD_ID: 22_14424
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_13
+      Admin_name: At-Tall
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63006606807907
+      Admin_geo_ID: SYR.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -1771,9 +1771,9 @@ concepts:
       SMOD_ID: 22_14425
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_14
+      Admin_name: Yabrud
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B56496530106269
+      Admin_geo_ID: SYR.13.8_1
       Year:
       - '1975'
       - '1980'
@@ -1805,9 +1805,9 @@ concepts:
       SMOD_ID: 22_14426
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_55
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B3893178613366
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -1839,9 +1839,9 @@ concepts:
       SMOD_ID: 22_14427
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -1873,9 +1873,9 @@ concepts:
       SMOD_ID: 22_14428
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_13
+      Admin_name: At-Tall
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63006606807907
+      Admin_geo_ID: SYR.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -1907,9 +1907,9 @@ concepts:
       SMOD_ID: 22_14429
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_13
+      Admin_name: At-Tall
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63006606807907
+      Admin_geo_ID: SYR.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -1941,9 +1941,9 @@ concepts:
       SMOD_ID: 22_14430
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_55
+      Admin_name: As-Sanamayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B3893178613366
+      Admin_geo_ID: SYR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -1975,9 +1975,9 @@ concepts:
       SMOD_ID: 22_14431
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -2009,9 +2009,9 @@ concepts:
       SMOD_ID: 22_14432
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -2043,9 +2043,9 @@ concepts:
       SMOD_ID: 22_14433
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_14
+      Admin_name: Yabrud
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B56496530106269
+      Admin_geo_ID: SYR.13.8_1
       Year:
       - '1975'
       - '1980'
@@ -2077,9 +2077,9 @@ concepts:
       SMOD_ID: 22_14434
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -2111,9 +2111,9 @@ concepts:
       SMOD_ID: 22_14435
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -2145,9 +2145,9 @@ concepts:
       SMOD_ID: 22_14436
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -2179,9 +2179,9 @@ concepts:
       SMOD_ID: 22_14437
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_5
+      Admin_name: A'zaz
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B26836039619487
+      Admin_geo_ID: SYR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -2213,9 +2213,9 @@ concepts:
       SMOD_ID: 22_14438
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -2247,9 +2247,9 @@ concepts:
       SMOD_ID: 22_14439
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_56
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99944519185371
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -2281,9 +2281,9 @@ concepts:
       SMOD_ID: 22_14440
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_27
+      Admin_name: Salamiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B43082534172912
+      Admin_geo_ID: SYR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -2315,9 +2315,9 @@ concepts:
       SMOD_ID: 22_14441
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -2349,9 +2349,9 @@ concepts:
       SMOD_ID: 22_14442
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_27
+      Admin_name: Salamiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B43082534172912
+      Admin_geo_ID: SYR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -2383,9 +2383,9 @@ concepts:
       SMOD_ID: 22_14443
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_3
+      Admin_name: Jarabulus
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B24628051118006
+      Admin_geo_ID: SYR.2.7_1
       Year:
       - '1975'
       - '1980'
@@ -2417,9 +2417,9 @@ concepts:
       SMOD_ID: 22_14444
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -2451,9 +2451,9 @@ concepts:
       SMOD_ID: 22_14445
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Duma
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.5_1
       Year:
       - '1975'
       - '1980'
@@ -2485,9 +2485,9 @@ concepts:
       SMOD_ID: 22_14446
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_27
+      Admin_name: Salamiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B43082534172912
+      Admin_geo_ID: SYR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -2519,9 +2519,9 @@ concepts:
       SMOD_ID: 22_14447
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_59
+      Admin_name: As-Suwayda
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B615257865565
+      Admin_geo_ID: SYR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -2553,9 +2553,9 @@ concepts:
       SMOD_ID: 22_14448
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_24
+      Admin_name: Al-Mukharram
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B17685723948764
+      Admin_geo_ID: SYR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -2587,9 +2587,9 @@ concepts:
       SMOD_ID: 22_14449
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_12
+      Admin_name: Al-Qutayfah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63021739925615
+      Admin_geo_ID: SYR.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -2621,9 +2621,9 @@ concepts:
       SMOD_ID: 22_14450
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_3
+      Admin_name: Al Bab
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B24628051118006
+      Admin_geo_ID: SYR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -2655,9 +2655,9 @@ concepts:
       SMOD_ID: 22_14451
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_57
+      Admin_name: As-Suwayda
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B49241886307156
+      Admin_geo_ID: SYR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -2689,9 +2689,9 @@ concepts:
       SMOD_ID: 22_14452
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_27
+      Admin_name: Salamiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B43082534172912
+      Admin_geo_ID: SYR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -2723,9 +2723,9 @@ concepts:
       SMOD_ID: 22_14453
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_57
+      Admin_name: As-Suwayda
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B49241886307156
+      Admin_geo_ID: SYR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -2757,9 +2757,9 @@ concepts:
       SMOD_ID: 22_14454
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_58
+      Admin_name: Salkhad
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B39967895671995
+      Admin_geo_ID: SYR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -2791,9 +2791,9 @@ concepts:
       SMOD_ID: 22_14455
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_6
+      Admin_name: Manbij
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B68936835306318
+      Admin_geo_ID: SYR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -2825,9 +2825,9 @@ concepts:
       SMOD_ID: 22_14456
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_6
+      Admin_name: Manbij
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B68936835306318
+      Admin_geo_ID: SYR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -2859,9 +2859,9 @@ concepts:
       SMOD_ID: 22_14457
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_6
+      Admin_name: Manbij
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B68936835306318
+      Admin_geo_ID: SYR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -2893,9 +2893,9 @@ concepts:
       SMOD_ID: 22_14458
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_7
+      Admin_name: '''Ayn al-''Arab'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B6640625460328
+      Admin_geo_ID: SYR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2927,9 +2927,9 @@ concepts:
       SMOD_ID: 22_14459
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_7
+      Admin_name: '''Ayn al-''Arab'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B6640625460328
+      Admin_geo_ID: SYR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -2961,9 +2961,9 @@ concepts:
       SMOD_ID: 22_14460
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_53
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B46572819209410
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -2995,9 +2995,9 @@ concepts:
       SMOD_ID: 22_14461
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -3029,9 +3029,9 @@ concepts:
       SMOD_ID: 22_14462
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -3063,9 +3063,9 @@ concepts:
       SMOD_ID: 22_14463
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_52
+      Admin_name: Tal Abyad
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B34075692761550
+      Admin_geo_ID: SYR.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -3097,9 +3097,9 @@ concepts:
       SMOD_ID: 22_14464
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -3131,9 +3131,9 @@ concepts:
       SMOD_ID: 22_14465
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -3165,9 +3165,9 @@ concepts:
       SMOD_ID: 22_14466
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -3199,9 +3199,9 @@ concepts:
       SMOD_ID: 22_14467
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_42
+      Admin_name: Ra's al-'Ayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16567144851356
+      Admin_geo_ID: SYR.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -3233,9 +3233,9 @@ concepts:
       SMOD_ID: 22_14468
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -3267,9 +3267,9 @@ concepts:
       SMOD_ID: 22_14469
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_45
+      Admin_name: Mayadin
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96470480022323
+      Admin_geo_ID: SYR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -3301,9 +3301,9 @@ concepts:
       SMOD_ID: 22_14470
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_39
+      Admin_name: Al-Hasakah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B13029247631939
+      Admin_geo_ID: SYR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -3335,9 +3335,9 @@ concepts:
       SMOD_ID: 23_80970
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_30
+      Admin_name: Latakia
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B94813764709421
+      Admin_geo_ID: SYR.11.3_1
       Year:
       - '1975'
       - '1980'
@@ -3365,13 +3365,47 @@ concepts:
       - '2920'
       - '3685'
       Settlement_level: Dense Urban Clusters
+   Syria_23_80971:
+      SMOD_ID: 23_80971
+      Country_name: Syria
+      iso3c: SYR
+      Admin_name: Latakia
+      Admin_level: Adm2
+      Admin_geo_ID: SYR.11.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '151'
+      - '181'
+      - '203'
+      - '229'
+      - '230'
+      - '248'
+      - '269'
+      - '300'
+      - '257'
+      - '260'
+      - '298'
+      - '370'
+      Settlement_level: Dense Urban Clusters
    Syria_23_80972:
       SMOD_ID: 23_80972
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_32
+      Admin_name: Al-Haffah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B95231031847739
+      Admin_geo_ID: SYR.11.1_1
       Year:
       - '1975'
       - '1980'
@@ -3403,9 +3437,9 @@ concepts:
       SMOD_ID: 23_80973
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_46
+      Admin_name: Tartus
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B78381061793998
+      Admin_geo_ID: SYR.14.5_1
       Year:
       - '1975'
       - '1980'
@@ -3437,9 +3471,9 @@ concepts:
       SMOD_ID: 23_80974
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_33
+      Admin_name: Qardaha
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B45607569668873
+      Admin_geo_ID: SYR.11.4_1
       Year:
       - '1975'
       - '1980'
@@ -3471,9 +3505,9 @@ concepts:
       SMOD_ID: 23_80975
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_46
+      Admin_name: Tartus
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B78381061793998
+      Admin_geo_ID: SYR.14.5_1
       Year:
       - '1975'
       - '1980'
@@ -3505,9 +3539,9 @@ concepts:
       SMOD_ID: 23_80976
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_37
+      Admin_name: Jisr ash-Shugur
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84192320308694
+      Admin_geo_ID: SYR.10.4_1
       Year:
       - '1975'
       - '1980'
@@ -3539,9 +3573,9 @@ concepts:
       SMOD_ID: 23_80977
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_26
+      Admin_name: As-Suqaylabiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B45767266881892
+      Admin_geo_ID: SYR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -3573,9 +3607,9 @@ concepts:
       SMOD_ID: 23_80978
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_37
+      Admin_name: Jisr ash-Shugur
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84192320308694
+      Admin_geo_ID: SYR.10.4_1
       Year:
       - '1975'
       - '1980'
@@ -3607,9 +3641,9 @@ concepts:
       SMOD_ID: 23_80979
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_36
+      Admin_name: Harem
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B79082810780972
+      Admin_geo_ID: SYR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -3641,9 +3675,9 @@ concepts:
       SMOD_ID: 23_80980
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_49
+      Admin_name: Safita
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B79430829635583
+      Admin_geo_ID: SYR.14.4_1
       Year:
       - '1975'
       - '1980'
@@ -3675,9 +3709,9 @@ concepts:
       SMOD_ID: 23_80981
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_36
+      Admin_name: Harem
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B79082810780972
+      Admin_geo_ID: SYR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -3709,9 +3743,9 @@ concepts:
       SMOD_ID: 23_80982
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_48
+      Admin_name: Safita
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B1888341304206
+      Admin_geo_ID: SYR.14.4_1
       Year:
       - '1975'
       - '1980'
@@ -3743,9 +3777,9 @@ concepts:
       SMOD_ID: 23_80983
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_36
+      Admin_name: Harem
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B79082810780972
+      Admin_geo_ID: SYR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -3777,9 +3811,9 @@ concepts:
       SMOD_ID: 23_80984
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_4
+      Admin_name: Afrin
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B88911382861768
+      Admin_geo_ID: SYR.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -3811,9 +3845,9 @@ concepts:
       SMOD_ID: 23_80985
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_26
+      Admin_name: As-Suqaylabiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B45767266881892
+      Admin_geo_ID: SYR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -3845,9 +3879,9 @@ concepts:
       SMOD_ID: 23_80986
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_36
+      Admin_name: Harem
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B79082810780972
+      Admin_geo_ID: SYR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -3879,9 +3913,9 @@ concepts:
       SMOD_ID: 23_80987
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_36
+      Admin_name: Harem
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B79082810780972
+      Admin_geo_ID: SYR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -3913,9 +3947,9 @@ concepts:
       SMOD_ID: 23_80988
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_26
+      Admin_name: As-Suqaylabiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B45767266881892
+      Admin_geo_ID: SYR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -3947,9 +3981,9 @@ concepts:
       SMOD_ID: 23_80989
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_26
+      Admin_name: As-Suqaylabiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B45767266881892
+      Admin_geo_ID: SYR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -3981,9 +4015,9 @@ concepts:
       SMOD_ID: 23_80990
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_4
+      Admin_name: Afrin
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B88911382861768
+      Admin_geo_ID: SYR.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -4015,9 +4049,9 @@ concepts:
       SMOD_ID: 23_80991
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_26
+      Admin_name: As-Suqaylabiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B45767266881892
+      Admin_geo_ID: SYR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -4049,9 +4083,9 @@ concepts:
       SMOD_ID: 23_80992
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_38
+      Admin_name: Arihah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B18977709066888
+      Admin_geo_ID: SYR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -4083,9 +4117,9 @@ concepts:
       SMOD_ID: 23_80993
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_26
+      Admin_name: As-Suqaylabiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B45767266881892
+      Admin_geo_ID: SYR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -4117,9 +4151,9 @@ concepts:
       SMOD_ID: 23_80994
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_28
+      Admin_name: Masyaf
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B31990643139600
+      Admin_geo_ID: SYR.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -4151,9 +4185,9 @@ concepts:
       SMOD_ID: 23_80995
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_38
+      Admin_name: Arihah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B18977709066888
+      Admin_geo_ID: SYR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -4185,9 +4219,9 @@ concepts:
       SMOD_ID: 23_80996
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_21
+      Admin_name: Talkalakh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B60418009452869
+      Admin_geo_ID: SYR.9.6_1
       Year:
       - '1975'
       - '1980'
@@ -4219,9 +4253,9 @@ concepts:
       SMOD_ID: 23_80997
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_38
+      Admin_name: Arihah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B18977709066888
+      Admin_geo_ID: SYR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -4253,9 +4287,9 @@ concepts:
       SMOD_ID: 23_80998
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_26
+      Admin_name: As-Suqaylabiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B45767266881892
+      Admin_geo_ID: SYR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -4287,9 +4321,9 @@ concepts:
       SMOD_ID: 23_80999
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_60
+      Admin_name: Quneitra
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B38649296158741
+      Admin_geo_ID: SYR.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -4321,9 +4355,9 @@ concepts:
       SMOD_ID: 23_81000
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_36
+      Admin_name: Harem
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B79082810780972
+      Admin_geo_ID: SYR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -4355,9 +4389,9 @@ concepts:
       SMOD_ID: 23_81001
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -4389,9 +4423,9 @@ concepts:
       SMOD_ID: 23_81002
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_38
+      Admin_name: Arihah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B18977709066888
+      Admin_geo_ID: SYR.10.1_1
       Year:
       - '1975'
       - '1980'
@@ -4423,9 +4457,9 @@ concepts:
       SMOD_ID: 23_81003
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_29
+      Admin_name: As-Suqaylabiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B78133098408237
+      Admin_geo_ID: SYR.8.1_1
       Year:
       - '1975'
       - '1980'
@@ -4457,9 +4491,9 @@ concepts:
       SMOD_ID: 23_81004
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -4491,9 +4525,9 @@ concepts:
       SMOD_ID: 23_81005
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -4525,9 +4559,9 @@ concepts:
       SMOD_ID: 23_81006
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -4559,9 +4593,9 @@ concepts:
       SMOD_ID: 23_81007
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_4
+      Admin_name: Afrin
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B88911382861768
+      Admin_geo_ID: SYR.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -4593,9 +4627,9 @@ concepts:
       SMOD_ID: 23_81008
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -4627,9 +4661,9 @@ concepts:
       SMOD_ID: 23_81009
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_60
+      Admin_name: Quneitra
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B38649296158741
+      Admin_geo_ID: SYR.12.1_1
       Year:
       - '1975'
       - '1980'
@@ -4661,9 +4695,9 @@ concepts:
       SMOD_ID: 23_81010
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_36
+      Admin_name: Harem
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B79082810780972
+      Admin_geo_ID: SYR.10.2_1
       Year:
       - '1975'
       - '1980'
@@ -4695,9 +4729,9 @@ concepts:
       SMOD_ID: 23_81011
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -4729,9 +4763,9 @@ concepts:
       SMOD_ID: 23_81012
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -4763,9 +4797,9 @@ concepts:
       SMOD_ID: 23_81013
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -4797,9 +4831,9 @@ concepts:
       SMOD_ID: 23_81014
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_28
+      Admin_name: Masyaf
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B31990643139600
+      Admin_geo_ID: SYR.8.3_1
       Year:
       - '1975'
       - '1980'
@@ -4831,9 +4865,9 @@ concepts:
       SMOD_ID: 23_81015
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_16
+      Admin_name: Zabadani
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B59833257068654
+      Admin_geo_ID: SYR.13.9_1
       Year:
       - '1975'
       - '1980'
@@ -4865,9 +4899,9 @@ concepts:
       SMOD_ID: 23_81016
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -4899,9 +4933,9 @@ concepts:
       SMOD_ID: 23_81017
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -4933,9 +4967,9 @@ concepts:
       SMOD_ID: 23_81018
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -4967,9 +5001,9 @@ concepts:
       SMOD_ID: 23_81019
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -5001,9 +5035,9 @@ concepts:
       SMOD_ID: 23_81020
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -5035,9 +5069,9 @@ concepts:
       SMOD_ID: 23_81021
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -5069,9 +5103,9 @@ concepts:
       SMOD_ID: 23_81022
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Talkalakh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.6_1
       Year:
       - '1975'
       - '1980'
@@ -5103,9 +5137,9 @@ concepts:
       SMOD_ID: 23_81023
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_16
+      Admin_name: Zabadani
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B59833257068654
+      Admin_geo_ID: SYR.13.9_1
       Year:
       - '1975'
       - '1980'
@@ -5137,9 +5171,9 @@ concepts:
       SMOD_ID: 23_81024
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_17
+      Admin_name: Qatana
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63011141740515
+      Admin_geo_ID: SYR.13.7_1
       Year:
       - '1975'
       - '1980'
@@ -5171,9 +5205,9 @@ concepts:
       SMOD_ID: 23_81025
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -5205,9 +5239,9 @@ concepts:
       SMOD_ID: 23_81026
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_29
+      Admin_name: Muhardeh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B78133098408237
+      Admin_geo_ID: SYR.8.4_1
       Year:
       - '1975'
       - '1980'
@@ -5239,9 +5273,9 @@ concepts:
       SMOD_ID: 23_81027
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_17
+      Admin_name: Qatana
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63011141740515
+      Admin_geo_ID: SYR.13.7_1
       Year:
       - '1975'
       - '1980'
@@ -5273,9 +5307,9 @@ concepts:
       SMOD_ID: 23_81028
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -5307,9 +5341,9 @@ concepts:
       SMOD_ID: 23_81029
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_17
+      Admin_name: Qatana
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63011141740515
+      Admin_geo_ID: SYR.13.7_1
       Year:
       - '1975'
       - '1980'
@@ -5341,9 +5375,9 @@ concepts:
       SMOD_ID: 23_81030
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -5375,9 +5409,9 @@ concepts:
       SMOD_ID: 23_81031
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -5409,9 +5443,9 @@ concepts:
       SMOD_ID: 23_81032
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_16
+      Admin_name: Zabadani
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B59833257068654
+      Admin_geo_ID: SYR.13.9_1
       Year:
       - '1975'
       - '1980'
@@ -5443,9 +5477,9 @@ concepts:
       SMOD_ID: 23_81033
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_16
+      Admin_name: Qatana
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B59833257068654
+      Admin_geo_ID: SYR.13.7_1
       Year:
       - '1975'
       - '1980'
@@ -5477,9 +5511,9 @@ concepts:
       SMOD_ID: 23_81034
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_55
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B3893178613366
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -5511,9 +5545,9 @@ concepts:
       SMOD_ID: 23_81035
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -5545,9 +5579,9 @@ concepts:
       SMOD_ID: 23_81036
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -5579,9 +5613,9 @@ concepts:
       SMOD_ID: 23_81037
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -5613,9 +5647,9 @@ concepts:
       SMOD_ID: 23_81038
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_29
+      Admin_name: Muhardeh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B78133098408237
+      Admin_geo_ID: SYR.8.4_1
       Year:
       - '1975'
       - '1980'
@@ -5647,9 +5681,9 @@ concepts:
       SMOD_ID: 23_81039
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_56
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99944519185371
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -5681,9 +5715,9 @@ concepts:
       SMOD_ID: 23_81040
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -5715,9 +5749,9 @@ concepts:
       SMOD_ID: 23_81041
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -5749,9 +5783,9 @@ concepts:
       SMOD_ID: 23_81042
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_17
+      Admin_name: Qatana
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63011141740515
+      Admin_geo_ID: SYR.13.7_1
       Year:
       - '1975'
       - '1980'
@@ -5783,9 +5817,9 @@ concepts:
       SMOD_ID: 23_81043
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_56
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99944519185371
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -5817,9 +5851,9 @@ concepts:
       SMOD_ID: 23_81044
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -5851,9 +5885,9 @@ concepts:
       SMOD_ID: 23_81045
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -5885,9 +5919,9 @@ concepts:
       SMOD_ID: 23_81046
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_17
+      Admin_name: Qatana
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63011141740515
+      Admin_geo_ID: SYR.13.7_1
       Year:
       - '1975'
       - '1980'
@@ -5919,9 +5953,9 @@ concepts:
       SMOD_ID: 23_81047
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -5953,9 +5987,9 @@ concepts:
       SMOD_ID: 23_81048
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_17
+      Admin_name: Darayya
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63011141740515
+      Admin_geo_ID: SYR.13.4_1
       Year:
       - '1975'
       - '1980'
@@ -5987,9 +6021,9 @@ concepts:
       SMOD_ID: 23_81049
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_5
+      Admin_name: A'zaz
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B26836039619487
+      Admin_geo_ID: SYR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -6021,9 +6055,9 @@ concepts:
       SMOD_ID: 23_81050
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -6055,9 +6089,9 @@ concepts:
       SMOD_ID: 23_81051
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -6089,9 +6123,9 @@ concepts:
       SMOD_ID: 23_81052
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_56
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99944519185371
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -6123,9 +6157,9 @@ concepts:
       SMOD_ID: 23_81053
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_5
+      Admin_name: A'zaz
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B26836039619487
+      Admin_geo_ID: SYR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -6157,9 +6191,9 @@ concepts:
       SMOD_ID: 23_81054
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -6191,9 +6225,9 @@ concepts:
       SMOD_ID: 23_81055
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_56
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99944519185371
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -6225,9 +6259,9 @@ concepts:
       SMOD_ID: 23_81056
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -6259,9 +6293,9 @@ concepts:
       SMOD_ID: 23_81057
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_10
+      Admin_name: Markaz Rif Dimashq
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B80699161134092
+      Admin_geo_ID: SYR.13.6_1
       Year:
       - '1975'
       - '1980'
@@ -6293,9 +6327,9 @@ concepts:
       SMOD_ID: 23_81058
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_55
+      Admin_name: As-Sanamayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B3893178613366
+      Admin_geo_ID: SYR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -6327,9 +6361,9 @@ concepts:
       SMOD_ID: 23_81059
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -6361,9 +6395,9 @@ concepts:
       SMOD_ID: 23_81060
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -6395,9 +6429,9 @@ concepts:
       SMOD_ID: 23_81061
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -6429,9 +6463,9 @@ concepts:
       SMOD_ID: 23_81062
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -6463,9 +6497,9 @@ concepts:
       SMOD_ID: 23_81063
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -6497,9 +6531,9 @@ concepts:
       SMOD_ID: 23_81064
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_10
+      Admin_name: Markaz Rif Dimashq
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B80699161134092
+      Admin_geo_ID: SYR.13.6_1
       Year:
       - '1975'
       - '1980'
@@ -6531,9 +6565,9 @@ concepts:
       SMOD_ID: 23_81065
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_55
+      Admin_name: As-Sanamayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B3893178613366
+      Admin_geo_ID: SYR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -6565,9 +6599,9 @@ concepts:
       SMOD_ID: 23_81066
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_5
+      Admin_name: A'zaz
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B26836039619487
+      Admin_geo_ID: SYR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -6599,9 +6633,9 @@ concepts:
       SMOD_ID: 23_81067
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -6633,9 +6667,9 @@ concepts:
       SMOD_ID: 23_81068
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_13
+      Admin_name: At-Tall
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63006606807907
+      Admin_geo_ID: SYR.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -6667,9 +6701,9 @@ concepts:
       SMOD_ID: 23_81069
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -6701,9 +6735,9 @@ concepts:
       SMOD_ID: 23_81070
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -6735,9 +6769,9 @@ concepts:
       SMOD_ID: 23_81071
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -6769,9 +6803,9 @@ concepts:
       SMOD_ID: 23_81072
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -6803,9 +6837,9 @@ concepts:
       SMOD_ID: 23_81073
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -6837,9 +6871,9 @@ concepts:
       SMOD_ID: 23_81074
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_13
+      Admin_name: At-Tall
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63006606807907
+      Admin_geo_ID: SYR.13.3_1
       Year:
       - '1975'
       - '1980'
@@ -6871,9 +6905,9 @@ concepts:
       SMOD_ID: 23_81075
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_13
+      Admin_name: Damascus
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63006606807907
+      Admin_geo_ID: SYR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -6905,9 +6939,9 @@ concepts:
       SMOD_ID: 23_81076
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_10
+      Admin_name: Markaz Rif Dimashq
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B80699161134092
+      Admin_geo_ID: SYR.13.6_1
       Year:
       - '1975'
       - '1980'
@@ -6939,9 +6973,9 @@ concepts:
       SMOD_ID: 23_81077
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_55
+      Admin_name: As-Sanamayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B3893178613366
+      Admin_geo_ID: SYR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -6973,9 +7007,9 @@ concepts:
       SMOD_ID: 23_81078
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_55
+      Admin_name: As-Sanamayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B3893178613366
+      Admin_geo_ID: SYR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -7007,9 +7041,9 @@ concepts:
       SMOD_ID: 23_81079
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_20
+      Admin_name: Al-Qusayr
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B51656539269606
+      Admin_geo_ID: SYR.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -7041,9 +7075,9 @@ concepts:
       SMOD_ID: 23_81080
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_20
+      Admin_name: Al-Qusayr
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B51656539269606
+      Admin_geo_ID: SYR.9.2_1
       Year:
       - '1975'
       - '1980'
@@ -7075,9 +7109,9 @@ concepts:
       SMOD_ID: 23_81081
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -7109,9 +7143,9 @@ concepts:
       SMOD_ID: 23_81082
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_55
+      Admin_name: As-Sanamayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B3893178613366
+      Admin_geo_ID: SYR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -7143,9 +7177,9 @@ concepts:
       SMOD_ID: 23_81083
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -7177,9 +7211,9 @@ concepts:
       SMOD_ID: 23_81084
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_56
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99944519185371
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -7211,9 +7245,9 @@ concepts:
       SMOD_ID: 23_81085
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -7245,9 +7279,9 @@ concepts:
       SMOD_ID: 23_81086
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -7279,9 +7313,9 @@ concepts:
       SMOD_ID: 23_81087
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_22
+      Admin_name: Ar-Rastan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B10190550865888
+      Admin_geo_ID: SYR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -7313,9 +7347,9 @@ concepts:
       SMOD_ID: 23_81088
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Ar-Rastan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -7347,9 +7381,9 @@ concepts:
       SMOD_ID: 23_81089
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -7381,9 +7415,9 @@ concepts:
       SMOD_ID: 23_81090
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -7415,9 +7449,9 @@ concepts:
       SMOD_ID: 23_81091
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_5
+      Admin_name: A'zaz
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B26836039619487
+      Admin_geo_ID: SYR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -7449,9 +7483,9 @@ concepts:
       SMOD_ID: 23_81092
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -7483,9 +7517,9 @@ concepts:
       SMOD_ID: 23_81093
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -7517,9 +7551,9 @@ concepts:
       SMOD_ID: 23_81094
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_22
+      Admin_name: Ar-Rastan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B10190550865888
+      Admin_geo_ID: SYR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -7551,9 +7585,9 @@ concepts:
       SMOD_ID: 23_81095
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_56
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99944519185371
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -7585,9 +7619,9 @@ concepts:
       SMOD_ID: 23_81096
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -7619,9 +7653,9 @@ concepts:
       SMOD_ID: 23_81097
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_5
+      Admin_name: A'zaz
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B26836039619487
+      Admin_geo_ID: SYR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -7653,9 +7687,9 @@ concepts:
       SMOD_ID: 23_81098
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: A'zaz
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -7687,9 +7721,9 @@ concepts:
       SMOD_ID: 23_81099
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -7721,9 +7755,9 @@ concepts:
       SMOD_ID: 23_81100
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -7755,9 +7789,9 @@ concepts:
       SMOD_ID: 23_81101
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_55
+      Admin_name: As-Sanamayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B3893178613366
+      Admin_geo_ID: SYR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -7789,9 +7823,9 @@ concepts:
       SMOD_ID: 23_81102
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_56
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99944519185371
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -7823,9 +7857,9 @@ concepts:
       SMOD_ID: 23_81103
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -7857,9 +7891,9 @@ concepts:
       SMOD_ID: 23_81104
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -7891,9 +7925,9 @@ concepts:
       SMOD_ID: 23_81105
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -7925,9 +7959,9 @@ concepts:
       SMOD_ID: 23_81106
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_35
+      Admin_name: Ma'arrat al-Numan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B71280190344240
+      Admin_geo_ID: SYR.10.5_1
       Year:
       - '1975'
       - '1980'
@@ -7959,9 +7993,9 @@ concepts:
       SMOD_ID: 23_81107
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Ar-Rastan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -7993,9 +8027,9 @@ concepts:
       SMOD_ID: 23_81108
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Markaz Rif Dimashq
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.6_1
       Year:
       - '1975'
       - '1980'
@@ -8027,9 +8061,9 @@ concepts:
       SMOD_ID: 23_81109
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -8061,9 +8095,9 @@ concepts:
       SMOD_ID: 23_81110
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_56
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99944519185371
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -8095,9 +8129,9 @@ concepts:
       SMOD_ID: 23_81111
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: A'zaz
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.2_1
       Year:
       - '1975'
       - '1980'
@@ -8129,9 +8163,9 @@ concepts:
       SMOD_ID: 23_81112
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Duma
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.5_1
       Year:
       - '1975'
       - '1980'
@@ -8163,9 +8197,9 @@ concepts:
       SMOD_ID: 23_81113
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Markaz Rif Dimashq
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.6_1
       Year:
       - '1975'
       - '1980'
@@ -8197,9 +8231,9 @@ concepts:
       SMOD_ID: 23_81114
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Markaz Rif Dimashq
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.6_1
       Year:
       - '1975'
       - '1980'
@@ -8231,9 +8265,9 @@ concepts:
       SMOD_ID: 23_81115
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -8265,9 +8299,9 @@ concepts:
       SMOD_ID: 23_81116
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Duma
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.5_1
       Year:
       - '1975'
       - '1980'
@@ -8299,9 +8333,9 @@ concepts:
       SMOD_ID: 23_81117
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -8333,9 +8367,9 @@ concepts:
       SMOD_ID: 23_81118
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Duma
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.5_1
       Year:
       - '1975'
       - '1980'
@@ -8367,9 +8401,9 @@ concepts:
       SMOD_ID: 23_81119
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Markaz Rif Dimashq
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.6_1
       Year:
       - '1975'
       - '1980'
@@ -8401,9 +8435,9 @@ concepts:
       SMOD_ID: 23_81120
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -8435,9 +8469,9 @@ concepts:
       SMOD_ID: 23_81121
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Ar-Rastan
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.3_1
       Year:
       - '1975'
       - '1980'
@@ -8469,9 +8503,9 @@ concepts:
       SMOD_ID: 23_81122
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_56
+      Admin_name: Izra'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99944519185371
+      Admin_geo_ID: SYR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -8503,9 +8537,9 @@ concepts:
       SMOD_ID: 23_81123
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -8537,9 +8571,9 @@ concepts:
       SMOD_ID: 23_81124
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_14
+      Admin_name: An-Nabk
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B56496530106269
+      Admin_geo_ID: SYR.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -8571,9 +8605,9 @@ concepts:
       SMOD_ID: 23_81125
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_12
+      Admin_name: Al-Qutayfah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63021739925615
+      Admin_geo_ID: SYR.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -8605,9 +8639,9 @@ concepts:
       SMOD_ID: 23_81126
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -8639,9 +8673,9 @@ concepts:
       SMOD_ID: 23_81127
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -8673,9 +8707,9 @@ concepts:
       SMOD_ID: 23_81128
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -8707,9 +8741,9 @@ concepts:
       SMOD_ID: 23_81129
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -8741,9 +8775,9 @@ concepts:
       SMOD_ID: 23_81130
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_15
+      Admin_name: An-Nabk
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B81131748986773
+      Admin_geo_ID: SYR.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -8775,9 +8809,9 @@ concepts:
       SMOD_ID: 23_81131
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_12
+      Admin_name: Al-Qutayfah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63021739925615
+      Admin_geo_ID: SYR.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -8809,9 +8843,9 @@ concepts:
       SMOD_ID: 23_81132
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Duma
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.5_1
       Year:
       - '1975'
       - '1980'
@@ -8843,9 +8877,9 @@ concepts:
       SMOD_ID: 23_81133
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_15
+      Admin_name: An-Nabk
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B81131748986773
+      Admin_geo_ID: SYR.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -8877,9 +8911,9 @@ concepts:
       SMOD_ID: 23_81134
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_8
+      Admin_name: As-Safirah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22464389911891
+      Admin_geo_ID: SYR.2.5_1
       Year:
       - '1975'
       - '1980'
@@ -8911,9 +8945,9 @@ concepts:
       SMOD_ID: 23_81135
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_15
+      Admin_name: An-Nabk
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B81131748986773
+      Admin_geo_ID: SYR.13.2_1
       Year:
       - '1975'
       - '1980'
@@ -8945,9 +8979,9 @@ concepts:
       SMOD_ID: 23_81136
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_8
+      Admin_name: As-Safirah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22464389911891
+      Admin_geo_ID: SYR.2.5_1
       Year:
       - '1975'
       - '1980'
@@ -8979,9 +9013,9 @@ concepts:
       SMOD_ID: 23_81137
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Duma
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.5_1
       Year:
       - '1975'
       - '1980'
@@ -9013,9 +9047,9 @@ concepts:
       SMOD_ID: 23_81138
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_27
+      Admin_name: Salamiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B43082534172912
+      Admin_geo_ID: SYR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -9047,9 +9081,9 @@ concepts:
       SMOD_ID: 23_81139
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_12
+      Admin_name: Al-Qutayfah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63021739925615
+      Admin_geo_ID: SYR.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -9081,9 +9115,9 @@ concepts:
       SMOD_ID: 23_81140
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_11
+      Admin_name: Duma
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16442606574703
+      Admin_geo_ID: SYR.13.5_1
       Year:
       - '1975'
       - '1980'
@@ -9115,9 +9149,9 @@ concepts:
       SMOD_ID: 23_81141
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_12
+      Admin_name: Al-Qutayfah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B63021739925615
+      Admin_geo_ID: SYR.13.1_1
       Year:
       - '1975'
       - '1980'
@@ -9149,9 +9183,9 @@ concepts:
       SMOD_ID: 23_81142
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -9183,9 +9217,9 @@ concepts:
       SMOD_ID: 23_81143
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -9217,9 +9251,9 @@ concepts:
       SMOD_ID: 23_81144
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -9251,9 +9285,9 @@ concepts:
       SMOD_ID: 23_81145
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_3
+      Admin_name: Al Bab
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B24628051118006
+      Admin_geo_ID: SYR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -9285,9 +9319,9 @@ concepts:
       SMOD_ID: 23_81146
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_8
+      Admin_name: As-Safirah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22464389911891
+      Admin_geo_ID: SYR.2.5_1
       Year:
       - '1975'
       - '1980'
@@ -9319,9 +9353,9 @@ concepts:
       SMOD_ID: 23_81147
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_3
+      Admin_name: Al Bab
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B24628051118006
+      Admin_geo_ID: SYR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -9353,9 +9387,9 @@ concepts:
       SMOD_ID: 23_81148
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_27
+      Admin_name: Salamiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B43082534172912
+      Admin_geo_ID: SYR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -9387,9 +9421,9 @@ concepts:
       SMOD_ID: 23_81149
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_59
+      Admin_name: As-Suwayda
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B615257865565
+      Admin_geo_ID: SYR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -9421,9 +9455,9 @@ concepts:
       SMOD_ID: 23_81150
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_57
+      Admin_name: As-Suwayda
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B49241886307156
+      Admin_geo_ID: SYR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -9455,9 +9489,9 @@ concepts:
       SMOD_ID: 23_81151
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_59
+      Admin_name: Shahba
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B615257865565
+      Admin_geo_ID: SYR.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -9489,9 +9523,9 @@ concepts:
       SMOD_ID: 23_81152
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_58
+      Admin_name: Salkhad
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B39967895671995
+      Admin_geo_ID: SYR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -9523,9 +9557,9 @@ concepts:
       SMOD_ID: 23_81153
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_8
+      Admin_name: As-Safirah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22464389911891
+      Admin_geo_ID: SYR.2.5_1
       Year:
       - '1975'
       - '1980'
@@ -9557,9 +9591,9 @@ concepts:
       SMOD_ID: 23_81154
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -9591,9 +9625,9 @@ concepts:
       SMOD_ID: 23_81155
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_27
+      Admin_name: Salamiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B43082534172912
+      Admin_geo_ID: SYR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -9625,9 +9659,9 @@ concepts:
       SMOD_ID: 23_81156
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_3
+      Admin_name: Al Bab
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B24628051118006
+      Admin_geo_ID: SYR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -9659,9 +9693,9 @@ concepts:
       SMOD_ID: 23_81157
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_3
+      Admin_name: Al Bab
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B24628051118006
+      Admin_geo_ID: SYR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -9693,9 +9727,9 @@ concepts:
       SMOD_ID: 23_81158
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_3
+      Admin_name: Manbij
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B24628051118006
+      Admin_geo_ID: SYR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -9727,9 +9761,9 @@ concepts:
       SMOD_ID: 23_81159
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_24
+      Admin_name: Al-Mukharram
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B17685723948764
+      Admin_geo_ID: SYR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -9761,9 +9795,9 @@ concepts:
       SMOD_ID: 23_81160
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_24
+      Admin_name: Al-Mukharram
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B17685723948764
+      Admin_geo_ID: SYR.9.1_1
       Year:
       - '1975'
       - '1980'
@@ -9795,9 +9829,9 @@ concepts:
       SMOD_ID: 23_81161
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_58
+      Admin_name: Salkhad
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B39967895671995
+      Admin_geo_ID: SYR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -9829,9 +9863,9 @@ concepts:
       SMOD_ID: 23_81162
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_58
+      Admin_name: Salkhad
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B39967895671995
+      Admin_geo_ID: SYR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -9863,9 +9897,9 @@ concepts:
       SMOD_ID: 23_81163
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_27
+      Admin_name: Salamiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B43082534172912
+      Admin_geo_ID: SYR.8.5_1
       Year:
       - '1975'
       - '1980'
@@ -9897,9 +9931,9 @@ concepts:
       SMOD_ID: 23_81164
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Palmyra
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -9931,9 +9965,9 @@ concepts:
       SMOD_ID: 23_81165
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_9
+      Admin_name: Jarabulus
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B60985416821817
+      Admin_geo_ID: SYR.2.7_1
       Year:
       - '1975'
       - '1980'
@@ -9965,9 +9999,9 @@ concepts:
       SMOD_ID: 23_81166
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_7
+      Admin_name: '''Ayn al-''Arab'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B6640625460328
+      Admin_geo_ID: SYR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -9999,9 +10033,9 @@ concepts:
       SMOD_ID: 23_81167
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_7
+      Admin_name: '''Ayn al-''Arab'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B6640625460328
+      Admin_geo_ID: SYR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -10033,9 +10067,9 @@ concepts:
       SMOD_ID: 23_81168
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_6
+      Admin_name: Manbij
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B68936835306318
+      Admin_geo_ID: SYR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -10067,9 +10101,9 @@ concepts:
       SMOD_ID: 23_81169
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_6
+      Admin_name: Manbij
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B68936835306318
+      Admin_geo_ID: SYR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -10101,9 +10135,9 @@ concepts:
       SMOD_ID: 23_81170
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_6
+      Admin_name: Manbij
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B68936835306318
+      Admin_geo_ID: SYR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -10135,9 +10169,9 @@ concepts:
       SMOD_ID: 23_81171
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_6
+      Admin_name: Manbij
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B68936835306318
+      Admin_geo_ID: SYR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -10169,9 +10203,9 @@ concepts:
       SMOD_ID: 23_81172
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_6
+      Admin_name: Manbij
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B68936835306318
+      Admin_geo_ID: SYR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -10203,9 +10237,9 @@ concepts:
       SMOD_ID: 23_81173
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_7
+      Admin_name: '''Ayn al-''Arab'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B6640625460328
+      Admin_geo_ID: SYR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -10237,9 +10271,9 @@ concepts:
       SMOD_ID: 23_81174
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_7
+      Admin_name: '''Ayn al-''Arab'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B6640625460328
+      Admin_geo_ID: SYR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -10271,9 +10305,9 @@ concepts:
       SMOD_ID: 23_81175
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10305,9 +10339,9 @@ concepts:
       SMOD_ID: 23_81176
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_23
+      Admin_name: Palmyra
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B76261641700856
+      Admin_geo_ID: SYR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -10339,9 +10373,9 @@ concepts:
       SMOD_ID: 23_81177
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_52
+      Admin_name: Tal Abyad
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B34075692761550
+      Admin_geo_ID: SYR.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -10373,9 +10407,9 @@ concepts:
       SMOD_ID: 23_81178
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_53
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B46572819209410
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10407,9 +10441,9 @@ concepts:
       SMOD_ID: 23_81179
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10441,9 +10475,9 @@ concepts:
       SMOD_ID: 23_81180
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_52
+      Admin_name: Tal Abyad
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B34075692761550
+      Admin_geo_ID: SYR.3.3_1
       Year:
       - '1975'
       - '1980'
@@ -10475,9 +10509,9 @@ concepts:
       SMOD_ID: 23_81181
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10509,9 +10543,9 @@ concepts:
       SMOD_ID: 23_81182
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10543,9 +10577,9 @@ concepts:
       SMOD_ID: 23_81183
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10577,9 +10611,9 @@ concepts:
       SMOD_ID: 23_81184
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_23
+      Admin_name: Palmyra
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B76261641700856
+      Admin_geo_ID: SYR.9.5_1
       Year:
       - '1975'
       - '1980'
@@ -10611,9 +10645,9 @@ concepts:
       SMOD_ID: 23_81185
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10645,9 +10679,9 @@ concepts:
       SMOD_ID: 23_81186
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10679,9 +10713,9 @@ concepts:
       SMOD_ID: 23_81187
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10713,9 +10747,9 @@ concepts:
       SMOD_ID: 23_81188
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10747,9 +10781,9 @@ concepts:
       SMOD_ID: 23_81189
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10781,9 +10815,9 @@ concepts:
       SMOD_ID: 23_81190
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_42
+      Admin_name: Ra's al-'Ayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16567144851356
+      Admin_geo_ID: SYR.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -10815,9 +10849,9 @@ concepts:
       SMOD_ID: 23_81191
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_42
+      Admin_name: Ra's al-'Ayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16567144851356
+      Admin_geo_ID: SYR.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -10849,9 +10883,9 @@ concepts:
       SMOD_ID: 23_81192
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -10883,9 +10917,9 @@ concepts:
       SMOD_ID: 23_81193
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_39
+      Admin_name: Al-Hasakah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B13029247631939
+      Admin_geo_ID: SYR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -10917,9 +10951,9 @@ concepts:
       SMOD_ID: 23_81194
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_39
+      Admin_name: Al-Hasakah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B13029247631939
+      Admin_geo_ID: SYR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -10951,9 +10985,9 @@ concepts:
       SMOD_ID: 23_81195
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -10985,9 +11019,9 @@ concepts:
       SMOD_ID: 23_81196
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -11019,9 +11053,9 @@ concepts:
       SMOD_ID: 23_81197
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_42
+      Admin_name: Ra's al-'Ayn
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16567144851356
+      Admin_geo_ID: SYR.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -11053,9 +11087,9 @@ concepts:
       SMOD_ID: 23_81198
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -11087,9 +11121,9 @@ concepts:
       SMOD_ID: 23_81199
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -11121,9 +11155,9 @@ concepts:
       SMOD_ID: 23_81200
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -11155,9 +11189,9 @@ concepts:
       SMOD_ID: 23_81201
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -11189,9 +11223,9 @@ concepts:
       SMOD_ID: 23_81202
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_40
+      Admin_name: Al Qamishli
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B53577550578456
+      Admin_geo_ID: SYR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -11223,9 +11257,9 @@ concepts:
       SMOD_ID: 23_81203
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_39
+      Admin_name: Al-Hasakah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B13029247631939
+      Admin_geo_ID: SYR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -11257,9 +11291,9 @@ concepts:
       SMOD_ID: 23_81204
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_39
+      Admin_name: Al-Hasakah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B13029247631939
+      Admin_geo_ID: SYR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -11291,9 +11325,9 @@ concepts:
       SMOD_ID: 23_81205
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_45
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96470480022323
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -11325,9 +11359,9 @@ concepts:
       SMOD_ID: 23_81206
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -11359,9 +11393,9 @@ concepts:
       SMOD_ID: 23_81207
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_39
+      Admin_name: Al-Hasakah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B13029247631939
+      Admin_geo_ID: SYR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -11393,9 +11427,9 @@ concepts:
       SMOD_ID: 23_81208
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_45
+      Admin_name: Mayadin
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96470480022323
+      Admin_geo_ID: SYR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -11427,9 +11461,9 @@ concepts:
       SMOD_ID: 23_81209
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -11461,9 +11495,9 @@ concepts:
       SMOD_ID: 23_81210
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_39
+      Admin_name: Al-Hasakah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B13029247631939
+      Admin_geo_ID: SYR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -11495,9 +11529,9 @@ concepts:
       SMOD_ID: 23_81211
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_45
+      Admin_name: Mayadin
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96470480022323
+      Admin_geo_ID: SYR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -11529,9 +11563,9 @@ concepts:
       SMOD_ID: 23_81212
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_45
+      Admin_name: Mayadin
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96470480022323
+      Admin_geo_ID: SYR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -11563,9 +11597,9 @@ concepts:
       SMOD_ID: 23_81213
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_44
+      Admin_name: Mayadin
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22276011833046
+      Admin_geo_ID: SYR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -11597,9 +11631,9 @@ concepts:
       SMOD_ID: 23_81214
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_44
+      Admin_name: Abu Kamal
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22276011833046
+      Admin_geo_ID: SYR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -11631,9 +11665,9 @@ concepts:
       SMOD_ID: 23_81215
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_44
+      Admin_name: Abu Kamal
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22276011833046
+      Admin_geo_ID: SYR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -11665,9 +11699,9 @@ concepts:
       SMOD_ID: 23_81216
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_40
+      Admin_name: Al Qamishli
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B53577550578456
+      Admin_geo_ID: SYR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -11699,9 +11733,9 @@ concepts:
       SMOD_ID: 23_81217
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_40
+      Admin_name: Al Qamishli
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B53577550578456
+      Admin_geo_ID: SYR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -11733,9 +11767,9 @@ concepts:
       SMOD_ID: 23_81218
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_44
+      Admin_name: Abu Kamal
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22276011833046
+      Admin_geo_ID: SYR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -11767,9 +11801,9 @@ concepts:
       SMOD_ID: 23_81219
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_44
+      Admin_name: Abu Kamal
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22276011833046
+      Admin_geo_ID: SYR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -11801,9 +11835,9 @@ concepts:
       SMOD_ID: 23_81220
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_44
+      Admin_name: Abu Kamal
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22276011833046
+      Admin_geo_ID: SYR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -11835,9 +11869,9 @@ concepts:
       SMOD_ID: 23_81221
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_44
+      Admin_name: Abu Kamal
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22276011833046
+      Admin_geo_ID: SYR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -11869,9 +11903,9 @@ concepts:
       SMOD_ID: 23_81222
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_44
+      Admin_name: Abu Kamal
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22276011833046
+      Admin_geo_ID: SYR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -11903,9 +11937,9 @@ concepts:
       SMOD_ID: 23_81223
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_44
+      Admin_name: Abu Kamal
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22276011833046
+      Admin_geo_ID: SYR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -11937,9 +11971,9 @@ concepts:
       SMOD_ID: 23_81224
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_40
+      Admin_name: Al Qamishli
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B53577550578456
+      Admin_geo_ID: SYR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -11971,9 +12005,9 @@ concepts:
       SMOD_ID: 23_81225
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_41
+      Admin_name: Al-Malikiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99216687489351
+      Admin_geo_ID: SYR.1.2_1
       Year:
       - '1975'
       - '1980'
@@ -12005,9 +12039,9 @@ concepts:
       SMOD_ID: 23_81226
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_41
+      Admin_name: Al-Malikiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99216687489351
+      Admin_geo_ID: SYR.1.2_1
       Year:
       - '1975'
       - '1980'
@@ -12039,9 +12073,9 @@ concepts:
       SMOD_ID: 23_81227
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_41
+      Admin_name: Al-Malikiyah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B99216687489351
+      Admin_geo_ID: SYR.1.2_1
       Year:
       - '1975'
       - '1980'
@@ -12069,81 +12103,13 @@ concepts:
       - '40002'
       - '43989'
       Settlement_level: Dense Urban Clusters
-   Syria_23_83182:
-      SMOD_ID: 23_83182
-      Country_name: Syria
-      iso3c: SYR
-      Admin_id: Syria_Adm2_9
-      Admin_level: Adm2
-      geo_admin_shapeID: 27442178B60985416821817
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '120'
-      - '144'
-      - '171'
-      - '209'
-      - '253'
-      - '285'
-      - '332'
-      - '348'
-      - '435'
-      - '556'
-      - '602'
-      - '693'
-      Settlement_level: Dense Urban Clusters
-   Syria_23_83275:
-      SMOD_ID: 23_83275
-      Country_name: Syria
-      iso3c: SYR
-      Admin_id: Syria_Adm2_42
-      Admin_level: Adm2
-      geo_admin_shapeID: 27442178B16567144851356
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '3312'
-      - '3807'
-      - '4604'
-      - '5860'
-      - '6581'
-      - '7402'
-      - '7567'
-      - '7722'
-      - '8202'
-      - '8899'
-      - '9740'
-      - '10277'
-      Settlement_level: Dense Urban Clusters
    Syria_30_11738:
       SMOD_ID: 30_11738
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_30
+      Admin_name: Latakia
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B94813764709421
+      Admin_geo_ID: SYR.11.3_1
       Year:
       - '1975'
       - '1980'
@@ -12175,9 +12141,9 @@ concepts:
       SMOD_ID: 30_11739
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_31
+      Admin_name: Jableh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B5090378365720
+      Admin_geo_ID: SYR.11.2_1
       Year:
       - '1975'
       - '1980'
@@ -12205,13 +12171,47 @@ concepts:
       - '101560'
       - '109595'
       Settlement_level: Urban Centres
+   Syria_30_11740:
+      SMOD_ID: 30_11740
+      Country_name: Syria
+      iso3c: SYR
+      Admin_name: Baniyas
+      Admin_level: Adm2
+      Admin_geo_ID: SYR.14.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '34401'
+      - '38723'
+      - '44825'
+      - '51727'
+      - '57180'
+      - '60570'
+      - '62905'
+      - '64971'
+      - '66542'
+      - '64200'
+      - '77906'
+      - '83918'
+      Settlement_level: Urban Centres
    Syria_30_11741:
       SMOD_ID: 30_11741
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_46
+      Admin_name: Tartus
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B78381061793998
+      Admin_geo_ID: SYR.14.5_1
       Year:
       - '1975'
       - '1980'
@@ -12243,9 +12243,9 @@ concepts:
       SMOD_ID: 30_11742
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_34
+      Admin_name: Idlib
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9567094438554
+      Admin_geo_ID: SYR.10.3_1
       Year:
       - '1975'
       - '1980'
@@ -12277,9 +12277,9 @@ concepts:
       SMOD_ID: 30_11743
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_29
+      Admin_name: Muhardeh
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B78133098408237
+      Admin_geo_ID: SYR.8.4_1
       Year:
       - '1975'
       - '1980'
@@ -12311,9 +12311,9 @@ concepts:
       SMOD_ID: 30_11744
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_1
+      Admin_name: Markaz Rif Dimashq
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22471987034404
+      Admin_geo_ID: SYR.13.6_1
       Year:
       - '1975'
       - '1980'
@@ -12345,9 +12345,9 @@ concepts:
       SMOD_ID: 30_11745
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_2
+      Admin_name: Jabal Sam'an
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96508006833869
+      Admin_geo_ID: SYR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -12379,9 +12379,9 @@ concepts:
       SMOD_ID: 30_11746
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_25
+      Admin_name: Hama
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B84195179221003
+      Admin_geo_ID: SYR.8.2_1
       Year:
       - '1975'
       - '1980'
@@ -12413,9 +12413,9 @@ concepts:
       SMOD_ID: 30_11747
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_19
+      Admin_name: Hims
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B91557549439519
+      Admin_geo_ID: SYR.9.4_1
       Year:
       - '1975'
       - '1980'
@@ -12447,9 +12447,9 @@ concepts:
       SMOD_ID: 30_11748
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_54
+      Admin_name: Daraa
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B67726505950673
+      Admin_geo_ID: SYR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -12481,9 +12481,9 @@ concepts:
       SMOD_ID: 30_11749
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_8
+      Admin_name: As-Safirah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22464389911891
+      Admin_geo_ID: SYR.2.5_1
       Year:
       - '1975'
       - '1980'
@@ -12515,9 +12515,9 @@ concepts:
       SMOD_ID: 30_11750
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_3
+      Admin_name: Al Bab
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B24628051118006
+      Admin_geo_ID: SYR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -12549,9 +12549,9 @@ concepts:
       SMOD_ID: 30_11751
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_57
+      Admin_name: As-Suwayda
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B49241886307156
+      Admin_geo_ID: SYR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -12583,9 +12583,9 @@ concepts:
       SMOD_ID: 30_11752
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_6
+      Admin_name: Manbij
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B68936835306318
+      Admin_geo_ID: SYR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -12617,9 +12617,9 @@ concepts:
       SMOD_ID: 30_11753
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_7
+      Admin_name: '''Ayn al-''Arab'
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B6640625460328
+      Admin_geo_ID: SYR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -12651,9 +12651,9 @@ concepts:
       SMOD_ID: 30_11754
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_53
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B46572819209410
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -12685,9 +12685,9 @@ concepts:
       SMOD_ID: 30_11755
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_51
+      Admin_name: Ar-Raqqah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B57458390277946
+      Admin_geo_ID: SYR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -12719,9 +12719,9 @@ concepts:
       SMOD_ID: 30_11756
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_43
+      Admin_name: Deir ez-Zor
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B9541206135539
+      Admin_geo_ID: SYR.7.2_1
       Year:
       - '1975'
       - '1980'
@@ -12753,9 +12753,9 @@ concepts:
       SMOD_ID: 30_11757
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_39
+      Admin_name: Al-Hasakah
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B13029247631939
+      Admin_geo_ID: SYR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -12787,9 +12787,9 @@ concepts:
       SMOD_ID: 30_11758
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_40
+      Admin_name: Al Qamishli
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B53577550578456
+      Admin_geo_ID: SYR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -12821,9 +12821,9 @@ concepts:
       SMOD_ID: 30_11759
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_45
+      Admin_name: Mayadin
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B96470480022323
+      Admin_geo_ID: SYR.7.3_1
       Year:
       - '1975'
       - '1980'
@@ -12855,9 +12855,9 @@ concepts:
       SMOD_ID: 30_11760
       Country_name: Syria
       iso3c: SYR
-      Admin_id: Syria_Adm2_44
+      Admin_name: Abu Kamal
       Admin_level: Adm2
-      geo_admin_shapeID: 27442178B22276011833046
+      Admin_geo_ID: SYR.7.1_1
       Year:
       - '1975'
       - '1980'
@@ -12884,4 +12884,38 @@ concepts:
       - '66222'
       - '84905'
       - '96328'
+      Settlement_level: Urban Centres
+   Syria_30_11761:
+      SMOD_ID: 30_11761
+      Country_name: Syria
+      iso3c: SYR
+      Admin_name: Al-Malikiyah
+      Admin_level: Adm2
+      Admin_geo_ID: SYR.1.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3951'
+      - '4850'
+      - '6024'
+      - '7312'
+      - '9420'
+      - '11599'
+      - '15597'
+      - '19336'
+      - '24730'
+      - '28115'
+      - '32208'
+      - '35325'
       Settlement_level: Urban Centres

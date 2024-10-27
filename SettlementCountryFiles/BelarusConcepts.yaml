@@ -1,45 +1,11 @@
 concepts:
-   Belarus_22_15357:
-      SMOD_ID: 22_15357
-      Country_name: Belarus
-      iso3c: BLR
-      Admin_id: Belarus_Adm2_43
-      Admin_level: Adm2
-      geo_admin_shapeID: 67162791B2494752626310
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '1'
-      - '1'
-      - '1'
-      - '1'
-      - '1'
-      - '1'
-      - '0'
-      - '1'
-      - '1'
-      - '1'
-      - '3'
-      - '3'
-      Settlement_level: Semi-dense Urban Clusters
    Belarus_22_687:
       SMOD_ID: 22_687
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_53
+      Admin_name: Kamyanyets
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B59963656038120
+      Admin_geo_ID: BLR.1.8_1
       Year:
       - '1975'
       - '1980'
@@ -71,9 +37,9 @@ concepts:
       SMOD_ID: 22_688
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_58
+      Admin_name: Zhabinka
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B54933494059720
+      Admin_geo_ID: BLR.1.16_1
       Year:
       - '1975'
       - '1980'
@@ -105,9 +71,9 @@ concepts:
       SMOD_ID: 22_689
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_20
+      Admin_name: Vawkavysk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B87198261111694
+      Admin_geo_ID: BLR.3.15_1
       Year:
       - '1975'
       - '1980'
@@ -139,9 +105,9 @@ concepts:
       SMOD_ID: 22_690
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_23
+      Admin_name: Shchuchyn
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B66420794580046
+      Admin_geo_ID: BLR.3.12_1
       Year:
       - '1975'
       - '1980'
@@ -169,13 +135,47 @@ concepts:
       - '9089'
       - '8424'
       Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_691:
+      SMOD_ID: 22_691
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Voranava
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.16_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '82'
+      - '77'
+      - '76'
+      - '76'
+      - '76'
+      - '69'
+      - '62'
+      - '57'
+      - '50'
+      - '48'
+      - '44'
+      - '51'
+      Settlement_level: Semi-dense Urban Clusters
    Belarus_22_692:
       SMOD_ID: 22_692
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_15
+      Admin_name: Lida
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B46145411949360
+      Admin_geo_ID: BLR.3.8_1
       Year:
       - '1975'
       - '1980'
@@ -207,9 +207,9 @@ concepts:
       SMOD_ID: 22_693
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_8
+      Admin_name: Astravyets
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B54270193950847
+      Admin_geo_ID: BLR.3.2_1
       Year:
       - '1975'
       - '1980'
@@ -241,9 +241,9 @@ concepts:
       SMOD_ID: 22_694
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_49
+      Admin_name: Biaroza
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B6222300561744
+      Admin_geo_ID: BLR.1.2_1
       Year:
       - '1975'
       - '1980'
@@ -275,9 +275,9 @@ concepts:
       SMOD_ID: 22_695
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_51
+      Admin_name: Ivanaw
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B27498157405440
+      Admin_geo_ID: BLR.1.6_1
       Year:
       - '1975'
       - '1980'
@@ -309,9 +309,9 @@ concepts:
       SMOD_ID: 22_696
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_100
+      Admin_name: Valozhyn
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B19881563690612
+      Admin_geo_ID: BLR.5.21_1
       Year:
       - '1975'
       - '1980'
@@ -343,9 +343,9 @@ concepts:
       SMOD_ID: 22_697
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_98
+      Admin_name: Myadzyel
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B89573771278316
+      Admin_geo_ID: BLR.5.12_1
       Year:
       - '1975'
       - '1980'
@@ -377,9 +377,9 @@ concepts:
       SMOD_ID: 22_698
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_111
+      Admin_name: Nyasvizh
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B10653728732828
+      Admin_geo_ID: BLR.5.13_1
       Year:
       - '1975'
       - '1980'
@@ -411,9 +411,9 @@ concepts:
       SMOD_ID: 22_699
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_92
+      Admin_name: Sharkawshchyna
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B8322834804347
+      Admin_geo_ID: BLR.6.15_1
       Year:
       - '1975'
       - '1980'
@@ -445,9 +445,9 @@ concepts:
       SMOD_ID: 22_700
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_111
+      Admin_name: Nyasvizh
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B10653728732828
+      Admin_geo_ID: BLR.5.13_1
       Year:
       - '1975'
       - '1980'
@@ -479,9 +479,9 @@ concepts:
       SMOD_ID: 22_701
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_101
+      Admin_name: Maladechna
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B22380901430791
+      Admin_geo_ID: BLR.5.10_1
       Year:
       - '1975'
       - '1980'
@@ -513,9 +513,9 @@ concepts:
       SMOD_ID: 22_702
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_97
+      Admin_name: Vyerkhnyazdvinsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B82603429459213
+      Admin_geo_ID: BLR.6.21_1
       Year:
       - '1975'
       - '1980'
@@ -547,9 +547,9 @@ concepts:
       SMOD_ID: 22_703
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_110
+      Admin_name: Minsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B84471344127718
+      Admin_geo_ID: BLR.5.11_1
       Year:
       - '1975'
       - '1980'
@@ -581,9 +581,9 @@ concepts:
       SMOD_ID: 22_704
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_81
+      Admin_name: Dokshytsy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B61932293276792
+      Admin_geo_ID: BLR.6.5_1
       Year:
       - '1975'
       - '1980'
@@ -615,9 +615,9 @@ concepts:
       SMOD_ID: 22_705
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_6
+      Admin_name: Dzyarzhynsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B81421428715601
+      Admin_geo_ID: BLR.5.4_1
       Year:
       - '1975'
       - '1980'
@@ -649,9 +649,9 @@ concepts:
       SMOD_ID: 22_706
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_108
+      Admin_name: Lahoysk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B73059269727639
+      Admin_geo_ID: BLR.5.8_1
       Year:
       - '1975'
       - '1980'
@@ -683,9 +683,9 @@ concepts:
       SMOD_ID: 22_707
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_44
+      Admin_name: Stolin
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B20391469538668
+      Admin_geo_ID: BLR.1.15_1
       Year:
       - '1975'
       - '1980'
@@ -717,9 +717,9 @@ concepts:
       SMOD_ID: 22_708
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_108
+      Admin_name: Lahoysk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B73059269727639
+      Admin_geo_ID: BLR.5.8_1
       Year:
       - '1975'
       - '1980'
@@ -751,9 +751,9 @@ concepts:
       SMOD_ID: 22_709
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_91
+      Admin_name: Rasony
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B65560195088656
+      Admin_geo_ID: BLR.6.14_1
       Year:
       - '1975'
       - '1980'
@@ -785,9 +785,9 @@ concepts:
       SMOD_ID: 22_710
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_118
+      Admin_name: Salihorsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B12460087089540
+      Admin_geo_ID: BLR.5.15_1
       Year:
       - '1975'
       - '1980'
@@ -819,9 +819,9 @@ concepts:
       SMOD_ID: 22_711
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_118
+      Admin_name: Salihorsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B12460087089540
+      Admin_geo_ID: BLR.5.15_1
       Year:
       - '1975'
       - '1980'
@@ -853,9 +853,9 @@ concepts:
       SMOD_ID: 22_712
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_44
+      Admin_name: Stolin
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B20391469538668
+      Admin_geo_ID: BLR.1.15_1
       Year:
       - '1975'
       - '1980'
@@ -887,9 +887,9 @@ concepts:
       SMOD_ID: 22_713
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_118
+      Admin_name: Salihorsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B12460087089540
+      Admin_geo_ID: BLR.5.15_1
       Year:
       - '1975'
       - '1980'
@@ -921,9 +921,9 @@ concepts:
       SMOD_ID: 22_714
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_96
+      Admin_name: Ushat
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B55947192119521
+      Admin_geo_ID: BLR.6.19_1
       Year:
       - '1975'
       - '1980'
@@ -955,9 +955,9 @@ concepts:
       SMOD_ID: 22_715
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_114
+      Admin_name: Smalyavichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B46914171064537
+      Admin_geo_ID: BLR.5.17_1
       Year:
       - '1975'
       - '1980'
@@ -989,9 +989,9 @@ concepts:
       SMOD_ID: 22_716
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_109
+      Admin_name: Lyuban
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B60458568388386
+      Admin_geo_ID: BLR.5.9_1
       Year:
       - '1975'
       - '1980'
@@ -1023,9 +1023,9 @@ concepts:
       SMOD_ID: 22_717
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_104
+      Admin_name: Chervyen
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B52884935059856
+      Admin_geo_ID: BLR.5.3_1
       Year:
       - '1975'
       - '1980'
@@ -1057,9 +1057,9 @@ concepts:
       SMOD_ID: 22_718
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_25
+      Admin_name: ?ytkavi?y
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B281573745440
+      Admin_geo_ID: BLR.2.21_1
       Year:
       - '1975'
       - '1980'
@@ -1091,9 +1091,9 @@ concepts:
       SMOD_ID: 22_719
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_115
+      Admin_name: Staryya Darohi
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B98065545782790
+      Admin_geo_ID: BLR.5.18_1
       Year:
       - '1975'
       - '1980'
@@ -1125,9 +1125,9 @@ concepts:
       SMOD_ID: 22_720
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_80
+      Admin_name: Chashniki
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B63587233546026
+      Admin_geo_ID: BLR.6.4_1
       Year:
       - '1975'
       - '1980'
@@ -1159,9 +1159,9 @@ concepts:
       SMOD_ID: 22_721
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_78
+      Admin_name: Byeshankovichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B20127655381780
+      Admin_geo_ID: BLR.6.3_1
       Year:
       - '1975'
       - '1980'
@@ -1193,9 +1193,9 @@ concepts:
       SMOD_ID: 22_722
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_107
+      Admin_name: Krupki
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B85718992399445
+      Admin_geo_ID: BLR.5.7_1
       Year:
       - '1975'
       - '1980'
@@ -1227,9 +1227,9 @@ concepts:
       SMOD_ID: 22_723
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_93
+      Admin_name: Shumilina
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B70451788382486
+      Admin_geo_ID: BLR.6.16_1
       Year:
       - '1975'
       - '1980'
@@ -1261,9 +1261,9 @@ concepts:
       SMOD_ID: 22_724
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_103
+      Admin_name: Byarezino
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B55727051267470
+      Admin_geo_ID: BLR.5.2_1
       Year:
       - '1975'
       - '1980'
@@ -1295,9 +1295,9 @@ concepts:
       SMOD_ID: 22_725
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_73
+      Admin_name: Hlusk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B26256964844328
+      Admin_geo_ID: BLR.4.8_1
       Year:
       - '1975'
       - '1980'
@@ -1329,9 +1329,9 @@ concepts:
       SMOD_ID: 22_726
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_24
+      Admin_name: Lyelchytsy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B62905803070856
+      Admin_geo_ID: BLR.2.11_1
       Year:
       - '1975'
       - '1980'
@@ -1363,9 +1363,9 @@ concepts:
       SMOD_ID: 22_727
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_83
+      Admin_name: Haradok
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B30546828632542
+      Admin_geo_ID: BLR.6.7_1
       Year:
       - '1975'
       - '1980'
@@ -1397,9 +1397,9 @@ concepts:
       SMOD_ID: 22_728
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_26
+      Admin_name: Aktsyabar
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B76840313346110
+      Admin_geo_ID: BLR.2.1_1
       Year:
       - '1975'
       - '1980'
@@ -1431,9 +1431,9 @@ concepts:
       SMOD_ID: 22_729
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_95
+      Admin_name: Talachyn
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B51675752120435
+      Admin_geo_ID: BLR.6.18_1
       Year:
       - '1975'
       - '1980'
@@ -1465,9 +1465,9 @@ concepts:
       SMOD_ID: 22_730
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_77
+      Admin_name: Klichaw
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B97539600295477
+      Admin_geo_ID: BLR.4.13_1
       Year:
       - '1975'
       - '1980'
@@ -1499,9 +1499,9 @@ concepts:
       SMOD_ID: 22_731
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_72
+      Admin_name: Bialynichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B99339401725810
+      Admin_geo_ID: BLR.4.3_1
       Year:
       - '1975'
       - '1980'
@@ -1533,9 +1533,9 @@ concepts:
       SMOD_ID: 22_732
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_76
+      Admin_name: Kirawsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B61593564131840
+      Admin_geo_ID: BLR.4.12_1
       Year:
       - '1975'
       - '1980'
@@ -1567,9 +1567,9 @@ concepts:
       SMOD_ID: 22_733
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_40
+      Admin_name: Yel'sk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B11100068414031
+      Admin_geo_ID: BLR.2.19_1
       Year:
       - '1975'
       - '1980'
@@ -1601,9 +1601,9 @@ concepts:
       SMOD_ID: 22_734
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_68
+      Admin_name: Shklow
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B50878075194487
+      Admin_geo_ID: BLR.4.20_1
       Year:
       - '1975'
       - '1980'
@@ -1635,9 +1635,9 @@ concepts:
       SMOD_ID: 22_735
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_86
+      Admin_name: Lyozna
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B19917337499758
+      Admin_geo_ID: BLR.6.10_1
       Year:
       - '1975'
       - '1980'
@@ -1669,9 +1669,9 @@ concepts:
       SMOD_ID: 22_736
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_82
+      Admin_name: Dubrowna
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B1773631612848
+      Admin_geo_ID: BLR.6.6_1
       Year:
       - '1975'
       - '1980'
@@ -1703,9 +1703,9 @@ concepts:
       SMOD_ID: 22_737
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_42
+      Admin_name: Khoyniki
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B63950130624576
+      Admin_geo_ID: BLR.2.9_1
       Year:
       - '1975'
       - '1980'
@@ -1737,9 +1737,9 @@ concepts:
       SMOD_ID: 22_738
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_70
+      Admin_name: Chavusy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B68481301764251
+      Admin_geo_ID: BLR.4.5_1
       Year:
       - '1975'
       - '1980'
@@ -1771,9 +1771,9 @@ concepts:
       SMOD_ID: 22_739
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_34
+      Admin_name: Buda-Kashalyowa
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B74774527984565
+      Admin_geo_ID: BLR.2.3_1
       Year:
       - '1975'
       - '1980'
@@ -1805,9 +1805,9 @@ concepts:
       SMOD_ID: 22_740
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_32
+      Admin_name: Karma
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B17316516711258
+      Admin_geo_ID: BLR.2.8_1
       Year:
       - '1975'
       - '1980'
@@ -1839,9 +1839,9 @@ concepts:
       SMOD_ID: 22_741
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_66
+      Admin_name: Slawharad
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B95045439516357
+      Admin_geo_ID: BLR.4.21_1
       Year:
       - '1975'
       - '1980'
@@ -1873,9 +1873,9 @@ concepts:
       SMOD_ID: 22_742
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_31
+      Admin_name: Chachersk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B26710857863794
+      Admin_geo_ID: BLR.2.4_1
       Year:
       - '1975'
       - '1980'
@@ -1907,9 +1907,9 @@ concepts:
       SMOD_ID: 22_743
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_64
+      Admin_name: Cherykaw
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B83279044546130
+      Admin_geo_ID: BLR.4.6_1
       Year:
       - '1975'
       - '1980'
@@ -1941,9 +1941,9 @@ concepts:
       SMOD_ID: 22_744
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_65
+      Admin_name: Ms'tsislaw
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B4778855273895
+      Admin_geo_ID: BLR.4.19_1
       Year:
       - '1975'
       - '1980'
@@ -1975,9 +1975,9 @@ concepts:
       SMOD_ID: 22_745
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_61
+      Admin_name: Krasnapolle
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B52564132020414
+      Admin_geo_ID: BLR.4.15_1
       Year:
       - '1975'
       - '1980'
@@ -2009,9 +2009,9 @@ concepts:
       SMOD_ID: 22_746
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_43
+      Admin_name: Loyew
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B2494752626310
+      Admin_geo_ID: BLR.2.10_1
       Year:
       - '1975'
       - '1980'
@@ -2043,9 +2043,9 @@ concepts:
       SMOD_ID: 22_747
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_28
+      Admin_name: Vyetka
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B72598168140482
+      Admin_geo_ID: BLR.2.18_1
       Year:
       - '1975'
       - '1980'
@@ -2077,9 +2077,9 @@ concepts:
       SMOD_ID: 22_748
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_29
+      Admin_name: Dobru?
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B17030122378697
+      Admin_geo_ID: BLR.2.5_1
       Year:
       - '1975'
       - '1980'
@@ -2111,9 +2111,9 @@ concepts:
       SMOD_ID: 22_749
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_62
+      Admin_name: Klimavichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B58533541453403
+      Admin_geo_ID: BLR.4.14_1
       Year:
       - '1975'
       - '1980'
@@ -2145,9 +2145,9 @@ concepts:
       SMOD_ID: 22_750
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_60
+      Admin_name: Kastsyukovichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B14569635979911
+      Admin_geo_ID: BLR.4.10_1
       Year:
       - '1975'
       - '1980'
@@ -2179,9 +2179,9 @@ concepts:
       SMOD_ID: 22_751
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_59
+      Admin_name: Khotsimsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B11584975294724
+      Admin_geo_ID: BLR.4.11_1
       Year:
       - '1975'
       - '1980'
@@ -2213,9 +2213,9 @@ concepts:
       SMOD_ID: 23_5151
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_3
+      Admin_name: Hrodna
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B13547290723272
+      Admin_geo_ID: BLR.3.5_1
       Year:
       - '1975'
       - '1980'
@@ -2247,9 +2247,9 @@ concepts:
       SMOD_ID: 23_5152
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_3
+      Admin_name: Hrodna
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B13547290723272
+      Admin_geo_ID: BLR.3.5_1
       Year:
       - '1975'
       - '1980'
@@ -2281,9 +2281,9 @@ concepts:
       SMOD_ID: 23_5153
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_20
+      Admin_name: Vawkavysk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B87198261111694
+      Admin_geo_ID: BLR.3.15_1
       Year:
       - '1975'
       - '1980'
@@ -2315,9 +2315,9 @@ concepts:
       SMOD_ID: 23_5154
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_22
+      Admin_name: Masty
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B96733958179229
+      Admin_geo_ID: BLR.3.9_1
       Year:
       - '1975'
       - '1980'
@@ -2349,9 +2349,9 @@ concepts:
       SMOD_ID: 23_5155
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_56
+      Admin_name: Malaryta
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B17752609820062
+      Admin_geo_ID: BLR.1.12_1
       Year:
       - '1975'
       - '1980'
@@ -2383,9 +2383,9 @@ concepts:
       SMOD_ID: 23_5156
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_57
+      Admin_name: Pruzhany
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B13478011403583
+      Admin_geo_ID: BLR.1.14_1
       Year:
       - '1975'
       - '1980'
@@ -2417,9 +2417,9 @@ concepts:
       SMOD_ID: 23_5157
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_54
+      Admin_name: Kobryn
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B1192676397695
+      Admin_geo_ID: BLR.1.9_1
       Year:
       - '1975'
       - '1980'
@@ -2451,9 +2451,9 @@ concepts:
       SMOD_ID: 23_5158
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_15
+      Admin_name: Lida
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B46145411949360
+      Admin_geo_ID: BLR.3.8_1
       Year:
       - '1975'
       - '1980'
@@ -2485,9 +2485,9 @@ concepts:
       SMOD_ID: 23_5159
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_49
+      Admin_name: Biaroza
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B6222300561744
+      Admin_geo_ID: BLR.1.2_1
       Year:
       - '1975'
       - '1980'
@@ -2519,9 +2519,9 @@ concepts:
       SMOD_ID: 23_5160
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_17
+      Admin_name: Slonim
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B56929358145249
+      Admin_geo_ID: BLR.3.13_1
       Year:
       - '1975'
       - '1980'
@@ -2553,9 +2553,9 @@ concepts:
       SMOD_ID: 23_5161
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_10
+      Admin_name: Ashmyany
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B18933715013959
+      Admin_geo_ID: BLR.3.1_1
       Year:
       - '1975'
       - '1980'
@@ -2587,9 +2587,9 @@ concepts:
       SMOD_ID: 23_5162
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_52
+      Admin_name: Ivatsevichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B15775504283911
+      Admin_geo_ID: BLR.1.7_1
       Year:
       - '1975'
       - '1980'
@@ -2621,9 +2621,9 @@ concepts:
       SMOD_ID: 23_5163
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_50
+      Admin_name: Drahichyn
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B13228782215285
+      Admin_geo_ID: BLR.1.4_1
       Year:
       - '1975'
       - '1980'
@@ -2655,9 +2655,9 @@ concepts:
       SMOD_ID: 23_5164
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_14
+      Admin_name: Navahradak
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B21439902878143
+      Admin_geo_ID: BLR.3.10_1
       Year:
       - '1975'
       - '1980'
@@ -2689,9 +2689,9 @@ concepts:
       SMOD_ID: 23_5165
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_9
+      Admin_name: Smarhon
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B9257777977100
+      Admin_geo_ID: BLR.3.14_1
       Year:
       - '1975'
       - '1980'
@@ -2723,9 +2723,9 @@ concepts:
       SMOD_ID: 23_5166
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_51
+      Admin_name: Ivanaw
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B27498157405440
+      Admin_geo_ID: BLR.1.6_1
       Year:
       - '1975'
       - '1980'
@@ -2757,9 +2757,9 @@ concepts:
       SMOD_ID: 23_5167
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_79
+      Admin_name: Braslaw
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B18102707107362
+      Admin_geo_ID: BLR.6.2_1
       Year:
       - '1975'
       - '1980'
@@ -2791,9 +2791,9 @@ concepts:
       SMOD_ID: 23_5168
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_89
+      Admin_name: Pastavy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B41761210959552
+      Admin_geo_ID: BLR.6.12_1
       Year:
       - '1975'
       - '1980'
@@ -2825,9 +2825,9 @@ concepts:
       SMOD_ID: 23_5169
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_99
+      Admin_name: Vileyka
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B71807573158689
+      Admin_geo_ID: BLR.5.22_1
       Year:
       - '1975'
       - '1980'
@@ -2859,9 +2859,9 @@ concepts:
       SMOD_ID: 23_5170
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_87
+      Admin_name: Myory
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B84307245476990
+      Admin_geo_ID: BLR.6.11_1
       Year:
       - '1975'
       - '1980'
@@ -2893,9 +2893,9 @@ concepts:
       SMOD_ID: 23_5171
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_47
+      Admin_name: Hancavichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B6713137002494
+      Admin_geo_ID: BLR.1.5_1
       Year:
       - '1975'
       - '1980'
@@ -2927,9 +2927,9 @@ concepts:
       SMOD_ID: 23_5172
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_116
+      Admin_name: Stowbtsy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B19818766020383
+      Admin_geo_ID: BLR.5.19_1
       Year:
       - '1975'
       - '1980'
@@ -2961,9 +2961,9 @@ concepts:
       SMOD_ID: 23_5173
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_106
+      Admin_name: Klyetsak
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B94687657655016
+      Admin_geo_ID: BLR.5.6_1
       Year:
       - '1975'
       - '1980'
@@ -2995,9 +2995,9 @@ concepts:
       SMOD_ID: 23_5174
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_84
+      Admin_name: Hlybokaye
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B12228546801080
+      Admin_geo_ID: BLR.6.8_1
       Year:
       - '1975'
       - '1980'
@@ -3029,9 +3029,9 @@ concepts:
       SMOD_ID: 23_5175
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_6
+      Admin_name: Dzyarzhynsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B81421428715601
+      Admin_geo_ID: BLR.5.4_1
       Year:
       - '1975'
       - '1980'
@@ -3063,9 +3063,9 @@ concepts:
       SMOD_ID: 23_5176
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_45
+      Admin_name: Luninets
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B41216407156673
+      Admin_geo_ID: BLR.1.10_1
       Year:
       - '1975'
       - '1980'
@@ -3097,9 +3097,9 @@ concepts:
       SMOD_ID: 23_5177
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_113
+      Admin_name: Slutsak
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B93573624741448
+      Admin_geo_ID: BLR.5.16_1
       Year:
       - '1975'
       - '1980'
@@ -3131,9 +3131,9 @@ concepts:
       SMOD_ID: 23_5178
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_90
+      Admin_name: Polatsak
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B45929653886900
+      Admin_geo_ID: BLR.6.13_1
       Year:
       - '1975'
       - '1980'
@@ -3165,9 +3165,9 @@ concepts:
       SMOD_ID: 23_5179
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_118
+      Admin_name: Salihorsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B12460087089540
+      Admin_geo_ID: BLR.5.15_1
       Year:
       - '1975'
       - '1980'
@@ -3199,9 +3199,9 @@ concepts:
       SMOD_ID: 23_5180
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_118
+      Admin_name: Salihorsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B12460087089540
+      Admin_geo_ID: BLR.5.15_1
       Year:
       - '1975'
       - '1980'
@@ -3233,9 +3233,9 @@ concepts:
       SMOD_ID: 23_5181
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_114
+      Admin_name: Smalyavichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B46914171064537
+      Admin_geo_ID: BLR.5.17_1
       Year:
       - '1975'
       - '1980'
@@ -3267,9 +3267,9 @@ concepts:
       SMOD_ID: 23_5182
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_90
+      Admin_name: Polatsak
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B45929653886900
+      Admin_geo_ID: BLR.6.13_1
       Year:
       - '1975'
       - '1980'
@@ -3301,9 +3301,9 @@ concepts:
       SMOD_ID: 23_5183
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_44
+      Admin_name: Stolin
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B20391469538668
+      Admin_geo_ID: BLR.1.15_1
       Year:
       - '1975'
       - '1980'
@@ -3335,9 +3335,9 @@ concepts:
       SMOD_ID: 23_5184
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_45
+      Admin_name: Luninets
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B41216407156673
+      Admin_geo_ID: BLR.1.10_1
       Year:
       - '1975'
       - '1980'
@@ -3369,9 +3369,9 @@ concepts:
       SMOD_ID: 23_5185
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_85
+      Admin_name: Lyepyel
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B29799454608156
+      Admin_geo_ID: BLR.6.9_1
       Year:
       - '1975'
       - '1980'
@@ -3403,9 +3403,9 @@ concepts:
       SMOD_ID: 23_5186
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_112
+      Admin_name: Pukhavichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B58974730621112
+      Admin_geo_ID: BLR.5.14_1
       Year:
       - '1975'
       - '1980'
@@ -3437,9 +3437,9 @@ concepts:
       SMOD_ID: 23_5187
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_80
+      Admin_name: Chashniki
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B63587233546026
+      Admin_geo_ID: BLR.6.4_1
       Year:
       - '1975'
       - '1980'
@@ -3471,9 +3471,9 @@ concepts:
       SMOD_ID: 23_5188
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_75
+      Admin_name: Asipovichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B915008440335
+      Admin_geo_ID: BLR.4.1_1
       Year:
       - '1975'
       - '1980'
@@ -3505,9 +3505,9 @@ concepts:
       SMOD_ID: 23_5189
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_36
+      Admin_name: Mazyr
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B88851399193905
+      Admin_geo_ID: BLR.2.12_1
       Year:
       - '1975'
       - '1980'
@@ -3539,9 +3539,9 @@ concepts:
       SMOD_ID: 23_5190
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_36
+      Admin_name: Mazyr
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B88851399193905
+      Admin_geo_ID: BLR.2.12_1
       Year:
       - '1975'
       - '1980'
@@ -3573,9 +3573,9 @@ concepts:
       SMOD_ID: 23_5191
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_41
+      Admin_name: Kalinkavichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B95934163913722
+      Admin_geo_ID: BLR.2.7_1
       Year:
       - '1975'
       - '1980'
@@ -3607,9 +3607,9 @@ concepts:
       SMOD_ID: 23_5192
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_36
+      Admin_name: Mazyr
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B88851399193905
+      Admin_geo_ID: BLR.2.12_1
       Year:
       - '1975'
       - '1980'
@@ -3641,9 +3641,9 @@ concepts:
       SMOD_ID: 23_5193
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_36
+      Admin_name: Mazyr
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B88851399193905
+      Admin_geo_ID: BLR.2.12_1
       Year:
       - '1975'
       - '1980'
@@ -3675,9 +3675,9 @@ concepts:
       SMOD_ID: 23_5194
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_38
+      Admin_name: Svyetlahorsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B63369954237676
+      Admin_geo_ID: BLR.2.17_1
       Year:
       - '1975'
       - '1980'
@@ -3709,9 +3709,9 @@ concepts:
       SMOD_ID: 23_5195
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_38
+      Admin_name: Svyetlahorsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B63369954237676
+      Admin_geo_ID: BLR.2.17_1
       Year:
       - '1975'
       - '1980'
@@ -3743,9 +3743,9 @@ concepts:
       SMOD_ID: 23_5196
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_5
+      Admin_name: Bykhaw
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B64614066939299
+      Admin_geo_ID: BLR.4.4_1
       Year:
       - '1975'
       - '1980'
@@ -3777,9 +3777,9 @@ concepts:
       SMOD_ID: 23_5197
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_33
+      Admin_name: Rahachow
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B93010244041694
+      Admin_geo_ID: BLR.2.15_1
       Year:
       - '1975'
       - '1980'
@@ -3811,9 +3811,9 @@ concepts:
       SMOD_ID: 23_5198
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_71
+      Admin_name: Mogilev
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B13586571917215
+      Admin_geo_ID: BLR.4.18_1
       Year:
       - '1975'
       - '1980'
@@ -3845,9 +3845,9 @@ concepts:
       SMOD_ID: 23_5199
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_71
+      Admin_name: Mogilev
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B13586571917215
+      Admin_geo_ID: BLR.4.18_1
       Year:
       - '1975'
       - '1980'
@@ -3879,9 +3879,9 @@ concepts:
       SMOD_ID: 23_5200
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_1
+      Admin_name: ?lobin
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B87321103764300
+      Admin_geo_ID: BLR.2.20_1
       Year:
       - '1975'
       - '1980'
@@ -3913,9 +3913,9 @@ concepts:
       SMOD_ID: 23_5201
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_67
+      Admin_name: Horki
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B10713618148259
+      Admin_geo_ID: BLR.4.9_1
       Year:
       - '1975'
       - '1980'
@@ -3947,9 +3947,9 @@ concepts:
       SMOD_ID: 23_5202
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_37
+      Admin_name: Rechytsa
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B36955231142498
+      Admin_geo_ID: BLR.2.16_1
       Year:
       - '1975'
       - '1980'
@@ -3981,9 +3981,9 @@ concepts:
       SMOD_ID: 23_5203
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_63
+      Admin_name: Krychaw
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B56678014739115
+      Admin_geo_ID: BLR.4.17_1
       Year:
       - '1975'
       - '1980'
@@ -4015,9 +4015,9 @@ concepts:
       SMOD_ID: 23_5204
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_63
+      Admin_name: Krychaw
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B56678014739115
+      Admin_geo_ID: BLR.4.17_1
       Year:
       - '1975'
       - '1980'
@@ -4045,47 +4045,13 @@ concepts:
       - '5607'
       - '5220'
       Settlement_level: Dense Urban Clusters
-   Belarus_23_86921:
-      SMOD_ID: 23_86921
-      Country_name: Belarus
-      iso3c: BLR
-      Admin_id: Belarus_Adm2_39
-      Admin_level: Adm2
-      geo_admin_shapeID: 67162791B77344314095023
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '22284'
-      - '22615'
-      - '23045'
-      - '23537'
-      - '23843'
-      - '23374'
-      - '23207'
-      - '23436'
-      - '24000'
-      - '23561'
-      - '20794'
-      - '20552'
-      Settlement_level: Dense Urban Clusters
    Belarus_30_709:
       SMOD_ID: 30_709
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_3
+      Admin_name: Hrodna
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B13547290723272
+      Admin_geo_ID: BLR.3.5_1
       Year:
       - '1975'
       - '1980'
@@ -4117,9 +4083,9 @@ concepts:
       SMOD_ID: 30_710
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_4
+      Admin_name: Brest
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B30498032594927
+      Admin_geo_ID: BLR.1.3_1
       Year:
       - '1975'
       - '1980'
@@ -4151,9 +4117,9 @@ concepts:
       SMOD_ID: 30_711
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_48
+      Admin_name: Baranavichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B97838850570601
+      Admin_geo_ID: BLR.1.1_1
       Year:
       - '1975'
       - '1980'
@@ -4185,9 +4151,9 @@ concepts:
       SMOD_ID: 30_712
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_101
+      Admin_name: Maladechna
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B22380901430791
+      Admin_geo_ID: BLR.5.10_1
       Year:
       - '1975'
       - '1980'
@@ -4219,9 +4185,9 @@ concepts:
       SMOD_ID: 30_713
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_46
+      Admin_name: Pinsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B61405599198646
+      Admin_geo_ID: BLR.1.13_1
       Year:
       - '1975'
       - '1980'
@@ -4253,9 +4219,9 @@ concepts:
       SMOD_ID: 30_714
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_7
+      Admin_name: Minsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B57724394311820
+      Admin_geo_ID: BLR.5.11_1
       Year:
       - '1975'
       - '1980'
@@ -4287,9 +4253,9 @@ concepts:
       SMOD_ID: 30_715
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_90
+      Admin_name: Polatsak
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B45929653886900
+      Admin_geo_ID: BLR.6.13_1
       Year:
       - '1975'
       - '1980'
@@ -4321,9 +4287,9 @@ concepts:
       SMOD_ID: 30_716
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_102
+      Admin_name: Smalyavichy
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B39606099444015
+      Admin_geo_ID: BLR.5.17_1
       Year:
       - '1975'
       - '1980'
@@ -4355,9 +4321,9 @@ concepts:
       SMOD_ID: 30_717
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_102
+      Admin_name: Barysaw
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B39606099444015
+      Admin_geo_ID: BLR.5.1_1
       Year:
       - '1975'
       - '1980'
@@ -4389,9 +4355,9 @@ concepts:
       SMOD_ID: 30_718
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_74
+      Admin_name: Babruysk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B49466941565536
+      Admin_geo_ID: BLR.4.2_1
       Year:
       - '1975'
       - '1980'
@@ -4423,9 +4389,9 @@ concepts:
       SMOD_ID: 30_719
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_2
+      Admin_name: Vitebsk
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B85815486219336
+      Admin_geo_ID: BLR.6.20_1
       Year:
       - '1975'
       - '1980'
@@ -4457,9 +4423,9 @@ concepts:
       SMOD_ID: 30_720
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_88
+      Admin_name: Arsha
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B52368794321360
+      Admin_geo_ID: BLR.6.1_1
       Year:
       - '1975'
       - '1980'
@@ -4491,9 +4457,9 @@ concepts:
       SMOD_ID: 30_721
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_71
+      Admin_name: Mogilev
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B13586571917215
+      Admin_geo_ID: BLR.4.18_1
       Year:
       - '1975'
       - '1980'
@@ -4525,9 +4491,9 @@ concepts:
       SMOD_ID: 30_722
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_30
+      Admin_name: Gomyel
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B13261784360532
+      Admin_geo_ID: BLR.2.6_1
       Year:
       - '1975'
       - '1980'
@@ -4559,9 +4525,9 @@ concepts:
       SMOD_ID: 30_723
       Country_name: Belarus
       iso3c: BLR
-      Admin_id: Belarus_Adm2_30
+      Admin_name: Gomyel
       Admin_level: Adm2
-      geo_admin_shapeID: 67162791B13261784360532
+      Admin_geo_ID: BLR.2.6_1
       Year:
       - '1975'
       - '1980'

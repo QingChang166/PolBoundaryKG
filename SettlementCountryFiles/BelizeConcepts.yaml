@@ -3,9 +3,9 @@ concepts:
       SMOD_ID: 22_752
       Country_name: Belize
       iso3c: BLZ
-      Admin_id: Belize_Adm2_31
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B76393603142959
+      Admin_name: Belize
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.1_1
       Year:
       - '1975'
       - '1980'
@@ -37,9 +37,9 @@ concepts:
       SMOD_ID: 22_753
       Country_name: Belize
       iso3c: BLZ
-      Admin_id: Belize_Adm2_15
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B54087410472023
+      Admin_name: Corozal
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.3_1
       Year:
       - '1975'
       - '1980'
@@ -67,47 +67,13 @@ concepts:
       - '3378'
       - '3341'
       Settlement_level: Semi-dense Urban Clusters
-   Belize_23_5205:
-      SMOD_ID: 23_5205
-      Country_name: Belize
-      iso3c: BLZ
-      Admin_id: Belize_Adm2_10
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B60992682417348
-      Year:
-      - '1975'
-      - '1980'
-      - '1985'
-      - '1990'
-      - '1995'
-      - '2000'
-      - '2005'
-      - '2010'
-      - '2015'
-      - '2020'
-      - '2025'
-      - '2030'
-      Population:
-      - '3358'
-      - '3590'
-      - '3841'
-      - '4083'
-      - '4171'
-      - '4418'
-      - '4955'
-      - '5413'
-      - '5710'
-      - '5891'
-      - '6141'
-      - '6507'
-      Settlement_level: Dense Urban Clusters
    Belize_23_5206:
       SMOD_ID: 23_5206
       Country_name: Belize
       iso3c: BLZ
-      Admin_id: Belize_Adm2_7
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B94766097213569
+      Admin_name: Toledo
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.6_1
       Year:
       - '1975'
       - '1980'
@@ -139,9 +105,9 @@ concepts:
       SMOD_ID: 23_5207
       Country_name: Belize
       iso3c: BLZ
-      Admin_id: Belize_Adm2_8
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B56382702891578
+      Admin_name: Cayo
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.2_1
       Year:
       - '1975'
       - '1980'
@@ -173,9 +139,9 @@ concepts:
       SMOD_ID: 23_5208
       Country_name: Belize
       iso3c: BLZ
-      Admin_id: Belize_Adm2_12
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B54194515366168
+      Admin_name: Cayo
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.2_1
       Year:
       - '1975'
       - '1980'
@@ -207,9 +173,9 @@ concepts:
       SMOD_ID: 23_5209
       Country_name: Belize
       iso3c: BLZ
-      Admin_id: Belize_Adm2_1
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B83071961973491
+      Admin_name: Toledo
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.6_1
       Year:
       - '1975'
       - '1980'
@@ -237,13 +203,47 @@ concepts:
       - '5707'
       - '5820'
       Settlement_level: Dense Urban Clusters
+   Belize_23_5210:
+      SMOD_ID: 23_5210
+      Country_name: Belize
+      iso3c: BLZ
+      Admin_name: Stann Creek
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '561'
+      - '674'
+      - '829'
+      - '1000'
+      - '1110'
+      - '1258'
+      - '1398'
+      - '1498'
+      - '1613'
+      - '1908'
+      - '1961'
+      - '2056'
+      Settlement_level: Dense Urban Clusters
    Belize_23_5211:
       SMOD_ID: 23_5211
       Country_name: Belize
       iso3c: BLZ
-      Admin_id: Belize_Adm2_17
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B2347802332561
+      Admin_name: Orange Walk
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.4_1
       Year:
       - '1975'
       - '1980'
@@ -275,9 +275,9 @@ concepts:
       SMOD_ID: 23_5212
       Country_name: Belize
       iso3c: BLZ
-      Admin_id: Belize_Adm2_6
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B99535609172770
+      Admin_name: Stann Creek
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.5_1
       Year:
       - '1975'
       - '1980'
@@ -309,9 +309,9 @@ concepts:
       SMOD_ID: 23_5213
       Country_name: Belize
       iso3c: BLZ
-      Admin_id: Belize_Adm2_13
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B17189259529244
+      Admin_name: Corozal
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.3_1
       Year:
       - '1975'
       - '1980'
@@ -343,9 +343,9 @@ concepts:
       SMOD_ID: 30_724
       Country_name: Belize
       iso3c: BLZ
-      Admin_id: Belize_Adm2_21
-      Admin_level: Adm2
-      geo_admin_shapeID: 1456440B59769308078565
+      Admin_name: Belize
+      Admin_level: Adm1
+      Admin_geo_ID: BLZ.1_1
       Year:
       - '1975'
       - '1980'

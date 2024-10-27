@@ -3,9 +3,9 @@ concepts:
       SMOD_ID: 23_62311
       Country_name: Kiribati
       iso3c: KIR
-      Admin_id: Kiribati_Adm2_7
-      Admin_level: Adm2
-      geo_admin_shapeID: 32618148B78495147867108
+      Admin_name: Kiribati
+      Admin_level: Adm0
+      Admin_geo_ID: KIR
       Year:
       - '1975'
       - '1980'
@@ -37,9 +37,9 @@ concepts:
       SMOD_ID: 23_62312
       Country_name: Kiribati
       iso3c: KIR
-      Admin_id: Kiribati_Adm2_23
-      Admin_level: Adm2
-      geo_admin_shapeID: 32618148B40735312671902
+      Admin_name: Kiribati
+      Admin_level: Adm0
+      Admin_geo_ID: KIR
       Year:
       - '1975'
       - '1980'
@@ -66,4 +66,38 @@ concepts:
       - '10089'
       - '11753'
       - '13450'
+      Settlement_level: Dense Urban Clusters
+   Kiribati_23_62313:
+      SMOD_ID: 23_62313
+      Country_name: Kiribati
+      iso3c: KIR
+      Admin_name: Kiribati
+      Admin_level: Adm0
+      Admin_geo_ID: KIR
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3244'
+      - '3844'
+      - '4747'
+      - '6100'
+      - '7527'
+      - '9449'
+      - '11749'
+      - '14468'
+      - '17084'
+      - '19529'
+      - '22213'
+      - '24720'
       Settlement_level: Dense Urban Clusters
