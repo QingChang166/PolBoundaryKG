@@ -1,0 +1,528 @@
+---
+title: "Geo Boundary Data"
+output: html_document
+author: "Qing Chang"
+date: "2025-02-14"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("~/PolBoundaryKG/")
+library(DescTools)
+library(geodata)
+library(tidyverse)
+library(states)
+library(yaml)
+library(countrycode)
+library(r2country)
+library(sf)
+```
+
+This document contains steps to construct spatial boundary knowledge files in CountryFiles folder. 
+
+# Download Globael Data to Form a Country List
+
+```{r}
+world <- world(resolution=2, path = "~/PolBoundaryKG/R_Files/gadm")
+
+world <- st_as_sf(world)
+
+write_sf(world, "~/PolBoundaryKG/R_Files/gadm/world.shp")
+
+code_list <- world %>% 
+  st_drop_geometry() %>% 
+  `$`(GID_0) %>%
+  unique()
+
+```
+
+
+# Download Country Level Spatial Files Based on Country List 
+
+```{r}
+admin0 <- data.frame()
+
+for (i in 1:length(code_list)) {
+  
+  print(code_list[i])
+  
+  tryCatch(
+    {
+      temp <- gadm(code_list[i], level=0, path = "~/Dropbox/PolBoundaryKG/R_Files/gadm")
+      temp <- as.data.frame(temp)
+      
+      admin0 <- bind_rows(admin0,temp)} , error = function(e) {
+        print("There is no admin0 in this country")
+        
+      } 
+  )
+  
+  
+}
+```
+
+
+GADM spatial boundaries include both UN recognized independent states and conflict territories. 
+Therefore, we need to identify independent states using data from [REST](https://restcountries.com/).
+We use variable "independent" in "countriesV3.1.json" stored in their [GitLab](https://gitlab.com/restcountries/restcountries/-/tree/master/src/main/resources?ref_type=heads). 
+
+```{r}
+
+json_data <- jsonlite::fromJSON("~/PolBoundaryKG/R_Files/countriesV3.1.json",
+                                flatten=TRUE,
+                                simplifyVector = F)
+
+country_infors <- json_data %>% 
+  map(unlist) %>% 
+  map_df(bind_rows) %>% 
+  select(GID_0 = cca3, is_independent = independent, continents) %>% 
+  as.data.frame()
+
+admin0 <- admin0 %>% 
+  left_join(country_infors, 
+            by = "GID_0")
+
+admin0  <- admin0  %>% 
+  mutate( 
+    is_independent = if_else(COUNTRY == "Akrotiri and Dhekelia", "FALSE", is_independent), 
+         is_independent = if_else(COUNTRY == "Caspian Sea", "FALSE", is_independent), 
+         is_independent = if_else(COUNTRY == "Clipperton Island", "FALSE", is_independent), 
+         is_independent = if_else(COUNTRY == "Kosovo", "FALSE", is_independent), 
+         is_independent = if_else(COUNTRY == "Paracel Islands", "FALSE", is_independent),
+         continents = if_else(COUNTRY == "Akrotiri and Dhekelia", "Europe", continents),
+         continents = if_else(COUNTRY == "Caspian Sea", "Europe", continents), 
+         continents = if_else(COUNTRY == "Clipperton Island", "Oceania", continents), 
+         continents = if_else(COUNTRY == "Kosovo", "Europe", continents), 
+         continents = if_else(COUNTRY == "Paracel Islands", "Asia", continents),
+         #is_independent = if_else(str_detect(GID_0, "Z0"), "Disputed Area", is_independent),
+    continents = if_else(is.na(continents) , "Asia", continents)
+         ) %>% 
+  filter(!str_detect(GID_0, "Z0"))
+
+
+write_rds(admin0, "~/PolBoundaryKG/R_Files/gadm/admin0_gadm.rds")
+
+```
+
+# Download and Process Admin 1
+
+```{r}
+
+admin1 <- data.frame()
+
+  
+for (i in 1:length(code_list)) {
+  
+  print(code_list[i])
+  
+  tryCatch(
+    {
+    temp <- gadm(code_list[i], level=1, path = "~/Dropbox/PolBoundaryKG/R_Files/gadm")
+    temp <- as.data.frame(temp)
+    
+    admin1 <- bind_rows(admin1,temp)} , error = function(e) {
+      print("There is no admin1 in this country")
+      
+    } 
+  )
+  
+  
+}
+
+```
+
+
+We fixed naming and spatial boundary mistakes in Ukraine and British.
+
+
+```{r}
+
+### Ukraine first
+
+UkR <- read_rds("~/PolBoundaryKG/R_Files/gadm/gadm/gadm41_UKR_1_pk.rds")
+UkR <- unwrap(UkR)
+UkR <- st_as_sf(UkR)
+
+missing_part <- UkR[which(UkR$GID_1=="?"), ]
+join_part <- UkR[which(UkR$GID_1=="UKR.11_1"), ]
+together <- st_union(join_part, missing_part)
+together <- together[ ,-c(12:22)]
+UkR <- UkR[ -which(UkR$GID_1=="?" | UkR$GID_1=="UKR.11_1"), ]
+
+UkR <- bind_rows(UkR,together)
+UkR <- vect(UkR)
+UkR <- wrap(UkR)
+write_rds(UkR, "~/PolBoundaryKG/R_Files/gadm/gadm/gadm41_UKR_1_pk.rds")
+
+### British second
+
+GBR <- read_rds("~/PolBoundaryKG/R_Files/gadm/gadm/gadm41_GBR_1_pk.rds")
+GBR <- unwrap(GBR)
+GBR <- st_as_sf(GBR)
+
+GBR <- GBR %>% 
+  mutate(NAME_1 = if_else(GID_1 == "GBR.1_1","England",NAME_1))
+
+missing_part <- GBR[which(is.na(GBR$GID_1)), ]
+join_part <- GBR[which(GBR$GID_1=="GBR.3_1"), ]
+together <- st_union(join_part, missing_part)
+together <- together[ ,-c(12:22)]
+GBR <- GBR[ -which(is.na(GBR$GID_1) | GBR$GID_1=="GBR.3_1"), ]
+
+GBR <- bind_rows(GBR,together)
+GBR <- vect(GBR)
+GBR <- wrap(GBR)
+write_rds(GBR, "~/PolBoundaryKG/R_Files/gadm/gadm/gadm41_GBR_1_pk.rds")
+
+
+## Then correct values in admin1 files 
+UKR <- read_rds("~/PolBoundaryKG/R_Files/gadm/gadm/gadm41_UKR_1_pk.rds") 
+UKR <- as.data.frame(unwrap(UKR))
+GBR <- read_rds("~/PolBoundaryKG/R_Files/gadm/gadm/gadm41_GBR_1_pk.rds")
+GBR <- as.data.frame(unwrap(GBR))
+
+admin1 <- admin1 %>% 
+  filter(GID_0!= "UKR" & GID_0!= "GBR") %>% 
+  filter(!is.na(GID_0))
+
+admin1 <- bind_rows(admin1, UKR,GBR)
+
+write_rds(admin1, "~/PolBoundaryKG/R_Files/gadm/admin1_gadm.rds")
+
+```
+
+
+# Download and Process Admin 2
+
+
+```{r}
+admin2 <- data.frame()
+
+for (i in 1:length(code_list)) {
+  
+  print(code_list[i])
+  
+  tryCatch(
+    {
+    temp <- gadm(code_list[i], level=2, path = "~/PolBoundaryKG/R_Files/gadm")
+    temp <- as.data.frame(temp)
+    
+    admin2 <- bind_rows(admin2,temp)} , error = function(e) {
+      print("There is no admin2 in country")
+    
+    } 
+  )
+  
+  
+}
+```
+
+We fixed naming and mistakes in Ukraine.
+
+```{r}
+## Correct Ukrainian  admin2 names
+
+admin2 <- admin2 %>% 
+  mutate(GID_1 = ifelse(GID_0 == "UKR"&GID_1=="?", "UKR.11_1", GID_1),
+         NAME_1 = ifelse(GID_0 == "UKR" & NAME_1=="?", "Kiev City", NAME_1),
+         NAME_2 = ifelse(GID_0 == "UKR" & NAME_2=="?", "Darnytskyi", NAME_2))
+
+## Correct British admin2 names
+
+admin2 <- admin2 %>% 
+  mutate(GID_1 = ifelse(GID_2 == "GBR.1.6_1", "GBR.1_1", GID_1),
+         GID_1 = ifelse(GID_2 == "GBR.3.27_1", "GBR.3_1", GID_1))
+
+
+
+write_rds(admin2, "~/PolBoundaryKG/R_Files/gadm/admin2_gadm.rds")
+
+```
+
+# Create a File With All Admins and Spatial Geometry
+
+
+```{r}
+admin0_copy <- admin0 %>% 
+  select(GID = GID_0, admin_name = COUNTRY) %>% 
+  mutate(iso3c = GID,
+         country_name = admin_name,
+         admin_level = "Adm0",
+         admin_new_name = paste0(GID, ".", "0", "_", admin_level)) 
+  
+
+admin1_copy <- admin1 %>% 
+  select(GID = GID_1, admin_name = NAME_1, iso3c = GID_0, country_name=COUNTRY) %>% 
+  mutate(
+         admin_level = "Adm1",
+         admin_new_name = paste0(GID, "_", admin_level)) 
+
+
+admin2_copy <- admin2 %>% 
+  select(GID = GID_2, admin_name = NAME_2, iso3c = GID_0, country_name=COUNTRY) %>% 
+  mutate(
+    admin_level = "Adm2",
+    admin_new_name = paste0(GID, "_", admin_level)) 
+
+admin_whole <- bind_rows(admin0_copy, admin1_copy, admin2_copy)
+
+```
+
+
+Now merge back with spatial polygon to add spatial geometry information.
+
+```{r}
+## Admin0 
+
+filenames <- list.files("~/PolBoundaryKG/R_Files/gadm/gadm", pattern="0_pk.rds", full.names=TRUE)
+
+admin0_shp <- lapply(filenames, function(i){
+  temp <- read_rds(i)
+  temp <- unwrap(temp)
+  temp <- st_as_sf(temp)
+  return(temp)
+}) %>% bind_rows()
+
+admin0_shp <- admin0_shp %>% 
+  select(GID = GID_0)
+
+admin0_shp <- merge(admin0_shp, admin0_copy, by = "GID")
+
+admin0_shp <- admin0_shp %>% 
+  select(-admin_new_name)
+
+write_rds(admin0_shp, "~/PolBoundaryKG/R_Files/gadm/admin_whole_shp/admin0_shp.rds")
+
+## Admin1 
+
+filenames <- list.files("~/PolBoundaryKG/R_Files/gadm/gadm", pattern="1_pk.rds", full.names=TRUE)
+
+admin1_shp <- lapply(filenames, function(i){
+  temp <- read_rds(i)
+  temp <- unwrap(temp)
+  temp <- st_as_sf(temp)
+  return(temp)
+}) %>% bind_rows()
+
+admin1_shp <- admin1_shp %>% 
+  select(GID = GID_1)
+
+admin1_shp <- merge(admin1_shp, admin1_copy, by = "GID")
+
+admin1_shp <- admin1_shp %>% 
+  select(-admin_new_name)
+
+
+write_rds(admin1_shp, "~/PolBoundaryKG/R_Files/gadm/admin_whole_shp/admin1_shp.rds")
+
+## Admin2
+
+filenames <- list.files("~/PolBoundaryKG/R_Files/gadm/gadm", pattern="_2_pk.rds", full.names=TRUE)
+
+admin2_shp <- lapply(filenames, function(i){
+  temp <- read_rds(i)
+  temp <- unwrap(temp)
+  temp <- st_as_sf(temp)
+  return(temp)
+}) %>% bind_rows()
+
+admin2_shp <- admin2_shp %>% 
+  select(GID = GID_2)
+
+admin2_shp <- merge(admin2_shp, admin2_copy, by = "GID")
+
+admin2_shp <- admin2_shp %>% 
+  select(-admin_new_name)
+
+
+write_rds(admin2_shp, "~/PolBoundaryKG/R_Files/gadm/admin_whole_shp/admin2_shp.rds")
+```
+
+There are many missing administration names across different administration levels, we use 
+[GeoNames Web Services](https://www.geonames.org/export/ws-overview.html) to find missing.
+In order to use this service, you need to first register [here](https://www.geonames.org/login), and 
+remember your username to be used for each request.
+
+
+```{r}
+################ Step1: 
+############### get a list of data missing admin names and save for later
+
+admin_whole_shp <- bind_rows(admin0_shp, admin1_shp, admin2_shp)
+
+admin_missing <- admin_whole_shp %>% 
+  filter(is.na(admin_name) | str_detect(admin_name,"[\\?]"))
+
+
+################ Step2: 
+############### read functions to send request and receive data 
+
+source("GNfindNearby.R")
+
+################ Step3: 
+############### Using geonames web services to find missing
+options(geonamesUsername= "\Your_User_Name")
+sf::sf_use_s2(FALSE)
+
+coord <- missing_names %>% 
+  st_centroid() %>% 
+  st_coordinates() %>% 
+  as.data.frame()
+
+coord$level <- ifelse(missing_names$admn_lv == "Adm1", "ADM1", "ADM2")
+coord$GID <- missing_names$GID
+coord$web_name <- NA
+
+for (i in 1:nrow(coord)) {
+  
+  tryCatch(
+    {
+      temp <- suppressWarnings(GNfindNearby(lat = coord$Y[i], lng = coord$X[i], featureCode = coord$level[i]))
+      
+      coord$web_name[i] <- temp[["geonames"]][[1]][["name"]]
+      
+      print(paste0(i, " Finish!" ))
+      
+    } , error = function(e) {
+      print(paste0("There is a mistake in ", i ))
+      
+    } 
+  )
+  
+}
+
+missing_names <- missing_names %>% 
+  st_drop_geometry() %>% 
+  select(GID, iso3c, country_name = cntry_n, admin_level = admn_lv) %>% 
+  mutate( admin_new_name = paste0(GID, "_", admin_level))
+
+
+coord <- coord %>% 
+  select(GID, admin_name = web_name) %>% 
+  left_join(missing_names, by = "GID")
+
+
+# Remove missing names and add back geonames ones 
+
+admin_whole <- admin_whole %>% 
+  filter(!is.na(admin_name) ) %>% 
+  filter(!str_detect(admin_name,"[\\?]"))
+
+admin_whole <- bind_rows(admin_whole, coord)
+```
+
+# Create Concept and Edge Files
+
+```{r}
+# Create file for concept
+
+admin_whole <- admin_whole %>% 
+  mutate(admin_id = str_replace_all(country_name, fixed(" "), ""),
+       admin_id = str_replace_all(admin_id, "[\r\n]" , ""),
+       admin_id = str_replace_all(admin_id, "," , "")
+       )
+
+
+# Create file for relation
+
+admin01_relation <- admin1 %>% 
+  select(GID_0, GID_1, country_name = COUNTRY) %>% 
+  mutate(
+    iso3c = GID_0,
+    GID_0 = paste0(GID_0, ".", "0", "_", "Adm0"),
+    GID_1 = paste0(GID_1, "_", "Adm1")) %>% 
+  mutate(relation = paste0("(",GID_0, ", ", GID_1, ")")) %>% 
+  mutate(admin_id = str_replace_all(country_name, fixed(" "), ""),
+         admin_id = str_replace_all(admin_id, "[\r\n]" , ""),
+         admin_id = str_replace_all(admin_id, "," , "")
+  ) %>% 
+  select(iso3c, relation,  admin_id)
+
+
+admin12_relation <- admin2 %>% 
+  select(GID_1, GID_2, iso3c = GID_0, country_name = COUNTRY) %>% 
+  mutate(
+    GID_1 = paste0(GID_1, "_", "Adm1"),
+    GID_2 = paste0(GID_2, "_", "Adm2")) %>% 
+  mutate(relation = paste0("(",GID_1, ", ", GID_2, ")")) %>% 
+  mutate(admin_id = str_replace_all(country_name, fixed(" "), ""),
+         admin_id = str_replace_all(admin_id, "[\r\n]" , ""),
+         admin_id = str_replace_all(admin_id, "," , "")
+  ) %>% 
+  select(iso3c, relation,  admin_id)
+
+
+admin_relation_all <- bind_rows(admin01_relation,admin12_relation)
+
+## begin to create country files
+
+path <- "~/PolBoundaryKG/CountryFiles/"
+
+name_list <- unique(admin_relation_all$admin_id)
+
+
+for (i in 1:length(name_list)) {
+  
+  
+  name_concept <- paste0(path, name_list[i], "Concepts.yaml")
+  name_relation <- paste0(path, name_list[i], "Edges.yaml")
+  
+  df <- admin_whole %>% 
+    filter(admin_id == name_list[i]) %>% 
+    select(-admin_id)
+  
+  
+  df_concept <- list(concepts=split(replace(df, "admin_new_name", NULL), df$admin_new_name))
+  
+  write_yaml(df_concept, name_concept)
+  
+  
+  df_relation <- admin_relation_all %>% 
+    filter(admin_id == name_list[i])
+  
+  
+  write_yaml(data.frame(relations= df_relation$relation), indent = 4, 
+             indent.mapping.sequence =T, name_relation)
+  
+}
+
+## create global concept
+
+global_data <-  admin0 %>% 
+  select(GID = GID_0, country_name = COUNTRY, continents) %>% 
+  mutate(iso3c = GID,
+         admin_new_name = paste0(GID, ".", "0", "_", "Adm0")) %>% 
+  mutate(continent = str_replace_all(continents, fixed(" "), ""),
+         continent = str_replace_all(continent, "[\r\n]" , ""),
+         continent = str_replace_all(continent, "," , "")
+  ) %>% 
+  mutate( continent = paste0(continent, "Continent")) 
+
+## step 1: add country nodes 
+country_node=split(replace(global_data %>% select(-continent), "admin_new_name", NULL), global_data$admin_new_name)
+
+## step 2: add continents nodes 
+conten <- global_data %>% 
+  group_by(continent, continents) %>% 
+  distinct(continent) %>% 
+  ungroup() %>% 
+  rename(Continent_name = continents)
+
+conten_node = split(replace(conten, "continent", NULL), conten$continent)
+
+df_concept <- list(concepts = append(conten_node, country_node))
+
+write_yaml(df_concept, "~/PolBoundaryKG/GlobalConcepts.yaml")
+
+
+## create global relation
+
+
+global_data <-  global_data %>% 
+  mutate(relation = paste0("(",continent, ", ",admin_new_name, ")")) 
+
+write_yaml(data.frame(relations= global_data $relation), indent = 4, 
+           indent.mapping.sequence =T, "~/PolBoundaryKG/GlobalEdges.yaml")
+```
+
+

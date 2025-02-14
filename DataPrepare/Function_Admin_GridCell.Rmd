@@ -1,0 +1,140 @@
+---
+title: "Step-by-step Admin-Gridcell Assignment Process"
+author: "Laura Chelidonopoulos"
+date: "2025-02-06"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("/Users/laurachelidonopoulos/Documents/University of Pittsburgh/PolBoundaryKG/")
+library(tidyverse)
+library(haven)
+library(sf)
+library(sp)
+library(tmap)
+```
+
+This document outlines the process of assigning grid cells to administrative units using spatial data and the plurality rule. It also explains how unmatched grid cells (orphans) are identified and saved for further investigation.
+
+We follow these main steps: 1) load the spatial data (grid cells and administrative boundaries); 2) assign grid cells to administrative units using the plurality rule, and 3) identify and save unmatched grid cells.
+
+```{r, message=FALSE, warning=FALSE}
+# Load admin admin and priogrid files
+admin0 <- readRDS("admin0_shp.rds")
+admin1 <- readRDS("admin1_shp.rds")
+admin2 <- readRDS("admin2_shp.rds")
+pgsh <- st_read("priogrid_cellshp/priogrid_cell.shp")
+```
+
+## Function: Stepwise Grid Cell Assignment
+
+The core of the process is the `assign_grid_cells_stepwise()` function, which assigns each grid cell to an administrative unit using a hierarchical plurality rule:
+
+1.  **Admin2 Assignment:** Assign each grid cell to the Admin2 unit with which it has the largest area of overlap.
+
+2.  **Admin1 Assignment:** For any grid cells not assigned in the previous step, assign them to the Admin1 unit with the largest overlap.
+
+3.  **Admin0 Assignment:** Finally, any remaining unmatched grid cells are assigned to the Admin0 unit.
+
+The function ensures that grid cells are uniquely assigned at each step and discards overlaps that do not have the largest area.
+
+```{r, message=FALSE, warning=FALSE}
+assign_grid_cells_stepwise <- function(grid, admin2, admin1, admin0) {
+  
+  # Assign by a specific admin level
+  assign_by_level <- function(grid, admin, admin_level) {
+    intersections <- st_intersection(grid, admin) %>%
+      mutate(overlap_area = st_area(.)) %>%  # Calculate area of overlap
+      st_drop_geometry()  # Drop geometry for area-based calculations
+    
+    # Select the admin unit with the maximum overlap for each grid cell
+    assigned <- intersections %>%
+      group_by(gid) %>%
+      slice_max(overlap_area, n = 1) %>%
+      ungroup()
+    
+    return(assigned)
+  }
+  
+  # Step 1: Assign grid cells to Admin2
+  assigned_admin2 <- assign_by_level(grid, admin2, "admin2")
+  remaining_grid <- grid[!grid$gid %in% assigned_admin2$gid, ]
+  
+  # Step 2: Assign remaining grid cells to Admin1
+  assigned_admin1 <- assign_by_level(remaining_grid, admin1, "admin1")
+  remaining_grid <- remaining_grid[!remaining_grid$gid %in% assigned_admin1$gid, ]
+  
+  # Step 3: Assign remaining grid cells to Admin0
+  assigned_admin0 <- assign_by_level(remaining_grid, admin0, "admin0")
+  
+  # Return the assigned grid cells at each level
+  return(list(
+    assigned_admin2 = assigned_admin2,
+    assigned_admin1 = assigned_admin1,
+    assigned_admin0 = assigned_admin0
+  ))
+}
+```
+
+## Apply the Function to Assign Grid Cells
+
+We now apply the function to the full data set and save the results.
+
+```{r, message=FALSE, warning=FALSE}
+results <- assign_grid_cells_stepwise(
+  grid = pgsh, 
+  admin2 = admin2, 
+  admin1 = admin1, 
+  admin0 = admin0
+)
+
+# Save!
+assigned_admin2 <- results$assigned_admin2
+save(assigned_admin2, file = "assigned_admin2.RData")
+assigned_admin1 <- results$assigned_admin1
+save(assigned_admin1, file = "assigned_admin1.RData")
+assigned_admin0 <- results$assigned_admin0
+save(assigned_admin0, file = "assigned_admin0.RData")
+```
+
+This results in three sets of assigned grid cells:
+
+-   **`assigned_admin2`:** Grid cells assigned at the Admin2 level.
+
+-   **`assigned_admin1`:** Grid cells assigned at the Admin1 level.
+
+-   **`assigned_admin0`:** Grid cells assigned at the Admin0 level.
+
+## Identify and Save Unmatched (Orphan) Grid Cells
+
+Grid cells that could not be assigned to any administrative unit are considered orphans. Essentially, they are not connected to any parent, and are usually located in bodies of water. These unmatched cells are identified by filtering out grid cells that appear in any of the assigned lists.
+
+```{r, message=FALSE, warning=FALSE}
+# Collect assigned grid cell IDs
+assigned_gids <- c(
+  results$assigned_admin2$gid,
+  results$assigned_admin1$gid,
+  results$assigned_admin0$gid
+)
+
+# Identify unmatched grid cells
+unmatched_pgsh <- pgsh %>%
+  filter(!gid %in% assigned_gids) # 163338 unmatched grid cells
+
+# Save!
+save(unmatched_pgsh, file = "unmatched_pgsh.RData")
+```
+
+To visualize the unmatched grid cells in a map, we can use the code below.
+
+```{r, message=FALSE, warning=FALSE}
+# Plot orphaned grid cells to analyze their locations
+ggplot(data = unmatched_pgsh) +
+  geom_sf(aes(geometry = geometry), color = "red", size = 0.1) +
+  theme_minimal() +
+  labs(title = "Orphan PRIO-Grid Cells",
+       subtitle = "Grid cells not assigned to any admin boundary") +
+  annotation_scale(location = "bl") + 
+  annotation_north_arrow(location = "bl", which_north = "true")
+```
