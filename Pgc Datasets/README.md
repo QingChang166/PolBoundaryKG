@@ -10,27 +10,27 @@ All datasets have been saved on .gpkg format (with geometry columns converted to
 
 ### Final Assignments
 
--   `valid_grid_admin_assignments.parquet`\
+-   `valid_grid_admin_assignments.gpkg`\
     Grid cells assigned to the largest-overlapping valid administrative unit, using a hierarchical fallback (Admin2 → Admin1 → Admin0). Only valid admin units (those larger than the area of all grid cells they intersect with) were used.
 
--   `all_grid_admin_assignments.parquet`\
+-   `all_grid_admin_assignments.gpkg`\
     Grid cells assigned using all admin units, including both valid and non-valid units (smaller than the area of any grid cell they intersect with). Ensures full coverage by allowing matches to any overlapping unit.
 
 ------------------------------------------------------------------------
 
 ### Grid–Admin Intersections
 
--   `grid_admin_all_levels_intersections.parquet`\
+-   `grid_admin_all_levels_intersections.gpkg`\
     Long-format table showing all grid cell and admin unit intersections across levels (Admin0–2). Includes the area of overlap (in km²), the percent of grid cell area covered, and whether the admin unit is valid.
 
 ------------------------------------------------------------------------
 
 ### Unassigned and Orphan Units
 
--   `no_parent_gid.parquet`\
+-   `no_parent_gid.gpkg`\
     Grid cells that could not be assigned to any administrative unit after the full bottom-up procedure. These are typically located in water bodies.
 
--   `orphans_admins.parquet`\
+-   `orphans_admins.gpkg`\
     Administrative units that were too small to validly claim any grid cell. This includes Admin0, Admin1, and Admin2 units excluded from the assignment process.
 
 ------------------------------------------------------------------------
