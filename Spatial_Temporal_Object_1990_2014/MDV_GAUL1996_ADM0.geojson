@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MDV_GAUL1996_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "MDV_GAUL1996_ADM0_154", "ADM0_ISO3": "MDV", "ADM0_NAME": "Maldives", "ADM0_CODE": 154, "GEOSET": "GAUL", "GEOSET_YEAR": 1996.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": 73.086807241890938, "CENTROID_LAT": -0.60426702075937677 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 73.0875024, -0.5848929 ], [ 73.0815697, -0.5919012 ], [ 73.0984788, -0.6149947 ], [ 73.0899609, -0.6196357 ], [ 73.0758896, -0.590448 ], [ 73.0875024, -0.5848929 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BMU_GAUL2013_ADM2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "BMU_GAUL2013_ADM2_5938", "ADM0_ISO3": "BMU", "ADM0_NAME": "Bermuda", "ADM0_CODE": 30, "ADM1_NAME": "Administrative unit not available", "ADM1_CODE": 621, "ADM2_NAME": "Administrative unit not available", "ADM2_CODE": 5938, "GEOSET": "GAUL", "GEOSET_YEAR": 2013.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM2", "CENTROID_LONG": -64.756822140741406, "CENTROID_LAT": 32.308742579883535 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.7140732, 32.3492241 ], [ -64.7043991, 32.3297958 ], [ -64.7904663, 32.2664452 ], [ -64.8047256, 32.2984276 ], [ -64.7140732, 32.3492241 ] ] ] ] } }
+]
+}

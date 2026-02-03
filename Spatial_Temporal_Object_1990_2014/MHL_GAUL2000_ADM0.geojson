@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MHL_GAUL2000_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "MHL_GAUL2000_ADM0_157", "ADM0_ISO3": "MHL", "ADM0_NAME": "Marshall Islands", "ADM0_CODE": 157, "GEOSET": "GAUL", "GEOSET_YEAR": 2000.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": 168.41148455448763, "CENTROID_LAT": 5.7736562381365557 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 171.0654207, 7.1141981 ], [ 171.0517859, 7.1216617 ], [ 171.038756299999989, 7.1375796 ], [ 171.0294077, 7.1427839 ], [ 171.029842800000011, 7.1524351 ], [ 171.0380702, 7.1550278 ], [ 171.041511500000013, 7.1391036 ], [ 171.051773700000012, 7.1238559 ], [ 171.0654207, 7.1141981 ] ] ], [ [ [ 168.0894807, 5.6438466 ], [ 168.1366234, 5.6358611 ], [ 168.1220499, 5.5885921 ], [ 168.0992751, 5.5907648 ], [ 168.0894807, 5.6438466 ] ] ] ] } }
+]
+}

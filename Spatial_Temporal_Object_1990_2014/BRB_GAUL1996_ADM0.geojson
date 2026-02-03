@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BRB_GAUL1996_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "BRB_GAUL1996_ADM0_24", "ADM0_ISO3": "BRB", "ADM0_NAME": "Barbados", "ADM0_CODE": 24, "GEOSET": "GAUL", "GEOSET_YEAR": 1996.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": -59.556859232732855, "CENTROID_LAT": 13.173294571963673 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -59.6124255, 13.3346271 ], [ -59.5763852, 13.3071068 ], [ -59.5654675, 13.2716557 ], [ -59.5377356, 13.2275017 ], [ -59.4863574, 13.1917215 ], [ -59.4284654, 13.1630599 ], [ -59.4200862, 13.1487937 ], [ -59.4543812, 13.0914719 ], [ -59.5030419, 13.053836 ], [ -59.6128417, 13.0784406 ], [ -59.6369302, 13.1329342 ], [ -59.6381318, 13.1879443 ], [ -59.6508347, 13.3056618 ], [ -59.6377026, 13.3257157 ], [ -59.6124255, 13.3346271 ] ] ] ] } }
+]
+}

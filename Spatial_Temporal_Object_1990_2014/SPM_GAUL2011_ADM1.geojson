@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SPM_GAUL2011_ADM1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "SPM_GAUL2011_ADM1_39511", "ADM0_ISO3": "SPM", "ADM0_NAME": "Saint Pierre et Miquelon", "ADM0_CODE": 210, "ADM1_NAME": "Miquelon-Langlade", "ADM1_CODE": 39511, "GEOSET": "GAUL", "GEOSET_YEAR": 2011.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM1", "CENTROID_LONG": -56.320342659460437, "CENTROID_LAT": 46.959557492297996 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -56.3439727, 47.1436041 ], [ -56.3781438, 47.1029587 ], [ -56.2535381, 47.0585644 ], [ -56.2701635, 46.9992289 ], [ -56.3021778, 46.9798051 ], [ -56.3255856, 46.9249971 ], [ -56.2385223, 46.8705442 ], [ -56.2433759, 46.8436715 ], [ -56.3440852, 46.7848021 ], [ -56.3700681, 46.8231892 ], [ -56.3307979, 46.8966119 ], [ -56.3288593, 46.9346203 ], [ -56.361581, 47.0070171 ], [ -56.3832619, 47.0208866 ], [ -56.3912876, 47.126703 ], [ -56.3439727, 47.1436041 ] ] ] ] } },
+{ "type": "Feature", "properties": { "POLYGON_ID": "SPM_GAUL2011_ADM1_39512", "ADM0_ISO3": "SPM", "ADM0_NAME": "Saint Pierre et Miquelon", "ADM0_CODE": 210, "ADM1_NAME": "Saint-Pierre", "ADM1_CODE": 39512, "GEOSET": "GAUL", "GEOSET_YEAR": 2011.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM1", "CENTROID_LONG": -56.1971193, "CENTROID_LAT": 46.7798503 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -56.1656223, 46.8151547 ], [ -56.1915853, 46.7577147 ], [ -56.2341503, 46.7666815 ], [ -56.1656223, 46.8151547 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PCN_GAUL2014_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "PCN_GAUL2014_ADM0_197", "ADM0_ISO3": "PCN", "ADM0_NAME": "Pitcairn", "ADM0_CODE": 197, "GEOSET": "GAUL", "GEOSET_YEAR": 2014.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": -128.3231519414166, "CENTROID_LAT": -24.374080079527367 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -128.3013014, -24.3315638 ], [ -128.3065478, -24.3492857 ], [ -128.291881499999988, -24.4174835 ], [ -128.336964, -24.4071864 ], [ -128.3567587, -24.364621 ], [ -128.3404831, -24.3373798 ], [ -128.3013014, -24.3315638 ] ] ] ] } }
+]
+}

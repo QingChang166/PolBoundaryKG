@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TKL_GAUL2008_ADM2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "TKL_GAUL2008_ADM2_27406", "ADM0_ISO3": "TKL", "ADM0_NAME": "Tokelau", "ADM0_CODE": 244, "ADM1_NAME": "Administrative unit not available", "ADM1_CODE": 2975, "ADM2_NAME": "Administrative unit not available", "ADM2_CODE": 27406, "GEOSET": "GAUL", "GEOSET_YEAR": 2008.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM2", "CENTROID_LONG": -171.78247296867866, "CENTROID_LAT": -9.1665062554167953 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -171.7875785, -9.1348455 ], [ -171.7864457, -9.1503136 ], [ -171.782335100000012, -9.1683656 ], [ -171.7751136, -9.1874553 ], [ -171.7684141, -9.2083483 ], [ -171.7833807, -9.1719721 ], [ -171.7872391, -9.1572713 ], [ -171.7899133, -9.1350982 ], [ -171.7875785, -9.1348455 ] ] ] ] } }
+]
+}

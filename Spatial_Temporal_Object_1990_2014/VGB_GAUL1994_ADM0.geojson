@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "VGB_GAUL1994_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "VGB_GAUL1994_ADM0_39", "ADM0_ISO3": "VGB", "ADM0_NAME": "British Virgin Islands", "ADM0_CODE": 39, "GEOSET": "GAUL", "GEOSET_YEAR": 1994.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": -64.552095091670253, "CENTROID_LAT": 18.502598844021115 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.3161309, 18.7434356 ], [ -64.3216846, 18.7166188 ], [ -64.3884792, 18.7270978 ], [ -64.3823562, 18.7485115 ], [ -64.3161309, 18.7434356 ] ] ], [ [ [ -64.5637216, 18.4594523 ], [ -64.5532892, 18.4418415 ], [ -64.5687289, 18.4217756 ], [ -64.6716069, 18.382514 ], [ -64.677703, 18.4015292 ], [ -64.644022, 18.4539102 ], [ -64.591682, 18.4456924 ], [ -64.5637216, 18.4594523 ] ] ] ] } }
+]
+}

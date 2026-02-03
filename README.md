@@ -28,9 +28,11 @@ This repository contains the following files used to build the spatial knowledge
 
 ## Data Source
 
-All administrative spatial files are sourced from GADM, which can be accessed [here](https://gadm.org/). Alternatively, If you are a R user, you can download these files using the R package “[geodata](https://github.com/rspatial/geodata).” 
+All administrative spatial files for 2024 are sourced from GADM, which can be accessed [here](https://gadm.org/). Alternatively, If you are a R user, you can download these files using the R package “[geodata](https://github.com/rspatial/geodata).” 
 
 If you want to merge your own data with our processed administrative data, you can access it [here](https://www.dropbox.com/scl/fo/rxruup0zl37mvqajsdz1f/ABlv70ASzZRBf-HwBNTGxkw?rlkey=onsoeozu15jojyr6mv0elhkqs&dl=0). The files admin0_gadm, admin1_gadm, and admin2_gadm represent geospatial data for the country level, administrative level 1, and administrative level 2, respectively.
+
+All histortical administrative spatial files in Spatial_Temporal_Object_1990_2014 folder come from [The Subnational Geospatial Data Archive](https://www.sungeo.org/).
 
 ## Data Process and Final Output
 

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MCO_GAUL2003_ADM1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "MCO_GAUL2003_ADM1_2074", "ADM0_ISO3": "MCO", "ADM0_NAME": "Monaco", "ADM0_CODE": 166, "ADM1_NAME": "Administrative unit not available", "ADM1_CODE": 2074, "GEOSET": "GAUL", "GEOSET_YEAR": 2003.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM1", "CENTROID_LONG": 7.4226544672361916, "CENTROID_LAT": 43.751593155818888 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 7.4522862, 43.7618866 ], [ 7.406805, 43.7319603 ], [ 7.39575, 43.74449 ], [ 7.43678, 43.76952 ], [ 7.4522862, 43.7618866 ] ] ] ] } }
+]
+}
