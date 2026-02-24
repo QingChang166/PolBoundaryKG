@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "VAT_GAUL1991_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "VAT_GAUL1991_ADM0_110", "ADM0_ISO3": "VAT", "ADM0_NAME": "Holy See", "ADM0_CODE": 110, "GEOSET": "GAUL", "GEOSET_YEAR": 1991.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": 12.452113181508757, "CENTROID_LAT": 41.903488953553811 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 12.45451, 41.90022 ], [ 12.44577, 41.90192 ], [ 12.45052, 41.90653 ], [ 12.45767, 41.90578 ], [ 12.45451, 41.90022 ] ] ] ] } }
+]
+}

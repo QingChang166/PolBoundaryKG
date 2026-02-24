@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MSR_GAUL2010_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "MSR_GAUL2010_ADM0_168", "ADM0_ISO3": "MSR", "ADM0_NAME": "Montserrat", "ADM0_CODE": 168, "GEOSET": "GAUL", "GEOSET_YEAR": 2010.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": -62.190393935690366, "CENTROID_LAT": 16.740044540009912 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -62.1990257, 16.8238428 ], [ -62.1802834, 16.8162615 ], [ -62.1686104, 16.7709036 ], [ -62.153089, 16.7579927 ], [ -62.144532, 16.6961459 ], [ -62.1606263, 16.6763401 ], [ -62.1900615, 16.6755442 ], [ -62.2411518, 16.7227019 ], [ -62.2345516, 16.7493714 ], [ -62.1990257, 16.8238428 ] ] ] ] } }
+]
+}

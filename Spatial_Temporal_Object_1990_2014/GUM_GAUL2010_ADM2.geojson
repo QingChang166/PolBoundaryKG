@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GUM_GAUL2010_ADM2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "GUM_GAUL2010_ADM2_16737", "ADM0_ISO3": "GUM", "ADM0_NAME": "Guam", "ADM0_CODE": 101, "ADM1_NAME": "Administrative unit not available", "ADM1_CODE": 1359, "ADM2_NAME": "Administrative unit not available", "ADM2_CODE": 16737, "GEOSET": "GAUL", "GEOSET_YEAR": 2010.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM2", "CENTROID_LONG": 144.77903373682707, "CENTROID_LAT": 13.44336057035324 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 144.8599855, 13.65433 ], [ 144.9059723, 13.6064959 ], [ 144.9561416, 13.5994441 ], [ 144.9257092, 13.5212184 ], [ 144.8917952, 13.5061432 ], [ 144.8071229, 13.4272812 ], [ 144.769549500000011, 13.3671322 ], [ 144.7724634, 13.3036366 ], [ 144.733109899999988, 13.2536275 ], [ 144.677473600000013, 13.2544071 ], [ 144.6443363, 13.3377875 ], [ 144.6624167, 13.4432994 ], [ 144.7254764, 13.4784086 ], [ 144.761459300000013, 13.4782013 ], [ 144.8375451, 13.5974041 ], [ 144.8599855, 13.65433 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "KIR_GAUL2014_ADM2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "KIR_GAUL2014_ADM2_18585", "ADM0_ISO3": "KIR", "ADM0_NAME": "Kiribati", "ADM0_CODE": 135, "ADM1_NAME": "Administrative unit not available", "ADM1_CODE": 1739, "ADM2_NAME": "Administrative unit not available", "ADM2_CODE": 18585, "GEOSET": "GAUL", "GEOSET_YEAR": 2014.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM2", "CENTROID_LONG": -157.22365071808565, "CENTROID_LAT": 1.5439326742451298 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -154.892175900000012, -3.9870551 ], [ -154.9253002, -4.0514007 ], [ -154.965846, -3.9986062 ], [ -154.892175900000012, -3.9870551 ] ] ], [ [ [ -157.4523859, 2.0483958 ], [ -157.3016994, 1.9651697 ], [ -157.345794899999987, 1.9041895 ], [ -157.3401194, 1.8447193 ], [ -157.292225800000011, 1.8074662 ], [ -157.1786504, 1.7640677 ], [ -157.1636944, 1.7141265 ], [ -157.211266, 1.6932789 ], [ -157.348638099999988, 1.7727968 ], [ -157.4365823, 1.7878314 ], [ -157.47901490000001, 1.8414808 ], [ -157.4742089, 1.8766963 ], [ -157.4204789, 1.9436081 ], [ -157.4523859, 2.0483958 ] ] ] ] } }
+]
+}

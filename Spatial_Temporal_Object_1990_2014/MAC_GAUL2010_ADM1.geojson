@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MAC_GAUL2010_ADM1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "MAC_GAUL2010_ADM1_1879", "ADM0_ISO3": "MAC", "ADM0_NAME": "Macau", "ADM0_CODE": 149, "ADM1_NAME": "Administrative unit not available", "ADM1_CODE": 1879, "GEOSET": "GAUL", "GEOSET_YEAR": 2010.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM1", "CENTROID_LONG": 113.54739893362228, "CENTROID_LAT": 22.199437065860376 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 113.5321887, 22.2079215 ], [ 113.5508911, 22.21452 ], [ 113.5656578, 22.188983 ], [ 113.5376668, 22.1880073 ], [ 113.5321887, 22.2079215 ] ] ] ] } }
+]
+}

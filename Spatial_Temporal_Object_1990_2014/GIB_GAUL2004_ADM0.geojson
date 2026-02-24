@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GIB_GAUL2004_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "GIB_GAUL2004_ADM0_95", "ADM0_ISO3": "GIB", "ADM0_NAME": "Gibraltar", "ADM0_CODE": 95, "GEOSET": "GAUL", "GEOSET_YEAR": 2004.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": -5.3476983733179217, "CENTROID_LAT": 36.143528700632665 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -5.3400269, 36.1597481 ], [ -5.3430729, 36.123436 ], [ -5.355525, 36.1313858 ], [ -5.3532219, 36.1597977 ], [ -5.3400269, 36.1597481 ] ] ] ] } }
+]
+}

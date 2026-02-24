@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NFK_GAUL2001_ADM1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "NFK_GAUL2001_ADM1_2242", "ADM0_ISO3": "NFK", "ADM0_NAME": "Norfolk Island", "ADM0_CODE": 184, "ADM1_NAME": "Administrative unit not available", "ADM1_CODE": 2242, "GEOSET": "GAUL", "GEOSET_YEAR": 2001.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM1", "CENTROID_LONG": 167.95276741414042, "CENTROID_LAT": -29.02965313724415 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 167.925796, -28.9955886 ], [ 167.991421699999989, -29.0268397 ], [ 167.982961499999988, -29.0569869 ], [ 167.919410199999987, -29.0432519 ], [ 167.925796, -28.9955886 ] ] ] ] } }
+]
+}

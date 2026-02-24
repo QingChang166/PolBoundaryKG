@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ABW_GAUL2008_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "ABW_GAUL2008_ADM0_14", "ADM0_ISO3": "ABW", "ADM0_NAME": "Aruba", "ADM0_CODE": 14, "GEOSET": "GAUL", "GEOSET_YEAR": 2008.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": -69.969571584831542, "CENTROID_LAT": 12.509361579782135 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -70.055348, 12.6232902 ], [ -70.0225757, 12.6016842 ], [ -69.9817749, 12.558071 ], [ -69.9412806, 12.5347312 ], [ -69.8883056, 12.4829722 ], [ -69.8654687, 12.4180416 ], [ -69.8742448, 12.4122046 ], [ -69.9208701, 12.4309807 ], [ -69.9824018, 12.475659 ], [ -70.009911, 12.488884 ], [ -70.0639489, 12.541673 ], [ -70.0448013, 12.5794954 ], [ -70.055348, 12.6232902 ] ] ] ] } }
+]
+}

@@ -48,7 +48,9 @@ for (i in 1:length(code_list)) {
   
   tryCatch(
     {
-      temp <- gadm(code_list[i], level=0, path = "~/Dropbox/PolBoundaryKG/R_Files/gadm")
+      temp <- gadm(code_list[i], level=0, 
+                   version = "4.1",
+                   path = "~/Dropbox/PolBoundaryKG/R_Files/gadm")
       temp <- as.data.frame(temp)
       
       admin0 <- bind_rows(admin0,temp)} , error = function(e) {

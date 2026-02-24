@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "AIA_GAUL1998_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "AIA_GAUL1998_ADM0_9", "ADM0_ISO3": "AIA", "ADM0_NAME": "Anguilla", "ADM0_CODE": 9, "GEOSET": "GAUL", "GEOSET_YEAR": 1998.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": -63.039711005554061, "CENTROID_LAT": 18.220621856261761 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -62.9686253, 18.2760675 ], [ -62.9864639, 18.2502093 ], [ -62.9852296, 18.2296149 ], [ -63.0144461, 18.2105035 ], [ -63.0698363, 18.1887606 ], [ -63.0898068, 18.1702822 ], [ -63.1170756, 18.1762597 ], [ -63.0668716, 18.2208091 ], [ -63.0454485, 18.2504264 ], [ -63.0013826, 18.2563467 ], [ -62.9686253, 18.2760675 ] ] ] ] } }
+]
+}

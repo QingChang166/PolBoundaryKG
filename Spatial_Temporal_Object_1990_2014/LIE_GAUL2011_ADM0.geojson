@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LIE_GAUL2011_ADM0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "LIE_GAUL2011_ADM0_146", "ADM0_ISO3": "LIE", "ADM0_NAME": "Liechtenstein", "ADM0_CODE": 146, "GEOSET": "GAUL", "GEOSET_YEAR": 2011.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM0", "CENTROID_LONG": 9.5554723537647028, "CENTROID_LAT": 47.144423252542524 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 9.6036599, 47.06155 ], [ 9.55605, 47.05684 ], [ 9.48709, 47.07436 ], [ 9.52463, 47.10658 ], [ 9.49521, 47.16862 ], [ 9.4929, 47.19213 ], [ 9.53591, 47.27354 ], [ 9.57989, 47.21074 ], [ 9.56944, 47.17679 ], [ 9.61831, 47.15363 ], [ 9.6321894, 47.0982485 ], [ 9.6036599, 47.06155 ] ] ] ] } }
+]
+}

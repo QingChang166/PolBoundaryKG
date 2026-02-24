@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BVT_GAUL1990_ADM1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POLYGON_ID": "BVT_GAUL1990_ADM1_664", "ADM0_ISO3": "BVT", "ADM0_NAME": "Bouvet Island", "ADM0_CODE": 36, "ADM1_NAME": "Administrative unit not available", "ADM1_CODE": 664, "GEOSET": "GAUL", "GEOSET_YEAR": 1990.0, "GEOSET_VERSION": "GAUL_v1", "GEOSET_UNIT": "ADM1", "CENTROID_LONG": 3.3663236683075177, "CENTROID_LAT": -54.420778309772864 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 3.4201945, -54.4408036 ], [ 3.3297453, -54.4506461 ], [ 3.3054455, -54.3992943 ], [ 3.3733175, -54.3912245 ], [ 3.4316174, -54.416882 ], [ 3.4201945, -54.4408036 ] ] ] ] } }
+]
+}
